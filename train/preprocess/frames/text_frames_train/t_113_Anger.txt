@@ -1,0 +1,179 @@
+0	Enggak-enggak, janji. Gue gak akan bahas MU, beneran.
+1	Enggak-enggak, janji. Gue gak akan bahas MU, beneran.
+2	Gue gak akan bahas MU, beneran.
+3	Gue gak akan bahas MU, beneran. Kan dari awal gue udah bilang kalau MU itu adalah pertandingan yang gak penting.
+4	Gue gak akan bahas MU, beneran. Kan dari awal gue udah bilang kalau MU itu adalah pertandingan yang gak penting.
+5	Kan dari awal gue udah bilang kalau MU itu adalah pertandingan yang gak penting.
+6	Kan dari awal gue udah bilang kalau MU itu adalah pertandingan yang gak penting.
+7	Kan dari awal gue udah bilang kalau MU itu adalah pertandingan yang gak penting.
+8	Kan dari awal gue udah bilang kalau MU itu adalah pertandingan yang gak penting.
+9	Kan dari awal gue udah bilang kalau MU itu adalah pertandingan yang gak penting.
+10	Kan dari awal gue udah bilang kalau MU itu adalah pertandingan yang gak penting. Apalagi di Liga Inggris salah sendiri.
+11	Kan dari awal gue udah bilang kalau MU itu adalah pertandingan yang gak penting. Apalagi di Liga Inggris salah sendiri.
+12	Apalagi di Liga Inggris salah sendiri.
+13	Apalagi di Liga Inggris salah sendiri. Kalian fans MU masih pada nonton.
+14	Apalagi di Liga Inggris salah sendiri. Kalian fans MU masih pada nonton.
+15	Kalian fans MU masih pada nonton.
+16	Kalian fans MU masih pada nonton.
+17	Kalian fans MU masih pada nonton.
+18	Kalian fans MU masih pada nonton. Kecuali kalian hatersnya MU.
+19	Kecuali kalian hatersnya MU.
+20	Kecuali kalian hatersnya MU.
+21	Kecuali kalian hatersnya MU. Mereka masih punya kewajiban jobdesk untuk bikin konten ngebully MU.
+22	Kecuali kalian hatersnya MU. Mereka masih punya kewajiban jobdesk untuk bikin konten ngebully MU.
+23	Mereka masih punya kewajiban jobdesk untuk bikin konten ngebully MU.
+24	Mereka masih punya kewajiban jobdesk untuk bikin konten ngebully MU.
+25	Mereka masih punya kewajiban jobdesk untuk bikin konten ngebully MU.
+26	Mereka masih punya kewajiban jobdesk untuk bikin konten ngebully MU.
+27	Mereka masih punya kewajiban jobdesk untuk bikin konten ngebully MU.
+28	Mereka masih punya kewajiban jobdesk untuk bikin konten ngebully MU.
+29	Mereka masih punya kewajiban jobdesk untuk bikin konten ngebully MU.
+30	Mereka masih punya kewajiban jobdesk untuk bikin konten ngebully MU.
+31	Mereka masih punya kewajiban jobdesk untuk bikin konten ngebully MU. Gak apa-apa, silahkan aja.
+32	Mereka masih punya kewajiban jobdesk untuk bikin konten ngebully MU. Gak apa-apa, silahkan aja.
+33	Gak apa-apa, silahkan aja. Kita udah rido, kita udah ikhlas.
+34	Gak apa-apa, silahkan aja. Kita udah rido, kita udah ikhlas.
+35	Kita udah rido, kita udah ikhlas.
+36	Kita udah rido, kita udah ikhlas.
+37	Kita udah rido, kita udah ikhlas. Kita gak akan balas.
+38	Kita gak akan balas.
+39	Kita gak akan balas.
+40	Kita gak akan balas. Tapi yang gak ikhlas itu adalah fansnya Real Madrid.
+41	Tapi yang gak ikhlas itu adalah fansnya Real Madrid.
+42	Tapi yang gak ikhlas itu adalah fansnya Real Madrid.
+43	Tapi yang gak ikhlas itu adalah fansnya Real Madrid.
+44	Tapi yang gak ikhlas itu adalah fansnya Real Madrid.
+45	Tapi yang gak ikhlas itu adalah fansnya Real Madrid.
+46	Tapi yang gak ikhlas itu adalah fansnya Real Madrid.
+47	Tapi yang gak ikhlas itu adalah fansnya Real Madrid.
+48	Wih, pertandingan penting tadi El Clasico.
+49	Wih, pertandingan penting tadi El Clasico.
+50	Wih, pertandingan penting tadi El Clasico.
+51	Wih, pertandingan penting tadi El Clasico.
+52	Wih, pertandingan penting tadi El Clasico.
+53	Wih, pertandingan penting tadi El Clasico. Tapi yaudah.
+54	Wih, pertandingan penting tadi El Clasico. Tapi yaudah.
+55	Tapi yaudah.
+56	Tapi yaudah.
+57	Tapi yaudah.
+58	Tapi yaudah.
+59	[NO_SPEECH]
+60	Melepaskan peluang La Liga musim kali ini kepada Barcelona.
+61	Melepaskan peluang La Liga musim kali ini kepada Barcelona.
+62	Melepaskan peluang La Liga musim kali ini kepada Barcelona.
+63	Melepaskan peluang La Liga musim kali ini kepada Barcelona.
+64	Melepaskan peluang La Liga musim kali ini kepada Barcelona.
+65	Melepaskan peluang La Liga musim kali ini kepada Barcelona.
+66	Melepaskan peluang La Liga musim kali ini kepada Barcelona.
+67	Melepaskan peluang La Liga musim kali ini kepada Barcelona.
+68	Melepaskan peluang La Liga musim kali ini kepada Barcelona.
+69	[NO_SPEECH]
+70	Tapi yang lebih gak ikhlas kayaknya Victor Munoz.
+71	Tapi yang lebih gak ikhlas kayaknya Victor Munoz.
+72	Tapi yang lebih gak ikhlas kayaknya Victor Munoz.
+73	Tapi yang lebih gak ikhlas kayaknya Victor Munoz.
+74	Tapi yang lebih gak ikhlas kayaknya Victor Munoz.
+75	Tapi yang lebih gak ikhlas kayaknya Victor Munoz.
+76	Tapi yang lebih gak ikhlas kayaknya Victor Munoz.
+77	Tapi yang lebih gak ikhlas kayaknya Victor Munoz.
+78	Punya peluang, bagus di depan gawang.
+79	Punya peluang, bagus di depan gawang.
+80	Punya peluang, bagus di depan gawang.
+81	Punya peluang, bagus di depan gawang.
+82	Punya peluang, bagus di depan gawang.
+83	Punya peluang, bagus di depan gawang.
+84	Punya peluang, bagus di depan gawang. Udah face-to-face sama Sisney.
+85	Punya peluang, bagus di depan gawang. Udah face-to-face sama Sisney.
+86	Udah face-to-face sama Sisney.
+87	Udah face-to-face sama Sisney.
+88	Udah face-to-face sama Sisney.
+89	Udah face-to-face sama Sisney.
+90	Udah face-to-face sama Sisney.
+91	Udah face-to-face sama Sisney.
+92	Udah face-to-face sama Sisney.
+93	Padahal kalau dia passing ke Hendrik kalau gak salah.
+94	Padahal kalau dia passing ke Hendrik kalau gak salah.
+95	Padahal kalau dia passing ke Hendrik kalau gak salah.
+96	Padahal kalau dia passing ke Hendrik kalau gak salah.
+97	Padahal kalau dia passing ke Hendrik kalau gak salah.
+98	Padahal kalau dia passing ke Hendrik kalau gak salah.
+99	Padahal kalau dia passing ke Hendrik kalau gak salah.
+100	Padahal kalau dia passing ke Hendrik kalau gak salah.
+101	Padahal kalau dia passing ke Hendrik kalau gak salah. Itu kesempatan goalnya bisa lebih banyak.
+102	Itu kesempatan goalnya bisa lebih banyak.
+103	Itu kesempatan goalnya bisa lebih banyak.
+104	Itu kesempatan goalnya bisa lebih banyak.
+105	Itu kesempatan goalnya bisa lebih banyak. Lebih besar.
+106	Itu kesempatan goalnya bisa lebih banyak. Lebih besar.
+107	Lebih besar.
+108	Lebih besar.
+109	Dan bakal lebih seru lagi.
+110	Dan bakal lebih seru lagi.
+111	Dan bakal lebih seru lagi.
+112	Dan bakal lebih seru lagi. Padahal Mbak Pil udah nyetak 3 goal, John.
+113	Dan bakal lebih seru lagi. Padahal Mbak Pil udah nyetak 3 goal, John.
+114	Padahal Mbak Pil udah nyetak 3 goal, John.
+115	Padahal Mbak Pil udah nyetak 3 goal, John.
+116	Padahal Mbak Pil udah nyetak 3 goal, John.
+117	Padahal Mbak Pil udah nyetak 3 goal, John. 3 goal.
+118	3 goal. Headtrick.
+119	3 goal. Headtrick.
+120	Headtrick.
+121	Headtrick.
+122	Nah, kalau menurut kalian kepemimpinan Wasid di pertandingan El Clasico.
+123	Nah, kalau menurut kalian kepemimpinan Wasid di pertandingan El Clasico.
+124	Nah, kalau menurut kalian kepemimpinan Wasid di pertandingan El Clasico.
+125	Nah, kalau menurut kalian kepemimpinan Wasid di pertandingan El Clasico.
+126	Nah, kalau menurut kalian kepemimpinan Wasid di pertandingan El Clasico.
+127	Nah, kalau menurut kalian kepemimpinan Wasid di pertandingan El Clasico.
+128	Nah, kalau menurut kalian kepemimpinan Wasid di pertandingan El Clasico.
+129	Nah, kalau menurut kalian kepemimpinan Wasid di pertandingan El Clasico.
+130	Nah, kalau menurut kalian kepemimpinan Wasid di pertandingan El Clasico.
+131	Nah, kalau menurut kalian kepemimpinan Wasid di pertandingan El Clasico.
+132	Nah, kalau menurut kalian kepemimpinan Wasid di pertandingan El Clasico. 1 sampai 10 berapa nilainya?
+133	1 sampai 10 berapa nilainya?
+134	1 sampai 10 berapa nilainya?
+135	1 sampai 10 berapa nilainya?
+136	1 sampai 10 berapa nilainya? Bakalan seru nih kalau kita ngomongin Wasid nih.
+137	1 sampai 10 berapa nilainya? Bakalan seru nih kalau kita ngomongin Wasid nih.
+138	Bakalan seru nih kalau kita ngomongin Wasid nih.
+139	Bakalan seru nih kalau kita ngomongin Wasid nih.
+140	Bakalan seru nih kalau kita ngomongin Wasid nih.
+141	Bakalan seru nih kalau kita ngomongin Wasid nih. Pertama ada kontroversinya Cuomeni.
+142	Pertama ada kontroversinya Cuomeni.
+143	Pertama ada kontroversinya Cuomeni.
+144	Pertama ada kontroversinya Cuomeni.
+145	Pertama ada kontroversinya Cuomeni.
+146	Pertama ada kontroversinya Cuomeni. Terus kontroversinya goal terakhirnya Barcelona yang dianulir goalnya karena tercipta handsball.
+147	Terus kontroversinya goal terakhirnya Barcelona yang dianulir goalnya karena tercipta handsball.
+148	Terus kontroversinya goal terakhirnya Barcelona yang dianulir goalnya karena tercipta handsball.
+149	Terus kontroversinya goal terakhirnya Barcelona yang dianulir goalnya karena tercipta handsball.
+150	Terus kontroversinya goal terakhirnya Barcelona yang dianulir goalnya karena tercipta handsball.
+151	Terus kontroversinya goal terakhirnya Barcelona yang dianulir goalnya karena tercipta handsball.
+152	Terus kontroversinya goal terakhirnya Barcelona yang dianulir goalnya karena tercipta handsball.
+153	Terus kontroversinya goal terakhirnya Barcelona yang dianulir goalnya karena tercipta handsball.
+154	Terus kontroversinya goal terakhirnya Barcelona yang dianulir goalnya karena tercipta handsball.
+155	Terus kontroversinya goal terakhirnya Barcelona yang dianulir goalnya karena tercipta handsball.
+156	Terus kontroversinya goal terakhirnya Barcelona yang dianulir goalnya karena tercipta handsball.
+157	Terus kontroversinya goal terakhirnya Barcelona yang dianulir goalnya karena tercipta handsball.
+158	Terus kontroversinya goal terakhirnya Barcelona yang dianulir goalnya karena tercipta handsball.
+159	Terus kontroversinya goal terakhirnya Barcelona yang dianulir goalnya karena tercipta handsball. Sebelum terjadi goal.
+160	Sebelum terjadi goal.
+161	Sebelum terjadi goal.
+162	Sebelum terjadi goal.
+163	Sebelum terjadi goal. Langsung kolom komentar.
+164	Langsung kolom komentar.
+165	Langsung kolom komentar. Kita debat di situ masalah penampilan Wasid El Clasico kali ini.
+166	Langsung kolom komentar. Kita debat di situ masalah penampilan Wasid El Clasico kali ini.
+167	Kita debat di situ masalah penampilan Wasid El Clasico kali ini.
+168	Kita debat di situ masalah penampilan Wasid El Clasico kali ini.
+169	Kita debat di situ masalah penampilan Wasid El Clasico kali ini.
+170	Kita debat di situ masalah penampilan Wasid El Clasico kali ini.
+171	Kita debat di situ masalah penampilan Wasid El Clasico kali ini.
+172	Kita debat di situ masalah penampilan Wasid El Clasico kali ini.
+173	Kita debat di situ masalah penampilan Wasid El Clasico kali ini.
+174	Kita debat di situ masalah penampilan Wasid El Clasico kali ini.
+175	Kita debat di situ masalah penampilan Wasid El Clasico kali ini. Sikat John.
+176	Kita debat di situ masalah penampilan Wasid El Clasico kali ini. Sikat John.
+177	Sikat John.
+178	[NO_SPEECH]

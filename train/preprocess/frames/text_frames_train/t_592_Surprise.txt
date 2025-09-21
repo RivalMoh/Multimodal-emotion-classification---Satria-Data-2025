@@ -1,0 +1,70 @@
+0	Ungu kali ini bukan janda, tapi sunscreen
+1	Ungu kali ini bukan janda, tapi sunscreen
+2	Ungu kali ini bukan janda, tapi sunscreen
+3	Ungu kali ini bukan janda, tapi sunscreen Kalo yang ijo, sebelumnya SPFnya 35
+4	Ungu kali ini bukan janda, tapi sunscreen Kalo yang ijo, sebelumnya SPFnya 35
+5	Kalo yang ijo, sebelumnya SPFnya 35
+6	Kalo yang ijo, sebelumnya SPFnya 35
+7	Kalo yang ijo, sebelumnya SPFnya 35
+8	Kalo yang ijo, sebelumnya SPFnya 35 Nah, si ungu ini udah 50 loh
+9	Kalo yang ijo, sebelumnya SPFnya 35 Nah, si ungu ini udah 50 loh
+10	Nah, si ungu ini udah 50 loh
+11	Nah, si ungu ini udah 50 loh
+12	Nah, si ungu ini udah 50 loh
+13	Nah, si ungu ini udah 50 loh Sama-sama matte, tapi yang baru matte-nya ekstra gitu
+14	Nah, si ungu ini udah 50 loh Sama-sama matte, tapi yang baru matte-nya ekstra gitu
+15	Sama-sama matte, tapi yang baru matte-nya ekstra gitu
+16	Sama-sama matte, tapi yang baru matte-nya ekstra gitu
+17	Sama-sama matte, tapi yang baru matte-nya ekstra gitu
+18	Sama-sama matte, tapi yang baru matte-nya ekstra gitu Coba deh pegang pipi aku
+19	Sama-sama matte, tapi yang baru matte-nya ekstra gitu Coba deh pegang pipi aku
+20	Coba deh pegang pipi aku
+21	Coba deh pegang pipi aku Oh, gak bisa ya?
+22	Coba deh pegang pipi aku Oh, gak bisa ya?
+23	Oh, gak bisa ya? Pokoknya ini bener-bener smooth, gak ada lengket samsek
+24	Oh, gak bisa ya? Pokoknya ini bener-bener smooth, gak ada lengket samsek
+25	Pokoknya ini bener-bener smooth, gak ada lengket samsek
+26	Pokoknya ini bener-bener smooth, gak ada lengket samsek
+27	Pokoknya ini bener-bener smooth, gak ada lengket samsek
+28	Pokoknya ini bener-bener smooth, gak ada lengket samsek Airy banget kan teksturnya?
+29	Pokoknya ini bener-bener smooth, gak ada lengket samsek Airy banget kan teksturnya?
+30	Airy banget kan teksturnya?
+31	Airy banget kan teksturnya?
+32	Airy banget kan teksturnya? Ruingan nge-blendnya gak effort
+33	Ruingan nge-blendnya gak effort
+34	Ruingan nge-blendnya gak effort
+35	Ruingan nge-blendnya gak effort Bahkan aku usrek begini pun, yes aman gak pedih
+36	Ruingan nge-blendnya gak effort Bahkan aku usrek begini pun, yes aman gak pedih
+37	Bahkan aku usrek begini pun, yes aman gak pedih
+38	Bahkan aku usrek begini pun, yes aman gak pedih
+39	Bahkan aku usrek begini pun, yes aman gak pedih
+40	Bahkan aku usrek begini pun, yes aman gak pedih
+41	Bahkan aku usrek begini pun, yes aman gak pedih
+42	Bahkan aku usrek begini pun, yes aman gak pedih Setelah ngeset, gak white cast pula
+43	Bahkan aku usrek begini pun, yes aman gak pedih Setelah ngeset, gak white cast pula
+44	Setelah ngeset, gak white cast pula
+45	Setelah ngeset, gak white cast pula
+46	Setelah ngeset, gak white cast pula Penampakan di UV cam gimana kak?
+47	Setelah ngeset, gak white cast pula Penampakan di UV cam gimana kak?
+48	Penampakan di UV cam gimana kak?
+49	Penampakan di UV cam gimana kak? Aman sayang pekat gini
+50	Penampakan di UV cam gimana kak? Aman sayang pekat gini
+51	Aman sayang pekat gini
+52	Aman sayang pekat gini Kurang puas validasinya
+53	Aman sayang pekat gini Kurang puas validasinya
+54	Kurang puas validasinya Nih, setelah 3 jam beraktifitas
+55	Kurang puas validasinya Nih, setelah 3 jam beraktifitas
+56	Nih, setelah 3 jam beraktifitas
+57	Nih, setelah 3 jam beraktifitas
+58	Nih, setelah 3 jam beraktifitas Tes minyak lolos lah ya
+59	Nih, setelah 3 jam beraktifitas Tes minyak lolos lah ya
+60	Tes minyak lolos lah ya
+61	Tes minyak lolos lah ya Ijo suka, ungu suka
+62	Tes minyak lolos lah ya Ijo suka, ungu suka
+63	Ijo suka, ungu suka
+64	Ijo suka, ungu suka Makin keren deh skin TV
+65	Ijo suka, ungu suka Makin keren deh skin TV
+66	Makin keren deh skin TV
+67	Makin keren deh skin TV
+68	Makin keren deh skin TV
+69	[NO_SPEECH]

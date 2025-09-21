@@ -1,0 +1,153 @@
+0	Kira-kira apakah Pak Tom itu ada sebuah regret?
+1	Kira-kira apakah Pak Tom itu ada sebuah regret?
+2	Kira-kira apakah Pak Tom itu ada sebuah regret?
+3	Kira-kira apakah Pak Tom itu ada sebuah regret?
+4	Kira-kira apakah Pak Tom itu ada sebuah regret?
+5	Kira-kira apakah Pak Tom itu ada sebuah regret? Wah tau gitu gue dulu gak jadi menteri.
+6	Kira-kira apakah Pak Tom itu ada sebuah regret? Wah tau gitu gue dulu gak jadi menteri.
+7	Wah tau gitu gue dulu gak jadi menteri.
+8	Wah tau gitu gue dulu gak jadi menteri.
+9	Wah tau gitu gue dulu gak jadi menteri.
+10	Wah tau gitu gue dulu gak jadi menteri. Ngapain gue jadi menteri gitu?
+11	Wah tau gitu gue dulu gak jadi menteri. Ngapain gue jadi menteri gitu?
+12	Ngapain gue jadi menteri gitu?
+13	Ngapain gue jadi menteri gitu? Beliau adalah pengusaha.
+14	Ngapain gue jadi menteri gitu? Beliau adalah pengusaha.
+15	Beliau adalah pengusaha.
+16	Beliau adalah pengusaha. Beliau adalah lulusan Harvard.
+17	Beliau adalah lulusan Harvard.
+18	Beliau adalah lulusan Harvard.
+19	Beliau adalah lulusan Harvard.
+20	Beliau adalah lulusan Harvard. Saya tuh selalu ngerasa harusnya orang-orang yang pinter,
+21	Beliau adalah lulusan Harvard. Saya tuh selalu ngerasa harusnya orang-orang yang pinter,
+22	Saya tuh selalu ngerasa harusnya orang-orang yang pinter,
+23	Saya tuh selalu ngerasa harusnya orang-orang yang pinter,
+24	Saya tuh selalu ngerasa harusnya orang-orang yang pinter,
+25	Saya tuh selalu ngerasa harusnya orang-orang yang pinter,
+26	Saya tuh selalu ngerasa harusnya orang-orang yang pinter,
+27	Saya tuh selalu ngerasa harusnya orang-orang yang pinter, orang-orang yang memiliki track record,
+28	Saya tuh selalu ngerasa harusnya orang-orang yang pinter, orang-orang yang memiliki track record,
+29	orang-orang yang memiliki track record,
+30	orang-orang yang memiliki track record,
+31	orang-orang yang memiliki track record, itu harus masuk ke pemerintahan supaya bisa berkontribusi gitu,
+32	orang-orang yang memiliki track record, itu harus masuk ke pemerintahan supaya bisa berkontribusi gitu,
+33	itu harus masuk ke pemerintahan supaya bisa berkontribusi gitu,
+34	itu harus masuk ke pemerintahan supaya bisa berkontribusi gitu,
+35	itu harus masuk ke pemerintahan supaya bisa berkontribusi gitu,
+36	itu harus masuk ke pemerintahan supaya bisa berkontribusi gitu,
+37	itu harus masuk ke pemerintahan supaya bisa berkontribusi gitu,
+38	itu harus masuk ke pemerintahan supaya bisa berkontribusi gitu,
+39	itu harus masuk ke pemerintahan supaya bisa berkontribusi gitu, memperbaiki sistem.
+40	itu harus masuk ke pemerintahan supaya bisa berkontribusi gitu, memperbaiki sistem.
+41	memperbaiki sistem.
+42	memperbaiki sistem. Tom itu tidak ada regret.
+43	Tom itu tidak ada regret.
+44	Tom itu tidak ada regret.
+45	Tom itu tidak ada regret. Gak ada regret dari mulai awal.
+46	Tom itu tidak ada regret. Gak ada regret dari mulai awal.
+47	Gak ada regret dari mulai awal.
+48	Gak ada regret dari mulai awal.
+49	Gak ada regret dari mulai awal.
+50	Gak ada regret dari mulai awal. Lingkungannya tau.
+51	Gak ada regret dari mulai awal. Lingkungannya tau.
+52	Lingkungannya tau. Dia ini salah satu yang paling konservatif.
+53	Lingkungannya tau. Dia ini salah satu yang paling konservatif.
+54	Dia ini salah satu yang paling konservatif.
+55	Dia ini salah satu yang paling konservatif. Dia tidak mau ambil sesuatu yang berisiko,
+56	Dia ini salah satu yang paling konservatif. Dia tidak mau ambil sesuatu yang berisiko,
+57	Dia tidak mau ambil sesuatu yang berisiko,
+58	Dia tidak mau ambil sesuatu yang berisiko,
+59	Dia tidak mau ambil sesuatu yang berisiko, yang tidak perlu.
+60	Dia tidak mau ambil sesuatu yang berisiko, yang tidak perlu.
+61	yang tidak perlu.
+62	yang tidak perlu. Semuanya adalah calculated risk.
+63	Semuanya adalah calculated risk.
+64	Semuanya adalah calculated risk.
+65	Semuanya adalah calculated risk.
+66	Semuanya adalah calculated risk. Maka dia terbangun reputasi sebagai orang yang berintegritas,
+67	Maka dia terbangun reputasi sebagai orang yang berintegritas,
+68	Maka dia terbangun reputasi sebagai orang yang berintegritas,
+69	Maka dia terbangun reputasi sebagai orang yang berintegritas,
+70	Maka dia terbangun reputasi sebagai orang yang berintegritas,
+71	Maka dia terbangun reputasi sebagai orang yang berintegritas,
+72	Maka dia terbangun reputasi sebagai orang yang berintegritas, orang yang bersih,
+73	Maka dia terbangun reputasi sebagai orang yang berintegritas, orang yang bersih, orang yang menyampaikan apa adanya.
+74	orang yang bersih, orang yang menyampaikan apa adanya.
+75	orang yang bersih, orang yang menyampaikan apa adanya.
+76	orang yang menyampaikan apa adanya.
+77	orang yang menyampaikan apa adanya. Kalau dia tidak konservatif,
+78	Kalau dia tidak konservatif,
+79	Kalau dia tidak konservatif, dia udah barangkali salah satu paling raksasa hari ini.
+80	Kalau dia tidak konservatif, dia udah barangkali salah satu paling raksasa hari ini.
+81	dia udah barangkali salah satu paling raksasa hari ini.
+82	dia udah barangkali salah satu paling raksasa hari ini.
+83	dia udah barangkali salah satu paling raksasa hari ini.
+84	dia udah barangkali salah satu paling raksasa hari ini. Di antara private equity fund ketika dia diundang untuk menjadi menteri perdagangan.
+85	dia udah barangkali salah satu paling raksasa hari ini. Di antara private equity fund ketika dia diundang untuk menjadi menteri perdagangan.
+86	Di antara private equity fund ketika dia diundang untuk menjadi menteri perdagangan.
+87	Di antara private equity fund ketika dia diundang untuk menjadi menteri perdagangan.
+88	Di antara private equity fund ketika dia diundang untuk menjadi menteri perdagangan.
+89	Di antara private equity fund ketika dia diundang untuk menjadi menteri perdagangan.
+90	Di antara private equity fund ketika dia diundang untuk menjadi menteri perdagangan.
+91	Di antara private equity fund ketika dia diundang untuk menjadi menteri perdagangan.
+92	Di antara private equity fund ketika dia diundang untuk menjadi menteri perdagangan.
+93	Di antara private equity fund ketika dia diundang untuk menjadi menteri perdagangan.
+94	Di antara private equity fund ketika dia diundang untuk menjadi menteri perdagangan.
+95	Di antara private equity fund ketika dia diundang untuk menjadi menteri perdagangan. Speech writer untuk Pak Presiden.
+96	Speech writer untuk Pak Presiden.
+97	Speech writer untuk Pak Presiden.
+98	Speech writer untuk Pak Presiden.
+99	Speech writer untuk Pak Presiden. Lalu akhirnya beliau di BKPM.
+100	Speech writer untuk Pak Presiden. Lalu akhirnya beliau di BKPM.
+101	Lalu akhirnya beliau di BKPM.
+102	Lalu akhirnya beliau di BKPM. Dan itu semua dikerjakan sebagai bagian dari public service.
+103	Dan itu semua dikerjakan sebagai bagian dari public service.
+104	Dan itu semua dikerjakan sebagai bagian dari public service.
+105	Dan itu semua dikerjakan sebagai bagian dari public service.
+106	Dan itu semua dikerjakan sebagai bagian dari public service. Bukan karena punya partai,
+107	Dan itu semua dikerjakan sebagai bagian dari public service. Bukan karena punya partai,
+108	Bukan karena punya partai,
+109	Bukan karena punya partai, karena kompetensi.
+110	Bukan karena punya partai, karena kompetensi.
+111	karena kompetensi. Gak ada tuh disambungin sama perusahaannya.
+112	karena kompetensi. Gak ada tuh disambungin sama perusahaannya.
+113	Gak ada tuh disambungin sama perusahaannya.
+114	Gak ada tuh disambungin sama perusahaannya.
+115	Gak ada tuh disambungin sama perusahaannya. Jadi kalau ditanya what's in it for me,
+116	Gak ada tuh disambungin sama perusahaannya. Jadi kalau ditanya what's in it for me,
+117	Jadi kalau ditanya what's in it for me,
+118	Jadi kalau ditanya what's in it for me, dia gak ada in it for me.
+119	Jadi kalau ditanya what's in it for me, dia gak ada in it for me.
+120	dia gak ada in it for me.
+121	dia gak ada in it for me. Dia lepas tuh baju korporasinya.
+122	dia gak ada in it for me. Dia lepas tuh baju korporasinya.
+123	Dia lepas tuh baju korporasinya.
+124	Dia lepas tuh baju korporasinya.
+125	Dia lepas tuh baju korporasinya.
+126	Dia lepas tuh baju korporasinya. Dia menjadi birokrasi.
+127	Dia lepas tuh baju korporasinya. Dia menjadi birokrasi.
+128	Dia menjadi birokrasi.
+129	Dia menjadi birokrasi. Kemudian ketika ini terjadi semua,
+130	Dia menjadi birokrasi. Kemudian ketika ini terjadi semua,
+131	Kemudian ketika ini terjadi semua,
+132	Kemudian ketika ini terjadi semua, yang muncul itu pernyataan justru jangan berhenti mencintai Indonesia.
+133	Kemudian ketika ini terjadi semua, yang muncul itu pernyataan justru jangan berhenti mencintai Indonesia.
+134	yang muncul itu pernyataan justru jangan berhenti mencintai Indonesia.
+135	yang muncul itu pernyataan justru jangan berhenti mencintai Indonesia.
+136	yang muncul itu pernyataan justru jangan berhenti mencintai Indonesia.
+137	yang muncul itu pernyataan justru jangan berhenti mencintai Indonesia.
+138	yang muncul itu pernyataan justru jangan berhenti mencintai Indonesia.
+139	yang muncul itu pernyataan justru jangan berhenti mencintai Indonesia. Itu kata dia,
+140	Itu kata dia,
+141	Itu kata dia, jangan lelah mencintai Indonesia.
+142	jangan lelah mencintai Indonesia.
+143	jangan lelah mencintai Indonesia.
+144	jangan lelah mencintai Indonesia. Cintailah Indonesia tanpa syarat.
+145	Cintailah Indonesia tanpa syarat.
+146	Cintailah Indonesia tanpa syarat.
+147	Cintailah Indonesia tanpa syarat.
+148	Cintailah Indonesia tanpa syarat.
+149	[NO_SPEECH]
+150	[NO_SPEECH]
+151	[NO_SPEECH]
+152	[NO_SPEECH]

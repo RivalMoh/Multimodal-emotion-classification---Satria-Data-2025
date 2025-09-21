@@ -1,0 +1,88 @@
+0	Weekend kok di rumah aja
+1	Weekend kok di rumah aja Keluar lah
+2	Weekend kok di rumah aja Keluar lah
+3	Keluar lah Sabtu produktif kali ini aku ikutan workshop menghias kue yang diadakan oleh Tubita
+4	Keluar lah Sabtu produktif kali ini aku ikutan workshop menghias kue yang diadakan oleh Tubita
+5	Sabtu produktif kali ini aku ikutan workshop menghias kue yang diadakan oleh Tubita
+6	Sabtu produktif kali ini aku ikutan workshop menghias kue yang diadakan oleh Tubita
+7	Sabtu produktif kali ini aku ikutan workshop menghias kue yang diadakan oleh Tubita
+8	Sabtu produktif kali ini aku ikutan workshop menghias kue yang diadakan oleh Tubita
+9	Sabtu produktif kali ini aku ikutan workshop menghias kue yang diadakan oleh Tubita
+10	Sabtu produktif kali ini aku ikutan workshop menghias kue yang diadakan oleh Tubita
+11	Sabtu produktif kali ini aku ikutan workshop menghias kue yang diadakan oleh Tubita Kita juga dikenalin koleksi terbaru mereka
+12	Sabtu produktif kali ini aku ikutan workshop menghias kue yang diadakan oleh Tubita Kita juga dikenalin koleksi terbaru mereka
+13	Kita juga dikenalin koleksi terbaru mereka
+14	Kita juga dikenalin koleksi terbaru mereka
+15	Kita juga dikenalin koleksi terbaru mereka Dan baru kita aja yang tau
+16	Kita juga dikenalin koleksi terbaru mereka Dan baru kita aja yang tau
+17	Dan baru kita aja yang tau
+18	Dan baru kita aja yang tau OMG koleksinya super cantik
+19	Dan baru kita aja yang tau OMG koleksinya super cantik
+20	OMG koleksinya super cantik
+21	OMG koleksinya super cantik
+22	OMG koleksinya super cantik Dan kalian bisa cek-cek aja kakunya Tubita untuk koleksi lainnya
+23	OMG koleksinya super cantik Dan kalian bisa cek-cek aja kakunya Tubita untuk koleksi lainnya
+24	Dan kalian bisa cek-cek aja kakunya Tubita untuk koleksi lainnya
+25	Dan kalian bisa cek-cek aja kakunya Tubita untuk koleksi lainnya
+26	Dan kalian bisa cek-cek aja kakunya Tubita untuk koleksi lainnya
+27	Dan kalian bisa cek-cek aja kakunya Tubita untuk koleksi lainnya Dan ini nih acara intinya
+28	Dan kalian bisa cek-cek aja kakunya Tubita untuk koleksi lainnya Dan ini nih acara intinya
+29	Dan ini nih acara intinya
+30	Dan ini nih acara intinya Yaitu menghias kue
+31	Dan ini nih acara intinya Yaitu menghias kue
+32	Yaitu menghias kue
+33	Yaitu menghias kue Semua bahan udah disediain
+34	Yaitu menghias kue Semua bahan udah disediain
+35	Semua bahan udah disediain Kita tinggal berkreaksi aja untuk menghiasnya
+36	Semua bahan udah disediain Kita tinggal berkreaksi aja untuk menghiasnya
+37	Kita tinggal berkreaksi aja untuk menghiasnya
+38	Kita tinggal berkreaksi aja untuk menghiasnya
+39	Kita tinggal berkreaksi aja untuk menghiasnya Kita juga diarahkan step by step oleh tim Kaula
+40	Kita tinggal berkreaksi aja untuk menghiasnya Kita juga diarahkan step by step oleh tim Kaula
+41	Kita juga diarahkan step by step oleh tim Kaula
+42	Kita juga diarahkan step by step oleh tim Kaula
+43	Kita juga diarahkan step by step oleh tim Kaula Jadi gak bingung deh apa aja yang harus dilakuin
+44	Kita juga diarahkan step by step oleh tim Kaula Jadi gak bingung deh apa aja yang harus dilakuin
+45	Jadi gak bingung deh apa aja yang harus dilakuin
+46	Jadi gak bingung deh apa aja yang harus dilakuin
+47	Jadi gak bingung deh apa aja yang harus dilakuin
+48	Jadi gak bingung deh apa aja yang harus dilakuin Jujur ternyata menghias kue kayak gini tuh gak bisa asal biar hasilnya maksimal
+49	Jadi gak bingung deh apa aja yang harus dilakuin Jujur ternyata menghias kue kayak gini tuh gak bisa asal biar hasilnya maksimal
+50	Jujur ternyata menghias kue kayak gini tuh gak bisa asal biar hasilnya maksimal
+51	Jujur ternyata menghias kue kayak gini tuh gak bisa asal biar hasilnya maksimal
+52	Jujur ternyata menghias kue kayak gini tuh gak bisa asal biar hasilnya maksimal
+53	Jujur ternyata menghias kue kayak gini tuh gak bisa asal biar hasilnya maksimal
+54	Jujur ternyata menghias kue kayak gini tuh gak bisa asal biar hasilnya maksimal Dan ini hasilnya
+55	Jujur ternyata menghias kue kayak gini tuh gak bisa asal biar hasilnya maksimal Dan ini hasilnya
+56	Dan ini hasilnya Gimana?
+57	Dan ini hasilnya Gimana? Nah sebagai pemula lumayan lah ya
+58	Gimana? Nah sebagai pemula lumayan lah ya
+59	Nah sebagai pemula lumayan lah ya
+60	Nah sebagai pemula lumayan lah ya
+61	Nah sebagai pemula lumayan lah ya Ah iya di acara ini juga aku dapet banyak banget produk dari Wardah, Tisa Beauty, Zanana
+62	Nah sebagai pemula lumayan lah ya Ah iya di acara ini juga aku dapet banyak banget produk dari Wardah, Tisa Beauty, Zanana
+63	Ah iya di acara ini juga aku dapet banyak banget produk dari Wardah, Tisa Beauty, Zanana
+64	Ah iya di acara ini juga aku dapet banyak banget produk dari Wardah, Tisa Beauty, Zanana
+65	Ah iya di acara ini juga aku dapet banyak banget produk dari Wardah, Tisa Beauty, Zanana
+66	Ah iya di acara ini juga aku dapet banyak banget produk dari Wardah, Tisa Beauty, Zanana
+67	Ah iya di acara ini juga aku dapet banyak banget produk dari Wardah, Tisa Beauty, Zanana
+68	Ah iya di acara ini juga aku dapet banyak banget produk dari Wardah, Tisa Beauty, Zanana
+69	Ah iya di acara ini juga aku dapet banyak banget produk dari Wardah, Tisa Beauty, Zanana
+70	Ah iya di acara ini juga aku dapet banyak banget produk dari Wardah, Tisa Beauty, Zanana
+71	Ah iya di acara ini juga aku dapet banyak banget produk dari Wardah, Tisa Beauty, Zanana Dan pastinya dari Tubita juga
+72	Ah iya di acara ini juga aku dapet banyak banget produk dari Wardah, Tisa Beauty, Zanana Dan pastinya dari Tubita juga
+73	Dan pastinya dari Tubita juga
+74	Dan pastinya dari Tubita juga Ah happy banget kegiatan kali ini
+75	Dan pastinya dari Tubita juga Ah happy banget kegiatan kali ini
+76	Ah happy banget kegiatan kali ini
+77	Ah happy banget kegiatan kali ini Karena gak cuma belajar menghias kue
+78	Ah happy banget kegiatan kali ini Karena gak cuma belajar menghias kue
+79	Karena gak cuma belajar menghias kue
+80	Karena gak cuma belajar menghias kue Pastinya juga menjalin silaturahmi sama komunitas Tubita
+81	Karena gak cuma belajar menghias kue Pastinya juga menjalin silaturahmi sama komunitas Tubita
+82	Pastinya juga menjalin silaturahmi sama komunitas Tubita
+83	Pastinya juga menjalin silaturahmi sama komunitas Tubita
+84	Pastinya juga menjalin silaturahmi sama komunitas Tubita
+85	Pastinya juga menjalin silaturahmi sama komunitas Tubita
+86	Pastinya juga menjalin silaturahmi sama komunitas Tubita
+87	[NO_SPEECH]

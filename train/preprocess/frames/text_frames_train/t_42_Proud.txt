@@ -1,0 +1,205 @@
+0	Fans HP compact yang berbahagia,
+1	Fans HP compact yang berbahagia,
+2	Fans HP compact yang berbahagia,
+3	Fans HP compact yang berbahagia,
+4	Fans HP compact yang berbahagia, kenalin Xiaomi 15.
+5	kenalin Xiaomi 15.
+6	kenalin Xiaomi 15.
+7	kenalin Xiaomi 15.
+8	kenalin Xiaomi 15. HP 6,36 inci dengan spek monster.
+9	HP 6,36 inci dengan spek monster.
+10	HP 6,36 inci dengan spek monster.
+11	HP 6,36 inci dengan spek monster.
+12	HP 6,36 inci dengan spek monster.
+13	HP 6,36 inci dengan spek monster.
+14	HP 6,36 inci dengan spek monster. Kita unboxing dulu dong.
+15	Kita unboxing dulu dong.
+16	Kita unboxing dulu dong.
+17	Kita unboxing dulu dong. Desain kotak warna putih dengan tulisan Xiaomi 15
+18	Kita unboxing dulu dong. Desain kotak warna putih dengan tulisan Xiaomi 15
+19	Desain kotak warna putih dengan tulisan Xiaomi 15
+20	Desain kotak warna putih dengan tulisan Xiaomi 15
+21	Desain kotak warna putih dengan tulisan Xiaomi 15
+22	Desain kotak warna putih dengan tulisan Xiaomi 15
+23	Desain kotak warna putih dengan tulisan Xiaomi 15 dan nggak ketinggalan gandengan si Leica.
+24	Desain kotak warna putih dengan tulisan Xiaomi 15 dan nggak ketinggalan gandengan si Leica.
+25	dan nggak ketinggalan gandengan si Leica.
+26	dan nggak ketinggalan gandengan si Leica.
+27	dan nggak ketinggalan gandengan si Leica.
+28	dan nggak ketinggalan gandengan si Leica.
+29	dan nggak ketinggalan gandengan si Leica.
+30	dan nggak ketinggalan gandengan si Leica. Leica yang warnanya berkarakter makin sedap kalau foto di lapangan.
+31	Leica yang warnanya berkarakter makin sedap kalau foto di lapangan.
+32	Leica yang warnanya berkarakter makin sedap kalau foto di lapangan.
+33	Leica yang warnanya berkarakter makin sedap kalau foto di lapangan.
+34	Leica yang warnanya berkarakter makin sedap kalau foto di lapangan.
+35	Leica yang warnanya berkarakter makin sedap kalau foto di lapangan.
+36	Leica yang warnanya berkarakter makin sedap kalau foto di lapangan.
+37	Leica yang warnanya berkarakter makin sedap kalau foto di lapangan.
+38	Leica yang warnanya berkarakter makin sedap kalau foto di lapangan.
+39	Leica yang warnanya berkarakter makin sedap kalau foto di lapangan. Kayak gini, pas saya ke pasar beliin titipan istri.
+40	Kayak gini, pas saya ke pasar beliin titipan istri.
+41	Kayak gini, pas saya ke pasar beliin titipan istri.
+42	Kayak gini, pas saya ke pasar beliin titipan istri.
+43	Kayak gini, pas saya ke pasar beliin titipan istri.
+44	Kayak gini, pas saya ke pasar beliin titipan istri.
+45	Kayak gini, pas saya ke pasar beliin titipan istri. Berasa lebih keren ya, lebih dramatis.
+46	Kayak gini, pas saya ke pasar beliin titipan istri. Berasa lebih keren ya, lebih dramatis.
+47	Berasa lebih keren ya, lebih dramatis.
+48	Berasa lebih keren ya, lebih dramatis.
+49	Berasa lebih keren ya, lebih dramatis.
+50	Berasa lebih keren ya, lebih dramatis.
+51	Berasa lebih keren ya, lebih dramatis. Makin ke lapangan, trio kamera 50MP-nya makin garang.
+52	Berasa lebih keren ya, lebih dramatis. Makin ke lapangan, trio kamera 50MP-nya makin garang.
+53	Makin ke lapangan, trio kamera 50MP-nya makin garang.
+54	Makin ke lapangan, trio kamera 50MP-nya makin garang.
+55	Makin ke lapangan, trio kamera 50MP-nya makin garang.
+56	Makin ke lapangan, trio kamera 50MP-nya makin garang.
+57	Makin ke lapangan, trio kamera 50MP-nya makin garang.
+58	Makin ke lapangan, trio kamera 50MP-nya makin garang.
+59	Makin ke lapangan, trio kamera 50MP-nya makin garang.
+60	Makin ke lapangan, trio kamera 50MP-nya makin garang. HP kecil yang nggak nanggung soal kamera ya.
+61	HP kecil yang nggak nanggung soal kamera ya.
+62	HP kecil yang nggak nanggung soal kamera ya.
+63	HP kecil yang nggak nanggung soal kamera ya.
+64	HP kecil yang nggak nanggung soal kamera ya.
+65	HP kecil yang nggak nanggung soal kamera ya.
+66	[NO_SPEECH]
+67	[NO_SPEECH]
+68	[NO_SPEECH]
+69	[NO_SPEECH]
+70	[NO_SPEECH]
+71	[NO_SPEECH]
+72	[NO_SPEECH]
+73	[NO_SPEECH]
+74	[NO_SPEECH]
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	Lanjut unboxing.
+81	Lanjut unboxing.
+82	Lanjut unboxing. Isinya ada casing, ada ucapan terima kasih,
+83	Lanjut unboxing. Isinya ada casing, ada ucapan terima kasih,
+84	Isinya ada casing, ada ucapan terima kasih,
+85	Isinya ada casing, ada ucapan terima kasih,
+86	Isinya ada casing, ada ucapan terima kasih,
+87	Isinya ada casing, ada ucapan terima kasih,
+88	Isinya ada casing, ada ucapan terima kasih, ada Xiaomi 15-nya, ada kabel USB-A to USB-C,
+89	ada Xiaomi 15-nya, ada kabel USB-A to USB-C,
+90	ada Xiaomi 15-nya, ada kabel USB-A to USB-C,
+91	ada Xiaomi 15-nya, ada kabel USB-A to USB-C,
+92	ada Xiaomi 15-nya, ada kabel USB-A to USB-C,
+93	ada Xiaomi 15-nya, ada kabel USB-A to USB-C,
+94	ada Xiaomi 15-nya, ada kabel USB-A to USB-C,
+95	ada Xiaomi 15-nya, ada kabel USB-A to USB-C,
+96	ada Xiaomi 15-nya, ada kabel USB-A to USB-C, dan charger 90W.
+97	dan charger 90W.
+98	dan charger 90W.
+99	dan charger 90W.
+100	dan charger 90W. Desain HP-nya lumayan mirip Xiaomi 14 ya.
+101	Desain HP-nya lumayan mirip Xiaomi 14 ya.
+102	Desain HP-nya lumayan mirip Xiaomi 14 ya.
+103	Desain HP-nya lumayan mirip Xiaomi 14 ya.
+104	Desain HP-nya lumayan mirip Xiaomi 14 ya.
+105	Desain HP-nya lumayan mirip Xiaomi 14 ya. Bentuk kameranya kotak, frame juga lebih kotak.
+106	Desain HP-nya lumayan mirip Xiaomi 14 ya. Bentuk kameranya kotak, frame juga lebih kotak.
+107	Bentuk kameranya kotak, frame juga lebih kotak.
+108	Bentuk kameranya kotak, frame juga lebih kotak.
+109	Bentuk kameranya kotak, frame juga lebih kotak.
+110	Bentuk kameranya kotak, frame juga lebih kotak.
+111	Bentuk kameranya kotak, frame juga lebih kotak. Kaku, yang bahannya dari aluminium ya.
+112	Bentuk kameranya kotak, frame juga lebih kotak. Kaku, yang bahannya dari aluminium ya.
+113	Kaku, yang bahannya dari aluminium ya.
+114	Kaku, yang bahannya dari aluminium ya.
+115	Kaku, yang bahannya dari aluminium ya. Kaca belakangnya punya tekstur matte,
+116	Kaku, yang bahannya dari aluminium ya. Kaca belakangnya punya tekstur matte,
+117	Kaca belakangnya punya tekstur matte,
+118	Kaca belakangnya punya tekstur matte,
+119	Kaca belakangnya punya tekstur matte, dan tentu aja HP-nya tahan air.
+120	Kaca belakangnya punya tekstur matte, dan tentu aja HP-nya tahan air.
+121	dan tentu aja HP-nya tahan air.
+122	dan tentu aja HP-nya tahan air.
+123	dan tentu aja HP-nya tahan air. Bezel layarnya, hmm, tipis.
+124	dan tentu aja HP-nya tahan air. Bezel layarnya, hmm, tipis.
+125	Bezel layarnya, hmm, tipis.
+126	Bezel layarnya, hmm, tipis.
+127	Bezel layarnya, hmm, tipis.
+128	Bezel layarnya, hmm, tipis. 1,38mm doang.
+129	Bezel layarnya, hmm, tipis. 1,38mm doang.
+130	1,38mm doang.
+131	1,38mm doang.
+132	1,38mm doang. Screen to body ratio sampai 94%.
+133	1,38mm doang. Screen to body ratio sampai 94%.
+134	Screen to body ratio sampai 94%.
+135	Screen to body ratio sampai 94%.
+136	Screen to body ratio sampai 94%.
+137	Screen to body ratio sampai 94%.
+138	Screen to body ratio sampai 94%. Jadi nggak buang-buang ruang,
+139	Screen to body ratio sampai 94%. Jadi nggak buang-buang ruang,
+140	Jadi nggak buang-buang ruang,
+141	Jadi nggak buang-buang ruang, dan bikin body HP-nya bisa lebih ramping lagi.
+142	Jadi nggak buang-buang ruang, dan bikin body HP-nya bisa lebih ramping lagi.
+143	dan bikin body HP-nya bisa lebih ramping lagi.
+144	dan bikin body HP-nya bisa lebih ramping lagi.
+145	dan bikin body HP-nya bisa lebih ramping lagi.
+146	dan bikin body HP-nya bisa lebih ramping lagi. Dan hebatnya, body yang kecil ini nggak jadi batasan buat performanya.
+147	Dan hebatnya, body yang kecil ini nggak jadi batasan buat performanya.
+148	Dan hebatnya, body yang kecil ini nggak jadi batasan buat performanya.
+149	Dan hebatnya, body yang kecil ini nggak jadi batasan buat performanya.
+150	Dan hebatnya, body yang kecil ini nggak jadi batasan buat performanya.
+151	Dan hebatnya, body yang kecil ini nggak jadi batasan buat performanya.
+152	Dan hebatnya, body yang kecil ini nggak jadi batasan buat performanya.
+153	Dan hebatnya, body yang kecil ini nggak jadi batasan buat performanya.
+154	Dan hebatnya, body yang kecil ini nggak jadi batasan buat performanya.
+155	Dan hebatnya, body yang kecil ini nggak jadi batasan buat performanya. Prosesor tetap yang paling baru, paling kenceng Snapdragon 8 Elite.
+156	Prosesor tetap yang paling baru, paling kenceng Snapdragon 8 Elite.
+157	Prosesor tetap yang paling baru, paling kenceng Snapdragon 8 Elite.
+158	Prosesor tetap yang paling baru, paling kenceng Snapdragon 8 Elite.
+159	Prosesor tetap yang paling baru, paling kenceng Snapdragon 8 Elite.
+160	Prosesor tetap yang paling baru, paling kenceng Snapdragon 8 Elite.
+161	Prosesor tetap yang paling baru, paling kenceng Snapdragon 8 Elite.
+162	Prosesor tetap yang paling baru, paling kenceng Snapdragon 8 Elite.
+163	Prosesor tetap yang paling baru, paling kenceng Snapdragon 8 Elite. Baterai tetap gede, sampai 5.240 mAh,
+164	Baterai tetap gede, sampai 5.240 mAh,
+165	Baterai tetap gede, sampai 5.240 mAh,
+166	Baterai tetap gede, sampai 5.240 mAh,
+167	Baterai tetap gede, sampai 5.240 mAh,
+168	Baterai tetap gede, sampai 5.240 mAh,
+169	Baterai tetap gede, sampai 5.240 mAh,
+170	Baterai tetap gede, sampai 5.240 mAh,
+171	Baterai tetap gede, sampai 5.240 mAh, dengan charging 90W.
+172	dengan charging 90W.
+173	dengan charging 90W.
+174	dengan charging 90W. Wireless charging 50W.
+175	dengan charging 90W. Wireless charging 50W.
+176	Wireless charging 50W.
+177	Wireless charging 50W. Xiaomi 15, user HP compact makin berbahagia dah.
+178	Wireless charging 50W. Xiaomi 15, user HP compact makin berbahagia dah.
+179	Xiaomi 15, user HP compact makin berbahagia dah.
+180	Xiaomi 15, user HP compact makin berbahagia dah.
+181	Xiaomi 15, user HP compact makin berbahagia dah.
+182	Xiaomi 15, user HP compact makin berbahagia dah.
+183	Xiaomi 15, user HP compact makin berbahagia dah.
+184	Xiaomi 15, user HP compact makin berbahagia dah. Performa nggak kepentok ukuran lagi.
+185	Xiaomi 15, user HP compact makin berbahagia dah. Performa nggak kepentok ukuran lagi.
+186	Performa nggak kepentok ukuran lagi.
+187	Performa nggak kepentok ukuran lagi.
+188	Performa nggak kepentok ukuran lagi. Buat reviewnya udah tayang di Youtube ya.
+189	Performa nggak kepentok ukuran lagi. Buat reviewnya udah tayang di Youtube ya.
+190	Buat reviewnya udah tayang di Youtube ya.
+191	Buat reviewnya udah tayang di Youtube ya.
+192	Buat reviewnya udah tayang di Youtube ya. Kalau pengen info yang lebih detail soal Xiaomi 15,
+193	Buat reviewnya udah tayang di Youtube ya. Kalau pengen info yang lebih detail soal Xiaomi 15,
+194	Kalau pengen info yang lebih detail soal Xiaomi 15,
+195	Kalau pengen info yang lebih detail soal Xiaomi 15,
+196	Kalau pengen info yang lebih detail soal Xiaomi 15,
+197	Kalau pengen info yang lebih detail soal Xiaomi 15,
+198	Kalau pengen info yang lebih detail soal Xiaomi 15, bisa langsung mampir saya kesana.
+199	bisa langsung mampir saya kesana.
+200	bisa langsung mampir saya kesana.
+201	bisa langsung mampir saya kesana.
+202	bisa langsung mampir saya kesana.
+203	bisa langsung mampir saya kesana.
+204	[NO_SPEECH]

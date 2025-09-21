@@ -1,0 +1,96 @@
+0	Kebanyakan orang berpikir ini obat yang terbaik.
+1	Kebanyakan orang berpikir ini obat yang terbaik.
+2	Kebanyakan orang berpikir ini obat yang terbaik.
+3	Kebanyakan orang berpikir ini obat yang terbaik. Tapi sebenarnya ini obat yang terbaik.
+4	Kebanyakan orang berpikir ini obat yang terbaik. Tapi sebenarnya ini obat yang terbaik.
+5	Tapi sebenarnya ini obat yang terbaik.
+6	Tapi sebenarnya ini obat yang terbaik.
+7	Tapi sebenarnya ini obat yang terbaik.
+8	Tapi sebenarnya ini obat yang terbaik. Ilmuwan Yunani Hippocrates berkata,
+9	Ilmuwan Yunani Hippocrates berkata,
+10	Ilmuwan Yunani Hippocrates berkata,
+11	Ilmuwan Yunani Hippocrates berkata,
+12	Ilmuwan Yunani Hippocrates berkata, jadikanlah makanan sebagai obat bagi tubuh kita.
+13	Ilmuwan Yunani Hippocrates berkata, jadikanlah makanan sebagai obat bagi tubuh kita.
+14	jadikanlah makanan sebagai obat bagi tubuh kita.
+15	jadikanlah makanan sebagai obat bagi tubuh kita.
+16	jadikanlah makanan sebagai obat bagi tubuh kita.
+17	jadikanlah makanan sebagai obat bagi tubuh kita.
+18	jadikanlah makanan sebagai obat bagi tubuh kita. By the way, Hippocrates adalah bapak kedokteran modern.
+19	jadikanlah makanan sebagai obat bagi tubuh kita. By the way, Hippocrates adalah bapak kedokteran modern.
+20	By the way, Hippocrates adalah bapak kedokteran modern.
+21	By the way, Hippocrates adalah bapak kedokteran modern.
+22	By the way, Hippocrates adalah bapak kedokteran modern.
+23	By the way, Hippocrates adalah bapak kedokteran modern.
+24	By the way, Hippocrates adalah bapak kedokteran modern. Kebanyakan penyakit zaman sekarang seperti darah tinggi, diabetes, obesitas, asam urat,
+25	By the way, Hippocrates adalah bapak kedokteran modern. Kebanyakan penyakit zaman sekarang seperti darah tinggi, diabetes, obesitas, asam urat,
+26	Kebanyakan penyakit zaman sekarang seperti darah tinggi, diabetes, obesitas, asam urat,
+27	Kebanyakan penyakit zaman sekarang seperti darah tinggi, diabetes, obesitas, asam urat,
+28	Kebanyakan penyakit zaman sekarang seperti darah tinggi, diabetes, obesitas, asam urat,
+29	Kebanyakan penyakit zaman sekarang seperti darah tinggi, diabetes, obesitas, asam urat,
+30	Kebanyakan penyakit zaman sekarang seperti darah tinggi, diabetes, obesitas, asam urat,
+31	Kebanyakan penyakit zaman sekarang seperti darah tinggi, diabetes, obesitas, asam urat,
+32	Kebanyakan penyakit zaman sekarang seperti darah tinggi, diabetes, obesitas, asam urat,
+33	Kebanyakan penyakit zaman sekarang seperti darah tinggi, diabetes, obesitas, asam urat,
+34	Kebanyakan penyakit zaman sekarang seperti darah tinggi, diabetes, obesitas, asam urat, dan masih banyak lagi disebabkan oleh gaya hidup yang tidak sehat,
+35	Kebanyakan penyakit zaman sekarang seperti darah tinggi, diabetes, obesitas, asam urat, dan masih banyak lagi disebabkan oleh gaya hidup yang tidak sehat,
+36	dan masih banyak lagi disebabkan oleh gaya hidup yang tidak sehat,
+37	dan masih banyak lagi disebabkan oleh gaya hidup yang tidak sehat,
+38	dan masih banyak lagi disebabkan oleh gaya hidup yang tidak sehat,
+39	dan masih banyak lagi disebabkan oleh gaya hidup yang tidak sehat,
+40	dan masih banyak lagi disebabkan oleh gaya hidup yang tidak sehat,
+41	dan masih banyak lagi disebabkan oleh gaya hidup yang tidak sehat, terutama pola makan yang tidak teratur.
+42	dan masih banyak lagi disebabkan oleh gaya hidup yang tidak sehat, terutama pola makan yang tidak teratur.
+43	terutama pola makan yang tidak teratur.
+44	terutama pola makan yang tidak teratur.
+45	terutama pola makan yang tidak teratur.
+46	terutama pola makan yang tidak teratur. Karena makanan dan minuman yang kamu konsumsi setiap hari bisa menjadi sumber kesehatan atau sumber penyakit.
+47	terutama pola makan yang tidak teratur. Karena makanan dan minuman yang kamu konsumsi setiap hari bisa menjadi sumber kesehatan atau sumber penyakit.
+48	Karena makanan dan minuman yang kamu konsumsi setiap hari bisa menjadi sumber kesehatan atau sumber penyakit.
+49	Karena makanan dan minuman yang kamu konsumsi setiap hari bisa menjadi sumber kesehatan atau sumber penyakit.
+50	Karena makanan dan minuman yang kamu konsumsi setiap hari bisa menjadi sumber kesehatan atau sumber penyakit.
+51	Karena makanan dan minuman yang kamu konsumsi setiap hari bisa menjadi sumber kesehatan atau sumber penyakit.
+52	Karena makanan dan minuman yang kamu konsumsi setiap hari bisa menjadi sumber kesehatan atau sumber penyakit.
+53	Karena makanan dan minuman yang kamu konsumsi setiap hari bisa menjadi sumber kesehatan atau sumber penyakit.
+54	Karena makanan dan minuman yang kamu konsumsi setiap hari bisa menjadi sumber kesehatan atau sumber penyakit.
+55	Karena makanan dan minuman yang kamu konsumsi setiap hari bisa menjadi sumber kesehatan atau sumber penyakit.
+56	Karena makanan dan minuman yang kamu konsumsi setiap hari bisa menjadi sumber kesehatan atau sumber penyakit.
+57	Karena makanan dan minuman yang kamu konsumsi setiap hari bisa menjadi sumber kesehatan atau sumber penyakit. Simpelnya menambahkan refoods dan mengurangi makanan kemasan.
+58	Karena makanan dan minuman yang kamu konsumsi setiap hari bisa menjadi sumber kesehatan atau sumber penyakit. Simpelnya menambahkan refoods dan mengurangi makanan kemasan.
+59	Simpelnya menambahkan refoods dan mengurangi makanan kemasan.
+60	Simpelnya menambahkan refoods dan mengurangi makanan kemasan.
+61	Simpelnya menambahkan refoods dan mengurangi makanan kemasan.
+62	Simpelnya menambahkan refoods dan mengurangi makanan kemasan.
+63	Simpelnya menambahkan refoods dan mengurangi makanan kemasan. Protein, sayur, buah, dan kabuhidrat kompleks harus menjadi makanan pokok kamu,
+64	Simpelnya menambahkan refoods dan mengurangi makanan kemasan. Protein, sayur, buah, dan kabuhidrat kompleks harus menjadi makanan pokok kamu,
+65	Protein, sayur, buah, dan kabuhidrat kompleks harus menjadi makanan pokok kamu,
+66	Protein, sayur, buah, dan kabuhidrat kompleks harus menjadi makanan pokok kamu,
+67	Protein, sayur, buah, dan kabuhidrat kompleks harus menjadi makanan pokok kamu,
+68	Protein, sayur, buah, dan kabuhidrat kompleks harus menjadi makanan pokok kamu,
+69	Protein, sayur, buah, dan kabuhidrat kompleks harus menjadi makanan pokok kamu,
+70	Protein, sayur, buah, dan kabuhidrat kompleks harus menjadi makanan pokok kamu,
+71	Protein, sayur, buah, dan kabuhidrat kompleks harus menjadi makanan pokok kamu,
+72	Protein, sayur, buah, dan kabuhidrat kompleks harus menjadi makanan pokok kamu,
+73	Protein, sayur, buah, dan kabuhidrat kompleks harus menjadi makanan pokok kamu,
+74	Protein, sayur, buah, dan kabuhidrat kompleks harus menjadi makanan pokok kamu,
+75	Protein, sayur, buah, dan kabuhidrat kompleks harus menjadi makanan pokok kamu,
+76	Protein, sayur, buah, dan kabuhidrat kompleks harus menjadi makanan pokok kamu, bukan makanan seperti ini.
+77	Protein, sayur, buah, dan kabuhidrat kompleks harus menjadi makanan pokok kamu, bukan makanan seperti ini.
+78	bukan makanan seperti ini.
+79	bukan makanan seperti ini.
+80	bukan makanan seperti ini. Intinya utamakan ini supaya kamu bisa bebas dari ini,
+81	bukan makanan seperti ini. Intinya utamakan ini supaya kamu bisa bebas dari ini,
+82	Intinya utamakan ini supaya kamu bisa bebas dari ini,
+83	Intinya utamakan ini supaya kamu bisa bebas dari ini,
+84	Intinya utamakan ini supaya kamu bisa bebas dari ini,
+85	Intinya utamakan ini supaya kamu bisa bebas dari ini,
+86	Intinya utamakan ini supaya kamu bisa bebas dari ini, atau tidak atur pola makamu, tapi nanti kamu diatur oleh ini.
+87	Intinya utamakan ini supaya kamu bisa bebas dari ini, atau tidak atur pola makamu, tapi nanti kamu diatur oleh ini.
+88	atau tidak atur pola makamu, tapi nanti kamu diatur oleh ini.
+89	atau tidak atur pola makamu, tapi nanti kamu diatur oleh ini.
+90	atau tidak atur pola makamu, tapi nanti kamu diatur oleh ini.
+91	atau tidak atur pola makamu, tapi nanti kamu diatur oleh ini.
+92	atau tidak atur pola makamu, tapi nanti kamu diatur oleh ini.
+93	atau tidak atur pola makamu, tapi nanti kamu diatur oleh ini.
+94	atau tidak atur pola makamu, tapi nanti kamu diatur oleh ini.
+95	[NO_SPEECH]

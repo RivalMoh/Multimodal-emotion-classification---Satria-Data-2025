@@ -1,0 +1,245 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	.
+5	.
+6	.
+7	.
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	Polo Air Putra DKI Jakarta rebut medali emas usai kalahkan Jabar lewat drama adu penalti.
+28	Polo Air Putra DKI Jakarta rebut medali emas usai kalahkan Jabar lewat drama adu penalti.
+29	Polo Air Putra DKI Jakarta rebut medali emas usai kalahkan Jabar lewat drama adu penalti.
+30	Polo Air Putra DKI Jakarta rebut medali emas usai kalahkan Jabar lewat drama adu penalti.
+31	Polo Air Putra DKI Jakarta rebut medali emas usai kalahkan Jabar lewat drama adu penalti.
+32	Polo Air Putra DKI Jakarta rebut medali emas usai kalahkan Jabar lewat drama adu penalti.
+33	Polo Air Putra DKI Jakarta rebut medali emas usai kalahkan Jabar lewat drama adu penalti.
+34	Polo Air Putra DKI Jakarta rebut medali emas usai kalahkan Jabar lewat drama adu penalti.
+35	Polo Air Putra DKI Jakarta rebut medali emas usai kalahkan Jabar lewat drama adu penalti.
+36	Polo Air Putra DKI Jakarta rebut medali emas usai kalahkan Jabar lewat drama adu penalti.
+37	Polo Air Putra DKI Jakarta rebut medali emas usai kalahkan Jabar lewat drama adu penalti.
+38	Polo Air Putra DKI Jakarta rebut medali emas usai kalahkan Jabar lewat drama adu penalti.
+39	Polo Air Putra DKI Jakarta rebut medali emas usai kalahkan Jabar lewat drama adu penalti.
+40	Polo Air Putra DKI Jakarta rebut medali emas usai kalahkan Jabar lewat drama adu penalti.
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	Tim Polo Air Putra DKI Jakarta berhasil meraih medali emas PON21 Aceh-Sumatera Utara 2024.
+45	Tim Polo Air Putra DKI Jakarta berhasil meraih medali emas PON21 Aceh-Sumatera Utara 2024.
+46	Tim Polo Air Putra DKI Jakarta berhasil meraih medali emas PON21 Aceh-Sumatera Utara 2024.
+47	Tim Polo Air Putra DKI Jakarta berhasil meraih medali emas PON21 Aceh-Sumatera Utara 2024.
+48	Tim Polo Air Putra DKI Jakarta berhasil meraih medali emas PON21 Aceh-Sumatera Utara 2024.
+49	Tim Polo Air Putra DKI Jakarta berhasil meraih medali emas PON21 Aceh-Sumatera Utara 2024.
+50	Tim Polo Air Putra DKI Jakarta berhasil meraih medali emas PON21 Aceh-Sumatera Utara 2024.
+51	Tim Polo Air Putra DKI Jakarta berhasil meraih medali emas PON21 Aceh-Sumatera Utara 2024.
+52	Tim Polo Air Putra DKI Jakarta berhasil meraih medali emas PON21 Aceh-Sumatera Utara 2024.
+53	Tim Polo Air Putra DKI Jakarta berhasil meraih medali emas PON21 Aceh-Sumatera Utara 2024.
+54	Tim Polo Air Putra DKI Jakarta berhasil meraih medali emas PON21 Aceh-Sumatera Utara 2024.
+55	Tim Polo Air Putra DKI Jakarta berhasil meraih medali emas PON21 Aceh-Sumatera Utara 2024.
+56	Tim Polo Air Putra DKI Jakarta berhasil meraih medali emas PON21 Aceh-Sumatera Utara 2024.
+57	Tim Polo Air Putra DKI Jakarta berhasil meraih medali emas PON21 Aceh-Sumatera Utara 2024.
+58	Tim Polo Air Putra DKI Jakarta berhasil meraih medali emas PON21 Aceh-Sumatera Utara 2024.
+59	[NO_SPEECH]
+60	[NO_SPEECH]
+61	[NO_SPEECH]
+62	[NO_SPEECH]
+63	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+64	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+65	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+66	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+67	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+68	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+69	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+70	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+71	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+72	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+73	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+74	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+75	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+76	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+77	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+78	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+79	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+80	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+81	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+82	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+83	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+84	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+85	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+86	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+87	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+88	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+89	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+90	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+91	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+92	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+93	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+94	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+95	Di pertandingan terakhir Polo Air Putra DKI Jakarta menang dramatis atas Jawa Barat lewat adu penalti dengan skor 20-19 di Kolam Renang Selayang, Disporasu, Medan, Sumatera Utara, Minggu, 8 September 2024.
+96	[NO_SPEECH]
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	Menggunakan sistem round robin, DKI Jakarta bertengger di puncak kelasemen usai meraih 4 kemenangan dengan raihan 12 poin.
+103	Menggunakan sistem round robin, DKI Jakarta bertengger di puncak kelasemen usai meraih 4 kemenangan dengan raihan 12 poin.
+104	Menggunakan sistem round robin, DKI Jakarta bertengger di puncak kelasemen usai meraih 4 kemenangan dengan raihan 12 poin.
+105	Menggunakan sistem round robin, DKI Jakarta bertengger di puncak kelasemen usai meraih 4 kemenangan dengan raihan 12 poin.
+106	Menggunakan sistem round robin, DKI Jakarta bertengger di puncak kelasemen usai meraih 4 kemenangan dengan raihan 12 poin.
+107	Menggunakan sistem round robin, DKI Jakarta bertengger di puncak kelasemen usai meraih 4 kemenangan dengan raihan 12 poin.
+108	Menggunakan sistem round robin, DKI Jakarta bertengger di puncak kelasemen usai meraih 4 kemenangan dengan raihan 12 poin.
+109	Menggunakan sistem round robin, DKI Jakarta bertengger di puncak kelasemen usai meraih 4 kemenangan dengan raihan 12 poin.
+110	Menggunakan sistem round robin, DKI Jakarta bertengger di puncak kelasemen usai meraih 4 kemenangan dengan raihan 12 poin.
+111	Menggunakan sistem round robin, DKI Jakarta bertengger di puncak kelasemen usai meraih 4 kemenangan dengan raihan 12 poin.
+112	Menggunakan sistem round robin, DKI Jakarta bertengger di puncak kelasemen usai meraih 4 kemenangan dengan raihan 12 poin.
+113	Menggunakan sistem round robin, DKI Jakarta bertengger di puncak kelasemen usai meraih 4 kemenangan dengan raihan 12 poin.
+114	Menggunakan sistem round robin, DKI Jakarta bertengger di puncak kelasemen usai meraih 4 kemenangan dengan raihan 12 poin.
+115	Menggunakan sistem round robin, DKI Jakarta bertengger di puncak kelasemen usai meraih 4 kemenangan dengan raihan 12 poin.
+116	Menggunakan sistem round robin, DKI Jakarta bertengger di puncak kelasemen usai meraih 4 kemenangan dengan raihan 12 poin.
+117	Menggunakan sistem round robin, DKI Jakarta bertengger di puncak kelasemen usai meraih 4 kemenangan dengan raihan 12 poin.
+118	DKI Jakarta berhak meraih medali emas, sedangkan Jabar berhak medali perak dengan 9 poin dari 3 kali menang.
+119	DKI Jakarta berhak meraih medali emas, sedangkan Jabar berhak medali perak dengan 9 poin dari 3 kali menang.
+120	DKI Jakarta berhak meraih medali emas, sedangkan Jabar berhak medali perak dengan 9 poin dari 3 kali menang.
+121	DKI Jakarta berhak meraih medali emas, sedangkan Jabar berhak medali perak dengan 9 poin dari 3 kali menang.
+122	DKI Jakarta berhak meraih medali emas, sedangkan Jabar berhak medali perak dengan 9 poin dari 3 kali menang.
+123	DKI Jakarta berhak meraih medali emas, sedangkan Jabar berhak medali perak dengan 9 poin dari 3 kali menang.
+124	DKI Jakarta berhak meraih medali emas, sedangkan Jabar berhak medali perak dengan 9 poin dari 3 kali menang.
+125	DKI Jakarta berhak meraih medali emas, sedangkan Jabar berhak medali perak dengan 9 poin dari 3 kali menang.
+126	DKI Jakarta berhak meraih medali emas, sedangkan Jabar berhak medali perak dengan 9 poin dari 3 kali menang.
+127	DKI Jakarta berhak meraih medali emas, sedangkan Jabar berhak medali perak dengan 9 poin dari 3 kali menang.
+128	DKI Jakarta berhak meraih medali emas, sedangkan Jabar berhak medali perak dengan 9 poin dari 3 kali menang.
+129	DKI Jakarta berhak meraih medali emas, sedangkan Jabar berhak medali perak dengan 9 poin dari 3 kali menang.
+130	DKI Jakarta berhak meraih medali emas, sedangkan Jabar berhak medali perak dengan 9 poin dari 3 kali menang.
+131	DKI Jakarta berhak meraih medali emas, sedangkan Jabar berhak medali perak dengan 9 poin dari 3 kali menang.
+132	DKI Jakarta berhak meraih medali emas, sedangkan Jabar berhak medali perak dengan 9 poin dari 3 kali menang. Perunggu diraih Jambi dengan koleksi 6 poin.
+133	Perunggu diraih Jambi dengan koleksi 6 poin.
+134	Perunggu diraih Jambi dengan koleksi 6 poin.
+135	Perunggu diraih Jambi dengan koleksi 6 poin.
+136	Perunggu diraih Jambi dengan koleksi 6 poin.
+137	Perunggu diraih Jambi dengan koleksi 6 poin.
+138	Perunggu diraih Jambi dengan koleksi 6 poin. Peringkat 4 Yogyakarta dan kelima Sumsel.
+139	Peringkat 4 Yogyakarta dan kelima Sumsel.
+140	Peringkat 4 Yogyakarta dan kelima Sumsel.
+141	Peringkat 4 Yogyakarta dan kelima Sumsel.
+142	Peringkat 4 Yogyakarta dan kelima Sumsel.
+143	Peringkat 4 Yogyakarta dan kelima Sumsel.
+144	Peringkat 4 Yogyakarta dan kelima Sumsel.
+145	[NO_SPEECH]
+146	Yang pastinya-pasti teamwork dan mental.
+147	Yang pastinya-pasti teamwork dan mental.
+148	Yang pastinya-pasti teamwork dan mental.
+149	Yang pastinya-pasti teamwork dan mental.
+150	Yang pastinya-pasti teamwork dan mental.
+151	Yang pastinya-pasti teamwork dan mental.
+152	Yang pastinya-pasti teamwork dan mental.
+153	Karena kita siap di babak keempat.
+154	Karena kita siap di babak keempat.
+155	Karena kita siap di babak keempat.
+156	Karena kita siap di babak keempat. Mental kita lebih berani daripada dia.
+157	Karena kita siap di babak keempat. Mental kita lebih berani daripada dia.
+158	Mental kita lebih berani daripada dia.
+159	Mental kita lebih berani daripada dia.
+160	Mental kita lebih berani daripada dia.
+161	Mental kita lebih berani daripada dia.
+162	Mental kita lebih berani daripada dia. Karena kita juga tidak pernah berhenti berjuang sampai akhir.
+163	Mental kita lebih berani daripada dia. Karena kita juga tidak pernah berhenti berjuang sampai akhir.
+164	Karena kita juga tidak pernah berhenti berjuang sampai akhir.
+165	Karena kita juga tidak pernah berhenti berjuang sampai akhir.
+166	Karena kita juga tidak pernah berhenti berjuang sampai akhir.
+167	Karena kita juga tidak pernah berhenti berjuang sampai akhir.
+168	Karena kita juga tidak pernah berhenti berjuang sampai akhir. Itulah yang kita bisa mengakalkan.
+169	Itulah yang kita bisa mengakalkan.
+170	Itulah yang kita bisa mengakalkan.
+171	Itulah yang kita bisa mengakalkan.
+172	Itulah yang kita bisa mengakalkan.
+173	Itulah yang kita bisa mengakalkan. Jakarta datang, Jakarta menang.
+174	Jakarta datang, Jakarta menang.
+175	Jakarta datang, Jakarta menang.
+176	Jakarta datang, Jakarta menang. Sukses Jakarta untuk Indonesia.
+177	Jakarta datang, Jakarta menang. Sukses Jakarta untuk Indonesia.
+178	Sukses Jakarta untuk Indonesia.
+179	Sukses Jakarta untuk Indonesia.
+180	Sukses Jakarta untuk Indonesia.
+181	[NO_SPEECH]
+182	[NO_SPEECH]
+183	[NO_SPEECH]
+184	[NO_SPEECH]
+185	[NO_SPEECH]
+186	Dalam drama adu penalti, DKI Jakarta menang atas Jabar 20-19 sekaligus merebut medali emas dari Jawa Barat.
+187	Dalam drama adu penalti, DKI Jakarta menang atas Jabar 20-19 sekaligus merebut medali emas dari Jawa Barat.
+188	Dalam drama adu penalti, DKI Jakarta menang atas Jabar 20-19 sekaligus merebut medali emas dari Jawa Barat.
+189	Dalam drama adu penalti, DKI Jakarta menang atas Jabar 20-19 sekaligus merebut medali emas dari Jawa Barat.
+190	Dalam drama adu penalti, DKI Jakarta menang atas Jabar 20-19 sekaligus merebut medali emas dari Jawa Barat.
+191	Dalam drama adu penalti, DKI Jakarta menang atas Jabar 20-19 sekaligus merebut medali emas dari Jawa Barat.
+192	Dalam drama adu penalti, DKI Jakarta menang atas Jabar 20-19 sekaligus merebut medali emas dari Jawa Barat.
+193	Dalam drama adu penalti, DKI Jakarta menang atas Jabar 20-19 sekaligus merebut medali emas dari Jawa Barat.
+194	Dalam drama adu penalti, DKI Jakarta menang atas Jabar 20-19 sekaligus merebut medali emas dari Jawa Barat.
+195	Dalam drama adu penalti, DKI Jakarta menang atas Jabar 20-19 sekaligus merebut medali emas dari Jawa Barat.
+196	Dalam drama adu penalti, DKI Jakarta menang atas Jabar 20-19 sekaligus merebut medali emas dari Jawa Barat.
+197	Dalam drama adu penalti, DKI Jakarta menang atas Jabar 20-19 sekaligus merebut medali emas dari Jawa Barat.
+198	Dalam drama adu penalti, DKI Jakarta menang atas Jabar 20-19 sekaligus merebut medali emas dari Jawa Barat.
+199	Dalam drama adu penalti, DKI Jakarta menang atas Jabar 20-19 sekaligus merebut medali emas dari Jawa Barat.
+200	Dalam drama adu penalti, DKI Jakarta menang atas Jabar 20-19 sekaligus merebut medali emas dari Jawa Barat.
+201	Dalam drama adu penalti, DKI Jakarta menang atas Jabar 20-19 sekaligus merebut medali emas dari Jawa Barat.
+202	Dalam drama adu penalti, DKI Jakarta menang atas Jabar 20-19 sekaligus merebut medali emas dari Jawa Barat.
+203	Dalam drama adu penalti, DKI Jakarta menang atas Jabar 20-19 sekaligus merebut medali emas dari Jawa Barat.
+204	Pada PON 2021 Papua, DKI kalah di final lawan Jabar.
+205	Pada PON 2021 Papua, DKI kalah di final lawan Jabar.
+206	Pada PON 2021 Papua, DKI kalah di final lawan Jabar.
+207	Pada PON 2021 Papua, DKI kalah di final lawan Jabar.
+208	Pada PON 2021 Papua, DKI kalah di final lawan Jabar.
+209	Pada PON 2021 Papua, DKI kalah di final lawan Jabar.
+210	Pada PON 2021 Papua, DKI kalah di final lawan Jabar.
+211	Pada PON 2021 Papua, DKI kalah di final lawan Jabar.
+212	Pada PON 2021 Papua, DKI kalah di final lawan Jabar.
+213	[NO_SPEECH]
+214	[NO_SPEECH]
+215	[NO_SPEECH]
+216	[NO_SPEECH]
+217	[NO_SPEECH]
+218	Jangan lupa Terima kasihengine.com
+219	Jangan lupa Terima kasihengine.com
+220	Jangan lupa Terima kasihengine.com
+221	Jangan lupa Terima kasihengine.com
+222	Jangan lupa Terima kasihengine.com
+223	Jangan lupa Terima kasihengine.com
+224	Jangan lupa Terima kasihengine.com
+225	Jangan lupa Terima kasihengine.com
+226	Jangan lupa Terima kasihengine.com
+227	Jangan lupa Terima kasihengine.com
+228	Jangan lupa Terima kasihengine.com 29 dass 둘 Award ww2
+229	Jangan lupa Terima kasihengine.com 29 dass 둘 Award ww2
+230	29 dass 둘 Award ww2
+231	29 dass 둘 Award ww2
+232	29 dass 둘 Award ww2
+233	29 dass 둘 Award ww2
+234	29 dass 둘 Award ww2
+235	29 dass 둘 Award ww2
+236	29 dass 둘 Award ww2
+237	29 dass 둘 Award ww2
+238	29 dass 둘 Award ww2
+239	29 dass 둘 Award ww2
+240	29 dass 둘 Award ww2
+241	29 dass 둘 Award ww2
+242	29 dass 둘 Award ww2
+243	[NO_SPEECH]
+244	[NO_SPEECH]

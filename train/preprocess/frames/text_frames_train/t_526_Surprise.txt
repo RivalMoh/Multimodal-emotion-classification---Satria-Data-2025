@@ -1,0 +1,435 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	.
+6	.
+7	.
+8	.
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	Kolaborasi KONI DKI Jakarta berkomitmen memerangi doping.
+44	Kolaborasi KONI DKI Jakarta berkomitmen memerangi doping.
+45	Kolaborasi KONI DKI Jakarta berkomitmen memerangi doping.
+46	Kolaborasi KONI DKI Jakarta berkomitmen memerangi doping.
+47	Kolaborasi KONI DKI Jakarta berkomitmen memerangi doping.
+48	Kolaborasi KONI DKI Jakarta berkomitmen memerangi doping.
+49	Kolaborasi KONI DKI Jakarta berkomitmen memerangi doping.
+50	Kolaborasi KONI DKI Jakarta berkomitmen memerangi doping.
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	Komitmen ini dibuktikan dengan Menggandeng Indonesia Anti-Doping Organization, IADO.
+54	Komitmen ini dibuktikan dengan Menggandeng Indonesia Anti-Doping Organization, IADO.
+55	Komitmen ini dibuktikan dengan Menggandeng Indonesia Anti-Doping Organization, IADO.
+56	Komitmen ini dibuktikan dengan Menggandeng Indonesia Anti-Doping Organization, IADO.
+57	Komitmen ini dibuktikan dengan Menggandeng Indonesia Anti-Doping Organization, IADO.
+58	Komitmen ini dibuktikan dengan Menggandeng Indonesia Anti-Doping Organization, IADO.
+59	Komitmen ini dibuktikan dengan Menggandeng Indonesia Anti-Doping Organization, IADO.
+60	Komitmen ini dibuktikan dengan Menggandeng Indonesia Anti-Doping Organization, IADO.
+61	Komitmen ini dibuktikan dengan Menggandeng Indonesia Anti-Doping Organization, IADO.
+62	Komitmen ini dibuktikan dengan Menggandeng Indonesia Anti-Doping Organization, IADO.
+63	Komitmen ini dibuktikan dengan Menggandeng Indonesia Anti-Doping Organization, IADO.
+64	IADO memberikan edukasi kepada para atlet yang berlaga di Pekan Olahraga Provinsi,
+65	IADO memberikan edukasi kepada para atlet yang berlaga di Pekan Olahraga Provinsi,
+66	IADO memberikan edukasi kepada para atlet yang berlaga di Pekan Olahraga Provinsi,
+67	IADO memberikan edukasi kepada para atlet yang berlaga di Pekan Olahraga Provinsi,
+68	IADO memberikan edukasi kepada para atlet yang berlaga di Pekan Olahraga Provinsi,
+69	IADO memberikan edukasi kepada para atlet yang berlaga di Pekan Olahraga Provinsi,
+70	IADO memberikan edukasi kepada para atlet yang berlaga di Pekan Olahraga Provinsi,
+71	IADO memberikan edukasi kepada para atlet yang berlaga di Pekan Olahraga Provinsi,
+72	IADO memberikan edukasi kepada para atlet yang berlaga di Pekan Olahraga Provinsi, PORPROF, dan Pekan Olahraga Pelajar Provinsi atau POPROF 2025
+73	IADO memberikan edukasi kepada para atlet yang berlaga di Pekan Olahraga Provinsi, PORPROF, dan Pekan Olahraga Pelajar Provinsi atau POPROF 2025
+74	PORPROF, dan Pekan Olahraga Pelajar Provinsi atau POPROF 2025
+75	PORPROF, dan Pekan Olahraga Pelajar Provinsi atau POPROF 2025
+76	PORPROF, dan Pekan Olahraga Pelajar Provinsi atau POPROF 2025
+77	PORPROF, dan Pekan Olahraga Pelajar Provinsi atau POPROF 2025
+78	PORPROF, dan Pekan Olahraga Pelajar Provinsi atau POPROF 2025
+79	PORPROF, dan Pekan Olahraga Pelajar Provinsi atau POPROF 2025
+80	PORPROF, dan Pekan Olahraga Pelajar Provinsi atau POPROF 2025 yang digelar dari tanggal 4 hingga 8 Agustus 2025.
+81	PORPROF, dan Pekan Olahraga Pelajar Provinsi atau POPROF 2025 yang digelar dari tanggal 4 hingga 8 Agustus 2025.
+82	yang digelar dari tanggal 4 hingga 8 Agustus 2025.
+83	yang digelar dari tanggal 4 hingga 8 Agustus 2025.
+84	yang digelar dari tanggal 4 hingga 8 Agustus 2025.
+85	yang digelar dari tanggal 4 hingga 8 Agustus 2025.
+86	yang digelar dari tanggal 4 hingga 8 Agustus 2025.
+87	yang digelar dari tanggal 4 hingga 8 Agustus 2025.
+88	[NO_SPEECH]
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	Di sini kami mengedukasi terutama untuk atlet-atlet yang berkompetisi di POPROF
+95	Di sini kami mengedukasi terutama untuk atlet-atlet yang berkompetisi di POPROF
+96	Di sini kami mengedukasi terutama untuk atlet-atlet yang berkompetisi di POPROF
+97	Di sini kami mengedukasi terutama untuk atlet-atlet yang berkompetisi di POPROF
+98	Di sini kami mengedukasi terutama untuk atlet-atlet yang berkompetisi di POPROF
+99	Di sini kami mengedukasi terutama untuk atlet-atlet yang berkompetisi di POPROF
+100	Di sini kami mengedukasi terutama untuk atlet-atlet yang berkompetisi di POPROF
+101	Di sini kami mengedukasi terutama untuk atlet-atlet yang berkompetisi di POPROF
+102	Di sini kami mengedukasi terutama untuk atlet-atlet yang berkompetisi di POPROF
+103	Di sini kami mengedukasi terutama untuk atlet-atlet yang berkompetisi di POPROF
+104	Di sini kami mengedukasi terutama untuk atlet-atlet yang berkompetisi di POPROF
+105	Di sini kami mengedukasi terutama untuk atlet-atlet yang berkompetisi di POPROF
+106	Di sini kami mengedukasi terutama untuk atlet-atlet yang berkompetisi di POPROF
+107	Di sini kami mengedukasi terutama untuk atlet-atlet yang berkompetisi di POPROF
+108	Di sini kami mengedukasi terutama untuk atlet-atlet yang berkompetisi di POPROF
+109	Di sini kami mengedukasi terutama untuk atlet-atlet yang berkompetisi di POPROF
+110	Di sini kami mengedukasi terutama untuk atlet-atlet yang berkompetisi di POPROF
+111	[NO_SPEECH]
+112	[NO_SPEECH]
+113	[NO_SPEECH]
+114	yang pertama yang kita edukasi adalah terkait masalah 11 aturan tentang anti-doping.
+115	yang pertama yang kita edukasi adalah terkait masalah 11 aturan tentang anti-doping.
+116	yang pertama yang kita edukasi adalah terkait masalah 11 aturan tentang anti-doping.
+117	yang pertama yang kita edukasi adalah terkait masalah 11 aturan tentang anti-doping.
+118	yang pertama yang kita edukasi adalah terkait masalah 11 aturan tentang anti-doping.
+119	yang pertama yang kita edukasi adalah terkait masalah 11 aturan tentang anti-doping.
+120	yang pertama yang kita edukasi adalah terkait masalah 11 aturan tentang anti-doping.
+121	yang pertama yang kita edukasi adalah terkait masalah 11 aturan tentang anti-doping.
+122	yang pertama yang kita edukasi adalah terkait masalah 11 aturan tentang anti-doping.
+123	yang pertama yang kita edukasi adalah terkait masalah 11 aturan tentang anti-doping.
+124	yang pertama yang kita edukasi adalah terkait masalah 11 aturan tentang anti-doping.
+125	yang pertama yang kita edukasi adalah terkait masalah 11 aturan tentang anti-doping.
+126	yang pertama yang kita edukasi adalah terkait masalah 11 aturan tentang anti-doping.
+127	yang pertama yang kita edukasi adalah terkait masalah 11 aturan tentang anti-doping.
+128	yang pertama yang kita edukasi adalah terkait masalah 11 aturan tentang anti-doping.
+129	yang pertama yang kita edukasi adalah terkait masalah 11 aturan tentang anti-doping. Salah satunya yang kita tekankan adalah bagaimana si atlet menanggapi jika dia didatangi oleh petugas
+130	Salah satunya yang kita tekankan adalah bagaimana si atlet menanggapi jika dia didatangi oleh petugas
+131	Salah satunya yang kita tekankan adalah bagaimana si atlet menanggapi jika dia didatangi oleh petugas
+132	Salah satunya yang kita tekankan adalah bagaimana si atlet menanggapi jika dia didatangi oleh petugas
+133	Salah satunya yang kita tekankan adalah bagaimana si atlet menanggapi jika dia didatangi oleh petugas
+134	Salah satunya yang kita tekankan adalah bagaimana si atlet menanggapi jika dia didatangi oleh petugas
+135	Salah satunya yang kita tekankan adalah bagaimana si atlet menanggapi jika dia didatangi oleh petugas
+136	Salah satunya yang kita tekankan adalah bagaimana si atlet menanggapi jika dia didatangi oleh petugas
+137	Salah satunya yang kita tekankan adalah bagaimana si atlet menanggapi jika dia didatangi oleh petugas
+138	Salah satunya yang kita tekankan adalah bagaimana si atlet menanggapi jika dia didatangi oleh petugas
+139	Salah satunya yang kita tekankan adalah bagaimana si atlet menanggapi jika dia didatangi oleh petugas
+140	Salah satunya yang kita tekankan adalah bagaimana si atlet menanggapi jika dia didatangi oleh petugas
+141	Salah satunya yang kita tekankan adalah bagaimana si atlet menanggapi jika dia didatangi oleh petugas
+142	Salah satunya yang kita tekankan adalah bagaimana si atlet menanggapi jika dia didatangi oleh petugas diharapkan tidak menolak atau menghindar.
+143	Salah satunya yang kita tekankan adalah bagaimana si atlet menanggapi jika dia didatangi oleh petugas diharapkan tidak menolak atau menghindar.
+144	diharapkan tidak menolak atau menghindar.
+145	diharapkan tidak menolak atau menghindar.
+146	diharapkan tidak menolak atau menghindar.
+147	diharapkan tidak menolak atau menghindar.
+148	diharapkan tidak menolak atau menghindar. Selain itu juga jika si atlet itu sakit atau mengalami tidak enak badan,
+149	Selain itu juga jika si atlet itu sakit atau mengalami tidak enak badan,
+150	Selain itu juga jika si atlet itu sakit atau mengalami tidak enak badan,
+151	Selain itu juga jika si atlet itu sakit atau mengalami tidak enak badan,
+152	Selain itu juga jika si atlet itu sakit atau mengalami tidak enak badan,
+153	Selain itu juga jika si atlet itu sakit atau mengalami tidak enak badan,
+154	Selain itu juga jika si atlet itu sakit atau mengalami tidak enak badan,
+155	Selain itu juga jika si atlet itu sakit atau mengalami tidak enak badan,
+156	Selain itu juga jika si atlet itu sakit atau mengalami tidak enak badan,
+157	Selain itu juga jika si atlet itu sakit atau mengalami tidak enak badan,
+158	Selain itu juga jika si atlet itu sakit atau mengalami tidak enak badan,
+159	Selain itu juga jika si atlet itu sakit atau mengalami tidak enak badan,
+160	Selain itu juga jika si atlet itu sakit atau mengalami tidak enak badan, jangan sembarangan beli obat di luar.
+161	Selain itu juga jika si atlet itu sakit atau mengalami tidak enak badan, jangan sembarangan beli obat di luar.
+162	jangan sembarangan beli obat di luar.
+163	jangan sembarangan beli obat di luar.
+164	jangan sembarangan beli obat di luar. Maka dari itu kita himbaw.
+165	jangan sembarangan beli obat di luar. Maka dari itu kita himbaw.
+166	Maka dari itu kita himbaw.
+167	Maka dari itu kita himbaw. Kalau atlet memang sakit bisa komunikasikan ke pelatih, setelah itu pelatih bisa konsultasikan ke dokter.
+168	Maka dari itu kita himbaw. Kalau atlet memang sakit bisa komunikasikan ke pelatih, setelah itu pelatih bisa konsultasikan ke dokter.
+169	Kalau atlet memang sakit bisa komunikasikan ke pelatih, setelah itu pelatih bisa konsultasikan ke dokter.
+170	Kalau atlet memang sakit bisa komunikasikan ke pelatih, setelah itu pelatih bisa konsultasikan ke dokter.
+171	Kalau atlet memang sakit bisa komunikasikan ke pelatih, setelah itu pelatih bisa konsultasikan ke dokter.
+172	Kalau atlet memang sakit bisa komunikasikan ke pelatih, setelah itu pelatih bisa konsultasikan ke dokter.
+173	Kalau atlet memang sakit bisa komunikasikan ke pelatih, setelah itu pelatih bisa konsultasikan ke dokter.
+174	Kalau atlet memang sakit bisa komunikasikan ke pelatih, setelah itu pelatih bisa konsultasikan ke dokter.
+175	Kalau atlet memang sakit bisa komunikasikan ke pelatih, setelah itu pelatih bisa konsultasikan ke dokter.
+176	Kalau atlet memang sakit bisa komunikasikan ke pelatih, setelah itu pelatih bisa konsultasikan ke dokter.
+177	Kalau atlet memang sakit bisa komunikasikan ke pelatih, setelah itu pelatih bisa konsultasikan ke dokter.
+178	Kalau atlet memang sakit bisa komunikasikan ke pelatih, setelah itu pelatih bisa konsultasikan ke dokter.
+179	Kalau atlet memang sakit bisa komunikasikan ke pelatih, setelah itu pelatih bisa konsultasikan ke dokter.
+180	Kalau atlet memang sakit bisa komunikasikan ke pelatih, setelah itu pelatih bisa konsultasikan ke dokter.
+181	Kalau atlet memang sakit bisa komunikasikan ke pelatih, setelah itu pelatih bisa konsultasikan ke dokter.
+182	Kalau atlet memang sakit bisa komunikasikan ke pelatih, setelah itu pelatih bisa konsultasikan ke dokter.
+183	Kalau atlet memang sakit bisa komunikasikan ke pelatih, setelah itu pelatih bisa konsultasikan ke dokter.
+184	Kalau atlet memang sakit bisa komunikasikan ke pelatih, setelah itu pelatih bisa konsultasikan ke dokter.
+185	[NO_SPEECH]
+186	[NO_SPEECH]
+187	[NO_SPEECH]
+188	[NO_SPEECH]
+189	[NO_SPEECH]
+190	Edukasi yang diberikan IADO kepada para atlet sangat penting untuk menghilangkan doping yang kerap terjadi.
+191	Edukasi yang diberikan IADO kepada para atlet sangat penting untuk menghilangkan doping yang kerap terjadi.
+192	Edukasi yang diberikan IADO kepada para atlet sangat penting untuk menghilangkan doping yang kerap terjadi.
+193	Edukasi yang diberikan IADO kepada para atlet sangat penting untuk menghilangkan doping yang kerap terjadi.
+194	Edukasi yang diberikan IADO kepada para atlet sangat penting untuk menghilangkan doping yang kerap terjadi.
+195	Edukasi yang diberikan IADO kepada para atlet sangat penting untuk menghilangkan doping yang kerap terjadi.
+196	Edukasi yang diberikan IADO kepada para atlet sangat penting untuk menghilangkan doping yang kerap terjadi.
+197	Edukasi yang diberikan IADO kepada para atlet sangat penting untuk menghilangkan doping yang kerap terjadi.
+198	Edukasi yang diberikan IADO kepada para atlet sangat penting untuk menghilangkan doping yang kerap terjadi.
+199	Edukasi yang diberikan IADO kepada para atlet sangat penting untuk menghilangkan doping yang kerap terjadi.
+200	Edukasi yang diberikan IADO kepada para atlet sangat penting untuk menghilangkan doping yang kerap terjadi.
+201	IADO berharap para atlet memahami dan mengerti tentang makanan minuman saja yang dilarang untuk dikonsumsi.
+202	IADO berharap para atlet memahami dan mengerti tentang makanan minuman saja yang dilarang untuk dikonsumsi.
+203	IADO berharap para atlet memahami dan mengerti tentang makanan minuman saja yang dilarang untuk dikonsumsi.
+204	IADO berharap para atlet memahami dan mengerti tentang makanan minuman saja yang dilarang untuk dikonsumsi.
+205	IADO berharap para atlet memahami dan mengerti tentang makanan minuman saja yang dilarang untuk dikonsumsi.
+206	IADO berharap para atlet memahami dan mengerti tentang makanan minuman saja yang dilarang untuk dikonsumsi.
+207	IADO berharap para atlet memahami dan mengerti tentang makanan minuman saja yang dilarang untuk dikonsumsi.
+208	IADO berharap para atlet memahami dan mengerti tentang makanan minuman saja yang dilarang untuk dikonsumsi.
+209	IADO berharap para atlet memahami dan mengerti tentang makanan minuman saja yang dilarang untuk dikonsumsi.
+210	IADO berharap para atlet memahami dan mengerti tentang makanan minuman saja yang dilarang untuk dikonsumsi.
+211	IADO berharap para atlet memahami dan mengerti tentang makanan minuman saja yang dilarang untuk dikonsumsi.
+212	IADO berharap para atlet memahami dan mengerti tentang makanan minuman saja yang dilarang untuk dikonsumsi.
+213	[NO_SPEECH]
+214	[NO_SPEECH]
+215	[NO_SPEECH]
+216	IADO itu adalah lembaga anti-doping yang dibedirikan beberapa tahun lalu
+217	IADO itu adalah lembaga anti-doping yang dibedirikan beberapa tahun lalu
+218	IADO itu adalah lembaga anti-doping yang dibedirikan beberapa tahun lalu
+219	IADO itu adalah lembaga anti-doping yang dibedirikan beberapa tahun lalu
+220	IADO itu adalah lembaga anti-doping yang dibedirikan beberapa tahun lalu
+221	IADO itu adalah lembaga anti-doping yang dibedirikan beberapa tahun lalu
+222	IADO itu adalah lembaga anti-doping yang dibedirikan beberapa tahun lalu
+223	IADO itu adalah lembaga anti-doping yang dibedirikan beberapa tahun lalu yang merupakan...
+224	IADO itu adalah lembaga anti-doping yang dibedirikan beberapa tahun lalu yang merupakan...
+225	yang merupakan...
+226	yang merupakan...
+227	yang merupakan...
+228	level untuk nasional masalah lembaga anti-doping.
+229	level untuk nasional masalah lembaga anti-doping.
+230	level untuk nasional masalah lembaga anti-doping.
+231	level untuk nasional masalah lembaga anti-doping.
+232	level untuk nasional masalah lembaga anti-doping.
+233	level untuk nasional masalah lembaga anti-doping.
+234	level untuk nasional masalah lembaga anti-doping.
+235	level untuk nasional masalah lembaga anti-doping. Di atasnya ada Serado, South East Asian Negara dan World Anti-Doping.
+236	Di atasnya ada Serado, South East Asian Negara dan World Anti-Doping.
+237	Di atasnya ada Serado, South East Asian Negara dan World Anti-Doping.
+238	Di atasnya ada Serado, South East Asian Negara dan World Anti-Doping.
+239	Di atasnya ada Serado, South East Asian Negara dan World Anti-Doping.
+240	Di atasnya ada Serado, South East Asian Negara dan World Anti-Doping.
+241	Di atasnya ada Serado, South East Asian Negara dan World Anti-Doping.
+242	Di atasnya ada Serado, South East Asian Negara dan World Anti-Doping.
+243	Di atasnya ada Serado, South East Asian Negara dan World Anti-Doping.
+244	Di atasnya ada Serado, South East Asian Negara dan World Anti-Doping.
+245	Di atasnya ada Serado, South East Asian Negara dan World Anti-Doping. Jadi memang keberadaan IADO itu di setiap negara wajib hukumnya untuk permasalahan doping.
+246	Di atasnya ada Serado, South East Asian Negara dan World Anti-Doping. Jadi memang keberadaan IADO itu di setiap negara wajib hukumnya untuk permasalahan doping.
+247	Jadi memang keberadaan IADO itu di setiap negara wajib hukumnya untuk permasalahan doping.
+248	Jadi memang keberadaan IADO itu di setiap negara wajib hukumnya untuk permasalahan doping.
+249	Jadi memang keberadaan IADO itu di setiap negara wajib hukumnya untuk permasalahan doping.
+250	Jadi memang keberadaan IADO itu di setiap negara wajib hukumnya untuk permasalahan doping.
+251	Jadi memang keberadaan IADO itu di setiap negara wajib hukumnya untuk permasalahan doping.
+252	Jadi memang keberadaan IADO itu di setiap negara wajib hukumnya untuk permasalahan doping.
+253	Jadi memang keberadaan IADO itu di setiap negara wajib hukumnya untuk permasalahan doping.
+254	Jadi memang keberadaan IADO itu di setiap negara wajib hukumnya untuk permasalahan doping.
+255	Jadi memang keberadaan IADO itu di setiap negara wajib hukumnya untuk permasalahan doping.
+256	Jadi memang keberadaan IADO itu di setiap negara wajib hukumnya untuk permasalahan doping.
+257	Jadi memang keberadaan IADO itu di setiap negara wajib hukumnya untuk permasalahan doping.
+258	Jadi memang keberadaan IADO itu di setiap negara wajib hukumnya untuk permasalahan doping.
+259	Jadi memang keberadaan IADO itu di setiap negara wajib hukumnya untuk permasalahan doping. Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+260	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+261	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+262	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+263	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+264	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+265	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+266	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+267	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+268	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+269	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+270	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+271	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+272	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+273	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+274	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+275	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+276	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+277	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+278	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+279	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+280	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+281	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet.
+282	Kami berada sekali ini di Port Prop DKI Jakarta untuk mengedukasi mereka bahwa doping itu sekarang merupakan kewajiban yang harus dipatuhi oleh setiap atlet. Jadi dari usia dini,
+283	Jadi dari usia dini,
+284	Jadi dari usia dini,
+285	Jadi dari usia dini,
+286	Jadi dari usia dini,
+287	Jadi dari usia dini, sampai mereka elit.
+288	Jadi dari usia dini, sampai mereka elit.
+289	sampai mereka elit.
+290	sampai mereka elit. Kita edukasi atlet bahwa nanti mereka masuk elit-atlet akan dipantau oleh wadah.
+291	sampai mereka elit. Kita edukasi atlet bahwa nanti mereka masuk elit-atlet akan dipantau oleh wadah.
+292	Kita edukasi atlet bahwa nanti mereka masuk elit-atlet akan dipantau oleh wadah.
+293	Kita edukasi atlet bahwa nanti mereka masuk elit-atlet akan dipantau oleh wadah.
+294	Kita edukasi atlet bahwa nanti mereka masuk elit-atlet akan dipantau oleh wadah.
+295	Kita edukasi atlet bahwa nanti mereka masuk elit-atlet akan dipantau oleh wadah.
+296	Kita edukasi atlet bahwa nanti mereka masuk elit-atlet akan dipantau oleh wadah.
+297	Kita edukasi atlet bahwa nanti mereka masuk elit-atlet akan dipantau oleh wadah.
+298	Kita edukasi atlet bahwa nanti mereka masuk elit-atlet akan dipantau oleh wadah.
+299	Kita edukasi atlet bahwa nanti mereka masuk elit-atlet akan dipantau oleh wadah.
+300	Kita edukasi atlet bahwa nanti mereka masuk elit-atlet akan dipantau oleh wadah.
+301	Kita edukasi atlet bahwa nanti mereka masuk elit-atlet akan dipantau oleh wadah.
+302	Kita edukasi atlet bahwa nanti mereka masuk elit-atlet akan dipantau oleh wadah. Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+303	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+304	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+305	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+306	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+307	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+308	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+309	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+310	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+311	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+312	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+313	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+314	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+315	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+316	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+317	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+318	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+319	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+320	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+321	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+322	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+323	Dengan demikian, edukasi ini untuk mereka mengetahui bahwa harus mengikuti prosedur doping yang sudah berlaku secara umum.
+324	IADO memberikan edukasi secara bergiliran ke cabur-cabur.
+325	IADO memberikan edukasi secara bergiliran ke cabur-cabur.
+326	IADO memberikan edukasi secara bergiliran ke cabur-cabur.
+327	IADO memberikan edukasi secara bergiliran ke cabur-cabur.
+328	IADO memberikan edukasi secara bergiliran ke cabur-cabur.
+329	IADO memberikan edukasi secara bergiliran ke cabur-cabur.
+330	IADO memberikan edukasi secara bergiliran ke cabur-cabur.
+331	IADO memberikan edukasi secara bergiliran ke cabur-cabur. Dan saat ini sudah dilakukan edukasi ke cabur pencak silat dan bulu tangkis.
+332	Dan saat ini sudah dilakukan edukasi ke cabur pencak silat dan bulu tangkis.
+333	Dan saat ini sudah dilakukan edukasi ke cabur pencak silat dan bulu tangkis.
+334	Dan saat ini sudah dilakukan edukasi ke cabur pencak silat dan bulu tangkis.
+335	Dan saat ini sudah dilakukan edukasi ke cabur pencak silat dan bulu tangkis.
+336	Dan saat ini sudah dilakukan edukasi ke cabur pencak silat dan bulu tangkis.
+337	Dan saat ini sudah dilakukan edukasi ke cabur pencak silat dan bulu tangkis.
+338	Dan saat ini sudah dilakukan edukasi ke cabur pencak silat dan bulu tangkis.
+339	Dan saat ini sudah dilakukan edukasi ke cabur pencak silat dan bulu tangkis.
+340	Dan saat ini sudah dilakukan edukasi ke cabur pencak silat dan bulu tangkis.
+341	Dan saat ini sudah dilakukan edukasi ke cabur pencak silat dan bulu tangkis. Para atlet kontingen wilayah DKI Jakarta sangat atas.
+342	Para atlet kontingen wilayah DKI Jakarta sangat atas.
+343	Para atlet kontingen wilayah DKI Jakarta sangat atas.
+344	Para atlet kontingen wilayah DKI Jakarta sangat atas.
+345	Para atlet kontingen wilayah DKI Jakarta sangat atas.
+346	Para atlet kontingen wilayah DKI Jakarta sangat atas.
+347	Para atlet kontingen wilayah DKI Jakarta sangat atas. Mereka sangat antusias di edukasi soal doping.
+348	Para atlet kontingen wilayah DKI Jakarta sangat atas. Mereka sangat antusias di edukasi soal doping.
+349	Mereka sangat antusias di edukasi soal doping.
+350	Mereka sangat antusias di edukasi soal doping.
+351	Mereka sangat antusias di edukasi soal doping. Para atlet memahami tentang 11 pelanggaran doping yang menjadi acuan IADO.
+352	Para atlet memahami tentang 11 pelanggaran doping yang menjadi acuan IADO.
+353	Para atlet memahami tentang 11 pelanggaran doping yang menjadi acuan IADO.
+354	Para atlet memahami tentang 11 pelanggaran doping yang menjadi acuan IADO.
+355	Para atlet memahami tentang 11 pelanggaran doping yang menjadi acuan IADO.
+356	Para atlet memahami tentang 11 pelanggaran doping yang menjadi acuan IADO.
+357	Para atlet memahami tentang 11 pelanggaran doping yang menjadi acuan IADO.
+358	Para atlet memahami tentang 11 pelanggaran doping yang menjadi acuan IADO.
+359	Para atlet memahami tentang 11 pelanggaran doping yang menjadi acuan IADO.
+360	Para atlet memahami tentang 11 pelanggaran doping yang menjadi acuan IADO.
+361	Para atlet memahami tentang 11 pelanggaran doping yang menjadi acuan IADO.
+362	Ketua PB Port Prop 2025 Andri Paranoan menambahkan edukasi doping terhadap atlet adalah komitmen Jakarta untuk memerangi doping.
+363	Ketua PB Port Prop 2025 Andri Paranoan menambahkan edukasi doping terhadap atlet adalah komitmen Jakarta untuk memerangi doping.
+364	Ketua PB Port Prop 2025 Andri Paranoan menambahkan edukasi doping terhadap atlet adalah komitmen Jakarta untuk memerangi doping.
+365	Ketua PB Port Prop 2025 Andri Paranoan menambahkan edukasi doping terhadap atlet adalah komitmen Jakarta untuk memerangi doping.
+366	Ketua PB Port Prop 2025 Andri Paranoan menambahkan edukasi doping terhadap atlet adalah komitmen Jakarta untuk memerangi doping.
+367	Ketua PB Port Prop 2025 Andri Paranoan menambahkan edukasi doping terhadap atlet adalah komitmen Jakarta untuk memerangi doping.
+368	Ketua PB Port Prop 2025 Andri Paranoan menambahkan edukasi doping terhadap atlet adalah komitmen Jakarta untuk memerangi doping.
+369	Ketua PB Port Prop 2025 Andri Paranoan menambahkan edukasi doping terhadap atlet adalah komitmen Jakarta untuk memerangi doping.
+370	Ketua PB Port Prop 2025 Andri Paranoan menambahkan edukasi doping terhadap atlet adalah komitmen Jakarta untuk memerangi doping.
+371	Ketua PB Port Prop 2025 Andri Paranoan menambahkan edukasi doping terhadap atlet adalah komitmen Jakarta untuk memerangi doping.
+372	Ketua PB Port Prop 2025 Andri Paranoan menambahkan edukasi doping terhadap atlet adalah komitmen Jakarta untuk memerangi doping.
+373	Ketua PB Port Prop 2025 Andri Paranoan menambahkan edukasi doping terhadap atlet adalah komitmen Jakarta untuk memerangi doping.
+374	Ketua PB Port Prop 2025 Andri Paranoan menambahkan edukasi doping terhadap atlet adalah komitmen Jakarta untuk memerangi doping.
+375	Ketua PB Port Prop 2025 Andri Paranoan menambahkan edukasi doping terhadap atlet adalah komitmen Jakarta untuk memerangi doping.
+376	Ketua PB Port Prop 2025 Andri Paranoan menambahkan edukasi doping terhadap atlet adalah komitmen Jakarta untuk memerangi doping.
+377	Ketua PB Port Prop 2025 Andri Paranoan menambahkan edukasi doping terhadap atlet adalah komitmen Jakarta untuk memerangi doping. Karena, memerangi doping harus dilakukan sejak dini.
+378	Karena, memerangi doping harus dilakukan sejak dini.
+379	Karena, memerangi doping harus dilakukan sejak dini.
+380	Karena, memerangi doping harus dilakukan sejak dini.
+381	Karena, memerangi doping harus dilakukan sejak dini.
+382	Karena, memerangi doping harus dilakukan sejak dini.
+383	Karena, memerangi doping harus dilakukan sejak dini.
+384	Karena, memerangi doping harus dilakukan sejak dini.
+385	Karena, memerangi doping harus dilakukan sejak dini.
+386	[NO_SPEECH]
+387	[NO_SPEECH]
+388	[NO_SPEECH]
+389	[NO_SPEECH]
+390	[NO_SPEECH]
+391	[NO_SPEECH]
+392	[NO_SPEECH]
+393	[NO_SPEECH]
+394	[NO_SPEECH]
+395	[NO_SPEECH]
+396	[NO_SPEECH]
+397	[NO_SPEECH]
+398	[NO_SPEECH]
+399	[NO_SPEECH]
+400	[NO_SPEECH]
+401	[NO_SPEECH]
+402	[NO_SPEECH]
+403	[NO_SPEECH]
+404	[NO_SPEECH]
+405	[NO_SPEECH]
+406	[NO_SPEECH]
+407	Pada tahun aucun kritik tempat berubah, disebabkan kesalahannya agar berhasil,
+408	Pada tahun aucun kritik tempat berubah, disebabkan kesalahannya agar berhasil,
+409	Pada tahun aucun kritik tempat berubah, disebabkan kesalahannya agar berhasil,
+410	Pada tahun aucun kritik tempat berubah, disebabkan kesalahannya agar berhasil,
+411	Pada tahun aucun kritik tempat berubah, disebabkan kesalahannya agar berhasil,
+412	Pada tahun aucun kritik tempat berubah, disebabkan kesalahannya agar berhasil,
+413	Pada tahun aucun kritik tempat berubah, disebabkan kesalahannya agar berhasil,
+414	Pada tahun aucun kritik tempat berubah, disebabkan kesalahannya agar berhasil,
+415	Pada tahun aucun kritik tempat berubah, disebabkan kesalahannya agar berhasil,
+416	Pada tahun aucun kritik tempat berubah, disebabkan kesalahannya agar berhasil,
+417	Pada tahun aucun kritik tempat berubah, disebabkan kesalahannya agar berhasil,
+418	Pada tahun aucun kritik tempat berubah, disebabkan kesalahannya agar berhasil,
+419	Pada tahun aucun kritik tempat berubah, disebabkan kesalahannya agar berhasil,
+420	Pada tahun aucun kritik tempat berubah, disebabkan kesalahannya agar berhasil,
+421	Pada tahun aucun kritik tempat berubah, disebabkan kesalahannya agar berhasil,
+422	Pada tahun aucun kritik tempat berubah, disebabkan kesalahannya agar berhasil,
+423	Pada tahun aucun kritik tempat berubah, disebabkan kesalahannya agar berhasil,
+424	Pada tahun aucun kritik tempat berubah, disebabkan kesalahannya agar berhasil,  sebuah pertempuran sangguh-sanggah terjadi,
+425	Pada tahun aucun kritik tempat berubah, disebabkan kesalahannya agar berhasil,  sebuah pertempuran sangguh-sanggah terjadi,
+426	sebuah pertempuran sangguh-sanggah terjadi,
+427	sebuah pertempuran sangguh-sanggah terjadi,
+428	sebuah pertempuran sangguh-sanggah terjadi,  IADO melakukannya oleh Gimbal sampai pulang 3 hari ke depan volume Wet liking Bum こん being chicken,
+429	sebuah pertempuran sangguh-sanggah terjadi,  IADO melakukannya oleh Gimbal sampai pulang 3 hari ke depan volume Wet liking Bum こん being chicken,
+430	IADO melakukannya oleh Gimbal sampai pulang 3 hari ke depan volume Wet liking Bum こん being chicken,
+431	IADO melakukannya oleh Gimbal sampai pulang 3 hari ke depan volume Wet liking Bum こん being chicken,
+432	IADO melakukannya oleh Gimbal sampai pulang 3 hari ke depan volume Wet liking Bum こん being chicken,
+433	IADO melakukannya oleh Gimbal sampai pulang 3 hari ke depan volume Wet liking Bum こん being chicken,
+434	IADO melakukannya oleh Gimbal sampai pulang 3 hari ke depan volume Wet liking Bum こん being chicken,

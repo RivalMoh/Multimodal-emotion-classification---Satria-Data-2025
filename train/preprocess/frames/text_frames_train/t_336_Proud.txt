@@ -1,0 +1,64 @@
+0	Abis main badminton, tangan sering sakit.
+1	Abis main badminton, tangan sering sakit.
+2	Abis main badminton, tangan sering sakit.
+3	Abis main badminton, tangan sering sakit. Emang iya?
+4	Abis main badminton, tangan sering sakit. Emang iya? Gerakan berulang seperti smash bisa menyebabkan cedera otot.
+5	Emang iya? Gerakan berulang seperti smash bisa menyebabkan cedera otot.
+6	Gerakan berulang seperti smash bisa menyebabkan cedera otot.
+7	Gerakan berulang seperti smash bisa menyebabkan cedera otot.
+8	Gerakan berulang seperti smash bisa menyebabkan cedera otot.
+9	Gerakan berulang seperti smash bisa menyebabkan cedera otot.
+10	Gerakan berulang seperti smash bisa menyebabkan cedera otot.
+11	Gerakan berulang seperti smash bisa menyebabkan cedera otot. Atau bisa juga dikarenakan dom.
+12	Gerakan berulang seperti smash bisa menyebabkan cedera otot. Atau bisa juga dikarenakan dom.
+13	Atau bisa juga dikarenakan dom.
+14	Atau bisa juga dikarenakan dom.
+15	Atau bisa juga dikarenakan dom. Ketika jaringan otot berusaha beradaptasi setelah olahraga berat.
+16	Atau bisa juga dikarenakan dom. Ketika jaringan otot berusaha beradaptasi setelah olahraga berat.
+17	Ketika jaringan otot berusaha beradaptasi setelah olahraga berat.
+18	Ketika jaringan otot berusaha beradaptasi setelah olahraga berat.
+19	Ketika jaringan otot berusaha beradaptasi setelah olahraga berat.
+20	Ketika jaringan otot berusaha beradaptasi setelah olahraga berat.
+21	Ketika jaringan otot berusaha beradaptasi setelah olahraga berat.
+22	Ketika jaringan otot berusaha beradaptasi setelah olahraga berat.
+23	Ketika jaringan otot berusaha beradaptasi setelah olahraga berat. Untuk mengatasi ngeri otot setelah olahraga,
+24	Ketika jaringan otot berusaha beradaptasi setelah olahraga berat. Untuk mengatasi ngeri otot setelah olahraga,
+25	Untuk mengatasi ngeri otot setelah olahraga,
+26	Untuk mengatasi ngeri otot setelah olahraga,
+27	Untuk mengatasi ngeri otot setelah olahraga, biasanya gue lakuin pendinginan atau mengompres es batu di area yang sakit.
+28	Untuk mengatasi ngeri otot setelah olahraga, biasanya gue lakuin pendinginan atau mengompres es batu di area yang sakit.
+29	biasanya gue lakuin pendinginan atau mengompres es batu di area yang sakit.
+30	biasanya gue lakuin pendinginan atau mengompres es batu di area yang sakit.
+31	biasanya gue lakuin pendinginan atau mengompres es batu di area yang sakit.
+32	biasanya gue lakuin pendinginan atau mengompres es batu di area yang sakit.
+33	biasanya gue lakuin pendinginan atau mengompres es batu di area yang sakit.
+34	biasanya gue lakuin pendinginan atau mengompres es batu di area yang sakit.
+35	biasanya gue lakuin pendinginan atau mengompres es batu di area yang sakit.
+36	biasanya gue lakuin pendinginan atau mengompres es batu di area yang sakit. Dan gue juga biasanya minum protein drink dari Pro 8G
+37	Dan gue juga biasanya minum protein drink dari Pro 8G
+38	Dan gue juga biasanya minum protein drink dari Pro 8G
+39	Dan gue juga biasanya minum protein drink dari Pro 8G
+40	Dan gue juga biasanya minum protein drink dari Pro 8G
+41	Dan gue juga biasanya minum protein drink dari Pro 8G
+42	Dan gue juga biasanya minum protein drink dari Pro 8G
+43	Dan gue juga biasanya minum protein drink dari Pro 8G yang mengandung 8 gram protein dengan rasa yang clear dan gak bikin enak.
+44	Dan gue juga biasanya minum protein drink dari Pro 8G yang mengandung 8 gram protein dengan rasa yang clear dan gak bikin enak.
+45	yang mengandung 8 gram protein dengan rasa yang clear dan gak bikin enak.
+46	yang mengandung 8 gram protein dengan rasa yang clear dan gak bikin enak.
+47	yang mengandung 8 gram protein dengan rasa yang clear dan gak bikin enak.
+48	yang mengandung 8 gram protein dengan rasa yang clear dan gak bikin enak.
+49	yang mengandung 8 gram protein dengan rasa yang clear dan gak bikin enak.
+50	yang mengandung 8 gram protein dengan rasa yang clear dan gak bikin enak.
+51	yang mengandung 8 gram protein dengan rasa yang clear dan gak bikin enak. Jadi bisa bantu gue recovery lagi setelah berolahraga.
+52	yang mengandung 8 gram protein dengan rasa yang clear dan gak bikin enak. Jadi bisa bantu gue recovery lagi setelah berolahraga.
+53	Jadi bisa bantu gue recovery lagi setelah berolahraga.
+54	Jadi bisa bantu gue recovery lagi setelah berolahraga.
+55	Jadi bisa bantu gue recovery lagi setelah berolahraga.
+56	Jadi bisa bantu gue recovery lagi setelah berolahraga. Gimana? Udah siap cobain di lapangan?
+57	Jadi bisa bantu gue recovery lagi setelah berolahraga. Gimana? Udah siap cobain di lapangan?
+58	Gimana? Udah siap cobain di lapangan?
+59	Gimana? Udah siap cobain di lapangan?
+60	Gimana? Udah siap cobain di lapangan? Jangan lupa follow ya!
+61	Gimana? Udah siap cobain di lapangan? Jangan lupa follow ya!
+62	Jangan lupa follow ya!
+63	Jangan lupa follow ya!

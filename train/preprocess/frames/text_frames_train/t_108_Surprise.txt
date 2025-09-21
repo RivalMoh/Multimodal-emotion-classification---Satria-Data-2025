@@ -1,0 +1,78 @@
+0	Kalau gue ngeliatnya dengan 11 pemain ini bisa jadi yang menciptakan formula ini
+1	Kalau gue ngeliatnya dengan 11 pemain ini bisa jadi yang menciptakan formula ini
+2	Kalau gue ngeliatnya dengan 11 pemain ini bisa jadi yang menciptakan formula ini
+3	Kalau gue ngeliatnya dengan 11 pemain ini bisa jadi yang menciptakan formula ini
+4	Kalau gue ngeliatnya dengan 11 pemain ini bisa jadi yang menciptakan formula ini
+5	Kalau gue ngeliatnya dengan 11 pemain ini bisa jadi yang menciptakan formula ini
+6	Kalau gue ngeliatnya dengan 11 pemain ini bisa jadi yang menciptakan formula ini
+7	Kalau gue ngeliatnya dengan 11 pemain ini bisa jadi yang menciptakan formula ini
+8	Kalau gue ngeliatnya dengan 11 pemain ini bisa jadi yang menciptakan formula ini
+9	Kalau gue ngeliatnya dengan 11 pemain ini bisa jadi yang menciptakan formula ini
+10	Kalau gue ngeliatnya dengan 11 pemain ini bisa jadi yang menciptakan formula ini bercita-cita ingin membuat Liga Indonesia menjadi Liga Inggris.
+11	Kalau gue ngeliatnya dengan 11 pemain ini bisa jadi yang menciptakan formula ini bercita-cita ingin membuat Liga Indonesia menjadi Liga Inggris.
+12	bercita-cita ingin membuat Liga Indonesia menjadi Liga Inggris.
+13	bercita-cita ingin membuat Liga Indonesia menjadi Liga Inggris.
+14	bercita-cita ingin membuat Liga Indonesia menjadi Liga Inggris.
+15	bercita-cita ingin membuat Liga Indonesia menjadi Liga Inggris.
+16	bercita-cita ingin membuat Liga Indonesia menjadi Liga Inggris.
+17	bercita-cita ingin membuat Liga Indonesia menjadi Liga Inggris.
+18	bercita-cita ingin membuat Liga Indonesia menjadi Liga Inggris.
+19	bercita-cita ingin membuat Liga Indonesia menjadi Liga Inggris.
+20	bercita-cita ingin membuat Liga Indonesia menjadi Liga Inggris.
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	Kita udah sudah sempurna.
+24	Kita udah sudah sempurna.
+25	Kita udah sudah sempurna. Kita gak tau kan.
+26	Kita udah sudah sempurna. Kita gak tau kan.
+27	Kita gak tau kan.
+28	Kita gak tau kan.
+29	Kita gak tau kan. Wah kayaknya bagus nih blueprintnya Liga Inggris deh udah pemain asing semua.
+30	Wah kayaknya bagus nih blueprintnya Liga Inggris deh udah pemain asing semua.
+31	Wah kayaknya bagus nih blueprintnya Liga Inggris deh udah pemain asing semua.
+32	Wah kayaknya bagus nih blueprintnya Liga Inggris deh udah pemain asing semua.
+33	Wah kayaknya bagus nih blueprintnya Liga Inggris deh udah pemain asing semua.
+34	Wah kayaknya bagus nih blueprintnya Liga Inggris deh udah pemain asing semua.
+35	Wah kayaknya bagus nih blueprintnya Liga Inggris deh udah pemain asing semua.
+36	Wah kayaknya bagus nih blueprintnya Liga Inggris deh udah pemain asing semua. Supaya sharingnya, ratingnya tinggi.
+37	Supaya sharingnya, ratingnya tinggi.
+38	Supaya sharingnya, ratingnya tinggi.
+39	Supaya sharingnya, ratingnya tinggi.
+40	Supaya sharingnya, ratingnya tinggi.
+41	Supaya sharingnya, ratingnya tinggi.
+42	Supaya sharingnya, ratingnya tinggi.
+43	Supaya sharingnya, ratingnya tinggi.
+44	Supaya sharingnya, ratingnya tinggi. Tapi kita gak punya pemain ini dong.
+45	Supaya sharingnya, ratingnya tinggi. Tapi kita gak punya pemain ini dong.
+46	Tapi kita gak punya pemain ini dong.
+47	Tapi kita gak punya pemain ini dong. Nanti gak punya pemain lokal yang punya jangkaan.
+48	Tapi kita gak punya pemain ini dong. Nanti gak punya pemain lokal yang punya jangkaan.
+49	Nanti gak punya pemain lokal yang punya jangkaan.
+50	Nanti gak punya pemain lokal yang punya jangkaan.
+51	Nanti gak punya pemain lokal yang punya jangkaan.
+52	Nanti gak punya pemain lokal yang punya jangkaan.
+53	Nanti gak punya pemain lokal yang punya jangkaan. Enggak, Inggris.
+54	Nanti gak punya pemain lokal yang punya jangkaan. Enggak, Inggris. Persaingan terbuka.
+55	Enggak, Inggris. Persaingan terbuka.
+56	Persaingan terbuka. Persaingan terbuka, Inggris.
+57	Persaingan terbuka. Persaingan terbuka, Inggris. U21 Inggris juara terus.
+58	Persaingan terbuka, Inggris. U21 Inggris juara terus.
+59	U21 Inggris juara terus.
+60	U21 Inggris juara terus. Iya, kalau kamu mampu kamu bisa bersaing.
+61	U21 Inggris juara terus. Iya, kalau kamu mampu kamu bisa bersaing.
+62	Iya, kalau kamu mampu kamu bisa bersaing.
+63	Iya, kalau kamu mampu kamu bisa bersaing.
+64	Iya, kalau kamu mampu kamu bisa bersaing.
+65	Iya, kalau kamu mampu kamu bisa bersaing.
+66	Iya, kalau kamu mampu kamu bisa bersaing.
+67	[NO_SPEECH]
+68	[NO_SPEECH]
+69	[NO_SPEECH]
+70	[NO_SPEECH]
+71	[NO_SPEECH]
+72	[NO_SPEECH]
+73	[NO_SPEECH]
+74	[NO_SPEECH]
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]

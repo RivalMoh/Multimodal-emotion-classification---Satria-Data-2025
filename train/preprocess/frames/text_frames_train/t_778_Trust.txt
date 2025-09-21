@@ -1,0 +1,43 @@
+0	[NO_SPEECH]
+1	Are you ready?
+2	Are you ready?
+3	Are you ready?
+4	[NO_SPEECH]
+5	Are you ready?
+6	Are you ready?
+7	Are you ready?
+8	Are you ready?
+9	Are you ready? Ready, set, go.
+10	Are you ready? Ready, set, go.
+11	Are you ready? Ready, set, go.
+12	Are you ready? Ready, set, go.
+13	Are you ready? Ready, set, go.
+14	Are you ready? Ready, set, go.
+15	Are you ready? Ready, set, go.
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]

@@ -1,0 +1,89 @@
+0	Ga bener banget nih Tony ah
+1	Ga bener banget nih Tony ah
+2	Ga bener banget nih Tony ah
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	Tandanya mesti dicuci say
+6	Tandanya mesti dicuci say
+7	Tandanya mesti dicuci say
+8	Tandanya mesti dicuci say Tampoin
+9	Tandanya mesti dicuci say Tampoin
+10	Tampoin Sampe ke kulit kepalanya ya
+11	Tampoin Sampe ke kulit kepalanya ya
+12	Sampe ke kulit kepalanya ya
+13	Sampe ke kulit kepalanya ya
+14	Sampe ke kulit kepalanya ya
+15	Sampe ke kulit kepalanya ya
+16	Sampe ke kulit kepalanya ya
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	Terus mau gue blow
+23	Terus mau gue blow
+24	Terus mau gue blow
+25	Terus mau gue blow
+26	Terus mau gue blow Bagian akarnya dulu dinaikin ke atas
+27	Terus mau gue blow Bagian akarnya dulu dinaikin ke atas
+28	Bagian akarnya dulu dinaikin ke atas
+29	Bagian akarnya dulu dinaikin ke atas
+30	Bagian akarnya dulu dinaikin ke atas
+31	Bagian akarnya dulu dinaikin ke atas
+32	Bagian akarnya dulu dinaikin ke atas Pake hair dryer yang panasnya bisa diatur
+33	Bagian akarnya dulu dinaikin ke atas Pake hair dryer yang panasnya bisa diatur
+34	Pake hair dryer yang panasnya bisa diatur
+35	Pake hair dryer yang panasnya bisa diatur
+36	Pake hair dryer yang panasnya bisa diatur Ini gue pake yang sedang aja guys
+37	Pake hair dryer yang panasnya bisa diatur Ini gue pake yang sedang aja guys
+38	Ini gue pake yang sedang aja guys
+39	Ini gue pake yang sedang aja guys
+40	Ini gue pake yang sedang aja guys Ini udah setengah mateng
+41	Ini gue pake yang sedang aja guys Ini udah setengah mateng
+42	Ini udah setengah mateng Biar dia ga terlalu ngembang
+43	Ini udah setengah mateng Biar dia ga terlalu ngembang
+44	Biar dia ga terlalu ngembang
+45	Biar dia ga terlalu ngembang
+46	Biar dia ga terlalu ngembang Sekarang saatnya untuk ditarik ke bawah
+47	Biar dia ga terlalu ngembang Sekarang saatnya untuk ditarik ke bawah
+48	Biar dia ga terlalu ngembang Sekarang saatnya untuk ditarik ke bawah
+49	Sekarang saatnya untuk ditarik ke bawah
+50	Sekarang saatnya untuk ditarik ke bawah
+51	Sekarang saatnya untuk ditarik ke bawah Dan hair dryernya dari atas
+52	Sekarang saatnya untuk ditarik ke bawah Dan hair dryernya dari atas
+53	Dan hair dryernya dari atas
+54	Dan hair dryernya dari atas Bagian bawahnya diputer-puter kayak gini
+55	Dan hair dryernya dari atas Bagian bawahnya diputer-puter kayak gini
+56	Bagian bawahnya diputer-puter kayak gini
+57	Bagian bawahnya diputer-puter kayak gini
+58	Bagian bawahnya diputer-puter kayak gini
+59	Bagian bawahnya diputer-puter kayak gini Hampir jadi ulangin sekali lagi
+60	Bagian bawahnya diputer-puter kayak gini Hampir jadi ulangin sekali lagi
+61	Hampir jadi ulangin sekali lagi
+62	Hampir jadi ulangin sekali lagi
+63	Hampir jadi ulangin sekali lagi Naikin ke atas, tarik ke bawah
+64	Hampir jadi ulangin sekali lagi Naikin ke atas, tarik ke bawah
+65	Naikin ke atas, tarik ke bawah
+66	Naikin ke atas, tarik ke bawah Kalo udah di blow kayak gini
+67	Naikin ke atas, tarik ke bawah Kalo udah di blow kayak gini
+68	Kalo udah di blow kayak gini
+69	Kalo udah di blow kayak gini
+70	Kalo udah di blow kayak gini
+71	Kalo udah di blow kayak gini Discahya ya
+72	Kalo udah di blow kayak gini Discahya ya
+73	Discahya ya Ini pony tahan 2-3 hari tergantung kegiatan masing-masing oke
+74	Discahya ya Ini pony tahan 2-3 hari tergantung kegiatan masing-masing oke
+75	Ini pony tahan 2-3 hari tergantung kegiatan masing-masing oke
+76	Ini pony tahan 2-3 hari tergantung kegiatan masing-masing oke
+77	Ini pony tahan 2-3 hari tergantung kegiatan masing-masing oke
+78	Ini pony tahan 2-3 hari tergantung kegiatan masing-masing oke
+79	Ini pony tahan 2-3 hari tergantung kegiatan masing-masing oke
+80	Ini pony tahan 2-3 hari tergantung kegiatan masing-masing oke
+81	Ini pony tahan 2-3 hari tergantung kegiatan masing-masing oke
+82	Ini pony tahan 2-3 hari tergantung kegiatan masing-masing oke Jangan lupa di save dan di share videonya
+83	Ini pony tahan 2-3 hari tergantung kegiatan masing-masing oke Jangan lupa di save dan di share videonya
+84	Jangan lupa di save dan di share videonya
+85	Jangan lupa di save dan di share videonya
+86	Jangan lupa di save dan di share videonya
+87	Jangan lupa di save dan di share videonya
+88	Jangan lupa di save dan di share videonya

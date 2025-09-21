@@ -1,0 +1,167 @@
+0	Ini adalah BMW iX xDrive50, apa saja bedanya dengan sebelumnya xDrive40? Ini dia.
+1	Ini adalah BMW iX xDrive50, apa saja bedanya dengan sebelumnya xDrive40? Ini dia.
+2	Ini adalah BMW iX xDrive50, apa saja bedanya dengan sebelumnya xDrive40? Ini dia.
+3	Ini adalah BMW iX xDrive50, apa saja bedanya dengan sebelumnya xDrive40? Ini dia.
+4	Ini adalah BMW iX xDrive50, apa saja bedanya dengan sebelumnya xDrive40? Ini dia.
+5	Ini adalah BMW iX xDrive50, apa saja bedanya dengan sebelumnya xDrive40? Ini dia.
+6	Ini adalah BMW iX xDrive50, apa saja bedanya dengan sebelumnya xDrive40? Ini dia.
+7	Ini adalah BMW iX xDrive50, apa saja bedanya dengan sebelumnya xDrive40? Ini dia.
+8	Ini adalah BMW iX xDrive50, apa saja bedanya dengan sebelumnya xDrive40? Ini dia.
+9	Ini adalah BMW iX xDrive50, apa saja bedanya dengan sebelumnya xDrive40? Ini dia.
+10	Ini adalah BMW iX xDrive50, apa saja bedanya dengan sebelumnya xDrive40? Ini dia.
+11	Ini adalah BMW iX xDrive50, apa saja bedanya dengan sebelumnya xDrive40? Ini dia. Dari luar tidak banyak perbedaan, tapi sekarang velgnya dari 21 inci menjadi 22 inci,
+12	Dari luar tidak banyak perbedaan, tapi sekarang velgnya dari 21 inci menjadi 22 inci,
+13	Dari luar tidak banyak perbedaan, tapi sekarang velgnya dari 21 inci menjadi 22 inci,
+14	Dari luar tidak banyak perbedaan, tapi sekarang velgnya dari 21 inci menjadi 22 inci,
+15	Dari luar tidak banyak perbedaan, tapi sekarang velgnya dari 21 inci menjadi 22 inci,
+16	Dari luar tidak banyak perbedaan, tapi sekarang velgnya dari 21 inci menjadi 22 inci,
+17	Dari luar tidak banyak perbedaan, tapi sekarang velgnya dari 21 inci menjadi 22 inci,
+18	Dari luar tidak banyak perbedaan, tapi sekarang velgnya dari 21 inci menjadi 22 inci,
+19	Dari luar tidak banyak perbedaan, tapi sekarang velgnya dari 21 inci menjadi 22 inci,
+20	Dari luar tidak banyak perbedaan, tapi sekarang velgnya dari 21 inci menjadi 22 inci,
+21	Dari luar tidak banyak perbedaan, tapi sekarang velgnya dari 21 inci menjadi 22 inci, kemudian trim yang bronze sekarang menjadi silver, baik di grill maupun di bagian bodi samping.
+22	Dari luar tidak banyak perbedaan, tapi sekarang velgnya dari 21 inci menjadi 22 inci, kemudian trim yang bronze sekarang menjadi silver, baik di grill maupun di bagian bodi samping.
+23	kemudian trim yang bronze sekarang menjadi silver, baik di grill maupun di bagian bodi samping.
+24	kemudian trim yang bronze sekarang menjadi silver, baik di grill maupun di bagian bodi samping.
+25	kemudian trim yang bronze sekarang menjadi silver, baik di grill maupun di bagian bodi samping.
+26	kemudian trim yang bronze sekarang menjadi silver, baik di grill maupun di bagian bodi samping.
+27	kemudian trim yang bronze sekarang menjadi silver, baik di grill maupun di bagian bodi samping.
+28	kemudian trim yang bronze sekarang menjadi silver, baik di grill maupun di bagian bodi samping.
+29	kemudian trim yang bronze sekarang menjadi silver, baik di grill maupun di bagian bodi samping.
+30	kemudian trim yang bronze sekarang menjadi silver, baik di grill maupun di bagian bodi samping.
+31	kemudian trim yang bronze sekarang menjadi silver, baik di grill maupun di bagian bodi samping.
+32	kemudian trim yang bronze sekarang menjadi silver, baik di grill maupun di bagian bodi samping.
+33	kemudian trim yang bronze sekarang menjadi silver, baik di grill maupun di bagian bodi samping.
+34	kemudian trim yang bronze sekarang menjadi silver, baik di grill maupun di bagian bodi samping. Baterainya membesar, sebelumnya 71 kWh, sekarang lebih dari 100 kWh,
+35	kemudian trim yang bronze sekarang menjadi silver, baik di grill maupun di bagian bodi samping. Baterainya membesar, sebelumnya 71 kWh, sekarang lebih dari 100 kWh,
+36	Baterainya membesar, sebelumnya 71 kWh, sekarang lebih dari 100 kWh,
+37	Baterainya membesar, sebelumnya 71 kWh, sekarang lebih dari 100 kWh,
+38	Baterainya membesar, sebelumnya 71 kWh, sekarang lebih dari 100 kWh,
+39	Baterainya membesar, sebelumnya 71 kWh, sekarang lebih dari 100 kWh,
+40	Baterainya membesar, sebelumnya 71 kWh, sekarang lebih dari 100 kWh,
+41	Baterainya membesar, sebelumnya 71 kWh, sekarang lebih dari 100 kWh,
+42	Baterainya membesar, sebelumnya 71 kWh, sekarang lebih dari 100 kWh,
+43	Baterainya membesar, sebelumnya 71 kWh, sekarang lebih dari 100 kWh,
+44	Baterainya membesar, sebelumnya 71 kWh, sekarang lebih dari 100 kWh, yang membuat range dari mobil ini mencapai 630 km.
+45	yang membuat range dari mobil ini mencapai 630 km.
+46	yang membuat range dari mobil ini mencapai 630 km.
+47	yang membuat range dari mobil ini mencapai 630 km.
+48	yang membuat range dari mobil ini mencapai 630 km.
+49	yang membuat range dari mobil ini mencapai 630 km.
+50	yang membuat range dari mobil ini mencapai 630 km.
+51	yang membuat range dari mobil ini mencapai 630 km.
+52	yang membuat range dari mobil ini mencapai 630 km.
+53	yang membuat range dari mobil ini mencapai 630 km. Tenaganya juga membesar, kalau sebelumnya hanya 322 HP,
+54	yang membuat range dari mobil ini mencapai 630 km. Tenaganya juga membesar, kalau sebelumnya hanya 322 HP,
+55	Tenaganya juga membesar, kalau sebelumnya hanya 322 HP,
+56	Tenaganya juga membesar, kalau sebelumnya hanya 322 HP,
+57	Tenaganya juga membesar, kalau sebelumnya hanya 322 HP,
+58	Tenaganya juga membesar, kalau sebelumnya hanya 322 HP,
+59	Tenaganya juga membesar, kalau sebelumnya hanya 322 HP,
+60	Tenaganya juga membesar, kalau sebelumnya hanya 322 HP,
+61	Tenaganya juga membesar, kalau sebelumnya hanya 322 HP, sekarang menjadi 523 HP dan torsinya 765 Nm,
+62	Tenaganya juga membesar, kalau sebelumnya hanya 322 HP, sekarang menjadi 523 HP dan torsinya 765 Nm,
+63	sekarang menjadi 523 HP dan torsinya 765 Nm,
+64	sekarang menjadi 523 HP dan torsinya 765 Nm,
+65	sekarang menjadi 523 HP dan torsinya 765 Nm,
+66	sekarang menjadi 523 HP dan torsinya 765 Nm,
+67	sekarang menjadi 523 HP dan torsinya 765 Nm,
+68	sekarang menjadi 523 HP dan torsinya 765 Nm,
+69	sekarang menjadi 523 HP dan torsinya 765 Nm,
+70	sekarang menjadi 523 HP dan torsinya 765 Nm,
+71	sekarang menjadi 523 HP dan torsinya 765 Nm,
+72	sekarang menjadi 523 HP dan torsinya 765 Nm, yang bisa melanjutkan mobil ini 0-100 km per jam dalam 4,6 detik.
+73	yang bisa melanjutkan mobil ini 0-100 km per jam dalam 4,6 detik.
+74	yang bisa melanjutkan mobil ini 0-100 km per jam dalam 4,6 detik.
+75	yang bisa melanjutkan mobil ini 0-100 km per jam dalam 4,6 detik.
+76	yang bisa melanjutkan mobil ini 0-100 km per jam dalam 4,6 detik.
+77	yang bisa melanjutkan mobil ini 0-100 km per jam dalam 4,6 detik.
+78	yang bisa melanjutkan mobil ini 0-100 km per jam dalam 4,6 detik.
+79	yang bisa melanjutkan mobil ini 0-100 km per jam dalam 4,6 detik.
+80	yang bisa melanjutkan mobil ini 0-100 km per jam dalam 4,6 detik.
+81	yang bisa melanjutkan mobil ini 0-100 km per jam dalam 4,6 detik.
+82	yang bisa melanjutkan mobil ini 0-100 km per jam dalam 4,6 detik. Bagian dalamnya sama saja, tapi untuk pertama kalinya BMW menempatkan BMW Connected Drive di BMW iX ini,
+83	yang bisa melanjutkan mobil ini 0-100 km per jam dalam 4,6 detik. Bagian dalamnya sama saja, tapi untuk pertama kalinya BMW menempatkan BMW Connected Drive di BMW iX ini,
+84	Bagian dalamnya sama saja, tapi untuk pertama kalinya BMW menempatkan BMW Connected Drive di BMW iX ini,
+85	Bagian dalamnya sama saja, tapi untuk pertama kalinya BMW menempatkan BMW Connected Drive di BMW iX ini,
+86	Bagian dalamnya sama saja, tapi untuk pertama kalinya BMW menempatkan BMW Connected Drive di BMW iX ini,
+87	Bagian dalamnya sama saja, tapi untuk pertama kalinya BMW menempatkan BMW Connected Drive di BMW iX ini,
+88	Bagian dalamnya sama saja, tapi untuk pertama kalinya BMW menempatkan BMW Connected Drive di BMW iX ini,
+89	Bagian dalamnya sama saja, tapi untuk pertama kalinya BMW menempatkan BMW Connected Drive di BMW iX ini,
+90	Bagian dalamnya sama saja, tapi untuk pertama kalinya BMW menempatkan BMW Connected Drive di BMW iX ini,
+91	Bagian dalamnya sama saja, tapi untuk pertama kalinya BMW menempatkan BMW Connected Drive di BMW iX ini,
+92	Bagian dalamnya sama saja, tapi untuk pertama kalinya BMW menempatkan BMW Connected Drive di BMW iX ini,
+93	Bagian dalamnya sama saja, tapi untuk pertama kalinya BMW menempatkan BMW Connected Drive di BMW iX ini,
+94	Bagian dalamnya sama saja, tapi untuk pertama kalinya BMW menempatkan BMW Connected Drive di BMW iX ini,
+95	Bagian dalamnya sama saja, tapi untuk pertama kalinya BMW menempatkan BMW Connected Drive di BMW iX ini, jadi mobil ini terhubung dengan internet,
+96	Bagian dalamnya sama saja, tapi untuk pertama kalinya BMW menempatkan BMW Connected Drive di BMW iX ini, jadi mobil ini terhubung dengan internet,
+97	jadi mobil ini terhubung dengan internet,
+98	jadi mobil ini terhubung dengan internet,
+99	jadi mobil ini terhubung dengan internet,
+100	jadi mobil ini terhubung dengan internet,
+101	jadi mobil ini terhubung dengan internet, dan kita bisa melakukan subscription ke fitur yang kita butuhkan,
+102	dan kita bisa melakukan subscription ke fitur yang kita butuhkan,
+103	dan kita bisa melakukan subscription ke fitur yang kita butuhkan,
+104	dan kita bisa melakukan subscription ke fitur yang kita butuhkan,
+105	dan kita bisa melakukan subscription ke fitur yang kita butuhkan,
+106	dan kita bisa melakukan subscription ke fitur yang kita butuhkan,
+107	dan kita bisa melakukan subscription ke fitur yang kita butuhkan,
+108	dan kita bisa melakukan subscription ke fitur yang kita butuhkan,
+109	dan kita bisa melakukan subscription ke fitur yang kita butuhkan, dan tidak perlu membayar.
+110	dan kita bisa melakukan subscription ke fitur yang kita butuhkan, dan tidak perlu membayar.
+111	dan tidak perlu membayar.
+112	dan tidak perlu membayar. Untuk fitur yang tidak kita butuhkan.
+113	dan tidak perlu membayar. Untuk fitur yang tidak kita butuhkan.
+114	Untuk fitur yang tidak kita butuhkan.
+115	Untuk fitur yang tidak kita butuhkan.
+116	Untuk fitur yang tidak kita butuhkan. Mobil ini juga sudah support over the air update,
+117	Mobil ini juga sudah support over the air update,
+118	Mobil ini juga sudah support over the air update,
+119	Mobil ini juga sudah support over the air update,
+120	Mobil ini juga sudah support over the air update,
+121	Mobil ini juga sudah support over the air update,
+122	Mobil ini juga sudah support over the air update, jadi untuk update software-nya sangat mudah, bisa dilakukan sendiri, tidak perlu ke bengkel resmi.
+123	Mobil ini juga sudah support over the air update, jadi untuk update software-nya sangat mudah, bisa dilakukan sendiri, tidak perlu ke bengkel resmi.
+124	jadi untuk update software-nya sangat mudah, bisa dilakukan sendiri, tidak perlu ke bengkel resmi.
+125	jadi untuk update software-nya sangat mudah, bisa dilakukan sendiri, tidak perlu ke bengkel resmi.
+126	jadi untuk update software-nya sangat mudah, bisa dilakukan sendiri, tidak perlu ke bengkel resmi.
+127	jadi untuk update software-nya sangat mudah, bisa dilakukan sendiri, tidak perlu ke bengkel resmi.
+128	jadi untuk update software-nya sangat mudah, bisa dilakukan sendiri, tidak perlu ke bengkel resmi.
+129	jadi untuk update software-nya sangat mudah, bisa dilakukan sendiri, tidak perlu ke bengkel resmi.
+130	jadi untuk update software-nya sangat mudah, bisa dilakukan sendiri, tidak perlu ke bengkel resmi.
+131	jadi untuk update software-nya sangat mudah, bisa dilakukan sendiri, tidak perlu ke bengkel resmi. Mobil ini sekarang menggunakan 4-wheel steering untuk radius putar yang lebih pendek,
+132	Mobil ini sekarang menggunakan 4-wheel steering untuk radius putar yang lebih pendek,
+133	Mobil ini sekarang menggunakan 4-wheel steering untuk radius putar yang lebih pendek,
+134	Mobil ini sekarang menggunakan 4-wheel steering untuk radius putar yang lebih pendek,
+135	Mobil ini sekarang menggunakan 4-wheel steering untuk radius putar yang lebih pendek,
+136	Mobil ini sekarang menggunakan 4-wheel steering untuk radius putar yang lebih pendek,
+137	Mobil ini sekarang menggunakan 4-wheel steering untuk radius putar yang lebih pendek,
+138	Mobil ini sekarang menggunakan 4-wheel steering untuk radius putar yang lebih pendek, dan suspensinya sudah air suspension.
+139	Mobil ini sekarang menggunakan 4-wheel steering untuk radius putar yang lebih pendek, dan suspensinya sudah air suspension.
+140	dan suspensinya sudah air suspension.
+141	dan suspensinya sudah air suspension.
+142	dan suspensinya sudah air suspension.
+143	dan suspensinya sudah air suspension.
+144	Di Indonesia, BMW iX xDrive50 ini dijual seharga sekitar 2,6 miliar rupiah off the road,
+145	Di Indonesia, BMW iX xDrive50 ini dijual seharga sekitar 2,6 miliar rupiah off the road,
+146	Di Indonesia, BMW iX xDrive50 ini dijual seharga sekitar 2,6 miliar rupiah off the road,
+147	Di Indonesia, BMW iX xDrive50 ini dijual seharga sekitar 2,6 miliar rupiah off the road,
+148	Di Indonesia, BMW iX xDrive50 ini dijual seharga sekitar 2,6 miliar rupiah off the road,
+149	Di Indonesia, BMW iX xDrive50 ini dijual seharga sekitar 2,6 miliar rupiah off the road,
+150	Di Indonesia, BMW iX xDrive50 ini dijual seharga sekitar 2,6 miliar rupiah off the road,
+151	Di Indonesia, BMW iX xDrive50 ini dijual seharga sekitar 2,6 miliar rupiah off the road,
+152	Di Indonesia, BMW iX xDrive50 ini dijual seharga sekitar 2,6 miliar rupiah off the road,
+153	Di Indonesia, BMW iX xDrive50 ini dijual seharga sekitar 2,6 miliar rupiah off the road,
+154	Di Indonesia, BMW iX xDrive50 ini dijual seharga sekitar 2,6 miliar rupiah off the road,
+155	Di Indonesia, BMW iX xDrive50 ini dijual seharga sekitar 2,6 miliar rupiah off the road,
+156	Di Indonesia, BMW iX xDrive50 ini dijual seharga sekitar 2,6 miliar rupiah off the road,
+157	Di Indonesia, BMW iX xDrive50 ini dijual seharga sekitar 2,6 miliar rupiah off the road,
+158	Di Indonesia, BMW iX xDrive50 ini dijual seharga sekitar 2,6 miliar rupiah off the road, yang artinya tidak berbeda jauh dengan xDrive40.
+159	Di Indonesia, BMW iX xDrive50 ini dijual seharga sekitar 2,6 miliar rupiah off the road, yang artinya tidak berbeda jauh dengan xDrive40.
+160	yang artinya tidak berbeda jauh dengan xDrive40.
+161	yang artinya tidak berbeda jauh dengan xDrive40.
+162	yang artinya tidak berbeda jauh dengan xDrive40.
+163	yang artinya tidak berbeda jauh dengan xDrive40.
+164	yang artinya tidak berbeda jauh dengan xDrive40.
+165	[NO_SPEECH]
+166	[NO_SPEECH]

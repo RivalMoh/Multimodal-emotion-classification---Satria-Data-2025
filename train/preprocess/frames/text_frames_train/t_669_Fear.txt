@@ -1,0 +1,123 @@
+0	Kabar duka datang dari suami jurnalis Najwa Shihab, Ibrahim Asegaf,
+1	Kabar duka datang dari suami jurnalis Najwa Shihab, Ibrahim Asegaf,
+2	Kabar duka datang dari suami jurnalis Najwa Shihab, Ibrahim Asegaf,
+3	Kabar duka datang dari suami jurnalis Najwa Shihab, Ibrahim Asegaf,
+4	Kabar duka datang dari suami jurnalis Najwa Shihab, Ibrahim Asegaf,
+5	Kabar duka datang dari suami jurnalis Najwa Shihab, Ibrahim Asegaf,
+6	Kabar duka datang dari suami jurnalis Najwa Shihab, Ibrahim Asegaf, yang baru saja meninggal dunia akibat struk yang menyebabkan pendarahan di otak.
+7	Kabar duka datang dari suami jurnalis Najwa Shihab, Ibrahim Asegaf, yang baru saja meninggal dunia akibat struk yang menyebabkan pendarahan di otak.
+8	yang baru saja meninggal dunia akibat struk yang menyebabkan pendarahan di otak.
+9	yang baru saja meninggal dunia akibat struk yang menyebabkan pendarahan di otak.
+10	yang baru saja meninggal dunia akibat struk yang menyebabkan pendarahan di otak.
+11	yang baru saja meninggal dunia akibat struk yang menyebabkan pendarahan di otak.
+12	yang baru saja meninggal dunia akibat struk yang menyebabkan pendarahan di otak.
+13	yang baru saja meninggal dunia akibat struk yang menyebabkan pendarahan di otak.
+14	yang baru saja meninggal dunia akibat struk yang menyebabkan pendarahan di otak.
+15	yang baru saja meninggal dunia akibat struk yang menyebabkan pendarahan di otak. Pendarahan otak bisa terjadi karena pembuluh darah di otak pecah,
+16	Pendarahan otak bisa terjadi karena pembuluh darah di otak pecah,
+17	Pendarahan otak bisa terjadi karena pembuluh darah di otak pecah,
+18	Pendarahan otak bisa terjadi karena pembuluh darah di otak pecah,
+19	Pendarahan otak bisa terjadi karena pembuluh darah di otak pecah,
+20	Pendarahan otak bisa terjadi karena pembuluh darah di otak pecah,
+21	Pendarahan otak bisa terjadi karena pembuluh darah di otak pecah, apalagi jika tidak segera diatasi, akan membuat kondisi lebih parah.
+22	Pendarahan otak bisa terjadi karena pembuluh darah di otak pecah, apalagi jika tidak segera diatasi, akan membuat kondisi lebih parah.
+23	apalagi jika tidak segera diatasi, akan membuat kondisi lebih parah.
+24	apalagi jika tidak segera diatasi, akan membuat kondisi lebih parah.
+25	apalagi jika tidak segera diatasi, akan membuat kondisi lebih parah.
+26	apalagi jika tidak segera diatasi, akan membuat kondisi lebih parah.
+27	apalagi jika tidak segera diatasi, akan membuat kondisi lebih parah.
+28	apalagi jika tidak segera diatasi, akan membuat kondisi lebih parah.
+29	apalagi jika tidak segera diatasi, akan membuat kondisi lebih parah.
+30	Darah yang keluar ini bisa mengiritasi jaringan otak,
+31	Darah yang keluar ini bisa mengiritasi jaringan otak,
+32	Darah yang keluar ini bisa mengiritasi jaringan otak,
+33	Darah yang keluar ini bisa mengiritasi jaringan otak,
+34	Darah yang keluar ini bisa mengiritasi jaringan otak,
+35	Darah yang keluar ini bisa mengiritasi jaringan otak,
+36	Darah yang keluar ini bisa mengiritasi jaringan otak, menyebabkan pembengkakan dan juga bisa menggumpal,
+37	Darah yang keluar ini bisa mengiritasi jaringan otak, menyebabkan pembengkakan dan juga bisa menggumpal,
+38	menyebabkan pembengkakan dan juga bisa menggumpal,
+39	menyebabkan pembengkakan dan juga bisa menggumpal,
+40	menyebabkan pembengkakan dan juga bisa menggumpal,
+41	menyebabkan pembengkakan dan juga bisa menggumpal, menekan jaringan otak serta mengganggu aliran darah,
+42	menyebabkan pembengkakan dan juga bisa menggumpal, menekan jaringan otak serta mengganggu aliran darah,
+43	menekan jaringan otak serta mengganggu aliran darah,
+44	menekan jaringan otak serta mengganggu aliran darah,
+45	menekan jaringan otak serta mengganggu aliran darah, sehingga suplai oksigen terganggu.
+46	menekan jaringan otak serta mengganggu aliran darah, sehingga suplai oksigen terganggu.
+47	sehingga suplai oksigen terganggu.
+48	sehingga suplai oksigen terganggu.
+49	sehingga suplai oksigen terganggu.
+50	sehingga suplai oksigen terganggu. Sehingga kondisi tersebut bisa menyebabkan sel-sel otak bisa rusak, bahkan mati.
+51	Sehingga kondisi tersebut bisa menyebabkan sel-sel otak bisa rusak, bahkan mati.
+52	Sehingga kondisi tersebut bisa menyebabkan sel-sel otak bisa rusak, bahkan mati.
+53	Sehingga kondisi tersebut bisa menyebabkan sel-sel otak bisa rusak, bahkan mati.
+54	Sehingga kondisi tersebut bisa menyebabkan sel-sel otak bisa rusak, bahkan mati.
+55	Sehingga kondisi tersebut bisa menyebabkan sel-sel otak bisa rusak, bahkan mati.
+56	Sehingga kondisi tersebut bisa menyebabkan sel-sel otak bisa rusak, bahkan mati.
+57	Sehingga kondisi tersebut bisa menyebabkan sel-sel otak bisa rusak, bahkan mati.
+58	Sehingga kondisi tersebut bisa menyebabkan sel-sel otak bisa rusak, bahkan mati. Gejala umum pendarahan otak diantaranya,
+59	Sehingga kondisi tersebut bisa menyebabkan sel-sel otak bisa rusak, bahkan mati. Gejala umum pendarahan otak diantaranya,
+60	Gejala umum pendarahan otak diantaranya,
+61	Gejala umum pendarahan otak diantaranya,
+62	Gejala umum pendarahan otak diantaranya,
+63	Gejala umum pendarahan otak diantaranya,
+64	Gejala umum pendarahan otak diantaranya,
+65	sakit kepala hebat mendadak,
+66	sakit kepala hebat mendadak,
+67	sakit kepala hebat mendadak,
+68	sakit kepala hebat mendadak,
+69	sakit kepala hebat mendadak,
+70	sakit kepala hebat mendadak, lemah pada salah satu sisi tubuh,
+71	lemah pada salah satu sisi tubuh,
+72	lemah pada salah satu sisi tubuh,
+73	lemah pada salah satu sisi tubuh,
+74	lemah pada salah satu sisi tubuh,
+75	kesulitan bicara, melihat, menelan,
+76	kesulitan bicara, melihat, menelan,
+77	kesulitan bicara, melihat, menelan,
+78	kesulitan bicara, melihat, menelan,
+79	kesulitan bicara, melihat, menelan,
+80	kesulitan bicara, melihat, menelan,
+81	kesulitan bicara, melihat, menelan,
+82	linglung, mengantuk, hingga kehilangan kesadaran.
+83	linglung, mengantuk, hingga kehilangan kesadaran.
+84	linglung, mengantuk, hingga kehilangan kesadaran.
+85	linglung, mengantuk, hingga kehilangan kesadaran.
+86	linglung, mengantuk, hingga kehilangan kesadaran.
+87	linglung, mengantuk, hingga kehilangan kesadaran.
+88	linglung, mengantuk, hingga kehilangan kesadaran.
+89	Ingat, semua gejala ini adalah kondisi darurat medis yang perlu ditangani secepat mungkin,
+90	Ingat, semua gejala ini adalah kondisi darurat medis yang perlu ditangani secepat mungkin,
+91	Ingat, semua gejala ini adalah kondisi darurat medis yang perlu ditangani secepat mungkin,
+92	Ingat, semua gejala ini adalah kondisi darurat medis yang perlu ditangani secepat mungkin,
+93	Ingat, semua gejala ini adalah kondisi darurat medis yang perlu ditangani secepat mungkin,
+94	Ingat, semua gejala ini adalah kondisi darurat medis yang perlu ditangani secepat mungkin,
+95	Ingat, semua gejala ini adalah kondisi darurat medis yang perlu ditangani secepat mungkin,
+96	Ingat, semua gejala ini adalah kondisi darurat medis yang perlu ditangani secepat mungkin,
+97	Ingat, semua gejala ini adalah kondisi darurat medis yang perlu ditangani secepat mungkin,
+98	Ingat, semua gejala ini adalah kondisi darurat medis yang perlu ditangani secepat mungkin, jadi jangan sampai terlambat ya sobat sehat.
+99	Ingat, semua gejala ini adalah kondisi darurat medis yang perlu ditangani secepat mungkin, jadi jangan sampai terlambat ya sobat sehat.
+100	jadi jangan sampai terlambat ya sobat sehat.
+101	jadi jangan sampai terlambat ya sobat sehat.
+102	jadi jangan sampai terlambat ya sobat sehat. Semoga almarhum mendapat tempat terbaik di sisinya,
+103	Semoga almarhum mendapat tempat terbaik di sisinya,
+104	Semoga almarhum mendapat tempat terbaik di sisinya,
+105	Semoga almarhum mendapat tempat terbaik di sisinya,
+106	Semoga almarhum mendapat tempat terbaik di sisinya,
+107	Semoga almarhum mendapat tempat terbaik di sisinya, dan semoga kita semua bisa lebih waspada terhadap gejala struk dan pendarahan otak.
+108	Semoga almarhum mendapat tempat terbaik di sisinya, dan semoga kita semua bisa lebih waspada terhadap gejala struk dan pendarahan otak.
+109	dan semoga kita semua bisa lebih waspada terhadap gejala struk dan pendarahan otak.
+110	dan semoga kita semua bisa lebih waspada terhadap gejala struk dan pendarahan otak.
+111	dan semoga kita semua bisa lebih waspada terhadap gejala struk dan pendarahan otak.
+112	dan semoga kita semua bisa lebih waspada terhadap gejala struk dan pendarahan otak.
+113	dan semoga kita semua bisa lebih waspada terhadap gejala struk dan pendarahan otak.
+114	dan semoga kita semua bisa lebih waspada terhadap gejala struk dan pendarahan otak.
+115	dan semoga kita semua bisa lebih waspada terhadap gejala struk dan pendarahan otak.
+116	dan semoga kita semua bisa lebih waspada terhadap gejala struk dan pendarahan otak.
+117	dan semoga kita semua bisa lebih waspada terhadap gejala struk dan pendarahan otak.
+118	[NO_SPEECH]
+119	Terima kasih.
+120	Terima kasih.
+121	Terima kasih.
+122	Terima kasih.

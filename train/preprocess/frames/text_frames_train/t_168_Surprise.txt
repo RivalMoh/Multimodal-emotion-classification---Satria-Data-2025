@@ -1,0 +1,67 @@
+0	Udahlah desain makin keren, harga makin murah, kenceng tapi tetap irit.
+1	Udahlah desain makin keren, harga makin murah, kenceng tapi tetap irit.
+2	Udahlah desain makin keren, harga makin murah, kenceng tapi tetap irit.
+3	Udahlah desain makin keren, harga makin murah, kenceng tapi tetap irit.
+4	Udahlah desain makin keren, harga makin murah, kenceng tapi tetap irit. Emang seirit apa sih Honda HR-V Hybrid terbaru ini?
+5	Udahlah desain makin keren, harga makin murah, kenceng tapi tetap irit. Emang seirit apa sih Honda HR-V Hybrid terbaru ini?
+6	Emang seirit apa sih Honda HR-V Hybrid terbaru ini?
+7	Emang seirit apa sih Honda HR-V Hybrid terbaru ini?
+8	Emang seirit apa sih Honda HR-V Hybrid terbaru ini?
+9	Emang seirit apa sih Honda HR-V Hybrid terbaru ini? Marki Cokcing, kita bawa dari Jakarta ke Anyer.
+10	Marki Cokcing, kita bawa dari Jakarta ke Anyer.
+11	Marki Cokcing, kita bawa dari Jakarta ke Anyer.
+12	Marki Cokcing, kita bawa dari Jakarta ke Anyer.
+13	Marki Cokcing, kita bawa dari Jakarta ke Anyer.
+14	Marki Cokcing, kita bawa dari Jakarta ke Anyer. Dalam perjalanan kali ini, mobil berisikan 3 orang dengan bobot total hingga 232 kg.
+15	Dalam perjalanan kali ini, mobil berisikan 3 orang dengan bobot total hingga 232 kg.
+16	Dalam perjalanan kali ini, mobil berisikan 3 orang dengan bobot total hingga 232 kg.
+17	Dalam perjalanan kali ini, mobil berisikan 3 orang dengan bobot total hingga 232 kg.
+18	Dalam perjalanan kali ini, mobil berisikan 3 orang dengan bobot total hingga 232 kg.
+19	Dalam perjalanan kali ini, mobil berisikan 3 orang dengan bobot total hingga 232 kg.
+20	Dalam perjalanan kali ini, mobil berisikan 3 orang dengan bobot total hingga 232 kg.
+21	Dalam perjalanan kali ini, mobil berisikan 3 orang dengan bobot total hingga 232 kg.
+22	Dalam perjalanan kali ini, mobil berisikan 3 orang dengan bobot total hingga 232 kg.
+23	Dalam perjalanan kali ini, mobil berisikan 3 orang dengan bobot total hingga 232 kg.
+24	Ini menggunakan semua bantuan mode berkendara seperti mode eco dan penggunaan AC dengan intensitas konsisten di 21 derajat Celcius.
+25	Ini menggunakan semua bantuan mode berkendara seperti mode eco dan penggunaan AC dengan intensitas konsisten di 21 derajat Celcius.
+26	Ini menggunakan semua bantuan mode berkendara seperti mode eco dan penggunaan AC dengan intensitas konsisten di 21 derajat Celcius.
+27	Ini menggunakan semua bantuan mode berkendara seperti mode eco dan penggunaan AC dengan intensitas konsisten di 21 derajat Celcius.
+28	Ini menggunakan semua bantuan mode berkendara seperti mode eco dan penggunaan AC dengan intensitas konsisten di 21 derajat Celcius.
+29	Ini menggunakan semua bantuan mode berkendara seperti mode eco dan penggunaan AC dengan intensitas konsisten di 21 derajat Celcius.
+30	Ini menggunakan semua bantuan mode berkendara seperti mode eco dan penggunaan AC dengan intensitas konsisten di 21 derajat Celcius.
+31	Ini menggunakan semua bantuan mode berkendara seperti mode eco dan penggunaan AC dengan intensitas konsisten di 21 derajat Celcius.
+32	Ini menggunakan semua bantuan mode berkendara seperti mode eco dan penggunaan AC dengan intensitas konsisten di 21 derajat Celcius.
+33	Ini menggunakan semua bantuan mode berkendara seperti mode eco dan penggunaan AC dengan intensitas konsisten di 21 derajat Celcius.
+34	Ini menggunakan semua bantuan mode berkendara seperti mode eco dan penggunaan AC dengan intensitas konsisten di 21 derajat Celcius.
+35	Ini menggunakan semua bantuan mode berkendara seperti mode eco dan penggunaan AC dengan intensitas konsisten di 21 derajat Celcius.
+36	Ini menggunakan semua bantuan mode berkendara seperti mode eco dan penggunaan AC dengan intensitas konsisten di 21 derajat Celcius.
+37	Ini menggunakan semua bantuan mode berkendara seperti mode eco dan penggunaan AC dengan intensitas konsisten di 21 derajat Celcius.
+38	Ini menggunakan semua bantuan mode berkendara seperti mode eco dan penggunaan AC dengan intensitas konsisten di 21 derajat Celcius.
+39	[NO_SPEECH]
+40	Dengan benchmark standar di 25,5 km per liter, harusnya sih nggak sulit untuk kami bisa mendapatkan angka 26,4 km per liter
+41	Dengan benchmark standar di 25,5 km per liter, harusnya sih nggak sulit untuk kami bisa mendapatkan angka 26,4 km per liter
+42	Dengan benchmark standar di 25,5 km per liter, harusnya sih nggak sulit untuk kami bisa mendapatkan angka 26,4 km per liter
+43	Dengan benchmark standar di 25,5 km per liter, harusnya sih nggak sulit untuk kami bisa mendapatkan angka 26,4 km per liter
+44	Dengan benchmark standar di 25,5 km per liter, harusnya sih nggak sulit untuk kami bisa mendapatkan angka 26,4 km per liter
+45	Dengan benchmark standar di 25,5 km per liter, harusnya sih nggak sulit untuk kami bisa mendapatkan angka 26,4 km per liter
+46	Dengan benchmark standar di 25,5 km per liter, harusnya sih nggak sulit untuk kami bisa mendapatkan angka 26,4 km per liter
+47	Dengan benchmark standar di 25,5 km per liter, harusnya sih nggak sulit untuk kami bisa mendapatkan angka 26,4 km per liter
+48	Dengan benchmark standar di 25,5 km per liter, harusnya sih nggak sulit untuk kami bisa mendapatkan angka 26,4 km per liter
+49	Dengan benchmark standar di 25,5 km per liter, harusnya sih nggak sulit untuk kami bisa mendapatkan angka 26,4 km per liter
+50	Dengan benchmark standar di 25,5 km per liter, harusnya sih nggak sulit untuk kami bisa mendapatkan angka 26,4 km per liter
+51	Dengan benchmark standar di 25,5 km per liter, harusnya sih nggak sulit untuk kami bisa mendapatkan angka 26,4 km per liter
+52	Dengan benchmark standar di 25,5 km per liter, harusnya sih nggak sulit untuk kami bisa mendapatkan angka 26,4 km per liter dengan jarak termur total hingga 133,3 km.
+53	Dengan benchmark standar di 25,5 km per liter, harusnya sih nggak sulit untuk kami bisa mendapatkan angka 26,4 km per liter dengan jarak termur total hingga 133,3 km.
+54	dengan jarak termur total hingga 133,3 km.
+55	dengan jarak termur total hingga 133,3 km.
+56	dengan jarak termur total hingga 133,3 km.
+57	dengan jarak termur total hingga 133,3 km.
+58	dengan jarak termur total hingga 133,3 km.
+59	Irit udah pasti nih, kenceng apalagi.
+60	Irit udah pasti nih, kenceng apalagi.
+61	Irit udah pasti nih, kenceng apalagi.
+62	Irit udah pasti nih, kenceng apalagi.
+63	Irit udah pasti nih, kenceng apalagi.
+64	Irit udah pasti nih, kenceng apalagi.
+65	Irit udah pasti nih, kenceng apalagi.
+66	[NO_SPEECH]

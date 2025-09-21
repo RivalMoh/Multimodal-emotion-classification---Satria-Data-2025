@@ -1,0 +1,148 @@
+0	Mobil yang lebih tua katanya mesti pakai oli yang lebih kental. Emang bener?
+1	Mobil yang lebih tua katanya mesti pakai oli yang lebih kental. Emang bener?
+2	Mobil yang lebih tua katanya mesti pakai oli yang lebih kental. Emang bener?
+3	Mobil yang lebih tua katanya mesti pakai oli yang lebih kental. Emang bener?
+4	Mobil yang lebih tua katanya mesti pakai oli yang lebih kental. Emang bener?
+5	Mobil yang lebih tua katanya mesti pakai oli yang lebih kental. Emang bener?
+6	Mobil yang lebih tua katanya mesti pakai oli yang lebih kental. Emang bener?
+7	Mobil yang lebih tua katanya mesti pakai oli yang lebih kental. Emang bener? Seenggaknya ada dua faktor yang paling penting untuk diperhatikan.
+8	Mobil yang lebih tua katanya mesti pakai oli yang lebih kental. Emang bener? Seenggaknya ada dua faktor yang paling penting untuk diperhatikan.
+9	Seenggaknya ada dua faktor yang paling penting untuk diperhatikan.
+10	Seenggaknya ada dua faktor yang paling penting untuk diperhatikan.
+11	Seenggaknya ada dua faktor yang paling penting untuk diperhatikan.
+12	Seenggaknya ada dua faktor yang paling penting untuk diperhatikan. Pertama, viskositas oli yang mana udah termasuk di dalam rekomendasi manual book,
+13	Seenggaknya ada dua faktor yang paling penting untuk diperhatikan. Pertama, viskositas oli yang mana udah termasuk di dalam rekomendasi manual book,
+14	Pertama, viskositas oli yang mana udah termasuk di dalam rekomendasi manual book,
+15	Pertama, viskositas oli yang mana udah termasuk di dalam rekomendasi manual book,
+16	Pertama, viskositas oli yang mana udah termasuk di dalam rekomendasi manual book,
+17	Pertama, viskositas oli yang mana udah termasuk di dalam rekomendasi manual book,
+18	Pertama, viskositas oli yang mana udah termasuk di dalam rekomendasi manual book,
+19	Pertama, viskositas oli yang mana udah termasuk di dalam rekomendasi manual book,
+20	Pertama, viskositas oli yang mana udah termasuk di dalam rekomendasi manual book, beserta rentang alternatif yang aman.
+21	Pertama, viskositas oli yang mana udah termasuk di dalam rekomendasi manual book, beserta rentang alternatif yang aman.
+22	beserta rentang alternatif yang aman.
+23	beserta rentang alternatif yang aman.
+24	beserta rentang alternatif yang aman. Kalau misalnya oli terlalu kental, bisa jadi menurunkan efisiensi bahan bakar
+25	beserta rentang alternatif yang aman. Kalau misalnya oli terlalu kental, bisa jadi menurunkan efisiensi bahan bakar
+26	Kalau misalnya oli terlalu kental, bisa jadi menurunkan efisiensi bahan bakar
+27	Kalau misalnya oli terlalu kental, bisa jadi menurunkan efisiensi bahan bakar
+28	Kalau misalnya oli terlalu kental, bisa jadi menurunkan efisiensi bahan bakar
+29	Kalau misalnya oli terlalu kental, bisa jadi menurunkan efisiensi bahan bakar
+30	Kalau misalnya oli terlalu kental, bisa jadi menurunkan efisiensi bahan bakar
+31	Kalau misalnya oli terlalu kental, bisa jadi menurunkan efisiensi bahan bakar
+32	Kalau misalnya oli terlalu kental, bisa jadi menurunkan efisiensi bahan bakar karena kinerja mesin jadi lebih berat.
+33	Kalau misalnya oli terlalu kental, bisa jadi menurunkan efisiensi bahan bakar karena kinerja mesin jadi lebih berat.
+34	karena kinerja mesin jadi lebih berat.
+35	karena kinerja mesin jadi lebih berat.
+36	karena kinerja mesin jadi lebih berat.
+37	karena kinerja mesin jadi lebih berat.
+38	[NO_SPEECH]
+39	Perhatikan API service pada oli.
+40	Perhatikan API service pada oli.
+41	Perhatikan API service pada oli.
+42	Perhatikan API service pada oli. Kalau dari pemberdikan harus pakai API service SN,
+43	Kalau dari pemberdikan harus pakai API service SN,
+44	Kalau dari pemberdikan harus pakai API service SN,
+45	Kalau dari pemberdikan harus pakai API service SN,
+46	Kalau dari pemberdikan harus pakai API service SN, pakailah yang sesuai, API service SN juga.
+47	Kalau dari pemberdikan harus pakai API service SN, pakailah yang sesuai, API service SN juga.
+48	pakailah yang sesuai, API service SN juga.
+49	pakailah yang sesuai, API service SN juga.
+50	pakailah yang sesuai, API service SN juga.
+51	pakailah yang sesuai, API service SN juga. Jangan pakai yang lebih rendah.
+52	pakailah yang sesuai, API service SN juga. Jangan pakai yang lebih rendah.
+53	Jangan pakai yang lebih rendah.
+54	Jangan pakai yang lebih rendah. FYI ya, API service SN itu udah yang paling tinggi di mesin bensin.
+55	Jangan pakai yang lebih rendah. FYI ya, API service SN itu udah yang paling tinggi di mesin bensin.
+56	FYI ya, API service SN itu udah yang paling tinggi di mesin bensin.
+57	FYI ya, API service SN itu udah yang paling tinggi di mesin bensin.
+58	FYI ya, API service SN itu udah yang paling tinggi di mesin bensin.
+59	FYI ya, API service SN itu udah yang paling tinggi di mesin bensin.
+60	FYI ya, API service SN itu udah yang paling tinggi di mesin bensin. Yang terakhir, pilih-pilih oli mesin sesuai kebutuhan dan umur mobil.
+61	FYI ya, API service SN itu udah yang paling tinggi di mesin bensin. Yang terakhir, pilih-pilih oli mesin sesuai kebutuhan dan umur mobil.
+62	Yang terakhir, pilih-pilih oli mesin sesuai kebutuhan dan umur mobil.
+63	Yang terakhir, pilih-pilih oli mesin sesuai kebutuhan dan umur mobil.
+64	Yang terakhir, pilih-pilih oli mesin sesuai kebutuhan dan umur mobil.
+65	Yang terakhir, pilih-pilih oli mesin sesuai kebutuhan dan umur mobil.
+66	Yang terakhir, pilih-pilih oli mesin sesuai kebutuhan dan umur mobil.
+67	Yang terakhir, pilih-pilih oli mesin sesuai kebutuhan dan umur mobil.
+68	Yang terakhir, pilih-pilih oli mesin sesuai kebutuhan dan umur mobil. Biasanya mobil-mobil umuran muda cocok sama oli full sintetis
+69	Biasanya mobil-mobil umuran muda cocok sama oli full sintetis
+70	Biasanya mobil-mobil umuran muda cocok sama oli full sintetis
+71	Biasanya mobil-mobil umuran muda cocok sama oli full sintetis
+72	Biasanya mobil-mobil umuran muda cocok sama oli full sintetis
+73	Biasanya mobil-mobil umuran muda cocok sama oli full sintetis
+74	Biasanya mobil-mobil umuran muda cocok sama oli full sintetis karena untuk mendukung performa dan efisiensi.
+75	Biasanya mobil-mobil umuran muda cocok sama oli full sintetis karena untuk mendukung performa dan efisiensi.
+76	karena untuk mendukung performa dan efisiensi.
+77	karena untuk mendukung performa dan efisiensi.
+78	karena untuk mendukung performa dan efisiensi. Sementara yang lebih lawas biasanya masih cocok untuk pakai mineral.
+79	karena untuk mendukung performa dan efisiensi. Sementara yang lebih lawas biasanya masih cocok untuk pakai mineral.
+80	Sementara yang lebih lawas biasanya masih cocok untuk pakai mineral.
+81	Sementara yang lebih lawas biasanya masih cocok untuk pakai mineral.
+82	Sementara yang lebih lawas biasanya masih cocok untuk pakai mineral.
+83	Sementara yang lebih lawas biasanya masih cocok untuk pakai mineral.
+84	Sementara yang lebih lawas biasanya masih cocok untuk pakai mineral.
+85	Sementara yang lebih lawas biasanya masih cocok untuk pakai mineral. Tapi apapun olinya, pastiin dapet yang original ya.
+86	Tapi apapun olinya, pastiin dapet yang original ya.
+87	Tapi apapun olinya, pastiin dapet yang original ya.
+88	Tapi apapun olinya, pastiin dapet yang original ya.
+89	Tapi apapun olinya, pastiin dapet yang original ya.
+90	Tapi apapun olinya, pastiin dapet yang original ya. Tapi kan mahal, Nan.
+91	Tapi apapun olinya, pastiin dapet yang original ya. Tapi kan mahal, Nan.
+92	Tapi kan mahal, Nan.
+93	Tapi kan mahal, Nan. Masih anjak dometrim?
+94	Masih anjak dometrim?
+95	Masih anjak dometrim?
+96	Masih anjak dometrim? Masih lagi.
+97	Masih lagi.
+98	Masih lagi. Pakai yang ini nih.
+99	Pakai yang ini nih.
+100	Pakai yang ini nih.
+101	Belanja di e-commerce pakai kode promo BN di Pertamina,
+102	Belanja di e-commerce pakai kode promo BN di Pertamina,
+103	Belanja di e-commerce pakai kode promo BN di Pertamina,
+104	Belanja di e-commerce pakai kode promo BN di Pertamina,
+105	Belanja di e-commerce pakai kode promo BN di Pertamina,
+106	Belanja di e-commerce pakai kode promo BN di Pertamina, langsung dapet diskon sejuta.
+107	Belanja di e-commerce pakai kode promo BN di Pertamina, langsung dapet diskon sejuta.
+108	langsung dapet diskon sejuta.
+109	langsung dapet diskon sejuta.
+110	langsung dapet diskon sejuta.
+111	Syaratnya?
+112	Syaratnya? Minimal pembelajaran Rp 1,5 juta
+113	Syaratnya? Minimal pembelajaran Rp 1,5 juta
+114	Minimal pembelajaran Rp 1,5 juta
+115	Minimal pembelajaran Rp 1,5 juta dan bisa pilih tenor sampai dengan 24 bulan.
+116	Minimal pembelajaran Rp 1,5 juta dan bisa pilih tenor sampai dengan 24 bulan.
+117	dan bisa pilih tenor sampai dengan 24 bulan.
+118	dan bisa pilih tenor sampai dengan 24 bulan.
+119	dan bisa pilih tenor sampai dengan 24 bulan.
+120	dan bisa pilih tenor sampai dengan 24 bulan.
+121	dan bisa pilih tenor sampai dengan 24 bulan. Cuma di tuaga.id kita bisa banding-bandingin produk kredit kartu sesuai dengan kebutuhan.
+122	Cuma di tuaga.id kita bisa banding-bandingin produk kredit kartu sesuai dengan kebutuhan.
+123	Cuma di tuaga.id kita bisa banding-bandingin produk kredit kartu sesuai dengan kebutuhan.
+124	Cuma di tuaga.id kita bisa banding-bandingin produk kredit kartu sesuai dengan kebutuhan.
+125	Cuma di tuaga.id kita bisa banding-bandingin produk kredit kartu sesuai dengan kebutuhan.
+126	Cuma di tuaga.id kita bisa banding-bandingin produk kredit kartu sesuai dengan kebutuhan.
+127	Cuma di tuaga.id kita bisa banding-bandingin produk kredit kartu sesuai dengan kebutuhan.
+128	Cuma di tuaga.id kita bisa banding-bandingin produk kredit kartu sesuai dengan kebutuhan.
+129	Cuma di tuaga.id kita bisa banding-bandingin produk kredit kartu sesuai dengan kebutuhan. Dan sekalian apply juga.
+130	Cuma di tuaga.id kita bisa banding-bandingin produk kredit kartu sesuai dengan kebutuhan. Dan sekalian apply juga.
+131	Dan sekalian apply juga.
+132	Dan sekalian apply juga. Gak perlu khawatir rugi,
+133	Gak perlu khawatir rugi,
+134	Gak perlu khawatir rugi, pasti dibantuin untuk dapetin kredit kartu yang sesuai dengan kebutuhan.
+135	Gak perlu khawatir rugi, pasti dibantuin untuk dapetin kredit kartu yang sesuai dengan kebutuhan.
+136	pasti dibantuin untuk dapetin kredit kartu yang sesuai dengan kebutuhan.
+137	pasti dibantuin untuk dapetin kredit kartu yang sesuai dengan kebutuhan.
+138	pasti dibantuin untuk dapetin kredit kartu yang sesuai dengan kebutuhan.
+139	pasti dibantuin untuk dapetin kredit kartu yang sesuai dengan kebutuhan.
+140	pasti dibantuin untuk dapetin kredit kartu yang sesuai dengan kebutuhan. So, cek dulu aja di tuaga.id.
+141	pasti dibantuin untuk dapetin kredit kartu yang sesuai dengan kebutuhan. So, cek dulu aja di tuaga.id.
+142	So, cek dulu aja di tuaga.id.
+143	So, cek dulu aja di tuaga.id.
+144	So, cek dulu aja di tuaga.id.
+145	So, cek dulu aja di tuaga.id.
+146	[NO_SPEECH]
+147	[NO_SPEECH]

@@ -1,0 +1,324 @@
+0	Langsung kita coba
+1	Langsung kita coba JQ J8 SHS
+2	Langsung kita coba JQ J8 SHS
+3	JQ J8 SHS
+4	JQ J8 SHS
+5	JQ J8 SHS
+6	JQ J8 SHS Nah ini
+7	JQ J8 SHS Nah ini Rangenya bisa 1400 km
+8	Nah ini Rangenya bisa 1400 km
+9	Rangenya bisa 1400 km
+10	Rangenya bisa 1400 km
+11	Rangenya bisa 1400 km
+12	Rangenya bisa 1400 km
+13	Rangenya bisa 1400 km
+14	Rangenya bisa 1400 km
+15	Rangenya bisa 1400 km Dan ini kalau digas
+16	Dan ini kalau digas
+17	Dan ini kalau digas
+18	Dan ini kalau digas Waaaah
+19	Dan ini kalau digas Waaaah Buset buset buset
+20	Waaaah Buset buset buset
+21	Buset buset buset Kenceng
+22	Buset buset buset Kenceng Range full listrik
+23	Kenceng Range full listrik
+24	Range full listrik
+25	Range full listrik
+26	Range full listrik Bisa 180 km
+27	Range full listrik Bisa 180 km
+28	Bisa 180 km
+29	Bisa 180 km
+30	Bisa 180 km Kena baterainya 34,4 kWh
+31	Bisa 180 km Kena baterainya 34,4 kWh
+32	Kena baterainya 34,4 kWh
+33	Kena baterainya 34,4 kWh
+34	Kena baterainya 34,4 kWh
+35	Kena baterainya 34,4 kWh
+36	Kena baterainya 34,4 kWh
+37	Kena baterainya 34,4 kWh
+38	Rasanya pengen bawa jalan jauh
+39	Rasanya pengen bawa jalan jauh
+40	Rasanya pengen bawa jalan jauh
+41	Rasanya pengen bawa jalan jauh
+42	Rasanya pengen bawa jalan jauh Kemana ya?
+43	Rasanya pengen bawa jalan jauh Kemana ya? Dan ketika rumah kita mati lampu
+44	Kemana ya? Dan ketika rumah kita mati lampu
+45	Dan ketika rumah kita mati lampu
+46	Dan ketika rumah kita mati lampu
+47	Dan ketika rumah kita mati lampu Ini mobil bisa jadi genset rumah
+48	Dan ketika rumah kita mati lampu Ini mobil bisa jadi genset rumah
+49	Ini mobil bisa jadi genset rumah
+50	Ini mobil bisa jadi genset rumah Karena ini V2L bisa 6600 Watt
+51	Ini mobil bisa jadi genset rumah Karena ini V2L bisa 6600 Watt
+52	Karena ini V2L bisa 6600 Watt
+53	Karena ini V2L bisa 6600 Watt
+54	Karena ini V2L bisa 6600 Watt
+55	Karena ini V2L bisa 6600 Watt
+56	Karena ini V2L bisa 6600 Watt
+57	Karena ini V2L bisa 6600 Watt Menyalah rumahnya
+58	Karena ini V2L bisa 6600 Watt Menyalah rumahnya
+59	Menyalah rumahnya Ah ini posisi nyetirnya pas
+60	Menyalah rumahnya Ah ini posisi nyetirnya pas
+61	Ah ini posisi nyetirnya pas
+62	Ah ini posisi nyetirnya pas
+63	Ah ini posisi nyetirnya pas Kita bisa ngeliat tinggi
+64	Ah ini posisi nyetirnya pas Kita bisa ngeliat tinggi
+65	Kita bisa ngeliat tinggi
+66	Kita bisa ngeliat tinggi Apa sih ini keliatan?
+67	Kita bisa ngeliat tinggi Apa sih ini keliatan?
+68	Apa sih ini keliatan?
+69	Apa sih ini keliatan? Kalau kemarin kami bahas tentang JQ J8 SHS
+70	Kalau kemarin kami bahas tentang JQ J8 SHS
+71	Kalau kemarin kami bahas tentang JQ J8 SHS
+72	Kalau kemarin kami bahas tentang JQ J8 SHS
+73	Kalau kemarin kami bahas tentang JQ J8 SHS
+74	Kalau kemarin kami bahas tentang JQ J8 SHS
+75	Kalau kemarin kami bahas tentang JQ J8 SHS
+76	Kalau kemarin kami bahas tentang JQ J8 SHS
+77	Kalau kemarin kami bahas tentang JQ J8 SHS Kalau sekarang JQ J7 SHS
+78	Kalau kemarin kami bahas tentang JQ J8 SHS Kalau sekarang JQ J7 SHS
+79	Kalau sekarang JQ J7 SHS
+80	Kalau sekarang JQ J7 SHS
+81	Kalau sekarang JQ J7 SHS
+82	Kalau sekarang JQ J7 SHS
+83	Kalau sekarang JQ J7 SHS Ini plug-in hybrid juga
+84	Kalau sekarang JQ J7 SHS Ini plug-in hybrid juga
+85	Ini plug-in hybrid juga
+86	Ini plug-in hybrid juga
+87	Ini plug-in hybrid juga Bisa jalan 1300 km range-nya
+88	Ini plug-in hybrid juga Bisa jalan 1300 km range-nya
+89	Bisa jalan 1300 km range-nya
+90	Bisa jalan 1300 km range-nya
+91	Bisa jalan 1300 km range-nya
+92	Bisa jalan 1300 km range-nya
+93	Bisa jalan 1300 km range-nya
+94	Bisa jalan 1300 km range-nya
+95	Bisa jalan 1300 km range-nya
+96	Bisa jalan 1300 km range-nya Baterainya 18,3 kWh
+97	Bisa jalan 1300 km range-nya Baterainya 18,3 kWh
+98	Baterainya 18,3 kWh
+99	Baterainya 18,3 kWh
+100	Baterainya 18,3 kWh
+101	Baterainya 18,3 kWh Full baterai bisa jalan 100 km
+102	Baterainya 18,3 kWh Full baterai bisa jalan 100 km
+103	Full baterai bisa jalan 100 km
+104	Full baterai bisa jalan 100 km
+105	Full baterai bisa jalan 100 km
+106	Full baterai bisa jalan 100 km
+107	Full baterai bisa jalan 100 km Luar biasa
+108	Full baterai bisa jalan 100 km Luar biasa
+109	Luar biasa Veloknya 19 inch
+110	Luar biasa Veloknya 19 inch
+111	Veloknya 19 inch
+112	Veloknya 19 inch
+113	Veloknya 19 inch
+114	Veloknya 19 inch Dan lihat ini ke dalam
+115	Veloknya 19 inch Dan lihat ini ke dalam
+116	Dan lihat ini ke dalam Ada 19 fungsi ada pada mobil ini
+117	Dan lihat ini ke dalam Ada 19 fungsi ada pada mobil ini
+118	Ada 19 fungsi ada pada mobil ini
+119	Ada 19 fungsi ada pada mobil ini
+120	Ada 19 fungsi ada pada mobil ini
+121	Ada 19 fungsi ada pada mobil ini
+122	Ada 19 fungsi ada pada mobil ini Dan amit-amit sampai terjadi apa-apa
+123	Ada 19 fungsi ada pada mobil ini Dan amit-amit sampai terjadi apa-apa
+124	Dan amit-amit sampai terjadi apa-apa
+125	Dan amit-amit sampai terjadi apa-apa
+126	Dan amit-amit sampai terjadi apa-apa
+127	Dan amit-amit sampai terjadi apa-apa Ada 8 airbag yang melindungi kita
+128	Dan amit-amit sampai terjadi apa-apa Ada 8 airbag yang melindungi kita
+129	Ada 8 airbag yang melindungi kita
+130	Ada 8 airbag yang melindungi kita
+131	Ada 8 airbag yang melindungi kita
+132	Ada 8 airbag yang melindungi kita Kemudian posisi duduknya ini enak
+133	Ada 8 airbag yang melindungi kita Kemudian posisi duduknya ini enak
+134	Kemudian posisi duduknya ini enak
+135	Kemudian posisi duduknya ini enak
+136	Kemudian posisi duduknya ini enak
+137	Kemudian posisi duduknya ini enak Karena jok elektrik bisa diatur banyak
+138	Kemudian posisi duduknya ini enak Karena jok elektrik bisa diatur banyak
+139	Karena jok elektrik bisa diatur banyak
+140	Karena jok elektrik bisa diatur banyak
+141	Karena jok elektrik bisa diatur banyak
+142	Karena jok elektrik bisa diatur banyak
+143	Karena jok elektrik bisa diatur banyak
+144	Karena jok elektrik bisa diatur banyak Steer tilt dan telescopic
+145	Karena jok elektrik bisa diatur banyak Steer tilt dan telescopic
+146	Steer tilt dan telescopic
+147	Steer tilt dan telescopic
+148	Steer tilt dan telescopic Dapet layar tengah 14,8 inch besar
+149	Steer tilt dan telescopic Dapet layar tengah 14,8 inch besar
+150	Dapet layar tengah 14,8 inch besar
+151	Dapet layar tengah 14,8 inch besar
+152	Dapet layar tengah 14,8 inch besar
+153	Dapet layar tengah 14,8 inch besar Dan instrumentator 10,25 inch
+154	Dapet layar tengah 14,8 inch besar Dan instrumentator 10,25 inch
+155	Dapet layar tengah 14,8 inch besar Dan instrumentator 10,25 inch
+156	Dan instrumentator 10,25 inch
+157	Dan instrumentator 10,25 inch
+158	Dan instrumentator 10,25 inch Ini speaker Sony-nya ada 8 speaker
+159	Dan instrumentator 10,25 inch Ini speaker Sony-nya ada 8 speaker
+160	Dan instrumentator 10,25 inch Ini speaker Sony-nya ada 8 speaker
+161	Ini speaker Sony-nya ada 8 speaker
+162	Ini speaker Sony-nya ada 8 speaker
+163	Ini speaker Sony-nya ada 8 speaker
+164	Ini speaker Sony-nya ada 8 speaker
+165	Ini speaker Sony-nya ada 8 speaker Suaranya enak
+166	Ini speaker Sony-nya ada 8 speaker Suaranya enak
+167	Ini speaker Sony-nya ada 8 speaker Suaranya enak
+168	Suaranya enak Terus ada head up display-nya dong
+169	Suaranya enak Terus ada head up display-nya dong
+170	Terus ada head up display-nya dong
+171	Terus ada head up display-nya dong
+172	Terus ada head up display-nya dong
+173	Terus ada head up display-nya dong Mobil besar kayak ini
+174	Mobil besar kayak ini
+175	Mobil besar kayak ini Jadi dapat komplit begini
+176	Mobil besar kayak ini Jadi dapat komplit begini
+177	Jadi dapat komplit begini Sekarang saatnya kita test drive
+178	Jadi dapat komplit begini Sekarang saatnya kita test drive
+179	Sekarang saatnya kita test drive
+180	Sekarang saatnya kita test drive
+181	Sekarang saatnya kita test drive
+182	Sekarang saatnya kita test drive
+183	Sekarang saatnya kita test drive Wah langsung di dalam mobil
+184	Sekarang saatnya kita test drive Wah langsung di dalam mobil
+185	Wah langsung di dalam mobil
+186	Wah langsung di dalam mobil Langsung jalan
+187	Wah langsung di dalam mobil Langsung jalan
+188	Langsung jalan Luar biasa
+189	Langsung jalan Luar biasa
+190	Luar biasa Ada 3 driving mode
+191	Luar biasa Ada 3 driving mode
+192	Ada 3 driving mode
+193	Ada 3 driving mode
+194	Ada 3 driving mode Sport
+195	Ada 3 driving mode Sport
+196	Sport
+197	[NO_SPEECH]
+198	Eco
+199	Eco Dan normal mode
+200	Dan normal mode
+201	Dan normal mode
+202	Dan normal mode Kita normal-normal dulu
+203	Dan normal mode Kita normal-normal dulu
+204	Kita normal-normal dulu
+205	Kita normal-normal dulu Kami sudah sempat mencoba off-road naik mobil ini
+206	Kita normal-normal dulu Kami sudah sempat mencoba off-road naik mobil ini
+207	Kami sudah sempat mencoba off-road naik mobil ini
+208	Kami sudah sempat mencoba off-road naik mobil ini
+209	Kami sudah sempat mencoba off-road naik mobil ini
+210	Kami sudah sempat mencoba off-road naik mobil ini
+211	Kami sudah sempat mencoba off-road naik mobil ini
+212	Kami sudah sempat mencoba off-road naik mobil ini Dan wah luar biasa kemampuan off-road-nya
+213	Kami sudah sempat mencoba off-road naik mobil ini Dan wah luar biasa kemampuan off-road-nya
+214	Dan wah luar biasa kemampuan off-road-nya
+215	Dan wah luar biasa kemampuan off-road-nya
+216	Dan wah luar biasa kemampuan off-road-nya
+217	Dan wah luar biasa kemampuan off-road-nya Tadinya kami underestimate
+218	Dan wah luar biasa kemampuan off-road-nya Tadinya kami underestimate
+219	Tadinya kami underestimate Ternyata benar-benar bisa kotor-kotoran ini mobil
+220	Tadinya kami underestimate Ternyata benar-benar bisa kotor-kotoran ini mobil
+221	Ternyata benar-benar bisa kotor-kotoran ini mobil
+222	Ternyata benar-benar bisa kotor-kotoran ini mobil
+223	Ternyata benar-benar bisa kotor-kotoran ini mobil
+224	Ternyata benar-benar bisa kotor-kotoran ini mobil
+225	Ternyata benar-benar bisa kotor-kotoran ini mobil
+226	Ternyata benar-benar bisa kotor-kotoran ini mobil Driving posisi nepas
+227	Ternyata benar-benar bisa kotor-kotoran ini mobil Driving posisi nepas
+228	Driving posisi nepas
+229	Driving posisi nepas Kita bisa posisi tinggi, posisi rendah
+230	Driving posisi nepas Kita bisa posisi tinggi, posisi rendah
+231	Kita bisa posisi tinggi, posisi rendah
+232	Kita bisa posisi tinggi, posisi rendah
+233	Kita bisa posisi tinggi, posisi rendah
+234	Kita bisa posisi tinggi, posisi rendah
+235	Kita bisa posisi tinggi, posisi rendah Kita bisa diatur banyak
+236	Kita bisa diatur banyak Steernya tilt dan telescopic pengaturannya
+237	Kita bisa diatur banyak Steernya tilt dan telescopic pengaturannya
+238	Steernya tilt dan telescopic pengaturannya
+239	Steernya tilt dan telescopic pengaturannya
+240	Steernya tilt dan telescopic pengaturannya
+241	Steernya tilt dan telescopic pengaturannya Coba kita sport-kan
+242	Coba kita sport-kan
+243	Coba kita sport-kan Sport mode, gaspol
+244	Coba kita sport-kan Sport mode, gaspol
+245	Sport mode, gaspol
+246	Sport mode, gaspol WOOOOOO
+247	Sport mode, gaspol WOOOOOO
+248	WOOOOOO
+249	WOOOOOO
+250	WOOOOOO
+251	[NO_SPEECH]
+252	Kenceng banget ya
+253	Kenceng banget ya
+254	Kenceng banget ya
+255	Kenceng banget ya
+256	Kenceng banget ya
+257	Kenceng banget ya Ini perpaduan mesin 1500cc, turbo plus hybrid
+258	Ini perpaduan mesin 1500cc, turbo plus hybrid
+259	Ini perpaduan mesin 1500cc, turbo plus hybrid
+260	Ini perpaduan mesin 1500cc, turbo plus hybrid
+261	Ini perpaduan mesin 1500cc, turbo plus hybrid
+262	Ini perpaduan mesin 1500cc, turbo plus hybrid
+263	Ini perpaduan mesin 1500cc, turbo plus hybrid
+264	Ini perpaduan mesin 1500cc, turbo plus hybrid
+265	Ini perpaduan mesin 1500cc, turbo plus hybrid Pula ada motor listrik nendang lagi
+266	Ini perpaduan mesin 1500cc, turbo plus hybrid Pula ada motor listrik nendang lagi
+267	Pula ada motor listrik nendang lagi
+268	Pula ada motor listrik nendang lagi
+269	Pula ada motor listrik nendang lagi Jadi responnya langsung
+270	Pula ada motor listrik nendang lagi Jadi responnya langsung
+271	Jadi responnya langsung
+272	Jadi responnya langsung BUSH
+273	Jadi responnya langsung BUSH Maju
+274	BUSH Maju Kita coba sedikit handling-nya
+275	Maju Kita coba sedikit handling-nya
+276	Kita coba sedikit handling-nya
+277	Kita coba sedikit handling-nya
+278	Kita coba sedikit handling-nya
+279	[NO_SPEECH]
+280	Wih gila responnya
+281	Wih gila responnya
+282	Wih gila responnya
+283	Wih gila responnya Wah stabil
+284	Wih gila responnya Wah stabil
+285	Wah stabil Wah luar biasa ini JQ gak main-main
+286	Wah stabil Wah luar biasa ini JQ gak main-main
+287	Wah luar biasa ini JQ gak main-main
+288	Wah luar biasa ini JQ gak main-main
+289	Wah luar biasa ini JQ gak main-main
+290	Wah luar biasa ini JQ gak main-main
+291	Wah luar biasa ini JQ gak main-main
+292	Wah luar biasa ini JQ gak main-main Ini J7-nya
+293	Wah luar biasa ini JQ gak main-main Ini J7-nya
+294	Ini J7-nya
+295	Ini J7-nya Enak
+296	Ini J7-nya Enak J8-nya empuk nyaman
+297	Enak J8-nya empuk nyaman
+298	J8-nya empuk nyaman
+299	J8-nya empuk nyaman J5 EV
+300	J8-nya empuk nyaman J5 EV
+301	J5 EV
+302	J5 EV
+303	J5 EV Itu mobil menarik sekali
+304	Itu mobil menarik sekali
+305	Itu mobil menarik sekali Dan apabila anda ingin melihat langsung
+306	Itu mobil menarik sekali Dan apabila anda ingin melihat langsung
+307	Dan apabila anda ingin melihat langsung
+308	Dan apabila anda ingin melihat langsung
+309	Dan apabila anda ingin melihat langsung
+310	Dan apabila anda ingin melihat langsung
+311	Dan apabila anda ingin melihat langsung Datang ke booth-nya JQ di GYAS 2025
+312	Dan apabila anda ingin melihat langsung Datang ke booth-nya JQ di GYAS 2025
+313	Datang ke booth-nya JQ di GYAS 2025
+314	Datang ke booth-nya JQ di GYAS 2025
+315	Datang ke booth-nya JQ di GYAS 2025
+316	Datang ke booth-nya JQ di GYAS 2025
+317	Mau nyoba?
+318	Mau nyoba? Juga bisa langsung
+319	Juga bisa langsung
+320	Juga bisa langsung Ayo
+321	Juga bisa langsung Ayo
+322	Ayo
+323	[NO_SPEECH]

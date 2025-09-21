@@ -1,0 +1,159 @@
+0	Kami sedang melakukan perjalanan jauh menggunakan mobil listrik.
+1	Kami sedang melakukan perjalanan jauh menggunakan mobil listrik.
+2	Kami sedang melakukan perjalanan jauh menggunakan mobil listrik.
+3	Kami sedang melakukan perjalanan jauh menggunakan mobil listrik. Dan kali ini kami memakai hatchback dengan range terjauh.
+4	Kami sedang melakukan perjalanan jauh menggunakan mobil listrik. Dan kali ini kami memakai hatchback dengan range terjauh.
+5	Dan kali ini kami memakai hatchback dengan range terjauh.
+6	Dan kali ini kami memakai hatchback dengan range terjauh.
+7	Dan kali ini kami memakai hatchback dengan range terjauh.
+8	Dan kali ini kami memakai hatchback dengan range terjauh.
+9	Dan kali ini kami memakai hatchback dengan range terjauh.
+10	Dan kali ini kami memakai hatchback dengan range terjauh.
+11	Dan kali ini kami memakai hatchback dengan range terjauh.
+12	Dan kali ini kami memakai hatchback dengan range terjauh. Ini adalah ION UT.
+13	Ini adalah ION UT.
+14	Ini adalah ION UT.
+15	Ini adalah ION UT.
+16	Ini adalah ION UT. Desainnya itu European Aesthetic dan timeless.
+17	Desainnya itu European Aesthetic dan timeless.
+18	Desainnya itu European Aesthetic dan timeless.
+19	Desainnya itu European Aesthetic dan timeless.
+20	Desainnya itu European Aesthetic dan timeless.
+21	Desainnya itu European Aesthetic dan timeless.
+22	Desainnya itu European Aesthetic dan timeless.
+23	Desainnya itu European Aesthetic dan timeless.
+24	Desainnya itu European Aesthetic dan timeless.
+25	Desainnya itu European Aesthetic dan timeless.
+26	Jadi tidak mudah tua.
+27	Jadi tidak mudah tua.
+28	Jadi tidak mudah tua.
+29	Handlingnya itu asik untuk dalam kota maupun luar kota.
+30	Handlingnya itu asik untuk dalam kota maupun luar kota.
+31	Handlingnya itu asik untuk dalam kota maupun luar kota.
+32	Handlingnya itu asik untuk dalam kota maupun luar kota.
+33	Handlingnya itu asik untuk dalam kota maupun luar kota.
+34	Handlingnya itu asik untuk dalam kota maupun luar kota.
+35	Handlingnya itu asik untuk dalam kota maupun luar kota.
+36	Handlingnya itu asik untuk dalam kota maupun luar kota. Dan tenaganya pun sangat cukup sekali.
+37	Handlingnya itu asik untuk dalam kota maupun luar kota. Dan tenaganya pun sangat cukup sekali.
+38	Dan tenaganya pun sangat cukup sekali.
+39	Dan tenaganya pun sangat cukup sekali.
+40	Dan tenaganya pun sangat cukup sekali.
+41	Dan tenaganya pun sangat cukup sekali.
+42	Dan tenaganya pun sangat cukup sekali. Ketika kita butuh tisu, ha ha ha, magic.
+43	Ketika kita butuh tisu, ha ha ha, magic.
+44	Ketika kita butuh tisu, ha ha ha, magic.
+45	Ketika kita butuh tisu, ha ha ha, magic.
+46	Ketika kita butuh tisu, ha ha ha, magic.
+47	Ketika kita butuh tisu, ha ha ha, magic.
+48	Ketika kita butuh tisu, ha ha ha, magic.
+49	Ketika kita butuh tisu, ha ha ha, magic.
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	Ada di balik layar, ada tempat tisunya.
+53	Ada di balik layar, ada tempat tisunya.
+54	Ada di balik layar, ada tempat tisunya.
+55	Ada di balik layar, ada tempat tisunya.
+56	Ada di balik layar, ada tempat tisunya.
+57	Ada di balik layar, ada tempat tisunya. Kreatif sekali.
+58	Ada di balik layar, ada tempat tisunya. Kreatif sekali.
+59	Kreatif sekali. Sekarang kita ke belakang.
+60	Sekarang kita ke belakang.
+61	Sekarang kita ke belakang. Ini mobil DNA-nya GAC ION.
+62	Sekarang kita ke belakang. Ini mobil DNA-nya GAC ION.
+63	Ini mobil DNA-nya GAC ION.
+64	Ini mobil DNA-nya GAC ION.
+65	Ini mobil DNA-nya GAC ION.
+66	Ini mobil DNA-nya GAC ION.
+67	Ini mobil DNA-nya GAC ION.
+68	Ini mobil DNA-nya GAC ION.
+69	Lihat ini.
+70	Lihat ini.
+71	Lihat ini. Di belakang posisi nyitir kami tinggi, kamera 174.
+72	Di belakang posisi nyitir kami tinggi, kamera 174.
+73	Di belakang posisi nyitir kami tinggi, kamera 174.
+74	Di belakang posisi nyitir kami tinggi, kamera 174.
+75	Di belakang posisi nyitir kami tinggi, kamera 174.
+76	Di belakang posisi nyitir kami tinggi, kamera 174. Jarak tengkul dengan jok depan jauh sekali.
+77	Jarak tengkul dengan jok depan jauh sekali.
+78	Jarak tengkul dengan jok depan jauh sekali.
+79	Jarak tengkul dengan jok depan jauh sekali.
+80	Jarak tengkul dengan jok depan jauh sekali. Mobil ini sangat lega sekali.
+81	Jarak tengkul dengan jok depan jauh sekali. Mobil ini sangat lega sekali.
+82	Mobil ini sangat lega sekali.
+83	Mobil ini sangat lega sekali.
+84	Mobil ini sangat lega sekali. Itulah DNA GAC ION.
+85	Mobil ini sangat lega sekali. Itulah DNA GAC ION.
+86	Itulah DNA GAC ION.
+87	Itulah DNA GAC ION.
+88	Itulah DNA GAC ION. Dan jok kiri ini bisa untuk sofa mode rebah habis.
+89	Itulah DNA GAC ION. Dan jok kiri ini bisa untuk sofa mode rebah habis.
+90	Dan jok kiri ini bisa untuk sofa mode rebah habis.
+91	Dan jok kiri ini bisa untuk sofa mode rebah habis.
+92	Dan jok kiri ini bisa untuk sofa mode rebah habis.
+93	Dan jok kiri ini bisa untuk sofa mode rebah habis.
+94	Dan jok kiri ini bisa untuk sofa mode rebah habis.
+95	Dan jok kiri ini bisa untuk sofa mode rebah habis.
+96	Dan jok kiri ini bisa untuk sofa mode rebah habis.
+97	Dan jok kiri ini bisa untuk sofa mode rebah habis.
+98	Dan kedua jok ini bisa ventilated seat.
+99	Dan kedua jok ini bisa ventilated seat.
+100	Dan kedua jok ini bisa ventilated seat.
+101	Dan kedua jok ini bisa ventilated seat.
+102	Dan kedua jok ini bisa ventilated seat.
+103	Dan kedua jok ini bisa ventilated seat.
+104	Dan kedua jok ini bisa ventilated seat. Jadi adem punggung kita.
+105	Dan kedua jok ini bisa ventilated seat. Jadi adem punggung kita.
+106	Jadi adem punggung kita.
+107	Jadi adem punggung kita.
+108	[NO_SPEECH]
+109	Apabila Anda ingin tahu detailnya mengenai mobil ini,
+110	Apabila Anda ingin tahu detailnya mengenai mobil ini,
+111	Apabila Anda ingin tahu detailnya mengenai mobil ini,
+112	Apabila Anda ingin tahu detailnya mengenai mobil ini,
+113	Apabila Anda ingin tahu detailnya mengenai mobil ini,
+114	Apabila Anda ingin tahu detailnya mengenai mobil ini,
+115	Apabila Anda ingin tahu detailnya mengenai mobil ini,
+116	Apabila Anda ingin tahu detailnya mengenai mobil ini, ada di channel Om Mobi.
+117	Apabila Anda ingin tahu detailnya mengenai mobil ini, ada di channel Om Mobi.
+118	ada di channel Om Mobi. Kami juga sekalian melakukan perjalanan dari Jakarta sampai Semarang tanpa nge-charge.
+119	ada di channel Om Mobi. Kami juga sekalian melakukan perjalanan dari Jakarta sampai Semarang tanpa nge-charge.
+120	Kami juga sekalian melakukan perjalanan dari Jakarta sampai Semarang tanpa nge-charge.
+121	Kami juga sekalian melakukan perjalanan dari Jakarta sampai Semarang tanpa nge-charge.
+122	Kami juga sekalian melakukan perjalanan dari Jakarta sampai Semarang tanpa nge-charge.
+123	Kami juga sekalian melakukan perjalanan dari Jakarta sampai Semarang tanpa nge-charge.
+124	Kami juga sekalian melakukan perjalanan dari Jakarta sampai Semarang tanpa nge-charge.
+125	Kami juga sekalian melakukan perjalanan dari Jakarta sampai Semarang tanpa nge-charge.
+126	Kami juga sekalian melakukan perjalanan dari Jakarta sampai Semarang tanpa nge-charge.
+127	Kami juga sekalian melakukan perjalanan dari Jakarta sampai Semarang tanpa nge-charge.
+128	Nyampe apa enggak ya nonton video itu?
+129	Nyampe apa enggak ya nonton video itu?
+130	Nyampe apa enggak ya nonton video itu?
+131	Nyampe apa enggak ya nonton video itu?
+132	Nyampe apa enggak ya nonton video itu? Berapa ya harganya mobil ini?
+133	Berapa ya harganya mobil ini?
+134	Berapa ya harganya mobil ini?
+135	Berapa ya harganya mobil ini?
+136	Berapa ya harganya mobil ini? Silahkan datang ke GAC 2025 booth-nya ION.
+137	Silahkan datang ke GAC 2025 booth-nya ION.
+138	Silahkan datang ke GAC 2025 booth-nya ION.
+139	Silahkan datang ke GAC 2025 booth-nya ION.
+140	Silahkan datang ke GAC 2025 booth-nya ION.
+141	Silahkan datang ke GAC 2025 booth-nya ION.
+142	Silahkan datang ke GAC 2025 booth-nya ION. Lihat langsung, cobain langsung, dan tanya langsung harganya di situ.
+143	Lihat langsung, cobain langsung, dan tanya langsung harganya di situ.
+144	Lihat langsung, cobain langsung, dan tanya langsung harganya di situ.
+145	Lihat langsung, cobain langsung, dan tanya langsung harganya di situ.
+146	Lihat langsung, cobain langsung, dan tanya langsung harganya di situ.
+147	Lihat langsung, cobain langsung, dan tanya langsung harganya di situ.
+148	Lihat langsung, cobain langsung, dan tanya langsung harganya di situ.
+149	Lihat langsung, cobain langsung, dan tanya langsung harganya di situ.
+150	Lihat langsung, cobain langsung, dan tanya langsung harganya di situ. Ya, menarik sekali ini mobil.
+151	Lihat langsung, cobain langsung, dan tanya langsung harganya di situ. Ya, menarik sekali ini mobil.
+152	Ya, menarik sekali ini mobil.
+153	Ya, menarik sekali ini mobil.
+154	Ya, menarik sekali ini mobil.
+155	[NO_SPEECH]
+156	[NO_SPEECH]
+157	[NO_SPEECH]
+158	[NO_SPEECH]

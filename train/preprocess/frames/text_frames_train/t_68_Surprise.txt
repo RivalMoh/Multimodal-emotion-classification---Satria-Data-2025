@@ -1,0 +1,35 @@
+0	ini batiknya bagus beli dimana?
+1	ini batiknya bagus beli dimana?
+2	ini batiknya bagus beli dimana?
+3	ini batiknya bagus beli dimana? beli di online
+4	ini batiknya bagus beli dimana? beli di online
+5	beli di online oh di online bukan disini
+6	beli di online oh di online bukan disini
+7	oh di online bukan disini
+8	oh di online bukan disini
+9	oh di online bukan disini
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	malu lah
+15	malu lah
+16	malu lah
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	percaya diri aja
+22	percaya diri aja
+23	percaya diri aja
+24	percaya diri aja
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	tega nih
+29	tega nih
+30	tega nih
+31	tega nih
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]

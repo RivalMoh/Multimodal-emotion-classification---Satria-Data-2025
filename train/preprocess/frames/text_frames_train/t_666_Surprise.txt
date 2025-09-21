@@ -1,0 +1,38 @@
+0	Eh yang dibelakang lu bau ketek
+1	Eh yang dibelakang lu bau ketek
+2	Eh yang dibelakang lu bau ketek
+3	Eh yang dibelakang lu bau ketek
+4	Eh yang dibelakang lu bau ketek Hah?
+5	Eh yang dibelakang lu bau ketek Hah?
+6	Hah?
+7	Hah? Itu yang dibelakangmu keteknya bau banget
+8	Itu yang dibelakangmu keteknya bau banget
+9	Itu yang dibelakangmu keteknya bau banget
+10	Itu yang dibelakangmu keteknya bau banget
+11	Itu yang dibelakangmu keteknya bau banget Hah?
+12	Itu yang dibelakangmu keteknya bau banget Hah?
+13	Hah?
+14	Hah?
+15	Hah? Gua bau ketek
+16	Gua bau ketek
+17	Gua bau ketek
+18	Gua bau ketek
+19	Gua bau ketek
+20	Gua bau ketek Gua bau ketek
+21	Gua bau ketek Gua bau ketek
+22	Gua bau ketek
+23	Gua bau ketek Bau ketek
+24	Gua bau ketek Bau ketek
+25	Bau ketek Hah?
+26	Bau ketek Hah?
+27	Hah?
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]

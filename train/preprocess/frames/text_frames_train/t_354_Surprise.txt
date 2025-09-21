@@ -1,0 +1,88 @@
+0	Kalau kamu bisa 20 wall pull-up, kamu bisa 1 Australian pull-up.
+1	Kalau kamu bisa 20 wall pull-up, kamu bisa 1 Australian pull-up.
+2	Kalau kamu bisa 20 wall pull-up, kamu bisa 1 Australian pull-up.
+3	Kalau kamu bisa 20 wall pull-up, kamu bisa 1 Australian pull-up.
+4	Kalau kamu bisa 20 wall pull-up, kamu bisa 1 Australian pull-up.
+5	Kalau kamu bisa 20 wall pull-up, kamu bisa 1 Australian pull-up.
+6	Kalau kamu bisa 20 wall pull-up, kamu bisa 1 Australian pull-up.
+7	Kalau kamu bisa 20 wall pull-up, kamu bisa 1 Australian pull-up. Kalau kamu bisa 20 Australian pull-up, kamu bisa gelantungan di bar.
+8	Kalau kamu bisa 20 wall pull-up, kamu bisa 1 Australian pull-up. Kalau kamu bisa 20 Australian pull-up, kamu bisa gelantungan di bar.
+9	Kalau kamu bisa 20 Australian pull-up, kamu bisa gelantungan di bar.
+10	Kalau kamu bisa 20 Australian pull-up, kamu bisa gelantungan di bar.
+11	Kalau kamu bisa 20 Australian pull-up, kamu bisa gelantungan di bar.
+12	Kalau kamu bisa 20 Australian pull-up, kamu bisa gelantungan di bar.
+13	Kalau kamu bisa 20 Australian pull-up, kamu bisa gelantungan di bar.
+14	Kalau kamu bisa 20 Australian pull-up, kamu bisa gelantungan di bar.
+15	Kalau kamu bisa 20 Australian pull-up, kamu bisa gelantungan di bar.
+16	Kalau kamu bisa 20 Australian pull-up, kamu bisa gelantungan di bar. Kalau kamu bisa 15 detik gelantungan di bar, kamu bisa 1 scapular pull-up.
+17	Kalau kamu bisa 20 Australian pull-up, kamu bisa gelantungan di bar. Kalau kamu bisa 15 detik gelantungan di bar, kamu bisa 1 scapular pull-up.
+18	Kalau kamu bisa 15 detik gelantungan di bar, kamu bisa 1 scapular pull-up.
+19	Kalau kamu bisa 15 detik gelantungan di bar, kamu bisa 1 scapular pull-up.
+20	Kalau kamu bisa 15 detik gelantungan di bar, kamu bisa 1 scapular pull-up.
+21	Kalau kamu bisa 15 detik gelantungan di bar, kamu bisa 1 scapular pull-up.
+22	Kalau kamu bisa 15 detik gelantungan di bar, kamu bisa 1 scapular pull-up.
+23	Kalau kamu bisa 15 detik gelantungan di bar, kamu bisa 1 scapular pull-up.
+24	Kalau kamu bisa 15 detik gelantungan di bar, kamu bisa 1 scapular pull-up.
+25	Kalau kamu bisa 15 detik gelantungan di bar, kamu bisa 1 scapular pull-up.
+26	Kalau kamu bisa 15 detik gelantungan di bar, kamu bisa 1 scapular pull-up.
+27	Kalau kamu bisa 15 detik gelantungan di bar, kamu bisa 1 scapular pull-up. Kalau kamu bisa 8 scapular pull-up, kamu bisa 1 pull-up dengan resistent band.
+28	Kalau kamu bisa 8 scapular pull-up, kamu bisa 1 pull-up dengan resistent band.
+29	Kalau kamu bisa 8 scapular pull-up, kamu bisa 1 pull-up dengan resistent band.
+30	Kalau kamu bisa 8 scapular pull-up, kamu bisa 1 pull-up dengan resistent band.
+31	Kalau kamu bisa 8 scapular pull-up, kamu bisa 1 pull-up dengan resistent band.
+32	Kalau kamu bisa 8 scapular pull-up, kamu bisa 1 pull-up dengan resistent band.
+33	Kalau kamu bisa 8 scapular pull-up, kamu bisa 1 pull-up dengan resistent band.
+34	Kalau kamu bisa 8 scapular pull-up, kamu bisa 1 pull-up dengan resistent band.
+35	Kalau kamu bisa 8 scapular pull-up, kamu bisa 1 pull-up dengan resistent band.
+36	Kalau kamu bisa 8 scapular pull-up, kamu bisa 1 pull-up dengan resistent band.
+37	Kalau kamu bisa 8 scapular pull-up, kamu bisa 1 pull-up dengan resistent band. Kalau kamu bisa 6 pull-up dengan resistent band, kamu bisa 1 negative pull-up.
+38	Kalau kamu bisa 8 scapular pull-up, kamu bisa 1 pull-up dengan resistent band. Kalau kamu bisa 6 pull-up dengan resistent band, kamu bisa 1 negative pull-up.
+39	Kalau kamu bisa 6 pull-up dengan resistent band, kamu bisa 1 negative pull-up.
+40	Kalau kamu bisa 6 pull-up dengan resistent band, kamu bisa 1 negative pull-up.
+41	Kalau kamu bisa 6 pull-up dengan resistent band, kamu bisa 1 negative pull-up.
+42	Kalau kamu bisa 6 pull-up dengan resistent band, kamu bisa 1 negative pull-up.
+43	Kalau kamu bisa 6 pull-up dengan resistent band, kamu bisa 1 negative pull-up.
+44	Kalau kamu bisa 6 pull-up dengan resistent band, kamu bisa 1 negative pull-up.
+45	Kalau kamu bisa 6 pull-up dengan resistent band, kamu bisa 1 negative pull-up.
+46	Kalau kamu bisa 6 pull-up dengan resistent band, kamu bisa 1 negative pull-up.
+47	Kalau kamu bisa 6 pull-up dengan resistent band, kamu bisa 1 negative pull-up.
+48	Kalau kamu bisa 6 pull-up dengan resistent band, kamu bisa 1 negative pull-up. Kalau kamu bisa 4 negative pull-up, kamu bisa 1 chin-up.
+49	Kalau kamu bisa 4 negative pull-up, kamu bisa 1 chin-up.
+50	Kalau kamu bisa 4 negative pull-up, kamu bisa 1 chin-up.
+51	Kalau kamu bisa 4 negative pull-up, kamu bisa 1 chin-up.
+52	Kalau kamu bisa 4 negative pull-up, kamu bisa 1 chin-up.
+53	Kalau kamu bisa 4 negative pull-up, kamu bisa 1 chin-up.
+54	Kalau kamu bisa 4 negative pull-up, kamu bisa 1 chin-up.
+55	Kalau kamu bisa 4 negative pull-up, kamu bisa 1 chin-up.
+56	Kalau kamu bisa 4 negative pull-up, kamu bisa 1 chin-up. Kalau kamu bisa 2x chin up, kamu bisa 1 pull up.
+57	Kalau kamu bisa 4 negative pull-up, kamu bisa 1 chin-up. Kalau kamu bisa 2x chin up, kamu bisa 1 pull up.
+58	Kalau kamu bisa 2x chin up, kamu bisa 1 pull up.
+59	Kalau kamu bisa 2x chin up, kamu bisa 1 pull up.
+60	Kalau kamu bisa 2x chin up, kamu bisa 1 pull up.
+61	Kalau kamu bisa 2x chin up, kamu bisa 1 pull up.
+62	Kalau kamu bisa 2x chin up, kamu bisa 1 pull up.
+63	Kalau kamu bisa 2x chin up, kamu bisa 1 pull up.
+64	Kalau kamu bisa 2x chin up, kamu bisa 1 pull up.
+65	Kalau kamu bisa 2x chin up, kamu bisa 1 pull up. Kalau kamu bisa 8 pull up, kamu bisa pull up dengan beban.
+66	Kalau kamu bisa 8 pull up, kamu bisa pull up dengan beban.
+67	Kalau kamu bisa 8 pull up, kamu bisa pull up dengan beban.
+68	Kalau kamu bisa 8 pull up, kamu bisa pull up dengan beban.
+69	Kalau kamu bisa 8 pull up, kamu bisa pull up dengan beban.
+70	Kalau kamu bisa 8 pull up, kamu bisa pull up dengan beban.
+71	Kalau kamu bisa 8 pull up, kamu bisa pull up dengan beban.
+72	Kalau kamu bisa 8 pull up, kamu bisa pull up dengan beban.
+73	Kalau kamu bisa 8 pull up, kamu bisa pull up dengan beban.
+74	Kalau kamu bisa 8 pull up, kamu bisa pull up dengan beban. Kalau kamu bisa pull up dengan beban 10x, kamu bisa pull up 1 jari.
+75	Kalau kamu bisa 8 pull up, kamu bisa pull up dengan beban. Kalau kamu bisa pull up dengan beban 10x, kamu bisa pull up 1 jari.
+76	Kalau kamu bisa pull up dengan beban 10x, kamu bisa pull up 1 jari.
+77	Kalau kamu bisa pull up dengan beban 10x, kamu bisa pull up 1 jari.
+78	Kalau kamu bisa pull up dengan beban 10x, kamu bisa pull up 1 jari.
+79	Kalau kamu bisa pull up dengan beban 10x, kamu bisa pull up 1 jari.
+80	Kalau kamu bisa pull up dengan beban 10x, kamu bisa pull up 1 jari.
+81	Kalau kamu bisa pull up dengan beban 10x, kamu bisa pull up 1 jari.
+82	Kalau kamu bisa pull up dengan beban 10x, kamu bisa pull up 1 jari.
+83	Kalau kamu bisa pull up dengan beban 10x, kamu bisa pull up 1 jari. Follow untuk tips berikutnya.
+84	Kalau kamu bisa pull up dengan beban 10x, kamu bisa pull up 1 jari. Follow untuk tips berikutnya.
+85	Follow untuk tips berikutnya.
+86	Follow untuk tips berikutnya.
+87	Follow untuk tips berikutnya.

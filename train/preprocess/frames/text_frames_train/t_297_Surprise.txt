@@ -1,0 +1,115 @@
+0	Apple saat ini berusaha menuhin persyaratan TKDN di Indonesia
+1	Apple saat ini berusaha menuhin persyaratan TKDN di Indonesia
+2	Apple saat ini berusaha menuhin persyaratan TKDN di Indonesia
+3	Apple saat ini berusaha menuhin persyaratan TKDN di Indonesia
+4	Apple saat ini berusaha menuhin persyaratan TKDN di Indonesia
+5	Apple saat ini berusaha menuhin persyaratan TKDN di Indonesia
+6	Apple saat ini berusaha menuhin persyaratan TKDN di Indonesia biar bisa jual iPhone 16 secara resmi di Indonesia.
+7	Apple saat ini berusaha menuhin persyaratan TKDN di Indonesia biar bisa jual iPhone 16 secara resmi di Indonesia.
+8	biar bisa jual iPhone 16 secara resmi di Indonesia.
+9	biar bisa jual iPhone 16 secara resmi di Indonesia.
+10	biar bisa jual iPhone 16 secara resmi di Indonesia.
+11	biar bisa jual iPhone 16 secara resmi di Indonesia.
+12	biar bisa jual iPhone 16 secara resmi di Indonesia.
+13	biar bisa jual iPhone 16 secara resmi di Indonesia.
+14	biar bisa jual iPhone 16 secara resmi di Indonesia. Info dari Kementerian Paya Industrian,
+15	Info dari Kementerian Paya Industrian,
+16	Info dari Kementerian Paya Industrian,
+17	Info dari Kementerian Paya Industrian, Apple belum menuhin komitmen investasinya yang diperlukan
+18	Info dari Kementerian Paya Industrian, Apple belum menuhin komitmen investasinya yang diperlukan
+19	Apple belum menuhin komitmen investasinya yang diperlukan
+20	Apple belum menuhin komitmen investasinya yang diperlukan
+21	Apple belum menuhin komitmen investasinya yang diperlukan
+22	Apple belum menuhin komitmen investasinya yang diperlukan
+23	Apple belum menuhin komitmen investasinya yang diperlukan
+24	Apple belum menuhin komitmen investasinya yang diperlukan buat dapat sertifikasi TKDN.
+25	Apple belum menuhin komitmen investasinya yang diperlukan buat dapat sertifikasi TKDN.
+26	buat dapat sertifikasi TKDN.
+27	buat dapat sertifikasi TKDN.
+28	buat dapat sertifikasi TKDN.
+29	buat dapat sertifikasi TKDN. Dari total komitmen investasi sebesar Rp1,71 triliun,
+30	buat dapat sertifikasi TKDN. Dari total komitmen investasi sebesar Rp1,71 triliun,
+31	Dari total komitmen investasi sebesar Rp1,71 triliun,
+32	Dari total komitmen investasi sebesar Rp1,71 triliun,
+33	Dari total komitmen investasi sebesar Rp1,71 triliun,
+34	Dari total komitmen investasi sebesar Rp1,71 triliun,
+35	Dari total komitmen investasi sebesar Rp1,71 triliun,
+36	Dari total komitmen investasi sebesar Rp1,71 triliun, Apple baru investasi sekitar Rp1,48 triliun.
+37	Apple baru investasi sekitar Rp1,48 triliun.
+38	Apple baru investasi sekitar Rp1,48 triliun.
+39	Apple baru investasi sekitar Rp1,48 triliun.
+40	Apple baru investasi sekitar Rp1,48 triliun.
+41	Apple baru investasi sekitar Rp1,48 triliun.
+42	Apple baru investasi sekitar Rp1,48 triliun.
+43	Apple baru investasi sekitar Rp1,48 triliun. Jadi ada kurang sekitar Rp240 miliar.
+44	Jadi ada kurang sekitar Rp240 miliar.
+45	Jadi ada kurang sekitar Rp240 miliar.
+46	Jadi ada kurang sekitar Rp240 miliar.
+47	Jadi ada kurang sekitar Rp240 miliar.
+48	Jadi ada kurang sekitar Rp240 miliar.
+49	Jadi ada kurang sekitar Rp240 miliar.
+50	Jadi ada kurang sekitar Rp240 miliar. Dan info terakhir, Apple rencananya membangun pabrik di Bandung, Indonesia
+51	Jadi ada kurang sekitar Rp240 miliar. Dan info terakhir, Apple rencananya membangun pabrik di Bandung, Indonesia
+52	Dan info terakhir, Apple rencananya membangun pabrik di Bandung, Indonesia
+53	Dan info terakhir, Apple rencananya membangun pabrik di Bandung, Indonesia
+54	Dan info terakhir, Apple rencananya membangun pabrik di Bandung, Indonesia
+55	Dan info terakhir, Apple rencananya membangun pabrik di Bandung, Indonesia
+56	Dan info terakhir, Apple rencananya membangun pabrik di Bandung, Indonesia investasinya sekitar Rp10 juta lagi
+57	Dan info terakhir, Apple rencananya membangun pabrik di Bandung, Indonesia investasinya sekitar Rp10 juta lagi
+58	investasinya sekitar Rp10 juta lagi
+59	investasinya sekitar Rp10 juta lagi
+60	investasinya sekitar Rp10 juta lagi atau sekitar Rp157 miliar
+61	investasinya sekitar Rp10 juta lagi atau sekitar Rp157 miliar
+62	atau sekitar Rp157 miliar
+63	atau sekitar Rp157 miliar
+64	atau sekitar Rp157 miliar
+65	atau sekitar Rp157 miliar
+66	atau sekitar Rp157 miliar buat produksi aksesoris dan komponen pendukung produk Apple lainnya.
+67	atau sekitar Rp157 miliar buat produksi aksesoris dan komponen pendukung produk Apple lainnya.
+68	buat produksi aksesoris dan komponen pendukung produk Apple lainnya.
+69	buat produksi aksesoris dan komponen pendukung produk Apple lainnya.
+70	buat produksi aksesoris dan komponen pendukung produk Apple lainnya.
+71	buat produksi aksesoris dan komponen pendukung produk Apple lainnya.
+72	buat produksi aksesoris dan komponen pendukung produk Apple lainnya.
+73	buat produksi aksesoris dan komponen pendukung produk Apple lainnya.
+74	buat produksi aksesoris dan komponen pendukung produk Apple lainnya.
+75	buat produksi aksesoris dan komponen pendukung produk Apple lainnya. Investasi Apple di Indonesia sih sebenarnya kayak uang receh ya.
+76	buat produksi aksesoris dan komponen pendukung produk Apple lainnya. Investasi Apple di Indonesia sih sebenarnya kayak uang receh ya.
+77	Investasi Apple di Indonesia sih sebenarnya kayak uang receh ya.
+78	Investasi Apple di Indonesia sih sebenarnya kayak uang receh ya.
+79	Investasi Apple di Indonesia sih sebenarnya kayak uang receh ya.
+80	Investasi Apple di Indonesia sih sebenarnya kayak uang receh ya.
+81	Investasi Apple di Indonesia sih sebenarnya kayak uang receh ya. Kalau lu bandingin investasi Apple di Vietnam
+82	Investasi Apple di Indonesia sih sebenarnya kayak uang receh ya. Kalau lu bandingin investasi Apple di Vietnam
+83	Kalau lu bandingin investasi Apple di Vietnam
+84	Kalau lu bandingin investasi Apple di Vietnam
+85	Kalau lu bandingin investasi Apple di Vietnam
+86	Kalau lu bandingin investasi Apple di Vietnam yang tembus Rp255 triliun,
+87	Kalau lu bandingin investasi Apple di Vietnam yang tembus Rp255 triliun,
+88	yang tembus Rp255 triliun,
+89	yang tembus Rp255 triliun,
+90	yang tembus Rp255 triliun,
+91	yang tembus Rp255 triliun,
+92	yang tembus Rp255 triliun,
+93	yang tembus Rp255 triliun,
+94	yang tembus Rp255 triliun, Vietnam itu dikasih investasi 150 kali lebih banyak dari Indonesia.
+95	yang tembus Rp255 triliun, Vietnam itu dikasih investasi 150 kali lebih banyak dari Indonesia.
+96	Vietnam itu dikasih investasi 150 kali lebih banyak dari Indonesia.
+97	Vietnam itu dikasih investasi 150 kali lebih banyak dari Indonesia.
+98	Vietnam itu dikasih investasi 150 kali lebih banyak dari Indonesia.
+99	Vietnam itu dikasih investasi 150 kali lebih banyak dari Indonesia.
+100	Vietnam itu dikasih investasi 150 kali lebih banyak dari Indonesia.
+101	Vietnam itu dikasih investasi 150 kali lebih banyak dari Indonesia.
+102	Vietnam itu dikasih investasi 150 kali lebih banyak dari Indonesia.
+103	Vietnam itu dikasih investasi 150 kali lebih banyak dari Indonesia.
+104	Vietnam itu dikasih investasi 150 kali lebih banyak dari Indonesia.
+105	Vietnam itu dikasih investasi 150 kali lebih banyak dari Indonesia.
+106	Vietnam itu dikasih investasi 150 kali lebih banyak dari Indonesia.
+107	Vietnam itu dikasih investasi 150 kali lebih banyak dari Indonesia. Buset, jauhnya.
+108	Buset, jauhnya.
+109	Buset, jauhnya.
+110	Buset, jauhnya.
+111	Buset, jauhnya.
+112	[NO_SPEECH]
+113	[NO_SPEECH]
+114	[NO_SPEECH]

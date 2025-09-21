@@ -1,0 +1,104 @@
+0	Udah rutin lari tapi masih gampang kram dan sering kelelahan
+1	Udah rutin lari tapi masih gampang kram dan sering kelelahan
+2	Udah rutin lari tapi masih gampang kram dan sering kelelahan
+3	Udah rutin lari tapi masih gampang kram dan sering kelelahan
+4	Udah rutin lari tapi masih gampang kram dan sering kelelahan Waktu kita olahraga berat kayak lari gini
+5	Udah rutin lari tapi masih gampang kram dan sering kelelahan Waktu kita olahraga berat kayak lari gini
+6	Waktu kita olahraga berat kayak lari gini
+7	Waktu kita olahraga berat kayak lari gini Tubuh kita tuh kehilangan banyak elektrolit lewat keringat
+8	Waktu kita olahraga berat kayak lari gini Tubuh kita tuh kehilangan banyak elektrolit lewat keringat
+9	Tubuh kita tuh kehilangan banyak elektrolit lewat keringat
+10	Tubuh kita tuh kehilangan banyak elektrolit lewat keringat
+11	Tubuh kita tuh kehilangan banyak elektrolit lewat keringat
+12	Tubuh kita tuh kehilangan banyak elektrolit lewat keringat Kalo elektrolitnya gak diganti
+13	Tubuh kita tuh kehilangan banyak elektrolit lewat keringat Kalo elektrolitnya gak diganti
+14	Tubuh kita tuh kehilangan banyak elektrolit lewat keringat Kalo elektrolitnya gak diganti
+15	Kalo elektrolitnya gak diganti Bisa gampang kram, kelelahan, atau bahkan pingsan guys
+16	Kalo elektrolitnya gak diganti Bisa gampang kram, kelelahan, atau bahkan pingsan guys
+17	Bisa gampang kram, kelelahan, atau bahkan pingsan guys
+18	Bisa gampang kram, kelelahan, atau bahkan pingsan guys
+19	Bisa gampang kram, kelelahan, atau bahkan pingsan guys
+20	Bisa gampang kram, kelelahan, atau bahkan pingsan guys
+21	Bisa gampang kram, kelelahan, atau bahkan pingsan guys
+22	Bisa gampang kram, kelelahan, atau bahkan pingsan guys Makanya penting banget buat jaga elektrolit tubuh tuh tetap seimbang
+23	Bisa gampang kram, kelelahan, atau bahkan pingsan guys Makanya penting banget buat jaga elektrolit tubuh tuh tetap seimbang
+24	Makanya penting banget buat jaga elektrolit tubuh tuh tetap seimbang
+25	Makanya penting banget buat jaga elektrolit tubuh tuh tetap seimbang
+26	Makanya penting banget buat jaga elektrolit tubuh tuh tetap seimbang
+27	Makanya penting banget buat jaga elektrolit tubuh tuh tetap seimbang Aku biasanya minum air kelapa
+28	Makanya penting banget buat jaga elektrolit tubuh tuh tetap seimbang Aku biasanya minum air kelapa
+29	Aku biasanya minum air kelapa
+30	Aku biasanya minum air kelapa Karena air biasa tuh kurang cukup
+31	Aku biasanya minum air kelapa Karena air biasa tuh kurang cukup
+32	Karena air biasa tuh kurang cukup
+33	Karena air biasa tuh kurang cukup Buat kita yang olahraga intensitas tinggi kayak lari gini nih
+34	Karena air biasa tuh kurang cukup Buat kita yang olahraga intensitas tinggi kayak lari gini nih
+35	Buat kita yang olahraga intensitas tinggi kayak lari gini nih
+36	Buat kita yang olahraga intensitas tinggi kayak lari gini nih
+37	Buat kita yang olahraga intensitas tinggi kayak lari gini nih
+38	Buat kita yang olahraga intensitas tinggi kayak lari gini nih
+39	Buat kita yang olahraga intensitas tinggi kayak lari gini nih Atau bisa juga minum suplemen elektrolit
+40	Buat kita yang olahraga intensitas tinggi kayak lari gini nih Atau bisa juga minum suplemen elektrolit
+41	Atau bisa juga minum suplemen elektrolit
+42	Atau bisa juga minum suplemen elektrolit
+43	Atau bisa juga minum suplemen elektrolit
+44	Atau bisa juga minum suplemen elektrolit
+45	Atau bisa juga minum suplemen elektrolit Nah aku punya light nih
+46	Atau bisa juga minum suplemen elektrolit Nah aku punya light nih
+47	Nah aku punya light nih Serbuk elektrolit rasa lemon
+48	Nah aku punya light nih Serbuk elektrolit rasa lemon
+49	Serbuk elektrolit rasa lemon
+50	Serbuk elektrolit rasa lemon Yang mana ini produk baru dari Puro
+51	Serbuk elektrolit rasa lemon Yang mana ini produk baru dari Puro
+52	Yang mana ini produk baru dari Puro
+53	Yang mana ini produk baru dari Puro Satu servingnya ini udah dapet 780mg sodium
+54	Yang mana ini produk baru dari Puro Satu servingnya ini udah dapet 780mg sodium
+55	Satu servingnya ini udah dapet 780mg sodium
+56	Satu servingnya ini udah dapet 780mg sodium
+57	Satu servingnya ini udah dapet 780mg sodium
+58	Satu servingnya ini udah dapet 780mg sodium
+59	Satu servingnya ini udah dapet 780mg sodium 300mg potasium
+60	Satu servingnya ini udah dapet 780mg sodium 300mg potasium
+61	300mg potasium
+62	300mg potasium Dan mineral lainnya
+63	300mg potasium Dan mineral lainnya
+64	Dan mineral lainnya Yang bisa banget bantu hidrasi dan ganti elektrolit tubuh yang hilang
+65	Dan mineral lainnya Yang bisa banget bantu hidrasi dan ganti elektrolit tubuh yang hilang
+66	Yang bisa banget bantu hidrasi dan ganti elektrolit tubuh yang hilang
+67	Yang bisa banget bantu hidrasi dan ganti elektrolit tubuh yang hilang
+68	Yang bisa banget bantu hidrasi dan ganti elektrolit tubuh yang hilang
+69	Yang bisa banget bantu hidrasi dan ganti elektrolit tubuh yang hilang
+70	Yang bisa banget bantu hidrasi dan ganti elektrolit tubuh yang hilang Rasanya seger, zero sugar, gampang larut, dan penyerapannya cepat
+71	Yang bisa banget bantu hidrasi dan ganti elektrolit tubuh yang hilang Rasanya seger, zero sugar, gampang larut, dan penyerapannya cepat
+72	Rasanya seger, zero sugar, gampang larut, dan penyerapannya cepat
+73	Rasanya seger, zero sugar, gampang larut, dan penyerapannya cepat
+74	Rasanya seger, zero sugar, gampang larut, dan penyerapannya cepat
+75	Rasanya seger, zero sugar, gampang larut, dan penyerapannya cepat
+76	Rasanya seger, zero sugar, gampang larut, dan penyerapannya cepat
+77	Rasanya seger, zero sugar, gampang larut, dan penyerapannya cepat
+78	Rasanya seger, zero sugar, gampang larut, dan penyerapannya cepat
+79	Rasanya seger, zero sugar, gampang larut, dan penyerapannya cepat Ini halal dan udah Bepom ya
+80	Rasanya seger, zero sugar, gampang larut, dan penyerapannya cepat Ini halal dan udah Bepom ya
+81	Ini halal dan udah Bepom ya
+82	Ini halal dan udah Bepom ya Aku minum ini pagi-pagi biasanya 30 menit sebelum latihan
+83	Ini halal dan udah Bepom ya Aku minum ini pagi-pagi biasanya 30 menit sebelum latihan
+84	Aku minum ini pagi-pagi biasanya 30 menit sebelum latihan
+85	Aku minum ini pagi-pagi biasanya 30 menit sebelum latihan
+86	Aku minum ini pagi-pagi biasanya 30 menit sebelum latihan
+87	Aku minum ini pagi-pagi biasanya 30 menit sebelum latihan
+88	Aku minum ini pagi-pagi biasanya 30 menit sebelum latihan
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	Masanya kecil jadi gampang dibawa kemana-mana
+92	Masanya kecil jadi gampang dibawa kemana-mana
+93	Masanya kecil jadi gampang dibawa kemana-mana
+94	Masanya kecil jadi gampang dibawa kemana-mana
+95	Masanya kecil jadi gampang dibawa kemana-mana
+96	Masanya kecil jadi gampang dibawa kemana-mana Jangan lupa selalu bawa light di setiap latihanmu
+97	Masanya kecil jadi gampang dibawa kemana-mana Jangan lupa selalu bawa light di setiap latihanmu
+98	Jangan lupa selalu bawa light di setiap latihanmu
+99	Jangan lupa selalu bawa light di setiap latihanmu Dan rasain sendiri manfaatnya nih
+100	Jangan lupa selalu bawa light di setiap latihanmu Dan rasain sendiri manfaatnya nih
+101	Dan rasain sendiri manfaatnya nih
+102	Dan rasain sendiri manfaatnya nih
+103	Dan rasain sendiri manfaatnya nih

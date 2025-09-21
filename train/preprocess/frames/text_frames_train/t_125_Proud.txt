@@ -1,0 +1,107 @@
+0	Oke John, menu pagi ini kita latihan strength.
+1	Oke John, menu pagi ini kita latihan strength.
+2	Oke John, menu pagi ini kita latihan strength.
+3	Oke John, menu pagi ini kita latihan strength.
+4	Oke John, menu pagi ini kita latihan strength.
+5	Oke John, menu pagi ini kita latihan strength.
+6	Oke John, menu pagi ini kita latihan strength.
+7	Jadi kalau untuk mempersiapkan kita full maraton,
+8	Jadi kalau untuk mempersiapkan kita full maraton,
+9	Jadi kalau untuk mempersiapkan kita full maraton,
+10	Jadi kalau untuk mempersiapkan kita full maraton,
+11	Jadi kalau untuk mempersiapkan kita full maraton,
+12	Jadi kalau untuk mempersiapkan kita full maraton,
+13	Jadi kalau untuk mempersiapkan kita full maraton,
+14	Jadi kalau untuk mempersiapkan kita full maraton,
+15	Jadi kalau untuk mempersiapkan kita full maraton,
+16	Jadi kalau untuk mempersiapkan kita full maraton, itu nggak perlu tentang latihan lari terus.
+17	Jadi kalau untuk mempersiapkan kita full maraton, itu nggak perlu tentang latihan lari terus.
+18	itu nggak perlu tentang latihan lari terus.
+19	itu nggak perlu tentang latihan lari terus.
+20	itu nggak perlu tentang latihan lari terus.
+21	itu nggak perlu tentang latihan lari terus. Jadi ada latihan strengthnya, strength training.
+22	Jadi ada latihan strengthnya, strength training.
+23	Jadi ada latihan strengthnya, strength training.
+24	Jadi ada latihan strengthnya, strength training.
+25	Jadi ada latihan strengthnya, strength training. Jadi buat menguatkan otot perut, kaki, belakang.
+26	Jadi ada latihan strengthnya, strength training. Jadi buat menguatkan otot perut, kaki, belakang.
+27	Jadi buat menguatkan otot perut, kaki, belakang.
+28	Jadi buat menguatkan otot perut, kaki, belakang.
+29	Jadi buat menguatkan otot perut, kaki, belakang.
+30	Jadi buat menguatkan otot perut, kaki, belakang.
+31	Jadi buat menguatkan otot perut, kaki, belakang.
+32	Jadi buat menguatkan otot perut, kaki, belakang.
+33	Jadi buat menguatkan otot perut, kaki, belakang. Selain itu gunanya strength buat apa coach?
+34	Selain itu gunanya strength buat apa coach?
+35	Selain itu gunanya strength buat apa coach?
+36	Selain itu gunanya strength buat apa coach?
+37	Selain itu gunanya strength buat apa coach?
+38	Selain itu gunanya strength buat apa coach?
+39	Selain itu gunanya strength buat apa coach? Coach, mumpung ada pelatih saya nih, kita tanya aja.
+40	Coach, mumpung ada pelatih saya nih, kita tanya aja.
+41	Coach, mumpung ada pelatih saya nih, kita tanya aja.
+42	Coach, mumpung ada pelatih saya nih, kita tanya aja.
+43	Coach, mumpung ada pelatih saya nih, kita tanya aja.
+44	Coach, mumpung ada pelatih saya nih, kita tanya aja.
+45	Coach, mumpung ada pelatih saya nih, kita tanya aja. Buat apa coach latihan strength?
+46	Buat apa coach latihan strength?
+47	Buat apa coach latihan strength? Biar ototnya lebih kuat, juga mencegah cedera,
+48	Buat apa coach latihan strength? Biar ototnya lebih kuat, juga mencegah cedera,
+49	Biar ototnya lebih kuat, juga mencegah cedera,
+50	Biar ototnya lebih kuat, juga mencegah cedera,
+51	Biar ototnya lebih kuat, juga mencegah cedera,
+52	Biar ototnya lebih kuat, juga mencegah cedera,
+53	Biar ototnya lebih kuat, juga mencegah cedera,
+54	Biar ototnya lebih kuat, juga mencegah cedera, juga biar daya tahan ototnya lebih kuat,
+55	Biar ototnya lebih kuat, juga mencegah cedera, juga biar daya tahan ototnya lebih kuat,
+56	juga biar daya tahan ototnya lebih kuat,
+57	juga biar daya tahan ototnya lebih kuat,
+58	juga biar daya tahan ototnya lebih kuat,
+59	juga biar daya tahan ototnya lebih kuat,
+60	juga biar daya tahan ototnya lebih kuat,
+61	juga biar daya tahan ototnya lebih kuat,
+62	juga biar daya tahan ototnya lebih kuat, biar larinya lebih enteng, juga lebih strong lagi.
+63	biar larinya lebih enteng, juga lebih strong lagi.
+64	biar larinya lebih enteng, juga lebih strong lagi.
+65	biar larinya lebih enteng, juga lebih strong lagi.
+66	biar larinya lebih enteng, juga lebih strong lagi.
+67	biar larinya lebih enteng, juga lebih strong lagi.
+68	biar larinya lebih enteng, juga lebih strong lagi. Oke.
+69	biar larinya lebih enteng, juga lebih strong lagi. Oke.
+70	Oke.
+71	Oke.
+72	Itu John, jadi larinya biar lebih nyaman,
+73	Itu John, jadi larinya biar lebih nyaman,
+74	Itu John, jadi larinya biar lebih nyaman,
+75	Itu John, jadi larinya biar lebih nyaman,
+76	Itu John, jadi larinya biar lebih nyaman,
+77	Itu John, jadi larinya biar lebih nyaman,
+78	Itu John, jadi larinya biar lebih nyaman,
+79	Itu John, jadi larinya biar lebih nyaman, biar lebih enak, tidak tersiksa.
+80	biar lebih enak, tidak tersiksa.
+81	biar lebih enak, tidak tersiksa.
+82	biar lebih enak, tidak tersiksa.
+83	biar lebih enak, tidak tersiksa.
+84	biar lebih enak, tidak tersiksa.
+85	biar lebih enak, tidak tersiksa.
+86	Jadi dari start sampai finish,
+87	Jadi dari start sampai finish,
+88	Jadi dari start sampai finish,
+89	Jadi dari start sampai finish,
+90	Jadi dari start sampai finish, kita merasa menikmati lari itu dengan nyaman.
+91	Jadi dari start sampai finish, kita merasa menikmati lari itu dengan nyaman.
+92	kita merasa menikmati lari itu dengan nyaman.
+93	kita merasa menikmati lari itu dengan nyaman.
+94	kita merasa menikmati lari itu dengan nyaman.
+95	kita merasa menikmati lari itu dengan nyaman.
+96	kita merasa menikmati lari itu dengan nyaman.
+97	kita merasa menikmati lari itu dengan nyaman.
+98	kita merasa menikmati lari itu dengan nyaman. Mantap!
+99	Mantap!
+100	Mantap!
+101	Glory, glory.
+102	Glory, glory.
+103	[NO_SPEECH]
+104	[NO_SPEECH]
+105	[NO_SPEECH]
+106	[NO_SPEECH]

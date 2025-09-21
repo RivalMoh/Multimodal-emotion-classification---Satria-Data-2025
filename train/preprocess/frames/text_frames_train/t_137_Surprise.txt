@@ -1,0 +1,166 @@
+0	Ekspresi pendukung Inter kira-kira kalau bisa diekspresikan mukanya seperti apa sekarang?
+1	Ekspresi pendukung Inter kira-kira kalau bisa diekspresikan mukanya seperti apa sekarang?
+2	Ekspresi pendukung Inter kira-kira kalau bisa diekspresikan mukanya seperti apa sekarang?
+3	Ekspresi pendukung Inter kira-kira kalau bisa diekspresikan mukanya seperti apa sekarang?
+4	Ekspresi pendukung Inter kira-kira kalau bisa diekspresikan mukanya seperti apa sekarang?
+5	Ekspresi pendukung Inter kira-kira kalau bisa diekspresikan mukanya seperti apa sekarang?
+6	Ekspresi pendukung Inter kira-kira kalau bisa diekspresikan mukanya seperti apa sekarang?
+7	Ekspresi pendukung Inter kira-kira kalau bisa diekspresikan mukanya seperti apa sekarang?
+8	Ekspresi pendukung Inter kira-kira kalau bisa diekspresikan mukanya seperti apa sekarang?
+9	Gimana? Oh gitu?
+10	Gimana? Oh gitu?
+11	Gimana? Oh gitu?
+12	Gimana? Oh gitu?
+13	Begini, begini.
+14	Begini, begini.
+15	Begini, begini. Ah, gitu.
+16	Ah, gitu.
+17	Ah, gitu.
+18	Ah, gitu. Mabuk pertama, Kiko. Mabuk pertama, Kiko. Pas 2-0.
+19	Mabuk pertama, Kiko. Mabuk pertama, Kiko. Pas 2-0.
+20	Mabuk pertama, Kiko. Mabuk pertama, Kiko. Pas 2-0.
+21	Mabuk pertama, Kiko. Mabuk pertama, Kiko. Pas 2-0.
+22	Mabuk pertama, Kiko. Mabuk pertama, Kiko. Pas 2-0.
+23	Mabuk pertama, Kiko. Mabuk pertama, Kiko. Pas 2-0.
+24	Mabuk pertama, Kiko. Mabuk pertama, Kiko. Pas 2-0.
+25	Mabuk pertama, Kiko. Mabuk pertama, Kiko. Pas 2-0. Mabuk 2-0.
+26	Mabuk 2-0. Pas 2-0.
+27	Mabuk 2-0. Pas 2-0.
+28	Pas 2-0. 1-0 dulu, langsung.
+29	1-0 dulu, langsung.
+30	1-0 dulu, langsung. 1-0 gini.
+31	1-0 dulu, langsung. 1-0 gini.
+32	1-0 gini. 1-0.
+33	1-0 gini. 1-0.
+34	1-0.
+35	Oke.
+36	Oke.
+37	Oke. Semangat, semangat yuk.
+38	Semangat, semangat yuk.
+39	Semangat, semangat yuk. Ya.
+40	Semangat, semangat yuk. Ya. 2-0.
+41	2-0.
+42	2-0.
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	Terus intip-intip doang.
+51	Terus intip-intip doang.
+52	Terus intip-intip doang. Kalau Inter nyerang, gini dong.
+53	Terus intip-intip doang. Kalau Inter nyerang, gini dong.
+54	Kalau Inter nyerang, gini dong.
+55	Kalau Inter nyerang, gini dong.
+56	Kalau Inter nyerang, gini dong.
+57	Kalau Inter nyerang, gini dong.
+58	Kalau Inter nyerang, gini dong.
+59	Kalau Inter nyerang, gini dong. Hahaha.
+60	Hahaha.
+61	Hahaha.
+62	[NO_SPEECH]
+63	Jahat ya, Mamat.
+64	Jahat ya, Mamat.
+65	Jahat ya, Mamat. Iya lagi.
+66	Jahat ya, Mamat. Iya lagi.
+67	Iya lagi.
+68	Iya lagi.
+69	[NO_SPEECH]
+70	Mamat, tadi kan skornya 2-0 ekspresinya.
+71	Mamat, tadi kan skornya 2-0 ekspresinya.
+72	Mamat, tadi kan skornya 2-0 ekspresinya.
+73	Mamat, tadi kan skornya 2-0 ekspresinya.
+74	Mamat, tadi kan skornya 2-0 ekspresinya.
+75	Mamat, tadi kan skornya 2-0 ekspresinya.
+76	Mamat, tadi kan skornya 2-0 ekspresinya. Nah, sekarang udah 3-0. Gimana?
+77	Mamat, tadi kan skornya 2-0 ekspresinya. Nah, sekarang udah 3-0. Gimana?
+78	Nah, sekarang udah 3-0. Gimana?
+79	Nah, sekarang udah 3-0. Gimana?
+80	Nah, sekarang udah 3-0. Gimana? 3-0?
+81	3-0? Iya.
+82	3-0? Iya.
+83	3-0.
+84	3-0.
+85	3-0. Oh, Bobo udah.
+86	Oh, Bobo udah.
+87	Oh, Bobo udah.
+88	Oh, Bobo udah.
+89	Oh, Bobo udah.
+90	Oh, Bobo udah.
+91	[NO_SPEECH]
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	[NO_SPEECH]
+95	Udah begitu.
+96	Udah begitu.
+97	Udah begitu.
+98	Udah begitu.
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	Belum matiin ya.
+103	Belum matiin ya.
+104	Belum matiin ya. Belum matiin ya.
+105	Belum matiin ya. Belum matiin ya.
+106	Belum matiin ya. Jadi sambil denger-denger suara kalau ini.
+107	Jadi sambil denger-denger suara kalau ini.
+108	Jadi sambil denger-denger suara kalau ini.
+109	Jadi sambil denger-denger suara kalau ini.
+110	Jadi sambil denger-denger suara kalau ini.
+111	Jadi sambil denger-denger suara kalau ini. Iya, iya.
+112	Jadi sambil denger-denger suara kalau ini. Iya, iya. Naik lagi.
+113	Iya, iya. Naik lagi.
+114	Naik lagi. Eh, 4-0.
+115	Eh, 4-0.
+116	Eh, 4-0.
+117	Eh, 4-0. Ekspresinya seperti.
+118	Ekspresinya seperti. Seperti apa ekspresinya?
+119	Ekspresinya seperti. Seperti apa ekspresinya?
+120	Seperti apa ekspresinya? 4-0. Tadi kan begini kan.
+121	Seperti apa ekspresinya? 4-0. Tadi kan begini kan.
+122	4-0. Tadi kan begini kan. Tadi kan tidur gitu.
+123	4-0. Tadi kan begini kan. Tadi kan tidur gitu.
+124	Tadi kan tidur gitu. Begini kan.
+125	Tadi kan tidur gitu. Begini kan. 4-0.
+126	Begini kan. 4-0. Pas.
+127	4-0. Pas. Kuparat donat.
+128	Pas. Kuparat donat. Kuparat donat.
+129	Kuparat donat. Kuparat donat. Kuparat.
+130	Kuparat donat. Kuparat. Kuparat donat.
+131	Kuparat. Kuparat donat.
+132	Kuparat donat.
+133	[NO_SPEECH]
+134	[NO_SPEECH]
+135	[NO_SPEECH]
+136	Oh, matiin.
+137	Oh, matiin.
+138	Oh, matiin.
+139	[NO_SPEECH]
+140	Dimatiin TV-nya.
+141	Dimatiin TV-nya.
+142	Dimatiin TV-nya.
+143	Dimatiin TV-nya. Mungkin TV-mu.
+144	Mungkin TV-mu.
+145	Mungkin TV-mu.
+146	Mungkin TV-mu. Tunggu, matiin TV apa matiin AC?
+147	Tunggu, matiin TV apa matiin AC?
+148	Tunggu, matiin TV apa matiin AC?
+149	Tunggu, matiin TV apa matiin AC? Matiin TV.
+150	Tunggu, matiin TV apa matiin AC? Matiin TV.
+151	Matiin TV. Oh, matiin TV.
+152	Matiin TV. Oh, matiin TV.
+153	Oh, matiin TV.
+154	[NO_SPEECH]
+155	[NO_SPEECH]
+156	[NO_SPEECH]
+157	[NO_SPEECH]
+158	[NO_SPEECH]
+159	[NO_SPEECH]
+160	[NO_SPEECH]
+161	[NO_SPEECH]
+162	[NO_SPEECH]
+163	[NO_SPEECH]
+164	[NO_SPEECH]
+165	[NO_SPEECH]

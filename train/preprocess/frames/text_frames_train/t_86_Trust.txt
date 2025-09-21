@@ -1,0 +1,190 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	Intro
+4	Intro
+5	Intro
+6	Intro
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	Bismillahirrahmanirrahim
+44	Bismillahirrahmanirrahim
+45	Bismillahirrahmanirrahim Papa, Mama
+46	Bismillahirrahmanirrahim Papa, Mama
+47	Papa, Mama
+48	Papa, Mama
+49	Papa, Mama Hari ini kita minta izin
+50	Papa, Mama Hari ini kita minta izin
+51	Hari ini kita minta izin
+52	Hari ini kita minta izin
+53	Hari ini kita minta izin
+54	Hari ini kita minta izin
+55	Hari ini kita minta izin
+56	Hari ini kita minta izin
+57	Dan doa restu dari Papa dan Mama
+58	Dan doa restu dari Papa dan Mama
+59	Dan doa restu dari Papa dan Mama
+60	Dan doa restu dari Papa dan Mama
+61	Dan doa restu dari Papa dan Mama
+62	Dan doa restu dari Papa dan Mama
+63	[NO_SPEECH]
+64	[NO_SPEECH]
+65	[NO_SPEECH]
+66	[NO_SPEECH]
+67	[NO_SPEECH]
+68	[NO_SPEECH]
+69	[NO_SPEECH]
+70	Insya Allah sebentar lagi kita akan menikah
+71	Insya Allah sebentar lagi kita akan menikah
+72	Insya Allah sebentar lagi kita akan menikah
+73	Insya Allah sebentar lagi kita akan menikah
+74	Insya Allah sebentar lagi kita akan menikah
+75	Insya Allah sebentar lagi kita akan menikah Dengan laki-laki yang kita pilih
+76	Dengan laki-laki yang kita pilih
+77	Dengan laki-laki yang kita pilih
+78	Dengan laki-laki yang kita pilih
+79	Dengan laki-laki yang kita pilih Yang juga insya Allah jadi pilihan terbaik dari Allah
+80	Dengan laki-laki yang kita pilih Yang juga insya Allah jadi pilihan terbaik dari Allah
+81	Yang juga insya Allah jadi pilihan terbaik dari Allah
+82	Yang juga insya Allah jadi pilihan terbaik dari Allah
+83	Yang juga insya Allah jadi pilihan terbaik dari Allah
+84	Yang juga insya Allah jadi pilihan terbaik dari Allah
+85	Yang juga insya Allah jadi pilihan terbaik dari Allah
+86	Yang juga insya Allah jadi pilihan terbaik dari Allah Namanya Ahmad Al-Ghazali
+87	Namanya Ahmad Al-Ghazali
+88	Namanya Ahmad Al-Ghazali
+89	Namanya Ahmad Al-Ghazali
+90	Namanya Ahmad Al-Ghazali
+91	Doa ini tayang, Pak
+92	Doa ini tayang, Pak
+93	Doa ini tayang, Pak
+94	Doa ini tayang, Pak
+95	Doa ini tayang, Pak Maaf
+96	Doa ini tayang, Pak Maaf I love you
+97	Maaf I love you
+98	I love you
+99	I love you
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	[NO_SPEECH]
+104	[NO_SPEECH]
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	[NO_SPEECH]
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	[NO_SPEECH]
+113	[NO_SPEECH]
+114	[NO_SPEECH]
+115	[NO_SPEECH]
+116	[NO_SPEECH]
+117	[NO_SPEECH]
+118	[NO_SPEECH]
+119	[NO_SPEECH]
+120	[NO_SPEECH]
+121	[NO_SPEECH]
+122	[NO_SPEECH]
+123	[NO_SPEECH]
+124	[NO_SPEECH]
+125	[NO_SPEECH]
+126	[NO_SPEECH]
+127	[NO_SPEECH]
+128	[NO_SPEECH]
+129	[NO_SPEECH]
+130	[NO_SPEECH]
+131	[NO_SPEECH]
+132	[NO_SPEECH]
+133	[NO_SPEECH]
+134	[NO_SPEECH]
+135	[NO_SPEECH]
+136	[NO_SPEECH]
+137	[NO_SPEECH]
+138	[NO_SPEECH]
+139	[NO_SPEECH]
+140	[NO_SPEECH]
+141	[NO_SPEECH]
+142	Doa ini tayang, Pak
+143	Doa ini tayang, Pak
+144	Doa ini tayang, Pak
+145	Doa ini tayang, Pak
+146	Doa ini tayang, Pak
+147	Doa ini tayang, Pak
+148	Doa ini tayang, Pak
+149	Doa ini tayang, Pak
+150	Doa ini tayang, Pak
+151	Doa ini tayang, Pak
+152	Doa ini tayang, Pak
+153	[NO_SPEECH]
+154	[NO_SPEECH]
+155	[NO_SPEECH]
+156	[NO_SPEECH]
+157	[NO_SPEECH]
+158	[NO_SPEECH]
+159	[NO_SPEECH]
+160	[NO_SPEECH]
+161	[NO_SPEECH]
+162	[NO_SPEECH]
+163	[NO_SPEECH]
+164	[NO_SPEECH]
+165	[NO_SPEECH]
+166	[NO_SPEECH]
+167	[NO_SPEECH]
+168	[NO_SPEECH]
+169	[NO_SPEECH]
+170	[NO_SPEECH]
+171	[NO_SPEECH]
+172	[NO_SPEECH]
+173	[NO_SPEECH]
+174	[NO_SPEECH]
+175	I love you
+176	I love you
+177	I love you
+178	I love you
+179	I love you
+180	I love you
+181	I love you
+182	I love you
+183	I love you
+184	I love you
+185	[NO_SPEECH]
+186	[NO_SPEECH]
+187	[NO_SPEECH]
+188	[NO_SPEECH]
+189	[NO_SPEECH]

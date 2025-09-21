@@ -1,0 +1,146 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+10	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+11	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+12	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+13	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+14	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+15	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+16	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+17	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+18	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+19	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+20	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+21	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+22	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+23	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+24	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+25	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+26	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+27	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+28	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+29	Nama saya Rivaldin Eropa Kepahan, lahir di Siborong-Borong, Tapan Utara, 20 Januari 2003, dan saat ini bermain di klub Borneo Samarinda.
+30	Dulu itu yang paling saya ingat itu, karena saya tidak disetujui sama orang tua saya bermain bola itu,
+31	Dulu itu yang paling saya ingat itu, karena saya tidak disetujui sama orang tua saya bermain bola itu,
+32	Dulu itu yang paling saya ingat itu, karena saya tidak disetujui sama orang tua saya bermain bola itu,
+33	Dulu itu yang paling saya ingat itu, karena saya tidak disetujui sama orang tua saya bermain bola itu,
+34	Dulu itu yang paling saya ingat itu, karena saya tidak disetujui sama orang tua saya bermain bola itu,
+35	Dulu itu yang paling saya ingat itu, karena saya tidak disetujui sama orang tua saya bermain bola itu,
+36	Dulu itu yang paling saya ingat itu, karena saya tidak disetujui sama orang tua saya bermain bola itu,
+37	Dulu itu yang paling saya ingat itu, karena saya tidak disetujui sama orang tua saya bermain bola itu,
+38	Dulu itu yang paling saya ingat itu, karena saya tidak disetujui sama orang tua saya bermain bola itu,
+39	Dulu itu yang paling saya ingat itu, karena saya tidak disetujui sama orang tua saya bermain bola itu,
+40	Dulu itu yang paling saya ingat itu, karena saya tidak disetujui sama orang tua saya bermain bola itu,
+41	Dulu itu yang paling saya ingat itu, karena saya tidak disetujui sama orang tua saya bermain bola itu,
+42	Dulu itu yang paling saya ingat itu, karena saya tidak disetujui sama orang tua saya bermain bola itu,
+43	Dulu itu yang paling saya ingat itu, karena saya tidak disetujui sama orang tua saya bermain bola itu,
+44	Dulu itu yang paling saya ingat itu, karena saya tidak disetujui sama orang tua saya bermain bola itu, saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+45	Dulu itu yang paling saya ingat itu, karena saya tidak disetujui sama orang tua saya bermain bola itu, saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+46	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+47	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+48	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+49	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+50	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+51	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+52	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+53	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+54	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+55	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+56	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+57	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+58	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+59	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+60	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+61	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+62	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+63	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+64	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+65	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+66	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+67	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+68	saya dulunya trial di Borneo dipanggil dari Epa ke Borneo, saya pesan tiket sendiri, tapi saya ngakunya ke orang tua bahwasannya mereka yang kasih tiket itu ke saya.
+69	[NO_SPEECH]
+70	[NO_SPEECH]
+71	[NO_SPEECH]
+72	[NO_SPEECH]
+73	Di pertandingan ketiga itu lawan Vietnam mungkin ya rata-rata pemain bola tidak mau lah apa yang saya alamin waktu itu,
+74	Di pertandingan ketiga itu lawan Vietnam mungkin ya rata-rata pemain bola tidak mau lah apa yang saya alamin waktu itu,
+75	Di pertandingan ketiga itu lawan Vietnam mungkin ya rata-rata pemain bola tidak mau lah apa yang saya alamin waktu itu,
+76	Di pertandingan ketiga itu lawan Vietnam mungkin ya rata-rata pemain bola tidak mau lah apa yang saya alamin waktu itu,
+77	Di pertandingan ketiga itu lawan Vietnam mungkin ya rata-rata pemain bola tidak mau lah apa yang saya alamin waktu itu,
+78	Di pertandingan ketiga itu lawan Vietnam mungkin ya rata-rata pemain bola tidak mau lah apa yang saya alamin waktu itu,
+79	Di pertandingan ketiga itu lawan Vietnam mungkin ya rata-rata pemain bola tidak mau lah apa yang saya alamin waktu itu,
+80	Di pertandingan ketiga itu lawan Vietnam mungkin ya rata-rata pemain bola tidak mau lah apa yang saya alamin waktu itu,
+81	Di pertandingan ketiga itu lawan Vietnam mungkin ya rata-rata pemain bola tidak mau lah apa yang saya alamin waktu itu,
+82	Di pertandingan ketiga itu lawan Vietnam mungkin ya rata-rata pemain bola tidak mau lah apa yang saya alamin waktu itu,
+83	Di pertandingan ketiga itu lawan Vietnam mungkin ya rata-rata pemain bola tidak mau lah apa yang saya alamin waktu itu,
+84	Di pertandingan ketiga itu lawan Vietnam mungkin ya rata-rata pemain bola tidak mau lah apa yang saya alamin waktu itu,
+85	Di pertandingan ketiga itu lawan Vietnam mungkin ya rata-rata pemain bola tidak mau lah apa yang saya alamin waktu itu,
+86	Di pertandingan ketiga itu lawan Vietnam mungkin ya rata-rata pemain bola tidak mau lah apa yang saya alamin waktu itu, karena yang saya alamin itu mimpi buruk kayaknya buat pemain bola semua debutan gitu.
+87	Di pertandingan ketiga itu lawan Vietnam mungkin ya rata-rata pemain bola tidak mau lah apa yang saya alamin waktu itu, karena yang saya alamin itu mimpi buruk kayaknya buat pemain bola semua debutan gitu.
+88	karena yang saya alamin itu mimpi buruk kayaknya buat pemain bola semua debutan gitu.
+89	karena yang saya alamin itu mimpi buruk kayaknya buat pemain bola semua debutan gitu.
+90	karena yang saya alamin itu mimpi buruk kayaknya buat pemain bola semua debutan gitu.
+91	karena yang saya alamin itu mimpi buruk kayaknya buat pemain bola semua debutan gitu.
+92	karena yang saya alamin itu mimpi buruk kayaknya buat pemain bola semua debutan gitu.
+93	karena yang saya alamin itu mimpi buruk kayaknya buat pemain bola semua debutan gitu.
+94	karena yang saya alamin itu mimpi buruk kayaknya buat pemain bola semua debutan gitu.
+95	karena yang saya alamin itu mimpi buruk kayaknya buat pemain bola semua debutan gitu.
+96	karena yang saya alamin itu mimpi buruk kayaknya buat pemain bola semua debutan gitu.
+97	karena yang saya alamin itu mimpi buruk kayaknya buat pemain bola semua debutan gitu.
+98	karena yang saya alamin itu mimpi buruk kayaknya buat pemain bola semua debutan gitu.
+99	karena yang saya alamin itu mimpi buruk kayaknya buat pemain bola semua debutan gitu.
+100	karena yang saya alamin itu mimpi buruk kayaknya buat pemain bola semua debutan gitu. Sesampainya di Jakarta, saya langsung dibawa ke...
+101	Sesampainya di Jakarta, saya langsung dibawa ke...
+102	Sesampainya di Jakarta, saya langsung dibawa ke...
+103	Sesampainya di Jakarta, saya langsung dibawa ke...
+104	Sesampainya di Jakarta, saya langsung dibawa ke... ke rumah sakit untuk melakukan penanganan untuk masalah kaki saya,
+105	Sesampainya di Jakarta, saya langsung dibawa ke... ke rumah sakit untuk melakukan penanganan untuk masalah kaki saya,
+106	ke rumah sakit untuk melakukan penanganan untuk masalah kaki saya,
+107	ke rumah sakit untuk melakukan penanganan untuk masalah kaki saya,
+108	ke rumah sakit untuk melakukan penanganan untuk masalah kaki saya,
+109	ke rumah sakit untuk melakukan penanganan untuk masalah kaki saya,
+110	ke rumah sakit untuk melakukan penanganan untuk masalah kaki saya,
+111	ke rumah sakit untuk melakukan penanganan untuk masalah kaki saya,
+112	ke rumah sakit untuk melakukan penanganan untuk masalah kaki saya,
+113	yang sudah ditanggung oleh asuransi yang bekerja sama dengan PCC.
+114	yang sudah ditanggung oleh asuransi yang bekerja sama dengan PCC.
+115	yang sudah ditanggung oleh asuransi yang bekerja sama dengan PCC.
+116	yang sudah ditanggung oleh asuransi yang bekerja sama dengan PCC.
+117	yang sudah ditanggung oleh asuransi yang bekerja sama dengan PCC.
+118	yang sudah ditanggung oleh asuransi yang bekerja sama dengan PCC.
+119	yang sudah ditanggung oleh asuransi yang bekerja sama dengan PCC.
+120	yang sudah ditanggung oleh asuransi yang bekerja sama dengan PCC.
+121	yang sudah ditanggung oleh asuransi yang bekerja sama dengan PCC.
+122	yang sudah ditanggung oleh asuransi yang bekerja sama dengan PCC. Ya, saya berharap semoga saya bisa dapat cepat kembali lagi ke lapangan dan bermain sepak bola lagi.
+123	yang sudah ditanggung oleh asuransi yang bekerja sama dengan PCC. Ya, saya berharap semoga saya bisa dapat cepat kembali lagi ke lapangan dan bermain sepak bola lagi.
+124	Ya, saya berharap semoga saya bisa dapat cepat kembali lagi ke lapangan dan bermain sepak bola lagi.
+125	Ya, saya berharap semoga saya bisa dapat cepat kembali lagi ke lapangan dan bermain sepak bola lagi.
+126	Ya, saya berharap semoga saya bisa dapat cepat kembali lagi ke lapangan dan bermain sepak bola lagi.
+127	Ya, saya berharap semoga saya bisa dapat cepat kembali lagi ke lapangan dan bermain sepak bola lagi.
+128	Ya, saya berharap semoga saya bisa dapat cepat kembali lagi ke lapangan dan bermain sepak bola lagi.
+129	Ya, saya berharap semoga saya bisa dapat cepat kembali lagi ke lapangan dan bermain sepak bola lagi.
+130	Ya, saya berharap semoga saya bisa dapat cepat kembali lagi ke lapangan dan bermain sepak bola lagi.
+131	Ya, saya berharap semoga saya bisa dapat cepat kembali lagi ke lapangan dan bermain sepak bola lagi.
+132	Ya, saya berharap semoga saya bisa dapat cepat kembali lagi ke lapangan dan bermain sepak bola lagi.
+133	Ya, saya berharap semoga saya bisa dapat cepat kembali lagi ke lapangan dan bermain sepak bola lagi.
+134	Ya, saya berharap semoga saya bisa dapat cepat kembali lagi ke lapangan dan bermain sepak bola lagi.
+135	Ya, saya berharap semoga saya bisa dapat cepat kembali lagi ke lapangan dan bermain sepak bola lagi.
+136	[NO_SPEECH]
+137	[NO_SPEECH]
+138	[NO_SPEECH]
+139	[NO_SPEECH]
+140	[NO_SPEECH]
+141	[NO_SPEECH]
+142	[NO_SPEECH]
+143	[NO_SPEECH]
+144	[NO_SPEECH]
+145	[NO_SPEECH]

@@ -1,0 +1,76 @@
+0	Cuaca mendukung, oksigen fresh, heart rate aman sejauh ini.
+1	Cuaca mendukung, oksigen fresh, heart rate aman sejauh ini.
+2	Cuaca mendukung, oksigen fresh, heart rate aman sejauh ini.
+3	Cuaca mendukung, oksigen fresh, heart rate aman sejauh ini.
+4	Cuaca mendukung, oksigen fresh, heart rate aman sejauh ini.
+5	Cuaca mendukung, oksigen fresh, heart rate aman sejauh ini.
+6	Cuaca mendukung, oksigen fresh, heart rate aman sejauh ini.
+7	Cuaca mendukung, oksigen fresh, heart rate aman sejauh ini.
+8	Cuaca mendukung, oksigen fresh, heart rate aman sejauh ini.
+9	Cuaca mendukung, oksigen fresh, heart rate aman sejauh ini.
+10	Cuaca mendukung, oksigen fresh, heart rate aman sejauh ini.
+11	Cuaca mendukung, oksigen fresh, heart rate aman sejauh ini.
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	Besok menuju di sini.
+15	Besok menuju di sini.
+16	Besok menuju di sini. Yes.
+17	Besok menuju di sini. Yes.
+18	Yes. Kami datang lagi, timnas Indonesia.
+19	Kami datang lagi, timnas Indonesia.
+20	Kami datang lagi, timnas Indonesia.
+21	Kami datang lagi, timnas Indonesia.
+22	Kami datang lagi, timnas Indonesia.
+23	Kami datang lagi, timnas Indonesia.
+24	Kami datang lagi, timnas Indonesia.
+25	Kami datang lagi, timnas Indonesia.
+26	Kami datang lagi, timnas Indonesia.
+27	Kami datang lagi, timnas Indonesia.
+28	Kami datang lagi, timnas Indonesia.
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	Lantangku bernyanyi, tegak dan berdiri.
+32	Lantangku bernyanyi, tegak dan berdiri.
+33	Lantangku bernyanyi, tegak dan berdiri.
+34	Lantangku bernyanyi, tegak dan berdiri.
+35	Lantangku bernyanyi, tegak dan berdiri.
+36	Lantangku bernyanyi, tegak dan berdiri.
+37	Lantangku bernyanyi, tegak dan berdiri.
+38	Lantangku bernyanyi, tegak dan berdiri.
+39	Lantangku bernyanyi, tegak dan berdiri.
+40	Lantangku bernyanyi, tegak dan berdiri.
+41	[NO_SPEECH]
+42	Ale, ale, ale.
+43	Ale, ale, ale.
+44	Ale, ale, ale.
+45	Ale, ale, ale.
+46	Ale, ale, ale. Ale, ale, ale.
+47	Ale, ale, ale.
+48	Ale, ale, ale.
+49	Ale, ale, ale.
+50	Ale, ale, ale.
+51	Ale, ale, ale.
+52	Ale, ale, ale.
+53	[NO_SPEECH]
+54	Indonesia maju.
+55	Indonesia maju.
+56	Indonesia maju.
+57	Indonesia maju.
+58	Indonesia maju. Garuda terbang tinggi.
+59	Garuda terbang tinggi.
+60	Garuda terbang tinggi.
+61	Garuda terbang tinggi.
+62	Garuda terbang tinggi.
+63	Garuda terbang tinggi.
+64	Ngasal.
+65	Ngasal.
+66	Ngasal.
+67	Ngasal. Endingnya ngasal.
+68	Endingnya ngasal.
+69	Endingnya ngasal.
+70	Endingnya ngasal.
+71	[NO_SPEECH]
+72	[NO_SPEECH]
+73	[NO_SPEECH]
+74	[NO_SPEECH]
+75	[NO_SPEECH]

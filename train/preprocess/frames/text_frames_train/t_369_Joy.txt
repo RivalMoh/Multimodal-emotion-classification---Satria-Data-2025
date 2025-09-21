@@ -1,0 +1,207 @@
+0	65 jam, waktu yang terbuang sia-sia oleh warga Jakarta gara-gara macet.
+1	65 jam, waktu yang terbuang sia-sia oleh warga Jakarta gara-gara macet.
+2	65 jam, waktu yang terbuang sia-sia oleh warga Jakarta gara-gara macet.
+3	65 jam, waktu yang terbuang sia-sia oleh warga Jakarta gara-gara macet.
+4	65 jam, waktu yang terbuang sia-sia oleh warga Jakarta gara-gara macet.
+5	65 jam, waktu yang terbuang sia-sia oleh warga Jakarta gara-gara macet.
+6	65 jam, waktu yang terbuang sia-sia oleh warga Jakarta gara-gara macet.
+7	65 jam, waktu yang terbuang sia-sia oleh warga Jakarta gara-gara macet.
+8	65 jam, waktu yang terbuang sia-sia oleh warga Jakarta gara-gara macet.
+9	65 jam, waktu yang terbuang sia-sia oleh warga Jakarta gara-gara macet.
+10	65 jam, waktu yang terbuang sia-sia oleh warga Jakarta gara-gara macet.
+11	65 jam, waktu yang terbuang sia-sia oleh warga Jakarta gara-gara macet.
+12	65 jam, waktu yang terbuang sia-sia oleh warga Jakarta gara-gara macet.
+13	65 jam, waktu yang terbuang sia-sia oleh warga Jakarta gara-gara macet. Jakarta adalah kota kedua yang menghabiskan paling banyak waktu terbuang secara sia-sia gara-gara kemacetan.
+14	65 jam, waktu yang terbuang sia-sia oleh warga Jakarta gara-gara macet. Jakarta adalah kota kedua yang menghabiskan paling banyak waktu terbuang secara sia-sia gara-gara kemacetan.
+15	Jakarta adalah kota kedua yang menghabiskan paling banyak waktu terbuang secara sia-sia gara-gara kemacetan.
+16	Jakarta adalah kota kedua yang menghabiskan paling banyak waktu terbuang secara sia-sia gara-gara kemacetan.
+17	Jakarta adalah kota kedua yang menghabiskan paling banyak waktu terbuang secara sia-sia gara-gara kemacetan.
+18	Jakarta adalah kota kedua yang menghabiskan paling banyak waktu terbuang secara sia-sia gara-gara kemacetan.
+19	Jakarta adalah kota kedua yang menghabiskan paling banyak waktu terbuang secara sia-sia gara-gara kemacetan.
+20	Jakarta adalah kota kedua yang menghabiskan paling banyak waktu terbuang secara sia-sia gara-gara kemacetan.
+21	Jakarta adalah kota kedua yang menghabiskan paling banyak waktu terbuang secara sia-sia gara-gara kemacetan.
+22	Jakarta adalah kota kedua yang menghabiskan paling banyak waktu terbuang secara sia-sia gara-gara kemacetan.
+23	Jakarta adalah kota kedua yang menghabiskan paling banyak waktu terbuang secara sia-sia gara-gara kemacetan.
+24	Jakarta adalah kota kedua yang menghabiskan paling banyak waktu terbuang secara sia-sia gara-gara kemacetan.
+25	Jakarta adalah kota kedua yang menghabiskan paling banyak waktu terbuang secara sia-sia gara-gara kemacetan.
+26	Jakarta adalah kota kedua yang menghabiskan paling banyak waktu terbuang secara sia-sia gara-gara kemacetan.
+27	Jakarta adalah kota kedua yang menghabiskan paling banyak waktu terbuang secara sia-sia gara-gara kemacetan.
+28	Jakarta adalah kota kedua yang menghabiskan paling banyak waktu terbuang secara sia-sia gara-gara kemacetan.
+29	Jakarta adalah kota kedua yang menghabiskan paling banyak waktu terbuang secara sia-sia gara-gara kemacetan.
+30	Jakarta adalah kota kedua yang menghabiskan paling banyak waktu terbuang secara sia-sia gara-gara kemacetan. Tapi kalau macet-macetan yang pakai mobil baru satu ini tidak seberapa capek.
+31	Jakarta adalah kota kedua yang menghabiskan paling banyak waktu terbuang secara sia-sia gara-gara kemacetan. Tapi kalau macet-macetan yang pakai mobil baru satu ini tidak seberapa capek.
+32	Tapi kalau macet-macetan yang pakai mobil baru satu ini tidak seberapa capek.
+33	Tapi kalau macet-macetan yang pakai mobil baru satu ini tidak seberapa capek.
+34	Tapi kalau macet-macetan yang pakai mobil baru satu ini tidak seberapa capek.
+35	Tapi kalau macet-macetan yang pakai mobil baru satu ini tidak seberapa capek.
+36	Tapi kalau macet-macetan yang pakai mobil baru satu ini tidak seberapa capek.
+37	Tapi kalau macet-macetan yang pakai mobil baru satu ini tidak seberapa capek.
+38	Tapi kalau macet-macetan yang pakai mobil baru satu ini tidak seberapa capek.
+39	Tapi kalau macet-macetan yang pakai mobil baru satu ini tidak seberapa capek. Karena mobil ini bisa stop and go otomatis kayak kakak-kakaknya.
+40	Tapi kalau macet-macetan yang pakai mobil baru satu ini tidak seberapa capek. Karena mobil ini bisa stop and go otomatis kayak kakak-kakaknya.
+41	Karena mobil ini bisa stop and go otomatis kayak kakak-kakaknya.
+42	Karena mobil ini bisa stop and go otomatis kayak kakak-kakaknya.
+43	Karena mobil ini bisa stop and go otomatis kayak kakak-kakaknya.
+44	Karena mobil ini bisa stop and go otomatis kayak kakak-kakaknya.
+45	Karena mobil ini bisa stop and go otomatis kayak kakak-kakaknya.
+46	Karena mobil ini bisa stop and go otomatis kayak kakak-kakaknya.
+47	Karena mobil ini bisa stop and go otomatis kayak kakak-kakaknya.
+48	Karena mobil ini bisa stop and go otomatis kayak kakak-kakaknya.
+49	Karena mobil ini bisa stop and go otomatis kayak kakak-kakaknya.
+50	Karena mobil ini bisa stop and go otomatis kayak kakak-kakaknya.
+51	Karena mobil ini bisa stop and go otomatis kayak kakak-kakaknya.
+52	Karena mobil ini bisa stop and go otomatis kayak kakak-kakaknya. Ini adalah Hyundai Stargazer Kartens X.
+53	Karena mobil ini bisa stop and go otomatis kayak kakak-kakaknya. Ini adalah Hyundai Stargazer Kartens X.
+54	Ini adalah Hyundai Stargazer Kartens X.
+55	Ini adalah Hyundai Stargazer Kartens X.
+56	Ini adalah Hyundai Stargazer Kartens X.
+57	Ini adalah Hyundai Stargazer Kartens X.
+58	Ini adalah Hyundai Stargazer Kartens X.
+59	Ini adalah Hyundai Stargazer Kartens X. The real Indonesian car.
+60	Ini adalah Hyundai Stargazer Kartens X. The real Indonesian car.
+61	The real Indonesian car.
+62	The real Indonesian car.
+63	The real Indonesian car.
+64	The real Indonesian car. Muka depannya totally new, baru banget, makin gagah.
+65	Muka depannya totally new, baru banget, makin gagah.
+66	Muka depannya totally new, baru banget, makin gagah.
+67	Muka depannya totally new, baru banget, makin gagah.
+68	Muka depannya totally new, baru banget, makin gagah.
+69	Muka depannya totally new, baru banget, makin gagah.
+70	Muka depannya totally new, baru banget, makin gagah.
+71	Muka depannya totally new, baru banget, makin gagah.
+72	Muka depannya totally new, baru banget, makin gagah.
+73	Muka depannya totally new, baru banget, makin gagah.
+74	Muka depannya totally new, baru banget, makin gagah. Stargazer Kartens X bukan cuma adventure look, tapi juga adventure ready.
+75	Stargazer Kartens X bukan cuma adventure look, tapi juga adventure ready.
+76	Stargazer Kartens X bukan cuma adventure look, tapi juga adventure ready.
+77	Stargazer Kartens X bukan cuma adventure look, tapi juga adventure ready.
+78	Stargazer Kartens X bukan cuma adventure look, tapi juga adventure ready.
+79	Stargazer Kartens X bukan cuma adventure look, tapi juga adventure ready.
+80	Stargazer Kartens X bukan cuma adventure look, tapi juga adventure ready.
+81	Stargazer Kartens X bukan cuma adventure look, tapi juga adventure ready.
+82	Stargazer Kartens X bukan cuma adventure look, tapi juga adventure ready. Ada over fender dan roof railnya sekarang bisa dipakai.
+83	Stargazer Kartens X bukan cuma adventure look, tapi juga adventure ready. Ada over fender dan roof railnya sekarang bisa dipakai.
+84	Ada over fender dan roof railnya sekarang bisa dipakai.
+85	Ada over fender dan roof railnya sekarang bisa dipakai.
+86	Ada over fender dan roof railnya sekarang bisa dipakai.
+87	Ada over fender dan roof railnya sekarang bisa dipakai.
+88	Ada over fender dan roof railnya sekarang bisa dipakai.
+89	Ada over fender dan roof railnya sekarang bisa dipakai.
+90	Ada over fender dan roof railnya sekarang bisa dipakai. Lampu depan baru, lampu belakang juga nggak ketinggalan yang baru.
+91	Ada over fender dan roof railnya sekarang bisa dipakai. Lampu depan baru, lampu belakang juga nggak ketinggalan yang baru.
+92	Lampu depan baru, lampu belakang juga nggak ketinggalan yang baru.
+93	Lampu depan baru, lampu belakang juga nggak ketinggalan yang baru.
+94	Lampu depan baru, lampu belakang juga nggak ketinggalan yang baru.
+95	Lampu depan baru, lampu belakang juga nggak ketinggalan yang baru.
+96	Lampu depan baru, lampu belakang juga nggak ketinggalan yang baru.
+97	Lampu depan baru, lampu belakang juga nggak ketinggalan yang baru.
+98	Lampu depan baru, lampu belakang juga nggak ketinggalan yang baru. Gimana? Lebih suka yang ini atau yang sebelumnya?
+99	Lampu depan baru, lampu belakang juga nggak ketinggalan yang baru. Gimana? Lebih suka yang ini atau yang sebelumnya?
+100	Gimana? Lebih suka yang ini atau yang sebelumnya?
+101	Gimana? Lebih suka yang ini atau yang sebelumnya?
+102	Gimana? Lebih suka yang ini atau yang sebelumnya?
+103	Gimana? Lebih suka yang ini atau yang sebelumnya? Tapi yang bikin gue paling kaget interiornya berubah banget.
+104	Tapi yang bikin gue paling kaget interiornya berubah banget.
+105	Tapi yang bikin gue paling kaget interiornya berubah banget.
+106	Tapi yang bikin gue paling kaget interiornya berubah banget.
+107	Tapi yang bikin gue paling kaget interiornya berubah banget.
+108	Tapi yang bikin gue paling kaget interiornya berubah banget.
+109	Tapi yang bikin gue paling kaget interiornya berubah banget.
+110	Tapi yang bikin gue paling kaget interiornya berubah banget.
+111	Tapi yang bikin gue paling kaget interiornya berubah banget.
+112	Tapi yang bikin gue paling kaget interiornya berubah banget. Bener-bener jadi futuristik banget.
+113	Bener-bener jadi futuristik banget.
+114	Bener-bener jadi futuristik banget.
+115	Bener-bener jadi futuristik banget.
+116	Bener-bener jadi futuristik banget.
+117	Bener-bener jadi futuristik banget.
+118	Fitur-fiturnya banyak banget yang baru.
+119	Fitur-fiturnya banyak banget yang baru.
+120	Fitur-fiturnya banyak banget yang baru.
+121	Fitur-fiturnya banyak banget yang baru.
+122	Fitur-fiturnya banyak banget yang baru. Ada shift by wire, ada adas dengan radar.
+123	Fitur-fiturnya banyak banget yang baru. Ada shift by wire, ada adas dengan radar.
+124	Ada shift by wire, ada adas dengan radar.
+125	Ada shift by wire, ada adas dengan radar.
+126	Ada shift by wire, ada adas dengan radar.
+127	Ada shift by wire, ada adas dengan radar.
+128	Ada shift by wire, ada adas dengan radar.
+129	Ada shift by wire, ada adas dengan radar. Kalau urusan parkir, udah ada sensor parking dan kamera 360.
+130	Kalau urusan parkir, udah ada sensor parking dan kamera 360.
+131	Kalau urusan parkir, udah ada sensor parking dan kamera 360.
+132	Kalau urusan parkir, udah ada sensor parking dan kamera 360.
+133	Kalau urusan parkir, udah ada sensor parking dan kamera 360.
+134	Kalau urusan parkir, udah ada sensor parking dan kamera 360.
+135	Kalau urusan parkir, udah ada sensor parking dan kamera 360.
+136	Kalau urusan parkir, udah ada sensor parking dan kamera 360. Udah ada blind spot monitor.
+137	Udah ada blind spot monitor.
+138	Udah ada blind spot monitor.
+139	Udah ada blind spot monitor. Pokoknya udah lengkap banget mobil ini untuk urusan fiturnya.
+140	Pokoknya udah lengkap banget mobil ini untuk urusan fiturnya.
+141	Pokoknya udah lengkap banget mobil ini untuk urusan fiturnya.
+142	Pokoknya udah lengkap banget mobil ini untuk urusan fiturnya.
+143	Pokoknya udah lengkap banget mobil ini untuk urusan fiturnya.
+144	Pokoknya udah lengkap banget mobil ini untuk urusan fiturnya.
+145	Pokoknya udah lengkap banget mobil ini untuk urusan fiturnya. Kursi driver depan ada pendinginnya.
+146	Kursi driver depan ada pendinginnya.
+147	Kursi driver depan ada pendinginnya.
+148	Kursi driver depan ada pendinginnya.
+149	Kursi driver depan ada pendinginnya. Ada wireless charging juga.
+150	Kursi driver depan ada pendinginnya. Ada wireless charging juga.
+151	Ada wireless charging juga.
+152	Ada wireless charging juga.
+153	Ada wireless charging juga. Ada pedal shift dan ada ambient light.
+154	Ada pedal shift dan ada ambient light.
+155	Ada pedal shift dan ada ambient light.
+156	Ada pedal shift dan ada ambient light.
+157	Ada pedal shift dan ada ambient light.
+158	Ada pedal shift dan ada ambient light. Ada juga Hyundai Stargazer Kartens yang satu ini.
+159	Ada pedal shift dan ada ambient light. Ada juga Hyundai Stargazer Kartens yang satu ini.
+160	Ada juga Hyundai Stargazer Kartens yang satu ini.
+161	Ada juga Hyundai Stargazer Kartens yang satu ini.
+162	Ada juga Hyundai Stargazer Kartens yang satu ini.
+163	Ada juga Hyundai Stargazer Kartens yang satu ini.
+164	Ada juga Hyundai Stargazer Kartens yang satu ini.
+165	Ada juga Hyundai Stargazer Kartens yang satu ini. Yang looksnya juga udah berubah banget.
+166	Ada juga Hyundai Stargazer Kartens yang satu ini. Yang looksnya juga udah berubah banget.
+167	Yang looksnya juga udah berubah banget.
+168	Yang looksnya juga udah berubah banget. Tapi tetap sama-sama.
+169	Yang looksnya juga udah berubah banget. Tapi tetap sama-sama.
+170	Tapi tetap sama-sama.
+171	Tapi tetap sama-sama.
+172	Tapi tetap sama-sama. Punya smart cruise control.
+173	Tapi tetap sama-sama. Punya smart cruise control.
+174	Punya smart cruise control.
+175	Punya smart cruise control. Artinya kalau macet-macetan nggak bikin capek.
+176	Punya smart cruise control. Artinya kalau macet-macetan nggak bikin capek.
+177	Artinya kalau macet-macetan nggak bikin capek.
+178	Artinya kalau macet-macetan nggak bikin capek.
+179	Artinya kalau macet-macetan nggak bikin capek.
+180	Artinya kalau macet-macetan nggak bikin capek. Mesinnya sama-sama 1500 cc yang semua orang pasti udah tau.
+181	Mesinnya sama-sama 1500 cc yang semua orang pasti udah tau.
+182	Mesinnya sama-sama 1500 cc yang semua orang pasti udah tau.
+183	Mesinnya sama-sama 1500 cc yang semua orang pasti udah tau.
+184	Mesinnya sama-sama 1500 cc yang semua orang pasti udah tau.
+185	Mesinnya sama-sama 1500 cc yang semua orang pasti udah tau.
+186	Mesinnya sama-sama 1500 cc yang semua orang pasti udah tau.
+187	Mesinnya sama-sama 1500 cc yang semua orang pasti udah tau.
+188	Mesinnya sama-sama 1500 cc yang semua orang pasti udah tau.
+189	Mesinnya sama-sama 1500 cc yang semua orang pasti udah tau. Irit banget mesin satu ini.
+190	Mesinnya sama-sama 1500 cc yang semua orang pasti udah tau. Irit banget mesin satu ini.
+191	Irit banget mesin satu ini.
+192	Irit banget mesin satu ini. Penasaran kayak gimana mobilnya?
+193	Irit banget mesin satu ini. Penasaran kayak gimana mobilnya?
+194	Penasaran kayak gimana mobilnya?
+195	Penasaran kayak gimana mobilnya? Langsung aja samperin ke dealer Hyundai terdekat atau datang ke pameran Gies 2025.
+196	Penasaran kayak gimana mobilnya? Langsung aja samperin ke dealer Hyundai terdekat atau datang ke pameran Gies 2025.
+197	Langsung aja samperin ke dealer Hyundai terdekat atau datang ke pameran Gies 2025.
+198	Langsung aja samperin ke dealer Hyundai terdekat atau datang ke pameran Gies 2025.
+199	Langsung aja samperin ke dealer Hyundai terdekat atau datang ke pameran Gies 2025.
+200	Langsung aja samperin ke dealer Hyundai terdekat atau datang ke pameran Gies 2025.
+201	Langsung aja samperin ke dealer Hyundai terdekat atau datang ke pameran Gies 2025.
+202	Langsung aja samperin ke dealer Hyundai terdekat atau datang ke pameran Gies 2025.
+203	Langsung aja samperin ke dealer Hyundai terdekat atau datang ke pameran Gies 2025.
+204	Langsung aja samperin ke dealer Hyundai terdekat atau datang ke pameran Gies 2025.
+205	[NO_SPEECH]
+206	[NO_SPEECH]

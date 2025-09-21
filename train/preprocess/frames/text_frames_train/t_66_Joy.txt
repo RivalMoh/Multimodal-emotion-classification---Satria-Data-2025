@@ -1,0 +1,144 @@
+0	Pak, Pak, Pak, kemana sih? Buru-buru banget.
+1	Pak, Pak, Pak, kemana sih? Buru-buru banget.
+2	Pak, Pak, Pak, kemana sih? Buru-buru banget.
+3	Pak, Pak, Pak, kemana sih? Buru-buru banget.
+4	Pak, Pak, Pak, kemana sih? Buru-buru banget. Ke Polytron.
+5	Ke Polytron.
+6	Ke Polytron. Mau ngapain? Gaseh TV.
+7	Mau ngapain? Gaseh TV.
+8	Mau ngapain? Gaseh TV.
+9	Mau ngapain? Gaseh TV. Gaseh TV? Nih, liat nih.
+10	Gaseh TV? Nih, liat nih.
+11	Gaseh TV? Nih, liat nih.
+12	Gaseh TV? Nih, liat nih.
+13	Gaseh TV? Nih, liat nih.
+14	Polytron yang ini.
+15	Polytron yang ini.
+16	Polytron yang ini.
+17	Polytron yang ini.
+18	Polytron yang ini. Mobil. Ayo kita liat lebih detail.
+19	Mobil. Ayo kita liat lebih detail.
+20	Mobil. Ayo kita liat lebih detail.
+21	Mobil. Ayo kita liat lebih detail.
+22	Mobil. Ayo kita liat lebih detail. Ada dua tipe. Polytron G3 Plus dan Polytron G3.
+23	Mobil. Ayo kita liat lebih detail. Ada dua tipe. Polytron G3 Plus dan Polytron G3.
+24	Ada dua tipe. Polytron G3 Plus dan Polytron G3.
+25	Ada dua tipe. Polytron G3 Plus dan Polytron G3.
+26	Ada dua tipe. Polytron G3 Plus dan Polytron G3.
+27	Ada dua tipe. Polytron G3 Plus dan Polytron G3.
+28	Ada dua tipe. Polytron G3 Plus dan Polytron G3.
+29	Ada dua tipe. Polytron G3 Plus dan Polytron G3.
+30	Ada dua tipe. Polytron G3 Plus dan Polytron G3.
+31	Ini bisa DC Charging.
+32	Ini bisa DC Charging.
+33	Ini bisa DC Charging.
+34	Ini bisa DC Charging.
+35	Ini bisa DC Charging. Untuk lintas baterai 52 kWh dengan range 400 km lebih.
+36	Ini bisa DC Charging. Untuk lintas baterai 52 kWh dengan range 400 km lebih.
+37	Untuk lintas baterai 52 kWh dengan range 400 km lebih.
+38	Untuk lintas baterai 52 kWh dengan range 400 km lebih.
+39	Untuk lintas baterai 52 kWh dengan range 400 km lebih.
+40	Untuk lintas baterai 52 kWh dengan range 400 km lebih.
+41	Untuk lintas baterai 52 kWh dengan range 400 km lebih.
+42	Untuk lintas baterai 52 kWh dengan range 400 km lebih.
+43	Untuk lintas baterai 52 kWh dengan range 400 km lebih.
+44	Untuk lintas baterai 52 kWh dengan range 400 km lebih.
+45	Untuk lintas baterai 52 kWh dengan range 400 km lebih. Bentuknya modern.
+46	Bentuknya modern.
+47	Bentuknya modern.
+48	Bentuknya modern. Lampunya full dengan LED dan grillnya gagah sekali.
+49	Lampunya full dengan LED dan grillnya gagah sekali.
+50	Lampunya full dengan LED dan grillnya gagah sekali.
+51	Lampunya full dengan LED dan grillnya gagah sekali.
+52	Lampunya full dengan LED dan grillnya gagah sekali.
+53	Lampunya full dengan LED dan grillnya gagah sekali.
+54	Lampunya full dengan LED dan grillnya gagah sekali. Kita liat dalemnya yuk.
+55	Kita liat dalemnya yuk.
+56	Kita liat dalemnya yuk.
+57	[NO_SPEECH]
+58	[NO_SPEECH]
+59	Wah, ini intelligent dashboard.
+60	Wah, ini intelligent dashboard.
+61	Wah, ini intelligent dashboard.
+62	Wah, ini intelligent dashboard.
+63	Wah, ini intelligent dashboard. Layar tengahnya 12,8 inch central control widescreen.
+64	Layar tengahnya 12,8 inch central control widescreen.
+65	Layar tengahnya 12,8 inch central control widescreen.
+66	Layar tengahnya 12,8 inch central control widescreen.
+67	Layar tengahnya 12,8 inch central control widescreen.
+68	Layar tengahnya 12,8 inch central control widescreen.
+69	Layar tengahnya 12,8 inch central control widescreen.
+70	Layar tengahnya 12,8 inch central control widescreen.
+71	Layar tengahnya 12,8 inch central control widescreen.
+72	Layar tengahnya 12,8 inch central control widescreen. Joknya nyaman. Dilapiskan dengan premium synthetic leather.
+73	Layar tengahnya 12,8 inch central control widescreen. Joknya nyaman. Dilapiskan dengan premium synthetic leather.
+74	Joknya nyaman. Dilapiskan dengan premium synthetic leather.
+75	Joknya nyaman. Dilapiskan dengan premium synthetic leather.
+76	Joknya nyaman. Dilapiskan dengan premium synthetic leather.
+77	Joknya nyaman. Dilapiskan dengan premium synthetic leather.
+78	Joknya nyaman. Dilapiskan dengan premium synthetic leather.
+79	Wah, ada panoramic sunroof yang bisa dibuka.
+80	Wah, ada panoramic sunroof yang bisa dibuka.
+81	Wah, ada panoramic sunroof yang bisa dibuka.
+82	Wah, ada panoramic sunroof yang bisa dibuka.
+83	Wah, ada panoramic sunroof yang bisa dibuka.
+84	Wah, ada panoramic sunroof yang bisa dibuka. Untuk yang G3 Plus.
+85	Wah, ada panoramic sunroof yang bisa dibuka. Untuk yang G3 Plus.
+86	Untuk yang G3 Plus.
+87	Untuk yang G3 Plus. Mobil ini juga terintegrasi dengan handphone Anda melalui aplikasi Polytron EV Auto.
+88	Untuk yang G3 Plus. Mobil ini juga terintegrasi dengan handphone Anda melalui aplikasi Polytron EV Auto.
+89	Mobil ini juga terintegrasi dengan handphone Anda melalui aplikasi Polytron EV Auto.
+90	Mobil ini juga terintegrasi dengan handphone Anda melalui aplikasi Polytron EV Auto.
+91	Mobil ini juga terintegrasi dengan handphone Anda melalui aplikasi Polytron EV Auto.
+92	Mobil ini juga terintegrasi dengan handphone Anda melalui aplikasi Polytron EV Auto.
+93	Mobil ini juga terintegrasi dengan handphone Anda melalui aplikasi Polytron EV Auto.
+94	Mobil ini juga terintegrasi dengan handphone Anda melalui aplikasi Polytron EV Auto.
+95	Mobil ini juga terintegrasi dengan handphone Anda melalui aplikasi Polytron EV Auto.
+96	Mobil ini juga terintegrasi dengan handphone Anda melalui aplikasi Polytron EV Auto.
+97	Mobil ini juga terintegrasi dengan handphone Anda melalui aplikasi Polytron EV Auto. Wah, yang G3 Plus dapet velg 20 inch.
+98	Wah, yang G3 Plus dapet velg 20 inch.
+99	Wah, yang G3 Plus dapet velg 20 inch.
+100	Wah, yang G3 Plus dapet velg 20 inch.
+101	Wah, yang G3 Plus dapet velg 20 inch.
+102	Wah, yang G3 Plus dapet velg 20 inch.
+103	Wah, yang G3 Plus dapet velg 20 inch.
+104	[NO_SPEECH]
+105	Wah, belakangnya lega nih.
+106	Wah, belakangnya lega nih.
+107	Wah, belakangnya lega nih.
+108	Wah, belakangnya lega nih.
+109	Wah, belakangnya lega nih. Masih banyak lagi yang bisa dijelaskan mengenai mobil ini.
+110	Masih banyak lagi yang bisa dijelaskan mengenai mobil ini.
+111	Masih banyak lagi yang bisa dijelaskan mengenai mobil ini.
+112	Masih banyak lagi yang bisa dijelaskan mengenai mobil ini.
+113	Masih banyak lagi yang bisa dijelaskan mengenai mobil ini. Tapi nanti itu video khusus di Youtube.
+114	Masih banyak lagi yang bisa dijelaskan mengenai mobil ini. Tapi nanti itu video khusus di Youtube.
+115	Tapi nanti itu video khusus di Youtube.
+116	Tapi nanti itu video khusus di Youtube.
+117	Tapi nanti itu video khusus di Youtube.
+118	Tapi nanti itu video khusus di Youtube. Harga untuk mobil listrik Polytron ini mulai dari Rp 299 juta.
+119	Tapi nanti itu video khusus di Youtube. Harga untuk mobil listrik Polytron ini mulai dari Rp 299 juta.
+120	Harga untuk mobil listrik Polytron ini mulai dari Rp 299 juta.
+121	Harga untuk mobil listrik Polytron ini mulai dari Rp 299 juta.
+122	Harga untuk mobil listrik Polytron ini mulai dari Rp 299 juta.
+123	Harga untuk mobil listrik Polytron ini mulai dari Rp 299 juta.
+124	Harga untuk mobil listrik Polytron ini mulai dari Rp 299 juta.
+125	Harga untuk mobil listrik Polytron ini mulai dari Rp 299 juta.
+126	Harga untuk mobil listrik Polytron ini mulai dari Rp 299 juta.
+127	Harga untuk mobil listrik Polytron ini mulai dari Rp 299 juta.
+128	Harga untuk mobil listrik Polytron ini mulai dari Rp 299 juta. Bagi Anda yang ingin membeli mobil ini bisa pre-order di Blibli.
+129	Harga untuk mobil listrik Polytron ini mulai dari Rp 299 juta. Bagi Anda yang ingin membeli mobil ini bisa pre-order di Blibli.
+130	Bagi Anda yang ingin membeli mobil ini bisa pre-order di Blibli.
+131	Bagi Anda yang ingin membeli mobil ini bisa pre-order di Blibli.
+132	Bagi Anda yang ingin membeli mobil ini bisa pre-order di Blibli.
+133	Bagi Anda yang ingin membeli mobil ini bisa pre-order di Blibli.
+134	Bagi Anda yang ingin membeli mobil ini bisa pre-order di Blibli.
+135	Bagi Anda yang ingin membeli mobil ini bisa pre-order di Blibli.
+136	Bagi Anda yang ingin membeli mobil ini bisa pre-order di Blibli.
+137	Bagi Anda yang ingin membeli mobil ini bisa pre-order di Blibli. Polytron EV Official Store.
+138	Polytron EV Official Store.
+139	Polytron EV Official Store.
+140	Polytron EV Official Store.
+141	Polytron EV Official Store.
+142	Polytron EV Official Store.
+143	[NO_SPEECH]

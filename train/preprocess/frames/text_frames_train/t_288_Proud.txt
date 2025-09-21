@@ -1,0 +1,86 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	Hai teman-teman semuanya, hari ini seru banget karena teman-teman Revital Lady banyak banget yang hadir
+32	Hai teman-teman semuanya, hari ini seru banget karena teman-teman Revital Lady banyak banget yang hadir
+33	Hai teman-teman semuanya, hari ini seru banget karena teman-teman Revital Lady banyak banget yang hadir
+34	Hai teman-teman semuanya, hari ini seru banget karena teman-teman Revital Lady banyak banget yang hadir
+35	Hai teman-teman semuanya, hari ini seru banget karena teman-teman Revital Lady banyak banget yang hadir
+36	Hai teman-teman semuanya, hari ini seru banget karena teman-teman Revital Lady banyak banget yang hadir
+37	Hai teman-teman semuanya, hari ini seru banget karena teman-teman Revital Lady banyak banget yang hadir
+38	Hai teman-teman semuanya, hari ini seru banget karena teman-teman Revital Lady banyak banget yang hadir
+39	Hai teman-teman semuanya, hari ini seru banget karena teman-teman Revital Lady banyak banget yang hadir
+40	Hai teman-teman semuanya, hari ini seru banget karena teman-teman Revital Lady banyak banget yang hadir
+41	Hai teman-teman semuanya, hari ini seru banget karena teman-teman Revital Lady banyak banget yang hadir
+42	Hai teman-teman semuanya, hari ini seru banget karena teman-teman Revital Lady banyak banget yang hadir
+43	Hai teman-teman semuanya, hari ini seru banget karena teman-teman Revital Lady banyak banget yang hadir
+44	Hai teman-teman semuanya, hari ini seru banget karena teman-teman Revital Lady banyak banget yang hadir Terus juga sponsornya juga thank you banget udah ngedukung ke acara kita hari ini
+45	Hai teman-teman semuanya, hari ini seru banget karena teman-teman Revital Lady banyak banget yang hadir Terus juga sponsornya juga thank you banget udah ngedukung ke acara kita hari ini
+46	Terus juga sponsornya juga thank you banget udah ngedukung ke acara kita hari ini
+47	Terus juga sponsornya juga thank you banget udah ngedukung ke acara kita hari ini
+48	Terus juga sponsornya juga thank you banget udah ngedukung ke acara kita hari ini
+49	Terus juga sponsornya juga thank you banget udah ngedukung ke acara kita hari ini
+50	Terus juga sponsornya juga thank you banget udah ngedukung ke acara kita hari ini
+51	Terus juga sponsornya juga thank you banget udah ngedukung ke acara kita hari ini
+52	Terus juga sponsornya juga thank you banget udah ngedukung ke acara kita hari ini
+53	Terus juga sponsornya juga thank you banget udah ngedukung ke acara kita hari ini Pokoknya acara Revital Lady kali ini seru banget
+54	Terus juga sponsornya juga thank you banget udah ngedukung ke acara kita hari ini Pokoknya acara Revital Lady kali ini seru banget
+55	Pokoknya acara Revital Lady kali ini seru banget
+56	Pokoknya acara Revital Lady kali ini seru banget
+57	Pokoknya acara Revital Lady kali ini seru banget
+58	Pokoknya acara Revital Lady kali ini seru banget
+59	Pokoknya acara Revital Lady kali ini seru banget Jadi teman-teman jangan lupa ikut acara Revital Lady yang lainnya
+60	Pokoknya acara Revital Lady kali ini seru banget Jadi teman-teman jangan lupa ikut acara Revital Lady yang lainnya
+61	Jadi teman-teman jangan lupa ikut acara Revital Lady yang lainnya
+62	Jadi teman-teman jangan lupa ikut acara Revital Lady yang lainnya
+63	Jadi teman-teman jangan lupa ikut acara Revital Lady yang lainnya
+64	Jadi teman-teman jangan lupa ikut acara Revital Lady yang lainnya
+65	Jadi teman-teman jangan lupa ikut acara Revital Lady yang lainnya Bye bye
+66	Jadi teman-teman jangan lupa ikut acara Revital Lady yang lainnya Bye bye Craft your modesty by
+67	Bye bye Craft your modesty by
+68	Craft your modesty by
+69	Craft your modesty by
+70	Craft your modesty by
+71	Tukita
+72	Tukita
+73	Tukita
+74	[NO_SPEECH]
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	[NO_SPEECH]
+83	[NO_SPEECH]
+84	[NO_SPEECH]
+85	[NO_SPEECH]

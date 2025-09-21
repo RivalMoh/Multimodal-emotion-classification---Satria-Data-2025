@@ -1,0 +1,237 @@
+0	Tau nggak rumah tradisional Laos kayak gimana?
+1	Tau nggak rumah tradisional Laos kayak gimana?
+2	Tau nggak rumah tradisional Laos kayak gimana?
+3	Tau nggak rumah tradisional Laos kayak gimana?
+4	Tau nggak rumah tradisional Laos kayak gimana? Kayak gini!
+5	Kayak gini!
+6	Kayak gini!
+7	Kayak gini!
+8	Jadi selama di Laos, kita ngirim di Kuntar Residence
+9	Jadi selama di Laos, kita ngirim di Kuntar Residence
+10	Jadi selama di Laos, kita ngirim di Kuntar Residence
+11	Jadi selama di Laos, kita ngirim di Kuntar Residence
+12	Jadi selama di Laos, kita ngirim di Kuntar Residence
+13	Jadi selama di Laos, kita ngirim di Kuntar Residence
+14	Jadi selama di Laos, kita ngirim di Kuntar Residence di mana tempat penginapnya itu di rumah tradisional Laos
+15	Jadi selama di Laos, kita ngirim di Kuntar Residence di mana tempat penginapnya itu di rumah tradisional Laos
+16	di mana tempat penginapnya itu di rumah tradisional Laos
+17	di mana tempat penginapnya itu di rumah tradisional Laos
+18	di mana tempat penginapnya itu di rumah tradisional Laos
+19	di mana tempat penginapnya itu di rumah tradisional Laos
+20	di mana tempat penginapnya itu di rumah tradisional Laos
+21	di mana tempat penginapnya itu di rumah tradisional Laos atau disebut dengan Hong Song Lao.
+22	di mana tempat penginapnya itu di rumah tradisional Laos atau disebut dengan Hong Song Lao.
+23	atau disebut dengan Hong Song Lao.
+24	atau disebut dengan Hong Song Lao.
+25	atau disebut dengan Hong Song Lao.
+26	atau disebut dengan Hong Song Lao.
+27	atau disebut dengan Hong Song Lao.
+28	atau disebut dengan Hong Song Lao. Hong Song Lao.
+29	atau disebut dengan Hong Song Lao. Hong Song Lao.
+30	Hong Song Lao.
+31	Hong Song Lao.
+32	Hong Song Lao.
+33	Hong Song Lao.
+34	Ya, begitulah pokoknya.
+35	Ya, begitulah pokoknya.
+36	Ya, begitulah pokoknya. Jadi rumah ini adalah rumah panggung
+37	Ya, begitulah pokoknya. Jadi rumah ini adalah rumah panggung
+38	Jadi rumah ini adalah rumah panggung
+39	Jadi rumah ini adalah rumah panggung
+40	Jadi rumah ini adalah rumah panggung yang terbuat dari kayu hardwood atau kayu keras.
+41	Jadi rumah ini adalah rumah panggung yang terbuat dari kayu hardwood atau kayu keras.
+42	yang terbuat dari kayu hardwood atau kayu keras.
+43	yang terbuat dari kayu hardwood atau kayu keras.
+44	yang terbuat dari kayu hardwood atau kayu keras.
+45	yang terbuat dari kayu hardwood atau kayu keras.
+46	yang terbuat dari kayu hardwood atau kayu keras.
+47	yang terbuat dari kayu hardwood atau kayu keras. Bisa dari berbagai macam
+48	yang terbuat dari kayu hardwood atau kayu keras. Bisa dari berbagai macam
+49	Bisa dari berbagai macam dan fondasinya itu ditanam sampai ke bawah.
+50	Bisa dari berbagai macam dan fondasinya itu ditanam sampai ke bawah.
+51	dan fondasinya itu ditanam sampai ke bawah.
+52	dan fondasinya itu ditanam sampai ke bawah.
+53	dan fondasinya itu ditanam sampai ke bawah.
+54	dan fondasinya itu ditanam sampai ke bawah.
+55	dan fondasinya itu ditanam sampai ke bawah.
+56	dan fondasinya itu ditanam sampai ke bawah. Rumah yang dipakai di Kuntar Heritage ini
+57	dan fondasinya itu ditanam sampai ke bawah. Rumah yang dipakai di Kuntar Heritage ini
+58	Rumah yang dipakai di Kuntar Heritage ini
+59	Rumah yang dipakai di Kuntar Heritage ini
+60	Rumah yang dipakai di Kuntar Heritage ini itu adalah rumah lama yang usianya sudah lebih dari 100 tahun
+61	Rumah yang dipakai di Kuntar Heritage ini itu adalah rumah lama yang usianya sudah lebih dari 100 tahun
+62	itu adalah rumah lama yang usianya sudah lebih dari 100 tahun
+63	itu adalah rumah lama yang usianya sudah lebih dari 100 tahun
+64	itu adalah rumah lama yang usianya sudah lebih dari 100 tahun
+65	itu adalah rumah lama yang usianya sudah lebih dari 100 tahun
+66	itu adalah rumah lama yang usianya sudah lebih dari 100 tahun kemudian dipindah ke sini.
+67	itu adalah rumah lama yang usianya sudah lebih dari 100 tahun kemudian dipindah ke sini.
+68	itu adalah rumah lama yang usianya sudah lebih dari 100 tahun kemudian dipindah ke sini.
+69	kemudian dipindah ke sini.
+70	kemudian dipindah ke sini.
+71	kemudian dipindah ke sini. Dan kayunya itu masih bagus
+72	Dan kayunya itu masih bagus
+73	Dan kayunya itu masih bagus
+74	Dan kayunya itu masih bagus
+75	Dan kayunya itu masih bagus hanya saja ditreatment ulang
+76	Dan kayunya itu masih bagus hanya saja ditreatment ulang
+77	hanya saja ditreatment ulang
+78	hanya saja ditreatment ulang
+79	hanya saja ditreatment ulang biar lebih kuat dan tahan lama.
+80	hanya saja ditreatment ulang biar lebih kuat dan tahan lama.
+81	biar lebih kuat dan tahan lama.
+82	biar lebih kuat dan tahan lama.
+83	biar lebih kuat dan tahan lama.
+84	biar lebih kuat dan tahan lama. Meskipun dari luar terlihat dari kayu,
+85	Meskipun dari luar terlihat dari kayu,
+86	Meskipun dari luar terlihat dari kayu,
+87	Meskipun dari luar terlihat dari kayu, tapi pas masuk ke dalam,
+88	Meskipun dari luar terlihat dari kayu, tapi pas masuk ke dalam,
+89	tapi pas masuk ke dalam,
+90	tapi pas masuk ke dalam, wah ini mewah dan nyaman, boy.
+91	wah ini mewah dan nyaman, boy.
+92	wah ini mewah dan nyaman, boy.
+93	wah ini mewah dan nyaman, boy.
+94	wah ini mewah dan nyaman, boy.
+95	wah ini mewah dan nyaman, boy.
+96	wah ini mewah dan nyaman, boy. Kenapa jadi kejajago?
+97	Kenapa jadi kejajago?
+98	Kenapa jadi kejajago? Tipe yang kita pilih adalah dua kamar
+99	Kenapa jadi kejajago? Tipe yang kita pilih adalah dua kamar
+100	Tipe yang kita pilih adalah dua kamar
+101	Tipe yang kita pilih adalah dua kamar
+102	Tipe yang kita pilih adalah dua kamar di mana kamarnya gede-gede,
+103	Tipe yang kita pilih adalah dua kamar di mana kamarnya gede-gede,
+104	di mana kamarnya gede-gede,
+105	di mana kamarnya gede-gede,
+106	di mana kamarnya gede-gede,
+107	di mana kamarnya gede-gede, kasurnya enak.
+108	di mana kamarnya gede-gede, kasurnya enak.
+109	kasurnya enak.
+110	kasurnya enak.
+111	kasurnya enak. Udah gitu, tiap kamar ada kamar
+112	kasurnya enak. Udah gitu, tiap kamar ada kamar
+113	Udah gitu, tiap kamar ada kamar
+114	Udah gitu, tiap kamar ada kamar
+115	Udah gitu, tiap kamar ada kamar mandinya,
+116	Udah gitu, tiap kamar ada kamar mandinya,
+117	Udah gitu, tiap kamar ada kamar mandinya,
+118	mandinya, ada dua washtub
+119	ada dua washtub
+120	ada dua washtub tiap kamar mandi,
+121	ada dua washtub tiap kamar mandi,
+122	tiap kamar mandi,
+123	tiap kamar mandi, dan ada bathtubnya cuy.
+124	tiap kamar mandi, dan ada bathtubnya cuy.
+125	dan ada bathtubnya cuy.
+126	dan ada bathtubnya cuy.
+127	dan ada bathtubnya cuy.
+128	dan ada bathtubnya cuy.
+129	dan ada bathtubnya cuy. Terus buat kalian yang hobi masak,
+130	Terus buat kalian yang hobi masak,
+131	Terus buat kalian yang hobi masak,
+132	Terus buat kalian yang hobi masak,
+133	Terus buat kalian yang hobi masak, dia juga dilengkapi dengan dapur besar,
+134	Terus buat kalian yang hobi masak, dia juga dilengkapi dengan dapur besar,
+135	dia juga dilengkapi dengan dapur besar,
+136	dia juga dilengkapi dengan dapur besar,
+137	dia juga dilengkapi dengan dapur besar,
+138	dia juga dilengkapi dengan dapur besar, lengkap dengan kompor,
+139	dia juga dilengkapi dengan dapur besar, lengkap dengan kompor,
+140	lengkap dengan kompor,
+141	lengkap dengan kompor,
+142	lengkap dengan kompor, rice cooker,
+143	lengkap dengan kompor, rice cooker,
+144	rice cooker, microwave,
+145	microwave,
+146	microwave, hingga toaster buat kita bikin roti.
+147	hingga toaster buat kita bikin roti.
+148	hingga toaster buat kita bikin roti.
+149	hingga toaster buat kita bikin roti.
+150	hingga toaster buat kita bikin roti.
+151	hingga toaster buat kita bikin roti. Dan di bagian bawahnya,
+152	hingga toaster buat kita bikin roti. Dan di bagian bawahnya,
+153	Dan di bagian bawahnya,
+154	Dan di bagian bawahnya, kita juga dapat mesin cuci,
+155	Dan di bagian bawahnya, kita juga dapat mesin cuci,
+156	kita juga dapat mesin cuci,
+157	kita juga dapat mesin cuci, sama kalau kita mau cuci-cuci,
+158	kita juga dapat mesin cuci, sama kalau kita mau cuci-cuci,
+159	sama kalau kita mau cuci-cuci,
+160	sama kalau kita mau cuci-cuci,
+161	sama kalau kita mau cuci-cuci, ada sinknya di sini.
+162	sama kalau kita mau cuci-cuci, ada sinknya di sini.
+163	ada sinknya di sini.
+164	ada sinknya di sini. Jadi ini cocok banget buat yang bawa keluarga
+165	ada sinknya di sini. Jadi ini cocok banget buat yang bawa keluarga
+166	Jadi ini cocok banget buat yang bawa keluarga
+167	Jadi ini cocok banget buat yang bawa keluarga
+168	Jadi ini cocok banget buat yang bawa keluarga
+169	Jadi ini cocok banget buat yang bawa keluarga
+170	Jadi ini cocok banget buat yang bawa keluarga dan mau stay berlama-lama di sini.
+171	Jadi ini cocok banget buat yang bawa keluarga dan mau stay berlama-lama di sini.
+172	dan mau stay berlama-lama di sini.
+173	dan mau stay berlama-lama di sini.
+174	dan mau stay berlama-lama di sini.
+175	dan mau stay berlama-lama di sini. Nah pertanyaannya berapa biayanya?
+176	Nah pertanyaannya berapa biayanya?
+177	Nah pertanyaannya berapa biayanya?
+178	Nah pertanyaannya berapa biayanya?
+179	Nah pertanyaannya berapa biayanya? Untuk yang tipe dua kamar yang kita pakai,
+180	Nah pertanyaannya berapa biayanya? Untuk yang tipe dua kamar yang kita pakai,
+181	Untuk yang tipe dua kamar yang kita pakai,
+182	Untuk yang tipe dua kamar yang kita pakai,
+183	Untuk yang tipe dua kamar yang kita pakai, itu semalamnya 80 USD.
+184	Untuk yang tipe dua kamar yang kita pakai, itu semalamnya 80 USD.
+185	itu semalamnya 80 USD.
+186	itu semalamnya 80 USD. Untuk yang tipe satu kamar, bukan studio ya,
+187	itu semalamnya 80 USD. Untuk yang tipe satu kamar, bukan studio ya,
+188	Untuk yang tipe satu kamar, bukan studio ya,
+189	Untuk yang tipe satu kamar, bukan studio ya,
+190	Untuk yang tipe satu kamar, bukan studio ya,
+191	Untuk yang tipe satu kamar, bukan studio ya, satu kamar itu 60 USD.
+192	Untuk yang tipe satu kamar, bukan studio ya, satu kamar itu 60 USD.
+193	satu kamar itu 60 USD.
+194	satu kamar itu 60 USD.
+195	satu kamar itu 60 USD. Dan buat temen-temen yang pengen cari makanan,
+196	Dan buat temen-temen yang pengen cari makanan,
+197	Dan buat temen-temen yang pengen cari makanan,
+198	Dan buat temen-temen yang pengen cari makanan,
+199	Dan buat temen-temen yang pengen cari makanan,
+200	Dan buat temen-temen yang pengen cari makanan,
+201	Dan buat temen-temen yang pengen cari makanan, di depannya persis ada Restoran Rempah Indonesia.
+202	Dan buat temen-temen yang pengen cari makanan, di depannya persis ada Restoran Rempah Indonesia.
+203	di depannya persis ada Restoran Rempah Indonesia.
+204	di depannya persis ada Restoran Rempah Indonesia.
+205	di depannya persis ada Restoran Rempah Indonesia.
+206	di depannya persis ada Restoran Rempah Indonesia.
+207	di depannya persis ada Restoran Rempah Indonesia.
+208	Makanan Indonesia yang enak-enak banget.
+209	Makanan Indonesia yang enak-enak banget.
+210	Makanan Indonesia yang enak-enak banget.
+211	Makanan Indonesia yang enak-enak banget.
+212	Makanan Indonesia yang enak-enak banget.
+213	Makanan Indonesia yang enak-enak banget.
+214	Makanan Indonesia yang enak-enak banget. Sebenernya kalau dilihat-lihat,
+215	Sebenernya kalau dilihat-lihat,
+216	Sebenernya kalau dilihat-lihat, mirip gak sih sama rumah adat daya Kalimantan?
+217	Sebenernya kalau dilihat-lihat, mirip gak sih sama rumah adat daya Kalimantan?
+218	mirip gak sih sama rumah adat daya Kalimantan?
+219	mirip gak sih sama rumah adat daya Kalimantan?
+220	mirip gak sih sama rumah adat daya Kalimantan?
+221	mirip gak sih sama rumah adat daya Kalimantan? Tapi bedanya apa ya?
+222	mirip gak sih sama rumah adat daya Kalimantan? Tapi bedanya apa ya?
+223	Tapi bedanya apa ya?
+224	Tapi bedanya apa ya? Kalau ada yang tahu, coba komen di bawah.
+225	Kalau ada yang tahu, coba komen di bawah.
+226	Kalau ada yang tahu, coba komen di bawah.
+227	Kalau ada yang tahu, coba komen di bawah.
+228	Kalau ada yang tahu, coba komen di bawah.
+229	[NO_SPEECH]
+230	Bedanya di Laos.
+231	Bedanya di Laos.
+232	Bedanya di Laos.
+233	Bedanya di Laos.
+234	[NO_SPEECH]
+235	[NO_SPEECH]
+236	[NO_SPEECH]

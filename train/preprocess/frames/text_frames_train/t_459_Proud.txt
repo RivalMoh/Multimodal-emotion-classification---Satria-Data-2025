@@ -1,0 +1,201 @@
+0	Ayo guys, kita latihan bahu di gym.
+1	Ayo guys, kita latihan bahu di gym.
+2	Ayo guys, kita latihan bahu di gym.
+3	Ayo guys, kita latihan bahu di gym.
+4	Ayo guys, kita latihan bahu di gym.
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	Sebelum saya olahraga, saya pakai Poshman Roll-On yang ada 3 varian.
+10	Sebelum saya olahraga, saya pakai Poshman Roll-On yang ada 3 varian.
+11	Sebelum saya olahraga, saya pakai Poshman Roll-On yang ada 3 varian.
+12	Sebelum saya olahraga, saya pakai Poshman Roll-On yang ada 3 varian.
+13	Sebelum saya olahraga, saya pakai Poshman Roll-On yang ada 3 varian.
+14	Sebelum saya olahraga, saya pakai Poshman Roll-On yang ada 3 varian.
+15	Sebelum saya olahraga, saya pakai Poshman Roll-On yang ada 3 varian.
+16	Sebelum saya olahraga, saya pakai Poshman Roll-On yang ada 3 varian.
+17	Sebelum saya olahraga, saya pakai Poshman Roll-On yang ada 3 varian. Active Sport, Active Pro, dan Active Cool.
+18	Sebelum saya olahraga, saya pakai Poshman Roll-On yang ada 3 varian. Active Sport, Active Pro, dan Active Cool.
+19	Active Sport, Active Pro, dan Active Cool.
+20	Active Sport, Active Pro, dan Active Cool.
+21	Active Sport, Active Pro, dan Active Cool.
+22	Active Sport, Active Pro, dan Active Cool. Active Sport yang ini 2 kali lebih kuat lawan bau badan dan punya wangi fresh citrus.
+23	Active Sport, Active Pro, dan Active Cool. Active Sport yang ini 2 kali lebih kuat lawan bau badan dan punya wangi fresh citrus.
+24	Active Sport yang ini 2 kali lebih kuat lawan bau badan dan punya wangi fresh citrus.
+25	Active Sport yang ini 2 kali lebih kuat lawan bau badan dan punya wangi fresh citrus.
+26	Active Sport yang ini 2 kali lebih kuat lawan bau badan dan punya wangi fresh citrus.
+27	Active Sport yang ini 2 kali lebih kuat lawan bau badan dan punya wangi fresh citrus.
+28	Active Sport yang ini 2 kali lebih kuat lawan bau badan dan punya wangi fresh citrus.
+29	Active Sport yang ini 2 kali lebih kuat lawan bau badan dan punya wangi fresh citrus.
+30	Active Sport yang ini 2 kali lebih kuat lawan bau badan dan punya wangi fresh citrus.
+31	Active Sport yang ini 2 kali lebih kuat lawan bau badan dan punya wangi fresh citrus. Active Pro yang kedua udah pasti 5 kali no more no dari baju, wanginya lebih maskulin tapi tetap classy.
+32	Active Sport yang ini 2 kali lebih kuat lawan bau badan dan punya wangi fresh citrus. Active Pro yang kedua udah pasti 5 kali no more no dari baju, wanginya lebih maskulin tapi tetap classy.
+33	Active Pro yang kedua udah pasti 5 kali no more no dari baju, wanginya lebih maskulin tapi tetap classy.
+34	Active Pro yang kedua udah pasti 5 kali no more no dari baju, wanginya lebih maskulin tapi tetap classy.
+35	Active Pro yang kedua udah pasti 5 kali no more no dari baju, wanginya lebih maskulin tapi tetap classy.
+36	Active Pro yang kedua udah pasti 5 kali no more no dari baju, wanginya lebih maskulin tapi tetap classy.
+37	Active Pro yang kedua udah pasti 5 kali no more no dari baju, wanginya lebih maskulin tapi tetap classy.
+38	Active Pro yang kedua udah pasti 5 kali no more no dari baju, wanginya lebih maskulin tapi tetap classy.
+39	Active Pro yang kedua udah pasti 5 kali no more no dari baju, wanginya lebih maskulin tapi tetap classy.
+40	Active Pro yang kedua udah pasti 5 kali no more no dari baju, wanginya lebih maskulin tapi tetap classy.
+41	Active Pro yang kedua udah pasti 5 kali no more no dari baju, wanginya lebih maskulin tapi tetap classy.
+42	Active Pro yang kedua udah pasti 5 kali no more no dari baju, wanginya lebih maskulin tapi tetap classy.
+43	Active Pro yang kedua udah pasti 5 kali no more no dari baju, wanginya lebih maskulin tapi tetap classy.
+44	Active Pro yang kedua udah pasti 5 kali no more no dari baju, wanginya lebih maskulin tapi tetap classy. Active Cool yang terakhir punya sensasi dingin menergalkan wanginya fresh exotic.
+45	Active Cool yang terakhir punya sensasi dingin menergalkan wanginya fresh exotic.
+46	Active Cool yang terakhir punya sensasi dingin menergalkan wanginya fresh exotic.
+47	Active Cool yang terakhir punya sensasi dingin menergalkan wanginya fresh exotic.
+48	Active Cool yang terakhir punya sensasi dingin menergalkan wanginya fresh exotic.
+49	Active Cool yang terakhir punya sensasi dingin menergalkan wanginya fresh exotic.
+50	Active Cool yang terakhir punya sensasi dingin menergalkan wanginya fresh exotic.
+51	Active Cool yang terakhir punya sensasi dingin menergalkan wanginya fresh exotic.
+52	Active Cool yang terakhir punya sensasi dingin menergalkan wanginya fresh exotic. Kalau saya pilih yang Active Sport, efektif kurangi keringat berlebih dan bau badan hingga 48 jam.
+53	Active Cool yang terakhir punya sensasi dingin menergalkan wanginya fresh exotic. Kalau saya pilih yang Active Sport, efektif kurangi keringat berlebih dan bau badan hingga 48 jam.
+54	Kalau saya pilih yang Active Sport, efektif kurangi keringat berlebih dan bau badan hingga 48 jam.
+55	Kalau saya pilih yang Active Sport, efektif kurangi keringat berlebih dan bau badan hingga 48 jam.
+56	Kalau saya pilih yang Active Sport, efektif kurangi keringat berlebih dan bau badan hingga 48 jam.
+57	Kalau saya pilih yang Active Sport, efektif kurangi keringat berlebih dan bau badan hingga 48 jam.
+58	Kalau saya pilih yang Active Sport, efektif kurangi keringat berlebih dan bau badan hingga 48 jam.
+59	Kalau saya pilih yang Active Sport, efektif kurangi keringat berlebih dan bau badan hingga 48 jam.
+60	Kalau saya pilih yang Active Sport, efektif kurangi keringat berlebih dan bau badan hingga 48 jam.
+61	Kalau saya pilih yang Active Sport, efektif kurangi keringat berlebih dan bau badan hingga 48 jam.
+62	Kalau saya pilih yang Active Sport, efektif kurangi keringat berlebih dan bau badan hingga 48 jam.
+63	Kalau saya pilih yang Active Sport, efektif kurangi keringat berlebih dan bau badan hingga 48 jam.
+64	Kalau saya pilih yang Active Sport, efektif kurangi keringat berlebih dan bau badan hingga 48 jam.
+65	Kalau saya pilih yang Active Sport, efektif kurangi keringat berlebih dan bau badan hingga 48 jam. Ada teknologi Active Sense yang bikin wangi dan segar tahan lama, lalu cepat kering dan tidak lengket.
+66	Ada teknologi Active Sense yang bikin wangi dan segar tahan lama, lalu cepat kering dan tidak lengket.
+67	Ada teknologi Active Sense yang bikin wangi dan segar tahan lama, lalu cepat kering dan tidak lengket.
+68	Ada teknologi Active Sense yang bikin wangi dan segar tahan lama, lalu cepat kering dan tidak lengket.
+69	Ada teknologi Active Sense yang bikin wangi dan segar tahan lama, lalu cepat kering dan tidak lengket.
+70	Ada teknologi Active Sense yang bikin wangi dan segar tahan lama, lalu cepat kering dan tidak lengket.
+71	Ada teknologi Active Sense yang bikin wangi dan segar tahan lama, lalu cepat kering dan tidak lengket.
+72	Ada teknologi Active Sense yang bikin wangi dan segar tahan lama, lalu cepat kering dan tidak lengket.
+73	Ada teknologi Active Sense yang bikin wangi dan segar tahan lama, lalu cepat kering dan tidak lengket.
+74	Ada teknologi Active Sense yang bikin wangi dan segar tahan lama, lalu cepat kering dan tidak lengket.
+75	Ada teknologi Active Sense yang bikin wangi dan segar tahan lama, lalu cepat kering dan tidak lengket.
+76	Ada teknologi Active Sense yang bikin wangi dan segar tahan lama, lalu cepat kering dan tidak lengket.
+77	Ada teknologi Active Sense yang bikin wangi dan segar tahan lama, lalu cepat kering dan tidak lengket. Gerakan yang pertama adalah shoulder press dengan dumbbell.
+78	Ada teknologi Active Sense yang bikin wangi dan segar tahan lama, lalu cepat kering dan tidak lengket. Gerakan yang pertama adalah shoulder press dengan dumbbell.
+79	Gerakan yang pertama adalah shoulder press dengan dumbbell.
+80	Gerakan yang pertama adalah shoulder press dengan dumbbell.
+81	Gerakan yang pertama adalah shoulder press dengan dumbbell.
+82	Gerakan yang pertama adalah shoulder press dengan dumbbell.
+83	Gerakan yang pertama adalah shoulder press dengan dumbbell. Untuk mendapatkan performa yang maksimal, saya lakukan 2-3 warm up set sebelum masuk ke lom set inti.
+84	Gerakan yang pertama adalah shoulder press dengan dumbbell. Untuk mendapatkan performa yang maksimal, saya lakukan 2-3 warm up set sebelum masuk ke lom set inti.
+85	Untuk mendapatkan performa yang maksimal, saya lakukan 2-3 warm up set sebelum masuk ke lom set inti.
+86	Untuk mendapatkan performa yang maksimal, saya lakukan 2-3 warm up set sebelum masuk ke lom set inti.
+87	Untuk mendapatkan performa yang maksimal, saya lakukan 2-3 warm up set sebelum masuk ke lom set inti.
+88	Untuk mendapatkan performa yang maksimal, saya lakukan 2-3 warm up set sebelum masuk ke lom set inti.
+89	Untuk mendapatkan performa yang maksimal, saya lakukan 2-3 warm up set sebelum masuk ke lom set inti.
+90	Untuk mendapatkan performa yang maksimal, saya lakukan 2-3 warm up set sebelum masuk ke lom set inti.
+91	Untuk mendapatkan performa yang maksimal, saya lakukan 2-3 warm up set sebelum masuk ke lom set inti.
+92	Untuk mendapatkan performa yang maksimal, saya lakukan 2-3 warm up set sebelum masuk ke lom set inti.
+93	Untuk mendapatkan performa yang maksimal, saya lakukan 2-3 warm up set sebelum masuk ke lom set inti.
+94	Untuk mendapatkan performa yang maksimal, saya lakukan 2-3 warm up set sebelum masuk ke lom set inti.
+95	Untuk mendapatkan performa yang maksimal, saya lakukan 2-3 warm up set sebelum masuk ke lom set inti.
+96	Untuk mendapatkan performa yang maksimal, saya lakukan 2-3 warm up set sebelum masuk ke lom set inti. Lalu di antara set, saya lakukan gerakan untuk panaskan rotator cuff saya.
+97	Untuk mendapatkan performa yang maksimal, saya lakukan 2-3 warm up set sebelum masuk ke lom set inti. Lalu di antara set, saya lakukan gerakan untuk panaskan rotator cuff saya.
+98	Lalu di antara set, saya lakukan gerakan untuk panaskan rotator cuff saya.
+99	Lalu di antara set, saya lakukan gerakan untuk panaskan rotator cuff saya.
+100	Lalu di antara set, saya lakukan gerakan untuk panaskan rotator cuff saya.
+101	Lalu di antara set, saya lakukan gerakan untuk panaskan rotator cuff saya.
+102	Lalu di antara set, saya lakukan gerakan untuk panaskan rotator cuff saya.
+103	Lalu di antara set, saya lakukan gerakan untuk panaskan rotator cuff saya.
+104	Lalu di antara set, saya lakukan gerakan untuk panaskan rotator cuff saya.
+105	Lalu di antara set, saya lakukan gerakan untuk panaskan rotator cuff saya.
+106	[NO_SPEECH]
+107	[NO_SPEECH]
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	Gerakan yang kedua adalah side raises dengan plate loaded machine yang targetkan bahu bagian samping yang membuat bahumu kelihatan lebar.
+113	Gerakan yang kedua adalah side raises dengan plate loaded machine yang targetkan bahu bagian samping yang membuat bahumu kelihatan lebar.
+114	Gerakan yang kedua adalah side raises dengan plate loaded machine yang targetkan bahu bagian samping yang membuat bahumu kelihatan lebar.
+115	Gerakan yang kedua adalah side raises dengan plate loaded machine yang targetkan bahu bagian samping yang membuat bahumu kelihatan lebar.
+116	Gerakan yang kedua adalah side raises dengan plate loaded machine yang targetkan bahu bagian samping yang membuat bahumu kelihatan lebar.
+117	Gerakan yang kedua adalah side raises dengan plate loaded machine yang targetkan bahu bagian samping yang membuat bahumu kelihatan lebar.
+118	Gerakan yang kedua adalah side raises dengan plate loaded machine yang targetkan bahu bagian samping yang membuat bahumu kelihatan lebar.
+119	Gerakan yang kedua adalah side raises dengan plate loaded machine yang targetkan bahu bagian samping yang membuat bahumu kelihatan lebar.
+120	Gerakan yang kedua adalah side raises dengan plate loaded machine yang targetkan bahu bagian samping yang membuat bahumu kelihatan lebar.
+121	Gerakan yang kedua adalah side raises dengan plate loaded machine yang targetkan bahu bagian samping yang membuat bahumu kelihatan lebar.
+122	Gerakan yang kedua adalah side raises dengan plate loaded machine yang targetkan bahu bagian samping yang membuat bahumu kelihatan lebar.
+123	Gerakan yang kedua adalah side raises dengan plate loaded machine yang targetkan bahu bagian samping yang membuat bahumu kelihatan lebar.
+124	Gerakan yang kedua adalah side raises dengan plate loaded machine yang targetkan bahu bagian samping yang membuat bahumu kelihatan lebar.
+125	Gerakan yang kedua adalah side raises dengan plate loaded machine yang targetkan bahu bagian samping yang membuat bahumu kelihatan lebar.
+126	Gerakan yang kedua adalah side raises dengan plate loaded machine yang targetkan bahu bagian samping yang membuat bahumu kelihatan lebar.
+127	Gerakan yang kedua adalah side raises dengan plate loaded machine yang targetkan bahu bagian samping yang membuat bahumu kelihatan lebar. Alat ini memungkinkan saya untuk lebih isolate bahu dibandingkan dengan dumbbell.
+128	Alat ini memungkinkan saya untuk lebih isolate bahu dibandingkan dengan dumbbell.
+129	Alat ini memungkinkan saya untuk lebih isolate bahu dibandingkan dengan dumbbell.
+130	Alat ini memungkinkan saya untuk lebih isolate bahu dibandingkan dengan dumbbell.
+131	Alat ini memungkinkan saya untuk lebih isolate bahu dibandingkan dengan dumbbell.
+132	Alat ini memungkinkan saya untuk lebih isolate bahu dibandingkan dengan dumbbell.
+133	Alat ini memungkinkan saya untuk lebih isolate bahu dibandingkan dengan dumbbell.
+134	Alat ini memungkinkan saya untuk lebih isolate bahu dibandingkan dengan dumbbell.
+135	Alat ini memungkinkan saya untuk lebih isolate bahu dibandingkan dengan dumbbell.
+136	Alat ini memungkinkan saya untuk lebih isolate bahu dibandingkan dengan dumbbell.
+137	Gerakan yang ketiga adalah reverse flys.
+138	Gerakan yang ketiga adalah reverse flys.
+139	Gerakan yang ketiga adalah reverse flys.
+140	Gerakan yang ketiga adalah reverse flys.
+141	Gerakan yang ketiga adalah reverse flys.
+142	Gerakan yang ketiga adalah reverse flys. Favorit saya adalah dengan reverse pack deck karena saya benar-benar bisa rasakan bahu bagian belakang dibandingkan dengan kabel atau dumbbell.
+143	Gerakan yang ketiga adalah reverse flys. Favorit saya adalah dengan reverse pack deck karena saya benar-benar bisa rasakan bahu bagian belakang dibandingkan dengan kabel atau dumbbell.
+144	Favorit saya adalah dengan reverse pack deck karena saya benar-benar bisa rasakan bahu bagian belakang dibandingkan dengan kabel atau dumbbell.
+145	Favorit saya adalah dengan reverse pack deck karena saya benar-benar bisa rasakan bahu bagian belakang dibandingkan dengan kabel atau dumbbell.
+146	Favorit saya adalah dengan reverse pack deck karena saya benar-benar bisa rasakan bahu bagian belakang dibandingkan dengan kabel atau dumbbell.
+147	Favorit saya adalah dengan reverse pack deck karena saya benar-benar bisa rasakan bahu bagian belakang dibandingkan dengan kabel atau dumbbell.
+148	Favorit saya adalah dengan reverse pack deck karena saya benar-benar bisa rasakan bahu bagian belakang dibandingkan dengan kabel atau dumbbell.
+149	Favorit saya adalah dengan reverse pack deck karena saya benar-benar bisa rasakan bahu bagian belakang dibandingkan dengan kabel atau dumbbell.
+150	Favorit saya adalah dengan reverse pack deck karena saya benar-benar bisa rasakan bahu bagian belakang dibandingkan dengan kabel atau dumbbell.
+151	Favorit saya adalah dengan reverse pack deck karena saya benar-benar bisa rasakan bahu bagian belakang dibandingkan dengan kabel atau dumbbell.
+152	Favorit saya adalah dengan reverse pack deck karena saya benar-benar bisa rasakan bahu bagian belakang dibandingkan dengan kabel atau dumbbell.
+153	Favorit saya adalah dengan reverse pack deck karena saya benar-benar bisa rasakan bahu bagian belakang dibandingkan dengan kabel atau dumbbell.
+154	Favorit saya adalah dengan reverse pack deck karena saya benar-benar bisa rasakan bahu bagian belakang dibandingkan dengan kabel atau dumbbell.
+155	Favorit saya adalah dengan reverse pack deck karena saya benar-benar bisa rasakan bahu bagian belakang dibandingkan dengan kabel atau dumbbell.
+156	Favorit saya adalah dengan reverse pack deck karena saya benar-benar bisa rasakan bahu bagian belakang dibandingkan dengan kabel atau dumbbell.
+157	Favorit saya adalah dengan reverse pack deck karena saya benar-benar bisa rasakan bahu bagian belakang dibandingkan dengan kabel atau dumbbell.
+158	Gerakan terakhir adalah barbell shrugs.
+159	Gerakan terakhir adalah barbell shrugs.
+160	Gerakan terakhir adalah barbell shrugs.
+161	Gerakan terakhir adalah barbell shrugs.
+162	Gerakan terakhir adalah barbell shrugs.
+163	Gerakan terakhir adalah barbell shrugs. Ini fokus ke pundak atau ototrapesius.
+164	Ini fokus ke pundak atau ototrapesius.
+165	Ini fokus ke pundak atau ototrapesius.
+166	Ini fokus ke pundak atau ototrapesius.
+167	Ini fokus ke pundak atau ototrapesius.
+168	Ini fokus ke pundak atau ototrapesius. Yang penting di gerakan ini fokus untuk lukis.
+169	Yang penting di gerakan ini fokus untuk lukis.
+170	Yang penting di gerakan ini fokus untuk lukis.
+171	Yang penting di gerakan ini fokus untuk lukis.
+172	Yang penting di gerakan ini fokus untuk lukis. Jika Anda ingin membuat barang dengan lebih lebar, maka Anda harus memakai barang yang lebih lebar.
+173	Yang penting di gerakan ini fokus untuk lukis. Jika Anda ingin membuat barang dengan lebih lebar, maka Anda harus memakai barang yang lebih lebar.
+174	Jika Anda ingin membuat barang dengan lebih lebar, maka Anda harus memakai barang yang lebih lebar.
+175	Jika Anda ingin membuat barang dengan lebih lebar, maka Anda harus memakai barang yang lebih lebar.
+176	Jika Anda ingin membuat barang dengan lebih lebar, maka Anda harus memakai barang yang lebih lebar.
+177	Jika Anda ingin membuat barang dengan lebih lebar, maka Anda harus memakai barang yang lebih lebar.
+178	Jika Anda ingin membuat barang dengan lebih lebar, maka Anda harus memakai barang yang lebih lebar.
+179	Jika Anda ingin membuat barang dengan lebih lebar, maka Anda harus memakai barang yang lebih lebar.
+180	Jika Anda ingin membuat barang dengan lebih lebar, maka Anda harus memakai barang yang lebih lebar.
+181	Jika Anda ingin membuat barang dengan lebih lebar, maka Anda harus memakai barang yang lebih lebar.
+182	Jika Anda ingin membuat barang dengan lebih lebar, maka Anda harus memakai barang yang lebih lebar.
+183	Mari kita menikmati challenge dari Poshman dengan upload foto yang telah saya lakukan untuk menangkan hadiah seperti smartwatch atau earphone Shox.
+184	Mari kita menikmati challenge dari Poshman dengan upload foto yang telah saya lakukan untuk menangkan hadiah seperti smartwatch atau earphone Shox.
+185	Mari kita menikmati challenge dari Poshman dengan upload foto yang telah saya lakukan untuk menangkan hadiah seperti smartwatch atau earphone Shox.
+186	Mari kita menikmati challenge dari Poshman dengan upload foto yang telah saya lakukan untuk menangkan hadiah seperti smartwatch atau earphone Shox.
+187	Mari kita menikmati challenge dari Poshman dengan upload foto yang telah saya lakukan untuk menangkan hadiah seperti smartwatch atau earphone Shox.
+188	Mari kita menikmati challenge dari Poshman dengan upload foto yang telah saya lakukan untuk menangkan hadiah seperti smartwatch atau earphone Shox.
+189	Mari kita menikmati challenge dari Poshman dengan upload foto yang telah saya lakukan untuk menangkan hadiah seperti smartwatch atau earphone Shox.
+190	Mari kita menikmati challenge dari Poshman dengan upload foto yang telah saya lakukan untuk menangkan hadiah seperti smartwatch atau earphone Shox.
+191	Mari kita menikmati challenge dari Poshman dengan upload foto yang telah saya lakukan untuk menangkan hadiah seperti smartwatch atau earphone Shox.
+192	Mari kita menikmati challenge dari Poshman dengan upload foto yang telah saya lakukan untuk menangkan hadiah seperti smartwatch atau earphone Shox.
+193	Mari kita menikmati challenge dari Poshman dengan upload foto yang telah saya lakukan untuk menangkan hadiah seperti smartwatch atau earphone Shox.
+194	Mari kita menikmati challenge dari Poshman dengan upload foto yang telah saya lakukan untuk menangkan hadiah seperti smartwatch atau earphone Shox.
+195	Mari kita menikmati challenge dari Poshman dengan upload foto yang telah saya lakukan untuk menangkan hadiah seperti smartwatch atau earphone Shox.
+196	Mari kita menikmati challenge dari Poshman dengan upload foto yang telah saya lakukan untuk menangkan hadiah seperti smartwatch atau earphone Shox.
+197	Mari kita menikmati challenge dari Poshman dengan upload foto yang telah saya lakukan untuk menangkan hadiah seperti smartwatch atau earphone Shox.
+198	Mari kita menikmati challenge dari Poshman dengan upload foto yang telah saya lakukan untuk menangkan hadiah seperti smartwatch atau earphone Shox.
+199	Mari kita menikmati challenge dari Poshman dengan upload foto yang telah saya lakukan untuk menangkan hadiah seperti smartwatch atau earphone Shox.
+200	Mari kita menikmati challenge dari Poshman dengan upload foto yang telah saya lakukan untuk menangkan hadiah seperti smartwatch atau earphone Shox.

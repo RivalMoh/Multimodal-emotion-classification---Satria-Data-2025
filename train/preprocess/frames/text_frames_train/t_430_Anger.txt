@@ -1,0 +1,141 @@
+0	Kalian tau gak sih, kalau 1 piring telur orare ini tuh
+1	Kalian tau gak sih, kalau 1 piring telur orare ini tuh
+2	Kalian tau gak sih, kalau 1 piring telur orare ini tuh
+3	Kalian tau gak sih, kalau 1 piring telur orare ini tuh
+4	Kalian tau gak sih, kalau 1 piring telur orare ini tuh Udah mengaduk sekitar 25 gram protein
+5	Kalian tau gak sih, kalau 1 piring telur orare ini tuh Udah mengaduk sekitar 25 gram protein
+6	Udah mengaduk sekitar 25 gram protein
+7	Udah mengaduk sekitar 25 gram protein
+8	Udah mengaduk sekitar 25 gram protein Dan biaya bahan bakunya cuma sekitar 5 ribu rupiah aja
+9	Udah mengaduk sekitar 25 gram protein Dan biaya bahan bakunya cuma sekitar 5 ribu rupiah aja
+10	Dan biaya bahan bakunya cuma sekitar 5 ribu rupiah aja
+11	Dan biaya bahan bakunya cuma sekitar 5 ribu rupiah aja
+12	Dan biaya bahan bakunya cuma sekitar 5 ribu rupiah aja
+13	Dan biaya bahan bakunya cuma sekitar 5 ribu rupiah aja
+14	Dan biaya bahan bakunya cuma sekitar 5 ribu rupiah aja
+15	Dan biaya bahan bakunya cuma sekitar 5 ribu rupiah aja Bikinnya gampang, rasanya enak
+16	Dan biaya bahan bakunya cuma sekitar 5 ribu rupiah aja Bikinnya gampang, rasanya enak
+17	Bikinnya gampang, rasanya enak
+18	Bikinnya gampang, rasanya enak Yuk langsung kita bikin aja, let's go!
+19	Bikinnya gampang, rasanya enak Yuk langsung kita bikin aja, let's go!
+20	Yuk langsung kita bikin aja, let's go!
+21	Yuk langsung kita bikin aja, let's go!
+22	Yuk langsung kita bikin aja, let's go! Pertama, ancurin 100 gram putih telur
+23	Pertama, ancurin 100 gram putih telur
+24	Pertama, ancurin 100 gram putih telur
+25	Pertama, ancurin 100 gram putih telur
+26	Pertama, ancurin 100 gram putih telur Kalau mau pake yang mentah juga gak apa-apa, oke banget kok
+27	Pertama, ancurin 100 gram putih telur Kalau mau pake yang mentah juga gak apa-apa, oke banget kok
+28	Kalau mau pake yang mentah juga gak apa-apa, oke banget kok
+29	Kalau mau pake yang mentah juga gak apa-apa, oke banget kok
+30	Kalau mau pake yang mentah juga gak apa-apa, oke banget kok Yang kedua, campurin 100 gram tahu putih dan ancurin juga
+31	Kalau mau pake yang mentah juga gak apa-apa, oke banget kok Yang kedua, campurin 100 gram tahu putih dan ancurin juga
+32	Yang kedua, campurin 100 gram tahu putih dan ancurin juga
+33	Yang kedua, campurin 100 gram tahu putih dan ancurin juga
+34	Yang kedua, campurin 100 gram tahu putih dan ancurin juga
+35	Yang kedua, campurin 100 gram tahu putih dan ancurin juga
+36	Yang kedua, campurin 100 gram tahu putih dan ancurin juga Yang ketiga, lain 1 butir telur dan aduk secara merata
+37	Yang kedua, campurin 100 gram tahu putih dan ancurin juga Yang ketiga, lain 1 butir telur dan aduk secara merata
+38	Yang ketiga, lain 1 butir telur dan aduk secara merata
+39	Yang ketiga, lain 1 butir telur dan aduk secara merata
+40	Yang ketiga, lain 1 butir telur dan aduk secara merata
+41	Yang ketiga, lain 1 butir telur dan aduk secara merata
+42	Yang ketiga, lain 1 butir telur dan aduk secara merata
+43	Yang ketiga, lain 1 butir telur dan aduk secara merata Kalau udah, masukin adonan ke panci yang udah dikasih minyak dikit
+44	Yang ketiga, lain 1 butir telur dan aduk secara merata Kalau udah, masukin adonan ke panci yang udah dikasih minyak dikit
+45	Kalau udah, masukin adonan ke panci yang udah dikasih minyak dikit
+46	Kalau udah, masukin adonan ke panci yang udah dikasih minyak dikit
+47	Kalau udah, masukin adonan ke panci yang udah dikasih minyak dikit
+48	Kalau udah, masukin adonan ke panci yang udah dikasih minyak dikit
+49	Kalau udah, masukin adonan ke panci yang udah dikasih minyak dikit Dan udah panas
+50	Kalau udah, masukin adonan ke panci yang udah dikasih minyak dikit Dan udah panas
+51	Dan udah panas Pake api kecil atau sedeng aja, terserah
+52	Dan udah panas Pake api kecil atau sedeng aja, terserah
+53	Pake api kecil atau sedeng aja, terserah
+54	Pake api kecil atau sedeng aja, terserah
+55	Pake api kecil atau sedeng aja, terserah Lanjut diaduk sampai kira-kira setengah mateng ya
+56	Pake api kecil atau sedeng aja, terserah Lanjut diaduk sampai kira-kira setengah mateng ya
+57	Lanjut diaduk sampai kira-kira setengah mateng ya
+58	Lanjut diaduk sampai kira-kira setengah mateng ya
+59	Lanjut diaduk sampai kira-kira setengah mateng ya Habis tuh, biar lebih enak, tambahin bumbu kayak sambal terasi
+60	Lanjut diaduk sampai kira-kira setengah mateng ya Habis tuh, biar lebih enak, tambahin bumbu kayak sambal terasi
+61	Habis tuh, biar lebih enak, tambahin bumbu kayak sambal terasi
+62	Habis tuh, biar lebih enak, tambahin bumbu kayak sambal terasi
+63	Habis tuh, biar lebih enak, tambahin bumbu kayak sambal terasi
+64	Habis tuh, biar lebih enak, tambahin bumbu kayak sambal terasi
+65	Habis tuh, biar lebih enak, tambahin bumbu kayak sambal terasi Kicap dikit, daun bawang, sama garam
+66	Habis tuh, biar lebih enak, tambahin bumbu kayak sambal terasi Kicap dikit, daun bawang, sama garam
+67	Kicap dikit, daun bawang, sama garam
+68	Kicap dikit, daun bawang, sama garam
+69	Kicap dikit, daun bawang, sama garam
+70	Kicap dikit, daun bawang, sama garam Terus aduk lagi sampai merata
+71	Kicap dikit, daun bawang, sama garam Terus aduk lagi sampai merata
+72	Terus aduk lagi sampai merata
+73	Terus aduk lagi sampai merata Kalau udah mateng, tuang di piring
+74	Terus aduk lagi sampai merata Kalau udah mateng, tuang di piring
+75	Kalau udah mateng, tuang di piring
+76	Kalau udah mateng, tuang di piring Dan jadi deh telur orare tambah tahu dan putih telur kayak gini nih
+77	Kalau udah mateng, tuang di piring Dan jadi deh telur orare tambah tahu dan putih telur kayak gini nih
+78	Dan jadi deh telur orare tambah tahu dan putih telur kayak gini nih
+79	Dan jadi deh telur orare tambah tahu dan putih telur kayak gini nih
+80	Dan jadi deh telur orare tambah tahu dan putih telur kayak gini nih
+81	Dan jadi deh telur orare tambah tahu dan putih telur kayak gini nih
+82	Dan jadi deh telur orare tambah tahu dan putih telur kayak gini nih
+83	Dan jadi deh telur orare tambah tahu dan putih telur kayak gini nih
+84	Dan jadi deh telur orare tambah tahu dan putih telur kayak gini nih
+85	Dan jadi deh telur orare tambah tahu dan putih telur kayak gini nih Gimana? Gampang banget kan bikinnya?
+86	Gimana? Gampang banget kan bikinnya?
+87	Gimana? Gampang banget kan bikinnya?
+88	Gimana? Gampang banget kan bikinnya? Ini rasanya juga enak banget loh
+89	Gimana? Gampang banget kan bikinnya? Ini rasanya juga enak banget loh
+90	Ini rasanya juga enak banget loh
+91	Ini rasanya juga enak banget loh
+92	[NO_SPEECH]
+93	Cocok banget buat kalian yang lagi pengen diet
+94	Cocok banget buat kalian yang lagi pengen diet
+95	Cocok banget buat kalian yang lagi pengen diet
+96	Cocok banget buat kalian yang lagi pengen diet
+97	Cocok banget buat kalian yang lagi pengen diet Karena ini tuh 1 piring udah mengaduk 25 gram protein
+98	Cocok banget buat kalian yang lagi pengen diet Karena ini tuh 1 piring udah mengaduk 25 gram protein
+99	Karena ini tuh 1 piring udah mengaduk 25 gram protein
+100	Karena ini tuh 1 piring udah mengaduk 25 gram protein
+101	Karena ini tuh 1 piring udah mengaduk 25 gram protein
+102	Karena ini tuh 1 piring udah mengaduk 25 gram protein
+103	Karena ini tuh 1 piring udah mengaduk 25 gram protein Cuma sekitar 200an kalori
+104	Karena ini tuh 1 piring udah mengaduk 25 gram protein Cuma sekitar 200an kalori
+105	Cuma sekitar 200an kalori
+106	Cuma sekitar 200an kalori Dan kalau kalian makan segini tuh udah kenyang pasti
+107	Cuma sekitar 200an kalori Dan kalau kalian makan segini tuh udah kenyang pasti
+108	Dan kalau kalian makan segini tuh udah kenyang pasti
+109	Dan kalau kalian makan segini tuh udah kenyang pasti
+110	Dan kalau kalian makan segini tuh udah kenyang pasti
+111	Dan kalau kalian makan segini tuh udah kenyang pasti
+112	Dan kalau kalian makan segini tuh udah kenyang pasti
+113	[NO_SPEECH]
+114	[NO_SPEECH]
+115	Buat tambahan lauk kalian tuh juga bisa
+116	Buat tambahan lauk kalian tuh juga bisa
+117	Buat tambahan lauk kalian tuh juga bisa
+118	Buat tambahan lauk kalian tuh juga bisa
+119	Buat tambahan lauk kalian tuh juga bisa Tinggal tambahin nasi sama ya tambahin sayur dikit gitu lah
+120	Buat tambahan lauk kalian tuh juga bisa Tinggal tambahin nasi sama ya tambahin sayur dikit gitu lah
+121	Tinggal tambahin nasi sama ya tambahin sayur dikit gitu lah
+122	Tinggal tambahin nasi sama ya tambahin sayur dikit gitu lah
+123	Tinggal tambahin nasi sama ya tambahin sayur dikit gitu lah
+124	Tinggal tambahin nasi sama ya tambahin sayur dikit gitu lah Gimana? Tertarik gak buat remake telur orare yang gampang banget nih bikinnya?
+125	Tinggal tambahin nasi sama ya tambahin sayur dikit gitu lah Gimana? Tertarik gak buat remake telur orare yang gampang banget nih bikinnya?
+126	Gimana? Tertarik gak buat remake telur orare yang gampang banget nih bikinnya?
+127	Gimana? Tertarik gak buat remake telur orare yang gampang banget nih bikinnya?
+128	Gimana? Tertarik gak buat remake telur orare yang gampang banget nih bikinnya?
+129	Gimana? Tertarik gak buat remake telur orare yang gampang banget nih bikinnya?
+130	Gimana? Tertarik gak buat remake telur orare yang gampang banget nih bikinnya? Kalau iya, coba komen di bawah ya
+131	Gimana? Tertarik gak buat remake telur orare yang gampang banget nih bikinnya? Kalau iya, coba komen di bawah ya
+132	Kalau iya, coba komen di bawah ya
+133	Kalau iya, coba komen di bawah ya Share video ini kalau bermanfaat
+134	Kalau iya, coba komen di bawah ya Share video ini kalau bermanfaat
+135	Share video ini kalau bermanfaat Tetap semangat
+136	Share video ini kalau bermanfaat Tetap semangat
+137	Tetap semangat Dan stay hard
+138	Tetap semangat Dan stay hard
+139	Dan stay hard
+140	Dan stay hard

@@ -1,0 +1,241 @@
+0	Pal, gue ada 200 ribu gak?
+1	Pal, gue ada 200 ribu gak?
+2	Pal, gue ada 200 ribu gak? Ada lah 200 ribu, mah.
+3	Pal, gue ada 200 ribu gak? Ada lah 200 ribu, mah.
+4	Ada lah 200 ribu, mah. Nih, lu apaan sih?
+5	Ada lah 200 ribu, mah. Nih, lu apaan sih?
+6	Nih, lu apaan sih?
+7	Nih, lu apaan sih?
+8	Nih, lu apaan sih?
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	Eh, eh, men tarik aja.
+12	Eh, eh, men tarik aja.
+13	Eh, eh, men tarik aja.
+14	Eh, eh, men tarik aja. Eh, men tarik aja.
+15	Eh, men tarik aja.
+16	Eh, men tarik aja.
+17	Eh, men tarik aja.
+18	Eh, men tarik aja.
+19	[NO_SPEECH]
+20	Nih, dengan 200 ribu, lo bisa ganti kampas rem mobil dengan Bendix Heavy Duty.
+21	Nih, dengan 200 ribu, lo bisa ganti kampas rem mobil dengan Bendix Heavy Duty.
+22	Nih, dengan 200 ribu, lo bisa ganti kampas rem mobil dengan Bendix Heavy Duty.
+23	Nih, dengan 200 ribu, lo bisa ganti kampas rem mobil dengan Bendix Heavy Duty.
+24	Nih, dengan 200 ribu, lo bisa ganti kampas rem mobil dengan Bendix Heavy Duty.
+25	Nih, dengan 200 ribu, lo bisa ganti kampas rem mobil dengan Bendix Heavy Duty.
+26	Nih, dengan 200 ribu, lo bisa ganti kampas rem mobil dengan Bendix Heavy Duty.
+27	Nih, dengan 200 ribu, lo bisa ganti kampas rem mobil dengan Bendix Heavy Duty.
+28	Nih, dengan 200 ribu, lo bisa ganti kampas rem mobil dengan Bendix Heavy Duty.
+29	Nih, dengan 200 ribu, lo bisa ganti kampas rem mobil dengan Bendix Heavy Duty.
+30	Nih, dengan 200 ribu, lo bisa ganti kampas rem mobil dengan Bendix Heavy Duty.
+31	Nih, dengan 200 ribu, lo bisa ganti kampas rem mobil dengan Bendix Heavy Duty. Oke.
+32	Nih, dengan 200 ribu, lo bisa ganti kampas rem mobil dengan Bendix Heavy Duty. Oke.
+33	Oke.
+34	Buat senya gue nih.
+35	Buat senya gue nih.
+36	Buat senya gue nih.
+37	Buat senya gue nih. Bunyi-bunyi, diinjek dalam.
+38	Bunyi-bunyi, diinjek dalam.
+39	Bunyi-bunyi, diinjek dalam.
+40	Bunyi-bunyi, diinjek dalam.
+41	Bunyi-bunyi, diinjek dalam.
+42	Bunyi-bunyi, diinjek dalam.
+43	Astagfirullah.
+44	Astagfirullah. Emang udah waktunya ganti kampas rem aja, Pak?
+45	Astagfirullah. Emang udah waktunya ganti kampas rem aja, Pak?
+46	Emang udah waktunya ganti kampas rem aja, Pak?
+47	Emang udah waktunya ganti kampas rem aja, Pak?
+48	Emang udah waktunya ganti kampas rem aja, Pak?
+49	Emang udah waktunya ganti kampas rem aja, Pak? Nih, kampas rem Bendix Heavy Duty harganya lebih terjangkau.
+50	Nih, kampas rem Bendix Heavy Duty harganya lebih terjangkau.
+51	Nih, kampas rem Bendix Heavy Duty harganya lebih terjangkau.
+52	Nih, kampas rem Bendix Heavy Duty harganya lebih terjangkau.
+53	Nih, kampas rem Bendix Heavy Duty harganya lebih terjangkau.
+54	Nih, kampas rem Bendix Heavy Duty harganya lebih terjangkau.
+55	Nih, kampas rem Bendix Heavy Duty harganya lebih terjangkau.
+56	Nih, kampas rem Bendix Heavy Duty harganya lebih terjangkau.
+57	Nih, kampas rem Bendix Heavy Duty harganya lebih terjangkau. Oke.
+58	Nih, kampas rem Bendix Heavy Duty harganya lebih terjangkau. Oke. Pemakaiannya bisa lebih panjang.
+59	Pemakaiannya bisa lebih panjang.
+60	Pemakaiannya bisa lebih panjang.
+61	Pemakaiannya bisa lebih panjang. Lebih panjang, Pak?
+62	Pemakaiannya bisa lebih panjang. Lebih panjang, Pak?
+63	Lebih panjang, Pak? Nih, tadi harga berapa? 200 ribu?
+64	Lebih panjang, Pak? Nih, tadi harga berapa? 200 ribu?
+65	Nih, tadi harga berapa? 200 ribu?
+66	Nih, tadi harga berapa? 200 ribu?
+67	Nih, tadi harga berapa? 200 ribu? 200 ribu.
+68	200 ribu.
+69	200 ribu. Wah, cakep ini buat senya gue.
+70	Wah, cakep ini buat senya gue.
+71	Wah, cakep ini buat senya gue.
+72	Wah, cakep ini buat senya gue. Terus belinya, Pal.
+73	Wah, cakep ini buat senya gue. Terus belinya, Pal.
+74	Terus belinya, Pal.
+75	Terus belinya, Pal. Gampang.
+76	Gampang. Oh, gampang.
+77	Gampang. Oh, gampang. Kalau misalkan kalian gak sempat ke hias, kalian bisa langsung ke official store-nya Bendix.
+78	Oh, gampang. Kalau misalkan kalian gak sempat ke hias, kalian bisa langsung ke official store-nya Bendix.
+79	Oh, gampang. Kalau misalkan kalian gak sempat ke hias, kalian bisa langsung ke official store-nya Bendix.
+80	Kalau misalkan kalian gak sempat ke hias, kalian bisa langsung ke official store-nya Bendix.
+81	Kalau misalkan kalian gak sempat ke hias, kalian bisa langsung ke official store-nya Bendix.
+82	Kalau misalkan kalian gak sempat ke hias, kalian bisa langsung ke official store-nya Bendix.
+83	Kalau misalkan kalian gak sempat ke hias, kalian bisa langsung ke official store-nya Bendix.
+84	Kalau misalkan kalian gak sempat ke hias, kalian bisa langsung ke official store-nya Bendix.
+85	Kalau misalkan kalian gak sempat ke hias, kalian bisa langsung ke official store-nya Bendix.
+86	Kalau misalkan kalian gak sempat ke hias, kalian bisa langsung ke official store-nya Bendix.
+87	Kalau misalkan kalian gak sempat ke hias, kalian bisa langsung ke official store-nya Bendix.
+88	Kalau misalkan kalian gak sempat ke hias, kalian bisa langsung ke official store-nya Bendix. Di mana tuh?
+89	Kalau misalkan kalian gak sempat ke hias, kalian bisa langsung ke official store-nya Bendix. Di mana tuh? Yang ada di marketplace lah.
+90	Di mana tuh? Yang ada di marketplace lah.
+91	Yang ada di marketplace lah.
+92	Yang ada di marketplace lah. Oh, semuanya ada?
+93	Yang ada di marketplace lah. Oh, semuanya ada?
+94	Oh, semuanya ada?
+95	[NO_SPEECH]
+96	Tokopedia, Lazada, Shopee, ada semua.
+97	Tokopedia, Lazada, Shopee, ada semua.
+98	Tokopedia, Lazada, Shopee, ada semua.
+99	Tokopedia, Lazada, Shopee, ada semua.
+100	Tokopedia, Lazada, Shopee, ada semua. Oke, beli di situ aja.
+101	Tokopedia, Lazada, Shopee, ada semua. Oke, beli di situ aja.
+102	Oke, beli di situ aja.
+103	Oke, beli di situ aja.
+104	Yaudah, sekarang buka HP.
+105	Yaudah, sekarang buka HP.
+106	Yaudah, sekarang buka HP. Buka HP.
+107	Yaudah, sekarang buka HP. Buka HP.
+108	Buka HP.
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	Bendix.
+112	Bendix. Senya.
+113	Bendix. Senya.
+114	Senya. Senya.
+115	Senya. Oh, ada, Pak.
+116	Oh, ada, Pak. Keluar, kan?
+117	Keluar, kan? Iya. Kencet.
+118	Keluar, kan? Iya. Kencet. Ah, beli langsung, Pak.
+119	Kencet. Ah, beli langsung, Pak.
+120	Ah, beli langsung, Pak.
+121	Ah, beli langsung, Pak. Wah, dapet 100 orang pertama, nih.
+122	Ah, beli langsung, Pak. Wah, dapet 100 orang pertama, nih.
+123	Wah, dapet 100 orang pertama, nih.
+124	Wah, dapet 100 orang pertama, nih.
+125	Wah, dapet 100 orang pertama, nih. Iya, lumayan.
+126	Iya, lumayan. Untuk 100 orang pertama yang beli kapas rem Bendix di event Gias ini,
+127	Iya, lumayan. Untuk 100 orang pertama yang beli kapas rem Bendix di event Gias ini,
+128	Untuk 100 orang pertama yang beli kapas rem Bendix di event Gias ini,
+129	Untuk 100 orang pertama yang beli kapas rem Bendix di event Gias ini,
+130	Untuk 100 orang pertama yang beli kapas rem Bendix di event Gias ini,
+131	Untuk 100 orang pertama yang beli kapas rem Bendix di event Gias ini,
+132	Untuk 100 orang pertama yang beli kapas rem Bendix di event Gias ini,
+133	Untuk 100 orang pertama yang beli kapas rem Bendix di event Gias ini,
+134	Untuk 100 orang pertama yang beli kapas rem Bendix di event Gias ini,
+135	Untuk 100 orang pertama yang beli kapas rem Bendix di event Gias ini,
+136	Untuk 100 orang pertama yang beli kapas rem Bendix di event Gias ini,
+137	kalian bisa dapetin voucher.
+138	kalian bisa dapetin voucher.
+139	kalian bisa dapetin voucher.
+140	kalian bisa dapetin voucher. Vouchernya berapa?
+141	Vouchernya berapa? Pemasakan gratis.
+142	Vouchernya berapa? Pemasakan gratis.
+143	Pemasakan gratis.
+144	Pemasakan gratis. Di official partner Bendix.
+145	Pemasakan gratis. Di official partner Bendix.
+146	Di official partner Bendix.
+147	Di official partner Bendix.
+148	Di official partner Bendix. Dan jumlahnya ada 100 lebih di seluruh Indonesia.
+149	Di official partner Bendix. Dan jumlahnya ada 100 lebih di seluruh Indonesia.
+150	Dan jumlahnya ada 100 lebih di seluruh Indonesia.
+151	Dan jumlahnya ada 100 lebih di seluruh Indonesia.
+152	Dan jumlahnya ada 100 lebih di seluruh Indonesia.
+153	Dan jumlahnya ada 100 lebih di seluruh Indonesia.
+154	Dan jumlahnya ada 100 lebih di seluruh Indonesia. Wah, lumayan tuh.
+155	Wah, lumayan tuh. Biaya pemasangan jadi ke-covered, Pak.
+156	Wah, lumayan tuh. Biaya pemasangan jadi ke-covered, Pak.
+157	Biaya pemasangan jadi ke-covered, Pak.
+158	Biaya pemasangan jadi ke-covered, Pak.
+159	Biaya pemasangan jadi ke-covered, Pak. Iya.
+160	Biaya pemasangan jadi ke-covered, Pak. Iya. Jadi belinya online, nyampe ke rumah, pasangnya gratis, mobil lu langsung kembali.
+161	Iya. Jadi belinya online, nyampe ke rumah, pasangnya gratis, mobil lu langsung kembali.
+162	Jadi belinya online, nyampe ke rumah, pasangnya gratis, mobil lu langsung kembali.
+163	Jadi belinya online, nyampe ke rumah, pasangnya gratis, mobil lu langsung kembali.
+164	Jadi belinya online, nyampe ke rumah, pasangnya gratis, mobil lu langsung kembali.
+165	Jadi belinya online, nyampe ke rumah, pasangnya gratis, mobil lu langsung kembali.
+166	Jadi belinya online, nyampe ke rumah, pasangnya gratis, mobil lu langsung kembali.
+167	Jadi belinya online, nyampe ke rumah, pasangnya gratis, mobil lu langsung kembali.
+168	Jadi belinya online, nyampe ke rumah, pasangnya gratis, mobil lu langsung kembali.
+169	Jadi belinya online, nyampe ke rumah, pasangnya gratis, mobil lu langsung kembali.
+170	Jadi belinya online, nyampe ke rumah, pasangnya gratis, mobil lu langsung kembali.
+171	Jadi belinya online, nyampe ke rumah, pasangnya gratis, mobil lu langsung kembali.
+172	Jadi belinya online, nyampe ke rumah, pasangnya gratis, mobil lu langsung kembali.
+173	Jadi belinya online, nyampe ke rumah, pasangnya gratis, mobil lu langsung kembali. Oh, aman lagi.
+174	Jadi belinya online, nyampe ke rumah, pasangnya gratis, mobil lu langsung kembali. Oh, aman lagi. Senya terbelal Indonesia.
+175	Oh, aman lagi. Senya terbelal Indonesia.
+176	Senya terbelal Indonesia. 
+177	Senya terbelal Indonesia.  Kita main game dulu.
+178	Kita main game dulu.
+179	Kita main game dulu.
+180	Kita main game dulu. Main game?
+181	Main game? Oke, boleh.
+182	Oke, boleh. Jadi di booth-nya Bendix, kalian juga bisa lakuin activity yang menarik di sini.
+183	Oke, boleh. Jadi di booth-nya Bendix, kalian juga bisa lakuin activity yang menarik di sini.
+184	Jadi di booth-nya Bendix, kalian juga bisa lakuin activity yang menarik di sini.
+185	Jadi di booth-nya Bendix, kalian juga bisa lakuin activity yang menarik di sini.
+186	Jadi di booth-nya Bendix, kalian juga bisa lakuin activity yang menarik di sini.
+187	Jadi di booth-nya Bendix, kalian juga bisa lakuin activity yang menarik di sini.
+188	Jadi di booth-nya Bendix, kalian juga bisa lakuin activity yang menarik di sini.
+189	Jadi di booth-nya Bendix, kalian juga bisa lakuin activity yang menarik di sini.
+190	Jadi di booth-nya Bendix, kalian juga bisa lakuin activity yang menarik di sini. Jadi, kalau kalian ke Gias 2025, jangan lupa mampir ke booth-nya Bendix yang ada di Gias.
+191	Jadi, kalau kalian ke Gias 2025, jangan lupa mampir ke booth-nya Bendix yang ada di Gias.
+192	Jadi, kalau kalian ke Gias 2025, jangan lupa mampir ke booth-nya Bendix yang ada di Gias.
+193	Jadi, kalau kalian ke Gias 2025, jangan lupa mampir ke booth-nya Bendix yang ada di Gias.
+194	Jadi, kalau kalian ke Gias 2025, jangan lupa mampir ke booth-nya Bendix yang ada di Gias.
+195	Jadi, kalau kalian ke Gias 2025, jangan lupa mampir ke booth-nya Bendix yang ada di Gias.
+196	Jadi, kalau kalian ke Gias 2025, jangan lupa mampir ke booth-nya Bendix yang ada di Gias.
+197	Jadi, kalau kalian ke Gias 2025, jangan lupa mampir ke booth-nya Bendix yang ada di Gias.
+198	Jadi, kalau kalian ke Gias 2025, jangan lupa mampir ke booth-nya Bendix yang ada di Gias.
+199	Jadi, kalau kalian ke Gias 2025, jangan lupa mampir ke booth-nya Bendix yang ada di Gias.
+200	Jadi, kalau kalian ke Gias 2025, jangan lupa mampir ke booth-nya Bendix yang ada di Gias.
+201	Jadi, kalau kalian ke Gias 2025, jangan lupa mampir ke booth-nya Bendix yang ada di Gias.
+202	Jadi, kalau kalian ke Gias 2025, jangan lupa mampir ke booth-nya Bendix yang ada di Gias. Lokasinya di Pre-Function Hall 1.
+203	Lokasinya di Pre-Function Hall 1.
+204	Lokasinya di Pre-Function Hall 1.
+205	Lokasinya di Pre-Function Hall 1.
+206	Lokasinya di Pre-Function Hall 1. Dan ini cuma berlaku sampai Gias aja.
+207	Dan ini cuma berlaku sampai Gias aja.
+208	Dan ini cuma berlaku sampai Gias aja.
+209	Dan ini cuma berlaku sampai Gias aja.
+210	Dan ini cuma berlaku sampai Gias aja.
+211	Dan ini cuma berlaku sampai Gias aja. Jadi jangan sampai ketinggalan.
+212	Dan ini cuma berlaku sampai Gias aja. Jadi jangan sampai ketinggalan.
+213	Jadi jangan sampai ketinggalan.
+214	Jadi jangan sampai ketinggalan. Pal, duluan, ya.
+215	Pal, duluan, ya.
+216	Pal, duluan, ya.
+217	Pal, duluan, ya. Oh, iya. Oke, sip.
+218	Pal, duluan, ya. Oh, iya. Oke, sip.
+219	Oh, iya. Oke, sip. Hati-hati, Wanda.
+220	Oh, iya. Oke, sip. Hati-hati, Wanda. Jangan lupa ganti kapas rem mobil kalian dengan Bendix.
+221	Hati-hati, Wanda. Jangan lupa ganti kapas rem mobil kalian dengan Bendix.
+222	Jangan lupa ganti kapas rem mobil kalian dengan Bendix.
+223	Jangan lupa ganti kapas rem mobil kalian dengan Bendix.
+224	Jangan lupa ganti kapas rem mobil kalian dengan Bendix.
+225	Jangan lupa ganti kapas rem mobil kalian dengan Bendix.
+226	Jangan lupa ganti kapas rem mobil kalian dengan Bendix. Rem pesawat hadir untuk mobil Anda.
+227	Rem pesawat hadir untuk mobil Anda.
+228	Rem pesawat hadir untuk mobil Anda.
+229	Rem pesawat hadir untuk mobil Anda.
+230	Rem pesawat hadir untuk mobil Anda.
+231	[NO_SPEECH]
+232	[NO_SPEECH]
+233	Udah.
+234	Udah.
+235	Udah. Gue udah tanya.
+236	Gue udah tanya. Harus dibuka, dibawa lagi, Mariduan.
+237	Gue udah tanya. Harus dibuka, dibawa lagi, Mariduan.
+238	Harus dibuka, dibawa lagi, Mariduan.
+239	Harus dibuka, dibawa lagi, Mariduan.
+240	[NO_SPEECH]

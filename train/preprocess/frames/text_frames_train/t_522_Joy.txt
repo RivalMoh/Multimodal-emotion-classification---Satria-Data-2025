@@ -1,0 +1,180 @@
+0	Halo Sobat Koray yang akan dukung timnas di Stadion GBK.
+1	Halo Sobat Koray yang akan dukung timnas di Stadion GBK.
+2	Halo Sobat Koray yang akan dukung timnas di Stadion GBK.
+3	Halo Sobat Koray yang akan dukung timnas di Stadion GBK.
+4	Halo Sobat Koray yang akan dukung timnas di Stadion GBK.
+5	Halo Sobat Koray yang akan dukung timnas di Stadion GBK. Udah tau belum do and downs sebelum nobar?
+6	Halo Sobat Koray yang akan dukung timnas di Stadion GBK. Udah tau belum do and downs sebelum nobar?
+7	Udah tau belum do and downs sebelum nobar?
+8	Udah tau belum do and downs sebelum nobar?
+9	Udah tau belum do and downs sebelum nobar?
+10	Udah tau belum do and downs sebelum nobar?
+11	Udah tau belum do and downs sebelum nobar? Yuk simak!
+12	Udah tau belum do and downs sebelum nobar? Yuk simak!
+13	Yuk simak!
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	Pastiin kalian pakai baju timnas kesayangan kita ya sob.
+23	Pastiin kalian pakai baju timnas kesayangan kita ya sob.
+24	Pastiin kalian pakai baju timnas kesayangan kita ya sob.
+25	Pastiin kalian pakai baju timnas kesayangan kita ya sob.
+26	Pastiin kalian pakai baju timnas kesayangan kita ya sob.
+27	Pastiin kalian pakai baju timnas kesayangan kita ya sob.
+28	Pastiin kalian pakai baju timnas kesayangan kita ya sob.
+29	Pastiin kalian pakai baju timnas kesayangan kita ya sob. Dan jangan lupa hafalin chain team kita.
+30	Dan jangan lupa hafalin chain team kita.
+31	Dan jangan lupa hafalin chain team kita.
+32	Dan jangan lupa hafalin chain team kita.
+33	Dan jangan lupa hafalin chain team kita.
+34	Dan jangan lupa hafalin chain team kita.
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	Pastiin kalian punya tiket ya.
+51	Pastiin kalian punya tiket ya.
+52	Pastiin kalian punya tiket ya.
+53	Pastiin kalian punya tiket ya. Kalau enggak, gak bakal bisa masuk lho.
+54	Pastiin kalian punya tiket ya. Kalau enggak, gak bakal bisa masuk lho.
+55	Kalau enggak, gak bakal bisa masuk lho.
+56	Kalau enggak, gak bakal bisa masuk lho.
+57	Kalau enggak, gak bakal bisa masuk lho.
+58	Kalau enggak, gak bakal bisa masuk lho.
+59	[NO_SPEECH]
+60	[NO_SPEECH]
+61	[NO_SPEECH]
+62	Buat kalian yang gak mau ribet nyari parkir, boleh banget lho naik transportasi umum.
+63	Buat kalian yang gak mau ribet nyari parkir, boleh banget lho naik transportasi umum.
+64	Buat kalian yang gak mau ribet nyari parkir, boleh banget lho naik transportasi umum.
+65	Buat kalian yang gak mau ribet nyari parkir, boleh banget lho naik transportasi umum.
+66	Buat kalian yang gak mau ribet nyari parkir, boleh banget lho naik transportasi umum.
+67	Buat kalian yang gak mau ribet nyari parkir, boleh banget lho naik transportasi umum.
+68	Buat kalian yang gak mau ribet nyari parkir, boleh banget lho naik transportasi umum.
+69	Buat kalian yang gak mau ribet nyari parkir, boleh banget lho naik transportasi umum.
+70	Buat kalian yang gak mau ribet nyari parkir, boleh banget lho naik transportasi umum. Ada MRT, Transjakarta, dan lainnya.
+71	Buat kalian yang gak mau ribet nyari parkir, boleh banget lho naik transportasi umum. Ada MRT, Transjakarta, dan lainnya.
+72	Ada MRT, Transjakarta, dan lainnya.
+73	Ada MRT, Transjakarta, dan lainnya.
+74	Ada MRT, Transjakarta, dan lainnya.
+75	Ada MRT, Transjakarta, dan lainnya.
+76	Ada MRT, Transjakarta, dan lainnya.
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	Sobat Koray harus tau ya, ada beberapa barang yang gak boleh dibawa ke stadion lho.
+82	Sobat Koray harus tau ya, ada beberapa barang yang gak boleh dibawa ke stadion lho.
+83	Sobat Koray harus tau ya, ada beberapa barang yang gak boleh dibawa ke stadion lho.
+84	Sobat Koray harus tau ya, ada beberapa barang yang gak boleh dibawa ke stadion lho.
+85	Sobat Koray harus tau ya, ada beberapa barang yang gak boleh dibawa ke stadion lho.
+86	Sobat Koray harus tau ya, ada beberapa barang yang gak boleh dibawa ke stadion lho.
+87	Sobat Koray harus tau ya, ada beberapa barang yang gak boleh dibawa ke stadion lho.
+88	Sobat Koray harus tau ya, ada beberapa barang yang gak boleh dibawa ke stadion lho.
+89	Sobat Koray harus tau ya, ada beberapa barang yang gak boleh dibawa ke stadion lho.
+90	Sobat Koray harus tau ya, ada beberapa barang yang gak boleh dibawa ke stadion lho.
+91	[NO_SPEECH]
+92	[NO_SPEECH]
+93	Selain barang-barang yang tadi, Sobat Koray juga gak boleh lho bawa kamera profesional ke dalam stadion.
+94	Selain barang-barang yang tadi, Sobat Koray juga gak boleh lho bawa kamera profesional ke dalam stadion.
+95	Selain barang-barang yang tadi, Sobat Koray juga gak boleh lho bawa kamera profesional ke dalam stadion.
+96	Selain barang-barang yang tadi, Sobat Koray juga gak boleh lho bawa kamera profesional ke dalam stadion.
+97	Selain barang-barang yang tadi, Sobat Koray juga gak boleh lho bawa kamera profesional ke dalam stadion.
+98	Selain barang-barang yang tadi, Sobat Koray juga gak boleh lho bawa kamera profesional ke dalam stadion.
+99	Selain barang-barang yang tadi, Sobat Koray juga gak boleh lho bawa kamera profesional ke dalam stadion.
+100	Selain barang-barang yang tadi, Sobat Koray juga gak boleh lho bawa kamera profesional ke dalam stadion.
+101	Selain barang-barang yang tadi, Sobat Koray juga gak boleh lho bawa kamera profesional ke dalam stadion.
+102	Selain barang-barang yang tadi, Sobat Koray juga gak boleh lho bawa kamera profesional ke dalam stadion.
+103	Selain barang-barang yang tadi, Sobat Koray juga gak boleh lho bawa kamera profesional ke dalam stadion.
+104	[NO_SPEECH]
+105	Eh mas, mas, mas.
+106	Eh mas, mas, mas.
+107	Eh mas, mas, mas.
+108	Eh mas, mas, mas.
+109	[NO_SPEECH]
+110	Bawa kamera profesional aja gak boleh, apalagi nge-live.
+111	Bawa kamera profesional aja gak boleh, apalagi nge-live.
+112	Bawa kamera profesional aja gak boleh, apalagi nge-live.
+113	Bawa kamera profesional aja gak boleh, apalagi nge-live.
+114	Bawa kamera profesional aja gak boleh, apalagi nge-live.
+115	Bawa kamera profesional aja gak boleh, apalagi nge-live.
+116	Bawa kamera profesional aja gak boleh, apalagi nge-live.
+117	Bawa kamera profesional aja gak boleh, apalagi nge-live.
+118	[NO_SPEECH]
+119	Mas, mas, mas.
+120	Mas, mas, mas.
+121	Mas, mas, mas. Mas, mas, mas.
+122	Mas, mas, mas. Mas, mas, mas. Mas, mas, mas.  Ya gak apa-apa, nikmatin aja pertandingannya.
+123	Mas, mas, mas. Mas, mas, mas.  Ya gak apa-apa, nikmatin aja pertandingannya.
+124	Ya gak apa-apa, nikmatin aja pertandingannya.
+125	Ya gak apa-apa, nikmatin aja pertandingannya.
+126	Ya gak apa-apa, nikmatin aja pertandingannya. Yuk jalan!
+127	Yuk jalan! Oke.
+128	Yuk jalan! Oke.
+129	[NO_SPEECH]
+130	[NO_SPEECH]
+131	[NO_SPEECH]
+132	[NO_SPEECH]
+133	[NO_SPEECH]
+134	[NO_SPEECH]
+135	[NO_SPEECH]
+136	Nah sob, hal terakhir yang gak boleh dilakuin adalah merokok, trapping, minuman keras, dan juga narkoba.
+137	Nah sob, hal terakhir yang gak boleh dilakuin adalah merokok, trapping, minuman keras, dan juga narkoba.
+138	Nah sob, hal terakhir yang gak boleh dilakuin adalah merokok, trapping, minuman keras, dan juga narkoba.
+139	Nah sob, hal terakhir yang gak boleh dilakuin adalah merokok, trapping, minuman keras, dan juga narkoba.
+140	Nah sob, hal terakhir yang gak boleh dilakuin adalah merokok, trapping, minuman keras, dan juga narkoba.
+141	Nah sob, hal terakhir yang gak boleh dilakuin adalah merokok, trapping, minuman keras, dan juga narkoba.
+142	Nah sob, hal terakhir yang gak boleh dilakuin adalah merokok, trapping, minuman keras, dan juga narkoba.
+143	Nah sob, hal terakhir yang gak boleh dilakuin adalah merokok, trapping, minuman keras, dan juga narkoba.
+144	Nah sob, hal terakhir yang gak boleh dilakuin adalah merokok, trapping, minuman keras, dan juga narkoba.
+145	Nah sob, hal terakhir yang gak boleh dilakuin adalah merokok, trapping, minuman keras, dan juga narkoba.
+146	Nah sob, hal terakhir yang gak boleh dilakuin adalah merokok, trapping, minuman keras, dan juga narkoba.
+147	Nah sob, hal terakhir yang gak boleh dilakuin adalah merokok, trapping, minuman keras, dan juga narkoba.
+148	Nah sob, hal terakhir yang gak boleh dilakuin adalah merokok, trapping, minuman keras, dan juga narkoba.
+149	Nah sob, hal terakhir yang gak boleh dilakuin adalah merokok, trapping, minuman keras, dan juga narkoba. Karena itu semua bisa mengganggu kenyamanan orang lain.
+150	Nah sob, hal terakhir yang gak boleh dilakuin adalah merokok, trapping, minuman keras, dan juga narkoba. Karena itu semua bisa mengganggu kenyamanan orang lain.
+151	Karena itu semua bisa mengganggu kenyamanan orang lain.
+152	Karena itu semua bisa mengganggu kenyamanan orang lain.
+153	Karena itu semua bisa mengganggu kenyamanan orang lain.
+154	Karena itu semua bisa mengganggu kenyamanan orang lain.
+155	Karena itu semua bisa mengganggu kenyamanan orang lain.
+156	Karena itu semua bisa mengganggu kenyamanan orang lain. Nah itu dia do and downs selama kita nonton Stadion.
+157	Nah itu dia do and downs selama kita nonton Stadion.
+158	Nah itu dia do and downs selama kita nonton Stadion.
+159	Nah itu dia do and downs selama kita nonton Stadion.
+160	Nah itu dia do and downs selama kita nonton Stadion.
+161	Nah itu dia do and downs selama kita nonton Stadion.
+162	Nah itu dia do and downs selama kita nonton Stadion. Yuk kita taatin bersama dan bikin nyaman bersama.
+163	Nah itu dia do and downs selama kita nonton Stadion. Yuk kita taatin bersama dan bikin nyaman bersama.
+164	Yuk kita taatin bersama dan bikin nyaman bersama.
+165	Yuk kita taatin bersama dan bikin nyaman bersama.
+166	Yuk kita taatin bersama dan bikin nyaman bersama.
+167	Yuk kita taatin bersama dan bikin nyaman bersama.
+168	[NO_SPEECH]
+169	Terima kasih.
+170	Terima kasih.
+171	Terima kasih.
+172	[NO_SPEECH]
+173	[NO_SPEECH]
+174	[NO_SPEECH]
+175	[NO_SPEECH]
+176	[NO_SPEECH]
+177	[NO_SPEECH]
+178	[NO_SPEECH]
+179	[NO_SPEECH]

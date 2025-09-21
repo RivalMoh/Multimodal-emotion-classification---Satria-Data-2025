@@ -1,0 +1,517 @@
+0	.
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	Selasa 3 Oktober 2023,
+17	Selasa 3 Oktober 2023,
+18	Selasa 3 Oktober 2023,
+19	Selasa 3 Oktober 2023,
+20	Selasa 3 Oktober 2023,
+21	Selasa 3 Oktober 2023, rombongan cabor menembak mengunjungi KONI DKI Jakarta.
+22	rombongan cabor menembak mengunjungi KONI DKI Jakarta.
+23	rombongan cabor menembak mengunjungi KONI DKI Jakarta.
+24	rombongan cabor menembak mengunjungi KONI DKI Jakarta.
+25	rombongan cabor menembak mengunjungi KONI DKI Jakarta.
+26	rombongan cabor menembak mengunjungi KONI DKI Jakarta.
+27	rombongan cabor menembak mengunjungi KONI DKI Jakarta.
+28	rombongan cabor menembak mengunjungi KONI DKI Jakarta.
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	Atlet menembak pada Asian Games 2023,
+38	Atlet menembak pada Asian Games 2023,
+39	Atlet menembak pada Asian Games 2023,
+40	Atlet menembak pada Asian Games 2023,
+41	Atlet menembak pada Asian Games 2023,
+42	Atlet menembak pada Asian Games 2023,
+43	Atlet menembak pada Asian Games 2023, Hanjo Muhammad Sejahtera Dwi Putra menyumbangkan 2 medali emas buat tim Indonesia.
+44	Hanjo Muhammad Sejahtera Dwi Putra menyumbangkan 2 medali emas buat tim Indonesia.
+45	Hanjo Muhammad Sejahtera Dwi Putra menyumbangkan 2 medali emas buat tim Indonesia.
+46	Hanjo Muhammad Sejahtera Dwi Putra menyumbangkan 2 medali emas buat tim Indonesia.
+47	Hanjo Muhammad Sejahtera Dwi Putra menyumbangkan 2 medali emas buat tim Indonesia.
+48	Hanjo Muhammad Sejahtera Dwi Putra menyumbangkan 2 medali emas buat tim Indonesia.
+49	Hanjo Muhammad Sejahtera Dwi Putra menyumbangkan 2 medali emas buat tim Indonesia.
+50	Hanjo Muhammad Sejahtera Dwi Putra menyumbangkan 2 medali emas buat tim Indonesia.
+51	Hanjo Muhammad Sejahtera Dwi Putra menyumbangkan 2 medali emas buat tim Indonesia.
+52	Hanjo Muhammad Sejahtera Dwi Putra menyumbangkan 2 medali emas buat tim Indonesia. Meraih emas dari nomor 10 meter running target Putra
+53	Hanjo Muhammad Sejahtera Dwi Putra menyumbangkan 2 medali emas buat tim Indonesia. Meraih emas dari nomor 10 meter running target Putra
+54	Meraih emas dari nomor 10 meter running target Putra
+55	Meraih emas dari nomor 10 meter running target Putra
+56	Meraih emas dari nomor 10 meter running target Putra
+57	Meraih emas dari nomor 10 meter running target Putra
+58	Meraih emas dari nomor 10 meter running target Putra
+59	Meraih emas dari nomor 10 meter running target Putra dan nomor 10 meter running target Mixed Run Putra.
+60	Meraih emas dari nomor 10 meter running target Putra dan nomor 10 meter running target Mixed Run Putra.
+61	dan nomor 10 meter running target Mixed Run Putra.
+62	dan nomor 10 meter running target Mixed Run Putra.
+63	dan nomor 10 meter running target Mixed Run Putra.
+64	dan nomor 10 meter running target Mixed Run Putra.
+65	dan nomor 10 meter running target Mixed Run Putra.
+66	dan nomor 10 meter running target Mixed Run Putra.
+67	[NO_SPEECH]
+68	[NO_SPEECH]
+69	[NO_SPEECH]
+70	[NO_SPEECH]
+71	[NO_SPEECH]
+72	[NO_SPEECH]
+73	[NO_SPEECH]
+74	[NO_SPEECH]
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	[NO_SPEECH]
+83	[NO_SPEECH]
+84	[NO_SPEECH]
+85	[NO_SPEECH]
+86	[NO_SPEECH]
+87	[NO_SPEECH]
+88	[NO_SPEECH]
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	[NO_SPEECH]
+95	[NO_SPEECH]
+96	[NO_SPEECH]
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	[NO_SPEECH]
+104	[NO_SPEECH]
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	[NO_SPEECH]
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	[NO_SPEECH]
+113	[NO_SPEECH]
+114	[NO_SPEECH]
+115	[NO_SPEECH]
+116	[NO_SPEECH]
+117	[NO_SPEECH]
+118	[NO_SPEECH]
+119	[NO_SPEECH]
+120	[NO_SPEECH]
+121	[NO_SPEECH]
+122	[NO_SPEECH]
+123	[NO_SPEECH]
+124	[NO_SPEECH]
+125	[NO_SPEECH]
+126	[NO_SPEECH]
+127	[NO_SPEECH]
+128	[NO_SPEECH]
+129	[NO_SPEECH]
+130	[NO_SPEECH]
+131	[NO_SPEECH]
+132	[NO_SPEECH]
+133	[NO_SPEECH]
+134	[NO_SPEECH]
+135	[NO_SPEECH]
+136	[NO_SPEECH]
+137	[NO_SPEECH]
+138	[NO_SPEECH]
+139	[NO_SPEECH]
+140	[NO_SPEECH]
+141	[NO_SPEECH]
+142	[NO_SPEECH]
+143	[NO_SPEECH]
+144	[NO_SPEECH]
+145	[NO_SPEECH]
+146	[NO_SPEECH]
+147	[NO_SPEECH]
+148	[NO_SPEECH]
+149	[NO_SPEECH]
+150	[NO_SPEECH]
+151	[NO_SPEECH]
+152	[NO_SPEECH]
+153	[NO_SPEECH]
+154	[NO_SPEECH]
+155	[NO_SPEECH]
+156	[NO_SPEECH]
+157	Kunjungan ini disambut oleh Ketua Umum KONI DKI Jakarta Hidayat Humayid di ruangannya.
+158	Kunjungan ini disambut oleh Ketua Umum KONI DKI Jakarta Hidayat Humayid di ruangannya.
+159	Kunjungan ini disambut oleh Ketua Umum KONI DKI Jakarta Hidayat Humayid di ruangannya.
+160	Kunjungan ini disambut oleh Ketua Umum KONI DKI Jakarta Hidayat Humayid di ruangannya.
+161	Kunjungan ini disambut oleh Ketua Umum KONI DKI Jakarta Hidayat Humayid di ruangannya.
+162	Kunjungan ini disambut oleh Ketua Umum KONI DKI Jakarta Hidayat Humayid di ruangannya.
+163	Kunjungan ini disambut oleh Ketua Umum KONI DKI Jakarta Hidayat Humayid di ruangannya.
+164	Kunjungan ini disambut oleh Ketua Umum KONI DKI Jakarta Hidayat Humayid di ruangannya.
+165	Kunjungan ini disambut oleh Ketua Umum KONI DKI Jakarta Hidayat Humayid di ruangannya.
+166	Kunjungan ini disambut oleh Ketua Umum KONI DKI Jakarta Hidayat Humayid di ruangannya.
+167	Kunjungan ini disambut oleh Ketua Umum KONI DKI Jakarta Hidayat Humayid di ruangannya.
+168	Kunjungan ini disambut oleh Ketua Umum KONI DKI Jakarta Hidayat Humayid di ruangannya. Hadir juga Waketum 1 Albansu,
+169	Hadir juga Waketum 1 Albansu,
+170	Hadir juga Waketum 1 Albansu,
+171	Hadir juga Waketum 1 Albansu,
+172	Hadir juga Waketum 1 Albansu, Winn Rahardian,
+173	Hadir juga Waketum 1 Albansu, Winn Rahardian,
+174	Winn Rahardian, Waketum 2 Gede Sarjana,
+175	Winn Rahardian, Waketum 2 Gede Sarjana,
+176	Waketum 2 Gede Sarjana,
+177	Waketum 2 Gede Sarjana, Waketum 3 Fadcul Anas,
+178	Waketum 2 Gede Sarjana, Waketum 3 Fadcul Anas,
+179	Waketum 3 Fadcul Anas,
+180	Waketum 3 Fadcul Anas,
+181	Waketum 3 Fadcul Anas, Waketum 4 Yusran Arif dan pengurus KONI DKI lainnya.
+182	Waketum 3 Fadcul Anas, Waketum 4 Yusran Arif dan pengurus KONI DKI lainnya.
+183	Waketum 4 Yusran Arif dan pengurus KONI DKI lainnya.
+184	Waketum 4 Yusran Arif dan pengurus KONI DKI lainnya.
+185	Waketum 4 Yusran Arif dan pengurus KONI DKI lainnya.
+186	Waketum 4 Yusran Arif dan pengurus KONI DKI lainnya.
+187	Waketum 4 Yusran Arif dan pengurus KONI DKI lainnya.
+188	Waketum 4 Yusran Arif dan pengurus KONI DKI lainnya.
+189	Waketum 4 Yusran Arif dan pengurus KONI DKI lainnya.
+190	[NO_SPEECH]
+191	[NO_SPEECH]
+192	[NO_SPEECH]
+193	[NO_SPEECH]
+194	[NO_SPEECH]
+195	[NO_SPEECH]
+196	[NO_SPEECH]
+197	[NO_SPEECH]
+198	[NO_SPEECH]
+199	Tak hanya mempersembahkan emas,
+200	Tak hanya mempersembahkan emas,
+201	Tak hanya mempersembahkan emas,
+202	Tak hanya mempersembahkan emas,
+203	Tak hanya mempersembahkan emas, Terah juga meraih 2 perunggu dari nomor beregu.
+204	Tak hanya mempersembahkan emas, Terah juga meraih 2 perunggu dari nomor beregu.
+205	Terah juga meraih 2 perunggu dari nomor beregu.
+206	Terah juga meraih 2 perunggu dari nomor beregu.
+207	Terah juga meraih 2 perunggu dari nomor beregu.
+208	Terah juga meraih 2 perunggu dari nomor beregu.
+209	Terah juga meraih 2 perunggu dari nomor beregu. Total sudah 2 emas dan perunggu yang diraihnya di Asian Games 2023.
+210	Total sudah 2 emas dan perunggu yang diraihnya di Asian Games 2023.
+211	Total sudah 2 emas dan perunggu yang diraihnya di Asian Games 2023.
+212	Total sudah 2 emas dan perunggu yang diraihnya di Asian Games 2023.
+213	Total sudah 2 emas dan perunggu yang diraihnya di Asian Games 2023.
+214	Total sudah 2 emas dan perunggu yang diraihnya di Asian Games 2023.
+215	Total sudah 2 emas dan perunggu yang diraihnya di Asian Games 2023.
+216	Total sudah 2 emas dan perunggu yang diraihnya di Asian Games 2023.
+217	Total sudah 2 emas dan perunggu yang diraihnya di Asian Games 2023.
+218	Total sudah 2 emas dan perunggu yang diraihnya di Asian Games 2023.
+219	[NO_SPEECH]
+220	[NO_SPEECH]
+221	[NO_SPEECH]
+222	[NO_SPEECH]
+223	[NO_SPEECH]
+224	[NO_SPEECH]
+225	[NO_SPEECH]
+226	[NO_SPEECH]
+227	[NO_SPEECH]
+228	[NO_SPEECH]
+229	[NO_SPEECH]
+230	[NO_SPEECH]
+231	[NO_SPEECH]
+232	Semua sebagai warga DKI dan warga negara Indonesia tentunya sangat bangga terhadap atlet kita Sejahtera
+233	Semua sebagai warga DKI dan warga negara Indonesia tentunya sangat bangga terhadap atlet kita Sejahtera
+234	Semua sebagai warga DKI dan warga negara Indonesia tentunya sangat bangga terhadap atlet kita Sejahtera
+235	Semua sebagai warga DKI dan warga negara Indonesia tentunya sangat bangga terhadap atlet kita Sejahtera
+236	Semua sebagai warga DKI dan warga negara Indonesia tentunya sangat bangga terhadap atlet kita Sejahtera
+237	Semua sebagai warga DKI dan warga negara Indonesia tentunya sangat bangga terhadap atlet kita Sejahtera
+238	Semua sebagai warga DKI dan warga negara Indonesia tentunya sangat bangga terhadap atlet kita Sejahtera
+239	Semua sebagai warga DKI dan warga negara Indonesia tentunya sangat bangga terhadap atlet kita Sejahtera
+240	Semua sebagai warga DKI dan warga negara Indonesia tentunya sangat bangga terhadap atlet kita Sejahtera
+241	Semua sebagai warga DKI dan warga negara Indonesia tentunya sangat bangga terhadap atlet kita Sejahtera
+242	Semua sebagai warga DKI dan warga negara Indonesia tentunya sangat bangga terhadap atlet kita Sejahtera
+243	Semua sebagai warga DKI dan warga negara Indonesia tentunya sangat bangga terhadap atlet kita Sejahtera
+244	Semua sebagai warga DKI dan warga negara Indonesia tentunya sangat bangga terhadap atlet kita Sejahtera
+245	Semua sebagai warga DKI dan warga negara Indonesia tentunya sangat bangga terhadap atlet kita Sejahtera yang sudah meraih 2 emas dan 2 perunggu untuk running target di Asian Games.
+246	Semua sebagai warga DKI dan warga negara Indonesia tentunya sangat bangga terhadap atlet kita Sejahtera yang sudah meraih 2 emas dan 2 perunggu untuk running target di Asian Games.
+247	yang sudah meraih 2 emas dan 2 perunggu untuk running target di Asian Games.
+248	yang sudah meraih 2 emas dan 2 perunggu untuk running target di Asian Games.
+249	yang sudah meraih 2 emas dan 2 perunggu untuk running target di Asian Games.
+250	yang sudah meraih 2 emas dan 2 perunggu untuk running target di Asian Games.
+251	yang sudah meraih 2 emas dan 2 perunggu untuk running target di Asian Games.
+252	yang sudah meraih 2 emas dan 2 perunggu untuk running target di Asian Games.
+253	yang sudah meraih 2 emas dan 2 perunggu untuk running target di Asian Games.
+254	yang sudah meraih 2 emas dan 2 perunggu untuk running target di Asian Games.
+255	yang sudah meraih 2 emas dan 2 perunggu untuk running target di Asian Games.
+256	yang sudah meraih 2 emas dan 2 perunggu untuk running target di Asian Games.
+257	yang sudah meraih 2 emas dan 2 perunggu untuk running target di Asian Games.
+258	yang sudah meraih 2 emas dan 2 perunggu untuk running target di Asian Games.
+259	yang sudah meraih 2 emas dan 2 perunggu untuk running target di Asian Games.
+260	yang sudah meraih 2 emas dan 2 perunggu untuk running target di Asian Games.
+261	yang sudah meraih 2 emas dan 2 perunggu untuk running target di Asian Games. Ini tentunya sebuah prestasi yang luar biasa.
+262	Ini tentunya sebuah prestasi yang luar biasa.
+263	Ini tentunya sebuah prestasi yang luar biasa.
+264	Ini tentunya sebuah prestasi yang luar biasa.
+265	Ini tentunya sebuah prestasi yang luar biasa.
+266	Ini tentunya sebuah prestasi yang luar biasa.
+267	Ini tentunya sebuah prestasi yang luar biasa.
+268	Ini tentunya sebuah prestasi yang luar biasa.
+269	Ini tentunya sebuah prestasi yang luar biasa.
+270	Ini tentunya sebuah prestasi yang luar biasa.
+271	Dari 1 atlet sampai hari ini Indonesia 4 emas.
+272	Dari 1 atlet sampai hari ini Indonesia 4 emas.
+273	Dari 1 atlet sampai hari ini Indonesia 4 emas.
+274	Dari 1 atlet sampai hari ini Indonesia 4 emas.
+275	Dari 1 atlet sampai hari ini Indonesia 4 emas.
+276	Dari 1 atlet sampai hari ini Indonesia 4 emas.
+277	Dari 1 atlet sampai hari ini Indonesia 4 emas.
+278	Dari 1 atlet sampai hari ini Indonesia 4 emas.
+279	Dari 1 atlet sampai hari ini Indonesia 4 emas.
+280	Dari 1 atlet sampai hari ini Indonesia 4 emas.
+281	Dari 1 atlet sampai hari ini Indonesia 4 emas.
+282	Dari 1 atlet sampai hari ini Indonesia 4 emas.
+283	Dari 1 atlet sampai hari ini Indonesia 4 emas.
+284	Dari 1 atlet sampai hari ini Indonesia 4 emas. 50% dari 4 emas itu 2 emas.
+285	50% dari 4 emas itu 2 emas.
+286	50% dari 4 emas itu 2 emas.
+287	50% dari 4 emas itu 2 emas.
+288	50% dari 4 emas itu 2 emas.
+289	50% dari 4 emas itu 2 emas.
+290	50% dari 4 emas itu 2 emas.
+291	50% dari 4 emas itu 2 emas.
+292	50% dari 4 emas itu 2 emas. Dikasihkan oleh 1 orang Sejahtera.
+293	50% dari 4 emas itu 2 emas. Dikasihkan oleh 1 orang Sejahtera.
+294	Dikasihkan oleh 1 orang Sejahtera.
+295	Dikasihkan oleh 1 orang Sejahtera.
+296	Dikasihkan oleh 1 orang Sejahtera. Jadi ini prestasi yang luar biasa.
+297	Dikasihkan oleh 1 orang Sejahtera. Jadi ini prestasi yang luar biasa.
+298	Jadi ini prestasi yang luar biasa.
+299	Jadi ini prestasi yang luar biasa.
+300	Jadi ini prestasi yang luar biasa. Selamat.
+301	Jadi ini prestasi yang luar biasa. Selamat.
+302	Selamat.
+303	[NO_SPEECH]
+304	Sesuai dengan visi misi pemerintah DKI.
+305	Sesuai dengan visi misi pemerintah DKI.
+306	Sesuai dengan visi misi pemerintah DKI.
+307	Sesuai dengan visi misi pemerintah DKI.
+308	Sesuai dengan visi misi pemerintah DKI.
+309	Sesuai dengan visi misi pemerintah DKI.
+310	Sesuai dengan visi misi pemerintah DKI.
+311	Sesuai dengan visi misi pemerintah DKI.
+312	Sesuai dengan visi misi pemerintah DKI.
+313	Sesuai dengan visi misi pemerintah DKI.
+314	Sesuai dengan visi misi pemerintah DKI.
+315	Sukses Jakarta untuk Indonesia.
+316	Sukses Jakarta untuk Indonesia.
+317	Sukses Jakarta untuk Indonesia.
+318	Sukses Jakarta untuk Indonesia.
+319	Sukses Jakarta untuk Indonesia.
+320	Sukses Jakarta untuk Indonesia. Dan begitu juga mengantarkan atlet-atlet DKI menuju pentas dunia.
+321	Dan begitu juga mengantarkan atlet-atlet DKI menuju pentas dunia.
+322	Dan begitu juga mengantarkan atlet-atlet DKI menuju pentas dunia.
+323	Dan begitu juga mengantarkan atlet-atlet DKI menuju pentas dunia.
+324	Dan begitu juga mengantarkan atlet-atlet DKI menuju pentas dunia.
+325	Dan begitu juga mengantarkan atlet-atlet DKI menuju pentas dunia.
+326	Dan begitu juga mengantarkan atlet-atlet DKI menuju pentas dunia.
+327	Dan begitu juga mengantarkan atlet-atlet DKI menuju pentas dunia.
+328	Dan begitu juga mengantarkan atlet-atlet DKI menuju pentas dunia.
+329	Dan begitu juga mengantarkan atlet-atlet DKI menuju pentas dunia.
+330	Dan begitu juga mengantarkan atlet-atlet DKI menuju pentas dunia.
+331	Dan begitu juga mengantarkan atlet-atlet DKI menuju pentas dunia.
+332	Dan begitu juga mengantarkan atlet-atlet DKI menuju pentas dunia.
+333	Alhamdulillah.
+334	Alhamdulillah.
+335	Alhamdulillah.
+336	Selamat. Mudah-mudahan nanti di nomor-nomor yang lainnya,
+337	Selamat. Mudah-mudahan nanti di nomor-nomor yang lainnya,
+338	Mudah-mudahan nanti di nomor-nomor yang lainnya,
+339	Mudah-mudahan nanti di nomor-nomor yang lainnya,
+340	Mudah-mudahan nanti di nomor-nomor yang lainnya,
+341	Mudah-mudahan nanti di nomor-nomor yang lainnya,
+342	Mudah-mudahan nanti di nomor-nomor yang lainnya,
+343	Mudah-mudahan nanti di nomor-nomor yang lainnya,
+344	Mudah-mudahan nanti di nomor-nomor yang lainnya,
+345	Mudah-mudahan nanti di nomor-nomor yang lainnya,
+346	Mudah-mudahan nanti di nomor-nomor yang lainnya, atlet-atlet yang lain Indonesia bisa memperoleh medan ini.
+347	Mudah-mudahan nanti di nomor-nomor yang lainnya, atlet-atlet yang lain Indonesia bisa memperoleh medan ini.
+348	atlet-atlet yang lain Indonesia bisa memperoleh medan ini.
+349	atlet-atlet yang lain Indonesia bisa memperoleh medan ini.
+350	atlet-atlet yang lain Indonesia bisa memperoleh medan ini.
+351	atlet-atlet yang lain Indonesia bisa memperoleh medan ini.
+352	atlet-atlet yang lain Indonesia bisa memperoleh medan ini.
+353	atlet-atlet yang lain Indonesia bisa memperoleh medan ini.
+354	[NO_SPEECH]
+355	[NO_SPEECH]
+356	[NO_SPEECH]
+357	[NO_SPEECH]
+358	Ini sejarah bagi Teradan Indonesia.
+359	Ini sejarah bagi Teradan Indonesia.
+360	Ini sejarah bagi Teradan Indonesia.
+361	Ini sejarah bagi Teradan Indonesia.
+362	Ini sejarah bagi Teradan Indonesia.
+363	Ini sejarah bagi Teradan Indonesia.
+364	Ini sejarah bagi Teradan Indonesia.
+365	Dua medali emas menembak ini sekaligus menuntaskan penantian 72 tahun.
+366	Dua medali emas menembak ini sekaligus menuntaskan penantian 72 tahun.
+367	Dua medali emas menembak ini sekaligus menuntaskan penantian 72 tahun.
+368	Dua medali emas menembak ini sekaligus menuntaskan penantian 72 tahun.
+369	Dua medali emas menembak ini sekaligus menuntaskan penantian 72 tahun.
+370	Dua medali emas menembak ini sekaligus menuntaskan penantian 72 tahun.
+371	Dua medali emas menembak ini sekaligus menuntaskan penantian 72 tahun.
+372	Dua medali emas menembak ini sekaligus menuntaskan penantian 72 tahun.
+373	Dua medali emas menembak ini sekaligus menuntaskan penantian 72 tahun.
+374	Dua medali emas menembak ini sekaligus menuntaskan penantian 72 tahun.
+375	Dua medali emas menembak ini sekaligus menuntaskan penantian 72 tahun. Sejak Asian Games pertama kali digelar,
+376	Sejak Asian Games pertama kali digelar,
+377	Sejak Asian Games pertama kali digelar,
+378	Sejak Asian Games pertama kali digelar,
+379	Sejak Asian Games pertama kali digelar,
+380	Sejak Asian Games pertama kali digelar, kontingen menembak Indonesia belum pernah mengibarkan bendera Indonesia di puncak tertinggi.
+381	Sejak Asian Games pertama kali digelar, kontingen menembak Indonesia belum pernah mengibarkan bendera Indonesia di puncak tertinggi.
+382	kontingen menembak Indonesia belum pernah mengibarkan bendera Indonesia di puncak tertinggi.
+383	kontingen menembak Indonesia belum pernah mengibarkan bendera Indonesia di puncak tertinggi.
+384	kontingen menembak Indonesia belum pernah mengibarkan bendera Indonesia di puncak tertinggi.
+385	kontingen menembak Indonesia belum pernah mengibarkan bendera Indonesia di puncak tertinggi.
+386	kontingen menembak Indonesia belum pernah mengibarkan bendera Indonesia di puncak tertinggi.
+387	kontingen menembak Indonesia belum pernah mengibarkan bendera Indonesia di puncak tertinggi.
+388	kontingen menembak Indonesia belum pernah mengibarkan bendera Indonesia di puncak tertinggi.
+389	kontingen menembak Indonesia belum pernah mengibarkan bendera Indonesia di puncak tertinggi.
+390	kontingen menembak Indonesia belum pernah mengibarkan bendera Indonesia di puncak tertinggi.
+391	kontingen menembak Indonesia belum pernah mengibarkan bendera Indonesia di puncak tertinggi.
+392	[NO_SPEECH]
+393	Giat-giatnya dalam periodisasi adalah latihan.
+394	Giat-giatnya dalam periodisasi adalah latihan.
+395	Giat-giatnya dalam periodisasi adalah latihan.
+396	Giat-giatnya dalam periodisasi adalah latihan.
+397	Giat-giatnya dalam periodisasi adalah latihan.
+398	Giat-giatnya dalam periodisasi adalah latihan.
+399	Giat-giatnya dalam periodisasi adalah latihan.
+400	Giat-giatnya dalam periodisasi adalah latihan.
+401	Tapi yang terpenting buat saya adalah menjelang berangkat,
+402	Tapi yang terpenting buat saya adalah menjelang berangkat,
+403	Tapi yang terpenting buat saya adalah menjelang berangkat,
+404	Tapi yang terpenting buat saya adalah menjelang berangkat,
+405	Tapi yang terpenting buat saya adalah menjelang berangkat,
+406	Tapi yang terpenting buat saya adalah menjelang berangkat,
+407	Tapi yang terpenting buat saya adalah menjelang berangkat,
+408	Tapi yang terpenting buat saya adalah menjelang berangkat,
+409	Tapi yang terpenting buat saya adalah menjelang berangkat,
+410	Tapi yang terpenting buat saya adalah menjelang berangkat, dan selama di sana kita harus menjaga kestabilan pikiran,
+411	Tapi yang terpenting buat saya adalah menjelang berangkat, dan selama di sana kita harus menjaga kestabilan pikiran,
+412	dan selama di sana kita harus menjaga kestabilan pikiran,
+413	dan selama di sana kita harus menjaga kestabilan pikiran,
+414	dan selama di sana kita harus menjaga kestabilan pikiran,
+415	dan selama di sana kita harus menjaga kestabilan pikiran,
+416	dan selama di sana kita harus menjaga kestabilan pikiran,
+417	dan selama di sana kita harus menjaga kestabilan pikiran,
+418	dan selama di sana kita harus menjaga kestabilan pikiran,
+419	dan selama di sana kita harus menjaga kestabilan pikiran,
+420	dan selama di sana kita harus menjaga kestabilan pikiran,
+421	dan selama di sana kita harus menjaga kestabilan pikiran,
+422	mindset dan hati.
+423	mindset dan hati.
+424	mindset dan hati.
+425	mindset dan hati. Ketenangan tingkat tinggi, konsentrasi tingkat tinggi.
+426	Ketenangan tingkat tinggi, konsentrasi tingkat tinggi.
+427	Ketenangan tingkat tinggi, konsentrasi tingkat tinggi.
+428	Ketenangan tingkat tinggi, konsentrasi tingkat tinggi.
+429	Ketenangan tingkat tinggi, konsentrasi tingkat tinggi.
+430	Ketenangan tingkat tinggi, konsentrasi tingkat tinggi. Karena apa?
+431	Karena apa? Di saat konsentrasi tingkat tinggi itu antara melamun dan kontrasi beda tipis.
+432	Karena apa? Di saat konsentrasi tingkat tinggi itu antara melamun dan kontrasi beda tipis.
+433	Di saat konsentrasi tingkat tinggi itu antara melamun dan kontrasi beda tipis.
+434	Di saat konsentrasi tingkat tinggi itu antara melamun dan kontrasi beda tipis.
+435	Di saat konsentrasi tingkat tinggi itu antara melamun dan kontrasi beda tipis.
+436	Di saat konsentrasi tingkat tinggi itu antara melamun dan kontrasi beda tipis.
+437	Di saat konsentrasi tingkat tinggi itu antara melamun dan kontrasi beda tipis.
+438	Di saat konsentrasi tingkat tinggi itu antara melamun dan kontrasi beda tipis.
+439	Di saat konsentrasi tingkat tinggi itu antara melamun dan kontrasi beda tipis. Itu yang kita khawatirkan.
+440	Di saat konsentrasi tingkat tinggi itu antara melamun dan kontrasi beda tipis. Itu yang kita khawatirkan.
+441	Itu yang kita khawatirkan.
+442	Itu yang kita khawatirkan. Makanya di situ kita selipin doa.
+443	Itu yang kita khawatirkan. Makanya di situ kita selipin doa.
+444	Makanya di situ kita selipin doa.
+445	Makanya di situ kita selipin doa.
+446	Makanya di situ kita selipin doa. Di saat kamu memasuki al-muburru, kamu baca bismillah
+447	Makanya di situ kita selipin doa. Di saat kamu memasuki al-muburru, kamu baca bismillah
+448	Di saat kamu memasuki al-muburru, kamu baca bismillah
+449	Di saat kamu memasuki al-muburru, kamu baca bismillah
+450	Di saat kamu memasuki al-muburru, kamu baca bismillah
+451	Di saat kamu memasuki al-muburru, kamu baca bismillah
+452	Di saat kamu memasuki al-muburru, kamu baca bismillah atau yang non-muslim sesuai dengan agama masing-masing.
+453	Di saat kamu memasuki al-muburru, kamu baca bismillah atau yang non-muslim sesuai dengan agama masing-masing.
+454	atau yang non-muslim sesuai dengan agama masing-masing.
+455	atau yang non-muslim sesuai dengan agama masing-masing.
+456	atau yang non-muslim sesuai dengan agama masing-masing.
+457	atau yang non-muslim sesuai dengan agama masing-masing.
+458	atau yang non-muslim sesuai dengan agama masing-masing. Harus, itu harus.
+459	Harus, itu harus.
+460	Harus, itu harus. Karena di akhir adalah tetap harus ada,
+461	Harus, itu harus. Karena di akhir adalah tetap harus ada,
+462	Karena di akhir adalah tetap harus ada,
+463	Karena di akhir adalah tetap harus ada,
+464	Karena di akhir adalah tetap harus ada,
+465	Karena di akhir adalah tetap harus ada,
+466	Karena di akhir adalah tetap harus ada, kita yakin bahwa itu ada campur.
+467	Karena di akhir adalah tetap harus ada, kita yakin bahwa itu ada campur.
+468	kita yakin bahwa itu ada campur.
+469	kita yakin bahwa itu ada campur.
+470	kita yakin bahwa itu ada campur. Sangat penting.
+471	kita yakin bahwa itu ada campur. Sangat penting. Salam Harga Jaya!
+472	Sangat penting. Salam Harga Jaya!
+473	Salam Harga Jaya!
+474	Salam Harga Jaya!
+475	Salam Harga Jaya! DKI Jaya Terbang! Jaya Terbang!
+476	DKI Jaya Terbang! Jaya Terbang!
+477	DKI Jaya Terbang! Jaya Terbang!
+478	DKI Jaya Terbang! Jaya Terbang!
+479	DKI Jaya Terbang! Jaya Terbang!
+480	DKI Jaya Terbang! Jaya Terbang!
+481	DKI Jaya Terbang! Jaya Terbang!
+482	[NO_SPEECH]
+483	[NO_SPEECH]
+484	[NO_SPEECH]
+485	[NO_SPEECH]
+486	[NO_SPEECH]
+487	[NO_SPEECH]
+488	[NO_SPEECH]
+489	[NO_SPEECH]
+490	[NO_SPEECH]
+491	[NO_SPEECH]
+492	[NO_SPEECH]
+493	[NO_SPEECH]
+494	[NO_SPEECH]
+495	[NO_SPEECH]
+496	[NO_SPEECH]
+497	[NO_SPEECH]
+498	[NO_SPEECH]
+499	[NO_SPEECH]
+500	[NO_SPEECH]
+501	[NO_SPEECH]
+502	[NO_SPEECH]
+503	[NO_SPEECH]
+504	[NO_SPEECH]
+505	[NO_SPEECH]
+506	[NO_SPEECH]
+507	[NO_SPEECH]
+508	[NO_SPEECH]
+509	[NO_SPEECH]
+510	[NO_SPEECH]
+511	[NO_SPEECH]
+512	[NO_SPEECH]
+513	[NO_SPEECH]
+514	[NO_SPEECH]
+515	[NO_SPEECH]
+516	[NO_SPEECH]

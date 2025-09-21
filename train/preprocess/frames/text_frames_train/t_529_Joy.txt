@@ -1,0 +1,247 @@
+0	Bersama kita tak luka
+1	Bersama kita tak luka
+2	Bersama kita tak luka
+3	Bersama kita tak luka
+4	Bersama kita tak luka
+5	Bersama kita tak luka
+6	Bersama kita tak luka
+7	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+8	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+9	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+10	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+11	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+12	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+13	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+14	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+15	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+16	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+17	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+18	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+19	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+20	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+21	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+22	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+23	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+24	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+25	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+26	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+27	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+28	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+29	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional
+30	Pembukaan Pekan Olahraga Provinsi DKI Jakarta dan sekaligus Pekan Olahraga Pelajar DKI Jakarta untuk persiapan Pekan Olahraga Nasional Atlet yang mengikuti 1504 dari 6 wilayah, 5 kota dan 1 kabupaten
+31	Atlet yang mengikuti 1504 dari 6 wilayah, 5 kota dan 1 kabupaten
+32	Atlet yang mengikuti 1504 dari 6 wilayah, 5 kota dan 1 kabupaten
+33	Atlet yang mengikuti 1504 dari 6 wilayah, 5 kota dan 1 kabupaten
+34	Atlet yang mengikuti 1504 dari 6 wilayah, 5 kota dan 1 kabupaten
+35	Atlet yang mengikuti 1504 dari 6 wilayah, 5 kota dan 1 kabupaten
+36	Atlet yang mengikuti 1504 dari 6 wilayah, 5 kota dan 1 kabupaten
+37	Atlet yang mengikuti 1504 dari 6 wilayah, 5 kota dan 1 kabupaten
+38	Atlet yang mengikuti 1504 dari 6 wilayah, 5 kota dan 1 kabupaten
+39	Atlet yang mengikuti 1504 dari 6 wilayah, 5 kota dan 1 kabupaten
+40	Atlet yang mengikuti 1504 dari 6 wilayah, 5 kota dan 1 kabupaten
+41	Atlet yang mengikuti 1504 dari 6 wilayah, 5 kota dan 1 kabupaten
+42	Atlet yang mengikuti 1504 dari 6 wilayah, 5 kota dan 1 kabupaten
+43	Atlet yang mengikuti 1504 dari 6 wilayah, 5 kota dan 1 kabupaten
+44	Atlet yang mengikuti 1504 dari 6 wilayah, 5 kota dan 1 kabupaten
+45	Atlet yang mengikuti 1504 dari 6 wilayah, 5 kota dan 1 kabupaten
+46	Atlet yang mengikuti 1504 dari 6 wilayah, 5 kota dan 1 kabupaten Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+47	Atlet yang mengikuti 1504 dari 6 wilayah, 5 kota dan 1 kabupaten Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+48	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+49	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+50	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+51	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+52	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+53	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+54	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+55	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+56	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+57	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+58	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+59	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+60	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+61	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+62	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+63	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+64	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+65	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+66	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+67	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+68	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+69	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+70	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+71	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+72	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+73	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+74	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+75	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+76	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional
+77	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional Karena bagaimanapun DKI Jakarta selalu menjadi barometer dari peristiwa olahraga dan berbagai peristiwa yang lainnya
+78	Dan saya menaruh harapan yang cukup tinggi agar Pekan Olahraga Pelajar ini berhasil berlangsung secara baik dan menghasilkan atlet-atlet agar siap untuk bertanding di Pekan Olahraga Pelajar Nasional Karena bagaimanapun DKI Jakarta selalu menjadi barometer dari peristiwa olahraga dan berbagai peristiwa yang lainnya
+79	Karena bagaimanapun DKI Jakarta selalu menjadi barometer dari peristiwa olahraga dan berbagai peristiwa yang lainnya
+80	Karena bagaimanapun DKI Jakarta selalu menjadi barometer dari peristiwa olahraga dan berbagai peristiwa yang lainnya
+81	Karena bagaimanapun DKI Jakarta selalu menjadi barometer dari peristiwa olahraga dan berbagai peristiwa yang lainnya
+82	Karena bagaimanapun DKI Jakarta selalu menjadi barometer dari peristiwa olahraga dan berbagai peristiwa yang lainnya
+83	Karena bagaimanapun DKI Jakarta selalu menjadi barometer dari peristiwa olahraga dan berbagai peristiwa yang lainnya
+84	Karena bagaimanapun DKI Jakarta selalu menjadi barometer dari peristiwa olahraga dan berbagai peristiwa yang lainnya
+85	Karena bagaimanapun DKI Jakarta selalu menjadi barometer dari peristiwa olahraga dan berbagai peristiwa yang lainnya
+86	Karena bagaimanapun DKI Jakarta selalu menjadi barometer dari peristiwa olahraga dan berbagai peristiwa yang lainnya
+87	Karena bagaimanapun DKI Jakarta selalu menjadi barometer dari peristiwa olahraga dan berbagai peristiwa yang lainnya
+88	Karena bagaimanapun DKI Jakarta selalu menjadi barometer dari peristiwa olahraga dan berbagai peristiwa yang lainnya
+89	Karena bagaimanapun DKI Jakarta selalu menjadi barometer dari peristiwa olahraga dan berbagai peristiwa yang lainnya
+90	Karena bagaimanapun DKI Jakarta selalu menjadi barometer dari peristiwa olahraga dan berbagai peristiwa yang lainnya
+91	Karena bagaimanapun DKI Jakarta selalu menjadi barometer dari peristiwa olahraga dan berbagai peristiwa yang lainnya
+92	Karena bagaimanapun DKI Jakarta selalu menjadi barometer dari peristiwa olahraga dan berbagai peristiwa yang lainnya Kami mengharapkan agar Dinas Olahraga dan juga Koni Jakarta mempersiapkan
+93	Karena bagaimanapun DKI Jakarta selalu menjadi barometer dari peristiwa olahraga dan berbagai peristiwa yang lainnya Kami mengharapkan agar Dinas Olahraga dan juga Koni Jakarta mempersiapkan
+94	Kami mengharapkan agar Dinas Olahraga dan juga Koni Jakarta mempersiapkan
+95	Kami mengharapkan agar Dinas Olahraga dan juga Koni Jakarta mempersiapkan
+96	Kami mengharapkan agar Dinas Olahraga dan juga Koni Jakarta mempersiapkan
+97	Kami mengharapkan agar Dinas Olahraga dan juga Koni Jakarta mempersiapkan
+98	Kami mengharapkan agar Dinas Olahraga dan juga Koni Jakarta mempersiapkan
+99	Kami mengharapkan agar Dinas Olahraga dan juga Koni Jakarta mempersiapkan
+100	Kami mengharapkan agar Dinas Olahraga dan juga Koni Jakarta mempersiapkan
+101	Kami mengharapkan agar Dinas Olahraga dan juga Koni Jakarta mempersiapkan
+102	Kami mengharapkan agar Dinas Olahraga dan juga Koni Jakarta mempersiapkan
+103	Kami mengharapkan agar Dinas Olahraga dan juga Koni Jakarta mempersiapkan
+104	Kami mengharapkan agar Dinas Olahraga dan juga Koni Jakarta mempersiapkan
+105	Kami mengharapkan agar Dinas Olahraga dan juga Koni Jakarta mempersiapkan
+106	Kami mengharapkan agar Dinas Olahraga dan juga Koni Jakarta mempersiapkan Betul untuk Pekan Olahraga Pelajar Nasional yang akan diadakan pada bulan November
+107	Kami mengharapkan agar Dinas Olahraga dan juga Koni Jakarta mempersiapkan Betul untuk Pekan Olahraga Pelajar Nasional yang akan diadakan pada bulan November
+108	Betul untuk Pekan Olahraga Pelajar Nasional yang akan diadakan pada bulan November
+109	Betul untuk Pekan Olahraga Pelajar Nasional yang akan diadakan pada bulan November
+110	Betul untuk Pekan Olahraga Pelajar Nasional yang akan diadakan pada bulan November
+111	Betul untuk Pekan Olahraga Pelajar Nasional yang akan diadakan pada bulan November
+112	Betul untuk Pekan Olahraga Pelajar Nasional yang akan diadakan pada bulan November
+113	Betul untuk Pekan Olahraga Pelajar Nasional yang akan diadakan pada bulan November
+114	Betul untuk Pekan Olahraga Pelajar Nasional yang akan diadakan pada bulan November
+115	Betul untuk Pekan Olahraga Pelajar Nasional yang akan diadakan pada bulan November
+116	Betul untuk Pekan Olahraga Pelajar Nasional yang akan diadakan pada bulan November
+117	Betul untuk Pekan Olahraga Pelajar Nasional yang akan diadakan pada bulan November
+118	Betul untuk Pekan Olahraga Pelajar Nasional yang akan diadakan pada bulan November
+119	Betul untuk Pekan Olahraga Pelajar Nasional yang akan diadakan pada bulan November
+120	Betul untuk Pekan Olahraga Pelajar Nasional yang akan diadakan pada bulan November Maka dengan demikian hari ini saya sengaja hadir untuk memberikan semangat mudah-mudahan 10 cabang yang dipertandingkan berlangsung dengan baik
+121	Betul untuk Pekan Olahraga Pelajar Nasional yang akan diadakan pada bulan November Maka dengan demikian hari ini saya sengaja hadir untuk memberikan semangat mudah-mudahan 10 cabang yang dipertandingkan berlangsung dengan baik
+122	Maka dengan demikian hari ini saya sengaja hadir untuk memberikan semangat mudah-mudahan 10 cabang yang dipertandingkan berlangsung dengan baik
+123	Maka dengan demikian hari ini saya sengaja hadir untuk memberikan semangat mudah-mudahan 10 cabang yang dipertandingkan berlangsung dengan baik
+124	Maka dengan demikian hari ini saya sengaja hadir untuk memberikan semangat mudah-mudahan 10 cabang yang dipertandingkan berlangsung dengan baik
+125	Maka dengan demikian hari ini saya sengaja hadir untuk memberikan semangat mudah-mudahan 10 cabang yang dipertandingkan berlangsung dengan baik
+126	Maka dengan demikian hari ini saya sengaja hadir untuk memberikan semangat mudah-mudahan 10 cabang yang dipertandingkan berlangsung dengan baik
+127	Maka dengan demikian hari ini saya sengaja hadir untuk memberikan semangat mudah-mudahan 10 cabang yang dipertandingkan berlangsung dengan baik
+128	Maka dengan demikian hari ini saya sengaja hadir untuk memberikan semangat mudah-mudahan 10 cabang yang dipertandingkan berlangsung dengan baik
+129	Maka dengan demikian hari ini saya sengaja hadir untuk memberikan semangat mudah-mudahan 10 cabang yang dipertandingkan berlangsung dengan baik
+130	Maka dengan demikian hari ini saya sengaja hadir untuk memberikan semangat mudah-mudahan 10 cabang yang dipertandingkan berlangsung dengan baik
+131	Maka dengan demikian hari ini saya sengaja hadir untuk memberikan semangat mudah-mudahan 10 cabang yang dipertandingkan berlangsung dengan baik
+132	Maka dengan demikian hari ini saya sengaja hadir untuk memberikan semangat mudah-mudahan 10 cabang yang dipertandingkan berlangsung dengan baik
+133	Maka dengan demikian hari ini saya sengaja hadir untuk memberikan semangat mudah-mudahan 10 cabang yang dipertandingkan berlangsung dengan baik
+134	Maka dengan demikian hari ini saya sengaja hadir untuk memberikan semangat mudah-mudahan 10 cabang yang dipertandingkan berlangsung dengan baik
+135	Maka dengan demikian hari ini saya sengaja hadir untuk memberikan semangat mudah-mudahan 10 cabang yang dipertandingkan berlangsung dengan baik
+136	Maka dengan demikian hari ini saya sengaja hadir untuk memberikan semangat mudah-mudahan 10 cabang yang dipertandingkan berlangsung dengan baik
+137	Maka dengan demikian hari ini saya sengaja hadir untuk memberikan semangat mudah-mudahan 10 cabang yang dipertandingkan berlangsung dengan baik Saya melihat Koni Jakarta dan juga Dinas Olahraga Jakarta sudah berlangsung sangat baik
+138	Maka dengan demikian hari ini saya sengaja hadir untuk memberikan semangat mudah-mudahan 10 cabang yang dipertandingkan berlangsung dengan baik Saya melihat Koni Jakarta dan juga Dinas Olahraga Jakarta sudah berlangsung sangat baik
+139	Saya melihat Koni Jakarta dan juga Dinas Olahraga Jakarta sudah berlangsung sangat baik
+140	Saya melihat Koni Jakarta dan juga Dinas Olahraga Jakarta sudah berlangsung sangat baik
+141	Saya melihat Koni Jakarta dan juga Dinas Olahraga Jakarta sudah berlangsung sangat baik
+142	Saya melihat Koni Jakarta dan juga Dinas Olahraga Jakarta sudah berlangsung sangat baik
+143	Saya melihat Koni Jakarta dan juga Dinas Olahraga Jakarta sudah berlangsung sangat baik
+144	Saya melihat Koni Jakarta dan juga Dinas Olahraga Jakarta sudah berlangsung sangat baik
+145	Saya melihat Koni Jakarta dan juga Dinas Olahraga Jakarta sudah berlangsung sangat baik
+146	Saya melihat Koni Jakarta dan juga Dinas Olahraga Jakarta sudah berlangsung sangat baik
+147	Saya melihat Koni Jakarta dan juga Dinas Olahraga Jakarta sudah berlangsung sangat baik
+148	Saya melihat Koni Jakarta dan juga Dinas Olahraga Jakarta sudah berlangsung sangat baik
+149	Saya melihat Koni Jakarta dan juga Dinas Olahraga Jakarta sudah berlangsung sangat baik
+150	Saya melihat Koni Jakarta dan juga Dinas Olahraga Jakarta sudah berlangsung sangat baik
+151	Saya melihat Koni Jakarta dan juga Dinas Olahraga Jakarta sudah berlangsung sangat baik Dan yang surprise buat saya pribadi adalah hadir juga Ketua Umum Koni Pusat
+152	Saya melihat Koni Jakarta dan juga Dinas Olahraga Jakarta sudah berlangsung sangat baik Dan yang surprise buat saya pribadi adalah hadir juga Ketua Umum Koni Pusat
+153	Dan yang surprise buat saya pribadi adalah hadir juga Ketua Umum Koni Pusat
+154	Dan yang surprise buat saya pribadi adalah hadir juga Ketua Umum Koni Pusat
+155	Dan yang surprise buat saya pribadi adalah hadir juga Ketua Umum Koni Pusat
+156	Dan yang surprise buat saya pribadi adalah hadir juga Ketua Umum Koni Pusat
+157	Dan yang surprise buat saya pribadi adalah hadir juga Ketua Umum Koni Pusat
+158	Dan yang surprise buat saya pribadi adalah hadir juga Ketua Umum Koni Pusat
+159	Dan yang surprise buat saya pribadi adalah hadir juga Ketua Umum Koni Pusat
+160	Dan yang surprise buat saya pribadi adalah hadir juga Ketua Umum Koni Pusat
+161	Dan yang surprise buat saya pribadi adalah hadir juga Ketua Umum Koni Pusat Ini menandakan bahwa Jakarta
+162	Ini menandakan bahwa Jakarta
+163	Ini menandakan bahwa Jakarta
+164	Ini menandakan bahwa Jakarta
+165	Ini menandakan bahwa Jakarta Dalam persiapan olahraga di berbagai event kita akan menyelenggarakan dengan baik
+166	Ini menandakan bahwa Jakarta Dalam persiapan olahraga di berbagai event kita akan menyelenggarakan dengan baik
+167	Dalam persiapan olahraga di berbagai event kita akan menyelenggarakan dengan baik
+168	Dalam persiapan olahraga di berbagai event kita akan menyelenggarakan dengan baik
+169	Dalam persiapan olahraga di berbagai event kita akan menyelenggarakan dengan baik
+170	Dalam persiapan olahraga di berbagai event kita akan menyelenggarakan dengan baik
+171	Dalam persiapan olahraga di berbagai event kita akan menyelenggarakan dengan baik
+172	Dalam persiapan olahraga di berbagai event kita akan menyelenggarakan dengan baik
+173	Dalam persiapan olahraga di berbagai event kita akan menyelenggarakan dengan baik
+174	Dalam persiapan olahraga di berbagai event kita akan menyelenggarakan dengan baik
+175	Dalam persiapan olahraga di berbagai event kita akan menyelenggarakan dengan baik
+176	Dalam persiapan olahraga di berbagai event kita akan menyelenggarakan dengan baik Dan mudah-mudahan sekali lagi akan menghasilkan atlet-atlet pelajar nasional yang berasal dari Jakarta
+177	Dalam persiapan olahraga di berbagai event kita akan menyelenggarakan dengan baik Dan mudah-mudahan sekali lagi akan menghasilkan atlet-atlet pelajar nasional yang berasal dari Jakarta
+178	Dan mudah-mudahan sekali lagi akan menghasilkan atlet-atlet pelajar nasional yang berasal dari Jakarta
+179	Dan mudah-mudahan sekali lagi akan menghasilkan atlet-atlet pelajar nasional yang berasal dari Jakarta
+180	Dan mudah-mudahan sekali lagi akan menghasilkan atlet-atlet pelajar nasional yang berasal dari Jakarta
+181	Dan mudah-mudahan sekali lagi akan menghasilkan atlet-atlet pelajar nasional yang berasal dari Jakarta
+182	Dan mudah-mudahan sekali lagi akan menghasilkan atlet-atlet pelajar nasional yang berasal dari Jakarta
+183	Dan mudah-mudahan sekali lagi akan menghasilkan atlet-atlet pelajar nasional yang berasal dari Jakarta
+184	Dan mudah-mudahan sekali lagi akan menghasilkan atlet-atlet pelajar nasional yang berasal dari Jakarta
+185	Dan mudah-mudahan sekali lagi akan menghasilkan atlet-atlet pelajar nasional yang berasal dari Jakarta
+186	Dan mudah-mudahan sekali lagi akan menghasilkan atlet-atlet pelajar nasional yang berasal dari Jakarta
+187	Dan mudah-mudahan sekali lagi akan menghasilkan atlet-atlet pelajar nasional yang berasal dari Jakarta
+188	Dan mudah-mudahan sekali lagi akan menghasilkan atlet-atlet pelajar nasional yang berasal dari Jakarta
+189	Dan mudah-mudahan sekali lagi akan menghasilkan atlet-atlet pelajar nasional yang berasal dari Jakarta
+190	Dan mudah-mudahan sekali lagi akan menghasilkan atlet-atlet pelajar nasional yang berasal dari Jakarta
+191	Dan mudah-mudahan sekali lagi akan menghasilkan atlet-atlet pelajar nasional yang berasal dari Jakarta Jadi Bobnas awalnya akan diadakan di Aceh dan Medan
+192	Dan mudah-mudahan sekali lagi akan menghasilkan atlet-atlet pelajar nasional yang berasal dari Jakarta Jadi Bobnas awalnya akan diadakan di Aceh dan Medan
+193	Jadi Bobnas awalnya akan diadakan di Aceh dan Medan
+194	Jadi Bobnas awalnya akan diadakan di Aceh dan Medan
+195	Jadi Bobnas awalnya akan diadakan di Aceh dan Medan
+196	Jadi Bobnas awalnya akan diadakan di Aceh dan Medan
+197	Jadi Bobnas awalnya akan diadakan di Aceh dan Medan
+198	Jadi Bobnas awalnya akan diadakan di Aceh dan Medan
+199	Jadi Bobnas awalnya akan diadakan di Aceh dan Medan
+200	Jadi Bobnas awalnya akan diadakan di Aceh dan Medan Tetapi karena sesuatu dan lain hal akhirnya dipindahkan di Jakarta
+201	Jadi Bobnas awalnya akan diadakan di Aceh dan Medan Tetapi karena sesuatu dan lain hal akhirnya dipindahkan di Jakarta
+202	Tetapi karena sesuatu dan lain hal akhirnya dipindahkan di Jakarta
+203	Tetapi karena sesuatu dan lain hal akhirnya dipindahkan di Jakarta
+204	Tetapi karena sesuatu dan lain hal akhirnya dipindahkan di Jakarta
+205	Tetapi karena sesuatu dan lain hal akhirnya dipindahkan di Jakarta
+206	Tetapi karena sesuatu dan lain hal akhirnya dipindahkan di Jakarta
+207	Tetapi karena sesuatu dan lain hal akhirnya dipindahkan di Jakarta
+208	Tetapi karena sesuatu dan lain hal akhirnya dipindahkan di Jakarta
+209	Tetapi karena sesuatu dan lain hal akhirnya dipindahkan di Jakarta
+210	Tetapi karena sesuatu dan lain hal akhirnya dipindahkan di Jakarta Dan Jakarta siap sanggup untuk melaksanakan itu
+211	Tetapi karena sesuatu dan lain hal akhirnya dipindahkan di Jakarta Dan Jakarta siap sanggup untuk melaksanakan itu
+212	Dan Jakarta siap sanggup untuk melaksanakan itu
+213	Dan Jakarta siap sanggup untuk melaksanakan itu
+214	Dan Jakarta siap sanggup untuk melaksanakan itu
+215	Dan Jakarta siap sanggup untuk melaksanakan itu
+216	Dan Jakarta siap sanggup untuk melaksanakan itu Dan surat keputusan dari Kementerian Olahraga sudah keluar
+217	Dan Jakarta siap sanggup untuk melaksanakan itu Dan surat keputusan dari Kementerian Olahraga sudah keluar
+218	Dan surat keputusan dari Kementerian Olahraga sudah keluar
+219	Dan surat keputusan dari Kementerian Olahraga sudah keluar
+220	Dan surat keputusan dari Kementerian Olahraga sudah keluar
+221	Dan surat keputusan dari Kementerian Olahraga sudah keluar
+222	Dan surat keputusan dari Kementerian Olahraga sudah keluar
+223	Dan surat keputusan dari Kementerian Olahraga sudah keluar
+224	Dan surat keputusan dari Kementerian Olahraga sudah keluar
+225	Dan surat keputusan dari Kementerian Olahraga sudah keluar Jadi pada bulan November kami sudah siap untuk menyelenggarakan
+226	Jadi pada bulan November kami sudah siap untuk menyelenggarakan
+227	Jadi pada bulan November kami sudah siap untuk menyelenggarakan
+228	Jadi pada bulan November kami sudah siap untuk menyelenggarakan
+229	Jadi pada bulan November kami sudah siap untuk menyelenggarakan
+230	Jadi pada bulan November kami sudah siap untuk menyelenggarakan
+231	Jadi pada bulan November kami sudah siap untuk menyelenggarakan
+232	Jadi pada bulan November kami sudah siap untuk menyelenggarakan
+233	Jadi pada bulan November kami sudah siap untuk menyelenggarakan
+234	[NO_SPEECH]
+235	[NO_SPEECH]
+236	[NO_SPEECH]
+237	[NO_SPEECH]
+238	[NO_SPEECH]
+239	[NO_SPEECH]
+240	[NO_SPEECH]
+241	[NO_SPEECH]
+242	[NO_SPEECH]
+243	[NO_SPEECH]
+244	[NO_SPEECH]
+245	[NO_SPEECH]
+246	[NO_SPEECH]

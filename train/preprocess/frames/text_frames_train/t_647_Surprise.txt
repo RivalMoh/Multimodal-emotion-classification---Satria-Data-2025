@@ -1,0 +1,124 @@
+0	USG ibu hamil mah udah biasa
+1	USG ibu hamil mah udah biasa
+2	USG ibu hamil mah udah biasa Mau liat gak USG pada ikan?
+3	USG ibu hamil mah udah biasa Mau liat gak USG pada ikan?
+4	Mau liat gak USG pada ikan?
+5	Mau liat gak USG pada ikan?
+6	Mau liat gak USG pada ikan? Pasien aku kali ini ikan koi jenisnya karasu
+7	Mau liat gak USG pada ikan? Pasien aku kali ini ikan koi jenisnya karasu
+8	Pasien aku kali ini ikan koi jenisnya karasu
+9	Pasien aku kali ini ikan koi jenisnya karasu
+10	Pasien aku kali ini ikan koi jenisnya karasu
+11	Pasien aku kali ini ikan koi jenisnya karasu Umurnya sudah lebih dari 5 tahun
+12	Pasien aku kali ini ikan koi jenisnya karasu Umurnya sudah lebih dari 5 tahun
+13	Umurnya sudah lebih dari 5 tahun
+14	Umurnya sudah lebih dari 5 tahun Dia terlihat lemas dan hanya berdiam diri di bawah kolam
+15	Umurnya sudah lebih dari 5 tahun Dia terlihat lemas dan hanya berdiam diri di bawah kolam
+16	Dia terlihat lemas dan hanya berdiam diri di bawah kolam
+17	Dia terlihat lemas dan hanya berdiam diri di bawah kolam
+18	Dia terlihat lemas dan hanya berdiam diri di bawah kolam
+19	Dia terlihat lemas dan hanya berdiam diri di bawah kolam
+20	Dia terlihat lemas dan hanya berdiam diri di bawah kolam Karena memang umurnya sudah tua
+21	Dia terlihat lemas dan hanya berdiam diri di bawah kolam Karena memang umurnya sudah tua
+22	Karena memang umurnya sudah tua Aku langsung curiga adanya penyakit pada organ dalam
+23	Karena memang umurnya sudah tua Aku langsung curiga adanya penyakit pada organ dalam
+24	Aku langsung curiga adanya penyakit pada organ dalam
+25	Aku langsung curiga adanya penyakit pada organ dalam
+26	Aku langsung curiga adanya penyakit pada organ dalam
+27	Aku langsung curiga adanya penyakit pada organ dalam Karena memang berhubungan dengan fungsi organ dalam
+28	Aku langsung curiga adanya penyakit pada organ dalam Karena memang berhubungan dengan fungsi organ dalam
+29	Karena memang berhubungan dengan fungsi organ dalam
+30	Karena memang berhubungan dengan fungsi organ dalam
+31	Karena memang berhubungan dengan fungsi organ dalam Approach yang paling cepat yang pertama kali bisa kita lakukan adalah USG
+32	Karena memang berhubungan dengan fungsi organ dalam Approach yang paling cepat yang pertama kali bisa kita lakukan adalah USG
+33	Approach yang paling cepat yang pertama kali bisa kita lakukan adalah USG
+34	Approach yang paling cepat yang pertama kali bisa kita lakukan adalah USG
+35	Approach yang paling cepat yang pertama kali bisa kita lakukan adalah USG
+36	Approach yang paling cepat yang pertama kali bisa kita lakukan adalah USG
+37	Approach yang paling cepat yang pertama kali bisa kita lakukan adalah USG
+38	Approach yang paling cepat yang pertama kali bisa kita lakukan adalah USG USG kali ini aku sedang pilih ongkir ternama
+39	Approach yang paling cepat yang pertama kali bisa kita lakukan adalah USG USG kali ini aku sedang pilih ongkir ternama
+40	USG kali ini aku sedang pilih ongkir ternama
+41	USG kali ini aku sedang pilih ongkir ternama
+42	USG kali ini aku sedang pilih ongkir ternama
+43	USG kali ini aku sedang pilih ongkir ternama Kardiologis dari RSHP IPB
+44	USG kali ini aku sedang pilih ongkir ternama Kardiologis dari RSHP IPB
+45	Kardiologis dari RSHP IPB
+46	Kardiologis dari RSHP IPB
+47	Kardiologis dari RSHP IPB
+48	Kardiologis dari RSHP IPB Orang pertama yang kita cek adalah jantung
+49	Kardiologis dari RSHP IPB Orang pertama yang kita cek adalah jantung
+50	Orang pertama yang kita cek adalah jantung
+51	Orang pertama yang kita cek adalah jantung
+52	Orang pertama yang kita cek adalah jantung Jantung ikan berbeda dengan mamalia ya
+53	Orang pertama yang kita cek adalah jantung Jantung ikan berbeda dengan mamalia ya
+54	Jantung ikan berbeda dengan mamalia ya
+55	Jantung ikan berbeda dengan mamalia ya
+56	Jantung ikan berbeda dengan mamalia ya Ikan hanya memiliki dua ruang saja pada jantungnya
+57	Jantung ikan berbeda dengan mamalia ya Ikan hanya memiliki dua ruang saja pada jantungnya
+58	Ikan hanya memiliki dua ruang saja pada jantungnya
+59	Ikan hanya memiliki dua ruang saja pada jantungnya
+60	Ikan hanya memiliki dua ruang saja pada jantungnya
+61	Ikan hanya memiliki dua ruang saja pada jantungnya Yaitu atrium dan kentrikal
+62	Ikan hanya memiliki dua ruang saja pada jantungnya Yaitu atrium dan kentrikal
+63	Yaitu atrium dan kentrikal
+64	Yaitu atrium dan kentrikal
+65	Yaitu atrium dan kentrikal Dari hasil USG sayangnya pada ikan ini terdapat hidroperikardium
+66	Yaitu atrium dan kentrikal Dari hasil USG sayangnya pada ikan ini terdapat hidroperikardium
+67	Dari hasil USG sayangnya pada ikan ini terdapat hidroperikardium
+68	Dari hasil USG sayangnya pada ikan ini terdapat hidroperikardium
+69	Dari hasil USG sayangnya pada ikan ini terdapat hidroperikardium
+70	Dari hasil USG sayangnya pada ikan ini terdapat hidroperikardium
+71	Dari hasil USG sayangnya pada ikan ini terdapat hidroperikardium
+72	Dari hasil USG sayangnya pada ikan ini terdapat hidroperikardium Yaitu adanya akumulasi cairan pada lapisan terluar jantung
+73	Dari hasil USG sayangnya pada ikan ini terdapat hidroperikardium Yaitu adanya akumulasi cairan pada lapisan terluar jantung
+74	Yaitu adanya akumulasi cairan pada lapisan terluar jantung
+75	Yaitu adanya akumulasi cairan pada lapisan terluar jantung
+76	Yaitu adanya akumulasi cairan pada lapisan terluar jantung
+77	Yaitu adanya akumulasi cairan pada lapisan terluar jantung
+78	Yaitu adanya akumulasi cairan pada lapisan terluar jantung
+79	Yaitu adanya akumulasi cairan pada lapisan terluar jantung Hal ini tentu tidak baik ya
+80	Yaitu adanya akumulasi cairan pada lapisan terluar jantung Hal ini tentu tidak baik ya
+81	Hal ini tentu tidak baik ya Karena akan mengganggu kinerja jantung dalam memompa darah ke seluruh tubuhnya
+82	Hal ini tentu tidak baik ya Karena akan mengganggu kinerja jantung dalam memompa darah ke seluruh tubuhnya
+83	Karena akan mengganggu kinerja jantung dalam memompa darah ke seluruh tubuhnya
+84	Karena akan mengganggu kinerja jantung dalam memompa darah ke seluruh tubuhnya
+85	Karena akan mengganggu kinerja jantung dalam memompa darah ke seluruh tubuhnya
+86	Karena akan mengganggu kinerja jantung dalam memompa darah ke seluruh tubuhnya
+87	Karena akan mengganggu kinerja jantung dalam memompa darah ke seluruh tubuhnya
+88	Karena akan mengganggu kinerja jantung dalam memompa darah ke seluruh tubuhnya
+89	Karena akan mengganggu kinerja jantung dalam memompa darah ke seluruh tubuhnya Organ-organ lain yang kita cek selanjutnya adalah
+90	Karena akan mengganggu kinerja jantung dalam memompa darah ke seluruh tubuhnya Organ-organ lain yang kita cek selanjutnya adalah
+91	Organ-organ lain yang kita cek selanjutnya adalah
+92	Organ-organ lain yang kita cek selanjutnya adalah
+93	Organ-organ lain yang kita cek selanjutnya adalah Ginjal, liver, dan singledo
+94	Organ-organ lain yang kita cek selanjutnya adalah Ginjal, liver, dan singledo
+95	Ginjal, liver, dan singledo
+96	Ginjal, liver, dan singledo
+97	Ginjal, liver, dan singledo
+98	Ginjal, liver, dan singledo Untuk ginjal dan livernya terlihat normal pada USG
+99	Ginjal, liver, dan singledo Untuk ginjal dan livernya terlihat normal pada USG
+100	Untuk ginjal dan livernya terlihat normal pada USG
+101	Untuk ginjal dan livernya terlihat normal pada USG
+102	Untuk ginjal dan livernya terlihat normal pada USG
+103	Untuk ginjal dan livernya terlihat normal pada USG
+104	Untuk ginjal dan livernya terlihat normal pada USG Sedangkan pada gelembung remahnya sangat penuh terisi cairan
+105	Untuk ginjal dan livernya terlihat normal pada USG Sedangkan pada gelembung remahnya sangat penuh terisi cairan
+106	Sedangkan pada gelembung remahnya sangat penuh terisi cairan
+107	Sedangkan pada gelembung remahnya sangat penuh terisi cairan
+108	Sedangkan pada gelembung remahnya sangat penuh terisi cairan
+109	Sedangkan pada gelembung remahnya sangat penuh terisi cairan
+110	Sedangkan pada gelembung remahnya sangat penuh terisi cairan Semakin lama asusia aku menghadapkan ini semakin
+111	Sedangkan pada gelembung remahnya sangat penuh terisi cairan Semakin lama asusia aku menghadapkan ini semakin
+112	Semakin lama asusia aku menghadapkan ini semakin
+113	Semakin lama asusia aku menghadapkan ini semakin
+114	Semakin lama asusia aku menghadapkan ini semakin
+115	Semakin lama asusia aku menghadapkan ini semakin
+116	Semakin lama asusia aku menghadapkan ini semakin Rumit
+117	Semakin lama asusia aku menghadapkan ini semakin Rumit Semoga otak aku encer terus ya
+118	Rumit Semoga otak aku encer terus ya
+119	Semoga otak aku encer terus ya
+120	Semoga otak aku encer terus ya
+121	Semoga otak aku encer terus ya
+122	Semoga otak aku encer terus ya
+123	[NO_SPEECH]

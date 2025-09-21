@@ -1,0 +1,119 @@
+0	Ini enteng, gak ada yang nge-tag aneh.
+1	Ini enteng, gak ada yang nge-tag aneh.
+2	Ini enteng, gak ada yang nge-tag aneh. Ada sabun muka sebojil ini.
+3	Ini enteng, gak ada yang nge-tag aneh. Ada sabun muka sebojil ini.
+4	Ada sabun muka sebojil ini.
+5	Ada sabun muka sebojil ini.
+6	Ada sabun muka sebojil ini. Sebojil itu, unyu-unyu itu.
+7	Sebojil itu, unyu-unyu itu.
+8	Sebojil itu, unyu-unyu itu.
+9	Sebojil itu, unyu-unyu itu.
+10	Sebojil itu, unyu-unyu itu.
+11	Sebojil itu, unyu-unyu itu. Siapa sangka mamanya ternyata sebesar ini.
+12	Siapa sangka mamanya ternyata sebesar ini.
+13	Siapa sangka mamanya ternyata sebesar ini.
+14	Siapa sangka mamanya ternyata sebesar ini.
+15	Siapa sangka mamanya ternyata sebesar ini.
+16	Siapa sangka mamanya ternyata sebesar ini. Ini gede banget, guys.
+17	Siapa sangka mamanya ternyata sebesar ini. Ini gede banget, guys.
+18	Ini gede banget, guys.
+19	Ini gede banget, guys. Ini adalah salah satu tahapan skincare rutin yang gue suka.
+20	Ini gede banget, guys. Ini adalah salah satu tahapan skincare rutin yang gue suka.
+21	Ini adalah salah satu tahapan skincare rutin yang gue suka.
+22	Ini adalah salah satu tahapan skincare rutin yang gue suka.
+23	Ini adalah salah satu tahapan skincare rutin yang gue suka.
+24	Ini adalah salah satu tahapan skincare rutin yang gue suka.
+25	Ini adalah salah satu tahapan skincare rutin yang gue suka.
+26	Ini adalah salah satu tahapan skincare rutin yang gue suka. Cuci muka.
+27	Ini adalah salah satu tahapan skincare rutin yang gue suka. Cuci muka.
+28	Cuci muka.
+29	Cuci muka.
+30	Yang bikin gue suka adalah karena dari wanginya.
+31	Yang bikin gue suka adalah karena dari wanginya.
+32	Yang bikin gue suka adalah karena dari wanginya.
+33	Yang bikin gue suka adalah karena dari wanginya.
+34	Yang bikin gue suka adalah karena dari wanginya.
+35	Yang bikin gue suka adalah karena dari wanginya. Kayak water lily.
+36	Yang bikin gue suka adalah karena dari wanginya. Kayak water lily.
+37	Kayak water lily.
+38	Kayak water lily.
+39	Kayak water lily. Gak tau deh, kayak wangi segar gitu, guys.
+40	Kayak water lily. Gak tau deh, kayak wangi segar gitu, guys.
+41	Gak tau deh, kayak wangi segar gitu, guys.
+42	Gak tau deh, kayak wangi segar gitu, guys.
+43	Gak tau deh, kayak wangi segar gitu, guys.
+44	Gak tau deh, kayak wangi segar gitu, guys. Tapi bukan wangi segar pada umumnya.
+45	Gak tau deh, kayak wangi segar gitu, guys. Tapi bukan wangi segar pada umumnya.
+46	Tapi bukan wangi segar pada umumnya.
+47	Tapi bukan wangi segar pada umumnya. Soalnya gue baru nemu di sabun muka ini.
+48	Tapi bukan wangi segar pada umumnya. Soalnya gue baru nemu di sabun muka ini.
+49	Soalnya gue baru nemu di sabun muka ini.
+50	Soalnya gue baru nemu di sabun muka ini.
+51	Soalnya gue baru nemu di sabun muka ini.
+52	Soalnya gue baru nemu di sabun muka ini. Karena gue yakin ya orang skincare-an bukan cuma mau.
+53	Soalnya gue baru nemu di sabun muka ini. Karena gue yakin ya orang skincare-an bukan cuma mau.
+54	Karena gue yakin ya orang skincare-an bukan cuma mau.
+55	Karena gue yakin ya orang skincare-an bukan cuma mau.
+56	Karena gue yakin ya orang skincare-an bukan cuma mau.
+57	Karena gue yakin ya orang skincare-an bukan cuma mau. Mau hasil aja.
+58	Karena gue yakin ya orang skincare-an bukan cuma mau. Mau hasil aja. Tapi mereka juga mengekspektasikan experience yang menyenangkan juga.
+59	Mau hasil aja. Tapi mereka juga mengekspektasikan experience yang menyenangkan juga.
+60	Tapi mereka juga mengekspektasikan experience yang menyenangkan juga.
+61	Tapi mereka juga mengekspektasikan experience yang menyenangkan juga.
+62	Tapi mereka juga mengekspektasikan experience yang menyenangkan juga.
+63	Tapi mereka juga mengekspektasikan experience yang menyenangkan juga.
+64	Tapi mereka juga mengekspektasikan experience yang menyenangkan juga.
+65	Tapi mereka juga mengekspektasikan experience yang menyenangkan juga.
+66	Tapi mereka juga mengekspektasikan experience yang menyenangkan juga.
+67	Tapi mereka juga mengekspektasikan experience yang menyenangkan juga. Makanya produk itu ada inovasi-inovasinya.
+68	Makanya produk itu ada inovasi-inovasinya.
+69	Makanya produk itu ada inovasi-inovasinya.
+70	Makanya produk itu ada inovasi-inovasinya.
+71	Makanya produk itu ada inovasi-inovasinya. Ada masker peeling.
+72	Makanya produk itu ada inovasi-inovasinya. Ada masker peeling.
+73	Ada masker peeling.
+74	Ada masker peeling. Ada masker anu.
+75	Ada masker peeling. Ada masker anu.
+76	Ada masker anu.
+77	Ada masker anu.
+78	Ada masker anu. Ada serum ini.
+79	Ada serum ini.
+80	Ada serum ini. Gak cuma kayak, oh mencerahkan doang.
+81	Ada serum ini. Gak cuma kayak, oh mencerahkan doang.
+82	Gak cuma kayak, oh mencerahkan doang.
+83	Gak cuma kayak, oh mencerahkan doang.
+84	Gak cuma kayak, oh mencerahkan doang. Untuk daya bersihnya, oke.
+85	Gak cuma kayak, oh mencerahkan doang. Untuk daya bersihnya, oke.
+86	Untuk daya bersihnya, oke.
+87	Untuk daya bersihnya, oke. Jadi dia membersihkan.
+88	Untuk daya bersihnya, oke. Jadi dia membersihkan.
+89	Jadi dia membersihkan.
+90	Jadi dia membersihkan. Selayaknya sabun cuci muka.
+91	Jadi dia membersihkan. Selayaknya sabun cuci muka.
+92	Selayaknya sabun cuci muka.
+93	Selayaknya sabun cuci muka.
+94	Selayaknya sabun cuci muka. Gak ada rasa kering.
+95	Selayaknya sabun cuci muka. Gak ada rasa kering.
+96	Gak ada rasa kering. Wajah terasa bersih.
+97	Gak ada rasa kering. Wajah terasa bersih.
+98	Wajah terasa bersih. Isinya 150ml.
+99	Wajah terasa bersih. Isinya 150ml.
+100	Isinya 150ml. Walaupun gede.
+101	Isinya 150ml. Walaupun gede.
+102	Walaupun gede. Dia sebenernya kayak langsing gitu.
+103	Walaupun gede. Dia sebenernya kayak langsing gitu.
+104	Dia sebenernya kayak langsing gitu.
+105	Dia sebenernya kayak langsing gitu. Jadi kayak bodong pet rasanya.
+106	Dia sebenernya kayak langsing gitu. Jadi kayak bodong pet rasanya.
+107	Jadi kayak bodong pet rasanya.
+108	Jadi kayak bodong pet rasanya. Kalo lo paling suka skincare-an tahap lagi ngapain sih?
+109	Kalo lo paling suka skincare-an tahap lagi ngapain sih?
+110	Kalo lo paling suka skincare-an tahap lagi ngapain sih?
+111	Kalo lo paling suka skincare-an tahap lagi ngapain sih?
+112	Kalo lo paling suka skincare-an tahap lagi ngapain sih?
+113	Kalo lo paling suka skincare-an tahap lagi ngapain sih?
+114	Kalo lo paling suka skincare-an tahap lagi ngapain sih? Coba komen.
+115	Kalo lo paling suka skincare-an tahap lagi ngapain sih? Coba komen.
+116	Coba komen.
+117	Sumpah.
+118	Sumpah.

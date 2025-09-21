@@ -1,0 +1,179 @@
+0	Bensin Ron 98 dari merek berbeda, kalau kita coba tarik-tarikan drag kira-kira hasilnya beda nggak sih?
+1	Bensin Ron 98 dari merek berbeda, kalau kita coba tarik-tarikan drag kira-kira hasilnya beda nggak sih?
+2	Bensin Ron 98 dari merek berbeda, kalau kita coba tarik-tarikan drag kira-kira hasilnya beda nggak sih?
+3	Bensin Ron 98 dari merek berbeda, kalau kita coba tarik-tarikan drag kira-kira hasilnya beda nggak sih?
+4	Bensin Ron 98 dari merek berbeda, kalau kita coba tarik-tarikan drag kira-kira hasilnya beda nggak sih?
+5	Bensin Ron 98 dari merek berbeda, kalau kita coba tarik-tarikan drag kira-kira hasilnya beda nggak sih?
+6	Bensin Ron 98 dari merek berbeda, kalau kita coba tarik-tarikan drag kira-kira hasilnya beda nggak sih?
+7	Bensin Ron 98 dari merek berbeda, kalau kita coba tarik-tarikan drag kira-kira hasilnya beda nggak sih?
+8	Bensin Ron 98 dari merek berbeda, kalau kita coba tarik-tarikan drag kira-kira hasilnya beda nggak sih?
+9	Bensin Ron 98 dari merek berbeda, kalau kita coba tarik-tarikan drag kira-kira hasilnya beda nggak sih? Marki Copting.
+10	Bensin Ron 98 dari merek berbeda, kalau kita coba tarik-tarikan drag kira-kira hasilnya beda nggak sih? Marki Copting.
+11	Marki Copting.
+12	Marki Copting.
+13	[NO_SPEECH]
+14	Mobilnya satu, drivernya satu, dan sebelumnya udah kita kuras dulu bensinnya untuk diisi.
+15	Mobilnya satu, drivernya satu, dan sebelumnya udah kita kuras dulu bensinnya untuk diisi.
+16	Mobilnya satu, drivernya satu, dan sebelumnya udah kita kuras dulu bensinnya untuk diisi.
+17	Mobilnya satu, drivernya satu, dan sebelumnya udah kita kuras dulu bensinnya untuk diisi.
+18	Mobilnya satu, drivernya satu, dan sebelumnya udah kita kuras dulu bensinnya untuk diisi.
+19	Mobilnya satu, drivernya satu, dan sebelumnya udah kita kuras dulu bensinnya untuk diisi.
+20	Mobilnya satu, drivernya satu, dan sebelumnya udah kita kuras dulu bensinnya untuk diisi.
+21	Mobilnya satu, drivernya satu, dan sebelumnya udah kita kuras dulu bensinnya untuk diisi.
+22	Mobilnya satu, drivernya satu, dan sebelumnya udah kita kuras dulu bensinnya untuk diisi.
+23	Mobilnya satu, drivernya satu, dan sebelumnya udah kita kuras dulu bensinnya untuk diisi. Pertama X Turbo dan kita ambil 5x data.
+24	Mobilnya satu, drivernya satu, dan sebelumnya udah kita kuras dulu bensinnya untuk diisi. Pertama X Turbo dan kita ambil 5x data.
+25	Pertama X Turbo dan kita ambil 5x data.
+26	Pertama X Turbo dan kita ambil 5x data.
+27	Pertama X Turbo dan kita ambil 5x data.
+28	Pertama X Turbo dan kita ambil 5x data.
+29	Pertama X Turbo dan kita ambil 5x data. Nah udah gitu dari tekanan angin bannya, jumlah bahan bakarnya itu disamain.
+30	Nah udah gitu dari tekanan angin bannya, jumlah bahan bakarnya itu disamain.
+31	Nah udah gitu dari tekanan angin bannya, jumlah bahan bakarnya itu disamain.
+32	Nah udah gitu dari tekanan angin bannya, jumlah bahan bakarnya itu disamain.
+33	Nah udah gitu dari tekanan angin bannya, jumlah bahan bakarnya itu disamain.
+34	Nah udah gitu dari tekanan angin bannya, jumlah bahan bakarnya itu disamain.
+35	Nah udah gitu dari tekanan angin bannya, jumlah bahan bakarnya itu disamain.
+36	Nah udah gitu dari tekanan angin bannya, jumlah bahan bakarnya itu disamain. Dan akan kita coba di kondisi yang sama juga.
+37	Nah udah gitu dari tekanan angin bannya, jumlah bahan bakarnya itu disamain. Dan akan kita coba di kondisi yang sama juga.
+38	Dan akan kita coba di kondisi yang sama juga.
+39	Dan akan kita coba di kondisi yang sama juga.
+40	Dan akan kita coba di kondisi yang sama juga.
+41	Dan akan kita coba di kondisi yang sama juga.
+42	Dan akan kita coba di kondisi yang sama juga. Jadi langsung aja, tarik mang!
+43	Dan akan kita coba di kondisi yang sama juga. Jadi langsung aja, tarik mang!
+44	Jadi langsung aja, tarik mang!
+45	Jadi langsung aja, tarik mang! 
+46	Jadi langsung aja, tarik mang! 
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	Dari set pertama dengan pertama X Turbo, kita dapet akselerasi 0-100 paling cepat di angka 5,44 detik.
+56	Dari set pertama dengan pertama X Turbo, kita dapet akselerasi 0-100 paling cepat di angka 5,44 detik.
+57	Dari set pertama dengan pertama X Turbo, kita dapet akselerasi 0-100 paling cepat di angka 5,44 detik.
+58	Dari set pertama dengan pertama X Turbo, kita dapet akselerasi 0-100 paling cepat di angka 5,44 detik.
+59	Dari set pertama dengan pertama X Turbo, kita dapet akselerasi 0-100 paling cepat di angka 5,44 detik.
+60	Dari set pertama dengan pertama X Turbo, kita dapet akselerasi 0-100 paling cepat di angka 5,44 detik.
+61	Dari set pertama dengan pertama X Turbo, kita dapet akselerasi 0-100 paling cepat di angka 5,44 detik.
+62	Dari set pertama dengan pertama X Turbo, kita dapet akselerasi 0-100 paling cepat di angka 5,44 detik.
+63	Dari set pertama dengan pertama X Turbo, kita dapet akselerasi 0-100 paling cepat di angka 5,44 detik.
+64	Dari set pertama dengan pertama X Turbo, kita dapet akselerasi 0-100 paling cepat di angka 5,44 detik.
+65	Dari set pertama dengan pertama X Turbo, kita dapet akselerasi 0-100 paling cepat di angka 5,44 detik.
+66	Dari set pertama dengan pertama X Turbo, kita dapet akselerasi 0-100 paling cepat di angka 5,44 detik.
+67	Dari set pertama dengan pertama X Turbo, kita dapet akselerasi 0-100 paling cepat di angka 5,44 detik.
+68	Dari set pertama dengan pertama X Turbo, kita dapet akselerasi 0-100 paling cepat di angka 5,44 detik. Dan lari 201 meter tercepat di 8,81 detik.
+69	Dari set pertama dengan pertama X Turbo, kita dapet akselerasi 0-100 paling cepat di angka 5,44 detik. Dan lari 201 meter tercepat di 8,81 detik.
+70	Dan lari 201 meter tercepat di 8,81 detik.
+71	Dan lari 201 meter tercepat di 8,81 detik.
+72	Dan lari 201 meter tercepat di 8,81 detik.
+73	Dan lari 201 meter tercepat di 8,81 detik.
+74	Dan lari 201 meter tercepat di 8,81 detik.
+75	Dan lari 201 meter tercepat di 8,81 detik. Nah di rata-rata dari total 5 tarikan, average 0-100 ada di 5,74 detik.
+76	Nah di rata-rata dari total 5 tarikan, average 0-100 ada di 5,74 detik.
+77	Nah di rata-rata dari total 5 tarikan, average 0-100 ada di 5,74 detik.
+78	Nah di rata-rata dari total 5 tarikan, average 0-100 ada di 5,74 detik.
+79	Nah di rata-rata dari total 5 tarikan, average 0-100 ada di 5,74 detik.
+80	Nah di rata-rata dari total 5 tarikan, average 0-100 ada di 5,74 detik.
+81	Nah di rata-rata dari total 5 tarikan, average 0-100 ada di 5,74 detik.
+82	Nah di rata-rata dari total 5 tarikan, average 0-100 ada di 5,74 detik.
+83	Nah di rata-rata dari total 5 tarikan, average 0-100 ada di 5,74 detik.
+84	Nah di rata-rata dari total 5 tarikan, average 0-100 ada di 5,74 detik. Sementara lari 201 meter dapet 8,97 detik.
+85	Nah di rata-rata dari total 5 tarikan, average 0-100 ada di 5,74 detik. Sementara lari 201 meter dapet 8,97 detik.
+86	Sementara lari 201 meter dapet 8,97 detik.
+87	Sementara lari 201 meter dapet 8,97 detik.
+88	Sementara lari 201 meter dapet 8,97 detik.
+89	Sementara lari 201 meter dapet 8,97 detik.
+90	Sementara lari 201 meter dapet 8,97 detik.
+91	Sementara lari 201 meter dapet 8,97 detik. Abis run pertama kita kuras lagi untuk kemudian nanti diisi sama Shelby Power Nitro Plus.
+92	Sementara lari 201 meter dapet 8,97 detik. Abis run pertama kita kuras lagi untuk kemudian nanti diisi sama Shelby Power Nitro Plus.
+93	Abis run pertama kita kuras lagi untuk kemudian nanti diisi sama Shelby Power Nitro Plus.
+94	Abis run pertama kita kuras lagi untuk kemudian nanti diisi sama Shelby Power Nitro Plus.
+95	Abis run pertama kita kuras lagi untuk kemudian nanti diisi sama Shelby Power Nitro Plus.
+96	Abis run pertama kita kuras lagi untuk kemudian nanti diisi sama Shelby Power Nitro Plus.
+97	Abis run pertama kita kuras lagi untuk kemudian nanti diisi sama Shelby Power Nitro Plus.
+98	Abis run pertama kita kuras lagi untuk kemudian nanti diisi sama Shelby Power Nitro Plus.
+99	Abis run pertama kita kuras lagi untuk kemudian nanti diisi sama Shelby Power Nitro Plus.
+100	Abis run pertama kita kuras lagi untuk kemudian nanti diisi sama Shelby Power Nitro Plus. Udah gitu, akan dipake jalan-jalan dulu.
+101	Abis run pertama kita kuras lagi untuk kemudian nanti diisi sama Shelby Power Nitro Plus. Udah gitu, akan dipake jalan-jalan dulu.
+102	Udah gitu, akan dipake jalan-jalan dulu.
+103	Udah gitu, akan dipake jalan-jalan dulu.
+104	Udah gitu, akan dipake jalan-jalan dulu. Biar bensinnya itu sirkulasi di sistem.
+105	Udah gitu, akan dipake jalan-jalan dulu. Biar bensinnya itu sirkulasi di sistem.
+106	Biar bensinnya itu sirkulasi di sistem.
+107	Biar bensinnya itu sirkulasi di sistem.
+108	Biar bensinnya itu sirkulasi di sistem.
+109	Biar bensinnya itu sirkulasi di sistem. Jadi abis ini kita pake drag.
+110	Biar bensinnya itu sirkulasi di sistem. Jadi abis ini kita pake drag.
+111	Jadi abis ini kita pake drag.
+112	Jadi abis ini kita pake drag.
+113	Jadi abis ini kita pake drag. Day 2, kondisinya untungnya sama kayak kemarin.
+114	Jadi abis ini kita pake drag. Day 2, kondisinya untungnya sama kayak kemarin.
+115	Day 2, kondisinya untungnya sama kayak kemarin.
+116	Day 2, kondisinya untungnya sama kayak kemarin.
+117	Day 2, kondisinya untungnya sama kayak kemarin.
+118	Day 2, kondisinya untungnya sama kayak kemarin.
+119	Day 2, kondisinya untungnya sama kayak kemarin. Terus tekanan angin ban udah disamain juga.
+120	Day 2, kondisinya untungnya sama kayak kemarin. Terus tekanan angin ban udah disamain juga.
+121	Terus tekanan angin ban udah disamain juga.
+122	Terus tekanan angin ban udah disamain juga.
+123	Terus tekanan angin ban udah disamain juga. Jadi langsung aja kita tes pake Shelby Power Nitro Plus.
+124	Terus tekanan angin ban udah disamain juga. Jadi langsung aja kita tes pake Shelby Power Nitro Plus.
+125	Jadi langsung aja kita tes pake Shelby Power Nitro Plus.
+126	Jadi langsung aja kita tes pake Shelby Power Nitro Plus.
+127	Jadi langsung aja kita tes pake Shelby Power Nitro Plus.
+128	Jadi langsung aja kita tes pake Shelby Power Nitro Plus.
+129	Jadi langsung aja kita tes pake Shelby Power Nitro Plus.
+130	Jadi langsung aja kita tes pake Shelby Power Nitro Plus. Tarik mang!
+131	Jadi langsung aja kita tes pake Shelby Power Nitro Plus. Tarik mang!
+132	Tarik mang!
+133	Tarik mang! Well, kondisinya udah kita usahain semirip mungkin sampai waktu dan lokasi ngambil datanya.
+134	Well, kondisinya udah kita usahain semirip mungkin sampai waktu dan lokasi ngambil datanya.
+135	Well, kondisinya udah kita usahain semirip mungkin sampai waktu dan lokasi ngambil datanya.
+136	Well, kondisinya udah kita usahain semirip mungkin sampai waktu dan lokasi ngambil datanya.
+137	Well, kondisinya udah kita usahain semirip mungkin sampai waktu dan lokasi ngambil datanya.
+138	Well, kondisinya udah kita usahain semirip mungkin sampai waktu dan lokasi ngambil datanya.
+139	Well, kondisinya udah kita usahain semirip mungkin sampai waktu dan lokasi ngambil datanya.
+140	Well, kondisinya udah kita usahain semirip mungkin sampai waktu dan lokasi ngambil datanya.
+141	Well, kondisinya udah kita usahain semirip mungkin sampai waktu dan lokasi ngambil datanya. Liat hasil ngegeber pake Shelby, best time dan average ternyata lebih cepet dari tes awal.
+142	Liat hasil ngegeber pake Shelby, best time dan average ternyata lebih cepet dari tes awal.
+143	Liat hasil ngegeber pake Shelby, best time dan average ternyata lebih cepet dari tes awal.
+144	Liat hasil ngegeber pake Shelby, best time dan average ternyata lebih cepet dari tes awal.
+145	Liat hasil ngegeber pake Shelby, best time dan average ternyata lebih cepet dari tes awal.
+146	Liat hasil ngegeber pake Shelby, best time dan average ternyata lebih cepet dari tes awal.
+147	Liat hasil ngegeber pake Shelby, best time dan average ternyata lebih cepet dari tes awal.
+148	Liat hasil ngegeber pake Shelby, best time dan average ternyata lebih cepet dari tes awal.
+149	Liat hasil ngegeber pake Shelby, best time dan average ternyata lebih cepet dari tes awal.
+150	Liat hasil ngegeber pake Shelby, best time dan average ternyata lebih cepet dari tes awal.
+151	Liat hasil ngegeber pake Shelby, best time dan average ternyata lebih cepet dari tes awal. Susitnya emang tipis.
+152	Susitnya emang tipis.
+153	Susitnya emang tipis. Tapi yang menarik kalau ditilik lagi, angkanya itu lebih konsisten dari tarikan awal sampai ke akhir.
+154	Susitnya emang tipis. Tapi yang menarik kalau ditilik lagi, angkanya itu lebih konsisten dari tarikan awal sampai ke akhir.
+155	Tapi yang menarik kalau ditilik lagi, angkanya itu lebih konsisten dari tarikan awal sampai ke akhir.
+156	Tapi yang menarik kalau ditilik lagi, angkanya itu lebih konsisten dari tarikan awal sampai ke akhir.
+157	Tapi yang menarik kalau ditilik lagi, angkanya itu lebih konsisten dari tarikan awal sampai ke akhir.
+158	Tapi yang menarik kalau ditilik lagi, angkanya itu lebih konsisten dari tarikan awal sampai ke akhir.
+159	Tapi yang menarik kalau ditilik lagi, angkanya itu lebih konsisten dari tarikan awal sampai ke akhir.
+160	Tapi yang menarik kalau ditilik lagi, angkanya itu lebih konsisten dari tarikan awal sampai ke akhir.
+161	Tapi yang menarik kalau ditilik lagi, angkanya itu lebih konsisten dari tarikan awal sampai ke akhir.
+162	Tapi yang menarik kalau ditilik lagi, angkanya itu lebih konsisten dari tarikan awal sampai ke akhir.
+163	Tapi yang menarik kalau ditilik lagi, angkanya itu lebih konsisten dari tarikan awal sampai ke akhir. Gimana? Sesuai ekspektasi nggak?
+164	Tapi yang menarik kalau ditilik lagi, angkanya itu lebih konsisten dari tarikan awal sampai ke akhir. Gimana? Sesuai ekspektasi nggak?
+165	Gimana? Sesuai ekspektasi nggak?
+166	Gimana? Sesuai ekspektasi nggak?
+167	Gimana? Sesuai ekspektasi nggak? Untuk lebih lengkapnya, nonton aja di channelnya Mauladin, oke?
+168	Gimana? Sesuai ekspektasi nggak? Untuk lebih lengkapnya, nonton aja di channelnya Mauladin, oke?
+169	Untuk lebih lengkapnya, nonton aja di channelnya Mauladin, oke?
+170	Untuk lebih lengkapnya, nonton aja di channelnya Mauladin, oke?
+171	Untuk lebih lengkapnya, nonton aja di channelnya Mauladin, oke?
+172	Untuk lebih lengkapnya, nonton aja di channelnya Mauladin, oke? Kalau kalian sendiri, pake yang mana nih?
+173	Untuk lebih lengkapnya, nonton aja di channelnya Mauladin, oke? Kalau kalian sendiri, pake yang mana nih?
+174	Kalau kalian sendiri, pake yang mana nih?
+175	Kalau kalian sendiri, pake yang mana nih?
+176	Kalau kalian sendiri, pake yang mana nih?
+177	Kalau kalian sendiri, pake yang mana nih?
+178	[NO_SPEECH]

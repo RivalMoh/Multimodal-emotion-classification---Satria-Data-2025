@@ -1,0 +1,118 @@
+0	Eh apa kabar? Halo Coach
+1	Eh apa kabar? Halo Coach Ya Andre, mantap
+2	Halo Coach Ya Andre, mantap
+3	Ya Andre, mantap
+4	Ya Andre, mantap
+5	Ya Andre, mantap Tian Hari ini kita mau melatih drive volley
+6	Ya Andre, mantap Tian Hari ini kita mau melatih drive volley
+7	Hari ini kita mau melatih drive volley
+8	Hari ini kita mau melatih drive volley
+9	Hari ini kita mau melatih drive volley
+10	Hari ini kita mau melatih drive volley
+11	Hari ini kita mau melatih drive volley Drive volley apa aja yang lo tau sih?
+12	Hari ini kita mau melatih drive volley Drive volley apa aja yang lo tau sih?
+13	Drive volley apa aja yang lo tau sih?
+14	Drive volley apa aja yang lo tau sih? Forehand
+15	Drive volley apa aja yang lo tau sih? Forehand Forehand? Iya
+16	Forehand Forehand? Iya
+17	Forehand? Iya Yang jelas volley, cuman dalam bentuk drive
+18	Forehand? Iya Yang jelas volley, cuman dalam bentuk drive
+19	Yang jelas volley, cuman dalam bentuk drive
+20	Yang jelas volley, cuman dalam bentuk drive
+21	Yang jelas volley, cuman dalam bentuk drive Gunaannya seperti apa?
+22	Yang jelas volley, cuman dalam bentuk drive Gunaannya seperti apa?
+23	Gunaannya seperti apa? Bola-bola tanggung
+24	Gunaannya seperti apa? Bola-bola tanggung
+25	Bola-bola tanggung Hah? Nggak usah tunggu mantul
+26	Bola-bola tanggung Hah? Nggak usah tunggu mantul
+27	Nggak usah tunggu mantul Kalau bisa dibuat kill
+28	Nggak usah tunggu mantul Kalau bisa dibuat kill
+29	Kalau bisa dibuat kill
+30	Kalau bisa dibuat kill Eh buat apa namanya?
+31	Kalau bisa dibuat kill Eh buat apa namanya? Kill Buat kill?
+32	Eh buat apa namanya? Kill Buat kill? Kita coba ya
+33	Buat kill? Kita coba ya
+34	Kita coba ya Hahaha
+35	Kita coba ya Hahaha
+36	Hahaha
+37	[NO_SPEECH]
+38	What?
+39	What? Oh, fast
+40	What? Oh, fast
+41	Oh, fast You gotta fast
+42	Oh, fast You gotta fast
+43	You gotta fast Ready?
+44	Ready?
+45	Ready?
+46	[NO_SPEECH]
+47	Bagus
+48	Bagus Apa sih yang lo rasain kalau mau drive volley?
+49	Bagus Apa sih yang lo rasain kalau mau drive volley?
+50	Apa sih yang lo rasain kalau mau drive volley?
+51	Apa sih yang lo rasain kalau mau drive volley?
+52	Apa sih yang lo rasain kalau mau drive volley? Gue jujur masih bingung kakinya Coach
+53	Gue jujur masih bingung kakinya Coach
+54	Gue jujur masih bingung kakinya Coach
+55	Gue jujur masih bingung kakinya Coach You gotta go move forward ya
+56	Gue jujur masih bingung kakinya Coach You gotta go move forward ya
+57	You gotta go move forward ya
+58	You gotta go move forward ya Loading with kaki sebelah kanan
+59	You gotta go move forward ya Loading with kaki sebelah kanan
+60	Loading with kaki sebelah kanan
+61	Loading with kaki sebelah kanan
+62	Loading with kaki sebelah kanan Loading
+63	Loading with kaki sebelah kanan Loading Terus langsung transfer body forward
+64	Loading Terus langsung transfer body forward
+65	Terus langsung transfer body forward
+66	Terus langsung transfer body forward Landed
+67	Terus langsung transfer body forward Landed Yang kaki kiri
+68	Landed Yang kaki kiri
+69	Landed Yang kaki kiri
+70	Yang kaki kiri That's it
+71	Yang kaki kiri That's it
+72	That's it Go
+73	That's it Go
+74	Go
+75	Go Yes
+76	Yes
+77	Yes Bagus, lagi
+78	Bagus, lagi Go
+79	Bagus, lagi Go
+80	Go Yes
+81	Yes Bagus, lagi
+82	Yes Bagus, lagi
+83	Bagus, lagi Go
+84	Bagus, lagi Go Setelah setahun, sembilan bulan, empat minggu gue main
+85	Go Setelah setahun, sembilan bulan, empat minggu gue main
+86	Setelah setahun, sembilan bulan, empat minggu gue main
+87	Setelah setahun, sembilan bulan, empat minggu gue main
+88	Setelah setahun, sembilan bulan, empat minggu gue main
+89	Setelah setahun, sembilan bulan, empat minggu gue main
+90	Setelah setahun, sembilan bulan, empat minggu gue main Ini gue belum pernah nih Coach dapet drill kayak gini
+91	Setelah setahun, sembilan bulan, empat minggu gue main Ini gue belum pernah nih Coach dapet drill kayak gini
+92	Ini gue belum pernah nih Coach dapet drill kayak gini
+93	Ini gue belum pernah nih Coach dapet drill kayak gini
+94	Ini gue belum pernah nih Coach dapet drill kayak gini Ini satu hal yang baru dan masih asing banget buat gue
+95	Ini gue belum pernah nih Coach dapet drill kayak gini Ini satu hal yang baru dan masih asing banget buat gue
+96	Ini satu hal yang baru dan masih asing banget buat gue
+97	Ini satu hal yang baru dan masih asing banget buat gue
+98	Ini satu hal yang baru dan masih asing banget buat gue
+99	Ini satu hal yang baru dan masih asing banget buat gue Kita kan harus mempelajari nih
+100	Ini satu hal yang baru dan masih asing banget buat gue Kita kan harus mempelajari nih
+101	Kita kan harus mempelajari nih Iya
+102	Kita kan harus mempelajari nih Iya Mempelajari
+103	Kita kan harus mempelajari nih Iya Mempelajari Lo harus ikut membutuhkan stamina yang lebih ya
+104	Mempelajari Lo harus ikut membutuhkan stamina yang lebih ya
+105	Lo harus ikut membutuhkan stamina yang lebih ya
+106	Lo harus ikut membutuhkan stamina yang lebih ya Oh iya harus
+107	Lo harus ikut membutuhkan stamina yang lebih ya Oh iya harus Oke
+108	Oh iya harus Oke Nantikan video gue yang lain
+109	Oke Nantikan video gue yang lain
+110	Nantikan video gue yang lain I'll see you guys later
+111	Nantikan video gue yang lain I'll see you guys later
+112	I'll see you guys later
+113	I'll see you guys later Ciao
+114	I'll see you guys later Ciao Ciao
+115	Ciao Ciao
+116	Ciao
+117	Ciao

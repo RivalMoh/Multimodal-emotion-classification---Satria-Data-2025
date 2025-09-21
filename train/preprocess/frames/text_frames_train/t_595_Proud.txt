@@ -1,0 +1,64 @@
+0	Rekomendasi skin care yang harganya cuma 10.000-30.000an aja.
+1	Rekomendasi skin care yang harganya cuma 10.000-30.000an aja.
+2	Rekomendasi skin care yang harganya cuma 10.000-30.000an aja.
+3	Rekomendasi skin care yang harganya cuma 10.000-30.000an aja.
+4	Rekomendasi skin care yang harganya cuma 10.000-30.000an aja.
+5	Rekomendasi skin care yang harganya cuma 10.000-30.000an aja.
+6	Rekomendasi skin care yang harganya cuma 10.000-30.000an aja. Ini yang harganya 10.000an, ini yang harganya 20.000an, dan ini yang harganya 30.000an.
+7	Rekomendasi skin care yang harganya cuma 10.000-30.000an aja. Ini yang harganya 10.000an, ini yang harganya 20.000an, dan ini yang harganya 30.000an.
+8	Ini yang harganya 10.000an, ini yang harganya 20.000an, dan ini yang harganya 30.000an.
+9	Ini yang harganya 10.000an, ini yang harganya 20.000an, dan ini yang harganya 30.000an.
+10	Ini yang harganya 10.000an, ini yang harganya 20.000an, dan ini yang harganya 30.000an.
+11	Ini yang harganya 10.000an, ini yang harganya 20.000an, dan ini yang harganya 30.000an.
+12	Ini yang harganya 10.000an, ini yang harganya 20.000an, dan ini yang harganya 30.000an.
+13	Ini yang harganya 10.000an, ini yang harganya 20.000an, dan ini yang harganya 30.000an.
+14	Ini yang harganya 10.000an, ini yang harganya 20.000an, dan ini yang harganya 30.000an.
+15	Ini yang harganya 10.000an, ini yang harganya 20.000an, dan ini yang harganya 30.000an. Nah, kalau ditanya favorit aku yang mana, sekarang aku lagi suka banget sama serum ini.
+16	Ini yang harganya 10.000an, ini yang harganya 20.000an, dan ini yang harganya 30.000an. Nah, kalau ditanya favorit aku yang mana, sekarang aku lagi suka banget sama serum ini.
+17	Nah, kalau ditanya favorit aku yang mana, sekarang aku lagi suka banget sama serum ini.
+18	Nah, kalau ditanya favorit aku yang mana, sekarang aku lagi suka banget sama serum ini.
+19	Nah, kalau ditanya favorit aku yang mana, sekarang aku lagi suka banget sama serum ini.
+20	Nah, kalau ditanya favorit aku yang mana, sekarang aku lagi suka banget sama serum ini.
+21	Nah, kalau ditanya favorit aku yang mana, sekarang aku lagi suka banget sama serum ini.
+22	Nah, kalau ditanya favorit aku yang mana, sekarang aku lagi suka banget sama serum ini.
+23	Nah, kalau ditanya favorit aku yang mana, sekarang aku lagi suka banget sama serum ini. White Story Brightening Face Serum.
+24	White Story Brightening Face Serum.
+25	White Story Brightening Face Serum.
+26	White Story Brightening Face Serum. Fokus dari serum ini tuh untuk mencerahkan dan memudarkan bekas jerawat.
+27	White Story Brightening Face Serum. Fokus dari serum ini tuh untuk mencerahkan dan memudarkan bekas jerawat.
+28	Fokus dari serum ini tuh untuk mencerahkan dan memudarkan bekas jerawat.
+29	Fokus dari serum ini tuh untuk mencerahkan dan memudarkan bekas jerawat.
+30	Fokus dari serum ini tuh untuk mencerahkan dan memudarkan bekas jerawat.
+31	Fokus dari serum ini tuh untuk mencerahkan dan memudarkan bekas jerawat.
+32	Fokus dari serum ini tuh untuk mencerahkan dan memudarkan bekas jerawat. Dan aku bener-bener suka banget sama serum ini.
+33	Fokus dari serum ini tuh untuk mencerahkan dan memudarkan bekas jerawat. Dan aku bener-bener suka banget sama serum ini.
+34	Dan aku bener-bener suka banget sama serum ini.
+35	Dan aku bener-bener suka banget sama serum ini.
+36	Dan aku bener-bener suka banget sama serum ini. Saking sukanya, sekarang lagi pake botol kedua.
+37	Dan aku bener-bener suka banget sama serum ini. Saking sukanya, sekarang lagi pake botol kedua.
+38	Saking sukanya, sekarang lagi pake botol kedua.
+39	Saking sukanya, sekarang lagi pake botol kedua.
+40	Saking sukanya, sekarang lagi pake botol kedua.
+41	Saking sukanya, sekarang lagi pake botol kedua. Nah, kemudian tekstur dari serum ini enak banget.
+42	Nah, kemudian tekstur dari serum ini enak banget.
+43	Nah, kemudian tekstur dari serum ini enak banget.
+44	Nah, kemudian tekstur dari serum ini enak banget.
+45	Nah, kemudian tekstur dari serum ini enak banget. Caya, cepet nyara, peringat di kulit, dan gak berasa lengket juga.
+46	Nah, kemudian tekstur dari serum ini enak banget. Caya, cepet nyara, peringat di kulit, dan gak berasa lengket juga.
+47	Caya, cepet nyara, peringat di kulit, dan gak berasa lengket juga.
+48	Caya, cepet nyara, peringat di kulit, dan gak berasa lengket juga.
+49	Caya, cepet nyara, peringat di kulit, dan gak berasa lengket juga.
+50	Caya, cepet nyara, peringat di kulit, dan gak berasa lengket juga.
+51	Caya, cepet nyara, peringat di kulit, dan gak berasa lengket juga. Dan aku suka banget sama finishnya.
+52	Caya, cepet nyara, peringat di kulit, dan gak berasa lengket juga. Dan aku suka banget sama finishnya.
+53	Dan aku suka banget sama finishnya.
+54	Dan aku suka banget sama finishnya. Bikin kulit jadi plumpy dan glowing abis.
+55	Dan aku suka banget sama finishnya. Bikin kulit jadi plumpy dan glowing abis.
+56	Bikin kulit jadi plumpy dan glowing abis.
+57	Bikin kulit jadi plumpy dan glowing abis.
+58	Bikin kulit jadi plumpy dan glowing abis. Gimana? Tertarik mencobain?
+59	Bikin kulit jadi plumpy dan glowing abis. Gimana? Tertarik mencobain?
+60	Gimana? Tertarik mencobain?
+61	Gimana? Tertarik mencobain?
+62	Gimana? Tertarik mencobain?
+63	[NO_SPEECH]

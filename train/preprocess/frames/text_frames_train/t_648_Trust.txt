@@ -1,0 +1,137 @@
+0	Hai, di video kali ini aku mau nunjukin proses cryotherapy pada ikan.
+1	Hai, di video kali ini aku mau nunjukin proses cryotherapy pada ikan.
+2	Hai, di video kali ini aku mau nunjukin proses cryotherapy pada ikan.
+3	Hai, di video kali ini aku mau nunjukin proses cryotherapy pada ikan.
+4	Hai, di video kali ini aku mau nunjukin proses cryotherapy pada ikan.
+5	Hai, di video kali ini aku mau nunjukin proses cryotherapy pada ikan.
+6	Hai, di video kali ini aku mau nunjukin proses cryotherapy pada ikan. Biasanya cryotherapy digunakan untuk treatment pada kulit manusia atau mamalia.
+7	Hai, di video kali ini aku mau nunjukin proses cryotherapy pada ikan. Biasanya cryotherapy digunakan untuk treatment pada kulit manusia atau mamalia.
+8	Biasanya cryotherapy digunakan untuk treatment pada kulit manusia atau mamalia.
+9	Biasanya cryotherapy digunakan untuk treatment pada kulit manusia atau mamalia.
+10	Biasanya cryotherapy digunakan untuk treatment pada kulit manusia atau mamalia.
+11	Biasanya cryotherapy digunakan untuk treatment pada kulit manusia atau mamalia.
+12	Biasanya cryotherapy digunakan untuk treatment pada kulit manusia atau mamalia.
+13	Biasanya cryotherapy digunakan untuk treatment pada kulit manusia atau mamalia.
+14	Biasanya cryotherapy digunakan untuk treatment pada kulit manusia atau mamalia.
+15	Biasanya cryotherapy digunakan untuk treatment pada kulit manusia atau mamalia. Karena pada ikan sering sekali ada tonjolan pada bagian kulit yang sangat sulit hilang,
+16	Biasanya cryotherapy digunakan untuk treatment pada kulit manusia atau mamalia. Karena pada ikan sering sekali ada tonjolan pada bagian kulit yang sangat sulit hilang,
+17	Karena pada ikan sering sekali ada tonjolan pada bagian kulit yang sangat sulit hilang,
+18	Karena pada ikan sering sekali ada tonjolan pada bagian kulit yang sangat sulit hilang,
+19	Karena pada ikan sering sekali ada tonjolan pada bagian kulit yang sangat sulit hilang,
+20	Karena pada ikan sering sekali ada tonjolan pada bagian kulit yang sangat sulit hilang,
+21	Karena pada ikan sering sekali ada tonjolan pada bagian kulit yang sangat sulit hilang,
+22	Karena pada ikan sering sekali ada tonjolan pada bagian kulit yang sangat sulit hilang,
+23	Karena pada ikan sering sekali ada tonjolan pada bagian kulit yang sangat sulit hilang, jadi aku memakai metode cryotherapy ini pada ikan.
+24	Karena pada ikan sering sekali ada tonjolan pada bagian kulit yang sangat sulit hilang, jadi aku memakai metode cryotherapy ini pada ikan.
+25	jadi aku memakai metode cryotherapy ini pada ikan.
+26	jadi aku memakai metode cryotherapy ini pada ikan.
+27	jadi aku memakai metode cryotherapy ini pada ikan.
+28	jadi aku memakai metode cryotherapy ini pada ikan. Di luar negeri, metode ini sudah digunakan dari lama.
+29	jadi aku memakai metode cryotherapy ini pada ikan. Di luar negeri, metode ini sudah digunakan dari lama.
+30	Di luar negeri, metode ini sudah digunakan dari lama.
+31	Di luar negeri, metode ini sudah digunakan dari lama.
+32	Di luar negeri, metode ini sudah digunakan dari lama.
+33	Di luar negeri, metode ini sudah digunakan dari lama. Di Indonesia, sepertinya baru aku yang menggunakan metode ini untuk ikan.
+34	Di luar negeri, metode ini sudah digunakan dari lama. Di Indonesia, sepertinya baru aku yang menggunakan metode ini untuk ikan.
+35	Di Indonesia, sepertinya baru aku yang menggunakan metode ini untuk ikan.
+36	Di Indonesia, sepertinya baru aku yang menggunakan metode ini untuk ikan.
+37	Di Indonesia, sepertinya baru aku yang menggunakan metode ini untuk ikan.
+38	Di Indonesia, sepertinya baru aku yang menggunakan metode ini untuk ikan.
+39	Di Indonesia, sepertinya baru aku yang menggunakan metode ini untuk ikan.
+40	Di Indonesia, sepertinya baru aku yang menggunakan metode ini untuk ikan. Jadi, cryotherapy adalah tindakan medis yang menggunakan suhu dingin yang ekstrim
+41	Di Indonesia, sepertinya baru aku yang menggunakan metode ini untuk ikan. Jadi, cryotherapy adalah tindakan medis yang menggunakan suhu dingin yang ekstrim
+42	Jadi, cryotherapy adalah tindakan medis yang menggunakan suhu dingin yang ekstrim
+43	Jadi, cryotherapy adalah tindakan medis yang menggunakan suhu dingin yang ekstrim
+44	Jadi, cryotherapy adalah tindakan medis yang menggunakan suhu dingin yang ekstrim
+45	Jadi, cryotherapy adalah tindakan medis yang menggunakan suhu dingin yang ekstrim
+46	Jadi, cryotherapy adalah tindakan medis yang menggunakan suhu dingin yang ekstrim
+47	Jadi, cryotherapy adalah tindakan medis yang menggunakan suhu dingin yang ekstrim
+48	Jadi, cryotherapy adalah tindakan medis yang menggunakan suhu dingin yang ekstrim
+49	Jadi, cryotherapy adalah tindakan medis yang menggunakan suhu dingin yang ekstrim untuk membekukan dan mengangkat jaringan abnormal.
+50	Jadi, cryotherapy adalah tindakan medis yang menggunakan suhu dingin yang ekstrim untuk membekukan dan mengangkat jaringan abnormal.
+51	untuk membekukan dan mengangkat jaringan abnormal.
+52	untuk membekukan dan mengangkat jaringan abnormal.
+53	untuk membekukan dan mengangkat jaringan abnormal.
+54	untuk membekukan dan mengangkat jaringan abnormal. Cairan yang digunakan ini adalah nitrogen cair ya.
+55	untuk membekukan dan mengangkat jaringan abnormal. Cairan yang digunakan ini adalah nitrogen cair ya.
+56	Cairan yang digunakan ini adalah nitrogen cair ya.
+57	Cairan yang digunakan ini adalah nitrogen cair ya.
+58	Cairan yang digunakan ini adalah nitrogen cair ya.
+59	Cairan yang digunakan ini adalah nitrogen cair ya.
+60	Cairan yang digunakan ini adalah nitrogen cair ya. Jaringan abnormal seperti ini yang tumbuh pada kulit ikan biasanya akan tumbuh kembali
+61	Cairan yang digunakan ini adalah nitrogen cair ya. Jaringan abnormal seperti ini yang tumbuh pada kulit ikan biasanya akan tumbuh kembali
+62	Jaringan abnormal seperti ini yang tumbuh pada kulit ikan biasanya akan tumbuh kembali
+63	Jaringan abnormal seperti ini yang tumbuh pada kulit ikan biasanya akan tumbuh kembali
+64	Jaringan abnormal seperti ini yang tumbuh pada kulit ikan biasanya akan tumbuh kembali
+65	Jaringan abnormal seperti ini yang tumbuh pada kulit ikan biasanya akan tumbuh kembali
+66	Jaringan abnormal seperti ini yang tumbuh pada kulit ikan biasanya akan tumbuh kembali
+67	Jaringan abnormal seperti ini yang tumbuh pada kulit ikan biasanya akan tumbuh kembali
+68	Jaringan abnormal seperti ini yang tumbuh pada kulit ikan biasanya akan tumbuh kembali
+69	Jaringan abnormal seperti ini yang tumbuh pada kulit ikan biasanya akan tumbuh kembali walaupun sudah dipotong menggunakan gunting atau skalpel.
+70	Jaringan abnormal seperti ini yang tumbuh pada kulit ikan biasanya akan tumbuh kembali walaupun sudah dipotong menggunakan gunting atau skalpel.
+71	walaupun sudah dipotong menggunakan gunting atau skalpel.
+72	walaupun sudah dipotong menggunakan gunting atau skalpel.
+73	walaupun sudah dipotong menggunakan gunting atau skalpel.
+74	walaupun sudah dipotong menggunakan gunting atau skalpel.
+75	walaupun sudah dipotong menggunakan gunting atau skalpel. Itulah mengapa penggunaan metode cryotherapy ini aku rasa sangat cocok aku gunakan
+76	walaupun sudah dipotong menggunakan gunting atau skalpel. Itulah mengapa penggunaan metode cryotherapy ini aku rasa sangat cocok aku gunakan
+77	Itulah mengapa penggunaan metode cryotherapy ini aku rasa sangat cocok aku gunakan
+78	Itulah mengapa penggunaan metode cryotherapy ini aku rasa sangat cocok aku gunakan
+79	Itulah mengapa penggunaan metode cryotherapy ini aku rasa sangat cocok aku gunakan
+80	Itulah mengapa penggunaan metode cryotherapy ini aku rasa sangat cocok aku gunakan
+81	Itulah mengapa penggunaan metode cryotherapy ini aku rasa sangat cocok aku gunakan
+82	Itulah mengapa penggunaan metode cryotherapy ini aku rasa sangat cocok aku gunakan
+83	Itulah mengapa penggunaan metode cryotherapy ini aku rasa sangat cocok aku gunakan
+84	Itulah mengapa penggunaan metode cryotherapy ini aku rasa sangat cocok aku gunakan untuk mengangkat jaringan abnormal pada ikan.
+85	Itulah mengapa penggunaan metode cryotherapy ini aku rasa sangat cocok aku gunakan untuk mengangkat jaringan abnormal pada ikan.
+86	untuk mengangkat jaringan abnormal pada ikan.
+87	untuk mengangkat jaringan abnormal pada ikan.
+88	untuk mengangkat jaringan abnormal pada ikan.
+89	untuk mengangkat jaringan abnormal pada ikan. Keuntungan metode ini sebenarnya banyak banget loh.
+90	untuk mengangkat jaringan abnormal pada ikan. Keuntungan metode ini sebenarnya banyak banget loh.
+91	Keuntungan metode ini sebenarnya banyak banget loh.
+92	Keuntungan metode ini sebenarnya banyak banget loh.
+93	Keuntungan metode ini sebenarnya banyak banget loh. Bisa mengurangi respon radeng, mengurangi pendarahan,
+94	Keuntungan metode ini sebenarnya banyak banget loh. Bisa mengurangi respon radeng, mengurangi pendarahan,
+95	Bisa mengurangi respon radeng, mengurangi pendarahan,
+96	Bisa mengurangi respon radeng, mengurangi pendarahan,
+97	Bisa mengurangi respon radeng, mengurangi pendarahan,
+98	Bisa mengurangi respon radeng, mengurangi pendarahan,
+99	Bisa mengurangi respon radeng, mengurangi pendarahan, dan menurut jurnal ikannya juga merasa tidak terlalu sakit.
+100	Bisa mengurangi respon radeng, mengurangi pendarahan, dan menurut jurnal ikannya juga merasa tidak terlalu sakit.
+101	dan menurut jurnal ikannya juga merasa tidak terlalu sakit.
+102	dan menurut jurnal ikannya juga merasa tidak terlalu sakit.
+103	dan menurut jurnal ikannya juga merasa tidak terlalu sakit.
+104	dan menurut jurnal ikannya juga merasa tidak terlalu sakit.
+105	dan menurut jurnal ikannya juga merasa tidak terlalu sakit. Tapi, selama proses pengobatan berjalan, ikan tetap akubius ya.
+106	dan menurut jurnal ikannya juga merasa tidak terlalu sakit. Tapi, selama proses pengobatan berjalan, ikan tetap akubius ya.
+107	Tapi, selama proses pengobatan berjalan, ikan tetap akubius ya.
+108	Tapi, selama proses pengobatan berjalan, ikan tetap akubius ya.
+109	Tapi, selama proses pengobatan berjalan, ikan tetap akubius ya.
+110	Tapi, selama proses pengobatan berjalan, ikan tetap akubius ya.
+111	Tapi, selama proses pengobatan berjalan, ikan tetap akubius ya.
+112	Tapi, selama proses pengobatan berjalan, ikan tetap akubius ya. Setelahnya pun, ikan akan berjalan.
+113	Tapi, selama proses pengobatan berjalan, ikan tetap akubius ya. Setelahnya pun, ikan akan berjalan.
+114	Setelahnya pun, ikan akan berjalan. Walaupun aku tetap memberikan obat-obatan seperti antibiotik, antiradang, dan vitamin.
+115	Setelahnya pun, ikan akan berjalan. Walaupun aku tetap memberikan obat-obatan seperti antibiotik, antiradang, dan vitamin.
+116	Walaupun aku tetap memberikan obat-obatan seperti antibiotik, antiradang, dan vitamin.
+117	Walaupun aku tetap memberikan obat-obatan seperti antibiotik, antiradang, dan vitamin.
+118	Walaupun aku tetap memberikan obat-obatan seperti antibiotik, antiradang, dan vitamin.
+119	Walaupun aku tetap memberikan obat-obatan seperti antibiotik, antiradang, dan vitamin.
+120	Walaupun aku tetap memberikan obat-obatan seperti antibiotik, antiradang, dan vitamin.
+121	Walaupun aku tetap memberikan obat-obatan seperti antibiotik, antiradang, dan vitamin.
+122	Walaupun aku tetap memberikan obat-obatan seperti antibiotik, antiradang, dan vitamin. Setelah ikannya sadar, ikannya langsung swim happily.
+123	Setelah ikannya sadar, ikannya langsung swim happily.
+124	Setelah ikannya sadar, ikannya langsung swim happily.
+125	Setelah ikannya sadar, ikannya langsung swim happily.
+126	Setelah ikannya sadar, ikannya langsung swim happily.
+127	Setelah ikannya sadar, ikannya langsung swim happily.
+128	Setelah ikannya sadar, ikannya langsung swim happily. Semoga tonjalannya udah gak tumbuh-tumbuh lagi ya ikan.
+129	Semoga tonjalannya udah gak tumbuh-tumbuh lagi ya ikan.
+130	Semoga tonjalannya udah gak tumbuh-tumbuh lagi ya ikan.
+131	Semoga tonjalannya udah gak tumbuh-tumbuh lagi ya ikan.
+132	Semoga tonjalannya udah gak tumbuh-tumbuh lagi ya ikan.
+133	Semoga tonjalannya udah gak tumbuh-tumbuh lagi ya ikan.
+134	Semoga tonjalannya udah gak tumbuh-tumbuh lagi ya ikan.
+135	Semoga tonjalannya udah gak tumbuh-tumbuh lagi ya ikan.
+136	[NO_SPEECH]

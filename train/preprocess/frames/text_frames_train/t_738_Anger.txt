@@ -1,0 +1,200 @@
+0	Oleh karena itu, kita paksa orang itu supaya comply terhadap ketentuan.
+1	Oleh karena itu, kita paksa orang itu supaya comply terhadap ketentuan.
+2	Oleh karena itu, kita paksa orang itu supaya comply terhadap ketentuan.
+3	Oleh karena itu, kita paksa orang itu supaya comply terhadap ketentuan.
+4	Oleh karena itu, kita paksa orang itu supaya comply terhadap ketentuan.
+5	Oleh karena itu, kita paksa orang itu supaya comply terhadap ketentuan.
+6	Oleh karena itu, kita paksa orang itu supaya comply terhadap ketentuan.
+7	Oleh karena itu, kita paksa orang itu supaya comply terhadap ketentuan.
+8	Oleh karena itu, kita paksa orang itu supaya comply terhadap ketentuan.
+9	Oleh karena itu, kita paksa orang itu supaya comply terhadap ketentuan. Kau udah bayar pajak belum? Kau udah bayar royalti belum?
+10	Kau udah bayar pajak belum? Kau udah bayar royalti belum?
+11	Kau udah bayar pajak belum? Kau udah bayar royalti belum?
+12	Kau udah bayar pajak belum? Kau udah bayar royalti belum?
+13	Kau udah bayar pajak belum? Kau udah bayar royalti belum?
+14	Kau udah bayar pajak belum? Kau udah bayar royalti belum?
+15	Kau udah bayar pajak belum? Kau udah bayar royalti belum? Tadi yang dibilangkan oleh Seto tadi.
+16	Kau udah bayar pajak belum? Kau udah bayar royalti belum? Tadi yang dibilangkan oleh Seto tadi.
+17	Tadi yang dibilangkan oleh Seto tadi.
+18	Tadi yang dibilangkan oleh Seto tadi.
+19	Tadi yang dibilangkan oleh Seto tadi.
+20	Itu dengan sistem.
+21	Itu dengan sistem.
+22	Itu dengan sistem.
+23	Lebih jauh lagi nanti, karena pilar ketiga itu ya.
+24	Lebih jauh lagi nanti, karena pilar ketiga itu ya.
+25	Lebih jauh lagi nanti, karena pilar ketiga itu ya.
+26	Lebih jauh lagi nanti, karena pilar ketiga itu ya.
+27	Lebih jauh lagi nanti, karena pilar ketiga itu ya.
+28	Lebih jauh lagi nanti, karena pilar ketiga itu ya.
+29	Lebih jauh lagi nanti, karena pilar ketiga itu ya.
+30	Lebih jauh lagi nanti, karena pilar ketiga itu ya.
+31	Lebih jauh lagi nanti, karena pilar ketiga itu ya.
+32	Kamu ngurus pasportmu, gak bisa.
+33	Kamu ngurus pasportmu, gak bisa.
+34	Kamu ngurus pasportmu, gak bisa.
+35	Kamu ngurus pasportmu, gak bisa.
+36	Kamu ngurus pasportmu, gak bisa. Karena kamu belum bayar pajak.
+37	Kamu ngurus pasportmu, gak bisa. Karena kamu belum bayar pajak.
+38	Karena kamu belum bayar pajak.
+39	Karena kamu belum bayar pajak.
+40	Karena kamu belum bayar pajak.
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	Kamu gak bisa nanti kalau lebih jauh lagi,
+44	Kamu gak bisa nanti kalau lebih jauh lagi,
+45	Kamu gak bisa nanti kalau lebih jauh lagi,
+46	Kamu gak bisa nanti kalau lebih jauh lagi,
+47	Kamu gak bisa nanti kalau lebih jauh lagi,
+48	Kamu gak bisa nanti kalau lebih jauh lagi,
+49	Kamu gak bisa nanti kalau lebih jauh lagi, kamu memperbarui izinmu di apa, gak bisa.
+50	kamu memperbarui izinmu di apa, gak bisa.
+51	kamu memperbarui izinmu di apa, gak bisa.
+52	kamu memperbarui izinmu di apa, gak bisa.
+53	kamu memperbarui izinmu di apa, gak bisa.
+54	kamu memperbarui izinmu di apa, gak bisa. Karena kamu belum bayar ini.
+55	kamu memperbarui izinmu di apa, gak bisa. Karena kamu belum bayar ini.
+56	Karena kamu belum bayar ini.
+57	Karena kamu belum bayar ini. Jadi semua ngerti.
+58	Karena kamu belum bayar ini. Jadi semua ngerti.
+59	Jadi semua ngerti.
+60	Jadi semua ngerti. Dan memang ini yang membuat Indonesia itu betul-betul transparan ke depan dengan mesin.
+61	Jadi semua ngerti. Dan memang ini yang membuat Indonesia itu betul-betul transparan ke depan dengan mesin.
+62	Dan memang ini yang membuat Indonesia itu betul-betul transparan ke depan dengan mesin.
+63	Dan memang ini yang membuat Indonesia itu betul-betul transparan ke depan dengan mesin.
+64	Dan memang ini yang membuat Indonesia itu betul-betul transparan ke depan dengan mesin.
+65	Dan memang ini yang membuat Indonesia itu betul-betul transparan ke depan dengan mesin.
+66	Dan memang ini yang membuat Indonesia itu betul-betul transparan ke depan dengan mesin.
+67	Dan memang ini yang membuat Indonesia itu betul-betul transparan ke depan dengan mesin.
+68	Dan memang ini yang membuat Indonesia itu betul-betul transparan ke depan dengan mesin.
+69	Dan memang ini yang membuat Indonesia itu betul-betul transparan ke depan dengan mesin.
+70	Dan memang ini yang membuat Indonesia itu betul-betul transparan ke depan dengan mesin. Karena AI itu, Artificial Intelligence, dengan big data yang kita punya,
+71	Dan memang ini yang membuat Indonesia itu betul-betul transparan ke depan dengan mesin. Karena AI itu, Artificial Intelligence, dengan big data yang kita punya,
+72	Karena AI itu, Artificial Intelligence, dengan big data yang kita punya,
+73	Karena AI itu, Artificial Intelligence, dengan big data yang kita punya,
+74	Karena AI itu, Artificial Intelligence, dengan big data yang kita punya,
+75	Karena AI itu, Artificial Intelligence, dengan big data yang kita punya,
+76	Karena AI itu, Artificial Intelligence, dengan big data yang kita punya,
+77	Karena AI itu, Artificial Intelligence, dengan big data yang kita punya,
+78	Karena AI itu, Artificial Intelligence, dengan big data yang kita punya,
+79	Karena AI itu, Artificial Intelligence, dengan big data yang kita punya, yang sedang dibangun terus ini,
+80	Karena AI itu, Artificial Intelligence, dengan big data yang kita punya, yang sedang dibangun terus ini,
+81	yang sedang dibangun terus ini,
+82	yang sedang dibangun terus ini,
+83	yang sedang dibangun terus ini,
+84	itu akan membuat Indonesia ini berubah.
+85	itu akan membuat Indonesia ini berubah.
+86	itu akan membuat Indonesia ini berubah.
+87	itu akan membuat Indonesia ini berubah.
+88	itu akan membuat Indonesia ini berubah.
+89	itu akan membuat Indonesia ini berubah.
+90	itu akan membuat Indonesia ini berubah.
+91	itu akan membuat Indonesia ini berubah.
+92	itu akan membuat Indonesia ini berubah.
+93	itu akan membuat Indonesia ini berubah.
+94	itu akan membuat Indonesia ini berubah. Tadi yang dibilang Pak Dede, benar, tidak mudah juga
+95	Tadi yang dibilang Pak Dede, benar, tidak mudah juga
+96	Tadi yang dibilang Pak Dede, benar, tidak mudah juga
+97	Tadi yang dibilang Pak Dede, benar, tidak mudah juga
+98	Tadi yang dibilang Pak Dede, benar, tidak mudah juga
+99	Tadi yang dibilang Pak Dede, benar, tidak mudah juga Kementerian Keuangan, Dirjen Pajak itu mengkolekin.
+100	Tadi yang dibilang Pak Dede, benar, tidak mudah juga Kementerian Keuangan, Dirjen Pajak itu mengkolekin.
+101	Kementerian Keuangan, Dirjen Pajak itu mengkolekin.
+102	Kementerian Keuangan, Dirjen Pajak itu mengkolekin.
+103	Kementerian Keuangan, Dirjen Pajak itu mengkolekin.
+104	Kementerian Keuangan, Dirjen Pajak itu mengkolekin.
+105	Kementerian Keuangan, Dirjen Pajak itu mengkolekin. Nah kita bantu ini dengan program ini.
+106	Kementerian Keuangan, Dirjen Pajak itu mengkolekin. Nah kita bantu ini dengan program ini.
+107	Nah kita bantu ini dengan program ini.
+108	Nah kita bantu ini dengan program ini. Nah program ini saya pikir,
+109	Nah kita bantu ini dengan program ini. Nah program ini saya pikir,
+110	Nah program ini saya pikir,
+111	Nah program ini saya pikir,
+112	Nah program ini saya pikir,
+113	Nah program ini saya pikir, kita akan lihat hasilnya dalam satu tahun.
+114	kita akan lihat hasilnya dalam satu tahun.
+115	kita akan lihat hasilnya dalam satu tahun.
+116	kita akan lihat hasilnya dalam satu tahun.
+117	kita akan lihat hasilnya dalam satu tahun. Tahun ke depan, mulai bertahap.
+118	kita akan lihat hasilnya dalam satu tahun. Tahun ke depan, mulai bertahap.
+119	Tahun ke depan, mulai bertahap.
+120	Tahun ke depan, mulai bertahap.
+121	Tahun ke depan, mulai bertahap.
+122	Tahun ke depan, mulai bertahap. Dan itu akan saya kira membuat game changer,
+123	Dan itu akan saya kira membuat game changer,
+124	Dan itu akan saya kira membuat game changer,
+125	Dan itu akan saya kira membuat game changer,
+126	Dan itu akan saya kira membuat game changer, apa yang menjadi game changer buat negeri ini.
+127	apa yang menjadi game changer buat negeri ini.
+128	apa yang menjadi game changer buat negeri ini.
+129	apa yang menjadi game changer buat negeri ini.
+130	apa yang menjadi game changer buat negeri ini.
+131	apa yang menjadi game changer buat negeri ini. Hanya minta sekali lagi dukungan Anda dan semua masyarakat Indonesia.
+132	apa yang menjadi game changer buat negeri ini. Hanya minta sekali lagi dukungan Anda dan semua masyarakat Indonesia.
+133	Hanya minta sekali lagi dukungan Anda dan semua masyarakat Indonesia.
+134	Hanya minta sekali lagi dukungan Anda dan semua masyarakat Indonesia.
+135	Hanya minta sekali lagi dukungan Anda dan semua masyarakat Indonesia.
+136	Hanya minta sekali lagi dukungan Anda dan semua masyarakat Indonesia.
+137	Hanya minta sekali lagi dukungan Anda dan semua masyarakat Indonesia.
+138	Hanya minta sekali lagi dukungan Anda dan semua masyarakat Indonesia.
+139	Hanya minta sekali lagi dukungan Anda dan semua masyarakat Indonesia. Ayo kita ramai-ramai dukungan patuh terhadap ketentuan.
+140	Hanya minta sekali lagi dukungan Anda dan semua masyarakat Indonesia. Ayo kita ramai-ramai dukungan patuh terhadap ketentuan.
+141	Ayo kita ramai-ramai dukungan patuh terhadap ketentuan.
+142	Ayo kita ramai-ramai dukungan patuh terhadap ketentuan.
+143	Ayo kita ramai-ramai dukungan patuh terhadap ketentuan.
+144	Ayo kita ramai-ramai dukungan patuh terhadap ketentuan.
+145	Ayo kita ramai-ramai dukungan patuh terhadap ketentuan.
+146	Ayo kita ramai-ramai dukungan patuh terhadap ketentuan. Karena nanti ada mantan-mantan pejabat juga yang tidak patuh akan ketahuan.
+147	Karena nanti ada mantan-mantan pejabat juga yang tidak patuh akan ketahuan.
+148	Karena nanti ada mantan-mantan pejabat juga yang tidak patuh akan ketahuan.
+149	Karena nanti ada mantan-mantan pejabat juga yang tidak patuh akan ketahuan.
+150	Karena nanti ada mantan-mantan pejabat juga yang tidak patuh akan ketahuan.
+151	Karena nanti ada mantan-mantan pejabat juga yang tidak patuh akan ketahuan.
+152	Karena nanti ada mantan-mantan pejabat juga yang tidak patuh akan ketahuan.
+153	Karena nanti ada mantan-mantan pejabat juga yang tidak patuh akan ketahuan.
+154	Karena nanti ada mantan-mantan pejabat juga yang tidak patuh akan ketahuan. Ya, akan ketahuan.
+155	Ya, akan ketahuan.
+156	Ya, akan ketahuan. Jadi kalau misalnya saya, mantan pejabat,
+157	Ya, akan ketahuan. Jadi kalau misalnya saya, mantan pejabat,
+158	Jadi kalau misalnya saya, mantan pejabat,
+159	Jadi kalau misalnya saya, mantan pejabat,
+160	Jadi kalau misalnya saya, mantan pejabat,
+161	Jadi kalau misalnya saya, mantan pejabat, saya menyembunyikan sesuatu, pasti akan ketahuan.
+162	Jadi kalau misalnya saya, mantan pejabat, saya menyembunyikan sesuatu, pasti akan ketahuan.
+163	saya menyembunyikan sesuatu, pasti akan ketahuan.
+164	saya menyembunyikan sesuatu, pasti akan ketahuan.
+165	saya menyembunyikan sesuatu, pasti akan ketahuan.
+166	saya menyembunyikan sesuatu, pasti akan ketahuan.
+167	saya menyembunyikan sesuatu, pasti akan ketahuan.
+168	saya menyembunyikan sesuatu, pasti akan ketahuan. Entah dulu dia paling berkuasa, gak ada urusan.
+169	saya menyembunyikan sesuatu, pasti akan ketahuan. Entah dulu dia paling berkuasa, gak ada urusan.
+170	Entah dulu dia paling berkuasa, gak ada urusan.
+171	Entah dulu dia paling berkuasa, gak ada urusan.
+172	Entah dulu dia paling berkuasa, gak ada urusan.
+173	Entah dulu dia paling berkuasa, gak ada urusan.
+174	Entah dulu dia paling berkuasa, gak ada urusan. Nanti gak akan bisa dilihat.
+175	Entah dulu dia paling berkuasa, gak ada urusan. Nanti gak akan bisa dilihat.
+176	Entah dulu dia paling berkuasa, gak ada urusan. Nanti gak akan bisa dilihat.
+177	Nanti gak akan bisa dilihat.
+178	Nanti gak akan bisa dilihat. Orang akan bisa google kamu, nanti kalau kamu tuh membuat sesuatu yang gak benar.
+179	Nanti gak akan bisa dilihat. Orang akan bisa google kamu, nanti kalau kamu tuh membuat sesuatu yang gak benar.
+180	Orang akan bisa google kamu, nanti kalau kamu tuh membuat sesuatu yang gak benar.
+181	Orang akan bisa google kamu, nanti kalau kamu tuh membuat sesuatu yang gak benar.
+182	Orang akan bisa google kamu, nanti kalau kamu tuh membuat sesuatu yang gak benar.
+183	Orang akan bisa google kamu, nanti kalau kamu tuh membuat sesuatu yang gak benar.
+184	Orang akan bisa google kamu, nanti kalau kamu tuh membuat sesuatu yang gak benar.
+185	Orang akan bisa google kamu, nanti kalau kamu tuh membuat sesuatu yang gak benar.
+186	Orang akan bisa google kamu, nanti kalau kamu tuh membuat sesuatu yang gak benar.
+187	Orang akan bisa google kamu, nanti kalau kamu tuh membuat sesuatu yang gak benar.
+188	Orang akan bisa google kamu, nanti kalau kamu tuh membuat sesuatu yang gak benar. Jadi akan membuat Indonesia menurut saya hebat ke depan.
+189	Orang akan bisa google kamu, nanti kalau kamu tuh membuat sesuatu yang gak benar. Jadi akan membuat Indonesia menurut saya hebat ke depan.
+190	Jadi akan membuat Indonesia menurut saya hebat ke depan.
+191	Jadi akan membuat Indonesia menurut saya hebat ke depan.
+192	Jadi akan membuat Indonesia menurut saya hebat ke depan.
+193	Jadi akan membuat Indonesia menurut saya hebat ke depan.
+194	Jadi akan membuat Indonesia menurut saya hebat ke depan.
+195	Jadi akan membuat Indonesia menurut saya hebat ke depan.
+196	Jadi akan membuat Indonesia menurut saya hebat ke depan.
+197	[NO_SPEECH]
+198	[NO_SPEECH]
+199	[NO_SPEECH]

@@ -1,0 +1,110 @@
+0	Shh, gue ngerti banget guys.
+1	Shh, gue ngerti banget guys.
+2	Shh, gue ngerti banget guys.
+3	Shh, gue ngerti banget guys.
+4	Shh, gue ngerti banget guys. Di antara kesibukan kalian untuk nyebutin olahraga atau gym, itu susah banget.
+5	Shh, gue ngerti banget guys. Di antara kesibukan kalian untuk nyebutin olahraga atau gym, itu susah banget.
+6	Di antara kesibukan kalian untuk nyebutin olahraga atau gym, itu susah banget.
+7	Di antara kesibukan kalian untuk nyebutin olahraga atau gym, itu susah banget.
+8	Di antara kesibukan kalian untuk nyebutin olahraga atau gym, itu susah banget.
+9	Di antara kesibukan kalian untuk nyebutin olahraga atau gym, itu susah banget.
+10	Di antara kesibukan kalian untuk nyebutin olahraga atau gym, itu susah banget.
+11	Di antara kesibukan kalian untuk nyebutin olahraga atau gym, itu susah banget.
+12	Di antara kesibukan kalian untuk nyebutin olahraga atau gym, itu susah banget.
+13	Di antara kesibukan kalian untuk nyebutin olahraga atau gym, itu susah banget.
+14	[NO_SPEECH]
+15	Apalagi perkembangannya belum kelihatan.
+16	Apalagi perkembangannya belum kelihatan.
+17	Apalagi perkembangannya belum kelihatan.
+18	Apalagi perkembangannya belum kelihatan.
+19	Apalagi perkembangannya belum kelihatan. Ini tiga hal yang harus kalian perhatikan kalau kalian ngerasa perkembangannya gini-gini aja.
+20	Apalagi perkembangannya belum kelihatan. Ini tiga hal yang harus kalian perhatikan kalau kalian ngerasa perkembangannya gini-gini aja.
+21	Ini tiga hal yang harus kalian perhatikan kalau kalian ngerasa perkembangannya gini-gini aja.
+22	Ini tiga hal yang harus kalian perhatikan kalau kalian ngerasa perkembangannya gini-gini aja.
+23	Ini tiga hal yang harus kalian perhatikan kalau kalian ngerasa perkembangannya gini-gini aja.
+24	Ini tiga hal yang harus kalian perhatikan kalau kalian ngerasa perkembangannya gini-gini aja.
+25	Ini tiga hal yang harus kalian perhatikan kalau kalian ngerasa perkembangannya gini-gini aja.
+26	Ini tiga hal yang harus kalian perhatikan kalau kalian ngerasa perkembangannya gini-gini aja.
+27	Ini tiga hal yang harus kalian perhatikan kalau kalian ngerasa perkembangannya gini-gini aja.
+28	Ini tiga hal yang harus kalian perhatikan kalau kalian ngerasa perkembangannya gini-gini aja.
+29	Ini tiga hal yang harus kalian perhatikan kalau kalian ngerasa perkembangannya gini-gini aja. Tidur yang cukup.
+30	Tidur yang cukup.
+31	Tidur yang cukup. Tidur yang cukup itu penting karena recovery atau pembentukan sel otot baru itu terjadi ketika istirahat.
+32	Tidur yang cukup. Tidur yang cukup itu penting karena recovery atau pembentukan sel otot baru itu terjadi ketika istirahat.
+33	Tidur yang cukup itu penting karena recovery atau pembentukan sel otot baru itu terjadi ketika istirahat.
+34	Tidur yang cukup itu penting karena recovery atau pembentukan sel otot baru itu terjadi ketika istirahat.
+35	Tidur yang cukup itu penting karena recovery atau pembentukan sel otot baru itu terjadi ketika istirahat.
+36	Tidur yang cukup itu penting karena recovery atau pembentukan sel otot baru itu terjadi ketika istirahat.
+37	Tidur yang cukup itu penting karena recovery atau pembentukan sel otot baru itu terjadi ketika istirahat.
+38	Tidur yang cukup itu penting karena recovery atau pembentukan sel otot baru itu terjadi ketika istirahat.
+39	Tidur yang cukup itu penting karena recovery atau pembentukan sel otot baru itu terjadi ketika istirahat.
+40	Tidur yang cukup itu penting karena recovery atau pembentukan sel otot baru itu terjadi ketika istirahat.
+41	Tidur yang cukup itu penting karena recovery atau pembentukan sel otot baru itu terjadi ketika istirahat.
+42	Tidur yang cukup itu penting karena recovery atau pembentukan sel otot baru itu terjadi ketika istirahat.
+43	Tidur yang cukup itu penting karena recovery atau pembentukan sel otot baru itu terjadi ketika istirahat.
+44	Asupan protein.
+45	Asupan protein.
+46	Asupan protein. Ibarat bikin rumah, tapi batanya kurang.
+47	Ibarat bikin rumah, tapi batanya kurang.
+48	Ibarat bikin rumah, tapi batanya kurang.
+49	Ibarat bikin rumah, tapi batanya kurang.
+50	Ibarat bikin rumah, tapi batanya kurang.
+51	Ibarat bikin rumah, tapi batanya kurang.
+52	Ibarat bikin rumah, tapi batanya kurang. Tanpa protein yang cukup, ototmu juga nggak bisa dibangun.
+53	Ibarat bikin rumah, tapi batanya kurang. Tanpa protein yang cukup, ototmu juga nggak bisa dibangun.
+54	Tanpa protein yang cukup, ototmu juga nggak bisa dibangun.
+55	Tanpa protein yang cukup, ototmu juga nggak bisa dibangun.
+56	Tanpa protein yang cukup, ototmu juga nggak bisa dibangun.
+57	Tanpa protein yang cukup, ototmu juga nggak bisa dibangun.
+58	Tanpa protein yang cukup, ototmu juga nggak bisa dibangun. Yang penting konsisten.
+59	Yang penting konsisten.
+60	Yang penting konsisten.
+61	Yang penting konsisten.
+62	Yang penting konsisten. Jangan terlalu mematok hasil.
+63	Yang penting konsisten. Jangan terlalu mematok hasil.
+64	Jangan terlalu mematok hasil.
+65	Jangan terlalu mematok hasil.
+66	Jangan terlalu mematok hasil. Lebih baik bangun habit dulu, hasil pasti akan mengikuti.
+67	Jangan terlalu mematok hasil. Lebih baik bangun habit dulu, hasil pasti akan mengikuti.
+68	Lebih baik bangun habit dulu, hasil pasti akan mengikuti.
+69	Lebih baik bangun habit dulu, hasil pasti akan mengikuti.
+70	Lebih baik bangun habit dulu, hasil pasti akan mengikuti.
+71	Lebih baik bangun habit dulu, hasil pasti akan mengikuti.
+72	Lebih baik bangun habit dulu, hasil pasti akan mengikuti.
+73	Lebih baik bangun habit dulu, hasil pasti akan mengikuti. Dan yang terakhir menurut gue, tempat gymnya tuh harus nyaman.
+74	Dan yang terakhir menurut gue, tempat gymnya tuh harus nyaman.
+75	Dan yang terakhir menurut gue, tempat gymnya tuh harus nyaman.
+76	Dan yang terakhir menurut gue, tempat gymnya tuh harus nyaman.
+77	Dan yang terakhir menurut gue, tempat gymnya tuh harus nyaman.
+78	Dan yang terakhir menurut gue, tempat gymnya tuh harus nyaman.
+79	Dan yang terakhir menurut gue, tempat gymnya tuh harus nyaman.
+80	Dan yang terakhir menurut gue, tempat gymnya tuh harus nyaman.
+81	Dan yang terakhir menurut gue, tempat gymnya tuh harus nyaman. Alatnya lengkap dan kelasnya banyak.
+82	Dan yang terakhir menurut gue, tempat gymnya tuh harus nyaman. Alatnya lengkap dan kelasnya banyak.
+83	Alatnya lengkap dan kelasnya banyak.
+84	Alatnya lengkap dan kelasnya banyak.
+85	Alatnya lengkap dan kelasnya banyak.
+86	Alatnya lengkap dan kelasnya banyak. Jadi kalau kalian bosen ngegym, kalian bisa ikut kelas.
+87	Jadi kalau kalian bosen ngegym, kalian bisa ikut kelas.
+88	Jadi kalau kalian bosen ngegym, kalian bisa ikut kelas.
+89	Jadi kalau kalian bosen ngegym, kalian bisa ikut kelas.
+90	Jadi kalau kalian bosen ngegym, kalian bisa ikut kelas.
+91	Jadi kalau kalian bosen ngegym, kalian bisa ikut kelas. Dan semua itu gue bisa temuin di Ikigai Fitness.
+92	Jadi kalau kalian bosen ngegym, kalian bisa ikut kelas. Dan semua itu gue bisa temuin di Ikigai Fitness.
+93	Dan semua itu gue bisa temuin di Ikigai Fitness.
+94	Dan semua itu gue bisa temuin di Ikigai Fitness.
+95	Dan semua itu gue bisa temuin di Ikigai Fitness.
+96	Dan semua itu gue bisa temuin di Ikigai Fitness.
+97	Dan semua itu gue bisa temuin di Ikigai Fitness.
+98	Dan semua itu gue bisa temuin di Ikigai Fitness. Yaudah, gitu aja dari gue.
+99	Yaudah, gitu aja dari gue.
+100	Yaudah, gitu aja dari gue.
+101	Yaudah, gitu aja dari gue. Gue mulai gym lagi.
+102	Yaudah, gitu aja dari gue. Gue mulai gym lagi.
+103	Gue mulai gym lagi.
+104	Gue mulai gym lagi.
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	[NO_SPEECH]
+108	[NO_SPEECH]
+109	[NO_SPEECH]

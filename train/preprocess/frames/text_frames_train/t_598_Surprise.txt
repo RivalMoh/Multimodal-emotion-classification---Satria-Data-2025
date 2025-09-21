@@ -1,0 +1,85 @@
+0	Review singkat toner yang pernah aku cobain, let's go
+1	Review singkat toner yang pernah aku cobain, let's go
+2	Review singkat toner yang pernah aku cobain, let's go
+3	Review singkat toner yang pernah aku cobain, let's go Pertama ada Azarin, ini tuh murce dan bagus buat anti-aging
+4	Review singkat toner yang pernah aku cobain, let's go Pertama ada Azarin, ini tuh murce dan bagus buat anti-aging
+5	Pertama ada Azarin, ini tuh murce dan bagus buat anti-aging
+6	Pertama ada Azarin, ini tuh murce dan bagus buat anti-aging
+7	Pertama ada Azarin, ini tuh murce dan bagus buat anti-aging
+8	Pertama ada Azarin, ini tuh murce dan bagus buat anti-aging Next ada Finally Found You, ini ringan dan bikin cerah
+9	Pertama ada Azarin, ini tuh murce dan bagus buat anti-aging Next ada Finally Found You, ini ringan dan bikin cerah
+10	Next ada Finally Found You, ini ringan dan bikin cerah
+11	Next ada Finally Found You, ini ringan dan bikin cerah
+12	Next ada Finally Found You, ini ringan dan bikin cerah
+13	Next ada Finally Found You, ini ringan dan bikin cerah Terus ada White Lab, ngelembapin dan bikin cerah juga
+14	Next ada Finally Found You, ini ringan dan bikin cerah Terus ada White Lab, ngelembapin dan bikin cerah juga
+15	Terus ada White Lab, ngelembapin dan bikin cerah juga
+16	Terus ada White Lab, ngelembapin dan bikin cerah juga
+17	Terus ada White Lab, ngelembapin dan bikin cerah juga
+18	Terus ada White Lab, ngelembapin dan bikin cerah juga Avoskin oke buat eksfoliasi
+19	Terus ada White Lab, ngelembapin dan bikin cerah juga Avoskin oke buat eksfoliasi
+20	Avoskin oke buat eksfoliasi
+21	Avoskin oke buat eksfoliasi
+22	Avoskin oke buat eksfoliasi Dan ada Focalskin yang menurut aku jadi salah satu tonernya underrated
+23	Avoskin oke buat eksfoliasi Dan ada Focalskin yang menurut aku jadi salah satu tonernya underrated
+24	Dan ada Focalskin yang menurut aku jadi salah satu tonernya underrated
+25	Dan ada Focalskin yang menurut aku jadi salah satu tonernya underrated
+26	Dan ada Focalskin yang menurut aku jadi salah satu tonernya underrated
+27	Dan ada Focalskin yang menurut aku jadi salah satu tonernya underrated
+28	Dan ada Focalskin yang menurut aku jadi salah satu tonernya underrated Padahal efek mencerahkannya tuh bagus
+29	Dan ada Focalskin yang menurut aku jadi salah satu tonernya underrated Padahal efek mencerahkannya tuh bagus
+30	Padahal efek mencerahkannya tuh bagus
+31	Padahal efek mencerahkannya tuh bagus Selain itu dia teksturnya juga unik, awalnya milky gel terus bisa berubah jadi krim gini
+32	Padahal efek mencerahkannya tuh bagus Selain itu dia teksturnya juga unik, awalnya milky gel terus bisa berubah jadi krim gini
+33	Selain itu dia teksturnya juga unik, awalnya milky gel terus bisa berubah jadi krim gini
+34	Selain itu dia teksturnya juga unik, awalnya milky gel terus bisa berubah jadi krim gini
+35	Selain itu dia teksturnya juga unik, awalnya milky gel terus bisa berubah jadi krim gini
+36	Selain itu dia teksturnya juga unik, awalnya milky gel terus bisa berubah jadi krim gini
+37	Selain itu dia teksturnya juga unik, awalnya milky gel terus bisa berubah jadi krim gini
+38	Selain itu dia teksturnya juga unik, awalnya milky gel terus bisa berubah jadi krim gini Toner ini pake ingredients Glycerin Zaglabra yang disebut Gold of Breastening
+39	Selain itu dia teksturnya juga unik, awalnya milky gel terus bisa berubah jadi krim gini Toner ini pake ingredients Glycerin Zaglabra yang disebut Gold of Breastening
+40	Toner ini pake ingredients Glycerin Zaglabra yang disebut Gold of Breastening
+41	Toner ini pake ingredients Glycerin Zaglabra yang disebut Gold of Breastening
+42	Toner ini pake ingredients Glycerin Zaglabra yang disebut Gold of Breastening
+43	Toner ini pake ingredients Glycerin Zaglabra yang disebut Gold of Breastening
+44	Toner ini pake ingredients Glycerin Zaglabra yang disebut Gold of Breastening
+45	Toner ini pake ingredients Glycerin Zaglabra yang disebut Gold of Breastening Karena lebih powerful buat mencerahkan kulit daripada Niacinamide, Vitamin C maupun Alparbutin
+46	Toner ini pake ingredients Glycerin Zaglabra yang disebut Gold of Breastening Karena lebih powerful buat mencerahkan kulit daripada Niacinamide, Vitamin C maupun Alparbutin
+47	Karena lebih powerful buat mencerahkan kulit daripada Niacinamide, Vitamin C maupun Alparbutin
+48	Karena lebih powerful buat mencerahkan kulit daripada Niacinamide, Vitamin C maupun Alparbutin
+49	Karena lebih powerful buat mencerahkan kulit daripada Niacinamide, Vitamin C maupun Alparbutin
+50	Karena lebih powerful buat mencerahkan kulit daripada Niacinamide, Vitamin C maupun Alparbutin
+51	Karena lebih powerful buat mencerahkan kulit daripada Niacinamide, Vitamin C maupun Alparbutin
+52	Karena lebih powerful buat mencerahkan kulit daripada Niacinamide, Vitamin C maupun Alparbutin
+53	Karena lebih powerful buat mencerahkan kulit daripada Niacinamide, Vitamin C maupun Alparbutin Efek di kulitku tuh selain bikin cerah, pastinya lembapnya dapet banget
+54	Karena lebih powerful buat mencerahkan kulit daripada Niacinamide, Vitamin C maupun Alparbutin Efek di kulitku tuh selain bikin cerah, pastinya lembapnya dapet banget
+55	Efek di kulitku tuh selain bikin cerah, pastinya lembapnya dapet banget
+56	Efek di kulitku tuh selain bikin cerah, pastinya lembapnya dapet banget
+57	Efek di kulitku tuh selain bikin cerah, pastinya lembapnya dapet banget
+58	Efek di kulitku tuh selain bikin cerah, pastinya lembapnya dapet banget
+59	Efek di kulitku tuh selain bikin cerah, pastinya lembapnya dapet banget Tapi gak kerasa berat atau lengket, jadi aman buat all skin type
+60	Efek di kulitku tuh selain bikin cerah, pastinya lembapnya dapet banget Tapi gak kerasa berat atau lengket, jadi aman buat all skin type
+61	Tapi gak kerasa berat atau lengket, jadi aman buat all skin type
+62	Tapi gak kerasa berat atau lengket, jadi aman buat all skin type
+63	Tapi gak kerasa berat atau lengket, jadi aman buat all skin type
+64	Tapi gak kerasa berat atau lengket, jadi aman buat all skin type
+65	Tapi gak kerasa berat atau lengket, jadi aman buat all skin type Selain jadi toner, ini juga bisa dijadiin serum, moisturizer, atau skin prep sebelum makeupan
+66	Tapi gak kerasa berat atau lengket, jadi aman buat all skin type Selain jadi toner, ini juga bisa dijadiin serum, moisturizer, atau skin prep sebelum makeupan
+67	Selain jadi toner, ini juga bisa dijadiin serum, moisturizer, atau skin prep sebelum makeupan
+68	Selain jadi toner, ini juga bisa dijadiin serum, moisturizer, atau skin prep sebelum makeupan
+69	Selain jadi toner, ini juga bisa dijadiin serum, moisturizer, atau skin prep sebelum makeupan
+70	Selain jadi toner, ini juga bisa dijadiin serum, moisturizer, atau skin prep sebelum makeupan
+71	Selain jadi toner, ini juga bisa dijadiin serum, moisturizer, atau skin prep sebelum makeupan
+72	Selain jadi toner, ini juga bisa dijadiin serum, moisturizer, atau skin prep sebelum makeupan
+73	Selain jadi toner, ini juga bisa dijadiin serum, moisturizer, atau skin prep sebelum makeupan Serius deh, cuma 100 ribuan aja tapi bisa dapetin toner se-wow ini
+74	Selain jadi toner, ini juga bisa dijadiin serum, moisturizer, atau skin prep sebelum makeupan Serius deh, cuma 100 ribuan aja tapi bisa dapetin toner se-wow ini
+75	Serius deh, cuma 100 ribuan aja tapi bisa dapetin toner se-wow ini
+76	Serius deh, cuma 100 ribuan aja tapi bisa dapetin toner se-wow ini
+77	Serius deh, cuma 100 ribuan aja tapi bisa dapetin toner se-wow ini
+78	Serius deh, cuma 100 ribuan aja tapi bisa dapetin toner se-wow ini
+79	Serius deh, cuma 100 ribuan aja tapi bisa dapetin toner se-wow ini Menurutku kalian harus cobain juga sih
+80	Serius deh, cuma 100 ribuan aja tapi bisa dapetin toner se-wow ini Menurutku kalian harus cobain juga sih
+81	Menurutku kalian harus cobain juga sih
+82	Menurutku kalian harus cobain juga sih Let's go
+83	Menurutku kalian harus cobain juga sih Let's go
+84	Let's go

@@ -1,0 +1,184 @@
+0	mau habis nih bensin nih, harus diisi om
+1	mau habis nih bensin nih, harus diisi om oh iya isi, depan ada pomedin tuh
+2	mau habis nih bensin nih, harus diisi om oh iya isi, depan ada pomedin tuh
+3	mau habis nih bensin nih, harus diisi om oh iya isi, depan ada pomedin tuh
+4	oh iya isi, depan ada pomedin tuh
+5	oh iya isi, depan ada pomedin tuh
+6	oh iya isi, depan ada pomedin tuh besok aja deh
+7	oh iya isi, depan ada pomedin tuh besok aja deh kenapa?
+8	besok aja deh kenapa?
+9	kenapa? bagusan pagi
+10	bagusan pagi
+11	bagusan pagi kalo siang bensinnya ngembang, jadi keisinya sedikit
+12	bagusan pagi kalo siang bensinnya ngembang, jadi keisinya sedikit
+13	kalo siang bensinnya ngembang, jadi keisinya sedikit
+14	kalo siang bensinnya ngembang, jadi keisinya sedikit
+15	kalo siang bensinnya ngembang, jadi keisinya sedikit
+16	kalo siang bensinnya ngembang, jadi keisinya sedikit
+17	kalo siang bensinnya ngembang, jadi keisinya sedikit ga ngaru!
+18	kalo siang bensinnya ngembang, jadi keisinya sedikit ga ngaru!
+19	ga ngaru!
+20	ga ngaru! ini ya di dalam tangki pendam itu
+21	ini ya di dalam tangki pendam itu
+22	ini ya di dalam tangki pendam itu
+23	ini ya di dalam tangki pendam itu
+24	ini ya di dalam tangki pendam itu regulated temperature
+25	ini ya di dalam tangki pendam itu regulated temperature
+26	regulated temperature
+27	regulated temperature
+28	regulated temperature jadi temperaturnya ga pengaruh
+29	regulated temperature jadi temperaturnya ga pengaruh
+30	jadi temperaturnya ga pengaruh
+31	jadi temperaturnya ga pengaruh mau ngembang mulai dari tangki pendam ya harus uih segitu-segitu aja
+32	jadi temperaturnya ga pengaruh mau ngembang mulai dari tangki pendam ya harus uih segitu-segitu aja
+33	mau ngembang mulai dari tangki pendam ya harus uih segitu-segitu aja
+34	mau ngembang mulai dari tangki pendam ya harus uih segitu-segitu aja
+35	mau ngembang mulai dari tangki pendam ya harus uih segitu-segitu aja
+36	mau ngembang mulai dari tangki pendam ya harus uih segitu-segitu aja udah seneng isi bensin
+37	mau ngembang mulai dari tangki pendam ya harus uih segitu-segitu aja udah seneng isi bensin
+38	udah seneng isi bensin
+39	udah seneng isi bensin
+40	udah seneng isi bensin
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	ah nyampe nih
+45	ah nyampe nih
+46	ah nyampe nih ini apa?
+47	ah nyampe nih ini apa?
+48	ini apa? isi Pertamax
+49	ini apa? isi Pertamax
+50	isi Pertamax
+51	isi Pertamax full
+52	isi Pertamax full pake sampe sentron
+53	full pake sampe sentron
+54	pake sampe sentron
+55	pake sampe sentron baik, untuk pembayaran mau pake Pertamina?
+56	pake sampe sentron baik, untuk pembayaran mau pake Pertamina?
+57	baik, untuk pembayaran mau pake Pertamina?
+58	baik, untuk pembayaran mau pake Pertamina?
+59	baik, untuk pembayaran mau pake Pertamina? pake Pertamina dong
+60	baik, untuk pembayaran mau pake Pertamina? pake Pertamina dong
+61	pake Pertamina dong mas isinya speed 1 aja ya
+62	pake Pertamina dong mas isinya speed 1 aja ya
+63	mas isinya speed 1 aja ya
+64	mas isinya speed 1 aja ya
+65	mas isinya speed 1 aja ya iya pak baik
+66	mas isinya speed 1 aja ya iya pak baik eh
+67	iya pak baik eh
+68	eh
+69	eh apaan speed 1 speed 1?
+70	apaan speed 1 speed 1?
+71	apaan speed 1 speed 1?
+72	apaan speed 1 speed 1? iya biar lebih banyak, ga kebuang
+73	apaan speed 1 speed 1? iya biar lebih banyak, ga kebuang
+74	iya biar lebih banyak, ga kebuang
+75	iya biar lebih banyak, ga kebuang
+76	iya biar lebih banyak, ga kebuang ga pengaruh mau speed 1, 2, 3, 4, 5, 12
+77	iya biar lebih banyak, ga kebuang ga pengaruh mau speed 1, 2, 3, 4, 5, 12
+78	ga pengaruh mau speed 1, 2, 3, 4, 5, 12
+79	ga pengaruh mau speed 1, 2, 3, 4, 5, 12
+80	ga pengaruh mau speed 1, 2, 3, 4, 5, 12
+81	ga pengaruh mau speed 1, 2, 3, 4, 5, 12
+82	ga pengaruh mau speed 1, 2, 3, 4, 5, 12 sama aja ada perliterannya
+83	ga pengaruh mau speed 1, 2, 3, 4, 5, 12 sama aja ada perliterannya
+84	sama aja ada perliterannya
+85	sama aja ada perliterannya
+86	sama aja ada perliterannya
+87	sama aja ada perliterannya emang gitu ya?
+88	sama aja ada perliterannya emang gitu ya?
+89	emang gitu ya? just go
+90	just go biar cepet selesai
+91	just go biar cepet selesai
+92	biar cepet selesai tangan saya penuh di mulai dari angkanya ya pak
+93	biar cepet selesai tangan saya penuh di mulai dari angkanya ya pak
+94	biar cepet selesai tangan saya penuh di mulai dari angkanya ya pak
+95	tangan saya penuh di mulai dari angkanya ya pak
+96	tangan saya penuh di mulai dari angkanya ya pak
+97	tangan saya penuh di mulai dari angkanya ya pak
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	[NO_SPEECH]
+104	[NO_SPEECH]
+105	[NO_SPEECH]
+106	gempak, gempak
+107	gempak, gempak
+108	gempak, gempak pak ngapain?
+109	gempak, gempak pak ngapain?
+110	pak ngapain?
+111	pak ngapain?
+112	goyang-goyangin biar masukin ke bawah
+113	goyang-goyangin biar masukin ke bawah
+114	goyang-goyangin biar masukin ke bawah
+115	goyang-goyangin biar masukin ke bawah ya banyak ga pengaruh
+116	goyang-goyangin biar masukin ke bawah ya banyak ga pengaruh
+117	ga pengaruh mobil sekarang walaupun tua kayak gini nih
+118	ga pengaruh mobil sekarang walaupun tua kayak gini nih
+119	mobil sekarang walaupun tua kayak gini nih
+120	mobil sekarang walaupun tua kayak gini nih
+121	mobil sekarang walaupun tua kayak gini nih
+122	mobil sekarang walaupun tua kayak gini nih ada pintu aslinya, lubang kawannya, tangki bensinnya
+123	mobil sekarang walaupun tua kayak gini nih ada pintu aslinya, lubang kawannya, tangki bensinnya
+124	ada pintu aslinya, lubang kawannya, tangki bensinnya
+125	ada pintu aslinya, lubang kawannya, tangki bensinnya
+126	ada pintu aslinya, lubang kawannya, tangki bensinnya
+127	ada pintu aslinya, lubang kawannya, tangki bensinnya ga pengaruh mau digoyang-goyangin ke gimana juga
+128	ada pintu aslinya, lubang kawannya, tangki bensinnya ga pengaruh mau digoyang-goyangin ke gimana juga
+129	ga pengaruh mau digoyang-goyangin ke gimana juga
+130	ga pengaruh mau digoyang-goyangin ke gimana juga
+131	ga pengaruh mau digoyang-goyangin ke gimana juga masih tetep cepet juga masuknya
+132	ga pengaruh mau digoyang-goyangin ke gimana juga masih tetep cepet juga masuknya
+133	masih tetep cepet juga masuknya
+134	masih tetep cepet juga masuknya
+135	masih tetep cepet juga masuknya sekarang, emangnya goyang-goyang doang sih mamang?
+136	masih tetep cepet juga masuknya sekarang, emangnya goyang-goyang doang sih mamang?
+137	sekarang, emangnya goyang-goyang doang sih mamang?
+138	sekarang, emangnya goyang-goyang doang sih mamang?
+139	sekarang, emangnya goyang-goyang doang sih mamang?
+140	sekarang, emangnya goyang-goyang doang sih mamang?
+141	sekarang, emangnya goyang-goyang doang sih mamang?
+142	[NO_SPEECH]
+143	[NO_SPEECH]
+144	[NO_SPEECH]
+145	jadi mang?
+146	jadi mang?
+147	jadi mang? masih mau speed 1?
+148	jadi mang? masih mau speed 1?
+149	masih mau speed 1?
+150	masih mau speed 1?
+151	masih mau speed 1? iya
+152	iya sama aja, mau 1, 2, 3 ternyata
+153	iya sama aja, mau 1, 2, 3 ternyata
+154	sama aja, mau 1, 2, 3 ternyata
+155	sama aja, mau 1, 2, 3 ternyata makanya, lama kalo 1 itu orang jadi pada ngantri
+156	sama aja, mau 1, 2, 3 ternyata makanya, lama kalo 1 itu orang jadi pada ngantri
+157	makanya, lama kalo 1 itu orang jadi pada ngantri
+158	makanya, lama kalo 1 itu orang jadi pada ngantri
+159	makanya, lama kalo 1 itu orang jadi pada ngantri
+160	makanya, lama kalo 1 itu orang jadi pada ngantri
+161	makanya, lama kalo 1 itu orang jadi pada ngantri
+162	makanya, lama kalo 1 itu orang jadi pada ngantri speed 1, 2, 3 itu sama aja
+163	makanya, lama kalo 1 itu orang jadi pada ngantri speed 1, 2, 3 itu sama aja
+164	speed 1, 2, 3 itu sama aja
+165	speed 1, 2, 3 itu sama aja
+166	speed 1, 2, 3 itu sama aja omobis udah tes langsung
+167	speed 1, 2, 3 itu sama aja omobis udah tes langsung
+168	omobis udah tes langsung
+169	omobis udah tes langsung
+170	omobis udah tes langsung
+171	omobis udah tes langsung tunggu real segerikutnya
+172	tunggu real segerikutnya
+173	tunggu real segerikutnya tes langsung?
+174	tunggu real segerikutnya tes langsung?
+175	tes langsung? speed 1, 2, dan 3 pada SPBU
+176	tes langsung? speed 1, 2, dan 3 pada SPBU
+177	speed 1, 2, dan 3 pada SPBU
+178	speed 1, 2, dan 3 pada SPBU
+179	speed 1, 2, dan 3 pada SPBU
+180	speed 1, 2, dan 3 pada SPBU
+181	speed 1, 2, dan 3 pada SPBU
+182	speed 1, 2, dan 3 pada SPBU
+183	[NO_SPEECH]

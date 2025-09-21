@@ -1,0 +1,87 @@
+0	Bro, kenapa posturmu kayak gini?
+1	Bro, kenapa posturmu kayak gini?
+2	Bro, kenapa posturmu kayak gini? Hah? Gimana maksudnya?
+3	Bro, kenapa posturmu kayak gini? Hah? Gimana maksudnya?
+4	Hah? Gimana maksudnya?
+5	Hah? Gimana maksudnya? Itu, bungkuk kayak gitu tuh.
+6	Itu, bungkuk kayak gitu tuh.
+7	Itu, bungkuk kayak gitu tuh.
+8	Itu, bungkuk kayak gitu tuh.
+9	Itu, bungkuk kayak gitu tuh. Itu tuh nggak bagus buat kesehatanmu.
+10	Itu tuh nggak bagus buat kesehatanmu.
+11	Itu tuh nggak bagus buat kesehatanmu.
+12	Itu tuh nggak bagus buat kesehatanmu.
+13	Itu tuh nggak bagus buat kesehatanmu. Terus gimana cara ngatasinnya?
+14	Itu tuh nggak bagus buat kesehatanmu. Terus gimana cara ngatasinnya?
+15	Terus gimana cara ngatasinnya?
+16	Terus gimana cara ngatasinnya? Sini aku kasih tau 3 cara buat benerin posturmu.
+17	Terus gimana cara ngatasinnya? Sini aku kasih tau 3 cara buat benerin posturmu.
+18	Sini aku kasih tau 3 cara buat benerin posturmu.
+19	Sini aku kasih tau 3 cara buat benerin posturmu.
+20	Sini aku kasih tau 3 cara buat benerin posturmu.
+21	Sini aku kasih tau 3 cara buat benerin posturmu. Pastiin kamu safe ini ya.
+22	Sini aku kasih tau 3 cara buat benerin posturmu. Pastiin kamu safe ini ya.
+23	Pastiin kamu safe ini ya.
+24	Pastiin kamu safe ini ya.
+25	Nah, nah nomor 1 itu tuh.
+26	Nah, nah nomor 1 itu tuh.
+27	Nah, nah nomor 1 itu tuh.
+28	Nah, nah nomor 1 itu tuh. Pas kamu lagi main HP, pastiin punggungmu dan lehermu lurus.
+29	Nah, nah nomor 1 itu tuh. Pas kamu lagi main HP, pastiin punggungmu dan lehermu lurus.
+30	Pas kamu lagi main HP, pastiin punggungmu dan lehermu lurus.
+31	Pas kamu lagi main HP, pastiin punggungmu dan lehermu lurus.
+32	Pas kamu lagi main HP, pastiin punggungmu dan lehermu lurus.
+33	Pas kamu lagi main HP, pastiin punggungmu dan lehermu lurus.
+34	Pas kamu lagi main HP, pastiin punggungmu dan lehermu lurus. Kayak gini nih.
+35	Pas kamu lagi main HP, pastiin punggungmu dan lehermu lurus. Kayak gini nih.
+36	Kayak gini nih. Oh iya, oke bro, oke bro.
+37	Oh iya, oke bro, oke bro.
+38	Oh iya, oke bro, oke bro.
+39	Oh iya, oke bro, oke bro.
+40	HPmu itu penyebab nomor 1 kamu bungkuk.
+41	HPmu itu penyebab nomor 1 kamu bungkuk.
+42	HPmu itu penyebab nomor 1 kamu bungkuk.
+43	HPmu itu penyebab nomor 1 kamu bungkuk.
+44	HPmu itu penyebab nomor 1 kamu bungkuk.
+45	HPmu itu penyebab nomor 1 kamu bungkuk. Terus kalau kamu ngerasa posturmu lagi jelek,
+46	HPmu itu penyebab nomor 1 kamu bungkuk. Terus kalau kamu ngerasa posturmu lagi jelek,
+47	Terus kalau kamu ngerasa posturmu lagi jelek,
+48	Terus kalau kamu ngerasa posturmu lagi jelek,
+49	Terus kalau kamu ngerasa posturmu lagi jelek,
+50	Terus kalau kamu ngerasa posturmu lagi jelek, simple aja, angkat bau muka atas,
+51	simple aja, angkat bau muka atas,
+52	simple aja, angkat bau muka atas,
+53	simple aja, angkat bau muka atas, tarik ke belakang, terus turunin ke bawah.
+54	simple aja, angkat bau muka atas, tarik ke belakang, terus turunin ke bawah.
+55	tarik ke belakang, terus turunin ke bawah.
+56	tarik ke belakang, terus turunin ke bawah.
+57	tarik ke belakang, terus turunin ke bawah. Oh, gini nih.
+58	tarik ke belakang, terus turunin ke bawah. Oh, gini nih.
+59	Oh, gini nih. Oh iya, wah, bantu banget sih ini.
+60	Oh iya, wah, bantu banget sih ini.
+61	Oh iya, wah, bantu banget sih ini.
+62	Oh iya, wah, bantu banget sih ini.
+63	Oh iya, wah, bantu banget sih ini. Terus nomor 3 apa?
+64	Oh iya, wah, bantu banget sih ini. Terus nomor 3 apa?
+65	Terus nomor 3 apa? Work out, bro.
+66	Terus nomor 3 apa? Work out, bro.
+67	Work out, bro. Dengan nguatin otot perut sama otot punggungmu,
+68	Work out, bro. Dengan nguatin otot perut sama otot punggungmu,
+69	Dengan nguatin otot perut sama otot punggungmu,
+70	Dengan nguatin otot perut sama otot punggungmu,
+71	Dengan nguatin otot perut sama otot punggungmu,
+72	Dengan nguatin otot perut sama otot punggungmu, otomatis posturmu bakal improve dengan sendirinya.
+73	Dengan nguatin otot perut sama otot punggungmu, otomatis posturmu bakal improve dengan sendirinya.
+74	otomatis posturmu bakal improve dengan sendirinya.
+75	otomatis posturmu bakal improve dengan sendirinya.
+76	otomatis posturmu bakal improve dengan sendirinya.
+77	otomatis posturmu bakal improve dengan sendirinya. Ah, thanks bro.
+78	otomatis posturmu bakal improve dengan sendirinya. Ah, thanks bro.
+79	Ah, thanks bro. Aku pasti bakal follow kamu buat tips-tips kayak gini nih.
+80	Ah, thanks bro. Aku pasti bakal follow kamu buat tips-tips kayak gini nih.
+81	Aku pasti bakal follow kamu buat tips-tips kayak gini nih.
+82	Aku pasti bakal follow kamu buat tips-tips kayak gini nih.
+83	Aku pasti bakal follow kamu buat tips-tips kayak gini nih.
+84	Aku pasti bakal follow kamu buat tips-tips kayak gini nih.
+85	Aku pasti bakal follow kamu buat tips-tips kayak gini nih.
+86	[NO_SPEECH]

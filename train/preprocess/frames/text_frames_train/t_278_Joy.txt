@@ -1,0 +1,93 @@
+0	Hai, aku Amanda Rawls dan sekarang aku lagi ada di Skinverse Klinik Wardah di Kota Kasablanka.
+1	Hai, aku Amanda Rawls dan sekarang aku lagi ada di Skinverse Klinik Wardah di Kota Kasablanka.
+2	Hai, aku Amanda Rawls dan sekarang aku lagi ada di Skinverse Klinik Wardah di Kota Kasablanka.
+3	Hai, aku Amanda Rawls dan sekarang aku lagi ada di Skinverse Klinik Wardah di Kota Kasablanka.
+4	Hai, aku Amanda Rawls dan sekarang aku lagi ada di Skinverse Klinik Wardah di Kota Kasablanka.
+5	Hai, aku Amanda Rawls dan sekarang aku lagi ada di Skinverse Klinik Wardah di Kota Kasablanka.
+6	Hai, aku Amanda Rawls dan sekarang aku lagi ada di Skinverse Klinik Wardah di Kota Kasablanka.
+7	Hai, aku Amanda Rawls dan sekarang aku lagi ada di Skinverse Klinik Wardah di Kota Kasablanka.
+8	Hai, aku Amanda Rawls dan sekarang aku lagi ada di Skinverse Klinik Wardah di Kota Kasablanka.
+9	Hai, aku Amanda Rawls dan sekarang aku lagi ada di Skinverse Klinik Wardah di Kota Kasablanka. Dan hari ini senang banget karena tadi sempat ngobrol-ngobrol bareng di stage tentang Aging Gracefully.
+10	Hai, aku Amanda Rawls dan sekarang aku lagi ada di Skinverse Klinik Wardah di Kota Kasablanka. Dan hari ini senang banget karena tadi sempat ngobrol-ngobrol bareng di stage tentang Aging Gracefully.
+11	Dan hari ini senang banget karena tadi sempat ngobrol-ngobrol bareng di stage tentang Aging Gracefully.
+12	Dan hari ini senang banget karena tadi sempat ngobrol-ngobrol bareng di stage tentang Aging Gracefully.
+13	Dan hari ini senang banget karena tadi sempat ngobrol-ngobrol bareng di stage tentang Aging Gracefully.
+14	Dan hari ini senang banget karena tadi sempat ngobrol-ngobrol bareng di stage tentang Aging Gracefully.
+15	Dan hari ini senang banget karena tadi sempat ngobrol-ngobrol bareng di stage tentang Aging Gracefully.
+16	Dan hari ini senang banget karena tadi sempat ngobrol-ngobrol bareng di stage tentang Aging Gracefully.
+17	Dan hari ini senang banget karena tadi sempat ngobrol-ngobrol bareng di stage tentang Aging Gracefully.
+18	Dan hari ini senang banget karena tadi sempat ngobrol-ngobrol bareng di stage tentang Aging Gracefully.
+19	Dan hari ini senang banget karena tadi sempat ngobrol-ngobrol bareng di stage tentang Aging Gracefully.
+20	Dan hari ini senang banget karena tadi sempat ngobrol-ngobrol bareng di stage tentang Aging Gracefully.
+21	Dan hari ini senang banget karena tadi sempat ngobrol-ngobrol bareng di stage tentang Aging Gracefully.
+22	Dan hari ini senang banget karena tadi sempat ngobrol-ngobrol bareng di stage tentang Aging Gracefully.
+23	Dan hari ini senang banget karena tadi sempat ngobrol-ngobrol bareng di stage tentang Aging Gracefully. Aku senang banget ada di Skinverse Klinik karena disini ada AI tools, ada teknologi yang bisa membantu kita
+24	Dan hari ini senang banget karena tadi sempat ngobrol-ngobrol bareng di stage tentang Aging Gracefully. Aku senang banget ada di Skinverse Klinik karena disini ada AI tools, ada teknologi yang bisa membantu kita
+25	Aku senang banget ada di Skinverse Klinik karena disini ada AI tools, ada teknologi yang bisa membantu kita
+26	Aku senang banget ada di Skinverse Klinik karena disini ada AI tools, ada teknologi yang bisa membantu kita
+27	Aku senang banget ada di Skinverse Klinik karena disini ada AI tools, ada teknologi yang bisa membantu kita
+28	Aku senang banget ada di Skinverse Klinik karena disini ada AI tools, ada teknologi yang bisa membantu kita
+29	Aku senang banget ada di Skinverse Klinik karena disini ada AI tools, ada teknologi yang bisa membantu kita
+30	Aku senang banget ada di Skinverse Klinik karena disini ada AI tools, ada teknologi yang bisa membantu kita
+31	Aku senang banget ada di Skinverse Klinik karena disini ada AI tools, ada teknologi yang bisa membantu kita
+32	Aku senang banget ada di Skinverse Klinik karena disini ada AI tools, ada teknologi yang bisa membantu kita
+33	Aku senang banget ada di Skinverse Klinik karena disini ada AI tools, ada teknologi yang bisa membantu kita lebih mengenal kulit kita itu seperti apa dan produk apa aja sih yang dibutuhkan sama kulit kita gitu.
+34	Aku senang banget ada di Skinverse Klinik karena disini ada AI tools, ada teknologi yang bisa membantu kita lebih mengenal kulit kita itu seperti apa dan produk apa aja sih yang dibutuhkan sama kulit kita gitu.
+35	Aku senang banget ada di Skinverse Klinik karena disini ada AI tools, ada teknologi yang bisa membantu kita lebih mengenal kulit kita itu seperti apa dan produk apa aja sih yang dibutuhkan sama kulit kita gitu.
+36	lebih mengenal kulit kita itu seperti apa dan produk apa aja sih yang dibutuhkan sama kulit kita gitu.
+37	lebih mengenal kulit kita itu seperti apa dan produk apa aja sih yang dibutuhkan sama kulit kita gitu.
+38	lebih mengenal kulit kita itu seperti apa dan produk apa aja sih yang dibutuhkan sama kulit kita gitu.
+39	lebih mengenal kulit kita itu seperti apa dan produk apa aja sih yang dibutuhkan sama kulit kita gitu.
+40	lebih mengenal kulit kita itu seperti apa dan produk apa aja sih yang dibutuhkan sama kulit kita gitu.
+41	lebih mengenal kulit kita itu seperti apa dan produk apa aja sih yang dibutuhkan sama kulit kita gitu.
+42	lebih mengenal kulit kita itu seperti apa dan produk apa aja sih yang dibutuhkan sama kulit kita gitu.
+43	lebih mengenal kulit kita itu seperti apa dan produk apa aja sih yang dibutuhkan sama kulit kita gitu.
+44	lebih mengenal kulit kita itu seperti apa dan produk apa aja sih yang dibutuhkan sama kulit kita gitu. Jadi holistic care as well as technological advancement sangat dibahas gitu di Skinverse Klinik ini.
+45	lebih mengenal kulit kita itu seperti apa dan produk apa aja sih yang dibutuhkan sama kulit kita gitu. Jadi holistic care as well as technological advancement sangat dibahas gitu di Skinverse Klinik ini.
+46	Jadi holistic care as well as technological advancement sangat dibahas gitu di Skinverse Klinik ini.
+47	Jadi holistic care as well as technological advancement sangat dibahas gitu di Skinverse Klinik ini.
+48	Jadi holistic care as well as technological advancement sangat dibahas gitu di Skinverse Klinik ini.
+49	Jadi holistic care as well as technological advancement sangat dibahas gitu di Skinverse Klinik ini.
+50	Jadi holistic care as well as technological advancement sangat dibahas gitu di Skinverse Klinik ini.
+51	Jadi holistic care as well as technological advancement sangat dibahas gitu di Skinverse Klinik ini.
+52	Jadi holistic care as well as technological advancement sangat dibahas gitu di Skinverse Klinik ini.
+53	Jadi holistic care as well as technological advancement sangat dibahas gitu di Skinverse Klinik ini.
+54	Jadi holistic care as well as technological advancement sangat dibahas gitu di Skinverse Klinik ini.
+55	Jadi holistic care as well as technological advancement sangat dibahas gitu di Skinverse Klinik ini.
+56	Jadi holistic care as well as technological advancement sangat dibahas gitu di Skinverse Klinik ini.
+57	Jadi holistic care as well as technological advancement sangat dibahas gitu di Skinverse Klinik ini. Jadi aku senang banget ada disini.
+58	Jadi holistic care as well as technological advancement sangat dibahas gitu di Skinverse Klinik ini. Jadi aku senang banget ada disini.
+59	Jadi aku senang banget ada disini.
+60	Jadi aku senang banget ada disini. Buat kamu yang mau Aging Gracefully, jangan lupa untuk datang ke Skinverse Klinik Wardah di Kota Kasablanka
+61	Jadi aku senang banget ada disini. Buat kamu yang mau Aging Gracefully, jangan lupa untuk datang ke Skinverse Klinik Wardah di Kota Kasablanka
+62	Buat kamu yang mau Aging Gracefully, jangan lupa untuk datang ke Skinverse Klinik Wardah di Kota Kasablanka
+63	Buat kamu yang mau Aging Gracefully, jangan lupa untuk datang ke Skinverse Klinik Wardah di Kota Kasablanka
+64	Buat kamu yang mau Aging Gracefully, jangan lupa untuk datang ke Skinverse Klinik Wardah di Kota Kasablanka
+65	Buat kamu yang mau Aging Gracefully, jangan lupa untuk datang ke Skinverse Klinik Wardah di Kota Kasablanka
+66	Buat kamu yang mau Aging Gracefully, jangan lupa untuk datang ke Skinverse Klinik Wardah di Kota Kasablanka
+67	Buat kamu yang mau Aging Gracefully, jangan lupa untuk datang ke Skinverse Klinik Wardah di Kota Kasablanka
+68	Buat kamu yang mau Aging Gracefully, jangan lupa untuk datang ke Skinverse Klinik Wardah di Kota Kasablanka
+69	Buat kamu yang mau Aging Gracefully, jangan lupa untuk datang ke Skinverse Klinik Wardah di Kota Kasablanka
+70	Buat kamu yang mau Aging Gracefully, jangan lupa untuk datang ke Skinverse Klinik Wardah di Kota Kasablanka
+71	Buat kamu yang mau Aging Gracefully, jangan lupa untuk datang ke Skinverse Klinik Wardah di Kota Kasablanka sampai dengan tanggal 3 Agustus ini.
+72	Buat kamu yang mau Aging Gracefully, jangan lupa untuk datang ke Skinverse Klinik Wardah di Kota Kasablanka sampai dengan tanggal 3 Agustus ini.
+73	sampai dengan tanggal 3 Agustus ini.
+74	sampai dengan tanggal 3 Agustus ini.
+75	sampai dengan tanggal 3 Agustus ini.
+76	sampai dengan tanggal 3 Agustus ini. See you!
+77	See you!
+78	See you!
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	[NO_SPEECH]
+83	[NO_SPEECH]
+84	[NO_SPEECH]
+85	[NO_SPEECH]
+86	[NO_SPEECH]
+87	[NO_SPEECH]
+88	[NO_SPEECH]
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	[NO_SPEECH]

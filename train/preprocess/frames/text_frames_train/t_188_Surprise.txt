@@ -1,0 +1,177 @@
+0	Lamborghini bilang ini adalah salah satu mobil masterpiece mereka.
+1	Lamborghini bilang ini adalah salah satu mobil masterpiece mereka.
+2	Lamborghini bilang ini adalah salah satu mobil masterpiece mereka.
+3	Lamborghini bilang ini adalah salah satu mobil masterpiece mereka.
+4	Lamborghini bilang ini adalah salah satu mobil masterpiece mereka.
+5	Lamborghini bilang ini adalah salah satu mobil masterpiece mereka.
+6	Lamborghini bilang ini adalah salah satu mobil masterpiece mereka.
+7	Kenapa bisa begitu?
+8	Kenapa bisa begitu?
+9	Kenapa bisa begitu? Ayo kita lihat.
+10	Kenapa bisa begitu? Ayo kita lihat.
+11	Ayo kita lihat.
+12	Ayo kita lihat. Nama mobil ini adalah Lamborghini Huracan Technica.
+13	Nama mobil ini adalah Lamborghini Huracan Technica.
+14	Nama mobil ini adalah Lamborghini Huracan Technica.
+15	Nama mobil ini adalah Lamborghini Huracan Technica.
+16	Nama mobil ini adalah Lamborghini Huracan Technica.
+17	Nama mobil ini adalah Lamborghini Huracan Technica. Dan filosofinya adalah memadukan antara kemudahan dan kenyamanan penggunaan harian dari Huracan Evo,
+18	Nama mobil ini adalah Lamborghini Huracan Technica. Dan filosofinya adalah memadukan antara kemudahan dan kenyamanan penggunaan harian dari Huracan Evo,
+19	Dan filosofinya adalah memadukan antara kemudahan dan kenyamanan penggunaan harian dari Huracan Evo,
+20	Dan filosofinya adalah memadukan antara kemudahan dan kenyamanan penggunaan harian dari Huracan Evo,
+21	Dan filosofinya adalah memadukan antara kemudahan dan kenyamanan penggunaan harian dari Huracan Evo,
+22	Dan filosofinya adalah memadukan antara kemudahan dan kenyamanan penggunaan harian dari Huracan Evo,
+23	Dan filosofinya adalah memadukan antara kemudahan dan kenyamanan penggunaan harian dari Huracan Evo,
+24	Dan filosofinya adalah memadukan antara kemudahan dan kenyamanan penggunaan harian dari Huracan Evo,
+25	Dan filosofinya adalah memadukan antara kemudahan dan kenyamanan penggunaan harian dari Huracan Evo,
+26	Dan filosofinya adalah memadukan antara kemudahan dan kenyamanan penggunaan harian dari Huracan Evo,
+27	Dan filosofinya adalah memadukan antara kemudahan dan kenyamanan penggunaan harian dari Huracan Evo,
+28	Dan filosofinya adalah memadukan antara kemudahan dan kenyamanan penggunaan harian dari Huracan Evo,
+29	Dan filosofinya adalah memadukan antara kemudahan dan kenyamanan penggunaan harian dari Huracan Evo,
+30	Dan filosofinya adalah memadukan antara kemudahan dan kenyamanan penggunaan harian dari Huracan Evo,
+31	Dan filosofinya adalah memadukan antara kemudahan dan kenyamanan penggunaan harian dari Huracan Evo,
+32	Dan filosofinya adalah memadukan antara kemudahan dan kenyamanan penggunaan harian dari Huracan Evo,
+33	Dan filosofinya adalah memadukan antara kemudahan dan kenyamanan penggunaan harian dari Huracan Evo, tapi dengan penggerak yang diambil langsung dari Huracan STO.
+34	Dan filosofinya adalah memadukan antara kemudahan dan kenyamanan penggunaan harian dari Huracan Evo, tapi dengan penggerak yang diambil langsung dari Huracan STO.
+35	tapi dengan penggerak yang diambil langsung dari Huracan STO.
+36	tapi dengan penggerak yang diambil langsung dari Huracan STO.
+37	tapi dengan penggerak yang diambil langsung dari Huracan STO.
+38	tapi dengan penggerak yang diambil langsung dari Huracan STO.
+39	tapi dengan penggerak yang diambil langsung dari Huracan STO.
+40	tapi dengan penggerak yang diambil langsung dari Huracan STO.
+41	tapi dengan penggerak yang diambil langsung dari Huracan STO.
+42	tapi dengan penggerak yang diambil langsung dari Huracan STO.
+43	tapi dengan penggerak yang diambil langsung dari Huracan STO.
+44	tapi dengan penggerak yang diambil langsung dari Huracan STO.
+45	tapi dengan penggerak yang diambil langsung dari Huracan STO. Makanya mesinnya sama dengan STO, 5200cc, V10, naturally aspirated engine.
+46	Makanya mesinnya sama dengan STO, 5200cc, V10, naturally aspirated engine.
+47	Makanya mesinnya sama dengan STO, 5200cc, V10, naturally aspirated engine.
+48	Makanya mesinnya sama dengan STO, 5200cc, V10, naturally aspirated engine.
+49	Makanya mesinnya sama dengan STO, 5200cc, V10, naturally aspirated engine.
+50	Makanya mesinnya sama dengan STO, 5200cc, V10, naturally aspirated engine.
+51	Makanya mesinnya sama dengan STO, 5200cc, V10, naturally aspirated engine.
+52	Makanya mesinnya sama dengan STO, 5200cc, V10, naturally aspirated engine.
+53	Makanya mesinnya sama dengan STO, 5200cc, V10, naturally aspirated engine.
+54	Makanya mesinnya sama dengan STO, 5200cc, V10, naturally aspirated engine.
+55	Makanya mesinnya sama dengan STO, 5200cc, V10, naturally aspirated engine.
+56	Makanya mesinnya sama dengan STO, 5200cc, V10, naturally aspirated engine. Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+57	Makanya mesinnya sama dengan STO, 5200cc, V10, naturally aspirated engine. Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+58	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+59	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+60	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+61	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+62	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+63	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+64	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+65	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+66	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+67	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+68	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+69	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+70	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+71	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+72	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+73	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+74	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+75	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+76	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+77	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+78	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam.
+79	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam. Bahkan lebih cepat dari STO.
+80	Anjing, tenaganya 640 PS, torsi 565 Nm, 0-100 3,2 detik, 0-200 9,1 detik, top speed 335 km per jam. Bahkan lebih cepat dari STO.
+81	Bahkan lebih cepat dari STO.
+82	Bahkan lebih cepat dari STO.
+83	Bahkan lebih cepat dari STO. Dia bisa lebih kencang dari STO karena sistem aerodinamikanya tidak se-ekstrim mobil yang track focus itu.
+84	Bahkan lebih cepat dari STO. Dia bisa lebih kencang dari STO karena sistem aerodinamikanya tidak se-ekstrim mobil yang track focus itu.
+85	Dia bisa lebih kencang dari STO karena sistem aerodinamikanya tidak se-ekstrim mobil yang track focus itu.
+86	Dia bisa lebih kencang dari STO karena sistem aerodinamikanya tidak se-ekstrim mobil yang track focus itu.
+87	Dia bisa lebih kencang dari STO karena sistem aerodinamikanya tidak se-ekstrim mobil yang track focus itu.
+88	Dia bisa lebih kencang dari STO karena sistem aerodinamikanya tidak se-ekstrim mobil yang track focus itu.
+89	Dia bisa lebih kencang dari STO karena sistem aerodinamikanya tidak se-ekstrim mobil yang track focus itu.
+90	Dia bisa lebih kencang dari STO karena sistem aerodinamikanya tidak se-ekstrim mobil yang track focus itu.
+91	Dia bisa lebih kencang dari STO karena sistem aerodinamikanya tidak se-ekstrim mobil yang track focus itu.
+92	Dia bisa lebih kencang dari STO karena sistem aerodinamikanya tidak se-ekstrim mobil yang track focus itu.
+93	Dia bisa lebih kencang dari STO karena sistem aerodinamikanya tidak se-ekstrim mobil yang track focus itu.
+94	Dia bisa lebih kencang dari STO karena sistem aerodinamikanya tidak se-ekstrim mobil yang track focus itu.
+95	Dia bisa lebih kencang dari STO karena sistem aerodinamikanya tidak se-ekstrim mobil yang track focus itu.
+96	Dia bisa lebih kencang dari STO karena sistem aerodinamikanya tidak se-ekstrim mobil yang track focus itu. Tapi dibandingkan Huracan Evo, mobil ini memiliki downforce 35% lebih besar,
+97	Dia bisa lebih kencang dari STO karena sistem aerodinamikanya tidak se-ekstrim mobil yang track focus itu. Tapi dibandingkan Huracan Evo, mobil ini memiliki downforce 35% lebih besar,
+98	Tapi dibandingkan Huracan Evo, mobil ini memiliki downforce 35% lebih besar,
+99	Tapi dibandingkan Huracan Evo, mobil ini memiliki downforce 35% lebih besar,
+100	Tapi dibandingkan Huracan Evo, mobil ini memiliki downforce 35% lebih besar,
+101	Tapi dibandingkan Huracan Evo, mobil ini memiliki downforce 35% lebih besar,
+102	Tapi dibandingkan Huracan Evo, mobil ini memiliki downforce 35% lebih besar,
+103	Tapi dibandingkan Huracan Evo, mobil ini memiliki downforce 35% lebih besar,
+104	Tapi dibandingkan Huracan Evo, mobil ini memiliki downforce 35% lebih besar,
+105	Tapi dibandingkan Huracan Evo, mobil ini memiliki downforce 35% lebih besar,
+106	Tapi dibandingkan Huracan Evo, mobil ini memiliki downforce 35% lebih besar,
+107	Tapi dibandingkan Huracan Evo, mobil ini memiliki downforce 35% lebih besar,
+108	Tapi dibandingkan Huracan Evo, mobil ini memiliki downforce 35% lebih besar,
+109	Tapi dibandingkan Huracan Evo, mobil ini memiliki downforce 35% lebih besar, tapi dengan hambatan total 20%.
+110	tapi dengan hambatan total 20%.
+111	tapi dengan hambatan total 20%.
+112	tapi dengan hambatan total 20%.
+113	tapi dengan hambatan total 20%.
+114	tapi dengan hambatan total 20%.
+115	tapi dengan hambatan total 20%.
+116	tapi dengan hambatan total 20%.
+117	tapi dengan hambatan total 20%.
+118	Lebih minim.
+119	Lebih minim.
+120	Lebih minim.
+121	Lebih minim.
+122	Bahkan bobotnya pun lebih enteng, 20 kg dibandingkan Huracan Evo.
+123	Bahkan bobotnya pun lebih enteng, 20 kg dibandingkan Huracan Evo.
+124	Bahkan bobotnya pun lebih enteng, 20 kg dibandingkan Huracan Evo.
+125	Bahkan bobotnya pun lebih enteng, 20 kg dibandingkan Huracan Evo.
+126	Bahkan bobotnya pun lebih enteng, 20 kg dibandingkan Huracan Evo.
+127	Bahkan bobotnya pun lebih enteng, 20 kg dibandingkan Huracan Evo.
+128	Bahkan bobotnya pun lebih enteng, 20 kg dibandingkan Huracan Evo.
+129	Bahkan bobotnya pun lebih enteng, 20 kg dibandingkan Huracan Evo.
+130	Bahkan bobotnya pun lebih enteng, 20 kg dibandingkan Huracan Evo.
+131	Bahkan bobotnya pun lebih enteng, 20 kg dibandingkan Huracan Evo.
+132	Bahkan bobotnya pun lebih enteng, 20 kg dibandingkan Huracan Evo. Kurang afdal rasanya kalau ada Lamborghini dan kita nggak dengar suaranya.
+133	Bahkan bobotnya pun lebih enteng, 20 kg dibandingkan Huracan Evo. Kurang afdal rasanya kalau ada Lamborghini dan kita nggak dengar suaranya.
+134	Kurang afdal rasanya kalau ada Lamborghini dan kita nggak dengar suaranya.
+135	Kurang afdal rasanya kalau ada Lamborghini dan kita nggak dengar suaranya.
+136	Kurang afdal rasanya kalau ada Lamborghini dan kita nggak dengar suaranya.
+137	Kurang afdal rasanya kalau ada Lamborghini dan kita nggak dengar suaranya.
+138	Kurang afdal rasanya kalau ada Lamborghini dan kita nggak dengar suaranya. Kita dengerin seperti ini suaranya.
+139	Kurang afdal rasanya kalau ada Lamborghini dan kita nggak dengar suaranya. Kita dengerin seperti ini suaranya.
+140	Kita dengerin seperti ini suaranya.
+141	Kita dengerin seperti ini suaranya.
+142	Kita dengerin seperti ini suaranya. .
+143	.
+144	[NO_SPEECH]
+145	[NO_SPEECH]
+146	[NO_SPEECH]
+147	[NO_SPEECH]
+148	[NO_SPEECH]
+149	[NO_SPEECH]
+150	[NO_SPEECH]
+151	[NO_SPEECH]
+152	[NO_SPEECH]
+153	[NO_SPEECH]
+154	[NO_SPEECH]
+155	[NO_SPEECH]
+156	[NO_SPEECH]
+157	[NO_SPEECH]
+158	[NO_SPEECH]
+159	[NO_SPEECH]
+160	Info lebih lanjut tentang mobil ini bisa langsung ke Instagramnya Ivan's Motor.
+161	Info lebih lanjut tentang mobil ini bisa langsung ke Instagramnya Ivan's Motor.
+162	Info lebih lanjut tentang mobil ini bisa langsung ke Instagramnya Ivan's Motor.
+163	Info lebih lanjut tentang mobil ini bisa langsung ke Instagramnya Ivan's Motor.
+164	Info lebih lanjut tentang mobil ini bisa langsung ke Instagramnya Ivan's Motor.
+165	Info lebih lanjut tentang mobil ini bisa langsung ke Instagramnya Ivan's Motor.
+166	Info lebih lanjut tentang mobil ini bisa langsung ke Instagramnya Ivan's Motor.
+167	Info lebih lanjut tentang mobil ini bisa langsung ke Instagramnya Ivan's Motor. Kalau masih penasaran, tonton videonya di YouTube.
+168	Info lebih lanjut tentang mobil ini bisa langsung ke Instagramnya Ivan's Motor. Kalau masih penasaran, tonton videonya di YouTube.
+169	Kalau masih penasaran, tonton videonya di YouTube.
+170	Kalau masih penasaran, tonton videonya di YouTube.
+171	Kalau masih penasaran, tonton videonya di YouTube.
+172	Kalau masih penasaran, tonton videonya di YouTube. .
+173	.
+174	.
+175	[NO_SPEECH]
+176	[NO_SPEECH]

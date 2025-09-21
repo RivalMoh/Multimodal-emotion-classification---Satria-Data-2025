@@ -1,0 +1,143 @@
+0	Jen larang aku review produk ini karena takut viral
+1	Jen larang aku review produk ini karena takut viral
+2	Jen larang aku review produk ini karena takut viral
+3	Jen larang aku review produk ini karena takut viral
+4	Jen larang aku review produk ini karena takut viral
+5	Jen larang aku review produk ini karena takut viral Bapak, bohong banget gak aku review
+6	Jen larang aku review produk ini karena takut viral Bapak, bohong banget gak aku review
+7	Bapak, bohong banget gak aku review
+8	Bapak, bohong banget gak aku review
+9	Bapak, bohong banget gak aku review Karena aku cinta banget sama produk dari Bumi yang baru ini
+10	Bapak, bohong banget gak aku review Karena aku cinta banget sama produk dari Bumi yang baru ini
+11	Karena aku cinta banget sama produk dari Bumi yang baru ini
+12	Karena aku cinta banget sama produk dari Bumi yang baru ini
+13	Karena aku cinta banget sama produk dari Bumi yang baru ini
+14	Karena aku cinta banget sama produk dari Bumi yang baru ini
+15	Karena aku cinta banget sama produk dari Bumi yang baru ini
+16	Karena aku cinta banget sama produk dari Bumi yang baru ini Ini adalah Bumi Toner Skin Ready
+17	Karena aku cinta banget sama produk dari Bumi yang baru ini Ini adalah Bumi Toner Skin Ready
+18	Ini adalah Bumi Toner Skin Ready
+19	Ini adalah Bumi Toner Skin Ready
+20	Ini adalah Bumi Toner Skin Ready
+21	Ini adalah Bumi Toner Skin Ready Tapi dia bukan sepeda toner, dia multi action toner
+22	Ini adalah Bumi Toner Skin Ready Tapi dia bukan sepeda toner, dia multi action toner
+23	Tapi dia bukan sepeda toner, dia multi action toner
+24	Tapi dia bukan sepeda toner, dia multi action toner
+25	Tapi dia bukan sepeda toner, dia multi action toner
+26	Tapi dia bukan sepeda toner, dia multi action toner
+27	Tapi dia bukan sepeda toner, dia multi action toner
+28	Tapi dia bukan sepeda toner, dia multi action toner Yang bisa berfungsi sebagai toner, serum, dan juga moisturizer
+29	Yang bisa berfungsi sebagai toner, serum, dan juga moisturizer
+30	Yang bisa berfungsi sebagai toner, serum, dan juga moisturizer
+31	Yang bisa berfungsi sebagai toner, serum, dan juga moisturizer
+32	Yang bisa berfungsi sebagai toner, serum, dan juga moisturizer
+33	Yang bisa berfungsi sebagai toner, serum, dan juga moisturizer
+34	Yang bisa berfungsi sebagai toner, serum, dan juga moisturizer
+35	Yang bisa berfungsi sebagai toner, serum, dan juga moisturizer Menjaga kelembapan dan untuk anti-aging ya
+36	Yang bisa berfungsi sebagai toner, serum, dan juga moisturizer Menjaga kelembapan dan untuk anti-aging ya
+37	Menjaga kelembapan dan untuk anti-aging ya
+38	Menjaga kelembapan dan untuk anti-aging ya
+39	Menjaga kelembapan dan untuk anti-aging ya
+40	Menjaga kelembapan dan untuk anti-aging ya
+41	Menjaga kelembapan dan untuk anti-aging ya Dan dia bisa menjaga kelembapannya itu sampai 24 jam
+42	Menjaga kelembapan dan untuk anti-aging ya Dan dia bisa menjaga kelembapannya itu sampai 24 jam
+43	Dan dia bisa menjaga kelembapannya itu sampai 24 jam
+44	Dan dia bisa menjaga kelembapannya itu sampai 24 jam
+45	Dan dia bisa menjaga kelembapannya itu sampai 24 jam
+46	Dan dia bisa menjaga kelembapannya itu sampai 24 jam
+47	Dan dia bisa menjaga kelembapannya itu sampai 24 jam Look at my skin!
+48	Dan dia bisa menjaga kelembapannya itu sampai 24 jam Look at my skin!
+49	Look at my skin!
+50	Look at my skin!
+51	Look at my skin! Super hydrated dan dia teksturnya super thick
+52	Look at my skin! Super hydrated dan dia teksturnya super thick
+53	Super hydrated dan dia teksturnya super thick
+54	Super hydrated dan dia teksturnya super thick
+55	Super hydrated dan dia teksturnya super thick
+56	Super hydrated dan dia teksturnya super thick Bagus banget untuk jadi base makeup juga
+57	Super hydrated dan dia teksturnya super thick Bagus banget untuk jadi base makeup juga
+58	Bagus banget untuk jadi base makeup juga
+59	Bagus banget untuk jadi base makeup juga
+60	Bagus banget untuk jadi base makeup juga Pokoknya aduh aku cinta banget sama toner ini
+61	Bagus banget untuk jadi base makeup juga Pokoknya aduh aku cinta banget sama toner ini
+62	Pokoknya aduh aku cinta banget sama toner ini
+63	Pokoknya aduh aku cinta banget sama toner ini
+64	Pokoknya aduh aku cinta banget sama toner ini Aku pake 2 minggu, pakenya segini loh
+65	Pokoknya aduh aku cinta banget sama toner ini Aku pake 2 minggu, pakenya segini loh
+66	Aku pake 2 minggu, pakenya segini loh
+67	Aku pake 2 minggu, pakenya segini loh
+68	Aku pake 2 minggu, pakenya segini loh Keliatan gak?
+69	Aku pake 2 minggu, pakenya segini loh Keliatan gak? Saking seringnya aku pake, ini bisa dipake pagi dan malam hari
+70	Keliatan gak? Saking seringnya aku pake, ini bisa dipake pagi dan malam hari
+71	Saking seringnya aku pake, ini bisa dipake pagi dan malam hari
+72	Saking seringnya aku pake, ini bisa dipake pagi dan malam hari
+73	Saking seringnya aku pake, ini bisa dipake pagi dan malam hari
+74	Saking seringnya aku pake, ini bisa dipake pagi dan malam hari
+75	Saking seringnya aku pake, ini bisa dipake pagi dan malam hari
+76	Saking seringnya aku pake, ini bisa dipake pagi dan malam hari Bisa dipake Bumi, Busui
+77	Saking seringnya aku pake, ini bisa dipake pagi dan malam hari Bisa dipake Bumi, Busui
+78	Bisa dipake Bumi, Busui
+79	Bisa dipake Bumi, Busui Everyone can use it temen-temen
+80	Bisa dipake Bumi, Busui Everyone can use it temen-temen
+81	Everyone can use it temen-temen
+82	Everyone can use it temen-temen
+83	Everyone can use it temen-temen
+84	Everyone can use it temen-temen Aku cinta banget, gak apa-apa ya viralinnya
+85	Everyone can use it temen-temen Aku cinta banget, gak apa-apa ya viralinnya
+86	Aku cinta banget, gak apa-apa ya viralinnya
+87	Aku cinta banget, gak apa-apa ya viralinnya
+88	Aku cinta banget, gak apa-apa ya viralinnya Yang ini stoknya banyak, Bumi awas loh
+89	Aku cinta banget, gak apa-apa ya viralinnya Yang ini stoknya banyak, Bumi awas loh
+90	Yang ini stoknya banyak, Bumi awas loh
+91	Yang ini stoknya banyak, Bumi awas loh
+92	Yang ini stoknya banyak, Bumi awas loh Kalo sampe stoknya sedikit
+93	Yang ini stoknya banyak, Bumi awas loh Kalo sampe stoknya sedikit
+94	Kalo sampe stoknya sedikit Lihat dong ini
+95	Kalo sampe stoknya sedikit Lihat dong ini
+96	Lihat dong ini
+97	Apakah kalian gak boleh pake serum lagi atau moisturizer lagi setelah pake ini?
+98	Apakah kalian gak boleh pake serum lagi atau moisturizer lagi setelah pake ini?
+99	Apakah kalian gak boleh pake serum lagi atau moisturizer lagi setelah pake ini?
+100	Apakah kalian gak boleh pake serum lagi atau moisturizer lagi setelah pake ini?
+101	Apakah kalian gak boleh pake serum lagi atau moisturizer lagi setelah pake ini?
+102	Apakah kalian gak boleh pake serum lagi atau moisturizer lagi setelah pake ini?
+103	Apakah kalian gak boleh pake serum lagi atau moisturizer lagi setelah pake ini?
+104	Apakah kalian gak boleh pake serum lagi atau moisturizer lagi setelah pake ini? Tentunya tetep boleh
+105	Apakah kalian gak boleh pake serum lagi atau moisturizer lagi setelah pake ini? Tentunya tetep boleh
+106	Tentunya tetep boleh Tapi kalo lagi mager bisa banget kan pake ini doang
+107	Tentunya tetep boleh Tapi kalo lagi mager bisa banget kan pake ini doang
+108	Tapi kalo lagi mager bisa banget kan pake ini doang
+109	Tapi kalo lagi mager bisa banget kan pake ini doang
+110	Tapi kalo lagi mager bisa banget kan pake ini doang
+111	Tapi kalo lagi mager bisa banget kan pake ini doang
+112	Tapi kalo lagi mager bisa banget kan pake ini doang Karena dia udah multi action
+113	Tapi kalo lagi mager bisa banget kan pake ini doang Karena dia udah multi action
+114	Karena dia udah multi action Disini tuh ada
+115	Karena dia udah multi action Disini tuh ada
+116	Disini tuh ada Daging seng, ada rice extract
+117	Disini tuh ada Daging seng, ada rice extract
+118	Daging seng, ada rice extract
+119	Daging seng, ada rice extract
+120	Daging seng, ada rice extract Dan juga ada beberapa ingredients
+121	Daging seng, ada rice extract Dan juga ada beberapa ingredients
+122	Dan juga ada beberapa ingredients
+123	Dan juga ada beberapa ingredients
+124	Dan juga ada beberapa ingredients Yang bantu untuk melembabkan
+125	Dan juga ada beberapa ingredients Yang bantu untuk melembabkan
+126	Yang bantu untuk melembabkan
+127	Yang bantu untuk melembabkan Yang akan aku tulisin disini
+128	Yang bantu untuk melembabkan Yang akan aku tulisin disini
+129	Yang akan aku tulisin disini
+130	Yang akan aku tulisin disini Ini mantep banget, kalian harus coba
+131	Yang akan aku tulisin disini Ini mantep banget, kalian harus coba
+132	Ini mantep banget, kalian harus coba
+133	Ini mantep banget, kalian harus coba
+134	Ini mantep banget, kalian harus coba
+135	Ini mantep banget, kalian harus coba Definitely Tasha Warasha approve
+136	Ini mantep banget, kalian harus coba Definitely Tasha Warasha approve
+137	Definitely Tasha Warasha approve
+138	Definitely Tasha Warasha approve
+139	Definitely Tasha Warasha approve
+140	Definitely Tasha Warasha approve
+141	Definitely Tasha Warasha approve
+142	[NO_SPEECH]

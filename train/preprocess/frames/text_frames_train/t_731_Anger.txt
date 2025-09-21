@@ -1,0 +1,168 @@
+0	Kenapa aksi premanisme ini masih bisa terjadi sampai tahun 2025?
+1	Kenapa aksi premanisme ini masih bisa terjadi sampai tahun 2025?
+2	Kenapa aksi premanisme ini masih bisa terjadi sampai tahun 2025?
+3	Kenapa aksi premanisme ini masih bisa terjadi sampai tahun 2025?
+4	Kenapa aksi premanisme ini masih bisa terjadi sampai tahun 2025?
+5	Kenapa aksi premanisme ini masih bisa terjadi sampai tahun 2025?
+6	Kenapa aksi premanisme ini masih bisa terjadi sampai tahun 2025?
+7	Kenapa aksi premanisme ini masih bisa terjadi sampai tahun 2025?
+8	Kenapa aksi premanisme ini masih bisa terjadi sampai tahun 2025? Iya kalau diterusuri sebabnya tentu banyak.
+9	Iya kalau diterusuri sebabnya tentu banyak.
+10	Iya kalau diterusuri sebabnya tentu banyak.
+11	Iya kalau diterusuri sebabnya tentu banyak.
+12	Iya kalau diterusuri sebabnya tentu banyak.
+13	Iya kalau diterusuri sebabnya tentu banyak.
+14	Iya kalau diterusuri sebabnya tentu banyak.
+15	Iya kalau diterusuri sebabnya tentu banyak. Antara lain karena memang ada yang memelihara.
+16	Antara lain karena memang ada yang memelihara.
+17	Antara lain karena memang ada yang memelihara.
+18	Antara lain karena memang ada yang memelihara.
+19	Antara lain karena memang ada yang memelihara.
+20	Antara lain karena memang ada yang memelihara. Maksudnya pelihara itu apa Pak?
+21	Maksudnya pelihara itu apa Pak?
+22	Maksudnya pelihara itu apa Pak?
+23	Maksudnya pelihara itu apa Pak? Kayak untungnya apa buat orang yang mempelihara ormas itu untungnya apa?
+24	Maksudnya pelihara itu apa Pak? Kayak untungnya apa buat orang yang mempelihara ormas itu untungnya apa?
+25	Kayak untungnya apa buat orang yang mempelihara ormas itu untungnya apa?
+26	Kayak untungnya apa buat orang yang mempelihara ormas itu untungnya apa?
+27	Kayak untungnya apa buat orang yang mempelihara ormas itu untungnya apa?
+28	Kayak untungnya apa buat orang yang mempelihara ormas itu untungnya apa?
+29	Kayak untungnya apa buat orang yang mempelihara ormas itu untungnya apa?
+30	Kayak untungnya apa buat orang yang mempelihara ormas itu untungnya apa?
+31	Kayak untungnya apa buat orang yang mempelihara ormas itu untungnya apa?
+32	Kayak untungnya apa buat orang yang mempelihara ormas itu untungnya apa? Sumber dana bisa.
+33	Kayak untungnya apa buat orang yang mempelihara ormas itu untungnya apa? Sumber dana bisa.
+34	Sumber dana bisa. Kelompok preman yang terorganisir itu kan suka melindungi pembalakan hutan dan sebagainya.
+35	Sumber dana bisa. Kelompok preman yang terorganisir itu kan suka melindungi pembalakan hutan dan sebagainya.
+36	Kelompok preman yang terorganisir itu kan suka melindungi pembalakan hutan dan sebagainya.
+37	Kelompok preman yang terorganisir itu kan suka melindungi pembalakan hutan dan sebagainya.
+38	Kelompok preman yang terorganisir itu kan suka melindungi pembalakan hutan dan sebagainya.
+39	Kelompok preman yang terorganisir itu kan suka melindungi pembalakan hutan dan sebagainya.
+40	Kelompok preman yang terorganisir itu kan suka melindungi pembalakan hutan dan sebagainya.
+41	Kelompok preman yang terorganisir itu kan suka melindungi pembalakan hutan dan sebagainya.
+42	Kelompok preman yang terorganisir itu kan suka melindungi pembalakan hutan dan sebagainya.
+43	Kelompok preman yang terorganisir itu kan suka melindungi pembalakan hutan dan sebagainya.
+44	Kelompok preman yang terorganisir itu kan suka melindungi pembalakan hutan dan sebagainya.
+45	Kelompok preman yang terorganisir itu kan suka melindungi pembalakan hutan dan sebagainya.
+46	Kelompok preman yang terorganisir itu kan suka melindungi pembalakan hutan dan sebagainya.
+47	Kelompok preman yang terorganisir itu kan suka melindungi pembalakan hutan dan sebagainya.
+48	Kelompok preman yang terorganisir itu kan suka melindungi pembalakan hutan dan sebagainya. Tanah-tanah kosong diambil oleh preman.
+49	Kelompok preman yang terorganisir itu kan suka melindungi pembalakan hutan dan sebagainya. Tanah-tanah kosong diambil oleh preman.
+50	Tanah-tanah kosong diambil oleh preman.
+51	Tanah-tanah kosong diambil oleh preman.
+52	Tanah-tanah kosong diambil oleh preman. Nanti yang melindungi ini dapat.
+53	Tanah-tanah kosong diambil oleh preman. Nanti yang melindungi ini dapat.
+54	Nanti yang melindungi ini dapat.
+55	Nanti yang melindungi ini dapat. Dapat gitu.
+56	Nanti yang melindungi ini dapat. Dapat gitu.
+57	Dapat gitu. Atau yang membuatkan proses-proses itu dapat.
+58	Dapat gitu. Atau yang membuatkan proses-proses itu dapat.
+59	Atau yang membuatkan proses-proses itu dapat.
+60	Atau yang membuatkan proses-proses itu dapat.
+61	Atau yang membuatkan proses-proses itu dapat.
+62	Atau yang membuatkan proses-proses itu dapat.
+63	Atau yang membuatkan proses-proses itu dapat. Berarti itu sudah setor sampai atas tadi ya Pak?
+64	Berarti itu sudah setor sampai atas tadi ya Pak?
+65	Berarti itu sudah setor sampai atas tadi ya Pak?
+66	Berarti itu sudah setor sampai atas tadi ya Pak? Bisa jadi.
+67	Berarti itu sudah setor sampai atas tadi ya Pak? Bisa jadi. Bisa jadi setor.
+68	Bisa jadi. Bisa jadi setor.
+69	Bisa jadi setor.
+70	Bisa jadi setor.
+71	Bisa jadi setor. Bisa jadi dijadikan bodyguard.
+72	Bisa jadi dijadikan bodyguard.
+73	Bisa jadi dijadikan bodyguard.
+74	Bisa jadi dijadikan bodyguard.
+75	Bisa jadi dijadikan bodyguard. Misalnya sebuah organisasi yang tidak jelas punya gedung sekian banyak.
+76	Bisa jadi dijadikan bodyguard. Misalnya sebuah organisasi yang tidak jelas punya gedung sekian banyak.
+77	Misalnya sebuah organisasi yang tidak jelas punya gedung sekian banyak.
+78	Misalnya sebuah organisasi yang tidak jelas punya gedung sekian banyak.
+79	Misalnya sebuah organisasi yang tidak jelas punya gedung sekian banyak.
+80	Misalnya sebuah organisasi yang tidak jelas punya gedung sekian banyak.
+81	Misalnya sebuah organisasi yang tidak jelas punya gedung sekian banyak.
+82	Misalnya sebuah organisasi yang tidak jelas punya gedung sekian banyak. Menyita tanah sekian banyak.
+83	Misalnya sebuah organisasi yang tidak jelas punya gedung sekian banyak. Menyita tanah sekian banyak.
+84	Menyita tanah sekian banyak.
+85	Menyita tanah sekian banyak.
+86	Menyita tanah sekian banyak. Punya motor sekian banyak.
+87	Menyita tanah sekian banyak. Punya motor sekian banyak.
+88	Punya motor sekian banyak.
+89	Punya motor sekian banyak. Itu kan dari mana?
+90	Punya motor sekian banyak. Itu kan dari mana?
+91	Itu kan dari mana?
+92	Itu kan dari mana? Kan mesti bekerja secara gelap.
+93	Itu kan dari mana? Kan mesti bekerja secara gelap.
+94	Kan mesti bekerja secara gelap.
+95	Kan mesti bekerja secara gelap.
+96	Kan mesti bekerja secara gelap.
+97	Kan mesti bekerja secara gelap.
+98	Kan mesti bekerja secara gelap. Karena itu tidak ada pajaknya.
+99	Kan mesti bekerja secara gelap. Karena itu tidak ada pajaknya.
+100	Karena itu tidak ada pajaknya.
+101	Karena itu tidak ada pajaknya. Tidak ada laporannya.
+102	Karena itu tidak ada pajaknya. Tidak ada laporannya.
+103	Tidak ada laporannya. Kan harus dianggap gelap.
+104	Tidak ada laporannya. Kan harus dianggap gelap.
+105	Kan harus dianggap gelap. Sehingga kemarin disitakan oleh KPK.
+106	Kan harus dianggap gelap. Sehingga kemarin disitakan oleh KPK.
+107	Sehingga kemarin disitakan oleh KPK.
+108	Sehingga kemarin disitakan oleh KPK.
+109	Sehingga kemarin disitakan oleh KPK.
+110	Sehingga kemarin disitakan oleh KPK. Nah ini yang harus diselesaikan menurut saya.
+111	Sehingga kemarin disitakan oleh KPK. Nah ini yang harus diselesaikan menurut saya.
+112	Nah ini yang harus diselesaikan menurut saya.
+113	Nah ini yang harus diselesaikan menurut saya.
+114	Nah ini yang harus diselesaikan menurut saya.
+115	Nah ini yang harus diselesaikan menurut saya. Tidak karena kepentingan politik sesaat.
+116	Tidak karena kepentingan politik sesaat.
+117	Tidak karena kepentingan politik sesaat.
+118	Tidak karena kepentingan politik sesaat.
+119	Tidak karena kepentingan politik sesaat.
+120	Tidak karena kepentingan politik sesaat. Atau karena orang apes gitu.
+121	Tidak karena kepentingan politik sesaat. Atau karena orang apes gitu.
+122	Atau karena orang apes gitu.
+123	Atau karena orang apes gitu. Tahu apes.
+124	Atau karena orang apes gitu. Tahu apes. Preman udah tidak punya lagi cantolan.
+125	Tahu apes. Preman udah tidak punya lagi cantolan.
+126	Preman udah tidak punya lagi cantolan.
+127	Preman udah tidak punya lagi cantolan.
+128	Preman udah tidak punya lagi cantolan.
+129	Preman udah tidak punya lagi cantolan. Setelah politik habis.
+130	Preman udah tidak punya lagi cantolan. Setelah politik habis.
+131	Setelah politik habis.
+132	Setelah politik habis. Patternnya sudah tidak punya kekuatan politik.
+133	Setelah politik habis. Patternnya sudah tidak punya kekuatan politik.
+134	Patternnya sudah tidak punya kekuatan politik.
+135	Patternnya sudah tidak punya kekuatan politik.
+136	Patternnya sudah tidak punya kekuatan politik. Diambil kan.
+137	Patternnya sudah tidak punya kekuatan politik. Diambil kan.
+138	Diambil kan.
+139	Diambil kan. Itu namanya orang apes gitu.
+140	Itu namanya orang apes gitu.
+141	Itu namanya orang apes gitu.
+142	Itu namanya orang apes gitu.
+143	Itu namanya orang apes gitu. Sementara yang merasa punya cantolan.
+144	Sementara yang merasa punya cantolan.
+145	Sementara yang merasa punya cantolan.
+146	Sementara yang merasa punya cantolan.
+147	Sementara yang merasa punya cantolan. Oh saya temannya pejabat ini.
+148	Sementara yang merasa punya cantolan. Oh saya temannya pejabat ini.
+149	Oh saya temannya pejabat ini.
+150	Oh saya temannya pejabat ini. Saya bisa menentukan pejabat ini dan seterusnya gitu.
+151	Oh saya temannya pejabat ini. Saya bisa menentukan pejabat ini dan seterusnya gitu.
+152	Saya bisa menentukan pejabat ini dan seterusnya gitu.
+153	Saya bisa menentukan pejabat ini dan seterusnya gitu.
+154	Saya bisa menentukan pejabat ini dan seterusnya gitu.
+155	Saya bisa menentukan pejabat ini dan seterusnya gitu.
+156	Saya bisa menentukan pejabat ini dan seterusnya gitu.
+157	Saya bisa menentukan pejabat ini dan seterusnya gitu. Itu yang sekarang menjadi masalah kita.
+158	Itu yang sekarang menjadi masalah kita.
+159	Itu yang sekarang menjadi masalah kita.
+160	Itu yang sekarang menjadi masalah kita.
+161	Itu yang sekarang menjadi masalah kita.
+162	Itu yang sekarang menjadi masalah kita.
+163	Itu yang sekarang menjadi masalah kita.
+164	[NO_SPEECH]
+165	[NO_SPEECH]
+166	[NO_SPEECH]
+167	[NO_SPEECH]

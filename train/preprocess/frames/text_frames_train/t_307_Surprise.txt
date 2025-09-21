@@ -1,0 +1,149 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	Ketegangan China
+57	Ketegangan China
+58	Ketegangan China 180Hz IPS
+59	Ketegangan China 180Hz IPS
+60	180Hz IPS
+61	180Hz IPS Harga udah sentuh 1480
+62	180Hz IPS Harga udah sentuh 1480
+63	Harga udah sentuh 1480
+64	Harga udah sentuh 1480
+65	Harga udah sentuh 1480
+66	Harga udah sentuh 1480
+67	Harga udah sentuh 1480 Lu bayangin
+68	Harga udah sentuh 1480 Lu bayangin
+69	Lu bayangin
+70	Lu bayangin Full HD dan QHD Gaming
+71	Lu bayangin Full HD dan QHD Gaming
+72	Full HD dan QHD Gaming
+73	Full HD dan QHD Gaming
+74	Full HD dan QHD Gaming Bedanya 200-300 ribu
+75	Full HD dan QHD Gaming Bedanya 200-300 ribu
+76	Bedanya 200-300 ribu
+77	Bedanya 200-300 ribu
+78	Bedanya 200-300 ribu
+79	Bedanya 200-300 ribu Lu kebayang gak 2025
+80	Bedanya 200-300 ribu Lu kebayang gak 2025
+81	Lu kebayang gak 2025
+82	Lu kebayang gak 2025 Harga monitor kayak gimana di China
+83	Lu kebayang gak 2025 Harga monitor kayak gimana di China
+84	Harga monitor kayak gimana di China
+85	Harga monitor kayak gimana di China Dan kalo prediksi gua bener China akan bombardir
+86	Harga monitor kayak gimana di China Dan kalo prediksi gua bener China akan bombardir
+87	Dan kalo prediksi gua bener China akan bombardir
+88	Dan kalo prediksi gua bener China akan bombardir
+89	Dan kalo prediksi gua bener China akan bombardir
+90	Dan kalo prediksi gua bener China akan bombardir Barang-barangnya ke Indonesia
+91	Dan kalo prediksi gua bener China akan bombardir Barang-barangnya ke Indonesia
+92	Barang-barangnya ke Indonesia Harga China itu gak akan jauh dari Indonesia
+93	Barang-barangnya ke Indonesia Harga China itu gak akan jauh dari Indonesia
+94	Harga China itu gak akan jauh dari Indonesia
+95	Harga China itu gak akan jauh dari Indonesia
+96	Harga China itu gak akan jauh dari Indonesia
+97	Harga China itu gak akan jauh dari Indonesia
+98	Harga China itu gak akan jauh dari Indonesia Bahkan Xiaomi udah nunjukin nih
+99	Harga China itu gak akan jauh dari Indonesia Bahkan Xiaomi udah nunjukin nih
+100	Bahkan Xiaomi udah nunjukin nih
+101	Bahkan Xiaomi udah nunjukin nih
+102	Bahkan Xiaomi udah nunjukin nih Harga Xiaomi bisa dibawa ke Indonesia
+103	Bahkan Xiaomi udah nunjukin nih Harga Xiaomi bisa dibawa ke Indonesia
+104	Harga Xiaomi bisa dibawa ke Indonesia
+105	Harga Xiaomi bisa dibawa ke Indonesia
+106	Harga Xiaomi bisa dibawa ke Indonesia Jadi pastiin kalo lu mau beli monitor
+107	Harga Xiaomi bisa dibawa ke Indonesia Jadi pastiin kalo lu mau beli monitor
+108	Jadi pastiin kalo lu mau beli monitor
+109	Jadi pastiin kalo lu mau beli monitor
+110	Jadi pastiin kalo lu mau beli monitor Sekarang sampe akhir 2024 ini
+111	Jadi pastiin kalo lu mau beli monitor Sekarang sampe akhir 2024 ini
+112	Sekarang sampe akhir 2024 ini
+113	Sekarang sampe akhir 2024 ini
+114	Sekarang sampe akhir 2024 ini
+115	Sekarang sampe akhir 2024 ini
+116	Sekarang sampe akhir 2024 ini Lu mesti dapet
+117	Sekarang sampe akhir 2024 ini Lu mesti dapet
+118	Lu mesti dapet Harga diskon sedalem-dalemnya
+119	Lu mesti dapet Harga diskon sedalem-dalemnya
+120	Harga diskon sedalem-dalemnya
+121	Harga diskon sedalem-dalemnya
+122	Harga diskon sedalem-dalemnya
+123	Harga diskon sedalem-dalemnya
+124	Harga diskon sedalem-dalemnya Supaya gak terlalu sakit hati
+125	Harga diskon sedalem-dalemnya Supaya gak terlalu sakit hati
+126	Supaya gak terlalu sakit hati Ngeliat harga monitor di 2025
+127	Supaya gak terlalu sakit hati Ngeliat harga monitor di 2025
+128	Ngeliat harga monitor di 2025
+129	Ngeliat harga monitor di 2025 Akan lebih nyuset lagi
+130	Ngeliat harga monitor di 2025 Akan lebih nyuset lagi
+131	Akan lebih nyuset lagi
+132	Akan lebih nyuset lagi
+133	Akan lebih nyuset lagi
+134	Akan lebih nyuset lagi
+135	[NO_SPEECH]
+136	[NO_SPEECH]
+137	[NO_SPEECH]
+138	[NO_SPEECH]
+139	Dan lu bisa top up game kesukaan lu
+140	Dan lu bisa top up game kesukaan lu
+141	Dan lu bisa top up game kesukaan lu
+142	Dan lu bisa top up game kesukaan lu
+143	Dan lu bisa top up game kesukaan lu Di GTD Top Up
+144	Dan lu bisa top up game kesukaan lu Di GTD Top Up
+145	Di GTD Top Up
+146	Di GTD Top Up
+147	Di GTD Top Up
+148	[NO_SPEECH]

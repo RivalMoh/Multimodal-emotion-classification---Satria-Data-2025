@@ -1,0 +1,53 @@
+0	yang jangan dikomentari adalah kenapa baju kita sama, ini kita nggak janjian
+1	yang jangan dikomentari adalah kenapa baju kita sama, ini kita nggak janjian
+2	yang jangan dikomentari adalah kenapa baju kita sama, ini kita nggak janjian
+3	yang jangan dikomentari adalah kenapa baju kita sama, ini kita nggak janjian
+4	yang jangan dikomentari adalah kenapa baju kita sama, ini kita nggak janjian
+5	yang jangan dikomentari adalah kenapa baju kita sama, ini kita nggak janjian sama sekali nggak janjian, heran ya
+6	yang jangan dikomentari adalah kenapa baju kita sama, ini kita nggak janjian sama sekali nggak janjian, heran ya
+7	sama sekali nggak janjian, heran ya
+8	sama sekali nggak janjian, heran ya
+9	sama sekali nggak janjian, heran ya
+10	sama sekali nggak janjian, heran ya omong itu nggak pernah-pernahnya pakai baju kayak gini
+11	omong itu nggak pernah-pernahnya pakai baju kayak gini
+12	omong itu nggak pernah-pernahnya pakai baju kayak gini
+13	omong itu nggak pernah-pernahnya pakai baju kayak gini
+14	omong itu nggak pernah-pernahnya pakai baju kayak gini
+15	omong itu nggak pernah-pernahnya pakai baju kayak gini sering, sering lagi, sering pakai meja yang ini
+16	omong itu nggak pernah-pernahnya pakai baju kayak gini sering, sering lagi, sering pakai meja yang ini
+17	sering, sering lagi, sering pakai meja yang ini
+18	sering, sering lagi, sering pakai meja yang ini
+19	sering, sering lagi, sering pakai meja yang ini
+20	sering, sering lagi, sering pakai meja yang ini biasanya kotak-kotak mana kotak-kotaknya?
+21	biasanya kotak-kotak mana kotak-kotaknya?
+22	biasanya kotak-kotak mana kotak-kotaknya?
+23	biasanya kotak-kotak mana kotak-kotaknya?
+24	biasanya kotak-kotak mana kotak-kotaknya? kebetulan lagi habis, lagi dicuci
+25	biasanya kotak-kotak mana kotak-kotaknya? kebetulan lagi habis, lagi dicuci
+26	kebetulan lagi habis, lagi dicuci
+27	kebetulan lagi habis, lagi dicuci
+28	kebetulan lagi habis, lagi dicuci
+29	kebetulan lagi habis, lagi dicuci nah kita mulai dari hall 1 sekarang
+30	kebetulan lagi habis, lagi dicuci nah kita mulai dari hall 1 sekarang
+31	nah kita mulai dari hall 1 sekarang
+32	nah kita mulai dari hall 1 sekarang
+33	nah kita mulai dari hall 1 sekarang
+34	nah kita mulai dari hall 1 sekarang
+35	nah kita mulai dari hall 1 sekarang yes
+36	nah kita mulai dari hall 1 sekarang yes dan itu?
+37	yes dan itu?
+38	dan itu?
+39	dan itu? ini deket sekali, tapi nggak bisa kita harus tonton pindahnya harus teleport
+40	dan itu? ini deket sekali, tapi nggak bisa kita harus tonton pindahnya harus teleport
+41	ini deket sekali, tapi nggak bisa kita harus tonton pindahnya harus teleport
+42	ini deket sekali, tapi nggak bisa kita harus tonton pindahnya harus teleport
+43	ini deket sekali, tapi nggak bisa kita harus tonton pindahnya harus teleport
+44	ini deket sekali, tapi nggak bisa kita harus tonton pindahnya harus teleport
+45	ini deket sekali, tapi nggak bisa kita harus tonton pindahnya harus teleport
+46	ini deket sekali, tapi nggak bisa kita harus tonton pindahnya harus teleport 1, 2, 3
+47	ini deket sekali, tapi nggak bisa kita harus tonton pindahnya harus teleport 1, 2, 3
+48	1, 2, 3
+49	1, 2, 3
+50	1, 2, 3
+51	1, 2, 3
+52	[NO_SPEECH]

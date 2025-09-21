@@ -1,0 +1,123 @@
+0	Kalau bahumu sering sakit saat latihan, coba 4 gerakan ini untuk menghilangkan rasa sakit di bahu.
+1	Kalau bahumu sering sakit saat latihan, coba 4 gerakan ini untuk menghilangkan rasa sakit di bahu.
+2	Kalau bahumu sering sakit saat latihan, coba 4 gerakan ini untuk menghilangkan rasa sakit di bahu.
+3	Kalau bahumu sering sakit saat latihan, coba 4 gerakan ini untuk menghilangkan rasa sakit di bahu.
+4	Kalau bahumu sering sakit saat latihan, coba 4 gerakan ini untuk menghilangkan rasa sakit di bahu.
+5	Kalau bahumu sering sakit saat latihan, coba 4 gerakan ini untuk menghilangkan rasa sakit di bahu.
+6	Kalau bahumu sering sakit saat latihan, coba 4 gerakan ini untuk menghilangkan rasa sakit di bahu.
+7	Kalau bahumu sering sakit saat latihan, coba 4 gerakan ini untuk menghilangkan rasa sakit di bahu.
+8	Kalau bahumu sering sakit saat latihan, coba 4 gerakan ini untuk menghilangkan rasa sakit di bahu. Seringkali weakness dalam otot-otot kecil di bagian bahu bisa menyebabkan rasa sakit tersebut.
+9	Kalau bahumu sering sakit saat latihan, coba 4 gerakan ini untuk menghilangkan rasa sakit di bahu. Seringkali weakness dalam otot-otot kecil di bagian bahu bisa menyebabkan rasa sakit tersebut.
+10	Seringkali weakness dalam otot-otot kecil di bagian bahu bisa menyebabkan rasa sakit tersebut.
+11	Seringkali weakness dalam otot-otot kecil di bagian bahu bisa menyebabkan rasa sakit tersebut.
+12	Seringkali weakness dalam otot-otot kecil di bagian bahu bisa menyebabkan rasa sakit tersebut.
+13	Seringkali weakness dalam otot-otot kecil di bagian bahu bisa menyebabkan rasa sakit tersebut.
+14	Seringkali weakness dalam otot-otot kecil di bagian bahu bisa menyebabkan rasa sakit tersebut.
+15	Seringkali weakness dalam otot-otot kecil di bagian bahu bisa menyebabkan rasa sakit tersebut.
+16	Seringkali weakness dalam otot-otot kecil di bagian bahu bisa menyebabkan rasa sakit tersebut.
+17	Seringkali weakness dalam otot-otot kecil di bagian bahu bisa menyebabkan rasa sakit tersebut.
+18	Seringkali weakness dalam otot-otot kecil di bagian bahu bisa menyebabkan rasa sakit tersebut. Gerakan pertama adalah rhomboid activation untuk menguatkan otot rhomboid.
+19	Seringkali weakness dalam otot-otot kecil di bagian bahu bisa menyebabkan rasa sakit tersebut. Gerakan pertama adalah rhomboid activation untuk menguatkan otot rhomboid.
+20	Gerakan pertama adalah rhomboid activation untuk menguatkan otot rhomboid.
+21	Gerakan pertama adalah rhomboid activation untuk menguatkan otot rhomboid.
+22	Gerakan pertama adalah rhomboid activation untuk menguatkan otot rhomboid.
+23	Gerakan pertama adalah rhomboid activation untuk menguatkan otot rhomboid.
+24	Gerakan pertama adalah rhomboid activation untuk menguatkan otot rhomboid.
+25	Gerakan pertama adalah rhomboid activation untuk menguatkan otot rhomboid. Taruh tanganmu di atas kepala lalu angkat siku mu setinggi mungkin dan tahan posisi itu 2-3 detik.
+26	Gerakan pertama adalah rhomboid activation untuk menguatkan otot rhomboid. Taruh tanganmu di atas kepala lalu angkat siku mu setinggi mungkin dan tahan posisi itu 2-3 detik.
+27	Taruh tanganmu di atas kepala lalu angkat siku mu setinggi mungkin dan tahan posisi itu 2-3 detik.
+28	Taruh tanganmu di atas kepala lalu angkat siku mu setinggi mungkin dan tahan posisi itu 2-3 detik.
+29	Taruh tanganmu di atas kepala lalu angkat siku mu setinggi mungkin dan tahan posisi itu 2-3 detik.
+30	Taruh tanganmu di atas kepala lalu angkat siku mu setinggi mungkin dan tahan posisi itu 2-3 detik.
+31	Taruh tanganmu di atas kepala lalu angkat siku mu setinggi mungkin dan tahan posisi itu 2-3 detik.
+32	Taruh tanganmu di atas kepala lalu angkat siku mu setinggi mungkin dan tahan posisi itu 2-3 detik.
+33	Taruh tanganmu di atas kepala lalu angkat siku mu setinggi mungkin dan tahan posisi itu 2-3 detik.
+34	Taruh tanganmu di atas kepala lalu angkat siku mu setinggi mungkin dan tahan posisi itu 2-3 detik.
+35	Taruh tanganmu di atas kepala lalu angkat siku mu setinggi mungkin dan tahan posisi itu 2-3 detik.
+36	Taruh tanganmu di atas kepala lalu angkat siku mu setinggi mungkin dan tahan posisi itu 2-3 detik.
+37	Taruh tanganmu di atas kepala lalu angkat siku mu setinggi mungkin dan tahan posisi itu 2-3 detik. Gerakan kedua floor y raises, posisikan tanganmu seperti huruf y dan angkat tanganmu lalu tahan 2-3 detik.
+38	Taruh tanganmu di atas kepala lalu angkat siku mu setinggi mungkin dan tahan posisi itu 2-3 detik. Gerakan kedua floor y raises, posisikan tanganmu seperti huruf y dan angkat tanganmu lalu tahan 2-3 detik.
+39	Gerakan kedua floor y raises, posisikan tanganmu seperti huruf y dan angkat tanganmu lalu tahan 2-3 detik.
+40	Gerakan kedua floor y raises, posisikan tanganmu seperti huruf y dan angkat tanganmu lalu tahan 2-3 detik.
+41	Gerakan kedua floor y raises, posisikan tanganmu seperti huruf y dan angkat tanganmu lalu tahan 2-3 detik.
+42	Gerakan kedua floor y raises, posisikan tanganmu seperti huruf y dan angkat tanganmu lalu tahan 2-3 detik.
+43	Gerakan kedua floor y raises, posisikan tanganmu seperti huruf y dan angkat tanganmu lalu tahan 2-3 detik.
+44	Gerakan kedua floor y raises, posisikan tanganmu seperti huruf y dan angkat tanganmu lalu tahan 2-3 detik.
+45	Gerakan kedua floor y raises, posisikan tanganmu seperti huruf y dan angkat tanganmu lalu tahan 2-3 detik.
+46	Gerakan kedua floor y raises, posisikan tanganmu seperti huruf y dan angkat tanganmu lalu tahan 2-3 detik.
+47	Gerakan kedua floor y raises, posisikan tanganmu seperti huruf y dan angkat tanganmu lalu tahan 2-3 detik.
+48	Gerakan kedua floor y raises, posisikan tanganmu seperti huruf y dan angkat tanganmu lalu tahan 2-3 detik.
+49	Gerakan kedua floor y raises, posisikan tanganmu seperti huruf y dan angkat tanganmu lalu tahan 2-3 detik.
+50	Gerakan kedua floor y raises, posisikan tanganmu seperti huruf y dan angkat tanganmu lalu tahan 2-3 detik.
+51	Gerakan kedua floor y raises, posisikan tanganmu seperti huruf y dan angkat tanganmu lalu tahan 2-3 detik. Selain rotator cuff, kita juga kuatkan trapezius bagian bawah.
+52	Gerakan kedua floor y raises, posisikan tanganmu seperti huruf y dan angkat tanganmu lalu tahan 2-3 detik. Selain rotator cuff, kita juga kuatkan trapezius bagian bawah.
+53	Selain rotator cuff, kita juga kuatkan trapezius bagian bawah.
+54	Selain rotator cuff, kita juga kuatkan trapezius bagian bawah.
+55	Selain rotator cuff, kita juga kuatkan trapezius bagian bawah.
+56	Selain rotator cuff, kita juga kuatkan trapezius bagian bawah.
+57	Selain rotator cuff, kita juga kuatkan trapezius bagian bawah.
+58	Selain rotator cuff, kita juga kuatkan trapezius bagian bawah. Gerakan ketiga t raises, posisikan tanganmu seperti huruf t, angkat tanganmu dan tahan 2-3 detik.
+59	Selain rotator cuff, kita juga kuatkan trapezius bagian bawah. Gerakan ketiga t raises, posisikan tanganmu seperti huruf t, angkat tanganmu dan tahan 2-3 detik.
+60	Gerakan ketiga t raises, posisikan tanganmu seperti huruf t, angkat tanganmu dan tahan 2-3 detik.
+61	Gerakan ketiga t raises, posisikan tanganmu seperti huruf t, angkat tanganmu dan tahan 2-3 detik.
+62	Gerakan ketiga t raises, posisikan tanganmu seperti huruf t, angkat tanganmu dan tahan 2-3 detik.
+63	Gerakan ketiga t raises, posisikan tanganmu seperti huruf t, angkat tanganmu dan tahan 2-3 detik.
+64	Gerakan ketiga t raises, posisikan tanganmu seperti huruf t, angkat tanganmu dan tahan 2-3 detik.
+65	Gerakan ketiga t raises, posisikan tanganmu seperti huruf t, angkat tanganmu dan tahan 2-3 detik.
+66	Gerakan ketiga t raises, posisikan tanganmu seperti huruf t, angkat tanganmu dan tahan 2-3 detik.
+67	Gerakan ketiga t raises, posisikan tanganmu seperti huruf t, angkat tanganmu dan tahan 2-3 detik.
+68	Gerakan ketiga t raises, posisikan tanganmu seperti huruf t, angkat tanganmu dan tahan 2-3 detik.
+69	Gerakan ketiga t raises, posisikan tanganmu seperti huruf t, angkat tanganmu dan tahan 2-3 detik.
+70	Gerakan ketiga t raises, posisikan tanganmu seperti huruf t, angkat tanganmu dan tahan 2-3 detik. Gerakan ini adalah aktivasi untuk bahu bagian belakang.
+71	Gerakan ketiga t raises, posisikan tanganmu seperti huruf t, angkat tanganmu dan tahan 2-3 detik. Gerakan ini adalah aktivasi untuk bahu bagian belakang.
+72	Gerakan ini adalah aktivasi untuk bahu bagian belakang.
+73	Gerakan ini adalah aktivasi untuk bahu bagian belakang.
+74	Gerakan ini adalah aktivasi untuk bahu bagian belakang.
+75	Gerakan ini adalah aktivasi untuk bahu bagian belakang.
+76	Gerakan ini adalah aktivasi untuk bahu bagian belakang.
+77	Gerakan ini adalah aktivasi untuk bahu bagian belakang. Gerakan terakhir, posisi tanganmu ke belakang lalu angkat tanganmu setinggi mungkin dan tahan 2-3 detik.
+78	Gerakan ini adalah aktivasi untuk bahu bagian belakang. Gerakan terakhir, posisi tanganmu ke belakang lalu angkat tanganmu setinggi mungkin dan tahan 2-3 detik.
+79	Gerakan terakhir, posisi tanganmu ke belakang lalu angkat tanganmu setinggi mungkin dan tahan 2-3 detik.
+80	Gerakan terakhir, posisi tanganmu ke belakang lalu angkat tanganmu setinggi mungkin dan tahan 2-3 detik.
+81	Gerakan terakhir, posisi tanganmu ke belakang lalu angkat tanganmu setinggi mungkin dan tahan 2-3 detik.
+82	Gerakan terakhir, posisi tanganmu ke belakang lalu angkat tanganmu setinggi mungkin dan tahan 2-3 detik.
+83	Gerakan terakhir, posisi tanganmu ke belakang lalu angkat tanganmu setinggi mungkin dan tahan 2-3 detik.
+84	Gerakan terakhir, posisi tanganmu ke belakang lalu angkat tanganmu setinggi mungkin dan tahan 2-3 detik.
+85	Gerakan terakhir, posisi tanganmu ke belakang lalu angkat tanganmu setinggi mungkin dan tahan 2-3 detik.
+86	Gerakan terakhir, posisi tanganmu ke belakang lalu angkat tanganmu setinggi mungkin dan tahan 2-3 detik.
+87	Gerakan terakhir, posisi tanganmu ke belakang lalu angkat tanganmu setinggi mungkin dan tahan 2-3 detik.
+88	Gerakan terakhir, posisi tanganmu ke belakang lalu angkat tanganmu setinggi mungkin dan tahan 2-3 detik.
+89	Gerakan terakhir, posisi tanganmu ke belakang lalu angkat tanganmu setinggi mungkin dan tahan 2-3 detik. Semua gerakan ini membantu aktivasi dan stabilisasi posterior chain kamu.
+90	Gerakan terakhir, posisi tanganmu ke belakang lalu angkat tanganmu setinggi mungkin dan tahan 2-3 detik. Semua gerakan ini membantu aktivasi dan stabilisasi posterior chain kamu.
+91	Semua gerakan ini membantu aktivasi dan stabilisasi posterior chain kamu.
+92	Semua gerakan ini membantu aktivasi dan stabilisasi posterior chain kamu.
+93	Semua gerakan ini membantu aktivasi dan stabilisasi posterior chain kamu.
+94	Semua gerakan ini membantu aktivasi dan stabilisasi posterior chain kamu.
+95	Semua gerakan ini membantu aktivasi dan stabilisasi posterior chain kamu.
+96	Semua gerakan ini membantu aktivasi dan stabilisasi posterior chain kamu.
+97	Semua gerakan ini membantu aktivasi dan stabilisasi posterior chain kamu.
+98	Semua gerakan ini membantu aktivasi dan stabilisasi posterior chain kamu. Sebaiknya kamu lakukan 4 gerakan ini setiap kali sebelum latihan tubuh bagian atas.
+99	Sebaiknya kamu lakukan 4 gerakan ini setiap kali sebelum latihan tubuh bagian atas.
+100	Sebaiknya kamu lakukan 4 gerakan ini setiap kali sebelum latihan tubuh bagian atas.
+101	Sebaiknya kamu lakukan 4 gerakan ini setiap kali sebelum latihan tubuh bagian atas.
+102	Sebaiknya kamu lakukan 4 gerakan ini setiap kali sebelum latihan tubuh bagian atas.
+103	Sebaiknya kamu lakukan 4 gerakan ini setiap kali sebelum latihan tubuh bagian atas.
+104	Sebaiknya kamu lakukan 4 gerakan ini setiap kali sebelum latihan tubuh bagian atas.
+105	Sebaiknya kamu lakukan 4 gerakan ini setiap kali sebelum latihan tubuh bagian atas.
+106	Sebaiknya kamu lakukan 4 gerakan ini setiap kali sebelum latihan tubuh bagian atas.
+107	Sebaiknya kamu lakukan 4 gerakan ini setiap kali sebelum latihan tubuh bagian atas. Setiap gerakan 1-2 set dengan 10-20 repetisi.
+108	Sebaiknya kamu lakukan 4 gerakan ini setiap kali sebelum latihan tubuh bagian atas. Setiap gerakan 1-2 set dengan 10-20 repetisi.
+109	Setiap gerakan 1-2 set dengan 10-20 repetisi.
+110	Setiap gerakan 1-2 set dengan 10-20 repetisi.
+111	Setiap gerakan 1-2 set dengan 10-20 repetisi.
+112	Setiap gerakan 1-2 set dengan 10-20 repetisi.
+113	Setiap gerakan 1-2 set dengan 10-20 repetisi.
+114	Setiap gerakan 1-2 set dengan 10-20 repetisi.
+115	Setiap gerakan 1-2 set dengan 10-20 repetisi. Jangan buru-buru.
+116	Setiap gerakan 1-2 set dengan 10-20 repetisi. Jangan buru-buru.
+117	Jangan buru-buru. Jangan buru-buru tapi benar-benar kontrol gerakannya.
+118	Jangan buru-buru. Jangan buru-buru tapi benar-benar kontrol gerakannya.
+119	Jangan buru-buru tapi benar-benar kontrol gerakannya.
+120	Jangan buru-buru tapi benar-benar kontrol gerakannya.
+121	Jangan buru-buru tapi benar-benar kontrol gerakannya.
+122	[NO_SPEECH]

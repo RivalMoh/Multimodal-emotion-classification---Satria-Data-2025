@@ -1,0 +1,99 @@
+0	[NO_SPEECH]
+1	Aduh!
+2	Aduh!
+3	Aduh!
+4	[NO_SPEECH]
+5	Tabrak aku sekali lagi, aku kasih tau aku siapa.
+6	Tabrak aku sekali lagi, aku kasih tau aku siapa.
+7	Tabrak aku sekali lagi, aku kasih tau aku siapa.
+8	Tabrak aku sekali lagi, aku kasih tau aku siapa.
+9	Tabrak aku sekali lagi, aku kasih tau aku siapa.
+10	Tabrak aku sekali lagi, aku kasih tau aku siapa.
+11	Tabrak aku sekali lagi, aku kasih tau aku siapa.
+12	Tabrak aku sekali lagi, aku kasih tau aku siapa.
+13	Wih!
+14	Wih!
+15	Wih!
+16	[NO_SPEECH]
+17	Hai, Kak! Salam kenal! Aku Yuki Kato.
+18	Hai, Kak! Salam kenal! Aku Yuki Kato.
+19	Hai, Kak! Salam kenal! Aku Yuki Kato.
+20	Hai, Kak! Salam kenal! Aku Yuki Kato.
+21	Hai, Kak! Salam kenal! Aku Yuki Kato.
+22	Hai, Kak! Salam kenal! Aku Yuki Kato.
+23	Hai, Kak! Salam kenal! Aku Yuki Kato. Aku talent Wardah Sunscreen terbaru.
+24	Hai, Kak! Salam kenal! Aku Yuki Kato. Aku talent Wardah Sunscreen terbaru.
+25	Aku talent Wardah Sunscreen terbaru.
+26	Aku talent Wardah Sunscreen terbaru.
+27	Aku talent Wardah Sunscreen terbaru.
+28	Aku talent Wardah Sunscreen terbaru.
+29	Aku talent Wardah Sunscreen terbaru.
+30	Aku talent Wardah Sunscreen terbaru. Di sini aku mau kasih tau kalau Wardah ada jawabannya untuk setiap concern kulit wajah kamu.
+31	Aku talent Wardah Sunscreen terbaru. Di sini aku mau kasih tau kalau Wardah ada jawabannya untuk setiap concern kulit wajah kamu.
+32	Di sini aku mau kasih tau kalau Wardah ada jawabannya untuk setiap concern kulit wajah kamu.
+33	Di sini aku mau kasih tau kalau Wardah ada jawabannya untuk setiap concern kulit wajah kamu.
+34	Di sini aku mau kasih tau kalau Wardah ada jawabannya untuk setiap concern kulit wajah kamu.
+35	Di sini aku mau kasih tau kalau Wardah ada jawabannya untuk setiap concern kulit wajah kamu.
+36	Di sini aku mau kasih tau kalau Wardah ada jawabannya untuk setiap concern kulit wajah kamu.
+37	Di sini aku mau kasih tau kalau Wardah ada jawabannya untuk setiap concern kulit wajah kamu.
+38	Di sini aku mau kasih tau kalau Wardah ada jawabannya untuk setiap concern kulit wajah kamu.
+39	Di sini aku mau kasih tau kalau Wardah ada jawabannya untuk setiap concern kulit wajah kamu.
+40	Di sini aku mau kasih tau kalau Wardah ada jawabannya untuk setiap concern kulit wajah kamu.
+41	Di sini aku mau kasih tau kalau Wardah ada jawabannya untuk setiap concern kulit wajah kamu.
+42	Di sini aku mau kasih tau kalau Wardah ada jawabannya untuk setiap concern kulit wajah kamu.
+43	Di sini aku mau kasih tau kalau Wardah ada jawabannya untuk setiap concern kulit wajah kamu. Ini sunscreen Wardah yang bright sea hydrating.
+44	Di sini aku mau kasih tau kalau Wardah ada jawabannya untuk setiap concern kulit wajah kamu. Ini sunscreen Wardah yang bright sea hydrating.
+45	Ini sunscreen Wardah yang bright sea hydrating.
+46	Ini sunscreen Wardah yang bright sea hydrating.
+47	Ini sunscreen Wardah yang bright sea hydrating.
+48	Ini sunscreen Wardah yang bright sea hydrating. Cocok buat kamu yang merasa kulit wajahnya agak kusam.
+49	Ini sunscreen Wardah yang bright sea hydrating. Cocok buat kamu yang merasa kulit wajahnya agak kusam.
+50	Cocok buat kamu yang merasa kulit wajahnya agak kusam.
+51	Cocok buat kamu yang merasa kulit wajahnya agak kusam.
+52	Cocok buat kamu yang merasa kulit wajahnya agak kusam.
+53	Cocok buat kamu yang merasa kulit wajahnya agak kusam.
+54	Cocok buat kamu yang merasa kulit wajahnya agak kusam. Buat kalian nih yang cenderung berminyak, jangan khawatir.
+55	Cocok buat kamu yang merasa kulit wajahnya agak kusam. Buat kalian nih yang cenderung berminyak, jangan khawatir.
+56	Buat kalian nih yang cenderung berminyak, jangan khawatir.
+57	Buat kalian nih yang cenderung berminyak, jangan khawatir.
+58	Buat kalian nih yang cenderung berminyak, jangan khawatir.
+59	Buat kalian nih yang cenderung berminyak, jangan khawatir.
+60	Buat kalian nih yang cenderung berminyak, jangan khawatir.
+61	Buat kalian nih yang cenderung berminyak, jangan khawatir.
+62	Buat kalian nih yang cenderung berminyak, jangan khawatir. Ada Aries Smooth.
+63	Buat kalian nih yang cenderung berminyak, jangan khawatir. Ada Aries Smooth.
+64	Ada Aries Smooth.
+65	Ada Aries Smooth. Dan buat kalian yang lagi berjerawat, hey!
+66	Ada Aries Smooth. Dan buat kalian yang lagi berjerawat, hey!
+67	Dan buat kalian yang lagi berjerawat, hey!
+68	Dan buat kalian yang lagi berjerawat, hey!
+69	Dan buat kalian yang lagi berjerawat, hey!
+70	Dan buat kalian yang lagi berjerawat, hey! Jangan sedih! Nih, ada Acne Calming.
+71	Dan buat kalian yang lagi berjerawat, hey! Jangan sedih! Nih, ada Acne Calming.
+72	Jangan sedih! Nih, ada Acne Calming.
+73	Jangan sedih! Nih, ada Acne Calming.
+74	Jangan sedih! Nih, ada Acne Calming.
+75	Jangan sedih! Nih, ada Acne Calming.
+76	Jangan sedih! Nih, ada Acne Calming.
+77	Jangan sedih! Nih, ada Acne Calming. Silahkan dicek-cek ya, Kak!
+78	Silahkan dicek-cek ya, Kak!
+79	Silahkan dicek-cek ya, Kak!
+80	Silahkan dicek-cek ya, Kak!
+81	Silahkan dicek-cek ya, Kak!
+82	[NO_SPEECH]
+83	[NO_SPEECH]
+84	[NO_SPEECH]
+85	[NO_SPEECH]
+86	[NO_SPEECH]
+87	[NO_SPEECH]
+88	[NO_SPEECH]
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	[NO_SPEECH]
+95	[NO_SPEECH]
+96	[NO_SPEECH]
+97	[NO_SPEECH]
+98	[NO_SPEECH]

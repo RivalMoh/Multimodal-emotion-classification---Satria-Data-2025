@@ -1,0 +1,120 @@
+0	Turun akibat laporan keuangannya ataupun informasi yang sudah keluarkan.
+1	Turun akibat laporan keuangannya ataupun informasi yang sudah keluarkan.
+2	Turun akibat laporan keuangannya ataupun informasi yang sudah keluarkan.
+3	Turun akibat laporan keuangannya ataupun informasi yang sudah keluarkan.
+4	Turun akibat laporan keuangannya ataupun informasi yang sudah keluarkan.
+5	Turun akibat laporan keuangannya ataupun informasi yang sudah keluarkan.
+6	Turun akibat laporan keuangannya ataupun informasi yang sudah keluarkan.
+7	Turun akibat laporan keuangannya ataupun informasi yang sudah keluarkan.
+8	Turun akibat laporan keuangannya ataupun informasi yang sudah keluarkan.
+9	Turun akibat laporan keuangannya ataupun informasi yang sudah keluarkan.
+10	Turun akibat laporan keuangannya ataupun informasi yang sudah keluarkan. Ini ada satu grup lah yang turun dan dalam.
+11	Turun akibat laporan keuangannya ataupun informasi yang sudah keluarkan. Ini ada satu grup lah yang turun dan dalam.
+12	Ini ada satu grup lah yang turun dan dalam.
+13	Ini ada satu grup lah yang turun dan dalam.
+14	Ini ada satu grup lah yang turun dan dalam.
+15	Ini ada satu grup lah yang turun dan dalam.
+16	Ini ada satu grup lah yang turun dan dalam.
+17	Ini ada satu grup lah yang turun dan dalam.
+18	Ini ada satu grup lah yang turun dan dalam.
+19	Kemudian tentu kita melihat juga karena regulasi hal yang 5% itu kan kemarin diberlakukan saat COVID.
+20	Kemudian tentu kita melihat juga karena regulasi hal yang 5% itu kan kemarin diberlakukan saat COVID.
+21	Kemudian tentu kita melihat juga karena regulasi hal yang 5% itu kan kemarin diberlakukan saat COVID.
+22	Kemudian tentu kita melihat juga karena regulasi hal yang 5% itu kan kemarin diberlakukan saat COVID.
+23	Kemudian tentu kita melihat juga karena regulasi hal yang 5% itu kan kemarin diberlakukan saat COVID.
+24	Kemudian tentu kita melihat juga karena regulasi hal yang 5% itu kan kemarin diberlakukan saat COVID.
+25	Kemudian tentu kita melihat juga karena regulasi hal yang 5% itu kan kemarin diberlakukan saat COVID.
+26	Kemudian tentu kita melihat juga karena regulasi hal yang 5% itu kan kemarin diberlakukan saat COVID.
+27	Kemudian tentu kita melihat juga karena regulasi hal yang 5% itu kan kemarin diberlakukan saat COVID.
+28	Kemudian tentu kita melihat juga karena regulasi hal yang 5% itu kan kemarin diberlakukan saat COVID.
+29	Kemudian tentu kita melihat juga karena regulasi hal yang 5% itu kan kemarin diberlakukan saat COVID.
+30	Kemudian tentu kita melihat juga karena regulasi hal yang 5% itu kan kemarin diberlakukan saat COVID.
+31	Kemudian tentu kita melihat juga karena regulasi hal yang 5% itu kan kemarin diberlakukan saat COVID.
+32	Kemudian tentu kita melihat juga karena regulasi hal yang 5% itu kan kemarin diberlakukan saat COVID.
+33	Kemudian tentu kita melihat juga karena regulasi hal yang 5% itu kan kemarin diberlakukan saat COVID.
+34	Kemudian tentu kita melihat juga karena regulasi hal yang 5% itu kan kemarin diberlakukan saat COVID.
+35	Kemudian tentu kita melihat juga karena regulasi hal yang 5% itu kan kemarin diberlakukan saat COVID.
+36	Kemudian tentu kita melihat juga karena regulasi hal yang 5% itu kan kemarin diberlakukan saat COVID.
+37	Kemudian tentu kita melihat juga karena regulasi hal yang 5% itu kan kemarin diberlakukan saat COVID.
+38	[NO_SPEECH]
+39	Tentu ini perlu ada review juga mengenai regulasi tersebut.
+40	Tentu ini perlu ada review juga mengenai regulasi tersebut.
+41	Tentu ini perlu ada review juga mengenai regulasi tersebut.
+42	Tentu ini perlu ada review juga mengenai regulasi tersebut.
+43	Tentu ini perlu ada review juga mengenai regulasi tersebut.
+44	Tentu ini perlu ada review juga mengenai regulasi tersebut.
+45	Tentu ini perlu ada review juga mengenai regulasi tersebut.
+46	Tentu ini perlu ada review juga mengenai regulasi tersebut.
+47	Tentu ini perlu ada review juga mengenai regulasi tersebut.
+48	Tentu ini perlu ada review juga mengenai regulasi tersebut.
+49	Tapi akan dilaporkan ke Bapak Presiden dan Pak Presiden?
+50	Tapi akan dilaporkan ke Bapak Presiden dan Pak Presiden?
+51	Tapi akan dilaporkan ke Bapak Presiden dan Pak Presiden?
+52	Tapi akan dilaporkan ke Bapak Presiden dan Pak Presiden?
+53	Tapi akan dilaporkan ke Bapak Presiden dan Pak Presiden?
+54	Ya tentu perkembangan perekonomian akan dilaporkan ke Bapak Presiden.
+55	Ya tentu perkembangan perekonomian akan dilaporkan ke Bapak Presiden.
+56	Ya tentu perkembangan perekonomian akan dilaporkan ke Bapak Presiden.
+57	Ya tentu perkembangan perekonomian akan dilaporkan ke Bapak Presiden.
+58	Ya tentu perkembangan perekonomian akan dilaporkan ke Bapak Presiden.
+59	Ya tentu perkembangan perekonomian akan dilaporkan ke Bapak Presiden.
+60	Ya tentu perkembangan perekonomian akan dilaporkan ke Bapak Presiden.
+61	Ya tentu perkembangan perekonomian akan dilaporkan ke Bapak Presiden.
+62	Ya tentu perkembangan perekonomian akan dilaporkan ke Bapak Presiden. Pak tapi sejauh ini mengkhawatirkan gak sih Pak?
+63	Ya tentu perkembangan perekonomian akan dilaporkan ke Bapak Presiden. Pak tapi sejauh ini mengkhawatirkan gak sih Pak?
+64	Pak tapi sejauh ini mengkhawatirkan gak sih Pak?
+65	Pak tapi sejauh ini mengkhawatirkan gak sih Pak?
+66	Pak tapi sejauh ini mengkhawatirkan gak sih Pak?
+67	Pak tapi sejauh ini mengkhawatirkan gak sih Pak?
+68	Pak tapi sejauh ini mengkhawatirkan gak sih Pak? Kalau dari segi fundamental kan kuat.
+69	Pak tapi sejauh ini mengkhawatirkan gak sih Pak? Kalau dari segi fundamental kan kuat.
+70	Kalau dari segi fundamental kan kuat.
+71	Kalau dari segi fundamental kan kuat.
+72	Kalau dari segi fundamental kan kuat.
+73	Kalau dari segi fundamental kan kuat.
+74	Kalau dari segi fundamental kan kuat.
+75	Kalau dari segi fundamental kan kuat.
+76	Kalau dari segi fundamental kan kuat.
+77	Kalau dari segi fundamental kan kuat.
+78	Kalau dari segi fundamental kan kuat. Kalau penurunan ini kan di berbagai negara saham naik turun biasa.
+79	Kalau dari segi fundamental kan kuat. Kalau penurunan ini kan di berbagai negara saham naik turun biasa.
+80	Kalau penurunan ini kan di berbagai negara saham naik turun biasa.
+81	Kalau penurunan ini kan di berbagai negara saham naik turun biasa.
+82	Kalau penurunan ini kan di berbagai negara saham naik turun biasa.
+83	Kalau penurunan ini kan di berbagai negara saham naik turun biasa.
+84	Kalau penurunan ini kan di berbagai negara saham naik turun biasa.
+85	Kalau penurunan ini kan di berbagai negara saham naik turun biasa.
+86	Kalau penurunan ini kan di berbagai negara saham naik turun biasa.
+87	Kalau penurunan ini kan di berbagai negara saham naik turun biasa.
+88	Kalau penurunan ini kan di berbagai negara saham naik turun biasa.
+89	Kalau penurunan ini kan di berbagai negara saham naik turun biasa. Saat saham-saham yang negara lain minggu-minggu lalu turun.
+90	Saat saham-saham yang negara lain minggu-minggu lalu turun.
+91	Saat saham-saham yang negara lain minggu-minggu lalu turun.
+92	Saat saham-saham yang negara lain minggu-minggu lalu turun.
+93	Saat saham-saham yang negara lain minggu-minggu lalu turun.
+94	Saat saham-saham yang negara lain minggu-minggu lalu turun.
+95	Saat saham-saham yang negara lain minggu-minggu lalu turun.
+96	Saat saham-saham yang negara lain minggu-minggu lalu turun.
+97	Saat saham-saham yang negara lain minggu-minggu lalu turun.
+98	Saat saham-saham yang negara lain minggu-minggu lalu turun.
+99	Saat saham-saham yang negara lain minggu-minggu lalu turun.
+100	Saat saham-saham yang negara lain minggu-minggu lalu turun.
+101	Saat saham-saham yang negara lain minggu-minggu lalu turun.
+102	Cukup dalam.
+103	Cukup dalam. Nah sekarang mungkin kemarin kita belum terlalu kena.
+104	Cukup dalam. Nah sekarang mungkin kemarin kita belum terlalu kena.
+105	Nah sekarang mungkin kemarin kita belum terlalu kena.
+106	Nah sekarang mungkin kemarin kita belum terlalu kena.
+107	Nah sekarang mungkin kemarin kita belum terlalu kena.
+108	Nah sekarang mungkin kemarin kita belum terlalu kena.
+109	Nah sekarang mungkin kemarin kita belum terlalu kena.
+110	Nah sekarang mungkin kemarin kita belum terlalu kena.
+111	Nah sekarang mungkin kemarin kita belum terlalu kena.
+112	Nah sekarang mungkin kemarin kita belum terlalu kena. Baru beribas.
+113	Baru beribas.
+114	Baru beribas.
+115	Baru beribas.
+116	Saat ke-2.
+117	Saat ke-2.
+118	Saat ke-2.
+119	[NO_SPEECH]

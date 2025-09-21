@@ -1,0 +1,170 @@
+0	Saya di Barcelona nonton F1 di sirkuit de Catalunya
+1	Saya di Barcelona nonton F1 di sirkuit de Catalunya
+2	Saya di Barcelona nonton F1 di sirkuit de Catalunya
+3	Saya di Barcelona nonton F1 di sirkuit de Catalunya
+4	Saya di Barcelona nonton F1 di sirkuit de Catalunya
+5	Saya di Barcelona nonton F1 di sirkuit de Catalunya
+6	Saya di Barcelona nonton F1 di sirkuit de Catalunya
+7	Saya di Barcelona nonton F1 di sirkuit de Catalunya
+8	Saya di Barcelona nonton F1 di sirkuit de Catalunya Dan mungkin teman-teman sudah lihat bahwa saya melakukan wawancara eksklusif dengan Lewis Hamilton di reel sebelumnya
+9	Dan mungkin teman-teman sudah lihat bahwa saya melakukan wawancara eksklusif dengan Lewis Hamilton di reel sebelumnya
+10	Dan mungkin teman-teman sudah lihat bahwa saya melakukan wawancara eksklusif dengan Lewis Hamilton di reel sebelumnya
+11	Dan mungkin teman-teman sudah lihat bahwa saya melakukan wawancara eksklusif dengan Lewis Hamilton di reel sebelumnya
+12	Dan mungkin teman-teman sudah lihat bahwa saya melakukan wawancara eksklusif dengan Lewis Hamilton di reel sebelumnya
+13	Dan mungkin teman-teman sudah lihat bahwa saya melakukan wawancara eksklusif dengan Lewis Hamilton di reel sebelumnya
+14	Dan mungkin teman-teman sudah lihat bahwa saya melakukan wawancara eksklusif dengan Lewis Hamilton di reel sebelumnya
+15	Dan mungkin teman-teman sudah lihat bahwa saya melakukan wawancara eksklusif dengan Lewis Hamilton di reel sebelumnya
+16	Dan mungkin teman-teman sudah lihat bahwa saya melakukan wawancara eksklusif dengan Lewis Hamilton di reel sebelumnya
+17	Dan mungkin teman-teman sudah lihat bahwa saya melakukan wawancara eksklusif dengan Lewis Hamilton di reel sebelumnya
+18	Dan mungkin teman-teman sudah lihat bahwa saya melakukan wawancara eksklusif dengan Lewis Hamilton di reel sebelumnya
+19	Dan mungkin teman-teman sudah lihat bahwa saya melakukan wawancara eksklusif dengan Lewis Hamilton di reel sebelumnya
+20	Dan mungkin teman-teman sudah lihat bahwa saya melakukan wawancara eksklusif dengan Lewis Hamilton di reel sebelumnya Tapi tiba-tiba ada satu hal lagi yang sangat menarik
+21	Dan mungkin teman-teman sudah lihat bahwa saya melakukan wawancara eksklusif dengan Lewis Hamilton di reel sebelumnya Tapi tiba-tiba ada satu hal lagi yang sangat menarik
+22	Tapi tiba-tiba ada satu hal lagi yang sangat menarik
+23	Tapi tiba-tiba ada satu hal lagi yang sangat menarik
+24	Tapi tiba-tiba ada satu hal lagi yang sangat menarik
+25	Tapi tiba-tiba ada satu hal lagi yang sangat menarik
+26	Tapi tiba-tiba ada satu hal lagi yang sangat menarik
+27	Tapi tiba-tiba ada satu hal lagi yang sangat menarik Saya ditantang untuk balapan sama Lewis Hamilton
+28	Tapi tiba-tiba ada satu hal lagi yang sangat menarik Saya ditantang untuk balapan sama Lewis Hamilton
+29	Saya ditantang untuk balapan sama Lewis Hamilton
+30	Saya ditantang untuk balapan sama Lewis Hamilton
+31	Saya ditantang untuk balapan sama Lewis Hamilton
+32	Saya ditantang untuk balapan sama Lewis Hamilton
+33	Saya ditantang untuk balapan sama Lewis Hamilton
+34	Saya ditantang untuk balapan sama Lewis Hamilton
+35	Saya ditantang untuk balapan sama Lewis Hamilton Tentu saja bukan pakai mobil beneran
+36	Saya ditantang untuk balapan sama Lewis Hamilton Tentu saja bukan pakai mobil beneran
+37	Tentu saja bukan pakai mobil beneran
+38	Tentu saja bukan pakai mobil beneran
+39	Tentu saja bukan pakai mobil beneran
+40	Tentu saja bukan pakai mobil beneran Mobil remote control
+41	Tentu saja bukan pakai mobil beneran Mobil remote control
+42	Mobil remote control
+43	Mobil remote control
+44	Mobil remote control Tapi tetap aja balapan dengan Hamilton
+45	Mobil remote control Tapi tetap aja balapan dengan Hamilton
+46	Tapi tetap aja balapan dengan Hamilton
+47	Tapi tetap aja balapan dengan Hamilton
+48	Tapi tetap aja balapan dengan Hamilton Kita lihat ya tracknya
+49	Tapi tetap aja balapan dengan Hamilton Kita lihat ya tracknya
+50	Kita lihat ya tracknya Jadi ini tracknya
+51	Kita lihat ya tracknya Jadi ini tracknya
+52	Jadi ini tracknya
+53	Jadi ini tracknya
+54	Jadi ini tracknya
+55	Dan ini mobilnya
+56	Dan ini mobilnya
+57	Dan ini mobilnya
+58	Dan ini mobilnya
+59	Dan ini mobilnya
+60	[NO_SPEECH]
+61	[NO_SPEECH]
+62	[NO_SPEECH]
+63	[NO_SPEECH]
+64	[NO_SPEECH]
+65	[NO_SPEECH]
+66	[NO_SPEECH]
+67	[NO_SPEECH]
+68	[NO_SPEECH]
+69	[NO_SPEECH]
+70	[NO_SPEECH]
+71	[NO_SPEECH]
+72	[NO_SPEECH]
+73	[NO_SPEECH]
+74	[NO_SPEECH]
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	[NO_SPEECH]
+83	[NO_SPEECH]
+84	[NO_SPEECH]
+85	[NO_SPEECH]
+86	[NO_SPEECH]
+87	[NO_SPEECH]
+88	[NO_SPEECH]
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	[NO_SPEECH]
+95	[NO_SPEECH]
+96	[NO_SPEECH]
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	[NO_SPEECH]
+104	[NO_SPEECH]
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	[NO_SPEECH]
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	[NO_SPEECH]
+113	Tidak bergerak
+114	Tidak bergerak
+115	Tidak bergerak
+116	Tidak bergerak
+117	Tidak bergerak
+118	Tidak bergerak
+119	Tidak bergerak
+120	[NO_SPEECH]
+121	Tidak bergerak
+122	Tidak bergerak
+123	Tidak bergerak
+124	Tidak bergerak Tidak bergerak
+125	Tidak bergerak Tidak bergerak
+126	Tidak bergerak
+127	Tidak bergerak
+128	Tidak bergerak
+129	Tidak bergerak Tidak bergerak
+130	Tidak bergerak Tidak bergerak
+131	Tidak bergerak Tidak bergerak
+132	Tidak bergerak Tidak bergerak
+133	Tidak bergerak Tidak bergerak
+134	Tidak bergerak Tidak bergerak
+135	Tidak bergerak Tidak bergerak
+136	Tidak bergerak Tidak bergerak
+137	Tidak bergerak
+138	Tidak bergerak
+139	Tidak bergerak
+140	Tidak bergerak
+141	Tidak bergerak
+142	Tidak bergerak Kita berjuang yang bagus
+143	Tidak bergerak Kita berjuang yang bagus
+144	Kita berjuang yang bagus Kita ketawa-ketawa
+145	Kita berjuang yang bagus Kita ketawa-ketawa
+146	Kita ketawa-ketawa
+147	Kita ketawa-ketawa Dan kapan lagi bisa satu track sama Lewis Hamilton
+148	Kita ketawa-ketawa Dan kapan lagi bisa satu track sama Lewis Hamilton
+149	Dan kapan lagi bisa satu track sama Lewis Hamilton
+150	Dan kapan lagi bisa satu track sama Lewis Hamilton
+151	Dan kapan lagi bisa satu track sama Lewis Hamilton
+152	Dan kapan lagi bisa satu track sama Lewis Hamilton
+153	Dan kapan lagi bisa satu track sama Lewis Hamilton
+154	Dan kapan lagi bisa satu track sama Lewis Hamilton
+155	Dan kapan lagi bisa satu track sama Lewis Hamilton
+156	Dan kapan lagi bisa satu track sama Lewis Hamilton
+157	Dan kapan lagi bisa satu track sama Lewis Hamilton
+158	Terima kasih Sel Helix untuk kesempatan yang luar biasa itu
+159	Terima kasih Sel Helix untuk kesempatan yang luar biasa itu
+160	Terima kasih Sel Helix untuk kesempatan yang luar biasa itu
+161	Terima kasih Sel Helix untuk kesempatan yang luar biasa itu
+162	Terima kasih Sel Helix untuk kesempatan yang luar biasa itu
+163	Terima kasih Sel Helix untuk kesempatan yang luar biasa itu
+164	Terima kasih Sel Helix untuk kesempatan yang luar biasa itu
+165	Terima kasih Sel Helix untuk kesempatan yang luar biasa itu
+166	Terima kasih Sel Helix untuk kesempatan yang luar biasa itu
+167	Terima kasih Sel Helix untuk kesempatan yang luar biasa itu
+168	[NO_SPEECH]
+169	[NO_SPEECH]

@@ -1,0 +1,174 @@
+0	Yang namanya mobil bekas pasti ada aja kurangnya.
+1	Yang namanya mobil bekas pasti ada aja kurangnya.
+2	Yang namanya mobil bekas pasti ada aja kurangnya.
+3	Yang namanya mobil bekas pasti ada aja kurangnya. Tapi kalau ketemu Toyota Yaris yang kayak gini,
+4	Yang namanya mobil bekas pasti ada aja kurangnya. Tapi kalau ketemu Toyota Yaris yang kayak gini,
+5	Tapi kalau ketemu Toyota Yaris yang kayak gini,
+6	Tapi kalau ketemu Toyota Yaris yang kayak gini,
+7	Tapi kalau ketemu Toyota Yaris yang kayak gini, kira-kira pantas dikasih harga berapa, cing?
+8	Tapi kalau ketemu Toyota Yaris yang kayak gini, kira-kira pantas dikasih harga berapa, cing?
+9	kira-kira pantas dikasih harga berapa, cing?
+10	kira-kira pantas dikasih harga berapa, cing?
+11	kira-kira pantas dikasih harga berapa, cing?
+12	kira-kira pantas dikasih harga berapa, cing?
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	Ini mobil udah kita periksa dari bekas tabrak,
+16	Ini mobil udah kita periksa dari bekas tabrak,
+17	Ini mobil udah kita periksa dari bekas tabrak,
+18	Ini mobil udah kita periksa dari bekas tabrak,
+19	Ini mobil udah kita periksa dari bekas tabrak,
+20	Ini mobil udah kita periksa dari bekas tabrak, di mana itu sebenarnya aman.
+21	Ini mobil udah kita periksa dari bekas tabrak, di mana itu sebenarnya aman.
+22	di mana itu sebenarnya aman.
+23	di mana itu sebenarnya aman. Di depannya aman, udah gitu tulangan-tulangan,
+24	di mana itu sebenarnya aman. Di depannya aman, udah gitu tulangan-tulangan,
+25	Di depannya aman, udah gitu tulangan-tulangan,
+26	Di depannya aman, udah gitu tulangan-tulangan,
+27	Di depannya aman, udah gitu tulangan-tulangan,
+28	Di depannya aman, udah gitu tulangan-tulangan, las-lasannya aman,
+29	Di depannya aman, udah gitu tulangan-tulangan, las-lasannya aman,
+30	las-lasannya aman, belakang juga nggak ada indikasi bekas tabrak.
+31	las-lasannya aman, belakang juga nggak ada indikasi bekas tabrak.
+32	belakang juga nggak ada indikasi bekas tabrak.
+33	belakang juga nggak ada indikasi bekas tabrak.
+34	belakang juga nggak ada indikasi bekas tabrak. Pun bekas banjir juga nggak,
+35	belakang juga nggak ada indikasi bekas tabrak. Pun bekas banjir juga nggak,
+36	Pun bekas banjir juga nggak,
+37	Pun bekas banjir juga nggak,
+38	Pun bekas banjir juga nggak, karena nggak ditemuin karat-karat yang membekas gitu ya di bagian interiornya.
+39	karena nggak ditemuin karat-karat yang membekas gitu ya di bagian interiornya.
+40	karena nggak ditemuin karat-karat yang membekas gitu ya di bagian interiornya.
+41	karena nggak ditemuin karat-karat yang membekas gitu ya di bagian interiornya.
+42	karena nggak ditemuin karat-karat yang membekas gitu ya di bagian interiornya.
+43	karena nggak ditemuin karat-karat yang membekas gitu ya di bagian interiornya.
+44	karena nggak ditemuin karat-karat yang membekas gitu ya di bagian interiornya.
+45	karena nggak ditemuin karat-karat yang membekas gitu ya di bagian interiornya.
+46	karena nggak ditemuin karat-karat yang membekas gitu ya di bagian interiornya. Tapi lihat kondisi eksteriornya,
+47	karena nggak ditemuin karat-karat yang membekas gitu ya di bagian interiornya. Tapi lihat kondisi eksteriornya,
+48	Tapi lihat kondisi eksteriornya,
+49	Tapi lihat kondisi eksteriornya,
+50	Tapi lihat kondisi eksteriornya,
+51	berantakan.
+52	berantakan.
+53	berantakan. Keliatannya capek banget dengan bumper yang udah belang,
+54	Keliatannya capek banget dengan bumper yang udah belang,
+55	Keliatannya capek banget dengan bumper yang udah belang,
+56	Keliatannya capek banget dengan bumper yang udah belang,
+57	Keliatannya capek banget dengan bumper yang udah belang,
+58	Keliatannya capek banget dengan bumper yang udah belang, udah nggak ori,
+59	Keliatannya capek banget dengan bumper yang udah belang, udah nggak ori, lampunya juga udah huni.
+60	udah nggak ori, lampunya juga udah huni.
+61	lampunya juga udah huni.
+62	lampunya juga udah huni. Makin kuat lagi aura capeknya,
+63	Makin kuat lagi aura capeknya,
+64	Makin kuat lagi aura capeknya,
+65	Makin kuat lagi aura capeknya,
+66	Makin kuat lagi aura capeknya, karena bandnya satu Achilles,
+67	karena bandnya satu Achilles,
+68	karena bandnya satu Achilles, tiga Hankook.
+69	karena bandnya satu Achilles, tiga Hankook.
+70	tiga Hankook. Udah gitu,
+71	tiga Hankook. Udah gitu, tiga-tiganya botak lagi.
+72	Udah gitu, tiga-tiganya botak lagi.
+73	tiga-tiganya botak lagi.
+74	tiga-tiganya botak lagi.
+75	tiga-tiganya botak lagi. Nih, benangnya aja sampai kegiatan.
+76	Nih, benangnya aja sampai kegiatan.
+77	Nih, benangnya aja sampai kegiatan.
+78	Nih, benangnya aja sampai kegiatan.
+79	Nih, benangnya aja sampai kegiatan.
+80	Nih, benangnya aja sampai kegiatan.
+81	Masuk interior,
+82	Masuk interior,
+83	Masuk interior, kayaknya sih mau dibikin tema mewah dengan
+84	Masuk interior, kayaknya sih mau dibikin tema mewah dengan
+85	kayaknya sih mau dibikin tema mewah dengan
+86	kayaknya sih mau dibikin tema mewah dengan
+87	kayaknya sih mau dibikin tema mewah dengan retrim putih-putih di jok sama door trimnya.
+88	kayaknya sih mau dibikin tema mewah dengan retrim putih-putih di jok sama door trimnya.
+89	retrim putih-putih di jok sama door trimnya.
+90	retrim putih-putih di jok sama door trimnya.
+91	retrim putih-putih di jok sama door trimnya.
+92	retrim putih-putih di jok sama door trimnya. Terus lagi di dashboardnya,
+93	Terus lagi di dashboardnya,
+94	Terus lagi di dashboardnya,
+95	Terus lagi di dashboardnya, isi AC udah patah.
+96	Terus lagi di dashboardnya, isi AC udah patah.
+97	isi AC udah patah.
+98	isi AC udah patah. Tapi yang paling parah ini sih.
+99	isi AC udah patah. Tapi yang paling parah ini sih.
+100	Tapi yang paling parah ini sih.
+101	Tapi yang paling parah ini sih. Diapain ya sampai kayak gini nih?
+102	Diapain ya sampai kayak gini nih?
+103	Diapain ya sampai kayak gini nih?
+104	Diapain ya sampai kayak gini nih? Kita cobain tipis-tipis,
+105	Diapain ya sampai kayak gini nih? Kita cobain tipis-tipis,
+106	Kita cobain tipis-tipis,
+107	Kita cobain tipis-tipis, dan untuk 165.000 km,
+108	Kita cobain tipis-tipis, dan untuk 165.000 km,
+109	dan untuk 165.000 km,
+110	dan untuk 165.000 km,
+111	dan untuk 165.000 km, mesinnya terbilang oke lah.
+112	dan untuk 165.000 km, mesinnya terbilang oke lah.
+113	mesinnya terbilang oke lah.
+114	mesinnya terbilang oke lah. Idolnya bagus,
+115	mesinnya terbilang oke lah. Idolnya bagus,
+116	Idolnya bagus, nggak ada getar-getar,
+117	Idolnya bagus, nggak ada getar-getar,
+118	nggak ada getar-getar, kita cek juga nggak ada rembes,
+119	nggak ada getar-getar, kita cek juga nggak ada rembes,
+120	kita cek juga nggak ada rembes,
+121	kita cek juga nggak ada rembes, udah gitu AC-nya dingin.
+122	kita cek juga nggak ada rembes, udah gitu AC-nya dingin.
+123	udah gitu AC-nya dingin. Cuma jadi catatan satu,
+124	udah gitu AC-nya dingin. Cuma jadi catatan satu,
+125	Cuma jadi catatan satu,
+126	Cuma jadi catatan satu,
+127	Cuma jadi catatan satu,
+128	ketika setirnya ditekuk,
+129	ketika setirnya ditekuk,
+130	ketika setirnya ditekuk,
+131	ketika setirnya ditekuk, mobilnya nggak balik.
+132	mobilnya nggak balik.
+133	mobilnya nggak balik.
+134	mobilnya nggak balik.
+135	So gimana?
+136	So gimana?
+137	So gimana? Pantesnya dikasih harga berapa nih mobil?
+138	So gimana? Pantesnya dikasih harga berapa nih mobil?
+139	Pantesnya dikasih harga berapa nih mobil?
+140	Pantesnya dikasih harga berapa nih mobil?
+141	Pantesnya dikasih harga berapa nih mobil? Daripada bingung untuk nawar-nawarnya,
+142	Pantesnya dikasih harga berapa nih mobil? Daripada bingung untuk nawar-nawarnya,
+143	Daripada bingung untuk nawar-nawarnya,
+144	Daripada bingung untuk nawar-nawarnya,
+145	Daripada bingung untuk nawar-nawarnya, mending panggil aja Timo Inspeksi
+146	Daripada bingung untuk nawar-nawarnya, mending panggil aja Timo Inspeksi
+147	mending panggil aja Timo Inspeksi
+148	mending panggil aja Timo Inspeksi di harga 150.000 rupiah.
+149	mending panggil aja Timo Inspeksi di harga 150.000 rupiah.
+150	di harga 150.000 rupiah. Kalian bisa dapetin laporan inspeksi menyeluruh,
+151	di harga 150.000 rupiah. Kalian bisa dapetin laporan inspeksi menyeluruh,
+152	Kalian bisa dapetin laporan inspeksi menyeluruh,
+153	Kalian bisa dapetin laporan inspeksi menyeluruh,
+154	Kalian bisa dapetin laporan inspeksi menyeluruh, plus konsultasi gratis sama inspektornya,
+155	Kalian bisa dapetin laporan inspeksi menyeluruh, plus konsultasi gratis sama inspektornya,
+156	plus konsultasi gratis sama inspektornya,
+157	plus konsultasi gratis sama inspektornya,
+158	plus konsultasi gratis sama inspektornya,
+159	plus konsultasi gratis sama inspektornya, biar tau kira-kira harus ditawar berapa sih mobilnya.
+160	plus konsultasi gratis sama inspektornya, biar tau kira-kira harus ditawar berapa sih mobilnya.
+161	biar tau kira-kira harus ditawar berapa sih mobilnya.
+162	biar tau kira-kira harus ditawar berapa sih mobilnya.
+163	biar tau kira-kira harus ditawar berapa sih mobilnya.
+164	biar tau kira-kira harus ditawar berapa sih mobilnya.
+165	biar tau kira-kira harus ditawar berapa sih mobilnya.
+166	biar tau kira-kira harus ditawar berapa sih mobilnya. Jadi langsung aja kontak Timo Inspeksi, oke?
+167	Jadi langsung aja kontak Timo Inspeksi, oke?
+168	Jadi langsung aja kontak Timo Inspeksi, oke?
+169	Jadi langsung aja kontak Timo Inspeksi, oke?
+170	Jadi langsung aja kontak Timo Inspeksi, oke?
+171	Jadi langsung aja kontak Timo Inspeksi, oke?
+172	[NO_SPEECH]
+173	[NO_SPEECH]

@@ -1,0 +1,183 @@
+0	Selesai juga tour di ASEAN
+1	Selesai juga tour di ASEAN
+2	Selesai juga tour di ASEAN Dan mobil ini akan kita tinggal
+3	Selesai juga tour di ASEAN Dan mobil ini akan kita tinggal
+4	Dan mobil ini akan kita tinggal
+5	Dan mobil ini akan kita tinggal Karena nanti setelah Gias kita akan balik lagi
+6	Dan mobil ini akan kita tinggal Karena nanti setelah Gias kita akan balik lagi
+7	Karena nanti setelah Gias kita akan balik lagi
+8	Karena nanti setelah Gias kita akan balik lagi
+9	Karena nanti setelah Gias kita akan balik lagi
+10	Karena nanti setelah Gias kita akan balik lagi Kemudian kita berangkat lagi menuju Cina
+11	Karena nanti setelah Gias kita akan balik lagi Kemudian kita berangkat lagi menuju Cina
+12	Kemudian kita berangkat lagi menuju Cina
+13	Kemudian kita berangkat lagi menuju Cina
+14	Kemudian kita berangkat lagi menuju Cina
+15	Kemudian kita berangkat lagi menuju Cina
+16	Kemudian kita berangkat lagi menuju Cina
+17	Kemudian kita berangkat lagi menuju Cina Nah, semua barang di mobil ini kita tinggal ya
+18	Kemudian kita berangkat lagi menuju Cina Nah, semua barang di mobil ini kita tinggal ya
+19	Nah, semua barang di mobil ini kita tinggal ya
+20	Nah, semua barang di mobil ini kita tinggal ya
+21	Nah, semua barang di mobil ini kita tinggal ya
+22	Nah, semua barang di mobil ini kita tinggal ya
+23	Nah, semua barang di mobil ini kita tinggal ya
+24	Nah, semua barang di mobil ini kita tinggal ya
+25	Nah, semua barang di mobil ini kita tinggal ya Termasuk toolkit-toolkit ini
+26	Nah, semua barang di mobil ini kita tinggal ya Termasuk toolkit-toolkit ini
+27	Termasuk toolkit-toolkit ini
+28	Termasuk toolkit-toolkit ini Ini sangat kepake sekali ya
+29	Termasuk toolkit-toolkit ini Ini sangat kepake sekali ya
+30	Ini sangat kepake sekali ya
+31	Ini sangat kepake sekali ya Terutama ini nih
+32	Ini sangat kepake sekali ya Terutama ini nih
+33	Terutama ini nih
+34	Terutama ini nih Automatic Tire Repair Kit ya
+35	Automatic Tire Repair Kit ya
+36	Automatic Tire Repair Kit ya
+37	Automatic Tire Repair Kit ya Jadi, dia itu bisa menambal ban dengan instan ya
+38	Automatic Tire Repair Kit ya Jadi, dia itu bisa menambal ban dengan instan ya
+39	Jadi, dia itu bisa menambal ban dengan instan ya
+40	Jadi, dia itu bisa menambal ban dengan instan ya
+41	Jadi, dia itu bisa menambal ban dengan instan ya
+42	Jadi, dia itu bisa menambal ban dengan instan ya
+43	Jadi, dia itu bisa menambal ban dengan instan ya
+44	Jadi, dia itu bisa menambal ban dengan instan ya
+45	Jadi, dia itu bisa menambal ban dengan instan ya
+46	Jadi, dia itu bisa menambal ban dengan instan ya
+47	Jadi, dia itu bisa menambal ban dengan instan ya
+48	Jadi, dia itu bisa menambal ban dengan instan ya Jadi ada cairannya
+49	Jadi, dia itu bisa menambal ban dengan instan ya Jadi ada cairannya
+50	Jadi ada cairannya Tapi yang paling kepake ininya
+51	Jadi ada cairannya Tapi yang paling kepake ininya
+52	Tapi yang paling kepake ininya
+53	Tapi yang paling kepake ininya Karena beberapa kali di Port Lang
+54	Tapi yang paling kepake ininya Karena beberapa kali di Port Lang
+55	Karena beberapa kali di Port Lang
+56	Karena beberapa kali di Port Lang
+57	Karena beberapa kali di Port Lang Kita kekurangan angin
+58	Karena beberapa kali di Port Lang Kita kekurangan angin
+59	Kita kekurangan angin Kemudian di Thailand kita kekurangan angin lagi
+60	Kita kekurangan angin Kemudian di Thailand kita kekurangan angin lagi
+61	Kemudian di Thailand kita kekurangan angin lagi
+62	Kemudian di Thailand kita kekurangan angin lagi
+63	Kemudian di Thailand kita kekurangan angin lagi Jadi ini kepake buat ngisi angin
+64	Kemudian di Thailand kita kekurangan angin lagi Jadi ini kepake buat ngisi angin
+65	Jadi ini kepake buat ngisi angin
+66	Jadi ini kepake buat ngisi angin
+67	Jadi ini kepake buat ngisi angin
+68	Kemudian bagi ban bakar
+69	Kemudian bagi ban bakar
+70	Kemudian bagi ban bakar
+71	Kemudian bagi ban bakar Ternyata nggak kepake
+72	Kemudian bagi ban bakar Ternyata nggak kepake Karena kita menemukan banyak pom bensin
+73	Ternyata nggak kepake Karena kita menemukan banyak pom bensin
+74	Karena kita menemukan banyak pom bensin
+75	Karena kita menemukan banyak pom bensin
+76	Karena kita menemukan banyak pom bensin Di sepanjang ASEAN
+77	Karena kita menemukan banyak pom bensin Di sepanjang ASEAN
+78	Di sepanjang ASEAN Dari Malaysia, Thailand, Kamboja
+79	Di sepanjang ASEAN Dari Malaysia, Thailand, Kamboja
+80	Dari Malaysia, Thailand, Kamboja
+81	Dari Malaysia, Thailand, Kamboja
+82	Dari Malaysia, Thailand, Kamboja Sampai Laos tuh nggak ada masalah
+83	Dari Malaysia, Thailand, Kamboja Sampai Laos tuh nggak ada masalah
+84	Dari Malaysia, Thailand, Kamboja Sampai Laos tuh nggak ada masalah
+85	Sampai Laos tuh nggak ada masalah Nah, terus ini kita pake buat jaga-jaga
+86	Sampai Laos tuh nggak ada masalah Nah, terus ini kita pake buat jaga-jaga
+87	Nah, terus ini kita pake buat jaga-jaga
+88	Nah, terus ini kita pake buat jaga-jaga
+89	Nah, terus ini kita pake buat jaga-jaga
+90	Nah, terus ini kita pake buat jaga-jaga Kalau misalkan kita harus ganti ban
+91	Nah, terus ini kita pake buat jaga-jaga Kalau misalkan kita harus ganti ban
+92	Kalau misalkan kita harus ganti ban
+93	Kalau misalkan kita harus ganti ban
+94	Kalau misalkan kita harus ganti ban
+95	Kalau misalkan kita harus ganti ban
+96	Kalau misalkan kita harus ganti ban Jadi kalau misalkan ban kita yang pecah
+97	Kalau misalkan kita harus ganti ban Jadi kalau misalkan ban kita yang pecah
+98	Jadi kalau misalkan ban kita yang pecah
+99	Jadi kalau misalkan ban kita yang pecah
+100	Jadi kalau misalkan ban kita yang pecah Kita mesti ganti ban serep
+101	Jadi kalau misalkan ban kita yang pecah Kita mesti ganti ban serep
+102	Kita mesti ganti ban serep Mesti buka-buka baut gitu kan
+103	Kita mesti ganti ban serep Mesti buka-buka baut gitu kan
+104	Mesti buka-buka baut gitu kan
+105	Mesti buka-buka baut gitu kan Lebih cepet buka laknat sepakai ini
+106	Mesti buka-buka baut gitu kan Lebih cepet buka laknat sepakai ini
+107	Lebih cepet buka laknat sepakai ini
+108	Lebih cepet buka laknat sepakai ini
+109	Lebih cepet buka laknat sepakai ini
+110	Lebih cepet buka laknat sepakai ini Impact
+111	Lebih cepet buka laknat sepakai ini Impact Kunci-kunci
+112	Impact Kunci-kunci
+113	Kunci-kunci Toolkit mesin lain juga kepake
+114	Kunci-kunci Toolkit mesin lain juga kepake
+115	Toolkit mesin lain juga kepake
+116	Toolkit mesin lain juga kepake Buat ngenceng-ngencengin
+117	Toolkit mesin lain juga kepake Buat ngenceng-ngencengin
+118	Buat ngenceng-ngencengin Part-part
+119	Buat ngenceng-ngencengin Part-part
+120	Part-part
+121	Part-part Kayak misalkan bumper bawah
+122	Part-part Kayak misalkan bumper bawah
+123	Kayak misalkan bumper bawah
+124	Kayak misalkan bumper bawah Sama roof rack kita
+125	Kayak misalkan bumper bawah Sama roof rack kita Jadi sepanjang perjalanan ini
+126	Sama roof rack kita Jadi sepanjang perjalanan ini
+127	Jadi sepanjang perjalanan ini
+128	Jadi sepanjang perjalanan ini Mobil bergetar
+129	Jadi sepanjang perjalanan ini Mobil bergetar
+130	Mobil bergetar Jalan goyang
+131	Mobil bergetar Jalan goyang
+132	Jalan goyang Itu biasanya baut-baut
+133	Jalan goyang Itu biasanya baut-baut
+134	Itu biasanya baut-baut
+135	Itu biasanya baut-baut Suka agak kendor
+136	Itu biasanya baut-baut Suka agak kendor Makanya harus dikenceng-kencengin
+137	Suka agak kendor Makanya harus dikenceng-kencengin
+138	Makanya harus dikenceng-kencengin Dan kita pastikan
+139	Makanya harus dikenceng-kencengin Dan kita pastikan
+140	Dan kita pastikan Semua perjalanan kita selamat
+141	Dan kita pastikan Semua perjalanan kita selamat
+142	Semua perjalanan kita selamat Jadi
+143	Semua perjalanan kita selamat Jadi Toolkit ini akan kita tinggal disini
+144	Jadi Toolkit ini akan kita tinggal disini
+145	Toolkit ini akan kita tinggal disini
+146	Toolkit ini akan kita tinggal disini
+147	Toolkit ini akan kita tinggal disini
+148	Toolkit ini akan kita tinggal disini Dan kita akan balik ke Indonesia
+149	Toolkit ini akan kita tinggal disini Dan kita akan balik ke Indonesia
+150	Dan kita akan balik ke Indonesia
+151	Dan kita akan balik ke Indonesia Pokoknya kalau urusan power tools
+152	Dan kita akan balik ke Indonesia Pokoknya kalau urusan power tools
+153	Pokoknya kalau urusan power tools
+154	Pokoknya kalau urusan power tools
+155	Pokoknya kalau urusan power tools Atau toolkit
+156	Pokoknya kalau urusan power tools Atau toolkit Pake mesin nail aja
+157	Atau toolkit Pake mesin nail aja
+158	Pake mesin nail aja Toolkitnya
+159	Pake mesin nail aja Toolkitnya
+160	Toolkitnya Select ganti baru
+161	Toolkitnya Select ganti baru
+162	Select ganti baru Dan untuk power toolsnya
+163	Select ganti baru Dan untuk power toolsnya
+164	Dan untuk power toolsnya
+165	Dan untuk power toolsnya
+166	Dan untuk power toolsnya Kalau misalkan rusak
+167	Dan untuk power toolsnya Kalau misalkan rusak
+168	Kalau misalkan rusak Supaya partnya tersedia
+169	Kalau misalkan rusak Supaya partnya tersedia
+170	Supaya partnya tersedia Dan service centernya ada dimana-mana
+171	Supaya partnya tersedia Dan service centernya ada dimana-mana
+172	Dan service centernya ada dimana-mana
+173	Dan service centernya ada dimana-mana
+174	Dan service centernya ada dimana-mana
+175	Dan service centernya ada dimana-mana
+176	Dan service centernya ada dimana-mana Terima kasih
+177	Terima kasih
+178	Terima kasih
+179	Terima kasih
+180	Terima kasih
+181	Terima kasih
+182	[NO_SPEECH]

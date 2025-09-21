@@ -1,0 +1,209 @@
+0	Salam olahraga!
+1	Salam olahraga!
+2	[NO_SPEECH]
+3	Tepuk tangan buat semuanya
+4	Tepuk tangan buat semuanya
+5	Tepuk tangan buat semuanya
+6	Tepuk tangan buat semuanya
+7	[NO_SPEECH]
+8	Lagi berlari, sore berlari
+9	Lagi berlari, sore berlari
+10	Lagi berlari, sore berlari
+11	Lagi berlari, sore berlari
+12	Lagi berlari, sore berlari
+13	Lagi berlari, sore berlari
+14	Lagi berlari, sore berlari
+15	Lagi berlari, sore berlari
+16	Teruslah berlari mengelilingi mani
+17	Teruslah berlari mengelilingi mani
+18	Teruslah berlari mengelilingi mani
+19	Teruslah berlari mengelilingi mani
+20	Teruslah berlari mengelilingi mani Ayo semangat para atlet negeri
+21	Teruslah berlari mengelilingi mani Ayo semangat para atlet negeri
+22	Teruslah berlari mengelilingi mani Ayo semangat para atlet negeri
+23	Ayo semangat para atlet negeri
+24	Ayo semangat para atlet negeri
+25	Ayo semangat para atlet negeri
+26	Ayo semangat para atlet negeri Semoga bisa bawa pulang piala trophy
+27	Ayo semangat para atlet negeri Semoga bisa bawa pulang piala trophy
+28	Semoga bisa bawa pulang piala trophy
+29	Semoga bisa bawa pulang piala trophy
+30	Semoga bisa bawa pulang piala trophy
+31	Semoga bisa bawa pulang piala trophy
+32	Semoga bisa bawa pulang piala trophy
+33	Semoga bisa bawa pulang piala trophy
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	Para atlet, mari kita sama-sama panjatkan puji sukur kita
+40	Para atlet, mari kita sama-sama panjatkan puji sukur kita
+41	Para atlet, mari kita sama-sama panjatkan puji sukur kita
+42	Para atlet, mari kita sama-sama panjatkan puji sukur kita
+43	Para atlet, mari kita sama-sama panjatkan puji sukur kita
+44	Para atlet, mari kita sama-sama panjatkan puji sukur kita
+45	Para atlet, mari kita sama-sama panjatkan puji sukur kita
+46	Para atlet, mari kita sama-sama panjatkan puji sukur kita Kada pulau semanawatara pulang yang makuasa
+47	Para atlet, mari kita sama-sama panjatkan puji sukur kita Kada pulau semanawatara pulang yang makuasa
+48	Kada pulau semanawatara pulang yang makuasa
+49	Kada pulau semanawatara pulang yang makuasa
+50	Kada pulau semanawatara pulang yang makuasa
+51	Kada pulau semanawatara pulang yang makuasa Hari ini kita sama-sama melakukan pelepasan kontingen atlet Jakarta Pusat
+52	Kada pulau semanawatara pulang yang makuasa Hari ini kita sama-sama melakukan pelepasan kontingen atlet Jakarta Pusat
+53	Hari ini kita sama-sama melakukan pelepasan kontingen atlet Jakarta Pusat
+54	Hari ini kita sama-sama melakukan pelepasan kontingen atlet Jakarta Pusat
+55	Hari ini kita sama-sama melakukan pelepasan kontingen atlet Jakarta Pusat
+56	Hari ini kita sama-sama melakukan pelepasan kontingen atlet Jakarta Pusat
+57	Hari ini kita sama-sama melakukan pelepasan kontingen atlet Jakarta Pusat
+58	Hari ini kita sama-sama melakukan pelepasan kontingen atlet Jakarta Pusat
+59	Hari ini kita sama-sama melakukan pelepasan kontingen atlet Jakarta Pusat
+60	Hari ini kita sama-sama melakukan pelepasan kontingen atlet Jakarta Pusat
+61	Hari ini kita sama-sama melakukan pelepasan kontingen atlet Jakarta Pusat
+62	Hari ini kita sama-sama melakukan pelepasan kontingen atlet Jakarta Pusat
+63	Hari ini kita sama-sama melakukan pelepasan kontingen atlet Jakarta Pusat
+64	Hari ini kita sama-sama melakukan pelepasan kontingen atlet Jakarta Pusat
+65	Hari ini kita sama-sama melakukan pelepasan kontingen atlet Jakarta Pusat
+66	Hari ini kita sama-sama melakukan pelepasan kontingen atlet Jakarta Pusat
+67	Hari ini kita sama-sama melakukan pelepasan kontingen atlet Jakarta Pusat Untuk mengikuti pekat olahraga pelajar provinsi dan pekat olahraga provinsi DKI Jakarta tahun 2025
+68	Hari ini kita sama-sama melakukan pelepasan kontingen atlet Jakarta Pusat Untuk mengikuti pekat olahraga pelajar provinsi dan pekat olahraga provinsi DKI Jakarta tahun 2025
+69	Untuk mengikuti pekat olahraga pelajar provinsi dan pekat olahraga provinsi DKI Jakarta tahun 2025
+70	Untuk mengikuti pekat olahraga pelajar provinsi dan pekat olahraga provinsi DKI Jakarta tahun 2025
+71	Untuk mengikuti pekat olahraga pelajar provinsi dan pekat olahraga provinsi DKI Jakarta tahun 2025
+72	Untuk mengikuti pekat olahraga pelajar provinsi dan pekat olahraga provinsi DKI Jakarta tahun 2025
+73	Untuk mengikuti pekat olahraga pelajar provinsi dan pekat olahraga provinsi DKI Jakarta tahun 2025
+74	Untuk mengikuti pekat olahraga pelajar provinsi dan pekat olahraga provinsi DKI Jakarta tahun 2025
+75	Untuk mengikuti pekat olahraga pelajar provinsi dan pekat olahraga provinsi DKI Jakarta tahun 2025
+76	Untuk mengikuti pekat olahraga pelajar provinsi dan pekat olahraga provinsi DKI Jakarta tahun 2025
+77	Untuk mengikuti pekat olahraga pelajar provinsi dan pekat olahraga provinsi DKI Jakarta tahun 2025
+78	Untuk mengikuti pekat olahraga pelajar provinsi dan pekat olahraga provinsi DKI Jakarta tahun 2025
+79	Untuk mengikuti pekat olahraga pelajar provinsi dan pekat olahraga provinsi DKI Jakarta tahun 2025
+80	Untuk mengikuti pekat olahraga pelajar provinsi dan pekat olahraga provinsi DKI Jakarta tahun 2025
+81	Untuk mengikuti pekat olahraga pelajar provinsi dan pekat olahraga provinsi DKI Jakarta tahun 2025
+82	Untuk mengikuti pekat olahraga pelajar provinsi dan pekat olahraga provinsi DKI Jakarta tahun 2025
+83	Untuk mengikuti pekat olahraga pelajar provinsi dan pekat olahraga provinsi DKI Jakarta tahun 2025
+84	Untuk mengikuti pekat olahraga pelajar provinsi dan pekat olahraga provinsi DKI Jakarta tahun 2025 Di kesempatan yang baik ini
+85	Untuk mengikuti pekat olahraga pelajar provinsi dan pekat olahraga provinsi DKI Jakarta tahun 2025 Di kesempatan yang baik ini
+86	Di kesempatan yang baik ini
+87	Di kesempatan yang baik ini
+88	Di kesempatan yang baik ini
+89	Di kesempatan yang baik ini
+90	Di kesempatan yang baik ini
+91	Di kesempatan yang baik ini
+92	Di kesempatan yang baik ini Saya ingin menyampaikan di hadapan 360 atlet Jakarta Pusat
+93	Di kesempatan yang baik ini Saya ingin menyampaikan di hadapan 360 atlet Jakarta Pusat
+94	Saya ingin menyampaikan di hadapan 360 atlet Jakarta Pusat
+95	Saya ingin menyampaikan di hadapan 360 atlet Jakarta Pusat
+96	Saya ingin menyampaikan di hadapan 360 atlet Jakarta Pusat
+97	Saya ingin menyampaikan di hadapan 360 atlet Jakarta Pusat
+98	Saya ingin menyampaikan di hadapan 360 atlet Jakarta Pusat
+99	Saya ingin menyampaikan di hadapan 360 atlet Jakarta Pusat
+100	Saya ingin menyampaikan di hadapan 360 atlet Jakarta Pusat
+101	Saya ingin menyampaikan di hadapan 360 atlet Jakarta Pusat
+102	Saya ingin menyampaikan di hadapan 360 atlet Jakarta Pusat
+103	Saya ingin menyampaikan di hadapan 360 atlet Jakarta Pusat Dan juga 56 para pelatih
+104	Saya ingin menyampaikan di hadapan 360 atlet Jakarta Pusat Dan juga 56 para pelatih
+105	Dan juga 56 para pelatih
+106	Dan juga 56 para pelatih
+107	Dan juga 56 para pelatih
+108	Dan juga 56 para pelatih
+109	Dan juga 56 para pelatih
+110	Dan juga 56 para pelatih
+111	Dan juga 56 para pelatih Dan asisten pelatih
+112	Dan juga 56 para pelatih Dan asisten pelatih
+113	Dan asisten pelatih Yang tentunya saya berharap kepada semuanya
+114	Dan asisten pelatih Yang tentunya saya berharap kepada semuanya
+115	Yang tentunya saya berharap kepada semuanya
+116	Yang tentunya saya berharap kepada semuanya
+117	Yang tentunya saya berharap kepada semuanya
+118	Yang tentunya saya berharap kepada semuanya
+119	Yang tentunya saya berharap kepada semuanya
+120	Yang tentunya saya berharap kepada semuanya
+121	Yang tentunya saya berharap kepada semuanya Agar tentunya bisa memberikan kebanggaan untuk kota Jakarta Pusat
+122	Yang tentunya saya berharap kepada semuanya Agar tentunya bisa memberikan kebanggaan untuk kota Jakarta Pusat
+123	Agar tentunya bisa memberikan kebanggaan untuk kota Jakarta Pusat
+124	Agar tentunya bisa memberikan kebanggaan untuk kota Jakarta Pusat
+125	Agar tentunya bisa memberikan kebanggaan untuk kota Jakarta Pusat
+126	Agar tentunya bisa memberikan kebanggaan untuk kota Jakarta Pusat
+127	Agar tentunya bisa memberikan kebanggaan untuk kota Jakarta Pusat
+128	Agar tentunya bisa memberikan kebanggaan untuk kota Jakarta Pusat
+129	Agar tentunya bisa memberikan kebanggaan untuk kota Jakarta Pusat
+130	Agar tentunya bisa memberikan kebanggaan untuk kota Jakarta Pusat
+131	Agar tentunya bisa memberikan kebanggaan untuk kota Jakarta Pusat
+132	Agar tentunya bisa memberikan kebanggaan untuk kota Jakarta Pusat Saya berharap Anda semua para atlet
+133	Agar tentunya bisa memberikan kebanggaan untuk kota Jakarta Pusat Saya berharap Anda semua para atlet
+134	Saya berharap Anda semua para atlet
+135	Saya berharap Anda semua para atlet
+136	Saya berharap Anda semua para atlet
+137	Saya berharap Anda semua para atlet
+138	Saya berharap Anda semua para atlet
+139	Saya berharap Anda semua para atlet Para pelatih, asisten pelatih
+140	Saya berharap Anda semua para atlet Para pelatih, asisten pelatih
+141	Para pelatih, asisten pelatih
+142	Para pelatih, asisten pelatih
+143	Para pelatih, asisten pelatih
+144	Para pelatih, asisten pelatih
+145	Para pelatih, asisten pelatih Dapat mengharumkan nama kota Jakarta Pusat di tingkat provinsi DKI Jakarta
+146	Para pelatih, asisten pelatih Dapat mengharumkan nama kota Jakarta Pusat di tingkat provinsi DKI Jakarta
+147	Dapat mengharumkan nama kota Jakarta Pusat di tingkat provinsi DKI Jakarta
+148	Dapat mengharumkan nama kota Jakarta Pusat di tingkat provinsi DKI Jakarta
+149	Dapat mengharumkan nama kota Jakarta Pusat di tingkat provinsi DKI Jakarta
+150	Dapat mengharumkan nama kota Jakarta Pusat di tingkat provinsi DKI Jakarta
+151	Dapat mengharumkan nama kota Jakarta Pusat di tingkat provinsi DKI Jakarta
+152	Dapat mengharumkan nama kota Jakarta Pusat di tingkat provinsi DKI Jakarta
+153	Dapat mengharumkan nama kota Jakarta Pusat di tingkat provinsi DKI Jakarta
+154	Dapat mengharumkan nama kota Jakarta Pusat di tingkat provinsi DKI Jakarta
+155	Dapat mengharumkan nama kota Jakarta Pusat di tingkat provinsi DKI Jakarta
+156	Dapat mengharumkan nama kota Jakarta Pusat di tingkat provinsi DKI Jakarta
+157	Dapat mengharumkan nama kota Jakarta Pusat di tingkat provinsi DKI Jakarta
+158	Dapat mengharumkan nama kota Jakarta Pusat di tingkat provinsi DKI Jakarta
+159	Dapat mengharumkan nama kota Jakarta Pusat di tingkat provinsi DKI Jakarta
+160	Dapat mengharumkan nama kota Jakarta Pusat di tingkat provinsi DKI Jakarta
+161	[NO_SPEECH]
+162	Saya yakin dan percaya bahwa Anda semua adalah
+163	Saya yakin dan percaya bahwa Anda semua adalah
+164	Saya yakin dan percaya bahwa Anda semua adalah
+165	Saya yakin dan percaya bahwa Anda semua adalah
+166	Saya yakin dan percaya bahwa Anda semua adalah
+167	Saya yakin dan percaya bahwa Anda semua adalah
+168	Saya yakin dan percaya bahwa Anda semua adalah
+169	Saya yakin dan percaya bahwa Anda semua adalah
+170	Saya yakin dan percaya bahwa Anda semua adalah
+171	Saya yakin dan percaya bahwa Anda semua adalah
+172	Perwakilan atlet-atlet yang terbaik
+173	Perwakilan atlet-atlet yang terbaik
+174	Perwakilan atlet-atlet yang terbaik
+175	Perwakilan atlet-atlet yang terbaik
+176	Perwakilan atlet-atlet yang terbaik
+177	Perwakilan atlet-atlet yang terbaik
+178	Perwakilan atlet-atlet yang terbaik Yang telah melewati proses seleksi dan latihan yang sangat keras
+179	Perwakilan atlet-atlet yang terbaik Yang telah melewati proses seleksi dan latihan yang sangat keras
+180	Yang telah melewati proses seleksi dan latihan yang sangat keras
+181	Yang telah melewati proses seleksi dan latihan yang sangat keras
+182	Yang telah melewati proses seleksi dan latihan yang sangat keras
+183	Yang telah melewati proses seleksi dan latihan yang sangat keras
+184	Yang telah melewati proses seleksi dan latihan yang sangat keras
+185	Yang telah melewati proses seleksi dan latihan yang sangat keras
+186	Yang telah melewati proses seleksi dan latihan yang sangat keras
+187	Yang telah melewati proses seleksi dan latihan yang sangat keras
+188	Yang telah melewati proses seleksi dan latihan yang sangat keras Jakarta Pusat
+189	Yang telah melewati proses seleksi dan latihan yang sangat keras Jakarta Pusat
+190	Jakarta Pusat
+191	Jakarta Pusat Semakin keras, semakin oke
+192	Jakarta Pusat Semakin keras, semakin oke
+193	Semakin keras, semakin oke
+194	Semakin keras, semakin oke
+195	Semakin keras, semakin oke
+196	Semakin keras, semakin oke
+197	Semakin keras, semakin oke
+198	Semakin keras, semakin oke
+199	[NO_SPEECH]
+200	[NO_SPEECH]
+201	[NO_SPEECH]
+202	[NO_SPEECH]
+203	[NO_SPEECH]
+204	[NO_SPEECH]
+205	[NO_SPEECH]
+206	[NO_SPEECH]
+207	[NO_SPEECH]
+208	[NO_SPEECH]

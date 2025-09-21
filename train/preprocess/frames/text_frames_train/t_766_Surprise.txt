@@ -1,0 +1,193 @@
+0	Apakah ada efek negatif kalau kita itu duduk kelamaan?
+1	Apakah ada efek negatif kalau kita itu duduk kelamaan?
+2	Apakah ada efek negatif kalau kita itu duduk kelamaan?
+3	Apakah ada efek negatif kalau kita itu duduk kelamaan?
+4	Apakah ada efek negatif kalau kita itu duduk kelamaan?
+5	Apakah ada efek negatif kalau kita itu duduk kelamaan?
+6	Apakah ada efek negatif kalau kita itu duduk kelamaan?
+7	Apakah ada efek negatif kalau kita itu duduk kelamaan? Ini gue mau share satu studi dari Journal of Applied Visualogy
+8	Apakah ada efek negatif kalau kita itu duduk kelamaan? Ini gue mau share satu studi dari Journal of Applied Visualogy
+9	Ini gue mau share satu studi dari Journal of Applied Visualogy
+10	Ini gue mau share satu studi dari Journal of Applied Visualogy
+11	Ini gue mau share satu studi dari Journal of Applied Visualogy
+12	Ini gue mau share satu studi dari Journal of Applied Visualogy
+13	Ini gue mau share satu studi dari Journal of Applied Visualogy
+14	Ini gue mau share satu studi dari Journal of Applied Visualogy dan ini highly cited paper.
+15	Ini gue mau share satu studi dari Journal of Applied Visualogy dan ini highly cited paper.
+16	Ini gue mau share satu studi dari Journal of Applied Visualogy dan ini highly cited paper.
+17	dan ini highly cited paper.
+18	dan ini highly cited paper.
+19	[NO_SPEECH]
+20	Mereka itu bagi sekelompok orang menjadi tiga kelompok.
+21	Mereka itu bagi sekelompok orang menjadi tiga kelompok.
+22	Mereka itu bagi sekelompok orang menjadi tiga kelompok.
+23	Mereka itu bagi sekelompok orang menjadi tiga kelompok.
+24	Mereka itu bagi sekelompok orang menjadi tiga kelompok.
+25	Mereka itu bagi sekelompok orang menjadi tiga kelompok.
+26	Mereka itu bagi sekelompok orang menjadi tiga kelompok.
+27	Mereka itu bagi sekelompok orang menjadi tiga kelompok. Semua itu disuruh duduk selama 4 jam.
+28	Semua itu disuruh duduk selama 4 jam.
+29	Semua itu disuruh duduk selama 4 jam.
+30	Semua itu disuruh duduk selama 4 jam.
+31	Semua itu disuruh duduk selama 4 jam.
+32	Semua itu disuruh duduk selama 4 jam.
+33	Semua itu disuruh duduk selama 4 jam. Kelompok yang pertama disuruh duduk 4 jam, gak usah ngapa-ngapain.
+34	Kelompok yang pertama disuruh duduk 4 jam, gak usah ngapa-ngapain.
+35	Kelompok yang pertama disuruh duduk 4 jam, gak usah ngapa-ngapain.
+36	Kelompok yang pertama disuruh duduk 4 jam, gak usah ngapa-ngapain.
+37	Kelompok yang pertama disuruh duduk 4 jam, gak usah ngapa-ngapain.
+38	Kelompok yang pertama disuruh duduk 4 jam, gak usah ngapa-ngapain.
+39	Kelompok yang pertama disuruh duduk 4 jam, gak usah ngapa-ngapain.
+40	Kelompok yang pertama disuruh duduk 4 jam, gak usah ngapa-ngapain. Kelompok yang kedua, setiap setengah jam mereka itu disuruh jalan 2 menit.
+41	Kelompok yang kedua, setiap setengah jam mereka itu disuruh jalan 2 menit.
+42	Kelompok yang kedua, setiap setengah jam mereka itu disuruh jalan 2 menit.
+43	Kelompok yang kedua, setiap setengah jam mereka itu disuruh jalan 2 menit.
+44	Kelompok yang kedua, setiap setengah jam mereka itu disuruh jalan 2 menit.
+45	Kelompok yang kedua, setiap setengah jam mereka itu disuruh jalan 2 menit.
+46	Kelompok yang kedua, setiap setengah jam mereka itu disuruh jalan 2 menit.
+47	Kelompok yang kedua, setiap setengah jam mereka itu disuruh jalan 2 menit.
+48	Kelompok yang kedua, setiap setengah jam mereka itu disuruh jalan 2 menit.
+49	Kelompok yang kedua, setiap setengah jam mereka itu disuruh jalan 2 menit.
+50	Kelompok yang kedua, setiap setengah jam mereka itu disuruh jalan 2 menit. Kelompok yang ketiga, tetap disuruh duduk 4 jam.
+51	Kelompok yang ketiga, tetap disuruh duduk 4 jam.
+52	Kelompok yang ketiga, tetap disuruh duduk 4 jam.
+53	Kelompok yang ketiga, tetap disuruh duduk 4 jam.
+54	Kelompok yang ketiga, tetap disuruh duduk 4 jam.
+55	Kelompok yang ketiga, tetap disuruh duduk 4 jam.
+56	Kelompok yang ketiga, tetap disuruh duduk 4 jam. Tapi mereka itu disuruh jalan selama 8 menit di jam kedua.
+57	Kelompok yang ketiga, tetap disuruh duduk 4 jam. Tapi mereka itu disuruh jalan selama 8 menit di jam kedua.
+58	Tapi mereka itu disuruh jalan selama 8 menit di jam kedua.
+59	Tapi mereka itu disuruh jalan selama 8 menit di jam kedua.
+60	Tapi mereka itu disuruh jalan selama 8 menit di jam kedua.
+61	Tapi mereka itu disuruh jalan selama 8 menit di jam kedua.
+62	Tapi mereka itu disuruh jalan selama 8 menit di jam kedua.
+63	Tapi mereka itu disuruh jalan selama 8 menit di jam kedua.
+64	Tapi mereka itu disuruh jalan selama 8 menit di jam kedua.
+65	Tapi mereka itu disuruh jalan selama 8 menit di jam kedua. Mereka itu ngeliat ada perbedaan yang signifikan dari peredaran darah ke otak.
+66	Tapi mereka itu disuruh jalan selama 8 menit di jam kedua. Mereka itu ngeliat ada perbedaan yang signifikan dari peredaran darah ke otak.
+67	Mereka itu ngeliat ada perbedaan yang signifikan dari peredaran darah ke otak.
+68	Mereka itu ngeliat ada perbedaan yang signifikan dari peredaran darah ke otak.
+69	Mereka itu ngeliat ada perbedaan yang signifikan dari peredaran darah ke otak.
+70	Mereka itu ngeliat ada perbedaan yang signifikan dari peredaran darah ke otak.
+71	Mereka itu ngeliat ada perbedaan yang signifikan dari peredaran darah ke otak.
+72	Mereka itu ngeliat ada perbedaan yang signifikan dari peredaran darah ke otak.
+73	Mereka itu ngeliat ada perbedaan yang signifikan dari peredaran darah ke otak.
+74	Mereka itu ngeliat ada perbedaan yang signifikan dari peredaran darah ke otak.
+75	Mereka itu ngeliat ada perbedaan yang signifikan dari peredaran darah ke otak.
+76	Mereka itu ngeliat ada perbedaan yang signifikan dari peredaran darah ke otak.
+77	Mereka itu ngeliat ada perbedaan yang signifikan dari peredaran darah ke otak. Dari dua parameter, yaitu blood flow velocity dan juga CO2 reactivity.
+78	Mereka itu ngeliat ada perbedaan yang signifikan dari peredaran darah ke otak. Dari dua parameter, yaitu blood flow velocity dan juga CO2 reactivity.
+79	Dari dua parameter, yaitu blood flow velocity dan juga CO2 reactivity.
+80	Dari dua parameter, yaitu blood flow velocity dan juga CO2 reactivity.
+81	Dari dua parameter, yaitu blood flow velocity dan juga CO2 reactivity.
+82	Dari dua parameter, yaitu blood flow velocity dan juga CO2 reactivity.
+83	Dari dua parameter, yaitu blood flow velocity dan juga CO2 reactivity.
+84	Dari dua parameter, yaitu blood flow velocity dan juga CO2 reactivity.
+85	Dari dua parameter, yaitu blood flow velocity dan juga CO2 reactivity.
+86	Dari dua parameter, yaitu blood flow velocity dan juga CO2 reactivity.
+87	Dari dua parameter, yaitu blood flow velocity dan juga CO2 reactivity. Jadi apa yang mereka temuin?
+88	Dari dua parameter, yaitu blood flow velocity dan juga CO2 reactivity. Jadi apa yang mereka temuin?
+89	Jadi apa yang mereka temuin?
+90	Jadi apa yang mereka temuin?
+91	Jadi apa yang mereka temuin? Udah jelas, orang-orang yang setiap 30 menit itu gerak sedikit,
+92	Jadi apa yang mereka temuin? Udah jelas, orang-orang yang setiap 30 menit itu gerak sedikit,
+93	Udah jelas, orang-orang yang setiap 30 menit itu gerak sedikit,
+94	Udah jelas, orang-orang yang setiap 30 menit itu gerak sedikit,
+95	Udah jelas, orang-orang yang setiap 30 menit itu gerak sedikit,
+96	Udah jelas, orang-orang yang setiap 30 menit itu gerak sedikit,
+97	Udah jelas, orang-orang yang setiap 30 menit itu gerak sedikit,
+98	Udah jelas, orang-orang yang setiap 30 menit itu gerak sedikit,
+99	Udah jelas, orang-orang yang setiap 30 menit itu gerak sedikit,
+100	Udah jelas, orang-orang yang setiap 30 menit itu gerak sedikit,
+101	Udah jelas, orang-orang yang setiap 30 menit itu gerak sedikit, itu peredaran darah ke otaknya jauh lebih baik dibandingkan orang-orang yang duduk selama 4 jam.
+102	Udah jelas, orang-orang yang setiap 30 menit itu gerak sedikit, itu peredaran darah ke otaknya jauh lebih baik dibandingkan orang-orang yang duduk selama 4 jam.
+103	itu peredaran darah ke otaknya jauh lebih baik dibandingkan orang-orang yang duduk selama 4 jam.
+104	itu peredaran darah ke otaknya jauh lebih baik dibandingkan orang-orang yang duduk selama 4 jam.
+105	itu peredaran darah ke otaknya jauh lebih baik dibandingkan orang-orang yang duduk selama 4 jam.
+106	itu peredaran darah ke otaknya jauh lebih baik dibandingkan orang-orang yang duduk selama 4 jam.
+107	itu peredaran darah ke otaknya jauh lebih baik dibandingkan orang-orang yang duduk selama 4 jam.
+108	itu peredaran darah ke otaknya jauh lebih baik dibandingkan orang-orang yang duduk selama 4 jam.
+109	itu peredaran darah ke otaknya jauh lebih baik dibandingkan orang-orang yang duduk selama 4 jam.
+110	itu peredaran darah ke otaknya jauh lebih baik dibandingkan orang-orang yang duduk selama 4 jam.
+111	itu peredaran darah ke otaknya jauh lebih baik dibandingkan orang-orang yang duduk selama 4 jam.
+112	itu peredaran darah ke otaknya jauh lebih baik dibandingkan orang-orang yang duduk selama 4 jam. Dan orang-orang yang selama 4 jam,
+113	itu peredaran darah ke otaknya jauh lebih baik dibandingkan orang-orang yang duduk selama 4 jam. Dan orang-orang yang selama 4 jam,
+114	Dan orang-orang yang selama 4 jam,
+115	Dan orang-orang yang selama 4 jam,
+116	Dan orang-orang yang selama 4 jam, cuma jalan sekali, walaupun itu jalan 10 menit.
+117	Dan orang-orang yang selama 4 jam, cuma jalan sekali, walaupun itu jalan 10 menit.
+118	cuma jalan sekali, walaupun itu jalan 10 menit.
+119	cuma jalan sekali, walaupun itu jalan 10 menit.
+120	cuma jalan sekali, walaupun itu jalan 10 menit.
+121	cuma jalan sekali, walaupun itu jalan 10 menit. Dan peredaran darah ke otak ini sangat-sangat penting ya,
+122	cuma jalan sekali, walaupun itu jalan 10 menit. Dan peredaran darah ke otak ini sangat-sangat penting ya,
+123	Dan peredaran darah ke otak ini sangat-sangat penting ya,
+124	Dan peredaran darah ke otak ini sangat-sangat penting ya,
+125	Dan peredaran darah ke otak ini sangat-sangat penting ya,
+126	Dan peredaran darah ke otak ini sangat-sangat penting ya,
+127	Dan peredaran darah ke otak ini sangat-sangat penting ya,
+128	Dan peredaran darah ke otak ini sangat-sangat penting ya, karena terasosiasi dengan semua penyakit-penyakit yang menyerang otak.
+129	Dan peredaran darah ke otak ini sangat-sangat penting ya, karena terasosiasi dengan semua penyakit-penyakit yang menyerang otak.
+130	karena terasosiasi dengan semua penyakit-penyakit yang menyerang otak.
+131	karena terasosiasi dengan semua penyakit-penyakit yang menyerang otak.
+132	karena terasosiasi dengan semua penyakit-penyakit yang menyerang otak.
+133	karena terasosiasi dengan semua penyakit-penyakit yang menyerang otak.
+134	karena terasosiasi dengan semua penyakit-penyakit yang menyerang otak.
+135	karena terasosiasi dengan semua penyakit-penyakit yang menyerang otak. Seperti demensia, seperti stroke, dan semua penyakit degeneratif yang terjadi di otak.
+136	karena terasosiasi dengan semua penyakit-penyakit yang menyerang otak. Seperti demensia, seperti stroke, dan semua penyakit degeneratif yang terjadi di otak.
+137	Seperti demensia, seperti stroke, dan semua penyakit degeneratif yang terjadi di otak.
+138	Seperti demensia, seperti stroke, dan semua penyakit degeneratif yang terjadi di otak.
+139	Seperti demensia, seperti stroke, dan semua penyakit degeneratif yang terjadi di otak.
+140	Seperti demensia, seperti stroke, dan semua penyakit degeneratif yang terjadi di otak.
+141	Seperti demensia, seperti stroke, dan semua penyakit degeneratif yang terjadi di otak.
+142	Seperti demensia, seperti stroke, dan semua penyakit degeneratif yang terjadi di otak.
+143	Seperti demensia, seperti stroke, dan semua penyakit degeneratif yang terjadi di otak.
+144	Seperti demensia, seperti stroke, dan semua penyakit degeneratif yang terjadi di otak.
+145	Seperti demensia, seperti stroke, dan semua penyakit degeneratif yang terjadi di otak.
+146	Seperti demensia, seperti stroke, dan semua penyakit degeneratif yang terjadi di otak.
+147	Seperti demensia, seperti stroke, dan semua penyakit degeneratif yang terjadi di otak.
+148	Seperti demensia, seperti stroke, dan semua penyakit degeneratif yang terjadi di otak. Jadi ini implikasinya sangat-sangat penting,
+149	Jadi ini implikasinya sangat-sangat penting,
+150	Jadi ini implikasinya sangat-sangat penting,
+151	Jadi ini implikasinya sangat-sangat penting,
+152	Jadi ini implikasinya sangat-sangat penting,
+153	Jadi ini implikasinya sangat-sangat penting, terutama bagi teman-teman yang kerja kantoran dan teman-teman yang kerja itu duduk mulu.
+154	Jadi ini implikasinya sangat-sangat penting, terutama bagi teman-teman yang kerja kantoran dan teman-teman yang kerja itu duduk mulu.
+155	terutama bagi teman-teman yang kerja kantoran dan teman-teman yang kerja itu duduk mulu.
+156	terutama bagi teman-teman yang kerja kantoran dan teman-teman yang kerja itu duduk mulu.
+157	terutama bagi teman-teman yang kerja kantoran dan teman-teman yang kerja itu duduk mulu.
+158	terutama bagi teman-teman yang kerja kantoran dan teman-teman yang kerja itu duduk mulu.
+159	terutama bagi teman-teman yang kerja kantoran dan teman-teman yang kerja itu duduk mulu.
+160	terutama bagi teman-teman yang kerja kantoran dan teman-teman yang kerja itu duduk mulu.
+161	terutama bagi teman-teman yang kerja kantoran dan teman-teman yang kerja itu duduk mulu. Coba teman-teman bayangin, teman-teman udah duduk seharian di kantor atau di tempat kerja,
+162	terutama bagi teman-teman yang kerja kantoran dan teman-teman yang kerja itu duduk mulu. Coba teman-teman bayangin, teman-teman udah duduk seharian di kantor atau di tempat kerja,
+163	Coba teman-teman bayangin, teman-teman udah duduk seharian di kantor atau di tempat kerja,
+164	Coba teman-teman bayangin, teman-teman udah duduk seharian di kantor atau di tempat kerja,
+165	Coba teman-teman bayangin, teman-teman udah duduk seharian di kantor atau di tempat kerja,
+166	Coba teman-teman bayangin, teman-teman udah duduk seharian di kantor atau di tempat kerja,
+167	Coba teman-teman bayangin, teman-teman udah duduk seharian di kantor atau di tempat kerja,
+168	Coba teman-teman bayangin, teman-teman udah duduk seharian di kantor atau di tempat kerja, terus pulang, duduk lagi, tidur lagi, gak ngapa-ngapa.
+169	Coba teman-teman bayangin, teman-teman udah duduk seharian di kantor atau di tempat kerja, terus pulang, duduk lagi, tidur lagi, gak ngapa-ngapa.
+170	terus pulang, duduk lagi, tidur lagi, gak ngapa-ngapa.
+171	terus pulang, duduk lagi, tidur lagi, gak ngapa-ngapa.
+172	terus pulang, duduk lagi, tidur lagi, gak ngapa-ngapa.
+173	terus pulang, duduk lagi, tidur lagi, gak ngapa-ngapa.
+174	terus pulang, duduk lagi, tidur lagi, gak ngapa-ngapa.
+175	terus pulang, duduk lagi, tidur lagi, gak ngapa-ngapa.
+176	terus pulang, duduk lagi, tidur lagi, gak ngapa-ngapa. Ngapain? Gak ada kegiatan fisik.
+177	terus pulang, duduk lagi, tidur lagi, gak ngapa-ngapa. Ngapain? Gak ada kegiatan fisik.
+178	Ngapain? Gak ada kegiatan fisik.
+179	Ngapain? Gak ada kegiatan fisik.
+180	Ngapain? Gak ada kegiatan fisik. Jadi selalu utamakanlah ada kegiatan fisik.
+181	Jadi selalu utamakanlah ada kegiatan fisik.
+182	Jadi selalu utamakanlah ada kegiatan fisik.
+183	Jadi selalu utamakanlah ada kegiatan fisik.
+184	Jadi selalu utamakanlah ada kegiatan fisik.
+185	Jadi selalu utamakanlah ada kegiatan fisik.
+186	Jadi selalu utamakanlah ada kegiatan fisik.
+187	Jadi selalu utamakanlah ada kegiatan fisik. Semoga bermanfaat.
+188	Semoga bermanfaat.
+189	Semoga bermanfaat.
+190	Semoga bermanfaat.
+191	Semoga bermanfaat.
+192	[NO_SPEECH]

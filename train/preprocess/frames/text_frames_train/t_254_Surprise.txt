@@ -1,0 +1,180 @@
+0	Jadi perempuan itu.. HUUUUUUU
+1	Jadi perempuan itu.. HUUUUUUU
+2	HUUUUUUU HAAAAAA
+3	HUUUUUUU HAAAAAA
+4	HUUUUUUU HAAAAAA
+5	HAAAAAA Nggak deng, jadi perempuan itu seru banget
+6	HAAAAAA Nggak deng, jadi perempuan itu seru banget
+7	Nggak deng, jadi perempuan itu seru banget
+8	Nggak deng, jadi perempuan itu seru banget
+9	Nggak deng, jadi perempuan itu seru banget
+10	Nggak deng, jadi perempuan itu seru banget
+11	Nggak deng, jadi perempuan itu seru banget Eh tapi juga penuh tantangan
+12	Nggak deng, jadi perempuan itu seru banget Eh tapi juga penuh tantangan
+13	Eh tapi juga penuh tantangan
+14	Eh tapi juga penuh tantangan
+15	Eh tapi juga penuh tantangan Harus kuat, kerja keras, tampil cantik, sabar
+16	Eh tapi juga penuh tantangan Harus kuat, kerja keras, tampil cantik, sabar
+17	Eh tapi juga penuh tantangan Harus kuat, kerja keras, tampil cantik, sabar
+18	Harus kuat, kerja keras, tampil cantik, sabar
+19	Harus kuat, kerja keras, tampil cantik, sabar
+20	Harus kuat, kerja keras, tampil cantik, sabar
+21	Harus kuat, kerja keras, tampil cantik, sabar
+22	Harus kuat, kerja keras, tampil cantik, sabar
+23	Harus kuat, kerja keras, tampil cantik, sabar
+24	Harus kuat, kerja keras, tampil cantik, sabar Glowing all in one package
+25	Harus kuat, kerja keras, tampil cantik, sabar Glowing all in one package
+26	Glowing all in one package
+27	Glowing all in one package
+28	Glowing all in one package
+29	Glowing all in one package
+30	Glowing all in one package Sampai, bagus!
+31	Sampai, bagus!
+32	Sampai, bagus!
+33	Sampai, bagus! Dan dibalik itu semua, gue percaya sih setiap perempuan tuh punya kehebatannya masing-masing
+34	Dan dibalik itu semua, gue percaya sih setiap perempuan tuh punya kehebatannya masing-masing
+35	Dan dibalik itu semua, gue percaya sih setiap perempuan tuh punya kehebatannya masing-masing
+36	Dan dibalik itu semua, gue percaya sih setiap perempuan tuh punya kehebatannya masing-masing
+37	Dan dibalik itu semua, gue percaya sih setiap perempuan tuh punya kehebatannya masing-masing
+38	Dan dibalik itu semua, gue percaya sih setiap perempuan tuh punya kehebatannya masing-masing
+39	Dan dibalik itu semua, gue percaya sih setiap perempuan tuh punya kehebatannya masing-masing
+40	Dan dibalik itu semua, gue percaya sih setiap perempuan tuh punya kehebatannya masing-masing
+41	Dan dibalik itu semua, gue percaya sih setiap perempuan tuh punya kehebatannya masing-masing
+42	Dan dibalik itu semua, gue percaya sih setiap perempuan tuh punya kehebatannya masing-masing
+43	Dan dibalik itu semua, gue percaya sih setiap perempuan tuh punya kehebatannya masing-masing
+44	Dan dibalik itu semua, gue percaya sih setiap perempuan tuh punya kehebatannya masing-masing
+45	Dan dibalik itu semua, gue percaya sih setiap perempuan tuh punya kehebatannya masing-masing
+46	Dan dibalik itu semua, gue percaya sih setiap perempuan tuh punya kehebatannya masing-masing Nostalgia dikit nih
+47	Dan dibalik itu semua, gue percaya sih setiap perempuan tuh punya kehebatannya masing-masing Nostalgia dikit nih
+48	Nostalgia dikit nih Dari kecil gue kalo beli sabun laks aja mikir-mikir
+49	Nostalgia dikit nih Dari kecil gue kalo beli sabun laks aja mikir-mikir
+50	Dari kecil gue kalo beli sabun laks aja mikir-mikir
+51	Dari kecil gue kalo beli sabun laks aja mikir-mikir
+52	Dari kecil gue kalo beli sabun laks aja mikir-mikir
+53	Dari kecil gue kalo beli sabun laks aja mikir-mikir
+54	Dari kecil gue kalo beli sabun laks aja mikir-mikir Tiap nonton iklannya di TV, yang ada tuh selalu takjub
+55	Dari kecil gue kalo beli sabun laks aja mikir-mikir Tiap nonton iklannya di TV, yang ada tuh selalu takjub
+56	Tiap nonton iklannya di TV, yang ada tuh selalu takjub
+57	Tiap nonton iklannya di TV, yang ada tuh selalu takjub
+58	Tiap nonton iklannya di TV, yang ada tuh selalu takjub
+59	Tiap nonton iklannya di TV, yang ada tuh selalu takjub Gila, keren banget ya mereka
+60	Tiap nonton iklannya di TV, yang ada tuh selalu takjub Gila, keren banget ya mereka
+61	Gila, keren banget ya mereka
+62	Gila, keren banget ya mereka
+63	Gila, keren banget ya mereka Dan akhirnya gue bisa jadi newsnya laks hundred years
+64	Gila, keren banget ya mereka Dan akhirnya gue bisa jadi newsnya laks hundred years
+65	Dan akhirnya gue bisa jadi newsnya laks hundred years
+66	Dan akhirnya gue bisa jadi newsnya laks hundred years
+67	Dan akhirnya gue bisa jadi newsnya laks hundred years
+68	Dan akhirnya gue bisa jadi newsnya laks hundred years
+69	Dan akhirnya gue bisa jadi newsnya laks hundred years
+70	Dan akhirnya gue bisa jadi newsnya laks hundred years
+71	Dan akhirnya gue bisa jadi newsnya laks hundred years Tau ga guys, dari jam 6 pagi nih gue udah makeup, takeshoot lancar
+72	Dan akhirnya gue bisa jadi newsnya laks hundred years Tau ga guys, dari jam 6 pagi nih gue udah makeup, takeshoot lancar
+73	Tau ga guys, dari jam 6 pagi nih gue udah makeup, takeshoot lancar
+74	Tau ga guys, dari jam 6 pagi nih gue udah makeup, takeshoot lancar
+75	Tau ga guys, dari jam 6 pagi nih gue udah makeup, takeshoot lancar
+76	Tau ga guys, dari jam 6 pagi nih gue udah makeup, takeshoot lancar
+77	Tau ga guys, dari jam 6 pagi nih gue udah makeup, takeshoot lancar
+78	Tau ga guys, dari jam 6 pagi nih gue udah makeup, takeshoot lancar
+79	Tau ga guys, dari jam 6 pagi nih gue udah makeup, takeshoot lancar
+80	Tau ga guys, dari jam 6 pagi nih gue udah makeup, takeshoot lancar Bahkan property setnya tuh diatur biar pas buat gue
+81	Tau ga guys, dari jam 6 pagi nih gue udah makeup, takeshoot lancar Bahkan property setnya tuh diatur biar pas buat gue
+82	Bahkan property setnya tuh diatur biar pas buat gue
+83	Bahkan property setnya tuh diatur biar pas buat gue
+84	Bahkan property setnya tuh diatur biar pas buat gue
+85	Bahkan property setnya tuh diatur biar pas buat gue
+86	Bahkan property setnya tuh diatur biar pas buat gue
+87	Bahkan property setnya tuh diatur biar pas buat gue Udah gitu bisa satu scene bareng Erika Ricardo, Bella Clarissa dan woman crush gue Luna Maya
+88	Bahkan property setnya tuh diatur biar pas buat gue Udah gitu bisa satu scene bareng Erika Ricardo, Bella Clarissa dan woman crush gue Luna Maya
+89	Udah gitu bisa satu scene bareng Erika Ricardo, Bella Clarissa dan woman crush gue Luna Maya
+90	Udah gitu bisa satu scene bareng Erika Ricardo, Bella Clarissa dan woman crush gue Luna Maya
+91	Udah gitu bisa satu scene bareng Erika Ricardo, Bella Clarissa dan woman crush gue Luna Maya
+92	Udah gitu bisa satu scene bareng Erika Ricardo, Bella Clarissa dan woman crush gue Luna Maya
+93	Udah gitu bisa satu scene bareng Erika Ricardo, Bella Clarissa dan woman crush gue Luna Maya
+94	Udah gitu bisa satu scene bareng Erika Ricardo, Bella Clarissa dan woman crush gue Luna Maya
+95	Udah gitu bisa satu scene bareng Erika Ricardo, Bella Clarissa dan woman crush gue Luna Maya
+96	Udah gitu bisa satu scene bareng Erika Ricardo, Bella Clarissa dan woman crush gue Luna Maya
+97	Udah gitu bisa satu scene bareng Erika Ricardo, Bella Clarissa dan woman crush gue Luna Maya
+98	Udah gitu bisa satu scene bareng Erika Ricardo, Bella Clarissa dan woman crush gue Luna Maya
+99	Udah gitu bisa satu scene bareng Erika Ricardo, Bella Clarissa dan woman crush gue Luna Maya OMG, secakap itu dan super humble
+100	Udah gitu bisa satu scene bareng Erika Ricardo, Bella Clarissa dan woman crush gue Luna Maya OMG, secakap itu dan super humble
+101	OMG, secakap itu dan super humble
+102	OMG, secakap itu dan super humble
+103	OMG, secakap itu dan super humble
+104	OMG, secakap itu dan super humble
+105	OMG, secakap itu dan super humble
+106	OMG, secakap itu dan super humble Definisi cewek alpha
+107	OMG, secakap itu dan super humble Definisi cewek alpha
+108	Definisi cewek alpha
+109	Definisi cewek alpha Karena walaupun dihantam banyak
+110	Definisi cewek alpha Karena walaupun dihantam banyak
+111	Karena walaupun dihantam banyak
+112	Karena walaupun dihantam banyak
+113	Karena walaupun dihantam banyak Banyak cobaan, tapi tetap bisa bersinar, cantik dan berdiri sendiri
+114	Karena walaupun dihantam banyak Banyak cobaan, tapi tetap bisa bersinar, cantik dan berdiri sendiri
+115	Banyak cobaan, tapi tetap bisa bersinar, cantik dan berdiri sendiri
+116	Banyak cobaan, tapi tetap bisa bersinar, cantik dan berdiri sendiri
+117	Banyak cobaan, tapi tetap bisa bersinar, cantik dan berdiri sendiri
+118	Banyak cobaan, tapi tetap bisa bersinar, cantik dan berdiri sendiri
+119	Banyak cobaan, tapi tetap bisa bersinar, cantik dan berdiri sendiri
+120	Banyak cobaan, tapi tetap bisa bersinar, cantik dan berdiri sendiri
+121	Banyak cobaan, tapi tetap bisa bersinar, cantik dan berdiri sendiri
+122	Banyak cobaan, tapi tetap bisa bersinar, cantik dan berdiri sendiri Inspirasional banget ya kan?
+123	Banyak cobaan, tapi tetap bisa bersinar, cantik dan berdiri sendiri Inspirasional banget ya kan?
+124	Inspirasional banget ya kan?
+125	Inspirasional banget ya kan?
+126	Inspirasional banget ya kan?
+127	Inspirasional banget ya kan?
+128	Inspirasional banget ya kan? Akhirnya gue bisa ngenalin varian barunya laks magical orchid
+129	Akhirnya gue bisa ngenalin varian barunya laks magical orchid
+130	Akhirnya gue bisa ngenalin varian barunya laks magical orchid
+131	Akhirnya gue bisa ngenalin varian barunya laks magical orchid
+132	Akhirnya gue bisa ngenalin varian barunya laks magical orchid
+133	Akhirnya gue bisa ngenalin varian barunya laks magical orchid
+134	Akhirnya gue bisa ngenalin varian barunya laks magical orchid
+135	Akhirnya gue bisa ngenalin varian barunya laks magical orchid
+136	Akhirnya gue bisa ngenalin varian barunya laks magical orchid
+137	Akhirnya gue bisa ngenalin varian barunya laks magical orchid Wanginya tuh mewah, seksi, ala-ala cewek, girl boss, independen
+138	Akhirnya gue bisa ngenalin varian barunya laks magical orchid Wanginya tuh mewah, seksi, ala-ala cewek, girl boss, independen
+139	Wanginya tuh mewah, seksi, ala-ala cewek, girl boss, independen
+140	Wanginya tuh mewah, seksi, ala-ala cewek, girl boss, independen
+141	Wanginya tuh mewah, seksi, ala-ala cewek, girl boss, independen
+142	Wanginya tuh mewah, seksi, ala-ala cewek, girl boss, independen
+143	Wanginya tuh mewah, seksi, ala-ala cewek, girl boss, independen
+144	Wanginya tuh mewah, seksi, ala-ala cewek, girl boss, independen
+145	Wanginya tuh mewah, seksi, ala-ala cewek, girl boss, independen Perpaduan wangi black orchid, spice dan amber
+146	Wanginya tuh mewah, seksi, ala-ala cewek, girl boss, independen Perpaduan wangi black orchid, spice dan amber
+147	Perpaduan wangi black orchid, spice dan amber
+148	Perpaduan wangi black orchid, spice dan amber
+149	Perpaduan wangi black orchid, spice dan amber
+150	Perpaduan wangi black orchid, spice dan amber
+151	Perpaduan wangi black orchid, spice dan amber Beres mandi, wanginya tetep nempel
+152	Perpaduan wangi black orchid, spice dan amber Beres mandi, wanginya tetep nempel
+153	Beres mandi, wanginya tetep nempel
+154	Beres mandi, wanginya tetep nempel
+155	Beres mandi, wanginya tetep nempel Thank you laks!
+156	Beres mandi, wanginya tetep nempel Thank you laks!
+157	Thank you laks!
+158	Thank you laks!
+159	Thank you laks! Gue bakal dateng dan ngajakin temen-temen buat rayain bareng laks hundred years di Jakarta X Beauty tanggal 5 Juli jam 17.30
+160	Gue bakal dateng dan ngajakin temen-temen buat rayain bareng laks hundred years di Jakarta X Beauty tanggal 5 Juli jam 17.30
+161	Gue bakal dateng dan ngajakin temen-temen buat rayain bareng laks hundred years di Jakarta X Beauty tanggal 5 Juli jam 17.30
+162	Gue bakal dateng dan ngajakin temen-temen buat rayain bareng laks hundred years di Jakarta X Beauty tanggal 5 Juli jam 17.30
+163	Gue bakal dateng dan ngajakin temen-temen buat rayain bareng laks hundred years di Jakarta X Beauty tanggal 5 Juli jam 17.30
+164	Gue bakal dateng dan ngajakin temen-temen buat rayain bareng laks hundred years di Jakarta X Beauty tanggal 5 Juli jam 17.30
+165	Gue bakal dateng dan ngajakin temen-temen buat rayain bareng laks hundred years di Jakarta X Beauty tanggal 5 Juli jam 17.30
+166	Gue bakal dateng dan ngajakin temen-temen buat rayain bareng laks hundred years di Jakarta X Beauty tanggal 5 Juli jam 17.30
+167	Gue bakal dateng dan ngajakin temen-temen buat rayain bareng laks hundred years di Jakarta X Beauty tanggal 5 Juli jam 17.30
+168	Gue bakal dateng dan ngajakin temen-temen buat rayain bareng laks hundred years di Jakarta X Beauty tanggal 5 Juli jam 17.30
+169	Gue bakal dateng dan ngajakin temen-temen buat rayain bareng laks hundred years di Jakarta X Beauty tanggal 5 Juli jam 17.30
+170	Gue bakal dateng dan ngajakin temen-temen buat rayain bareng laks hundred years di Jakarta X Beauty tanggal 5 Juli jam 17.30
+171	Gue bakal dateng dan ngajakin temen-temen buat rayain bareng laks hundred years di Jakarta X Beauty tanggal 5 Juli jam 17.30
+172	Gue bakal dateng dan ngajakin temen-temen buat rayain bareng laks hundred years di Jakarta X Beauty tanggal 5 Juli jam 17.30
+173	Gue bakal dateng dan ngajakin temen-temen buat rayain bareng laks hundred years di Jakarta X Beauty tanggal 5 Juli jam 17.30 Jum'alem Cus dandan yang cantik, jangan sampe ketinggalan
+174	Gue bakal dateng dan ngajakin temen-temen buat rayain bareng laks hundred years di Jakarta X Beauty tanggal 5 Juli jam 17.30 Jum'alem Cus dandan yang cantik, jangan sampe ketinggalan
+175	Cus dandan yang cantik, jangan sampe ketinggalan
+176	Cus dandan yang cantik, jangan sampe ketinggalan
+177	Cus dandan yang cantik, jangan sampe ketinggalan
+178	Cus dandan yang cantik, jangan sampe ketinggalan
+179	Cus dandan yang cantik, jangan sampe ketinggalan

@@ -1,0 +1,147 @@
+0	Ini mobil crossover stylist harga 200 jutaan yang hadir dengan fitur yang gak make sense
+1	Ini mobil crossover stylist harga 200 jutaan yang hadir dengan fitur yang gak make sense
+2	Ini mobil crossover stylist harga 200 jutaan yang hadir dengan fitur yang gak make sense
+3	Ini mobil crossover stylist harga 200 jutaan yang hadir dengan fitur yang gak make sense
+4	Ini mobil crossover stylist harga 200 jutaan yang hadir dengan fitur yang gak make sense
+5	Ini mobil crossover stylist harga 200 jutaan yang hadir dengan fitur yang gak make sense
+6	Ini mobil crossover stylist harga 200 jutaan yang hadir dengan fitur yang gak make sense
+7	Ini mobil crossover stylist harga 200 jutaan yang hadir dengan fitur yang gak make sense
+8	Ini mobil crossover stylist harga 200 jutaan yang hadir dengan fitur yang gak make sense Sampai terasa sepertinya cherry salah ngasih harga
+9	Ini mobil crossover stylist harga 200 jutaan yang hadir dengan fitur yang gak make sense Sampai terasa sepertinya cherry salah ngasih harga
+10	Sampai terasa sepertinya cherry salah ngasih harga
+11	Sampai terasa sepertinya cherry salah ngasih harga
+12	Sampai terasa sepertinya cherry salah ngasih harga
+13	Sampai terasa sepertinya cherry salah ngasih harga
+14	Sampai terasa sepertinya cherry salah ngasih harga
+15	Sampai terasa sepertinya cherry salah ngasih harga Kemurahan
+16	Sampai terasa sepertinya cherry salah ngasih harga Kemurahan
+17	Kemurahan Masa dia udah bisa di remote dari jarak jauh?
+18	Kemurahan Masa dia udah bisa di remote dari jarak jauh?
+19	Masa dia udah bisa di remote dari jarak jauh?
+20	Masa dia udah bisa di remote dari jarak jauh?
+21	Masa dia udah bisa di remote dari jarak jauh?
+22	Masa dia udah bisa di remote dari jarak jauh?
+23	Masa dia udah bisa di remote dari jarak jauh? Ini pake internet loh, kita gak perlu deket-deket dengan mobilnya
+24	Masa dia udah bisa di remote dari jarak jauh? Ini pake internet loh, kita gak perlu deket-deket dengan mobilnya
+25	Ini pake internet loh, kita gak perlu deket-deket dengan mobilnya
+26	Ini pake internet loh, kita gak perlu deket-deket dengan mobilnya
+27	Ini pake internet loh, kita gak perlu deket-deket dengan mobilnya Sistem adasnya ada 15, jalan di tol dia udah sepertinya sendiri
+28	Ini pake internet loh, kita gak perlu deket-deket dengan mobilnya Sistem adasnya ada 15, jalan di tol dia udah sepertinya sendiri
+29	Sistem adasnya ada 15, jalan di tol dia udah sepertinya sendiri
+30	Sistem adasnya ada 15, jalan di tol dia udah sepertinya sendiri
+31	Sistem adasnya ada 15, jalan di tol dia udah sepertinya sendiri
+32	Sistem adasnya ada 15, jalan di tol dia udah sepertinya sendiri
+33	Sistem adasnya ada 15, jalan di tol dia udah sepertinya sendiri
+34	Sistem adasnya ada 15, jalan di tol dia udah sepertinya sendiri
+35	Sistem adasnya ada 15, jalan di tol dia udah sepertinya sendiri Sudah pake radar untuk detesi keadaan sekitar
+36	Sistem adasnya ada 15, jalan di tol dia udah sepertinya sendiri Sudah pake radar untuk detesi keadaan sekitar
+37	Sudah pake radar untuk detesi keadaan sekitar
+38	Sudah pake radar untuk detesi keadaan sekitar
+39	Sudah pake radar untuk detesi keadaan sekitar
+40	Sudah pake radar untuk detesi keadaan sekitar
+41	Sudah pake radar untuk detesi keadaan sekitar Lihat panel layarnya, luas, responsif, dan detailnya mantap
+42	Sudah pake radar untuk detesi keadaan sekitar Lihat panel layarnya, luas, responsif, dan detailnya mantap
+43	Lihat panel layarnya, luas, responsif, dan detailnya mantap
+44	Lihat panel layarnya, luas, responsif, dan detailnya mantap
+45	Lihat panel layarnya, luas, responsif, dan detailnya mantap
+46	Lihat panel layarnya, luas, responsif, dan detailnya mantap
+47	Lihat panel layarnya, luas, responsif, dan detailnya mantap
+48	Lihat panel layarnya, luas, responsif, dan detailnya mantap
+49	Lihat panel layarnya, luas, responsif, dan detailnya mantap
+50	Tentunya ini udah bisa pake Android Auto dan Apple CarPlay
+51	Tentunya ini udah bisa pake Android Auto dan Apple CarPlay
+52	Tentunya ini udah bisa pake Android Auto dan Apple CarPlay
+53	Tentunya ini udah bisa pake Android Auto dan Apple CarPlay
+54	Tentunya ini udah bisa pake Android Auto dan Apple CarPlay
+55	Tentunya ini udah bisa pake Android Auto dan Apple CarPlay
+56	Tentunya ini udah bisa pake Android Auto dan Apple CarPlay Charging bisa pake USB Type-C dan kenceng nge-charge-nya
+57	Tentunya ini udah bisa pake Android Auto dan Apple CarPlay Charging bisa pake USB Type-C dan kenceng nge-charge-nya
+58	Charging bisa pake USB Type-C dan kenceng nge-charge-nya
+59	Charging bisa pake USB Type-C dan kenceng nge-charge-nya
+60	Charging bisa pake USB Type-C dan kenceng nge-charge-nya
+61	Charging bisa pake USB Type-C dan kenceng nge-charge-nya
+62	Charging bisa pake USB Type-C dan kenceng nge-charge-nya Udah pake kamera 360 nih
+63	Charging bisa pake USB Type-C dan kenceng nge-charge-nya Udah pake kamera 360 nih
+64	Udah pake kamera 360 nih
+65	Udah pake kamera 360 nih
+66	Udah pake kamera 360 nih Lihat kotes kameranya, malem-malem bisa terang banget
+67	Udah pake kamera 360 nih Lihat kotes kameranya, malem-malem bisa terang banget
+68	Lihat kotes kameranya, malem-malem bisa terang banget
+69	Lihat kotes kameranya, malem-malem bisa terang banget
+70	Lihat kotes kameranya, malem-malem bisa terang banget
+71	Lihat kotes kameranya, malem-malem bisa terang banget Desainnya pun keren ya, detail eksteriornya juga keren
+72	Lihat kotes kameranya, malem-malem bisa terang banget Desainnya pun keren ya, detail eksteriornya juga keren
+73	Desainnya pun keren ya, detail eksteriornya juga keren
+74	Desainnya pun keren ya, detail eksteriornya juga keren
+75	Desainnya pun keren ya, detail eksteriornya juga keren
+76	Desainnya pun keren ya, detail eksteriornya juga keren
+77	Desainnya pun keren ya, detail eksteriornya juga keren
+78	Desainnya pun keren ya, detail eksteriornya juga keren Interiornya pun terasa berkelas
+79	Desainnya pun keren ya, detail eksteriornya juga keren Interiornya pun terasa berkelas
+80	Interiornya pun terasa berkelas
+81	Interiornya pun terasa berkelas Soundroof juga ada
+82	Interiornya pun terasa berkelas Soundroof juga ada
+83	Soundroof juga ada
+84	Soundroof juga ada Ini bukan yang manual ya
+85	Soundroof juga ada Ini bukan yang manual ya
+86	Ini bukan yang manual ya
+87	Ini bukan yang manual ya Speakernya sih terlalu mantep nih
+88	Ini bukan yang manual ya Speakernya sih terlalu mantep nih
+89	Speakernya sih terlalu mantep nih
+90	Speakernya sih terlalu mantep nih
+91	Speakernya sih terlalu mantep nih Gue jamin super sulit nemu speaker sekeren ini di kelas harganya
+92	Speakernya sih terlalu mantep nih Gue jamin super sulit nemu speaker sekeren ini di kelas harganya
+93	Speakernya sih terlalu mantep nih Gue jamin super sulit nemu speaker sekeren ini di kelas harganya
+94	Gue jamin super sulit nemu speaker sekeren ini di kelas harganya
+95	Gue jamin super sulit nemu speaker sekeren ini di kelas harganya
+96	Gue jamin super sulit nemu speaker sekeren ini di kelas harganya
+97	Gue jamin super sulit nemu speaker sekeren ini di kelas harganya
+98	Gue jamin super sulit nemu speaker sekeren ini di kelas harganya
+99	Gue jamin super sulit nemu speaker sekeren ini di kelas harganya Udah staging di depan kita nih suaranya
+100	Gue jamin super sulit nemu speaker sekeren ini di kelas harganya Udah staging di depan kita nih suaranya
+101	Udah staging di depan kita nih suaranya
+102	Udah staging di depan kita nih suaranya
+103	Udah staging di depan kita nih suaranya Lalu, gue suka banget nih detailnya seperti cup
+104	Udah staging di depan kita nih suaranya Lalu, gue suka banget nih detailnya seperti cup
+105	Lalu, gue suka banget nih detailnya seperti cup
+106	Lalu, gue suka banget nih detailnya seperti cup
+107	Lalu, gue suka banget nih detailnya seperti cup
+108	Lalu, gue suka banget nih detailnya seperti cup Mesin hidrolik begini nih
+109	Lalu, gue suka banget nih detailnya seperti cup Mesin hidrolik begini nih
+110	Mesin hidrolik begini nih Penumpang belakang juga kebagian AC nih
+111	Mesin hidrolik begini nih Penumpang belakang juga kebagian AC nih
+112	Penumpang belakang juga kebagian AC nih
+113	Penumpang belakang juga kebagian AC nih
+114	Penumpang belakang juga kebagian AC nih Lampu-lampu udah
+115	Penumpang belakang juga kebagian AC nih Lampu-lampu udah
+116	Lampu-lampu udah Udah LED semua
+117	Lampu-lampu udah Udah LED semua Ada defogger dan wiper untuk kaca belakang
+118	Udah LED semua Ada defogger dan wiper untuk kaca belakang
+119	Ada defogger dan wiper untuk kaca belakang
+120	Ada defogger dan wiper untuk kaca belakang
+121	Ada defogger dan wiper untuk kaca belakang
+122	Ada defogger dan wiper untuk kaca belakang Kabin pun terasa lumayan kedap untuk kelasnya
+123	Ada defogger dan wiper untuk kaca belakang Kabin pun terasa lumayan kedap untuk kelasnya
+124	Kabin pun terasa lumayan kedap untuk kelasnya
+125	Kabin pun terasa lumayan kedap untuk kelasnya
+126	Kabin pun terasa lumayan kedap untuk kelasnya
+127	Kabin pun terasa lumayan kedap untuk kelasnya
+128	Kabin pun terasa lumayan kedap untuk kelasnya Oh ya, ini Cerity Go Cross ya
+129	Kabin pun terasa lumayan kedap untuk kelasnya Oh ya, ini Cerity Go Cross ya
+130	Oh ya, ini Cerity Go Cross ya
+131	Oh ya, ini Cerity Go Cross ya Untuk varian tertinggi yang kami uji, harganya Rp 279,5 juta
+132	Oh ya, ini Cerity Go Cross ya Untuk varian tertinggi yang kami uji, harganya Rp 279,5 juta
+133	Untuk varian tertinggi yang kami uji, harganya Rp 279,5 juta
+134	Untuk varian tertinggi yang kami uji, harganya Rp 279,5 juta
+135	Untuk varian tertinggi yang kami uji, harganya Rp 279,5 juta
+136	Untuk varian tertinggi yang kami uji, harganya Rp 279,5 juta
+137	Untuk varian tertinggi yang kami uji, harganya Rp 279,5 juta
+138	Untuk varian tertinggi yang kami uji, harganya Rp 279,5 juta
+139	Untuk varian tertinggi yang kami uji, harganya Rp 279,5 juta
+140	Untuk varian tertinggi yang kami uji, harganya Rp 279,5 juta Review lengkapnya udah ada di channel Jagat Review
+141	Untuk varian tertinggi yang kami uji, harganya Rp 279,5 juta Review lengkapnya udah ada di channel Jagat Review
+142	Review lengkapnya udah ada di channel Jagat Review
+143	Review lengkapnya udah ada di channel Jagat Review
+144	Review lengkapnya udah ada di channel Jagat Review
+145	Review lengkapnya udah ada di channel Jagat Review
+146	Review lengkapnya udah ada di channel Jagat Review

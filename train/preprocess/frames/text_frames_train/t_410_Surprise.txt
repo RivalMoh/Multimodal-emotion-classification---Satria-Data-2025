@@ -1,0 +1,167 @@
+0	Kak Tere, kok aku kalau berenang nggak jalan-jalan ya?
+1	Kak Tere, kok aku kalau berenang nggak jalan-jalan ya?
+2	Kak Tere, kok aku kalau berenang nggak jalan-jalan ya?
+3	Kak Tere, kok aku kalau berenang nggak jalan-jalan ya? Hah? Nggak bisa jalan?
+4	Kak Tere, kok aku kalau berenang nggak jalan-jalan ya? Hah? Nggak bisa jalan?
+5	Hah? Nggak bisa jalan?
+6	Hah? Nggak bisa jalan? Oke tenang, nih Tere kasih tau tipsnya biar kita sama-sama bisa berenang ya.
+7	Oke tenang, nih Tere kasih tau tipsnya biar kita sama-sama bisa berenang ya.
+8	Oke tenang, nih Tere kasih tau tipsnya biar kita sama-sama bisa berenang ya.
+9	Oke tenang, nih Tere kasih tau tipsnya biar kita sama-sama bisa berenang ya.
+10	Oke tenang, nih Tere kasih tau tipsnya biar kita sama-sama bisa berenang ya.
+11	Oke tenang, nih Tere kasih tau tipsnya biar kita sama-sama bisa berenang ya.
+12	Oke tenang, nih Tere kasih tau tipsnya biar kita sama-sama bisa berenang ya. Gas, Gen!
+13	Oke tenang, nih Tere kasih tau tipsnya biar kita sama-sama bisa berenang ya. Gas, Gen!
+14	Gas, Gen! Sebelum mulai, jangan lupa kita stretching dulu guys.
+15	Sebelum mulai, jangan lupa kita stretching dulu guys.
+16	Sebelum mulai, jangan lupa kita stretching dulu guys.
+17	Sebelum mulai, jangan lupa kita stretching dulu guys.
+18	Sebelum mulai, jangan lupa kita stretching dulu guys.
+19	Sebelum mulai, jangan lupa kita stretching dulu guys. Atau lakukan sedikit pemalasan sebelum nanti kita nyemplung ke air.
+20	Sebelum mulai, jangan lupa kita stretching dulu guys. Atau lakukan sedikit pemalasan sebelum nanti kita nyemplung ke air.
+21	Atau lakukan sedikit pemalasan sebelum nanti kita nyemplung ke air.
+22	Atau lakukan sedikit pemalasan sebelum nanti kita nyemplung ke air.
+23	Atau lakukan sedikit pemalasan sebelum nanti kita nyemplung ke air.
+24	Atau lakukan sedikit pemalasan sebelum nanti kita nyemplung ke air.
+25	Atau lakukan sedikit pemalasan sebelum nanti kita nyemplung ke air.
+26	Atau lakukan sedikit pemalasan sebelum nanti kita nyemplung ke air. Nah, setelah stretching, kalian bisa mulai dengan pegangan dulu di tembok seperti ini.
+27	Nah, setelah stretching, kalian bisa mulai dengan pegangan dulu di tembok seperti ini.
+28	Nah, setelah stretching, kalian bisa mulai dengan pegangan dulu di tembok seperti ini.
+29	Nah, setelah stretching, kalian bisa mulai dengan pegangan dulu di tembok seperti ini.
+30	Nah, setelah stretching, kalian bisa mulai dengan pegangan dulu di tembok seperti ini.
+31	Nah, setelah stretching, kalian bisa mulai dengan pegangan dulu di tembok seperti ini.
+32	Nah, setelah stretching, kalian bisa mulai dengan pegangan dulu di tembok seperti ini.
+33	Nah, setelah stretching, kalian bisa mulai dengan pegangan dulu di tembok seperti ini. Kedua tangan berpegangan di tembok, lalu gerakan kaki bebas memukul air atau biasa disebut tipinya.
+34	Nah, setelah stretching, kalian bisa mulai dengan pegangan dulu di tembok seperti ini. Kedua tangan berpegangan di tembok, lalu gerakan kaki bebas memukul air atau biasa disebut tipinya.
+35	Kedua tangan berpegangan di tembok, lalu gerakan kaki bebas memukul air atau biasa disebut tipinya.
+36	Kedua tangan berpegangan di tembok, lalu gerakan kaki bebas memukul air atau biasa disebut tipinya.
+37	Kedua tangan berpegangan di tembok, lalu gerakan kaki bebas memukul air atau biasa disebut tipinya.
+38	Kedua tangan berpegangan di tembok, lalu gerakan kaki bebas memukul air atau biasa disebut tipinya.
+39	Kedua tangan berpegangan di tembok, lalu gerakan kaki bebas memukul air atau biasa disebut tipinya.
+40	Kedua tangan berpegangan di tembok, lalu gerakan kaki bebas memukul air atau biasa disebut tipinya.
+41	Kedua tangan berpegangan di tembok, lalu gerakan kaki bebas memukul air atau biasa disebut tipinya.
+42	Kedua tangan berpegangan di tembok, lalu gerakan kaki bebas memukul air atau biasa disebut tipinya.
+43	Kedua tangan berpegangan di tembok, lalu gerakan kaki bebas memukul air atau biasa disebut tipinya.
+44	Kedua tangan berpegangan di tembok, lalu gerakan kaki bebas memukul air atau biasa disebut tipinya. Kalian terus lakukan step ini sampai akhir ya guys.
+45	Kedua tangan berpegangan di tembok, lalu gerakan kaki bebas memukul air atau biasa disebut tipinya. Kalian terus lakukan step ini sampai akhir ya guys.
+46	Kalian terus lakukan step ini sampai akhir ya guys.
+47	Kalian terus lakukan step ini sampai akhir ya guys.
+48	Kalian terus lakukan step ini sampai akhir ya guys.
+49	Kalian terus lakukan step ini sampai akhir ya guys. Agar melatih kaki kalian untuk memperkuat gerakannya.
+50	Kalian terus lakukan step ini sampai akhir ya guys. Agar melatih kaki kalian untuk memperkuat gerakannya.
+51	Agar melatih kaki kalian untuk memperkuat gerakannya.
+52	Agar melatih kaki kalian untuk memperkuat gerakannya.
+53	Agar melatih kaki kalian untuk memperkuat gerakannya.
+54	Agar melatih kaki kalian untuk memperkuat gerakannya.
+55	Agar melatih kaki kalian untuk memperkuat gerakannya. Kalau udah bisa, kalian bisa coba untuk latihan pernafasan.
+56	Agar melatih kaki kalian untuk memperkuat gerakannya. Kalau udah bisa, kalian bisa coba untuk latihan pernafasan.
+57	Kalau udah bisa, kalian bisa coba untuk latihan pernafasan.
+58	Kalau udah bisa, kalian bisa coba untuk latihan pernafasan.
+59	Kalau udah bisa, kalian bisa coba untuk latihan pernafasan.
+60	Kalau udah bisa, kalian bisa coba untuk latihan pernafasan.
+61	Kalau udah bisa, kalian bisa coba untuk latihan pernafasan. Posisi tangan masih berpegangan di tembok, tapi bedanya dengan satu tangan kalian di samping badan kalian.
+62	Posisi tangan masih berpegangan di tembok, tapi bedanya dengan satu tangan kalian di samping badan kalian.
+63	Posisi tangan masih berpegangan di tembok, tapi bedanya dengan satu tangan kalian di samping badan kalian.
+64	Posisi tangan masih berpegangan di tembok, tapi bedanya dengan satu tangan kalian di samping badan kalian.
+65	Posisi tangan masih berpegangan di tembok, tapi bedanya dengan satu tangan kalian di samping badan kalian.
+66	Posisi tangan masih berpegangan di tembok, tapi bedanya dengan satu tangan kalian di samping badan kalian.
+67	Posisi tangan masih berpegangan di tembok, tapi bedanya dengan satu tangan kalian di samping badan kalian.
+68	Posisi tangan masih berpegangan di tembok, tapi bedanya dengan satu tangan kalian di samping badan kalian.
+69	Posisi tangan masih berpegangan di tembok, tapi bedanya dengan satu tangan kalian di samping badan kalian.
+70	Posisi tangan masih berpegangan di tembok, tapi bedanya dengan satu tangan kalian di samping badan kalian.
+71	Posisi tangan masih berpegangan di tembok, tapi bedanya dengan satu tangan kalian di samping badan kalian. Dengan sedikit rotasi badan, lakukan sisi kiri dan kanan secara bergantian ya guys.
+72	Dengan sedikit rotasi badan, lakukan sisi kiri dan kanan secara bergantian ya guys.
+73	Dengan sedikit rotasi badan, lakukan sisi kiri dan kanan secara bergantian ya guys.
+74	Dengan sedikit rotasi badan, lakukan sisi kiri dan kanan secara bergantian ya guys.
+75	Dengan sedikit rotasi badan, lakukan sisi kiri dan kanan secara bergantian ya guys.
+76	Dengan sedikit rotasi badan, lakukan sisi kiri dan kanan secara bergantian ya guys.
+77	Dengan sedikit rotasi badan, lakukan sisi kiri dan kanan secara bergantian ya guys.
+78	Dengan sedikit rotasi badan, lakukan sisi kiri dan kanan secara bergantian ya guys.
+79	Dengan sedikit rotasi badan, lakukan sisi kiri dan kanan secara bergantian ya guys.
+80	Dengan sedikit rotasi badan, lakukan sisi kiri dan kanan secara bergantian ya guys. Kemudian lanjut step berikutnya, alinkan kedua tangan kalian secara bergantian seperti ini.
+81	Dengan sedikit rotasi badan, lakukan sisi kiri dan kanan secara bergantian ya guys. Kemudian lanjut step berikutnya, alinkan kedua tangan kalian secara bergantian seperti ini.
+82	Kemudian lanjut step berikutnya, alinkan kedua tangan kalian secara bergantian seperti ini.
+83	Kemudian lanjut step berikutnya, alinkan kedua tangan kalian secara bergantian seperti ini.
+84	Kemudian lanjut step berikutnya, alinkan kedua tangan kalian secara bergantian seperti ini.
+85	Kemudian lanjut step berikutnya, alinkan kedua tangan kalian secara bergantian seperti ini.
+86	Kemudian lanjut step berikutnya, alinkan kedua tangan kalian secara bergantian seperti ini.
+87	Kemudian lanjut step berikutnya, alinkan kedua tangan kalian secara bergantian seperti ini.
+88	Kemudian lanjut step berikutnya, alinkan kedua tangan kalian secara bergantian seperti ini.
+89	Kemudian lanjut step berikutnya, alinkan kedua tangan kalian secara bergantian seperti ini.
+90	Kemudian lanjut step berikutnya, alinkan kedua tangan kalian secara bergantian seperti ini.
+91	[NO_SPEECH]
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	[NO_SPEECH]
+95	[NO_SPEECH]
+96	[NO_SPEECH]
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	Kalian bisa lakukan tiga langkah tadi secara berulang ya guys.
+103	Kalian bisa lakukan tiga langkah tadi secara berulang ya guys.
+104	Kalian bisa lakukan tiga langkah tadi secara berulang ya guys.
+105	Kalian bisa lakukan tiga langkah tadi secara berulang ya guys.
+106	Kalian bisa lakukan tiga langkah tadi secara berulang ya guys.
+107	Kalian bisa lakukan tiga langkah tadi secara berulang ya guys.
+108	Kalian bisa lakukan tiga langkah tadi secara berulang ya guys.
+109	Kalian bisa lakukan tiga langkah tadi secara berulang ya guys. Sampai dirasa kalian bisa lanjut ke step berikutnya ini nih.
+110	Kalian bisa lakukan tiga langkah tadi secara berulang ya guys. Sampai dirasa kalian bisa lanjut ke step berikutnya ini nih.
+111	Sampai dirasa kalian bisa lanjut ke step berikutnya ini nih.
+112	Sampai dirasa kalian bisa lanjut ke step berikutnya ini nih.
+113	Sampai dirasa kalian bisa lanjut ke step berikutnya ini nih.
+114	Sampai dirasa kalian bisa lanjut ke step berikutnya ini nih.
+115	Sampai dirasa kalian bisa lanjut ke step berikutnya ini nih. Nah, step ini tanpa bantuan tembok lagi guys.
+116	Sampai dirasa kalian bisa lanjut ke step berikutnya ini nih. Nah, step ini tanpa bantuan tembok lagi guys.
+117	Nah, step ini tanpa bantuan tembok lagi guys.
+118	Nah, step ini tanpa bantuan tembok lagi guys.
+119	Nah, step ini tanpa bantuan tembok lagi guys.
+120	Nah, step ini tanpa bantuan tembok lagi guys. Posisinya kedua tangan lurus ke depan, kemudian lakukan gerakan kicun seperti step awal tadi ya.
+121	Posisinya kedua tangan lurus ke depan, kemudian lakukan gerakan kicun seperti step awal tadi ya.
+122	Posisinya kedua tangan lurus ke depan, kemudian lakukan gerakan kicun seperti step awal tadi ya.
+123	Posisinya kedua tangan lurus ke depan, kemudian lakukan gerakan kicun seperti step awal tadi ya.
+124	Posisinya kedua tangan lurus ke depan, kemudian lakukan gerakan kicun seperti step awal tadi ya.
+125	Posisinya kedua tangan lurus ke depan, kemudian lakukan gerakan kicun seperti step awal tadi ya.
+126	Posisinya kedua tangan lurus ke depan, kemudian lakukan gerakan kicun seperti step awal tadi ya.
+127	Posisinya kedua tangan lurus ke depan, kemudian lakukan gerakan kicun seperti step awal tadi ya.
+128	Posisinya kedua tangan lurus ke depan, kemudian lakukan gerakan kicun seperti step awal tadi ya.
+129	Posisinya kedua tangan lurus ke depan, kemudian lakukan gerakan kicun seperti step awal tadi ya. Lanjut, kalian bisa alinkan tangan kalian secara bergantian.
+130	Posisinya kedua tangan lurus ke depan, kemudian lakukan gerakan kicun seperti step awal tadi ya. Lanjut, kalian bisa alinkan tangan kalian secara bergantian.
+131	Lanjut, kalian bisa alinkan tangan kalian secara bergantian.
+132	Lanjut, kalian bisa alinkan tangan kalian secara bergantian.
+133	Lanjut, kalian bisa alinkan tangan kalian secara bergantian.
+134	Lanjut, kalian bisa alinkan tangan kalian secara bergantian.
+135	Lanjut, kalian bisa alinkan tangan kalian secara bergantian. Nah, bisa juga dengan bantuan papan renang.
+136	Lanjut, kalian bisa alinkan tangan kalian secara bergantian. Nah, bisa juga dengan bantuan papan renang.
+137	Nah, bisa juga dengan bantuan papan renang.
+138	Nah, bisa juga dengan bantuan papan renang.
+139	Nah, bisa juga dengan bantuan papan renang.
+140	Nah, bisa juga dengan bantuan papan renang. Gimana? Mudah kan guys?
+141	Nah, bisa juga dengan bantuan papan renang. Gimana? Mudah kan guys?
+142	Gimana? Mudah kan guys? Itu dia serunya belajar tips bagi pemula agar bisa berenang.
+143	Gimana? Mudah kan guys? Itu dia serunya belajar tips bagi pemula agar bisa berenang.
+144	Itu dia serunya belajar tips bagi pemula agar bisa berenang.
+145	Itu dia serunya belajar tips bagi pemula agar bisa berenang.
+146	Itu dia serunya belajar tips bagi pemula agar bisa berenang.
+147	Itu dia serunya belajar tips bagi pemula agar bisa berenang.
+148	Itu dia serunya belajar tips bagi pemula agar bisa berenang. Jika mau Tere kasih tips atau tutorial apa lagi guys, coba komen dan jangan lupa follow Tere ya.
+149	Itu dia serunya belajar tips bagi pemula agar bisa berenang. Jika mau Tere kasih tips atau tutorial apa lagi guys, coba komen dan jangan lupa follow Tere ya.
+150	Jika mau Tere kasih tips atau tutorial apa lagi guys, coba komen dan jangan lupa follow Tere ya.
+151	Jika mau Tere kasih tips atau tutorial apa lagi guys, coba komen dan jangan lupa follow Tere ya.
+152	Jika mau Tere kasih tips atau tutorial apa lagi guys, coba komen dan jangan lupa follow Tere ya.
+153	Jika mau Tere kasih tips atau tutorial apa lagi guys, coba komen dan jangan lupa follow Tere ya.
+154	Jika mau Tere kasih tips atau tutorial apa lagi guys, coba komen dan jangan lupa follow Tere ya.
+155	Jika mau Tere kasih tips atau tutorial apa lagi guys, coba komen dan jangan lupa follow Tere ya.
+156	Jika mau Tere kasih tips atau tutorial apa lagi guys, coba komen dan jangan lupa follow Tere ya.
+157	Jika mau Tere kasih tips atau tutorial apa lagi guys, coba komen dan jangan lupa follow Tere ya.
+158	Jika mau Tere kasih tips atau tutorial apa lagi guys, coba komen dan jangan lupa follow Tere ya. Gaskan!
+159	Gaskan!
+160	Gaskan!
+161	[NO_SPEECH]
+162	[NO_SPEECH]
+163	[NO_SPEECH]
+164	[NO_SPEECH]
+165	[NO_SPEECH]
+166	[NO_SPEECH]

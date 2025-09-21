@@ -1,0 +1,136 @@
+0	Ini adalah pembentangan party yang paling keren
+1	Ini adalah pembentangan party yang paling keren
+2	Ini adalah pembentangan party yang paling keren
+3	Ini adalah pembentangan party yang paling keren Karena Maybelline tidak hanya mengirimkan pink teddy bear
+4	Ini adalah pembentangan party yang paling keren Karena Maybelline tidak hanya mengirimkan pink teddy bear
+5	Karena Maybelline tidak hanya mengirimkan pink teddy bear
+6	Karena Maybelline tidak hanya mengirimkan pink teddy bear
+7	Karena Maybelline tidak hanya mengirimkan pink teddy bear
+8	Karena Maybelline tidak hanya mengirimkan pink teddy bear
+9	Karena Maybelline tidak hanya mengirimkan pink teddy bear
+10	Karena Maybelline tidak hanya mengirimkan pink teddy bear Tapi juga mereka mengirimkan 5 shade new Maybelline Super Stay Teddy Tint
+11	Karena Maybelline tidak hanya mengirimkan pink teddy bear Tapi juga mereka mengirimkan 5 shade new Maybelline Super Stay Teddy Tint
+12	Tapi juga mereka mengirimkan 5 shade new Maybelline Super Stay Teddy Tint
+13	Tapi juga mereka mengirimkan 5 shade new Maybelline Super Stay Teddy Tint
+14	Tapi juga mereka mengirimkan 5 shade new Maybelline Super Stay Teddy Tint
+15	Tapi juga mereka mengirimkan 5 shade new Maybelline Super Stay Teddy Tint
+16	Tapi juga mereka mengirimkan 5 shade new Maybelline Super Stay Teddy Tint
+17	Tapi juga mereka mengirimkan 5 shade new Maybelline Super Stay Teddy Tint
+18	Tapi juga mereka mengirimkan 5 shade new Maybelline Super Stay Teddy Tint Jadi aku bisa siap-siap untuk party dengan mereka
+19	Jadi aku bisa siap-siap untuk party dengan mereka
+20	Jadi aku bisa siap-siap untuk party dengan mereka
+21	Jadi aku bisa siap-siap untuk party dengan mereka
+22	Jadi aku bisa siap-siap untuk party dengan mereka Jadi tolong tolong saya untuk memilih shade mana yang paling cocok untuk aku
+23	Jadi aku bisa siap-siap untuk party dengan mereka Jadi tolong tolong saya untuk memilih shade mana yang paling cocok untuk aku
+24	Jadi tolong tolong saya untuk memilih shade mana yang paling cocok untuk aku
+25	Jadi tolong tolong saya untuk memilih shade mana yang paling cocok untuk aku
+26	Jadi tolong tolong saya untuk memilih shade mana yang paling cocok untuk aku
+27	Jadi tolong tolong saya untuk memilih shade mana yang paling cocok untuk aku
+28	Jadi tolong tolong saya untuk memilih shade mana yang paling cocok untuk aku
+29	Jadi tolong tolong saya untuk memilih shade mana yang paling cocok untuk aku Karena ini birthday Maybelline dan mari kita pergi party!
+30	Jadi tolong tolong saya untuk memilih shade mana yang paling cocok untuk aku Karena ini birthday Maybelline dan mari kita pergi party!
+31	Karena ini birthday Maybelline dan mari kita pergi party!
+32	Karena ini birthday Maybelline dan mari kita pergi party!
+33	Karena ini birthday Maybelline dan mari kita pergi party!
+34	Karena ini birthday Maybelline dan mari kita pergi party!
+35	Untuk swatches, yang pertama ini shade 10 Cure & Mold
+36	Untuk swatches, yang pertama ini shade 10 Cure & Mold
+37	Untuk swatches, yang pertama ini shade 10 Cure & Mold
+38	Untuk swatches, yang pertama ini shade 10 Cure & Mold
+39	Untuk swatches, yang pertama ini shade 10 Cure & Mold
+40	Untuk swatches, yang pertama ini shade 10 Cure & Mold
+41	Untuk swatches, yang pertama ini shade 10 Cure & Mold
+42	Untuk swatches, yang pertama ini shade 10 Cure & Mold Aku suka banget yang finishnya karena dia soft matte finish
+43	Untuk swatches, yang pertama ini shade 10 Cure & Mold Aku suka banget yang finishnya karena dia soft matte finish
+44	Aku suka banget yang finishnya karena dia soft matte finish
+45	Aku suka banget yang finishnya karena dia soft matte finish
+46	Aku suka banget yang finishnya karena dia soft matte finish
+47	Aku suka banget yang finishnya karena dia soft matte finish
+48	Aku suka banget yang finishnya karena dia soft matte finish Dan dia ringan banget, tidak ada lengket sama sekali
+49	Aku suka banget yang finishnya karena dia soft matte finish Dan dia ringan banget, tidak ada lengket sama sekali
+50	Dan dia ringan banget, tidak ada lengket sama sekali
+51	Dan dia ringan banget, tidak ada lengket sama sekali
+52	Dan dia ringan banget, tidak ada lengket sama sekali
+53	Dan dia ringan banget, tidak ada lengket sama sekali Selanjutnya shade 40 Petalcore
+54	Dan dia ringan banget, tidak ada lengket sama sekali Selanjutnya shade 40 Petalcore
+55	Selanjutnya shade 40 Petalcore
+56	Selanjutnya shade 40 Petalcore
+57	Selanjutnya shade 40 Petalcore
+58	Selanjutnya shade 40 Petalcore Yang ini shade 45 Pinky Promise
+59	Selanjutnya shade 40 Petalcore Yang ini shade 45 Pinky Promise
+60	Yang ini shade 45 Pinky Promise
+61	Yang ini shade 45 Pinky Promise
+62	Yang ini shade 45 Pinky Promise
+63	Yang ini shade 45 Pinky Promise
+64	Yang ini shade 45 Pinky Promise
+65	Yang ini shade 45 Pinky Promise
+66	Yang ini shade 45 Pinky Promise
+67	Yang ini shade 45 Pinky Promise
+68	[NO_SPEECH]
+69	[NO_SPEECH]
+70	Shade 50 Waltz At Heart
+71	Shade 50 Waltz At Heart
+72	Shade 50 Waltz At Heart
+73	Shade 50 Waltz At Heart
+74	Shade 50 Waltz At Heart
+75	Dan akhirnya shade 20 Mascara Tears
+76	Dan akhirnya shade 20 Mascara Tears
+77	Dan akhirnya shade 20 Mascara Tears
+78	Dan akhirnya shade 20 Mascara Tears
+79	Dan akhirnya shade 20 Mascara Tears
+80	Dan akhirnya shade 20 Mascara Tears
+81	Dan akhirnya shade 20 Mascara Tears Setelah kalian aplikasiin, kalian harus tunggu sekitar 10-20 menit
+82	Dan akhirnya shade 20 Mascara Tears Setelah kalian aplikasiin, kalian harus tunggu sekitar 10-20 menit
+83	Setelah kalian aplikasiin, kalian harus tunggu sekitar 10-20 menit
+84	Setelah kalian aplikasiin, kalian harus tunggu sekitar 10-20 menit
+85	Setelah kalian aplikasiin, kalian harus tunggu sekitar 10-20 menit
+86	Setelah kalian aplikasiin, kalian harus tunggu sekitar 10-20 menit
+87	Setelah kalian aplikasiin, kalian harus tunggu sekitar 10-20 menit
+88	Setelah kalian aplikasiin, kalian harus tunggu sekitar 10-20 menit Di sini aku pakai timer 15 menit
+89	Setelah kalian aplikasiin, kalian harus tunggu sekitar 10-20 menit Di sini aku pakai timer 15 menit
+90	Di sini aku pakai timer 15 menit
+91	Di sini aku pakai timer 15 menit
+92	Di sini aku pakai timer 15 menit
+93	Di sini aku pakai timer 15 menit Dan pas sudah set, baru kalian bisa pakai untuk makan ataupun minum
+94	Di sini aku pakai timer 15 menit Dan pas sudah set, baru kalian bisa pakai untuk makan ataupun minum
+95	Dan pas sudah set, baru kalian bisa pakai untuk makan ataupun minum
+96	Dan pas sudah set, baru kalian bisa pakai untuk makan ataupun minum
+97	Dan pas sudah set, baru kalian bisa pakai untuk makan ataupun minum
+98	Dan pas sudah set, baru kalian bisa pakai untuk makan ataupun minum
+99	Dan pas sudah set, baru kalian bisa pakai untuk makan ataupun minum Jadi shade mana yang paling cocok untuk aku?
+100	Dan pas sudah set, baru kalian bisa pakai untuk makan ataupun minum Jadi shade mana yang paling cocok untuk aku?
+101	Jadi shade mana yang paling cocok untuk aku?
+102	Jadi shade mana yang paling cocok untuk aku?
+103	Jadi shade mana yang paling cocok untuk aku? Tolong komen di bawah karena aku jujur suka sama semuanya
+104	Jadi shade mana yang paling cocok untuk aku? Tolong komen di bawah karena aku jujur suka sama semuanya
+105	Tolong komen di bawah karena aku jujur suka sama semuanya
+106	Tolong komen di bawah karena aku jujur suka sama semuanya
+107	Tolong komen di bawah karena aku jujur suka sama semuanya
+108	Tolong komen di bawah karena aku jujur suka sama semuanya Cuma kayaknya favorit aku itu yang nomor 20 Mascara Tears
+109	Tolong komen di bawah karena aku jujur suka sama semuanya Cuma kayaknya favorit aku itu yang nomor 20 Mascara Tears
+110	Cuma kayaknya favorit aku itu yang nomor 20 Mascara Tears
+111	Cuma kayaknya favorit aku itu yang nomor 20 Mascara Tears
+112	Cuma kayaknya favorit aku itu yang nomor 20 Mascara Tears
+113	Cuma kayaknya favorit aku itu yang nomor 20 Mascara Tears Yang aku pakai sekarang
+114	Cuma kayaknya favorit aku itu yang nomor 20 Mascara Tears Yang aku pakai sekarang Dia warna kayak vampy chocolate in the best way possible
+115	Yang aku pakai sekarang Dia warna kayak vampy chocolate in the best way possible
+116	Dia warna kayak vampy chocolate in the best way possible
+117	Dia warna kayak vampy chocolate in the best way possible
+118	Dia warna kayak vampy chocolate in the best way possible
+119	Dia warna kayak vampy chocolate in the best way possible
+120	Dia warna kayak vampy chocolate in the best way possible Anyway, kalian yang mau 5 shade terbaru Maybelline Superstay Teddy Tint ini
+121	Dia warna kayak vampy chocolate in the best way possible Anyway, kalian yang mau 5 shade terbaru Maybelline Superstay Teddy Tint ini
+122	Anyway, kalian yang mau 5 shade terbaru Maybelline Superstay Teddy Tint ini
+123	Anyway, kalian yang mau 5 shade terbaru Maybelline Superstay Teddy Tint ini
+124	Anyway, kalian yang mau 5 shade terbaru Maybelline Superstay Teddy Tint ini
+125	Anyway, kalian yang mau 5 shade terbaru Maybelline Superstay Teddy Tint ini
+126	Anyway, kalian yang mau 5 shade terbaru Maybelline Superstay Teddy Tint ini
+127	Anyway, kalian yang mau 5 shade terbaru Maybelline Superstay Teddy Tint ini
+128	Anyway, kalian yang mau 5 shade terbaru Maybelline Superstay Teddy Tint ini Juga udah bisa beli langsung di e-commerce
+129	Anyway, kalian yang mau 5 shade terbaru Maybelline Superstay Teddy Tint ini Juga udah bisa beli langsung di e-commerce
+130	Juga udah bisa beli langsung di e-commerce
+131	Juga udah bisa beli langsung di e-commerce Karena semua shade udah available
+132	Juga udah bisa beli langsung di e-commerce Karena semua shade udah available
+133	Karena semua shade udah available
+134	Karena semua shade udah available
+135	Karena semua shade udah available

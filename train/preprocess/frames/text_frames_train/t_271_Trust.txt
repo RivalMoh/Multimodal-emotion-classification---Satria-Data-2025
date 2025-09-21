@@ -1,0 +1,136 @@
+0	Hai 
+1	Hai 
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	kemudian
+58	kemudian
+59	kemudian
+60	kemudian
+61	kemudian lagi kalau jadi ini ya jadi kakak ini ini bulet tapi ke sini lanjut gitu ya
+62	lagi kalau jadi ini ya jadi kakak ini ini bulet tapi ke sini lanjut gitu ya
+63	lagi kalau jadi ini ya jadi kakak ini ini bulet tapi ke sini lanjut gitu ya
+64	lagi kalau jadi ini ya jadi kakak ini ini bulet tapi ke sini lanjut gitu ya
+65	lagi kalau jadi ini ya jadi kakak ini ini bulet tapi ke sini lanjut gitu ya
+66	lagi kalau jadi ini ya jadi kakak ini ini bulet tapi ke sini lanjut gitu ya
+67	lagi kalau jadi ini ya jadi kakak ini ini bulet tapi ke sini lanjut gitu ya
+68	lagi kalau jadi ini ya jadi kakak ini ini bulet tapi ke sini lanjut gitu ya
+69	lagi kalau jadi ini ya jadi kakak ini ini bulet tapi ke sini lanjut gitu ya
+70	lagi kalau jadi ini ya jadi kakak ini ini bulet tapi ke sini lanjut gitu ya
+71	lagi kalau jadi ini ya jadi kakak ini ini bulet tapi ke sini lanjut gitu ya
+72	lagi kalau jadi ini ya jadi kakak ini ini bulet tapi ke sini lanjut gitu ya kalau menurut aku pakai di sini masih aman ya jadi
+73	lagi kalau jadi ini ya jadi kakak ini ini bulet tapi ke sini lanjut gitu ya kalau menurut aku pakai di sini masih aman ya jadi
+74	kalau menurut aku pakai di sini masih aman ya jadi
+75	kalau menurut aku pakai di sini masih aman ya jadi
+76	kalau menurut aku pakai di sini masih aman ya jadi
+77	kalau menurut aku pakai di sini masih aman ya jadi
+78	kalau menurut aku pakai di sini masih aman ya jadi
+79	kalau menurut aku pakai di sini masih aman ya jadi
+80	kalau menurut aku pakai di sini masih aman ya jadi
+81	kalau menurut aku pakai di sini masih aman ya jadi
+82	kalau menurut aku pakai di sini masih aman ya jadi
+83	kalau menurut aku pakai di sini masih aman ya jadi
+84	kalau menurut aku pakai di sini masih aman ya jadi
+85	kalau menurut aku pakai di sini masih aman ya jadi
+86	kalau menurut aku pakai di sini masih aman ya jadi
+87	kalau menurut aku pakai di sini masih aman ya jadi
+88	kalau menurut aku pakai di sini masih aman ya jadi
+89	kalau menurut aku pakai di sini masih aman ya jadi
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	[NO_SPEECH]
+95	[NO_SPEECH]
+96	[NO_SPEECH]
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	kalau ada besok
+104	kalau ada besok
+105	kalau ada besok
+106	kalau ada besok ini lebih kecilnya di Indonesia
+107	kalau ada besok ini lebih kecilnya di Indonesia
+108	ini lebih kecilnya di Indonesia
+109	ini lebih kecilnya di Indonesia
+110	ini lebih kecilnya di Indonesia
+111	ini lebih kecilnya di Indonesia
+112	ini lebih kecilnya di Indonesia
+113	ini lebih kecilnya di Indonesia
+114	ini lebih kecilnya di Indonesia
+115	ini lebih kecilnya di Indonesia
+116	ini lebih kecilnya di Indonesia
+117	ini lebih kecilnya di Indonesia
+118	ini lebih kecilnya di Indonesia
+119	ini lebih kecilnya di Indonesia
+120	[NO_SPEECH]
+121	[NO_SPEECH]
+122	[NO_SPEECH]
+123	[NO_SPEECH]
+124	ya
+125	ya
+126	ya
+127	ya
+128	ya
+129	[NO_SPEECH]
+130	[NO_SPEECH]
+131	[NO_SPEECH]
+132	[NO_SPEECH]
+133	[NO_SPEECH]
+134	[NO_SPEECH]
+135	[NO_SPEECH]

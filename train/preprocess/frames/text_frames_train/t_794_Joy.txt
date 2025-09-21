@@ -1,0 +1,443 @@
+0	Coba kamu tebak apa isi dalam paper bag ini kawan.
+1	Coba kamu tebak apa isi dalam paper bag ini kawan.
+2	Coba kamu tebak apa isi dalam paper bag ini kawan.
+3	Coba kamu tebak apa isi dalam paper bag ini kawan.
+4	Coba kamu tebak apa isi dalam paper bag ini kawan.
+5	Coba kamu tebak apa isi dalam paper bag ini kawan. Ini adalah sebuah barang yang enjoy.
+6	Ini adalah sebuah barang yang enjoy.
+7	Ini adalah sebuah barang yang enjoy.
+8	Ini adalah sebuah barang yang enjoy.
+9	Ini adalah sebuah barang yang enjoy.
+10	Ini adalah sebuah barang yang enjoy.
+11	Ini adalah sebuah barang yang enjoy.
+12	Sebuah kemewahan enjoy ya kan.
+13	Sebuah kemewahan enjoy ya kan.
+14	Sebuah kemewahan enjoy ya kan.
+15	Sebuah kemewahan enjoy ya kan.
+16	Sebuah kemewahan enjoy ya kan.
+17	Sebuah kemewahan enjoy ya kan. Dari Ivan Gunawan.
+18	Dari Ivan Gunawan.
+19	Dari Ivan Gunawan.
+20	Dari Ivan Gunawan.
+21	Dari Ivan Gunawan. Ini kita unboxing nih ya.
+22	Ini kita unboxing nih ya.
+23	Ini kita unboxing nih ya. Oke ini dapet Vita-nya.
+24	Ini kita unboxing nih ya. Oke ini dapet Vita-nya.
+25	Oke ini dapet Vita-nya.
+26	Oke ini dapet Vita-nya. Ini adalah salah satu produk yang emang bener-bener aku suka banget kawan.
+27	Oke ini dapet Vita-nya. Ini adalah salah satu produk yang emang bener-bener aku suka banget kawan.
+28	Ini adalah salah satu produk yang emang bener-bener aku suka banget kawan.
+29	Ini adalah salah satu produk yang emang bener-bener aku suka banget kawan.
+30	Ini adalah salah satu produk yang emang bener-bener aku suka banget kawan.
+31	Ini adalah salah satu produk yang emang bener-bener aku suka banget kawan.
+32	Ini adalah salah satu produk yang emang bener-bener aku suka banget kawan.
+33	Ini adalah salah satu produk yang emang bener-bener aku suka banget kawan. Ampe kalau aku ke luar negeri pun aku selalu beli ini.
+34	Ini adalah salah satu produk yang emang bener-bener aku suka banget kawan. Ampe kalau aku ke luar negeri pun aku selalu beli ini.
+35	Ampe kalau aku ke luar negeri pun aku selalu beli ini.
+36	Ampe kalau aku ke luar negeri pun aku selalu beli ini.
+37	Ampe kalau aku ke luar negeri pun aku selalu beli ini.
+38	Ampe kalau aku ke luar negeri pun aku selalu beli ini. Ini dia.
+39	Ampe kalau aku ke luar negeri pun aku selalu beli ini. Ini dia.
+40	Ini dia. Karena aku suka banget dengan barang pecah belah ini.
+41	Ini dia. Karena aku suka banget dengan barang pecah belah ini.
+42	Karena aku suka banget dengan barang pecah belah ini.
+43	Karena aku suka banget dengan barang pecah belah ini.
+44	Karena aku suka banget dengan barang pecah belah ini.
+45	Karena aku suka banget dengan barang pecah belah ini.
+46	Karena aku suka banget dengan barang pecah belah ini. Biasanya kita kan review makanan.
+47	Karena aku suka banget dengan barang pecah belah ini. Biasanya kita kan review makanan.
+48	Biasanya kita kan review makanan.
+49	Biasanya kita kan review makanan. Kali ini kita akan review tempat makannya kawan.
+50	Biasanya kita kan review makanan. Kali ini kita akan review tempat makannya kawan.
+51	Kali ini kita akan review tempat makannya kawan.
+52	Kali ini kita akan review tempat makannya kawan.
+53	Kali ini kita akan review tempat makannya kawan.
+54	Kali ini kita akan review tempat makannya kawan.
+55	Kali ini kita akan review tempat makannya kawan.
+56	Kali ini kita akan review tempat makannya kawan. Karena Ivan Gunawan baru aja ngeluarin piring enjoy.
+57	Kali ini kita akan review tempat makannya kawan. Karena Ivan Gunawan baru aja ngeluarin piring enjoy.
+58	Karena Ivan Gunawan baru aja ngeluarin piring enjoy.
+59	Karena Ivan Gunawan baru aja ngeluarin piring enjoy.
+60	Karena Ivan Gunawan baru aja ngeluarin piring enjoy.
+61	Karena Ivan Gunawan baru aja ngeluarin piring enjoy.
+62	Karena Ivan Gunawan baru aja ngeluarin piring enjoy.
+63	Karena Ivan Gunawan baru aja ngeluarin piring enjoy. Untuk harganya ini termasuk murah begitu ya buat aku ya kawan ya.
+64	Karena Ivan Gunawan baru aja ngeluarin piring enjoy. Untuk harganya ini termasuk murah begitu ya buat aku ya kawan ya.
+65	Untuk harganya ini termasuk murah begitu ya buat aku ya kawan ya.
+66	Untuk harganya ini termasuk murah begitu ya buat aku ya kawan ya.
+67	Untuk harganya ini termasuk murah begitu ya buat aku ya kawan ya.
+68	Untuk harganya ini termasuk murah begitu ya buat aku ya kawan ya.
+69	Untuk harganya ini termasuk murah begitu ya buat aku ya kawan ya.
+70	Untuk harganya ini termasuk murah begitu ya buat aku ya kawan ya. Karena aku punya beberapa koleksi juga.
+71	Untuk harganya ini termasuk murah begitu ya buat aku ya kawan ya. Karena aku punya beberapa koleksi juga.
+72	Karena aku punya beberapa koleksi juga.
+73	Karena aku punya beberapa koleksi juga.
+74	Karena aku punya beberapa koleksi juga.
+75	Karena aku punya beberapa koleksi juga. Satu kotak ini aku cuma bisa beli satu gitu ya.
+76	Satu kotak ini aku cuma bisa beli satu gitu ya.
+77	Satu kotak ini aku cuma bisa beli satu gitu ya.
+78	Satu kotak ini aku cuma bisa beli satu gitu ya.
+79	Satu kotak ini aku cuma bisa beli satu gitu ya.
+80	Satu kotak ini aku cuma bisa beli satu gitu ya.
+81	Satu kotak ini aku cuma bisa beli satu gitu ya. Oh my God.
+82	Oh my God.
+83	Oh my God.
+84	Oh my God. Look at you.
+85	Look at you.
+86	Look at you. Piring kawan.
+87	Piring kawan.
+88	Piring kawan. Ivan Gunawan.
+89	Ivan Gunawan.
+90	Ivan Gunawan.
+91	Ivan Gunawan. Kemarin aku makan di Plaza Indonesia kan.
+92	Kemarin aku makan di Plaza Indonesia kan.
+93	Kemarin aku makan di Plaza Indonesia kan.
+94	Kemarin aku makan di Plaza Indonesia kan.
+95	Kemarin aku makan di Plaza Indonesia kan. Piringnya pake ini mewah banget.
+96	Kemarin aku makan di Plaza Indonesia kan. Piringnya pake ini mewah banget.
+97	Piringnya pake ini mewah banget.
+98	Piringnya pake ini mewah banget.
+99	Piringnya pake ini mewah banget.
+100	Piringnya pake ini mewah banget. Temanya Nusa Nova.
+101	Temanya Nusa Nova.
+102	Temanya Nusa Nova.
+103	Temanya Nusa Nova. Oh my God.
+104	Temanya Nusa Nova. Oh my God.
+105	Oh my God. Nih aku inget banget.
+106	Oh my God. Nih aku inget banget.
+107	Nih aku inget banget.
+108	Nih aku inget banget. Kemarin makan empe-empe di restoran ada pake piring ini kawan.
+109	Kemarin makan empe-empe di restoran ada pake piring ini kawan.
+110	Kemarin makan empe-empe di restoran ada pake piring ini kawan.
+111	Kemarin makan empe-empe di restoran ada pake piring ini kawan.
+112	Kemarin makan empe-empe di restoran ada pake piring ini kawan.
+113	Kemarin makan empe-empe di restoran ada pake piring ini kawan.
+114	Kemarin makan empe-empe di restoran ada pake piring ini kawan. Dan ini kita dapet tiga pis.
+115	Kemarin makan empe-empe di restoran ada pake piring ini kawan. Dan ini kita dapet tiga pis.
+116	Dan ini kita dapet tiga pis.
+117	Dan ini kita dapet tiga pis.
+118	Dan ini kita dapet tiga pis. Nih piring sedangnya.
+119	Dan ini kita dapet tiga pis. Nih piring sedangnya.
+120	Nih piring sedangnya.
+121	Nih piring sedangnya. Mewahnya Tuhan.
+122	Nih piring sedangnya. Mewahnya Tuhan.
+123	Mewahnya Tuhan. Kotaknya juga mewah.
+124	Mewahnya Tuhan. Kotaknya juga mewah.
+125	Kotaknya juga mewah.
+126	Kotaknya juga mewah. Ini tuh hasil kolaborasi antara Ivan Gunawan dan juga Zen Tableware.
+127	Kotaknya juga mewah. Ini tuh hasil kolaborasi antara Ivan Gunawan dan juga Zen Tableware.
+128	Ini tuh hasil kolaborasi antara Ivan Gunawan dan juga Zen Tableware.
+129	Ini tuh hasil kolaborasi antara Ivan Gunawan dan juga Zen Tableware.
+130	Ini tuh hasil kolaborasi antara Ivan Gunawan dan juga Zen Tableware.
+131	Ini tuh hasil kolaborasi antara Ivan Gunawan dan juga Zen Tableware.
+132	Ini tuh hasil kolaborasi antara Ivan Gunawan dan juga Zen Tableware.
+133	Ini tuh hasil kolaborasi antara Ivan Gunawan dan juga Zen Tableware.
+134	Ini tuh hasil kolaborasi antara Ivan Gunawan dan juga Zen Tableware.
+135	Ini tuh hasil kolaborasi antara Ivan Gunawan dan juga Zen Tableware. Enjoy banget Kak Igun.
+136	Enjoy banget Kak Igun.
+137	Enjoy banget Kak Igun.
+138	Enjoy banget Kak Igun. Ini aku beli ya.
+139	Enjoy banget Kak Igun. Ini aku beli ya.
+140	Ini aku beli ya. Aku gak dikasih.
+141	Aku gak dikasih. Walaupun aku bersahabat sama Kak Igun.
+142	Aku gak dikasih. Walaupun aku bersahabat sama Kak Igun.
+143	Walaupun aku bersahabat sama Kak Igun.
+144	Walaupun aku bersahabat sama Kak Igun.
+145	Walaupun aku bersahabat sama Kak Igun. Aku beli sendiri sebagai rasa support.
+146	Walaupun aku bersahabat sama Kak Igun. Aku beli sendiri sebagai rasa support.
+147	Aku beli sendiri sebagai rasa support.
+148	Aku beli sendiri sebagai rasa support.
+149	Aku beli sendiri sebagai rasa support.
+150	Aku beli sendiri sebagai rasa support. Walaupun kalau aku minta pun pasti dikasih.
+151	Walaupun kalau aku minta pun pasti dikasih.
+152	Walaupun kalau aku minta pun pasti dikasih.
+153	Walaupun kalau aku minta pun pasti dikasih.
+154	Walaupun kalau aku minta pun pasti dikasih. Tapi aku gak mau.
+155	Walaupun kalau aku minta pun pasti dikasih. Tapi aku gak mau. Aku diem-diem aku beli sebagai tanda support kita sebagai sahabat.
+156	Tapi aku gak mau. Aku diem-diem aku beli sebagai tanda support kita sebagai sahabat.
+157	Aku diem-diem aku beli sebagai tanda support kita sebagai sahabat.
+158	Aku diem-diem aku beli sebagai tanda support kita sebagai sahabat.
+159	Aku diem-diem aku beli sebagai tanda support kita sebagai sahabat.
+160	Aku diem-diem aku beli sebagai tanda support kita sebagai sahabat.
+161	Aku diem-diem aku beli sebagai tanda support kita sebagai sahabat.
+162	Aku diem-diem aku beli sebagai tanda support kita sebagai sahabat.
+163	Aku diem-diem aku beli sebagai tanda support kita sebagai sahabat. Gitu kawan.
+164	Aku diem-diem aku beli sebagai tanda support kita sebagai sahabat. Gitu kawan.
+165	Gitu kawan. Jangan minta.
+166	Gitu kawan. Jangan minta. Kita beli lah ya.
+167	Jangan minta. Kita beli lah ya.
+168	Kita beli lah ya. Walaupun kita belum bisa beli harga pakaian yang puluh.
+169	Kita beli lah ya. Walaupun kita belum bisa beli harga pakaian yang puluh.
+170	Walaupun kita belum bisa beli harga pakaian yang puluh.
+171	Walaupun kita belum bisa beli harga pakaian yang puluh.
+172	Walaupun kita belum bisa beli harga pakaian yang puluh.
+173	Walaupun kita belum bisa beli harga pakaian yang puluh.
+174	Walaupun kita belum bisa beli harga pakaian yang puluh. Puluhan juta.
+175	Walaupun kita belum bisa beli harga pakaian yang puluh. Puluhan juta. Belasan juta.
+176	Puluhan juta. Belasan juta.
+177	Belasan juta. Begitu ya.
+178	Belasan juta. Begitu ya. Nah kita beli lah piringnya ini.
+179	Begitu ya. Nah kita beli lah piringnya ini.
+180	Nah kita beli lah piringnya ini.
+181	Nah kita beli lah piringnya ini. Emang aku kan suka banget kerami-kerami kayak begini ya kawan ya.
+182	Nah kita beli lah piringnya ini. Emang aku kan suka banget kerami-kerami kayak begini ya kawan ya.
+183	Emang aku kan suka banget kerami-kerami kayak begini ya kawan ya.
+184	Emang aku kan suka banget kerami-kerami kayak begini ya kawan ya.
+185	Emang aku kan suka banget kerami-kerami kayak begini ya kawan ya.
+186	Emang aku kan suka banget kerami-kerami kayak begini ya kawan ya.
+187	Emang aku kan suka banget kerami-kerami kayak begini ya kawan ya. Ini harganya murah loh.
+188	Ini harganya murah loh. Harganya tiga pis ini kalau gak salah 899.
+189	Ini harganya murah loh. Harganya tiga pis ini kalau gak salah 899.
+190	Harganya tiga pis ini kalau gak salah 899.
+191	Harganya tiga pis ini kalau gak salah 899.
+192	Harganya tiga pis ini kalau gak salah 899.
+193	Harganya tiga pis ini kalau gak salah 899.
+194	Harganya tiga pis ini kalau gak salah 899. Iya. Kenapa aku bilang murah?
+195	Iya. Kenapa aku bilang murah?
+196	Kenapa aku bilang murah? Karena ada aku punya satu piring.
+197	Kenapa aku bilang murah? Karena ada aku punya satu piring.
+198	Karena ada aku punya satu piring.
+199	Karena ada aku punya satu piring.
+200	Karena ada aku punya satu piring. Harga satu piringnya sama seperti tiga piring ini.
+201	Karena ada aku punya satu piring. Harga satu piringnya sama seperti tiga piring ini.
+202	Harga satu piringnya sama seperti tiga piring ini.
+203	Harga satu piringnya sama seperti tiga piring ini.
+204	Harga satu piringnya sama seperti tiga piring ini.
+205	Harga satu piringnya sama seperti tiga piring ini.
+206	Harga satu piringnya sama seperti tiga piring ini.
+207	Harga satu piringnya sama seperti tiga piring ini. Iya kan?
+208	Harga satu piringnya sama seperti tiga piring ini. Iya kan?
+209	Iya kan? Ya murah lah.
+210	Ya murah lah. Tiga nih kawan ini buat kita makan-makan enjoy.
+211	Ya murah lah. Tiga nih kawan ini buat kita makan-makan enjoy.
+212	Tiga nih kawan ini buat kita makan-makan enjoy.
+213	Tiga nih kawan ini buat kita makan-makan enjoy.
+214	Tiga nih kawan ini buat kita makan-makan enjoy.
+215	Tiga nih kawan ini buat kita makan-makan enjoy. Dan dia gak yang bener-bener flat begitu.
+216	Tiga nih kawan ini buat kita makan-makan enjoy. Dan dia gak yang bener-bener flat begitu.
+217	Dan dia gak yang bener-bener flat begitu.
+218	Dan dia gak yang bener-bener flat begitu.
+219	Dan dia gak yang bener-bener flat begitu. Disini ada kayak ada cekungan sedikit.
+220	Disini ada kayak ada cekungan sedikit.
+221	Disini ada kayak ada cekungan sedikit.
+222	Disini ada kayak ada cekungan sedikit.
+223	Disini ada kayak ada cekungan sedikit. Jadi kita enjoy begitu ya.
+224	Disini ada kayak ada cekungan sedikit. Jadi kita enjoy begitu ya.
+225	Jadi kita enjoy begitu ya.
+226	Jadi kita enjoy begitu ya. Terus yang ini kawan.
+227	Jadi kita enjoy begitu ya. Terus yang ini kawan.
+228	Terus yang ini kawan. Oh my God lucu banget.
+229	Terus yang ini kawan. Oh my God lucu banget.
+230	Oh my God lucu banget.
+231	Oh my God lucu banget. Ini belinya satu paket ya.
+232	Ini belinya satu paket ya.
+233	Ini belinya satu paket ya. Aku gak tau.
+234	Ini belinya satu paket ya. Aku gak tau. Ini dijual satuan apa enggak.
+235	Aku gak tau. Ini dijual satuan apa enggak.
+236	Ini dijual satuan apa enggak.
+237	Ini dijual satuan apa enggak. Karena aku langsung beli satu paket kayak begini.
+238	Ini dijual satuan apa enggak. Karena aku langsung beli satu paket kayak begini.
+239	Karena aku langsung beli satu paket kayak begini.
+240	Karena aku langsung beli satu paket kayak begini.
+241	Karena aku langsung beli satu paket kayak begini. Best banget.
+242	Karena aku langsung beli satu paket kayak begini. Best banget. Aku suka banget yang ini nih.
+243	Best banget. Aku suka banget yang ini nih.
+244	Aku suka banget yang ini nih. Karena ada bunga kuning di tengahnya.
+245	Aku suka banget yang ini nih. Karena ada bunga kuning di tengahnya.
+246	Karena ada bunga kuning di tengahnya.
+247	Karena ada bunga kuning di tengahnya.
+248	Karena ada bunga kuning di tengahnya.
+249	Karena ada bunga kuning di tengahnya. Disininya ini ada logo Ivan Gunawan Deluxe.
+250	Karena ada bunga kuning di tengahnya. Disininya ini ada logo Ivan Gunawan Deluxe.
+251	Disininya ini ada logo Ivan Gunawan Deluxe.
+252	Disininya ini ada logo Ivan Gunawan Deluxe.
+253	Disininya ini ada logo Ivan Gunawan Deluxe.
+254	Disininya ini ada logo Ivan Gunawan Deluxe.
+255	Disininya ini ada logo Ivan Gunawan Deluxe. Dan kalau kita kayak mau makan sup.
+256	Disininya ini ada logo Ivan Gunawan Deluxe. Dan kalau kita kayak mau makan sup.
+257	Dan kalau kita kayak mau makan sup.
+258	Dan kalau kita kayak mau makan sup.
+259	Dan kalau kita kayak mau makan sup. Atau mau makan MPMP yang ada kuah-kuahnya begitu ya.
+260	Dan kalau kita kayak mau makan sup. Atau mau makan MPMP yang ada kuah-kuahnya begitu ya.
+261	Atau mau makan MPMP yang ada kuah-kuahnya begitu ya.
+262	Atau mau makan MPMP yang ada kuah-kuahnya begitu ya.
+263	Atau mau makan MPMP yang ada kuah-kuahnya begitu ya.
+264	Atau mau makan MPMP yang ada kuah-kuahnya begitu ya.
+265	Atau mau makan MPMP yang ada kuah-kuahnya begitu ya. Tapi memang pengen bentukannya piring.
+266	Atau mau makan MPMP yang ada kuah-kuahnya begitu ya. Tapi memang pengen bentukannya piring.
+267	Tapi memang pengen bentukannya piring.
+268	Tapi memang pengen bentukannya piring.
+269	Tapi memang pengen bentukannya piring. Belilah ini.
+270	Tapi memang pengen bentukannya piring. Belilah ini.
+271	Belilah ini. Enjoynya.
+272	Enjoynya. Enjoynya.
+273	Enjoynya. Enjoynya. Happy banget aku punya piring ini.
+274	Enjoynya. Happy banget aku punya piring ini.
+275	Happy banget aku punya piring ini.
+276	Happy banget aku punya piring ini.
+277	Happy banget aku punya piring ini. Untuk detailnya disini itu ada logo Ivan Gunawan Deluxe.
+278	Happy banget aku punya piring ini. Untuk detailnya disini itu ada logo Ivan Gunawan Deluxe.
+279	Untuk detailnya disini itu ada logo Ivan Gunawan Deluxe.
+280	Untuk detailnya disini itu ada logo Ivan Gunawan Deluxe.
+281	Untuk detailnya disini itu ada logo Ivan Gunawan Deluxe.
+282	Untuk detailnya disini itu ada logo Ivan Gunawan Deluxe.
+283	Untuk detailnya disini itu ada logo Ivan Gunawan Deluxe.
+284	Untuk detailnya disini itu ada logo Ivan Gunawan Deluxe.
+285	Untuk detailnya disini itu ada logo Ivan Gunawan Deluxe. Gambar bunganya juga cakep banget kawan.
+286	Untuk detailnya disini itu ada logo Ivan Gunawan Deluxe. Gambar bunganya juga cakep banget kawan.
+287	Gambar bunganya juga cakep banget kawan.
+288	Gambar bunganya juga cakep banget kawan.
+289	Gambar bunganya juga cakep banget kawan.
+290	Gambar bunganya juga cakep banget kawan. Ini Zentable Wear.
+291	Ini Zentable Wear.
+292	Ini Zentable Wear. Dan juga Ivan Gunawan.
+293	Ini Zentable Wear. Dan juga Ivan Gunawan.
+294	Dan juga Ivan Gunawan. Ini kolaborasi yang bener-bener enjoy.
+295	Dan juga Ivan Gunawan. Ini kolaborasi yang bener-bener enjoy.
+296	Ini kolaborasi yang bener-bener enjoy.
+297	Ini kolaborasi yang bener-bener enjoy.
+298	Ini kolaborasi yang bener-bener enjoy.
+299	Ini kolaborasi yang bener-bener enjoy. Aku suka banget sama motif bunga-bunganya ini.
+300	Aku suka banget sama motif bunga-bunganya ini.
+301	Aku suka banget sama motif bunga-bunganya ini.
+302	Aku suka banget sama motif bunga-bunganya ini.
+303	Aku suka banget sama motif bunga-bunganya ini.
+304	Aku suka banget sama motif bunga-bunganya ini. Bener-bener perpaduan bunga.
+305	Bener-bener perpaduan bunga.
+306	Bener-bener perpaduan bunga.
+307	Bener-bener perpaduan bunga. Dan warnanya bener-bener best.
+308	Bener-bener perpaduan bunga. Dan warnanya bener-bener best.
+309	Dan warnanya bener-bener best.
+310	Dan warnanya bener-bener best.
+311	Dan warnanya bener-bener best. Jadi makannya makin semangat.
+312	Jadi makannya makin semangat.
+313	Jadi makannya makin semangat.
+314	Jadi makannya makin semangat. Ini piring yang paling gede.
+315	Jadi makannya makin semangat. Ini piring yang paling gede.
+316	Ini piring yang paling gede. Kayak begini kawan.
+317	Ini piring yang paling gede. Kayak begini kawan.
+318	Kayak begini kawan.
+319	Kayak begini kawan. Ini piringnya yang ukuran sedang.
+320	Ini piringnya yang ukuran sedang.
+321	Ini piringnya yang ukuran sedang. Ini bisa buat taro dessert.
+322	Ini piringnya yang ukuran sedang. Ini bisa buat taro dessert.
+323	Ini bisa buat taro dessert.
+324	Ini bisa buat taro dessert. Atau kue-kue begitu kawan.
+325	Atau kue-kue begitu kawan.
+326	Atau kue-kue begitu kawan. Nah kalau yang ini piring modelan mangkok begitu kawan.
+327	Atau kue-kue begitu kawan. Nah kalau yang ini piring modelan mangkok begitu kawan.
+328	Nah kalau yang ini piring modelan mangkok begitu kawan.
+329	Nah kalau yang ini piring modelan mangkok begitu kawan.
+330	Nah kalau yang ini piring modelan mangkok begitu kawan.
+331	Nah kalau yang ini piring modelan mangkok begitu kawan.
+332	Nah kalau yang ini piring modelan mangkok begitu kawan. Jadi kita kalau mau makan-makan kuah.
+333	Nah kalau yang ini piring modelan mangkok begitu kawan. Jadi kita kalau mau makan-makan kuah.
+334	Jadi kita kalau mau makan-makan kuah.
+335	Jadi kita kalau mau makan-makan kuah. Bisa pakai ini.
+336	Jadi kita kalau mau makan-makan kuah. Bisa pakai ini.
+337	Bisa pakai ini. Mau makan MPMP.
+338	Mau makan MPMP. Atau mau makan bubur ayam.
+339	Mau makan MPMP. Atau mau makan bubur ayam.
+340	Atau mau makan bubur ayam.
+341	Atau mau makan bubur ayam. Biasanya kita pakai ini kawan.
+342	Atau mau makan bubur ayam. Biasanya kita pakai ini kawan.
+343	Biasanya kita pakai ini kawan.
+344	Biasanya kita pakai ini kawan. Cakep banget.
+345	Biasanya kita pakai ini kawan. Cakep banget. Aku suka banget sama desainnya.
+346	Cakep banget. Aku suka banget sama desainnya.
+347	Aku suka banget sama desainnya.
+348	Aku suka banget sama desainnya. Emang terbaik nih Ivan Gunawan.
+349	Aku suka banget sama desainnya. Emang terbaik nih Ivan Gunawan.
+350	Emang terbaik nih Ivan Gunawan.
+351	Emang terbaik nih Ivan Gunawan. Enjoy.
+352	Emang terbaik nih Ivan Gunawan. Enjoy. Enjoy.
+353	Enjoy. Enjoy. Kurang lebih nge-setnya kayak begini ya.
+354	Enjoy. Kurang lebih nge-setnya kayak begini ya.
+355	Kurang lebih nge-setnya kayak begini ya.
+356	Kurang lebih nge-setnya kayak begini ya. Kalau di atas meja.
+357	Kurang lebih nge-setnya kayak begini ya. Kalau di atas meja.
+358	Kalau di atas meja. Cakep banget.
+359	Cakep banget. Mewah banget.
+360	Cakep banget. Mewah banget.
+361	Mewah banget. Kita itu harus menghargai makanan kawan.
+362	Mewah banget. Kita itu harus menghargai makanan kawan.
+363	Kita itu harus menghargai makanan kawan.
+364	Kita itu harus menghargai makanan kawan.
+365	Kita itu harus menghargai makanan kawan. Aku suka banget juga.
+366	Kita itu harus menghargai makanan kawan. Aku suka banget juga.
+367	Aku suka banget juga. Disini ada motif kupu-kupu kecilnya.
+368	Aku suka banget juga. Disini ada motif kupu-kupu kecilnya.
+369	Disini ada motif kupu-kupu kecilnya.
+370	Disini ada motif kupu-kupu kecilnya.
+371	Disini ada motif kupu-kupu kecilnya. Warna kult gitu kawan.
+372	Disini ada motif kupu-kupu kecilnya. Warna kult gitu kawan.
+373	Warna kult gitu kawan.
+374	Warna kult gitu kawan. Dan ini dari kualitasnya memang terasa best banget.
+375	Warna kult gitu kawan. Dan ini dari kualitasnya memang terasa best banget.
+376	Dan ini dari kualitasnya memang terasa best banget.
+377	Dan ini dari kualitasnya memang terasa best banget.
+378	Dan ini dari kualitasnya memang terasa best banget.
+379	Dan ini dari kualitasnya memang terasa best banget. Beda piring mahal sama piring orang ada.
+380	Dan ini dari kualitasnya memang terasa best banget. Beda piring mahal sama piring orang ada.
+381	Beda piring mahal sama piring orang ada.
+382	Beda piring mahal sama piring orang ada.
+383	Beda piring mahal sama piring orang ada.
+384	Beda piring mahal sama piring orang ada. Kayak begini nih kawan.
+385	Beda piring mahal sama piring orang ada. Kayak begini nih kawan.
+386	Kayak begini nih kawan. Tapi harganya masih terjangkau.
+387	Kayak begini nih kawan. Tapi harganya masih terjangkau.
+388	Tapi harganya masih terjangkau.
+389	Tapi harganya masih terjangkau. Ini adalah sebuah mahakarya buat aku.
+390	Tapi harganya masih terjangkau. Ini adalah sebuah mahakarya buat aku.
+391	Ini adalah sebuah mahakarya buat aku.
+392	Ini adalah sebuah mahakarya buat aku.
+393	Ini adalah sebuah mahakarya buat aku.
+394	Ini adalah sebuah mahakarya buat aku. Kayaknya ini cuma keluar satu season.
+395	Ini adalah sebuah mahakarya buat aku. Kayaknya ini cuma keluar satu season.
+396	Kayaknya ini cuma keluar satu season.
+397	Kayaknya ini cuma keluar satu season.
+398	Kayaknya ini cuma keluar satu season. Buat kamu yang suka banget koleksi mangkok, piring, atau pecah belah kayak begini.
+399	Kayaknya ini cuma keluar satu season. Buat kamu yang suka banget koleksi mangkok, piring, atau pecah belah kayak begini.
+400	Buat kamu yang suka banget koleksi mangkok, piring, atau pecah belah kayak begini.
+401	Buat kamu yang suka banget koleksi mangkok, piring, atau pecah belah kayak begini.
+402	Buat kamu yang suka banget koleksi mangkok, piring, atau pecah belah kayak begini.
+403	Buat kamu yang suka banget koleksi mangkok, piring, atau pecah belah kayak begini.
+404	Buat kamu yang suka banget koleksi mangkok, piring, atau pecah belah kayak begini.
+405	Buat kamu yang suka banget koleksi mangkok, piring, atau pecah belah kayak begini.
+406	Buat kamu yang suka banget koleksi mangkok, piring, atau pecah belah kayak begini.
+407	Buat kamu yang suka banget koleksi mangkok, piring, atau pecah belah kayak begini. Buruan.
+408	Buat kamu yang suka banget koleksi mangkok, piring, atau pecah belah kayak begini. Buruan. Ini kayaknya cuma keluar satu season doang.
+409	Buruan. Ini kayaknya cuma keluar satu season doang.
+410	Ini kayaknya cuma keluar satu season doang.
+411	Ini kayaknya cuma keluar satu season doang.
+412	Ini kayaknya cuma keluar satu season doang. Hanya.
+413	Ini kayaknya cuma keluar satu season doang. Hanya. Ada di Ivan Gunawan Deluxe di PI lantai 2.
+414	Hanya. Ada di Ivan Gunawan Deluxe di PI lantai 2.
+415	Ada di Ivan Gunawan Deluxe di PI lantai 2.
+416	Ada di Ivan Gunawan Deluxe di PI lantai 2.
+417	Ada di Ivan Gunawan Deluxe di PI lantai 2.
+418	Ada di Ivan Gunawan Deluxe di PI lantai 2.
+419	Ada di Ivan Gunawan Deluxe di PI lantai 2.
+420	Ada di Ivan Gunawan Deluxe di PI lantai 2. Oh my God.
+421	Oh my God. I'm so happy and excited with this plate.
+422	Oh my God. I'm so happy and excited with this plate.
+423	I'm so happy and excited with this plate.
+424	I'm so happy and excited with this plate.
+425	I'm so happy and excited with this plate.
+426	I'm so happy and excited with this plate. Next kita bakal review apa lagi kawan?
+427	Next kita bakal review apa lagi kawan?
+428	Next kita bakal review apa lagi kawan?
+429	Next kita bakal review apa lagi kawan?
+430	Next kita bakal review apa lagi kawan? Kasih tau aku di komen ya.
+431	Next kita bakal review apa lagi kawan? Kasih tau aku di komen ya.
+432	Kasih tau aku di komen ya. Terima kasih buat kamu yang udah follow aku.
+433	Kasih tau aku di komen ya. Terima kasih buat kamu yang udah follow aku.
+434	Terima kasih buat kamu yang udah follow aku.
+435	Terima kasih buat kamu yang udah follow aku. Oh baby.
+436	Terima kasih buat kamu yang udah follow aku. Oh baby.
+437	Oh baby. This is perfect.
+438	Oh baby. This is perfect.
+439	This is perfect.
+440	This is perfect.
+441	[NO_SPEECH]
+442	[NO_SPEECH]

@@ -1,0 +1,126 @@
+0	Berat badannya teman-teman stuck di satu titik
+1	Berat badannya teman-teman stuck di satu titik
+2	Berat badannya teman-teman stuck di satu titik
+3	Berat badannya teman-teman stuck di satu titik
+4	Berat badannya teman-teman stuck di satu titik Dan teman-teman itu frustasi
+5	Berat badannya teman-teman stuck di satu titik Dan teman-teman itu frustasi
+6	Dan teman-teman itu frustasi
+7	Dan teman-teman itu frustasi Pada saat teman-teman itu lagi mau menurunkan berat badan
+8	Dan teman-teman itu frustasi Pada saat teman-teman itu lagi mau menurunkan berat badan
+9	Pada saat teman-teman itu lagi mau menurunkan berat badan
+10	Pada saat teman-teman itu lagi mau menurunkan berat badan
+11	Pada saat teman-teman itu lagi mau menurunkan berat badan
+12	Pada saat teman-teman itu lagi mau menurunkan berat badan
+13	Pada saat teman-teman itu lagi mau menurunkan berat badan Menjadi lebih ideal
+14	Pada saat teman-teman itu lagi mau menurunkan berat badan Menjadi lebih ideal
+15	Menjadi lebih ideal
+16	Menjadi lebih ideal
+17	Jadi kenapa berat badannya teman-teman stuck di satu titik?
+18	Jadi kenapa berat badannya teman-teman stuck di satu titik?
+19	Jadi kenapa berat badannya teman-teman stuck di satu titik?
+20	Jadi kenapa berat badannya teman-teman stuck di satu titik?
+21	Jadi kenapa berat badannya teman-teman stuck di satu titik?
+22	Jadi kenapa berat badannya teman-teman stuck di satu titik?
+23	Jadi kenapa berat badannya teman-teman stuck di satu titik? Itu sebenarnya gak stuck
+24	Jadi kenapa berat badannya teman-teman stuck di satu titik? Itu sebenarnya gak stuck
+25	Itu sebenarnya gak stuck Jadi teman-teman harus mengerti dulu kurva biologi
+26	Itu sebenarnya gak stuck Jadi teman-teman harus mengerti dulu kurva biologi
+27	Jadi teman-teman harus mengerti dulu kurva biologi
+28	Jadi teman-teman harus mengerti dulu kurva biologi
+29	Jadi teman-teman harus mengerti dulu kurva biologi
+30	Jadi teman-teman harus mengerti dulu kurva biologi
+31	Jadi teman-teman harus mengerti dulu kurva biologi
+32	Jadi teman-teman harus mengerti dulu kurva biologi Ini salah satu one of the biological curve yang teman-teman harus mengerti
+33	Jadi teman-teman harus mengerti dulu kurva biologi Ini salah satu one of the biological curve yang teman-teman harus mengerti
+34	Ini salah satu one of the biological curve yang teman-teman harus mengerti
+35	Ini salah satu one of the biological curve yang teman-teman harus mengerti
+36	Ini salah satu one of the biological curve yang teman-teman harus mengerti
+37	Ini salah satu one of the biological curve yang teman-teman harus mengerti
+38	Ini salah satu one of the biological curve yang teman-teman harus mengerti Jadi ini adalah berat badannya teman-teman
+39	Ini salah satu one of the biological curve yang teman-teman harus mengerti Jadi ini adalah berat badannya teman-teman
+40	Jadi ini adalah berat badannya teman-teman
+41	Jadi ini adalah berat badannya teman-teman
+42	Jadi ini adalah berat badannya teman-teman Ini adalah waktu
+43	Jadi ini adalah berat badannya teman-teman Ini adalah waktu
+44	Ini adalah waktu Pada saat teman-teman kelebihan berat badan yang berlebih
+45	Ini adalah waktu Pada saat teman-teman kelebihan berat badan yang berlebih
+46	Pada saat teman-teman kelebihan berat badan yang berlebih
+47	Pada saat teman-teman kelebihan berat badan yang berlebih
+48	Pada saat teman-teman kelebihan berat badan yang berlebih
+49	Pada saat teman-teman kelebihan berat badan yang berlebih
+50	Pada saat teman-teman kelebihan berat badan yang berlebih Apalagi yang ekstrim ya
+51	Pada saat teman-teman kelebihan berat badan yang berlebih Apalagi yang ekstrim ya
+52	Apalagi yang ekstrim ya
+53	Apalagi yang ekstrim ya Sampai 3 digit dan segala macem
+54	Apalagi yang ekstrim ya Sampai 3 digit dan segala macem
+55	Sampai 3 digit dan segala macem
+56	Sampai 3 digit dan segala macem
+57	Sampai 3 digit dan segala macem Pada saat teman-teman mulai mengganti pola makan dan pola hidup
+58	Sampai 3 digit dan segala macem Pada saat teman-teman mulai mengganti pola makan dan pola hidup
+59	Pada saat teman-teman mulai mengganti pola makan dan pola hidup
+60	Pada saat teman-teman mulai mengganti pola makan dan pola hidup
+61	Pada saat teman-teman mulai mengganti pola makan dan pola hidup
+62	Pada saat teman-teman mulai mengganti pola makan dan pola hidup
+63	Pada saat teman-teman mulai mengganti pola makan dan pola hidup Itu akan turunnya cepat
+64	Pada saat teman-teman mulai mengganti pola makan dan pola hidup Itu akan turunnya cepat
+65	Itu akan turunnya cepat Karena teman-teman masih jauh dari ideal
+66	Itu akan turunnya cepat Karena teman-teman masih jauh dari ideal
+67	Karena teman-teman masih jauh dari ideal
+68	Karena teman-teman masih jauh dari ideal
+69	Karena teman-teman masih jauh dari ideal
+70	Karena teman-teman masih jauh dari ideal
+71	Karena teman-teman masih jauh dari ideal Jadi berat badan turun cepat dalam waktu yang lebih singkat
+72	Karena teman-teman masih jauh dari ideal Jadi berat badan turun cepat dalam waktu yang lebih singkat
+73	Jadi berat badan turun cepat dalam waktu yang lebih singkat
+74	Jadi berat badan turun cepat dalam waktu yang lebih singkat
+75	Jadi berat badan turun cepat dalam waktu yang lebih singkat
+76	Jadi berat badan turun cepat dalam waktu yang lebih singkat
+77	Jadi berat badan turun cepat dalam waktu yang lebih singkat
+78	Jadi berat badan turun cepat dalam waktu yang lebih singkat
+79	Jadi berat badan turun cepat dalam waktu yang lebih singkat Nah makin lama makin mendekati berat badan idealnya teman-teman
+80	Jadi berat badan turun cepat dalam waktu yang lebih singkat Nah makin lama makin mendekati berat badan idealnya teman-teman
+81	Nah makin lama makin mendekati berat badan idealnya teman-teman
+82	Nah makin lama makin mendekati berat badan idealnya teman-teman
+83	Nah makin lama makin mendekati berat badan idealnya teman-teman
+84	Nah makin lama makin mendekati berat badan idealnya teman-teman
+85	Nah makin lama makin mendekati berat badan idealnya teman-teman
+86	Nah makin lama makin mendekati berat badan idealnya teman-teman Itu akan terjadi perlambatan
+87	Nah makin lama makin mendekati berat badan idealnya teman-teman Itu akan terjadi perlambatan
+88	Itu akan terjadi perlambatan
+89	Itu akan terjadi perlambatan
+90	Itu akan terjadi perlambatan
+91	Itu akan terjadi perlambatan Karena makin dekat dengan ideal
+92	Itu akan terjadi perlambatan Karena makin dekat dengan ideal
+93	Karena makin dekat dengan ideal
+94	Karena makin dekat dengan ideal
+95	Karena makin dekat dengan ideal Itu gak apa-apa
+96	Karena makin dekat dengan ideal Itu gak apa-apa
+97	Itu gak apa-apa
+98	Itu gak apa-apa Itulah biologi
+99	Itu gak apa-apa Itulah biologi
+100	Itulah biologi Jadi apa yang harus teman-teman lakukan?
+101	Itulah biologi Jadi apa yang harus teman-teman lakukan?
+102	Jadi apa yang harus teman-teman lakukan?
+103	Jadi apa yang harus teman-teman lakukan?
+104	Jadi apa yang harus teman-teman lakukan? Jangan frustasi
+105	Jangan frustasi
+106	Jangan frustasi
+107	Jangan frustasi
+108	[NO_SPEECH]
+109	Gunakanlah konsistensi
+110	Gunakanlah konsistensi
+111	Gunakanlah konsistensi
+112	Gunakanlah konsistensi Dan usahanya teman-teman
+113	Dan usahanya teman-teman
+114	Dan usahanya teman-teman
+115	Dan usahanya teman-teman Pada saat teman-teman disini
+116	Dan usahanya teman-teman Pada saat teman-teman disini
+117	Pada saat teman-teman disini Gunakan terus
+118	Pada saat teman-teman disini Gunakan terus
+119	Gunakan terus
+120	Gunakan terus Karena hasil itu akan datang
+121	Gunakan terus Karena hasil itu akan datang
+122	Karena hasil itu akan datang
+123	Karena hasil itu akan datang
+124	Karena hasil itu akan datang
+125	[NO_SPEECH]

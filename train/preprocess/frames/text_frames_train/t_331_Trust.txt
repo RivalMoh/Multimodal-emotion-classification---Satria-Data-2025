@@ -1,0 +1,150 @@
+0	Serius lengan kalian masih bergelambir?
+1	Serius lengan kalian masih bergelambir?
+2	Serius lengan kalian masih bergelambir? Yuk ilangin pake gerakan ini dari rumah aja
+3	Serius lengan kalian masih bergelambir? Yuk ilangin pake gerakan ini dari rumah aja
+4	Yuk ilangin pake gerakan ini dari rumah aja
+5	Yuk ilangin pake gerakan ini dari rumah aja
+6	Yuk ilangin pake gerakan ini dari rumah aja
+7	Yuk ilangin pake gerakan ini dari rumah aja Yang pertama kalian bisa lakuin dengan gerakan dumbbell overhead tricep extension
+8	Yuk ilangin pake gerakan ini dari rumah aja Yang pertama kalian bisa lakuin dengan gerakan dumbbell overhead tricep extension
+9	Yang pertama kalian bisa lakuin dengan gerakan dumbbell overhead tricep extension
+10	Yang pertama kalian bisa lakuin dengan gerakan dumbbell overhead tricep extension
+11	Yang pertama kalian bisa lakuin dengan gerakan dumbbell overhead tricep extension
+12	Yang pertama kalian bisa lakuin dengan gerakan dumbbell overhead tricep extension
+13	Yang pertama kalian bisa lakuin dengan gerakan dumbbell overhead tricep extension
+14	Yang pertama kalian bisa lakuin dengan gerakan dumbbell overhead tricep extension
+15	Yang pertama kalian bisa lakuin dengan gerakan dumbbell overhead tricep extension Oh iya kalo kalian gak punya dumbbell di rumah aman tenang aja
+16	Yang pertama kalian bisa lakuin dengan gerakan dumbbell overhead tricep extension Oh iya kalo kalian gak punya dumbbell di rumah aman tenang aja
+17	Oh iya kalo kalian gak punya dumbbell di rumah aman tenang aja
+18	Oh iya kalo kalian gak punya dumbbell di rumah aman tenang aja
+19	Oh iya kalo kalian gak punya dumbbell di rumah aman tenang aja
+20	Oh iya kalo kalian gak punya dumbbell di rumah aman tenang aja
+21	Oh iya kalo kalian gak punya dumbbell di rumah aman tenang aja Ada alternatif ya kalo kalian bisa pake botol minum 1 liter
+22	Oh iya kalo kalian gak punya dumbbell di rumah aman tenang aja Ada alternatif ya kalo kalian bisa pake botol minum 1 liter
+23	Ada alternatif ya kalo kalian bisa pake botol minum 1 liter
+24	Ada alternatif ya kalo kalian bisa pake botol minum 1 liter
+25	Ada alternatif ya kalo kalian bisa pake botol minum 1 liter
+26	Ada alternatif ya kalo kalian bisa pake botol minum 1 liter
+27	Ada alternatif ya kalo kalian bisa pake botol minum 1 liter
+28	Ada alternatif ya kalo kalian bisa pake botol minum 1 liter
+29	Ada alternatif ya kalo kalian bisa pake botol minum 1 liter Ingat di gerakan ini sikunya gak boleh goyang-goyang ke kiri ke kanan ataupun depan belakang ya
+30	Ada alternatif ya kalo kalian bisa pake botol minum 1 liter Ingat di gerakan ini sikunya gak boleh goyang-goyang ke kiri ke kanan ataupun depan belakang ya
+31	Ingat di gerakan ini sikunya gak boleh goyang-goyang ke kiri ke kanan ataupun depan belakang ya
+32	Ingat di gerakan ini sikunya gak boleh goyang-goyang ke kiri ke kanan ataupun depan belakang ya
+33	Ingat di gerakan ini sikunya gak boleh goyang-goyang ke kiri ke kanan ataupun depan belakang ya
+34	Ingat di gerakan ini sikunya gak boleh goyang-goyang ke kiri ke kanan ataupun depan belakang ya
+35	Ingat di gerakan ini sikunya gak boleh goyang-goyang ke kiri ke kanan ataupun depan belakang ya
+36	Ingat di gerakan ini sikunya gak boleh goyang-goyang ke kiri ke kanan ataupun depan belakang ya
+37	Ingat di gerakan ini sikunya gak boleh goyang-goyang ke kiri ke kanan ataupun depan belakang ya
+38	Ingat di gerakan ini sikunya gak boleh goyang-goyang ke kiri ke kanan ataupun depan belakang ya Next gerakan yang kedua kamu bisa lakuin dengan gerakan tricep kickback kayak gini
+39	Ingat di gerakan ini sikunya gak boleh goyang-goyang ke kiri ke kanan ataupun depan belakang ya Next gerakan yang kedua kamu bisa lakuin dengan gerakan tricep kickback kayak gini
+40	Next gerakan yang kedua kamu bisa lakuin dengan gerakan tricep kickback kayak gini
+41	Next gerakan yang kedua kamu bisa lakuin dengan gerakan tricep kickback kayak gini
+42	Next gerakan yang kedua kamu bisa lakuin dengan gerakan tricep kickback kayak gini
+43	Next gerakan yang kedua kamu bisa lakuin dengan gerakan tricep kickback kayak gini
+44	Next gerakan yang kedua kamu bisa lakuin dengan gerakan tricep kickback kayak gini
+45	Next gerakan yang kedua kamu bisa lakuin dengan gerakan tricep kickback kayak gini
+46	Next gerakan yang kedua kamu bisa lakuin dengan gerakan tricep kickback kayak gini Kalo di gerakan yang ini kalian bisa pake dumbbellnya 2 dumbbell kayak gini
+47	Next gerakan yang kedua kamu bisa lakuin dengan gerakan tricep kickback kayak gini Kalo di gerakan yang ini kalian bisa pake dumbbellnya 2 dumbbell kayak gini
+48	Kalo di gerakan yang ini kalian bisa pake dumbbellnya 2 dumbbell kayak gini
+49	Kalo di gerakan yang ini kalian bisa pake dumbbellnya 2 dumbbell kayak gini
+50	Kalo di gerakan yang ini kalian bisa pake dumbbellnya 2 dumbbell kayak gini
+51	Kalo di gerakan yang ini kalian bisa pake dumbbellnya 2 dumbbell kayak gini
+52	Kalo di gerakan yang ini kalian bisa pake dumbbellnya 2 dumbbell kayak gini
+53	Kalo di gerakan yang ini kalian bisa pake dumbbellnya 2 dumbbell kayak gini Tapi kalo gak punya dumbbell berarti pakenya 2 botol minum ya
+54	Kalo di gerakan yang ini kalian bisa pake dumbbellnya 2 dumbbell kayak gini Tapi kalo gak punya dumbbell berarti pakenya 2 botol minum ya
+55	Tapi kalo gak punya dumbbell berarti pakenya 2 botol minum ya
+56	Tapi kalo gak punya dumbbell berarti pakenya 2 botol minum ya
+57	Tapi kalo gak punya dumbbell berarti pakenya 2 botol minum ya
+58	Tapi kalo gak punya dumbbell berarti pakenya 2 botol minum ya
+59	Tapi kalo gak punya dumbbell berarti pakenya 2 botol minum ya Sama sikunya juga harus stay diem aja gak boleh goyang-goyang
+60	Tapi kalo gak punya dumbbell berarti pakenya 2 botol minum ya Sama sikunya juga harus stay diem aja gak boleh goyang-goyang
+61	Sama sikunya juga harus stay diem aja gak boleh goyang-goyang
+62	Sama sikunya juga harus stay diem aja gak boleh goyang-goyang
+63	Sama sikunya juga harus stay diem aja gak boleh goyang-goyang
+64	Sama sikunya juga harus stay diem aja gak boleh goyang-goyang
+65	Sama sikunya juga harus stay diem aja gak boleh goyang-goyang
+66	Sama sikunya juga harus stay diem aja gak boleh goyang-goyang Kalian bisa lakuin gerakan ini sebanyak 12 repetisi dikali 4 set
+67	Sama sikunya juga harus stay diem aja gak boleh goyang-goyang Kalian bisa lakuin gerakan ini sebanyak 12 repetisi dikali 4 set
+68	Kalian bisa lakuin gerakan ini sebanyak 12 repetisi dikali 4 set
+69	Kalian bisa lakuin gerakan ini sebanyak 12 repetisi dikali 4 set
+70	Kalian bisa lakuin gerakan ini sebanyak 12 repetisi dikali 4 set
+71	Kalian bisa lakuin gerakan ini sebanyak 12 repetisi dikali 4 set
+72	Kalian bisa lakuin gerakan ini sebanyak 12 repetisi dikali 4 set
+73	Kalian bisa lakuin gerakan ini sebanyak 12 repetisi dikali 4 set Next yang ketiga ada gerakan tricep dip
+74	Kalian bisa lakuin gerakan ini sebanyak 12 repetisi dikali 4 set Next yang ketiga ada gerakan tricep dip
+75	Next yang ketiga ada gerakan tricep dip
+76	Next yang ketiga ada gerakan tricep dip
+77	Next yang ketiga ada gerakan tricep dip
+78	Next yang ketiga ada gerakan tricep dip Nah kalo di gerakan ini gak perlu pake alat apapun
+79	Next yang ketiga ada gerakan tricep dip Nah kalo di gerakan ini gak perlu pake alat apapun
+80	Nah kalo di gerakan ini gak perlu pake alat apapun
+81	Nah kalo di gerakan ini gak perlu pake alat apapun
+82	Nah kalo di gerakan ini gak perlu pake alat apapun
+83	Nah kalo di gerakan ini gak perlu pake alat apapun
+84	Nah kalo di gerakan ini gak perlu pake alat apapun Cuma ini aja sih kursi doang
+85	Nah kalo di gerakan ini gak perlu pake alat apapun Cuma ini aja sih kursi doang
+86	Nah kalo di gerakan ini gak perlu pake alat apapun Cuma ini aja sih kursi doang
+87	Cuma ini aja sih kursi doang
+88	Cuma ini aja sih kursi doang Kalian tinggal ambil kursi abis itu kalian lakuin gerakannya kayak yang lagi gue lakuin gini
+89	Cuma ini aja sih kursi doang Kalian tinggal ambil kursi abis itu kalian lakuin gerakannya kayak yang lagi gue lakuin gini
+90	Kalian tinggal ambil kursi abis itu kalian lakuin gerakannya kayak yang lagi gue lakuin gini
+91	Kalian tinggal ambil kursi abis itu kalian lakuin gerakannya kayak yang lagi gue lakuin gini
+92	Kalian tinggal ambil kursi abis itu kalian lakuin gerakannya kayak yang lagi gue lakuin gini
+93	Kalian tinggal ambil kursi abis itu kalian lakuin gerakannya kayak yang lagi gue lakuin gini
+94	Kalian tinggal ambil kursi abis itu kalian lakuin gerakannya kayak yang lagi gue lakuin gini
+95	Kalian tinggal ambil kursi abis itu kalian lakuin gerakannya kayak yang lagi gue lakuin gini
+96	Kalian tinggal ambil kursi abis itu kalian lakuin gerakannya kayak yang lagi gue lakuin gini Oh iya di gerakan ini turunnya jangan terlalu bawah banget ya guys
+97	Kalian tinggal ambil kursi abis itu kalian lakuin gerakannya kayak yang lagi gue lakuin gini Oh iya di gerakan ini turunnya jangan terlalu bawah banget ya guys
+98	Oh iya di gerakan ini turunnya jangan terlalu bawah banget ya guys
+99	Oh iya di gerakan ini turunnya jangan terlalu bawah banget ya guys
+100	Oh iya di gerakan ini turunnya jangan terlalu bawah banget ya guys
+101	Oh iya di gerakan ini turunnya jangan terlalu bawah banget ya guys Dirasah-rasah aja turunnya cukup sampe siku kita itu sejajar sama bahu kita nih
+102	Oh iya di gerakan ini turunnya jangan terlalu bawah banget ya guys Dirasah-rasah aja turunnya cukup sampe siku kita itu sejajar sama bahu kita nih
+103	Dirasah-rasah aja turunnya cukup sampe siku kita itu sejajar sama bahu kita nih
+104	Dirasah-rasah aja turunnya cukup sampe siku kita itu sejajar sama bahu kita nih
+105	Dirasah-rasah aja turunnya cukup sampe siku kita itu sejajar sama bahu kita nih
+106	Dirasah-rasah aja turunnya cukup sampe siku kita itu sejajar sama bahu kita nih
+107	Dirasah-rasah aja turunnya cukup sampe siku kita itu sejajar sama bahu kita nih
+108	Dirasah-rasah aja turunnya cukup sampe siku kita itu sejajar sama bahu kita nih
+109	Dirasah-rasah aja turunnya cukup sampe siku kita itu sejajar sama bahu kita nih
+110	Dirasah-rasah aja turunnya cukup sampe siku kita itu sejajar sama bahu kita nih Kayak yang lagi gue lakuin gini
+111	Dirasah-rasah aja turunnya cukup sampe siku kita itu sejajar sama bahu kita nih Kayak yang lagi gue lakuin gini
+112	Kayak yang lagi gue lakuin gini
+113	Kayak yang lagi gue lakuin gini Dan yang terakhir ada gerakan school crusher
+114	Kayak yang lagi gue lakuin gini Dan yang terakhir ada gerakan school crusher
+115	Dan yang terakhir ada gerakan school crusher
+116	Dan yang terakhir ada gerakan school crusher
+117	Dan yang terakhir ada gerakan school crusher
+118	Dan yang terakhir ada gerakan school crusher Balik lagi ya sekarang pake alat bisa pake dumbbell ataupun botol minum kamu
+119	Dan yang terakhir ada gerakan school crusher Balik lagi ya sekarang pake alat bisa pake dumbbell ataupun botol minum kamu
+120	Balik lagi ya sekarang pake alat bisa pake dumbbell ataupun botol minum kamu
+121	Balik lagi ya sekarang pake alat bisa pake dumbbell ataupun botol minum kamu
+122	Balik lagi ya sekarang pake alat bisa pake dumbbell ataupun botol minum kamu
+123	Balik lagi ya sekarang pake alat bisa pake dumbbell ataupun botol minum kamu
+124	Balik lagi ya sekarang pake alat bisa pake dumbbell ataupun botol minum kamu
+125	Balik lagi ya sekarang pake alat bisa pake dumbbell ataupun botol minum kamu Aku ingetin lagi ya lagi-lagi kalo di gerakan tricep atau gerakan lengan itu
+126	Balik lagi ya sekarang pake alat bisa pake dumbbell ataupun botol minum kamu Aku ingetin lagi ya lagi-lagi kalo di gerakan tricep atau gerakan lengan itu
+127	Aku ingetin lagi ya lagi-lagi kalo di gerakan tricep atau gerakan lengan itu
+128	Aku ingetin lagi ya lagi-lagi kalo di gerakan tricep atau gerakan lengan itu
+129	Aku ingetin lagi ya lagi-lagi kalo di gerakan tricep atau gerakan lengan itu
+130	Aku ingetin lagi ya lagi-lagi kalo di gerakan tricep atau gerakan lengan itu
+131	Aku ingetin lagi ya lagi-lagi kalo di gerakan tricep atau gerakan lengan itu
+132	Aku ingetin lagi ya lagi-lagi kalo di gerakan tricep atau gerakan lengan itu
+133	Aku ingetin lagi ya lagi-lagi kalo di gerakan tricep atau gerakan lengan itu Siku kita gak boleh gerak goyang-goyang kiri kanan ataupun depan belakang
+134	Aku ingetin lagi ya lagi-lagi kalo di gerakan tricep atau gerakan lengan itu Siku kita gak boleh gerak goyang-goyang kiri kanan ataupun depan belakang
+135	Siku kita gak boleh gerak goyang-goyang kiri kanan ataupun depan belakang
+136	Siku kita gak boleh gerak goyang-goyang kiri kanan ataupun depan belakang
+137	Siku kita gak boleh gerak goyang-goyang kiri kanan ataupun depan belakang
+138	Siku kita gak boleh gerak goyang-goyang kiri kanan ataupun depan belakang
+139	Siku kita gak boleh gerak goyang-goyang kiri kanan ataupun depan belakang
+140	Siku kita gak boleh gerak goyang-goyang kiri kanan ataupun depan belakang
+141	Siku kita gak boleh gerak goyang-goyang kiri kanan ataupun depan belakang Jadi lakuinnya tuh kayak gini ya
+142	Siku kita gak boleh gerak goyang-goyang kiri kanan ataupun depan belakang Jadi lakuinnya tuh kayak gini ya
+143	Jadi lakuinnya tuh kayak gini ya
+144	Jadi lakuinnya tuh kayak gini ya Oke segitu dulu dan selamat mencoba
+145	Jadi lakuinnya tuh kayak gini ya Oke segitu dulu dan selamat mencoba
+146	Oke segitu dulu dan selamat mencoba
+147	Oke segitu dulu dan selamat mencoba
+148	Oke segitu dulu dan selamat mencoba
+149	Oke segitu dulu dan selamat mencoba

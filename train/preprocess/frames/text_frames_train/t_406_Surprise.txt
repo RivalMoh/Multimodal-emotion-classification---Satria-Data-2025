@@ -1,0 +1,85 @@
+0	Buat pemula gimana sih, Tuan? Teknik lainnya bener?
+1	Buat pemula gimana sih, Tuan? Teknik lainnya bener?
+2	Buat pemula gimana sih, Tuan? Teknik lainnya bener?
+3	Buat pemula gimana sih, Tuan? Teknik lainnya bener? Nah, kalau buat pemula, yang pertama itu perhatikan cara kita menapak kaki.
+4	Buat pemula gimana sih, Tuan? Teknik lainnya bener? Nah, kalau buat pemula, yang pertama itu perhatikan cara kita menapak kaki.
+5	Nah, kalau buat pemula, yang pertama itu perhatikan cara kita menapak kaki.
+6	Nah, kalau buat pemula, yang pertama itu perhatikan cara kita menapak kaki.
+7	Nah, kalau buat pemula, yang pertama itu perhatikan cara kita menapak kaki.
+8	Nah, kalau buat pemula, yang pertama itu perhatikan cara kita menapak kaki.
+9	Nah, kalau buat pemula, yang pertama itu perhatikan cara kita menapak kaki.
+10	Nah, kalau buat pemula, yang pertama itu perhatikan cara kita menapak kaki.
+11	Nah, kalau buat pemula, yang pertama itu perhatikan cara kita menapak kaki.
+12	Nah, kalau buat pemula, yang pertama itu perhatikan cara kita menapak kaki.
+13	Nah, kalau buat pemula, yang pertama itu perhatikan cara kita menapak kaki. Jadi, jari-jari kita itu harus jam 12 dan tumit kita di jam 6.
+14	Nah, kalau buat pemula, yang pertama itu perhatikan cara kita menapak kaki. Jadi, jari-jari kita itu harus jam 12 dan tumit kita di jam 6.
+15	Jadi, jari-jari kita itu harus jam 12 dan tumit kita di jam 6.
+16	Jadi, jari-jari kita itu harus jam 12 dan tumit kita di jam 6.
+17	Jadi, jari-jari kita itu harus jam 12 dan tumit kita di jam 6.
+18	Jadi, jari-jari kita itu harus jam 12 dan tumit kita di jam 6.
+19	Jadi, jari-jari kita itu harus jam 12 dan tumit kita di jam 6.
+20	Jadi, jari-jari kita itu harus jam 12 dan tumit kita di jam 6.
+21	Jadi, jari-jari kita itu harus jam 12 dan tumit kita di jam 6.
+22	Jadi, jari-jari kita itu harus jam 12 dan tumit kita di jam 6. Itu paling penting setelah itu kita melangkah perlahan ke depan setengah menjinjik atau bahasanya adalah mid foot.
+23	Jadi, jari-jari kita itu harus jam 12 dan tumit kita di jam 6. Itu paling penting setelah itu kita melangkah perlahan ke depan setengah menjinjik atau bahasanya adalah mid foot.
+24	Itu paling penting setelah itu kita melangkah perlahan ke depan setengah menjinjik atau bahasanya adalah mid foot.
+25	Itu paling penting setelah itu kita melangkah perlahan ke depan setengah menjinjik atau bahasanya adalah mid foot.
+26	Itu paling penting setelah itu kita melangkah perlahan ke depan setengah menjinjik atau bahasanya adalah mid foot.
+27	Itu paling penting setelah itu kita melangkah perlahan ke depan setengah menjinjik atau bahasanya adalah mid foot.
+28	Itu paling penting setelah itu kita melangkah perlahan ke depan setengah menjinjik atau bahasanya adalah mid foot.
+29	Itu paling penting setelah itu kita melangkah perlahan ke depan setengah menjinjik atau bahasanya adalah mid foot.
+30	Itu paling penting setelah itu kita melangkah perlahan ke depan setengah menjinjik atau bahasanya adalah mid foot.
+31	Itu paling penting setelah itu kita melangkah perlahan ke depan setengah menjinjik atau bahasanya adalah mid foot.
+32	Itu paling penting setelah itu kita melangkah perlahan ke depan setengah menjinjik atau bahasanya adalah mid foot.
+33	Itu paling penting setelah itu kita melangkah perlahan ke depan setengah menjinjik atau bahasanya adalah mid foot.
+34	Itu paling penting setelah itu kita melangkah perlahan ke depan setengah menjinjik atau bahasanya adalah mid foot.
+35	Itu paling penting setelah itu kita melangkah perlahan ke depan setengah menjinjik atau bahasanya adalah mid foot. Kita lakukan perlahan, berjalan, kita tambah kecepatan sedikit demi sedikit sampai kita mulai jogging dan berlari.
+36	Itu paling penting setelah itu kita melangkah perlahan ke depan setengah menjinjik atau bahasanya adalah mid foot. Kita lakukan perlahan, berjalan, kita tambah kecepatan sedikit demi sedikit sampai kita mulai jogging dan berlari.
+37	Kita lakukan perlahan, berjalan, kita tambah kecepatan sedikit demi sedikit sampai kita mulai jogging dan berlari.
+38	Kita lakukan perlahan, berjalan, kita tambah kecepatan sedikit demi sedikit sampai kita mulai jogging dan berlari.
+39	Kita lakukan perlahan, berjalan, kita tambah kecepatan sedikit demi sedikit sampai kita mulai jogging dan berlari.
+40	Kita lakukan perlahan, berjalan, kita tambah kecepatan sedikit demi sedikit sampai kita mulai jogging dan berlari.
+41	Kita lakukan perlahan, berjalan, kita tambah kecepatan sedikit demi sedikit sampai kita mulai jogging dan berlari.
+42	Kita lakukan perlahan, berjalan, kita tambah kecepatan sedikit demi sedikit sampai kita mulai jogging dan berlari.
+43	Kita lakukan perlahan, berjalan, kita tambah kecepatan sedikit demi sedikit sampai kita mulai jogging dan berlari.
+44	Kita lakukan perlahan, berjalan, kita tambah kecepatan sedikit demi sedikit sampai kita mulai jogging dan berlari.
+45	Kita lakukan perlahan, berjalan, kita tambah kecepatan sedikit demi sedikit sampai kita mulai jogging dan berlari.
+46	Kita lakukan perlahan, berjalan, kita tambah kecepatan sedikit demi sedikit sampai kita mulai jogging dan berlari.
+47	Kita lakukan perlahan, berjalan, kita tambah kecepatan sedikit demi sedikit sampai kita mulai jogging dan berlari.
+48	Kita lakukan perlahan, berjalan, kita tambah kecepatan sedikit demi sedikit sampai kita mulai jogging dan berlari. Dan itu harus diulang di awal berkali-kali.
+49	Kita lakukan perlahan, berjalan, kita tambah kecepatan sedikit demi sedikit sampai kita mulai jogging dan berlari. Dan itu harus diulang di awal berkali-kali.
+50	Dan itu harus diulang di awal berkali-kali.
+51	Dan itu harus diulang di awal berkali-kali.
+52	Dan itu harus diulang di awal berkali-kali.
+53	Dan itu harus diulang di awal berkali-kali.
+54	Dan itu harus diulang di awal berkali-kali.
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	[NO_SPEECH]
+59	[NO_SPEECH]
+60	[NO_SPEECH]
+61	[NO_SPEECH]
+62	[NO_SPEECH]
+63	[NO_SPEECH]
+64	[NO_SPEECH]
+65	[NO_SPEECH]
+66	[NO_SPEECH]
+67	[NO_SPEECH]
+68	[NO_SPEECH]
+69	[NO_SPEECH]
+70	[NO_SPEECH]
+71	[NO_SPEECH]
+72	[NO_SPEECH]
+73	[NO_SPEECH]
+74	[NO_SPEECH]
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	Sekarang kita coba aja.
+83	Sekarang kita coba aja.
+84	Sekarang kita coba aja.

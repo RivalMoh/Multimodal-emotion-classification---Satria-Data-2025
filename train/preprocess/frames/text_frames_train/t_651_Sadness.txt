@@ -1,0 +1,58 @@
+0	Hai, kalian mau lihat ikan gajah?
+1	Hai, kalian mau lihat ikan gajah?
+2	Hai, kalian mau lihat ikan gajah?
+3	Hai, kalian mau lihat ikan gajah? Sini-sini aku tunjukin.
+4	Hai, kalian mau lihat ikan gajah? Sini-sini aku tunjukin.
+5	Sini-sini aku tunjukin.
+6	Sini-sini aku tunjukin. Nah, ini dia ikan gajah.
+7	Sini-sini aku tunjukin. Nah, ini dia ikan gajah.
+8	Nah, ini dia ikan gajah.
+9	Nah, ini dia ikan gajah.
+10	Nah, ini dia ikan gajah. Karena dia punya belalai, makanya disebut dengan ikan gajah atau elephant nose fish.
+11	Nah, ini dia ikan gajah. Karena dia punya belalai, makanya disebut dengan ikan gajah atau elephant nose fish.
+12	Karena dia punya belalai, makanya disebut dengan ikan gajah atau elephant nose fish.
+13	Karena dia punya belalai, makanya disebut dengan ikan gajah atau elephant nose fish.
+14	Karena dia punya belalai, makanya disebut dengan ikan gajah atau elephant nose fish.
+15	Karena dia punya belalai, makanya disebut dengan ikan gajah atau elephant nose fish.
+16	Karena dia punya belalai, makanya disebut dengan ikan gajah atau elephant nose fish.
+17	Karena dia punya belalai, makanya disebut dengan ikan gajah atau elephant nose fish.
+18	Karena dia punya belalai, makanya disebut dengan ikan gajah atau elephant nose fish.
+19	Karena dia punya belalai, makanya disebut dengan ikan gajah atau elephant nose fish. Ikan ini asli dari Afrika dan dapat mengeluarkan aliran listrik.
+20	Karena dia punya belalai, makanya disebut dengan ikan gajah atau elephant nose fish. Ikan ini asli dari Afrika dan dapat mengeluarkan aliran listrik.
+21	Ikan ini asli dari Afrika dan dapat mengeluarkan aliran listrik.
+22	Ikan ini asli dari Afrika dan dapat mengeluarkan aliran listrik.
+23	Ikan ini asli dari Afrika dan dapat mengeluarkan aliran listrik.
+24	Ikan ini asli dari Afrika dan dapat mengeluarkan aliran listrik.
+25	Ikan ini asli dari Afrika dan dapat mengeluarkan aliran listrik.
+26	Ikan ini asli dari Afrika dan dapat mengeluarkan aliran listrik.
+27	Ikan ini asli dari Afrika dan dapat mengeluarkan aliran listrik. Tapi aliran listriknya nggak dipakai untuk membunuh mangsa seperti electric eel ya.
+28	Ikan ini asli dari Afrika dan dapat mengeluarkan aliran listrik. Tapi aliran listriknya nggak dipakai untuk membunuh mangsa seperti electric eel ya.
+29	Tapi aliran listriknya nggak dipakai untuk membunuh mangsa seperti electric eel ya.
+30	Tapi aliran listriknya nggak dipakai untuk membunuh mangsa seperti electric eel ya.
+31	Tapi aliran listriknya nggak dipakai untuk membunuh mangsa seperti electric eel ya.
+32	Tapi aliran listriknya nggak dipakai untuk membunuh mangsa seperti electric eel ya.
+33	Tapi aliran listriknya nggak dipakai untuk membunuh mangsa seperti electric eel ya.
+34	Tapi aliran listriknya nggak dipakai untuk membunuh mangsa seperti electric eel ya.
+35	Tapi aliran listriknya nggak dipakai untuk membunuh mangsa seperti electric eel ya.
+36	Tapi aliran listriknya nggak dipakai untuk membunuh mangsa seperti electric eel ya. Karena aliran listriknya dikeluarkan sangat lemah,
+37	Karena aliran listriknya dikeluarkan sangat lemah,
+38	Karena aliran listriknya dikeluarkan sangat lemah,
+39	Karena aliran listriknya dikeluarkan sangat lemah,
+40	Karena aliran listriknya dikeluarkan sangat lemah, sehingga hanya digunakan untuk bernavigasi, komunikasi, dan mencari mangsa.
+41	Karena aliran listriknya dikeluarkan sangat lemah, sehingga hanya digunakan untuk bernavigasi, komunikasi, dan mencari mangsa.
+42	sehingga hanya digunakan untuk bernavigasi, komunikasi, dan mencari mangsa.
+43	sehingga hanya digunakan untuk bernavigasi, komunikasi, dan mencari mangsa.
+44	sehingga hanya digunakan untuk bernavigasi, komunikasi, dan mencari mangsa.
+45	sehingga hanya digunakan untuk bernavigasi, komunikasi, dan mencari mangsa.
+46	sehingga hanya digunakan untuk bernavigasi, komunikasi, dan mencari mangsa.
+47	sehingga hanya digunakan untuk bernavigasi, komunikasi, dan mencari mangsa.
+48	sehingga hanya digunakan untuk bernavigasi, komunikasi, dan mencari mangsa. Nah, belalainya ini sebenarnya punya nama lho.
+49	sehingga hanya digunakan untuk bernavigasi, komunikasi, dan mencari mangsa. Nah, belalainya ini sebenarnya punya nama lho.
+50	Nah, belalainya ini sebenarnya punya nama lho.
+51	Nah, belalainya ini sebenarnya punya nama lho.
+52	Nah, belalainya ini sebenarnya punya nama lho. Ada yang tahu nggak namanya apa?
+53	Nah, belalainya ini sebenarnya punya nama lho. Ada yang tahu nggak namanya apa?
+54	Ada yang tahu nggak namanya apa?
+55	Ada yang tahu nggak namanya apa?
+56	Ada yang tahu nggak namanya apa? Apa?
+57	Apa?

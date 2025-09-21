@@ -1,0 +1,236 @@
+0	Halo teman-teman Human On Wheels, selamat datang di Human Garage,
+1	Halo teman-teman Human On Wheels, selamat datang di Human Garage,
+2	Halo teman-teman Human On Wheels, selamat datang di Human Garage,
+3	Halo teman-teman Human On Wheels, selamat datang di Human Garage,
+4	Halo teman-teman Human On Wheels, selamat datang di Human Garage,
+5	Halo teman-teman Human On Wheels, selamat datang di Human Garage,
+6	Halo teman-teman Human On Wheels, selamat datang di Human Garage,
+7	Halo teman-teman Human On Wheels, selamat datang di Human Garage, di kontennya Human On Wheels.
+8	di kontennya Human On Wheels.
+9	di kontennya Human On Wheels.
+10	di kontennya Human On Wheels.
+11	di kontennya Human On Wheels. Dan sekarang kita lagi ada di markasnya Omobi.
+12	di kontennya Human On Wheels. Dan sekarang kita lagi ada di markasnya Omobi.
+13	Dan sekarang kita lagi ada di markasnya Omobi.
+14	Dan sekarang kita lagi ada di markasnya Omobi.
+15	Dan sekarang kita lagi ada di markasnya Omobi.
+16	Dan sekarang kita lagi ada di markasnya Omobi.
+17	Dan sekarang kita lagi ada di markasnya Omobi.
+18	Dan sekarang kita lagi ada di markasnya Omobi.
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	Jadi di sini tuh ada mobil apa aja, Om?
+35	Jadi di sini tuh ada mobil apa aja, Om?
+36	Jadi di sini tuh ada mobil apa aja, Om?
+37	Jadi di sini tuh ada mobil apa aja, Om?
+38	Jadi di sini tuh ada mobil apa aja, Om? Ini.
+39	Jadi di sini tuh ada mobil apa aja, Om? Ini.
+40	Ini.
+41	Wow, boleh disebutin dari?
+42	Wow, boleh disebutin dari?
+43	Wow, boleh disebutin dari?
+44	Wow, boleh disebutin dari? Ini, ini, ini belum, nggak, nggak sempat.
+45	Wow, boleh disebutin dari? Ini, ini, ini belum, nggak, nggak sempat.
+46	Ini, ini, ini belum, nggak, nggak sempat.
+47	Ini, ini, ini belum, nggak, nggak sempat.
+48	Ini, ini, ini belum, nggak, nggak sempat.
+49	Ini, ini, ini belum, nggak, nggak sempat.
+50	Ini, ini, ini belum, nggak, nggak sempat.
+51	Ini, ini, ini belum, nggak, nggak sempat.
+52	Ini, ini, ini belum, nggak, nggak sempat.
+53	Ini, ini, ini belum, nggak, nggak sempat. Ini, ini sempat off-road.
+54	Ini, ini, ini belum, nggak, nggak sempat. Ini, ini sempat off-road.
+55	Ini, ini sempat off-road.
+56	Ini, ini sempat off-road. Off-road, kan sama apa, Rescue.
+57	Ini, ini sempat off-road. Off-road, kan sama apa, Rescue.
+58	Off-road, kan sama apa, Rescue.
+59	Off-road, kan sama apa, Rescue.
+60	Off-road, kan sama apa, Rescue.
+61	Off-road, kan sama apa, Rescue.
+62	Off-road, kan sama apa, Rescue.
+63	Off-road, kan sama apa, Rescue.
+64	Ya.
+65	Ya. Kan ada yang pake Winch.
+66	Kan ada yang pake Winch.
+67	Kan ada yang pake Winch.
+68	Kan ada yang pake Winch.
+69	Kan ada yang pake Winch.
+70	Pake Jimny Jaguar juga.
+71	Pake Jimny Jaguar juga.
+72	Pake Jimny Jaguar juga.
+73	Pake Jimny Jaguar juga.
+74	Pake Jimny Jaguar juga. Terus ada BMW.
+75	Terus ada BMW.
+76	Terus ada BMW.
+77	Terus ada BMW. Ini BMW 36, 36 punya anak.
+78	Ini BMW 36, 36 punya anak.
+79	Ini BMW 36, 36 punya anak.
+80	Ini BMW 36, 36 punya anak.
+81	Ini BMW 36, 36 punya anak. Ini pastinya mobil favoritnya Om, kan?
+82	Ini BMW 36, 36 punya anak. Ini pastinya mobil favoritnya Om, kan?
+83	Ini pastinya mobil favoritnya Om, kan?
+84	Ini pastinya mobil favoritnya Om, kan?
+85	Ini pastinya mobil favoritnya Om, kan? Ini James AJ, James AJ ini untuk sekoleksi.
+86	Ini pastinya mobil favoritnya Om, kan? Ini James AJ, James AJ ini untuk sekoleksi.
+87	Ini James AJ, James AJ ini untuk sekoleksi.
+88	Ini James AJ, James AJ ini untuk sekoleksi.
+89	Ini James AJ, James AJ ini untuk sekoleksi.
+90	Ini James AJ, James AJ ini untuk sekoleksi.
+91	Ini James AJ, James AJ ini untuk sekoleksi.
+92	Ini James AJ, James AJ ini untuk sekoleksi.
+93	Ini James AJ, James AJ ini untuk sekoleksi. Nah, selanjutnya ada?
+94	Ini James AJ, James AJ ini untuk sekoleksi. Nah, selanjutnya ada?
+95	Nah, selanjutnya ada?
+96	Nah, selanjutnya ada?
+97	Nah, selanjutnya ada?
+98	NCML, NCML ini dulu almadum kapalnya Omobi meninggal dalam mobil ini.
+99	NCML, NCML ini dulu almadum kapalnya Omobi meninggal dalam mobil ini.
+100	NCML, NCML ini dulu almadum kapalnya Omobi meninggal dalam mobil ini.
+101	NCML, NCML ini dulu almadum kapalnya Omobi meninggal dalam mobil ini.
+102	NCML, NCML ini dulu almadum kapalnya Omobi meninggal dalam mobil ini.
+103	NCML, NCML ini dulu almadum kapalnya Omobi meninggal dalam mobil ini.
+104	NCML, NCML ini dulu almadum kapalnya Omobi meninggal dalam mobil ini.
+105	NCML, NCML ini dulu almadum kapalnya Omobi meninggal dalam mobil ini.
+106	NCML, NCML ini dulu almadum kapalnya Omobi meninggal dalam mobil ini.
+107	NCML, NCML ini dulu almadum kapalnya Omobi meninggal dalam mobil ini.
+108	NCML, NCML ini dulu almadum kapalnya Omobi meninggal dalam mobil ini.
+109	NCML, NCML ini dulu almadum kapalnya Omobi meninggal dalam mobil ini.
+110	NCML, NCML ini dulu almadum kapalnya Omobi meninggal dalam mobil ini.
+111	NCML, NCML ini dulu almadum kapalnya Omobi meninggal dalam mobil ini.
+112	NCML, NCML ini dulu almadum kapalnya Omobi meninggal dalam mobil ini.
+113	NCML, NCML ini dulu almadum kapalnya Omobi meninggal dalam mobil ini.
+114	Selanjutnya itu ada mobil apa?
+115	Selanjutnya itu ada mobil apa?
+116	Selanjutnya itu ada mobil apa? Xenia V8.
+117	Selanjutnya itu ada mobil apa? Xenia V8.
+118	Xenia V8. Xenia V8, Xenia V8 ini dulu kan, itu mobil project ini sebenarnya.
+119	Xenia V8. Xenia V8, Xenia V8 ini dulu kan, itu mobil project ini sebenarnya.
+120	Xenia V8, Xenia V8 ini dulu kan, itu mobil project ini sebenarnya.
+121	Xenia V8, Xenia V8 ini dulu kan, itu mobil project ini sebenarnya.
+122	Xenia V8, Xenia V8 ini dulu kan, itu mobil project ini sebenarnya.
+123	Xenia V8, Xenia V8 ini dulu kan, itu mobil project ini sebenarnya.
+124	Xenia V8, Xenia V8 ini dulu kan, itu mobil project ini sebenarnya.
+125	Xenia V8, Xenia V8 ini dulu kan, itu mobil project ini sebenarnya.
+126	Xenia V8, Xenia V8 ini dulu kan, itu mobil project ini sebenarnya.
+127	[NO_SPEECH]
+128	[NO_SPEECH]
+129	[NO_SPEECH]
+130	[NO_SPEECH]
+131	Terus ada, apa lagi itu mobil? Tiguan.
+132	Terus ada, apa lagi itu mobil? Tiguan.
+133	Terus ada, apa lagi itu mobil? Tiguan.
+134	Terus ada, apa lagi itu mobil? Tiguan.
+135	Terus ada, apa lagi itu mobil? Tiguan.
+136	Terus ada, apa lagi itu mobil? Tiguan. Tiguan ini kita bawa mobil juga, tunggu lama.
+137	Terus ada, apa lagi itu mobil? Tiguan. Tiguan ini kita bawa mobil juga, tunggu lama.
+138	Tiguan ini kita bawa mobil juga, tunggu lama.
+139	Tiguan ini kita bawa mobil juga, tunggu lama.
+140	Tiguan ini kita bawa mobil juga, tunggu lama.
+141	Tiguan ini kita bawa mobil juga, tunggu lama. Ini buat diluci-luciin aja tuh, nyanyi-nyanyi auto.
+142	Ini buat diluci-luciin aja tuh, nyanyi-nyanyi auto.
+143	Ini buat diluci-luciin aja tuh, nyanyi-nyanyi auto.
+144	Ini buat diluci-luciin aja tuh, nyanyi-nyanyi auto.
+145	Ini buat diluci-luciin aja tuh, nyanyi-nyanyi auto.
+146	Ini buat diluci-luciin aja tuh, nyanyi-nyanyi auto.
+147	Ini buat diluci-luciin aja tuh, nyanyi-nyanyi auto. Gitu kan, itu mobil.
+148	Gitu kan, itu mobil.
+149	Gitu kan, itu mobil.
+150	Gitu kan, itu mobil. Tapi kita pake yang belum off-road.
+151	Tapi kita pake yang belum off-road.
+152	Tapi kita pake yang belum off-road.
+153	Tapi kita pake yang belum off-road.
+154	Tapi kita pake yang belum off-road. Ya, pake, pake di-go-fin, di-tunggu-tungguin, ongkongnya.
+155	Ya, pake, pake di-go-fin, di-tunggu-tungguin, ongkongnya.
+156	Ya, pake, pake di-go-fin, di-tunggu-tungguin, ongkongnya.
+157	Ya, pake, pake di-go-fin, di-tunggu-tungguin, ongkongnya.
+158	Ya, pake, pake di-go-fin, di-tunggu-tungguin, ongkongnya.
+159	Ya, pake, pake di-go-fin, di-tunggu-tungguin, ongkongnya.
+160	Ya, pake, pake di-go-fin, di-tunggu-tungguin, ongkongnya.
+161	Ya, pake, pake di-go-fin, di-tunggu-tungguin, ongkongnya.
+162	Ya, pake, pake di-go-fin, di-tunggu-tungguin, ongkongnya.
+163	Ya, pake, pake di-go-fin, di-tunggu-tungguin, ongkongnya.
+164	Ya, pake, pake di-go-fin, di-tunggu-tungguin, ongkongnya.
+165	[NO_SPEECH]
+166	Dan yang paling menarik adalah?
+167	Dan yang paling menarik adalah?
+168	Dan yang paling menarik adalah?
+169	Dan yang paling menarik adalah?
+170	Dan yang paling menarik adalah? Nice Cubo.
+171	Nice Cubo.
+172	Nice Cubo. Nice Cubo.
+173	Nice Cubo. Nice Cubo tuh.
+174	Nice Cubo. Nice Cubo tuh.
+175	Nice Cubo tuh.
+176	Sebenernya koleksi ya, cuma enak banget dilihat.
+177	Sebenernya koleksi ya, cuma enak banget dilihat.
+178	Sebenernya koleksi ya, cuma enak banget dilihat.
+179	Sebenernya koleksi ya, cuma enak banget dilihat.
+180	Sebenernya koleksi ya, cuma enak banget dilihat.
+181	Sebenernya koleksi ya, cuma enak banget dilihat.
+182	Sebenernya koleksi ya, cuma enak banget dilihat.
+183	Sebenernya koleksi ya, cuma enak banget dilihat.
+184	[NO_SPEECH]
+185	[NO_SPEECH]
+186	[NO_SPEECH]
+187	[NO_SPEECH]
+188	[NO_SPEECH]
+189	[NO_SPEECH]
+190	Selanjutnya?
+191	Selanjutnya? Di hari-hari, di hari-hari emang kita buku mobil kenceng ya, buat kita ngecekan pada lika.
+192	Selanjutnya? Di hari-hari, di hari-hari emang kita buku mobil kenceng ya, buat kita ngecekan pada lika.
+193	Di hari-hari, di hari-hari emang kita buku mobil kenceng ya, buat kita ngecekan pada lika.
+194	Di hari-hari, di hari-hari emang kita buku mobil kenceng ya, buat kita ngecekan pada lika.
+195	Di hari-hari, di hari-hari emang kita buku mobil kenceng ya, buat kita ngecekan pada lika.
+196	Di hari-hari, di hari-hari emang kita buku mobil kenceng ya, buat kita ngecekan pada lika.
+197	Di hari-hari, di hari-hari emang kita buku mobil kenceng ya, buat kita ngecekan pada lika.
+198	Di hari-hari, di hari-hari emang kita buku mobil kenceng ya, buat kita ngecekan pada lika.
+199	Di hari-hari, di hari-hari emang kita buku mobil kenceng ya, buat kita ngecekan pada lika.
+200	Di hari-hari, di hari-hari emang kita buku mobil kenceng ya, buat kita ngecekan pada lika.
+201	Di hari-hari, di hari-hari emang kita buku mobil kenceng ya, buat kita ngecekan pada lika.
+202	Di hari-hari, di hari-hari emang kita buku mobil kenceng ya, buat kita ngecekan pada lika.
+203	Di hari-hari, di hari-hari emang kita buku mobil kenceng ya, buat kita ngecekan pada lika.
+204	Di hari-hari, di hari-hari emang kita buku mobil kenceng ya, buat kita ngecekan pada lika.
+205	Ada speed and adrenaline juga, ada buat di weekend.
+206	Ada speed and adrenaline juga, ada buat di weekend.
+207	Ada speed and adrenaline juga, ada buat di weekend.
+208	Ada speed and adrenaline juga, ada buat di weekend.
+209	Ada speed and adrenaline juga, ada buat di weekend.
+210	Ada speed and adrenaline juga, ada buat di weekend.
+211	Ada speed and adrenaline juga, ada buat di weekend.
+212	Ada speed and adrenaline juga, ada buat di weekend. Buat tunggu di situ, ceng-cengan.
+213	Buat tunggu di situ, ceng-cengan.
+214	Buat tunggu di situ, ceng-cengan.
+215	Buat tunggu di situ, ceng-cengan.
+216	Buat tunggu di situ, ceng-cengan.
+217	Buat tunggu di situ, ceng-cengan.
+218	[NO_SPEECH]
+219	[NO_SPEECH]
+220	Ini tadinya tunjannya yang manual, cuma kita ganti yang metrik.
+221	Ini tadinya tunjannya yang manual, cuma kita ganti yang metrik.
+222	Ini tadinya tunjannya yang manual, cuma kita ganti yang metrik.
+223	Ini tadinya tunjannya yang manual, cuma kita ganti yang metrik.
+224	Ini tadinya tunjannya yang manual, cuma kita ganti yang metrik.
+225	Ini tadinya tunjannya yang manual, cuma kita ganti yang metrik.
+226	Ini tadinya tunjannya yang manual, cuma kita ganti yang metrik.
+227	Ini tadinya tunjannya yang manual, cuma kita ganti yang metrik.
+228	Ini tadinya tunjannya yang manual, cuma kita ganti yang metrik. Gara-gara biar bisa enak.
+229	Ini tadinya tunjannya yang manual, cuma kita ganti yang metrik. Gara-gara biar bisa enak.
+230	Gara-gara biar bisa enak.
+231	Gara-gara biar bisa enak.
+232	[NO_SPEECH]
+233	[NO_SPEECH]
+234	[NO_SPEECH]
+235	[NO_SPEECH]

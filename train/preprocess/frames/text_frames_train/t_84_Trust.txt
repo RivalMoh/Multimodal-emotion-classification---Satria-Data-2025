@@ -1,0 +1,113 @@
+0	Intro
+1	Intro
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	Papa, Mama, hari ini anakmu akan melangkah ke dunia baru
+7	Papa, Mama, hari ini anakmu akan melangkah ke dunia baru
+8	Papa, Mama, hari ini anakmu akan melangkah ke dunia baru
+9	Papa, Mama, hari ini anakmu akan melangkah ke dunia baru
+10	Papa, Mama, hari ini anakmu akan melangkah ke dunia baru
+11	Papa, Mama, hari ini anakmu akan melangkah ke dunia baru
+12	Papa, Mama, hari ini anakmu akan melangkah ke dunia baru
+13	Papa, Mama, hari ini anakmu akan melangkah ke dunia baru
+14	Papa, Mama, hari ini anakmu akan melangkah ke dunia baru
+15	Papa, Mama, hari ini anakmu akan melangkah ke dunia baru
+16	Papa, Mama, hari ini anakmu akan melangkah ke dunia baru Bukan untuk pergi, tapi untuk tumbuh
+17	Papa, Mama, hari ini anakmu akan melangkah ke dunia baru Bukan untuk pergi, tapi untuk tumbuh
+18	Bukan untuk pergi, tapi untuk tumbuh
+19	Bukan untuk pergi, tapi untuk tumbuh
+20	Bukan untuk pergi, tapi untuk tumbuh
+21	Bukan untuk pergi, tapi untuk tumbuh
+22	Bukan untuk pergi, tapi untuk tumbuh Bukan untuk meninggalkan, tetapi untuk meneruskan cinta yang telah kalian tanamkan padaku
+23	Bukan untuk pergi, tapi untuk tumbuh Bukan untuk meninggalkan, tetapi untuk meneruskan cinta yang telah kalian tanamkan padaku
+24	Bukan untuk pergi, tapi untuk tumbuh Bukan untuk meninggalkan, tetapi untuk meneruskan cinta yang telah kalian tanamkan padaku
+25	Bukan untuk meninggalkan, tetapi untuk meneruskan cinta yang telah kalian tanamkan padaku
+26	Bukan untuk meninggalkan, tetapi untuk meneruskan cinta yang telah kalian tanamkan padaku
+27	Bukan untuk meninggalkan, tetapi untuk meneruskan cinta yang telah kalian tanamkan padaku
+28	Bukan untuk meninggalkan, tetapi untuk meneruskan cinta yang telah kalian tanamkan padaku
+29	Bukan untuk meninggalkan, tetapi untuk meneruskan cinta yang telah kalian tanamkan padaku
+30	Bukan untuk meninggalkan, tetapi untuk meneruskan cinta yang telah kalian tanamkan padaku
+31	Bukan untuk meninggalkan, tetapi untuk meneruskan cinta yang telah kalian tanamkan padaku
+32	Bukan untuk meninggalkan, tetapi untuk meneruskan cinta yang telah kalian tanamkan padaku
+33	Bukan untuk meninggalkan, tetapi untuk meneruskan cinta yang telah kalian tanamkan padaku Intro
+34	Bukan untuk meninggalkan, tetapi untuk meneruskan cinta yang telah kalian tanamkan padaku Intro
+35	Intro
+36	Intro
+37	Intro
+38	Intro
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	Ya Tuhan, jagalah anak kami selalu dalam lindungan dan kasih sayangmu
+46	Ya Tuhan, jagalah anak kami selalu dalam lindungan dan kasih sayangmu
+47	Ya Tuhan, jagalah anak kami selalu dalam lindungan dan kasih sayangmu
+48	Ya Tuhan, jagalah anak kami selalu dalam lindungan dan kasih sayangmu
+49	Ya Tuhan, jagalah anak kami selalu dalam lindungan dan kasih sayangmu
+50	Ya Tuhan, jagalah anak kami selalu dalam lindungan dan kasih sayangmu
+51	Ya Tuhan, jagalah anak kami selalu dalam lindungan dan kasih sayangmu
+52	Ya Tuhan, jagalah anak kami selalu dalam lindungan dan kasih sayangmu
+53	Ya Tuhan, jagalah anak kami selalu dalam lindungan dan kasih sayangmu
+54	Ya Tuhan, jagalah anak kami selalu dalam lindungan dan kasih sayangmu
+55	Ya Tuhan, jagalah anak kami selalu dalam lindungan dan kasih sayangmu Tuntunlah hatinya untuk senantiasa lembut, rendah hati, dan setia dalam menciptai bersama-Mu
+56	Ya Tuhan, jagalah anak kami selalu dalam lindungan dan kasih sayangmu Tuntunlah hatinya untuk senantiasa lembut, rendah hati, dan setia dalam menciptai bersama-Mu
+57	Tuntunlah hatinya untuk senantiasa lembut, rendah hati, dan setia dalam menciptai bersama-Mu
+58	Tuntunlah hatinya untuk senantiasa lembut, rendah hati, dan setia dalam menciptai bersama-Mu
+59	Tuntunlah hatinya untuk senantiasa lembut, rendah hati, dan setia dalam menciptai bersama-Mu
+60	Tuntunlah hatinya untuk senantiasa lembut, rendah hati, dan setia dalam menciptai bersama-Mu
+61	Tuntunlah hatinya untuk senantiasa lembut, rendah hati, dan setia dalam menciptai bersama-Mu
+62	Tuntunlah hatinya untuk senantiasa lembut, rendah hati, dan setia dalam menciptai bersama-Mu
+63	Tuntunlah hatinya untuk senantiasa lembut, rendah hati, dan setia dalam menciptai bersama-Mu
+64	Tuntunlah hatinya untuk senantiasa lembut, rendah hati, dan setia dalam menciptai bersama-Mu
+65	Tuntunlah hatinya untuk senantiasa lembut, rendah hati, dan setia dalam menciptai bersama-Mu
+66	Tuntunlah hatinya untuk senantiasa lembut, rendah hati, dan setia dalam menciptai bersama-Mu
+67	Tuntunlah hatinya untuk senantiasa lembut, rendah hati, dan setia dalam menciptai bersama-Mu
+68	Tuntunlah hatinya untuk senantiasa lembut, rendah hati, dan setia dalam menciptai bersama-Mu Intro
+69	Tuntunlah hatinya untuk senantiasa lembut, rendah hati, dan setia dalam menciptai bersama-Mu Intro
+70	Intro
+71	Intro
+72	Intro
+73	Intro
+74	[NO_SPEECH]
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	Intro
+80	Intro
+81	Intro Intro
+82	Intro Intro
+83	Intro
+84	Intro
+85	Intro
+86	[NO_SPEECH]
+87	Intro
+88	Intro
+89	Intro
+90	Intro Intro
+91	Intro Intro
+92	Intro Intro
+93	Intro Intro
+94	    
+95	    
+96	[NO_SPEECH]
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	[NO_SPEECH]
+104	[NO_SPEECH]
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	[NO_SPEECH]
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	[NO_SPEECH]

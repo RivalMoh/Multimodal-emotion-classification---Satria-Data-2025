@@ -1,0 +1,60 @@
+0	Glory, glory.
+1	Glory, glory.
+2	Oke.
+3	Oke.
+4	Oke.
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	Kelar.
+8	Kelar.
+9	Kelar.
+10	Tes parameter 5 kilo maksimal effort hari ini.
+11	Tes parameter 5 kilo maksimal effort hari ini.
+12	Tes parameter 5 kilo maksimal effort hari ini.
+13	Tes parameter 5 kilo maksimal effort hari ini.
+14	Tes parameter 5 kilo maksimal effort hari ini.
+15	Tes parameter 5 kilo maksimal effort hari ini.
+16	Tes parameter 5 kilo maksimal effort hari ini. Kita cek fit.
+17	Kita cek fit.
+18	Kita cek fit.
+19	Kita cek fit. Jersey gue.
+20	Jersey gue.
+21	Jersey gue. Uniqlo Dry X.
+22	Uniqlo Dry X.
+23	Uniqlo Dry X.
+24	Uniqlo Dry X. Selana Uniqlo Ultra Stretch.
+25	Selana Uniqlo Ultra Stretch.
+26	Selana Uniqlo Ultra Stretch.
+27	Selana Uniqlo Ultra Stretch.
+28	Selana Uniqlo Ultra Stretch.
+29	Selana Uniqlo Ultra Stretch.
+30	Sepatu.
+31	Sepatu.
+32	Sepatu.
+33	Deviant Nitro Elite 3.
+34	Deviant Nitro Elite 3.
+35	Deviant Nitro Elite 3.
+36	Deviant Nitro Elite 3. Buma.
+37	Deviant Nitro Elite 3. Buma. Jump.
+38	Buma. Jump.
+39	Jump. Dari Suntores.
+40	Jump. Dari Suntores.
+41	Dari Suntores.
+42	Dari Suntores. Already done.
+43	Already done.
+44	Already done. Apa itu males?
+45	Already done. Apa itu males?
+46	Apa itu males? Apa itu bete?
+47	Apa itu males? Apa itu bete?
+48	Apa itu bete? Semua sarapan gue.
+49	Semua sarapan gue.
+50	Semua sarapan gue.
+51	Semua sarapan gue. Gue abisin semua hari ini.
+52	Gue abisin semua hari ini.
+53	Gue abisin semua hari ini.
+54	Gue abisin semua hari ini.
+55	Gue abisin semua hari ini.
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	[NO_SPEECH]
+59	[NO_SPEECH]

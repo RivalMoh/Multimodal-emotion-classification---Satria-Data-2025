@@ -1,0 +1,244 @@
+0	Dapet berapa emas kemarin mbak?
+1	Dapet berapa emas kemarin mbak?
+2	Dapet berapa emas kemarin mbak? Halo saya pribadi dapet 2 emas.
+3	Dapet berapa emas kemarin mbak? Halo saya pribadi dapet 2 emas.
+4	Halo saya pribadi dapet 2 emas.
+5	Halo saya pribadi dapet 2 emas.
+6	Halo saya pribadi dapet 2 emas. 2 emas ya?
+7	Halo saya pribadi dapet 2 emas. 2 emas ya?
+8	2 emas ya?
+9	2 emas ya?
+10	Dapet bonus dong?
+11	Dapet bonus dong?
+12	Dapet bonus dong? Alhamdulillah dapet.
+13	Dapet bonus dong? Alhamdulillah dapet.
+14	Alhamdulillah dapet.
+15	Alhamdulillah dapet. Duitnya dikemanain mbak?
+16	Alhamdulillah dapet. Duitnya dikemanain mbak?
+17	Duitnya dikemanain mbak?
+18	Duitnya dikemanain mbak?
+19	[NO_SPEECH]
+20	Uangnya dipake untuk investasi.
+21	Uangnya dipake untuk investasi.
+22	Uangnya dipake untuk investasi.
+23	Uangnya dipake untuk investasi.
+24	Uangnya dipake untuk investasi.
+25	Uangnya dipake untuk investasi. Selain investasi juga umroh.
+26	Selain investasi juga umroh.
+27	Selain investasi juga umroh.
+28	Selain investasi juga umroh.
+29	Selain investasi juga umroh.
+30	Selain investasi juga umroh.
+31	Selain investasi juga umroh. Oh alhamdulillah.
+32	Selain investasi juga umroh. Oh alhamdulillah.
+33	Oh alhamdulillah.
+34	Oh alhamdulillah. Waktu itu kan saya orangnya
+35	Oh alhamdulillah. Waktu itu kan saya orangnya
+36	Waktu itu kan saya orangnya
+37	Waktu itu kan saya orangnya
+38	Waktu itu kan saya orangnya disiplin keras gitu kan.
+39	Waktu itu kan saya orangnya disiplin keras gitu kan.
+40	disiplin keras gitu kan.
+41	disiplin keras gitu kan.
+42	disiplin keras gitu kan.
+43	disiplin keras gitu kan. Lah kok gak
+44	Lah kok gak
+45	Lah kok gak gak gak gak apa namanya
+46	Lah kok gak gak gak gak apa namanya
+47	gak gak gak apa namanya
+48	gak gak gak apa namanya
+49	gak gak gak apa namanya
+50	gak gak gak apa namanya terlalu
+51	gak gak gak apa namanya terlalu
+52	terlalu
+53	terlalu gelomai banget gitu.
+54	terlalu gelomai banget gitu.
+55	gelomai banget gitu.
+56	gelomai banget gitu. Kan anda pemain itu gelomai kan.
+57	gelomai banget gitu. Kan anda pemain itu gelomai kan.
+58	Kan anda pemain itu gelomai kan.
+59	Kan anda pemain itu gelomai kan.
+60	Kan anda pemain itu gelomai kan.
+61	Kan anda pemain itu gelomai kan. Artinya kayak anak mami.
+62	Artinya kayak anak mami.
+63	Artinya kayak anak mami.
+64	Artinya kayak anak mami. Saya harus ubah caranya.
+65	Saya harus ubah caranya.
+66	Saya harus ubah caranya.
+67	Saya harus ubah caranya.
+68	Saya harus ubah caranya. Kan gitu ya itu keras, disiplin.
+69	Saya harus ubah caranya. Kan gitu ya itu keras, disiplin.
+70	Kan gitu ya itu keras, disiplin.
+71	Kan gitu ya itu keras, disiplin.
+72	Kan gitu ya itu keras, disiplin.
+73	Kan gitu ya itu keras, disiplin. Nah saya juga beberapa kali
+74	Nah saya juga beberapa kali
+75	Nah saya juga beberapa kali
+76	Nah saya juga beberapa kali dengan para atlet dan pelat itu
+77	Nah saya juga beberapa kali dengan para atlet dan pelat itu
+78	dengan para atlet dan pelat itu
+79	dengan para atlet dan pelat itu sempat marah-marah Yarin ya
+80	dengan para atlet dan pelat itu sempat marah-marah Yarin ya
+81	sempat marah-marah Yarin ya
+82	sempat marah-marah Yarin ya
+83	sempat marah-marah Yarin ya untuk menyemangati ya.
+84	sempat marah-marah Yarin ya untuk menyemangati ya.
+85	untuk menyemangati ya.
+86	untuk menyemangati ya. Di lapangan tuh bang?
+87	untuk menyemangati ya. Di lapangan tuh bang?
+88	Di lapangan tuh bang?
+89	Di lapangan tuh bang? Iya di lapangan.
+90	Di lapangan tuh bang? Iya di lapangan.
+91	Iya di lapangan.
+92	Untuk menyemangati gitu kan.
+93	Untuk menyemangati gitu kan.
+94	Untuk menyemangati gitu kan.
+95	Untuk menyemangati gitu kan.
+96	Untuk menyemangati gitu kan.
+97	Untuk menyemangati gitu kan. Dengan sosoknya bang bangkit lah.
+98	Dengan sosoknya bang bangkit lah.
+99	Dengan sosoknya bang bangkit lah.
+100	Dengan sosoknya bang bangkit lah.
+101	Dengan sosoknya bang bangkit lah.
+102	Dengan sosoknya bang bangkit lah. Oke.
+103	Oke.
+104	Oke.
+105	[NO_SPEECH]
+106	Sebagai ketua umum PT MSI DKI Jakarta.
+107	Sebagai ketua umum PT MSI DKI Jakarta.
+108	Sebagai ketua umum PT MSI DKI Jakarta.
+109	Sebagai ketua umum PT MSI DKI Jakarta.
+110	Sebagai ketua umum PT MSI DKI Jakarta.
+111	Sebagai ketua umum PT MSI DKI Jakarta. Karena waktu dipon kemarin dia disebutnya
+112	Sebagai ketua umum PT MSI DKI Jakarta. Karena waktu dipon kemarin dia disebutnya
+113	Karena waktu dipon kemarin dia disebutnya
+114	Karena waktu dipon kemarin dia disebutnya
+115	Karena waktu dipon kemarin dia disebutnya Presiden Tenis Meja.
+116	Karena waktu dipon kemarin dia disebutnya Presiden Tenis Meja.
+117	Presiden Tenis Meja.
+118	Presiden Tenis Meja.
+119	Bukan ketua PT MSI.
+120	Bukan ketua PT MSI.
+121	Bukan ketua PT MSI.
+122	Bukan ketua PT MSI. Iya kan?
+123	Bukan ketua PT MSI. Iya kan?
+124	Iya kan?
+125	Iya kan?
+126	[NO_SPEECH]
+127	Cuma satu loh di dunia Presiden Tenis Meja.
+128	Cuma satu loh di dunia Presiden Tenis Meja.
+129	Cuma satu loh di dunia Presiden Tenis Meja.
+130	Cuma satu loh di dunia Presiden Tenis Meja.
+131	Cuma satu loh di dunia Presiden Tenis Meja.
+132	Cuma satu loh di dunia Presiden Tenis Meja.
+133	Mira denger gak tuh mbak?
+134	Mira denger gak tuh mbak?
+135	Mira denger gak tuh mbak?
+136	Mira denger gak tuh mbak? Mira denger gak waktu dia trek-trek
+137	Mira denger gak tuh mbak? Mira denger gak waktu dia trek-trek
+138	Mira denger gak waktu dia trek-trek di pinggir lapangan tuh?
+139	Mira denger gak waktu dia trek-trek di pinggir lapangan tuh?
+140	di pinggir lapangan tuh?
+141	di pinggir lapangan tuh?
+142	di pinggir lapangan tuh? Jujur gak?
+143	di pinggir lapangan tuh? Jujur gak?
+144	Jujur gak? Gak ya? Konsentrasi disitu aja ya.
+145	Gak ya? Konsentrasi disitu aja ya.
+146	Gak ya? Konsentrasi disitu aja ya.
+147	Gak ya? Konsentrasi disitu aja ya.
+148	Gak ya? Konsentrasi disitu aja ya.
+149	Gak ya? Konsentrasi disitu aja ya. Padahal trek-trek tuh mbak.
+150	Padahal trek-trek tuh mbak.
+151	Padahal trek-trek tuh mbak.
+152	Padahal trek-trek tuh mbak.
+153	Nunjuk-nunjuk deh kan.
+154	Nunjuk-nunjuk deh kan.
+155	Nunjuk-nunjuk deh kan.
+156	Nunjuk-nunjuk deh kan.
+157	Akhirnya saya bawa tuh dia ke masjid.
+158	Akhirnya saya bawa tuh dia ke masjid.
+159	Akhirnya saya bawa tuh dia ke masjid.
+160	Akhirnya saya bawa tuh dia ke masjid.
+161	Akhirnya saya bawa tuh dia ke masjid. Ayo bang sholat dulu bang.
+162	Ayo bang sholat dulu bang.
+163	Ayo bang sholat dulu bang.
+164	Ayo bang sholat dulu bang.
+165	Ayo bang sholat dulu bang.
+166	[NO_SPEECH]
+167	Sampai topinya lupa tetep di belakang.
+168	Sampai topinya lupa tetep di belakang.
+169	Sampai topinya lupa tetep di belakang.
+170	Sampai topinya lupa tetep di belakang.
+171	Sampai topinya lupa tetep di belakang. Saya gak tau apa emang
+172	Sampai topinya lupa tetep di belakang. Saya gak tau apa emang
+173	Saya gak tau apa emang
+174	Saya gak tau apa emang mazhabnya begitu atau memang stress ya.
+175	Saya gak tau apa emang mazhabnya begitu atau memang stress ya.
+176	mazhabnya begitu atau memang stress ya.
+177	mazhabnya begitu atau memang stress ya.
+178	mazhabnya begitu atau memang stress ya.
+179	mazhabnya begitu atau memang stress ya.
+180	mazhabnya begitu atau memang stress ya. Bingung gitu ngeliat takut gak juara umum kan.
+181	Bingung gitu ngeliat takut gak juara umum kan.
+182	Bingung gitu ngeliat takut gak juara umum kan.
+183	Bingung gitu ngeliat takut gak juara umum kan.
+184	Bingung gitu ngeliat takut gak juara umum kan. Karena bebannya kan juara umum.
+185	Bingung gitu ngeliat takut gak juara umum kan. Karena bebannya kan juara umum.
+186	Karena bebannya kan juara umum.
+187	Karena bebannya kan juara umum.
+188	Karena bebannya kan juara umum. Tadi saya bilang tadi dengan keluarga.
+189	Karena bebannya kan juara umum. Tadi saya bilang tadi dengan keluarga.
+190	Tadi saya bilang tadi dengan keluarga.
+191	Tadi saya bilang tadi dengan keluarga.
+192	Tadi saya bilang tadi dengan keluarga. Sesuatu itu kita harus bertanggung jawab.
+193	Tadi saya bilang tadi dengan keluarga. Sesuatu itu kita harus bertanggung jawab.
+194	Sesuatu itu kita harus bertanggung jawab.
+195	Sesuatu itu kita harus bertanggung jawab.
+196	Sesuatu itu kita harus bertanggung jawab.
+197	Pengorban waktu apa lagi.
+198	Pengorban waktu apa lagi.
+199	Pengorban waktu apa lagi.
+200	Pengorban waktu apa lagi.
+201	Pengorban waktu apa lagi. Yang bertanggung jawab itu.
+202	Yang bertanggung jawab itu.
+203	Yang bertanggung jawab itu.
+204	Yang bertanggung jawab itu. Karena bicara bertanggung jawab itu adalah
+205	Yang bertanggung jawab itu. Karena bicara bertanggung jawab itu adalah
+206	Karena bicara bertanggung jawab itu adalah
+207	Karena bicara bertanggung jawab itu adalah
+208	Karena bicara bertanggung jawab itu adalah bagian daripada kata ibadah.
+209	Karena bicara bertanggung jawab itu adalah bagian daripada kata ibadah.
+210	bagian daripada kata ibadah.
+211	bagian daripada kata ibadah.
+212	bagian daripada kata ibadah. Iya.
+213	bagian daripada kata ibadah. Iya.
+214	Iya.
+215	[NO_SPEECH]
+216	Komitmen.
+217	Komitmen. Seperti itu.
+218	Komitmen. Seperti itu.
+219	Seperti itu. Jadi kita lakunya seperti itu aja.
+220	Seperti itu. Jadi kita lakunya seperti itu aja.
+221	Jadi kita lakunya seperti itu aja.
+222	Jadi kita lakunya seperti itu aja.
+223	Jadi kita lakunya seperti itu aja.
+224	[NO_SPEECH]
+225	[NO_SPEECH]
+226	[NO_SPEECH]
+227	[NO_SPEECH]
+228	[NO_SPEECH]
+229	[NO_SPEECH]
+230	[NO_SPEECH]
+231	[NO_SPEECH]
+232	[NO_SPEECH]
+233	[NO_SPEECH]
+234	Terima kasih sudah menonton.
+235	Terima kasih sudah menonton.
+236	Terima kasih sudah menonton.
+237	Terima kasih sudah menonton. Terima kasih sudah menonton.
+238	Terima kasih sudah menonton. Terima kasih sudah menonton.
+239	Terima kasih sudah menonton.
+240	Terima kasih sudah menonton.
+241	Terima kasih sudah menonton.
+242	Terima kasih sudah menonton.
+243	Terima kasih sudah menonton.

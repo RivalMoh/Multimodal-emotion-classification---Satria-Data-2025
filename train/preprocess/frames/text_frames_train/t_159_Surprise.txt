@@ -1,0 +1,134 @@
+0	Kelasnya udah first class
+1	Kelasnya udah first class
+2	Kelasnya udah first class Kalau mobilnya gede tapi muatnya cuma sedikit
+3	Kelasnya udah first class Kalau mobilnya gede tapi muatnya cuma sedikit
+4	Kalau mobilnya gede tapi muatnya cuma sedikit
+5	Kalau mobilnya gede tapi muatnya cuma sedikit
+6	Kalau mobilnya gede tapi muatnya cuma sedikit
+7	Kalau mobilnya gede tapi muatnya cuma sedikit Dan ini harganya 3 miliaran aja cing
+8	Kalau mobilnya gede tapi muatnya cuma sedikit Dan ini harganya 3 miliaran aja cing
+9	Dan ini harganya 3 miliaran aja cing
+10	Dan ini harganya 3 miliaran aja cing
+11	Dan ini harganya 3 miliaran aja cing Adalah Lexus LM500 H4 Seater
+12	Dan ini harganya 3 miliaran aja cing Adalah Lexus LM500 H4 Seater
+13	Adalah Lexus LM500 H4 Seater
+14	Adalah Lexus LM500 H4 Seater
+15	Adalah Lexus LM500 H4 Seater
+16	Adalah Lexus LM500 H4 Seater Sebagai luxury mover Lexus
+17	Adalah Lexus LM500 H4 Seater Sebagai luxury mover Lexus
+18	Sebagai luxury mover Lexus
+19	Sebagai luxury mover Lexus Flagshipnya flagship nih
+20	Sebagai luxury mover Lexus Flagshipnya flagship nih
+21	Flagshipnya flagship nih
+22	Flagshipnya flagship nih Dengan mesin hybrid lebih powerful
+23	Flagshipnya flagship nih Dengan mesin hybrid lebih powerful
+24	Dengan mesin hybrid lebih powerful
+25	Dengan mesin hybrid lebih powerful Namun ramah lingkungan dan berbekal sistem penggerak 4 roda direct 4
+26	Dengan mesin hybrid lebih powerful Namun ramah lingkungan dan berbekal sistem penggerak 4 roda direct 4
+27	Namun ramah lingkungan dan berbekal sistem penggerak 4 roda direct 4
+28	Namun ramah lingkungan dan berbekal sistem penggerak 4 roda direct 4
+29	Namun ramah lingkungan dan berbekal sistem penggerak 4 roda direct 4
+30	Namun ramah lingkungan dan berbekal sistem penggerak 4 roda direct 4
+31	Namun ramah lingkungan dan berbekal sistem penggerak 4 roda direct 4
+32	Namun ramah lingkungan dan berbekal sistem penggerak 4 roda direct 4 Naik Lexus LM500 HG ini udah gak perlu khawatir soal legroom
+33	Namun ramah lingkungan dan berbekal sistem penggerak 4 roda direct 4 Naik Lexus LM500 HG ini udah gak perlu khawatir soal legroom
+34	Naik Lexus LM500 HG ini udah gak perlu khawatir soal legroom
+35	Naik Lexus LM500 HG ini udah gak perlu khawatir soal legroom
+36	Naik Lexus LM500 HG ini udah gak perlu khawatir soal legroom
+37	Naik Lexus LM500 HG ini udah gak perlu khawatir soal legroom
+38	Naik Lexus LM500 HG ini udah gak perlu khawatir soal legroom Panjang 5 meter isinya cuma berempat
+39	Naik Lexus LM500 HG ini udah gak perlu khawatir soal legroom Panjang 5 meter isinya cuma berempat
+40	Panjang 5 meter isinya cuma berempat
+41	Panjang 5 meter isinya cuma berempat
+42	Panjang 5 meter isinya cuma berempat Dan isinya memang bener-bener mewah
+43	Panjang 5 meter isinya cuma berempat Dan isinya memang bener-bener mewah
+44	Dan isinya memang bener-bener mewah
+45	Dan isinya memang bener-bener mewah
+46	Dan isinya memang bener-bener mewah Kayak disini nih
+47	Dan isinya memang bener-bener mewah Kayak disini nih
+48	Kayak disini nih
+49	Kayak disini nih Ada ruang sepatu buat nyimpen-nyimpen sepatu
+50	Kayak disini nih Ada ruang sepatu buat nyimpen-nyimpen sepatu
+51	Ada ruang sepatu buat nyimpen-nyimpen sepatu
+52	Ada ruang sepatu buat nyimpen-nyimpen sepatu
+53	Ada ruang sepatu buat nyimpen-nyimpen sepatu
+54	Ada ruang sepatu buat nyimpen-nyimpen sepatu Dan kalian bisa pake sendal hotel
+55	Ada ruang sepatu buat nyimpen-nyimpen sepatu Dan kalian bisa pake sendal hotel
+56	Dan kalian bisa pake sendal hotel
+57	Dan kalian bisa pake sendal hotel
+58	Dan kalian bisa pake sendal hotel Udah gitu disini
+59	Dan kalian bisa pake sendal hotel Udah gitu disini
+60	Udah gitu disini Ada chiller buat nyimpen minuman-minuman
+61	Udah gitu disini Ada chiller buat nyimpen minuman-minuman
+62	Ada chiller buat nyimpen minuman-minuman
+63	Ada chiller buat nyimpen minuman-minuman
+64	Ada chiller buat nyimpen minuman-minuman
+65	Dan buat ketak-ketik si bak sibuk
+66	Dan buat ketak-ketik si bak sibuk
+67	Dan buat ketak-ketik si bak sibuk
+68	Dan buat ketak-ketik si bak sibuk
+69	Dan buat ketak-ketik si bak sibuk
+70	Dan buat ketak-ketik si bak sibuk Ada mejanya
+71	Dan buat ketak-ketik si bak sibuk Ada mejanya
+72	Ada mejanya Terus di depan ada screen infotainment yang besar
+73	Ada mejanya Terus di depan ada screen infotainment yang besar
+74	Terus di depan ada screen infotainment yang besar
+75	Terus di depan ada screen infotainment yang besar
+76	Terus di depan ada screen infotainment yang besar
+77	Terus di depan ada screen infotainment yang besar Dan bisa kita project lewat kabel HDMI
+78	Terus di depan ada screen infotainment yang besar Dan bisa kita project lewat kabel HDMI
+79	Dan bisa kita project lewat kabel HDMI
+80	Dan bisa kita project lewat kabel HDMI
+81	Dan bisa kita project lewat kabel HDMI
+82	Dan bisa kita project lewat kabel HDMI Di bagian konsol tengah ini
+83	Dan bisa kita project lewat kabel HDMI Di bagian konsol tengah ini
+84	Di bagian konsol tengah ini
+85	Di bagian konsol tengah ini Gimana? Gile ya
+86	Di bagian konsol tengah ini Gimana? Gile ya
+87	Gimana? Gile ya Dengan divider pun menguatkan kesan eksklusifnya
+88	Gimana? Gile ya Dengan divider pun menguatkan kesan eksklusifnya
+89	Dengan divider pun menguatkan kesan eksklusifnya
+90	Dengan divider pun menguatkan kesan eksklusifnya
+91	Dengan divider pun menguatkan kesan eksklusifnya
+92	Dengan divider pun menguatkan kesan eksklusifnya Dan ya joknya bisa diatur serileks mungkin
+93	Dengan divider pun menguatkan kesan eksklusifnya Dan ya joknya bisa diatur serileks mungkin
+94	Dan ya joknya bisa diatur serileks mungkin
+95	Dan ya joknya bisa diatur serileks mungkin
+96	Dan ya joknya bisa diatur serileks mungkin Rasa lazy chair lengkap ottoman buat kaki
+97	Dan ya joknya bisa diatur serileks mungkin Rasa lazy chair lengkap ottoman buat kaki
+98	Rasa lazy chair lengkap ottoman buat kaki
+99	Rasa lazy chair lengkap ottoman buat kaki
+100	Rasa lazy chair lengkap ottoman buat kaki Berasa first class di kabin yang arahnya cenderung konservatif
+101	Rasa lazy chair lengkap ottoman buat kaki Berasa first class di kabin yang arahnya cenderung konservatif
+102	Berasa first class di kabin yang arahnya cenderung konservatif
+103	Berasa first class di kabin yang arahnya cenderung konservatif
+104	Berasa first class di kabin yang arahnya cenderung konservatif
+105	Berasa first class di kabin yang arahnya cenderung konservatif
+106	Berasa first class di kabin yang arahnya cenderung konservatif Kalem tapi aura tajirnya kena
+107	Berasa first class di kabin yang arahnya cenderung konservatif Kalem tapi aura tajirnya kena
+108	Kalem tapi aura tajirnya kena
+109	Kalem tapi aura tajirnya kena
+110	Kalem tapi aura tajirnya kena Tapi satu hal yang bikin penasaran
+111	Kalem tapi aura tajirnya kena Tapi satu hal yang bikin penasaran
+112	Tapi satu hal yang bikin penasaran
+113	Tapi satu hal yang bikin penasaran
+114	Tapi satu hal yang bikin penasaran Posisi duduk ini kan persis di atas
+115	Tapi satu hal yang bikin penasaran Posisi duduk ini kan persis di atas
+116	Posisi duduk ini kan persis di atas
+117	Posisi duduk ini kan persis di atas
+118	Posisi duduk ini kan persis di atas Poros roda dan kalo naik travel ini
+119	Posisi duduk ini kan persis di atas Poros roda dan kalo naik travel ini
+120	Poros roda dan kalo naik travel ini
+121	Poros roda dan kalo naik travel ini Posisi yang paling ga enak
+122	Poros roda dan kalo naik travel ini Posisi yang paling ga enak
+123	Posisi yang paling ga enak
+124	Posisi yang paling ga enak Tapi kalo naik Lexus LM kayaknya enak-enak aja ya
+125	Posisi yang paling ga enak Tapi kalo naik Lexus LM kayaknya enak-enak aja ya
+126	Tapi kalo naik Lexus LM kayaknya enak-enak aja ya
+127	Tapi kalo naik Lexus LM kayaknya enak-enak aja ya
+128	Tapi kalo naik Lexus LM kayaknya enak-enak aja ya
+129	Tapi kalo naik Lexus LM kayaknya enak-enak aja ya Ada yang pernah nyoba ga sih?
+130	Tapi kalo naik Lexus LM kayaknya enak-enak aja ya Ada yang pernah nyoba ga sih?
+131	Ada yang pernah nyoba ga sih?
+132	Ada yang pernah nyoba ga sih?
+133	[NO_SPEECH]

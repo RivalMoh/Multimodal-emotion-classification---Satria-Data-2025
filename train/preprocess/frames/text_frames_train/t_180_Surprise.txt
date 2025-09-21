@@ -1,0 +1,195 @@
+0	SUV listrik ini punya torsi 765 Nm dan bisa melaju lebih dari 560 km.
+1	SUV listrik ini punya torsi 765 Nm dan bisa melaju lebih dari 560 km.
+2	SUV listrik ini punya torsi 765 Nm dan bisa melaju lebih dari 560 km.
+3	SUV listrik ini punya torsi 765 Nm dan bisa melaju lebih dari 560 km.
+4	SUV listrik ini punya torsi 765 Nm dan bisa melaju lebih dari 560 km.
+5	SUV listrik ini punya torsi 765 Nm dan bisa melaju lebih dari 560 km.
+6	SUV listrik ini punya torsi 765 Nm dan bisa melaju lebih dari 560 km.
+7	SUV listrik ini punya torsi 765 Nm dan bisa melaju lebih dari 560 km.
+8	SUV listrik ini punya torsi 765 Nm dan bisa melaju lebih dari 560 km.
+9	SUV listrik ini punya torsi 765 Nm dan bisa melaju lebih dari 560 km.
+10	SUV listrik ini punya torsi 765 Nm dan bisa melaju lebih dari 560 km.
+11	SUV listrik ini punya torsi 765 Nm dan bisa melaju lebih dari 560 km.
+12	SUV listrik ini punya torsi 765 Nm dan bisa melaju lebih dari 560 km.
+13	SUV listrik ini punya torsi 765 Nm dan bisa melaju lebih dari 560 km. Inilah Mercedes-Benz EQE SUV 350 AMG Line yang baru saja meluncur di Indonesia.
+14	Inilah Mercedes-Benz EQE SUV 350 AMG Line yang baru saja meluncur di Indonesia.
+15	Inilah Mercedes-Benz EQE SUV 350 AMG Line yang baru saja meluncur di Indonesia.
+16	Inilah Mercedes-Benz EQE SUV 350 AMG Line yang baru saja meluncur di Indonesia.
+17	Inilah Mercedes-Benz EQE SUV 350 AMG Line yang baru saja meluncur di Indonesia.
+18	Inilah Mercedes-Benz EQE SUV 350 AMG Line yang baru saja meluncur di Indonesia.
+19	Inilah Mercedes-Benz EQE SUV 350 AMG Line yang baru saja meluncur di Indonesia.
+20	Inilah Mercedes-Benz EQE SUV 350 AMG Line yang baru saja meluncur di Indonesia.
+21	Inilah Mercedes-Benz EQE SUV 350 AMG Line yang baru saja meluncur di Indonesia.
+22	Inilah Mercedes-Benz EQE SUV 350 AMG Line yang baru saja meluncur di Indonesia.
+23	Inilah Mercedes-Benz EQE SUV 350 AMG Line yang baru saja meluncur di Indonesia.
+24	Inilah Mercedes-Benz EQE SUV 350 AMG Line yang baru saja meluncur di Indonesia.
+25	Inilah Mercedes-Benz EQE SUV 350 AMG Line yang baru saja meluncur di Indonesia.
+26	Inilah Mercedes-Benz EQE SUV 350 AMG Line yang baru saja meluncur di Indonesia.
+27	Inilah Mercedes-Benz EQE SUV 350 AMG Line yang baru saja meluncur di Indonesia.
+28	Inilah Mercedes-Benz EQE SUV 350 AMG Line yang baru saja meluncur di Indonesia. Tuas pintunya rata dengan bodi.
+29	Tuas pintunya rata dengan bodi.
+30	Tuas pintunya rata dengan bodi.
+31	Tuas pintunya rata dengan bodi. Terus kalau mau buka gimana?
+32	Tuas pintunya rata dengan bodi. Terus kalau mau buka gimana?
+33	Terus kalau mau buka gimana? Tinggal dielus aja seperti ini.
+34	Terus kalau mau buka gimana? Tinggal dielus aja seperti ini.
+35	Tinggal dielus aja seperti ini.
+36	Tinggal dielus aja seperti ini.
+37	Tinggal dielus aja seperti ini.
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	Interiornya paduan antara retro dan futuristis.
+49	Interiornya paduan antara retro dan futuristis.
+50	Interiornya paduan antara retro dan futuristis.
+51	Interiornya paduan antara retro dan futuristis.
+52	Interiornya paduan antara retro dan futuristis.
+53	Interiornya paduan antara retro dan futuristis.
+54	Interiornya paduan antara retro dan futuristis.
+55	Interiornya paduan antara retro dan futuristis.
+56	Interiornya paduan antara retro dan futuristis. Keren sekali.
+57	Interiornya paduan antara retro dan futuristis. Keren sekali.
+58	Keren sekali.
+59	[NO_SPEECH]
+60	Tidak ada grill, semuanya tertutup karena ini adalah mobil elektrik.
+61	Tidak ada grill, semuanya tertutup karena ini adalah mobil elektrik.
+62	Tidak ada grill, semuanya tertutup karena ini adalah mobil elektrik.
+63	Tidak ada grill, semuanya tertutup karena ini adalah mobil elektrik.
+64	Tidak ada grill, semuanya tertutup karena ini adalah mobil elektrik.
+65	Tidak ada grill, semuanya tertutup karena ini adalah mobil elektrik.
+66	Tidak ada grill, semuanya tertutup karena ini adalah mobil elektrik.
+67	Tidak ada grill, semuanya tertutup karena ini adalah mobil elektrik. Tapi ada logo Mercedes-Benz.
+68	Tidak ada grill, semuanya tertutup karena ini adalah mobil elektrik. Tapi ada logo Mercedes-Benz.
+69	Tapi ada logo Mercedes-Benz.
+70	Tapi ada logo Mercedes-Benz.
+71	Tapi ada logo Mercedes-Benz.
+72	Tapi ada logo Mercedes-Benz.
+73	Tapi ada logo Mercedes-Benz. Hampir 300 buah di sini.
+74	Tapi ada logo Mercedes-Benz. Hampir 300 buah di sini.
+75	Hampir 300 buah di sini.
+76	Hampir 300 buah di sini.
+77	Hampir 300 buah di sini.
+78	Hampir 300 buah di sini.
+79	Mobil ini memiliki baterai 95 kWh.
+80	Mobil ini memiliki baterai 95 kWh.
+81	Mobil ini memiliki baterai 95 kWh.
+82	Mobil ini memiliki baterai 95 kWh.
+83	Mobil ini memiliki baterai 95 kWh.
+84	Mobil ini memiliki baterai 95 kWh.
+85	Mobil ini memiliki baterai 95 kWh. Makanya besar sekali dan bisa menempuh jarak yang jauh.
+86	Makanya besar sekali dan bisa menempuh jarak yang jauh.
+87	Makanya besar sekali dan bisa menempuh jarak yang jauh.
+88	Makanya besar sekali dan bisa menempuh jarak yang jauh.
+89	Makanya besar sekali dan bisa menempuh jarak yang jauh.
+90	Makanya besar sekali dan bisa menempuh jarak yang jauh. Serta dia memiliki penggerak all wheel drive.
+91	Makanya besar sekali dan bisa menempuh jarak yang jauh. Serta dia memiliki penggerak all wheel drive.
+92	Serta dia memiliki penggerak all wheel drive.
+93	Serta dia memiliki penggerak all wheel drive.
+94	Serta dia memiliki penggerak all wheel drive.
+95	Serta dia memiliki penggerak all wheel drive.
+96	Serta dia memiliki penggerak all wheel drive. Dan ban belakang bisa belok alias four wheel steering.
+97	Dan ban belakang bisa belok alias four wheel steering.
+98	Dan ban belakang bisa belok alias four wheel steering.
+99	Dan ban belakang bisa belok alias four wheel steering.
+100	Dan ban belakang bisa belok alias four wheel steering.
+101	Dan ban belakang bisa belok alias four wheel steering.
+102	Dan ban belakang bisa belok alias four wheel steering.
+103	Dan ban belakang bisa belok alias four wheel steering.
+104	Dan ban belakang bisa belok alias four wheel steering. Selain four wheel steering, mobil ini juga punya air suspension.
+105	Selain four wheel steering, mobil ini juga punya air suspension.
+106	Selain four wheel steering, mobil ini juga punya air suspension.
+107	Selain four wheel steering, mobil ini juga punya air suspension.
+108	Selain four wheel steering, mobil ini juga punya air suspension.
+109	Selain four wheel steering, mobil ini juga punya air suspension.
+110	Selain four wheel steering, mobil ini juga punya air suspension. Sehingga bisa dinaikan dan diturunkan.
+111	Sehingga bisa dinaikan dan diturunkan.
+112	Sehingga bisa dinaikan dan diturunkan.
+113	Sehingga bisa dinaikan dan diturunkan.
+114	Sehingga bisa dinaikan dan diturunkan. Bisa di charge dengan listrik AC.
+115	Bisa di charge dengan listrik AC.
+116	Bisa di charge dengan listrik AC.
+117	Bisa di charge dengan listrik AC.
+118	Bisa di charge dengan listrik AC. Maksimal 11.000 Watt.
+119	Maksimal 11.000 Watt.
+120	Maksimal 11.000 Watt.
+121	Maksimal 11.000 Watt. Atau listrik DC sampai 110.000 Watt.
+122	Maksimal 11.000 Watt. Atau listrik DC sampai 110.000 Watt.
+123	Atau listrik DC sampai 110.000 Watt.
+124	Atau listrik DC sampai 110.000 Watt.
+125	Atau listrik DC sampai 110.000 Watt.
+126	Atau listrik DC sampai 110.000 Watt.
+127	Atau listrik DC sampai 110.000 Watt. Tenaganya 292 HP.
+128	Tenaganya 292 HP.
+129	Tenaganya 292 HP.
+130	Tenaganya 292 HP.
+131	Tenaganya 292 HP.
+132	Tenaganya 292 HP. 0-100 diklaim tuntas dalam 6,6 detik.
+133	0-100 diklaim tuntas dalam 6,6 detik.
+134	0-100 diklaim tuntas dalam 6,6 detik.
+135	0-100 diklaim tuntas dalam 6,6 detik.
+136	0-100 diklaim tuntas dalam 6,6 detik.
+137	0-100 diklaim tuntas dalam 6,6 detik.
+138	0-100 diklaim tuntas dalam 6,6 detik.
+139	0-100 diklaim tuntas dalam 6,6 detik.
+140	0-100 diklaim tuntas dalam 6,6 detik. Nggak perlu takut kejepit ini.
+141	Nggak perlu takut kejepit ini.
+142	Nggak perlu takut kejepit ini.
+143	Nggak perlu takut kejepit ini.
+144	[NO_SPEECH]
+145	[NO_SPEECH]
+146	Aman.
+147	Aman.
+148	Aman.
+149	[NO_SPEECH]
+150	Mobil ini harganya di kisaran 2,8 miliar rupiah off the road.
+151	Mobil ini harganya di kisaran 2,8 miliar rupiah off the road.
+152	Mobil ini harganya di kisaran 2,8 miliar rupiah off the road.
+153	Mobil ini harganya di kisaran 2,8 miliar rupiah off the road.
+154	Mobil ini harganya di kisaran 2,8 miliar rupiah off the road.
+155	Mobil ini harganya di kisaran 2,8 miliar rupiah off the road.
+156	Mobil ini harganya di kisaran 2,8 miliar rupiah off the road.
+157	Mobil ini harganya di kisaran 2,8 miliar rupiah off the road.
+158	Mobil ini harganya di kisaran 2,8 miliar rupiah off the road. Yang mana itu tidak murah.
+159	Mobil ini harganya di kisaran 2,8 miliar rupiah off the road. Yang mana itu tidak murah.
+160	Yang mana itu tidak murah. Tapi mobil ini juga punya sejumlah hal-hal unik yang tidak dimiliki kompetitornya.
+161	Yang mana itu tidak murah. Tapi mobil ini juga punya sejumlah hal-hal unik yang tidak dimiliki kompetitornya.
+162	Tapi mobil ini juga punya sejumlah hal-hal unik yang tidak dimiliki kompetitornya.
+163	Tapi mobil ini juga punya sejumlah hal-hal unik yang tidak dimiliki kompetitornya.
+164	Tapi mobil ini juga punya sejumlah hal-hal unik yang tidak dimiliki kompetitornya.
+165	Tapi mobil ini juga punya sejumlah hal-hal unik yang tidak dimiliki kompetitornya.
+166	Tapi mobil ini juga punya sejumlah hal-hal unik yang tidak dimiliki kompetitornya.
+167	Tapi mobil ini juga punya sejumlah hal-hal unik yang tidak dimiliki kompetitornya.
+168	Tapi mobil ini juga punya sejumlah hal-hal unik yang tidak dimiliki kompetitornya.
+169	Tapi mobil ini juga punya sejumlah hal-hal unik yang tidak dimiliki kompetitornya.
+170	Tapi mobil ini juga punya sejumlah hal-hal unik yang tidak dimiliki kompetitornya. Untuk video yang lebih lengkap mengenai EQE 350 AMG.
+171	Untuk video yang lebih lengkap mengenai EQE 350 AMG.
+172	Untuk video yang lebih lengkap mengenai EQE 350 AMG.
+173	Untuk video yang lebih lengkap mengenai EQE 350 AMG.
+174	Untuk video yang lebih lengkap mengenai EQE 350 AMG.
+175	Untuk video yang lebih lengkap mengenai EQE 350 AMG.
+176	Untuk video yang lebih lengkap mengenai EQE 350 AMG.
+177	Untuk video yang lebih lengkap mengenai EQE 350 AMG.
+178	Untuk video yang lebih lengkap mengenai EQE 350 AMG. Untuk SUV ini Anda bisa langsung ke channel Youtube Auto Driver.
+179	Untuk video yang lebih lengkap mengenai EQE 350 AMG. Untuk SUV ini Anda bisa langsung ke channel Youtube Auto Driver.
+180	Untuk SUV ini Anda bisa langsung ke channel Youtube Auto Driver.
+181	Untuk SUV ini Anda bisa langsung ke channel Youtube Auto Driver.
+182	Untuk SUV ini Anda bisa langsung ke channel Youtube Auto Driver.
+183	Untuk SUV ini Anda bisa langsung ke channel Youtube Auto Driver.
+184	Untuk SUV ini Anda bisa langsung ke channel Youtube Auto Driver.
+185	Untuk SUV ini Anda bisa langsung ke channel Youtube Auto Driver.
+186	Untuk SUV ini Anda bisa langsung ke channel Youtube Auto Driver.
+187	Untuk SUV ini Anda bisa langsung ke channel Youtube Auto Driver. Terima kasih sudah menonton.
+188	Terima kasih sudah menonton.
+189	Terima kasih sudah menonton.
+190	Terima kasih sudah menonton.
+191	Terima kasih sudah menonton.
+192	Terima kasih sudah menonton.
+193	Terima kasih sudah menonton.
+194	Terima kasih sudah menonton.

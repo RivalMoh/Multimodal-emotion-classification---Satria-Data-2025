@@ -1,0 +1,48 @@
+0	Kenapa sih saya tiap forehand nyangkut terus?
+1	Kenapa sih saya tiap forehand nyangkut terus?
+2	Kenapa sih saya tiap forehand nyangkut terus?
+3	Kenapa sih saya tiap forehand nyangkut terus?
+4	Kenapa sih saya tiap forehand nyangkut terus?
+5	Karena follow through yang biasa kita lakukan itu salah.
+6	Karena follow through yang biasa kita lakukan itu salah.
+7	Karena follow through yang biasa kita lakukan itu salah.
+8	Karena follow through yang biasa kita lakukan itu salah.
+9	Karena follow through yang biasa kita lakukan itu salah.
+10	Karena follow through yang biasa kita lakukan itu salah.
+11	Karena follow through yang biasa kita lakukan itu salah. Follow through yang biasa orang lakukan adalah melakukan akhiran ke samping seperti ini.
+12	Follow through yang biasa orang lakukan adalah melakukan akhiran ke samping seperti ini.
+13	Follow through yang biasa orang lakukan adalah melakukan akhiran ke samping seperti ini.
+14	Follow through yang biasa orang lakukan adalah melakukan akhiran ke samping seperti ini.
+15	Follow through yang biasa orang lakukan adalah melakukan akhiran ke samping seperti ini.
+16	Follow through yang biasa orang lakukan adalah melakukan akhiran ke samping seperti ini.
+17	Follow through yang biasa orang lakukan adalah melakukan akhiran ke samping seperti ini.
+18	Follow through yang biasa orang lakukan adalah melakukan akhiran ke samping seperti ini.
+19	Follow through yang biasa orang lakukan adalah melakukan akhiran ke samping seperti ini.
+20	Follow through yang biasa orang lakukan adalah melakukan akhiran ke samping seperti ini.
+21	Follow through yang benar adalah melakukan akhiran ke bahu dengan sikut menghadap ke depan.
+22	Follow through yang benar adalah melakukan akhiran ke bahu dengan sikut menghadap ke depan.
+23	Follow through yang benar adalah melakukan akhiran ke bahu dengan sikut menghadap ke depan.
+24	Follow through yang benar adalah melakukan akhiran ke bahu dengan sikut menghadap ke depan.
+25	Follow through yang benar adalah melakukan akhiran ke bahu dengan sikut menghadap ke depan.
+26	Follow through yang benar adalah melakukan akhiran ke bahu dengan sikut menghadap ke depan.
+27	Follow through yang benar adalah melakukan akhiran ke bahu dengan sikut menghadap ke depan.
+28	Follow through yang benar adalah melakukan akhiran ke bahu dengan sikut menghadap ke depan.
+29	Follow through yang benar adalah melakukan akhiran ke bahu dengan sikut menghadap ke depan.
+30	Follow through yang benar adalah melakukan akhiran ke bahu dengan sikut menghadap ke depan.
+31	Follow through yang benar adalah melakukan akhiran ke bahu dengan sikut menghadap ke depan. Gimana? Forehand kamu masih nyangkut di net nggak?
+32	Gimana? Forehand kamu masih nyangkut di net nggak?
+33	Gimana? Forehand kamu masih nyangkut di net nggak?
+34	Gimana? Forehand kamu masih nyangkut di net nggak?
+35	Gimana? Forehand kamu masih nyangkut di net nggak?
+36	Gimana? Forehand kamu masih nyangkut di net nggak?
+37	Gimana? Forehand kamu masih nyangkut di net nggak? Follow for more tips dan komen tips apa lagi yang mau kita buatkan.
+38	Follow for more tips dan komen tips apa lagi yang mau kita buatkan.
+39	Follow for more tips dan komen tips apa lagi yang mau kita buatkan.
+40	Follow for more tips dan komen tips apa lagi yang mau kita buatkan.
+41	Follow for more tips dan komen tips apa lagi yang mau kita buatkan.
+42	Follow for more tips dan komen tips apa lagi yang mau kita buatkan.
+43	Follow for more tips dan komen tips apa lagi yang mau kita buatkan.
+44	Follow for more tips dan komen tips apa lagi yang mau kita buatkan.
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]

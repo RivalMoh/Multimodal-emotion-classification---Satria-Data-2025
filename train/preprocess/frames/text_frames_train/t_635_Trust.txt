@@ -1,0 +1,168 @@
+0	Astagfirullahaladzim, kalian tau gak?
+1	Astagfirullahaladzim, kalian tau gak? Masa temen gue bilang kayak gini?
+2	Astagfirullahaladzim, kalian tau gak? Masa temen gue bilang kayak gini?
+3	Masa temen gue bilang kayak gini? Eh, nanti kalau kita buka puasa, kita bukanya pas siang aja.
+4	Masa temen gue bilang kayak gini? Eh, nanti kalau kita buka puasa, kita bukanya pas siang aja.
+5	Eh, nanti kalau kita buka puasa, kita bukanya pas siang aja.
+6	Eh, nanti kalau kita buka puasa, kita bukanya pas siang aja.
+7	Eh, nanti kalau kita buka puasa, kita bukanya pas siang aja.
+8	Eh, nanti kalau kita buka puasa, kita bukanya pas siang aja.
+9	Eh, nanti kalau kita buka puasa, kita bukanya pas siang aja.
+10	Eh, nanti kalau kita buka puasa, kita bukanya pas siang aja. Gak usah pas magib, takut FOMO.
+11	Gak usah pas magib, takut FOMO.
+12	Gak usah pas magib, takut FOMO.
+13	Gak usah pas magib, takut FOMO.
+14	[NO_SPEECH]
+15	Astagfirullahaladzim, kata gue.
+16	Astagfirullahaladzim, kata gue.
+17	Astagfirullahaladzim, kata gue. Allahu akbar, kabir.
+18	Astagfirullahaladzim, kata gue. Allahu akbar, kabir.
+19	Allahu akbar, kabir. Eh, manusia itu adalah perintah dari Allah SWT.
+20	Allahu akbar, kabir. Eh, manusia itu adalah perintah dari Allah SWT.
+21	Eh, manusia itu adalah perintah dari Allah SWT.
+22	Eh, manusia itu adalah perintah dari Allah SWT.
+23	Eh, manusia itu adalah perintah dari Allah SWT.
+24	Eh, manusia itu adalah perintah dari Allah SWT.
+25	Eh, manusia itu adalah perintah dari Allah SWT.
+26	Eh, manusia itu adalah perintah dari Allah SWT.
+27	Eh, manusia itu adalah perintah dari Allah SWT.
+28	Maksudnya kalau misalkan lo buka puasa siang-siang, itu namanya lo telat sarapan.
+29	Maksudnya kalau misalkan lo buka puasa siang-siang, itu namanya lo telat sarapan.
+30	Maksudnya kalau misalkan lo buka puasa siang-siang, itu namanya lo telat sarapan.
+31	Maksudnya kalau misalkan lo buka puasa siang-siang, itu namanya lo telat sarapan.
+32	Maksudnya kalau misalkan lo buka puasa siang-siang, itu namanya lo telat sarapan.
+33	Maksudnya kalau misalkan lo buka puasa siang-siang, itu namanya lo telat sarapan.
+34	Maksudnya kalau misalkan lo buka puasa siang-siang, itu namanya lo telat sarapan.
+35	Maksudnya kalau misalkan lo buka puasa siang-siang, itu namanya lo telat sarapan.
+36	Maksudnya kalau misalkan lo buka puasa siang-siang, itu namanya lo telat sarapan.
+37	Maksudnya kalau misalkan lo buka puasa siang-siang, itu namanya lo telat sarapan. Bukan lo berbuka puasa, tapi ya emang begitu tantangannya bulan puasa.
+38	Bukan lo berbuka puasa, tapi ya emang begitu tantangannya bulan puasa.
+39	Bukan lo berbuka puasa, tapi ya emang begitu tantangannya bulan puasa.
+40	Bukan lo berbuka puasa, tapi ya emang begitu tantangannya bulan puasa.
+41	Bukan lo berbuka puasa, tapi ya emang begitu tantangannya bulan puasa.
+42	Bukan lo berbuka puasa, tapi ya emang begitu tantangannya bulan puasa.
+43	Bukan lo berbuka puasa, tapi ya emang begitu tantangannya bulan puasa.
+44	Bukan lo berbuka puasa, tapi ya emang begitu tantangannya bulan puasa.
+45	Bukan lo berbuka puasa, tapi ya emang begitu tantangannya bulan puasa.
+46	Bukan lo berbuka puasa, tapi ya emang begitu tantangannya bulan puasa. Kalau gak aus, ya kita lapar.
+47	Kalau gak aus, ya kita lapar.
+48	Kalau gak aus, ya kita lapar.
+49	Kalau gak aus, ya kita lapar.
+50	Kalau gak aus, ya kita lapar. Makanya emang kebutuhan cairan kita tuh bener-bener diperhatiin.
+51	Kalau gak aus, ya kita lapar. Makanya emang kebutuhan cairan kita tuh bener-bener diperhatiin.
+52	Makanya emang kebutuhan cairan kita tuh bener-bener diperhatiin.
+53	Makanya emang kebutuhan cairan kita tuh bener-bener diperhatiin.
+54	Makanya emang kebutuhan cairan kita tuh bener-bener diperhatiin.
+55	Makanya emang kebutuhan cairan kita tuh bener-bener diperhatiin.
+56	Makanya emang kebutuhan cairan kita tuh bener-bener diperhatiin. Makanya emang kebutuhan cairan pas puasa tuh ya sama aja kayak kebutuhan cairan pas kita gak puasa.
+57	Makanya emang kebutuhan cairan kita tuh bener-bener diperhatiin. Makanya emang kebutuhan cairan pas puasa tuh ya sama aja kayak kebutuhan cairan pas kita gak puasa.
+58	Makanya emang kebutuhan cairan pas puasa tuh ya sama aja kayak kebutuhan cairan pas kita gak puasa.
+59	Makanya emang kebutuhan cairan pas puasa tuh ya sama aja kayak kebutuhan cairan pas kita gak puasa.
+60	Makanya emang kebutuhan cairan pas puasa tuh ya sama aja kayak kebutuhan cairan pas kita gak puasa.
+61	Makanya emang kebutuhan cairan pas puasa tuh ya sama aja kayak kebutuhan cairan pas kita gak puasa.
+62	Makanya emang kebutuhan cairan pas puasa tuh ya sama aja kayak kebutuhan cairan pas kita gak puasa.
+63	Makanya emang kebutuhan cairan pas puasa tuh ya sama aja kayak kebutuhan cairan pas kita gak puasa. Makanya pintar-pintar bagi kita kalau misalkan kita puasa, ngatur kapan cairan ini masuk.
+64	Makanya emang kebutuhan cairan pas puasa tuh ya sama aja kayak kebutuhan cairan pas kita gak puasa. Makanya pintar-pintar bagi kita kalau misalkan kita puasa, ngatur kapan cairan ini masuk.
+65	Makanya pintar-pintar bagi kita kalau misalkan kita puasa, ngatur kapan cairan ini masuk.
+66	Makanya pintar-pintar bagi kita kalau misalkan kita puasa, ngatur kapan cairan ini masuk.
+67	Makanya pintar-pintar bagi kita kalau misalkan kita puasa, ngatur kapan cairan ini masuk.
+68	Makanya pintar-pintar bagi kita kalau misalkan kita puasa, ngatur kapan cairan ini masuk.
+69	Makanya pintar-pintar bagi kita kalau misalkan kita puasa, ngatur kapan cairan ini masuk.
+70	Makanya pintar-pintar bagi kita kalau misalkan kita puasa, ngatur kapan cairan ini masuk.
+71	Makanya pintar-pintar bagi kita kalau misalkan kita puasa, ngatur kapan cairan ini masuk.
+72	Makanya pintar-pintar bagi kita kalau misalkan kita puasa, ngatur kapan cairan ini masuk. Kalau misalkan lo sampai kekurangan cairan, kayak misalkan dehidrasi, lo kan jadi apa?
+73	Kalau misalkan lo sampai kekurangan cairan, kayak misalkan dehidrasi, lo kan jadi apa?
+74	Kalau misalkan lo sampai kekurangan cairan, kayak misalkan dehidrasi, lo kan jadi apa?
+75	Kalau misalkan lo sampai kekurangan cairan, kayak misalkan dehidrasi, lo kan jadi apa?
+76	Kalau misalkan lo sampai kekurangan cairan, kayak misalkan dehidrasi, lo kan jadi apa?
+77	Kalau misalkan lo sampai kekurangan cairan, kayak misalkan dehidrasi, lo kan jadi apa?
+78	Kalau misalkan lo sampai kekurangan cairan, kayak misalkan dehidrasi, lo kan jadi apa?
+79	Kalau misalkan lo sampai kekurangan cairan, kayak misalkan dehidrasi, lo kan jadi apa? Jadi lemas, jadi kurang konsentrasi, atau sampai diajak ngomong jadi ngangong.
+80	Kalau misalkan lo sampai kekurangan cairan, kayak misalkan dehidrasi, lo kan jadi apa? Jadi lemas, jadi kurang konsentrasi, atau sampai diajak ngomong jadi ngangong.
+81	Jadi lemas, jadi kurang konsentrasi, atau sampai diajak ngomong jadi ngangong.
+82	Jadi lemas, jadi kurang konsentrasi, atau sampai diajak ngomong jadi ngangong.
+83	Jadi lemas, jadi kurang konsentrasi, atau sampai diajak ngomong jadi ngangong.
+84	Jadi lemas, jadi kurang konsentrasi, atau sampai diajak ngomong jadi ngangong.
+85	Jadi lemas, jadi kurang konsentrasi, atau sampai diajak ngomong jadi ngangong.
+86	Jadi lemas, jadi kurang konsentrasi, atau sampai diajak ngomong jadi ngangong.
+87	Jadi lemas, jadi kurang konsentrasi, atau sampai diajak ngomong jadi ngangong. Oke, pertanyaannya sebenarnya berapa banyak sih kebutuhan cairan yang kita butuhkan setiap harinya?
+88	Jadi lemas, jadi kurang konsentrasi, atau sampai diajak ngomong jadi ngangong. Oke, pertanyaannya sebenarnya berapa banyak sih kebutuhan cairan yang kita butuhkan setiap harinya?
+89	Oke, pertanyaannya sebenarnya berapa banyak sih kebutuhan cairan yang kita butuhkan setiap harinya?
+90	Oke, pertanyaannya sebenarnya berapa banyak sih kebutuhan cairan yang kita butuhkan setiap harinya?
+91	Oke, pertanyaannya sebenarnya berapa banyak sih kebutuhan cairan yang kita butuhkan setiap harinya?
+92	Oke, pertanyaannya sebenarnya berapa banyak sih kebutuhan cairan yang kita butuhkan setiap harinya?
+93	Oke, pertanyaannya sebenarnya berapa banyak sih kebutuhan cairan yang kita butuhkan setiap harinya?
+94	Oke, pertanyaannya sebenarnya berapa banyak sih kebutuhan cairan yang kita butuhkan setiap harinya?
+95	Oke, pertanyaannya sebenarnya berapa banyak sih kebutuhan cairan yang kita butuhkan setiap harinya?
+96	Oke, pertanyaannya sebenarnya berapa banyak sih kebutuhan cairan yang kita butuhkan setiap harinya? Sederhananya 30-50 cc dikalikan dengan berat badan.
+97	Sederhananya 30-50 cc dikalikan dengan berat badan.
+98	Sederhananya 30-50 cc dikalikan dengan berat badan.
+99	Sederhananya 30-50 cc dikalikan dengan berat badan.
+100	Sederhananya 30-50 cc dikalikan dengan berat badan.
+101	Sederhananya 30-50 cc dikalikan dengan berat badan.
+102	Sederhananya 30-50 cc dikalikan dengan berat badan.
+103	Sederhananya 30-50 cc dikalikan dengan berat badan. Jadi kalau misalkan orang dewasa itu, itu kan sekitar 2-3 liter lah setiap harinya.
+104	Jadi kalau misalkan orang dewasa itu, itu kan sekitar 2-3 liter lah setiap harinya.
+105	Jadi kalau misalkan orang dewasa itu, itu kan sekitar 2-3 liter lah setiap harinya.
+106	Jadi kalau misalkan orang dewasa itu, itu kan sekitar 2-3 liter lah setiap harinya.
+107	Jadi kalau misalkan orang dewasa itu, itu kan sekitar 2-3 liter lah setiap harinya.
+108	Jadi kalau misalkan orang dewasa itu, itu kan sekitar 2-3 liter lah setiap harinya.
+109	Jadi kalau misalkan orang dewasa itu, itu kan sekitar 2-3 liter lah setiap harinya.
+110	Jadi kalau misalkan orang dewasa itu, itu kan sekitar 2-3 liter lah setiap harinya. Nah, kalau kita lagi puasa, yaudah dibagi aja.
+111	Jadi kalau misalkan orang dewasa itu, itu kan sekitar 2-3 liter lah setiap harinya. Nah, kalau kita lagi puasa, yaudah dibagi aja.
+112	Nah, kalau kita lagi puasa, yaudah dibagi aja.
+113	Nah, kalau kita lagi puasa, yaudah dibagi aja.
+114	Nah, kalau kita lagi puasa, yaudah dibagi aja.
+115	Nah, kalau kita lagi puasa, yaudah dibagi aja. Kayak 12 saat caur, 14 saat berbuka, dan 2 gelas sebelum tidur.
+116	Nah, kalau kita lagi puasa, yaudah dibagi aja. Kayak 12 saat caur, 14 saat berbuka, dan 2 gelas sebelum tidur.
+117	Kayak 12 saat caur, 14 saat berbuka, dan 2 gelas sebelum tidur.
+118	Kayak 12 saat caur, 14 saat berbuka, dan 2 gelas sebelum tidur.
+119	Kayak 12 saat caur, 14 saat berbuka, dan 2 gelas sebelum tidur.
+120	Kayak 12 saat caur, 14 saat berbuka, dan 2 gelas sebelum tidur.
+121	Kayak 12 saat caur, 14 saat berbuka, dan 2 gelas sebelum tidur.
+122	Kayak 12 saat caur, 14 saat berbuka, dan 2 gelas sebelum tidur. Nah, teman-teman biasanya minum air putih terutama dari sumber mata air yang terpilih, kayak dari aqua.
+123	Kayak 12 saat caur, 14 saat berbuka, dan 2 gelas sebelum tidur. Nah, teman-teman biasanya minum air putih terutama dari sumber mata air yang terpilih, kayak dari aqua.
+124	Nah, teman-teman biasanya minum air putih terutama dari sumber mata air yang terpilih, kayak dari aqua.
+125	Nah, teman-teman biasanya minum air putih terutama dari sumber mata air yang terpilih, kayak dari aqua.
+126	Nah, teman-teman biasanya minum air putih terutama dari sumber mata air yang terpilih, kayak dari aqua.
+127	Nah, teman-teman biasanya minum air putih terutama dari sumber mata air yang terpilih, kayak dari aqua.
+128	Nah, teman-teman biasanya minum air putih terutama dari sumber mata air yang terpilih, kayak dari aqua.
+129	Nah, teman-teman biasanya minum air putih terutama dari sumber mata air yang terpilih, kayak dari aqua.
+130	Nah, teman-teman biasanya minum air putih terutama dari sumber mata air yang terpilih, kayak dari aqua.
+131	Nah, teman-teman biasanya minum air putih terutama dari sumber mata air yang terpilih, kayak dari aqua.
+132	Nah, teman-teman biasanya minum air putih terutama dari sumber mata air yang terpilih, kayak dari aqua. Air yang berasal dari peruturan terpilih biasanya mengandung mineral alami,
+133	Nah, teman-teman biasanya minum air putih terutama dari sumber mata air yang terpilih, kayak dari aqua. Air yang berasal dari peruturan terpilih biasanya mengandung mineral alami,
+134	Air yang berasal dari peruturan terpilih biasanya mengandung mineral alami,
+135	Air yang berasal dari peruturan terpilih biasanya mengandung mineral alami,
+136	Air yang berasal dari peruturan terpilih biasanya mengandung mineral alami,
+137	Air yang berasal dari peruturan terpilih biasanya mengandung mineral alami,
+138	Air yang berasal dari peruturan terpilih biasanya mengandung mineral alami, yang sudah diproses alami oleh batuan dan diproses lebih lanjut,
+139	Air yang berasal dari peruturan terpilih biasanya mengandung mineral alami, yang sudah diproses alami oleh batuan dan diproses lebih lanjut,
+140	yang sudah diproses alami oleh batuan dan diproses lebih lanjut,
+141	yang sudah diproses alami oleh batuan dan diproses lebih lanjut,
+142	yang sudah diproses alami oleh batuan dan diproses lebih lanjut,
+143	yang sudah diproses alami oleh batuan dan diproses lebih lanjut,
+144	yang sudah diproses alami oleh batuan dan diproses lebih lanjut,
+145	yang sudah diproses alami oleh batuan dan diproses lebih lanjut, sehingga tetap murni dan aman untuk dikonsumsi.
+146	yang sudah diproses alami oleh batuan dan diproses lebih lanjut, sehingga tetap murni dan aman untuk dikonsumsi.
+147	sehingga tetap murni dan aman untuk dikonsumsi.
+148	sehingga tetap murni dan aman untuk dikonsumsi.
+149	sehingga tetap murni dan aman untuk dikonsumsi.
+150	sehingga tetap murni dan aman untuk dikonsumsi. Jadi, bantu kembalikan kebutuhan cairanmu dengan aqua dulu.
+151	sehingga tetap murni dan aman untuk dikonsumsi. Jadi, bantu kembalikan kebutuhan cairanmu dengan aqua dulu.
+152	Jadi, bantu kembalikan kebutuhan cairanmu dengan aqua dulu.
+153	Jadi, bantu kembalikan kebutuhan cairanmu dengan aqua dulu.
+154	Jadi, bantu kembalikan kebutuhan cairanmu dengan aqua dulu.
+155	Jadi, bantu kembalikan kebutuhan cairanmu dengan aqua dulu.
+156	Jadi, bantu kembalikan kebutuhan cairanmu dengan aqua dulu.
+157	Jadi, bantu kembalikan kebutuhan cairanmu dengan aqua dulu.
+158	[NO_SPEECH]
+159	[NO_SPEECH]
+160	[NO_SPEECH]
+161	[NO_SPEECH]
+162	[NO_SPEECH]
+163	[NO_SPEECH]
+164	[NO_SPEECH]
+165	[NO_SPEECH]
+166	[NO_SPEECH]
+167	[NO_SPEECH]

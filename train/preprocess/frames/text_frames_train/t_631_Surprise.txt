@@ -1,0 +1,108 @@
+0	kejauhan yuk dari situ
+1	kejauhan yuk dari situ
+2	kejauhan yuk dari situ siap? ready?
+3	siap? ready?
+4	siap? ready?
+5	siap? ready?
+6	siap? ready? artist 3 2 1
+7	artist 3 2 1
+8	artist 3 2 1
+9	artist 3 2 1
+10	artist 3 2 1
+11	artist 3 2 1
+12	artist 3 2 1 tam pam pam pam
+13	artist 3 2 1 tam pam pam pam
+14	tam pam pam pam
+15	tam pam pam pam
+16	tam pam pam pam
+17	tam pam pam pam aku memang dekat
+18	tam pam pam pam aku memang dekat
+19	aku memang dekat
+20	aku memang dekat
+21	aku memang dekat
+22	aku memang dekat
+23	aku memang dekat
+24	aku memang dekat 5 langkah, goyangin
+25	5 langkah, goyangin
+26	5 langkah, goyangin
+27	5 langkah, goyangin
+28	5 langkah, goyangin lets go oi
+29	lets go oi
+30	lets go oi
+31	lets go oi
+32	lets go oi
+33	lets go oi
+34	sulat siap siap
+35	sulat siap siap
+36	sulat siap siap
+37	sulat siap siap
+38	sulat siap siap juga gak usah kasih mundur, maju
+39	juga gak usah kasih mundur, maju
+40	juga gak usah kasih mundur, maju
+41	juga gak usah kasih mundur, maju
+42	juga gak usah kasih mundur, maju
+43	juga gak usah kasih mundur, maju aku memang dekat, langsung
+44	juga gak usah kasih mundur, maju aku memang dekat, langsung
+45	juga gak usah kasih mundur, maju aku memang dekat, langsung
+46	aku memang dekat, langsung
+47	aku memang dekat, langsung
+48	aku memang dekat, langsung
+49	aku memang dekat, langsung langsung gabung gabung gabung
+50	aku memang dekat, langsung langsung gabung gabung gabung
+51	langsung gabung gabung gabung
+52	langsung gabung gabung gabung langsung gabung gabung
+53	langsung gabung gabung gabung langsung gabung gabung
+54	langsung gabung gabung langsung
+55	langsung gabung gabung langsung
+56	langsung ke tengah
+57	langsung ke tengah
+58	ke tengah
+59	ke tengah
+60	ke tengah
+61	ke tengah
+62	ke tengah
+63	ke tengah
+64	kasih goyang goy
+65	kasih goyang goy
+66	kasih goyang goy
+67	kasih goyang goy
+68	kasih goyang goy
+69	kasih goyang goy
+70	[NO_SPEECH]
+71	[NO_SPEECH]
+72	[NO_SPEECH]
+73	[NO_SPEECH]
+74	[NO_SPEECH]
+75	[NO_SPEECH]
+76	goyangin dikit aja
+77	goyangin dikit aja
+78	goyangin dikit aja
+79	goyangin dikit aja
+80	goyangin dikit aja
+81	[NO_SPEECH]
+82	[NO_SPEECH]
+83	[NO_SPEECH]
+84	ke atas, sup, dah
+85	ke atas, sup, dah
+86	ke atas, sup, dah
+87	ke atas, sup, dah
+88	ke atas, sup, dah
+89	ke atas, sup, dah
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	tam pam pam
+93	tam pam pam
+94	tam pam pam
+95	tam pam pam
+96	tam pam pam
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	[NO_SPEECH]
+104	[NO_SPEECH]
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	[NO_SPEECH]

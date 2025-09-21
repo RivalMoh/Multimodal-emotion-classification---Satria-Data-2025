@@ -1,0 +1,125 @@
+0	Kenapa kita itu demen sekali makan nasi?
+1	Kenapa kita itu demen sekali makan nasi?
+2	Kenapa kita itu demen sekali makan nasi?
+3	Kenapa kita itu demen sekali makan nasi?
+4	Kenapa kita itu demen sekali makan nasi? Kenapa kita demen sekali itu makan yang tepung-tepungan,
+5	Kenapa kita demen sekali itu makan yang tepung-tepungan,
+6	Kenapa kita demen sekali itu makan yang tepung-tepungan,
+7	Kenapa kita demen sekali itu makan yang tepung-tepungan,
+8	Kenapa kita demen sekali itu makan yang tepung-tepungan,
+9	Kenapa kita demen sekali itu makan yang tepung-tepungan,
+10	Kenapa kita demen sekali itu makan yang tepung-tepungan,
+11	Kenapa kita demen sekali itu makan yang tepung-tepungan, yang manis-manis, roti, dan segala macam?
+12	Kenapa kita demen sekali itu makan yang tepung-tepungan, yang manis-manis, roti, dan segala macam?
+13	yang manis-manis, roti, dan segala macam?
+14	yang manis-manis, roti, dan segala macam?
+15	yang manis-manis, roti, dan segala macam?
+16	yang manis-manis, roti, dan segala macam? Karena wajar.
+17	yang manis-manis, roti, dan segala macam? Karena wajar.
+18	Karena wajar.
+19	Karena wajar. Sugar is addictive.
+20	Sugar is addictive.
+21	Sugar is addictive.
+22	Sugar is addictive.
+23	Sugar is addictive. Lo ngerti nggak?
+24	Lo ngerti nggak? Gula itu ada komponen adiksinya di situ.
+25	Lo ngerti nggak? Gula itu ada komponen adiksinya di situ.
+26	Gula itu ada komponen adiksinya di situ.
+27	Gula itu ada komponen adiksinya di situ.
+28	Gula itu ada komponen adiksinya di situ.
+29	Gula itu ada komponen adiksinya di situ.
+30	Gula itu ada komponen adiksinya di situ.
+31	Kalau teman-teman makin sering konsumsi,
+32	Kalau teman-teman makin sering konsumsi,
+33	Kalau teman-teman makin sering konsumsi,
+34	Kalau teman-teman makin sering konsumsi,
+35	Kalau teman-teman makin sering konsumsi,
+36	Kalau teman-teman makin sering konsumsi,
+37	Kalau teman-teman makin sering konsumsi,
+38	you're addicted to sugar.
+39	you're addicted to sugar.
+40	you're addicted to sugar.
+41	you're addicted to sugar. Lo itu sangat-sangat bisa kecanduan sekali dengan gula.
+42	you're addicted to sugar. Lo itu sangat-sangat bisa kecanduan sekali dengan gula.
+43	Lo itu sangat-sangat bisa kecanduan sekali dengan gula.
+44	Lo itu sangat-sangat bisa kecanduan sekali dengan gula.
+45	Lo itu sangat-sangat bisa kecanduan sekali dengan gula.
+46	Lo itu sangat-sangat bisa kecanduan sekali dengan gula.
+47	Lo itu sangat-sangat bisa kecanduan sekali dengan gula.
+48	Lo itu sangat-sangat bisa kecanduan sekali dengan gula. Kenapa?
+49	Kenapa? Karena gula itu menarik dia.
+50	Kenapa? Karena gula itu menarik dia.
+51	Karena gula itu menarik dia.
+52	Karena gula itu menarik dia.
+53	Karena gula itu menarik dia. Begitu kita konsumsi gula,
+54	Karena gula itu menarik dia. Begitu kita konsumsi gula,
+55	Begitu kita konsumsi gula,
+56	Begitu kita konsumsi gula, your blood sugar itu naik,
+57	Begitu kita konsumsi gula, your blood sugar itu naik,
+58	your blood sugar itu naik,
+59	your blood sugar itu naik,
+60	your blood sugar itu naik,
+61	your blood sugar itu naik, itu ada hubungan sekali dengan dopamine release.
+62	itu ada hubungan sekali dengan dopamine release.
+63	itu ada hubungan sekali dengan dopamine release.
+64	itu ada hubungan sekali dengan dopamine release.
+65	itu ada hubungan sekali dengan dopamine release. Ada hubungan sekali dengan otak kita itu keluarin dopamine dan segala macam.
+66	itu ada hubungan sekali dengan dopamine release. Ada hubungan sekali dengan otak kita itu keluarin dopamine dan segala macam.
+67	Ada hubungan sekali dengan otak kita itu keluarin dopamine dan segala macam.
+68	Ada hubungan sekali dengan otak kita itu keluarin dopamine dan segala macam.
+69	Ada hubungan sekali dengan otak kita itu keluarin dopamine dan segala macam.
+70	Ada hubungan sekali dengan otak kita itu keluarin dopamine dan segala macam.
+71	Ada hubungan sekali dengan otak kita itu keluarin dopamine dan segala macam.
+72	Ada hubungan sekali dengan otak kita itu keluarin dopamine dan segala macam.
+73	Ada hubungan sekali dengan otak kita itu keluarin dopamine dan segala macam.
+74	Ada hubungan sekali dengan otak kita itu keluarin dopamine dan segala macam.
+75	Ada hubungan sekali dengan otak kita itu keluarin dopamine dan segala macam. Yang berhubungan dengan rasa happy.
+76	Ada hubungan sekali dengan otak kita itu keluarin dopamine dan segala macam. Yang berhubungan dengan rasa happy.
+77	Yang berhubungan dengan rasa happy.
+78	Yang berhubungan dengan rasa happy.
+79	Yang berhubungan dengan rasa happy.
+80	Yang berhubungan dengan rasa happy. Makanya kalau teman-teman ngeliat teman-teman yang kecanduan dengan rasa manis,
+81	Makanya kalau teman-teman ngeliat teman-teman yang kecanduan dengan rasa manis,
+82	Makanya kalau teman-teman ngeliat teman-teman yang kecanduan dengan rasa manis,
+83	Makanya kalau teman-teman ngeliat teman-teman yang kecanduan dengan rasa manis,
+84	Makanya kalau teman-teman ngeliat teman-teman yang kecanduan dengan rasa manis,
+85	Makanya kalau teman-teman ngeliat teman-teman yang kecanduan dengan rasa manis,
+86	Makanya kalau teman-teman ngeliat teman-teman yang kecanduan dengan rasa manis, dan lo orang itu yang demen sekali cake, roti, dan segala macam.
+87	Makanya kalau teman-teman ngeliat teman-teman yang kecanduan dengan rasa manis, dan lo orang itu yang demen sekali cake, roti, dan segala macam.
+88	dan lo orang itu yang demen sekali cake, roti, dan segala macam.
+89	dan lo orang itu yang demen sekali cake, roti, dan segala macam.
+90	dan lo orang itu yang demen sekali cake, roti, dan segala macam.
+91	dan lo orang itu yang demen sekali cake, roti, dan segala macam.
+92	dan lo orang itu yang demen sekali cake, roti, dan segala macam.
+93	dan lo orang itu yang demen sekali cake, roti, dan segala macam.
+94	dan lo orang itu yang demen sekali cake, roti, dan segala macam. Begitu lo konsumsi itu,
+95	dan lo orang itu yang demen sekali cake, roti, dan segala macam. Begitu lo konsumsi itu,
+96	Begitu lo konsumsi itu, lo seneng gitu loh.
+97	Begitu lo konsumsi itu, lo seneng gitu loh.
+98	lo seneng gitu loh.
+99	lo seneng gitu loh.
+100	lo seneng gitu loh.
+101	lo seneng gitu loh. Kayak ada sesuatu yang,
+102	Kayak ada sesuatu yang,
+103	Kayak ada sesuatu yang, ah, I feel happy.
+104	Kayak ada sesuatu yang, ah, I feel happy.
+105	ah, I feel happy.
+106	ah, I feel happy.
+107	ah, I feel happy. Kenapa?
+108	Kenapa? Ya itulah komponen addiction itu di situ.
+109	Kenapa? Ya itulah komponen addiction itu di situ.
+110	Ya itulah komponen addiction itu di situ.
+111	Ya itulah komponen addiction itu di situ.
+112	Ya itulah komponen addiction itu di situ.
+113	Ya itulah komponen addiction itu di situ.
+114	Ya itulah komponen addiction itu di situ.
+115	Ya itulah komponen addiction itu di situ.
+116	Main generators masing-masing.
+117	Main generators masing-masing.
+118	Main generators masing-masing.
+119	Main generators masing-masing.
+120	Main generators masing-masing.
+121	Main generators masing-masing.
+122	[NO_SPEECH]
+123	[NO_SPEECH]
+124	[NO_SPEECH]

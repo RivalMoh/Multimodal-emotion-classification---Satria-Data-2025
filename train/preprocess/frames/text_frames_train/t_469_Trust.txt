@@ -1,0 +1,112 @@
+0	Ini cara membentuk badanmu di gym untuk pemula.
+1	Ini cara membentuk badanmu di gym untuk pemula.
+2	Ini cara membentuk badanmu di gym untuk pemula.
+3	Ini cara membentuk badanmu di gym untuk pemula.
+4	Ini cara membentuk badanmu di gym untuk pemula. You need to notice.
+5	Ini cara membentuk badanmu di gym untuk pemula. You need to notice.
+6	You need to notice. Salah satu jadwal latihan yang paling recommended untuk pemula adalah full body workout
+7	Salah satu jadwal latihan yang paling recommended untuk pemula adalah full body workout
+8	Salah satu jadwal latihan yang paling recommended untuk pemula adalah full body workout
+9	Salah satu jadwal latihan yang paling recommended untuk pemula adalah full body workout
+10	Salah satu jadwal latihan yang paling recommended untuk pemula adalah full body workout
+11	Salah satu jadwal latihan yang paling recommended untuk pemula adalah full body workout
+12	Salah satu jadwal latihan yang paling recommended untuk pemula adalah full body workout
+13	Salah satu jadwal latihan yang paling recommended untuk pemula adalah full body workout di mana semua otot akan dilatih dalam satu sesi latihan.
+14	Salah satu jadwal latihan yang paling recommended untuk pemula adalah full body workout di mana semua otot akan dilatih dalam satu sesi latihan.
+15	di mana semua otot akan dilatih dalam satu sesi latihan.
+16	di mana semua otot akan dilatih dalam satu sesi latihan.
+17	di mana semua otot akan dilatih dalam satu sesi latihan.
+18	di mana semua otot akan dilatih dalam satu sesi latihan.
+19	di mana semua otot akan dilatih dalam satu sesi latihan.
+20	di mana semua otot akan dilatih dalam satu sesi latihan. Mulai dengan leg press yang melatih seluruh tubuh bagian bawah.
+21	Mulai dengan leg press yang melatih seluruh tubuh bagian bawah.
+22	Mulai dengan leg press yang melatih seluruh tubuh bagian bawah.
+23	Mulai dengan leg press yang melatih seluruh tubuh bagian bawah.
+24	Mulai dengan leg press yang melatih seluruh tubuh bagian bawah.
+25	Mulai dengan leg press yang melatih seluruh tubuh bagian bawah.
+26	Mulai dengan leg press yang melatih seluruh tubuh bagian bawah. Lalu gerakan leg pull down yang fokus ke otot back.
+27	Mulai dengan leg press yang melatih seluruh tubuh bagian bawah. Lalu gerakan leg pull down yang fokus ke otot back.
+28	Lalu gerakan leg pull down yang fokus ke otot back.
+29	Lalu gerakan leg pull down yang fokus ke otot back.
+30	Lalu gerakan leg pull down yang fokus ke otot back.
+31	Lalu gerakan leg pull down yang fokus ke otot back. Next, incline press dengan dumbbell yang targetkan otot dada, bahu dan triceps.
+32	Lalu gerakan leg pull down yang fokus ke otot back. Next, incline press dengan dumbbell yang targetkan otot dada, bahu dan triceps.
+33	Next, incline press dengan dumbbell yang targetkan otot dada, bahu dan triceps.
+34	Next, incline press dengan dumbbell yang targetkan otot dada, bahu dan triceps.
+35	Next, incline press dengan dumbbell yang targetkan otot dada, bahu dan triceps.
+36	Next, incline press dengan dumbbell yang targetkan otot dada, bahu dan triceps.
+37	Next, incline press dengan dumbbell yang targetkan otot dada, bahu dan triceps.
+38	Next, incline press dengan dumbbell yang targetkan otot dada, bahu dan triceps.
+39	Next, incline press dengan dumbbell yang targetkan otot dada, bahu dan triceps. Lalu side resist dengan dumbbell yang fokus ke bahu bagian samping yang sangat penting untuk mendapatkan V-shape.
+40	Next, incline press dengan dumbbell yang targetkan otot dada, bahu dan triceps. Lalu side resist dengan dumbbell yang fokus ke bahu bagian samping yang sangat penting untuk mendapatkan V-shape.
+41	Lalu side resist dengan dumbbell yang fokus ke bahu bagian samping yang sangat penting untuk mendapatkan V-shape.
+42	Lalu side resist dengan dumbbell yang fokus ke bahu bagian samping yang sangat penting untuk mendapatkan V-shape.
+43	Lalu side resist dengan dumbbell yang fokus ke bahu bagian samping yang sangat penting untuk mendapatkan V-shape.
+44	Lalu side resist dengan dumbbell yang fokus ke bahu bagian samping yang sangat penting untuk mendapatkan V-shape.
+45	Lalu side resist dengan dumbbell yang fokus ke bahu bagian samping yang sangat penting untuk mendapatkan V-shape.
+46	Lalu side resist dengan dumbbell yang fokus ke bahu bagian samping yang sangat penting untuk mendapatkan V-shape.
+47	Lalu side resist dengan dumbbell yang fokus ke bahu bagian samping yang sangat penting untuk mendapatkan V-shape.
+48	Lalu side resist dengan dumbbell yang fokus ke bahu bagian samping yang sangat penting untuk mendapatkan V-shape.
+49	Lalu side resist dengan dumbbell yang fokus ke bahu bagian samping yang sangat penting untuk mendapatkan V-shape.
+50	Lalu side resist dengan dumbbell yang fokus ke bahu bagian samping yang sangat penting untuk mendapatkan V-shape. Selanjutnya, lying leg curls yang isolate paha bagian belakang yang bisa membantu menjaga kesehatan lutut.
+51	Lalu side resist dengan dumbbell yang fokus ke bahu bagian samping yang sangat penting untuk mendapatkan V-shape. Selanjutnya, lying leg curls yang isolate paha bagian belakang yang bisa membantu menjaga kesehatan lutut.
+52	Lalu side resist dengan dumbbell yang fokus ke bahu bagian samping yang sangat penting untuk mendapatkan V-shape. Selanjutnya, lying leg curls yang isolate paha bagian belakang yang bisa membantu menjaga kesehatan lutut.
+53	Selanjutnya, lying leg curls yang isolate paha bagian belakang yang bisa membantu menjaga kesehatan lutut.
+54	Selanjutnya, lying leg curls yang isolate paha bagian belakang yang bisa membantu menjaga kesehatan lutut.
+55	Selanjutnya, lying leg curls yang isolate paha bagian belakang yang bisa membantu menjaga kesehatan lutut.
+56	Selanjutnya, lying leg curls yang isolate paha bagian belakang yang bisa membantu menjaga kesehatan lutut.
+57	Selanjutnya, lying leg curls yang isolate paha bagian belakang yang bisa membantu menjaga kesehatan lutut.
+58	Selanjutnya, lying leg curls yang isolate paha bagian belakang yang bisa membantu menjaga kesehatan lutut.
+59	Selanjutnya, lying leg curls yang isolate paha bagian belakang yang bisa membantu menjaga kesehatan lutut.
+60	Selanjutnya, lying leg curls yang isolate paha bagian belakang yang bisa membantu menjaga kesehatan lutut.
+61	Selanjutnya, lying leg curls yang isolate paha bagian belakang yang bisa membantu menjaga kesehatan lutut.
+62	Selanjutnya, lying leg curls yang isolate paha bagian belakang yang bisa membantu menjaga kesehatan lutut.
+63	Selanjutnya, lying leg curls yang isolate paha bagian belakang yang bisa membantu menjaga kesehatan lutut. Gerakan selanjutnya bisa dipilih sesuai target masing-masing.
+64	Selanjutnya, lying leg curls yang isolate paha bagian belakang yang bisa membantu menjaga kesehatan lutut. Gerakan selanjutnya bisa dipilih sesuai target masing-masing.
+65	Gerakan selanjutnya bisa dipilih sesuai target masing-masing.
+66	Gerakan selanjutnya bisa dipilih sesuai target masing-masing.
+67	Gerakan selanjutnya bisa dipilih sesuai target masing-masing.
+68	Gerakan selanjutnya bisa dipilih sesuai target masing-masing.
+69	Gerakan selanjutnya bisa dipilih sesuai target masing-masing. Biasanya cowok tambahkan satu gerakan untuk otot biceps dan triceps.
+70	Gerakan selanjutnya bisa dipilih sesuai target masing-masing. Biasanya cowok tambahkan satu gerakan untuk otot biceps dan triceps.
+71	Biasanya cowok tambahkan satu gerakan untuk otot biceps dan triceps.
+72	Biasanya cowok tambahkan satu gerakan untuk otot biceps dan triceps.
+73	Biasanya cowok tambahkan satu gerakan untuk otot biceps dan triceps.
+74	Biasanya cowok tambahkan satu gerakan untuk otot biceps dan triceps.
+75	Biasanya cowok tambahkan satu gerakan untuk otot biceps dan triceps.
+76	Biasanya cowok tambahkan satu gerakan untuk otot biceps dan triceps.
+77	Biasanya cowok tambahkan satu gerakan untuk otot biceps dan triceps. Lalu cewek biasanya pilih satu gerakan untuk otot glute seperti hip thrust atau Romanian deadlift.
+78	Biasanya cowok tambahkan satu gerakan untuk otot biceps dan triceps. Lalu cewek biasanya pilih satu gerakan untuk otot glute seperti hip thrust atau Romanian deadlift.
+79	Lalu cewek biasanya pilih satu gerakan untuk otot glute seperti hip thrust atau Romanian deadlift.
+80	Lalu cewek biasanya pilih satu gerakan untuk otot glute seperti hip thrust atau Romanian deadlift.
+81	Lalu cewek biasanya pilih satu gerakan untuk otot glute seperti hip thrust atau Romanian deadlift.
+82	Lalu cewek biasanya pilih satu gerakan untuk otot glute seperti hip thrust atau Romanian deadlift.
+83	Lalu cewek biasanya pilih satu gerakan untuk otot glute seperti hip thrust atau Romanian deadlift.
+84	Lalu cewek biasanya pilih satu gerakan untuk otot glute seperti hip thrust atau Romanian deadlift.
+85	Lalu cewek biasanya pilih satu gerakan untuk otot glute seperti hip thrust atau Romanian deadlift.
+86	Lalu cewek biasanya pilih satu gerakan untuk otot glute seperti hip thrust atau Romanian deadlift.
+87	Lalu cewek biasanya pilih satu gerakan untuk otot glute seperti hip thrust atau Romanian deadlift.
+88	Lalu cewek biasanya pilih satu gerakan untuk otot glute seperti hip thrust atau Romanian deadlift. Lalu sesi ini ditutup dengan crunches untuk otot glute.
+89	Lalu cewek biasanya pilih satu gerakan untuk otot glute seperti hip thrust atau Romanian deadlift. Lalu sesi ini ditutup dengan crunches untuk otot glute.
+90	Lalu sesi ini ditutup dengan crunches untuk otot glute.
+91	Lalu sesi ini ditutup dengan crunches untuk otot glute.
+92	Lalu sesi ini ditutup dengan crunches untuk otot glute.
+93	Lalu sesi ini ditutup dengan crunches untuk otot glute.
+94	Lalu sesi ini ditutup dengan crunches untuk otot glute. Full body workout seperti ini paling recommended untuk pemula yang bisa workout 2-3 kali seminggu.
+95	Lalu sesi ini ditutup dengan crunches untuk otot glute. Full body workout seperti ini paling recommended untuk pemula yang bisa workout 2-3 kali seminggu.
+96	Full body workout seperti ini paling recommended untuk pemula yang bisa workout 2-3 kali seminggu.
+97	Full body workout seperti ini paling recommended untuk pemula yang bisa workout 2-3 kali seminggu.
+98	Full body workout seperti ini paling recommended untuk pemula yang bisa workout 2-3 kali seminggu.
+99	Full body workout seperti ini paling recommended untuk pemula yang bisa workout 2-3 kali seminggu.
+100	Full body workout seperti ini paling recommended untuk pemula yang bisa workout 2-3 kali seminggu.
+101	Full body workout seperti ini paling recommended untuk pemula yang bisa workout 2-3 kali seminggu.
+102	Full body workout seperti ini paling recommended untuk pemula yang bisa workout 2-3 kali seminggu.
+103	Full body workout seperti ini paling recommended untuk pemula yang bisa workout 2-3 kali seminggu.
+104	Full body workout seperti ini paling recommended untuk pemula yang bisa workout 2-3 kali seminggu.
+105	Full body workout seperti ini paling recommended untuk pemula yang bisa workout 2-3 kali seminggu. Jadwal latihan lengkap ada di caption so check it out.
+106	Full body workout seperti ini paling recommended untuk pemula yang bisa workout 2-3 kali seminggu. Jadwal latihan lengkap ada di caption so check it out.
+107	Jadwal latihan lengkap ada di caption so check it out.
+108	Jadwal latihan lengkap ada di caption so check it out.
+109	Jadwal latihan lengkap ada di caption so check it out.
+110	Jadwal latihan lengkap ada di caption so check it out. Check it out.
+111	Jadwal latihan lengkap ada di caption so check it out. Check it out.

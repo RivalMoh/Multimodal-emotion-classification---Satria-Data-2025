@@ -1,0 +1,102 @@
+0	Viral! Sepasang remaja di Lombok menikah di usianya yang 15 dan 17 tahun.
+1	Viral! Sepasang remaja di Lombok menikah di usianya yang 15 dan 17 tahun.
+2	Sepasang remaja di Lombok menikah di usianya yang 15 dan 17 tahun.
+3	Sepasang remaja di Lombok menikah di usianya yang 15 dan 17 tahun.
+4	Sepasang remaja di Lombok menikah di usianya yang 15 dan 17 tahun.
+5	Sepasang remaja di Lombok menikah di usianya yang 15 dan 17 tahun.
+6	Sepasang remaja di Lombok menikah di usianya yang 15 dan 17 tahun.
+7	Sepasang remaja di Lombok menikah di usianya yang 15 dan 17 tahun. Tentu aja, banyak warganet yang mempertanyakan,
+8	Sepasang remaja di Lombok menikah di usianya yang 15 dan 17 tahun. Tentu aja, banyak warganet yang mempertanyakan,
+9	Tentu aja, banyak warganet yang mempertanyakan,
+10	Tentu aja, banyak warganet yang mempertanyakan,
+11	Tentu aja, banyak warganet yang mempertanyakan,
+12	Tentu aja, banyak warganet yang mempertanyakan, apakah boleh menikah di bawah umur?
+13	Tentu aja, banyak warganet yang mempertanyakan, apakah boleh menikah di bawah umur?
+14	apakah boleh menikah di bawah umur?
+15	apakah boleh menikah di bawah umur?
+16	apakah boleh menikah di bawah umur? Seharusnya belum boleh ya,
+17	Seharusnya belum boleh ya,
+18	Seharusnya belum boleh ya,
+19	Seharusnya belum boleh ya, karena menurut Undang-Undang Perkawinan Indonesia,
+20	karena menurut Undang-Undang Perkawinan Indonesia,
+21	karena menurut Undang-Undang Perkawinan Indonesia,
+22	karena menurut Undang-Undang Perkawinan Indonesia,
+23	karena menurut Undang-Undang Perkawinan Indonesia,
+24	karena menurut Undang-Undang Perkawinan Indonesia, minimal usia menikah di atas 19 tahun bagi laki-laki dan 16 tahun bagi perempuan.
+25	minimal usia menikah di atas 19 tahun bagi laki-laki dan 16 tahun bagi perempuan.
+26	minimal usia menikah di atas 19 tahun bagi laki-laki dan 16 tahun bagi perempuan.
+27	minimal usia menikah di atas 19 tahun bagi laki-laki dan 16 tahun bagi perempuan.
+28	minimal usia menikah di atas 19 tahun bagi laki-laki dan 16 tahun bagi perempuan.
+29	minimal usia menikah di atas 19 tahun bagi laki-laki dan 16 tahun bagi perempuan.
+30	minimal usia menikah di atas 19 tahun bagi laki-laki dan 16 tahun bagi perempuan.
+31	minimal usia menikah di atas 19 tahun bagi laki-laki dan 16 tahun bagi perempuan.
+32	minimal usia menikah di atas 19 tahun bagi laki-laki dan 16 tahun bagi perempuan.
+33	minimal usia menikah di atas 19 tahun bagi laki-laki dan 16 tahun bagi perempuan. Bukan itu aja,
+34	Bukan itu aja,
+35	Bukan itu aja, pernikahan di bawah umur sangat berisiko
+36	Bukan itu aja, pernikahan di bawah umur sangat berisiko
+37	pernikahan di bawah umur sangat berisiko
+38	pernikahan di bawah umur sangat berisiko
+39	pernikahan di bawah umur sangat berisiko bagi kesehatan mental kedua pasangan
+40	pernikahan di bawah umur sangat berisiko bagi kesehatan mental kedua pasangan
+41	bagi kesehatan mental kedua pasangan
+42	bagi kesehatan mental kedua pasangan
+43	bagi kesehatan mental kedua pasangan dikarenakan belum siap menghadapi masalah ekonomi dan lainnya.
+44	bagi kesehatan mental kedua pasangan dikarenakan belum siap menghadapi masalah ekonomi dan lainnya.
+45	dikarenakan belum siap menghadapi masalah ekonomi dan lainnya.
+46	dikarenakan belum siap menghadapi masalah ekonomi dan lainnya.
+47	dikarenakan belum siap menghadapi masalah ekonomi dan lainnya.
+48	dikarenakan belum siap menghadapi masalah ekonomi dan lainnya.
+49	dikarenakan belum siap menghadapi masalah ekonomi dan lainnya. Dan akibatnya,
+50	Dan akibatnya,
+51	Dan akibatnya, timbul stres, depresi, hingga kekerasan rumah tangga yang lebih rentan
+52	Dan akibatnya, timbul stres, depresi, hingga kekerasan rumah tangga yang lebih rentan
+53	timbul stres, depresi, hingga kekerasan rumah tangga yang lebih rentan
+54	timbul stres, depresi, hingga kekerasan rumah tangga yang lebih rentan
+55	timbul stres, depresi, hingga kekerasan rumah tangga yang lebih rentan
+56	timbul stres, depresi, hingga kekerasan rumah tangga yang lebih rentan
+57	timbul stres, depresi, hingga kekerasan rumah tangga yang lebih rentan terjadi pada wanita muda lho.
+58	timbul stres, depresi, hingga kekerasan rumah tangga yang lebih rentan terjadi pada wanita muda lho.
+59	terjadi pada wanita muda lho.
+60	terjadi pada wanita muda lho.
+61	terjadi pada wanita muda lho. Apalagi jika pasangan wanita hamil di usianya yang masih muda,
+62	Apalagi jika pasangan wanita hamil di usianya yang masih muda,
+63	Apalagi jika pasangan wanita hamil di usianya yang masih muda,
+64	Apalagi jika pasangan wanita hamil di usianya yang masih muda,
+65	Apalagi jika pasangan wanita hamil di usianya yang masih muda,
+66	Apalagi jika pasangan wanita hamil di usianya yang masih muda,
+67	Apalagi jika pasangan wanita hamil di usianya yang masih muda, juga bisa berisiko tekanan darah tinggi, anemia,
+68	Apalagi jika pasangan wanita hamil di usianya yang masih muda, juga bisa berisiko tekanan darah tinggi, anemia,
+69	juga bisa berisiko tekanan darah tinggi, anemia,
+70	juga bisa berisiko tekanan darah tinggi, anemia,
+71	juga bisa berisiko tekanan darah tinggi, anemia,
+72	juga bisa berisiko tekanan darah tinggi, anemia, bayi prematur, hingga meninggal dunia.
+73	juga bisa berisiko tekanan darah tinggi, anemia, bayi prematur, hingga meninggal dunia.
+74	bayi prematur, hingga meninggal dunia.
+75	bayi prematur, hingga meninggal dunia.
+76	bayi prematur, hingga meninggal dunia.
+77	bayi prematur, hingga meninggal dunia. Jadi, nikah itu butuh kesiapan.
+78	Jadi, nikah itu butuh kesiapan.
+79	Jadi, nikah itu butuh kesiapan.
+80	Jadi, nikah itu butuh kesiapan.
+81	Jadi, nikah itu butuh kesiapan. Bukan cuma cinta ya,
+82	Jadi, nikah itu butuh kesiapan. Bukan cuma cinta ya,
+83	Bukan cuma cinta ya,
+84	Bukan cuma cinta ya, jangan buru-buru kalau belum siap mental, fisik, dan finansial.
+85	Bukan cuma cinta ya, jangan buru-buru kalau belum siap mental, fisik, dan finansial.
+86	jangan buru-buru kalau belum siap mental, fisik, dan finansial.
+87	jangan buru-buru kalau belum siap mental, fisik, dan finansial.
+88	jangan buru-buru kalau belum siap mental, fisik, dan finansial.
+89	jangan buru-buru kalau belum siap mental, fisik, dan finansial.
+90	jangan buru-buru kalau belum siap mental, fisik, dan finansial.
+91	jangan buru-buru kalau belum siap mental, fisik, dan finansial. Menurut Sobat Sehat, gimana?
+92	Menurut Sobat Sehat, gimana?
+93	Menurut Sobat Sehat, gimana?
+94	Menurut Sobat Sehat, gimana?
+95	Menurut Sobat Sehat, gimana?
+96	[NO_SPEECH]
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]

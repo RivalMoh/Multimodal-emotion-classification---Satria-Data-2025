@@ -1,0 +1,322 @@
+0	Mistery Box yang kemarin ada keliling Indonesia, akhirnya dibuka.
+1	Mistery Box yang kemarin ada keliling Indonesia, akhirnya dibuka.
+2	Mistery Box yang kemarin ada keliling Indonesia, akhirnya dibuka.
+3	Mistery Box yang kemarin ada keliling Indonesia, akhirnya dibuka.
+4	Mistery Box yang kemarin ada keliling Indonesia, akhirnya dibuka.
+5	Mistery Box yang kemarin ada keliling Indonesia, akhirnya dibuka.
+6	Mistery Box yang kemarin ada keliling Indonesia, akhirnya dibuka. Ini dia isinya, Mitsubishi Destinator.
+7	Mistery Box yang kemarin ada keliling Indonesia, akhirnya dibuka. Ini dia isinya, Mitsubishi Destinator.
+8	Ini dia isinya, Mitsubishi Destinator.
+9	Ini dia isinya, Mitsubishi Destinator.
+10	Ini dia isinya, Mitsubishi Destinator.
+11	Ini dia isinya, Mitsubishi Destinator.
+12	Ini dia isinya, Mitsubishi Destinator. SUV 7-seater ini punya dimensi yang besar.
+13	Ini dia isinya, Mitsubishi Destinator. SUV 7-seater ini punya dimensi yang besar.
+14	SUV 7-seater ini punya dimensi yang besar.
+15	SUV 7-seater ini punya dimensi yang besar.
+16	SUV 7-seater ini punya dimensi yang besar.
+17	SUV 7-seater ini punya dimensi yang besar.
+18	SUV 7-seater ini punya dimensi yang besar. Panjangnya 4680 mm, lebarnya 1840 mm, dan ground clearance-nya 244 mm.
+19	Panjangnya 4680 mm, lebarnya 1840 mm, dan ground clearance-nya 244 mm.
+20	Panjangnya 4680 mm, lebarnya 1840 mm, dan ground clearance-nya 244 mm.
+21	Panjangnya 4680 mm, lebarnya 1840 mm, dan ground clearance-nya 244 mm.
+22	Panjangnya 4680 mm, lebarnya 1840 mm, dan ground clearance-nya 244 mm.
+23	Panjangnya 4680 mm, lebarnya 1840 mm, dan ground clearance-nya 244 mm.
+24	Panjangnya 4680 mm, lebarnya 1840 mm, dan ground clearance-nya 244 mm.
+25	Panjangnya 4680 mm, lebarnya 1840 mm, dan ground clearance-nya 244 mm.
+26	Panjangnya 4680 mm, lebarnya 1840 mm, dan ground clearance-nya 244 mm.
+27	Panjangnya 4680 mm, lebarnya 1840 mm, dan ground clearance-nya 244 mm.
+28	Panjangnya 4680 mm, lebarnya 1840 mm, dan ground clearance-nya 244 mm.
+29	Panjangnya 4680 mm, lebarnya 1840 mm, dan ground clearance-nya 244 mm.
+30	Panjangnya 4680 mm, lebarnya 1840 mm, dan ground clearance-nya 244 mm.
+31	Panjangnya 4680 mm, lebarnya 1840 mm, dan ground clearance-nya 244 mm.
+32	Panjangnya 4680 mm, lebarnya 1840 mm, dan ground clearance-nya 244 mm. Udah kayak ground clearance-nya Pajero Sport.
+33	Udah kayak ground clearance-nya Pajero Sport.
+34	Udah kayak ground clearance-nya Pajero Sport.
+35	Udah kayak ground clearance-nya Pajero Sport.
+36	Udah kayak ground clearance-nya Pajero Sport. Tinggi banget.
+37	Udah kayak ground clearance-nya Pajero Sport. Tinggi banget.
+38	Tinggi banget. Masuk ke dalam interiornya, kita akan disambut dengan jog yang udah kulit dengan electric seat.
+39	Tinggi banget. Masuk ke dalam interiornya, kita akan disambut dengan jog yang udah kulit dengan electric seat.
+40	Masuk ke dalam interiornya, kita akan disambut dengan jog yang udah kulit dengan electric seat.
+41	Masuk ke dalam interiornya, kita akan disambut dengan jog yang udah kulit dengan electric seat.
+42	Masuk ke dalam interiornya, kita akan disambut dengan jog yang udah kulit dengan electric seat.
+43	Masuk ke dalam interiornya, kita akan disambut dengan jog yang udah kulit dengan electric seat.
+44	Masuk ke dalam interiornya, kita akan disambut dengan jog yang udah kulit dengan electric seat.
+45	Masuk ke dalam interiornya, kita akan disambut dengan jog yang udah kulit dengan electric seat.
+46	Masuk ke dalam interiornya, kita akan disambut dengan jog yang udah kulit dengan electric seat.
+47	Masuk ke dalam interiornya, kita akan disambut dengan jog yang udah kulit dengan electric seat.
+48	Masuk ke dalam interiornya, kita akan disambut dengan jog yang udah kulit dengan electric seat.
+49	Masuk ke dalam interiornya, kita akan disambut dengan jog yang udah kulit dengan electric seat. Di atas kita dapat panoramic sunroof yang gede dan bisa dibuka.
+50	Masuk ke dalam interiornya, kita akan disambut dengan jog yang udah kulit dengan electric seat. Di atas kita dapat panoramic sunroof yang gede dan bisa dibuka.
+51	Di atas kita dapat panoramic sunroof yang gede dan bisa dibuka.
+52	Di atas kita dapat panoramic sunroof yang gede dan bisa dibuka.
+53	Di atas kita dapat panoramic sunroof yang gede dan bisa dibuka.
+54	Di atas kita dapat panoramic sunroof yang gede dan bisa dibuka.
+55	Di atas kita dapat panoramic sunroof yang gede dan bisa dibuka.
+56	Di atas kita dapat panoramic sunroof yang gede dan bisa dibuka. Terus setirnya, dia sudah tilt dan teleskopik dengan lingkar berbahan kulit yang keren.
+57	Di atas kita dapat panoramic sunroof yang gede dan bisa dibuka. Terus setirnya, dia sudah tilt dan teleskopik dengan lingkar berbahan kulit yang keren.
+58	Terus setirnya, dia sudah tilt dan teleskopik dengan lingkar berbahan kulit yang keren.
+59	Terus setirnya, dia sudah tilt dan teleskopik dengan lingkar berbahan kulit yang keren.
+60	Terus setirnya, dia sudah tilt dan teleskopik dengan lingkar berbahan kulit yang keren.
+61	Terus setirnya, dia sudah tilt dan teleskopik dengan lingkar berbahan kulit yang keren.
+62	Terus setirnya, dia sudah tilt dan teleskopik dengan lingkar berbahan kulit yang keren.
+63	Terus setirnya, dia sudah tilt dan teleskopik dengan lingkar berbahan kulit yang keren.
+64	Terus setirnya, dia sudah tilt dan teleskopik dengan lingkar berbahan kulit yang keren.
+65	Terus setirnya, dia sudah tilt dan teleskopik dengan lingkar berbahan kulit yang keren.
+66	Terus setirnya, dia sudah tilt dan teleskopik dengan lingkar berbahan kulit yang keren.
+67	Terus setirnya, dia sudah tilt dan teleskopik dengan lingkar berbahan kulit yang keren.
+68	Terus setirnya, dia sudah tilt dan teleskopik dengan lingkar berbahan kulit yang keren. Nah terus kalau kita lihat di sini, adasnya sudah ada.
+69	Terus setirnya, dia sudah tilt dan teleskopik dengan lingkar berbahan kulit yang keren. Nah terus kalau kita lihat di sini, adasnya sudah ada.
+70	Nah terus kalau kita lihat di sini, adasnya sudah ada.
+71	Nah terus kalau kita lihat di sini, adasnya sudah ada.
+72	Nah terus kalau kita lihat di sini, adasnya sudah ada.
+73	Nah terus kalau kita lihat di sini, adasnya sudah ada.
+74	Nah terus kalau kita lihat di sini, adasnya sudah ada.
+75	Nah terus kalau kita lihat di sini, adasnya sudah ada. Terus pencet sini buat kamera 360 seperti ini.
+76	Terus pencet sini buat kamera 360 seperti ini.
+77	Terus pencet sini buat kamera 360 seperti ini.
+78	Terus pencet sini buat kamera 360 seperti ini.
+79	Terus pencet sini buat kamera 360 seperti ini.
+80	Terus pencet sini buat kamera 360 seperti ini.
+81	Terus pencet sini buat kamera 360 seperti ini.
+82	[NO_SPEECH]
+83	Speedometer sudah digital.
+84	Speedometer sudah digital.
+85	Speedometer sudah digital.
+86	Speedometer sudah digital. Dan kalau kita lihat lagi, dia sudah pakai wireless Apple CarPlay dan Android Auto.
+87	Speedometer sudah digital. Dan kalau kita lihat lagi, dia sudah pakai wireless Apple CarPlay dan Android Auto.
+88	Dan kalau kita lihat lagi, dia sudah pakai wireless Apple CarPlay dan Android Auto.
+89	Dan kalau kita lihat lagi, dia sudah pakai wireless Apple CarPlay dan Android Auto.
+90	Dan kalau kita lihat lagi, dia sudah pakai wireless Apple CarPlay dan Android Auto.
+91	Dan kalau kita lihat lagi, dia sudah pakai wireless Apple CarPlay dan Android Auto.
+92	Dan kalau kita lihat lagi, dia sudah pakai wireless Apple CarPlay dan Android Auto.
+93	Dan kalau kita lihat lagi, dia sudah pakai wireless Apple CarPlay dan Android Auto.
+94	Dan kalau kita lihat lagi, dia sudah pakai wireless Apple CarPlay dan Android Auto.
+95	Dan kalau kita lihat lagi, dia sudah pakai wireless Apple CarPlay dan Android Auto. Soal audionya juga, dia sudah pakai audio dari Yamaha di sini.
+96	Soal audionya juga, dia sudah pakai audio dari Yamaha di sini.
+97	Soal audionya juga, dia sudah pakai audio dari Yamaha di sini.
+98	Soal audionya juga, dia sudah pakai audio dari Yamaha di sini.
+99	Soal audionya juga, dia sudah pakai audio dari Yamaha di sini.
+100	Soal audionya juga, dia sudah pakai audio dari Yamaha di sini.
+101	Soal audionya juga, dia sudah pakai audio dari Yamaha di sini.
+102	Soal audionya juga, dia sudah pakai audio dari Yamaha di sini. Dan AC-nya pakai dual zone, kiri-kanan bisa beda.
+103	Soal audionya juga, dia sudah pakai audio dari Yamaha di sini. Dan AC-nya pakai dual zone, kiri-kanan bisa beda.
+104	Dan AC-nya pakai dual zone, kiri-kanan bisa beda.
+105	Dan AC-nya pakai dual zone, kiri-kanan bisa beda.
+106	Dan AC-nya pakai dual zone, kiri-kanan bisa beda.
+107	Dan AC-nya pakai dual zone, kiri-kanan bisa beda.
+108	Dan AC-nya pakai dual zone, kiri-kanan bisa beda.
+109	Dan AC-nya pakai dual zone, kiri-kanan bisa beda.
+110	Dan AC-nya pakai dual zone, kiri-kanan bisa beda. Nah, transmisinya sendiri dia pakai CVT.
+111	Dan AC-nya pakai dual zone, kiri-kanan bisa beda. Nah, transmisinya sendiri dia pakai CVT.
+112	Nah, transmisinya sendiri dia pakai CVT.
+113	Nah, transmisinya sendiri dia pakai CVT.
+114	Nah, transmisinya sendiri dia pakai CVT. Ada push start stop engine button, drive mode, sama electronic parking brake.
+115	Nah, transmisinya sendiri dia pakai CVT. Ada push start stop engine button, drive mode, sama electronic parking brake.
+116	Ada push start stop engine button, drive mode, sama electronic parking brake.
+117	Ada push start stop engine button, drive mode, sama electronic parking brake.
+118	Ada push start stop engine button, drive mode, sama electronic parking brake.
+119	Ada push start stop engine button, drive mode, sama electronic parking brake.
+120	Ada push start stop engine button, drive mode, sama electronic parking brake.
+121	Ada push start stop engine button, drive mode, sama electronic parking brake.
+122	Ada push start stop engine button, drive mode, sama electronic parking brake. Terus kalau kita buka di sini, ada storage yang gede.
+123	Terus kalau kita buka di sini, ada storage yang gede.
+124	Terus kalau kita buka di sini, ada storage yang gede.
+125	Terus kalau kita buka di sini, ada storage yang gede.
+126	Terus kalau kita buka di sini, ada storage yang gede.
+127	Terus kalau kita buka di sini, ada storage yang gede. Dan kalau di sini kita buka, sudah soft opening.
+128	Terus kalau kita buka di sini, ada storage yang gede. Dan kalau di sini kita buka, sudah soft opening.
+129	Dan kalau di sini kita buka, sudah soft opening.
+130	Dan kalau di sini kita buka, sudah soft opening.
+131	Dan kalau di sini kita buka, sudah soft opening.
+132	Dan kalau di sini kita buka, sudah soft opening.
+133	Dan kalau di sini kita buka, sudah soft opening.
+134	Dan kalau di sini kita buka, sudah soft opening.
+135	[NO_SPEECH]
+136	Ukuran naik juga sangat besar.
+137	Ukuran naik juga sangat besar.
+138	Ukuran naik juga sangat besar.
+139	Ukuran naik juga sangat besar. Sekarang kita lihat bagian belakangnya yuk.
+140	Ukuran naik juga sangat besar. Sekarang kita lihat bagian belakangnya yuk.
+141	Sekarang kita lihat bagian belakangnya yuk.
+142	Sekarang kita lihat bagian belakangnya yuk.
+143	Sekarang kita lihat bagian belakangnya yuk.
+144	Baris keduanya, dia lega.
+145	Baris keduanya, dia lega.
+146	Baris keduanya, dia lega.
+147	Baris keduanya, dia lega.
+148	Baris keduanya, dia lega. Kanan-kirinya lebar.
+149	Baris keduanya, dia lega. Kanan-kirinya lebar.
+150	Kanan-kirinya lebar. Kita bisa jadikan yang balku tengah ini jadi armrest.
+151	Kanan-kirinya lebar. Kita bisa jadikan yang balku tengah ini jadi armrest.
+152	Kita bisa jadikan yang balku tengah ini jadi armrest.
+153	Kita bisa jadikan yang balku tengah ini jadi armrest.
+154	Kita bisa jadikan yang balku tengah ini jadi armrest.
+155	Kita bisa jadikan yang balku tengah ini jadi armrest.
+156	Kita bisa jadikan yang balku tengah ini jadi armrest.
+157	Kita bisa jadikan yang balku tengah ini jadi armrest.
+158	Kita bisa jadikan yang balku tengah ini jadi armrest. Terus kalau mau mengatur AC, ada di sini.
+159	Kita bisa jadikan yang balku tengah ini jadi armrest. Terus kalau mau mengatur AC, ada di sini.
+160	Terus kalau mau mengatur AC, ada di sini.
+161	Terus kalau mau mengatur AC, ada di sini.
+162	Terus kalau mau mengatur AC, ada di sini.
+163	Terus kalau mau mengatur AC, ada di sini. Ventilasi AC-nya ada di bagian samping.
+164	Ventilasi AC-nya ada di bagian samping.
+165	Ventilasi AC-nya ada di bagian samping.
+166	Ventilasi AC-nya ada di bagian samping.
+167	Ventilasi AC-nya ada di bagian samping.
+168	Ventilasi AC-nya ada di bagian samping.
+169	Ventilasi AC-nya ada di bagian samping. Bahkan sampai ke baris tiga.
+170	Ventilasi AC-nya ada di bagian samping. Bahkan sampai ke baris tiga.
+171	Bahkan sampai ke baris tiga.
+172	Bahkan sampai ke baris tiga.
+173	Bahkan sampai ke baris tiga.
+174	Bahkan sampai ke baris tiga. Itu AC-nya ada di atas double blower-nya.
+175	Itu AC-nya ada di atas double blower-nya.
+176	Itu AC-nya ada di atas double blower-nya.
+177	Itu AC-nya ada di atas double blower-nya.
+178	Itu AC-nya ada di atas double blower-nya. Terus kita juga dapat meja buat makan.
+179	Itu AC-nya ada di atas double blower-nya. Terus kita juga dapat meja buat makan.
+180	Terus kita juga dapat meja buat makan.
+181	Terus kita juga dapat meja buat makan.
+182	Terus kita juga dapat meja buat makan.
+183	Terus kita juga dapat meja buat makan. Dan kalau misalkan kita merasa belakangnya harus dapat legroom lebih,
+184	Terus kita juga dapat meja buat makan. Dan kalau misalkan kita merasa belakangnya harus dapat legroom lebih,
+185	Dan kalau misalkan kita merasa belakangnya harus dapat legroom lebih,
+186	Dan kalau misalkan kita merasa belakangnya harus dapat legroom lebih,
+187	Dan kalau misalkan kita merasa belakangnya harus dapat legroom lebih,
+188	Dan kalau misalkan kita merasa belakangnya harus dapat legroom lebih,
+189	Dan kalau misalkan kita merasa belakangnya harus dapat legroom lebih,
+190	Dan kalau misalkan kita merasa belakangnya harus dapat legroom lebih,
+191	Dan kalau misalkan kita merasa belakangnya harus dapat legroom lebih, tinggal dimajuin saja.
+192	Dan kalau misalkan kita merasa belakangnya harus dapat legroom lebih, tinggal dimajuin saja.
+193	tinggal dimajuin saja. Jaraknya juga jauh sliding-nya.
+194	tinggal dimajuin saja. Jaraknya juga jauh sliding-nya.
+195	Jaraknya juga jauh sliding-nya.
+196	Jaraknya juga jauh sliding-nya.
+197	Jaraknya juga jauh sliding-nya.
+198	Jaraknya juga jauh sliding-nya. Yuk, sekarang kita ke belakang.
+199	Jaraknya juga jauh sliding-nya. Yuk, sekarang kita ke belakang.
+200	Yuk, sekarang kita ke belakang.
+201	Yuk, sekarang kita ke belakang. Masuk ke akses belakangnya juga gampang karena sudah pakai one touch tumble.
+202	Masuk ke akses belakangnya juga gampang karena sudah pakai one touch tumble.
+203	Masuk ke akses belakangnya juga gampang karena sudah pakai one touch tumble.
+204	Masuk ke akses belakangnya juga gampang karena sudah pakai one touch tumble.
+205	Masuk ke akses belakangnya juga gampang karena sudah pakai one touch tumble.
+206	Masuk ke akses belakangnya juga gampang karena sudah pakai one touch tumble.
+207	Masuk ke akses belakangnya juga gampang karena sudah pakai one touch tumble. Dan di belakang sini, kalau misalkan tengahnya kita majuin,
+208	Masuk ke akses belakangnya juga gampang karena sudah pakai one touch tumble. Dan di belakang sini, kalau misalkan tengahnya kita majuin,
+209	Dan di belakang sini, kalau misalkan tengahnya kita majuin,
+210	Dan di belakang sini, kalau misalkan tengahnya kita majuin,
+211	Dan di belakang sini, kalau misalkan tengahnya kita majuin,
+212	Dan di belakang sini, kalau misalkan tengahnya kita majuin, dapat legroom yang lega.
+213	Dan di belakang sini, kalau misalkan tengahnya kita majuin, dapat legroom yang lega.
+214	dapat legroom yang lega.
+215	dapat legroom yang lega.
+216	dapat legroom yang lega. Terus kalau kita merasa kurang nyaman, tinggal dimundurin lagi saja.
+217	dapat legroom yang lega. Terus kalau kita merasa kurang nyaman, tinggal dimundurin lagi saja.
+218	Terus kalau kita merasa kurang nyaman, tinggal dimundurin lagi saja.
+219	Terus kalau kita merasa kurang nyaman, tinggal dimundurin lagi saja.
+220	Terus kalau kita merasa kurang nyaman, tinggal dimundurin lagi saja.
+221	Terus kalau kita merasa kurang nyaman, tinggal dimundurin lagi saja.
+222	Terus kalau kita merasa kurang nyaman, tinggal dimundurin lagi saja.
+223	Terus kalau kita merasa kurang nyaman, tinggal dimundurin lagi saja. Kita bisa duduk lebih rebah.
+224	Terus kalau kita merasa kurang nyaman, tinggal dimundurin lagi saja. Kita bisa duduk lebih rebah.
+225	Kita bisa duduk lebih rebah.
+226	Kita bisa duduk lebih rebah.
+227	Kita bisa duduk lebih rebah. Dan baris ketiga, tidak jadi anak pilihan.
+228	Kita bisa duduk lebih rebah. Dan baris ketiga, tidak jadi anak pilihan.
+229	Dan baris ketiga, tidak jadi anak pilihan.
+230	Dan baris ketiga, tidak jadi anak pilihan.
+231	Dan baris ketiga, tidak jadi anak pilihan.
+232	Dan baris ketiga, tidak jadi anak pilihan.
+233	Dan baris ketiga, tidak jadi anak pilihan.
+234	Dan baris ketiga, tidak jadi anak pilihan.  Kenapa? Karena kita dapat AC di bagian atas.
+235	Dan baris ketiga, tidak jadi anak pilihan.  Kenapa? Karena kita dapat AC di bagian atas.
+236	Kenapa? Karena kita dapat AC di bagian atas.
+237	Kenapa? Karena kita dapat AC di bagian atas.
+238	Kenapa? Karena kita dapat AC di bagian atas.
+239	Kenapa? Karena kita dapat AC di bagian atas. Terus sebelah kanan ada cup holder,
+240	Terus sebelah kanan ada cup holder,
+241	Terus sebelah kanan ada cup holder,
+242	Terus sebelah kanan ada cup holder, sama tempat buat taruh HP di sini.
+243	Terus sebelah kanan ada cup holder, sama tempat buat taruh HP di sini.
+244	sama tempat buat taruh HP di sini.
+245	sama tempat buat taruh HP di sini.
+246	sama tempat buat taruh HP di sini. Kalau mau ngecas juga ada.
+247	Kalau mau ngecas juga ada.
+248	Kalau mau ngecas juga ada.
+249	Kalau mau ngecas juga ada. USB-A, USB-C.
+250	Kalau mau ngecas juga ada. USB-A, USB-C.
+251	USB-A, USB-C.
+252	USB-A, USB-C. Dan kalau kita mau bagasi lebih lega, tinggal dilipat rata lantai saja.
+253	USB-A, USB-C. Dan kalau kita mau bagasi lebih lega, tinggal dilipat rata lantai saja.
+254	Dan kalau kita mau bagasi lebih lega, tinggal dilipat rata lantai saja.
+255	Dan kalau kita mau bagasi lebih lega, tinggal dilipat rata lantai saja.
+256	Dan kalau kita mau bagasi lebih lega, tinggal dilipat rata lantai saja.
+257	Dan kalau kita mau bagasi lebih lega, tinggal dilipat rata lantai saja.
+258	Dan kalau kita mau bagasi lebih lega, tinggal dilipat rata lantai saja.
+259	Dan kalau kita mau bagasi lebih lega, tinggal dilipat rata lantai saja.
+260	Dan kalau kita mau bagasi lebih lega, tinggal dilipat rata lantai saja. Kalau terasa masih kurang, tenang.
+261	Kalau terasa masih kurang, tenang.
+262	Kalau terasa masih kurang, tenang.
+263	Kalau terasa masih kurang, tenang.
+264	Kalau terasa masih kurang, tenang. Kita masih dapat storage di bawah sini yang cukup besar.
+265	Kalau terasa masih kurang, tenang. Kita masih dapat storage di bawah sini yang cukup besar.
+266	Kita masih dapat storage di bawah sini yang cukup besar.
+267	Kita masih dapat storage di bawah sini yang cukup besar.
+268	Kita masih dapat storage di bawah sini yang cukup besar.
+269	Kita masih dapat storage di bawah sini yang cukup besar.
+270	Kita masih dapat storage di bawah sini yang cukup besar. Dan dia sudah pakai power backdoor.
+271	Dan dia sudah pakai power backdoor.
+272	Dan dia sudah pakai power backdoor.
+273	Dan dia sudah pakai power backdoor.
+274	Dan dia sudah pakai power backdoor. Sama kalau misalkan ban kita bocor, tenang saja.
+275	Dan dia sudah pakai power backdoor. Sama kalau misalkan ban kita bocor, tenang saja.
+276	Sama kalau misalkan ban kita bocor, tenang saja.
+277	Sama kalau misalkan ban kita bocor, tenang saja.
+278	Sama kalau misalkan ban kita bocor, tenang saja.
+279	Sama kalau misalkan ban kita bocor, tenang saja.
+280	Sama kalau misalkan ban kita bocor, tenang saja. Dia masih dikasih ban serap di bagian bawah sini.
+281	Dia masih dikasih ban serap di bagian bawah sini.
+282	Dia masih dikasih ban serap di bagian bawah sini.
+283	Dia masih dikasih ban serap di bagian bawah sini.
+284	Dia masih dikasih ban serap di bagian bawah sini.
+285	Dia masih dikasih ban serap di bagian bawah sini.
+286	Dia masih dikasih ban serap di bagian bawah sini.
+287	[NO_SPEECH]
+288	[NO_SPEECH]
+289	Itu dia Mitsubishi Destinator.
+290	Itu dia Mitsubishi Destinator.
+291	Itu dia Mitsubishi Destinator.
+292	Itu dia Mitsubishi Destinator. Gimana menurut kalian?
+293	Itu dia Mitsubishi Destinator. Gimana menurut kalian?
+294	Gimana menurut kalian?
+295	Gimana menurut kalian? Coba komen di bawah.
+296	Coba komen di bawah. Dan buat teman-teman yang mau tes drive,
+297	Coba komen di bawah. Dan buat teman-teman yang mau tes drive,
+298	Dan buat teman-teman yang mau tes drive,
+299	Dan buat teman-teman yang mau tes drive, langsung saja ke Senayan Park sampai tanggal 20 Juli ini.
+300	Dan buat teman-teman yang mau tes drive, langsung saja ke Senayan Park sampai tanggal 20 Juli ini.
+301	langsung saja ke Senayan Park sampai tanggal 20 Juli ini.
+302	langsung saja ke Senayan Park sampai tanggal 20 Juli ini.
+303	langsung saja ke Senayan Park sampai tanggal 20 Juli ini.
+304	langsung saja ke Senayan Park sampai tanggal 20 Juli ini.
+305	langsung saja ke Senayan Park sampai tanggal 20 Juli ini. Terus di Gias nanti akan diumumkan berapa harganya,
+306	Terus di Gias nanti akan diumumkan berapa harganya,
+307	Terus di Gias nanti akan diumumkan berapa harganya,
+308	Terus di Gias nanti akan diumumkan berapa harganya,
+309	Terus di Gias nanti akan diumumkan berapa harganya,
+310	Terus di Gias nanti akan diumumkan berapa harganya, plus kalian bisa tes drive di sana.
+311	Terus di Gias nanti akan diumumkan berapa harganya, plus kalian bisa tes drive di sana.
+312	plus kalian bisa tes drive di sana.
+313	plus kalian bisa tes drive di sana. Kira-kira berapa harganya ya?
+314	plus kalian bisa tes drive di sana. Kira-kira berapa harganya ya?
+315	Kira-kira berapa harganya ya?
+316	Kira-kira berapa harganya ya?
+317	Kira-kira berapa harganya ya?
+318	[NO_SPEECH]
+319	[NO_SPEECH]
+320	[NO_SPEECH]
+321	[NO_SPEECH]

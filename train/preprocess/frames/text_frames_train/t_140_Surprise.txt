@@ -1,0 +1,255 @@
+0	Punya budget 200 juta, kalau di awal tahun lalu dapat mobil biasa aja, sekarang bisa naik kelas.
+1	Punya budget 200 juta, kalau di awal tahun lalu dapat mobil biasa aja, sekarang bisa naik kelas.
+2	Punya budget 200 juta, kalau di awal tahun lalu dapat mobil biasa aja, sekarang bisa naik kelas.
+3	Punya budget 200 juta, kalau di awal tahun lalu dapat mobil biasa aja, sekarang bisa naik kelas.
+4	Punya budget 200 juta, kalau di awal tahun lalu dapat mobil biasa aja, sekarang bisa naik kelas.
+5	Punya budget 200 juta, kalau di awal tahun lalu dapat mobil biasa aja, sekarang bisa naik kelas.
+6	Punya budget 200 juta, kalau di awal tahun lalu dapat mobil biasa aja, sekarang bisa naik kelas. Apa aja yang dapet ya? Yuk!
+7	Punya budget 200 juta, kalau di awal tahun lalu dapat mobil biasa aja, sekarang bisa naik kelas. Apa aja yang dapet ya? Yuk!
+8	Apa aja yang dapet ya? Yuk!
+9	Apa aja yang dapet ya? Yuk!
+10	Apa aja yang dapet ya? Yuk!
+11	[NO_SPEECH]
+12	Yang pertama ada di BYD, nggak usah pake diskon, harganya udah menarik banget.
+13	Yang pertama ada di BYD, nggak usah pake diskon, harganya udah menarik banget.
+14	Yang pertama ada di BYD, nggak usah pake diskon, harganya udah menarik banget.
+15	Yang pertama ada di BYD, nggak usah pake diskon, harganya udah menarik banget.
+16	Yang pertama ada di BYD, nggak usah pake diskon, harganya udah menarik banget.
+17	Yang pertama ada di BYD, nggak usah pake diskon, harganya udah menarik banget.
+18	Yang pertama ada di BYD, nggak usah pake diskon, harganya udah menarik banget.
+19	Yang pertama ada di BYD, nggak usah pake diskon, harganya udah menarik banget.
+20	Yang pertama ada di BYD, nggak usah pake diskon, harganya udah menarik banget. Karena dia dijual cuma dengan harga 195 juta rupiah untuk varian yang basic alias paling bawah.
+21	Yang pertama ada di BYD, nggak usah pake diskon, harganya udah menarik banget. Karena dia dijual cuma dengan harga 195 juta rupiah untuk varian yang basic alias paling bawah.
+22	Karena dia dijual cuma dengan harga 195 juta rupiah untuk varian yang basic alias paling bawah.
+23	Karena dia dijual cuma dengan harga 195 juta rupiah untuk varian yang basic alias paling bawah.
+24	Karena dia dijual cuma dengan harga 195 juta rupiah untuk varian yang basic alias paling bawah.
+25	Karena dia dijual cuma dengan harga 195 juta rupiah untuk varian yang basic alias paling bawah.
+26	Karena dia dijual cuma dengan harga 195 juta rupiah untuk varian yang basic alias paling bawah.
+27	Karena dia dijual cuma dengan harga 195 juta rupiah untuk varian yang basic alias paling bawah.
+28	Karena dia dijual cuma dengan harga 195 juta rupiah untuk varian yang basic alias paling bawah.
+29	Karena dia dijual cuma dengan harga 195 juta rupiah untuk varian yang basic alias paling bawah.
+30	Karena dia dijual cuma dengan harga 195 juta rupiah untuk varian yang basic alias paling bawah.
+31	Karena dia dijual cuma dengan harga 195 juta rupiah untuk varian yang basic alias paling bawah. Pindah ke Wuling, yang ini nih paling menarik.
+32	Pindah ke Wuling, yang ini nih paling menarik.
+33	Pindah ke Wuling, yang ini nih paling menarik.
+34	Pindah ke Wuling, yang ini nih paling menarik. Dari harga 279 jutaan, dia bisa didapat cuma 195 juta rupiah aja.
+35	Pindah ke Wuling, yang ini nih paling menarik. Dari harga 279 jutaan, dia bisa didapat cuma 195 juta rupiah aja.
+36	Dari harga 279 jutaan, dia bisa didapat cuma 195 juta rupiah aja.
+37	Dari harga 279 jutaan, dia bisa didapat cuma 195 juta rupiah aja.
+38	Dari harga 279 jutaan, dia bisa didapat cuma 195 juta rupiah aja.
+39	Dari harga 279 jutaan, dia bisa didapat cuma 195 juta rupiah aja.
+40	Dari harga 279 jutaan, dia bisa didapat cuma 195 juta rupiah aja.
+41	Dari harga 279 jutaan, dia bisa didapat cuma 195 juta rupiah aja.
+42	Dari harga 279 jutaan, dia bisa didapat cuma 195 juta rupiah aja.
+43	Dari harga 279 jutaan, dia bisa didapat cuma 195 juta rupiah aja.
+44	Dari harga 279 jutaan, dia bisa didapat cuma 195 juta rupiah aja.
+45	Dari harga 279 jutaan, dia bisa didapat cuma 195 juta rupiah aja. Percaya nggak tuh? Makanya langsung dateng kesini aja deh, beneran kok.
+46	Percaya nggak tuh? Makanya langsung dateng kesini aja deh, beneran kok.
+47	Percaya nggak tuh? Makanya langsung dateng kesini aja deh, beneran kok.
+48	Percaya nggak tuh? Makanya langsung dateng kesini aja deh, beneran kok.
+49	Percaya nggak tuh? Makanya langsung dateng kesini aja deh, beneran kok.
+50	Percaya nggak tuh? Makanya langsung dateng kesini aja deh, beneran kok. Pindah ke Suzuki, ternyata bisa dapet Suzuki Fronze GL varian manual di harga 249 juta rupiah.
+51	Percaya nggak tuh? Makanya langsung dateng kesini aja deh, beneran kok. Pindah ke Suzuki, ternyata bisa dapet Suzuki Fronze GL varian manual di harga 249 juta rupiah.
+52	Pindah ke Suzuki, ternyata bisa dapet Suzuki Fronze GL varian manual di harga 249 juta rupiah.
+53	Pindah ke Suzuki, ternyata bisa dapet Suzuki Fronze GL varian manual di harga 249 juta rupiah.
+54	Pindah ke Suzuki, ternyata bisa dapet Suzuki Fronze GL varian manual di harga 249 juta rupiah.
+55	Pindah ke Suzuki, ternyata bisa dapet Suzuki Fronze GL varian manual di harga 249 juta rupiah.
+56	Pindah ke Suzuki, ternyata bisa dapet Suzuki Fronze GL varian manual di harga 249 juta rupiah.
+57	Pindah ke Suzuki, ternyata bisa dapet Suzuki Fronze GL varian manual di harga 249 juta rupiah.
+58	Pindah ke Suzuki, ternyata bisa dapet Suzuki Fronze GL varian manual di harga 249 juta rupiah.
+59	Pindah ke Suzuki, ternyata bisa dapet Suzuki Fronze GL varian manual di harga 249 juta rupiah.
+60	Pindah ke Suzuki, ternyata bisa dapet Suzuki Fronze GL varian manual di harga 249 juta rupiah.
+61	Pindah ke Suzuki, ternyata bisa dapet Suzuki Fronze GL varian manual di harga 249 juta rupiah.
+62	Pindah ke Suzuki, ternyata bisa dapet Suzuki Fronze GL varian manual di harga 249 juta rupiah.
+63	Pindah ke Suzuki, ternyata bisa dapet Suzuki Fronze GL varian manual di harga 249 juta rupiah.
+64	Pindah ke Suzuki, ternyata bisa dapet Suzuki Fronze GL varian manual di harga 249 juta rupiah. 200 juta tambahin dikit lah, lumayan mobil keren.
+65	Pindah ke Suzuki, ternyata bisa dapet Suzuki Fronze GL varian manual di harga 249 juta rupiah. 200 juta tambahin dikit lah, lumayan mobil keren.
+66	200 juta tambahin dikit lah, lumayan mobil keren.
+67	200 juta tambahin dikit lah, lumayan mobil keren.
+68	200 juta tambahin dikit lah, lumayan mobil keren.
+69	200 juta tambahin dikit lah, lumayan mobil keren.
+70	200 juta tambahin dikit lah, lumayan mobil keren.
+71	Atau yang ini nih, 200 juta mah dapet.
+72	Atau yang ini nih, 200 juta mah dapet.
+73	Atau yang ini nih, 200 juta mah dapet.
+74	Atau yang ini nih, 200 juta mah dapet.
+75	Atau yang ini nih, 200 juta mah dapet.
+76	Atau yang ini nih, 200 juta mah dapet. Dapet hikmah sama stressnya doang paling.
+77	Dapet hikmah sama stressnya doang paling.
+78	Dapet hikmah sama stressnya doang paling.
+79	Dapet hikmah sama stressnya doang paling.
+80	Dapet hikmah sama stressnya doang paling.
+81	Dapet hikmah sama stressnya doang paling.
+82	Ini dia nih, pabrikan mobil yang jadi raja di harga 200 jutaan.
+83	Ini dia nih, pabrikan mobil yang jadi raja di harga 200 jutaan.
+84	Ini dia nih, pabrikan mobil yang jadi raja di harga 200 jutaan.
+85	Ini dia nih, pabrikan mobil yang jadi raja di harga 200 jutaan.
+86	Ini dia nih, pabrikan mobil yang jadi raja di harga 200 jutaan.
+87	Ini dia nih, pabrikan mobil yang jadi raja di harga 200 jutaan.
+88	Ini dia nih, pabrikan mobil yang jadi raja di harga 200 jutaan.
+89	Ini dia nih, pabrikan mobil yang jadi raja di harga 200 jutaan. Karena hampir semua line up mobilnya harganya 200 jutaan.
+90	Ini dia nih, pabrikan mobil yang jadi raja di harga 200 jutaan. Karena hampir semua line up mobilnya harganya 200 jutaan.
+91	Karena hampir semua line up mobilnya harganya 200 jutaan.
+92	Karena hampir semua line up mobilnya harganya 200 jutaan.
+93	Karena hampir semua line up mobilnya harganya 200 jutaan.
+94	Karena hampir semua line up mobilnya harganya 200 jutaan. Tapi yang jadi highlight kita kali ini, ada Datsun New Terios, varian terbawah, yang manual.
+95	Karena hampir semua line up mobilnya harganya 200 jutaan. Tapi yang jadi highlight kita kali ini, ada Datsun New Terios, varian terbawah, yang manual.
+96	Tapi yang jadi highlight kita kali ini, ada Datsun New Terios, varian terbawah, yang manual.
+97	Tapi yang jadi highlight kita kali ini, ada Datsun New Terios, varian terbawah, yang manual.
+98	Tapi yang jadi highlight kita kali ini, ada Datsun New Terios, varian terbawah, yang manual.
+99	Tapi yang jadi highlight kita kali ini, ada Datsun New Terios, varian terbawah, yang manual.
+100	Tapi yang jadi highlight kita kali ini, ada Datsun New Terios, varian terbawah, yang manual.
+101	Tapi yang jadi highlight kita kali ini, ada Datsun New Terios, varian terbawah, yang manual.
+102	Tapi yang jadi highlight kita kali ini, ada Datsun New Terios, varian terbawah, yang manual.
+103	Tapi yang jadi highlight kita kali ini, ada Datsun New Terios, varian terbawah, yang manual.
+104	Tapi yang jadi highlight kita kali ini, ada Datsun New Terios, varian terbawah, yang manual.
+105	Tapi yang jadi highlight kita kali ini, ada Datsun New Terios, varian terbawah, yang manual.
+106	Tapi yang jadi highlight kita kali ini, ada Datsun New Terios, varian terbawah, yang manual. Dia sekarang dijual dengan harga 230 jutaan.
+107	Tapi yang jadi highlight kita kali ini, ada Datsun New Terios, varian terbawah, yang manual. Dia sekarang dijual dengan harga 230 jutaan.
+108	Dia sekarang dijual dengan harga 230 jutaan.
+109	Dia sekarang dijual dengan harga 230 jutaan.
+110	Dia sekarang dijual dengan harga 230 jutaan. 28 juta rupiah aja.
+111	Dia sekarang dijual dengan harga 230 jutaan. 28 juta rupiah aja.
+112	28 juta rupiah aja. Menarik banget nih, 7 penumpang loh.
+113	28 juta rupiah aja. Menarik banget nih, 7 penumpang loh.
+114	Menarik banget nih, 7 penumpang loh.
+115	Menarik banget nih, 7 penumpang loh.
+116	Menarik banget nih, 7 penumpang loh.
+117	Menarik banget nih, 7 penumpang loh. Di Mitsubishi ternyata bisa dapet expander GLS manual,
+118	Di Mitsubishi ternyata bisa dapet expander GLS manual,
+119	Di Mitsubishi ternyata bisa dapet expander GLS manual,
+120	Di Mitsubishi ternyata bisa dapet expander GLS manual,
+121	Di Mitsubishi ternyata bisa dapet expander GLS manual,
+122	Di Mitsubishi ternyata bisa dapet expander GLS manual,
+123	Di Mitsubishi ternyata bisa dapet expander GLS manual, yang harganya ternyata sekarang bisa dapet di 257 jutaan.
+124	yang harganya ternyata sekarang bisa dapet di 257 jutaan.
+125	yang harganya ternyata sekarang bisa dapet di 257 jutaan.
+126	yang harganya ternyata sekarang bisa dapet di 257 jutaan.
+127	yang harganya ternyata sekarang bisa dapet di 257 jutaan.
+128	yang harganya ternyata sekarang bisa dapet di 257 jutaan.
+129	yang harganya ternyata sekarang bisa dapet di 257 jutaan.
+130	yang harganya ternyata sekarang bisa dapet di 257 jutaan.
+131	yang harganya ternyata sekarang bisa dapet di 257 jutaan.
+132	Menarik banget nih.
+133	Menarik banget nih.
+134	Menarik banget nih.
+135	Menarik banget nih. Kalau main ke Chery, 200 juta tambahin 40 juta aja.
+136	Kalau main ke Chery, 200 juta tambahin 40 juta aja.
+137	Kalau main ke Chery, 200 juta tambahin 40 juta aja.
+138	Kalau main ke Chery, 200 juta tambahin 40 juta aja.
+139	Kalau main ke Chery, 200 juta tambahin 40 juta aja.
+140	Kalau main ke Chery, 200 juta tambahin 40 juta aja. Bisa dapet Chery T Go Cross terbaru ini nih.
+141	Kalau main ke Chery, 200 juta tambahin 40 juta aja. Bisa dapet Chery T Go Cross terbaru ini nih.
+142	Bisa dapet Chery T Go Cross terbaru ini nih.
+143	Bisa dapet Chery T Go Cross terbaru ini nih.
+144	Bisa dapet Chery T Go Cross terbaru ini nih.
+145	Bisa dapet Chery T Go Cross terbaru ini nih. Pindah ke Toyota, kalau tahun lalu kita pilih Agia,
+146	Bisa dapet Chery T Go Cross terbaru ini nih. Pindah ke Toyota, kalau tahun lalu kita pilih Agia,
+147	Pindah ke Toyota, kalau tahun lalu kita pilih Agia,
+148	Pindah ke Toyota, kalau tahun lalu kita pilih Agia,
+149	Pindah ke Toyota, kalau tahun lalu kita pilih Agia,
+150	Pindah ke Toyota, kalau tahun lalu kita pilih Agia,
+151	Pindah ke Toyota, kalau tahun lalu kita pilih Agia,
+152	Pindah ke Toyota, kalau tahun lalu kita pilih Agia, tahun ini ternyata 214 juta rupiah dapet race G manual.
+153	Pindah ke Toyota, kalau tahun lalu kita pilih Agia, tahun ini ternyata 214 juta rupiah dapet race G manual.
+154	tahun ini ternyata 214 juta rupiah dapet race G manual.
+155	tahun ini ternyata 214 juta rupiah dapet race G manual.
+156	tahun ini ternyata 214 juta rupiah dapet race G manual.
+157	tahun ini ternyata 214 juta rupiah dapet race G manual.
+158	tahun ini ternyata 214 juta rupiah dapet race G manual.
+159	tahun ini ternyata 214 juta rupiah dapet race G manual.
+160	tahun ini ternyata 214 juta rupiah dapet race G manual.
+161	tahun ini ternyata 214 juta rupiah dapet race G manual. Lebih keren ini sih, pastilah.
+162	Lebih keren ini sih, pastilah.
+163	Lebih keren ini sih, pastilah.
+164	Lebih keren ini sih, pastilah.
+165	Lebih keren ini sih, pastilah. Kalau di Honda masih sama sama awal tahun kemarin,
+166	Kalau di Honda masih sama sama awal tahun kemarin,
+167	Kalau di Honda masih sama sama awal tahun kemarin,
+168	Kalau di Honda masih sama sama awal tahun kemarin,
+169	Kalau di Honda masih sama sama awal tahun kemarin,
+170	Kalau di Honda masih sama sama awal tahun kemarin, biasanya Honda Brio e-CVT,
+171	biasanya Honda Brio e-CVT,
+172	biasanya Honda Brio e-CVT,
+173	biasanya Honda Brio e-CVT, tapi kalau awal tahun kemarin 190 juta,
+174	biasanya Honda Brio e-CVT, tapi kalau awal tahun kemarin 190 juta,
+175	tapi kalau awal tahun kemarin 190 juta,
+176	tapi kalau awal tahun kemarin 190 juta,
+177	tapi kalau awal tahun kemarin 190 juta,
+178	tapi kalau awal tahun kemarin 190 juta, sekarang bisa dibeli cuma 180 juta aja.
+179	tapi kalau awal tahun kemarin 190 juta, sekarang bisa dibeli cuma 180 juta aja.
+180	sekarang bisa dibeli cuma 180 juta aja.
+181	sekarang bisa dibeli cuma 180 juta aja.
+182	sekarang bisa dibeli cuma 180 juta aja.
+183	sekarang bisa dibeli cuma 180 juta aja.
+184	sekarang bisa dibeli cuma 180 juta aja. Kalau di Hyundai bisa dapet Stargazer Essentials,
+185	Kalau di Hyundai bisa dapet Stargazer Essentials,
+186	Kalau di Hyundai bisa dapet Stargazer Essentials,
+187	Kalau di Hyundai bisa dapet Stargazer Essentials,
+188	Kalau di Hyundai bisa dapet Stargazer Essentials,
+189	Kalau di Hyundai bisa dapet Stargazer Essentials,
+190	Kalau di Hyundai bisa dapet Stargazer Essentials,
+191	Kalau di Hyundai bisa dapet Stargazer Essentials, tapi masih muka lama,
+192	Kalau di Hyundai bisa dapet Stargazer Essentials, tapi masih muka lama,
+193	tapi masih muka lama,
+194	tapi masih muka lama, dia harganya sekarang 200 juta tambah 42 juta rupiah.
+195	dia harganya sekarang 200 juta tambah 42 juta rupiah.
+196	dia harganya sekarang 200 juta tambah 42 juta rupiah.
+197	dia harganya sekarang 200 juta tambah 42 juta rupiah.
+198	dia harganya sekarang 200 juta tambah 42 juta rupiah.
+199	dia harganya sekarang 200 juta tambah 42 juta rupiah.
+200	dia harganya sekarang 200 juta tambah 42 juta rupiah.
+201	dia harganya sekarang 200 juta tambah 42 juta rupiah. Ini udah dari harga 280 juta loh.
+202	Ini udah dari harga 280 juta loh.
+203	Ini udah dari harga 280 juta loh.
+204	Ini udah dari harga 280 juta loh.
+205	Ini udah dari harga 280 juta loh. 200 juta tambahin 50 juta, dapet nih Citroen C3 Aircross,
+206	Ini udah dari harga 280 juta loh. 200 juta tambahin 50 juta, dapet nih Citroen C3 Aircross,
+207	200 juta tambahin 50 juta, dapet nih Citroen C3 Aircross,
+208	200 juta tambahin 50 juta, dapet nih Citroen C3 Aircross,
+209	200 juta tambahin 50 juta, dapet nih Citroen C3 Aircross,
+210	200 juta tambahin 50 juta, dapet nih Citroen C3 Aircross,
+211	200 juta tambahin 50 juta, dapet nih Citroen C3 Aircross,
+212	200 juta tambahin 50 juta, dapet nih Citroen C3 Aircross,
+213	200 juta tambahin 50 juta, dapet nih Citroen C3 Aircross, udah mobil Eropa, 7-seater pula.
+214	200 juta tambahin 50 juta, dapet nih Citroen C3 Aircross, udah mobil Eropa, 7-seater pula.
+215	udah mobil Eropa, 7-seater pula.
+216	udah mobil Eropa, 7-seater pula.
+217	udah mobil Eropa, 7-seater pula.
+218	Kalau pindah ke Ceres, masih ada Ceres E1 yang harganya sekarang 168 juta rupiah.
+219	Kalau pindah ke Ceres, masih ada Ceres E1 yang harganya sekarang 168 juta rupiah.
+220	Kalau pindah ke Ceres, masih ada Ceres E1 yang harganya sekarang 168 juta rupiah.
+221	Kalau pindah ke Ceres, masih ada Ceres E1 yang harganya sekarang 168 juta rupiah.
+222	Kalau pindah ke Ceres, masih ada Ceres E1 yang harganya sekarang 168 juta rupiah.
+223	Kalau pindah ke Ceres, masih ada Ceres E1 yang harganya sekarang 168 juta rupiah.
+224	Kalau pindah ke Ceres, masih ada Ceres E1 yang harganya sekarang 168 juta rupiah.
+225	Kalau pindah ke Ceres, masih ada Ceres E1 yang harganya sekarang 168 juta rupiah.
+226	Kalau pindah ke Ceres, masih ada Ceres E1 yang harganya sekarang 168 juta rupiah.
+227	Kalau pindah ke Ceres, masih ada Ceres E1 yang harganya sekarang 168 juta rupiah.
+228	Kalau pindah ke Ceres, masih ada Ceres E1 yang harganya sekarang 168 juta rupiah. Ini varian tertinggi ya.
+229	Ini varian tertinggi ya.
+230	Ini varian tertinggi ya. Yang jaraknya 220 km.
+231	Ini varian tertinggi ya. Yang jaraknya 220 km.
+232	Yang jaraknya 220 km.
+233	Yang jaraknya 220 km. Kalau dari Vietnam kita bisa dapet VF3,
+234	Kalau dari Vietnam kita bisa dapet VF3,
+235	Kalau dari Vietnam kita bisa dapet VF3,
+236	Kalau dari Vietnam kita bisa dapet VF3,
+237	Kalau dari Vietnam kita bisa dapet VF3,
+238	Kalau dari Vietnam kita bisa dapet VF3,
+239	Kalau dari Vietnam kita bisa dapet VF3, 192 juta, 280 ribu rupiah.
+240	192 juta, 280 ribu rupiah.
+241	192 juta, 280 ribu rupiah.
+242	192 juta, 280 ribu rupiah.
+243	192 juta, 280 ribu rupiah.
+244	192 juta, 280 ribu rupiah.
+245	192 juta, 280 ribu rupiah. Ini harganya mirip-mirip sama waktu launching sebenernya sih.
+246	Ini harganya mirip-mirip sama waktu launching sebenernya sih.
+247	Ini harganya mirip-mirip sama waktu launching sebenernya sih.
+248	Ini harganya mirip-mirip sama waktu launching sebenernya sih.
+249	Ini harganya mirip-mirip sama waktu launching sebenernya sih.
+250	Ini harganya mirip-mirip sama waktu launching sebenernya sih. Tapi masih oke lah.
+251	Ini harganya mirip-mirip sama waktu launching sebenernya sih. Tapi masih oke lah.
+252	Tapi masih oke lah.
+253	Tapi masih oke lah.
+254	[NO_SPEECH]

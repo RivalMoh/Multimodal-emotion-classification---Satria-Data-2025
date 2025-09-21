@@ -1,0 +1,79 @@
+0	Makan mie saat sahur, emang instan, tapi jangan, sering-sering ya.
+1	Makan mie saat sahur, emang instan, tapi jangan, sering-sering ya.
+2	Makan mie saat sahur, emang instan, tapi jangan, sering-sering ya.
+3	Makan mie saat sahur, emang instan, tapi jangan, sering-sering ya.
+4	Makan mie saat sahur, emang instan, tapi jangan, sering-sering ya.
+5	Makan mie saat sahur, emang instan, tapi jangan, sering-sering ya.
+6	Makan mie saat sahur, emang instan, tapi jangan, sering-sering ya.
+7	Makan mie saat sahur, emang instan, tapi jangan, sering-sering ya.
+8	Makan mie saat sahur, emang instan, tapi jangan, sering-sering ya. Karena mie instan terbuat dari tepung yang mudah dicerna tubuh.
+9	Karena mie instan terbuat dari tepung yang mudah dicerna tubuh.
+10	Karena mie instan terbuat dari tepung yang mudah dicerna tubuh.
+11	Karena mie instan terbuat dari tepung yang mudah dicerna tubuh.
+12	Karena mie instan terbuat dari tepung yang mudah dicerna tubuh.
+13	Karena mie instan terbuat dari tepung yang mudah dicerna tubuh.
+14	Karena mie instan terbuat dari tepung yang mudah dicerna tubuh.
+15	Karena mie instan terbuat dari tepung yang mudah dicerna tubuh.
+16	Karena mie instan terbuat dari tepung yang mudah dicerna tubuh.
+17	Karena mie instan terbuat dari tepung yang mudah dicerna tubuh. Sehingga dalam waktu singkat akan membuat kamu cepat lapar.
+18	Sehingga dalam waktu singkat akan membuat kamu cepat lapar.
+19	Sehingga dalam waktu singkat akan membuat kamu cepat lapar.
+20	Sehingga dalam waktu singkat akan membuat kamu cepat lapar.
+21	Sehingga dalam waktu singkat akan membuat kamu cepat lapar.
+22	Sehingga dalam waktu singkat akan membuat kamu cepat lapar.
+23	Sehingga dalam waktu singkat akan membuat kamu cepat lapar.
+24	Sehingga dalam waktu singkat akan membuat kamu cepat lapar. Kandungan pengawet dalam mie instan juga kurang baik nih untuk kesehatan.
+25	Kandungan pengawet dalam mie instan juga kurang baik nih untuk kesehatan.
+26	Kandungan pengawet dalam mie instan juga kurang baik nih untuk kesehatan.
+27	Kandungan pengawet dalam mie instan juga kurang baik nih untuk kesehatan.
+28	Kandungan pengawet dalam mie instan juga kurang baik nih untuk kesehatan.
+29	Kandungan pengawet dalam mie instan juga kurang baik nih untuk kesehatan.
+30	Kandungan pengawet dalam mie instan juga kurang baik nih untuk kesehatan.
+31	Kandungan pengawet dalam mie instan juga kurang baik nih untuk kesehatan.
+32	Kandungan pengawet dalam mie instan juga kurang baik nih untuk kesehatan.
+33	Kandungan pengawet dalam mie instan juga kurang baik nih untuk kesehatan.
+34	Kandungan pengawet dalam mie instan juga kurang baik nih untuk kesehatan. Makanya nggak heran deh, kalau kamu makan mie instan saat sahur pasti akan cepat lapar di siang hari.
+35	Makanya nggak heran deh, kalau kamu makan mie instan saat sahur pasti akan cepat lapar di siang hari.
+36	Makanya nggak heran deh, kalau kamu makan mie instan saat sahur pasti akan cepat lapar di siang hari.
+37	Makanya nggak heran deh, kalau kamu makan mie instan saat sahur pasti akan cepat lapar di siang hari.
+38	Makanya nggak heran deh, kalau kamu makan mie instan saat sahur pasti akan cepat lapar di siang hari.
+39	Makanya nggak heran deh, kalau kamu makan mie instan saat sahur pasti akan cepat lapar di siang hari.
+40	Makanya nggak heran deh, kalau kamu makan mie instan saat sahur pasti akan cepat lapar di siang hari.
+41	Makanya nggak heran deh, kalau kamu makan mie instan saat sahur pasti akan cepat lapar di siang hari.
+42	Makanya nggak heran deh, kalau kamu makan mie instan saat sahur pasti akan cepat lapar di siang hari.
+43	Makanya nggak heran deh, kalau kamu makan mie instan saat sahur pasti akan cepat lapar di siang hari.
+44	Makanya nggak heran deh, kalau kamu makan mie instan saat sahur pasti akan cepat lapar di siang hari.
+45	Makanya nggak heran deh, kalau kamu makan mie instan saat sahur pasti akan cepat lapar di siang hari.
+46	Makanya nggak heran deh, kalau kamu makan mie instan saat sahur pasti akan cepat lapar di siang hari.
+47	Makanya nggak heran deh, kalau kamu makan mie instan saat sahur pasti akan cepat lapar di siang hari. Makan mie instan boleh aja, asal harus diimbangi sayuran dan protein ya supaya tubuh kamu tetap fit selama menjalani puasa.
+48	Makanya nggak heran deh, kalau kamu makan mie instan saat sahur pasti akan cepat lapar di siang hari. Makan mie instan boleh aja, asal harus diimbangi sayuran dan protein ya supaya tubuh kamu tetap fit selama menjalani puasa.
+49	Makan mie instan boleh aja, asal harus diimbangi sayuran dan protein ya supaya tubuh kamu tetap fit selama menjalani puasa.
+50	Makan mie instan boleh aja, asal harus diimbangi sayuran dan protein ya supaya tubuh kamu tetap fit selama menjalani puasa.
+51	Makan mie instan boleh aja, asal harus diimbangi sayuran dan protein ya supaya tubuh kamu tetap fit selama menjalani puasa.
+52	Makan mie instan boleh aja, asal harus diimbangi sayuran dan protein ya supaya tubuh kamu tetap fit selama menjalani puasa.
+53	Makan mie instan boleh aja, asal harus diimbangi sayuran dan protein ya supaya tubuh kamu tetap fit selama menjalani puasa.
+54	Makan mie instan boleh aja, asal harus diimbangi sayuran dan protein ya supaya tubuh kamu tetap fit selama menjalani puasa.
+55	Makan mie instan boleh aja, asal harus diimbangi sayuran dan protein ya supaya tubuh kamu tetap fit selama menjalani puasa.
+56	Makan mie instan boleh aja, asal harus diimbangi sayuran dan protein ya supaya tubuh kamu tetap fit selama menjalani puasa.
+57	Makan mie instan boleh aja, asal harus diimbangi sayuran dan protein ya supaya tubuh kamu tetap fit selama menjalani puasa.
+58	Makan mie instan boleh aja, asal harus diimbangi sayuran dan protein ya supaya tubuh kamu tetap fit selama menjalani puasa.
+59	Makan mie instan boleh aja, asal harus diimbangi sayuran dan protein ya supaya tubuh kamu tetap fit selama menjalani puasa.
+60	Makan mie instan boleh aja, asal harus diimbangi sayuran dan protein ya supaya tubuh kamu tetap fit selama menjalani puasa.
+61	Makan mie instan boleh aja, asal harus diimbangi sayuran dan protein ya supaya tubuh kamu tetap fit selama menjalani puasa.
+62	Makan mie instan boleh aja, asal harus diimbangi sayuran dan protein ya supaya tubuh kamu tetap fit selama menjalani puasa.
+63	Makan mie instan boleh aja, asal harus diimbangi sayuran dan protein ya supaya tubuh kamu tetap fit selama menjalani puasa.
+64	Makan mie instan boleh aja, asal harus diimbangi sayuran dan protein ya supaya tubuh kamu tetap fit selama menjalani puasa.
+65	Makan mie instan boleh aja, asal harus diimbangi sayuran dan protein ya supaya tubuh kamu tetap fit selama menjalani puasa. Nah, kalau sobat sehat seberapa sering nih makan mie instan saat sahur?
+66	Nah, kalau sobat sehat seberapa sering nih makan mie instan saat sahur?
+67	Nah, kalau sobat sehat seberapa sering nih makan mie instan saat sahur?
+68	Nah, kalau sobat sehat seberapa sering nih makan mie instan saat sahur?
+69	Nah, kalau sobat sehat seberapa sering nih makan mie instan saat sahur?
+70	Nah, kalau sobat sehat seberapa sering nih makan mie instan saat sahur?
+71	Nah, kalau sobat sehat seberapa sering nih makan mie instan saat sahur?
+72	Nah, kalau sobat sehat seberapa sering nih makan mie instan saat sahur?
+73	Nah, kalau sobat sehat seberapa sering nih makan mie instan saat sahur?
+74	[NO_SPEECH]
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]

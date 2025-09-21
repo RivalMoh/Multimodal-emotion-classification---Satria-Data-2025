@@ -1,0 +1,88 @@
+0	Dokter hewan pasiennya kuda udah biasa, kalau pasiennya kuda laut udah pernah lihat belum?
+1	Dokter hewan pasiennya kuda udah biasa, kalau pasiennya kuda laut udah pernah lihat belum?
+2	Dokter hewan pasiennya kuda udah biasa, kalau pasiennya kuda laut udah pernah lihat belum?
+3	Dokter hewan pasiennya kuda udah biasa, kalau pasiennya kuda laut udah pernah lihat belum?
+4	Dokter hewan pasiennya kuda udah biasa, kalau pasiennya kuda laut udah pernah lihat belum?
+5	Dokter hewan pasiennya kuda udah biasa, kalau pasiennya kuda laut udah pernah lihat belum?
+6	Dokter hewan pasiennya kuda udah biasa, kalau pasiennya kuda laut udah pernah lihat belum?
+7	Dokter hewan pasiennya kuda udah biasa, kalau pasiennya kuda laut udah pernah lihat belum?
+8	Dokter hewan pasiennya kuda udah biasa, kalau pasiennya kuda laut udah pernah lihat belum?
+9	Dokter hewan pasiennya kuda udah biasa, kalau pasiennya kuda laut udah pernah lihat belum? Di video kali ini aku mau nyeritain pasien kuda laut yang terkena gas bubble disease.
+10	Dokter hewan pasiennya kuda udah biasa, kalau pasiennya kuda laut udah pernah lihat belum? Di video kali ini aku mau nyeritain pasien kuda laut yang terkena gas bubble disease.
+11	Di video kali ini aku mau nyeritain pasien kuda laut yang terkena gas bubble disease.
+12	Di video kali ini aku mau nyeritain pasien kuda laut yang terkena gas bubble disease.
+13	Di video kali ini aku mau nyeritain pasien kuda laut yang terkena gas bubble disease.
+14	Di video kali ini aku mau nyeritain pasien kuda laut yang terkena gas bubble disease.
+15	Di video kali ini aku mau nyeritain pasien kuda laut yang terkena gas bubble disease.
+16	Di video kali ini aku mau nyeritain pasien kuda laut yang terkena gas bubble disease.
+17	Di video kali ini aku mau nyeritain pasien kuda laut yang terkena gas bubble disease.
+18	Di video kali ini aku mau nyeritain pasien kuda laut yang terkena gas bubble disease.
+19	Di video kali ini aku mau nyeritain pasien kuda laut yang terkena gas bubble disease. Jadi kuda laut ini berenangnya tidak bisa normal karena memang ada kelebihan gas pada kantungnya.
+20	Jadi kuda laut ini berenangnya tidak bisa normal karena memang ada kelebihan gas pada kantungnya.
+21	Jadi kuda laut ini berenangnya tidak bisa normal karena memang ada kelebihan gas pada kantungnya.
+22	Jadi kuda laut ini berenangnya tidak bisa normal karena memang ada kelebihan gas pada kantungnya.
+23	Jadi kuda laut ini berenangnya tidak bisa normal karena memang ada kelebihan gas pada kantungnya.
+24	Jadi kuda laut ini berenangnya tidak bisa normal karena memang ada kelebihan gas pada kantungnya.
+25	Jadi kuda laut ini berenangnya tidak bisa normal karena memang ada kelebihan gas pada kantungnya.
+26	Jadi kuda laut ini berenangnya tidak bisa normal karena memang ada kelebihan gas pada kantungnya.
+27	Jadi kuda laut ini berenangnya tidak bisa normal karena memang ada kelebihan gas pada kantungnya.
+28	Jadi kuda laut ini berenangnya tidak bisa normal karena memang ada kelebihan gas pada kantungnya.
+29	Jadi kuda laut ini berenangnya tidak bisa normal karena memang ada kelebihan gas pada kantungnya. Kasus ini kebetulan ditangani oleh kolega aku, Dr. Alex di New York.
+30	Jadi kuda laut ini berenangnya tidak bisa normal karena memang ada kelebihan gas pada kantungnya. Kasus ini kebetulan ditangani oleh kolega aku, Dr. Alex di New York.
+31	Kasus ini kebetulan ditangani oleh kolega aku, Dr. Alex di New York.
+32	Kasus ini kebetulan ditangani oleh kolega aku, Dr. Alex di New York.
+33	Kasus ini kebetulan ditangani oleh kolega aku, Dr. Alex di New York.
+34	Kasus ini kebetulan ditangani oleh kolega aku, Dr. Alex di New York.
+35	Kasus ini kebetulan ditangani oleh kolega aku, Dr. Alex di New York.
+36	Kasus ini kebetulan ditangani oleh kolega aku, Dr. Alex di New York.
+37	Kasus ini kebetulan ditangani oleh kolega aku, Dr. Alex di New York. Beliau memang request kasus ini untuk di-share untuk bahan belajar para dokter hewan di Indonesia.
+38	Kasus ini kebetulan ditangani oleh kolega aku, Dr. Alex di New York. Beliau memang request kasus ini untuk di-share untuk bahan belajar para dokter hewan di Indonesia.
+39	Beliau memang request kasus ini untuk di-share untuk bahan belajar para dokter hewan di Indonesia.
+40	Beliau memang request kasus ini untuk di-share untuk bahan belajar para dokter hewan di Indonesia.
+41	Beliau memang request kasus ini untuk di-share untuk bahan belajar para dokter hewan di Indonesia.
+42	Beliau memang request kasus ini untuk di-share untuk bahan belajar para dokter hewan di Indonesia.
+43	Beliau memang request kasus ini untuk di-share untuk bahan belajar para dokter hewan di Indonesia.
+44	Beliau memang request kasus ini untuk di-share untuk bahan belajar para dokter hewan di Indonesia.
+45	Beliau memang request kasus ini untuk di-share untuk bahan belajar para dokter hewan di Indonesia.
+46	Beliau memang request kasus ini untuk di-share untuk bahan belajar para dokter hewan di Indonesia.
+47	Beliau memang request kasus ini untuk di-share untuk bahan belajar para dokter hewan di Indonesia. Yang membuat aku amazed penanganan gas bubble disease ini adalah pemasangan katheter.
+48	Beliau memang request kasus ini untuk di-share untuk bahan belajar para dokter hewan di Indonesia. Yang membuat aku amazed penanganan gas bubble disease ini adalah pemasangan katheter.
+49	Yang membuat aku amazed penanganan gas bubble disease ini adalah pemasangan katheter.
+50	Yang membuat aku amazed penanganan gas bubble disease ini adalah pemasangan katheter.
+51	Yang membuat aku amazed penanganan gas bubble disease ini adalah pemasangan katheter.
+52	Yang membuat aku amazed penanganan gas bubble disease ini adalah pemasangan katheter.
+53	Yang membuat aku amazed penanganan gas bubble disease ini adalah pemasangan katheter.
+54	Yang membuat aku amazed penanganan gas bubble disease ini adalah pemasangan katheter.
+55	Yang membuat aku amazed penanganan gas bubble disease ini adalah pemasangan katheter.
+56	Yang membuat aku amazed penanganan gas bubble disease ini adalah pemasangan katheter. Katheter dipasang tujuannya untuk melepaskan gas yang terperangkap di dalam kantong.
+57	Yang membuat aku amazed penanganan gas bubble disease ini adalah pemasangan katheter. Katheter dipasang tujuannya untuk melepaskan gas yang terperangkap di dalam kantong.
+58	Katheter dipasang tujuannya untuk melepaskan gas yang terperangkap di dalam kantong.
+59	Katheter dipasang tujuannya untuk melepaskan gas yang terperangkap di dalam kantong.
+60	Katheter dipasang tujuannya untuk melepaskan gas yang terperangkap di dalam kantong.
+61	Katheter dipasang tujuannya untuk melepaskan gas yang terperangkap di dalam kantong.
+62	Katheter dipasang tujuannya untuk melepaskan gas yang terperangkap di dalam kantong.
+63	Katheter dipasang tujuannya untuk melepaskan gas yang terperangkap di dalam kantong.
+64	Katheter dipasang tujuannya untuk melepaskan gas yang terperangkap di dalam kantong.
+65	Katheter dipasang tujuannya untuk melepaskan gas yang terperangkap di dalam kantong. Setelah katheternya dipasang, kuda laut bisa berenang kembali secara normal.
+66	Katheter dipasang tujuannya untuk melepaskan gas yang terperangkap di dalam kantong. Setelah katheternya dipasang, kuda laut bisa berenang kembali secara normal.
+67	Setelah katheternya dipasang, kuda laut bisa berenang kembali secara normal.
+68	Setelah katheternya dipasang, kuda laut bisa berenang kembali secara normal.
+69	Setelah katheternya dipasang, kuda laut bisa berenang kembali secara normal.
+70	Setelah katheternya dipasang, kuda laut bisa berenang kembali secara normal.
+71	Setelah katheternya dipasang, kuda laut bisa berenang kembali secara normal.
+72	Setelah katheternya dipasang, kuda laut bisa berenang kembali secara normal.
+73	Setelah katheternya dipasang, kuda laut bisa berenang kembali secara normal. Dunia kedokteran ikan ternyata masih sangat luas ya.
+74	Dunia kedokteran ikan ternyata masih sangat luas ya.
+75	Dunia kedokteran ikan ternyata masih sangat luas ya.
+76	Dunia kedokteran ikan ternyata masih sangat luas ya.
+77	Dunia kedokteran ikan ternyata masih sangat luas ya.
+78	Dunia kedokteran ikan ternyata masih sangat luas ya. Soon aku akan expand rawat inap untuk ikan air laut juga.
+79	Dunia kedokteran ikan ternyata masih sangat luas ya. Soon aku akan expand rawat inap untuk ikan air laut juga.
+80	Soon aku akan expand rawat inap untuk ikan air laut juga.
+81	Soon aku akan expand rawat inap untuk ikan air laut juga.
+82	Soon aku akan expand rawat inap untuk ikan air laut juga.
+83	Soon aku akan expand rawat inap untuk ikan air laut juga.
+84	Soon aku akan expand rawat inap untuk ikan air laut juga.
+85	Soon aku akan expand rawat inap untuk ikan air laut juga.
+86	[NO_SPEECH]
+87	[NO_SPEECH]

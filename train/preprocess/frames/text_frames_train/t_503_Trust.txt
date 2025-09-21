@@ -1,0 +1,178 @@
+0	2025 masih belum bisa berenang kayak kata
+1	2025 masih belum bisa berenang kayak kata
+2	2025 masih belum bisa berenang kayak kata
+3	2025 masih belum bisa berenang kayak kata
+4	2025 masih belum bisa berenang kayak kata Sini gue ajarin guys
+5	2025 masih belum bisa berenang kayak kata Sini gue ajarin guys
+6	Sini gue ajarin guys Yuta
+7	Sini gue ajarin guys Yuta
+8	Yuta Yang pertama, kalian harus belajar kaki guys
+9	Yuta Yang pertama, kalian harus belajar kaki guys
+10	Yang pertama, kalian harus belajar kaki guys
+11	Yang pertama, kalian harus belajar kaki guys
+12	Yang pertama, kalian harus belajar kaki guys
+13	Yang pertama, kalian harus belajar kaki guys Ketika kalian menarik kaki, tariklah jempol kalian juga guys
+14	Yang pertama, kalian harus belajar kaki guys Ketika kalian menarik kaki, tariklah jempol kalian juga guys
+15	Ketika kalian menarik kaki, tariklah jempol kalian juga guys
+16	Ketika kalian menarik kaki, tariklah jempol kalian juga guys
+17	Ketika kalian menarik kaki, tariklah jempol kalian juga guys
+18	Ketika kalian menarik kaki, tariklah jempol kalian juga guys
+19	Ketika kalian menarik kaki, tariklah jempol kalian juga guys
+20	Ketika kalian menarik kaki, tariklah jempol kalian juga guys Agar terbiasa menarik ankle kalian juga guys
+21	Ketika kalian menarik kaki, tariklah jempol kalian juga guys Agar terbiasa menarik ankle kalian juga guys
+22	Agar terbiasa menarik ankle kalian juga guys
+23	Agar terbiasa menarik ankle kalian juga guys
+24	Agar terbiasa menarik ankle kalian juga guys Caranya kalian tarik kaki kalian seperti ini
+25	Agar terbiasa menarik ankle kalian juga guys Caranya kalian tarik kaki kalian seperti ini
+26	Caranya kalian tarik kaki kalian seperti ini
+27	Caranya kalian tarik kaki kalian seperti ini
+28	Caranya kalian tarik kaki kalian seperti ini
+29	Caranya kalian tarik kaki kalian seperti ini Lalu buka ankle kalian seperti ini
+30	Caranya kalian tarik kaki kalian seperti ini Lalu buka ankle kalian seperti ini
+31	Lalu buka ankle kalian seperti ini
+32	Lalu buka ankle kalian seperti ini Lalu dorong dengan kuat menggunakan telapak kaki kalian guys
+33	Lalu buka ankle kalian seperti ini Lalu dorong dengan kuat menggunakan telapak kaki kalian guys
+34	Lalu dorong dengan kuat menggunakan telapak kaki kalian guys
+35	Lalu dorong dengan kuat menggunakan telapak kaki kalian guys
+36	Lalu dorong dengan kuat menggunakan telapak kaki kalian guys
+37	Lalu dorong dengan kuat menggunakan telapak kaki kalian guys
+38	Lalu dorong dengan kuat menggunakan telapak kaki kalian guys Hingga lurus seperti ini
+39	Lalu dorong dengan kuat menggunakan telapak kaki kalian guys Hingga lurus seperti ini
+40	Hingga lurus seperti ini
+41	Hingga lurus seperti ini
+42	Hingga lurus seperti ini
+43	Biasanya kalau lagi belajar, pasti banyak yang salah
+44	Biasanya kalau lagi belajar, pasti banyak yang salah
+45	Biasanya kalau lagi belajar, pasti banyak yang salah
+46	Biasanya kalau lagi belajar, pasti banyak yang salah
+47	Biasanya kalau lagi belajar, pasti banyak yang salah
+48	Biasanya kalau lagi belajar, pasti banyak yang salah
+49	Biasanya kalau lagi belajar, pasti banyak yang salah Dorong menggunakan punggung kaki guys
+50	Biasanya kalau lagi belajar, pasti banyak yang salah Dorong menggunakan punggung kaki guys
+51	Dorong menggunakan punggung kaki guys
+52	Dorong menggunakan punggung kaki guys Nanti berenangnya gak akan maju
+53	Dorong menggunakan punggung kaki guys Nanti berenangnya gak akan maju
+54	Nanti berenangnya gak akan maju
+55	Nanti berenangnya gak akan maju Kedua, kalian harus belajar angkat kepala alias ambil nafas guys
+56	Nanti berenangnya gak akan maju Kedua, kalian harus belajar angkat kepala alias ambil nafas guys
+57	Kedua, kalian harus belajar angkat kepala alias ambil nafas guys
+58	Kedua, kalian harus belajar angkat kepala alias ambil nafas guys
+59	Kedua, kalian harus belajar angkat kepala alias ambil nafas guys
+60	Kedua, kalian harus belajar angkat kepala alias ambil nafas guys
+61	Kedua, kalian harus belajar angkat kepala alias ambil nafas guys
+62	Kedua, kalian harus belajar angkat kepala alias ambil nafas guys Buka tangan kalian sambil mengangkat kepala kalian
+63	Kedua, kalian harus belajar angkat kepala alias ambil nafas guys Buka tangan kalian sambil mengangkat kepala kalian
+64	Buka tangan kalian sambil mengangkat kepala kalian
+65	Buka tangan kalian sambil mengangkat kepala kalian
+66	Buka tangan kalian sambil mengangkat kepala kalian
+67	Buka tangan kalian sambil mengangkat kepala kalian
+68	Buka tangan kalian sambil mengangkat kepala kalian Dan jangan lupa ketika di atas, ambil nafas menggunakan mulut
+69	Buka tangan kalian sambil mengangkat kepala kalian Dan jangan lupa ketika di atas, ambil nafas menggunakan mulut
+70	Dan jangan lupa ketika di atas, ambil nafas menggunakan mulut
+71	Dan jangan lupa ketika di atas, ambil nafas menggunakan mulut
+72	Dan jangan lupa ketika di atas, ambil nafas menggunakan mulut
+73	Dan jangan lupa ketika di atas, ambil nafas menggunakan mulut
+74	Dan jangan lupa ketika di atas, ambil nafas menggunakan mulut Lalu di bawah, dikeluarkan dengan hidung
+75	Dan jangan lupa ketika di atas, ambil nafas menggunakan mulut Lalu di bawah, dikeluarkan dengan hidung
+76	Lalu di bawah, dikeluarkan dengan hidung
+77	Lalu di bawah, dikeluarkan dengan hidung
+78	Lalu di bawah, dikeluarkan dengan hidung Kalian bisa coba latihannya dengan jalan kaki seperti ini
+79	Lalu di bawah, dikeluarkan dengan hidung Kalian bisa coba latihannya dengan jalan kaki seperti ini
+80	Kalian bisa coba latihannya dengan jalan kaki seperti ini
+81	Kalian bisa coba latihannya dengan jalan kaki seperti ini
+82	Kalian bisa coba latihannya dengan jalan kaki seperti ini
+83	Kalian bisa coba latihannya dengan jalan kaki seperti ini
+84	Kalian bisa coba latihannya dengan jalan kaki seperti ini Sambil melatih pernafasan kalian
+85	Kalian bisa coba latihannya dengan jalan kaki seperti ini Sambil melatih pernafasan kalian
+86	Sambil melatih pernafasan kalian
+87	Sambil melatih pernafasan kalian Ketiga, kalian harus belajar tangan guys
+88	Sambil melatih pernafasan kalian Ketiga, kalian harus belajar tangan guys
+89	Sambil melatih pernafasan kalian Ketiga, kalian harus belajar tangan guys
+90	Ketiga, kalian harus belajar tangan guys
+91	Ketiga, kalian harus belajar tangan guys
+92	Ketiga, kalian harus belajar tangan guys Kalian buka tangan kalian selebar ini
+93	Ketiga, kalian harus belajar tangan guys Kalian buka tangan kalian selebar ini
+94	Kalian buka tangan kalian selebar ini
+95	Kalian buka tangan kalian selebar ini
+96	Kalian buka tangan kalian selebar ini
+97	Kalian buka tangan kalian selebar ini Lalu tarik ke arah dada guys
+98	Kalian buka tangan kalian selebar ini Lalu tarik ke arah dada guys
+99	Lalu tarik ke arah dada guys
+100	Lalu tarik ke arah dada guys Kalian bayangkan sedang membentuk lingkaran seperti ini guys
+101	Lalu tarik ke arah dada guys Kalian bayangkan sedang membentuk lingkaran seperti ini guys
+102	Kalian bayangkan sedang membentuk lingkaran seperti ini guys
+103	Kalian bayangkan sedang membentuk lingkaran seperti ini guys
+104	Kalian bayangkan sedang membentuk lingkaran seperti ini guys
+105	Kalian bayangkan sedang membentuk lingkaran seperti ini guys
+106	Kalian bayangkan sedang membentuk lingkaran seperti ini guys Nah, kalian perhatikan di bawah air ini ya
+107	Kalian bayangkan sedang membentuk lingkaran seperti ini guys Nah, kalian perhatikan di bawah air ini ya
+108	Nah, kalian perhatikan di bawah air ini ya
+109	Nah, kalian perhatikan di bawah air ini ya
+110	Nah, kalian perhatikan di bawah air ini ya Ketika kalian menarik tangan kalian
+111	Nah, kalian perhatikan di bawah air ini ya Ketika kalian menarik tangan kalian
+112	Ketika kalian menarik tangan kalian
+113	Ketika kalian menarik tangan kalian
+114	Ketika kalian menarik tangan kalian Tekuk tangan kalian seperti ini
+115	Ketika kalian menarik tangan kalian Tekuk tangan kalian seperti ini
+116	Tekuk tangan kalian seperti ini
+117	Tekuk tangan kalian seperti ini Lalu tinggal luncurkan ke depan deh
+118	Tekuk tangan kalian seperti ini Lalu tinggal luncurkan ke depan deh
+119	Lalu tinggal luncurkan ke depan deh
+120	Lalu tinggal luncurkan ke depan deh Ingat, rumusnya buka, tarik, dan tutup
+121	Lalu tinggal luncurkan ke depan deh Ingat, rumusnya buka, tarik, dan tutup
+122	Ingat, rumusnya buka, tarik, dan tutup
+123	Ingat, rumusnya buka, tarik, dan tutup
+124	Ingat, rumusnya buka, tarik, dan tutup
+125	Ingat, rumusnya buka, tarik, dan tutup
+126	Ingat, rumusnya buka, tarik, dan tutup Yang keempat, kalian satuin semua kaki, tangan, dan ambil nafas guys
+127	Ingat, rumusnya buka, tarik, dan tutup Yang keempat, kalian satuin semua kaki, tangan, dan ambil nafas guys
+128	Yang keempat, kalian satuin semua kaki, tangan, dan ambil nafas guys
+129	Yang keempat, kalian satuin semua kaki, tangan, dan ambil nafas guys
+130	Yang keempat, kalian satuin semua kaki, tangan, dan ambil nafas guys
+131	Yang keempat, kalian satuin semua kaki, tangan, dan ambil nafas guys
+132	Yang keempat, kalian satuin semua kaki, tangan, dan ambil nafas guys
+133	Yang keempat, kalian satuin semua kaki, tangan, dan ambil nafas guys
+134	Yang keempat, kalian satuin semua kaki, tangan, dan ambil nafas guys Kalian bisa coba dua kali dorongan kaki
+135	Yang keempat, kalian satuin semua kaki, tangan, dan ambil nafas guys Kalian bisa coba dua kali dorongan kaki
+136	Kalian bisa coba dua kali dorongan kaki
+137	Kalian bisa coba dua kali dorongan kaki
+138	Kalian bisa coba dua kali dorongan kaki
+139	Kalian bisa coba dua kali dorongan kaki Lalu satu kali tarikan sambil angkat kepala kalian guys
+140	Kalian bisa coba dua kali dorongan kaki Lalu satu kali tarikan sambil angkat kepala kalian guys
+141	Lalu satu kali tarikan sambil angkat kepala kalian guys
+142	Lalu satu kali tarikan sambil angkat kepala kalian guys
+143	Lalu satu kali tarikan sambil angkat kepala kalian guys
+144	Lalu satu kali tarikan sambil angkat kepala kalian guys
+145	Lalu satu kali tarikan sambil angkat kepala kalian guys Kalau sudah terbiasa, kalian bisa cobain satu kaki dan satu tangan seperti ini
+146	Lalu satu kali tarikan sambil angkat kepala kalian guys Kalau sudah terbiasa, kalian bisa cobain satu kaki dan satu tangan seperti ini
+147	Kalau sudah terbiasa, kalian bisa cobain satu kaki dan satu tangan seperti ini
+148	Kalau sudah terbiasa, kalian bisa cobain satu kaki dan satu tangan seperti ini
+149	Kalau sudah terbiasa, kalian bisa cobain satu kaki dan satu tangan seperti ini
+150	Kalau sudah terbiasa, kalian bisa cobain satu kaki dan satu tangan seperti ini
+151	Kalau sudah terbiasa, kalian bisa cobain satu kaki dan satu tangan seperti ini
+152	Kalau sudah terbiasa, kalian bisa cobain satu kaki dan satu tangan seperti ini
+153	Kalau sudah terbiasa, kalian bisa cobain satu kaki dan satu tangan seperti ini Kunci berenang gaya dada biar bisa maju dan meluncur
+154	Kalau sudah terbiasa, kalian bisa cobain satu kaki dan satu tangan seperti ini Kunci berenang gaya dada biar bisa maju dan meluncur
+155	Kunci berenang gaya dada biar bisa maju dan meluncur
+156	Kunci berenang gaya dada biar bisa maju dan meluncur
+157	Kunci berenang gaya dada biar bisa maju dan meluncur
+158	Kunci berenang gaya dada biar bisa maju dan meluncur Kalian harus sinkronin antara tangan, kaki, dan kepala
+159	Kunci berenang gaya dada biar bisa maju dan meluncur Kalian harus sinkronin antara tangan, kaki, dan kepala
+160	Kalian harus sinkronin antara tangan, kaki, dan kepala
+161	Kalian harus sinkronin antara tangan, kaki, dan kepala
+162	Kalian harus sinkronin antara tangan, kaki, dan kepala
+163	Kalian harus sinkronin antara tangan, kaki, dan kepala
+164	Kalian harus sinkronin antara tangan, kaki, dan kepala
+165	Kalian harus sinkronin antara tangan, kaki, dan kepala Dengan timing yang bagus dan benar guys
+166	Kalian harus sinkronin antara tangan, kaki, dan kepala Dengan timing yang bagus dan benar guys
+167	Dengan timing yang bagus dan benar guys
+168	Dengan timing yang bagus dan benar guys
+169	Dengan timing yang bagus dan benar guys Kalau konten gue bermanfaat, jangan lupa like, komen follow, dan share ya guys
+170	Dengan timing yang bagus dan benar guys Kalau konten gue bermanfaat, jangan lupa like, komen follow, dan share ya guys
+171	Kalau konten gue bermanfaat, jangan lupa like, komen follow, dan share ya guys
+172	Kalau konten gue bermanfaat, jangan lupa like, komen follow, dan share ya guys
+173	Kalau konten gue bermanfaat, jangan lupa like, komen follow, dan share ya guys
+174	Kalau konten gue bermanfaat, jangan lupa like, komen follow, dan share ya guys Yuga!
+175	Kalau konten gue bermanfaat, jangan lupa like, komen follow, dan share ya guys Yuga!
+176	Yuga!
+177	[NO_SPEECH]

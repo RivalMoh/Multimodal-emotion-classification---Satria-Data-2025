@@ -1,0 +1,125 @@
+0	Mesinnya bensin tapi bisa ngecas di SPKLU.
+1	Mesinnya bensin tapi bisa ngecas di SPKLU.
+2	Mesinnya bensin tapi bisa ngecas di SPKLU.
+3	Mesinnya bensin tapi bisa ngecas di SPKLU. Dan biar cuma bekal 1500 cc, tenaganya gokil juga, Cing.
+4	Mesinnya bensin tapi bisa ngecas di SPKLU. Dan biar cuma bekal 1500 cc, tenaganya gokil juga, Cing.
+5	Dan biar cuma bekal 1500 cc, tenaganya gokil juga, Cing.
+6	Dan biar cuma bekal 1500 cc, tenaganya gokil juga, Cing.
+7	Dan biar cuma bekal 1500 cc, tenaganya gokil juga, Cing.
+8	Dan biar cuma bekal 1500 cc, tenaganya gokil juga, Cing.
+9	Dan biar cuma bekal 1500 cc, tenaganya gokil juga, Cing.
+10	Dan biar cuma bekal 1500 cc, tenaganya gokil juga, Cing. Adalah Ceri 38 CSH sebagai bekal calon SUV yang bisa kombinasiin hematnya mobil listrik dan kemudahan pemakaian mobil bensin.
+11	Dan biar cuma bekal 1500 cc, tenaganya gokil juga, Cing. Adalah Ceri 38 CSH sebagai bekal calon SUV yang bisa kombinasiin hematnya mobil listrik dan kemudahan pemakaian mobil bensin.
+12	Adalah Ceri 38 CSH sebagai bekal calon SUV yang bisa kombinasiin hematnya mobil listrik dan kemudahan pemakaian mobil bensin.
+13	Adalah Ceri 38 CSH sebagai bekal calon SUV yang bisa kombinasiin hematnya mobil listrik dan kemudahan pemakaian mobil bensin.
+14	Adalah Ceri 38 CSH sebagai bekal calon SUV yang bisa kombinasiin hematnya mobil listrik dan kemudahan pemakaian mobil bensin.
+15	Adalah Ceri 38 CSH sebagai bekal calon SUV yang bisa kombinasiin hematnya mobil listrik dan kemudahan pemakaian mobil bensin.
+16	Adalah Ceri 38 CSH sebagai bekal calon SUV yang bisa kombinasiin hematnya mobil listrik dan kemudahan pemakaian mobil bensin.
+17	Adalah Ceri 38 CSH sebagai bekal calon SUV yang bisa kombinasiin hematnya mobil listrik dan kemudahan pemakaian mobil bensin.
+18	Adalah Ceri 38 CSH sebagai bekal calon SUV yang bisa kombinasiin hematnya mobil listrik dan kemudahan pemakaian mobil bensin.
+19	Adalah Ceri 38 CSH sebagai bekal calon SUV yang bisa kombinasiin hematnya mobil listrik dan kemudahan pemakaian mobil bensin.
+20	Adalah Ceri 38 CSH sebagai bekal calon SUV yang bisa kombinasiin hematnya mobil listrik dan kemudahan pemakaian mobil bensin.
+21	Adalah Ceri 38 CSH sebagai bekal calon SUV yang bisa kombinasiin hematnya mobil listrik dan kemudahan pemakaian mobil bensin.
+22	Adalah Ceri 38 CSH sebagai bekal calon SUV yang bisa kombinasiin hematnya mobil listrik dan kemudahan pemakaian mobil bensin.
+23	Adalah Ceri 38 CSH sebagai bekal calon SUV yang bisa kombinasiin hematnya mobil listrik dan kemudahan pemakaian mobil bensin. Soalnya, Doi adalah plugin hybrid.
+24	Adalah Ceri 38 CSH sebagai bekal calon SUV yang bisa kombinasiin hematnya mobil listrik dan kemudahan pemakaian mobil bensin. Soalnya, Doi adalah plugin hybrid.
+25	Soalnya, Doi adalah plugin hybrid.
+26	Soalnya, Doi adalah plugin hybrid.
+27	Soalnya, Doi adalah plugin hybrid. Jadi beda dari hybrid biasa, di mana 38 ini didukung power motor listrik dan baterai yang lebih besar.
+28	Soalnya, Doi adalah plugin hybrid. Jadi beda dari hybrid biasa, di mana 38 ini didukung power motor listrik dan baterai yang lebih besar.
+29	Jadi beda dari hybrid biasa, di mana 38 ini didukung power motor listrik dan baterai yang lebih besar.
+30	Jadi beda dari hybrid biasa, di mana 38 ini didukung power motor listrik dan baterai yang lebih besar.
+31	Jadi beda dari hybrid biasa, di mana 38 ini didukung power motor listrik dan baterai yang lebih besar.
+32	Jadi beda dari hybrid biasa, di mana 38 ini didukung power motor listrik dan baterai yang lebih besar.
+33	Jadi beda dari hybrid biasa, di mana 38 ini didukung power motor listrik dan baterai yang lebih besar.
+34	Jadi beda dari hybrid biasa, di mana 38 ini didukung power motor listrik dan baterai yang lebih besar.
+35	Jadi beda dari hybrid biasa, di mana 38 ini didukung power motor listrik dan baterai yang lebih besar.
+36	Jadi beda dari hybrid biasa, di mana 38 ini didukung power motor listrik dan baterai yang lebih besar.
+37	Jadi beda dari hybrid biasa, di mana 38 ini didukung power motor listrik dan baterai yang lebih besar. Dengan gini, Doi diklaim bisa jalan 90 km lebih tanpa minum bensin sama sekali.
+38	Jadi beda dari hybrid biasa, di mana 38 ini didukung power motor listrik dan baterai yang lebih besar. Dengan gini, Doi diklaim bisa jalan 90 km lebih tanpa minum bensin sama sekali.
+39	Dengan gini, Doi diklaim bisa jalan 90 km lebih tanpa minum bensin sama sekali.
+40	Dengan gini, Doi diklaim bisa jalan 90 km lebih tanpa minum bensin sama sekali.
+41	Dengan gini, Doi diklaim bisa jalan 90 km lebih tanpa minum bensin sama sekali.
+42	Dengan gini, Doi diklaim bisa jalan 90 km lebih tanpa minum bensin sama sekali.
+43	Dengan gini, Doi diklaim bisa jalan 90 km lebih tanpa minum bensin sama sekali.
+44	Dengan gini, Doi diklaim bisa jalan 90 km lebih tanpa minum bensin sama sekali.
+45	Dengan gini, Doi diklaim bisa jalan 90 km lebih tanpa minum bensin sama sekali. Pun mobilnya bisa dicas pake colokan fast charger CCS2 kalau mau isi baterai full di samping ngandelin mesin bensin dan regenerative braking.
+46	Dengan gini, Doi diklaim bisa jalan 90 km lebih tanpa minum bensin sama sekali. Pun mobilnya bisa dicas pake colokan fast charger CCS2 kalau mau isi baterai full di samping ngandelin mesin bensin dan regenerative braking.
+47	Pun mobilnya bisa dicas pake colokan fast charger CCS2 kalau mau isi baterai full di samping ngandelin mesin bensin dan regenerative braking.
+48	Pun mobilnya bisa dicas pake colokan fast charger CCS2 kalau mau isi baterai full di samping ngandelin mesin bensin dan regenerative braking.
+49	Pun mobilnya bisa dicas pake colokan fast charger CCS2 kalau mau isi baterai full di samping ngandelin mesin bensin dan regenerative braking.
+50	Pun mobilnya bisa dicas pake colokan fast charger CCS2 kalau mau isi baterai full di samping ngandelin mesin bensin dan regenerative braking.
+51	Pun mobilnya bisa dicas pake colokan fast charger CCS2 kalau mau isi baterai full di samping ngandelin mesin bensin dan regenerative braking.
+52	Pun mobilnya bisa dicas pake colokan fast charger CCS2 kalau mau isi baterai full di samping ngandelin mesin bensin dan regenerative braking.
+53	Pun mobilnya bisa dicas pake colokan fast charger CCS2 kalau mau isi baterai full di samping ngandelin mesin bensin dan regenerative braking.
+54	Pun mobilnya bisa dicas pake colokan fast charger CCS2 kalau mau isi baterai full di samping ngandelin mesin bensin dan regenerative braking.
+55	Pun mobilnya bisa dicas pake colokan fast charger CCS2 kalau mau isi baterai full di samping ngandelin mesin bensin dan regenerative braking.
+56	Pun mobilnya bisa dicas pake colokan fast charger CCS2 kalau mau isi baterai full di samping ngandelin mesin bensin dan regenerative braking.
+57	Pun mobilnya bisa dicas pake colokan fast charger CCS2 kalau mau isi baterai full di samping ngandelin mesin bensin dan regenerative braking.
+58	Pun mobilnya bisa dicas pake colokan fast charger CCS2 kalau mau isi baterai full di samping ngandelin mesin bensin dan regenerative braking.
+59	Pun mobilnya bisa dicas pake colokan fast charger CCS2 kalau mau isi baterai full di samping ngandelin mesin bensin dan regenerative braking. Dikombinasiin mesin bensin dan motor elektriknya disebut bisa bawa 38 CSH tempuh 1300 km plus-plus bekal 1 tangki bensin dan baterai full.
+60	Dikombinasiin mesin bensin dan motor elektriknya disebut bisa bawa 38 CSH tempuh 1300 km plus-plus bekal 1 tangki bensin dan baterai full.
+61	Dikombinasiin mesin bensin dan motor elektriknya disebut bisa bawa 38 CSH tempuh 1300 km plus-plus bekal 1 tangki bensin dan baterai full.
+62	Dikombinasiin mesin bensin dan motor elektriknya disebut bisa bawa 38 CSH tempuh 1300 km plus-plus bekal 1 tangki bensin dan baterai full.
+63	Dikombinasiin mesin bensin dan motor elektriknya disebut bisa bawa 38 CSH tempuh 1300 km plus-plus bekal 1 tangki bensin dan baterai full.
+64	Dikombinasiin mesin bensin dan motor elektriknya disebut bisa bawa 38 CSH tempuh 1300 km plus-plus bekal 1 tangki bensin dan baterai full.
+65	Dikombinasiin mesin bensin dan motor elektriknya disebut bisa bawa 38 CSH tempuh 1300 km plus-plus bekal 1 tangki bensin dan baterai full.
+66	Dikombinasiin mesin bensin dan motor elektriknya disebut bisa bawa 38 CSH tempuh 1300 km plus-plus bekal 1 tangki bensin dan baterai full.
+67	Dikombinasiin mesin bensin dan motor elektriknya disebut bisa bawa 38 CSH tempuh 1300 km plus-plus bekal 1 tangki bensin dan baterai full.
+68	Dikombinasiin mesin bensin dan motor elektriknya disebut bisa bawa 38 CSH tempuh 1300 km plus-plus bekal 1 tangki bensin dan baterai full.
+69	Dikombinasiin mesin bensin dan motor elektriknya disebut bisa bawa 38 CSH tempuh 1300 km plus-plus bekal 1 tangki bensin dan baterai full.
+70	Dikombinasiin mesin bensin dan motor elektriknya disebut bisa bawa 38 CSH tempuh 1300 km plus-plus bekal 1 tangki bensin dan baterai full.
+71	Dikombinasiin mesin bensin dan motor elektriknya disebut bisa bawa 38 CSH tempuh 1300 km plus-plus bekal 1 tangki bensin dan baterai full.
+72	Dikombinasiin mesin bensin dan motor elektriknya disebut bisa bawa 38 CSH tempuh 1300 km plus-plus bekal 1 tangki bensin dan baterai full.
+73	Dikombinasiin mesin bensin dan motor elektriknya disebut bisa bawa 38 CSH tempuh 1300 km plus-plus bekal 1 tangki bensin dan baterai full.
+74	Dikombinasiin mesin bensin dan motor elektriknya disebut bisa bawa 38 CSH tempuh 1300 km plus-plus bekal 1 tangki bensin dan baterai full.
+75	Dikombinasiin mesin bensin dan motor elektriknya disebut bisa bawa 38 CSH tempuh 1300 km plus-plus bekal 1 tangki bensin dan baterai full. Juga di samping itu, Duet Yahut ini kasih output tenaga yang on paper sih jauh lebih tinggi dari SUV Tato Tetot meski mesinnya cuma 1500 cc turbo.
+76	Dikombinasiin mesin bensin dan motor elektriknya disebut bisa bawa 38 CSH tempuh 1300 km plus-plus bekal 1 tangki bensin dan baterai full. Juga di samping itu, Duet Yahut ini kasih output tenaga yang on paper sih jauh lebih tinggi dari SUV Tato Tetot meski mesinnya cuma 1500 cc turbo.
+77	Juga di samping itu, Duet Yahut ini kasih output tenaga yang on paper sih jauh lebih tinggi dari SUV Tato Tetot meski mesinnya cuma 1500 cc turbo.
+78	Juga di samping itu, Duet Yahut ini kasih output tenaga yang on paper sih jauh lebih tinggi dari SUV Tato Tetot meski mesinnya cuma 1500 cc turbo.
+79	Juga di samping itu, Duet Yahut ini kasih output tenaga yang on paper sih jauh lebih tinggi dari SUV Tato Tetot meski mesinnya cuma 1500 cc turbo.
+80	Juga di samping itu, Duet Yahut ini kasih output tenaga yang on paper sih jauh lebih tinggi dari SUV Tato Tetot meski mesinnya cuma 1500 cc turbo.
+81	Juga di samping itu, Duet Yahut ini kasih output tenaga yang on paper sih jauh lebih tinggi dari SUV Tato Tetot meski mesinnya cuma 1500 cc turbo.
+82	Juga di samping itu, Duet Yahut ini kasih output tenaga yang on paper sih jauh lebih tinggi dari SUV Tato Tetot meski mesinnya cuma 1500 cc turbo.
+83	Juga di samping itu, Duet Yahut ini kasih output tenaga yang on paper sih jauh lebih tinggi dari SUV Tato Tetot meski mesinnya cuma 1500 cc turbo.
+84	Juga di samping itu, Duet Yahut ini kasih output tenaga yang on paper sih jauh lebih tinggi dari SUV Tato Tetot meski mesinnya cuma 1500 cc turbo.
+85	Juga di samping itu, Duet Yahut ini kasih output tenaga yang on paper sih jauh lebih tinggi dari SUV Tato Tetot meski mesinnya cuma 1500 cc turbo.
+86	Juga di samping itu, Duet Yahut ini kasih output tenaga yang on paper sih jauh lebih tinggi dari SUV Tato Tetot meski mesinnya cuma 1500 cc turbo.
+87	Juga di samping itu, Duet Yahut ini kasih output tenaga yang on paper sih jauh lebih tinggi dari SUV Tato Tetot meski mesinnya cuma 1500 cc turbo.
+88	Juga di samping itu, Duet Yahut ini kasih output tenaga yang on paper sih jauh lebih tinggi dari SUV Tato Tetot meski mesinnya cuma 1500 cc turbo.
+89	Juga di samping itu, Duet Yahut ini kasih output tenaga yang on paper sih jauh lebih tinggi dari SUV Tato Tetot meski mesinnya cuma 1500 cc turbo.
+90	Juga di samping itu, Duet Yahut ini kasih output tenaga yang on paper sih jauh lebih tinggi dari SUV Tato Tetot meski mesinnya cuma 1500 cc turbo.
+91	Juga di samping itu, Duet Yahut ini kasih output tenaga yang on paper sih jauh lebih tinggi dari SUV Tato Tetot meski mesinnya cuma 1500 cc turbo. Tampak menarik ya, apalagi dipaketin dengan fitur mewah semisal massage seat untuk penumpang depan, panoramic sunroof segala,
+92	Juga di samping itu, Duet Yahut ini kasih output tenaga yang on paper sih jauh lebih tinggi dari SUV Tato Tetot meski mesinnya cuma 1500 cc turbo. Tampak menarik ya, apalagi dipaketin dengan fitur mewah semisal massage seat untuk penumpang depan, panoramic sunroof segala,
+93	Tampak menarik ya, apalagi dipaketin dengan fitur mewah semisal massage seat untuk penumpang depan, panoramic sunroof segala,
+94	Tampak menarik ya, apalagi dipaketin dengan fitur mewah semisal massage seat untuk penumpang depan, panoramic sunroof segala,
+95	Tampak menarik ya, apalagi dipaketin dengan fitur mewah semisal massage seat untuk penumpang depan, panoramic sunroof segala,
+96	Tampak menarik ya, apalagi dipaketin dengan fitur mewah semisal massage seat untuk penumpang depan, panoramic sunroof segala,
+97	Tampak menarik ya, apalagi dipaketin dengan fitur mewah semisal massage seat untuk penumpang depan, panoramic sunroof segala,
+98	Tampak menarik ya, apalagi dipaketin dengan fitur mewah semisal massage seat untuk penumpang depan, panoramic sunroof segala,
+99	Tampak menarik ya, apalagi dipaketin dengan fitur mewah semisal massage seat untuk penumpang depan, panoramic sunroof segala,
+100	Tampak menarik ya, apalagi dipaketin dengan fitur mewah semisal massage seat untuk penumpang depan, panoramic sunroof segala,
+101	Tampak menarik ya, apalagi dipaketin dengan fitur mewah semisal massage seat untuk penumpang depan, panoramic sunroof segala,
+102	Tampak menarik ya, apalagi dipaketin dengan fitur mewah semisal massage seat untuk penumpang depan, panoramic sunroof segala, sampai wireless charger dan adiknya.
+103	Tampak menarik ya, apalagi dipaketin dengan fitur mewah semisal massage seat untuk penumpang depan, panoramic sunroof segala, sampai wireless charger dan adiknya.
+104	sampai wireless charger dan adiknya.
+105	sampai wireless charger dan adiknya. Padas juga udah gak perlu ditanya lagi.
+106	sampai wireless charger dan adiknya. Padas juga udah gak perlu ditanya lagi.
+107	Padas juga udah gak perlu ditanya lagi.
+108	Padas juga udah gak perlu ditanya lagi.
+109	Padas juga udah gak perlu ditanya lagi. Well, tinggal nunggu harga resmi ya.
+110	Well, tinggal nunggu harga resmi ya.
+111	Well, tinggal nunggu harga resmi ya.
+112	Well, tinggal nunggu harga resmi ya. Dengan kapabilitas PHEV, ekspektasinya Cherry 38 CSH ini bakal dibanderol berapa nih, cing?
+113	Well, tinggal nunggu harga resmi ya. Dengan kapabilitas PHEV, ekspektasinya Cherry 38 CSH ini bakal dibanderol berapa nih, cing?
+114	Dengan kapabilitas PHEV, ekspektasinya Cherry 38 CSH ini bakal dibanderol berapa nih, cing?
+115	Dengan kapabilitas PHEV, ekspektasinya Cherry 38 CSH ini bakal dibanderol berapa nih, cing?
+116	Dengan kapabilitas PHEV, ekspektasinya Cherry 38 CSH ini bakal dibanderol berapa nih, cing?
+117	Dengan kapabilitas PHEV, ekspektasinya Cherry 38 CSH ini bakal dibanderol berapa nih, cing?
+118	Dengan kapabilitas PHEV, ekspektasinya Cherry 38 CSH ini bakal dibanderol berapa nih, cing?
+119	Dengan kapabilitas PHEV, ekspektasinya Cherry 38 CSH ini bakal dibanderol berapa nih, cing?
+120	Dengan kapabilitas PHEV, ekspektasinya Cherry 38 CSH ini bakal dibanderol berapa nih, cing?
+121	Dengan kapabilitas PHEV, ekspektasinya Cherry 38 CSH ini bakal dibanderol berapa nih, cing?
+122	Dengan kapabilitas PHEV, ekspektasinya Cherry 38 CSH ini bakal dibanderol berapa nih, cing?
+123	Dengan kapabilitas PHEV, ekspektasinya Cherry 38 CSH ini bakal dibanderol berapa nih, cing?
+124	[NO_SPEECH]

@@ -1,0 +1,196 @@
+0	Kapan lagi jalan-jalan ke Gias, rasa jalan-jalan ke Jepang?
+1	Kapan lagi jalan-jalan ke Gias, rasa jalan-jalan ke Jepang?
+2	Kapan lagi jalan-jalan ke Gias, rasa jalan-jalan ke Jepang?
+3	Kapan lagi jalan-jalan ke Gias, rasa jalan-jalan ke Jepang?
+4	Kapan lagi jalan-jalan ke Gias, rasa jalan-jalan ke Jepang? Cuma ada di bootnya Mazda.
+5	Kapan lagi jalan-jalan ke Gias, rasa jalan-jalan ke Jepang? Cuma ada di bootnya Mazda.
+6	Cuma ada di bootnya Mazda.
+7	Cuma ada di bootnya Mazda.
+8	Cuma ada di bootnya Mazda.
+9	Cuma ada di bootnya Mazda.
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	Kenapa rasa Jepang?
+15	Kenapa rasa Jepang?
+16	Kenapa rasa Jepang? Karena jelas, bukan sekedar karena Mazda itu brand dari Jepang,
+17	Kenapa rasa Jepang? Karena jelas, bukan sekedar karena Mazda itu brand dari Jepang,
+18	Karena jelas, bukan sekedar karena Mazda itu brand dari Jepang,
+19	Karena jelas, bukan sekedar karena Mazda itu brand dari Jepang,
+20	Karena jelas, bukan sekedar karena Mazda itu brand dari Jepang,
+21	Karena jelas, bukan sekedar karena Mazda itu brand dari Jepang, tapi bootnya terinspirasi dari Mazda Trans Aoyama yang ada di Jepang.
+22	Karena jelas, bukan sekedar karena Mazda itu brand dari Jepang, tapi bootnya terinspirasi dari Mazda Trans Aoyama yang ada di Jepang.
+23	tapi bootnya terinspirasi dari Mazda Trans Aoyama yang ada di Jepang.
+24	tapi bootnya terinspirasi dari Mazda Trans Aoyama yang ada di Jepang.
+25	tapi bootnya terinspirasi dari Mazda Trans Aoyama yang ada di Jepang.
+26	tapi bootnya terinspirasi dari Mazda Trans Aoyama yang ada di Jepang.
+27	tapi bootnya terinspirasi dari Mazda Trans Aoyama yang ada di Jepang.
+28	tapi bootnya terinspirasi dari Mazda Trans Aoyama yang ada di Jepang.
+29	tapi bootnya terinspirasi dari Mazda Trans Aoyama yang ada di Jepang.
+30	tapi bootnya terinspirasi dari Mazda Trans Aoyama yang ada di Jepang.
+31	tapi bootnya terinspirasi dari Mazda Trans Aoyama yang ada di Jepang.
+32	tapi bootnya terinspirasi dari Mazda Trans Aoyama yang ada di Jepang.
+33	Dan bukan Mazda namanya kalau nggak punya produk spesial setiap kali Gias.
+34	Dan bukan Mazda namanya kalau nggak punya produk spesial setiap kali Gias.
+35	Dan bukan Mazda namanya kalau nggak punya produk spesial setiap kali Gias.
+36	Dan bukan Mazda namanya kalau nggak punya produk spesial setiap kali Gias.
+37	Dan bukan Mazda namanya kalau nggak punya produk spesial setiap kali Gias.
+38	Dan bukan Mazda namanya kalau nggak punya produk spesial setiap kali Gias.
+39	Dan bukan Mazda namanya kalau nggak punya produk spesial setiap kali Gias.
+40	Dan bukan Mazda namanya kalau nggak punya produk spesial setiap kali Gias.
+41	Dan bukan Mazda namanya kalau nggak punya produk spesial setiap kali Gias. Ini ada Mazda CX-3 Pro 2000cc dengan aksesoris auto XE.
+42	Dan bukan Mazda namanya kalau nggak punya produk spesial setiap kali Gias. Ini ada Mazda CX-3 Pro 2000cc dengan aksesoris auto XE.
+43	Ini ada Mazda CX-3 Pro 2000cc dengan aksesoris auto XE.
+44	Ini ada Mazda CX-3 Pro 2000cc dengan aksesoris auto XE.
+45	Ini ada Mazda CX-3 Pro 2000cc dengan aksesoris auto XE.
+46	Ini ada Mazda CX-3 Pro 2000cc dengan aksesoris auto XE.
+47	Ini ada Mazda CX-3 Pro 2000cc dengan aksesoris auto XE.
+48	Ini ada Mazda CX-3 Pro 2000cc dengan aksesoris auto XE.
+49	Ini ada Mazda CX-3 Pro 2000cc dengan aksesoris auto XE.
+50	Ini ada Mazda CX-3 Pro 2000cc dengan aksesoris auto XE.
+51	Ini ada Mazda CX-3 Pro 2000cc dengan aksesoris auto XE.
+52	Ini ada Mazda CX-3 Pro 2000cc dengan aksesoris auto XE. Dan nggak cuma itu aja, ada yang versi kurunya warna merah di sana.
+53	Ini ada Mazda CX-3 Pro 2000cc dengan aksesoris auto XE. Dan nggak cuma itu aja, ada yang versi kurunya warna merah di sana.
+54	Dan nggak cuma itu aja, ada yang versi kurunya warna merah di sana.
+55	Dan nggak cuma itu aja, ada yang versi kurunya warna merah di sana.
+56	Dan nggak cuma itu aja, ada yang versi kurunya warna merah di sana.
+57	Dan nggak cuma itu aja, ada yang versi kurunya warna merah di sana.
+58	Dan nggak cuma itu aja, ada yang versi kurunya warna merah di sana.
+59	Dan nggak cuma itu aja, ada yang versi kurunya warna merah di sana.
+60	Dan nggak cuma itu aja, ada yang versi kurunya warna merah di sana.
+61	Dan nggak cuma itu aja, ada yang versi kurunya warna merah di sana.
+62	[NO_SPEECH]
+63	Ada Mazda CX-60 series, di mana yang versi Pro ini ada warna baru,
+64	Ada Mazda CX-60 series, di mana yang versi Pro ini ada warna baru,
+65	Ada Mazda CX-60 series, di mana yang versi Pro ini ada warna baru,
+66	Ada Mazda CX-60 series, di mana yang versi Pro ini ada warna baru,
+67	Ada Mazda CX-60 series, di mana yang versi Pro ini ada warna baru,
+68	Ada Mazda CX-60 series, di mana yang versi Pro ini ada warna baru,
+69	Ada Mazda CX-60 series, di mana yang versi Pro ini ada warna baru,
+70	Ada Mazda CX-60 series, di mana yang versi Pro ini ada warna baru,
+71	Ada Mazda CX-60 series, di mana yang versi Pro ini ada warna baru, dan yang paling spesial adalah mobil ini.
+72	Ada Mazda CX-60 series, di mana yang versi Pro ini ada warna baru, dan yang paling spesial adalah mobil ini.
+73	dan yang paling spesial adalah mobil ini.
+74	dan yang paling spesial adalah mobil ini.
+75	dan yang paling spesial adalah mobil ini.
+76	dan yang paling spesial adalah mobil ini. Mazda CX-60 versi RWD dengan harga spesial Rp 699,9 jutaan aja, khusus selama Gias.
+77	Mazda CX-60 versi RWD dengan harga spesial Rp 699,9 jutaan aja, khusus selama Gias.
+78	Mazda CX-60 versi RWD dengan harga spesial Rp 699,9 jutaan aja, khusus selama Gias.
+79	Mazda CX-60 versi RWD dengan harga spesial Rp 699,9 jutaan aja, khusus selama Gias.
+80	Mazda CX-60 versi RWD dengan harga spesial Rp 699,9 jutaan aja, khusus selama Gias.
+81	Mazda CX-60 versi RWD dengan harga spesial Rp 699,9 jutaan aja, khusus selama Gias.
+82	Mazda CX-60 versi RWD dengan harga spesial Rp 699,9 jutaan aja, khusus selama Gias.
+83	Mazda CX-60 versi RWD dengan harga spesial Rp 699,9 jutaan aja, khusus selama Gias.
+84	Mazda CX-60 versi RWD dengan harga spesial Rp 699,9 jutaan aja, khusus selama Gias.
+85	Mazda CX-60 versi RWD dengan harga spesial Rp 699,9 jutaan aja, khusus selama Gias.
+86	Mazda CX-60 versi RWD dengan harga spesial Rp 699,9 jutaan aja, khusus selama Gias.
+87	Mazda CX-60 versi RWD dengan harga spesial Rp 699,9 jutaan aja, khusus selama Gias.
+88	Mazda CX-60 versi RWD dengan harga spesial Rp 699,9 jutaan aja, khusus selama Gias.
+89	Mazda CX-60 versi RWD dengan harga spesial Rp 699,9 jutaan aja, khusus selama Gias.
+90	Mazda CX-60 versi RWD dengan harga spesial Rp 699,9 jutaan aja, khusus selama Gias.
+91	Mazda CX-60 versi RWD dengan harga spesial Rp 699,9 jutaan aja, khusus selama Gias.
+92	Mazda CX-60 versi RWD dengan harga spesial Rp 699,9 jutaan aja, khusus selama Gias.
+93	Mazda CX-60 versi RWD dengan harga spesial Rp 699,9 jutaan aja, khusus selama Gias.
+94	Nggak cuma itu aja, ada Mazda CX-80 Plug-in Hybrid,
+95	Nggak cuma itu aja, ada Mazda CX-80 Plug-in Hybrid,
+96	Nggak cuma itu aja, ada Mazda CX-80 Plug-in Hybrid,
+97	Nggak cuma itu aja, ada Mazda CX-80 Plug-in Hybrid,
+98	Nggak cuma itu aja, ada Mazda CX-80 Plug-in Hybrid,
+99	Nggak cuma itu aja, ada Mazda CX-80 Plug-in Hybrid,
+100	Nggak cuma itu aja, ada Mazda CX-80 Plug-in Hybrid,
+101	Nggak cuma itu aja, ada Mazda CX-80 Plug-in Hybrid, ada Mazda CX-30 dan juga ada Mazda 3 Hatchback.
+102	ada Mazda CX-30 dan juga ada Mazda 3 Hatchback.
+103	ada Mazda CX-30 dan juga ada Mazda 3 Hatchback.
+104	ada Mazda CX-30 dan juga ada Mazda 3 Hatchback.
+105	ada Mazda CX-30 dan juga ada Mazda 3 Hatchback.
+106	ada Mazda CX-30 dan juga ada Mazda 3 Hatchback.
+107	ada Mazda CX-30 dan juga ada Mazda 3 Hatchback. Kalau pengen nyobain mobilnya,
+108	ada Mazda CX-30 dan juga ada Mazda 3 Hatchback. Kalau pengen nyobain mobilnya,
+109	Kalau pengen nyobain mobilnya,
+110	Kalau pengen nyobain mobilnya, juga ada Mazda CX-80 dan juga Mazda CX-3 Pro with auto XE.
+111	Kalau pengen nyobain mobilnya, juga ada Mazda CX-80 dan juga Mazda CX-3 Pro with auto XE.
+112	juga ada Mazda CX-80 dan juga Mazda CX-3 Pro with auto XE.
+113	juga ada Mazda CX-80 dan juga Mazda CX-3 Pro with auto XE.
+114	juga ada Mazda CX-80 dan juga Mazda CX-3 Pro with auto XE.
+115	juga ada Mazda CX-80 dan juga Mazda CX-3 Pro with auto XE.
+116	juga ada Mazda CX-80 dan juga Mazda CX-3 Pro with auto XE.
+117	juga ada Mazda CX-80 dan juga Mazda CX-3 Pro with auto XE.
+118	juga ada Mazda CX-80 dan juga Mazda CX-3 Pro with auto XE.
+119	juga ada Mazda CX-80 dan juga Mazda CX-3 Pro with auto XE.
+120	juga ada Mazda CX-80 dan juga Mazda CX-3 Pro with auto XE.
+121	Ada Mazda Launch yang nyaman banget,
+122	Ada Mazda Launch yang nyaman banget,
+123	Ada Mazda Launch yang nyaman banget,
+124	Ada Mazda Launch yang nyaman banget,
+125	Ada Mazda Launch yang nyaman banget,
+126	Mazda Cafe yang kalian bisa nikmati,
+127	Mazda Cafe yang kalian bisa nikmati,
+128	Mazda Cafe yang kalian bisa nikmati,
+129	Mazda Cafe yang kalian bisa nikmati,
+130	Mazda Cafe yang kalian bisa nikmati, dan Instagram Mobile,
+131	Mazda Cafe yang kalian bisa nikmati, dan Instagram Mobile,
+132	dan Instagram Mobile,
+133	dan Instagram Mobile,
+134	Mazda Curated yang layak banget untuk kalian koleksi,
+135	Mazda Curated yang layak banget untuk kalian koleksi,
+136	Mazda Curated yang layak banget untuk kalian koleksi,
+137	Mazda Curated yang layak banget untuk kalian koleksi,
+138	Mazda Curated yang layak banget untuk kalian koleksi,
+139	Mazda Curated yang layak banget untuk kalian koleksi,
+140	Mazda Curated yang layak banget untuk kalian koleksi, plus ada auto XE, part-part modifikasi yang banyak promonya.
+141	plus ada auto XE, part-part modifikasi yang banyak promonya.
+142	plus ada auto XE, part-part modifikasi yang banyak promonya.
+143	plus ada auto XE, part-part modifikasi yang banyak promonya.
+144	plus ada auto XE, part-part modifikasi yang banyak promonya.
+145	plus ada auto XE, part-part modifikasi yang banyak promonya.
+146	plus ada auto XE, part-part modifikasi yang banyak promonya.
+147	plus ada auto XE, part-part modifikasi yang banyak promonya.
+148	plus ada auto XE, part-part modifikasi yang banyak promonya.
+149	plus ada auto XE, part-part modifikasi yang banyak promonya.
+150	plus ada auto XE, part-part modifikasi yang banyak promonya.
+151	[NO_SPEECH]
+152	[NO_SPEECH]
+153	Dan terakhir nggak lupa tentunya ada promo ya,
+154	Dan terakhir nggak lupa tentunya ada promo ya,
+155	Dan terakhir nggak lupa tentunya ada promo ya,
+156	Dan terakhir nggak lupa tentunya ada promo ya, ada Attractive Sales Deal sampai Rp 100 jutaan,
+157	Dan terakhir nggak lupa tentunya ada promo ya, ada Attractive Sales Deal sampai Rp 100 jutaan,
+158	ada Attractive Sales Deal sampai Rp 100 jutaan,
+159	ada Attractive Sales Deal sampai Rp 100 jutaan,
+160	ada Attractive Sales Deal sampai Rp 100 jutaan,
+161	ada Attractive Sales Deal sampai Rp 100 jutaan,
+162	ada Attractive Sales Deal sampai Rp 100 jutaan,
+163	ada Attractive Sales Deal sampai Rp 100 jutaan,
+164	DP rendah, cicilan ringan,
+165	DP rendah, cicilan ringan,
+166	DP rendah, cicilan ringan,
+167	DP rendah, cicilan ringan,
+168	DP rendah, cicilan ringan, dan juga tentunya ada undian pergi ke Jepang ataupun ke Singapura.
+169	DP rendah, cicilan ringan, dan juga tentunya ada undian pergi ke Jepang ataupun ke Singapura.
+170	dan juga tentunya ada undian pergi ke Jepang ataupun ke Singapura.
+171	dan juga tentunya ada undian pergi ke Jepang ataupun ke Singapura.
+172	dan juga tentunya ada undian pergi ke Jepang ataupun ke Singapura.
+173	dan juga tentunya ada undian pergi ke Jepang ataupun ke Singapura.
+174	dan juga tentunya ada undian pergi ke Jepang ataupun ke Singapura.
+175	dan juga tentunya ada undian pergi ke Jepang ataupun ke Singapura.
+176	dan juga tentunya ada undian pergi ke Jepang ataupun ke Singapura. Menarik kan?
+177	dan juga tentunya ada undian pergi ke Jepang ataupun ke Singapura. Menarik kan?
+178	Menarik kan? Makanya kalau kalian ke Gias, jangan lupa ke booth-nya Mazda.
+179	Menarik kan? Makanya kalau kalian ke Gias, jangan lupa ke booth-nya Mazda.
+180	Makanya kalau kalian ke Gias, jangan lupa ke booth-nya Mazda.
+181	Makanya kalau kalian ke Gias, jangan lupa ke booth-nya Mazda.
+182	Makanya kalau kalian ke Gias, jangan lupa ke booth-nya Mazda.
+183	Makanya kalau kalian ke Gias, jangan lupa ke booth-nya Mazda.
+184	Makanya kalau kalian ke Gias, jangan lupa ke booth-nya Mazda.
+185	Makanya kalau kalian ke Gias, jangan lupa ke booth-nya Mazda.
+186	Makanya kalau kalian ke Gias, jangan lupa ke booth-nya Mazda.
+187	Makanya kalau kalian ke Gias, jangan lupa ke booth-nya Mazda.
+188	Subtitle by MariaPardosi
+189	Subtitle by MariaPardosi
+190	Subtitle by MariaPardosi
+191	Subtitle by MariaPardosi
+192	Subtitle by MariaPardosi
+193	Subtitle by MariaPardosi
+194	Subtitle by MariaPardosi
+195	[NO_SPEECH]

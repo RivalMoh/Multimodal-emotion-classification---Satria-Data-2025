@@ -1,0 +1,111 @@
+0	Mesin boleh di depan, tapi penggerak rodanya bisa beda-beda, Cing.
+1	Mesin boleh di depan, tapi penggerak rodanya bisa beda-beda, Cing.
+2	Mesin boleh di depan, tapi penggerak rodanya bisa beda-beda, Cing.
+3	Mesin boleh di depan, tapi penggerak rodanya bisa beda-beda, Cing.
+4	Mesin boleh di depan, tapi penggerak rodanya bisa beda-beda, Cing.
+5	Mesin boleh di depan, tapi penggerak rodanya bisa beda-beda, Cing.
+6	Mesin boleh di depan, tapi penggerak rodanya bisa beda-beda, Cing. Pertama, penggerak roda depan, di mana tenaga mesin disalurin ke roda depan.
+7	Pertama, penggerak roda depan, di mana tenaga mesin disalurin ke roda depan.
+8	Pertama, penggerak roda depan, di mana tenaga mesin disalurin ke roda depan.
+9	Pertama, penggerak roda depan, di mana tenaga mesin disalurin ke roda depan.
+10	Pertama, penggerak roda depan, di mana tenaga mesin disalurin ke roda depan.
+11	Pertama, penggerak roda depan, di mana tenaga mesin disalurin ke roda depan.
+12	Pertama, penggerak roda depan, di mana tenaga mesin disalurin ke roda depan. Aransemen ini bisa memaksimalkan ruang kabin dan relatif lebih ringan secara komponen pemacu dan sistem penggerak,
+13	Pertama, penggerak roda depan, di mana tenaga mesin disalurin ke roda depan. Aransemen ini bisa memaksimalkan ruang kabin dan relatif lebih ringan secara komponen pemacu dan sistem penggerak,
+14	Aransemen ini bisa memaksimalkan ruang kabin dan relatif lebih ringan secara komponen pemacu dan sistem penggerak,
+15	Aransemen ini bisa memaksimalkan ruang kabin dan relatif lebih ringan secara komponen pemacu dan sistem penggerak,
+16	Aransemen ini bisa memaksimalkan ruang kabin dan relatif lebih ringan secara komponen pemacu dan sistem penggerak,
+17	Aransemen ini bisa memaksimalkan ruang kabin dan relatif lebih ringan secara komponen pemacu dan sistem penggerak,
+18	Aransemen ini bisa memaksimalkan ruang kabin dan relatif lebih ringan secara komponen pemacu dan sistem penggerak,
+19	Aransemen ini bisa memaksimalkan ruang kabin dan relatif lebih ringan secara komponen pemacu dan sistem penggerak,
+20	Aransemen ini bisa memaksimalkan ruang kabin dan relatif lebih ringan secara komponen pemacu dan sistem penggerak,
+21	Aransemen ini bisa memaksimalkan ruang kabin dan relatif lebih ringan secara komponen pemacu dan sistem penggerak,
+22	Aransemen ini bisa memaksimalkan ruang kabin dan relatif lebih ringan secara komponen pemacu dan sistem penggerak,
+23	Aransemen ini bisa memaksimalkan ruang kabin dan relatif lebih ringan secara komponen pemacu dan sistem penggerak, seperti transmisi terpusat di depan saja.
+24	Aransemen ini bisa memaksimalkan ruang kabin dan relatif lebih ringan secara komponen pemacu dan sistem penggerak, seperti transmisi terpusat di depan saja.
+25	seperti transmisi terpusat di depan saja.
+26	seperti transmisi terpusat di depan saja.
+27	seperti transmisi terpusat di depan saja. Salah satu kekurangannya, doi lebih berpotensi slip waktu akselerasi, apalagi pas nanjak.
+28	seperti transmisi terpusat di depan saja. Salah satu kekurangannya, doi lebih berpotensi slip waktu akselerasi, apalagi pas nanjak.
+29	Salah satu kekurangannya, doi lebih berpotensi slip waktu akselerasi, apalagi pas nanjak.
+30	Salah satu kekurangannya, doi lebih berpotensi slip waktu akselerasi, apalagi pas nanjak.
+31	Salah satu kekurangannya, doi lebih berpotensi slip waktu akselerasi, apalagi pas nanjak.
+32	Salah satu kekurangannya, doi lebih berpotensi slip waktu akselerasi, apalagi pas nanjak.
+33	Salah satu kekurangannya, doi lebih berpotensi slip waktu akselerasi, apalagi pas nanjak.
+34	Salah satu kekurangannya, doi lebih berpotensi slip waktu akselerasi, apalagi pas nanjak.
+35	Salah satu kekurangannya, doi lebih berpotensi slip waktu akselerasi, apalagi pas nanjak.
+36	Salah satu kekurangannya, doi lebih berpotensi slip waktu akselerasi, apalagi pas nanjak. Lalu ada penggerak roda belakang yang memungkinkan distribusi bobot kendaraan lebih seimbang
+37	Salah satu kekurangannya, doi lebih berpotensi slip waktu akselerasi, apalagi pas nanjak. Lalu ada penggerak roda belakang yang memungkinkan distribusi bobot kendaraan lebih seimbang
+38	Lalu ada penggerak roda belakang yang memungkinkan distribusi bobot kendaraan lebih seimbang
+39	Lalu ada penggerak roda belakang yang memungkinkan distribusi bobot kendaraan lebih seimbang
+40	Lalu ada penggerak roda belakang yang memungkinkan distribusi bobot kendaraan lebih seimbang
+41	Lalu ada penggerak roda belakang yang memungkinkan distribusi bobot kendaraan lebih seimbang
+42	Lalu ada penggerak roda belakang yang memungkinkan distribusi bobot kendaraan lebih seimbang
+43	Lalu ada penggerak roda belakang yang memungkinkan distribusi bobot kendaraan lebih seimbang
+44	Lalu ada penggerak roda belakang yang memungkinkan distribusi bobot kendaraan lebih seimbang dan punya traksi yang lebih baik waktu akselerasi.
+45	Lalu ada penggerak roda belakang yang memungkinkan distribusi bobot kendaraan lebih seimbang dan punya traksi yang lebih baik waktu akselerasi.
+46	dan punya traksi yang lebih baik waktu akselerasi.
+47	dan punya traksi yang lebih baik waktu akselerasi.
+48	dan punya traksi yang lebih baik waktu akselerasi. Tapi umumnya, terutama di mobil konvensional, bakal makan ruang kabin karena butuh jalur untuk komponen penggerak dari mesin,
+49	dan punya traksi yang lebih baik waktu akselerasi. Tapi umumnya, terutama di mobil konvensional, bakal makan ruang kabin karena butuh jalur untuk komponen penggerak dari mesin,
+50	Tapi umumnya, terutama di mobil konvensional, bakal makan ruang kabin karena butuh jalur untuk komponen penggerak dari mesin,
+51	Tapi umumnya, terutama di mobil konvensional, bakal makan ruang kabin karena butuh jalur untuk komponen penggerak dari mesin,
+52	Tapi umumnya, terutama di mobil konvensional, bakal makan ruang kabin karena butuh jalur untuk komponen penggerak dari mesin,
+53	Tapi umumnya, terutama di mobil konvensional, bakal makan ruang kabin karena butuh jalur untuk komponen penggerak dari mesin,
+54	Tapi umumnya, terutama di mobil konvensional, bakal makan ruang kabin karena butuh jalur untuk komponen penggerak dari mesin,
+55	Tapi umumnya, terutama di mobil konvensional, bakal makan ruang kabin karena butuh jalur untuk komponen penggerak dari mesin,
+56	Tapi umumnya, terutama di mobil konvensional, bakal makan ruang kabin karena butuh jalur untuk komponen penggerak dari mesin,
+57	Tapi umumnya, terutama di mobil konvensional, bakal makan ruang kabin karena butuh jalur untuk komponen penggerak dari mesin,
+58	Tapi umumnya, terutama di mobil konvensional, bakal makan ruang kabin karena butuh jalur untuk komponen penggerak dari mesin,
+59	Tapi umumnya, terutama di mobil konvensional, bakal makan ruang kabin karena butuh jalur untuk komponen penggerak dari mesin,
+60	Tapi umumnya, terutama di mobil konvensional, bakal makan ruang kabin karena butuh jalur untuk komponen penggerak dari mesin, seperti transmisi, as popel, dan gardan.
+61	Tapi umumnya, terutama di mobil konvensional, bakal makan ruang kabin karena butuh jalur untuk komponen penggerak dari mesin, seperti transmisi, as popel, dan gardan.
+62	seperti transmisi, as popel, dan gardan.
+63	seperti transmisi, as popel, dan gardan.
+64	seperti transmisi, as popel, dan gardan.
+65	seperti transmisi, as popel, dan gardan. Terakhir gabungan keduanya, tiada lain-tiada bukan, sistem penggerak 4 roda.
+66	Terakhir gabungan keduanya, tiada lain-tiada bukan, sistem penggerak 4 roda.
+67	Terakhir gabungan keduanya, tiada lain-tiada bukan, sistem penggerak 4 roda.
+68	Terakhir gabungan keduanya, tiada lain-tiada bukan, sistem penggerak 4 roda.
+69	Terakhir gabungan keduanya, tiada lain-tiada bukan, sistem penggerak 4 roda.
+70	Terakhir gabungan keduanya, tiada lain-tiada bukan, sistem penggerak 4 roda.
+71	Terakhir gabungan keduanya, tiada lain-tiada bukan, sistem penggerak 4 roda.
+72	Terakhir gabungan keduanya, tiada lain-tiada bukan, sistem penggerak 4 roda.
+73	Terakhir gabungan keduanya, tiada lain-tiada bukan, sistem penggerak 4 roda. Ketika belakang hilang grip, depan bisa narik.
+74	Ketika belakang hilang grip, depan bisa narik.
+75	Ketika belakang hilang grip, depan bisa narik.
+76	Ketika belakang hilang grip, depan bisa narik.
+77	Ketika belakang hilang grip, depan bisa narik. Begitu juga sebaliknya.
+78	Ketika belakang hilang grip, depan bisa narik. Begitu juga sebaliknya.
+79	Begitu juga sebaliknya.
+80	Begitu juga sebaliknya. Cocok nih buat ngadepin macem-macem medan, terutama permukaan licin atau kontur nggak beraturan.
+81	Cocok nih buat ngadepin macem-macem medan, terutama permukaan licin atau kontur nggak beraturan.
+82	Cocok nih buat ngadepin macem-macem medan, terutama permukaan licin atau kontur nggak beraturan.
+83	Cocok nih buat ngadepin macem-macem medan, terutama permukaan licin atau kontur nggak beraturan.
+84	Cocok nih buat ngadepin macem-macem medan, terutama permukaan licin atau kontur nggak beraturan.
+85	Cocok nih buat ngadepin macem-macem medan, terutama permukaan licin atau kontur nggak beraturan.
+86	Cocok nih buat ngadepin macem-macem medan, terutama permukaan licin atau kontur nggak beraturan.
+87	Cocok nih buat ngadepin macem-macem medan, terutama permukaan licin atau kontur nggak beraturan.
+88	Cocok nih buat ngadepin macem-macem medan, terutama permukaan licin atau kontur nggak beraturan.
+89	Cocok nih buat ngadepin macem-macem medan, terutama permukaan licin atau kontur nggak beraturan. Tapi tentunya, bingung minusnya secara biaya lebih tinggi dan ngaruh ke efisiensi bahan bakar karena relatif lebih berat.
+90	Tapi tentunya, bingung minusnya secara biaya lebih tinggi dan ngaruh ke efisiensi bahan bakar karena relatif lebih berat.
+91	Tapi tentunya, bingung minusnya secara biaya lebih tinggi dan ngaruh ke efisiensi bahan bakar karena relatif lebih berat.
+92	Tapi tentunya, bingung minusnya secara biaya lebih tinggi dan ngaruh ke efisiensi bahan bakar karena relatif lebih berat.
+93	Tapi tentunya, bingung minusnya secara biaya lebih tinggi dan ngaruh ke efisiensi bahan bakar karena relatif lebih berat.
+94	Tapi tentunya, bingung minusnya secara biaya lebih tinggi dan ngaruh ke efisiensi bahan bakar karena relatif lebih berat.
+95	Tapi tentunya, bingung minusnya secara biaya lebih tinggi dan ngaruh ke efisiensi bahan bakar karena relatif lebih berat.
+96	Tapi tentunya, bingung minusnya secara biaya lebih tinggi dan ngaruh ke efisiensi bahan bakar karena relatif lebih berat.
+97	Tapi tentunya, bingung minusnya secara biaya lebih tinggi dan ngaruh ke efisiensi bahan bakar karena relatif lebih berat.
+98	Tapi tentunya, bingung minusnya secara biaya lebih tinggi dan ngaruh ke efisiensi bahan bakar karena relatif lebih berat.
+99	Tapi tentunya, bingung minusnya secara biaya lebih tinggi dan ngaruh ke efisiensi bahan bakar karena relatif lebih berat.
+100	Tapi tentunya, bingung minusnya secara biaya lebih tinggi dan ngaruh ke efisiensi bahan bakar karena relatif lebih berat.
+101	Tapi tentunya, bingung minusnya secara biaya lebih tinggi dan ngaruh ke efisiensi bahan bakar karena relatif lebih berat. Gimana, kalau kalian prefer penggerak depan, belakang, atau depan belakang nih?
+102	Gimana, kalau kalian prefer penggerak depan, belakang, atau depan belakang nih?
+103	Gimana, kalau kalian prefer penggerak depan, belakang, atau depan belakang nih?
+104	Gimana, kalau kalian prefer penggerak depan, belakang, atau depan belakang nih?
+105	Gimana, kalau kalian prefer penggerak depan, belakang, atau depan belakang nih?
+106	Gimana, kalau kalian prefer penggerak depan, belakang, atau depan belakang nih?
+107	Gimana, kalau kalian prefer penggerak depan, belakang, atau depan belakang nih?
+108	Gimana, kalau kalian prefer penggerak depan, belakang, atau depan belakang nih? Nih.
+109	Gimana, kalau kalian prefer penggerak depan, belakang, atau depan belakang nih? Nih.
+110	Nih.

@@ -1,0 +1,56 @@
+0	Kalau nggak mau sih nggak apa-apa, tapi ini cara gue cukur alis.
+1	Kalau nggak mau sih nggak apa-apa, tapi ini cara gue cukur alis.
+2	Kalau nggak mau sih nggak apa-apa, tapi ini cara gue cukur alis.
+3	Kalau nggak mau sih nggak apa-apa, tapi ini cara gue cukur alis.
+4	Kalau nggak mau sih nggak apa-apa, tapi ini cara gue cukur alis.
+5	Kalau nggak mau sih nggak apa-apa, tapi ini cara gue cukur alis.
+6	Kalau nggak mau sih nggak apa-apa, tapi ini cara gue cukur alis. Yang pertama, pastiin lo pake pelicin ya.
+7	Yang pertama, pastiin lo pake pelicin ya.
+8	Yang pertama, pastiin lo pake pelicin ya.
+9	Yang pertama, pastiin lo pake pelicin ya.
+10	Yang pertama, pastiin lo pake pelicin ya. Di sini gue pake face oil.
+11	Yang pertama, pastiin lo pake pelicin ya. Di sini gue pake face oil.
+12	Di sini gue pake face oil.
+13	Di sini gue pake face oil. Dan ketika lo cukur alis tuh, lo ngeliatnya ke depan gitu ya.
+14	Di sini gue pake face oil. Dan ketika lo cukur alis tuh, lo ngeliatnya ke depan gitu ya.
+15	Dan ketika lo cukur alis tuh, lo ngeliatnya ke depan gitu ya.
+16	Dan ketika lo cukur alis tuh, lo ngeliatnya ke depan gitu ya.
+17	Dan ketika lo cukur alis tuh, lo ngeliatnya ke depan gitu ya.
+18	Dan ketika lo cukur alis tuh, lo ngeliatnya ke depan gitu ya.
+19	Dan ketika lo cukur alis tuh, lo ngeliatnya ke depan gitu ya.
+20	Dan ketika lo cukur alis tuh, lo ngeliatnya ke depan gitu ya. Biar presisi, nggak mencong-mencong.
+21	Dan ketika lo cukur alis tuh, lo ngeliatnya ke depan gitu ya. Biar presisi, nggak mencong-mencong.
+22	Biar presisi, nggak mencong-mencong.
+23	Biar presisi, nggak mencong-mencong.
+24	Biar presisi, nggak mencong-mencong. Kalau lo takut nggak presisi, lo bisa gambar alis dulu,
+25	Biar presisi, nggak mencong-mencong. Kalau lo takut nggak presisi, lo bisa gambar alis dulu,
+26	Kalau lo takut nggak presisi, lo bisa gambar alis dulu,
+27	Kalau lo takut nggak presisi, lo bisa gambar alis dulu,
+28	Kalau lo takut nggak presisi, lo bisa gambar alis dulu,
+29	Kalau lo takut nggak presisi, lo bisa gambar alis dulu, dan tinggal cukur aja sisa di luar gambarnya.
+30	Kalau lo takut nggak presisi, lo bisa gambar alis dulu, dan tinggal cukur aja sisa di luar gambarnya.
+31	dan tinggal cukur aja sisa di luar gambarnya.
+32	dan tinggal cukur aja sisa di luar gambarnya.
+33	dan tinggal cukur aja sisa di luar gambarnya.
+34	dan tinggal cukur aja sisa di luar gambarnya.
+35	dan tinggal cukur aja sisa di luar gambarnya. Ketau daripada ntar tiba-tiba botak ya kan,
+36	Ketau daripada ntar tiba-tiba botak ya kan,
+37	Ketau daripada ntar tiba-tiba botak ya kan,
+38	Ketau daripada ntar tiba-tiba botak ya kan,
+39	Ketau daripada ntar tiba-tiba botak ya kan,
+40	Ketau daripada ntar tiba-tiba botak ya kan, terus nyesel, takut banget.
+41	Ketau daripada ntar tiba-tiba botak ya kan, terus nyesel, takut banget.
+42	terus nyesel, takut banget.
+43	terus nyesel, takut banget.
+44	terus nyesel, takut banget.
+45	Intinya nyukurnya itu berhenti cukur-benti cukur gitu ya,
+46	Intinya nyukurnya itu berhenti cukur-benti cukur gitu ya,
+47	Intinya nyukurnya itu berhenti cukur-benti cukur gitu ya,
+48	Intinya nyukurnya itu berhenti cukur-benti cukur gitu ya,
+49	Intinya nyukurnya itu berhenti cukur-benti cukur gitu ya,
+50	Intinya nyukurnya itu berhenti cukur-benti cukur gitu ya, pelan-pelan aja, and good luck!
+51	Intinya nyukurnya itu berhenti cukur-benti cukur gitu ya, pelan-pelan aja, and good luck!
+52	pelan-pelan aja, and good luck!
+53	pelan-pelan aja, and good luck!
+54	pelan-pelan aja, and good luck!
+55	[NO_SPEECH]

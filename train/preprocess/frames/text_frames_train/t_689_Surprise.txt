@@ -1,0 +1,80 @@
+0	Power of Derma Express
+1	Power of Derma Express
+2	Power of Derma Express D, Masya Allah, Tabarakallah
+3	D, Masya Allah, Tabarakallah
+4	D, Masya Allah, Tabarakallah
+5	D, Masya Allah, Tabarakallah
+6	D, Masya Allah, Tabarakallah
+7	D, Masya Allah, Tabarakallah Kalian mau tau saya treatment apa tiap bulan?
+8	D, Masya Allah, Tabarakallah Kalian mau tau saya treatment apa tiap bulan?
+9	Kalian mau tau saya treatment apa tiap bulan?
+10	Kalian mau tau saya treatment apa tiap bulan?
+11	Kalian mau tau saya treatment apa tiap bulan? Check it out!
+12	Kalian mau tau saya treatment apa tiap bulan? Check it out!
+13	Check it out! Reglo facial untuk menghilangkan sel kulit mati
+14	Check it out! Reglo facial untuk menghilangkan sel kulit mati
+15	Reglo facial untuk menghilangkan sel kulit mati
+16	Reglo facial untuk menghilangkan sel kulit mati
+17	Reglo facial untuk menghilangkan sel kulit mati
+18	Reglo facial untuk menghilangkan sel kulit mati
+19	Reglo facial untuk menghilangkan sel kulit mati Radiance peeling, mencerahkan dan mengurangi flek hitam
+20	Reglo facial untuk menghilangkan sel kulit mati Radiance peeling, mencerahkan dan mengurangi flek hitam
+21	Radiance peeling, mencerahkan dan mengurangi flek hitam
+22	Radiance peeling, mencerahkan dan mengurangi flek hitam
+23	Radiance peeling, mencerahkan dan mengurangi flek hitam
+24	Radiance peeling, mencerahkan dan mengurangi flek hitam
+25	Radiance peeling, mencerahkan dan mengurangi flek hitam Diamkan sejenak untuk lanjut ke treatment selanjutnya
+26	Radiance peeling, mencerahkan dan mengurangi flek hitam Diamkan sejenak untuk lanjut ke treatment selanjutnya
+27	Diamkan sejenak untuk lanjut ke treatment selanjutnya
+28	Diamkan sejenak untuk lanjut ke treatment selanjutnya
+29	Diamkan sejenak untuk lanjut ke treatment selanjutnya
+30	Diamkan sejenak untuk lanjut ke treatment selanjutnya Anastasi dulu biar gak kerasa apa-apa
+31	Diamkan sejenak untuk lanjut ke treatment selanjutnya Anastasi dulu biar gak kerasa apa-apa
+32	Diamkan sejenak untuk lanjut ke treatment selanjutnya Anastasi dulu biar gak kerasa apa-apa
+33	Anastasi dulu biar gak kerasa apa-apa
+34	Anastasi dulu biar gak kerasa apa-apa
+35	Anastasi dulu biar gak kerasa apa-apa
+36	Anastasi dulu biar gak kerasa apa-apa Saya merasakan kembas di seluruh muka
+37	Anastasi dulu biar gak kerasa apa-apa Saya merasakan kembas di seluruh muka
+38	Saya merasakan kembas di seluruh muka
+39	Saya merasakan kembas di seluruh muka
+40	Saya merasakan kembas di seluruh muka
+41	Saya merasakan kembas di seluruh muka
+42	Saya merasakan kembas di seluruh muka Nah lanjut, Denaglo
+43	Saya merasakan kembas di seluruh muka Nah lanjut, Denaglo
+44	Nah lanjut, Denaglo
+45	Nah lanjut, Denaglo
+46	Nah lanjut, Denaglo
+47	Nah lanjut, Denaglo
+48	Nah lanjut, Denaglo Untuk memudarkan bekas jerawat
+49	Nah lanjut, Denaglo Untuk memudarkan bekas jerawat
+50	Untuk memudarkan bekas jerawat
+51	Untuk memudarkan bekas jerawat Dan terakhir Mesolipo
+52	Untuk memudarkan bekas jerawat Dan terakhir Mesolipo
+53	Untuk memudarkan bekas jerawat Dan terakhir Mesolipo
+54	Dan terakhir Mesolipo
+55	Dan terakhir Mesolipo Untuk menghilangkan lemak
+56	Dan terakhir Mesolipo Untuk menghilangkan lemak
+57	Untuk menghilangkan lemak Ini before
+58	Untuk menghilangkan lemak Ini before
+59	Ini before Dan ini after
+60	Ini before Dan ini after
+61	Dan ini after
+62	Dan ini after
+63	Dan ini after
+64	Dan ini after
+65	[NO_SPEECH]
+66	[NO_SPEECH]
+67	[NO_SPEECH]
+68	[NO_SPEECH]
+69	[NO_SPEECH]
+70	[NO_SPEECH]
+71	[NO_SPEECH]
+72	[NO_SPEECH]
+73	[NO_SPEECH]
+74	[NO_SPEECH]
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]

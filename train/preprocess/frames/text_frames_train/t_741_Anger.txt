@@ -1,0 +1,84 @@
+0	Ini berapa jenis makanan?
+1	Ini berapa jenis makanan?
+2	Ini berapa jenis makanan?
+3	Tugasnya teman-teman yang pertama adalah
+4	Tugasnya teman-teman yang pertama adalah
+5	Tugasnya teman-teman yang pertama adalah
+6	Tugasnya teman-teman yang pertama adalah
+7	Tugasnya teman-teman yang pertama adalah
+8	Tugasnya teman-teman yang pertama adalah jangan lihat dulu komposisinya
+9	Tugasnya teman-teman yang pertama adalah jangan lihat dulu komposisinya
+10	jangan lihat dulu komposisinya
+11	jangan lihat dulu komposisinya
+12	jangan lihat dulu komposisinya
+13	jangan lihat dulu komposisinya jangan lihat komposisi di belakang ini
+14	jangan lihat dulu komposisinya jangan lihat komposisi di belakang ini
+15	jangan lihat komposisi di belakang ini
+16	jangan lihat komposisi di belakang ini
+17	jangan lihat komposisi di belakang ini
+18	jangan lihat komposisi di belakang ini
+19	jangan lihat komposisi di belakang ini lihat aja mereknya
+20	jangan lihat komposisi di belakang ini lihat aja mereknya
+21	lihat aja mereknya
+22	lihat aja mereknya
+23	lihat aja mereknya
+24	lihat aja mereknya lihat merek, teman-teman tulis
+25	lihat aja mereknya lihat merek, teman-teman tulis
+26	lihat merek, teman-teman tulis
+27	lihat merek, teman-teman tulis
+28	lihat merek, teman-teman tulis
+29	lihat merek, teman-teman tulis apakah ini termasuk makanan sehat atau enggak
+30	lihat merek, teman-teman tulis apakah ini termasuk makanan sehat atau enggak
+31	apakah ini termasuk makanan sehat atau enggak
+32	apakah ini termasuk makanan sehat atau enggak
+33	apakah ini termasuk makanan sehat atau enggak
+34	apakah ini termasuk makanan sehat atau enggak habis itu yang kedua
+35	apakah ini termasuk makanan sehat atau enggak habis itu yang kedua
+36	habis itu yang kedua
+37	habis itu yang kedua setelah teman-teman tulis
+38	habis itu yang kedua setelah teman-teman tulis
+39	setelah teman-teman tulis
+40	setelah teman-teman tulis teman-teman baca komposisi di belakang
+41	setelah teman-teman tulis teman-teman baca komposisi di belakang
+42	setelah teman-teman tulis teman-teman baca komposisi di belakang
+43	teman-teman baca komposisi di belakang
+44	teman-teman baca komposisi di belakang
+45	teman-teman baca komposisi di belakang look at the ingredients
+46	teman-teman baca komposisi di belakang look at the ingredients
+47	look at the ingredients
+48	look at the ingredients tell how many ingredients in this food
+49	look at the ingredients tell how many ingredients in this food
+50	tell how many ingredients in this food
+51	tell how many ingredients in this food
+52	tell how many ingredients in this food
+53	tell how many ingredients in this food
+54	tell how many ingredients in this food
+55	tell how many ingredients in this food
+56	tell how many ingredients in this food tulis berapa jenis ingredients di dalam makanan ini
+57	tell how many ingredients in this food tulis berapa jenis ingredients di dalam makanan ini
+58	tulis berapa jenis ingredients di dalam makanan ini
+59	tulis berapa jenis ingredients di dalam makanan ini
+60	tulis berapa jenis ingredients di dalam makanan ini
+61	tulis berapa jenis ingredients di dalam makanan ini
+62	tulis berapa jenis ingredients di dalam makanan ini
+63	tulis berapa jenis ingredients di dalam makanan ini
+64	tulis berapa jenis ingredients di dalam makanan ini setelah itu yang ketiga
+65	tulis berapa jenis ingredients di dalam makanan ini setelah itu yang ketiga
+66	setelah itu yang ketiga
+67	setelah itu yang ketiga
+68	setelah itu yang ketiga
+69	setelah itu yang ketiga teman-teman tulis apakah ini termasuk makanan sehat atau enggak
+70	setelah itu yang ketiga teman-teman tulis apakah ini termasuk makanan sehat atau enggak
+71	teman-teman tulis apakah ini termasuk makanan sehat atau enggak
+72	teman-teman tulis apakah ini termasuk makanan sehat atau enggak
+73	teman-teman tulis apakah ini termasuk makanan sehat atau enggak
+74	teman-teman tulis apakah ini termasuk makanan sehat atau enggak
+75	teman-teman tulis apakah ini termasuk makanan sehat atau enggak oke, I'm gonna spread this around
+76	teman-teman tulis apakah ini termasuk makanan sehat atau enggak oke, I'm gonna spread this around
+77	oke, I'm gonna spread this around
+78	oke, I'm gonna spread this around
+79	oke, I'm gonna spread this around
+80	oke, I'm gonna spread this around
+81	oke, I'm gonna spread this around
+82	[NO_SPEECH]
+83	[NO_SPEECH]

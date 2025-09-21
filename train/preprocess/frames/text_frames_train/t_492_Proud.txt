@@ -1,0 +1,100 @@
+0	Lagi ada apa ini? Ramai-ramai berenang gila.
+1	Lagi ada apa ini? Ramai-ramai berenang gila.
+2	Lagi ada apa ini? Ramai-ramai berenang gila.
+3	Lagi ada apa ini? Ramai-ramai berenang gila.
+4	Lagi ada apa ini? Ramai-ramai berenang gila.
+5	Lagi ada apa ini? Ramai-ramai berenang gila.
+6	Lagi ada apa ini? Ramai-ramai berenang gila.
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	Mengarungi Selat Madura bersama Wakasal, Laksamana Madiati dan Ewin Aldi Dharma.
+11	Mengarungi Selat Madura bersama Wakasal, Laksamana Madiati dan Ewin Aldi Dharma.
+12	Mengarungi Selat Madura bersama Wakasal, Laksamana Madiati dan Ewin Aldi Dharma.
+13	Mengarungi Selat Madura bersama Wakasal, Laksamana Madiati dan Ewin Aldi Dharma.
+14	Mengarungi Selat Madura bersama Wakasal, Laksamana Madiati dan Ewin Aldi Dharma.
+15	Mengarungi Selat Madura bersama Wakasal, Laksamana Madiati dan Ewin Aldi Dharma.
+16	Mengarungi Selat Madura bersama Wakasal, Laksamana Madiati dan Ewin Aldi Dharma.
+17	Mengarungi Selat Madura bersama Wakasal, Laksamana Madiati dan Ewin Aldi Dharma.
+18	Mengarungi Selat Madura bersama Wakasal, Laksamana Madiati dan Ewin Aldi Dharma.
+19	Mengarungi Selat Madura bersama Wakasal, Laksamana Madiati dan Ewin Aldi Dharma.
+20	Mengarungi Selat Madura bersama Wakasal, Laksamana Madiati dan Ewin Aldi Dharma.
+21	Mengarungi Selat Madura bersama Wakasal, Laksamana Madiati dan Ewin Aldi Dharma.
+22	Mengarungi Selat Madura bersama Wakasal, Laksamana Madiati dan Ewin Aldi Dharma.
+23	Mengarungi Selat Madura bersama Wakasal, Laksamana Madiati dan Ewin Aldi Dharma.
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	[NO_SPEECH]
+59	[NO_SPEECH]
+60	[NO_SPEECH]
+61	[NO_SPEECH]
+62	[NO_SPEECH]
+63	[NO_SPEECH]
+64	[NO_SPEECH]
+65	[NO_SPEECH]
+66	[NO_SPEECH]
+67	[NO_SPEECH]
+68	[NO_SPEECH]
+69	Terima kasih telah menonton.
+70	Terima kasih telah menonton.
+71	Terima kasih telah menonton.
+72	Terima kasih telah menonton.
+73	Terima kasih telah menonton.
+74	Terima kasih telah menonton.
+75	Terima kasih telah menonton.
+76	Terima kasih telah menonton.
+77	Terima kasih telah menonton.
+78	Terima kasih telah menonton.
+79	Terima kasih telah menonton.
+80	Terima kasih telah menonton.
+81	Terima kasih telah menonton.
+82	Terima kasih telah menonton.
+83	Terima kasih telah menonton.
+84	Terima kasih telah menonton.
+85	Terima kasih telah menonton.
+86	Terima kasih telah menonton.
+87	Terima kasih telah menonton.
+88	Terima kasih telah menonton.
+89	Terima kasih telah menonton.
+90	Terima kasih telah menonton.
+91	Terima kasih telah menonton.
+92	Terima kasih telah menonton.
+93	Terima kasih telah menonton.
+94	Terima kasih telah menonton.
+95	Terima kasih telah menonton.
+96	Terima kasih telah menonton.
+97	Terima kasih telah menonton.
+98	Terima kasih telah menonton.
+99	[NO_SPEECH]

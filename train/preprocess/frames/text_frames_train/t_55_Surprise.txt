@@ -1,0 +1,84 @@
+0	Boleh nanya gak? Nama lu asli siapa sih?
+1	Boleh nanya gak? Nama lu asli siapa sih?
+2	Boleh nanya gak? Nama lu asli siapa sih? Nama itu gak penting om.
+3	Boleh nanya gak? Nama lu asli siapa sih? Nama itu gak penting om.
+4	Nama itu gak penting om.
+5	Nama itu gak penting om. Nama itu gak penting, yang penting adalah hasil kreasi kita.
+6	Nama itu gak penting om. Nama itu gak penting, yang penting adalah hasil kreasi kita.
+7	Nama itu gak penting, yang penting adalah hasil kreasi kita.
+8	Nama itu gak penting, yang penting adalah hasil kreasi kita.
+9	Nama itu gak penting, yang penting adalah hasil kreasi kita.
+10	Nama itu gak penting, yang penting adalah hasil kreasi kita.
+11	Nama itu gak penting, yang penting adalah hasil kreasi kita.
+12	Nama itu gak penting, yang penting adalah hasil kreasi kita.
+13	Nama itu gak penting, yang penting adalah hasil kreasi kita. Gue denger mobil lu sport car semua ya?
+14	Nama itu gak penting, yang penting adalah hasil kreasi kita. Gue denger mobil lu sport car semua ya?
+15	Gue denger mobil lu sport car semua ya?
+16	Gue denger mobil lu sport car semua ya?
+17	Gue denger mobil lu sport car semua ya? Engga, gak kebeli om. Mobil-mobil tua om.
+18	Gue denger mobil lu sport car semua ya? Engga, gak kebeli om. Mobil-mobil tua om.
+19	Engga, gak kebeli om. Mobil-mobil tua om.
+20	Engga, gak kebeli om. Mobil-mobil tua om.
+21	Engga, gak kebeli om. Mobil-mobil tua om.
+22	Engga, gak kebeli om. Mobil-mobil tua om.
+23	Engga, gak kebeli om. Mobil-mobil tua om.
+24	Engga, gak kebeli om. Mobil-mobil tua om.
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	Om, lu kan sekarang ada mobil Cina.
+28	Om, lu kan sekarang ada mobil Cina.
+29	Om, lu kan sekarang ada mobil Cina.
+30	Om, lu kan sekarang ada mobil Cina.
+31	Om, lu kan sekarang ada mobil Cina.
+32	Om, lu kan sekarang ada mobil Cina.
+33	Om, lu kan sekarang ada mobil Cina. What do you think about mobil Cina?
+34	Om, lu kan sekarang ada mobil Cina. What do you think about mobil Cina?
+35	What do you think about mobil Cina?
+36	What do you think about mobil Cina? Mobil Cina itu surprisingly bagus-bagus.
+37	Mobil Cina itu surprisingly bagus-bagus.
+38	Mobil Cina itu surprisingly bagus-bagus.
+39	Mobil Cina itu surprisingly bagus-bagus.
+40	Mobil Cina itu surprisingly bagus-bagus.
+41	Mobil Cina itu surprisingly bagus-bagus.
+42	Mobil Cina itu surprisingly bagus-bagus.
+43	Mobil Cina itu surprisingly bagus-bagus.
+44	Mobil Cina itu surprisingly bagus-bagus. Vinfast, VF3 udah masuk nih belum?
+45	Vinfast, VF3 udah masuk nih belum?
+46	Vinfast, VF3 udah masuk nih belum?
+47	Vinfast, VF3 udah masuk nih belum?
+48	Vinfast, VF3 udah masuk nih belum? Belum-belum.
+49	Belum-belum. Oh lu punya Vinfast juga?
+50	Belum-belum. Oh lu punya Vinfast juga?
+51	Oh lu punya Vinfast juga?
+52	Oh lu punya Vinfast juga?
+53	[NO_SPEECH]
+54	Nasionalis mulai dimana tuh mobil Vietnam?
+55	Nasionalis mulai dimana tuh mobil Vietnam?
+56	Nasionalis mulai dimana tuh mobil Vietnam?
+57	Nasionalis mulai dimana tuh mobil Vietnam?
+58	Nasionalis mulai dimana tuh mobil Vietnam?
+59	Sebentar, sebentar.
+60	Sebentar, sebentar.
+61	Sebentar, sebentar.
+62	Dari semua merk mobil gak ada yang merk Indonesia.
+63	Dari semua merk mobil gak ada yang merk Indonesia.
+64	Dari semua merk mobil gak ada yang merk Indonesia.
+65	Dari semua merk mobil gak ada yang merk Indonesia.
+66	Dari semua merk mobil gak ada yang merk Indonesia.
+67	Dari semua merk mobil gak ada yang merk Indonesia.
+68	Dari semua merk mobil gak ada yang merk Indonesia.
+69	Merk Indonesia tuh ada.
+70	Merk Indonesia tuh ada.
+71	Merk Indonesia tuh ada.
+72	Merk Indonesia tuh ada.
+73	Merk Indonesia tuh ada.
+74	[NO_SPEECH]
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	[NO_SPEECH]
+83	[NO_SPEECH]

@@ -1,0 +1,171 @@
+0	MOP di teror lagi temen-temen
+1	MOP di teror lagi temen-temen
+2	MOP di teror lagi temen-temen
+3	MOP di teror lagi temen-temen
+4	MOP di teror lagi temen-temen
+5	MOP di teror lagi temen-temen
+6	[NO_SPEECH]
+7	Karena setting spraynya cepet abis katanya
+8	Karena setting spraynya cepet abis katanya
+9	Karena setting spraynya cepet abis katanya
+10	Karena setting spraynya cepet abis katanya
+11	Karena setting spraynya cepet abis katanya
+12	Karena setting spraynya cepet abis katanya
+13	Karena setting spraynya cepet abis katanya Banyak yang pecinta setting spray ini bilang 2 minggu aja udah abis
+14	Karena setting spraynya cepet abis katanya Banyak yang pecinta setting spray ini bilang 2 minggu aja udah abis
+15	Banyak yang pecinta setting spray ini bilang 2 minggu aja udah abis
+16	Banyak yang pecinta setting spray ini bilang 2 minggu aja udah abis
+17	Banyak yang pecinta setting spray ini bilang 2 minggu aja udah abis
+18	Banyak yang pecinta setting spray ini bilang 2 minggu aja udah abis
+19	Banyak yang pecinta setting spray ini bilang 2 minggu aja udah abis
+20	Banyak yang pecinta setting spray ini bilang 2 minggu aja udah abis
+21	Banyak yang pecinta setting spray ini bilang 2 minggu aja udah abis Jangan seti temen-temen karena sekarang kita punya yang big size
+22	Banyak yang pecinta setting spray ini bilang 2 minggu aja udah abis Jangan seti temen-temen karena sekarang kita punya yang big size
+23	Jangan seti temen-temen karena sekarang kita punya yang big size
+24	Jangan seti temen-temen karena sekarang kita punya yang big size
+25	Jangan seti temen-temen karena sekarang kita punya yang big size
+26	Jangan seti temen-temen karena sekarang kita punya yang big size
+27	Jangan seti temen-temen karena sekarang kita punya yang big size
+28	Jangan seti temen-temen karena sekarang kita punya yang big size
+29	Jangan seti temen-temen karena sekarang kita punya yang big size 3 times bigger dan harganya jauh lebih terjangkau
+30	Jangan seti temen-temen karena sekarang kita punya yang big size 3 times bigger dan harganya jauh lebih terjangkau
+31	3 times bigger dan harganya jauh lebih terjangkau
+32	3 times bigger dan harganya jauh lebih terjangkau
+33	3 times bigger dan harganya jauh lebih terjangkau
+34	3 times bigger dan harganya jauh lebih terjangkau
+35	3 times bigger dan harganya jauh lebih terjangkau
+36	3 times bigger dan harganya jauh lebih terjangkau
+37	3 times bigger dan harganya jauh lebih terjangkau
+38	3 times bigger dan harganya jauh lebih terjangkau Yang matte dan yang satin
+39	3 times bigger dan harganya jauh lebih terjangkau Yang matte dan yang satin
+40	Yang matte dan yang satin
+41	Yang matte dan yang satin Dua-duanya ada big size-nya
+42	Yang matte dan yang satin Dua-duanya ada big size-nya
+43	Dua-duanya ada big size-nya
+44	Dua-duanya ada big size-nya Tapi kalo buat kalian yang kulitnya kering kalian bisa pake yang satin
+45	Dua-duanya ada big size-nya Tapi kalo buat kalian yang kulitnya kering kalian bisa pake yang satin
+46	Dua-duanya ada big size-nya Tapi kalo buat kalian yang kulitnya kering kalian bisa pake yang satin
+47	Tapi kalo buat kalian yang kulitnya kering kalian bisa pake yang satin
+48	Tapi kalo buat kalian yang kulitnya kering kalian bisa pake yang satin
+49	Tapi kalo buat kalian yang kulitnya kering kalian bisa pake yang satin
+50	Tapi kalo buat kalian yang kulitnya kering kalian bisa pake yang satin
+51	Tapi kalo buat kalian yang kulitnya kering kalian bisa pake yang satin
+52	Tapi kalo buat kalian yang kulitnya kering kalian bisa pake yang satin Kalo kalian kulitnya berminyak kalian bisa pake yang matte
+53	Tapi kalo buat kalian yang kulitnya kering kalian bisa pake yang satin Kalo kalian kulitnya berminyak kalian bisa pake yang matte
+54	Kalo kalian kulitnya berminyak kalian bisa pake yang matte
+55	Kalo kalian kulitnya berminyak kalian bisa pake yang matte
+56	Kalo kalian kulitnya berminyak kalian bisa pake yang matte
+57	Kalo kalian kulitnya berminyak kalian bisa pake yang matte Aku udah pake dan kalian bisa liat sepolos apa hasil makeup aku
+58	Kalo kalian kulitnya berminyak kalian bisa pake yang matte Aku udah pake dan kalian bisa liat sepolos apa hasil makeup aku
+59	Aku udah pake dan kalian bisa liat sepolos apa hasil makeup aku
+60	Aku udah pake dan kalian bisa liat sepolos apa hasil makeup aku
+61	Aku udah pake dan kalian bisa liat sepolos apa hasil makeup aku
+62	Aku udah pake dan kalian bisa liat sepolos apa hasil makeup aku
+63	Aku udah pake dan kalian bisa liat sepolos apa hasil makeup aku
+64	Aku udah pake dan kalian bisa liat sepolos apa hasil makeup aku Dan selong lasting apa
+65	Aku udah pake dan kalian bisa liat sepolos apa hasil makeup aku Dan selong lasting apa
+66	Dan selong lasting apa
+67	Dan selong lasting apa Udah banyak banget testimoninya
+68	Dan selong lasting apa Udah banyak banget testimoninya
+69	Udah banyak banget testimoninya
+70	Udah banyak banget testimoninya
+71	Udah banyak banget testimoninya Bisa langsung check out yang big size ini
+72	Udah banyak banget testimoninya Bisa langsung check out yang big size ini
+73	Bisa langsung check out yang big size ini
+74	Bisa langsung check out yang big size ini
+75	Bisa langsung check out yang big size ini
+76	Bisa langsung check out yang big size ini Dan mistnya semakin super fine mist
+77	Bisa langsung check out yang big size ini Dan mistnya semakin super fine mist
+78	Dan mistnya semakin super fine mist
+79	Dan mistnya semakin super fine mist
+80	Dan mistnya semakin super fine mist
+81	Dan mistnya semakin super fine mist Karena kita pake mist yang terbaru juga
+82	Dan mistnya semakin super fine mist Karena kita pake mist yang terbaru juga
+83	Karena kita pake mist yang terbaru juga
+84	Karena kita pake mist yang terbaru juga
+85	Karena kita pake mist yang terbaru juga
+86	Karena kita pake mist yang terbaru juga Masih continuous dan juga alcohol free temen-temen
+87	Karena kita pake mist yang terbaru juga Masih continuous dan juga alcohol free temen-temen
+88	Masih continuous dan juga alcohol free temen-temen
+89	Masih continuous dan juga alcohol free temen-temen
+90	Masih continuous dan juga alcohol free temen-temen
+91	Masih continuous dan juga alcohol free temen-temen
+92	Masih continuous dan juga alcohol free temen-temen
+93	Masih continuous dan juga alcohol free temen-temen
+94	Masih continuous dan juga alcohol free temen-temen Tapi kalo kalian mau traveling
+95	Masih continuous dan juga alcohol free temen-temen Tapi kalo kalian mau traveling
+96	Tapi kalo kalian mau traveling
+97	Tapi kalo kalian mau traveling
+98	Tapi kalo kalian mau traveling Jangan khawatir yang mini size juga masih ada
+99	Tapi kalo kalian mau traveling Jangan khawatir yang mini size juga masih ada
+100	Jangan khawatir yang mini size juga masih ada
+101	Jangan khawatir yang mini size juga masih ada
+102	Jangan khawatir yang mini size juga masih ada
+103	Jangan khawatir yang mini size juga masih ada Dan harganya juga jadi jauh lebih murah
+104	Jangan khawatir yang mini size juga masih ada Dan harganya juga jadi jauh lebih murah
+105	Dan harganya juga jadi jauh lebih murah
+106	Dan harganya juga jadi jauh lebih murah
+107	Dan harganya juga jadi jauh lebih murah Jadi jangan teror MOP lagi
+108	Dan harganya juga jadi jauh lebih murah Jadi jangan teror MOP lagi
+109	Jadi jangan teror MOP lagi
+110	Jadi jangan teror MOP lagi
+111	Jadi jangan teror MOP lagi
+112	Jadi jangan teror MOP lagi Buruan check out aja sekarang
+113	Jadi jangan teror MOP lagi Buruan check out aja sekarang
+114	Buruan check out aja sekarang
+115	Buruan check out aja sekarang
+116	Buruan check out aja sekarang Gak kaget sih kenapa banyak banget pecinta setting spray MOP ini
+117	Buruan check out aja sekarang Gak kaget sih kenapa banyak banget pecinta setting spray MOP ini
+118	Gak kaget sih kenapa banyak banget pecinta setting spray MOP ini
+119	Gak kaget sih kenapa banyak banget pecinta setting spray MOP ini
+120	Gak kaget sih kenapa banyak banget pecinta setting spray MOP ini
+121	Gak kaget sih kenapa banyak banget pecinta setting spray MOP ini
+122	Gak kaget sih kenapa banyak banget pecinta setting spray MOP ini
+123	Gak kaget sih kenapa banyak banget pecinta setting spray MOP ini Karena liat aja sendiri ya
+124	Gak kaget sih kenapa banyak banget pecinta setting spray MOP ini Karena liat aja sendiri ya
+125	Karena liat aja sendiri ya Semakin di spray semakin glowing and healthy
+126	Karena liat aja sendiri ya Semakin di spray semakin glowing and healthy
+127	Semakin di spray semakin glowing and healthy
+128	Semakin di spray semakin glowing and healthy
+129	Semakin di spray semakin glowing and healthy
+130	Semakin di spray semakin glowing and healthy
+131	Semakin di spray semakin glowing and healthy Tapi makeupnya tetep awet up to 16 hour
+132	Semakin di spray semakin glowing and healthy Tapi makeupnya tetep awet up to 16 hour
+133	Tapi makeupnya tetep awet up to 16 hour
+134	Tapi makeupnya tetep awet up to 16 hour
+135	Tapi makeupnya tetep awet up to 16 hour
+136	Tapi makeupnya tetep awet up to 16 hour
+137	Tapi makeupnya tetep awet up to 16 hour Bahkan sebenernya up to 24 hour
+138	Tapi makeupnya tetep awet up to 16 hour Bahkan sebenernya up to 24 hour
+139	Bahkan sebenernya up to 24 hour
+140	Bahkan sebenernya up to 24 hour
+141	Bahkan sebenernya up to 24 hour Dipake berenang, dipake nyebur, dipake apapun itu akan tetep awet
+142	Bahkan sebenernya up to 24 hour Dipake berenang, dipake nyebur, dipake apapun itu akan tetep awet
+143	Dipake berenang, dipake nyebur, dipake apapun itu akan tetep awet
+144	Dipake berenang, dipake nyebur, dipake apapun itu akan tetep awet
+145	Dipake berenang, dipake nyebur, dipake apapun itu akan tetep awet
+146	Dipake berenang, dipake nyebur, dipake apapun itu akan tetep awet
+147	Dipake berenang, dipake nyebur, dipake apapun itu akan tetep awet
+148	Dipake berenang, dipake nyebur, dipake apapun itu akan tetep awet
+149	Dipake berenang, dipake nyebur, dipake apapun itu akan tetep awet Selain itu ini juga bisa dijadiin skin prep kalian
+150	Dipake berenang, dipake nyebur, dipake apapun itu akan tetep awet Selain itu ini juga bisa dijadiin skin prep kalian
+151	Selain itu ini juga bisa dijadiin skin prep kalian
+152	Selain itu ini juga bisa dijadiin skin prep kalian
+153	Selain itu ini juga bisa dijadiin skin prep kalian
+154	Selain itu ini juga bisa dijadiin skin prep kalian
+155	Selain itu ini juga bisa dijadiin skin prep kalian Jadi udah ga usah ragu lagi
+156	Selain itu ini juga bisa dijadiin skin prep kalian Jadi udah ga usah ragu lagi
+157	Jadi udah ga usah ragu lagi
+158	Jadi udah ga usah ragu lagi
+159	Jadi udah ga usah ragu lagi Kalo kalian butuh yang big size langsung check out sekarang temen-temen
+160	Jadi udah ga usah ragu lagi Kalo kalian butuh yang big size langsung check out sekarang temen-temen
+161	Kalo kalian butuh yang big size langsung check out sekarang temen-temen
+162	Kalo kalian butuh yang big size langsung check out sekarang temen-temen
+163	Kalo kalian butuh yang big size langsung check out sekarang temen-temen
+164	Kalo kalian butuh yang big size langsung check out sekarang temen-temen
+165	Kalo kalian butuh yang big size langsung check out sekarang temen-temen
+166	Kalo kalian butuh yang big size langsung check out sekarang temen-temen
+167	Kalo kalian butuh yang big size langsung check out sekarang temen-temen Dan selamat menikmati
+168	Kalo kalian butuh yang big size langsung check out sekarang temen-temen Dan selamat menikmati
+169	Dan selamat menikmati
+170	Dan selamat menikmati

@@ -1,0 +1,462 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	.
+4	.
+5	.
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	DKI Jakarta rebut emas loncat indah.
+36	DKI Jakarta rebut emas loncat indah.
+37	DKI Jakarta rebut emas loncat indah.
+38	DKI Jakarta rebut emas loncat indah.
+39	DKI Jakarta rebut emas loncat indah.
+40	DKI Jakarta rebut emas loncat indah.
+41	DKI Jakarta rebut emas loncat indah.
+42	DKI Jakarta mempertahankan dominasinya.
+43	DKI Jakarta mempertahankan dominasinya.
+44	DKI Jakarta mempertahankan dominasinya.
+45	DKI Jakarta mempertahankan dominasinya.
+46	DKI Jakarta mempertahankan dominasinya.
+47	DKI Jakarta mempertahankan dominasinya.
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	Melalui Triangoro Putra dan Adityo Restu Putra Jakarta sukses mempertahankan medali emas loncat indah
+58	Melalui Triangoro Putra dan Adityo Restu Putra Jakarta sukses mempertahankan medali emas loncat indah
+59	Melalui Triangoro Putra dan Adityo Restu Putra Jakarta sukses mempertahankan medali emas loncat indah
+60	Melalui Triangoro Putra dan Adityo Restu Putra Jakarta sukses mempertahankan medali emas loncat indah
+61	Melalui Triangoro Putra dan Adityo Restu Putra Jakarta sukses mempertahankan medali emas loncat indah
+62	Melalui Triangoro Putra dan Adityo Restu Putra Jakarta sukses mempertahankan medali emas loncat indah
+63	Melalui Triangoro Putra dan Adityo Restu Putra Jakarta sukses mempertahankan medali emas loncat indah
+64	Melalui Triangoro Putra dan Adityo Restu Putra Jakarta sukses mempertahankan medali emas loncat indah
+65	Melalui Triangoro Putra dan Adityo Restu Putra Jakarta sukses mempertahankan medali emas loncat indah
+66	Melalui Triangoro Putra dan Adityo Restu Putra Jakarta sukses mempertahankan medali emas loncat indah
+67	Melalui Triangoro Putra dan Adityo Restu Putra Jakarta sukses mempertahankan medali emas loncat indah
+68	Melalui Triangoro Putra dan Adityo Restu Putra Jakarta sukses mempertahankan medali emas loncat indah
+69	Melalui Triangoro Putra dan Adityo Restu Putra Jakarta sukses mempertahankan medali emas loncat indah
+70	Melalui Triangoro Putra dan Adityo Restu Putra Jakarta sukses mempertahankan medali emas loncat indah nomor sinkronisasi papan 3 meter putra pada pekan PON Aceh Sumatra Utara 2024.
+71	Melalui Triangoro Putra dan Adityo Restu Putra Jakarta sukses mempertahankan medali emas loncat indah nomor sinkronisasi papan 3 meter putra pada pekan PON Aceh Sumatra Utara 2024.
+72	nomor sinkronisasi papan 3 meter putra pada pekan PON Aceh Sumatra Utara 2024.
+73	nomor sinkronisasi papan 3 meter putra pada pekan PON Aceh Sumatra Utara 2024.
+74	nomor sinkronisasi papan 3 meter putra pada pekan PON Aceh Sumatra Utara 2024.
+75	nomor sinkronisasi papan 3 meter putra pada pekan PON Aceh Sumatra Utara 2024.
+76	nomor sinkronisasi papan 3 meter putra pada pekan PON Aceh Sumatra Utara 2024.
+77	nomor sinkronisasi papan 3 meter putra pada pekan PON Aceh Sumatra Utara 2024.
+78	nomor sinkronisasi papan 3 meter putra pada pekan PON Aceh Sumatra Utara 2024.
+79	nomor sinkronisasi papan 3 meter putra pada pekan PON Aceh Sumatra Utara 2024.
+80	nomor sinkronisasi papan 3 meter putra pada pekan PON Aceh Sumatra Utara 2024.
+81	nomor sinkronisasi papan 3 meter putra pada pekan PON Aceh Sumatra Utara 2024.
+82	[NO_SPEECH]
+83	Berlangsung di kolam renang Selayang, Medan, Minggu, 8 September 2024.
+84	Berlangsung di kolam renang Selayang, Medan, Minggu, 8 September 2024.
+85	Berlangsung di kolam renang Selayang, Medan, Minggu, 8 September 2024.
+86	Berlangsung di kolam renang Selayang, Medan, Minggu, 8 September 2024.
+87	Berlangsung di kolam renang Selayang, Medan, Minggu, 8 September 2024.
+88	Berlangsung di kolam renang Selayang, Medan, Minggu, 8 September 2024.
+89	Berlangsung di kolam renang Selayang, Medan, Minggu, 8 September 2024.
+90	Berlangsung di kolam renang Selayang, Medan, Minggu, 8 September 2024.
+91	Berlangsung di kolam renang Selayang, Medan, Minggu, 8 September 2024.
+92	Berlangsung di kolam renang Selayang, Medan, Minggu, 8 September 2024.
+93	Berlangsung di kolam renang Selayang, Medan, Minggu, 8 September 2024.
+94	Berlangsung di kolam renang Selayang, Medan, Minggu, 8 September 2024.
+95	[NO_SPEECH]
+96	Medali emas direbut setelah Triangoro dan Adityo memukau hakim yang bertugas
+97	Medali emas direbut setelah Triangoro dan Adityo memukau hakim yang bertugas
+98	Medali emas direbut setelah Triangoro dan Adityo memukau hakim yang bertugas
+99	Medali emas direbut setelah Triangoro dan Adityo memukau hakim yang bertugas
+100	Medali emas direbut setelah Triangoro dan Adityo memukau hakim yang bertugas
+101	Medali emas direbut setelah Triangoro dan Adityo memukau hakim yang bertugas
+102	Medali emas direbut setelah Triangoro dan Adityo memukau hakim yang bertugas
+103	Medali emas direbut setelah Triangoro dan Adityo memukau hakim yang bertugas
+104	Medali emas direbut setelah Triangoro dan Adityo memukau hakim yang bertugas
+105	Medali emas direbut setelah Triangoro dan Adityo memukau hakim yang bertugas dengan mencapai nilai tertinggi 329,88.
+106	Medali emas direbut setelah Triangoro dan Adityo memukau hakim yang bertugas dengan mencapai nilai tertinggi 329,88.
+107	dengan mencapai nilai tertinggi 329,88.
+108	dengan mencapai nilai tertinggi 329,88.
+109	dengan mencapai nilai tertinggi 329,88.
+110	dengan mencapai nilai tertinggi 329,88.
+111	dengan mencapai nilai tertinggi 329,88.
+112	dengan mencapai nilai tertinggi 329,88.
+113	dengan mencapai nilai tertinggi 329,88.
+114	dengan mencapai nilai tertinggi 329,88.
+115	Sejak awal keduanya tampil kompak dengan selalu mendapat nilai tertinggi dari total 6 loncatan.
+116	Sejak awal keduanya tampil kompak dengan selalu mendapat nilai tertinggi dari total 6 loncatan.
+117	Sejak awal keduanya tampil kompak dengan selalu mendapat nilai tertinggi dari total 6 loncatan.
+118	Sejak awal keduanya tampil kompak dengan selalu mendapat nilai tertinggi dari total 6 loncatan.
+119	Sejak awal keduanya tampil kompak dengan selalu mendapat nilai tertinggi dari total 6 loncatan.
+120	Sejak awal keduanya tampil kompak dengan selalu mendapat nilai tertinggi dari total 6 loncatan.
+121	Sejak awal keduanya tampil kompak dengan selalu mendapat nilai tertinggi dari total 6 loncatan.
+122	Sejak awal keduanya tampil kompak dengan selalu mendapat nilai tertinggi dari total 6 loncatan.
+123	Sejak awal keduanya tampil kompak dengan selalu mendapat nilai tertinggi dari total 6 loncatan.
+124	Sejak awal keduanya tampil kompak dengan selalu mendapat nilai tertinggi dari total 6 loncatan.
+125	Sejak awal keduanya tampil kompak dengan selalu mendapat nilai tertinggi dari total 6 loncatan.
+126	Sejak awal keduanya tampil kompak dengan selalu mendapat nilai tertinggi dari total 6 loncatan.
+127	Sejak awal keduanya tampil kompak dengan selalu mendapat nilai tertinggi dari total 6 loncatan.
+128	Sejak awal keduanya tampil kompak dengan selalu mendapat nilai tertinggi dari total 6 loncatan.
+129	[NO_SPEECH]
+130	[NO_SPEECH]
+131	[NO_SPEECH]
+132	[NO_SPEECH]
+133	[NO_SPEECH]
+134	[NO_SPEECH]
+135	[NO_SPEECH]
+136	[NO_SPEECH]
+137	[NO_SPEECH]
+138	[NO_SPEECH]
+139	[NO_SPEECH]
+140	[NO_SPEECH]
+141	[NO_SPEECH]
+142	[NO_SPEECH]
+143	[NO_SPEECH]
+144	[NO_SPEECH]
+145	[NO_SPEECH]
+146	[NO_SPEECH]
+147	[NO_SPEECH]
+148	[NO_SPEECH]
+149	[NO_SPEECH]
+150	[NO_SPEECH]
+151	[NO_SPEECH]
+152	[NO_SPEECH]
+153	[NO_SPEECH]
+154	[NO_SPEECH]
+155	[NO_SPEECH]
+156	[NO_SPEECH]
+157	Sebelumnya tim putri sinkro menara putri,
+158	Sebelumnya tim putri sinkro menara putri,
+159	Sebelumnya tim putri sinkro menara putri,
+160	Sebelumnya tim putri sinkro menara putri,
+161	Sebelumnya tim putri sinkro menara putri,
+162	Sebelumnya tim putri sinkro menara putri, pasangan Maulidina Harisma Putri dan Nur Mufidah Sudirman mendapatkan medali perak.
+163	Sebelumnya tim putri sinkro menara putri, pasangan Maulidina Harisma Putri dan Nur Mufidah Sudirman mendapatkan medali perak.
+164	pasangan Maulidina Harisma Putri dan Nur Mufidah Sudirman mendapatkan medali perak.
+165	pasangan Maulidina Harisma Putri dan Nur Mufidah Sudirman mendapatkan medali perak.
+166	pasangan Maulidina Harisma Putri dan Nur Mufidah Sudirman mendapatkan medali perak.
+167	pasangan Maulidina Harisma Putri dan Nur Mufidah Sudirman mendapatkan medali perak.
+168	pasangan Maulidina Harisma Putri dan Nur Mufidah Sudirman mendapatkan medali perak.
+169	pasangan Maulidina Harisma Putri dan Nur Mufidah Sudirman mendapatkan medali perak.
+170	pasangan Maulidina Harisma Putri dan Nur Mufidah Sudirman mendapatkan medali perak.
+171	pasangan Maulidina Harisma Putri dan Nur Mufidah Sudirman mendapatkan medali perak.
+172	pasangan Maulidina Harisma Putri dan Nur Mufidah Sudirman mendapatkan medali perak.
+173	[NO_SPEECH]
+174	[NO_SPEECH]
+175	[NO_SPEECH]
+176	[NO_SPEECH]
+177	[NO_SPEECH]
+178	[NO_SPEECH]
+179	[NO_SPEECH]
+180	[NO_SPEECH]
+181	[NO_SPEECH]
+182	[NO_SPEECH]
+183	[NO_SPEECH]
+184	[NO_SPEECH]
+185	[NO_SPEECH]
+186	[NO_SPEECH]
+187	[NO_SPEECH]
+188	[NO_SPEECH]
+189	[NO_SPEECH]
+190	[NO_SPEECH]
+191	[NO_SPEECH]
+192	[NO_SPEECH]
+193	[NO_SPEECH]
+194	[NO_SPEECH]
+195	[NO_SPEECH]
+196	[NO_SPEECH]
+197	[NO_SPEECH]
+198	[NO_SPEECH]
+199	[NO_SPEECH]
+200	[NO_SPEECH]
+201	[NO_SPEECH]
+202	[NO_SPEECH]
+203	[NO_SPEECH]
+204	[NO_SPEECH]
+205	[NO_SPEECH]
+206	[NO_SPEECH]
+207	[NO_SPEECH]
+208	[NO_SPEECH]
+209	[NO_SPEECH]
+210	[NO_SPEECH]
+211	[NO_SPEECH]
+212	[NO_SPEECH]
+213	[NO_SPEECH]
+214	[NO_SPEECH]
+215	[NO_SPEECH]
+216	[NO_SPEECH]
+217	[NO_SPEECH]
+218	[NO_SPEECH]
+219	[NO_SPEECH]
+220	[NO_SPEECH]
+221	[NO_SPEECH]
+222	Juga sama-sama fight, jadi semuanya menurut saya rata semua.
+223	Juga sama-sama fight, jadi semuanya menurut saya rata semua.
+224	Juga sama-sama fight, jadi semuanya menurut saya rata semua.
+225	Juga sama-sama fight, jadi semuanya menurut saya rata semua.
+226	Juga sama-sama fight, jadi semuanya menurut saya rata semua.
+227	Juga sama-sama fight, jadi semuanya menurut saya rata semua.
+228	Juga sama-sama fight, jadi semuanya menurut saya rata semua.
+229	Juga sama-sama fight, jadi semuanya menurut saya rata semua.
+230	[NO_SPEECH]
+231	[NO_SPEECH]
+232	[NO_SPEECH]
+233	[NO_SPEECH]
+234	[NO_SPEECH]
+235	Bendung KONI DKI Jakarta Hadamion Aritonang memberikan uang penghargaan dari KONI DKI Jakarta
+236	Bendung KONI DKI Jakarta Hadamion Aritonang memberikan uang penghargaan dari KONI DKI Jakarta
+237	Bendung KONI DKI Jakarta Hadamion Aritonang memberikan uang penghargaan dari KONI DKI Jakarta
+238	Bendung KONI DKI Jakarta Hadamion Aritonang memberikan uang penghargaan dari KONI DKI Jakarta
+239	Bendung KONI DKI Jakarta Hadamion Aritonang memberikan uang penghargaan dari KONI DKI Jakarta
+240	Bendung KONI DKI Jakarta Hadamion Aritonang memberikan uang penghargaan dari KONI DKI Jakarta
+241	Bendung KONI DKI Jakarta Hadamion Aritonang memberikan uang penghargaan dari KONI DKI Jakarta
+242	Bendung KONI DKI Jakarta Hadamion Aritonang memberikan uang penghargaan dari KONI DKI Jakarta
+243	Bendung KONI DKI Jakarta Hadamion Aritonang memberikan uang penghargaan dari KONI DKI Jakarta
+244	Bendung KONI DKI Jakarta Hadamion Aritonang memberikan uang penghargaan dari KONI DKI Jakarta
+245	Bendung KONI DKI Jakarta Hadamion Aritonang memberikan uang penghargaan dari KONI DKI Jakarta
+246	Bendung KONI DKI Jakarta Hadamion Aritonang memberikan uang penghargaan dari KONI DKI Jakarta sebesar 10 juta rupiah kepada kedua atlet loncat indah putra.
+247	Bendung KONI DKI Jakarta Hadamion Aritonang memberikan uang penghargaan dari KONI DKI Jakarta sebesar 10 juta rupiah kepada kedua atlet loncat indah putra.
+248	sebesar 10 juta rupiah kepada kedua atlet loncat indah putra.
+249	sebesar 10 juta rupiah kepada kedua atlet loncat indah putra.
+250	sebesar 10 juta rupiah kepada kedua atlet loncat indah putra.
+251	sebesar 10 juta rupiah kepada kedua atlet loncat indah putra.
+252	sebesar 10 juta rupiah kepada kedua atlet loncat indah putra.
+253	sebesar 10 juta rupiah kepada kedua atlet loncat indah putra.
+254	sebesar 10 juta rupiah kepada kedua atlet loncat indah putra.
+255	sebesar 10 juta rupiah kepada kedua atlet loncat indah putra.
+256	[NO_SPEECH]
+257	[NO_SPEECH]
+258	[NO_SPEECH]
+259	[NO_SPEECH]
+260	[NO_SPEECH]
+261	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara
+262	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara
+263	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara
+264	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara
+265	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara
+266	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara
+267	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara
+268	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara
+269	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara
+270	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara
+271	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara
+272	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara
+273	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara
+274	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara
+275	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara
+276	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara
+277	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara
+278	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara
+279	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara
+280	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara dan juga untuk atlet DKI Jakarta yang meraih juara dan juga untuk atlet DKI Jakarta yang meraih juara.
+281	Ini sebagai uang apresiasi dari KONI Provinsi DKI Jakarta untuk atlet DKI yang meraih juara dan juga untuk atlet DKI Jakarta yang meraih juara dan juga untuk atlet DKI Jakarta yang meraih juara.
+282	dan juga untuk atlet DKI Jakarta yang meraih juara dan juga untuk atlet DKI Jakarta yang meraih juara. Juara satu. Oke hidup DKI!
+283	dan juga untuk atlet DKI Jakarta yang meraih juara dan juga untuk atlet DKI Jakarta yang meraih juara. Juara satu. Oke hidup DKI!
+284	Juara satu. Oke hidup DKI!
+285	Juara satu. Oke hidup DKI!
+286	Juara satu. Oke hidup DKI!
+287	Juara satu. Oke hidup DKI!
+288	Juara satu. Oke hidup DKI!
+289	[NO_SPEECH]
+290	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+291	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+292	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+293	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+294	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+295	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+296	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+297	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+298	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+299	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+300	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+301	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+302	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+303	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+304	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+305	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+306	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+307	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+308	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+309	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+310	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah.
+311	Baik, terima kasih atas prestasi yang diraih oleh atlet loncat indah. Pada hari ini putra dan putri kami dari pengurus KONI DKI Jakarta sangat bangga.
+312	Pada hari ini putra dan putri kami dari pengurus KONI DKI Jakarta sangat bangga.
+313	Pada hari ini putra dan putri kami dari pengurus KONI DKI Jakarta sangat bangga.
+314	Pada hari ini putra dan putri kami dari pengurus KONI DKI Jakarta sangat bangga.
+315	Pada hari ini putra dan putri kami dari pengurus KONI DKI Jakarta sangat bangga.
+316	Pada hari ini putra dan putri kami dari pengurus KONI DKI Jakarta sangat bangga.
+317	Pada hari ini putra dan putri kami dari pengurus KONI DKI Jakarta sangat bangga.
+318	Pada hari ini putra dan putri kami dari pengurus KONI DKI Jakarta sangat bangga.
+319	Pada hari ini putra dan putri kami dari pengurus KONI DKI Jakarta sangat bangga.
+320	Pada hari ini putra dan putri kami dari pengurus KONI DKI Jakarta sangat bangga.
+321	Pada hari ini putra dan putri kami dari pengurus KONI DKI Jakarta sangat bangga.
+322	Pada hari ini putra dan putri kami dari pengurus KONI DKI Jakarta sangat bangga.
+323	Pada hari ini putra dan putri kami dari pengurus KONI DKI Jakarta sangat bangga.
+324	Pada hari ini putra dan putri kami dari pengurus KONI DKI Jakarta sangat bangga.
+325	Pada hari ini putra dan putri kami dari pengurus KONI DKI Jakarta sangat bangga. Dan terima kasih kepada teman-teman para atlet ini.
+326	Dan terima kasih kepada teman-teman para atlet ini.
+327	Dan terima kasih kepada teman-teman para atlet ini.
+328	Dan terima kasih kepada teman-teman para atlet ini.
+329	Dan terima kasih kepada teman-teman para atlet ini.
+330	Dan terima kasih kepada teman-teman para atlet ini.
+331	Dan terima kasih kepada teman-teman para atlet ini.
+332	Dan terima kasih kepada teman-teman para atlet ini.
+333	Dan terima kasih kepada teman-teman para atlet ini.
+334	Dan terima kasih kepada teman-teman para atlet ini.
+335	Dan terima kasih kepada teman-teman para atlet ini.
+336	Semoga atlet-atletnya...
+337	Semoga atlet-atletnya...
+338	Semoga atlet-atletnya...
+339	Semoga atlet-atletnya...
+340	Semoga atlet-atletnya...
+341	Semoga atlet-atletnya...
+342	Semoga atlet-atletnya... Atlet cabar lainnya mengukir prestasi, mendapatkan medali-medali untuk DKI Jakarta.
+343	Semoga atlet-atletnya... Atlet cabar lainnya mengukir prestasi, mendapatkan medali-medali untuk DKI Jakarta.
+344	Atlet cabar lainnya mengukir prestasi, mendapatkan medali-medali untuk DKI Jakarta.
+345	Atlet cabar lainnya mengukir prestasi, mendapatkan medali-medali untuk DKI Jakarta.
+346	Atlet cabar lainnya mengukir prestasi, mendapatkan medali-medali untuk DKI Jakarta.
+347	Atlet cabar lainnya mengukir prestasi, mendapatkan medali-medali untuk DKI Jakarta.
+348	Atlet cabar lainnya mengukir prestasi, mendapatkan medali-medali untuk DKI Jakarta.
+349	Atlet cabar lainnya mengukir prestasi, mendapatkan medali-medali untuk DKI Jakarta.
+350	Atlet cabar lainnya mengukir prestasi, mendapatkan medali-medali untuk DKI Jakarta.
+351	Atlet cabar lainnya mengukir prestasi, mendapatkan medali-medali untuk DKI Jakarta.
+352	Atlet cabar lainnya mengukir prestasi, mendapatkan medali-medali untuk DKI Jakarta.
+353	Atlet cabar lainnya mengukir prestasi, mendapatkan medali-medali untuk DKI Jakarta.
+354	Atlet cabar lainnya mengukir prestasi, mendapatkan medali-medali untuk DKI Jakarta.
+355	Atlet cabar lainnya mengukir prestasi, mendapatkan medali-medali untuk DKI Jakarta.
+356	Atlet cabar lainnya mengukir prestasi, mendapatkan medali-medali untuk DKI Jakarta. Sehingga apa yang kita cintakan untuk atlet-atlet dari Provinsi DKI Jakarta
+357	Atlet cabar lainnya mengukir prestasi, mendapatkan medali-medali untuk DKI Jakarta. Sehingga apa yang kita cintakan untuk atlet-atlet dari Provinsi DKI Jakarta
+358	Sehingga apa yang kita cintakan untuk atlet-atlet dari Provinsi DKI Jakarta
+359	Sehingga apa yang kita cintakan untuk atlet-atlet dari Provinsi DKI Jakarta
+360	Sehingga apa yang kita cintakan untuk atlet-atlet dari Provinsi DKI Jakarta
+361	Sehingga apa yang kita cintakan untuk atlet-atlet dari Provinsi DKI Jakarta
+362	Sehingga apa yang kita cintakan untuk atlet-atlet dari Provinsi DKI Jakarta
+363	Sehingga apa yang kita cintakan untuk atlet-atlet dari Provinsi DKI Jakarta
+364	Sehingga apa yang kita cintakan untuk atlet-atlet dari Provinsi DKI Jakarta
+365	Sehingga apa yang kita cintakan untuk atlet-atlet dari Provinsi DKI Jakarta
+366	Sehingga apa yang kita cintakan untuk atlet-atlet dari Provinsi DKI Jakarta
+367	Sehingga apa yang kita cintakan untuk atlet-atlet dari Provinsi DKI Jakarta
+368	Sehingga apa yang kita cintakan untuk atlet-atlet dari Provinsi DKI Jakarta
+369	Sehingga apa yang kita cintakan untuk atlet-atlet dari Provinsi DKI Jakarta
+370	Sehingga apa yang kita cintakan untuk atlet-atlet dari Provinsi DKI Jakarta
+371	Sehingga apa yang kita cintakan untuk atlet-atlet dari Provinsi DKI Jakarta
+372	Sehingga apa yang kita cintakan untuk atlet-atlet dari Provinsi DKI Jakarta kita bisa mendapatkan juara umum untuk PON 2024 Medan Aceh.
+373	Sehingga apa yang kita cintakan untuk atlet-atlet dari Provinsi DKI Jakarta kita bisa mendapatkan juara umum untuk PON 2024 Medan Aceh.
+374	kita bisa mendapatkan juara umum untuk PON 2024 Medan Aceh.
+375	kita bisa mendapatkan juara umum untuk PON 2024 Medan Aceh.
+376	kita bisa mendapatkan juara umum untuk PON 2024 Medan Aceh.
+377	kita bisa mendapatkan juara umum untuk PON 2024 Medan Aceh.
+378	kita bisa mendapatkan juara umum untuk PON 2024 Medan Aceh.
+379	kita bisa mendapatkan juara umum untuk PON 2024 Medan Aceh.
+380	kita bisa mendapatkan juara umum untuk PON 2024 Medan Aceh.
+381	kita bisa mendapatkan juara umum untuk PON 2024 Medan Aceh.
+382	kita bisa mendapatkan juara umum untuk PON 2024 Medan Aceh.
+383	kita bisa mendapatkan juara umum untuk PON 2024 Medan Aceh.
+384	kita bisa mendapatkan juara umum untuk PON 2024 Medan Aceh.
+385	kita bisa mendapatkan juara umum untuk PON 2024 Medan Aceh.
+386	kita bisa mendapatkan juara umum untuk PON 2024 Medan Aceh. Yang itulah salah satu yang diharapkan oleh pemerintah Provinsi DKI Jakarta
+387	kita bisa mendapatkan juara umum untuk PON 2024 Medan Aceh. Yang itulah salah satu yang diharapkan oleh pemerintah Provinsi DKI Jakarta
+388	Yang itulah salah satu yang diharapkan oleh pemerintah Provinsi DKI Jakarta
+389	Yang itulah salah satu yang diharapkan oleh pemerintah Provinsi DKI Jakarta
+390	Yang itulah salah satu yang diharapkan oleh pemerintah Provinsi DKI Jakarta
+391	Yang itulah salah satu yang diharapkan oleh pemerintah Provinsi DKI Jakarta
+392	Yang itulah salah satu yang diharapkan oleh pemerintah Provinsi DKI Jakarta
+393	Yang itulah salah satu yang diharapkan oleh pemerintah Provinsi DKI Jakarta
+394	Yang itulah salah satu yang diharapkan oleh pemerintah Provinsi DKI Jakarta
+395	Yang itulah salah satu yang diharapkan oleh pemerintah Provinsi DKI Jakarta
+396	Yang itulah salah satu yang diharapkan oleh pemerintah Provinsi DKI Jakarta
+397	Yang itulah salah satu yang diharapkan oleh pemerintah Provinsi DKI Jakarta
+398	Yang itulah salah satu yang diharapkan oleh pemerintah Provinsi DKI Jakarta
+399	Yang itulah salah satu yang diharapkan oleh pemerintah Provinsi DKI Jakarta maupun dari...
+400	Yang itulah salah satu yang diharapkan oleh pemerintah Provinsi DKI Jakarta maupun dari...
+401	maupun dari...
+402	maupun dari... DPRD maupun KONI Provinsi DKI Jakarta.
+403	maupun dari... DPRD maupun KONI Provinsi DKI Jakarta.
+404	DPRD maupun KONI Provinsi DKI Jakarta.
+405	DPRD maupun KONI Provinsi DKI Jakarta.
+406	DPRD maupun KONI Provinsi DKI Jakarta.
+407	DPRD maupun KONI Provinsi DKI Jakarta.
+408	DPRD maupun KONI Provinsi DKI Jakarta.
+409	DPRD maupun KONI Provinsi DKI Jakarta.
+410	DPRD maupun KONI Provinsi DKI Jakarta. Terima kasih.
+411	DPRD maupun KONI Provinsi DKI Jakarta. Terima kasih.
+412	Terima kasih.
+413	Terima kasih.
+414	[NO_SPEECH]
+415	[NO_SPEECH]
+416	[NO_SPEECH]
+417	[NO_SPEECH]
+418	[NO_SPEECH]
+419	[NO_SPEECH]
+420	[NO_SPEECH]
+421	[NO_SPEECH]
+422	[NO_SPEECH]
+423	[NO_SPEECH]
+424	[NO_SPEECH]
+425	[NO_SPEECH]
+426	[NO_SPEECH]
+427	[NO_SPEECH]
+428	[NO_SPEECH]
+429	[NO_SPEECH]
+430	[NO_SPEECH]
+431	[NO_SPEECH]
+432	[NO_SPEECH]
+433	[NO_SPEECH]
+434	[NO_SPEECH]
+435	[NO_SPEECH]
+436	[NO_SPEECH]
+437	[NO_SPEECH]
+438	[NO_SPEECH]
+439	[NO_SPEECH]
+440	[NO_SPEECH]
+441	[NO_SPEECH]
+442	[NO_SPEECH]
+443	[NO_SPEECH]
+444	[NO_SPEECH]
+445	[NO_SPEECH]
+446	[NO_SPEECH]
+447	[NO_SPEECH]
+448	[NO_SPEECH]
+449	[NO_SPEECH]
+450	[NO_SPEECH]
+451	[NO_SPEECH]
+452	[NO_SPEECH]
+453	[NO_SPEECH]
+454	[NO_SPEECH]
+455	[NO_SPEECH]
+456	[NO_SPEECH]
+457	[NO_SPEECH]
+458	[NO_SPEECH]
+459	[NO_SPEECH]
+460	[NO_SPEECH]
+461	[NO_SPEECH]

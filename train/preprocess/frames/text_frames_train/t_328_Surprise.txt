@@ -1,0 +1,179 @@
+0	Perut kamu masih buncit juga ngelakuin gerakan ini dari rumah?
+1	Perut kamu masih buncit juga ngelakuin gerakan ini dari rumah?
+2	Perut kamu masih buncit juga ngelakuin gerakan ini dari rumah?
+3	Perut kamu masih buncit juga ngelakuin gerakan ini dari rumah?
+4	Perut kamu masih buncit juga ngelakuin gerakan ini dari rumah? Jangan-jangan karena kamu belum tau ini nih
+5	Perut kamu masih buncit juga ngelakuin gerakan ini dari rumah? Jangan-jangan karena kamu belum tau ini nih
+6	Jangan-jangan karena kamu belum tau ini nih
+7	Jangan-jangan karena kamu belum tau ini nih
+8	Jangan-jangan karena kamu belum tau ini nih Kalau kamu ngelakuin gerakannya dengan form kayak gini
+9	Jangan-jangan karena kamu belum tau ini nih Kalau kamu ngelakuin gerakannya dengan form kayak gini
+10	Kalau kamu ngelakuin gerakannya dengan form kayak gini
+11	Kalau kamu ngelakuin gerakannya dengan form kayak gini
+12	Kalau kamu ngelakuin gerakannya dengan form kayak gini
+13	Kalau kamu ngelakuin gerakannya dengan form kayak gini Terus untuk bebannya, kalau di rumah kamu nggak punya dumbbell kayak yang di video
+14	Kalau kamu ngelakuin gerakannya dengan form kayak gini Terus untuk bebannya, kalau di rumah kamu nggak punya dumbbell kayak yang di video
+15	Terus untuk bebannya, kalau di rumah kamu nggak punya dumbbell kayak yang di video
+16	Terus untuk bebannya, kalau di rumah kamu nggak punya dumbbell kayak yang di video
+17	Terus untuk bebannya, kalau di rumah kamu nggak punya dumbbell kayak yang di video
+18	Terus untuk bebannya, kalau di rumah kamu nggak punya dumbbell kayak yang di video
+19	Terus untuk bebannya, kalau di rumah kamu nggak punya dumbbell kayak yang di video
+20	Terus untuk bebannya, kalau di rumah kamu nggak punya dumbbell kayak yang di video Ada alternatifnya kamu bisa pakai botol minum 1 liter
+21	Terus untuk bebannya, kalau di rumah kamu nggak punya dumbbell kayak yang di video Ada alternatifnya kamu bisa pakai botol minum 1 liter
+22	Ada alternatifnya kamu bisa pakai botol minum 1 liter
+23	Ada alternatifnya kamu bisa pakai botol minum 1 liter
+24	Ada alternatifnya kamu bisa pakai botol minum 1 liter
+25	Ada alternatifnya kamu bisa pakai botol minum 1 liter
+26	Ada alternatifnya kamu bisa pakai botol minum 1 liter Nah ini bakal fokus menargetkan otot perut kamu yang bagian atas
+27	Ada alternatifnya kamu bisa pakai botol minum 1 liter Nah ini bakal fokus menargetkan otot perut kamu yang bagian atas
+28	Nah ini bakal fokus menargetkan otot perut kamu yang bagian atas
+29	Nah ini bakal fokus menargetkan otot perut kamu yang bagian atas
+30	Nah ini bakal fokus menargetkan otot perut kamu yang bagian atas
+31	Nah ini bakal fokus menargetkan otot perut kamu yang bagian atas
+32	Nah ini bakal fokus menargetkan otot perut kamu yang bagian atas
+33	Nah ini bakal fokus menargetkan otot perut kamu yang bagian atas Tapi kalau kamu ngelakuin gerakannya kayak gini
+34	Nah ini bakal fokus menargetkan otot perut kamu yang bagian atas Tapi kalau kamu ngelakuin gerakannya kayak gini
+35	Tapi kalau kamu ngelakuin gerakannya kayak gini
+36	Tapi kalau kamu ngelakuin gerakannya kayak gini
+37	Tapi kalau kamu ngelakuin gerakannya kayak gini
+38	Tapi kalau kamu ngelakuin gerakannya kayak gini Dumbbell atau si botol minumnya itu taruh di bagian depan kamu
+39	Tapi kalau kamu ngelakuin gerakannya kayak gini Dumbbell atau si botol minumnya itu taruh di bagian depan kamu
+40	Dumbbell atau si botol minumnya itu taruh di bagian depan kamu
+41	Dumbbell atau si botol minumnya itu taruh di bagian depan kamu
+42	Dumbbell atau si botol minumnya itu taruh di bagian depan kamu
+43	Dumbbell atau si botol minumnya itu taruh di bagian depan kamu Terus kakinya dibawa in and out ke arah sisi klernan dan juga kiri dari si dumbbell atau botol minum
+44	Dumbbell atau si botol minumnya itu taruh di bagian depan kamu Terus kakinya dibawa in and out ke arah sisi klernan dan juga kiri dari si dumbbell atau botol minum
+45	Terus kakinya dibawa in and out ke arah sisi klernan dan juga kiri dari si dumbbell atau botol minum
+46	Terus kakinya dibawa in and out ke arah sisi klernan dan juga kiri dari si dumbbell atau botol minum
+47	Terus kakinya dibawa in and out ke arah sisi klernan dan juga kiri dari si dumbbell atau botol minum
+48	Terus kakinya dibawa in and out ke arah sisi klernan dan juga kiri dari si dumbbell atau botol minum
+49	Terus kakinya dibawa in and out ke arah sisi klernan dan juga kiri dari si dumbbell atau botol minum
+50	Terus kakinya dibawa in and out ke arah sisi klernan dan juga kiri dari si dumbbell atau botol minum
+51	Terus kakinya dibawa in and out ke arah sisi klernan dan juga kiri dari si dumbbell atau botol minum
+52	Terus kakinya dibawa in and out ke arah sisi klernan dan juga kiri dari si dumbbell atau botol minum
+53	Terus kakinya dibawa in and out ke arah sisi klernan dan juga kiri dari si dumbbell atau botol minum
+54	Terus kakinya dibawa in and out ke arah sisi klernan dan juga kiri dari si dumbbell atau botol minum
+55	Terus kakinya dibawa in and out ke arah sisi klernan dan juga kiri dari si dumbbell atau botol minum Ini bakal fokus menargetkan otot perut kamu yang bagian bawah
+56	Terus kakinya dibawa in and out ke arah sisi klernan dan juga kiri dari si dumbbell atau botol minum Ini bakal fokus menargetkan otot perut kamu yang bagian bawah
+57	Ini bakal fokus menargetkan otot perut kamu yang bagian bawah
+58	Ini bakal fokus menargetkan otot perut kamu yang bagian bawah
+59	Ini bakal fokus menargetkan otot perut kamu yang bagian bawah
+60	Ini bakal fokus menargetkan otot perut kamu yang bagian bawah
+61	Ini bakal fokus menargetkan otot perut kamu yang bagian bawah
+62	Ini bakal fokus menargetkan otot perut kamu yang bagian bawah Nah tapi kalau kamu ngelakuin gerakannya kayak gini
+63	Ini bakal fokus menargetkan otot perut kamu yang bagian bawah Nah tapi kalau kamu ngelakuin gerakannya kayak gini
+64	Nah tapi kalau kamu ngelakuin gerakannya kayak gini
+65	Nah tapi kalau kamu ngelakuin gerakannya kayak gini
+66	Nah tapi kalau kamu ngelakuin gerakannya kayak gini
+67	Nah tapi kalau kamu ngelakuin gerakannya kayak gini Kaki kanan dan kiri kamu ke atas ke bawah kayak yang di video
+68	Nah tapi kalau kamu ngelakuin gerakannya kayak gini Kaki kanan dan kiri kamu ke atas ke bawah kayak yang di video
+69	Kaki kanan dan kiri kamu ke atas ke bawah kayak yang di video
+70	Kaki kanan dan kiri kamu ke atas ke bawah kayak yang di video
+71	Kaki kanan dan kiri kamu ke atas ke bawah kayak yang di video
+72	Kaki kanan dan kiri kamu ke atas ke bawah kayak yang di video
+73	Kaki kanan dan kiri kamu ke atas ke bawah kayak yang di video Ini masih sama bakal fokus menargetkan otot perut kamu yang bagian bawah
+74	Kaki kanan dan kiri kamu ke atas ke bawah kayak yang di video Ini masih sama bakal fokus menargetkan otot perut kamu yang bagian bawah
+75	Ini masih sama bakal fokus menargetkan otot perut kamu yang bagian bawah
+76	Ini masih sama bakal fokus menargetkan otot perut kamu yang bagian bawah
+77	Ini masih sama bakal fokus menargetkan otot perut kamu yang bagian bawah
+78	Ini masih sama bakal fokus menargetkan otot perut kamu yang bagian bawah
+79	Ini masih sama bakal fokus menargetkan otot perut kamu yang bagian bawah
+80	Ini masih sama bakal fokus menargetkan otot perut kamu yang bagian bawah
+81	Ini masih sama bakal fokus menargetkan otot perut kamu yang bagian bawah Tapi kalau kamu ngelakuin gerakannya kayak gini
+82	Ini masih sama bakal fokus menargetkan otot perut kamu yang bagian bawah Tapi kalau kamu ngelakuin gerakannya kayak gini
+83	Tapi kalau kamu ngelakuin gerakannya kayak gini
+84	Tapi kalau kamu ngelakuin gerakannya kayak gini
+85	Tapi kalau kamu ngelakuin gerakannya kayak gini
+86	Tapi kalau kamu ngelakuin gerakannya kayak gini Kedua kaki kamu dibawa naik turun
+87	Tapi kalau kamu ngelakuin gerakannya kayak gini Kedua kaki kamu dibawa naik turun
+88	Kedua kaki kamu dibawa naik turun
+89	Kedua kaki kamu dibawa naik turun
+90	Kedua kaki kamu dibawa naik turun
+91	Kedua kaki kamu dibawa naik turun Tapi pas dibawa ke atas itu full banget
+92	Kedua kaki kamu dibawa naik turun Tapi pas dibawa ke atas itu full banget
+93	Tapi pas dibawa ke atas itu full banget
+94	Tapi pas dibawa ke atas itu full banget
+95	Tapi pas dibawa ke atas itu full banget Dan kepala kamu agak sedikit diangkat kayak yang di video
+96	Tapi pas dibawa ke atas itu full banget Dan kepala kamu agak sedikit diangkat kayak yang di video
+97	Dan kepala kamu agak sedikit diangkat kayak yang di video
+98	Dan kepala kamu agak sedikit diangkat kayak yang di video
+99	Dan kepala kamu agak sedikit diangkat kayak yang di video
+100	Dan kepala kamu agak sedikit diangkat kayak yang di video
+101	Dan kepala kamu agak sedikit diangkat kayak yang di video Masih sama juga nih
+102	Dan kepala kamu agak sedikit diangkat kayak yang di video Masih sama juga nih
+103	Masih sama juga nih Ini bakal fokus menargetkan otot perut kamu yang bagian bawah
+104	Masih sama juga nih Ini bakal fokus menargetkan otot perut kamu yang bagian bawah
+105	Ini bakal fokus menargetkan otot perut kamu yang bagian bawah
+106	Ini bakal fokus menargetkan otot perut kamu yang bagian bawah
+107	Ini bakal fokus menargetkan otot perut kamu yang bagian bawah
+108	Ini bakal fokus menargetkan otot perut kamu yang bagian bawah
+109	Ini bakal fokus menargetkan otot perut kamu yang bagian bawah Tapi kalau kamu ngelakuin gerakannya kayak gini
+110	Ini bakal fokus menargetkan otot perut kamu yang bagian bawah Tapi kalau kamu ngelakuin gerakannya kayak gini
+111	Tapi kalau kamu ngelakuin gerakannya kayak gini
+112	Tapi kalau kamu ngelakuin gerakannya kayak gini
+113	Tapi kalau kamu ngelakuin gerakannya kayak gini
+114	Tapi kalau kamu ngelakuin gerakannya kayak gini Si dumbbell atau botol minum kamu dibawa ke arah kiri dan kanan kayak yang di video
+115	Tapi kalau kamu ngelakuin gerakannya kayak gini Si dumbbell atau botol minum kamu dibawa ke arah kiri dan kanan kayak yang di video
+116	Si dumbbell atau botol minum kamu dibawa ke arah kiri dan kanan kayak yang di video
+117	Si dumbbell atau botol minum kamu dibawa ke arah kiri dan kanan kayak yang di video
+118	Si dumbbell atau botol minum kamu dibawa ke arah kiri dan kanan kayak yang di video
+119	Si dumbbell atau botol minum kamu dibawa ke arah kiri dan kanan kayak yang di video
+120	Si dumbbell atau botol minum kamu dibawa ke arah kiri dan kanan kayak yang di video
+121	Si dumbbell atau botol minum kamu dibawa ke arah kiri dan kanan kayak yang di video
+122	Si dumbbell atau botol minum kamu dibawa ke arah kiri dan kanan kayak yang di video Dan kedua kaki kamu diangkat ke atas kayak gini
+123	Si dumbbell atau botol minum kamu dibawa ke arah kiri dan kanan kayak yang di video Dan kedua kaki kamu diangkat ke atas kayak gini
+124	Dan kedua kaki kamu diangkat ke atas kayak gini
+125	Dan kedua kaki kamu diangkat ke atas kayak gini
+126	Dan kedua kaki kamu diangkat ke atas kayak gini
+127	Dan kedua kaki kamu diangkat ke atas kayak gini
+128	Dan kedua kaki kamu diangkat ke atas kayak gini Ini bakal fokus menargetkan otot perut kamu yang bagian samping
+129	Dan kedua kaki kamu diangkat ke atas kayak gini Ini bakal fokus menargetkan otot perut kamu yang bagian samping
+130	Ini bakal fokus menargetkan otot perut kamu yang bagian samping
+131	Ini bakal fokus menargetkan otot perut kamu yang bagian samping
+132	Ini bakal fokus menargetkan otot perut kamu yang bagian samping
+133	Ini bakal fokus menargetkan otot perut kamu yang bagian samping
+134	Ini bakal fokus menargetkan otot perut kamu yang bagian samping Nah tapi kalo kamu ngelakuin gerakannya dengan posisi plank kayak gini
+135	Ini bakal fokus menargetkan otot perut kamu yang bagian samping Nah tapi kalo kamu ngelakuin gerakannya dengan posisi plank kayak gini
+136	Nah tapi kalo kamu ngelakuin gerakannya dengan posisi plank kayak gini
+137	Nah tapi kalo kamu ngelakuin gerakannya dengan posisi plank kayak gini
+138	Nah tapi kalo kamu ngelakuin gerakannya dengan posisi plank kayak gini
+139	Nah tapi kalo kamu ngelakuin gerakannya dengan posisi plank kayak gini
+140	Nah tapi kalo kamu ngelakuin gerakannya dengan posisi plank kayak gini Terus pinggang kamu dibawa ke arah kiri dan kanan kayak yang di video
+141	Nah tapi kalo kamu ngelakuin gerakannya dengan posisi plank kayak gini Terus pinggang kamu dibawa ke arah kiri dan kanan kayak yang di video
+142	Terus pinggang kamu dibawa ke arah kiri dan kanan kayak yang di video
+143	Terus pinggang kamu dibawa ke arah kiri dan kanan kayak yang di video
+144	Terus pinggang kamu dibawa ke arah kiri dan kanan kayak yang di video
+145	Terus pinggang kamu dibawa ke arah kiri dan kanan kayak yang di video
+146	Terus pinggang kamu dibawa ke arah kiri dan kanan kayak yang di video Masih sama, ini bakal fokus menargetkan otot perut kamu yang bagian samping
+147	Terus pinggang kamu dibawa ke arah kiri dan kanan kayak yang di video Masih sama, ini bakal fokus menargetkan otot perut kamu yang bagian samping
+148	Masih sama, ini bakal fokus menargetkan otot perut kamu yang bagian samping
+149	Masih sama, ini bakal fokus menargetkan otot perut kamu yang bagian samping
+150	Masih sama, ini bakal fokus menargetkan otot perut kamu yang bagian samping
+151	Masih sama, ini bakal fokus menargetkan otot perut kamu yang bagian samping
+152	Masih sama, ini bakal fokus menargetkan otot perut kamu yang bagian samping
+153	Masih sama, ini bakal fokus menargetkan otot perut kamu yang bagian samping
+154	Masih sama, ini bakal fokus menargetkan otot perut kamu yang bagian samping Dan terakhir, kalo kamu ngelakuin gerakannya dengan posisi kayak gini
+155	Masih sama, ini bakal fokus menargetkan otot perut kamu yang bagian samping Dan terakhir, kalo kamu ngelakuin gerakannya dengan posisi kayak gini
+156	Dan terakhir, kalo kamu ngelakuin gerakannya dengan posisi kayak gini
+157	Dan terakhir, kalo kamu ngelakuin gerakannya dengan posisi kayak gini
+158	Dan terakhir, kalo kamu ngelakuin gerakannya dengan posisi kayak gini
+159	Dan terakhir, kalo kamu ngelakuin gerakannya dengan posisi kayak gini
+160	Dan terakhir, kalo kamu ngelakuin gerakannya dengan posisi kayak gini Kayak orang lagi ngegue sepeda
+161	Dan terakhir, kalo kamu ngelakuin gerakannya dengan posisi kayak gini Kayak orang lagi ngegue sepeda
+162	Kayak orang lagi ngegue sepeda
+163	Kayak orang lagi ngegue sepeda Masih sama juga ya, ini bakal fokus menargetkan otot perut kamu bagian samping
+164	Kayak orang lagi ngegue sepeda Masih sama juga ya, ini bakal fokus menargetkan otot perut kamu bagian samping
+165	Masih sama juga ya, ini bakal fokus menargetkan otot perut kamu bagian samping
+166	Masih sama juga ya, ini bakal fokus menargetkan otot perut kamu bagian samping
+167	Masih sama juga ya, ini bakal fokus menargetkan otot perut kamu bagian samping
+168	Masih sama juga ya, ini bakal fokus menargetkan otot perut kamu bagian samping
+169	Masih sama juga ya, ini bakal fokus menargetkan otot perut kamu bagian samping
+170	Masih sama juga ya, ini bakal fokus menargetkan otot perut kamu bagian samping
+171	Masih sama juga ya, ini bakal fokus menargetkan otot perut kamu bagian samping Udah deh, nextnya kalian mau gue bikin gerakan apa lagi nih?
+172	Masih sama juga ya, ini bakal fokus menargetkan otot perut kamu bagian samping Udah deh, nextnya kalian mau gue bikin gerakan apa lagi nih?
+173	Udah deh, nextnya kalian mau gue bikin gerakan apa lagi nih?
+174	Udah deh, nextnya kalian mau gue bikin gerakan apa lagi nih?
+175	Udah deh, nextnya kalian mau gue bikin gerakan apa lagi nih? Komen ya!
+176	Udah deh, nextnya kalian mau gue bikin gerakan apa lagi nih? Komen ya!
+177	Komen ya!
+178	[NO_SPEECH]

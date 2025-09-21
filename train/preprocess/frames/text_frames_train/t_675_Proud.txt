@@ -1,0 +1,103 @@
+0	Kembali terjadi, seseorang mengidap rabies yang membuat dirinya takut sama air.
+1	Kembali terjadi, seseorang mengidap rabies yang membuat dirinya takut sama air.
+2	Kembali terjadi, seseorang mengidap rabies yang membuat dirinya takut sama air.
+3	Kembali terjadi, seseorang mengidap rabies yang membuat dirinya takut sama air.
+4	Kembali terjadi, seseorang mengidap rabies yang membuat dirinya takut sama air.
+5	Kembali terjadi, seseorang mengidap rabies yang membuat dirinya takut sama air.
+6	Kembali terjadi, seseorang mengidap rabies yang membuat dirinya takut sama air.
+7	Kembali terjadi, seseorang mengidap rabies yang membuat dirinya takut sama air.
+8	Kembali terjadi, seseorang mengidap rabies yang membuat dirinya takut sama air.
+9	Kembali terjadi, seseorang mengidap rabies yang membuat dirinya takut sama air. Kenapa bisa gitu ya?
+10	Kenapa bisa gitu ya?
+11	Kenapa bisa gitu ya?
+12	Kenapa bisa gitu ya?
+13	Kenapa bisa gitu ya?
+14	Kenapa bisa gitu ya? Gigitan rabies pada tubuh manusia emang sangat mematikan lho,
+15	Gigitan rabies pada tubuh manusia emang sangat mematikan lho,
+16	Gigitan rabies pada tubuh manusia emang sangat mematikan lho,
+17	Gigitan rabies pada tubuh manusia emang sangat mematikan lho,
+18	Gigitan rabies pada tubuh manusia emang sangat mematikan lho,
+19	Gigitan rabies pada tubuh manusia emang sangat mematikan lho,
+20	Gigitan rabies pada tubuh manusia emang sangat mematikan lho,
+21	Gigitan rabies pada tubuh manusia emang sangat mematikan lho,
+22	Gigitan rabies pada tubuh manusia emang sangat mematikan lho, apalagi efeknya langsung menuju saraf otak dan menyebar ke seluruh tubuh.
+23	Gigitan rabies pada tubuh manusia emang sangat mematikan lho, apalagi efeknya langsung menuju saraf otak dan menyebar ke seluruh tubuh.
+24	apalagi efeknya langsung menuju saraf otak dan menyebar ke seluruh tubuh.
+25	apalagi efeknya langsung menuju saraf otak dan menyebar ke seluruh tubuh.
+26	apalagi efeknya langsung menuju saraf otak dan menyebar ke seluruh tubuh.
+27	apalagi efeknya langsung menuju saraf otak dan menyebar ke seluruh tubuh.
+28	apalagi efeknya langsung menuju saraf otak dan menyebar ke seluruh tubuh.
+29	apalagi efeknya langsung menuju saraf otak dan menyebar ke seluruh tubuh.
+30	apalagi efeknya langsung menuju saraf otak dan menyebar ke seluruh tubuh.
+31	apalagi efeknya langsung menuju saraf otak dan menyebar ke seluruh tubuh.
+32	apalagi efeknya langsung menuju saraf otak dan menyebar ke seluruh tubuh.
+33	Akibatnya membuat seseorang mengalami hydropobia atau rasa takut pada air.
+34	Akibatnya membuat seseorang mengalami hydropobia atau rasa takut pada air.
+35	Akibatnya membuat seseorang mengalami hydropobia atau rasa takut pada air.
+36	Akibatnya membuat seseorang mengalami hydropobia atau rasa takut pada air.
+37	Akibatnya membuat seseorang mengalami hydropobia atau rasa takut pada air.
+38	Akibatnya membuat seseorang mengalami hydropobia atau rasa takut pada air.
+39	Akibatnya membuat seseorang mengalami hydropobia atau rasa takut pada air.
+40	Akibatnya membuat seseorang mengalami hydropobia atau rasa takut pada air.
+41	Akibatnya membuat seseorang mengalami hydropobia atau rasa takut pada air.
+42	Akibatnya membuat seseorang mengalami hydropobia atau rasa takut pada air.
+43	Akibatnya membuat seseorang mengalami hydropobia atau rasa takut pada air.
+44	Akibatnya membuat seseorang mengalami hydropobia atau rasa takut pada air.
+45	Hydropobia ini terjadi karena infeksi rabies yang sudah memasuki tahap eksitasi
+46	Hydropobia ini terjadi karena infeksi rabies yang sudah memasuki tahap eksitasi
+47	Hydropobia ini terjadi karena infeksi rabies yang sudah memasuki tahap eksitasi
+48	Hydropobia ini terjadi karena infeksi rabies yang sudah memasuki tahap eksitasi
+49	Hydropobia ini terjadi karena infeksi rabies yang sudah memasuki tahap eksitasi
+50	Hydropobia ini terjadi karena infeksi rabies yang sudah memasuki tahap eksitasi
+51	Hydropobia ini terjadi karena infeksi rabies yang sudah memasuki tahap eksitasi
+52	Hydropobia ini terjadi karena infeksi rabies yang sudah memasuki tahap eksitasi
+53	Hydropobia ini terjadi karena infeksi rabies yang sudah memasuki tahap eksitasi
+54	Hydropobia ini terjadi karena infeksi rabies yang sudah memasuki tahap eksitasi
+55	Hydropobia ini terjadi karena infeksi rabies yang sudah memasuki tahap eksitasi
+56	Hydropobia ini terjadi karena infeksi rabies yang sudah memasuki tahap eksitasi sehingga timbul kejang dan sakit kebadian tenggorokan.
+57	Hydropobia ini terjadi karena infeksi rabies yang sudah memasuki tahap eksitasi sehingga timbul kejang dan sakit kebadian tenggorokan.
+58	sehingga timbul kejang dan sakit kebadian tenggorokan.
+59	sehingga timbul kejang dan sakit kebadian tenggorokan.
+60	sehingga timbul kejang dan sakit kebadian tenggorokan.
+61	sehingga timbul kejang dan sakit kebadian tenggorokan.
+62	sehingga timbul kejang dan sakit kebadian tenggorokan.
+63	sehingga timbul kejang dan sakit kebadian tenggorokan.
+64	sehingga timbul kejang dan sakit kebadian tenggorokan. Karena jenis fobia ini membuat pengidapnya tidak mau minum,
+65	Karena jenis fobia ini membuat pengidapnya tidak mau minum,
+66	Karena jenis fobia ini membuat pengidapnya tidak mau minum,
+67	Karena jenis fobia ini membuat pengidapnya tidak mau minum,
+68	Karena jenis fobia ini membuat pengidapnya tidak mau minum,
+69	Karena jenis fobia ini membuat pengidapnya tidak mau minum,
+70	Karena jenis fobia ini membuat pengidapnya tidak mau minum,
+71	Karena jenis fobia ini membuat pengidapnya tidak mau minum, maka rentan terjadinya dehidrasi parah hingga meninggal dunia lho.
+72	Karena jenis fobia ini membuat pengidapnya tidak mau minum, maka rentan terjadinya dehidrasi parah hingga meninggal dunia lho.
+73	maka rentan terjadinya dehidrasi parah hingga meninggal dunia lho.
+74	maka rentan terjadinya dehidrasi parah hingga meninggal dunia lho.
+75	maka rentan terjadinya dehidrasi parah hingga meninggal dunia lho.
+76	maka rentan terjadinya dehidrasi parah hingga meninggal dunia lho.
+77	maka rentan terjadinya dehidrasi parah hingga meninggal dunia lho.
+78	maka rentan terjadinya dehidrasi parah hingga meninggal dunia lho.
+79	maka rentan terjadinya dehidrasi parah hingga meninggal dunia lho.
+80	maka rentan terjadinya dehidrasi parah hingga meninggal dunia lho.
+81	Ngeri banget kan?
+82	Ngeri banget kan?
+83	Ngeri banget kan? Nah makanya jika kamu dikikit oleh hewan yang mengidap rabies,
+84	Ngeri banget kan? Nah makanya jika kamu dikikit oleh hewan yang mengidap rabies,
+85	Nah makanya jika kamu dikikit oleh hewan yang mengidap rabies,
+86	Nah makanya jika kamu dikikit oleh hewan yang mengidap rabies,
+87	Nah makanya jika kamu dikikit oleh hewan yang mengidap rabies,
+88	Nah makanya jika kamu dikikit oleh hewan yang mengidap rabies,
+89	Nah makanya jika kamu dikikit oleh hewan yang mengidap rabies,
+90	Nah makanya jika kamu dikikit oleh hewan yang mengidap rabies,
+91	Nah makanya jika kamu dikikit oleh hewan yang mengidap rabies, segera ke dokter ya sebelum terlambat.
+92	Nah makanya jika kamu dikikit oleh hewan yang mengidap rabies, segera ke dokter ya sebelum terlambat.
+93	segera ke dokter ya sebelum terlambat.
+94	segera ke dokter ya sebelum terlambat.
+95	segera ke dokter ya sebelum terlambat.
+96	segera ke dokter ya sebelum terlambat.
+97	segera ke dokter ya sebelum terlambat.
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]

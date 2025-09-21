@@ -1,0 +1,109 @@
+0	Yang mau jadi bagian dari Wardah Yotambasador
+1	Yang mau jadi bagian dari Wardah Yotambasador
+2	Yang mau jadi bagian dari Wardah Yotambasador
+3	Yang mau jadi bagian dari Wardah Yotambasador
+4	Yang mau jadi bagian dari Wardah Yotambasador Sini deh ngumpul
+5	Yang mau jadi bagian dari Wardah Yotambasador Sini deh ngumpul Sebagai alumni WIA Beach 2
+6	Sini deh ngumpul Sebagai alumni WIA Beach 2
+7	Sebagai alumni WIA Beach 2
+8	Sebagai alumni WIA Beach 2
+9	Sebagai alumni WIA Beach 2 Aku mau kasih tips caranya supaya lolos jadi WIA
+10	Sebagai alumni WIA Beach 2 Aku mau kasih tips caranya supaya lolos jadi WIA
+11	Sebagai alumni WIA Beach 2 Aku mau kasih tips caranya supaya lolos jadi WIA
+12	Aku mau kasih tips caranya supaya lolos jadi WIA
+13	Aku mau kasih tips caranya supaya lolos jadi WIA
+14	Aku mau kasih tips caranya supaya lolos jadi WIA
+15	Aku mau kasih tips caranya supaya lolos jadi WIA
+16	Aku mau kasih tips caranya supaya lolos jadi WIA Tips pertama, kerjain challenge-nya sekreatif mungkin
+17	Aku mau kasih tips caranya supaya lolos jadi WIA Tips pertama, kerjain challenge-nya sekreatif mungkin
+18	Tips pertama, kerjain challenge-nya sekreatif mungkin
+19	Tips pertama, kerjain challenge-nya sekreatif mungkin
+20	Tips pertama, kerjain challenge-nya sekreatif mungkin
+21	Tips pertama, kerjain challenge-nya sekreatif mungkin
+22	Tips pertama, kerjain challenge-nya sekreatif mungkin Karena kan saingannya banyak tuh
+23	Tips pertama, kerjain challenge-nya sekreatif mungkin Karena kan saingannya banyak tuh
+24	Karena kan saingannya banyak tuh
+25	Karena kan saingannya banyak tuh Jadi semaksimal mungkin, video kamu tuh harus lebih kreatif dan menarik
+26	Karena kan saingannya banyak tuh Jadi semaksimal mungkin, video kamu tuh harus lebih kreatif dan menarik
+27	Jadi semaksimal mungkin, video kamu tuh harus lebih kreatif dan menarik
+28	Jadi semaksimal mungkin, video kamu tuh harus lebih kreatif dan menarik
+29	Jadi semaksimal mungkin, video kamu tuh harus lebih kreatif dan menarik
+30	Jadi semaksimal mungkin, video kamu tuh harus lebih kreatif dan menarik
+31	Jadi semaksimal mungkin, video kamu tuh harus lebih kreatif dan menarik
+32	Jadi semaksimal mungkin, video kamu tuh harus lebih kreatif dan menarik
+33	Jadi semaksimal mungkin, video kamu tuh harus lebih kreatif dan menarik Tips kedua, kalau misalkan video kamu udah menarik
+34	Jadi semaksimal mungkin, video kamu tuh harus lebih kreatif dan menarik Tips kedua, kalau misalkan video kamu udah menarik
+35	Tips kedua, kalau misalkan video kamu udah menarik
+36	Tips kedua, kalau misalkan video kamu udah menarik
+37	Tips kedua, kalau misalkan video kamu udah menarik
+38	Tips kedua, kalau misalkan video kamu udah menarik Peluang kamu buat lolos itu semakin besar
+39	Tips kedua, kalau misalkan video kamu udah menarik Peluang kamu buat lolos itu semakin besar
+40	Peluang kamu buat lolos itu semakin besar
+41	Peluang kamu buat lolos itu semakin besar
+42	Peluang kamu buat lolos itu semakin besar
+43	Peluang kamu buat lolos itu semakin besar Waktu tahun lalu sih, aku ada dua tahap ya
+44	Peluang kamu buat lolos itu semakin besar Waktu tahun lalu sih, aku ada dua tahap ya
+45	Waktu tahun lalu sih, aku ada dua tahap ya
+46	Waktu tahun lalu sih, aku ada dua tahap ya
+47	Waktu tahun lalu sih, aku ada dua tahap ya Tahap registrasi dan challenge content
+48	Waktu tahun lalu sih, aku ada dua tahap ya Tahap registrasi dan challenge content
+49	Waktu tahun lalu sih, aku ada dua tahap ya Tahap registrasi dan challenge content
+50	Tahap registrasi dan challenge content
+51	Tahap registrasi dan challenge content
+52	Tahap registrasi dan challenge content Kalau udah lolos tuh, banyak banget benefit yang bisa kita dapetin
+53	Tahap registrasi dan challenge content Kalau udah lolos tuh, banyak banget benefit yang bisa kita dapetin
+54	Kalau udah lolos tuh, banyak banget benefit yang bisa kita dapetin
+55	Kalau udah lolos tuh, banyak banget benefit yang bisa kita dapetin
+56	Kalau udah lolos tuh, banyak banget benefit yang bisa kita dapetin
+57	Kalau udah lolos tuh, banyak banget benefit yang bisa kita dapetin
+58	Kalau udah lolos tuh, banyak banget benefit yang bisa kita dapetin Bisa dapetin produk gratis
+59	Kalau udah lolos tuh, banyak banget benefit yang bisa kita dapetin Bisa dapetin produk gratis
+60	Bisa dapetin produk gratis
+61	Bisa dapetin produk gratis Dan juga kita dikasih kelas setiap kurang lebih dua bulan sekali lah
+62	Bisa dapetin produk gratis Dan juga kita dikasih kelas setiap kurang lebih dua bulan sekali lah
+63	Dan juga kita dikasih kelas setiap kurang lebih dua bulan sekali lah
+64	Dan juga kita dikasih kelas setiap kurang lebih dua bulan sekali lah
+65	Dan juga kita dikasih kelas setiap kurang lebih dua bulan sekali lah
+66	Dan juga kita dikasih kelas setiap kurang lebih dua bulan sekali lah
+67	Dan juga kita dikasih kelas setiap kurang lebih dua bulan sekali lah Dengan tema yang berbeda-beda
+68	Dan juga kita dikasih kelas setiap kurang lebih dua bulan sekali lah Dengan tema yang berbeda-beda
+69	Dengan tema yang berbeda-beda
+70	Dengan tema yang berbeda-beda Tips makeup lolos
+71	Dengan tema yang berbeda-beda Tips makeup lolos
+72	Tips makeup lolos Tips menjaga kesehatan kuliah
+73	Tips makeup lolos Tips menjaga kesehatan kuliah
+74	Tips menjaga kesehatan kuliah Dan triknya supaya konten kamu menarik
+75	Tips menjaga kesehatan kuliah Dan triknya supaya konten kamu menarik
+76	Tips menjaga kesehatan kuliah Dan triknya supaya konten kamu menarik
+77	Dan triknya supaya konten kamu menarik
+78	Dan triknya supaya konten kamu menarik
+79	Dan triknya supaya konten kamu menarik Kebetulan waktu itu aku berkesempatan jadi moderator
+80	Dan triknya supaya konten kamu menarik Kebetulan waktu itu aku berkesempatan jadi moderator
+81	Kebetulan waktu itu aku berkesempatan jadi moderator
+82	Kebetulan waktu itu aku berkesempatan jadi moderator
+83	Kebetulan waktu itu aku berkesempatan jadi moderator Di kelas online WIA yang pertama
+84	Kebetulan waktu itu aku berkesempatan jadi moderator Di kelas online WIA yang pertama
+85	Di kelas online WIA yang pertama
+86	Di kelas online WIA yang pertama
+87	Di kelas online WIA yang pertama Terakhir, kalau kamu udah rajin buat konten
+88	Di kelas online WIA yang pertama Terakhir, kalau kamu udah rajin buat konten
+89	Terakhir, kalau kamu udah rajin buat konten
+90	Terakhir, kalau kamu udah rajin buat konten
+91	Terakhir, kalau kamu udah rajin buat konten
+92	Terakhir, kalau kamu udah rajin buat konten Itu bakal jadi nilai plus buat kamu berkesempatan lolos di WIA Beach 3
+93	Terakhir, kalau kamu udah rajin buat konten Itu bakal jadi nilai plus buat kamu berkesempatan lolos di WIA Beach 3
+94	Itu bakal jadi nilai plus buat kamu berkesempatan lolos di WIA Beach 3
+95	Itu bakal jadi nilai plus buat kamu berkesempatan lolos di WIA Beach 3
+96	Itu bakal jadi nilai plus buat kamu berkesempatan lolos di WIA Beach 3
+97	Itu bakal jadi nilai plus buat kamu berkesempatan lolos di WIA Beach 3
+98	Itu bakal jadi nilai plus buat kamu berkesempatan lolos di WIA Beach 3
+99	Itu bakal jadi nilai plus buat kamu berkesempatan lolos di WIA Beach 3
+100	Itu bakal jadi nilai plus buat kamu berkesempatan lolos di WIA Beach 3 Buruan daftar sebelum registrasinya ditutup
+101	Itu bakal jadi nilai plus buat kamu berkesempatan lolos di WIA Beach 3 Buruan daftar sebelum registrasinya ditutup
+102	Buruan daftar sebelum registrasinya ditutup
+103	Buruan daftar sebelum registrasinya ditutup
+104	Buruan daftar sebelum registrasinya ditutup
+105	Buruan daftar sebelum registrasinya ditutup
+106	Buruan daftar sebelum registrasinya ditutup
+107	[NO_SPEECH]
+108	[NO_SPEECH]

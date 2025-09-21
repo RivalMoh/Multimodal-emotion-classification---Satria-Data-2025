@@ -1,0 +1,228 @@
+0	Hari ini, untuk pertama kali dalam hidupku, aku nyobain workout sebelum sahur.
+1	Hari ini, untuk pertama kali dalam hidupku, aku nyobain workout sebelum sahur.
+2	Hari ini, untuk pertama kali dalam hidupku, aku nyobain workout sebelum sahur.
+3	Hari ini, untuk pertama kali dalam hidupku, aku nyobain workout sebelum sahur.
+4	Hari ini, untuk pertama kali dalam hidupku, aku nyobain workout sebelum sahur.
+5	Hari ini, untuk pertama kali dalam hidupku, aku nyobain workout sebelum sahur.
+6	Hari ini, untuk pertama kali dalam hidupku, aku nyobain workout sebelum sahur.
+7	Hari ini, untuk pertama kali dalam hidupku, aku nyobain workout sebelum sahur.
+8	[NO_SPEECH]
+9	Dan aku mau share ke kalian kelebihan, kekurangan, dan kira-kira ini cocoknya buat siapa.
+10	Dan aku mau share ke kalian kelebihan, kekurangan, dan kira-kira ini cocoknya buat siapa.
+11	Dan aku mau share ke kalian kelebihan, kekurangan, dan kira-kira ini cocoknya buat siapa.
+12	Dan aku mau share ke kalian kelebihan, kekurangan, dan kira-kira ini cocoknya buat siapa.
+13	Dan aku mau share ke kalian kelebihan, kekurangan, dan kira-kira ini cocoknya buat siapa.
+14	Dan aku mau share ke kalian kelebihan, kekurangan, dan kira-kira ini cocoknya buat siapa.
+15	Dan aku mau share ke kalian kelebihan, kekurangan, dan kira-kira ini cocoknya buat siapa.
+16	Dan aku mau share ke kalian kelebihan, kekurangan, dan kira-kira ini cocoknya buat siapa.
+17	Dan aku mau share ke kalian kelebihan, kekurangan, dan kira-kira ini cocoknya buat siapa.
+18	Dan aku mau share ke kalian kelebihan, kekurangan, dan kira-kira ini cocoknya buat siapa.
+19	Dan aku mau share ke kalian kelebihan, kekurangan, dan kira-kira ini cocoknya buat siapa. Oke, pertama, kelebihan yang kurasain adalah aku bisa minum pas lagi jeda saat workout.
+20	Dan aku mau share ke kalian kelebihan, kekurangan, dan kira-kira ini cocoknya buat siapa. Oke, pertama, kelebihan yang kurasain adalah aku bisa minum pas lagi jeda saat workout.
+21	Oke, pertama, kelebihan yang kurasain adalah aku bisa minum pas lagi jeda saat workout.
+22	Oke, pertama, kelebihan yang kurasain adalah aku bisa minum pas lagi jeda saat workout.
+23	Oke, pertama, kelebihan yang kurasain adalah aku bisa minum pas lagi jeda saat workout.
+24	Oke, pertama, kelebihan yang kurasain adalah aku bisa minum pas lagi jeda saat workout.
+25	Oke, pertama, kelebihan yang kurasain adalah aku bisa minum pas lagi jeda saat workout.
+26	Oke, pertama, kelebihan yang kurasain adalah aku bisa minum pas lagi jeda saat workout.
+27	Oke, pertama, kelebihan yang kurasain adalah aku bisa minum pas lagi jeda saat workout.
+28	Oke, pertama, kelebihan yang kurasain adalah aku bisa minum pas lagi jeda saat workout. Jadi hidrasinya tetap terjaga.
+29	Oke, pertama, kelebihan yang kurasain adalah aku bisa minum pas lagi jeda saat workout. Jadi hidrasinya tetap terjaga.
+30	Jadi hidrasinya tetap terjaga.
+31	Jadi hidrasinya tetap terjaga.
+32	Jadi hidrasinya tetap terjaga. Selain itu juga, setelah selesai workout, aku bisa langsung isi energi dengan makan sahur.
+33	Selain itu juga, setelah selesai workout, aku bisa langsung isi energi dengan makan sahur.
+34	Selain itu juga, setelah selesai workout, aku bisa langsung isi energi dengan makan sahur.
+35	Selain itu juga, setelah selesai workout, aku bisa langsung isi energi dengan makan sahur.
+36	Selain itu juga, setelah selesai workout, aku bisa langsung isi energi dengan makan sahur.
+37	Selain itu juga, setelah selesai workout, aku bisa langsung isi energi dengan makan sahur.
+38	Selain itu juga, setelah selesai workout, aku bisa langsung isi energi dengan makan sahur.
+39	Selain itu juga, setelah selesai workout, aku bisa langsung isi energi dengan makan sahur.
+40	Selain itu juga, setelah selesai workout, aku bisa langsung isi energi dengan makan sahur. Kelebihan yang kurasain adalah pas pagi-pagi kayak jam 7, jam 8, jam 9 gitu,
+41	Selain itu juga, setelah selesai workout, aku bisa langsung isi energi dengan makan sahur. Kelebihan yang kurasain adalah pas pagi-pagi kayak jam 7, jam 8, jam 9 gitu,
+42	Kelebihan yang kurasain adalah pas pagi-pagi kayak jam 7, jam 8, jam 9 gitu,
+43	Kelebihan yang kurasain adalah pas pagi-pagi kayak jam 7, jam 8, jam 9 gitu,
+44	Kelebihan yang kurasain adalah pas pagi-pagi kayak jam 7, jam 8, jam 9 gitu,
+45	Kelebihan yang kurasain adalah pas pagi-pagi kayak jam 7, jam 8, jam 9 gitu,
+46	Kelebihan yang kurasain adalah pas pagi-pagi kayak jam 7, jam 8, jam 9 gitu,
+47	Kelebihan yang kurasain adalah pas pagi-pagi kayak jam 7, jam 8, jam 9 gitu, badanku soger banget, nggak lemes ataupun capek.
+48	Kelebihan yang kurasain adalah pas pagi-pagi kayak jam 7, jam 8, jam 9 gitu, badanku soger banget, nggak lemes ataupun capek.
+49	badanku soger banget, nggak lemes ataupun capek.
+50	badanku soger banget, nggak lemes ataupun capek.
+51	badanku soger banget, nggak lemes ataupun capek.
+52	badanku soger banget, nggak lemes ataupun capek.
+53	badanku soger banget, nggak lemes ataupun capek. Kekurangannya adalah,
+54	badanku soger banget, nggak lemes ataupun capek. Kekurangannya adalah,
+55	Kekurangannya adalah,
+56	Kekurangannya adalah,
+57	[NO_SPEECH]
+58	[NO_SPEECH]
+59	[NO_SPEECH]
+60	[NO_SPEECH]
+61	[NO_SPEECH]
+62	[NO_SPEECH]
+63	[NO_SPEECH]
+64	[NO_SPEECH]
+65	[NO_SPEECH]
+66	[NO_SPEECH]
+67	[NO_SPEECH]
+68	[NO_SPEECH]
+69	Nah, 40 menit ini aku pakai buat ngumpulin nyawa,
+70	Nah, 40 menit ini aku pakai buat ngumpulin nyawa,
+71	Nah, 40 menit ini aku pakai buat ngumpulin nyawa,
+72	Nah, 40 menit ini aku pakai buat ngumpulin nyawa,
+73	Nah, 40 menit ini aku pakai buat ngumpulin nyawa,
+74	Nah, 40 menit ini aku pakai buat ngumpulin nyawa,
+75	Nah, 40 menit ini aku pakai buat ngumpulin nyawa, habis itu makan oatmeal dicampur pisang, dicampur protein konsentretnya puro yang rasa coklat.
+76	Nah, 40 menit ini aku pakai buat ngumpulin nyawa, habis itu makan oatmeal dicampur pisang, dicampur protein konsentretnya puro yang rasa coklat.
+77	habis itu makan oatmeal dicampur pisang, dicampur protein konsentretnya puro yang rasa coklat.
+78	habis itu makan oatmeal dicampur pisang, dicampur protein konsentretnya puro yang rasa coklat.
+79	habis itu makan oatmeal dicampur pisang, dicampur protein konsentretnya puro yang rasa coklat.
+80	habis itu makan oatmeal dicampur pisang, dicampur protein konsentretnya puro yang rasa coklat.
+81	habis itu makan oatmeal dicampur pisang, dicampur protein konsentretnya puro yang rasa coklat.
+82	habis itu makan oatmeal dicampur pisang, dicampur protein konsentretnya puro yang rasa coklat.
+83	habis itu makan oatmeal dicampur pisang, dicampur protein konsentretnya puro yang rasa coklat.
+84	habis itu makan oatmeal dicampur pisang, dicampur protein konsentretnya puro yang rasa coklat. Enak tuh betewe.
+85	habis itu makan oatmeal dicampur pisang, dicampur protein konsentretnya puro yang rasa coklat. Enak tuh betewe. Terus juga ada panggilan alam.
+86	Enak tuh betewe. Terus juga ada panggilan alam.
+87	Terus juga ada panggilan alam.
+88	Terus juga ada panggilan alam.
+89	Terus juga ada panggilan alam. Makanya udah ready jam segitu.
+90	Makanya udah ready jam segitu.
+91	Makanya udah ready jam segitu.
+92	Makanya udah ready jam segitu. Terus juga karena bangunnya jam 2 pagi, jam tidurnya jadi kurang.
+93	Terus juga karena bangunnya jam 2 pagi, jam tidurnya jadi kurang.
+94	Terus juga karena bangunnya jam 2 pagi, jam tidurnya jadi kurang.
+95	Terus juga karena bangunnya jam 2 pagi, jam tidurnya jadi kurang.
+96	Terus juga karena bangunnya jam 2 pagi, jam tidurnya jadi kurang.
+97	Terus juga karena bangunnya jam 2 pagi, jam tidurnya jadi kurang.
+98	Terus juga karena bangunnya jam 2 pagi, jam tidurnya jadi kurang.
+99	Terus juga karena bangunnya jam 2 pagi, jam tidurnya jadi kurang. Malam aku tidur jam 9 malam.
+100	Malam aku tidur jam 9 malam.
+101	Malam aku tidur jam 9 malam.
+102	Malam aku tidur jam 9 malam. Jadi cuma dapet 5 jam waktu tidur.
+103	Malam aku tidur jam 9 malam. Jadi cuma dapet 5 jam waktu tidur.
+104	Jadi cuma dapet 5 jam waktu tidur.
+105	Jadi cuma dapet 5 jam waktu tidur.
+106	Jadi cuma dapet 5 jam waktu tidur.
+107	Jadi cuma dapet 5 jam waktu tidur. Karena jam tidurnya kurang,
+108	Jadi cuma dapet 5 jam waktu tidur. Karena jam tidurnya kurang,
+109	Karena jam tidurnya kurang, pas siang-siang aku mantuk.
+110	Karena jam tidurnya kurang, pas siang-siang aku mantuk.
+111	pas siang-siang aku mantuk.
+112	pas siang-siang aku mantuk.
+113	pas siang-siang aku mantuk. Banget.
+114	pas siang-siang aku mantuk. Banget.
+115	Banget.
+116	[NO_SPEECH]
+117	[NO_SPEECH]
+118	Tuh, wajar kali ya ngantuk siang-siang tuh.
+119	Tuh, wajar kali ya ngantuk siang-siang tuh.
+120	Tuh, wajar kali ya ngantuk siang-siang tuh.
+121	Tuh, wajar kali ya ngantuk siang-siang tuh.
+122	Tuh, wajar kali ya ngantuk siang-siang tuh.
+123	Tuh, wajar kali ya ngantuk siang-siang tuh. Nah, kekurangannya adalah waktu workoutnya mepet.
+124	Nah, kekurangannya adalah waktu workoutnya mepet.
+125	Nah, kekurangannya adalah waktu workoutnya mepet.
+126	Nah, kekurangannya adalah waktu workoutnya mepet.
+127	Nah, kekurangannya adalah waktu workoutnya mepet.
+128	Nah, kekurangannya adalah waktu workoutnya mepet.
+129	Nah, kekurangannya adalah waktu workoutnya mepet. Tadi pagi aku cuma dapet sekitar 40-45 menit buat workoutnya.
+130	Tadi pagi aku cuma dapet sekitar 40-45 menit buat workoutnya.
+131	Tadi pagi aku cuma dapet sekitar 40-45 menit buat workoutnya.
+132	Tadi pagi aku cuma dapet sekitar 40-45 menit buat workoutnya.
+133	Tadi pagi aku cuma dapet sekitar 40-45 menit buat workoutnya.
+134	Tadi pagi aku cuma dapet sekitar 40-45 menit buat workoutnya.
+135	Tadi pagi aku cuma dapet sekitar 40-45 menit buat workoutnya.
+136	Tadi pagi aku cuma dapet sekitar 40-45 menit buat workoutnya. Karena abis workout, aku harus masak buat sahur.
+137	Tadi pagi aku cuma dapet sekitar 40-45 menit buat workoutnya. Karena abis workout, aku harus masak buat sahur.
+138	Karena abis workout, aku harus masak buat sahur.
+139	Karena abis workout, aku harus masak buat sahur.
+140	Karena abis workout, aku harus masak buat sahur. Oke, itu plus dan minus yang aku rasain ya.
+141	Karena abis workout, aku harus masak buat sahur. Oke, itu plus dan minus yang aku rasain ya.
+142	Oke, itu plus dan minus yang aku rasain ya.
+143	Oke, itu plus dan minus yang aku rasain ya.
+144	Oke, itu plus dan minus yang aku rasain ya. Kalau kalian pernah workout sebelum sahur, coba komen di bawah.
+145	Oke, itu plus dan minus yang aku rasain ya. Kalau kalian pernah workout sebelum sahur, coba komen di bawah.
+146	Kalau kalian pernah workout sebelum sahur, coba komen di bawah.
+147	Kalau kalian pernah workout sebelum sahur, coba komen di bawah.
+148	Kalau kalian pernah workout sebelum sahur, coba komen di bawah.
+149	Kalau kalian pernah workout sebelum sahur, coba komen di bawah.
+150	Kalau kalian pernah workout sebelum sahur, coba komen di bawah. Kalian sama nggak?
+151	Kalau kalian pernah workout sebelum sahur, coba komen di bawah. Kalian sama nggak? Lebih ada yang kekurangannya.
+152	Kalian sama nggak? Lebih ada yang kekurangannya.
+153	Lebih ada yang kekurangannya. Nah, lanjut.
+154	Lebih ada yang kekurangannya. Nah, lanjut.
+155	Nah, lanjut.
+156	Nah, lanjut. Cocoknya buat siapa ini?
+157	Cocoknya buat siapa ini?
+158	Cocoknya buat siapa ini? Nah, menurutku ini cocoknya tuh buat orang yang waktu sore sampai malamnya itu padet.
+159	Cocoknya buat siapa ini? Nah, menurutku ini cocoknya tuh buat orang yang waktu sore sampai malamnya itu padet.
+160	Nah, menurutku ini cocoknya tuh buat orang yang waktu sore sampai malamnya itu padet.
+161	Nah, menurutku ini cocoknya tuh buat orang yang waktu sore sampai malamnya itu padet.
+162	Nah, menurutku ini cocoknya tuh buat orang yang waktu sore sampai malamnya itu padet.
+163	Nah, menurutku ini cocoknya tuh buat orang yang waktu sore sampai malamnya itu padet.
+164	Nah, menurutku ini cocoknya tuh buat orang yang waktu sore sampai malamnya itu padet.
+165	Nah, menurutku ini cocoknya tuh buat orang yang waktu sore sampai malamnya itu padet.
+166	Nah, menurutku ini cocoknya tuh buat orang yang waktu sore sampai malamnya itu padet.
+167	Nah, menurutku ini cocoknya tuh buat orang yang waktu sore sampai malamnya itu padet. Misalkan sore-sore cari takjil,
+168	Nah, menurutku ini cocoknya tuh buat orang yang waktu sore sampai malamnya itu padet. Misalkan sore-sore cari takjil,
+169	Misalkan sore-sore cari takjil,
+170	Misalkan sore-sore cari takjil, atau buka puasa di masjid,
+171	Misalkan sore-sore cari takjil, atau buka puasa di masjid,
+172	atau buka puasa di masjid,
+173	atau buka puasa di masjid, habis itu maghriban di masjid,
+174	atau buka puasa di masjid, habis itu maghriban di masjid,
+175	habis itu maghriban di masjid,
+176	habis itu maghriban di masjid, terus malamnya habis sholat terawih pada arusan sampai malam.
+177	habis itu maghriban di masjid, terus malamnya habis sholat terawih pada arusan sampai malam.
+178	terus malamnya habis sholat terawih pada arusan sampai malam.
+179	terus malamnya habis sholat terawih pada arusan sampai malam.
+180	terus malamnya habis sholat terawih pada arusan sampai malam.
+181	terus malamnya habis sholat terawih pada arusan sampai malam. Makanya nggak ada waktu buat workout.
+182	terus malamnya habis sholat terawih pada arusan sampai malam. Makanya nggak ada waktu buat workout.
+183	Makanya nggak ada waktu buat workout.
+184	Makanya nggak ada waktu buat workout. Nah, kalau misalkan kalian mau nyoba workout ini,
+185	Makanya nggak ada waktu buat workout. Nah, kalau misalkan kalian mau nyoba workout ini,
+186	Nah, kalau misalkan kalian mau nyoba workout ini,
+187	Nah, kalau misalkan kalian mau nyoba workout ini,
+188	Nah, kalau misalkan kalian mau nyoba workout ini, aku saranin cobanya pas hari libur ya.
+189	Nah, kalau misalkan kalian mau nyoba workout ini, aku saranin cobanya pas hari libur ya.
+190	aku saranin cobanya pas hari libur ya.
+191	aku saranin cobanya pas hari libur ya.
+192	aku saranin cobanya pas hari libur ya. Ini aku nyobanya di hari minggu, BTW.
+193	aku saranin cobanya pas hari libur ya. Ini aku nyobanya di hari minggu, BTW.
+194	Ini aku nyobanya di hari minggu, BTW.
+195	Ini aku nyobanya di hari minggu, BTW.
+196	Ini aku nyobanya di hari minggu, BTW. Tujuannya adalah biar kalian tuh bisa evaluasi badan kalian dulu lah.
+197	Tujuannya adalah biar kalian tuh bisa evaluasi badan kalian dulu lah.
+198	Tujuannya adalah biar kalian tuh bisa evaluasi badan kalian dulu lah.
+199	Tujuannya adalah biar kalian tuh bisa evaluasi badan kalian dulu lah.
+200	Tujuannya adalah biar kalian tuh bisa evaluasi badan kalian dulu lah.
+201	Tujuannya adalah biar kalian tuh bisa evaluasi badan kalian dulu lah.
+202	Tujuannya adalah biar kalian tuh bisa evaluasi badan kalian dulu lah. Dari pagi sampai sore-nya tuh gimana.
+203	Tujuannya adalah biar kalian tuh bisa evaluasi badan kalian dulu lah. Dari pagi sampai sore-nya tuh gimana.
+204	Dari pagi sampai sore-nya tuh gimana.
+205	Dari pagi sampai sore-nya tuh gimana. Kira-kira cocok atau nggak.
+206	Dari pagi sampai sore-nya tuh gimana. Kira-kira cocok atau nggak.
+207	Kira-kira cocok atau nggak.
+208	Kira-kira cocok atau nggak. Kalau misalkan respon badan kalian cocok, bagus.
+209	Kira-kira cocok atau nggak. Kalau misalkan respon badan kalian cocok, bagus.
+210	Kalau misalkan respon badan kalian cocok, bagus.
+211	Kalau misalkan respon badan kalian cocok, bagus.
+212	Kalau misalkan respon badan kalian cocok, bagus.
+213	Kalau misalkan respon badan kalian cocok, bagus. Lanjutin.
+214	Lanjutin. Tapi kalau misalkan nggak cocok,
+215	Lanjutin. Tapi kalau misalkan nggak cocok,
+216	Tapi kalau misalkan nggak cocok, ganti waktu lain aja.
+217	Tapi kalau misalkan nggak cocok, ganti waktu lain aja.
+218	ganti waktu lain aja.
+219	ganti waktu lain aja.
+220	ganti waktu lain aja. Dah, gitu aja sih videonya.
+221	Dah, gitu aja sih videonya.
+222	Dah, gitu aja sih videonya.
+223	Dah, gitu aja sih videonya. Share kalau bermanfaat.
+224	Share kalau bermanfaat.
+225	Share kalau bermanfaat. Stay hard.
+226	Share kalau bermanfaat. Stay hard.
+227	Stay hard.

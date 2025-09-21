@@ -1,0 +1,130 @@
+0	Hai guys, biasanya kalian ngeliat aku meriksa pasien yang ukurannya 1 meter
+1	Hai guys, biasanya kalian ngeliat aku meriksa pasien yang ukurannya 1 meter
+2	Hai guys, biasanya kalian ngeliat aku meriksa pasien yang ukurannya 1 meter
+3	Hai guys, biasanya kalian ngeliat aku meriksa pasien yang ukurannya 1 meter
+4	Hai guys, biasanya kalian ngeliat aku meriksa pasien yang ukurannya 1 meter
+5	Hai guys, biasanya kalian ngeliat aku meriksa pasien yang ukurannya 1 meter
+6	Hai guys, biasanya kalian ngeliat aku meriksa pasien yang ukurannya 1 meter
+7	Hai guys, biasanya kalian ngeliat aku meriksa pasien yang ukurannya 1 meter Kali ini pasien aku ukurannya gak lebih gede dari jari kelingking aku
+8	Hai guys, biasanya kalian ngeliat aku meriksa pasien yang ukurannya 1 meter Kali ini pasien aku ukurannya gak lebih gede dari jari kelingking aku
+9	Kali ini pasien aku ukurannya gak lebih gede dari jari kelingking aku
+10	Kali ini pasien aku ukurannya gak lebih gede dari jari kelingking aku
+11	Kali ini pasien aku ukurannya gak lebih gede dari jari kelingking aku
+12	Kali ini pasien aku ukurannya gak lebih gede dari jari kelingking aku
+13	Kali ini pasien aku ukurannya gak lebih gede dari jari kelingking aku Bahkan berat badannya cuma 4,4 gram
+14	Kali ini pasien aku ukurannya gak lebih gede dari jari kelingking aku Bahkan berat badannya cuma 4,4 gram
+15	Kali ini pasien aku ukurannya gak lebih gede dari jari kelingking aku Bahkan berat badannya cuma 4,4 gram
+16	Bahkan berat badannya cuma 4,4 gram
+17	Bahkan berat badannya cuma 4,4 gram
+18	Bahkan berat badannya cuma 4,4 gram
+19	Bahkan berat badannya cuma 4,4 gram
+20	Bahkan berat badannya cuma 4,4 gram Ikan ini udah gak mau makan dari satu hari yang lalu
+21	Bahkan berat badannya cuma 4,4 gram Ikan ini udah gak mau makan dari satu hari yang lalu
+22	Ikan ini udah gak mau makan dari satu hari yang lalu
+23	Ikan ini udah gak mau makan dari satu hari yang lalu
+24	Ikan ini udah gak mau makan dari satu hari yang lalu
+25	Ikan ini udah gak mau makan dari satu hari yang lalu Terlihat ada banyak peradangan di area punggung dan area ekor
+26	Ikan ini udah gak mau makan dari satu hari yang lalu Terlihat ada banyak peradangan di area punggung dan area ekor
+27	Terlihat ada banyak peradangan di area punggung dan area ekor
+28	Terlihat ada banyak peradangan di area punggung dan area ekor
+29	Terlihat ada banyak peradangan di area punggung dan area ekor
+30	Terlihat ada banyak peradangan di area punggung dan area ekor
+31	Terlihat ada banyak peradangan di area punggung dan area ekor
+32	Terlihat ada banyak peradangan di area punggung dan area ekor Karena memang ikan ini kondisinya sudah tidak baik
+33	Terlihat ada banyak peradangan di area punggung dan area ekor Karena memang ikan ini kondisinya sudah tidak baik
+34	Karena memang ikan ini kondisinya sudah tidak baik
+35	Karena memang ikan ini kondisinya sudah tidak baik
+36	Karena memang ikan ini kondisinya sudah tidak baik
+37	Karena memang ikan ini kondisinya sudah tidak baik Akhirnya aku memutuskan untuk memasukkan ikan ini ke ICU
+38	Karena memang ikan ini kondisinya sudah tidak baik Akhirnya aku memutuskan untuk memasukkan ikan ini ke ICU
+39	Akhirnya aku memutuskan untuk memasukkan ikan ini ke ICU
+40	Akhirnya aku memutuskan untuk memasukkan ikan ini ke ICU
+41	Akhirnya aku memutuskan untuk memasukkan ikan ini ke ICU
+42	Akhirnya aku memutuskan untuk memasukkan ikan ini ke ICU
+43	Akhirnya aku memutuskan untuk memasukkan ikan ini ke ICU Saking kecilnya dia sampai bisa aku masukin ke dalam cup holder kayak gini
+44	Akhirnya aku memutuskan untuk memasukkan ikan ini ke ICU Saking kecilnya dia sampai bisa aku masukin ke dalam cup holder kayak gini
+45	Saking kecilnya dia sampai bisa aku masukin ke dalam cup holder kayak gini
+46	Saking kecilnya dia sampai bisa aku masukin ke dalam cup holder kayak gini
+47	Saking kecilnya dia sampai bisa aku masukin ke dalam cup holder kayak gini
+48	Saking kecilnya dia sampai bisa aku masukin ke dalam cup holder kayak gini
+49	Saking kecilnya dia sampai bisa aku masukin ke dalam cup holder kayak gini
+50	Saking kecilnya dia sampai bisa aku masukin ke dalam cup holder kayak gini
+51	Saking kecilnya dia sampai bisa aku masukin ke dalam cup holder kayak gini
+52	Saking kecilnya dia sampai bisa aku masukin ke dalam cup holder kayak gini
+53	Saking kecilnya dia sampai bisa aku masukin ke dalam cup holder kayak gini Fish owner bilang dia dapet ikan ini gratis sebenernya
+54	Saking kecilnya dia sampai bisa aku masukin ke dalam cup holder kayak gini Fish owner bilang dia dapet ikan ini gratis sebenernya
+55	Fish owner bilang dia dapet ikan ini gratis sebenernya
+56	Fish owner bilang dia dapet ikan ini gratis sebenernya
+57	Fish owner bilang dia dapet ikan ini gratis sebenernya
+58	Fish owner bilang dia dapet ikan ini gratis sebenernya Tapi anaknya sayang banget sama ikan ini
+59	Fish owner bilang dia dapet ikan ini gratis sebenernya Tapi anaknya sayang banget sama ikan ini
+60	Tapi anaknya sayang banget sama ikan ini
+61	Tapi anaknya sayang banget sama ikan ini
+62	Tapi anaknya sayang banget sama ikan ini
+63	Tapi anaknya sayang banget sama ikan ini Fish owner yang kayak gini perlu direstarikan sebenernya
+64	Tapi anaknya sayang banget sama ikan ini Fish owner yang kayak gini perlu direstarikan sebenernya
+65	Fish owner yang kayak gini perlu direstarikan sebenernya
+66	Fish owner yang kayak gini perlu direstarikan sebenernya
+67	Fish owner yang kayak gini perlu direstarikan sebenernya
+68	Fish owner yang kayak gini perlu direstarikan sebenernya
+69	Fish owner yang kayak gini perlu direstarikan sebenernya Dia gak peduli berapa harga ikannya yang penting dia komitmen buat ngerawat
+70	Fish owner yang kayak gini perlu direstarikan sebenernya Dia gak peduli berapa harga ikannya yang penting dia komitmen buat ngerawat
+71	Dia gak peduli berapa harga ikannya yang penting dia komitmen buat ngerawat
+72	Dia gak peduli berapa harga ikannya yang penting dia komitmen buat ngerawat
+73	Dia gak peduli berapa harga ikannya yang penting dia komitmen buat ngerawat
+74	Dia gak peduli berapa harga ikannya yang penting dia komitmen buat ngerawat
+75	Dia gak peduli berapa harga ikannya yang penting dia komitmen buat ngerawat Sayangnya setelah aku observasi ulang ikannya di tempat yang lebih besar
+76	Dia gak peduli berapa harga ikannya yang penting dia komitmen buat ngerawat Sayangnya setelah aku observasi ulang ikannya di tempat yang lebih besar
+77	Sayangnya setelah aku observasi ulang ikannya di tempat yang lebih besar
+78	Sayangnya setelah aku observasi ulang ikannya di tempat yang lebih besar
+79	Sayangnya setelah aku observasi ulang ikannya di tempat yang lebih besar
+80	Sayangnya setelah aku observasi ulang ikannya di tempat yang lebih besar
+81	Sayangnya setelah aku observasi ulang ikannya di tempat yang lebih besar
+82	Sayangnya setelah aku observasi ulang ikannya di tempat yang lebih besar Ikan ini menunjukkan gaya bernang yang irregular dan suka menabrak-nabrak dinding
+83	Sayangnya setelah aku observasi ulang ikannya di tempat yang lebih besar Ikan ini menunjukkan gaya bernang yang irregular dan suka menabrak-nabrak dinding
+84	Ikan ini menunjukkan gaya bernang yang irregular dan suka menabrak-nabrak dinding
+85	Ikan ini menunjukkan gaya bernang yang irregular dan suka menabrak-nabrak dinding
+86	Ikan ini menunjukkan gaya bernang yang irregular dan suka menabrak-nabrak dinding
+87	Ikan ini menunjukkan gaya bernang yang irregular dan suka menabrak-nabrak dinding
+88	Ikan ini menunjukkan gaya bernang yang irregular dan suka menabrak-nabrak dinding
+89	Ikan ini menunjukkan gaya bernang yang irregular dan suka menabrak-nabrak dinding
+90	Ikan ini menunjukkan gaya bernang yang irregular dan suka menabrak-nabrak dinding Untuk mengurangi stres, aku berikan garam ikan dengan dosis 1 kg per 1000 liter air
+91	Ikan ini menunjukkan gaya bernang yang irregular dan suka menabrak-nabrak dinding Untuk mengurangi stres, aku berikan garam ikan dengan dosis 1 kg per 1000 liter air
+92	Untuk mengurangi stres, aku berikan garam ikan dengan dosis 1 kg per 1000 liter air
+93	Untuk mengurangi stres, aku berikan garam ikan dengan dosis 1 kg per 1000 liter air
+94	Untuk mengurangi stres, aku berikan garam ikan dengan dosis 1 kg per 1000 liter air
+95	Untuk mengurangi stres, aku berikan garam ikan dengan dosis 1 kg per 1000 liter air
+96	Untuk mengurangi stres, aku berikan garam ikan dengan dosis 1 kg per 1000 liter air
+97	Untuk mengurangi stres, aku berikan garam ikan dengan dosis 1 kg per 1000 liter air
+98	Untuk mengurangi stres, aku berikan garam ikan dengan dosis 1 kg per 1000 liter air
+99	Untuk mengurangi stres, aku berikan garam ikan dengan dosis 1 kg per 1000 liter air
+100	Untuk mengurangi stres, aku berikan garam ikan dengan dosis 1 kg per 1000 liter air Treatment yang kita lakukan di ICU adalah pemberian antibiotik, antiradang, dan vitamin
+101	Untuk mengurangi stres, aku berikan garam ikan dengan dosis 1 kg per 1000 liter air Treatment yang kita lakukan di ICU adalah pemberian antibiotik, antiradang, dan vitamin
+102	Treatment yang kita lakukan di ICU adalah pemberian antibiotik, antiradang, dan vitamin
+103	Treatment yang kita lakukan di ICU adalah pemberian antibiotik, antiradang, dan vitamin
+104	Treatment yang kita lakukan di ICU adalah pemberian antibiotik, antiradang, dan vitamin
+105	Treatment yang kita lakukan di ICU adalah pemberian antibiotik, antiradang, dan vitamin
+106	Treatment yang kita lakukan di ICU adalah pemberian antibiotik, antiradang, dan vitamin
+107	Treatment yang kita lakukan di ICU adalah pemberian antibiotik, antiradang, dan vitamin
+108	Treatment yang kita lakukan di ICU adalah pemberian antibiotik, antiradang, dan vitamin
+109	Treatment yang kita lakukan di ICU adalah pemberian antibiotik, antiradang, dan vitamin Sumber oksigennya kita juga pakai oksigen murni
+110	Treatment yang kita lakukan di ICU adalah pemberian antibiotik, antiradang, dan vitamin Sumber oksigennya kita juga pakai oksigen murni
+111	Sumber oksigennya kita juga pakai oksigen murni
+112	Sumber oksigennya kita juga pakai oksigen murni
+113	Sumber oksigennya kita juga pakai oksigen murni
+114	Sumber oksigennya kita juga pakai oksigen murni Sayangnya dia udah lemes banget
+115	Sumber oksigennya kita juga pakai oksigen murni Sayangnya dia udah lemes banget
+116	Sayangnya dia udah lemes banget
+117	Sayangnya dia udah lemes banget Dan kemungkinan kesembuhannya adalah 50%
+118	Sayangnya dia udah lemes banget Dan kemungkinan kesembuhannya adalah 50%
+119	Dan kemungkinan kesembuhannya adalah 50%
+120	Dan kemungkinan kesembuhannya adalah 50%
+121	Dan kemungkinan kesembuhannya adalah 50%
+122	Dan kemungkinan kesembuhannya adalah 50% Semoga aku bisa menyelamatkan kamu ya adik kecil
+123	Dan kemungkinan kesembuhannya adalah 50% Semoga aku bisa menyelamatkan kamu ya adik kecil
+124	Semoga aku bisa menyelamatkan kamu ya adik kecil
+125	Semoga aku bisa menyelamatkan kamu ya adik kecil
+126	Semoga aku bisa menyelamatkan kamu ya adik kecil
+127	Semoga aku bisa menyelamatkan kamu ya adik kecil
+128	Semoga aku bisa menyelamatkan kamu ya adik kecil
+129	[NO_SPEECH]

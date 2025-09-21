@@ -1,0 +1,239 @@
+0	Nikel di Indonesia itu kotor.
+1	Nikel di Indonesia itu kotor.
+2	Nikel di Indonesia itu kotor.
+3	Nikel di Indonesia itu kotor.
+4	Nikel di Indonesia itu kotor.
+5	Merusak alam, merusak lingkungan.
+6	Merusak alam, merusak lingkungan.
+7	Merusak alam, merusak lingkungan.
+8	Merusak alam, merusak lingkungan.
+9	Merusak alam, merusak lingkungan.
+10	Merusak alam, merusak lingkungan. Bukan hanya yang di Papua.
+11	Merusak alam, merusak lingkungan. Bukan hanya yang di Papua.
+12	Bukan hanya yang di Papua.
+13	Bukan hanya yang di Papua.
+14	Bukan hanya yang di Papua. Kejadiannya tambang-tambang di Indonesia itu asli kotor.
+15	Kejadiannya tambang-tambang di Indonesia itu asli kotor.
+16	Kejadiannya tambang-tambang di Indonesia itu asli kotor.
+17	Kejadiannya tambang-tambang di Indonesia itu asli kotor.
+18	Kejadiannya tambang-tambang di Indonesia itu asli kotor.
+19	Kejadiannya tambang-tambang di Indonesia itu asli kotor.
+20	Kejadiannya tambang-tambang di Indonesia itu asli kotor.
+21	Kejadiannya tambang-tambang di Indonesia itu asli kotor. Yang di Halmahera kotor luar biasa.
+22	Yang di Halmahera kotor luar biasa.
+23	Yang di Halmahera kotor luar biasa.
+24	Yang di Halmahera kotor luar biasa.
+25	Yang di Halmahera kotor luar biasa.
+26	Yang di Halmahera kotor luar biasa.
+27	Yang di Halmahera kotor luar biasa. Yang di Sulawesi kotor luar biasa.
+28	Yang di Sulawesi kotor luar biasa.
+29	Yang di Sulawesi kotor luar biasa.
+30	Yang di Sulawesi kotor luar biasa.
+31	Yang di Sulawesi kotor luar biasa.
+32	Yang di Sulawesi kotor luar biasa. Itu udah kejadian hari-hari sebelumnya.
+33	Itu udah kejadian hari-hari sebelumnya.
+34	Itu udah kejadian hari-hari sebelumnya.
+35	Itu udah kejadian hari-hari sebelumnya.
+36	Itu udah kejadian hari-hari sebelumnya. Cuman tidak viral.
+37	Itu udah kejadian hari-hari sebelumnya. Cuman tidak viral.
+38	Cuman tidak viral. Contoh tambang yang bersih itu yang gimana sih guru jadinya?
+39	Cuman tidak viral. Contoh tambang yang bersih itu yang gimana sih guru jadinya?
+40	Contoh tambang yang bersih itu yang gimana sih guru jadinya?
+41	Contoh tambang yang bersih itu yang gimana sih guru jadinya?
+42	Contoh tambang yang bersih itu yang gimana sih guru jadinya? Kan anggaplah Indonesia kotor.
+43	Contoh tambang yang bersih itu yang gimana sih guru jadinya? Kan anggaplah Indonesia kotor.
+44	Kan anggaplah Indonesia kotor.
+45	Kan anggaplah Indonesia kotor. Saya jadi membayangkan yang dikatakan bersih itu yang gimana?
+46	Kan anggaplah Indonesia kotor. Saya jadi membayangkan yang dikatakan bersih itu yang gimana?
+47	Saya jadi membayangkan yang dikatakan bersih itu yang gimana?
+48	Saya jadi membayangkan yang dikatakan bersih itu yang gimana?
+49	Saya jadi membayangkan yang dikatakan bersih itu yang gimana?
+50	Saya jadi membayangkan yang dikatakan bersih itu yang gimana?
+51	Saya jadi membayangkan yang dikatakan bersih itu yang gimana?
+52	Saya jadi membayangkan yang dikatakan bersih itu yang gimana? Ada nggak sih?
+53	Saya jadi membayangkan yang dikatakan bersih itu yang gimana? Ada nggak sih?
+54	Ada nggak sih? Tambang itu nggak bisa 100% bersih.
+55	Tambang itu nggak bisa 100% bersih.
+56	Tambang itu nggak bisa 100% bersih.
+57	Tambang itu nggak bisa 100% bersih.
+58	Tambang itu nggak bisa 100% bersih. Tambang itu nggak bisa.
+59	Tambang itu nggak bisa 100% bersih. Tambang itu nggak bisa.
+60	Tambang itu nggak bisa. Tapi setidaknya bisa di lokalisir kekotorannya itu.
+61	Tambang itu nggak bisa. Tapi setidaknya bisa di lokalisir kekotorannya itu.
+62	Tapi setidaknya bisa di lokalisir kekotorannya itu.
+63	Tapi setidaknya bisa di lokalisir kekotorannya itu.
+64	Tapi setidaknya bisa di lokalisir kekotorannya itu.
+65	Tapi setidaknya bisa di lokalisir kekotorannya itu.
+66	Tapi setidaknya bisa di lokalisir kekotorannya itu.
+67	Tapi setidaknya bisa di lokalisir kekotorannya itu.
+68	Tapi setidaknya bisa di lokalisir kekotorannya itu. Jadi misalkan ginilah.
+69	Jadi misalkan ginilah.
+70	Jadi misalkan ginilah.
+71	Jadi misalkan ginilah. Kalau di Indonesia, kalau misalkan Freeport.
+72	Jadi misalkan ginilah. Kalau di Indonesia, kalau misalkan Freeport.
+73	Kalau di Indonesia, kalau misalkan Freeport.
+74	Kalau di Indonesia, kalau misalkan Freeport.
+75	Kalau di Indonesia, kalau misalkan Freeport.
+76	Kalau di Indonesia, kalau misalkan Freeport.
+77	Kalau di Indonesia, kalau misalkan Freeport.
+78	Kalau di Indonesia, kalau misalkan Freeport. Atau misalkan Freeport itu di tengah gitu ya.
+79	Atau misalkan Freeport itu di tengah gitu ya.
+80	Atau misalkan Freeport itu di tengah gitu ya.
+81	Atau misalkan Freeport itu di tengah gitu ya.
+82	Atau misalkan Freeport itu di tengah gitu ya. Saya mau bukan Freeport menuduh gimana gitu.
+83	Atau misalkan Freeport itu di tengah gitu ya. Saya mau bukan Freeport menuduh gimana gitu.
+84	Saya mau bukan Freeport menuduh gimana gitu.
+85	Saya mau bukan Freeport menuduh gimana gitu.
+86	Saya mau bukan Freeport menuduh gimana gitu.
+87	Saya mau bukan Freeport menuduh gimana gitu. Cuman Freeport itu kan di tengah gunung.
+88	Cuman Freeport itu kan di tengah gunung.
+89	Cuman Freeport itu kan di tengah gunung.
+90	Cuman Freeport itu kan di tengah gunung.
+91	Cuman Freeport itu kan di tengah gunung. Nah kalau misalkan kotor itu,
+92	Nah kalau misalkan kotor itu,
+93	Nah kalau misalkan kotor itu,
+94	Nah kalau misalkan kotor itu, dari atas gunung, kerusakan lingkungan parah.
+95	Nah kalau misalkan kotor itu, dari atas gunung, kerusakan lingkungan parah.
+96	dari atas gunung, kerusakan lingkungan parah.
+97	dari atas gunung, kerusakan lingkungan parah.
+98	dari atas gunung, kerusakan lingkungan parah.
+99	dari atas gunung, kerusakan lingkungan parah.
+100	dari atas gunung, kerusakan lingkungan parah.
+101	dari atas gunung, kerusakan lingkungan parah.
+102	dari atas gunung, kerusakan lingkungan parah. Kemudian masuk sungai, sampai ke lautan.
+103	Kemudian masuk sungai, sampai ke lautan.
+104	Kemudian masuk sungai, sampai ke lautan.
+105	Kemudian masuk sungai, sampai ke lautan.
+106	Kemudian masuk sungai, sampai ke lautan.
+107	Kemudian masuk sungai, sampai ke lautan. Mercury ada di mana-mana.
+108	Kemudian masuk sungai, sampai ke lautan. Mercury ada di mana-mana.
+109	Mercury ada di mana-mana.
+110	Mercury ada di mana-mana.
+111	Mercury ada di mana-mana. Kemudian limbah ada di mana-mana.
+112	Mercury ada di mana-mana. Kemudian limbah ada di mana-mana.
+113	Kemudian limbah ada di mana-mana.
+114	Kemudian limbah ada di mana-mana.
+115	Kemudian limbah ada di mana-mana. Nah itu kotor.
+116	Kemudian limbah ada di mana-mana. Nah itu kotor.
+117	Nah itu kotor.
+118	Nah itu kotor. Nah diharapkan minimal,
+119	Nah itu kotor. Nah diharapkan minimal,
+120	Nah diharapkan minimal,
+121	Nah diharapkan minimal,
+122	Nah diharapkan minimal,
+123	Nah diharapkan minimal, kalau ada kekotoran, kerusakan lingkungan,
+124	kalau ada kekotoran, kerusakan lingkungan,
+125	kalau ada kekotoran, kerusakan lingkungan,
+126	kalau ada kekotoran, kerusakan lingkungan,
+127	kalau ada kekotoran, kerusakan lingkungan,
+128	kalau ada kekotoran, kerusakan lingkungan, ya ada di situnya aja.
+129	kalau ada kekotoran, kerusakan lingkungan, ya ada di situnya aja.
+130	ya ada di situnya aja.
+131	ya ada di situnya aja. Nanti kalau misalkan ada sisa limbah,
+132	ya ada di situnya aja. Nanti kalau misalkan ada sisa limbah,
+133	Nanti kalau misalkan ada sisa limbah,
+134	Nanti kalau misalkan ada sisa limbah,
+135	Nanti kalau misalkan ada sisa limbah,
+136	Nanti kalau misalkan ada sisa limbah, limbahnya diolah, diolah, diolah, diolah,
+137	Nanti kalau misalkan ada sisa limbah, limbahnya diolah, diolah, diolah, diolah,
+138	limbahnya diolah, diolah, diolah, diolah,
+139	limbahnya diolah, diolah, diolah, diolah,
+140	limbahnya diolah, diolah, diolah, diolah, sampai berapa kali ini,
+141	limbahnya diolah, diolah, diolah, diolah, sampai berapa kali ini,
+142	sampai berapa kali ini,
+143	sampai berapa kali ini, sampai dialirkan ke sungainya itu udah bersih.
+144	sampai berapa kali ini, sampai dialirkan ke sungainya itu udah bersih.
+145	sampai dialirkan ke sungainya itu udah bersih.
+146	sampai dialirkan ke sungainya itu udah bersih.
+147	sampai dialirkan ke sungainya itu udah bersih.
+148	sampai dialirkan ke sungainya itu udah bersih. Udah aman.
+149	sampai dialirkan ke sungainya itu udah bersih. Udah aman.
+150	Udah aman.
+151	Udah aman. Nah seharusnya gitu.
+152	Nah seharusnya gitu.
+153	Nah seharusnya gitu.
+154	Nah seharusnya gitu.
+155	Nah seharusnya gitu. Itu yang diharapkan tuh begitu.
+156	Itu yang diharapkan tuh begitu.
+157	Itu yang diharapkan tuh begitu.
+158	Itu yang diharapkan tuh begitu. Tapi ada kendala kalau pulau itu terlalu kecil.
+159	Itu yang diharapkan tuh begitu. Tapi ada kendala kalau pulau itu terlalu kecil.
+160	Tapi ada kendala kalau pulau itu terlalu kecil.
+161	Tapi ada kendala kalau pulau itu terlalu kecil.
+162	Tapi ada kendala kalau pulau itu terlalu kecil.
+163	Tapi ada kendala kalau pulau itu terlalu kecil.
+164	Tapi ada kendala kalau pulau itu terlalu kecil.
+165	Tapi ada kendala kalau pulau itu terlalu kecil.
+166	Tapi ada kendala kalau pulau itu terlalu kecil.
+167	Tapi ada kendala kalau pulau itu terlalu kecil. Kan kalau pulaunya kecil,
+168	Kan kalau pulaunya kecil,
+169	Kan kalau pulaunya kecil,
+170	Kan kalau pulaunya kecil,
+171	Kan kalau pulaunya kecil, penambangannya di situ,
+172	Kan kalau pulaunya kecil, penambangannya di situ,
+173	penambangannya di situ,
+174	penambangannya di situ,
+175	penambangannya di situ, gimana cara mengolahnya?
+176	gimana cara mengolahnya?
+177	gimana cara mengolahnya?
+178	gimana cara mengolahnya? Dan mengisolir itu dari lautan?
+179	Dan mengisolir itu dari lautan?
+180	Dan mengisolir itu dari lautan?
+181	Dan mengisolir itu dari lautan?
+182	Dan mengisolir itu dari lautan? Nggak bisa.
+183	Nggak bisa. Ini konteks pulau Gak gitu.
+184	Ini konteks pulau Gak gitu.
+185	Ini konteks pulau Gak gitu.
+186	Ini konteks pulau Gak gitu. Iya. Oke.
+187	Iya. Oke.
+188	Oke.
+189	Nah pulau-pulau yang ada di Raja Ampat itu,
+190	Nah pulau-pulau yang ada di Raja Ampat itu,
+191	Nah pulau-pulau yang ada di Raja Ampat itu,
+192	Nah pulau-pulau yang ada di Raja Ampat itu,
+193	Nah pulau-pulau yang ada di Raja Ampat itu,
+194	Nah pulau-pulau yang ada di Raja Ampat itu, yang jadi penambangan nikel itu kecil-kecil semua,
+195	Nah pulau-pulau yang ada di Raja Ampat itu, yang jadi penambangan nikel itu kecil-kecil semua,
+196	yang jadi penambangan nikel itu kecil-kecil semua,
+197	yang jadi penambangan nikel itu kecil-kecil semua,
+198	yang jadi penambangan nikel itu kecil-kecil semua,
+199	yang jadi penambangan nikel itu kecil-kecil semua,
+200	yang jadi penambangan nikel itu kecil-kecil semua, sehingga tidak boleh.
+201	sehingga tidak boleh.
+202	sehingga tidak boleh. Makanya kan ada peraturan di Amdal itu,
+203	Makanya kan ada peraturan di Amdal itu,
+204	Makanya kan ada peraturan di Amdal itu,
+205	Makanya kan ada peraturan di Amdal itu,
+206	Makanya kan ada peraturan di Amdal itu,
+207	kalau kecil, ukurannya sekian ratus,
+208	kalau kecil, ukurannya sekian ratus,
+209	kalau kecil, ukurannya sekian ratus,
+210	kalau kecil, ukurannya sekian ratus,
+211	kalau kecil, ukurannya sekian ratus,
+212	kalau kecil, ukurannya sekian ratus, ya nanti ada itunya detailnya,
+213	kalau kecil, ukurannya sekian ratus, ya nanti ada itunya detailnya,
+214	ya nanti ada itunya detailnya,
+215	ya nanti ada itunya detailnya,
+216	ya nanti ada itunya detailnya,
+217	itu nggak boleh digunakan penambangan.
+218	itu nggak boleh digunakan penambangan.
+219	itu nggak boleh digunakan penambangan.
+220	itu nggak boleh digunakan penambangan.
+221	itu nggak boleh digunakan penambangan. Karena apa?
+222	itu nggak boleh digunakan penambangan. Karena apa? Karena tidak bisa mengisolasi kerusakan lingkungan.
+223	Karena apa? Karena tidak bisa mengisolasi kerusakan lingkungan.
+224	Karena tidak bisa mengisolasi kerusakan lingkungan.
+225	Karena tidak bisa mengisolasi kerusakan lingkungan.
+226	Karena tidak bisa mengisolasi kerusakan lingkungan.
+227	Karena tidak bisa mengisolasi kerusakan lingkungan.
+228	Karena tidak bisa mengisolasi kerusakan lingkungan.
+229	Karena tidak bisa mengisolasi kerusakan lingkungan.
+230	Karena tidak bisa mengisolasi kerusakan lingkungan.
+231	[NO_SPEECH]
+232	[NO_SPEECH]
+233	[NO_SPEECH]
+234	[NO_SPEECH]
+235	[NO_SPEECH]
+236	[NO_SPEECH]
+237	[NO_SPEECH]
+238	[NO_SPEECH]

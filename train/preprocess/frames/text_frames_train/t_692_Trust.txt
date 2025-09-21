@@ -1,0 +1,114 @@
+0	Ikutin aku yuk cobain treatment di klinik kecantikan halal pertama di Indonesia
+1	Ikutin aku yuk cobain treatment di klinik kecantikan halal pertama di Indonesia
+2	Ikutin aku yuk cobain treatment di klinik kecantikan halal pertama di Indonesia
+3	Ikutin aku yuk cobain treatment di klinik kecantikan halal pertama di Indonesia
+4	Ikutin aku yuk cobain treatment di klinik kecantikan halal pertama di Indonesia
+5	Ikutin aku yuk cobain treatment di klinik kecantikan halal pertama di Indonesia
+6	Ikutin aku yuk cobain treatment di klinik kecantikan halal pertama di Indonesia
+7	Ikutin aku yuk cobain treatment di klinik kecantikan halal pertama di Indonesia
+8	Ikutin aku yuk cobain treatment di klinik kecantikan halal pertama di Indonesia Madinah Skin Clinic Cabang Bandar Lampung
+9	Ikutin aku yuk cobain treatment di klinik kecantikan halal pertama di Indonesia Madinah Skin Clinic Cabang Bandar Lampung
+10	Madinah Skin Clinic Cabang Bandar Lampung
+11	Madinah Skin Clinic Cabang Bandar Lampung
+12	Madinah Skin Clinic Cabang Bandar Lampung
+13	Madinah Skin Clinic Cabang Bandar Lampung
+14	Madinah Skin Clinic Cabang Bandar Lampung
+15	Madinah Skin Clinic Cabang Bandar Lampung Kebetulan banget nih lagi ada promo menarik tanpa bikin kantong bolong karena harganya terjangkau
+16	Madinah Skin Clinic Cabang Bandar Lampung Kebetulan banget nih lagi ada promo menarik tanpa bikin kantong bolong karena harganya terjangkau
+17	Kebetulan banget nih lagi ada promo menarik tanpa bikin kantong bolong karena harganya terjangkau
+18	Kebetulan banget nih lagi ada promo menarik tanpa bikin kantong bolong karena harganya terjangkau
+19	Kebetulan banget nih lagi ada promo menarik tanpa bikin kantong bolong karena harganya terjangkau
+20	Kebetulan banget nih lagi ada promo menarik tanpa bikin kantong bolong karena harganya terjangkau
+21	Kebetulan banget nih lagi ada promo menarik tanpa bikin kantong bolong karena harganya terjangkau
+22	Kebetulan banget nih lagi ada promo menarik tanpa bikin kantong bolong karena harganya terjangkau
+23	Kebetulan banget nih lagi ada promo menarik tanpa bikin kantong bolong karena harganya terjangkau
+24	Kebetulan banget nih lagi ada promo menarik tanpa bikin kantong bolong karena harganya terjangkau
+25	Kebetulan banget nih lagi ada promo menarik tanpa bikin kantong bolong karena harganya terjangkau
+26	Kebetulan banget nih lagi ada promo menarik tanpa bikin kantong bolong karena harganya terjangkau
+27	Kebetulan banget nih lagi ada promo menarik tanpa bikin kantong bolong karena harganya terjangkau Lihat deh suasananya nyaman, alat-alat yang digunakan canggih serta perawat dan dokternya yang sangat ramah
+28	Kebetulan banget nih lagi ada promo menarik tanpa bikin kantong bolong karena harganya terjangkau Lihat deh suasananya nyaman, alat-alat yang digunakan canggih serta perawat dan dokternya yang sangat ramah
+29	Lihat deh suasananya nyaman, alat-alat yang digunakan canggih serta perawat dan dokternya yang sangat ramah
+30	Lihat deh suasananya nyaman, alat-alat yang digunakan canggih serta perawat dan dokternya yang sangat ramah
+31	Lihat deh suasananya nyaman, alat-alat yang digunakan canggih serta perawat dan dokternya yang sangat ramah
+32	Lihat deh suasananya nyaman, alat-alat yang digunakan canggih serta perawat dan dokternya yang sangat ramah
+33	Lihat deh suasananya nyaman, alat-alat yang digunakan canggih serta perawat dan dokternya yang sangat ramah
+34	Lihat deh suasananya nyaman, alat-alat yang digunakan canggih serta perawat dan dokternya yang sangat ramah
+35	Lihat deh suasananya nyaman, alat-alat yang digunakan canggih serta perawat dan dokternya yang sangat ramah
+36	Lihat deh suasananya nyaman, alat-alat yang digunakan canggih serta perawat dan dokternya yang sangat ramah
+37	Lihat deh suasananya nyaman, alat-alat yang digunakan canggih serta perawat dan dokternya yang sangat ramah
+38	Lihat deh suasananya nyaman, alat-alat yang digunakan canggih serta perawat dan dokternya yang sangat ramah
+39	Lihat deh suasananya nyaman, alat-alat yang digunakan canggih serta perawat dan dokternya yang sangat ramah
+40	Lihat deh suasananya nyaman, alat-alat yang digunakan canggih serta perawat dan dokternya yang sangat ramah
+41	Lihat deh suasananya nyaman, alat-alat yang digunakan canggih serta perawat dan dokternya yang sangat ramah Untuk konsultasi dengan dokter free ya jadi gak ada biaya lagi
+42	Lihat deh suasananya nyaman, alat-alat yang digunakan canggih serta perawat dan dokternya yang sangat ramah Untuk konsultasi dengan dokter free ya jadi gak ada biaya lagi
+43	Untuk konsultasi dengan dokter free ya jadi gak ada biaya lagi
+44	Untuk konsultasi dengan dokter free ya jadi gak ada biaya lagi
+45	Untuk konsultasi dengan dokter free ya jadi gak ada biaya lagi
+46	Untuk konsultasi dengan dokter free ya jadi gak ada biaya lagi
+47	Untuk konsultasi dengan dokter free ya jadi gak ada biaya lagi
+48	Untuk konsultasi dengan dokter free ya jadi gak ada biaya lagi
+49	Untuk konsultasi dengan dokter free ya jadi gak ada biaya lagi Aku pilih treatment Hydro Luxury Facial dan Free VDT
+50	Untuk konsultasi dengan dokter free ya jadi gak ada biaya lagi Aku pilih treatment Hydro Luxury Facial dan Free VDT
+51	Aku pilih treatment Hydro Luxury Facial dan Free VDT
+52	Aku pilih treatment Hydro Luxury Facial dan Free VDT
+53	Aku pilih treatment Hydro Luxury Facial dan Free VDT
+54	Aku pilih treatment Hydro Luxury Facial dan Free VDT
+55	Aku pilih treatment Hydro Luxury Facial dan Free VDT
+56	Aku pilih treatment Hydro Luxury Facial dan Free VDT
+57	Aku pilih treatment Hydro Luxury Facial dan Free VDT
+58	Aku pilih treatment Hydro Luxury Facial dan Free VDT
+59	Aku pilih treatment Hydro Luxury Facial dan Free VDT
+60	Aku pilih treatment Hydro Luxury Facial dan Free VDT
+61	Aku pilih treatment Hydro Luxury Facial dan Free VDT Manfaat utamanya untuk menghilangkan sel kulit mati, racun dan kotoran di wajah serta peningkatan hidrasi dan kecerahan kulit
+62	Aku pilih treatment Hydro Luxury Facial dan Free VDT Manfaat utamanya untuk menghilangkan sel kulit mati, racun dan kotoran di wajah serta peningkatan hidrasi dan kecerahan kulit
+63	Manfaat utamanya untuk menghilangkan sel kulit mati, racun dan kotoran di wajah serta peningkatan hidrasi dan kecerahan kulit
+64	Manfaat utamanya untuk menghilangkan sel kulit mati, racun dan kotoran di wajah serta peningkatan hidrasi dan kecerahan kulit
+65	Manfaat utamanya untuk menghilangkan sel kulit mati, racun dan kotoran di wajah serta peningkatan hidrasi dan kecerahan kulit
+66	Manfaat utamanya untuk menghilangkan sel kulit mati, racun dan kotoran di wajah serta peningkatan hidrasi dan kecerahan kulit
+67	Manfaat utamanya untuk menghilangkan sel kulit mati, racun dan kotoran di wajah serta peningkatan hidrasi dan kecerahan kulit
+68	Manfaat utamanya untuk menghilangkan sel kulit mati, racun dan kotoran di wajah serta peningkatan hidrasi dan kecerahan kulit
+69	Manfaat utamanya untuk menghilangkan sel kulit mati, racun dan kotoran di wajah serta peningkatan hidrasi dan kecerahan kulit
+70	Manfaat utamanya untuk menghilangkan sel kulit mati, racun dan kotoran di wajah serta peningkatan hidrasi dan kecerahan kulit
+71	Manfaat utamanya untuk menghilangkan sel kulit mati, racun dan kotoran di wajah serta peningkatan hidrasi dan kecerahan kulit
+72	Manfaat utamanya untuk menghilangkan sel kulit mati, racun dan kotoran di wajah serta peningkatan hidrasi dan kecerahan kulit
+73	Manfaat utamanya untuk menghilangkan sel kulit mati, racun dan kotoran di wajah serta peningkatan hidrasi dan kecerahan kulit
+74	Manfaat utamanya untuk menghilangkan sel kulit mati, racun dan kotoran di wajah serta peningkatan hidrasi dan kecerahan kulit
+75	Manfaat utamanya untuk menghilangkan sel kulit mati, racun dan kotoran di wajah serta peningkatan hidrasi dan kecerahan kulit
+76	Manfaat utamanya untuk menghilangkan sel kulit mati, racun dan kotoran di wajah serta peningkatan hidrasi dan kecerahan kulit
+77	Manfaat utamanya untuk menghilangkan sel kulit mati, racun dan kotoran di wajah serta peningkatan hidrasi dan kecerahan kulit
+78	Manfaat utamanya untuk menghilangkan sel kulit mati, racun dan kotoran di wajah serta peningkatan hidrasi dan kecerahan kulit
+79	Manfaat utamanya untuk menghilangkan sel kulit mati, racun dan kotoran di wajah serta peningkatan hidrasi dan kecerahan kulit Selain itu bisa menyamarkan flag hitam, mengencangkan, meremajakan kulit serta mengurangi garis halus dan kerutan yang ada di wajah
+80	Manfaat utamanya untuk menghilangkan sel kulit mati, racun dan kotoran di wajah serta peningkatan hidrasi dan kecerahan kulit Selain itu bisa menyamarkan flag hitam, mengencangkan, meremajakan kulit serta mengurangi garis halus dan kerutan yang ada di wajah
+81	Selain itu bisa menyamarkan flag hitam, mengencangkan, meremajakan kulit serta mengurangi garis halus dan kerutan yang ada di wajah
+82	Selain itu bisa menyamarkan flag hitam, mengencangkan, meremajakan kulit serta mengurangi garis halus dan kerutan yang ada di wajah
+83	Selain itu bisa menyamarkan flag hitam, mengencangkan, meremajakan kulit serta mengurangi garis halus dan kerutan yang ada di wajah
+84	Selain itu bisa menyamarkan flag hitam, mengencangkan, meremajakan kulit serta mengurangi garis halus dan kerutan yang ada di wajah
+85	Selain itu bisa menyamarkan flag hitam, mengencangkan, meremajakan kulit serta mengurangi garis halus dan kerutan yang ada di wajah
+86	Selain itu bisa menyamarkan flag hitam, mengencangkan, meremajakan kulit serta mengurangi garis halus dan kerutan yang ada di wajah
+87	Selain itu bisa menyamarkan flag hitam, mengencangkan, meremajakan kulit serta mengurangi garis halus dan kerutan yang ada di wajah
+88	Selain itu bisa menyamarkan flag hitam, mengencangkan, meremajakan kulit serta mengurangi garis halus dan kerutan yang ada di wajah
+89	Selain itu bisa menyamarkan flag hitam, mengencangkan, meremajakan kulit serta mengurangi garis halus dan kerutan yang ada di wajah
+90	Selain itu bisa menyamarkan flag hitam, mengencangkan, meremajakan kulit serta mengurangi garis halus dan kerutan yang ada di wajah
+91	Selain itu bisa menyamarkan flag hitam, mengencangkan, meremajakan kulit serta mengurangi garis halus dan kerutan yang ada di wajah
+92	Selain itu bisa menyamarkan flag hitam, mengencangkan, meremajakan kulit serta mengurangi garis halus dan kerutan yang ada di wajah
+93	Selain itu bisa menyamarkan flag hitam, mengencangkan, meremajakan kulit serta mengurangi garis halus dan kerutan yang ada di wajah
+94	Selain itu bisa menyamarkan flag hitam, mengencangkan, meremajakan kulit serta mengurangi garis halus dan kerutan yang ada di wajah
+95	Selain itu bisa menyamarkan flag hitam, mengencangkan, meremajakan kulit serta mengurangi garis halus dan kerutan yang ada di wajah
+96	Selain itu bisa menyamarkan flag hitam, mengencangkan, meremajakan kulit serta mengurangi garis halus dan kerutan yang ada di wajah Buruan cobain treatment Madinah Clinic di cabang terdekat kalian
+97	Selain itu bisa menyamarkan flag hitam, mengencangkan, meremajakan kulit serta mengurangi garis halus dan kerutan yang ada di wajah Buruan cobain treatment Madinah Clinic di cabang terdekat kalian
+98	Buruan cobain treatment Madinah Clinic di cabang terdekat kalian
+99	Buruan cobain treatment Madinah Clinic di cabang terdekat kalian
+100	Buruan cobain treatment Madinah Clinic di cabang terdekat kalian
+101	Buruan cobain treatment Madinah Clinic di cabang terdekat kalian
+102	Buruan cobain treatment Madinah Clinic di cabang terdekat kalian
+103	Buruan cobain treatment Madinah Clinic di cabang terdekat kalian
+104	Buruan cobain treatment Madinah Clinic di cabang terdekat kalian Apalagi promonya super handphone
+105	Buruan cobain treatment Madinah Clinic di cabang terdekat kalian Apalagi promonya super handphone
+106	Apalagi promonya super handphone
+107	Apalagi promonya super handphone
+108	Apalagi promonya super handphone
+109	Apalagi promonya super handphone Jangan ketinggalan ya
+110	Apalagi promonya super handphone Jangan ketinggalan ya
+111	Jangan ketinggalan ya
+112	Jangan ketinggalan ya
+113	[NO_SPEECH]

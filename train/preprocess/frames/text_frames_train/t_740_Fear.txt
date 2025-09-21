@@ -1,0 +1,83 @@
+0	Dan hati-hati mencet jerawat di daerah triangle sini
+1	Dan hati-hati mencet jerawat di daerah triangle sini
+2	Dan hati-hati mencet jerawat di daerah triangle sini
+3	Dan hati-hati mencet jerawat di daerah triangle sini
+4	Dan hati-hati mencet jerawat di daerah triangle sini
+5	Dan hati-hati mencet jerawat di daerah triangle sini Triangle, kenapa?
+6	Dan hati-hati mencet jerawat di daerah triangle sini Triangle, kenapa?
+7	Triangle, kenapa?
+8	Triangle, kenapa? Itu kita bilang triangle of death
+9	Itu kita bilang triangle of death
+10	Itu kita bilang triangle of death
+11	Itu kita bilang triangle of death Triangle of death?
+12	Itu kita bilang triangle of death Triangle of death?
+13	Triangle of death?
+14	Triangle of death? Yes, karena disini pembuluh darah langsung ke otak
+15	Yes, karena disini pembuluh darah langsung ke otak
+16	Yes, karena disini pembuluh darah langsung ke otak
+17	Yes, karena disini pembuluh darah langsung ke otak
+18	Yes, karena disini pembuluh darah langsung ke otak
+19	Yes, karena disini pembuluh darah langsung ke otak
+20	Yes, karena disini pembuluh darah langsung ke otak
+21	Gitu
+22	Gitu Ada kasusnya dimana
+23	Gitu Ada kasusnya dimana
+24	Ada kasusnya dimana
+25	Ada kasusnya dimana
+26	Ada kasusnya dimana Abis pencet jerawat dia meningitis
+27	Ada kasusnya dimana Abis pencet jerawat dia meningitis
+28	Abis pencet jerawat dia meningitis
+29	Abis pencet jerawat dia meningitis
+30	Abis pencet jerawat dia meningitis
+31	Abis pencet jerawat dia meningitis
+32	Abis pencet jerawat dia meningitis
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	Infeksi selaput otak
+36	Infeksi selaput otak
+37	Infeksi selaput otak
+38	Infeksi selaput otak Wow
+39	Infeksi selaput otak Wow
+40	Kayak gitu, jadi ini harus diperhatikan
+41	Kayak gitu, jadi ini harus diperhatikan
+42	Kayak gitu, jadi ini harus diperhatikan
+43	Kayak gitu, jadi ini harus diperhatikan
+44	Kayak gitu, jadi ini harus diperhatikan Pada pasien-pasien yang punya jerawat di triangle sini
+45	Kayak gitu, jadi ini harus diperhatikan Pada pasien-pasien yang punya jerawat di triangle sini
+46	Pada pasien-pasien yang punya jerawat di triangle sini
+47	Pada pasien-pasien yang punya jerawat di triangle sini
+48	Pada pasien-pasien yang punya jerawat di triangle sini
+49	Pada pasien-pasien yang punya jerawat di triangle sini
+50	Pada pasien-pasien yang punya jerawat di triangle sini Dari batas, bridge
+51	Pada pasien-pasien yang punya jerawat di triangle sini Dari batas, bridge
+52	Dari batas, bridge
+53	Dari batas, bridge Ya, lebih ke dokter lah ya
+54	Dari batas, bridge Ya, lebih ke dokter lah ya
+55	Ya, lebih ke dokter lah ya Sini dipersiapkan dulu lah
+56	Ya, lebih ke dokter lah ya Sini dipersiapkan dulu lah
+57	Ya, lebih ke dokter lah ya Sini dipersiapkan dulu lah
+58	Sini dipersiapkan dulu lah
+59	Sini dipersiapkan dulu lah
+60	Sini dipersiapkan dulu lah
+61	Sini dipersiapkan dulu lah Minum antibiotik
+62	Sini dipersiapkan dulu lah Minum antibiotik
+63	Minum antibiotik
+64	Minum antibiotik Misalnya kalau besar-besar banyak nanahnya
+65	Minum antibiotik Misalnya kalau besar-besar banyak nanahnya
+66	Misalnya kalau besar-besar banyak nanahnya
+67	Misalnya kalau besar-besar banyak nanahnya
+68	Misalnya kalau besar-besar banyak nanahnya
+69	Misalnya kalau besar-besar banyak nanahnya Jangan main pencet sendiri
+70	Misalnya kalau besar-besar banyak nanahnya Jangan main pencet sendiri
+71	Jangan main pencet sendiri
+72	Jangan main pencet sendiri
+73	Jangan main pencet sendiri
+74	[NO_SPEECH]
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	[NO_SPEECH]

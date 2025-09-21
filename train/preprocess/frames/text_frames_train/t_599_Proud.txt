@@ -1,0 +1,81 @@
+0	Ini sunscreen apa-apaan sih?
+1	Ini sunscreen apa-apaan sih? Lagi di-blend bukan hanya nyerep ke dalam kulit
+2	Ini sunscreen apa-apaan sih? Lagi di-blend bukan hanya nyerep ke dalam kulit
+3	Lagi di-blend bukan hanya nyerep ke dalam kulit
+4	Lagi di-blend bukan hanya nyerep ke dalam kulit
+5	Lagi di-blend bukan hanya nyerep ke dalam kulit Malah berubah warna kayak gini
+6	Lagi di-blend bukan hanya nyerep ke dalam kulit Malah berubah warna kayak gini
+7	Malah berubah warna kayak gini
+8	Malah berubah warna kayak gini Gak sopan banget
+9	Malah berubah warna kayak gini Gak sopan banget
+10	Gak sopan banget Jadi ini adalah sunscreen-nya Tuffy
+11	Gak sopan banget Jadi ini adalah sunscreen-nya Tuffy
+12	Jadi ini adalah sunscreen-nya Tuffy
+13	Jadi ini adalah sunscreen-nya Tuffy
+14	Jadi ini adalah sunscreen-nya Tuffy
+15	Jadi ini adalah sunscreen-nya Tuffy Yang dimana dia tuh kayak ada teknologi color changing-nya
+16	Jadi ini adalah sunscreen-nya Tuffy Yang dimana dia tuh kayak ada teknologi color changing-nya
+17	Yang dimana dia tuh kayak ada teknologi color changing-nya
+18	Yang dimana dia tuh kayak ada teknologi color changing-nya
+19	Yang dimana dia tuh kayak ada teknologi color changing-nya
+20	Yang dimana dia tuh kayak ada teknologi color changing-nya Yang sekali pake aja
+21	Yang dimana dia tuh kayak ada teknologi color changing-nya Yang sekali pake aja
+22	Yang sekali pake aja Bekas jerawat sama kemerahan tuh langsung potensi tersamarkan
+23	Yang sekali pake aja Bekas jerawat sama kemerahan tuh langsung potensi tersamarkan
+24	Bekas jerawat sama kemerahan tuh langsung potensi tersamarkan
+25	Bekas jerawat sama kemerahan tuh langsung potensi tersamarkan
+26	Bekas jerawat sama kemerahan tuh langsung potensi tersamarkan
+27	Bekas jerawat sama kemerahan tuh langsung potensi tersamarkan Kayak gini
+28	Bekas jerawat sama kemerahan tuh langsung potensi tersamarkan Kayak gini
+29	Kayak gini
+30	Kayak gini SPF 50 PA++++
+31	SPF 50 PA++++
+32	SPF 50 PA++++
+33	SPF 50 PA++++
+34	SPF 50 PA++++
+35	SPF 50 PA++++ Dan kalo di-latify kamera
+36	SPF 50 PA++++ Dan kalo di-latify kamera
+37	Dan kalo di-latify kamera
+38	Dan kalo di-latify kamera Ini bener-bener memproteksi kulit
+39	Dan kalo di-latify kamera Ini bener-bener memproteksi kulit
+40	Ini bener-bener memproteksi kulit
+41	Ini bener-bener memproteksi kulit
+42	Ini bener-bener memproteksi kulit Ya emang sih pas di-blend
+43	Ini bener-bener memproteksi kulit Ya emang sih pas di-blend
+44	Ya emang sih pas di-blend
+45	Ya emang sih pas di-blend Dia tuh gak langsung nyerep ke dalam kulit dalam sekejap mata
+46	Ya emang sih pas di-blend Dia tuh gak langsung nyerep ke dalam kulit dalam sekejap mata
+47	Dia tuh gak langsung nyerep ke dalam kulit dalam sekejap mata
+48	Dia tuh gak langsung nyerep ke dalam kulit dalam sekejap mata
+49	Dia tuh gak langsung nyerep ke dalam kulit dalam sekejap mata Tapi finish-nya
+50	Dia tuh gak langsung nyerep ke dalam kulit dalam sekejap mata Tapi finish-nya
+51	Tapi finish-nya Oh my god
+52	Tapi finish-nya Oh my god
+53	Oh my god
+54	Oh my god Ini ngasih efek kayak no makeup makeup look
+55	Oh my god Ini ngasih efek kayak no makeup makeup look
+56	Ini ngasih efek kayak no makeup makeup look
+57	Ini ngasih efek kayak no makeup makeup look
+58	Ini ngasih efek kayak no makeup makeup look Jadi cocok banget buat kamu yang pengen keluar rumah
+59	Ini ngasih efek kayak no makeup makeup look Jadi cocok banget buat kamu yang pengen keluar rumah
+60	Jadi cocok banget buat kamu yang pengen keluar rumah
+61	Jadi cocok banget buat kamu yang pengen keluar rumah
+62	Jadi cocok banget buat kamu yang pengen keluar rumah Tapi males pake makeup
+63	Jadi cocok banget buat kamu yang pengen keluar rumah Tapi males pake makeup
+64	Tapi males pake makeup Dan sunscreen ini aman dipake buat kulit berjerawat
+65	Tapi males pake makeup Dan sunscreen ini aman dipake buat kulit berjerawat
+66	Dan sunscreen ini aman dipake buat kulit berjerawat
+67	Dan sunscreen ini aman dipake buat kulit berjerawat
+68	Dan sunscreen ini aman dipake buat kulit berjerawat
+69	Dan sunscreen ini aman dipake buat kulit berjerawat Karena dia mengandung kandungan yang fokusnya tuh buat menenangkan kulit
+70	Dan sunscreen ini aman dipake buat kulit berjerawat Karena dia mengandung kandungan yang fokusnya tuh buat menenangkan kulit
+71	Karena dia mengandung kandungan yang fokusnya tuh buat menenangkan kulit
+72	Karena dia mengandung kandungan yang fokusnya tuh buat menenangkan kulit
+73	Karena dia mengandung kandungan yang fokusnya tuh buat menenangkan kulit
+74	Karena dia mengandung kandungan yang fokusnya tuh buat menenangkan kulit
+75	Karena dia mengandung kandungan yang fokusnya tuh buat menenangkan kulit Highly highly recommended
+76	Karena dia mengandung kandungan yang fokusnya tuh buat menenangkan kulit Highly highly recommended
+77	Highly highly recommended
+78	Highly highly recommended
+79	Highly highly recommended
+80	[NO_SPEECH]

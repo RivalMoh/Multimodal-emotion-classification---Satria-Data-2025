@@ -1,0 +1,119 @@
+0	Inilah servis kelas dunia dilihat dari dekat.
+1	Inilah servis kelas dunia dilihat dari dekat.
+2	Inilah servis kelas dunia dilihat dari dekat.
+3	Inilah servis kelas dunia dilihat dari dekat. Bisakah kamu menahannya?
+4	Inilah servis kelas dunia dilihat dari dekat. Bisakah kamu menahannya?
+5	Bisakah kamu menahannya?
+6	Bisakah kamu menahannya?
+7	Bisakah kamu menahannya?
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	[NO_SPEECH]
+59	[NO_SPEECH]
+60	[NO_SPEECH]
+61	[NO_SPEECH]
+62	[NO_SPEECH]
+63	[NO_SPEECH]
+64	[NO_SPEECH]
+65	[NO_SPEECH]
+66	[NO_SPEECH]
+67	[NO_SPEECH]
+68	[NO_SPEECH]
+69	[NO_SPEECH]
+70	[NO_SPEECH]
+71	[NO_SPEECH]
+72	[NO_SPEECH]
+73	[NO_SPEECH]
+74	[NO_SPEECH]
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	[NO_SPEECH]
+83	[NO_SPEECH]
+84	[NO_SPEECH]
+85	[NO_SPEECH]
+86	[NO_SPEECH]
+87	[NO_SPEECH]
+88	[NO_SPEECH]
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	[NO_SPEECH]
+95	[NO_SPEECH]
+96	[NO_SPEECH]
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	Terima kasih telah menonton.
+104	Terima kasih telah menonton.
+105	Terima kasih telah menonton.
+106	Terima kasih telah menonton.
+107	Terima kasih telah menonton.
+108	Terima kasih telah menonton.
+109	Terima kasih telah menonton.
+110	Terima kasih telah menonton.
+111	Terima kasih telah menonton.
+112	Terima kasih telah menonton.
+113	Terima kasih telah menonton.
+114	Terima kasih telah menonton.
+115	Terima kasih telah menonton.
+116	Terima kasih telah menonton.
+117	Terima kasih telah menonton.
+118	Terima kasih telah menonton.

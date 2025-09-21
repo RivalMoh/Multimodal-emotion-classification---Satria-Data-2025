@@ -1,0 +1,185 @@
+0	Ini yang gua tunggu-tunggu, baru kali ini gua race lari,
+1	Ini yang gua tunggu-tunggu, baru kali ini gua race lari,
+2	Ini yang gua tunggu-tunggu, baru kali ini gua race lari,
+3	Ini yang gua tunggu-tunggu, baru kali ini gua race lari,
+4	Ini yang gua tunggu-tunggu, baru kali ini gua race lari,
+5	Ini yang gua tunggu-tunggu, baru kali ini gua race lari, itungannya bukan kilometer, tapi gigabyte.
+6	Ini yang gua tunggu-tunggu, baru kali ini gua race lari, itungannya bukan kilometer, tapi gigabyte.
+7	itungannya bukan kilometer, tapi gigabyte.
+8	itungannya bukan kilometer, tapi gigabyte.
+9	itungannya bukan kilometer, tapi gigabyte.
+10	itungannya bukan kilometer, tapi gigabyte. Beuh, penasaran kan?
+11	itungannya bukan kilometer, tapi gigabyte. Beuh, penasaran kan?
+12	Beuh, penasaran kan?
+13	Beuh, penasaran kan? Ini dia, Digiland Run 2025.
+14	Ini dia, Digiland Run 2025.
+15	Ini dia, Digiland Run 2025.
+16	Ini dia, Digiland Run 2025.
+17	Ini dia, Digiland Run 2025.
+18	Ini dia, Digiland Run 2025. Sikat John!
+19	Sikat John!
+20	Sikat John!
+21	Sikat John! Steril, steril. Mantap.
+22	Steril, steril. Mantap.
+23	Steril, steril. Mantap.
+24	Steril, steril. Mantap.
+25	Steril, steril. Mantap.
+26	Steril, steril. Mantap. Pedaraan di sebelah sana.
+27	Pedaraan di sebelah sana.
+28	Pedaraan di sebelah sana.
+29	Pedaraan di sebelah sana. Glory, glory, Man United.
+30	Glory, glory, Man United.
+31	Glory, glory, Man United.
+32	Glory, glory, Man United.
+33	Glory, glory, Man United.
+34	Glory, glory, Man United.
+35	Glory, glory, Man United. Digiland 2025.
+36	Digiland 2025.
+37	Digiland 2025.
+38	Digiland 2025.
+39	[NO_SPEECH]
+40	Gila, John, routenya mantap.
+41	Gila, John, routenya mantap.
+42	Gila, John, routenya mantap.
+43	Gila, John, routenya mantap.
+44	Gila, John, routenya mantap. Pagi, pagi. Pagi, Pak Promono, Pak Gubernur. Mantap.
+45	Pagi, pagi. Pagi, Pak Promono, Pak Gubernur. Mantap.
+46	Pagi, pagi. Pagi, Pak Promono, Pak Gubernur. Mantap.
+47	Pagi, pagi. Pagi, Pak Promono, Pak Gubernur. Mantap.
+48	Pagi, pagi. Pagi, Pak Promono, Pak Gubernur. Mantap.
+49	Pagi, pagi. Pagi, Pak Promono, Pak Gubernur. Mantap.
+50	Pagi, pagi. Pagi, Pak Promono, Pak Gubernur. Mantap.
+51	Pagi, pagi. Pagi, Pak Promono, Pak Gubernur. Mantap. Terima kasih jalurnya, Pak.
+52	Pagi, pagi. Pagi, Pak Promono, Pak Gubernur. Mantap. Terima kasih jalurnya, Pak.
+53	Terima kasih jalurnya, Pak.
+54	Terima kasih jalurnya, Pak. Terima kasih, Jakarta.
+55	Terima kasih jalurnya, Pak. Terima kasih, Jakarta.
+56	Terima kasih, Jakarta. 14 kilo.
+57	Terima kasih, Jakarta. 14 kilo.
+58	14 kilo.
+59	14 kilo.
+60	[NO_SPEECH]
+61	[NO_SPEECH]
+62	[NO_SPEECH]
+63	[NO_SPEECH]
+64	Wah, cantik sekali ini.
+65	Wah, cantik sekali ini.
+66	Wah, cantik sekali ini.
+67	Wah, cantik sekali ini.
+68	Wah, cantik sekali ini. Ini si Layak udah mendapatkan Branding Card International Label.
+69	Wah, cantik sekali ini. Ini si Layak udah mendapatkan Branding Card International Label.
+70	Ini si Layak udah mendapatkan Branding Card International Label.
+71	Ini si Layak udah mendapatkan Branding Card International Label.
+72	Ini si Layak udah mendapatkan Branding Card International Label.
+73	Ini si Layak udah mendapatkan Branding Card International Label.
+74	Ini si Layak udah mendapatkan Branding Card International Label.
+75	Ini si Layak udah mendapatkan Branding Card International Label.
+76	Ini si Layak udah mendapatkan Branding Card International Label.
+77	Makasih.
+78	Makasih.
+79	Makasih. Thank you, Digiland.
+80	Thank you, Digiland.
+81	Thank you, Digiland.
+82	Thank you, Digiland.
+83	Thank you, Digiland.
+84	[NO_SPEECH]
+85	[NO_SPEECH]
+86	[NO_SPEECH]
+87	Nah, abis lari emang paling pas nih.
+88	Nah, abis lari emang paling pas nih.
+89	Nah, abis lari emang paling pas nih.
+90	Nah, abis lari emang paling pas nih.
+91	Nah, abis lari emang paling pas nih.
+92	Nah, abis lari emang paling pas nih. Biar capeknya cepet hilang, kita langsung aja
+93	Nah, abis lari emang paling pas nih. Biar capeknya cepet hilang, kita langsung aja
+94	Biar capeknya cepet hilang, kita langsung aja
+95	Biar capeknya cepet hilang, kita langsung aja
+96	Biar capeknya cepet hilang, kita langsung aja
+97	dengerin musik atau konser yang ada di Digiland.
+98	dengerin musik atau konser yang ada di Digiland.
+99	dengerin musik atau konser yang ada di Digiland.
+100	dengerin musik atau konser yang ada di Digiland.
+101	dengerin musik atau konser yang ada di Digiland.
+102	dengerin musik atau konser yang ada di Digiland. Ada Ceylon 7, ada Projekop, ada JKT48 juga.
+103	dengerin musik atau konser yang ada di Digiland. Ada Ceylon 7, ada Projekop, ada JKT48 juga.
+104	Ada Ceylon 7, ada Projekop, ada JKT48 juga.
+105	Ada Ceylon 7, ada Projekop, ada JKT48 juga.
+106	Ada Ceylon 7, ada Projekop, ada JKT48 juga.
+107	Ada Ceylon 7, ada Projekop, ada JKT48 juga.
+108	Ada Ceylon 7, ada Projekop, ada JKT48 juga.
+109	Ada Ceylon 7, ada Projekop, ada JKT48 juga.
+110	Ada Ceylon 7, ada Projekop, ada JKT48 juga. Kita sing long sama-sama.
+111	Kita sing long sama-sama.
+112	Kita sing long sama-sama.
+113	Kita sing long sama-sama.
+114	Kita sing long sama-sama.
+115	[NO_SPEECH]
+116	[NO_SPEECH]
+117	[NO_SPEECH]
+118	Ada pasang UMKM ini juga.
+119	Ada pasang UMKM ini juga.
+120	Ada pasang UMKM ini juga.
+121	Ada pasang UMKM ini juga.
+122	Ada pasang UMKM ini juga. Jadi kalau lapar langsung sikat, John.
+123	Ada pasang UMKM ini juga. Jadi kalau lapar langsung sikat, John.
+124	Jadi kalau lapar langsung sikat, John.
+125	Jadi kalau lapar langsung sikat, John.
+126	Jadi kalau lapar langsung sikat, John.
+127	[NO_SPEECH]
+128	[NO_SPEECH]
+129	[NO_SPEECH]
+130	[NO_SPEECH]
+131	[NO_SPEECH]
+132	Seru banget Digiland 2025 kali ini.
+133	Seru banget Digiland 2025 kali ini.
+134	Seru banget Digiland 2025 kali ini.
+135	Seru banget Digiland 2025 kali ini.
+136	Seru banget Digiland 2025 kali ini.
+137	Seru banget Digiland 2025 kali ini.
+138	Seru banget Digiland 2025 kali ini. Tracknya enak, suasananya oke, cuacanya mantap.
+139	Tracknya enak, suasananya oke, cuacanya mantap.
+140	Tracknya enak, suasananya oke, cuacanya mantap.
+141	Tracknya enak, suasananya oke, cuacanya mantap.
+142	Tracknya enak, suasananya oke, cuacanya mantap.
+143	Tracknya enak, suasananya oke, cuacanya mantap.
+144	Tracknya enak, suasananya oke, cuacanya mantap.
+145	Tracknya enak, suasananya oke, cuacanya mantap.
+146	Tracknya enak, suasananya oke, cuacanya mantap.
+147	Tracknya enak, suasananya oke, cuacanya mantap.
+148	Tracknya enak, suasananya oke, cuacanya mantap. Dan yang lebih penting adalah pelari yang ikutan Digiland 2025.
+149	Dan yang lebih penting adalah pelari yang ikutan Digiland 2025.
+150	Dan yang lebih penting adalah pelari yang ikutan Digiland 2025.
+151	Dan yang lebih penting adalah pelari yang ikutan Digiland 2025.
+152	Dan yang lebih penting adalah pelari yang ikutan Digiland 2025.
+153	Dan yang lebih penting adalah pelari yang ikutan Digiland 2025.
+154	Dan yang lebih penting adalah pelari yang ikutan Digiland 2025.
+155	Dan yang lebih penting adalah pelari yang ikutan Digiland 2025. Setiap 1 kilometernya itu sama aja kita menyumbang 1 giga
+156	Setiap 1 kilometernya itu sama aja kita menyumbang 1 giga
+157	Setiap 1 kilometernya itu sama aja kita menyumbang 1 giga
+158	Setiap 1 kilometernya itu sama aja kita menyumbang 1 giga
+159	Setiap 1 kilometernya itu sama aja kita menyumbang 1 giga
+160	Setiap 1 kilometernya itu sama aja kita menyumbang 1 giga
+161	Setiap 1 kilometernya itu sama aja kita menyumbang 1 giga
+162	Setiap 1 kilometernya itu sama aja kita menyumbang 1 giga
+163	Setiap 1 kilometernya itu sama aja kita menyumbang 1 giga
+164	Setiap 1 kilometernya itu sama aja kita menyumbang 1 giga untuk dunia pendidikan di Indonesia, terutama di desa-desa pelosok Indonesia.
+165	Setiap 1 kilometernya itu sama aja kita menyumbang 1 giga untuk dunia pendidikan di Indonesia, terutama di desa-desa pelosok Indonesia.
+166	untuk dunia pendidikan di Indonesia, terutama di desa-desa pelosok Indonesia.
+167	untuk dunia pendidikan di Indonesia, terutama di desa-desa pelosok Indonesia.
+168	untuk dunia pendidikan di Indonesia, terutama di desa-desa pelosok Indonesia.
+169	untuk dunia pendidikan di Indonesia, terutama di desa-desa pelosok Indonesia.
+170	untuk dunia pendidikan di Indonesia, terutama di desa-desa pelosok Indonesia.
+171	untuk dunia pendidikan di Indonesia, terutama di desa-desa pelosok Indonesia.
+172	untuk dunia pendidikan di Indonesia, terutama di desa-desa pelosok Indonesia.
+173	untuk dunia pendidikan di Indonesia, terutama di desa-desa pelosok Indonesia.
+174	untuk dunia pendidikan di Indonesia, terutama di desa-desa pelosok Indonesia.
+175	untuk dunia pendidikan di Indonesia, terutama di desa-desa pelosok Indonesia.
+176	untuk dunia pendidikan di Indonesia, terutama di desa-desa pelosok Indonesia.
+177	Mantap, luar biasa.
+178	Mantap, luar biasa.
+179	Mantap, luar biasa. Semangat terus, singkat John.
+180	Mantap, luar biasa. Semangat terus, singkat John.
+181	Semangat terus, singkat John.
+182	Semangat terus, singkat John.
+183	Semangat terus, singkat John.
+184	[NO_SPEECH]

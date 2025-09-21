@@ -1,0 +1,96 @@
+0	Ini saya udah pernah nyoba semuanya
+1	Ini saya udah pernah nyoba semuanya
+2	Ini saya udah pernah nyoba semuanya Apaan?
+3	Apaan? Ini!
+4	Apaan? Ini! Mau ngomong apa ini?
+5	Ini! Mau ngomong apa ini?
+6	Mau ngomong apa ini? Ini!
+7	Mau ngomong apa ini? Ini!
+8	Dimana dulu?
+9	Dimana dulu?
+10	Dimana dulu?
+11	Dimana dulu? Indonesia!
+12	Indonesia!
+13	Indonesia! Nah, sadar gak?
+14	Nah, sadar gak?
+15	Nah, sadar gak?
+16	Nah, sadar gak? Carbon fiber
+17	Carbon fiber
+18	Carbon fiber Carbon fiber?
+19	Carbon fiber Carbon fiber?
+20	Carbon fiber? Dan tebel banget
+21	Carbon fiber? Dan tebel banget Carbon fiber gede banget ini, Dev Chef
+22	Dan tebel banget Carbon fiber gede banget ini, Dev Chef
+23	Carbon fiber gede banget ini, Dev Chef
+24	Carbon fiber gede banget ini, Dev Chef
+25	Carbon fiber gede banget ini, Dev Chef Nah sekarang inti dari museumnya ada di balik rolling door ini yang segera dibuka
+26	Carbon fiber gede banget ini, Dev Chef Nah sekarang inti dari museumnya ada di balik rolling door ini yang segera dibuka
+27	Nah sekarang inti dari museumnya ada di balik rolling door ini yang segera dibuka
+28	Nah sekarang inti dari museumnya ada di balik rolling door ini yang segera dibuka
+29	Nah sekarang inti dari museumnya ada di balik rolling door ini yang segera dibuka
+30	Nah sekarang inti dari museumnya ada di balik rolling door ini yang segera dibuka
+31	Nah sekarang inti dari museumnya ada di balik rolling door ini yang segera dibuka
+32	Nah sekarang inti dari museumnya ada di balik rolling door ini yang segera dibuka
+33	Nah sekarang inti dari museumnya ada di balik rolling door ini yang segera dibuka
+34	Nah sekarang inti dari museumnya ada di balik rolling door ini yang segera dibuka
+35	Nah sekarang inti dari museumnya ada di balik rolling door ini yang segera dibuka
+36	Nah sekarang inti dari museumnya ada di balik rolling door ini yang segera dibuka
+37	Nah sekarang inti dari museumnya ada di balik rolling door ini yang segera dibuka Intinya inti
+38	Nah sekarang inti dari museumnya ada di balik rolling door ini yang segera dibuka Intinya inti
+39	Intinya inti
+40	Intinya inti Intinya inti
+41	Intinya inti Intinya inti
+42	Intinya inti
+43	Intinya inti Silahkan mbak
+44	Silahkan mbak
+45	Silahkan mbak Ahlinya ahli
+46	Silahkan mbak Ahlinya ahli
+47	Ahlinya ahli Emang ngerti gak?
+48	Emang ngerti gak?
+49	Emang ngerti gak?
+50	Emang ngerti gak? Ngerti lagi?
+51	Ngerti lagi? Wuh!
+52	Ngerti lagi? Wuh!
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	Kapan lagi kita ke museum?
+56	Kapan lagi kita ke museum?
+57	Kapan lagi kita ke museum?
+58	Kapan lagi kita ke museum?
+59	Kapan lagi kita ke museum? 24 tahun
+60	Kapan lagi kita ke museum? 24 tahun
+61	24 tahun Yang ngedesainnya
+62	24 tahun Yang ngedesainnya
+63	Yang ngedesainnya Pelaku sejarah pembuatnya dan pelaku sejarah penggunanya
+64	Yang ngedesainnya Pelaku sejarah pembuatnya dan pelaku sejarah penggunanya
+65	Pelaku sejarah pembuatnya dan pelaku sejarah penggunanya
+66	Pelaku sejarah pembuatnya dan pelaku sejarah penggunanya
+67	Pelaku sejarah pembuatnya dan pelaku sejarah penggunanya
+68	Pelaku sejarah pembuatnya dan pelaku sejarah penggunanya
+69	Pelaku sejarah pembuatnya dan pelaku sejarah penggunanya
+70	Pelaku sejarah pembuatnya dan pelaku sejarah penggunanya Harus dia
+71	Pelaku sejarah pembuatnya dan pelaku sejarah penggunanya Harus dia
+72	Harus dia Gimana?
+73	Harus dia Gimana?
+74	Gimana?
+75	Gimana?
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	Pinter nih buka kapasitas ini
+79	Pinter nih buka kapasitas ini
+80	Pinter nih buka kapasitas ini
+81	Pinter nih buka kapasitas ini
+82	Pinter nih buka kapasitas ini Tuh kan udah pintar
+83	Tuh kan udah pintar
+84	Tuh kan udah pintar
+85	Tuh kan udah pintar Oh
+86	Tuh kan udah pintar Oh
+87	[NO_SPEECH]
+88	[NO_SPEECH]
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	Kerja di motomobi gak dia?
+92	Kerja di motomobi gak dia?
+93	Kerja di motomobi gak dia?
+94	Kerja di motomobi gak dia?
+95	[NO_SPEECH]

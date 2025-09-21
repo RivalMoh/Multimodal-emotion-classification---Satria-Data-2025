@@ -1,0 +1,169 @@
+0	Lebih bagus angkat beban yang ringan dan repetisi yang banyak, atau beban yang berat tapi repetisi sedikit.
+1	Lebih bagus angkat beban yang ringan dan repetisi yang banyak, atau beban yang berat tapi repetisi sedikit.
+2	Lebih bagus angkat beban yang ringan dan repetisi yang banyak, atau beban yang berat tapi repetisi sedikit.
+3	Lebih bagus angkat beban yang ringan dan repetisi yang banyak, atau beban yang berat tapi repetisi sedikit.
+4	Lebih bagus angkat beban yang ringan dan repetisi yang banyak, atau beban yang berat tapi repetisi sedikit.
+5	Lebih bagus angkat beban yang ringan dan repetisi yang banyak, atau beban yang berat tapi repetisi sedikit.
+6	Lebih bagus angkat beban yang ringan dan repetisi yang banyak, atau beban yang berat tapi repetisi sedikit.
+7	Lebih bagus angkat beban yang ringan dan repetisi yang banyak, atau beban yang berat tapi repetisi sedikit.
+8	Lebih bagus angkat beban yang ringan dan repetisi yang banyak, atau beban yang berat tapi repetisi sedikit.
+9	Lebih bagus angkat beban yang ringan dan repetisi yang banyak, atau beban yang berat tapi repetisi sedikit.
+10	Lebih bagus angkat beban yang ringan dan repetisi yang banyak, atau beban yang berat tapi repetisi sedikit. Kebanyakan orang percaya saat mereka melatih dengan beban yang ringan dan repetisi yang banyak,
+11	Kebanyakan orang percaya saat mereka melatih dengan beban yang ringan dan repetisi yang banyak,
+12	Kebanyakan orang percaya saat mereka melatih dengan beban yang ringan dan repetisi yang banyak,
+13	Kebanyakan orang percaya saat mereka melatih dengan beban yang ringan dan repetisi yang banyak,
+14	Kebanyakan orang percaya saat mereka melatih dengan beban yang ringan dan repetisi yang banyak,
+15	Kebanyakan orang percaya saat mereka melatih dengan beban yang ringan dan repetisi yang banyak,
+16	Kebanyakan orang percaya saat mereka melatih dengan beban yang ringan dan repetisi yang banyak,
+17	Kebanyakan orang percaya saat mereka melatih dengan beban yang ringan dan repetisi yang banyak,
+18	Kebanyakan orang percaya saat mereka melatih dengan beban yang ringan dan repetisi yang banyak, mereka akan mendapatkan badan yang shape dan tone, karena cara ini fokus ke fat loss.
+19	Kebanyakan orang percaya saat mereka melatih dengan beban yang ringan dan repetisi yang banyak, mereka akan mendapatkan badan yang shape dan tone, karena cara ini fokus ke fat loss.
+20	mereka akan mendapatkan badan yang shape dan tone, karena cara ini fokus ke fat loss.
+21	mereka akan mendapatkan badan yang shape dan tone, karena cara ini fokus ke fat loss.
+22	mereka akan mendapatkan badan yang shape dan tone, karena cara ini fokus ke fat loss.
+23	mereka akan mendapatkan badan yang shape dan tone, karena cara ini fokus ke fat loss.
+24	mereka akan mendapatkan badan yang shape dan tone, karena cara ini fokus ke fat loss.
+25	mereka akan mendapatkan badan yang shape dan tone, karena cara ini fokus ke fat loss.
+26	mereka akan mendapatkan badan yang shape dan tone, karena cara ini fokus ke fat loss.
+27	mereka akan mendapatkan badan yang shape dan tone, karena cara ini fokus ke fat loss.
+28	mereka akan mendapatkan badan yang shape dan tone, karena cara ini fokus ke fat loss. Sedangkan kalau pakai beban yang berat dan repetisi yang sedikit, badan akan kelihatan bulky dan besar.
+29	mereka akan mendapatkan badan yang shape dan tone, karena cara ini fokus ke fat loss. Sedangkan kalau pakai beban yang berat dan repetisi yang sedikit, badan akan kelihatan bulky dan besar.
+30	Sedangkan kalau pakai beban yang berat dan repetisi yang sedikit, badan akan kelihatan bulky dan besar.
+31	Sedangkan kalau pakai beban yang berat dan repetisi yang sedikit, badan akan kelihatan bulky dan besar.
+32	Sedangkan kalau pakai beban yang berat dan repetisi yang sedikit, badan akan kelihatan bulky dan besar.
+33	Sedangkan kalau pakai beban yang berat dan repetisi yang sedikit, badan akan kelihatan bulky dan besar.
+34	Sedangkan kalau pakai beban yang berat dan repetisi yang sedikit, badan akan kelihatan bulky dan besar.
+35	Sedangkan kalau pakai beban yang berat dan repetisi yang sedikit, badan akan kelihatan bulky dan besar.
+36	Sedangkan kalau pakai beban yang berat dan repetisi yang sedikit, badan akan kelihatan bulky dan besar.
+37	Sedangkan kalau pakai beban yang berat dan repetisi yang sedikit, badan akan kelihatan bulky dan besar.
+38	Sedangkan kalau pakai beban yang berat dan repetisi yang sedikit, badan akan kelihatan bulky dan besar.
+39	Sedangkan kalau pakai beban yang berat dan repetisi yang sedikit, badan akan kelihatan bulky dan besar. Faktanya, yang membuat badanmu kelihatan shape atau bulky tergantung dua faktor.
+40	Sedangkan kalau pakai beban yang berat dan repetisi yang sedikit, badan akan kelihatan bulky dan besar. Faktanya, yang membuat badanmu kelihatan shape atau bulky tergantung dua faktor.
+41	Faktanya, yang membuat badanmu kelihatan shape atau bulky tergantung dua faktor.
+42	Faktanya, yang membuat badanmu kelihatan shape atau bulky tergantung dua faktor.
+43	Faktanya, yang membuat badanmu kelihatan shape atau bulky tergantung dua faktor.
+44	Faktanya, yang membuat badanmu kelihatan shape atau bulky tergantung dua faktor.
+45	Faktanya, yang membuat badanmu kelihatan shape atau bulky tergantung dua faktor.
+46	Faktanya, yang membuat badanmu kelihatan shape atau bulky tergantung dua faktor.
+47	Faktanya, yang membuat badanmu kelihatan shape atau bulky tergantung dua faktor.
+48	Faktanya, yang membuat badanmu kelihatan shape atau bulky tergantung dua faktor. Yang pertama, semakin tinggi kadar lemak tubuhmu, semakin bulky.
+49	Faktanya, yang membuat badanmu kelihatan shape atau bulky tergantung dua faktor. Yang pertama, semakin tinggi kadar lemak tubuhmu, semakin bulky.
+50	Yang pertama, semakin tinggi kadar lemak tubuhmu, semakin bulky.
+51	Yang pertama, semakin tinggi kadar lemak tubuhmu, semakin bulky.
+52	Yang pertama, semakin tinggi kadar lemak tubuhmu, semakin bulky.
+53	Yang pertama, semakin tinggi kadar lemak tubuhmu, semakin bulky.
+54	Yang pertama, semakin tinggi kadar lemak tubuhmu, semakin bulky.
+55	Yang pertama, semakin tinggi kadar lemak tubuhmu, semakin bulky.
+56	Yang pertama, semakin tinggi kadar lemak tubuhmu, semakin bulky. Lalu, semakin rendah kadar lemak tubuhmu, semakin kamu akan kelihatan toned atau shape.
+57	Yang pertama, semakin tinggi kadar lemak tubuhmu, semakin bulky. Lalu, semakin rendah kadar lemak tubuhmu, semakin kamu akan kelihatan toned atau shape.
+58	Lalu, semakin rendah kadar lemak tubuhmu, semakin kamu akan kelihatan toned atau shape.
+59	Lalu, semakin rendah kadar lemak tubuhmu, semakin kamu akan kelihatan toned atau shape.
+60	Lalu, semakin rendah kadar lemak tubuhmu, semakin kamu akan kelihatan toned atau shape.
+61	Lalu, semakin rendah kadar lemak tubuhmu, semakin kamu akan kelihatan toned atau shape.
+62	Lalu, semakin rendah kadar lemak tubuhmu, semakin kamu akan kelihatan toned atau shape.
+63	Lalu, semakin rendah kadar lemak tubuhmu, semakin kamu akan kelihatan toned atau shape.
+64	Lalu, semakin rendah kadar lemak tubuhmu, semakin kamu akan kelihatan toned atau shape.
+65	Lalu, semakin rendah kadar lemak tubuhmu, semakin kamu akan kelihatan toned atau shape.
+66	Lalu, semakin rendah kadar lemak tubuhmu, semakin kamu akan kelihatan toned atau shape.
+67	Lalu, semakin rendah kadar lemak tubuhmu, semakin kamu akan kelihatan toned atau shape. Yang kedua, struktur tubuhmu.
+68	Lalu, semakin rendah kadar lemak tubuhmu, semakin kamu akan kelihatan toned atau shape. Yang kedua, struktur tubuhmu.
+69	Yang kedua, struktur tubuhmu.
+70	Yang kedua, struktur tubuhmu. Ada orang yang punya tulang clavicular yang lebih lebar, sehingga badan akan kelihatan lebih bulky,
+71	Yang kedua, struktur tubuhmu. Ada orang yang punya tulang clavicular yang lebih lebar, sehingga badan akan kelihatan lebih bulky,
+72	Ada orang yang punya tulang clavicular yang lebih lebar, sehingga badan akan kelihatan lebih bulky,
+73	Ada orang yang punya tulang clavicular yang lebih lebar, sehingga badan akan kelihatan lebih bulky,
+74	Ada orang yang punya tulang clavicular yang lebih lebar, sehingga badan akan kelihatan lebih bulky,
+75	Ada orang yang punya tulang clavicular yang lebih lebar, sehingga badan akan kelihatan lebih bulky,
+76	Ada orang yang punya tulang clavicular yang lebih lebar, sehingga badan akan kelihatan lebih bulky,
+77	Ada orang yang punya tulang clavicular yang lebih lebar, sehingga badan akan kelihatan lebih bulky,
+78	Ada orang yang punya tulang clavicular yang lebih lebar, sehingga badan akan kelihatan lebih bulky,
+79	Ada orang yang punya tulang clavicular yang lebih lebar, sehingga badan akan kelihatan lebih bulky,
+80	Ada orang yang punya tulang clavicular yang lebih lebar, sehingga badan akan kelihatan lebih bulky,
+81	Ada orang yang punya tulang clavicular yang lebih lebar, sehingga badan akan kelihatan lebih bulky,
+82	Ada orang yang punya tulang clavicular yang lebih lebar, sehingga badan akan kelihatan lebih bulky, dibandingkan dengan orang dengan berat badan, masa otot, dan kadar lemak yang sama,
+83	dibandingkan dengan orang dengan berat badan, masa otot, dan kadar lemak yang sama,
+84	dibandingkan dengan orang dengan berat badan, masa otot, dan kadar lemak yang sama,
+85	dibandingkan dengan orang dengan berat badan, masa otot, dan kadar lemak yang sama,
+86	dibandingkan dengan orang dengan berat badan, masa otot, dan kadar lemak yang sama,
+87	dibandingkan dengan orang dengan berat badan, masa otot, dan kadar lemak yang sama,
+88	dibandingkan dengan orang dengan berat badan, masa otot, dan kadar lemak yang sama,
+89	dibandingkan dengan orang dengan berat badan, masa otot, dan kadar lemak yang sama,
+90	dibandingkan dengan orang dengan berat badan, masa otot, dan kadar lemak yang sama,
+91	dibandingkan dengan orang dengan berat badan, masa otot, dan kadar lemak yang sama,
+92	dibandingkan dengan orang dengan berat badan, masa otot, dan kadar lemak yang sama, tapi tulang clavicular yang lebih sempit.
+93	tapi tulang clavicular yang lebih sempit.
+94	tapi tulang clavicular yang lebih sempit.
+95	tapi tulang clavicular yang lebih sempit.
+96	tapi tulang clavicular yang lebih sempit.
+97	tapi tulang clavicular yang lebih sempit. Jadi, semakin tinggi, kamu akan fokus ke fat loss, masa building, atau body recomposition,
+98	tapi tulang clavicular yang lebih sempit. Jadi, semakin tinggi, kamu akan fokus ke fat loss, masa building, atau body recomposition,
+99	Jadi, semakin tinggi, kamu akan fokus ke fat loss, masa building, atau body recomposition,
+100	Jadi, semakin tinggi, kamu akan fokus ke fat loss, masa building, atau body recomposition,
+101	Jadi, semakin tinggi, kamu akan fokus ke fat loss, masa building, atau body recomposition,
+102	Jadi, semakin tinggi, kamu akan fokus ke fat loss, masa building, atau body recomposition,
+103	Jadi, semakin tinggi, kamu akan fokus ke fat loss, masa building, atau body recomposition,
+104	Jadi, semakin tinggi, kamu akan fokus ke fat loss, masa building, atau body recomposition,
+105	Jadi, semakin tinggi, kamu akan fokus ke fat loss, masa building, atau body recomposition,
+106	Jadi, semakin tinggi, kamu akan fokus ke fat loss, masa building, atau body recomposition,
+107	Jadi, semakin tinggi, kamu akan fokus ke fat loss, masa building, atau body recomposition, target repetisi,
+108	Jadi, semakin tinggi, kamu akan fokus ke fat loss, masa building, atau body recomposition, target repetisi, selalu sama, kurang lebih di 6-12 repetisi, dekat dengan failure atau sampai failure.
+109	target repetisi, selalu sama, kurang lebih di 6-12 repetisi, dekat dengan failure atau sampai failure.
+110	selalu sama, kurang lebih di 6-12 repetisi, dekat dengan failure atau sampai failure.
+111	selalu sama, kurang lebih di 6-12 repetisi, dekat dengan failure atau sampai failure.
+112	selalu sama, kurang lebih di 6-12 repetisi, dekat dengan failure atau sampai failure.
+113	selalu sama, kurang lebih di 6-12 repetisi, dekat dengan failure atau sampai failure.
+114	selalu sama, kurang lebih di 6-12 repetisi, dekat dengan failure atau sampai failure.
+115	selalu sama, kurang lebih di 6-12 repetisi, dekat dengan failure atau sampai failure.
+116	selalu sama, kurang lebih di 6-12 repetisi, dekat dengan failure atau sampai failure.
+117	selalu sama, kurang lebih di 6-12 repetisi, dekat dengan failure atau sampai failure.
+118	selalu sama, kurang lebih di 6-12 repetisi, dekat dengan failure atau sampai failure.
+119	selalu sama, kurang lebih di 6-12 repetisi, dekat dengan failure atau sampai failure.
+120	selalu sama, kurang lebih di 6-12 repetisi, dekat dengan failure atau sampai failure. Artinya, dengan beban yang challenging yang bisa berbeda untuk setiap dari kita.
+121	selalu sama, kurang lebih di 6-12 repetisi, dekat dengan failure atau sampai failure. Artinya, dengan beban yang challenging yang bisa berbeda untuk setiap dari kita.
+122	Artinya, dengan beban yang challenging yang bisa berbeda untuk setiap dari kita.
+123	Artinya, dengan beban yang challenging yang bisa berbeda untuk setiap dari kita.
+124	Artinya, dengan beban yang challenging yang bisa berbeda untuk setiap dari kita.
+125	Artinya, dengan beban yang challenging yang bisa berbeda untuk setiap dari kita.
+126	Artinya, dengan beban yang challenging yang bisa berbeda untuk setiap dari kita.
+127	Artinya, dengan beban yang challenging yang bisa berbeda untuk setiap dari kita.
+128	Artinya, dengan beban yang challenging yang bisa berbeda untuk setiap dari kita. Untuk orang A, 20 kg sudah berat, namun untuk orang B, 20 kg masih terhitung pemanasan.
+129	Artinya, dengan beban yang challenging yang bisa berbeda untuk setiap dari kita. Untuk orang A, 20 kg sudah berat, namun untuk orang B, 20 kg masih terhitung pemanasan.
+130	Untuk orang A, 20 kg sudah berat, namun untuk orang B, 20 kg masih terhitung pemanasan.
+131	Untuk orang A, 20 kg sudah berat, namun untuk orang B, 20 kg masih terhitung pemanasan.
+132	Untuk orang A, 20 kg sudah berat, namun untuk orang B, 20 kg masih terhitung pemanasan.
+133	Untuk orang A, 20 kg sudah berat, namun untuk orang B, 20 kg masih terhitung pemanasan.
+134	Untuk orang A, 20 kg sudah berat, namun untuk orang B, 20 kg masih terhitung pemanasan.
+135	Untuk orang A, 20 kg sudah berat, namun untuk orang B, 20 kg masih terhitung pemanasan.
+136	Untuk orang A, 20 kg sudah berat, namun untuk orang B, 20 kg masih terhitung pemanasan.
+137	Untuk orang A, 20 kg sudah berat, namun untuk orang B, 20 kg masih terhitung pemanasan.
+138	Untuk orang A, 20 kg sudah berat, namun untuk orang B, 20 kg masih terhitung pemanasan.
+139	Untuk orang A, 20 kg sudah berat, namun untuk orang B, 20 kg masih terhitung pemanasan.
+140	Untuk orang A, 20 kg sudah berat, namun untuk orang B, 20 kg masih terhitung pemanasan. Kalau kamu mulai workout dengan beban yang ringan dan repetisi yang banyak dan waktu istirahat yang pendek,
+141	Untuk orang A, 20 kg sudah berat, namun untuk orang B, 20 kg masih terhitung pemanasan. Kalau kamu mulai workout dengan beban yang ringan dan repetisi yang banyak dan waktu istirahat yang pendek,
+142	Untuk orang A, 20 kg sudah berat, namun untuk orang B, 20 kg masih terhitung pemanasan. Kalau kamu mulai workout dengan beban yang ringan dan repetisi yang banyak dan waktu istirahat yang pendek,
+143	Kalau kamu mulai workout dengan beban yang ringan dan repetisi yang banyak dan waktu istirahat yang pendek,
+144	Kalau kamu mulai workout dengan beban yang ringan dan repetisi yang banyak dan waktu istirahat yang pendek,
+145	Kalau kamu mulai workout dengan beban yang ringan dan repetisi yang banyak dan waktu istirahat yang pendek,
+146	Kalau kamu mulai workout dengan beban yang ringan dan repetisi yang banyak dan waktu istirahat yang pendek,
+147	Kalau kamu mulai workout dengan beban yang ringan dan repetisi yang banyak dan waktu istirahat yang pendek,
+148	Kalau kamu mulai workout dengan beban yang ringan dan repetisi yang banyak dan waktu istirahat yang pendek,
+149	Kalau kamu mulai workout dengan beban yang ringan dan repetisi yang banyak dan waktu istirahat yang pendek,
+150	Kalau kamu mulai workout dengan beban yang ringan dan repetisi yang banyak dan waktu istirahat yang pendek,
+151	Kalau kamu mulai workout dengan beban yang ringan dan repetisi yang banyak dan waktu istirahat yang pendek, sebenarnya yang kamu lakukan adalah merubah latihan beban menjadi cardio.
+152	Kalau kamu mulai workout dengan beban yang ringan dan repetisi yang banyak dan waktu istirahat yang pendek, sebenarnya yang kamu lakukan adalah merubah latihan beban menjadi cardio.
+153	sebenarnya yang kamu lakukan adalah merubah latihan beban menjadi cardio.
+154	sebenarnya yang kamu lakukan adalah merubah latihan beban menjadi cardio.
+155	sebenarnya yang kamu lakukan adalah merubah latihan beban menjadi cardio.
+156	sebenarnya yang kamu lakukan adalah merubah latihan beban menjadi cardio.
+157	sebenarnya yang kamu lakukan adalah merubah latihan beban menjadi cardio.
+158	sebenarnya yang kamu lakukan adalah merubah latihan beban menjadi cardio.
+159	sebenarnya yang kamu lakukan adalah merubah latihan beban menjadi cardio.
+160	sebenarnya yang kamu lakukan adalah merubah latihan beban menjadi cardio. Dan ini sama sekali bukan tujuan dari latihan beban.
+161	sebenarnya yang kamu lakukan adalah merubah latihan beban menjadi cardio. Dan ini sama sekali bukan tujuan dari latihan beban.
+162	Dan ini sama sekali bukan tujuan dari latihan beban.
+163	Dan ini sama sekali bukan tujuan dari latihan beban.
+164	Dan ini sama sekali bukan tujuan dari latihan beban.
+165	Dan ini sama sekali bukan tujuan dari latihan beban.
+166	Dan ini sama sekali bukan tujuan dari latihan beban.
+167	Dan ini sama sekali bukan tujuan dari latihan beban.
+168	Dan ini sama sekali bukan tujuan dari latihan beban.

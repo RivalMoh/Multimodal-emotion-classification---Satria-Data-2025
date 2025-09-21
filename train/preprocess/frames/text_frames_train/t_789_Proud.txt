@@ -1,0 +1,43 @@
+0	Kalau dribble kamu masih kayak gini, latihan ini bisa kalian coba di rumah.
+1	Kalau dribble kamu masih kayak gini, latihan ini bisa kalian coba di rumah.
+2	Kalau dribble kamu masih kayak gini, latihan ini bisa kalian coba di rumah.
+3	Kalau dribble kamu masih kayak gini, latihan ini bisa kalian coba di rumah.
+4	Kalau dribble kamu masih kayak gini, latihan ini bisa kalian coba di rumah.
+5	Kalau dribble kamu masih kayak gini, latihan ini bisa kalian coba di rumah. Dribble rendah bergantian tangan kanan dan kiri.
+6	Kalau dribble kamu masih kayak gini, latihan ini bisa kalian coba di rumah. Dribble rendah bergantian tangan kanan dan kiri.
+7	Dribble rendah bergantian tangan kanan dan kiri.
+8	Dribble rendah bergantian tangan kanan dan kiri.
+9	Dribble rendah bergantian tangan kanan dan kiri.
+10	Dribble rendah bergantian tangan kanan dan kiri. Dilanjut dengan latihan dribble crossover.
+11	Dribble rendah bergantian tangan kanan dan kiri. Dilanjut dengan latihan dribble crossover.
+12	Dilanjut dengan latihan dribble crossover.
+13	Dilanjut dengan latihan dribble crossover. Latihan dribble di antara kaki secara bergantian.
+14	Dilanjut dengan latihan dribble crossover. Latihan dribble di antara kaki secara bergantian.
+15	Latihan dribble di antara kaki secara bergantian.
+16	Latihan dribble di antara kaki secara bergantian.
+17	Latihan dribble di antara kaki secara bergantian.
+18	Latihan dribble di antara kaki secara bergantian. Lalu dribble belakang di akhir dengan dribble kombo.
+19	Latihan dribble di antara kaki secara bergantian. Lalu dribble belakang di akhir dengan dribble kombo.
+20	Lalu dribble belakang di akhir dengan dribble kombo.
+21	Lalu dribble belakang di akhir dengan dribble kombo.
+22	Lalu dribble belakang di akhir dengan dribble kombo.
+23	Lalu dribble belakang di akhir dengan dribble kombo.
+24	Lalu dribble belakang di akhir dengan dribble kombo. Lakukan secara berulang sampai bola gak lepas dari genggamanmu.
+25	Lalu dribble belakang di akhir dengan dribble kombo. Lakukan secara berulang sampai bola gak lepas dari genggamanmu.
+26	Lakukan secara berulang sampai bola gak lepas dari genggamanmu.
+27	Lakukan secara berulang sampai bola gak lepas dari genggamanmu.
+28	Lakukan secara berulang sampai bola gak lepas dari genggamanmu.
+29	Lakukan secara berulang sampai bola gak lepas dari genggamanmu.
+30	Lakukan secara berulang sampai bola gak lepas dari genggamanmu.
+31	Lakukan secara berulang sampai bola gak lepas dari genggamanmu. Udah siap ke lapangan?
+32	Udah siap ke lapangan? Jangan lupa follow ya!
+33	Udah siap ke lapangan? Jangan lupa follow ya!
+34	Jangan lupa follow ya!
+35	Jangan lupa follow ya!
+36	Jangan lupa follow ya!
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]

@@ -1,0 +1,176 @@
+0	Keluaran 2006 tapi baru jalan 25.000 km
+1	Keluaran 2006 tapi baru jalan 25.000 km
+2	Keluaran 2006 tapi baru jalan 25.000 km
+3	Keluaran 2006 tapi baru jalan 25.000 km
+4	Keluaran 2006 tapi baru jalan 25.000 km
+5	Keluaran 2006 tapi baru jalan 25.000 km Semulus apa sih? Cek dulu cing
+6	Keluaran 2006 tapi baru jalan 25.000 km Semulus apa sih? Cek dulu cing
+7	Semulus apa sih? Cek dulu cing
+8	Semulus apa sih? Cek dulu cing
+9	Semulus apa sih? Cek dulu cing
+10	Semulus apa sih? Cek dulu cing
+11	Semulus apa sih? Cek dulu cing
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	Dari luar bisa ngingetin zaman-zaman masih dengerin Peter Pan bukan Noah
+17	Dari luar bisa ngingetin zaman-zaman masih dengerin Peter Pan bukan Noah
+18	Dari luar bisa ngingetin zaman-zaman masih dengerin Peter Pan bukan Noah
+19	Dari luar bisa ngingetin zaman-zaman masih dengerin Peter Pan bukan Noah
+20	Dari luar bisa ngingetin zaman-zaman masih dengerin Peter Pan bukan Noah
+21	Dari luar bisa ngingetin zaman-zaman masih dengerin Peter Pan bukan Noah
+22	Dari luar bisa ngingetin zaman-zaman masih dengerin Peter Pan bukan Noah
+23	Dari luar bisa ngingetin zaman-zaman masih dengerin Peter Pan bukan Noah Atau ngedate ke bioskop buat nonton film jomblo
+24	Dari luar bisa ngingetin zaman-zaman masih dengerin Peter Pan bukan Noah Atau ngedate ke bioskop buat nonton film jomblo
+25	Atau ngedate ke bioskop buat nonton film jomblo
+26	Atau ngedate ke bioskop buat nonton film jomblo
+27	Atau ngedate ke bioskop buat nonton film jomblo
+28	Atau ngedate ke bioskop buat nonton film jomblo
+29	Atau ngedate ke bioskop buat nonton film jomblo Seger, lempeng, kinclong dan semua garisnya masih ketemu
+30	Atau ngedate ke bioskop buat nonton film jomblo Seger, lempeng, kinclong dan semua garisnya masih ketemu
+31	Seger, lempeng, kinclong dan semua garisnya masih ketemu
+32	Seger, lempeng, kinclong dan semua garisnya masih ketemu
+33	Seger, lempeng, kinclong dan semua garisnya masih ketemu
+34	Seger, lempeng, kinclong dan semua garisnya masih ketemu
+35	Seger, lempeng, kinclong dan semua garisnya masih ketemu
+36	Seger, lempeng, kinclong dan semua garisnya masih ketemu Meski mobilnya gak bener-bener perfect kayak emblem jazz yang kehilangan titiknya
+37	Seger, lempeng, kinclong dan semua garisnya masih ketemu Meski mobilnya gak bener-bener perfect kayak emblem jazz yang kehilangan titiknya
+38	Meski mobilnya gak bener-bener perfect kayak emblem jazz yang kehilangan titiknya
+39	Meski mobilnya gak bener-bener perfect kayak emblem jazz yang kehilangan titiknya
+40	Meski mobilnya gak bener-bener perfect kayak emblem jazz yang kehilangan titiknya
+41	Meski mobilnya gak bener-bener perfect kayak emblem jazz yang kehilangan titiknya
+42	Meski mobilnya gak bener-bener perfect kayak emblem jazz yang kehilangan titiknya
+43	Meski mobilnya gak bener-bener perfect kayak emblem jazz yang kehilangan titiknya
+44	Meski mobilnya gak bener-bener perfect kayak emblem jazz yang kehilangan titiknya Atau bumper-bumper side skirt yang ada sisa-sisa baret bekas pemakaian
+45	Meski mobilnya gak bener-bener perfect kayak emblem jazz yang kehilangan titiknya Atau bumper-bumper side skirt yang ada sisa-sisa baret bekas pemakaian
+46	Atau bumper-bumper side skirt yang ada sisa-sisa baret bekas pemakaian
+47	Atau bumper-bumper side skirt yang ada sisa-sisa baret bekas pemakaian
+48	Atau bumper-bumper side skirt yang ada sisa-sisa baret bekas pemakaian
+49	Atau bumper-bumper side skirt yang ada sisa-sisa baret bekas pemakaian
+50	Atau bumper-bumper side skirt yang ada sisa-sisa baret bekas pemakaian
+51	Atau bumper-bumper side skirt yang ada sisa-sisa baret bekas pemakaian
+52	Atau bumper-bumper side skirt yang ada sisa-sisa baret bekas pemakaian Tapi yang jelas mobilnya gak pernah kecelakaan parah dan gak pernah kena banjir
+53	Atau bumper-bumper side skirt yang ada sisa-sisa baret bekas pemakaian Tapi yang jelas mobilnya gak pernah kecelakaan parah dan gak pernah kena banjir
+54	Tapi yang jelas mobilnya gak pernah kecelakaan parah dan gak pernah kena banjir
+55	Tapi yang jelas mobilnya gak pernah kecelakaan parah dan gak pernah kena banjir
+56	Tapi yang jelas mobilnya gak pernah kecelakaan parah dan gak pernah kena banjir
+57	Tapi yang jelas mobilnya gak pernah kecelakaan parah dan gak pernah kena banjir
+58	Tapi yang jelas mobilnya gak pernah kecelakaan parah dan gak pernah kena banjir
+59	Tapi yang jelas mobilnya gak pernah kecelakaan parah dan gak pernah kena banjir
+60	Tapi yang jelas mobilnya gak pernah kecelakaan parah dan gak pernah kena banjir Interiornya gak kalah seru cing
+61	Tapi yang jelas mobilnya gak pernah kecelakaan parah dan gak pernah kena banjir Interiornya gak kalah seru cing
+62	Interiornya gak kalah seru cing
+63	Interiornya gak kalah seru cing
+64	Interiornya gak kalah seru cing Lihat dashboard-dasboardnya itu masih rapih, kenceng, udah gitu
+65	Interiornya gak kalah seru cing Lihat dashboard-dasboardnya itu masih rapih, kenceng, udah gitu
+66	Lihat dashboard-dasboardnya itu masih rapih, kenceng, udah gitu
+67	Lihat dashboard-dasboardnya itu masih rapih, kenceng, udah gitu
+68	Lihat dashboard-dasboardnya itu masih rapih, kenceng, udah gitu
+69	Lihat dashboard-dasboardnya itu masih rapih, kenceng, udah gitu
+70	Lihat dashboard-dasboardnya itu masih rapih, kenceng, udah gitu
+71	Lihat dashboard-dasboardnya itu masih rapih, kenceng, udah gitu
+72	Lihat dashboard-dasboardnya itu masih rapih, kenceng, udah gitu Kita dapetin head unit bawaan yang tombol-tombolnya aja masih keliatan si tulisannya
+73	Lihat dashboard-dasboardnya itu masih rapih, kenceng, udah gitu Kita dapetin head unit bawaan yang tombol-tombolnya aja masih keliatan si tulisannya
+74	Kita dapetin head unit bawaan yang tombol-tombolnya aja masih keliatan si tulisannya
+75	Kita dapetin head unit bawaan yang tombol-tombolnya aja masih keliatan si tulisannya
+76	Kita dapetin head unit bawaan yang tombol-tombolnya aja masih keliatan si tulisannya
+77	Kita dapetin head unit bawaan yang tombol-tombolnya aja masih keliatan si tulisannya
+78	Kita dapetin head unit bawaan yang tombol-tombolnya aja masih keliatan si tulisannya
+79	Kita dapetin head unit bawaan yang tombol-tombolnya aja masih keliatan si tulisannya
+80	Kita dapetin head unit bawaan yang tombol-tombolnya aja masih keliatan si tulisannya
+81	Kita dapetin head unit bawaan yang tombol-tombolnya aja masih keliatan si tulisannya Dan yang lainnya grafis-grafis di bagian dashboard juga masih jelas banget
+82	Kita dapetin head unit bawaan yang tombol-tombolnya aja masih keliatan si tulisannya Dan yang lainnya grafis-grafis di bagian dashboard juga masih jelas banget
+83	Dan yang lainnya grafis-grafis di bagian dashboard juga masih jelas banget
+84	Dan yang lainnya grafis-grafis di bagian dashboard juga masih jelas banget
+85	Dan yang lainnya grafis-grafis di bagian dashboard juga masih jelas banget
+86	Dan yang lainnya grafis-grafis di bagian dashboard juga masih jelas banget
+87	Dan yang lainnya grafis-grafis di bagian dashboard juga masih jelas banget
+88	Dan yang lainnya grafis-grafis di bagian dashboard juga masih jelas banget
+89	Dan yang lainnya grafis-grafis di bagian dashboard juga masih jelas banget
+90	Dan yang lainnya grafis-grafis di bagian dashboard juga masih jelas banget Sama satu indikator penting
+91	Dan yang lainnya grafis-grafis di bagian dashboard juga masih jelas banget Sama satu indikator penting
+92	Sama satu indikator penting
+93	Sama satu indikator penting Di bagian door trim fabricnya ini masih nunjukin pola dan gak keliatan kotor
+94	Sama satu indikator penting Di bagian door trim fabricnya ini masih nunjukin pola dan gak keliatan kotor
+95	Di bagian door trim fabricnya ini masih nunjukin pola dan gak keliatan kotor
+96	Di bagian door trim fabricnya ini masih nunjukin pola dan gak keliatan kotor
+97	Di bagian door trim fabricnya ini masih nunjukin pola dan gak keliatan kotor
+98	Di bagian door trim fabricnya ini masih nunjukin pola dan gak keliatan kotor
+99	Di bagian door trim fabricnya ini masih nunjukin pola dan gak keliatan kotor
+100	Di bagian door trim fabricnya ini masih nunjukin pola dan gak keliatan kotor
+101	Di bagian door trim fabricnya ini masih nunjukin pola dan gak keliatan kotor
+102	Di bagian door trim fabricnya ini masih nunjukin pola dan gak keliatan kotor Menyesuaikan pola-pola yang ada di jog
+103	Di bagian door trim fabricnya ini masih nunjukin pola dan gak keliatan kotor Menyesuaikan pola-pola yang ada di jog
+104	Menyesuaikan pola-pola yang ada di jog
+105	Menyesuaikan pola-pola yang ada di jog
+106	Menyesuaikan pola-pola yang ada di jog Dan begitu udah dibawa jalan ini mobil berasa solid
+107	Menyesuaikan pola-pola yang ada di jog Dan begitu udah dibawa jalan ini mobil berasa solid
+108	Dan begitu udah dibawa jalan ini mobil berasa solid
+109	Dan begitu udah dibawa jalan ini mobil berasa solid
+110	Dan begitu udah dibawa jalan ini mobil berasa solid
+111	Dan begitu udah dibawa jalan ini mobil berasa solid
+112	Dan begitu udah dibawa jalan ini mobil berasa solid Solid banget dari suspensinya, respons setirnya, transmisinya
+113	Dan begitu udah dibawa jalan ini mobil berasa solid Solid banget dari suspensinya, respons setirnya, transmisinya
+114	Solid banget dari suspensinya, respons setirnya, transmisinya
+115	Solid banget dari suspensinya, respons setirnya, transmisinya
+116	Solid banget dari suspensinya, respons setirnya, transmisinya
+117	Solid banget dari suspensinya, respons setirnya, transmisinya
+118	Solid banget dari suspensinya, respons setirnya, transmisinya
+119	Solid banget dari suspensinya, respons setirnya, transmisinya
+120	Solid banget dari suspensinya, respons setirnya, transmisinya Satu fun fact di jamannya ini keren banget
+121	Solid banget dari suspensinya, respons setirnya, transmisinya Satu fun fact di jamannya ini keren banget
+122	Satu fun fact di jamannya ini keren banget
+123	Satu fun fact di jamannya ini keren banget
+124	Satu fun fact di jamannya ini keren banget
+125	Satu fun fact di jamannya ini keren banget
+126	Satu fun fact di jamannya ini keren banget Karena walaupun dia transmisi Matic
+127	Satu fun fact di jamannya ini keren banget Karena walaupun dia transmisi Matic
+128	Karena walaupun dia transmisi Matic
+129	Karena walaupun dia transmisi Matic Udah ada tiptronicnya jadi bisa pindah-pindah gigi lewat setir
+130	Karena walaupun dia transmisi Matic Udah ada tiptronicnya jadi bisa pindah-pindah gigi lewat setir
+131	Udah ada tiptronicnya jadi bisa pindah-pindah gigi lewat setir
+132	Udah ada tiptronicnya jadi bisa pindah-pindah gigi lewat setir
+133	Udah ada tiptronicnya jadi bisa pindah-pindah gigi lewat setir
+134	Udah ada tiptronicnya jadi bisa pindah-pindah gigi lewat setir
+135	Udah ada tiptronicnya jadi bisa pindah-pindah gigi lewat setir
+136	Udah ada tiptronicnya jadi bisa pindah-pindah gigi lewat setir
+137	Udah ada tiptronicnya jadi bisa pindah-pindah gigi lewat setir Gak tiap hari bisa dapetin mobil yang kondisinya kayak gini
+138	Udah ada tiptronicnya jadi bisa pindah-pindah gigi lewat setir Gak tiap hari bisa dapetin mobil yang kondisinya kayak gini
+139	Gak tiap hari bisa dapetin mobil yang kondisinya kayak gini
+140	Gak tiap hari bisa dapetin mobil yang kondisinya kayak gini
+141	Gak tiap hari bisa dapetin mobil yang kondisinya kayak gini
+142	Gak tiap hari bisa dapetin mobil yang kondisinya kayak gini
+143	Gak tiap hari bisa dapetin mobil yang kondisinya kayak gini Dan gak semua mobil yang kilometernya rendah bisa serapi ini
+144	Gak tiap hari bisa dapetin mobil yang kondisinya kayak gini Dan gak semua mobil yang kilometernya rendah bisa serapi ini
+145	Dan gak semua mobil yang kilometernya rendah bisa serapi ini
+146	Dan gak semua mobil yang kilometernya rendah bisa serapi ini
+147	Dan gak semua mobil yang kilometernya rendah bisa serapi ini
+148	Dan gak semua mobil yang kilometernya rendah bisa serapi ini Kalau belum yakin sama kondisi mobil yang kalian incer
+149	Dan gak semua mobil yang kilometernya rendah bisa serapi ini Kalau belum yakin sama kondisi mobil yang kalian incer
+150	Kalau belum yakin sama kondisi mobil yang kalian incer
+151	Kalau belum yakin sama kondisi mobil yang kalian incer
+152	Kalau belum yakin sama kondisi mobil yang kalian incer
+153	Kalau belum yakin sama kondisi mobil yang kalian incer Kontakt aja timo inspeksi
+154	Kalau belum yakin sama kondisi mobil yang kalian incer Kontakt aja timo inspeksi
+155	Kontakt aja timo inspeksi
+156	Kontakt aja timo inspeksi Kita bisa dapetin laporan inspeksi menyeluruh
+157	Kontakt aja timo inspeksi Kita bisa dapetin laporan inspeksi menyeluruh
+158	Kita bisa dapetin laporan inspeksi menyeluruh
+159	Kita bisa dapetin laporan inspeksi menyeluruh
+160	Kita bisa dapetin laporan inspeksi menyeluruh Plus konsultasi gratis sama inspektornya
+161	Kita bisa dapetin laporan inspeksi menyeluruh Plus konsultasi gratis sama inspektornya
+162	Plus konsultasi gratis sama inspektornya
+163	Plus konsultasi gratis sama inspektornya
+164	Plus konsultasi gratis sama inspektornya Jadi langsung aja kontak mau inspeksi oke
+165	Plus konsultasi gratis sama inspektornya Jadi langsung aja kontak mau inspeksi oke
+166	Jadi langsung aja kontak mau inspeksi oke
+167	Jadi langsung aja kontak mau inspeksi oke
+168	Jadi langsung aja kontak mau inspeksi oke
+169	Jadi langsung aja kontak mau inspeksi oke
+170	Jadi langsung aja kontak mau inspeksi oke
+171	[NO_SPEECH]
+172	Sub indo by broth3rmax
+173	Sub indo by broth3rmax
+174	Sub indo by broth3rmax
+175	Sub indo by broth3rmax

@@ -1,0 +1,450 @@
+0	Taukah kamu, virus yang menyebabkan cacar air juga bisa menyebabkan cacar api?
+1	Taukah kamu, virus yang menyebabkan cacar air juga bisa menyebabkan cacar api?
+2	Taukah kamu, virus yang menyebabkan cacar air juga bisa menyebabkan cacar api?
+3	Taukah kamu, virus yang menyebabkan cacar air juga bisa menyebabkan cacar api?
+4	Taukah kamu, virus yang menyebabkan cacar air juga bisa menyebabkan cacar api?
+5	Taukah kamu, virus yang menyebabkan cacar air juga bisa menyebabkan cacar api?
+6	Taukah kamu, virus yang menyebabkan cacar air juga bisa menyebabkan cacar api?
+7	Taukah kamu, virus yang menyebabkan cacar air juga bisa menyebabkan cacar api?
+8	Taukah kamu, virus yang menyebabkan cacar air juga bisa menyebabkan cacar api?
+9	Taukah kamu, virus yang menyebabkan cacar air juga bisa menyebabkan cacar api? Meski disebabkan oleh virus yang sama, dua kondisi ini sangat berbeda.
+10	Meski disebabkan oleh virus yang sama, dua kondisi ini sangat berbeda.
+11	Meski disebabkan oleh virus yang sama, dua kondisi ini sangat berbeda.
+12	Meski disebabkan oleh virus yang sama, dua kondisi ini sangat berbeda.
+13	Meski disebabkan oleh virus yang sama, dua kondisi ini sangat berbeda.
+14	Meski disebabkan oleh virus yang sama, dua kondisi ini sangat berbeda.
+15	Meski disebabkan oleh virus yang sama, dua kondisi ini sangat berbeda.
+16	Meski disebabkan oleh virus yang sama, dua kondisi ini sangat berbeda.
+17	Meski disebabkan oleh virus yang sama, dua kondisi ini sangat berbeda.
+18	Meski disebabkan oleh virus yang sama, dua kondisi ini sangat berbeda. Lantas, di mana letak perbedaannya?
+19	Meski disebabkan oleh virus yang sama, dua kondisi ini sangat berbeda. Lantas, di mana letak perbedaannya?
+20	Lantas, di mana letak perbedaannya?
+21	Lantas, di mana letak perbedaannya?
+22	Lantas, di mana letak perbedaannya?
+23	Lantas, di mana letak perbedaannya?
+24	Lantas, di mana letak perbedaannya?
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	Cacar air dan cacar api sama-sama disebabkan oleh infeksi virus herpes, yaitu varicella zoster.
+31	Cacar air dan cacar api sama-sama disebabkan oleh infeksi virus herpes, yaitu varicella zoster.
+32	Cacar air dan cacar api sama-sama disebabkan oleh infeksi virus herpes, yaitu varicella zoster.
+33	Cacar air dan cacar api sama-sama disebabkan oleh infeksi virus herpes, yaitu varicella zoster.
+34	Cacar air dan cacar api sama-sama disebabkan oleh infeksi virus herpes, yaitu varicella zoster.
+35	Cacar air dan cacar api sama-sama disebabkan oleh infeksi virus herpes, yaitu varicella zoster.
+36	Cacar air dan cacar api sama-sama disebabkan oleh infeksi virus herpes, yaitu varicella zoster.
+37	Cacar air dan cacar api sama-sama disebabkan oleh infeksi virus herpes, yaitu varicella zoster.
+38	Cacar air dan cacar api sama-sama disebabkan oleh infeksi virus herpes, yaitu varicella zoster.
+39	Cacar air dan cacar api sama-sama disebabkan oleh infeksi virus herpes, yaitu varicella zoster.
+40	Cacar air dan cacar api sama-sama disebabkan oleh infeksi virus herpes, yaitu varicella zoster.
+41	Cacar air dan cacar api sama-sama disebabkan oleh infeksi virus herpes, yaitu varicella zoster.
+42	Cacar air dan cacar api sama-sama disebabkan oleh infeksi virus herpes, yaitu varicella zoster.
+43	Cacar air dan cacar api sama-sama disebabkan oleh infeksi virus herpes, yaitu varicella zoster. Yang membedakan kedua penyakit ini adalah waktu terjangkit dan tingkat keparahannya.
+44	Yang membedakan kedua penyakit ini adalah waktu terjangkit dan tingkat keparahannya.
+45	Yang membedakan kedua penyakit ini adalah waktu terjangkit dan tingkat keparahannya.
+46	Yang membedakan kedua penyakit ini adalah waktu terjangkit dan tingkat keparahannya.
+47	Yang membedakan kedua penyakit ini adalah waktu terjangkit dan tingkat keparahannya.
+48	Yang membedakan kedua penyakit ini adalah waktu terjangkit dan tingkat keparahannya.
+49	Yang membedakan kedua penyakit ini adalah waktu terjangkit dan tingkat keparahannya.
+50	Yang membedakan kedua penyakit ini adalah waktu terjangkit dan tingkat keparahannya.
+51	Yang membedakan kedua penyakit ini adalah waktu terjangkit dan tingkat keparahannya.
+52	Yang membedakan kedua penyakit ini adalah waktu terjangkit dan tingkat keparahannya.
+53	Yang membedakan kedua penyakit ini adalah waktu terjangkit dan tingkat keparahannya. Saat pertama kali Anda terinfeksi virus varicella zoster, Anda akan mengalami cacar air.
+54	Yang membedakan kedua penyakit ini adalah waktu terjangkit dan tingkat keparahannya. Saat pertama kali Anda terinfeksi virus varicella zoster, Anda akan mengalami cacar air.
+55	Saat pertama kali Anda terinfeksi virus varicella zoster, Anda akan mengalami cacar air.
+56	Saat pertama kali Anda terinfeksi virus varicella zoster, Anda akan mengalami cacar air.
+57	Saat pertama kali Anda terinfeksi virus varicella zoster, Anda akan mengalami cacar air.
+58	Saat pertama kali Anda terinfeksi virus varicella zoster, Anda akan mengalami cacar air.
+59	Saat pertama kali Anda terinfeksi virus varicella zoster, Anda akan mengalami cacar air.
+60	Saat pertama kali Anda terinfeksi virus varicella zoster, Anda akan mengalami cacar air.
+61	Saat pertama kali Anda terinfeksi virus varicella zoster, Anda akan mengalami cacar air.
+62	Saat pertama kali Anda terinfeksi virus varicella zoster, Anda akan mengalami cacar air.
+63	Saat pertama kali Anda terinfeksi virus varicella zoster, Anda akan mengalami cacar air.
+64	Saat pertama kali Anda terinfeksi virus varicella zoster, Anda akan mengalami cacar air.
+65	Saat pertama kali Anda terinfeksi virus varicella zoster, Anda akan mengalami cacar air. Sementara itu, bila Anda terjangkit virus ini aktif kembali untuk yang kedua kali atau lebih, maka Anda akan mengalami cacar api.
+66	Saat pertama kali Anda terinfeksi virus varicella zoster, Anda akan mengalami cacar air. Sementara itu, bila Anda terjangkit virus ini aktif kembali untuk yang kedua kali atau lebih, maka Anda akan mengalami cacar api.
+67	Sementara itu, bila Anda terjangkit virus ini aktif kembali untuk yang kedua kali atau lebih, maka Anda akan mengalami cacar api.
+68	Sementara itu, bila Anda terjangkit virus ini aktif kembali untuk yang kedua kali atau lebih, maka Anda akan mengalami cacar api.
+69	Sementara itu, bila Anda terjangkit virus ini aktif kembali untuk yang kedua kali atau lebih, maka Anda akan mengalami cacar api.
+70	Sementara itu, bila Anda terjangkit virus ini aktif kembali untuk yang kedua kali atau lebih, maka Anda akan mengalami cacar api.
+71	Sementara itu, bila Anda terjangkit virus ini aktif kembali untuk yang kedua kali atau lebih, maka Anda akan mengalami cacar api.
+72	Sementara itu, bila Anda terjangkit virus ini aktif kembali untuk yang kedua kali atau lebih, maka Anda akan mengalami cacar api.
+73	Sementara itu, bila Anda terjangkit virus ini aktif kembali untuk yang kedua kali atau lebih, maka Anda akan mengalami cacar api.
+74	Sementara itu, bila Anda terjangkit virus ini aktif kembali untuk yang kedua kali atau lebih, maka Anda akan mengalami cacar api.
+75	Sementara itu, bila Anda terjangkit virus ini aktif kembali untuk yang kedua kali atau lebih, maka Anda akan mengalami cacar api.
+76	Sementara itu, bila Anda terjangkit virus ini aktif kembali untuk yang kedua kali atau lebih, maka Anda akan mengalami cacar api.
+77	Sementara itu, bila Anda terjangkit virus ini aktif kembali untuk yang kedua kali atau lebih, maka Anda akan mengalami cacar api.
+78	Sementara itu, bila Anda terjangkit virus ini aktif kembali untuk yang kedua kali atau lebih, maka Anda akan mengalami cacar api.
+79	Sementara itu, bila Anda terjangkit virus ini aktif kembali untuk yang kedua kali atau lebih, maka Anda akan mengalami cacar api.
+80	Sementara itu, bila Anda terjangkit virus ini aktif kembali untuk yang kedua kali atau lebih, maka Anda akan mengalami cacar api.
+81	Sementara itu, bila Anda terjangkit virus ini aktif kembali untuk yang kedua kali atau lebih, maka Anda akan mengalami cacar api.
+82	Sementara itu, bila Anda terjangkit virus ini aktif kembali untuk yang kedua kali atau lebih, maka Anda akan mengalami cacar api. Setelah terinfeksi virus varicella zoster untuk yang pertama kali, virus di dalam tubuh tidak hilang,
+83	Sementara itu, bila Anda terjangkit virus ini aktif kembali untuk yang kedua kali atau lebih, maka Anda akan mengalami cacar api. Setelah terinfeksi virus varicella zoster untuk yang pertama kali, virus di dalam tubuh tidak hilang,
+84	Setelah terinfeksi virus varicella zoster untuk yang pertama kali, virus di dalam tubuh tidak hilang,
+85	Setelah terinfeksi virus varicella zoster untuk yang pertama kali, virus di dalam tubuh tidak hilang,
+86	Setelah terinfeksi virus varicella zoster untuk yang pertama kali, virus di dalam tubuh tidak hilang,
+87	Setelah terinfeksi virus varicella zoster untuk yang pertama kali, virus di dalam tubuh tidak hilang,
+88	Setelah terinfeksi virus varicella zoster untuk yang pertama kali, virus di dalam tubuh tidak hilang,
+89	Setelah terinfeksi virus varicella zoster untuk yang pertama kali, virus di dalam tubuh tidak hilang,
+90	Setelah terinfeksi virus varicella zoster untuk yang pertama kali, virus di dalam tubuh tidak hilang,
+91	Setelah terinfeksi virus varicella zoster untuk yang pertama kali, virus di dalam tubuh tidak hilang,
+92	Setelah terinfeksi virus varicella zoster untuk yang pertama kali, virus di dalam tubuh tidak hilang,
+93	Setelah terinfeksi virus varicella zoster untuk yang pertama kali, virus di dalam tubuh tidak hilang,
+94	Setelah terinfeksi virus varicella zoster untuk yang pertama kali, virus di dalam tubuh tidak hilang, melainkan tidak aktif, dan bersembunyi di bagian sel-sel sarap.
+95	Setelah terinfeksi virus varicella zoster untuk yang pertama kali, virus di dalam tubuh tidak hilang, melainkan tidak aktif, dan bersembunyi di bagian sel-sel sarap.
+96	melainkan tidak aktif, dan bersembunyi di bagian sel-sel sarap.
+97	melainkan tidak aktif, dan bersembunyi di bagian sel-sel sarap.
+98	melainkan tidak aktif, dan bersembunyi di bagian sel-sel sarap.
+99	melainkan tidak aktif, dan bersembunyi di bagian sel-sel sarap.
+100	melainkan tidak aktif, dan bersembunyi di bagian sel-sel sarap.
+101	melainkan tidak aktif, dan bersembunyi di bagian sel-sel sarap.
+102	melainkan tidak aktif, dan bersembunyi di bagian sel-sel sarap.
+103	melainkan tidak aktif, dan bersembunyi di bagian sel-sel sarap. Virus ini sewaktu-waktu bisa kembali aktif dan menyebabkan cacar api.
+104	Virus ini sewaktu-waktu bisa kembali aktif dan menyebabkan cacar api.
+105	Virus ini sewaktu-waktu bisa kembali aktif dan menyebabkan cacar api.
+106	Virus ini sewaktu-waktu bisa kembali aktif dan menyebabkan cacar api.
+107	Virus ini sewaktu-waktu bisa kembali aktif dan menyebabkan cacar api.
+108	Virus ini sewaktu-waktu bisa kembali aktif dan menyebabkan cacar api.
+109	Virus ini sewaktu-waktu bisa kembali aktif dan menyebabkan cacar api.
+110	Virus ini sewaktu-waktu bisa kembali aktif dan menyebabkan cacar api.
+111	Virus ini sewaktu-waktu bisa kembali aktif dan menyebabkan cacar api. Hal-hal yang menyebabkan virus ini kembali aktif di dalam tubuh belum diketahui secara pasti.
+112	Virus ini sewaktu-waktu bisa kembali aktif dan menyebabkan cacar api. Hal-hal yang menyebabkan virus ini kembali aktif di dalam tubuh belum diketahui secara pasti.
+113	Hal-hal yang menyebabkan virus ini kembali aktif di dalam tubuh belum diketahui secara pasti.
+114	Hal-hal yang menyebabkan virus ini kembali aktif di dalam tubuh belum diketahui secara pasti.
+115	Hal-hal yang menyebabkan virus ini kembali aktif di dalam tubuh belum diketahui secara pasti.
+116	Hal-hal yang menyebabkan virus ini kembali aktif di dalam tubuh belum diketahui secara pasti.
+117	Hal-hal yang menyebabkan virus ini kembali aktif di dalam tubuh belum diketahui secara pasti.
+118	Hal-hal yang menyebabkan virus ini kembali aktif di dalam tubuh belum diketahui secara pasti.
+119	Hal-hal yang menyebabkan virus ini kembali aktif di dalam tubuh belum diketahui secara pasti.
+120	Hal-hal yang menyebabkan virus ini kembali aktif di dalam tubuh belum diketahui secara pasti.
+121	Hal-hal yang menyebabkan virus ini kembali aktif di dalam tubuh belum diketahui secara pasti.
+122	Hal-hal yang menyebabkan virus ini kembali aktif di dalam tubuh belum diketahui secara pasti.
+123	Hal-hal yang menyebabkan virus ini kembali aktif di dalam tubuh belum diketahui secara pasti. Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+124	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+125	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+126	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+127	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+128	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+129	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+130	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+131	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+132	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+133	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+134	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+135	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+136	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+137	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+138	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+139	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+140	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+141	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+142	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+143	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+144	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+145	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+146	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+147	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+148	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+149	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+150	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+151	Tetapi, berdasarkan CDC, terdapat 3 faktor resiko untuk mengalami cacar api, yaitu usia di atas 50 tahun, sistem imun yang melemah, dan memiliki kondisi medis yang menurunkan sistem imun.
+152	[NO_SPEECH]
+153	[NO_SPEECH]
+154	[NO_SPEECH]
+155	[NO_SPEECH]
+156	[NO_SPEECH]
+157	Penularan virus varicella zoster sangat cepat untuk penyakit cacar air.
+158	Penularan virus varicella zoster sangat cepat untuk penyakit cacar air.
+159	Penularan virus varicella zoster sangat cepat untuk penyakit cacar air.
+160	Penularan virus varicella zoster sangat cepat untuk penyakit cacar air.
+161	Penularan virus varicella zoster sangat cepat untuk penyakit cacar air.
+162	Penularan virus varicella zoster sangat cepat untuk penyakit cacar air.
+163	Penularan virus varicella zoster sangat cepat untuk penyakit cacar air.
+164	Penularan virus varicella zoster sangat cepat untuk penyakit cacar air.
+165	Penularan virus varicella zoster sangat cepat untuk penyakit cacar air. Bisa melalui udara atau droplet orang yang terinfeksi saat bersin atau batuk.
+166	Penularan virus varicella zoster sangat cepat untuk penyakit cacar air. Bisa melalui udara atau droplet orang yang terinfeksi saat bersin atau batuk.
+167	Penularan virus varicella zoster sangat cepat untuk penyakit cacar air. Bisa melalui udara atau droplet orang yang terinfeksi saat bersin atau batuk.
+168	Bisa melalui udara atau droplet orang yang terinfeksi saat bersin atau batuk.
+169	Bisa melalui udara atau droplet orang yang terinfeksi saat bersin atau batuk.
+170	Bisa melalui udara atau droplet orang yang terinfeksi saat bersin atau batuk.
+171	Bisa melalui udara atau droplet orang yang terinfeksi saat bersin atau batuk.
+172	Bisa melalui udara atau droplet orang yang terinfeksi saat bersin atau batuk.
+173	Bisa melalui udara atau droplet orang yang terinfeksi saat bersin atau batuk.
+174	Bisa melalui udara atau droplet orang yang terinfeksi saat bersin atau batuk.
+175	Bisa melalui udara atau droplet orang yang terinfeksi saat bersin atau batuk.
+176	Bisa melalui udara atau droplet orang yang terinfeksi saat bersin atau batuk.
+177	Bisa melalui udara atau droplet orang yang terinfeksi saat bersin atau batuk. Berbeda dengan cacar air, cacar api jarang sekali menular melalui udara.
+178	Berbeda dengan cacar air, cacar api jarang sekali menular melalui udara.
+179	Berbeda dengan cacar air, cacar api jarang sekali menular melalui udara.
+180	Berbeda dengan cacar air, cacar api jarang sekali menular melalui udara.
+181	Berbeda dengan cacar air, cacar api jarang sekali menular melalui udara.
+182	Berbeda dengan cacar air, cacar api jarang sekali menular melalui udara.
+183	Berbeda dengan cacar air, cacar api jarang sekali menular melalui udara.
+184	Berbeda dengan cacar air, cacar api jarang sekali menular melalui udara.
+185	Berbeda dengan cacar air, cacar api jarang sekali menular melalui udara.
+186	Berbeda dengan cacar air, cacar api jarang sekali menular melalui udara.
+187	Berbeda dengan cacar air, cacar api jarang sekali menular melalui udara. Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+188	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+189	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+190	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+191	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+192	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+193	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+194	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+195	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+196	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+197	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+198	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+199	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+200	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+201	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+202	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+203	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+204	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+205	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+206	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+207	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+208	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+209	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+210	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+211	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air.
+212	Namun, jika ruang cacar api sudah dalam tahap lepuhan, pastikan ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air atau vaksin cacar air. Pada orang yang belum pernah terinfeksi cacar air, saat tertular, ia tidak mengalami cacar api.
+213	Pada orang yang belum pernah terinfeksi cacar air, saat tertular, ia tidak mengalami cacar api.
+214	Pada orang yang belum pernah terinfeksi cacar air, saat tertular, ia tidak mengalami cacar api.
+215	Pada orang yang belum pernah terinfeksi cacar air, saat tertular, ia tidak mengalami cacar api.
+216	Pada orang yang belum pernah terinfeksi cacar air, saat tertular, ia tidak mengalami cacar api.
+217	Pada orang yang belum pernah terinfeksi cacar air, saat tertular, ia tidak mengalami cacar api.
+218	Pada orang yang belum pernah terinfeksi cacar air, saat tertular, ia tidak mengalami cacar api.
+219	Pada orang yang belum pernah terinfeksi cacar air, saat tertular, ia tidak mengalami cacar api.
+220	Pada orang yang belum pernah terinfeksi cacar air, saat tertular, ia tidak mengalami cacar api.
+221	Pada orang yang belum pernah terinfeksi cacar air, saat tertular, ia tidak mengalami cacar api.
+222	Pada orang yang belum pernah terinfeksi cacar air, saat tertular, ia tidak mengalami cacar api.
+223	Pada orang yang belum pernah terinfeksi cacar air, saat tertular, ia tidak mengalami cacar api.
+224	Pada orang yang belum pernah terinfeksi cacar air, saat tertular, ia tidak mengalami cacar api.
+225	Pada orang yang belum pernah terinfeksi cacar air, saat tertular, ia tidak mengalami cacar api. Bagaimana cara mengalami ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air?
+226	Bagaimana cara mengalami ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air?
+227	Bagaimana cara mengalami ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air?
+228	Bagaimana cara mengalami ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air?
+229	[NO_SPEECH]
+230	[NO_SPEECH]
+231	[NO_SPEECH]
+232	[NO_SPEECH]
+233	[NO_SPEECH]
+234	Cacar air dan cacar api memiliki ciri khas ruang dan lenting di bagian tubuh yang bisa dibedakan.
+235	Cacar air dan cacar api memiliki ciri khas ruang dan lenting di bagian tubuh yang bisa dibedakan.
+236	Cacar air dan cacar api memiliki ciri khas ruang dan lenting di bagian tubuh yang bisa dibedakan.
+237	Cacar air dan cacar api memiliki ciri khas ruang dan lenting di bagian tubuh yang bisa dibedakan.
+238	Cacar air dan cacar api memiliki ciri khas ruang dan lenting di bagian tubuh yang bisa dibedakan.
+239	Cacar air dan cacar api memiliki ciri khas ruang dan lenting di bagian tubuh yang bisa dibedakan.
+240	Cacar air dan cacar api memiliki ciri khas ruang dan lenting di bagian tubuh yang bisa dibedakan.
+241	Cacar air dan cacar api memiliki ciri khas ruang dan lenting di bagian tubuh yang bisa dibedakan.
+242	Cacar air dan cacar api memiliki ciri khas ruang dan lenting di bagian tubuh yang bisa dibedakan.
+243	Cacar air dan cacar api memiliki ciri khas ruang dan lenting di bagian tubuh yang bisa dibedakan.
+244	Cacar air dan cacar api memiliki ciri khas ruang dan lenting di bagian tubuh yang bisa dibedakan.
+245	Cacar air dan cacar api memiliki ciri khas ruang dan lenting di bagian tubuh yang bisa dibedakan.
+246	Cacar air dan cacar api memiliki ciri khas ruang dan lenting di bagian tubuh yang bisa dibedakan.
+247	Cacar air dan cacar api memiliki ciri khas ruang dan lenting di bagian tubuh yang bisa dibedakan. Seperti pada cacar air, ruang lenting terasa gatal, timbul di salah satu bagian tubuh, kemudian menyebar ke seluruh tubuh dalam 3-4 hari.
+248	Cacar air dan cacar api memiliki ciri khas ruang dan lenting di bagian tubuh yang bisa dibedakan. Seperti pada cacar air, ruang lenting terasa gatal, timbul di salah satu bagian tubuh, kemudian menyebar ke seluruh tubuh dalam 3-4 hari.
+249	Seperti pada cacar air, ruang lenting terasa gatal, timbul di salah satu bagian tubuh, kemudian menyebar ke seluruh tubuh dalam 3-4 hari.
+250	Seperti pada cacar air, ruang lenting terasa gatal, timbul di salah satu bagian tubuh, kemudian menyebar ke seluruh tubuh dalam 3-4 hari.
+251	Seperti pada cacar air, ruang lenting terasa gatal, timbul di salah satu bagian tubuh, kemudian menyebar ke seluruh tubuh dalam 3-4 hari.
+252	Seperti pada cacar air, ruang lenting terasa gatal, timbul di salah satu bagian tubuh, kemudian menyebar ke seluruh tubuh dalam 3-4 hari.
+253	Seperti pada cacar air, ruang lenting terasa gatal, timbul di salah satu bagian tubuh, kemudian menyebar ke seluruh tubuh dalam 3-4 hari.
+254	Seperti pada cacar air, ruang lenting terasa gatal, timbul di salah satu bagian tubuh, kemudian menyebar ke seluruh tubuh dalam 3-4 hari.
+255	Seperti pada cacar air, ruang lenting terasa gatal, timbul di salah satu bagian tubuh, kemudian menyebar ke seluruh tubuh dalam 3-4 hari.
+256	Seperti pada cacar air, ruang lenting terasa gatal, timbul di salah satu bagian tubuh, kemudian menyebar ke seluruh tubuh dalam 3-4 hari.
+257	Seperti pada cacar air, ruang lenting terasa gatal, timbul di salah satu bagian tubuh, kemudian menyebar ke seluruh tubuh dalam 3-4 hari.
+258	Seperti pada cacar air, ruang lenting terasa gatal, timbul di salah satu bagian tubuh, kemudian menyebar ke seluruh tubuh dalam 3-4 hari.
+259	Seperti pada cacar air, ruang lenting terasa gatal, timbul di salah satu bagian tubuh, kemudian menyebar ke seluruh tubuh dalam 3-4 hari.
+260	Seperti pada cacar air, ruang lenting terasa gatal, timbul di salah satu bagian tubuh, kemudian menyebar ke seluruh tubuh dalam 3-4 hari.
+261	Seperti pada cacar air, ruang lenting terasa gatal, timbul di salah satu bagian tubuh, kemudian menyebar ke seluruh tubuh dalam 3-4 hari.
+262	Seperti pada cacar air, ruang lenting terasa gatal, timbul di salah satu bagian tubuh, kemudian menyebar ke seluruh tubuh dalam 3-4 hari.
+263	Seperti pada cacar air, ruang lenting terasa gatal, timbul di salah satu bagian tubuh, kemudian menyebar ke seluruh tubuh dalam 3-4 hari.
+264	Seperti pada cacar air, ruang lenting terasa gatal, timbul di salah satu bagian tubuh, kemudian menyebar ke seluruh tubuh dalam 3-4 hari.
+265	Seperti pada cacar air, ruang lenting terasa gatal, timbul di salah satu bagian tubuh, kemudian menyebar ke seluruh tubuh dalam 3-4 hari.
+266	Seperti pada cacar air, ruang lenting terasa gatal, timbul di salah satu bagian tubuh, kemudian menyebar ke seluruh tubuh dalam 3-4 hari. Kemudian, waktu penyembuhannya dalam satu minggu ditandai dengan ruang lenting yang mengering, membentuk kropeng, dan akan mengelupas dengan sendirinya.
+267	Kemudian, waktu penyembuhannya dalam satu minggu ditandai dengan ruang lenting yang mengering, membentuk kropeng, dan akan mengelupas dengan sendirinya.
+268	Kemudian, waktu penyembuhannya dalam satu minggu ditandai dengan ruang lenting yang mengering, membentuk kropeng, dan akan mengelupas dengan sendirinya.
+269	Kemudian, waktu penyembuhannya dalam satu minggu ditandai dengan ruang lenting yang mengering, membentuk kropeng, dan akan mengelupas dengan sendirinya.
+270	Kemudian, waktu penyembuhannya dalam satu minggu ditandai dengan ruang lenting yang mengering, membentuk kropeng, dan akan mengelupas dengan sendirinya.
+271	Kemudian, waktu penyembuhannya dalam satu minggu ditandai dengan ruang lenting yang mengering, membentuk kropeng, dan akan mengelupas dengan sendirinya.
+272	Kemudian, waktu penyembuhannya dalam satu minggu ditandai dengan ruang lenting yang mengering, membentuk kropeng, dan akan mengelupas dengan sendirinya.
+273	Kemudian, waktu penyembuhannya dalam satu minggu ditandai dengan ruang lenting yang mengering, membentuk kropeng, dan akan mengelupas dengan sendirinya.
+274	Kemudian, waktu penyembuhannya dalam satu minggu ditandai dengan ruang lenting yang mengering, membentuk kropeng, dan akan mengelupas dengan sendirinya.
+275	Kemudian, waktu penyembuhannya dalam satu minggu ditandai dengan ruang lenting yang mengering, membentuk kropeng, dan akan mengelupas dengan sendirinya.
+276	Kemudian, waktu penyembuhannya dalam satu minggu ditandai dengan ruang lenting yang mengering, membentuk kropeng, dan akan mengelupas dengan sendirinya.
+277	Kemudian, waktu penyembuhannya dalam satu minggu ditandai dengan ruang lenting yang mengering, membentuk kropeng, dan akan mengelupas dengan sendirinya.
+278	Kemudian, waktu penyembuhannya dalam satu minggu ditandai dengan ruang lenting yang mengering, membentuk kropeng, dan akan mengelupas dengan sendirinya.
+279	Kemudian, waktu penyembuhannya dalam satu minggu ditandai dengan ruang lenting yang mengering, membentuk kropeng, dan akan mengelupas dengan sendirinya.
+280	Kemudian, waktu penyembuhannya dalam satu minggu ditandai dengan ruang lenting yang mengering, membentuk kropeng, dan akan mengelupas dengan sendirinya.
+281	Kemudian, waktu penyembuhannya dalam satu minggu ditandai dengan ruang lenting yang mengering, membentuk kropeng, dan akan mengelupas dengan sendirinya.
+282	Kemudian, waktu penyembuhannya dalam satu minggu ditandai dengan ruang lenting yang mengering, membentuk kropeng, dan akan mengelupas dengan sendirinya.
+283	Kemudian, waktu penyembuhannya dalam satu minggu ditandai dengan ruang lenting yang mengering, membentuk kropeng, dan akan mengelupas dengan sendirinya.
+284	Kemudian, waktu penyembuhannya dalam satu minggu ditandai dengan ruang lenting yang mengering, membentuk kropeng, dan akan mengelupas dengan sendirinya. Bagaimana cara mengalami ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air?
+285	Bagaimana cara mengalami ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air? Sementara itu, pada cacar api, ruang lenting muncul di salah satu sisi tubuh dengan kumpulan bintik-bintik yang lebih memusat di satu area.
+286	Bagaimana cara mengalami ruang tetap tertutup dan menjaga kontak langsung dengan individu yang belum pernah memiliki riwayat cacar air? Sementara itu, pada cacar api, ruang lenting muncul di salah satu sisi tubuh dengan kumpulan bintik-bintik yang lebih memusat di satu area.
+287	Sementara itu, pada cacar api, ruang lenting muncul di salah satu sisi tubuh dengan kumpulan bintik-bintik yang lebih memusat di satu area.
+288	Sementara itu, pada cacar api, ruang lenting muncul di salah satu sisi tubuh dengan kumpulan bintik-bintik yang lebih memusat di satu area.
+289	Sementara itu, pada cacar api, ruang lenting muncul di salah satu sisi tubuh dengan kumpulan bintik-bintik yang lebih memusat di satu area.
+290	Sementara itu, pada cacar api, ruang lenting muncul di salah satu sisi tubuh dengan kumpulan bintik-bintik yang lebih memusat di satu area.
+291	Sementara itu, pada cacar api, ruang lenting muncul di salah satu sisi tubuh dengan kumpulan bintik-bintik yang lebih memusat di satu area.
+292	Sementara itu, pada cacar api, ruang lenting muncul di salah satu sisi tubuh dengan kumpulan bintik-bintik yang lebih memusat di satu area.
+293	Sementara itu, pada cacar api, ruang lenting muncul di salah satu sisi tubuh dengan kumpulan bintik-bintik yang lebih memusat di satu area.
+294	Sementara itu, pada cacar api, ruang lenting muncul di salah satu sisi tubuh dengan kumpulan bintik-bintik yang lebih memusat di satu area.
+295	Sementara itu, pada cacar api, ruang lenting muncul di salah satu sisi tubuh dengan kumpulan bintik-bintik yang lebih memusat di satu area.
+296	Sementara itu, pada cacar api, ruang lenting muncul di salah satu sisi tubuh dengan kumpulan bintik-bintik yang lebih memusat di satu area.
+297	Sementara itu, pada cacar api, ruang lenting muncul di salah satu sisi tubuh dengan kumpulan bintik-bintik yang lebih memusat di satu area.
+298	Sementara itu, pada cacar api, ruang lenting muncul di salah satu sisi tubuh dengan kumpulan bintik-bintik yang lebih memusat di satu area.
+299	Sementara itu, pada cacar api, ruang lenting muncul di salah satu sisi tubuh dengan kumpulan bintik-bintik yang lebih memusat di satu area.
+300	Sementara itu, pada cacar api, ruang lenting muncul di salah satu sisi tubuh dengan kumpulan bintik-bintik yang lebih memusat di satu area.
+301	Sementara itu, pada cacar api, ruang lenting muncul di salah satu sisi tubuh dengan kumpulan bintik-bintik yang lebih memusat di satu area.
+302	Sementara itu, pada cacar api, ruang lenting muncul di salah satu sisi tubuh dengan kumpulan bintik-bintik yang lebih memusat di satu area.
+303	Sementara itu, pada cacar api, ruang lenting muncul di salah satu sisi tubuh dengan kumpulan bintik-bintik yang lebih memusat di satu area. Rasa yang ditimbulkan bukan hanya gatal, tetapi juga perih yang menusuk.
+304	Rasa yang ditimbulkan bukan hanya gatal, tetapi juga perih yang menusuk.
+305	Rasa yang ditimbulkan bukan hanya gatal, tetapi juga perih yang menusuk.
+306	Rasa yang ditimbulkan bukan hanya gatal, tetapi juga perih yang menusuk.
+307	Rasa yang ditimbulkan bukan hanya gatal, tetapi juga perih yang menusuk.
+308	Rasa yang ditimbulkan bukan hanya gatal, tetapi juga perih yang menusuk.
+309	Rasa yang ditimbulkan bukan hanya gatal, tetapi juga perih yang menusuk.
+310	Rasa yang ditimbulkan bukan hanya gatal, tetapi juga perih yang menusuk.
+311	Rasa yang ditimbulkan bukan hanya gatal, tetapi juga perih yang menusuk.
+312	Rasa yang ditimbulkan bukan hanya gatal, tetapi juga perih yang menusuk. Penyembuhan memerlukan waktu 3-5 minggu hingga ruang lenting mengering dan hilang.
+313	Rasa yang ditimbulkan bukan hanya gatal, tetapi juga perih yang menusuk. Penyembuhan memerlukan waktu 3-5 minggu hingga ruang lenting mengering dan hilang.
+314	Penyembuhan memerlukan waktu 3-5 minggu hingga ruang lenting mengering dan hilang.
+315	Penyembuhan memerlukan waktu 3-5 minggu hingga ruang lenting mengering dan hilang.
+316	Penyembuhan memerlukan waktu 3-5 minggu hingga ruang lenting mengering dan hilang.
+317	Penyembuhan memerlukan waktu 3-5 minggu hingga ruang lenting mengering dan hilang.
+318	Penyembuhan memerlukan waktu 3-5 minggu hingga ruang lenting mengering dan hilang.
+319	Penyembuhan memerlukan waktu 3-5 minggu hingga ruang lenting mengering dan hilang.
+320	Penyembuhan memerlukan waktu 3-5 minggu hingga ruang lenting mengering dan hilang.
+321	Penyembuhan memerlukan waktu 3-5 minggu hingga ruang lenting mengering dan hilang.
+322	Penyembuhan memerlukan waktu 3-5 minggu hingga ruang lenting mengering dan hilang.
+323	Penyembuhan memerlukan waktu 3-5 minggu hingga ruang lenting mengering dan hilang.
+324	Penyembuhan memerlukan waktu 3-5 minggu hingga ruang lenting mengering dan hilang.
+325	Penyembuhan memerlukan waktu 3-5 minggu hingga ruang lenting mengering dan hilang. Selain itu, cacar api juga masih mungkin untuk menyebabkan komplikasi.
+326	Selain itu, cacar api juga masih mungkin untuk menyebabkan komplikasi.
+327	Selain itu, cacar api juga masih mungkin untuk menyebabkan komplikasi.
+328	Selain itu, cacar api juga masih mungkin untuk menyebabkan komplikasi.
+329	Selain itu, cacar api juga masih mungkin untuk menyebabkan komplikasi.
+330	Selain itu, cacar api juga masih mungkin untuk menyebabkan komplikasi.
+331	Selain itu, cacar api juga masih mungkin untuk menyebabkan komplikasi.
+332	Selain itu, cacar api juga masih mungkin untuk menyebabkan komplikasi.
+333	Selain itu, cacar api juga masih mungkin untuk menyebabkan komplikasi.
+334	Selain itu, cacar api juga masih mungkin untuk menyebabkan komplikasi. Lebih dari 10% orang dengan cacar api mengalami komplikasi gangguan nyeri.
+335	Selain itu, cacar api juga masih mungkin untuk menyebabkan komplikasi. Lebih dari 10% orang dengan cacar api mengalami komplikasi gangguan nyeri.
+336	Lebih dari 10% orang dengan cacar api mengalami komplikasi gangguan nyeri.
+337	Lebih dari 10% orang dengan cacar api mengalami komplikasi gangguan nyeri.
+338	Lebih dari 10% orang dengan cacar api mengalami komplikasi gangguan nyeri.
+339	Lebih dari 10% orang dengan cacar api mengalami komplikasi gangguan nyeri.
+340	Lebih dari 10% orang dengan cacar api mengalami komplikasi gangguan nyeri.
+341	Lebih dari 10% orang dengan cacar api mengalami komplikasi gangguan nyeri.
+342	Lebih dari 10% orang dengan cacar api mengalami komplikasi gangguan nyeri.
+343	Lebih dari 10% orang dengan cacar api mengalami komplikasi gangguan nyeri.
+344	Lebih dari 10% orang dengan cacar api mengalami komplikasi gangguan nyeri.
+345	Lebih dari 10% orang dengan cacar api mengalami komplikasi gangguan nyeri.
+346	[NO_SPEECH]
+347	[NO_SPEECH]
+348	[NO_SPEECH]
+349	[NO_SPEECH]
+350	[NO_SPEECH]
+351	[NO_SPEECH]
+352	[NO_SPEECH]
+353	[NO_SPEECH]
+354	[NO_SPEECH]
+355	[NO_SPEECH]
+356	Kecara api juga bisa menyebabkan komplikasi lain, seperti infeksi bakteri pada kulit dan infeksi mata yang dapat mengganggu penglihatan.
+357	Kecara api juga bisa menyebabkan komplikasi lain, seperti infeksi bakteri pada kulit dan infeksi mata yang dapat mengganggu penglihatan.
+358	Kecara api juga bisa menyebabkan komplikasi lain, seperti infeksi bakteri pada kulit dan infeksi mata yang dapat mengganggu penglihatan.
+359	Kecara api juga bisa menyebabkan komplikasi lain, seperti infeksi bakteri pada kulit dan infeksi mata yang dapat mengganggu penglihatan.
+360	Kecara api juga bisa menyebabkan komplikasi lain, seperti infeksi bakteri pada kulit dan infeksi mata yang dapat mengganggu penglihatan.
+361	Kecara api juga bisa menyebabkan komplikasi lain, seperti infeksi bakteri pada kulit dan infeksi mata yang dapat mengganggu penglihatan.
+362	Kecara api juga bisa menyebabkan komplikasi lain, seperti infeksi bakteri pada kulit dan infeksi mata yang dapat mengganggu penglihatan.
+363	Kecara api juga bisa menyebabkan komplikasi lain, seperti infeksi bakteri pada kulit dan infeksi mata yang dapat mengganggu penglihatan.
+364	Kecara api juga bisa menyebabkan komplikasi lain, seperti infeksi bakteri pada kulit dan infeksi mata yang dapat mengganggu penglihatan.
+365	Kecara api juga bisa menyebabkan komplikasi lain, seperti infeksi bakteri pada kulit dan infeksi mata yang dapat mengganggu penglihatan.
+366	Kecara api juga bisa menyebabkan komplikasi lain, seperti infeksi bakteri pada kulit dan infeksi mata yang dapat mengganggu penglihatan.
+367	Kecara api juga bisa menyebabkan komplikasi lain, seperti infeksi bakteri pada kulit dan infeksi mata yang dapat mengganggu penglihatan.
+368	Kecara api juga bisa menyebabkan komplikasi lain, seperti infeksi bakteri pada kulit dan infeksi mata yang dapat mengganggu penglihatan.
+369	Kecara api juga bisa menyebabkan komplikasi lain, seperti infeksi bakteri pada kulit dan infeksi mata yang dapat mengganggu penglihatan.
+370	Kecara api juga bisa menyebabkan komplikasi lain, seperti infeksi bakteri pada kulit dan infeksi mata yang dapat mengganggu penglihatan.
+371	Kecara api juga bisa menyebabkan komplikasi lain, seperti infeksi bakteri pada kulit dan infeksi mata yang dapat mengganggu penglihatan.
+372	Kecara api juga bisa menyebabkan komplikasi lain, seperti infeksi bakteri pada kulit dan infeksi mata yang dapat mengganggu penglihatan.
+373	Kecara api juga bisa menyebabkan komplikasi lain, seperti infeksi bakteri pada kulit dan infeksi mata yang dapat mengganggu penglihatan.
+374	Kecara api juga bisa menyebabkan komplikasi lain, seperti infeksi bakteri pada kulit dan infeksi mata yang dapat mengganggu penglihatan.
+375	Kecara api juga bisa menyebabkan komplikasi lain, seperti infeksi bakteri pada kulit dan infeksi mata yang dapat mengganggu penglihatan.
+376	[NO_SPEECH]
+377	[NO_SPEECH]
+378	[NO_SPEECH]
+379	[NO_SPEECH]
+380	[NO_SPEECH]
+381	[NO_SPEECH]
+382	Bijalah cacar api dapat diobati, tetapi tidak ada obat untuk cacar api.
+383	Bijalah cacar api dapat diobati, tetapi tidak ada obat untuk cacar api.
+384	Bijalah cacar api dapat diobati, tetapi tidak ada obat untuk cacar api.
+385	Bijalah cacar api dapat diobati, tetapi tidak ada obat untuk cacar api.
+386	Bijalah cacar api dapat diobati, tetapi tidak ada obat untuk cacar api.
+387	Bijalah cacar api dapat diobati, tetapi tidak ada obat untuk cacar api.
+388	Bijalah cacar api dapat diobati, tetapi tidak ada obat untuk cacar api.
+389	Bijalah cacar api dapat diobati, tetapi tidak ada obat untuk cacar api.
+390	Bijalah cacar api dapat diobati, tetapi tidak ada obat untuk cacar api.
+391	Bijalah cacar api dapat diobati, tetapi tidak ada obat untuk cacar api.
+392	Bijalah cacar api dapat diobati, tetapi tidak ada obat untuk cacar api.
+393	Bijalah cacar api dapat diobati, tetapi tidak ada obat untuk cacar api. Maka, saat cacar api menyerang, aktivitas sehari-hari dapat menjadi sangat terganggu.
+394	Bijalah cacar api dapat diobati, tetapi tidak ada obat untuk cacar api. Maka, saat cacar api menyerang, aktivitas sehari-hari dapat menjadi sangat terganggu.
+395	Maka, saat cacar api menyerang, aktivitas sehari-hari dapat menjadi sangat terganggu.
+396	Maka, saat cacar api menyerang, aktivitas sehari-hari dapat menjadi sangat terganggu.
+397	Maka, saat cacar api menyerang, aktivitas sehari-hari dapat menjadi sangat terganggu.
+398	Maka, saat cacar api menyerang, aktivitas sehari-hari dapat menjadi sangat terganggu.
+399	Maka, saat cacar api menyerang, aktivitas sehari-hari dapat menjadi sangat terganggu.
+400	Maka, saat cacar api menyerang, aktivitas sehari-hari dapat menjadi sangat terganggu.
+401	Maka, saat cacar api menyerang, aktivitas sehari-hari dapat menjadi sangat terganggu.
+402	Maka, saat cacar api menyerang, aktivitas sehari-hari dapat menjadi sangat terganggu.
+403	Maka, saat cacar api menyerang, aktivitas sehari-hari dapat menjadi sangat terganggu.
+404	Maka, saat cacar api menyerang, aktivitas sehari-hari dapat menjadi sangat terganggu. Bagi Anda yang memiliki faktor resikonya, konsultasikan ke dokter untuk melakukan pencegahan yang tepat dan sesuai dengan kondisi Anda.
+405	Maka, saat cacar api menyerang, aktivitas sehari-hari dapat menjadi sangat terganggu. Bagi Anda yang memiliki faktor resikonya, konsultasikan ke dokter untuk melakukan pencegahan yang tepat dan sesuai dengan kondisi Anda.
+406	Bagi Anda yang memiliki faktor resikonya, konsultasikan ke dokter untuk melakukan pencegahan yang tepat dan sesuai dengan kondisi Anda.
+407	Bagi Anda yang memiliki faktor resikonya, konsultasikan ke dokter untuk melakukan pencegahan yang tepat dan sesuai dengan kondisi Anda.
+408	Bagi Anda yang memiliki faktor resikonya, konsultasikan ke dokter untuk melakukan pencegahan yang tepat dan sesuai dengan kondisi Anda.
+409	Bagi Anda yang memiliki faktor resikonya, konsultasikan ke dokter untuk melakukan pencegahan yang tepat dan sesuai dengan kondisi Anda.
+410	Bagi Anda yang memiliki faktor resikonya, konsultasikan ke dokter untuk melakukan pencegahan yang tepat dan sesuai dengan kondisi Anda.
+411	Bagi Anda yang memiliki faktor resikonya, konsultasikan ke dokter untuk melakukan pencegahan yang tepat dan sesuai dengan kondisi Anda.
+412	Bagi Anda yang memiliki faktor resikonya, konsultasikan ke dokter untuk melakukan pencegahan yang tepat dan sesuai dengan kondisi Anda.
+413	Bagi Anda yang memiliki faktor resikonya, konsultasikan ke dokter untuk melakukan pencegahan yang tepat dan sesuai dengan kondisi Anda.
+414	Bagi Anda yang memiliki faktor resikonya, konsultasikan ke dokter untuk melakukan pencegahan yang tepat dan sesuai dengan kondisi Anda.
+415	Bagi Anda yang memiliki faktor resikonya, konsultasikan ke dokter untuk melakukan pencegahan yang tepat dan sesuai dengan kondisi Anda.
+416	Bagi Anda yang memiliki faktor resikonya, konsultasikan ke dokter untuk melakukan pencegahan yang tepat dan sesuai dengan kondisi Anda.
+417	Bagi Anda yang memiliki faktor resikonya, konsultasikan ke dokter untuk melakukan pencegahan yang tepat dan sesuai dengan kondisi Anda.
+418	Bagi Anda yang memiliki faktor resikonya, konsultasikan ke dokter untuk melakukan pencegahan yang tepat dan sesuai dengan kondisi Anda.
+419	Bagi Anda yang memiliki faktor resikonya, konsultasikan ke dokter untuk melakukan pencegahan yang tepat dan sesuai dengan kondisi Anda.
+420	Bagi Anda yang memiliki faktor resikonya, konsultasikan ke dokter untuk melakukan pencegahan yang tepat dan sesuai dengan kondisi Anda.
+421	Bagi Anda yang memiliki faktor resikonya, konsultasikan ke dokter untuk melakukan pencegahan yang tepat dan sesuai dengan kondisi Anda.
+422	Bagi Anda yang memiliki faktor resikonya, konsultasikan ke dokter untuk melakukan pencegahan yang tepat dan sesuai dengan kondisi Anda.
+423	[NO_SPEECH]
+424	[NO_SPEECH]
+425	[NO_SPEECH]
+426	[NO_SPEECH]
+427	[NO_SPEECH]
+428	[NO_SPEECH]
+429	[NO_SPEECH]
+430	[NO_SPEECH]
+431	Terima kasih telah menonton!
+432	Terima kasih telah menonton!
+433	Terima kasih telah menonton!
+434	Terima kasih telah menonton!
+435	Terima kasih telah menonton!
+436	Terima kasih telah menonton!
+437	Terima kasih telah menonton!
+438	Terima kasih telah menonton!
+439	Terima kasih telah menonton!
+440	Terima kasih telah menonton!
+441	Terima kasih telah menonton!
+442	Terima kasih telah menonton!
+443	Terima kasih telah menonton!
+444	Terima kasih telah menonton!
+445	Terima kasih telah menonton!
+446	Terima kasih telah menonton!
+447	Terima kasih telah menonton!
+448	Terima kasih telah menonton!
+449	Terima kasih telah menonton!

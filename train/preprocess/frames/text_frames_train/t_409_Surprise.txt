@@ -1,0 +1,122 @@
+0	Kamu pengen badanmu lebih bagus, tapi kamu tidak bisa ke gym dan tidak punya alat di rumah, you need to notice.
+1	Kamu pengen badanmu lebih bagus, tapi kamu tidak bisa ke gym dan tidak punya alat di rumah, you need to notice.
+2	Kamu pengen badanmu lebih bagus, tapi kamu tidak bisa ke gym dan tidak punya alat di rumah, you need to notice.
+3	Kamu pengen badanmu lebih bagus, tapi kamu tidak bisa ke gym dan tidak punya alat di rumah, you need to notice.
+4	Kamu pengen badanmu lebih bagus, tapi kamu tidak bisa ke gym dan tidak punya alat di rumah, you need to notice.
+5	Kamu pengen badanmu lebih bagus, tapi kamu tidak bisa ke gym dan tidak punya alat di rumah, you need to notice.
+6	Kamu pengen badanmu lebih bagus, tapi kamu tidak bisa ke gym dan tidak punya alat di rumah, you need to notice.
+7	Kamu pengen badanmu lebih bagus, tapi kamu tidak bisa ke gym dan tidak punya alat di rumah, you need to notice.
+8	Kamu pengen badanmu lebih bagus, tapi kamu tidak bisa ke gym dan tidak punya alat di rumah, you need to notice.
+9	Kamu pengen badanmu lebih bagus, tapi kamu tidak bisa ke gym dan tidak punya alat di rumah, you need to notice.
+10	Kamu pengen badanmu lebih bagus, tapi kamu tidak bisa ke gym dan tidak punya alat di rumah, you need to notice.
+11	Kamu pengen badanmu lebih bagus, tapi kamu tidak bisa ke gym dan tidak punya alat di rumah, you need to notice. Kamu juga bisa bentuk badan di rumah tanpa alat.
+12	Kamu pengen badanmu lebih bagus, tapi kamu tidak bisa ke gym dan tidak punya alat di rumah, you need to notice. Kamu juga bisa bentuk badan di rumah tanpa alat.
+13	Kamu juga bisa bentuk badan di rumah tanpa alat.
+14	Kamu juga bisa bentuk badan di rumah tanpa alat.
+15	Kamu juga bisa bentuk badan di rumah tanpa alat.
+16	Kamu juga bisa bentuk badan di rumah tanpa alat.
+17	Kamu juga bisa bentuk badan di rumah tanpa alat.
+18	Kamu juga bisa bentuk badan di rumah tanpa alat.
+19	Kamu juga bisa bentuk badan di rumah tanpa alat. Berikut ini gerakan-gerakan untuk melatih seluruh badanmu.
+20	Kamu juga bisa bentuk badan di rumah tanpa alat. Berikut ini gerakan-gerakan untuk melatih seluruh badanmu.
+21	Berikut ini gerakan-gerakan untuk melatih seluruh badanmu.
+22	Berikut ini gerakan-gerakan untuk melatih seluruh badanmu.
+23	Berikut ini gerakan-gerakan untuk melatih seluruh badanmu.
+24	Berikut ini gerakan-gerakan untuk melatih seluruh badanmu.
+25	Berikut ini gerakan-gerakan untuk melatih seluruh badanmu.
+26	Berikut ini gerakan-gerakan untuk melatih seluruh badanmu.
+27	Berikut ini gerakan-gerakan untuk melatih seluruh badanmu.
+28	Berikut ini gerakan-gerakan untuk melatih seluruh badanmu. Mulai dengan gerakan push up untuk kuatkan otot dada, bahu, dan triceps.
+29	Berikut ini gerakan-gerakan untuk melatih seluruh badanmu. Mulai dengan gerakan push up untuk kuatkan otot dada, bahu, dan triceps.
+30	Mulai dengan gerakan push up untuk kuatkan otot dada, bahu, dan triceps.
+31	Mulai dengan gerakan push up untuk kuatkan otot dada, bahu, dan triceps.
+32	Mulai dengan gerakan push up untuk kuatkan otot dada, bahu, dan triceps.
+33	Mulai dengan gerakan push up untuk kuatkan otot dada, bahu, dan triceps.
+34	Mulai dengan gerakan push up untuk kuatkan otot dada, bahu, dan triceps.
+35	Mulai dengan gerakan push up untuk kuatkan otot dada, bahu, dan triceps.
+36	Mulai dengan gerakan push up untuk kuatkan otot dada, bahu, dan triceps.
+37	Mulai dengan gerakan push up untuk kuatkan otot dada, bahu, dan triceps.
+38	Mulai dengan gerakan push up untuk kuatkan otot dada, bahu, dan triceps.
+39	Mulai dengan gerakan push up untuk kuatkan otot dada, bahu, dan triceps.
+40	Mulai dengan gerakan push up untuk kuatkan otot dada, bahu, dan triceps. Kalau kamu belum bisa push up, lakukan knee push up.
+41	Kalau kamu belum bisa push up, lakukan knee push up.
+42	Kalau kamu belum bisa push up, lakukan knee push up.
+43	Kalau kamu belum bisa push up, lakukan knee push up.
+44	Kalau kamu belum bisa push up, lakukan knee push up.
+45	Kalau kamu belum bisa push up, lakukan knee push up.
+46	Kalau kamu belum bisa push up, lakukan knee push up. Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+47	Kalau kamu belum bisa push up, lakukan knee push up. Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+48	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+49	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+50	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+51	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+52	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+53	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+54	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+55	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+56	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+57	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+58	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+59	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+60	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+61	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+62	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+63	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+64	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+65	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+66	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+67	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini.
+68	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini. Berikutnya gerakan lunges untuk melatih otot kaki dan glute bridge untuk kuatkan secara spesifik bokong dan paha belakang.
+69	Selanjutnya squat yang melatih seluruh tubuh bagian bawah untuk kuatkan otot perut plank dan untuk pinggang dan punggung gerakan superman seperti ini. Berikutnya gerakan lunges untuk melatih otot kaki dan glute bridge untuk kuatkan secara spesifik bokong dan paha belakang.
+70	Berikutnya gerakan lunges untuk melatih otot kaki dan glute bridge untuk kuatkan secara spesifik bokong dan paha belakang.
+71	Berikutnya gerakan lunges untuk melatih otot kaki dan glute bridge untuk kuatkan secara spesifik bokong dan paha belakang.
+72	Berikutnya gerakan lunges untuk melatih otot kaki dan glute bridge untuk kuatkan secara spesifik bokong dan paha belakang.
+73	Berikutnya gerakan lunges untuk melatih otot kaki dan glute bridge untuk kuatkan secara spesifik bokong dan paha belakang.
+74	Berikutnya gerakan lunges untuk melatih otot kaki dan glute bridge untuk kuatkan secara spesifik bokong dan paha belakang.
+75	Berikutnya gerakan lunges untuk melatih otot kaki dan glute bridge untuk kuatkan secara spesifik bokong dan paha belakang.
+76	Berikutnya gerakan lunges untuk melatih otot kaki dan glute bridge untuk kuatkan secara spesifik bokong dan paha belakang.
+77	Berikutnya gerakan lunges untuk melatih otot kaki dan glute bridge untuk kuatkan secara spesifik bokong dan paha belakang.
+78	Berikutnya gerakan lunges untuk melatih otot kaki dan glute bridge untuk kuatkan secara spesifik bokong dan paha belakang.
+79	Berikutnya gerakan lunges untuk melatih otot kaki dan glute bridge untuk kuatkan secara spesifik bokong dan paha belakang.
+80	Berikutnya gerakan lunges untuk melatih otot kaki dan glute bridge untuk kuatkan secara spesifik bokong dan paha belakang.
+81	Berikutnya gerakan lunges untuk melatih otot kaki dan glute bridge untuk kuatkan secara spesifik bokong dan paha belakang.
+82	Berikutnya gerakan lunges untuk melatih otot kaki dan glute bridge untuk kuatkan secara spesifik bokong dan paha belakang.
+83	Berikutnya gerakan lunges untuk melatih otot kaki dan glute bridge untuk kuatkan secara spesifik bokong dan paha belakang.
+84	Berikutnya gerakan lunges untuk melatih otot kaki dan glute bridge untuk kuatkan secara spesifik bokong dan paha belakang. Gerakan terakhir dips di atas kursi untuk fokus ke otot bahu dan triceps.
+85	Berikutnya gerakan lunges untuk melatih otot kaki dan glute bridge untuk kuatkan secara spesifik bokong dan paha belakang. Gerakan terakhir dips di atas kursi untuk fokus ke otot bahu dan triceps.
+86	Gerakan terakhir dips di atas kursi untuk fokus ke otot bahu dan triceps.
+87	Gerakan terakhir dips di atas kursi untuk fokus ke otot bahu dan triceps.
+88	Gerakan terakhir dips di atas kursi untuk fokus ke otot bahu dan triceps.
+89	Gerakan terakhir dips di atas kursi untuk fokus ke otot bahu dan triceps.
+90	Gerakan terakhir dips di atas kursi untuk fokus ke otot bahu dan triceps.
+91	Gerakan terakhir dips di atas kursi untuk fokus ke otot bahu dan triceps.
+92	Gerakan terakhir dips di atas kursi untuk fokus ke otot bahu dan triceps.
+93	Gerakan terakhir dips di atas kursi untuk fokus ke otot bahu dan triceps.
+94	Gerakan terakhir dips di atas kursi untuk fokus ke otot bahu dan triceps.
+95	Gerakan terakhir dips di atas kursi untuk fokus ke otot bahu dan triceps.
+96	Gerakan terakhir dips di atas kursi untuk fokus ke otot bahu dan triceps. Kalian bisa latihan seluruh badan di rumah tanpa alat.
+97	Kalian bisa latihan seluruh badan di rumah tanpa alat.
+98	Kalian bisa latihan seluruh badan di rumah tanpa alat.
+99	Kalian bisa latihan seluruh badan di rumah tanpa alat.
+100	Kalian bisa latihan seluruh badan di rumah tanpa alat.
+101	Kalian bisa latihan seluruh badan di rumah tanpa alat.
+102	Kalian bisa latihan seluruh badan di rumah tanpa alat.
+103	Kalian bisa latihan seluruh badan di rumah tanpa alat.
+104	Kalian bisa latihan seluruh badan di rumah tanpa alat.
+105	Kalian bisa latihan seluruh badan di rumah tanpa alat. Jadwal latihan lengkap di caption so check it out.
+106	Kalian bisa latihan seluruh badan di rumah tanpa alat. Jadwal latihan lengkap di caption so check it out.
+107	Jadwal latihan lengkap di caption so check it out.
+108	Jadwal latihan lengkap di caption so check it out.
+109	Jadwal latihan lengkap di caption so check it out.
+110	Jadwal latihan lengkap di caption so check it out.
+111	Jadwal latihan lengkap di caption so check it out. By the way, kamu lebih suka latihan di gym atau rumah? Let me know.
+112	Jadwal latihan lengkap di caption so check it out. By the way, kamu lebih suka latihan di gym atau rumah? Let me know.
+113	By the way, kamu lebih suka latihan di gym atau rumah? Let me know.
+114	By the way, kamu lebih suka latihan di gym atau rumah? Let me know.
+115	By the way, kamu lebih suka latihan di gym atau rumah? Let me know.
+116	By the way, kamu lebih suka latihan di gym atau rumah? Let me know.
+117	By the way, kamu lebih suka latihan di gym atau rumah? Let me know.
+118	By the way, kamu lebih suka latihan di gym atau rumah? Let me know.
+119	By the way, kamu lebih suka latihan di gym atau rumah? Let me know.
+120	By the way, kamu lebih suka latihan di gym atau rumah? Let me know.
+121	By the way, kamu lebih suka latihan di gym atau rumah? Let me know.

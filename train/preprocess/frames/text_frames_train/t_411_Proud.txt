@@ -1,0 +1,216 @@
+0	Sayang, aku ada sesuatu.
+1	Sayang, aku ada sesuatu.
+2	Sayang, aku ada sesuatu.
+3	Sayang, aku ada sesuatu.
+4	Sayang, aku ada sesuatu.
+5	Sayang, aku ada sesuatu.
+6	Sayang, aku ada sesuatu.
+7	Sayang, aku ada sesuatu.
+8	Sayang, aku ada sesuatu.
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	Taraaa!
+15	Taraaa!
+16	Taraaa!
+17	Taraaa!
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	Apa ini?
+23	Apa ini?
+24	Apa ini?
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	Guys, jadi dia maksaku ikut main padel.
+31	Guys, jadi dia maksaku ikut main padel.
+32	Guys, jadi dia maksaku ikut main padel.
+33	Guys, jadi dia maksaku ikut main padel.
+34	Guys, jadi dia maksaku ikut main padel.
+35	Guys, jadi dia maksaku ikut main padel.
+36	Guys, jadi dia maksaku ikut main padel.
+37	Guys, jadi dia maksaku ikut main padel.
+38	Guys, jadi dia maksaku ikut main padel.
+39	Guys, jadi dia maksaku ikut main padel.
+40	Guys, jadi dia maksaku ikut main padel.
+41	Guys, jadi dia maksaku ikut main padel.
+42	Guys, jadi dia maksaku ikut main padel.
+43	Guys, jadi dia maksaku ikut main padel.
+44	Guys, jadi dia maksaku ikut main padel.
+45	Guys, jadi dia maksaku ikut main padel.
+46	Guys, jadi dia maksaku ikut main padel.
+47	Guys, jadi dia maksaku ikut main padel. Aku dibeliin ini.
+48	Guys, jadi dia maksaku ikut main padel. Aku dibeliin ini.
+49	Aku dibeliin ini.
+50	Aku dibeliin ini.
+51	Aku dibeliin ini.
+52	Dibeliin raket sama dia.
+53	Dibeliin raket sama dia.
+54	Dibeliin raket sama dia.
+55	Dibeliin raket sama dia.
+56	Dibeliin raket sama dia. Aku selama ini ditentang main padel.
+57	Dibeliin raket sama dia. Aku selama ini ditentang main padel.
+58	Aku selama ini ditentang main padel.
+59	Aku selama ini ditentang main padel.
+60	Aku selama ini ditentang main padel.
+61	Aku selama ini ditentang main padel.
+62	Aku selama ini ditentang main padel.
+63	Aku selama ini ditentang main padel. Sekarang kamu juga harus main sama aku.
+64	Sekarang kamu juga harus main sama aku.
+65	Sekarang kamu juga harus main sama aku.
+66	Sekarang kamu juga harus main sama aku.
+67	Sekarang kamu juga harus main sama aku. Kamu ralat itu, aku nggak tentang kamu main padel.
+68	Sekarang kamu juga harus main sama aku. Kamu ralat itu, aku nggak tentang kamu main padel.
+69	Kamu ralat itu, aku nggak tentang kamu main padel.
+70	Kamu ralat itu, aku nggak tentang kamu main padel. Iya, kamu nggak tentang aku.
+71	Kamu ralat itu, aku nggak tentang kamu main padel. Iya, kamu nggak tentang aku.
+72	Iya, kamu nggak tentang aku.
+73	Iya, kamu nggak tentang aku. Tapi kita harus main berdua. Biar bisa jadi fix padel.
+74	Iya, kamu nggak tentang aku. Tapi kita harus main berdua. Biar bisa jadi fix padel.
+75	Tapi kita harus main berdua. Biar bisa jadi fix padel.
+76	Tapi kita harus main berdua. Biar bisa jadi fix padel.
+77	Tapi kita harus main berdua. Biar bisa jadi fix padel.
+78	Tapi kita harus main berdua. Biar bisa jadi fix padel.
+79	Tapi kita harus main berdua. Biar bisa jadi fix padel.
+80	Tapi kita harus main berdua. Biar bisa jadi fix padel. Tapi kan aku harus keep up dulu biar aku bisa main sama kamu.
+81	Tapi kita harus main berdua. Biar bisa jadi fix padel. Tapi kan aku harus keep up dulu biar aku bisa main sama kamu.
+82	Tapi kan aku harus keep up dulu biar aku bisa main sama kamu.
+83	Tapi kan aku harus keep up dulu biar aku bisa main sama kamu.
+84	Tapi kan aku harus keep up dulu biar aku bisa main sama kamu.
+85	Tapi kan aku harus keep up dulu biar aku bisa main sama kamu.
+86	Tapi kan aku harus keep up dulu biar aku bisa main sama kamu.
+87	Tapi kan aku harus keep up dulu biar aku bisa main sama kamu. Ini punya siapa, sayang?
+88	Ini punya siapa, sayang?
+89	Ini punya siapa, sayang?
+90	Ini punya siapa, sayang?
+91	Ini punya siapa, sayang?
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	Ini punya...
+95	Ini punya...
+96	Ini punya...
+97	Ini punya...
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	Ortega.
+102	Ortega. Ortega, iya.
+103	Ortega. Ortega, iya.
+104	Ortega, iya.
+105	Ortega, iya.
+106	[NO_SPEECH]
+107	[NO_SPEECH]
+108	Martita Ortega, sayang.
+109	Martita Ortega, sayang.
+110	Martita Ortega, sayang.
+111	Martita Ortega, sayang.
+112	Martita Ortega, sayang. Semoga kamu suka ya.
+113	Semoga kamu suka ya.
+114	Semoga kamu suka ya.
+115	Semoga kamu suka ya. Tapi katanya...
+116	Tapi katanya... Saya pakai raket ini orang jauh-jauh.
+117	Tapi katanya... Saya pakai raket ini orang jauh-jauh.
+118	Saya pakai raket ini orang jauh-jauh.
+119	Saya pakai raket ini orang jauh-jauh.
+120	Saya pakai raket ini orang jauh-jauh.
+121	Saya pakai raket ini orang jauh-jauh. Oke, ini aku latihan.
+122	Oke, ini aku latihan.
+123	Oke, ini aku latihan.
+124	Oke, ini aku latihan.
+125	Oke, ini aku latihan.
+126	[NO_SPEECH]
+127	[NO_SPEECH]
+128	[NO_SPEECH]
+129	[NO_SPEECH]
+130	[NO_SPEECH]
+131	[NO_SPEECH]
+132	[NO_SPEECH]
+133	[NO_SPEECH]
+134	[NO_SPEECH]
+135	[NO_SPEECH]
+136	[NO_SPEECH]
+137	[NO_SPEECH]
+138	Oke, raket padel baru.
+139	Oke, raket padel baru.
+140	Oke, raket padel baru.
+141	Oke, raket padel baru.
+142	Oke, raket padel baru.
+143	Oke, raket padel baru. Thank you, suami.
+144	Oke, raket padel baru. Thank you, suami.
+145	Thank you, suami.
+146	Thank you, suami.
+147	Thank you, suami.
+148	[NO_SPEECH]
+149	[NO_SPEECH]
+150	[NO_SPEECH]
+151	[NO_SPEECH]
+152	[NO_SPEECH]
+153	[NO_SPEECH]
+154	Ini kan sepatunya ya.
+155	Ini kan sepatunya ya.
+156	Ini kan sepatunya ya.
+157	Ini kan sepatunya ya.
+158	Ini kan sepatunya ya.
+159	Ini kan sepatunya ya.
+160	Ini salah, aku jago.
+161	Ini salah, aku jago.
+162	Ini salah, aku jago.
+163	Ini salah, aku jago. Padel itu harus sepatu.
+164	Padel itu harus sepatu.
+165	Padel itu harus sepatu.
+166	Padel itu harus sepatu. Sepatu kamu.
+167	Padel itu harus sepatu. Sepatu kamu.
+168	Sepatu kamu.
+169	Sepatu kamu. Pakat itu nggak terlalu penting.
+170	Pakat itu nggak terlalu penting.
+171	Pakat itu nggak terlalu penting.
+172	Pakat itu nggak terlalu penting.
+173	Pakat itu nggak terlalu penting. Padelnya yang penting.
+174	Padelnya yang penting.
+175	Padelnya yang penting.
+176	Padelnya yang penting.
+177	[NO_SPEECH]
+178	[NO_SPEECH]
+179	[NO_SPEECH]
+180	[NO_SPEECH]
+181	[NO_SPEECH]
+182	[NO_SPEECH]
+183	[NO_SPEECH]
+184	[NO_SPEECH]
+185	[NO_SPEECH]
+186	[NO_SPEECH]
+187	[NO_SPEECH]
+188	[NO_SPEECH]
+189	[NO_SPEECH]
+190	[NO_SPEECH]
+191	[NO_SPEECH]
+192	[NO_SPEECH]
+193	[NO_SPEECH]
+194	[NO_SPEECH]
+195	[NO_SPEECH]
+196	[NO_SPEECH]
+197	[NO_SPEECH]
+198	[NO_SPEECH]
+199	[NO_SPEECH]
+200	[NO_SPEECH]
+201	[NO_SPEECH]
+202	Itu tak ngerti kayaknya, padel itu!
+203	Itu tak ngerti kayaknya, padel itu!
+204	Itu tak ngerti kayaknya, padel itu!
+205	Itu tak ngerti kayaknya, padel itu!
+206	Itu tak ngerti kayaknya, padel itu!
+207	Itu tak ngerti kayaknya, padel itu! Gila, wow! 
+208	Itu tak ngerti kayaknya, padel itu! Gila, wow!  Merci juga, ini saya importante, Burung.
+209	Merci juga, ini saya importante, Burung. Jika nanti aja kan deal mobil,
+210	Merci juga, ini saya importante, Burung. Jika nanti aja kan deal mobil,
+211	Jika nanti aja kan deal mobil, Jangan listrik paham2 Biru.
+212	Jika nanti aja kan deal mobil, Jangan listrik paham2 Biru.      Ha-ha, ke-ha...
+213	Jangan listrik paham2 Biru.      Ha-ha, ke-ha...
+214	Ha-ha, ke-ha...
+215	Ha-ha, ke-ha...

@@ -1,0 +1,172 @@
+0	Bang di monitor gua ada USB tapi gua colok mouse, HDD gak connect, rusak monitore
+1	Bang di monitor gua ada USB tapi gua colok mouse, HDD gak connect, rusak monitore
+2	Bang di monitor gua ada USB tapi gua colok mouse, HDD gak connect, rusak monitore
+3	Bang di monitor gua ada USB tapi gua colok mouse, HDD gak connect, rusak monitore
+4	Bang di monitor gua ada USB tapi gua colok mouse, HDD gak connect, rusak monitore
+5	Bang di monitor gua ada USB tapi gua colok mouse, HDD gak connect, rusak monitore
+6	Bang di monitor gua ada USB tapi gua colok mouse, HDD gak connect, rusak monitore
+7	Bang di monitor gua ada USB tapi gua colok mouse, HDD gak connect, rusak monitore
+8	Bang di monitor gua ada USB tapi gua colok mouse, HDD gak connect, rusak monitore
+9	Bang di monitor gua ada USB tapi gua colok mouse, HDD gak connect, rusak monitore Hmm entah kenapa dah akhir-akhir ini banyak banget yang komplain soal ginian
+10	Bang di monitor gua ada USB tapi gua colok mouse, HDD gak connect, rusak monitore Hmm entah kenapa dah akhir-akhir ini banyak banget yang komplain soal ginian
+11	Hmm entah kenapa dah akhir-akhir ini banyak banget yang komplain soal ginian
+12	Hmm entah kenapa dah akhir-akhir ini banyak banget yang komplain soal ginian
+13	Hmm entah kenapa dah akhir-akhir ini banyak banget yang komplain soal ginian
+14	Hmm entah kenapa dah akhir-akhir ini banyak banget yang komplain soal ginian
+15	Hmm entah kenapa dah akhir-akhir ini banyak banget yang komplain soal ginian
+16	Hmm entah kenapa dah akhir-akhir ini banyak banget yang komplain soal ginian
+17	Hmm entah kenapa dah akhir-akhir ini banyak banget yang komplain soal ginian Lu harus tau kalo lu colok monitor ke PC atau laptop lewat HDMI atau DP
+18	Hmm entah kenapa dah akhir-akhir ini banyak banget yang komplain soal ginian Lu harus tau kalo lu colok monitor ke PC atau laptop lewat HDMI atau DP
+19	Lu harus tau kalo lu colok monitor ke PC atau laptop lewat HDMI atau DP
+20	Lu harus tau kalo lu colok monitor ke PC atau laptop lewat HDMI atau DP
+21	Lu harus tau kalo lu colok monitor ke PC atau laptop lewat HDMI atau DP
+22	Lu harus tau kalo lu colok monitor ke PC atau laptop lewat HDMI atau DP
+23	Lu harus tau kalo lu colok monitor ke PC atau laptop lewat HDMI atau DP
+24	Lu harus tau kalo lu colok monitor ke PC atau laptop lewat HDMI atau DP
+25	Lu harus tau kalo lu colok monitor ke PC atau laptop lewat HDMI atau DP
+26	Lu harus tau kalo lu colok monitor ke PC atau laptop lewat HDMI atau DP
+27	Lu harus tau kalo lu colok monitor ke PC atau laptop lewat HDMI atau DP Itu konsepnya cuma satu arah dari PC atau laptop tembak gambar ke monitor
+28	Lu harus tau kalo lu colok monitor ke PC atau laptop lewat HDMI atau DP Itu konsepnya cuma satu arah dari PC atau laptop tembak gambar ke monitor
+29	Itu konsepnya cuma satu arah dari PC atau laptop tembak gambar ke monitor
+30	Itu konsepnya cuma satu arah dari PC atau laptop tembak gambar ke monitor
+31	Itu konsepnya cuma satu arah dari PC atau laptop tembak gambar ke monitor
+32	Itu konsepnya cuma satu arah dari PC atau laptop tembak gambar ke monitor
+33	Itu konsepnya cuma satu arah dari PC atau laptop tembak gambar ke monitor
+34	Itu konsepnya cuma satu arah dari PC atau laptop tembak gambar ke monitor
+35	Itu konsepnya cuma satu arah dari PC atau laptop tembak gambar ke monitor
+36	Itu konsepnya cuma satu arah dari PC atau laptop tembak gambar ke monitor
+37	Itu konsepnya cuma satu arah dari PC atau laptop tembak gambar ke monitor Kalo lu colok mouse atau HDD ke monitornya, cara dia connect ke PC atau laptop lu gimana caranya?
+38	Itu konsepnya cuma satu arah dari PC atau laptop tembak gambar ke monitor Kalo lu colok mouse atau HDD ke monitornya, cara dia connect ke PC atau laptop lu gimana caranya?
+39	Kalo lu colok mouse atau HDD ke monitornya, cara dia connect ke PC atau laptop lu gimana caranya?
+40	Kalo lu colok mouse atau HDD ke monitornya, cara dia connect ke PC atau laptop lu gimana caranya?
+41	Kalo lu colok mouse atau HDD ke monitornya, cara dia connect ke PC atau laptop lu gimana caranya?
+42	Kalo lu colok mouse atau HDD ke monitornya, cara dia connect ke PC atau laptop lu gimana caranya?
+43	Kalo lu colok mouse atau HDD ke monitornya, cara dia connect ke PC atau laptop lu gimana caranya?
+44	Kalo lu colok mouse atau HDD ke monitornya, cara dia connect ke PC atau laptop lu gimana caranya?
+45	Kalo lu colok mouse atau HDD ke monitornya, cara dia connect ke PC atau laptop lu gimana caranya?
+46	Kalo lu colok mouse atau HDD ke monitornya, cara dia connect ke PC atau laptop lu gimana caranya?
+47	Kalo lu colok mouse atau HDD ke monitornya, cara dia connect ke PC atau laptop lu gimana caranya?
+48	Kalo lu colok mouse atau HDD ke monitornya, cara dia connect ke PC atau laptop lu gimana caranya? HDMI, DP gak nyalurin datanya balik, orang cuma satu arah konsepnya
+49	Kalo lu colok mouse atau HDD ke monitornya, cara dia connect ke PC atau laptop lu gimana caranya? HDMI, DP gak nyalurin datanya balik, orang cuma satu arah konsepnya
+50	HDMI, DP gak nyalurin datanya balik, orang cuma satu arah konsepnya
+51	HDMI, DP gak nyalurin datanya balik, orang cuma satu arah konsepnya
+52	HDMI, DP gak nyalurin datanya balik, orang cuma satu arah konsepnya
+53	HDMI, DP gak nyalurin datanya balik, orang cuma satu arah konsepnya
+54	HDMI, DP gak nyalurin datanya balik, orang cuma satu arah konsepnya
+55	HDMI, DP gak nyalurin datanya balik, orang cuma satu arah konsepnya
+56	HDMI, DP gak nyalurin datanya balik, orang cuma satu arah konsepnya
+57	HDMI, DP gak nyalurin datanya balik, orang cuma satu arah konsepnya Itu kenapa monitor yang punya USB A di belakangnya biasanya kasih juga USB B atau USB C
+58	HDMI, DP gak nyalurin datanya balik, orang cuma satu arah konsepnya Itu kenapa monitor yang punya USB A di belakangnya biasanya kasih juga USB B atau USB C
+59	Itu kenapa monitor yang punya USB A di belakangnya biasanya kasih juga USB B atau USB C
+60	Itu kenapa monitor yang punya USB A di belakangnya biasanya kasih juga USB B atau USB C
+61	Itu kenapa monitor yang punya USB A di belakangnya biasanya kasih juga USB B atau USB C
+62	Itu kenapa monitor yang punya USB A di belakangnya biasanya kasih juga USB B atau USB C
+63	Itu kenapa monitor yang punya USB A di belakangnya biasanya kasih juga USB B atau USB C
+64	Itu kenapa monitor yang punya USB A di belakangnya biasanya kasih juga USB B atau USB C
+65	Itu kenapa monitor yang punya USB A di belakangnya biasanya kasih juga USB B atau USB C
+66	Itu kenapa monitor yang punya USB A di belakangnya biasanya kasih juga USB B atau USB C
+67	Itu kenapa monitor yang punya USB A di belakangnya biasanya kasih juga USB B atau USB C
+68	Itu kenapa monitor yang punya USB A di belakangnya biasanya kasih juga USB B atau USB C
+69	Itu kenapa monitor yang punya USB A di belakangnya biasanya kasih juga USB B atau USB C Port itu mesti lu colok ke PC atau laptop lu, biasa brandnya tuh kasih kabelnya
+70	Itu kenapa monitor yang punya USB A di belakangnya biasanya kasih juga USB B atau USB C Port itu mesti lu colok ke PC atau laptop lu, biasa brandnya tuh kasih kabelnya
+71	Port itu mesti lu colok ke PC atau laptop lu, biasa brandnya tuh kasih kabelnya
+72	Port itu mesti lu colok ke PC atau laptop lu, biasa brandnya tuh kasih kabelnya
+73	Port itu mesti lu colok ke PC atau laptop lu, biasa brandnya tuh kasih kabelnya
+74	Port itu mesti lu colok ke PC atau laptop lu, biasa brandnya tuh kasih kabelnya
+75	Port itu mesti lu colok ke PC atau laptop lu, biasa brandnya tuh kasih kabelnya
+76	Port itu mesti lu colok ke PC atau laptop lu, biasa brandnya tuh kasih kabelnya
+77	Port itu mesti lu colok ke PC atau laptop lu, biasa brandnya tuh kasih kabelnya
+78	Port itu mesti lu colok ke PC atau laptop lu, biasa brandnya tuh kasih kabelnya Atau bisa lu beli sendiri juga kabelnya
+79	Port itu mesti lu colok ke PC atau laptop lu, biasa brandnya tuh kasih kabelnya Atau bisa lu beli sendiri juga kabelnya
+80	Atau bisa lu beli sendiri juga kabelnya
+81	Atau bisa lu beli sendiri juga kabelnya
+82	Atau bisa lu beli sendiri juga kabelnya Barulah semua USB A di belakang monitornya itu bisa lu pake
+83	Atau bisa lu beli sendiri juga kabelnya Barulah semua USB A di belakang monitornya itu bisa lu pake
+84	Barulah semua USB A di belakang monitornya itu bisa lu pake
+85	Barulah semua USB A di belakang monitornya itu bisa lu pake
+86	Barulah semua USB A di belakang monitornya itu bisa lu pake
+87	Barulah semua USB A di belakang monitornya itu bisa lu pake
+88	Barulah semua USB A di belakang monitornya itu bisa lu pake
+89	Barulah semua USB A di belakang monitornya itu bisa lu pake
+90	Barulah semua USB A di belakang monitornya itu bisa lu pake
+91	Barulah semua USB A di belakang monitornya itu bisa lu pake Di sisi lain banyak monitor Samsung kasih USB A di belakang monitornya tapi gak ada USB B atau USB C
+92	Barulah semua USB A di belakang monitornya itu bisa lu pake Di sisi lain banyak monitor Samsung kasih USB A di belakang monitornya tapi gak ada USB B atau USB C
+93	Di sisi lain banyak monitor Samsung kasih USB A di belakang monitornya tapi gak ada USB B atau USB C
+94	Di sisi lain banyak monitor Samsung kasih USB A di belakang monitornya tapi gak ada USB B atau USB C
+95	Di sisi lain banyak monitor Samsung kasih USB A di belakang monitornya tapi gak ada USB B atau USB C
+96	Di sisi lain banyak monitor Samsung kasih USB A di belakang monitornya tapi gak ada USB B atau USB C
+97	Di sisi lain banyak monitor Samsung kasih USB A di belakang monitornya tapi gak ada USB B atau USB C
+98	Di sisi lain banyak monitor Samsung kasih USB A di belakang monitornya tapi gak ada USB B atau USB C
+99	Di sisi lain banyak monitor Samsung kasih USB A di belakang monitornya tapi gak ada USB B atau USB C
+100	Di sisi lain banyak monitor Samsung kasih USB A di belakang monitornya tapi gak ada USB B atau USB C
+101	Di sisi lain banyak monitor Samsung kasih USB A di belakang monitornya tapi gak ada USB B atau USB C
+102	Di sisi lain banyak monitor Samsung kasih USB A di belakang monitornya tapi gak ada USB B atau USB C
+103	Di sisi lain banyak monitor Samsung kasih USB A di belakang monitornya tapi gak ada USB B atau USB C Itu fungsinya buat update firmware monitornya
+104	Di sisi lain banyak monitor Samsung kasih USB A di belakang monitornya tapi gak ada USB B atau USB C Itu fungsinya buat update firmware monitornya
+105	Itu fungsinya buat update firmware monitornya
+106	Itu fungsinya buat update firmware monitornya
+107	Itu fungsinya buat update firmware monitornya
+108	Itu fungsinya buat update firmware monitornya
+109	Itu fungsinya buat update firmware monitornya Semisal ada firmware monitor yang error
+110	Itu fungsinya buat update firmware monitornya Semisal ada firmware monitor yang error
+111	Semisal ada firmware monitor yang error
+112	Semisal ada firmware monitor yang error
+113	Semisal ada firmware monitor yang error
+114	Semisal ada firmware monitor yang error Dan banyak banget monitornya
+115	Semisal ada firmware monitor yang error Dan banyak banget monitornya
+116	Dan banyak banget monitornya
+117	Dan banyak banget monitornya Ada monitor ODM yang ganti-ganti merek doang di China
+118	Dan banyak banget monitornya Ada monitor ODM yang ganti-ganti merek doang di China
+119	Ada monitor ODM yang ganti-ganti merek doang di China
+120	Ada monitor ODM yang ganti-ganti merek doang di China
+121	Ada monitor ODM yang ganti-ganti merek doang di China Itu juga kasih USB A di monitor tanpa USB B atau USB C nya
+122	Ada monitor ODM yang ganti-ganti merek doang di China Itu juga kasih USB A di monitor tanpa USB B atau USB C nya
+123	Itu juga kasih USB A di monitor tanpa USB B atau USB C nya
+124	Itu juga kasih USB A di monitor tanpa USB B atau USB C nya
+125	Itu juga kasih USB A di monitor tanpa USB B atau USB C nya
+126	Itu juga kasih USB A di monitor tanpa USB B atau USB C nya
+127	Itu juga kasih USB A di monitor tanpa USB B atau USB C nya
+128	Itu juga kasih USB A di monitor tanpa USB B atau USB C nya
+129	Itu juga kasih USB A di monitor tanpa USB B atau USB C nya
+130	Itu juga kasih USB A di monitor tanpa USB B atau USB C nya Yaitu konsep orang China jualan
+131	Itu juga kasih USB A di monitor tanpa USB B atau USB C nya Yaitu konsep orang China jualan
+132	Yaitu konsep orang China jualan
+133	Yaitu konsep orang China jualan
+134	Yaitu konsep orang China jualan Negara mana yang mau beli dia tinggal colok thumb drive
+135	Yaitu konsep orang China jualan Negara mana yang mau beli dia tinggal colok thumb drive
+136	Negara mana yang mau beli dia tinggal colok thumb drive
+137	Negara mana yang mau beli dia tinggal colok thumb drive
+138	Negara mana yang mau beli dia tinggal colok thumb drive
+139	Negara mana yang mau beli dia tinggal colok thumb drive
+140	Negara mana yang mau beli dia tinggal colok thumb drive Terus ganti bahasa sesuai yang customer nya mau
+141	Negara mana yang mau beli dia tinggal colok thumb drive Terus ganti bahasa sesuai yang customer nya mau
+142	Terus ganti bahasa sesuai yang customer nya mau
+143	Terus ganti bahasa sesuai yang customer nya mau
+144	Terus ganti bahasa sesuai yang customer nya mau
+145	Terus ganti bahasa sesuai yang customer nya mau
+146	Terus ganti bahasa sesuai yang customer nya mau Buat info brand monitor mana yang layak dibeli sekarang
+147	Terus ganti bahasa sesuai yang customer nya mau Buat info brand monitor mana yang layak dibeli sekarang
+148	Buat info brand monitor mana yang layak dibeli sekarang
+149	Buat info brand monitor mana yang layak dibeli sekarang
+150	Buat info brand monitor mana yang layak dibeli sekarang
+151	Buat info brand monitor mana yang layak dibeli sekarang Gue udah bahas di video ini
+152	Buat info brand monitor mana yang layak dibeli sekarang Gue udah bahas di video ini
+153	Gue udah bahas di video ini
+154	Gue udah bahas di video ini Dan buat yang mau tanya-tanya sama gue langsung bisa join discord linknya di bawah
+155	Gue udah bahas di video ini Dan buat yang mau tanya-tanya sama gue langsung bisa join discord linknya di bawah
+156	Dan buat yang mau tanya-tanya sama gue langsung bisa join discord linknya di bawah
+157	Dan buat yang mau tanya-tanya sama gue langsung bisa join discord linknya di bawah
+158	Dan buat yang mau tanya-tanya sama gue langsung bisa join discord linknya di bawah
+159	Dan buat yang mau tanya-tanya sama gue langsung bisa join discord linknya di bawah
+160	Dan buat yang mau tanya-tanya sama gue langsung bisa join discord linknya di bawah
+161	Dan buat yang mau tanya-tanya sama gue langsung bisa join discord linknya di bawah
+162	Dan buat yang mau tanya-tanya sama gue langsung bisa join discord linknya di bawah Dan lu bisa top up game kesukaan lu di GT Day Top Up
+163	Dan buat yang mau tanya-tanya sama gue langsung bisa join discord linknya di bawah Dan lu bisa top up game kesukaan lu di GT Day Top Up
+164	Dan lu bisa top up game kesukaan lu di GT Day Top Up
+165	Dan lu bisa top up game kesukaan lu di GT Day Top Up
+166	Dan lu bisa top up game kesukaan lu di GT Day Top Up
+167	Dan lu bisa top up game kesukaan lu di GT Day Top Up
+168	Dan lu bisa top up game kesukaan lu di GT Day Top Up
+169	Dan lu bisa top up game kesukaan lu di GT Day Top Up
+170	[NO_SPEECH]
+171	[NO_SPEECH]

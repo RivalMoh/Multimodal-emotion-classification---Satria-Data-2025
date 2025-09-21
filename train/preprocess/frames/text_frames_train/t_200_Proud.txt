@@ -1,0 +1,597 @@
+0	Kayaknya perlu pake concealer, tapi aku ga punya nih concealer muak.
+1	Kayaknya perlu pake concealer, tapi aku ga punya nih concealer muak.
+2	Kayaknya perlu pake concealer, tapi aku ga punya nih concealer muak.
+3	Kayaknya perlu pake concealer, tapi aku ga punya nih concealer muak.
+4	Kayaknya perlu pake concealer, tapi aku ga punya nih concealer muak.
+5	Kayaknya perlu pake concealer, tapi aku ga punya nih concealer muak.
+6	Kayaknya perlu pake concealer, tapi aku ga punya nih concealer muak. Kayaknya muak emang belum ada concealernya.
+7	Kayaknya perlu pake concealer, tapi aku ga punya nih concealer muak. Kayaknya muak emang belum ada concealernya.
+8	Kayaknya muak emang belum ada concealernya.
+9	Kayaknya muak emang belum ada concealernya.
+10	Kayaknya muak emang belum ada concealernya.
+11	Kayaknya muak emang belum ada concealernya. Gue pake MOP aja, shade LN1.
+12	Gue pake MOP aja, shade LN1.
+13	Gue pake MOP aja, shade LN1.
+14	Gue pake MOP aja, shade LN1.
+15	Gue pake MOP aja, shade LN1. Gue akan highlight area sini sambil buat nutupin jerawat aku.
+16	Gue pake MOP aja, shade LN1. Gue akan highlight area sini sambil buat nutupin jerawat aku.
+17	Gue akan highlight area sini sambil buat nutupin jerawat aku.
+18	Gue akan highlight area sini sambil buat nutupin jerawat aku.
+19	Gue akan highlight area sini sambil buat nutupin jerawat aku.
+20	Gue akan highlight area sini sambil buat nutupin jerawat aku.
+21	Gue akan highlight area sini sambil buat nutupin jerawat aku.
+22	Gue akan highlight area sini sambil buat nutupin jerawat aku.
+23	Gue akan highlight area sini sambil buat nutupin jerawat aku. Nah ini perfect match banget sama concealer MOP.
+24	Nah ini perfect match banget sama concealer MOP.
+25	Nah ini perfect match banget sama concealer MOP.
+26	Nah ini perfect match banget sama concealer MOP.
+27	Nah ini perfect match banget sama concealer MOP.
+28	Nah ini perfect match banget sama concealer MOP.
+29	Nah ini perfect match banget sama concealer MOP.
+30	Nah ini perfect match banget sama concealer MOP.
+31	Nah ini perfect match banget sama concealer MOP.
+32	Nah ini perfect match banget sama concealer MOP. Karena concealer MOP itu kan finishnya bener-bener matte ya.
+33	Nah ini perfect match banget sama concealer MOP. Karena concealer MOP itu kan finishnya bener-bener matte ya.
+34	Karena concealer MOP itu kan finishnya bener-bener matte ya.
+35	Karena concealer MOP itu kan finishnya bener-bener matte ya.
+36	Karena concealer MOP itu kan finishnya bener-bener matte ya.
+37	Karena concealer MOP itu kan finishnya bener-bener matte ya.
+38	Karena concealer MOP itu kan finishnya bener-bener matte ya.
+39	Karena concealer MOP itu kan finishnya bener-bener matte ya. Matte dan bener-bener full coverage-nya.
+40	Karena concealer MOP itu kan finishnya bener-bener matte ya. Matte dan bener-bener full coverage-nya.
+41	Matte dan bener-bener full coverage-nya.
+42	Matte dan bener-bener full coverage-nya.
+43	Matte dan bener-bener full coverage-nya. Kalian bisa liat di area yang aku pakein concealer MOP, finishnya langsung berubah banget.
+44	Matte dan bener-bener full coverage-nya. Kalian bisa liat di area yang aku pakein concealer MOP, finishnya langsung berubah banget.
+45	Kalian bisa liat di area yang aku pakein concealer MOP, finishnya langsung berubah banget.
+46	Kalian bisa liat di area yang aku pakein concealer MOP, finishnya langsung berubah banget.
+47	Kalian bisa liat di area yang aku pakein concealer MOP, finishnya langsung berubah banget.
+48	Kalian bisa liat di area yang aku pakein concealer MOP, finishnya langsung berubah banget.
+49	Kalian bisa liat di area yang aku pakein concealer MOP, finishnya langsung berubah banget.
+50	Kalian bisa liat di area yang aku pakein concealer MOP, finishnya langsung berubah banget.
+51	Kalian bisa liat di area yang aku pakein concealer MOP, finishnya langsung berubah banget. Nah terus sebenernya mereka itu ada namanya ini nih,
+52	Kalian bisa liat di area yang aku pakein concealer MOP, finishnya langsung berubah banget. Nah terus sebenernya mereka itu ada namanya ini nih,
+53	Nah terus sebenernya mereka itu ada namanya ini nih,
+54	Nah terus sebenernya mereka itu ada namanya ini nih,
+55	Nah terus sebenernya mereka itu ada namanya ini nih,
+56	Nah terus sebenernya mereka itu ada namanya ini nih,
+57	Nah terus sebenernya mereka itu ada namanya ini nih,
+58	Nah terus sebenernya mereka itu ada namanya ini nih,
+59	Conceal and Contour Stick.
+60	Conceal and Contour Stick.
+61	Conceal and Contour Stick.
+62	Conceal and Contour Stick. Tapi masalahnya warna terangnya abis.
+63	Conceal and Contour Stick. Tapi masalahnya warna terangnya abis.
+64	Tapi masalahnya warna terangnya abis.
+65	Tapi masalahnya warna terangnya abis.
+66	Tapi masalahnya warna terangnya abis.
+67	Tapi masalahnya warna terangnya abis.
+68	Tapi masalahnya warna terangnya abis. Jadi mungkin concealer-nya tuh ini.
+69	Tapi masalahnya warna terangnya abis. Jadi mungkin concealer-nya tuh ini.
+70	Jadi mungkin concealer-nya tuh ini.
+71	Jadi mungkin concealer-nya tuh ini.
+72	Jadi mungkin concealer-nya tuh ini. Terus katanya si muak ini punya contour stick yang paling full tone di Indonesia.
+73	Jadi mungkin concealer-nya tuh ini. Terus katanya si muak ini punya contour stick yang paling full tone di Indonesia.
+74	Terus katanya si muak ini punya contour stick yang paling full tone di Indonesia.
+75	Terus katanya si muak ini punya contour stick yang paling full tone di Indonesia.
+76	Terus katanya si muak ini punya contour stick yang paling full tone di Indonesia.
+77	Terus katanya si muak ini punya contour stick yang paling full tone di Indonesia.
+78	Terus katanya si muak ini punya contour stick yang paling full tone di Indonesia.
+79	Terus katanya si muak ini punya contour stick yang paling full tone di Indonesia.
+80	Terus katanya si muak ini punya contour stick yang paling full tone di Indonesia.
+81	Terus katanya si muak ini punya contour stick yang paling full tone di Indonesia.
+82	Terus katanya si muak ini punya contour stick yang paling full tone di Indonesia.
+83	Terus katanya si muak ini punya contour stick yang paling full tone di Indonesia. Tapi saya tidak beli, karena aku ngerasa aku kayak ga cocok aja kalo yang terlalu full tone.
+84	Tapi saya tidak beli, karena aku ngerasa aku kayak ga cocok aja kalo yang terlalu full tone.
+85	Tapi saya tidak beli, karena aku ngerasa aku kayak ga cocok aja kalo yang terlalu full tone.
+86	Tapi saya tidak beli, karena aku ngerasa aku kayak ga cocok aja kalo yang terlalu full tone.
+87	Tapi saya tidak beli, karena aku ngerasa aku kayak ga cocok aja kalo yang terlalu full tone.
+88	Tapi saya tidak beli, karena aku ngerasa aku kayak ga cocok aja kalo yang terlalu full tone.
+89	Tapi saya tidak beli, karena aku ngerasa aku kayak ga cocok aja kalo yang terlalu full tone.
+90	Tapi saya tidak beli, karena aku ngerasa aku kayak ga cocok aja kalo yang terlalu full tone.
+91	Tapi saya tidak beli, karena aku ngerasa aku kayak ga cocok aja kalo yang terlalu full tone.
+92	Tapi saya tidak beli, karena aku ngerasa aku kayak ga cocok aja kalo yang terlalu full tone.
+93	Tapi saya tidak beli, karena aku ngerasa aku kayak ga cocok aja kalo yang terlalu full tone. Jadi yang aku beli tuh yang shadenya Lume sama Dark.
+94	Jadi yang aku beli tuh yang shadenya Lume sama Dark.
+95	Jadi yang aku beli tuh yang shadenya Lume sama Dark.
+96	Jadi yang aku beli tuh yang shadenya Lume sama Dark.
+97	Jadi yang aku beli tuh yang shadenya Lume sama Dark.
+98	Jadi yang aku beli tuh yang shadenya Lume sama Dark.
+99	Jadi yang aku beli tuh yang shadenya Lume sama Dark. Dan kayaknya yang akan aku pake hari ini tuh yang shade...
+100	Jadi yang aku beli tuh yang shadenya Lume sama Dark. Dan kayaknya yang akan aku pake hari ini tuh yang shade...
+101	Dan kayaknya yang akan aku pake hari ini tuh yang shade...
+102	Dan kayaknya yang akan aku pake hari ini tuh yang shade...
+103	Dan kayaknya yang akan aku pake hari ini tuh yang shade...
+104	Dan kayaknya yang akan aku pake hari ini tuh yang shade...
+105	Dan kayaknya yang akan aku pake hari ini tuh yang shade... Yah, udah ke...
+106	Dan kayaknya yang akan aku pake hari ini tuh yang shade... Yah, udah ke... Eh, keras-kerasnya guys.
+107	Yah, udah ke... Eh, keras-kerasnya guys.
+108	Eh, keras-kerasnya guys.
+109	Eh, keras-kerasnya guys. Jadi saya tidak tau.
+110	Eh, keras-kerasnya guys. Jadi saya tidak tau. Saya pake shade ini.
+111	Jadi saya tidak tau. Saya pake shade ini. Kalo shade ini udah ke-6.
+112	Saya pake shade ini. Kalo shade ini udah ke-6.
+113	Kalo shade ini udah ke-6. Kayaknya aku akan pake shade Groom deh.
+114	Kayaknya aku akan pake shade Groom deh.
+115	Kayaknya aku akan pake shade Groom deh.
+116	Kayaknya aku akan pake shade Groom deh.
+117	Kayaknya aku akan pake shade Groom deh. Kita coba yang Groom dulu.
+118	Kayaknya aku akan pake shade Groom deh. Kita coba yang Groom dulu.
+119	Kita coba yang Groom dulu. Dia warnanya warm tone.
+120	Kita coba yang Groom dulu. Dia warnanya warm tone.
+121	Dia warnanya warm tone.
+122	Dia warnanya warm tone.
+123	Dia warnanya warm tone. Jadi kita akan brown touring.
+124	Jadi kita akan brown touring.
+125	Jadi kita akan brown touring.
+126	Jadi kita akan brown touring.
+127	Jadi kita akan brown touring.
+128	Jadi kita akan brown touring.
+129	Jadi kita akan brown touring. Nah, dan dia finishnya matte.
+130	Nah, dan dia finishnya matte.
+131	Nah, dan dia finishnya matte.
+132	Nah, dan dia finishnya matte.
+133	Nah, dan dia finishnya matte. Bisa banget sih dia sebut ini conceal and contour.
+134	Nah, dan dia finishnya matte. Bisa banget sih dia sebut ini conceal and contour.
+135	Bisa banget sih dia sebut ini conceal and contour.
+136	Bisa banget sih dia sebut ini conceal and contour.
+137	Bisa banget sih dia sebut ini conceal and contour.
+138	Bisa banget sih dia sebut ini conceal and contour.
+139	Bisa banget sih dia sebut ini conceal and contour.
+140	Bisa banget sih dia sebut ini conceal and contour. Coba kita akan blend ini.
+141	Coba kita akan blend ini.
+142	Coba kita akan blend ini.
+143	Coba kita akan blend ini.
+144	Coba kita akan blend ini. Pasti susah.
+145	Pasti susah. Aku yakin banget ini pasti susah.
+146	Pasti susah. Aku yakin banget ini pasti susah.
+147	Aku yakin banget ini pasti susah.
+148	Aku yakin banget ini pasti susah. Tuh kan.
+149	Aku yakin banget ini pasti susah. Tuh kan. Ini for professional use sih menurut aku.
+150	Tuh kan. Ini for professional use sih menurut aku.
+151	Ini for professional use sih menurut aku.
+152	Ini for professional use sih menurut aku.
+153	Ini for professional use sih menurut aku.
+154	Ini for professional use sih menurut aku.
+155	Ini for professional use sih menurut aku.
+156	Ini for professional use sih menurut aku. Cepet banget konsepnya.
+157	Ini for professional use sih menurut aku. Cepet banget konsepnya.
+158	Cepet banget konsepnya. Tapi keuntungannya sih gara-gara dia bener-bener matte.
+159	Cepet banget konsepnya. Tapi keuntungannya sih gara-gara dia bener-bener matte.
+160	Tapi keuntungannya sih gara-gara dia bener-bener matte.
+161	Tapi keuntungannya sih gara-gara dia bener-bener matte.
+162	Tapi keuntungannya sih gara-gara dia bener-bener matte.
+163	Tapi keuntungannya sih gara-gara dia bener-bener matte.
+164	Tapi keuntungannya sih gara-gara dia bener-bener matte. Jadi pada saat di blend dia ga melebih kemana-mana.
+165	Tapi keuntungannya sih gara-gara dia bener-bener matte. Jadi pada saat di blend dia ga melebih kemana-mana.
+166	Jadi pada saat di blend dia ga melebih kemana-mana.
+167	Jadi pada saat di blend dia ga melebih kemana-mana.
+168	Jadi pada saat di blend dia ga melebih kemana-mana.
+169	Jadi pada saat di blend dia ga melebih kemana-mana.
+170	Jadi pada saat di blend dia ga melebih kemana-mana. Karena dia warm tone.
+171	Karena dia warm tone. Dia warm banget.
+172	Karena dia warm tone. Dia warm banget. Jadi aku mau arahin dia kayak agak ke bawah-bawah sini juga.
+173	Dia warm banget. Jadi aku mau arahin dia kayak agak ke bawah-bawah sini juga.
+174	Jadi aku mau arahin dia kayak agak ke bawah-bawah sini juga.
+175	Jadi aku mau arahin dia kayak agak ke bawah-bawah sini juga.
+176	Jadi aku mau arahin dia kayak agak ke bawah-bawah sini juga.
+177	Jadi aku mau arahin dia kayak agak ke bawah-bawah sini juga.
+178	Jadi aku mau arahin dia kayak agak ke bawah-bawah sini juga.
+179	Jadi aku mau arahin dia kayak agak ke bawah-bawah sini juga.
+180	Jadi aku mau arahin dia kayak agak ke bawah-bawah sini juga. Dan ke depan pipi.
+181	Dan ke depan pipi.
+182	Dan ke depan pipi.
+183	Dan ke depan pipi.
+184	Dan ke depan pipi. Cuman jujur ini warna yang aku beli terlalu warm sih kalo untuk contour hidung.
+185	Dan ke depan pipi. Cuman jujur ini warna yang aku beli terlalu warm sih kalo untuk contour hidung.
+186	Cuman jujur ini warna yang aku beli terlalu warm sih kalo untuk contour hidung.
+187	Cuman jujur ini warna yang aku beli terlalu warm sih kalo untuk contour hidung.
+188	Cuman jujur ini warna yang aku beli terlalu warm sih kalo untuk contour hidung.
+189	Cuman jujur ini warna yang aku beli terlalu warm sih kalo untuk contour hidung.
+190	Cuman jujur ini warna yang aku beli terlalu warm sih kalo untuk contour hidung.
+191	Cuman jujur ini warna yang aku beli terlalu warm sih kalo untuk contour hidung.
+192	Cuman jujur ini warna yang aku beli terlalu warm sih kalo untuk contour hidung.
+193	Cuman jujur ini warna yang aku beli terlalu warm sih kalo untuk contour hidung.
+194	Cuman jujur ini warna yang aku beli terlalu warm sih kalo untuk contour hidung.
+195	Cuman jujur ini warna yang aku beli terlalu warm sih kalo untuk contour hidung.
+196	Cuman jujur ini warna yang aku beli terlalu warm sih kalo untuk contour hidung. Jadinya agak kurang oke ya.
+197	Jadinya agak kurang oke ya.
+198	Jadinya agak kurang oke ya.
+199	Jadinya agak kurang oke ya. Tapi ini bukan salah produknya.
+200	Tapi ini bukan salah produknya.
+201	Tapi ini bukan salah produknya.
+202	Tapi ini bukan salah produknya. Ini salah pemilihan shade aku aja.
+203	Tapi ini bukan salah produknya. Ini salah pemilihan shade aku aja.
+204	Ini salah pemilihan shade aku aja.
+205	Ini salah pemilihan shade aku aja. Nah, ini foundationnya udah mulai nyerep ya.
+206	Ini salah pemilihan shade aku aja. Nah, ini foundationnya udah mulai nyerep ya.
+207	Nah, ini foundationnya udah mulai nyerep ya.
+208	Nah, ini foundationnya udah mulai nyerep ya.
+209	Nah, ini foundationnya udah mulai nyerep ya.
+210	Nah, ini foundationnya udah mulai nyerep ya.
+211	Nah, ini foundationnya udah mulai nyerep ya. Kalian bisa liat kalo di area dahi itu masih ada shinenya.
+212	Kalian bisa liat kalo di area dahi itu masih ada shinenya.
+213	Kalian bisa liat kalo di area dahi itu masih ada shinenya.
+214	Kalian bisa liat kalo di area dahi itu masih ada shinenya.
+215	Kalian bisa liat kalo di area dahi itu masih ada shinenya.
+216	Kalian bisa liat kalo di area dahi itu masih ada shinenya.
+217	Kalian bisa liat kalo di area dahi itu masih ada shinenya. Di area yang udah pake concealer MOP dia udah mat.
+218	Kalian bisa liat kalo di area dahi itu masih ada shinenya. Di area yang udah pake concealer MOP dia udah mat.
+219	Di area yang udah pake concealer MOP dia udah mat.
+220	Di area yang udah pake concealer MOP dia udah mat.
+221	Di area yang udah pake concealer MOP dia udah mat.
+222	Di area yang udah pake concealer MOP dia udah mat.
+223	Di area yang udah pake concealer MOP dia udah mat. Nah, selanjutnya kita akan siap pake loose powder.
+224	Di area yang udah pake concealer MOP dia udah mat. Nah, selanjutnya kita akan siap pake loose powder.
+225	Nah, selanjutnya kita akan siap pake loose powder.
+226	Nah, selanjutnya kita akan siap pake loose powder.
+227	Nah, selanjutnya kita akan siap pake loose powder. High definition loose powder.
+228	Nah, selanjutnya kita akan siap pake loose powder. High definition loose powder.
+229	High definition loose powder.
+230	High definition loose powder.
+231	High definition loose powder. 
+232	High definition loose powder.  Translucent.
+233	Translucent. Tapi dia translucentnya tuh ada shadenya.
+234	Translucent. Tapi dia translucentnya tuh ada shadenya.
+235	Tapi dia translucentnya tuh ada shadenya.
+236	Tapi dia translucentnya tuh ada shadenya.
+237	Tapi dia translucentnya tuh ada shadenya. Nah, ini tuh yang shade merah.
+238	Tapi dia translucentnya tuh ada shadenya. Nah, ini tuh yang shade merah.
+239	Nah, ini tuh yang shade merah.
+240	Nah, ini tuh yang shade merah. Oke, puffnya bagus.
+241	Nah, ini tuh yang shade merah. Oke, puffnya bagus.
+242	Oke, puffnya bagus.
+243	Oke, puffnya bagus.
+244	Oke, puffnya bagus. Dan aku suka nih kalo yang MUA-MUA tuh kayaknya biasanya lebih suka yang packagingnya kayak gini.
+245	Oke, puffnya bagus. Dan aku suka nih kalo yang MUA-MUA tuh kayaknya biasanya lebih suka yang packagingnya kayak gini.
+246	Dan aku suka nih kalo yang MUA-MUA tuh kayaknya biasanya lebih suka yang packagingnya kayak gini.
+247	Dan aku suka nih kalo yang MUA-MUA tuh kayaknya biasanya lebih suka yang packagingnya kayak gini.
+248	Dan aku suka nih kalo yang MUA-MUA tuh kayaknya biasanya lebih suka yang packagingnya kayak gini.
+249	Dan aku suka nih kalo yang MUA-MUA tuh kayaknya biasanya lebih suka yang packagingnya kayak gini.
+250	Dan aku suka nih kalo yang MUA-MUA tuh kayaknya biasanya lebih suka yang packagingnya kayak gini.
+251	Dan aku suka nih kalo yang MUA-MUA tuh kayaknya biasanya lebih suka yang packagingnya kayak gini.
+252	Dan aku suka nih kalo yang MUA-MUA tuh kayaknya biasanya lebih suka yang packagingnya kayak gini.
+253	Dan aku suka nih kalo yang MUA-MUA tuh kayaknya biasanya lebih suka yang packagingnya kayak gini.
+254	Dan aku suka nih kalo yang MUA-MUA tuh kayaknya biasanya lebih suka yang packagingnya kayak gini.
+255	Dan aku suka nih kalo yang MUA-MUA tuh kayaknya biasanya lebih suka yang packagingnya kayak gini. Pilih aku ini dia bakal mattifying banget.
+256	Dan aku suka nih kalo yang MUA-MUA tuh kayaknya biasanya lebih suka yang packagingnya kayak gini. Pilih aku ini dia bakal mattifying banget.
+257	Pilih aku ini dia bakal mattifying banget.
+258	Pilih aku ini dia bakal mattifying banget.
+259	Pilih aku ini dia bakal mattifying banget.
+260	Pilih aku ini dia bakal mattifying banget. Kalo ga kenapa.
+261	Pilih aku ini dia bakal mattifying banget. Kalo ga kenapa. Karena bulirnya tuh wah ini bener-bener ringan banget.
+262	Kalo ga kenapa. Karena bulirnya tuh wah ini bener-bener ringan banget.
+263	Karena bulirnya tuh wah ini bener-bener ringan banget.
+264	Karena bulirnya tuh wah ini bener-bener ringan banget.
+265	Karena bulirnya tuh wah ini bener-bener ringan banget.
+266	Karena bulirnya tuh wah ini bener-bener ringan banget.
+267	Karena bulirnya tuh wah ini bener-bener ringan banget.
+268	Karena bulirnya tuh wah ini bener-bener ringan banget.
+269	Karena bulirnya tuh wah ini bener-bener ringan banget. Bulir-bulir loose powdernya tuh sampe ikutan terbang gitu.
+270	Bulir-bulir loose powdernya tuh sampe ikutan terbang gitu.
+271	Bulir-bulir loose powdernya tuh sampe ikutan terbang gitu.
+272	Bulir-bulir loose powdernya tuh sampe ikutan terbang gitu.
+273	Bulir-bulir loose powdernya tuh sampe ikutan terbang gitu.
+274	Bulir-bulir loose powdernya tuh sampe ikutan terbang gitu.
+275	Bulir-bulir loose powdernya tuh sampe ikutan terbang gitu. Nih biasanya yang kayak gini nih tambahin coverage sama mattifying banget.
+276	Bulir-bulir loose powdernya tuh sampe ikutan terbang gitu. Nih biasanya yang kayak gini nih tambahin coverage sama mattifying banget.
+277	Nih biasanya yang kayak gini nih tambahin coverage sama mattifying banget.
+278	Nih biasanya yang kayak gini nih tambahin coverage sama mattifying banget.
+279	Nih biasanya yang kayak gini nih tambahin coverage sama mattifying banget.
+280	Nih biasanya yang kayak gini nih tambahin coverage sama mattifying banget.
+281	Nih biasanya yang kayak gini nih tambahin coverage sama mattifying banget.
+282	Nih biasanya yang kayak gini nih tambahin coverage sama mattifying banget.
+283	Nih biasanya yang kayak gini nih tambahin coverage sama mattifying banget.
+284	Nih biasanya yang kayak gini nih tambahin coverage sama mattifying banget. Oke, kita liat aja.
+285	Oke, kita liat aja.
+286	Oke, kita liat aja. Ganti kan sekarang.
+287	Ganti kan sekarang.
+288	Ganti kan sekarang. Ini kayaknya...
+289	Ganti kan sekarang. Ini kayaknya...
+290	Ini kayaknya... Kalo loose powdernya lebih cocok buat yang kulit yang berminyak sih guys.
+291	Ini kayaknya... Kalo loose powdernya lebih cocok buat yang kulit yang berminyak sih guys.
+292	Kalo loose powdernya lebih cocok buat yang kulit yang berminyak sih guys.
+293	Kalo loose powdernya lebih cocok buat yang kulit yang berminyak sih guys.
+294	Kalo loose powdernya lebih cocok buat yang kulit yang berminyak sih guys.
+295	Kalo loose powdernya lebih cocok buat yang kulit yang berminyak sih guys.
+296	Kalo loose powdernya lebih cocok buat yang kulit yang berminyak sih guys. Jujur.
+297	Kalo loose powdernya lebih cocok buat yang kulit yang berminyak sih guys. Jujur. Karena di kulit aku berasanya kayak kenceng banget.
+298	Jujur. Karena di kulit aku berasanya kayak kenceng banget.
+299	Karena di kulit aku berasanya kayak kenceng banget.
+300	Karena di kulit aku berasanya kayak kenceng banget.
+301	Karena di kulit aku berasanya kayak kenceng banget.
+302	Karena di kulit aku berasanya kayak kenceng banget. Dan biasanya kalo kekencangan kayak gini tuh dia emphasizing garis-garis halus.
+303	Karena di kulit aku berasanya kayak kenceng banget. Dan biasanya kalo kekencangan kayak gini tuh dia emphasizing garis-garis halus.
+304	Dan biasanya kalo kekencangan kayak gini tuh dia emphasizing garis-garis halus.
+305	Dan biasanya kalo kekencangan kayak gini tuh dia emphasizing garis-garis halus.
+306	Dan biasanya kalo kekencangan kayak gini tuh dia emphasizing garis-garis halus.
+307	Dan biasanya kalo kekencangan kayak gini tuh dia emphasizing garis-garis halus.
+308	Dan biasanya kalo kekencangan kayak gini tuh dia emphasizing garis-garis halus.
+309	Dan biasanya kalo kekencangan kayak gini tuh dia emphasizing garis-garis halus.
+310	Dan biasanya kalo kekencangan kayak gini tuh dia emphasizing garis-garis halus.
+311	Dan biasanya kalo kekencangan kayak gini tuh dia emphasizing garis-garis halus.
+312	Dan biasanya kalo kekencangan kayak gini tuh dia emphasizing garis-garis halus.
+313	Dan biasanya kalo kekencangan kayak gini tuh dia emphasizing garis-garis halus. Yang biasanya orang kulit kering tuh garis-garis halusnya tuh lebih menonjol.
+314	Dan biasanya kalo kekencangan kayak gini tuh dia emphasizing garis-garis halus. Yang biasanya orang kulit kering tuh garis-garis halusnya tuh lebih menonjol.
+315	Yang biasanya orang kulit kering tuh garis-garis halusnya tuh lebih menonjol.
+316	Yang biasanya orang kulit kering tuh garis-garis halusnya tuh lebih menonjol.
+317	Yang biasanya orang kulit kering tuh garis-garis halusnya tuh lebih menonjol.
+318	Yang biasanya orang kulit kering tuh garis-garis halusnya tuh lebih menonjol.
+319	Yang biasanya orang kulit kering tuh garis-garis halusnya tuh lebih menonjol.
+320	Yang biasanya orang kulit kering tuh garis-garis halusnya tuh lebih menonjol.
+321	Yang biasanya orang kulit kering tuh garis-garis halusnya tuh lebih menonjol. Tapi kalo kalian pakenya tipis-tipis masih aman.
+322	Yang biasanya orang kulit kering tuh garis-garis halusnya tuh lebih menonjol. Tapi kalo kalian pakenya tipis-tipis masih aman.
+323	Tapi kalo kalian pakenya tipis-tipis masih aman.
+324	Tapi kalo kalian pakenya tipis-tipis masih aman.
+325	Tapi kalo kalian pakenya tipis-tipis masih aman.
+326	Tapi kalo kalian pakenya tipis-tipis masih aman.
+327	Tapi kalo kalian pakenya tipis-tipis masih aman.
+328	Tapi kalo kalian pakenya tipis-tipis masih aman. Ga merasa ada tambahan efek pore blurring dari loose powdernya.
+329	Ga merasa ada tambahan efek pore blurring dari loose powdernya.
+330	Ga merasa ada tambahan efek pore blurring dari loose powdernya.
+331	Ga merasa ada tambahan efek pore blurring dari loose powdernya.
+332	Ga merasa ada tambahan efek pore blurring dari loose powdernya.
+333	Ga merasa ada tambahan efek pore blurring dari loose powdernya.
+334	Ga merasa ada tambahan efek pore blurring dari loose powdernya.
+335	Ga merasa ada tambahan efek pore blurring dari loose powdernya.
+336	Ga merasa ada tambahan efek pore blurring dari loose powdernya.
+337	Ga merasa ada tambahan efek pore blurring dari loose powdernya.
+338	I'm so stupid.
+339	I'm so stupid.
+340	I'm so stupid.
+341	I'm so stupid. Aku lupa guys.
+342	I'm so stupid. Aku lupa guys.
+343	Aku lupa guys.
+344	Aku lupa guys. Aku punya cream blushnya padahal.
+345	Aku punya cream blushnya padahal.
+346	Aku punya cream blushnya padahal.
+347	Aku punya cream blushnya padahal.
+348	Aku punya cream blushnya padahal. Ada yang shade mala.
+349	Aku punya cream blushnya padahal. Ada yang shade mala. Dan daffina.
+350	Ada yang shade mala. Dan daffina.
+351	Dan daffina. Tapi aku udah set muka aku.
+352	Dan daffina. Tapi aku udah set muka aku.
+353	Tapi aku udah set muka aku.
+354	Tapi aku udah set muka aku. Wafel berdendak.
+355	Tapi aku udah set muka aku. Wafel berdendak.
+356	Wafel berdendak.
+357	Wafel berdendak. Tapi kayaknya banyak kok cream blush yang bisa kita pake di atas powder ya.
+358	Tapi kayaknya banyak kok cream blush yang bisa kita pake di atas powder ya.
+359	Tapi kayaknya banyak kok cream blush yang bisa kita pake di atas powder ya.
+360	Tapi kayaknya banyak kok cream blush yang bisa kita pake di atas powder ya.
+361	Tapi kayaknya banyak kok cream blush yang bisa kita pake di atas powder ya.
+362	Tapi kayaknya banyak kok cream blush yang bisa kita pake di atas powder ya.
+363	Tapi kayaknya banyak kok cream blush yang bisa kita pake di atas powder ya.
+364	Tapi kayaknya banyak kok cream blush yang bisa kita pake di atas powder ya.
+365	Tapi kayaknya banyak kok cream blush yang bisa kita pake di atas powder ya.
+366	Tapi kayaknya banyak kok cream blush yang bisa kita pake di atas powder ya.
+367	Tapi kayaknya banyak kok cream blush yang bisa kita pake di atas powder ya.
+368	Tapi kayaknya banyak kok cream blush yang bisa kita pake di atas powder ya. Jadi kita akan tetep coba.
+369	Tapi kayaknya banyak kok cream blush yang bisa kita pake di atas powder ya. Jadi kita akan tetep coba.
+370	Jadi kita akan tetep coba.
+371	Jadi kita akan tetep coba.
+372	Jadi kita akan tetep coba. Ini teksturnya creamy dan kayak oily gitu.
+373	Ini teksturnya creamy dan kayak oily gitu.
+374	Ini teksturnya creamy dan kayak oily gitu.
+375	Ini teksturnya creamy dan kayak oily gitu.
+376	Ini teksturnya creamy dan kayak oily gitu.
+377	Ini teksturnya creamy dan kayak oily gitu.
+378	Ini teksturnya creamy dan kayak oily gitu. Aku akan giniin dulu di tangan aku.
+379	Ini teksturnya creamy dan kayak oily gitu. Aku akan giniin dulu di tangan aku.
+380	Aku akan giniin dulu di tangan aku.
+381	Aku akan giniin dulu di tangan aku.
+382	Aku akan giniin dulu di tangan aku.
+383	Aku akan giniin dulu di tangan aku.
+384	Aku akan giniin dulu di tangan aku.
+385	Aku akan giniin dulu di tangan aku. Terus kita akan ambil sponge.
+386	Aku akan giniin dulu di tangan aku. Terus kita akan ambil sponge.
+387	Terus kita akan ambil sponge.
+388	Terus kita akan ambil sponge.
+389	Terus kita akan ambil sponge. Ini dia cepet juga nih nge-setnya nih cream blushnya.
+390	Ini dia cepet juga nih nge-setnya nih cream blushnya.
+391	Ini dia cepet juga nih nge-setnya nih cream blushnya.
+392	Ini dia cepet juga nih nge-setnya nih cream blushnya.
+393	Ini dia cepet juga nih nge-setnya nih cream blushnya.
+394	Ini dia cepet juga nih nge-setnya nih cream blushnya. Baru kita tap-tap.
+395	Ini dia cepet juga nih nge-setnya nih cream blushnya. Baru kita tap-tap.
+396	Baru kita tap-tap. Jadi dia ga akan ngerusak powder kita.
+397	Baru kita tap-tap. Jadi dia ga akan ngerusak powder kita.
+398	Jadi dia ga akan ngerusak powder kita.
+399	Jadi dia ga akan ngerusak powder kita.
+400	Jadi dia ga akan ngerusak powder kita. Tuh aman ya.
+401	Jadi dia ga akan ngerusak powder kita. Tuh aman ya.
+402	Tuh aman ya. Warnanya apakah cantik banget?
+403	Warnanya apakah cantik banget?
+404	Warnanya apakah cantik banget?
+405	Warnanya apakah cantik banget? Menurut aku kayak warna...
+406	Warnanya apakah cantik banget? Menurut aku kayak warna...
+407	Menurut aku kayak warna...
+408	Menurut aku kayak warna... Warna aman sih.
+409	Menurut aku kayak warna... Warna aman sih.
+410	Warna aman sih. Udah familiar aja gitu.
+411	Warna aman sih. Udah familiar aja gitu.
+412	Udah familiar aja gitu.
+413	Udah familiar aja gitu. Ga intimidating.
+414	Udah familiar aja gitu. Ga intimidating.
+415	Ga intimidating. Easy to blind buy.
+416	Ga intimidating. Easy to blind buy.
+417	Easy to blind buy.
+418	Easy to blind buy. Warna-warna yang akan kepake aja gitu.
+419	Warna-warna yang akan kepake aja gitu.
+420	Warna-warna yang akan kepake aja gitu.
+421	Warna-warna yang akan kepake aja gitu.
+422	Warna-warna yang akan kepake aja gitu.
+423	Warna-warna yang akan kepake aja gitu. Terus ini di tangan aku.
+424	Terus ini di tangan aku.
+425	Terus ini di tangan aku.
+426	Terus ini di tangan aku.
+427	Terus ini di tangan aku. Kalian bisa liat ini finish dari cream blushnya.
+428	Terus ini di tangan aku. Kalian bisa liat ini finish dari cream blushnya.
+429	Kalian bisa liat ini finish dari cream blushnya.
+430	Kalian bisa liat ini finish dari cream blushnya.
+431	Kalian bisa liat ini finish dari cream blushnya.
+432	Kalian bisa liat ini finish dari cream blushnya.
+433	Kalian bisa liat ini finish dari cream blushnya. Walaupun tadi pada saat aku blend di jari itu dia kayak balmy.
+434	Walaupun tadi pada saat aku blend di jari itu dia kayak balmy.
+435	Walaupun tadi pada saat aku blend di jari itu dia kayak balmy.
+436	Walaupun tadi pada saat aku blend di jari itu dia kayak balmy.
+437	Walaupun tadi pada saat aku blend di jari itu dia kayak balmy.
+438	Walaupun tadi pada saat aku blend di jari itu dia kayak balmy.
+439	Walaupun tadi pada saat aku blend di jari itu dia kayak balmy.
+440	Walaupun tadi pada saat aku blend di jari itu dia kayak balmy. Sama kayak lumayan basah.
+441	Walaupun tadi pada saat aku blend di jari itu dia kayak balmy. Sama kayak lumayan basah.
+442	Sama kayak lumayan basah.
+443	Sama kayak lumayan basah.
+444	Sama kayak lumayan basah. Ternyata dia langsung dry downnya itu matte.
+445	Sama kayak lumayan basah. Ternyata dia langsung dry downnya itu matte.
+446	Ternyata dia langsung dry downnya itu matte.
+447	Ternyata dia langsung dry downnya itu matte.
+448	Ternyata dia langsung dry downnya itu matte.
+449	Ternyata dia langsung dry downnya itu matte. Dan sudah tidak gerak lagi.
+450	Ternyata dia langsung dry downnya itu matte. Dan sudah tidak gerak lagi.
+451	Dan sudah tidak gerak lagi.
+452	Dan sudah tidak gerak lagi.
+453	Dan sudah tidak gerak lagi. So far yang paling aku suka produknya adalah sponge-nya.
+454	Dan sudah tidak gerak lagi. So far yang paling aku suka produknya adalah sponge-nya.
+455	So far yang paling aku suka produknya adalah sponge-nya.
+456	So far yang paling aku suka produknya adalah sponge-nya.
+457	So far yang paling aku suka produknya adalah sponge-nya.
+458	So far yang paling aku suka produknya adalah sponge-nya.
+459	So far yang paling aku suka produknya adalah sponge-nya.
+460	So far yang paling aku suka produknya adalah sponge-nya.
+461	So far yang paling aku suka produknya adalah sponge-nya.
+462	So far yang paling aku suka produknya adalah sponge-nya.
+463	So far yang paling aku suka produknya adalah sponge-nya.
+464	So far yang paling aku suka produknya adalah sponge-nya. Terus aku juga suka sama si essence-nya.
+465	So far yang paling aku suka produknya adalah sponge-nya. Terus aku juga suka sama si essence-nya.
+466	Terus aku juga suka sama si essence-nya.
+467	Terus aku juga suka sama si essence-nya.
+468	Terus aku juga suka sama si essence-nya.
+469	Terus aku juga suka sama si essence-nya.
+470	Terus aku juga suka sama si essence-nya.
+471	Terus aku juga suka sama si essence-nya.
+472	Terus aku juga suka sama si essence-nya. Sejauh ini itu.
+473	Sejauh ini itu.
+474	Sejauh ini itu. Sekarang kita akan pakai highlighter.
+475	Sekarang kita akan pakai highlighter.
+476	Sekarang kita akan pakai highlighter.
+477	Sekarang kita akan pakai highlighter. Muak belum ada highlighter.
+478	Muak belum ada highlighter.
+479	Muak belum ada highlighter. Tapi kata gua mah lu wajib bikin highlighter sih muak.
+480	Muak belum ada highlighter. Tapi kata gua mah lu wajib bikin highlighter sih muak.
+481	Tapi kata gua mah lu wajib bikin highlighter sih muak.
+482	Tapi kata gua mah lu wajib bikin highlighter sih muak.
+483	Tapi kata gua mah lu wajib bikin highlighter sih muak.
+484	Tapi kata gua mah lu wajib bikin highlighter sih muak. Kita akan highlight area sini.
+485	Tapi kata gua mah lu wajib bikin highlighter sih muak. Kita akan highlight area sini.
+486	Kita akan highlight area sini.
+487	Kita akan highlight area sini.
+488	[NO_SPEECH]
+489	[NO_SPEECH]
+490	Untuk mengembalikan shine di kulit aku.
+491	Untuk mengembalikan shine di kulit aku.
+492	Untuk mengembalikan shine di kulit aku.
+493	Untuk mengembalikan shine di kulit aku.
+494	Untuk mengembalikan shine di kulit aku.
+495	Untuk mengembalikan shine di kulit aku. Sekarang kita akan pakai setting spray.
+496	Untuk mengembalikan shine di kulit aku. Sekarang kita akan pakai setting spray.
+497	Sekarang kita akan pakai setting spray.
+498	Sekarang kita akan pakai setting spray.
+499	Sekarang kita akan pakai setting spray. Tunggu ya.
+500	Sekarang kita akan pakai setting spray. Tunggu ya. Kita pakai setting spray yang satin.
+501	Tunggu ya. Kita pakai setting spray yang satin.
+502	Kita pakai setting spray yang satin.
+503	Kita pakai setting spray yang satin.
+504	Kita pakai setting spray yang satin. Biar dia nyerep.
+505	Biar dia nyerep.
+506	Biar dia nyerep.
+507	Biar dia nyerep. Nah terus selanjutnya produk muak yang aku punya itu tuh adalah ini nih.
+508	Nah terus selanjutnya produk muak yang aku punya itu tuh adalah ini nih.
+509	Nah terus selanjutnya produk muak yang aku punya itu tuh adalah ini nih.
+510	Nah terus selanjutnya produk muak yang aku punya itu tuh adalah ini nih.
+511	Nah terus selanjutnya produk muak yang aku punya itu tuh adalah ini nih.
+512	Nah terus selanjutnya produk muak yang aku punya itu tuh adalah ini nih.
+513	Nah terus selanjutnya produk muak yang aku punya itu tuh adalah ini nih.
+514	Nah terus selanjutnya produk muak yang aku punya itu tuh adalah ini nih.
+515	Nah terus selanjutnya produk muak yang aku punya itu tuh adalah ini nih.
+516	Eyephoria Shadow Cream.
+517	Eyephoria Shadow Cream.
+518	Eyephoria Shadow Cream.
+519	Eyephoria Shadow Cream.
+520	Eyephoria Shadow Cream. Dan aku udah tau banget.
+521	Dan aku udah tau banget.
+522	Dan aku udah tau banget.
+523	Dan aku udah tau banget. Ini eyeshadow cream bagus banget.
+524	Dan aku udah tau banget. Ini eyeshadow cream bagus banget.
+525	Ini eyeshadow cream bagus banget.
+526	Ini eyeshadow cream bagus banget.
+527	Ini eyeshadow cream bagus banget.
+528	Ini eyeshadow cream bagus banget. Ini teksturnya kayak gini guys.
+529	Ini teksturnya kayak gini guys.
+530	Ini teksturnya kayak gini guys.
+531	Ini teksturnya kayak gini guys. Dia bener-bener cream.
+532	Ini teksturnya kayak gini guys. Dia bener-bener cream.
+533	Dia bener-bener cream. Cream eyeshadow.
+534	Dia bener-bener cream. Cream eyeshadow.
+535	Cream eyeshadow. Tapi aku yakin dia gak bakal creasing di kelopak mata.
+536	Tapi aku yakin dia gak bakal creasing di kelopak mata.
+537	Tapi aku yakin dia gak bakal creasing di kelopak mata.
+538	Tapi aku yakin dia gak bakal creasing di kelopak mata.
+539	Tapi aku yakin dia gak bakal creasing di kelopak mata.
+540	Tapi aku yakin dia gak bakal creasing di kelopak mata. Kalau kalian mau beli muak.
+541	Tapi aku yakin dia gak bakal creasing di kelopak mata. Kalau kalian mau beli muak.
+542	Kalau kalian mau beli muak.
+543	Kalau kalian mau beli muak. Saran aku tuh langsung cari eye product-nya dia.
+544	Kalau kalian mau beli muak. Saran aku tuh langsung cari eye product-nya dia.
+545	Saran aku tuh langsung cari eye product-nya dia.
+546	Saran aku tuh langsung cari eye product-nya dia.
+547	Saran aku tuh langsung cari eye product-nya dia.
+548	Saran aku tuh langsung cari eye product-nya dia.
+549	Saran aku tuh langsung cari eye product-nya dia. Eye product-nya muak bener-bener semua eyeshadow-nya bagus.
+550	Saran aku tuh langsung cari eye product-nya dia. Eye product-nya muak bener-bener semua eyeshadow-nya bagus.
+551	Eye product-nya muak bener-bener semua eyeshadow-nya bagus.
+552	Eye product-nya muak bener-bener semua eyeshadow-nya bagus.
+553	Eye product-nya muak bener-bener semua eyeshadow-nya bagus.
+554	Eye product-nya muak bener-bener semua eyeshadow-nya bagus. Dan ini yang aku pakai shade love.
+555	Eye product-nya muak bener-bener semua eyeshadow-nya bagus. Dan ini yang aku pakai shade love.
+556	Dan ini yang aku pakai shade love.
+557	Dan ini yang aku pakai shade love.
+558	Dan ini yang aku pakai shade love. Love ini warna bronze.
+559	Dan ini yang aku pakai shade love. Love ini warna bronze.
+560	Love ini warna bronze.
+561	Love ini warna bronze.
+562	Love ini warna bronze.
+563	Love ini warna bronze.
+564	Love ini warna bronze.
+565	Gila.
+566	Gila.
+567	Gila.
+568	[NO_SPEECH]
+569	Effortless di blend-nya.
+570	Effortless di blend-nya.
+571	Effortless di blend-nya.
+572	Effortless di blend-nya.
+573	Effortless di blend-nya.
+574	[NO_SPEECH]
+575	Semakin di tap.
+576	Semakin di tap.
+577	Semakin di tap.
+578	Semakin di tap. Semakin keluar glitter-nya.
+579	Semakin keluar glitter-nya.
+580	Semakin keluar glitter-nya.
+581	Semakin keluar glitter-nya.
+582	Semakin keluar glitter-nya.
+583	Semakin keluar glitter-nya.
+584	Dan gak creasing sama sekali.
+585	Dan gak creasing sama sekali.
+586	Dan gak creasing sama sekali.
+587	Dan gak creasing sama sekali. Sesuai prediksi aku.
+588	Dan gak creasing sama sekali. Sesuai prediksi aku.
+589	Sesuai prediksi aku.
+590	Sesuai prediksi aku. Aku udah tau pasti bagus.
+591	Sesuai prediksi aku. Aku udah tau pasti bagus.
+592	Aku udah tau pasti bagus.
+593	Aku udah tau pasti bagus.
+594	Aku udah tau pasti bagus. Aku udah yakin.
+595	Aku udah tau pasti bagus. Aku udah yakin.
+596	Aku udah yakin.

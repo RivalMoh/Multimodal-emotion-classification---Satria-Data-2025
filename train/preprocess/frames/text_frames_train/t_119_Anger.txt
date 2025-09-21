@@ -1,0 +1,208 @@
+0	Terima kasih.
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	shooting, nah itu tuh.
+59	shooting, nah itu tuh.
+60	shooting, nah itu tuh.
+61	shooting, nah itu tuh.
+62	shooting, nah itu tuh. Gue buat ikut main juga sama mereka ya.
+63	shooting, nah itu tuh. Gue buat ikut main juga sama mereka ya.
+64	Gue buat ikut main juga sama mereka ya.
+65	Gue buat ikut main juga sama mereka ya.
+66	Gue buat ikut main juga sama mereka ya.
+67	Gue buat ikut main juga sama mereka ya.
+68	[NO_SPEECH]
+69	Oke.
+70	Oke. Pake Unicorn Ultra Stretch.
+71	Pake Unicorn Ultra Stretch.
+72	Pake Unicorn Ultra Stretch.
+73	Pake Unicorn Ultra Stretch.
+74	Pake Unicorn Ultra Stretch.
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	[NO_SPEECH]
+83	[NO_SPEECH]
+84	[NO_SPEECH]
+85	[NO_SPEECH]
+86	[NO_SPEECH]
+87	[NO_SPEECH]
+88	[NO_SPEECH]
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	Jangan, jangan, si.
+93	Jangan, jangan, si.
+94	Jangan, jangan, si.
+95	Jangan, jangan, si.
+96	Jangan, jangan, si.
+97	Jangan, jangan, si.
+98	Jangan, jangan, si.
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	[NO_SPEECH]
+104	[NO_SPEECH]
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	Oke, berhenti.
+108	Oke, berhenti.
+109	Oke, berhenti.
+110	Oke, berhenti.
+111	Oke, berhenti.
+112	[NO_SPEECH]
+113	[NO_SPEECH]
+114	[NO_SPEECH]
+115	[NO_SPEECH]
+116	[NO_SPEECH]
+117	[NO_SPEECH]
+118	Mari, Om.
+119	Mari, Om. Mari, Om.
+120	Mari, Om. Mari, Om.
+121	Mari, Om.
+122	[NO_SPEECH]
+123	[NO_SPEECH]
+124	[NO_SPEECH]
+125	[NO_SPEECH]
+126	Seru banget.
+127	Seru banget.
+128	Seru banget. Tuhannya komplain dengan keras ketika terjadi pelanggaran.
+129	Seru banget. Tuhannya komplain dengan keras ketika terjadi pelanggaran.
+130	Tuhannya komplain dengan keras ketika terjadi pelanggaran.
+131	Tuhannya komplain dengan keras ketika terjadi pelanggaran.
+132	Tuhannya komplain dengan keras ketika terjadi pelanggaran.
+133	Tuhannya komplain dengan keras ketika terjadi pelanggaran.
+134	Tuhannya komplain dengan keras ketika terjadi pelanggaran.
+135	Tuhannya komplain dengan keras ketika terjadi pelanggaran.
+136	Tuhannya komplain dengan keras ketika terjadi pelanggaran.
+137	Tuhannya komplain dengan keras ketika terjadi pelanggaran. Oke.
+138	Tuhannya komplain dengan keras ketika terjadi pelanggaran. Oke. Dan akhirnya anaknya itu nangis.
+139	Oke. Dan akhirnya anaknya itu nangis.
+140	Dan akhirnya anaknya itu nangis.
+141	Dan akhirnya anaknya itu nangis.
+142	Dan akhirnya anaknya itu nangis.
+143	Dan akhirnya anaknya itu nangis.
+144	Dan akhirnya anaknya itu nangis. Dan itu jadi sebuah presiden yang buruk dari orang tua.
+145	Dan akhirnya anaknya itu nangis. Dan itu jadi sebuah presiden yang buruk dari orang tua.
+146	Dan itu jadi sebuah presiden yang buruk dari orang tua.
+147	Dan itu jadi sebuah presiden yang buruk dari orang tua.
+148	Dan itu jadi sebuah presiden yang buruk dari orang tua.
+149	Dan itu jadi sebuah presiden yang buruk dari orang tua.
+150	Dan itu jadi sebuah presiden yang buruk dari orang tua.
+151	Dan itu jadi sebuah presiden yang buruk dari orang tua.
+152	Dan itu jadi sebuah presiden yang buruk dari orang tua.
+153	Dan itu jadi sebuah presiden yang buruk dari orang tua. Dan kejadian itu terhadap orang-orang yang melihat.
+154	Dan itu jadi sebuah presiden yang buruk dari orang tua. Dan kejadian itu terhadap orang-orang yang melihat.
+155	Dan kejadian itu terhadap orang-orang yang melihat.
+156	Dan kejadian itu terhadap orang-orang yang melihat.
+157	Dan kejadian itu terhadap orang-orang yang melihat.
+158	Dan kejadian itu terhadap orang-orang yang melihat.
+159	Dan kejadian itu terhadap orang-orang yang melihat.
+160	Dan kejadian itu terhadap orang-orang yang melihat. Apalagi terutama anak-anak yang masih mungkin daya serapnya mereka itu masih.
+161	Apalagi terutama anak-anak yang masih mungkin daya serapnya mereka itu masih.
+162	Apalagi terutama anak-anak yang masih mungkin daya serapnya mereka itu masih.
+163	Apalagi terutama anak-anak yang masih mungkin daya serapnya mereka itu masih.
+164	Apalagi terutama anak-anak yang masih mungkin daya serapnya mereka itu masih.
+165	Apalagi terutama anak-anak yang masih mungkin daya serapnya mereka itu masih.
+166	Apalagi terutama anak-anak yang masih mungkin daya serapnya mereka itu masih.
+167	Apalagi terutama anak-anak yang masih mungkin daya serapnya mereka itu masih.
+168	Apalagi terutama anak-anak yang masih mungkin daya serapnya mereka itu masih.
+169	Apalagi terutama anak-anak yang masih mungkin daya serapnya mereka itu masih.
+170	Apalagi terutama anak-anak yang masih mungkin daya serapnya mereka itu masih.
+171	Apalagi terutama anak-anak yang masih mungkin daya serapnya mereka itu masih. Kok bapak gue jadi marah-marah?
+172	Kok bapak gue jadi marah-marah?
+173	Kok bapak gue jadi marah-marah?
+174	Kok bapak gue jadi marah-marah? Aduh, kok jadi wasit, jadi berantem sama?
+175	Kok bapak gue jadi marah-marah? Aduh, kok jadi wasit, jadi berantem sama?
+176	Aduh, kok jadi wasit, jadi berantem sama?
+177	Aduh, kok jadi wasit, jadi berantem sama?
+178	Aduh, kok jadi wasit, jadi berantem sama? Orang tua gue, kok antara orang tua jadi berantem?
+179	Aduh, kok jadi wasit, jadi berantem sama? Orang tua gue, kok antara orang tua jadi berantem?
+180	Orang tua gue, kok antara orang tua jadi berantem?
+181	Orang tua gue, kok antara orang tua jadi berantem?
+182	Orang tua gue, kok antara orang tua jadi berantem?
+183	Orang tua gue, kok antara orang tua jadi berantem? Nah itu.
+184	Orang tua gue, kok antara orang tua jadi berantem? Nah itu. Itu yang harus dihindarkan.
+185	Nah itu. Itu yang harus dihindarkan.
+186	Itu yang harus dihindarkan.
+187	Itu yang harus dihindarkan. Tidak boleh ada kekerasan di dalam lapangan sepak bola.
+188	Itu yang harus dihindarkan. Tidak boleh ada kekerasan di dalam lapangan sepak bola.
+189	Tidak boleh ada kekerasan di dalam lapangan sepak bola.
+190	Tidak boleh ada kekerasan di dalam lapangan sepak bola.
+191	Tidak boleh ada kekerasan di dalam lapangan sepak bola.
+192	Tidak boleh ada kekerasan di dalam lapangan sepak bola.
+193	Tidak boleh ada kekerasan di dalam lapangan sepak bola. Yang takutnya adalah jadi trauma juga.
+194	Tidak boleh ada kekerasan di dalam lapangan sepak bola. Yang takutnya adalah jadi trauma juga.
+195	Yang takutnya adalah jadi trauma juga.
+196	Yang takutnya adalah jadi trauma juga.
+197	Yang takutnya adalah jadi trauma juga. Betul.
+198	Betul.
+199	[NO_SPEECH]
+200	[NO_SPEECH]
+201	Terima kasih.
+202	Terima kasih.
+203	Terima kasih.
+204	[NO_SPEECH]
+205	[NO_SPEECH]
+206	[NO_SPEECH]
+207	[NO_SPEECH]

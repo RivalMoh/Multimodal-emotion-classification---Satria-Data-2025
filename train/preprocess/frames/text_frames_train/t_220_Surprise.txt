@@ -1,0 +1,357 @@
+0	Sample, sample, sample, sample, sample, sample
+1	Sample, sample, sample, sample, sample, sample
+2	Sample, sample, sample, sample, sample, sample
+3	Sample, sample, sample, sample, sample, sample Duar!
+4	Sample, sample, sample, sample, sample, sample Duar!
+5	Duar! Medus nama saya
+6	Duar! Medus nama saya
+7	Medus nama saya Sebenernya sampel lebih banyak dari ini ya
+8	Medus nama saya Sebenernya sampel lebih banyak dari ini ya
+9	Sebenernya sampel lebih banyak dari ini ya
+10	Sebenernya sampel lebih banyak dari ini ya Tapi ini doang yang aku simpen
+11	Sebenernya sampel lebih banyak dari ini ya Tapi ini doang yang aku simpen
+12	Tapi ini doang yang aku simpen
+13	Tapi ini doang yang aku simpen Mau buat apa sih, Mita Syafarasya?
+14	Tapi ini doang yang aku simpen Mau buat apa sih, Mita Syafarasya?
+15	Mau buat apa sih, Mita Syafarasya?
+16	Mau buat apa sih, Mita Syafarasya?
+17	Mau buat apa sih, Mita Syafarasya? Tara!
+18	Mau buat apa sih, Mita Syafarasya? Tara! Pembuatan produk ini
+19	Pembuatan produk ini
+20	Pembuatan produk ini
+21	Pembuatan produk ini Skin Merge Maxi Boosting Retinal Chroma Version
+22	Pembuatan produk ini Skin Merge Maxi Boosting Retinal Chroma Version
+23	Skin Merge Maxi Boosting Retinal Chroma Version
+24	Skin Merge Maxi Boosting Retinal Chroma Version
+25	Skin Merge Maxi Boosting Retinal Chroma Version
+26	Skin Merge Maxi Boosting Retinal Chroma Version
+27	Skin Merge Maxi Boosting Retinal Chroma Version
+28	Skin Merge Maxi Boosting Retinal Chroma Version Dan selain dari aku, disini juga ada campur tangan
+29	Skin Merge Maxi Boosting Retinal Chroma Version Dan selain dari aku, disini juga ada campur tangan
+30	Dan selain dari aku, disini juga ada campur tangan
+31	Dan selain dari aku, disini juga ada campur tangan
+32	Dan selain dari aku, disini juga ada campur tangan
+33	Dan selain dari aku, disini juga ada campur tangan Dr. Abelina alias Dr. Incognito
+34	Dan selain dari aku, disini juga ada campur tangan Dr. Abelina alias Dr. Incognito
+35	Dr. Abelina alias Dr. Incognito
+36	Dr. Abelina alias Dr. Incognito
+37	Dr. Abelina alias Dr. Incognito
+38	Dr. Abelina alias Dr. Incognito Siapa yang gak tau sih
+39	Dr. Abelina alias Dr. Incognito Siapa yang gak tau sih Dan pastinya juga sama tim Skin Merge
+40	Siapa yang gak tau sih Dan pastinya juga sama tim Skin Merge
+41	Dan pastinya juga sama tim Skin Merge
+42	Dan pastinya juga sama tim Skin Merge
+43	Dan pastinya juga sama tim Skin Merge Jadi kalian bisa bayangin huru haranya kayak gimana
+44	Dan pastinya juga sama tim Skin Merge Jadi kalian bisa bayangin huru haranya kayak gimana
+45	Jadi kalian bisa bayangin huru haranya kayak gimana
+46	Jadi kalian bisa bayangin huru haranya kayak gimana
+47	Jadi kalian bisa bayangin huru haranya kayak gimana
+48	Jadi kalian bisa bayangin huru haranya kayak gimana
+49	Kayak
+50	Kayak Duar!
+51	Kayak Duar! Gitu ya
+52	Duar! Gitu ya Finally produk ini rilis
+53	Gitu ya Finally produk ini rilis
+54	Finally produk ini rilis
+55	Finally produk ini rilis Dan ternyata banyak banget yang suka
+56	Finally produk ini rilis Dan ternyata banyak banget yang suka
+57	Dan ternyata banyak banget yang suka
+58	Dan ternyata banyak banget yang suka
+59	Dan ternyata banyak banget yang suka Tapi yang satu permasalahannya
+60	Dan ternyata banyak banget yang suka Tapi yang satu permasalahannya
+61	Tapi yang satu permasalahannya
+62	Tapi yang satu permasalahannya
+63	Tapi yang satu permasalahannya Ini tuh PO mulu
+64	Tapi yang satu permasalahannya Ini tuh PO mulu
+65	Ini tuh PO mulu Tau gak kenapa PO mulu?
+66	Ini tuh PO mulu Tau gak kenapa PO mulu?
+67	Tau gak kenapa PO mulu? Karena setiap mau reorder lagi
+68	Tau gak kenapa PO mulu? Karena setiap mau reorder lagi
+69	Karena setiap mau reorder lagi
+70	Karena setiap mau reorder lagi
+71	Karena setiap mau reorder lagi
+72	Karena setiap mau reorder lagi Mereka itu uji lab lagi
+73	Karena setiap mau reorder lagi Mereka itu uji lab lagi
+74	Mereka itu uji lab lagi
+75	Mereka itu uji lab lagi Jadi alasannya antriannya tuh panjang banget
+76	Mereka itu uji lab lagi Jadi alasannya antriannya tuh panjang banget
+77	Jadi alasannya antriannya tuh panjang banget
+78	Jadi alasannya antriannya tuh panjang banget
+79	Jadi alasannya antriannya tuh panjang banget
+80	Jadi alasannya antriannya tuh panjang banget
+81	Jadi alasannya antriannya tuh panjang banget Untuk mendapatkan produk ini
+82	Jadi alasannya antriannya tuh panjang banget Untuk mendapatkan produk ini
+83	Untuk mendapatkan produk ini
+84	Untuk mendapatkan produk ini Dan sebelum kita bahas lebih lanjut
+85	Untuk mendapatkan produk ini Dan sebelum kita bahas lebih lanjut
+86	Dan sebelum kita bahas lebih lanjut Aku mau kasih lihat dulu hasil uji labnya
+87	Dan sebelum kita bahas lebih lanjut Aku mau kasih lihat dulu hasil uji labnya
+88	Aku mau kasih lihat dulu hasil uji labnya
+89	Aku mau kasih lihat dulu hasil uji labnya
+90	Aku mau kasih lihat dulu hasil uji labnya By the way, kenapa ini uji retinal?
+91	Aku mau kasih lihat dulu hasil uji labnya By the way, kenapa ini uji retinal?
+92	By the way, kenapa ini uji retinal?
+93	By the way, kenapa ini uji retinal? Karena di Indonesia belum ada uji retinal ya
+94	By the way, kenapa ini uji retinal? Karena di Indonesia belum ada uji retinal ya
+95	Karena di Indonesia belum ada uji retinal ya
+96	Karena di Indonesia belum ada uji retinal ya
+97	Karena di Indonesia belum ada uji retinal ya
+98	Karena di Indonesia belum ada uji retinal ya Dan ini adalah hasil uji di manusianya
+99	Karena di Indonesia belum ada uji retinal ya Dan ini adalah hasil uji di manusianya
+100	Dan ini adalah hasil uji di manusianya
+101	Dan ini adalah hasil uji di manusianya
+102	Dan ini adalah hasil uji di manusianya
+103	Dan ini adalah hasil uji di manusianya
+104	Dan ini adalah hasil uji di manusianya
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	[NO_SPEECH]
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	[NO_SPEECH]
+113	[NO_SPEECH]
+114	Merti?
+115	Merti? Kan sekarang kenapa produk ini gong banget
+116	Merti? Kan sekarang kenapa produk ini gong banget
+117	Kan sekarang kenapa produk ini gong banget
+118	Kan sekarang kenapa produk ini gong banget
+119	Kan sekarang kenapa produk ini gong banget
+120	Kan sekarang kenapa produk ini gong banget Selain itu aku itu bener-bener concern banget sama tekstur dari produknya
+121	Kan sekarang kenapa produk ini gong banget Selain itu aku itu bener-bener concern banget sama tekstur dari produknya
+122	Selain itu aku itu bener-bener concern banget sama tekstur dari produknya
+123	Selain itu aku itu bener-bener concern banget sama tekstur dari produknya
+124	Selain itu aku itu bener-bener concern banget sama tekstur dari produknya
+125	Selain itu aku itu bener-bener concern banget sama tekstur dari produknya
+126	Selain itu aku itu bener-bener concern banget sama tekstur dari produknya
+127	Selain itu aku itu bener-bener concern banget sama tekstur dari produknya
+128	Selain itu aku itu bener-bener concern banget sama tekstur dari produknya
+129	Selain itu aku itu bener-bener concern banget sama tekstur dari produknya
+130	Selain itu aku itu bener-bener concern banget sama tekstur dari produknya Karena menurut aku skincare itu selain ingredientsnya
+131	Selain itu aku itu bener-bener concern banget sama tekstur dari produknya Karena menurut aku skincare itu selain ingredientsnya
+132	Karena menurut aku skincare itu selain ingredientsnya
+133	Karena menurut aku skincare itu selain ingredientsnya
+134	Karena menurut aku skincare itu selain ingredientsnya
+135	Karena menurut aku skincare itu selain ingredientsnya Teksturnya tuh juga mempengaruhi banget
+136	Karena menurut aku skincare itu selain ingredientsnya Teksturnya tuh juga mempengaruhi banget
+137	Teksturnya tuh juga mempengaruhi banget
+138	Teksturnya tuh juga mempengaruhi banget
+139	Teksturnya tuh juga mempengaruhi banget Kalau teksturnya bisa melembabkan
+140	Teksturnya tuh juga mempengaruhi banget Kalau teksturnya bisa melembabkan
+141	Kalau teksturnya bisa melembabkan
+142	Kalau teksturnya bisa melembabkan Membuat kenyal
+143	Kalau teksturnya bisa melembabkan Membuat kenyal
+144	Membuat kenyal Tuh efek memuaskannya tuh lebih dapet gitu
+145	Membuat kenyal Tuh efek memuaskannya tuh lebih dapet gitu
+146	Tuh efek memuaskannya tuh lebih dapet gitu
+147	Tuh efek memuaskannya tuh lebih dapet gitu
+148	Tuh efek memuaskannya tuh lebih dapet gitu Nah kalian harus lihat teksturnya si endok ini
+149	Tuh efek memuaskannya tuh lebih dapet gitu Nah kalian harus lihat teksturnya si endok ini
+150	Tuh efek memuaskannya tuh lebih dapet gitu Nah kalian harus lihat teksturnya si endok ini
+151	Nah kalian harus lihat teksturnya si endok ini
+152	Nah kalian harus lihat teksturnya si endok ini
+153	Nah kalian harus lihat teksturnya si endok ini Aku minta teksturnya dia tuh bener-bener kayak gel yang tik gitu
+154	Nah kalian harus lihat teksturnya si endok ini Aku minta teksturnya dia tuh bener-bener kayak gel yang tik gitu
+155	Aku minta teksturnya dia tuh bener-bener kayak gel yang tik gitu
+156	Aku minta teksturnya dia tuh bener-bener kayak gel yang tik gitu
+157	Aku minta teksturnya dia tuh bener-bener kayak gel yang tik gitu
+158	Aku minta teksturnya dia tuh bener-bener kayak gel yang tik gitu
+159	Aku minta teksturnya dia tuh bener-bener kayak gel yang tik gitu
+160	Aku minta teksturnya dia tuh bener-bener kayak gel yang tik gitu
+161	Aku minta teksturnya dia tuh bener-bener kayak gel yang tik gitu Biar apa?
+162	Aku minta teksturnya dia tuh bener-bener kayak gel yang tik gitu Biar apa?
+163	Biar apa? Biar kulit kalian tuh terasa banget
+164	Biar apa? Biar kulit kalian tuh terasa banget
+165	Biar kulit kalian tuh terasa banget
+166	Biar kulit kalian tuh terasa banget Glowing, shimmering, splendidnya pada saat memakai
+167	Biar kulit kalian tuh terasa banget Glowing, shimmering, splendidnya pada saat memakai
+168	Glowing, shimmering, splendidnya pada saat memakai
+169	Glowing, shimmering, splendidnya pada saat memakai
+170	Glowing, shimmering, splendidnya pada saat memakai
+171	Glowing, shimmering, splendidnya pada saat memakai
+172	Glowing, shimmering, splendidnya pada saat memakai Dan di pagi hari pada saat bangun tidurnya itu
+173	Glowing, shimmering, splendidnya pada saat memakai Dan di pagi hari pada saat bangun tidurnya itu
+174	Dan di pagi hari pada saat bangun tidurnya itu
+175	Dan di pagi hari pada saat bangun tidurnya itu
+176	Dan di pagi hari pada saat bangun tidurnya itu
+177	Dan di pagi hari pada saat bangun tidurnya itu Kulit kalian akan tetep glowing, shining, shimmering, splendid
+178	Dan di pagi hari pada saat bangun tidurnya itu Kulit kalian akan tetep glowing, shining, shimmering, splendid
+179	Kulit kalian akan tetep glowing, shining, shimmering, splendid
+180	Kulit kalian akan tetep glowing, shining, shimmering, splendid
+181	Kulit kalian akan tetep glowing, shining, shimmering, splendid
+182	Kulit kalian akan tetep glowing, shining, shimmering, splendid Lihat kulit aku before
+183	Kulit kalian akan tetep glowing, shining, shimmering, splendid Lihat kulit aku before
+184	Lihat kulit aku before Udah sehat banget ya, udah healthy banget
+185	Lihat kulit aku before Udah sehat banget ya, udah healthy banget
+186	Udah sehat banget ya, udah healthy banget
+187	Udah sehat banget ya, udah healthy banget
+188	Udah sehat banget ya, udah healthy banget
+189	Udah sehat banget ya, udah healthy banget Karena aku juga pake selama ini
+190	Udah sehat banget ya, udah healthy banget Karena aku juga pake selama ini
+191	Karena aku juga pake selama ini
+192	Karena aku juga pake selama ini Dan sekarang aku akan aplikasiin
+193	Karena aku juga pake selama ini Dan sekarang aku akan aplikasiin
+194	Dan sekarang aku akan aplikasiin
+195	Dan sekarang aku akan aplikasiin
+196	Dan sekarang aku akan aplikasiin Ini agak dramatis ngambilnya, gak usah sebagian ini ya temen-temen
+197	Dan sekarang aku akan aplikasiin Ini agak dramatis ngambilnya, gak usah sebagian ini ya temen-temen
+198	Ini agak dramatis ngambilnya, gak usah sebagian ini ya temen-temen
+199	Ini agak dramatis ngambilnya, gak usah sebagian ini ya temen-temen
+200	Ini agak dramatis ngambilnya, gak usah sebagian ini ya temen-temen
+201	Ini agak dramatis ngambilnya, gak usah sebagian ini ya temen-temen Merti kan kenapa aku pilih teksturnya seperti ini?
+202	Ini agak dramatis ngambilnya, gak usah sebagian ini ya temen-temen Merti kan kenapa aku pilih teksturnya seperti ini?
+203	Merti kan kenapa aku pilih teksturnya seperti ini?
+204	Merti kan kenapa aku pilih teksturnya seperti ini?
+205	Merti kan kenapa aku pilih teksturnya seperti ini?
+206	Merti kan kenapa aku pilih teksturnya seperti ini?
+207	Merti kan kenapa aku pilih teksturnya seperti ini? Biar kalian tuh bisa mendapatkan
+208	Merti kan kenapa aku pilih teksturnya seperti ini? Biar kalian tuh bisa mendapatkan
+209	Biar kalian tuh bisa mendapatkan
+210	Biar kalian tuh bisa mendapatkan Glass skin effect gitu loh dari teksturnya
+211	Biar kalian tuh bisa mendapatkan Glass skin effect gitu loh dari teksturnya
+212	Glass skin effect gitu loh dari teksturnya
+213	Glass skin effect gitu loh dari teksturnya
+214	Glass skin effect gitu loh dari teksturnya
+215	Glass skin effect gitu loh dari teksturnya
+216	Glass skin effect gitu loh dari teksturnya Selain disini adalah retinal
+217	Glass skin effect gitu loh dari teksturnya Selain disini adalah retinal
+218	Selain disini adalah retinal
+219	Selain disini adalah retinal
+220	Selain disini adalah retinal Pastinya yang 11 kali lebih potent dari retinal
+221	Selain disini adalah retinal Pastinya yang 11 kali lebih potent dari retinal
+222	Pastinya yang 11 kali lebih potent dari retinal
+223	Pastinya yang 11 kali lebih potent dari retinal
+224	Pastinya yang 11 kali lebih potent dari retinal
+225	Pastinya yang 11 kali lebih potent dari retinal
+226	Pastinya yang 11 kali lebih potent dari retinal Dan harganya cuma 100 ribu
+227	Pastinya yang 11 kali lebih potent dari retinal Dan harganya cuma 100 ribu
+228	Dan harganya cuma 100 ribu
+229	Dan harganya cuma 100 ribu
+230	Dan harganya cuma 100 ribu Disini tuh juga ada beberapa produknya
+231	Dan harganya cuma 100 ribu Disini tuh juga ada beberapa produknya
+232	Disini tuh juga ada beberapa produknya Dan beberapa ingredients lain yang di-infuse ya
+233	Disini tuh juga ada beberapa produknya Dan beberapa ingredients lain yang di-infuse ya
+234	Dan beberapa ingredients lain yang di-infuse ya
+235	Dan beberapa ingredients lain yang di-infuse ya
+236	Dan beberapa ingredients lain yang di-infuse ya Biar bisa membantu melembabkan kulit
+237	Dan beberapa ingredients lain yang di-infuse ya Biar bisa membantu melembabkan kulit
+238	Biar bisa membantu melembabkan kulit
+239	Biar bisa membantu melembabkan kulit
+240	Biar bisa membantu melembabkan kulit Menambahkan efek mencerahkan kulit
+241	Biar bisa membantu melembabkan kulit Menambahkan efek mencerahkan kulit
+242	Menambahkan efek mencerahkan kulit
+243	Menambahkan efek mencerahkan kulit
+244	Menambahkan efek mencerahkan kulit Dan menyamarkan noda-noda hitam
+245	Menambahkan efek mencerahkan kulit Dan menyamarkan noda-noda hitam
+246	Dan menyamarkan noda-noda hitam
+247	Dan menyamarkan noda-noda hitam Jadi ini tuh ditujukan untuk siapa?
+248	Dan menyamarkan noda-noda hitam Jadi ini tuh ditujukan untuk siapa?
+249	Dan menyamarkan noda-noda hitam Jadi ini tuh ditujukan untuk siapa?
+250	Jadi ini tuh ditujukan untuk siapa?
+251	Jadi ini tuh ditujukan untuk siapa? Hampir untuk semua jenis kulit
+252	Jadi ini tuh ditujukan untuk siapa? Hampir untuk semua jenis kulit
+253	Hampir untuk semua jenis kulit
+254	Hampir untuk semua jenis kulit Yang pertama, buat kalian yang punya bakas jerawat
+255	Hampir untuk semua jenis kulit Yang pertama, buat kalian yang punya bakas jerawat
+256	Yang pertama, buat kalian yang punya bakas jerawat
+257	Yang pertama, buat kalian yang punya bakas jerawat
+258	Yang pertama, buat kalian yang punya bakas jerawat Flag, ada tanda-tanda penuaan, keriput, kulitnya kusam
+259	Yang pertama, buat kalian yang punya bakas jerawat Flag, ada tanda-tanda penuaan, keriput, kulitnya kusam
+260	Flag, ada tanda-tanda penuaan, keriput, kulitnya kusam
+261	Flag, ada tanda-tanda penuaan, keriput, kulitnya kusam
+262	Flag, ada tanda-tanda penuaan, keriput, kulitnya kusam
+263	Flag, ada tanda-tanda penuaan, keriput, kulitnya kusam
+264	Flag, ada tanda-tanda penuaan, keriput, kulitnya kusam
+265	Flag, ada tanda-tanda penuaan, keriput, kulitnya kusam Kalian semua bisa pake ini
+266	Flag, ada tanda-tanda penuaan, keriput, kulitnya kusam Kalian semua bisa pake ini
+267	Kalian semua bisa pake ini
+268	Kalian semua bisa pake ini Disini tuh ada niacinamide, alpha arbutin, haraguna extract, sodium hyaluronate, chroma bright
+269	Kalian semua bisa pake ini Disini tuh ada niacinamide, alpha arbutin, haraguna extract, sodium hyaluronate, chroma bright
+270	Disini tuh ada niacinamide, alpha arbutin, haraguna extract, sodium hyaluronate, chroma bright
+271	Disini tuh ada niacinamide, alpha arbutin, haraguna extract, sodium hyaluronate, chroma bright
+272	Disini tuh ada niacinamide, alpha arbutin, haraguna extract, sodium hyaluronate, chroma bright
+273	Disini tuh ada niacinamide, alpha arbutin, haraguna extract, sodium hyaluronate, chroma bright
+274	Disini tuh ada niacinamide, alpha arbutin, haraguna extract, sodium hyaluronate, chroma bright
+275	Disini tuh ada niacinamide, alpha arbutin, haraguna extract, sodium hyaluronate, chroma bright
+276	Disini tuh ada niacinamide, alpha arbutin, haraguna extract, sodium hyaluronate, chroma bright
+277	Disini tuh ada niacinamide, alpha arbutin, haraguna extract, sodium hyaluronate, chroma bright
+278	Disini tuh ada niacinamide, alpha arbutin, haraguna extract, sodium hyaluronate, chroma bright
+279	Disini tuh ada niacinamide, alpha arbutin, haraguna extract, sodium hyaluronate, chroma bright
+280	Disini tuh ada niacinamide, alpha arbutin, haraguna extract, sodium hyaluronate, chroma bright Dan masih banyak ingredients lain yang di-infuse disini
+281	Disini tuh ada niacinamide, alpha arbutin, haraguna extract, sodium hyaluronate, chroma bright Dan masih banyak ingredients lain yang di-infuse disini
+282	Dan masih banyak ingredients lain yang di-infuse disini
+283	Dan masih banyak ingredients lain yang di-infuse disini
+284	Dan masih banyak ingredients lain yang di-infuse disini
+285	Dan masih banyak ingredients lain yang di-infuse disini
+286	Dan masih banyak ingredients lain yang di-infuse disini Walaupun memang main focusnya itu adalah retinalnya
+287	Dan masih banyak ingredients lain yang di-infuse disini Walaupun memang main focusnya itu adalah retinalnya
+288	Walaupun memang main focusnya itu adalah retinalnya
+289	Walaupun memang main focusnya itu adalah retinalnya
+290	Walaupun memang main focusnya itu adalah retinalnya
+291	Walaupun memang main focusnya itu adalah retinalnya
+292	Jadi bener-bener ini adalah moisturizer yang diciptakan untuk multi-function
+293	Jadi bener-bener ini adalah moisturizer yang diciptakan untuk multi-function
+294	Jadi bener-bener ini adalah moisturizer yang diciptakan untuk multi-function
+295	Jadi bener-bener ini adalah moisturizer yang diciptakan untuk multi-function
+296	Jadi bener-bener ini adalah moisturizer yang diciptakan untuk multi-function
+297	Jadi bener-bener ini adalah moisturizer yang diciptakan untuk multi-function
+298	Jadi bener-bener ini adalah moisturizer yang diciptakan untuk multi-function
+299	Jadi bener-bener ini adalah moisturizer yang diciptakan untuk multi-function Jadi kesimpulan akhirnya, apakah ini Tasha Farasha approve?
+300	Jadi bener-bener ini adalah moisturizer yang diciptakan untuk multi-function Jadi kesimpulan akhirnya, apakah ini Tasha Farasha approve?
+301	Jadi kesimpulan akhirnya, apakah ini Tasha Farasha approve?
+302	Jadi kesimpulan akhirnya, apakah ini Tasha Farasha approve?
+303	Jadi kesimpulan akhirnya, apakah ini Tasha Farasha approve?
+304	Jadi kesimpulan akhirnya, apakah ini Tasha Farasha approve?
+305	Jadi kesimpulan akhirnya, apakah ini Tasha Farasha approve? Bukan Tasha Farasha approve lagi
+306	Jadi kesimpulan akhirnya, apakah ini Tasha Farasha approve? Bukan Tasha Farasha approve lagi
+307	Bukan Tasha Farasha approve lagi Ini adalah Tasha Farasha go
+308	Bukan Tasha Farasha approve lagi Ini adalah Tasha Farasha go
+309	Ini adalah Tasha Farasha go
+310	Ini adalah Tasha Farasha go Karena selain aku pake dan ini hasil penggunaan aku
+311	Ini adalah Tasha Farasha go Karena selain aku pake dan ini hasil penggunaan aku
+312	Karena selain aku pake dan ini hasil penggunaan aku
+313	Karena selain aku pake dan ini hasil penggunaan aku
+314	Karena selain aku pake dan ini hasil penggunaan aku
+315	Karena selain aku pake dan ini hasil penggunaan aku
+316	Karena selain aku pake dan ini hasil penggunaan aku
+317	Karena selain aku pake dan ini hasil penggunaan aku
+318	[NO_SPEECH]
+319	[NO_SPEECH]
+320	[NO_SPEECH]
+321	[NO_SPEECH]
+322	Aku juga involved dalam produk ini ya
+323	Aku juga involved dalam produk ini ya
+324	Aku juga involved dalam produk ini ya
+325	Aku juga involved dalam produk ini ya
+326	Aku juga involved dalam produk ini ya
+327	Aku juga involved dalam produk ini ya
+328	Aku juga involved dalam produk ini ya Jadi aku penasaran banget pendapat kalian gimana setelah mencoba produk ini
+329	Aku juga involved dalam produk ini ya Jadi aku penasaran banget pendapat kalian gimana setelah mencoba produk ini
+330	Jadi aku penasaran banget pendapat kalian gimana setelah mencoba produk ini
+331	Jadi aku penasaran banget pendapat kalian gimana setelah mencoba produk ini
+332	Jadi aku penasaran banget pendapat kalian gimana setelah mencoba produk ini
+333	Jadi aku penasaran banget pendapat kalian gimana setelah mencoba produk ini
+334	Jadi aku penasaran banget pendapat kalian gimana setelah mencoba produk ini
+335	Jadi aku penasaran banget pendapat kalian gimana setelah mencoba produk ini Kalian bisa banget komen dibawah
+336	Jadi aku penasaran banget pendapat kalian gimana setelah mencoba produk ini Kalian bisa banget komen dibawah
+337	Kalian bisa banget komen dibawah
+338	Kalian bisa banget komen dibawah
+339	Kalian bisa banget komen dibawah Gimana hasilnya menurut kalian dan gimana teksturnya
+340	Kalian bisa banget komen dibawah Gimana hasilnya menurut kalian dan gimana teksturnya
+341	Gimana hasilnya menurut kalian dan gimana teksturnya
+342	Gimana hasilnya menurut kalian dan gimana teksturnya
+343	Gimana hasilnya menurut kalian dan gimana teksturnya
+344	Gimana hasilnya menurut kalian dan gimana teksturnya Penasaran banget aku menurut kalian gimana
+345	Gimana hasilnya menurut kalian dan gimana teksturnya Penasaran banget aku menurut kalian gimana
+346	Penasaran banget aku menurut kalian gimana
+347	Penasaran banget aku menurut kalian gimana
+348	Penasaran banget aku menurut kalian gimana Suka gak sih tekstur moisturizer yang kayak gini?
+349	Penasaran banget aku menurut kalian gimana Suka gak sih tekstur moisturizer yang kayak gini?
+350	Suka gak sih tekstur moisturizer yang kayak gini?
+351	Suka gak sih tekstur moisturizer yang kayak gini?
+352	Suka gak sih tekstur moisturizer yang kayak gini? Kalian bisa komen dibawah, oke?
+353	Suka gak sih tekstur moisturizer yang kayak gini? Kalian bisa komen dibawah, oke?
+354	Kalian bisa komen dibawah, oke?
+355	Kalian bisa komen dibawah, oke?
+356	[NO_SPEECH]

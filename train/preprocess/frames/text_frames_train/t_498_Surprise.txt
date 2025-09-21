@@ -1,0 +1,202 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	Rapat bersama Komisi 10 DPR RI terkait persetujuan penambahan anggaran kemenpora tahun 2026.
+8	Rapat bersama Komisi 10 DPR RI terkait persetujuan penambahan anggaran kemenpora tahun 2026.
+9	Rapat bersama Komisi 10 DPR RI terkait persetujuan penambahan anggaran kemenpora tahun 2026.
+10	Rapat bersama Komisi 10 DPR RI terkait persetujuan penambahan anggaran kemenpora tahun 2026.
+11	Rapat bersama Komisi 10 DPR RI terkait persetujuan penambahan anggaran kemenpora tahun 2026.
+12	Rapat bersama Komisi 10 DPR RI terkait persetujuan penambahan anggaran kemenpora tahun 2026.
+13	Rapat bersama Komisi 10 DPR RI terkait persetujuan penambahan anggaran kemenpora tahun 2026.
+14	Rapat bersama Komisi 10 DPR RI terkait persetujuan penambahan anggaran kemenpora tahun 2026.
+15	Rapat bersama Komisi 10 DPR RI terkait persetujuan penambahan anggaran kemenpora tahun 2026.
+16	Rapat bersama Komisi 10 DPR RI terkait persetujuan penambahan anggaran kemenpora tahun 2026.
+17	Rapat bersama Komisi 10 DPR RI terkait persetujuan penambahan anggaran kemenpora tahun 2026.
+18	Rapat bersama Komisi 10 DPR RI terkait persetujuan penambahan anggaran kemenpora tahun 2026.
+19	Rapat bersama Komisi 10 DPR RI terkait persetujuan penambahan anggaran kemenpora tahun 2026.
+20	Rapat bersama Komisi 10 DPR RI terkait persetujuan penambahan anggaran kemenpora tahun 2026.
+21	Rapat bersama Komisi 10 DPR RI terkait persetujuan penambahan anggaran kemenpora tahun 2026.
+22	Rapat bersama Komisi 10 DPR RI terkait persetujuan penambahan anggaran kemenpora tahun 2026.
+23	Rapat bersama Komisi 10 DPR RI terkait persetujuan penambahan anggaran kemenpora tahun 2026.
+24	Rapat bersama Komisi 10 DPR RI terkait persetujuan penambahan anggaran kemenpora tahun 2026. Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472.
+25	Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472.
+26	Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472.
+27	Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472.
+28	Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472.
+29	Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472.
+30	Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472.
+31	Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472.
+32	Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472.
+33	Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472.
+34	Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472.
+35	Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472.
+36	Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472.
+37	Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472.
+38	Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472.
+39	Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472.
+40	Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472.
+41	Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472.
+42	Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472.
+43	Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472. Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+44	Kami telah menguatkan usulan penambahan anggaran sebesar Rp4.406.546.472. Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+45	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+46	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+47	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+48	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+49	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+50	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+51	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+52	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+53	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+54	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+55	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+56	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+57	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+58	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+59	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+60	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+61	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+62	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+63	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+64	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+65	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+66	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025.
+67	Usulan dimaksud telah kami sampaikan dengan asurat kepada Menteri Keuangan dan Menteri PPN atau Bapak Pemas pada tanggal 7 Juli 2025. Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+68	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+69	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+70	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+71	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+72	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+73	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+74	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+75	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+76	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+77	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+78	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+79	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+80	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+81	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+82	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+83	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+84	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+85	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+86	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+87	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026
+88	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026 dengan mengujudkan pengguna umum yang berkarakter dan berdaya saing, masyarakat yang bukan persatuan warga yang membanggakan
+89	Usulan rencana kegiatan dan anggaran kementerian lembaga pada kemampuan pemudaan warga telah mengakomodir arah kebijakan pembangunan pemudaan dan warga sesuai RKP tahun 2026 dengan mengujudkan pengguna umum yang berkarakter dan berdaya saing, masyarakat yang bukan persatuan warga yang membanggakan
+90	dengan mengujudkan pengguna umum yang berkarakter dan berdaya saing, masyarakat yang bukan persatuan warga yang membanggakan
+91	dengan mengujudkan pengguna umum yang berkarakter dan berdaya saing, masyarakat yang bukan persatuan warga yang membanggakan
+92	dengan mengujudkan pengguna umum yang berkarakter dan berdaya saing, masyarakat yang bukan persatuan warga yang membanggakan
+93	dengan mengujudkan pengguna umum yang berkarakter dan berdaya saing, masyarakat yang bukan persatuan warga yang membanggakan
+94	dengan mengujudkan pengguna umum yang berkarakter dan berdaya saing, masyarakat yang bukan persatuan warga yang membanggakan
+95	dengan mengujudkan pengguna umum yang berkarakter dan berdaya saing, masyarakat yang bukan persatuan warga yang membanggakan
+96	dengan mengujudkan pengguna umum yang berkarakter dan berdaya saing, masyarakat yang bukan persatuan warga yang membanggakan
+97	dengan mengujudkan pengguna umum yang berkarakter dan berdaya saing, masyarakat yang bukan persatuan warga yang membanggakan
+98	dengan mengujudkan pengguna umum yang berkarakter dan berdaya saing, masyarakat yang bukan persatuan warga yang membanggakan
+99	dengan mengujudkan pengguna umum yang berkarakter dan berdaya saing, masyarakat yang bukan persatuan warga yang membanggakan
+100	dengan mengujudkan pengguna umum yang berkarakter dan berdaya saing, masyarakat yang bukan persatuan warga yang membanggakan
+101	dengan mengujudkan pengguna umum yang berkarakter dan berdaya saing, masyarakat yang bukan persatuan warga yang membanggakan
+102	dengan mengujudkan pengguna umum yang berkarakter dan berdaya saing, masyarakat yang bukan persatuan warga yang membanggakan dan membanggakan kemampuan pemudaan dan warga yang membanggakan kemampuan pemudaan dan warga yang membanggakan kemampuan pemudaan dan warga yang membanggakan
+103	dengan mengujudkan pengguna umum yang berkarakter dan berdaya saing, masyarakat yang bukan persatuan warga yang membanggakan dan membanggakan kemampuan pemudaan dan warga yang membanggakan kemampuan pemudaan dan warga yang membanggakan kemampuan pemudaan dan warga yang membanggakan di tingkat dunia serta industri warga yang berkontribusi terhadap ekonomi nasional.
+104	dan membanggakan kemampuan pemudaan dan warga yang membanggakan kemampuan pemudaan dan warga yang membanggakan kemampuan pemudaan dan warga yang membanggakan di tingkat dunia serta industri warga yang berkontribusi terhadap ekonomi nasional.
+105	di tingkat dunia serta industri warga yang berkontribusi terhadap ekonomi nasional.
+106	di tingkat dunia serta industri warga yang berkontribusi terhadap ekonomi nasional.
+107	di tingkat dunia serta industri warga yang berkontribusi terhadap ekonomi nasional.
+108	di tingkat dunia serta industri warga yang berkontribusi terhadap ekonomi nasional.
+109	di tingkat dunia serta industri warga yang berkontribusi terhadap ekonomi nasional.
+110	di tingkat dunia serta industri warga yang berkontribusi terhadap ekonomi nasional.
+111	di tingkat dunia serta industri warga yang berkontribusi terhadap ekonomi nasional.
+112	di tingkat dunia serta industri warga yang berkontribusi terhadap ekonomi nasional.
+113	di tingkat dunia serta industri warga yang berkontribusi terhadap ekonomi nasional. Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+114	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+115	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+116	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+117	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+118	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+119	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+120	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+121	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+122	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+123	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+124	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+125	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+126	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+127	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+128	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+129	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+130	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+131	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+132	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+133	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+134	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+135	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+136	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+137	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+138	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+139	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+140	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+141	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+142	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+143	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+144	Demikian yang dapat kami sampaikan mengenai gambaran arah kebijakan dan strategi dalam rencana kerja pemerintah tahun 2006 dan usulan atas RKP PPN tahun anggaran 2006 bidang penggunaan kewarnaan.
+145	[NO_SPEECH]
+146	[NO_SPEECH]
+147	[NO_SPEECH]
+148	[NO_SPEECH]
+149	[NO_SPEECH]
+150	[NO_SPEECH]
+151	[NO_SPEECH]
+152	Kami setuju.
+153	Kami setuju.
+154	Kami setuju.
+155	Kami setuju.
+156	Kami setuju.
+157	Kami setuju.
+158	[NO_SPEECH]
+159	[NO_SPEECH]
+160	[NO_SPEECH]
+161	[NO_SPEECH]
+162	[NO_SPEECH]
+163	Alhamdulillah disetujui.
+164	Alhamdulillah disetujui.
+165	Alhamdulillah disetujui.
+166	Alhamdulillah disetujui.
+167	Alhamdulillah disetujui.
+168	Alhamdulillah disetujui.
+169	[NO_SPEECH]
+170	[NO_SPEECH]
+171	[NO_SPEECH]
+172	[NO_SPEECH]
+173	[NO_SPEECH]
+174	[NO_SPEECH]
+175	[NO_SPEECH]
+176	[NO_SPEECH]
+177	[NO_SPEECH]
+178	[NO_SPEECH]
+179	[NO_SPEECH]
+180	[NO_SPEECH]
+181	[NO_SPEECH]
+182	[NO_SPEECH]
+183	[NO_SPEECH]
+184	[NO_SPEECH]
+185	Kami akan pastikan pemuda dan olahraga Indonesia akan semakin baik ke depannya.
+186	Kami akan pastikan pemuda dan olahraga Indonesia akan semakin baik ke depannya.
+187	Kami akan pastikan pemuda dan olahraga Indonesia akan semakin baik ke depannya.
+188	Kami akan pastikan pemuda dan olahraga Indonesia akan semakin baik ke depannya.
+189	Kami akan pastikan pemuda dan olahraga Indonesia akan semakin baik ke depannya.
+190	Kami akan pastikan pemuda dan olahraga Indonesia akan semakin baik ke depannya.
+191	Kami akan pastikan pemuda dan olahraga Indonesia akan semakin baik ke depannya.
+192	Kami akan pastikan pemuda dan olahraga Indonesia akan semakin baik ke depannya.
+193	Kami akan pastikan pemuda dan olahraga Indonesia akan semakin baik ke depannya.
+194	Kami akan pastikan pemuda dan olahraga Indonesia akan semakin baik ke depannya.
+195	Kami akan pastikan pemuda dan olahraga Indonesia akan semakin baik ke depannya.
+196	Kami akan pastikan pemuda dan olahraga Indonesia akan semakin baik ke depannya.
+197	[NO_SPEECH]
+198	[NO_SPEECH]
+199	[NO_SPEECH]
+200	[NO_SPEECH]
+201	[NO_SPEECH]

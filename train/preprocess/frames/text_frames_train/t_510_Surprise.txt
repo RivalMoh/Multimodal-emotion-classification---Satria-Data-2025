@@ -1,0 +1,115 @@
+0	Balik ke bola tangan, tentu begitu juga sama.
+1	Balik ke bola tangan, tentu begitu juga sama.
+2	Balik ke bola tangan, tentu begitu juga sama.
+3	Balik ke bola tangan, tentu begitu juga sama.
+4	Balik ke bola tangan, tentu begitu juga sama.
+5	Kalau kita, saya berharap misalnya Bang Acoy ini kan kita memang kami minta ya
+6	Kalau kita, saya berharap misalnya Bang Acoy ini kan kita memang kami minta ya
+7	Kalau kita, saya berharap misalnya Bang Acoy ini kan kita memang kami minta ya
+8	Kalau kita, saya berharap misalnya Bang Acoy ini kan kita memang kami minta ya
+9	Kalau kita, saya berharap misalnya Bang Acoy ini kan kita memang kami minta ya
+10	Kalau kita, saya berharap misalnya Bang Acoy ini kan kita memang kami minta ya
+11	Kalau kita, saya berharap misalnya Bang Acoy ini kan kita memang kami minta ya
+12	Kalau kita, saya berharap misalnya Bang Acoy ini kan kita memang kami minta ya
+13	Kalau kita, saya berharap misalnya Bang Acoy ini kan kita memang kami minta ya
+14	Kalau kita, saya berharap misalnya Bang Acoy ini kan kita memang kami minta ya
+15	Kalau kita, saya berharap misalnya Bang Acoy ini kan kita memang kami minta ya Bang Acoy kemarin menjadi Wakil Ketua Wakil Tum Bidang Organisasi tentu.
+16	Kalau kita, saya berharap misalnya Bang Acoy ini kan kita memang kami minta ya Bang Acoy kemarin menjadi Wakil Ketua Wakil Tum Bidang Organisasi tentu.
+17	Bang Acoy kemarin menjadi Wakil Ketua Wakil Tum Bidang Organisasi tentu.
+18	Bang Acoy kemarin menjadi Wakil Ketua Wakil Tum Bidang Organisasi tentu.
+19	Bang Acoy kemarin menjadi Wakil Ketua Wakil Tum Bidang Organisasi tentu.
+20	Bang Acoy kemarin menjadi Wakil Ketua Wakil Tum Bidang Organisasi tentu.
+21	Bang Acoy kemarin menjadi Wakil Ketua Wakil Tum Bidang Organisasi tentu.
+22	Bang Acoy kemarin menjadi Wakil Ketua Wakil Tum Bidang Organisasi tentu.
+23	Bang Acoy kemarin menjadi Wakil Ketua Wakil Tum Bidang Organisasi tentu.
+24	Bang Acoy kemarin menjadi Wakil Ketua Wakil Tum Bidang Organisasi tentu.
+25	Bang Acoy kemarin menjadi Wakil Ketua Wakil Tum Bidang Organisasi tentu. Kanu-kanu Bang, kanu Bang biar denger nih.
+26	Bang Acoy kemarin menjadi Wakil Ketua Wakil Tum Bidang Organisasi tentu. Kanu-kanu Bang, kanu Bang biar denger nih.
+27	Kanu-kanu Bang, kanu Bang biar denger nih.
+28	Kanu-kanu Bang, kanu Bang biar denger nih.
+29	Kanu-kanu Bang, kanu Bang biar denger nih. Wakil Tum Bidang Organisasi.
+30	Kanu-kanu Bang, kanu Bang biar denger nih. Wakil Tum Bidang Organisasi.
+31	Wakil Tum Bidang Organisasi.
+32	Wakil Tum Bidang Organisasi.
+33	Wakil Tum Bidang Organisasi.
+34	Wakil Tum Bidang Organisasi.
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	Mesti ditegaskan ya.
+39	Mesti ditegaskan ya.
+40	Mesti ditegaskan ya.
+41	Mesti ditegaskan ya.
+42	Mesti ditegaskan ya.
+43	Kemudian ada Icuk Sugiyato Bidang Prasarana-sarana dan seterusnya.
+44	Kemudian ada Icuk Sugiyato Bidang Prasarana-sarana dan seterusnya.
+45	Kemudian ada Icuk Sugiyato Bidang Prasarana-sarana dan seterusnya.
+46	Kemudian ada Icuk Sugiyato Bidang Prasarana-sarana dan seterusnya.
+47	Kemudian ada Icuk Sugiyato Bidang Prasarana-sarana dan seterusnya.
+48	Kemudian ada Icuk Sugiyato Bidang Prasarana-sarana dan seterusnya.
+49	Kemudian ada Icuk Sugiyato Bidang Prasarana-sarana dan seterusnya.
+50	Kemudian ada Icuk Sugiyato Bidang Prasarana-sarana dan seterusnya.
+51	Kemudian ada Icuk Sugiyato Bidang Prasarana-sarana dan seterusnya.
+52	Kemudian ada Icuk Sugiyato Bidang Prasarana-sarana dan seterusnya.
+53	Kemudian ada Icuk Sugiyato Bidang Prasarana-sarana dan seterusnya.
+54	Kemudian ada Icuk Sugiyato Bidang Prasarana-sarana dan seterusnya. Ragu-ragu Icuk.
+55	Ragu-ragu Icuk.
+56	Ragu-ragu Icuk.
+57	Ragu-ragu Icuk.
+58	[NO_SPEECH]
+59	[NO_SPEECH]
+60	[NO_SPEECH]
+61	[NO_SPEECH]
+62	Kalau sampas dulu kan begitu.
+63	Kalau sampas dulu kan begitu.
+64	Kalau sampas dulu kan begitu.
+65	Kalau sampas dulu kan begitu.
+66	Kalau sampas dulu kan begitu.
+67	Kalau sampas dulu kan begitu. Ragu-ragu Icuk.
+68	Kalau sampas dulu kan begitu. Ragu-ragu Icuk.
+69	Ragu-ragu Icuk.
+70	Ragu-ragu Icuk.
+71	Ragu-ragu Icuk.
+72	[NO_SPEECH]
+73	Jadi gitu Bang ya kira-kira ya.
+74	Jadi gitu Bang ya kira-kira ya.
+75	Jadi gitu Bang ya kira-kira ya.
+76	Jadi gitu Bang ya kira-kira ya.
+77	Jadi gitu Bang ya kira-kira ya. Nanti kita bahas lagi Bang.
+78	Nanti kita bahas lagi Bang.
+79	Nanti kita bahas lagi Bang.
+80	Nanti kita bahas lagi Bang.
+81	Nanti kita bahas lagi Bang. Ada komentar-komentar nih.
+82	Nanti kita bahas lagi Bang. Ada komentar-komentar nih.
+83	Ada komentar-komentar nih.
+84	Ada komentar-komentar nih. Yuk coba lihat sini kita ya.
+85	Ada komentar-komentar nih. Yuk coba lihat sini kita ya.
+86	Yuk coba lihat sini kita ya.
+87	Yuk coba lihat sini kita ya. Ini dari pertama nih.
+88	Ini dari pertama nih.
+89	Ini dari pertama nih.
+90	Ini dari pertama nih.
+91	Ini dari pertama nih. Abi Dabi Yuka Davi.
+92	Abi Dabi Yuka Davi.
+93	Abi Dabi Yuka Davi.
+94	Abi Dabi Yuka Davi.
+95	Abi Dabi Yuka Davi. Wah Satria keren banget.
+96	Abi Dabi Yuka Davi. Wah Satria keren banget.
+97	Wah Satria keren banget. Satria!
+98	Wah Satria keren banget. Satria! Wah keren banget.
+99	Satria! Wah keren banget.
+100	Wah keren banget.
+101	Wah keren banget. Sudah punya baca belum kan?
+102	Wah keren banget. Sudah punya baca belum kan?
+103	Sudah punya baca belum kan? Sudah Mbak.
+104	Sudah punya baca belum kan? Sudah Mbak.
+105	Sudah Mbak. Sudah.
+106	Sudah Mbak. Sudah. Jangan udah-udah.
+107	Sudah. Jangan udah-udah.
+108	Jangan udah-udah. Sudah Mbak.
+109	Jangan udah-udah. Sudah Mbak.
+110	Sudah Mbak. Sudah.
+111	Sudah. Sudah.
+112	Sudah. Sudah.
+113	Sudah.
+114	[NO_SPEECH]

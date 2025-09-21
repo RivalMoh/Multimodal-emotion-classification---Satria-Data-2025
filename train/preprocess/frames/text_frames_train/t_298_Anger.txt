@@ -1,0 +1,239 @@
+0	Gua kadang heran sama orang yang nanya,
+1	Gua kadang heran sama orang yang nanya,
+2	Gua kadang heran sama orang yang nanya,
+3	Gua kadang heran sama orang yang nanya, produk elektronik ini oke nggak tanpa ngeliat harganya?
+4	Gua kadang heran sama orang yang nanya, produk elektronik ini oke nggak tanpa ngeliat harganya?
+5	produk elektronik ini oke nggak tanpa ngeliat harganya?
+6	produk elektronik ini oke nggak tanpa ngeliat harganya?
+7	produk elektronik ini oke nggak tanpa ngeliat harganya?
+8	produk elektronik ini oke nggak tanpa ngeliat harganya?
+9	produk elektronik ini oke nggak tanpa ngeliat harganya?
+10	produk elektronik ini oke nggak tanpa ngeliat harganya?
+11	produk elektronik ini oke nggak tanpa ngeliat harganya? Gimana ceritanya bisa menilai produk elektronik tanpa liat harganya?
+12	produk elektronik ini oke nggak tanpa ngeliat harganya? Gimana ceritanya bisa menilai produk elektronik tanpa liat harganya?
+13	Gimana ceritanya bisa menilai produk elektronik tanpa liat harganya?
+14	Gimana ceritanya bisa menilai produk elektronik tanpa liat harganya?
+15	Gimana ceritanya bisa menilai produk elektronik tanpa liat harganya?
+16	Gimana ceritanya bisa menilai produk elektronik tanpa liat harganya?
+17	Gimana ceritanya bisa menilai produk elektronik tanpa liat harganya?
+18	Gimana ceritanya bisa menilai produk elektronik tanpa liat harganya?
+19	Gimana ceritanya bisa menilai produk elektronik tanpa liat harganya? Padahal harganya itu komponen paling penting buat bisa nilai itu produk oke atau kagak.
+20	Gimana ceritanya bisa menilai produk elektronik tanpa liat harganya? Padahal harganya itu komponen paling penting buat bisa nilai itu produk oke atau kagak.
+21	Padahal harganya itu komponen paling penting buat bisa nilai itu produk oke atau kagak.
+22	Padahal harganya itu komponen paling penting buat bisa nilai itu produk oke atau kagak.
+23	Padahal harganya itu komponen paling penting buat bisa nilai itu produk oke atau kagak.
+24	Padahal harganya itu komponen paling penting buat bisa nilai itu produk oke atau kagak.
+25	Padahal harganya itu komponen paling penting buat bisa nilai itu produk oke atau kagak.
+26	Padahal harganya itu komponen paling penting buat bisa nilai itu produk oke atau kagak.
+27	Padahal harganya itu komponen paling penting buat bisa nilai itu produk oke atau kagak.
+28	Padahal harganya itu komponen paling penting buat bisa nilai itu produk oke atau kagak.
+29	Padahal harganya itu komponen paling penting buat bisa nilai itu produk oke atau kagak.
+30	Padahal harganya itu komponen paling penting buat bisa nilai itu produk oke atau kagak. Mabuk kayak gini nanya.
+31	Padahal harganya itu komponen paling penting buat bisa nilai itu produk oke atau kagak. Mabuk kayak gini nanya.
+32	Mabuk kayak gini nanya.
+33	Mabuk kayak gini nanya. Langsung gua jawab aja tanpa filter.
+34	Langsung gua jawab aja tanpa filter.
+35	Langsung gua jawab aja tanpa filter.
+36	Langsung gua jawab aja tanpa filter.
+37	Langsung gua jawab aja tanpa filter. 34 inch MSA yang ditanya itu di harga 4,2 juta.
+38	34 inch MSA yang ditanya itu di harga 4,2 juta.
+39	34 inch MSA yang ditanya itu di harga 4,2 juta.
+40	34 inch MSA yang ditanya itu di harga 4,2 juta.
+41	34 inch MSA yang ditanya itu di harga 4,2 juta.
+42	34 inch MSA yang ditanya itu di harga 4,2 juta.
+43	34 inch MSA yang ditanya itu di harga 4,2 juta.
+44	34 inch MSA yang ditanya itu di harga 4,2 juta. Itu barang sampah.
+45	34 inch MSA yang ditanya itu di harga 4,2 juta. Itu barang sampah.
+46	Itu barang sampah.
+47	Itu barang sampah. Gimana cara gua nilai itu sampah?
+48	Itu barang sampah. Gimana cara gua nilai itu sampah?
+49	Gimana cara gua nilai itu sampah?
+50	Gimana cara gua nilai itu sampah?
+51	Gimana cara gua nilai itu sampah? Gampang.
+52	Gampang. Pergi ke j.com, ketik monitor,
+53	Gampang. Pergi ke j.com, ketik monitor,
+54	Pergi ke j.com, ketik monitor,
+55	Pergi ke j.com, ketik monitor, filter by 34 inch, filter by sales.
+56	Pergi ke j.com, ketik monitor, filter by 34 inch, filter by sales.
+57	filter by 34 inch, filter by sales.
+58	filter by 34 inch, filter by sales.
+59	filter by 34 inch, filter by sales.
+60	filter by 34 inch, filter by sales.
+61	filter by 34 inch, filter by sales. Lu akan liat 3 brand dengan sales terbaik dan harga termurah di China.
+62	Lu akan liat 3 brand dengan sales terbaik dan harga termurah di China.
+63	Lu akan liat 3 brand dengan sales terbaik dan harga termurah di China.
+64	Lu akan liat 3 brand dengan sales terbaik dan harga termurah di China.
+65	Lu akan liat 3 brand dengan sales terbaik dan harga termurah di China.
+66	Lu akan liat 3 brand dengan sales terbaik dan harga termurah di China.
+67	Lu akan liat 3 brand dengan sales terbaik dan harga termurah di China.
+68	Lu akan liat 3 brand dengan sales terbaik dan harga termurah di China.
+69	Lu akan liat 3 brand dengan sales terbaik dan harga termurah di China. Xiaomi, Hisense, HKC.
+70	Lu akan liat 3 brand dengan sales terbaik dan harga termurah di China. Xiaomi, Hisense, HKC.
+71	Xiaomi, Hisense, HKC.
+72	Xiaomi, Hisense, HKC.
+73	Xiaomi, Hisense, HKC. Semuanya itu di harga 3 juta kecil atau di bawah 3 juta.
+74	Semuanya itu di harga 3 juta kecil atau di bawah 3 juta.
+75	Semuanya itu di harga 3 juta kecil atau di bawah 3 juta.
+76	Semuanya itu di harga 3 juta kecil atau di bawah 3 juta.
+77	Semuanya itu di harga 3 juta kecil atau di bawah 3 juta.
+78	Semuanya itu di harga 3 juta kecil atau di bawah 3 juta.
+79	Semuanya itu di harga 3 juta kecil atau di bawah 3 juta.
+80	Semuanya itu di harga 3 juta kecil atau di bawah 3 juta.
+81	Semuanya itu di harga 3 juta kecil atau di bawah 3 juta. Next gua liat jumlah penjualannya mereka.
+82	Semuanya itu di harga 3 juta kecil atau di bawah 3 juta. Next gua liat jumlah penjualannya mereka.
+83	Next gua liat jumlah penjualannya mereka.
+84	Next gua liat jumlah penjualannya mereka.
+85	Next gua liat jumlah penjualannya mereka. Xiaomi dapet 20 ribu reviews.
+86	Next gua liat jumlah penjualannya mereka. Xiaomi dapet 20 ribu reviews.
+87	Xiaomi dapet 20 ribu reviews.
+88	Xiaomi dapet 20 ribu reviews.
+89	Xiaomi dapet 20 ribu reviews. Hisense dan HKC masing-masing dapet 10 ribu reviews.
+90	Xiaomi dapet 20 ribu reviews. Hisense dan HKC masing-masing dapet 10 ribu reviews.
+91	Hisense dan HKC masing-masing dapet 10 ribu reviews.
+92	Hisense dan HKC masing-masing dapet 10 ribu reviews.
+93	Hisense dan HKC masing-masing dapet 10 ribu reviews.
+94	Hisense dan HKC masing-masing dapet 10 ribu reviews.
+95	Hisense dan HKC masing-masing dapet 10 ribu reviews.
+96	Hisense dan HKC masing-masing dapet 10 ribu reviews. Satu review belum tentu beli satu,
+97	Satu review belum tentu beli satu,
+98	Satu review belum tentu beli satu,
+99	Satu review belum tentu beli satu, yang beli belum tentu kasih review juga.
+100	Satu review belum tentu beli satu, yang beli belum tentu kasih review juga.
+101	yang beli belum tentu kasih review juga.
+102	yang beli belum tentu kasih review juga.
+103	yang beli belum tentu kasih review juga.
+104	yang beli belum tentu kasih review juga. Berikutnya yang gua spesifik,
+105	yang beli belum tentu kasih review juga. Berikutnya yang gua spesifik,
+106	Berikutnya yang gua spesifik,
+107	Berikutnya yang gua spesifik, cek MSA yang lu tanya itu.
+108	Berikutnya yang gua spesifik, cek MSA yang lu tanya itu.
+109	cek MSA yang lu tanya itu.
+110	cek MSA yang lu tanya itu. Harga di China 3,6-3,7 juta.
+111	cek MSA yang lu tanya itu. Harga di China 3,6-3,7 juta.
+112	Harga di China 3,6-3,7 juta.
+113	Harga di China 3,6-3,7 juta.
+114	Harga di China 3,6-3,7 juta.
+115	Harga di China 3,6-3,7 juta. Lu tau terjualnya berapa?
+116	Harga di China 3,6-3,7 juta. Lu tau terjualnya berapa?
+117	Lu tau terjualnya berapa?
+118	Lu tau terjualnya berapa?
+119	Lu tau terjualnya berapa? Menyedihkan cuma 60.
+120	Menyedihkan cuma 60.
+121	Menyedihkan cuma 60.
+122	Menyedihkan cuma 60.
+123	Menyedihkan cuma 60. Dan gua kasih tau nih seberapa menyedihkannya itu.
+124	Dan gua kasih tau nih seberapa menyedihkannya itu.
+125	Dan gua kasih tau nih seberapa menyedihkannya itu.
+126	Dan gua kasih tau nih seberapa menyedihkannya itu.
+127	Dan gua kasih tau nih seberapa menyedihkannya itu.
+128	Dan gua kasih tau nih seberapa menyedihkannya itu.
+129	Dan gua kasih tau nih seberapa menyedihkannya itu. Pas lu tanya harga sebuah produk sama produsen China,
+130	Pas lu tanya harga sebuah produk sama produsen China,
+131	Pas lu tanya harga sebuah produk sama produsen China,
+132	Pas lu tanya harga sebuah produk sama produsen China,
+133	Pas lu tanya harga sebuah produk sama produsen China,
+134	Pas lu tanya harga sebuah produk sama produsen China,
+135	Pas lu tanya harga sebuah produk sama produsen China, orang-orang China pabrikan itu gak bakalan langsung jawab.
+136	Pas lu tanya harga sebuah produk sama produsen China, orang-orang China pabrikan itu gak bakalan langsung jawab.
+137	orang-orang China pabrikan itu gak bakalan langsung jawab.
+138	orang-orang China pabrikan itu gak bakalan langsung jawab.
+139	orang-orang China pabrikan itu gak bakalan langsung jawab.
+140	orang-orang China pabrikan itu gak bakalan langsung jawab. Dia akan tanya balik dan cuma ada satu pertanyaan yang dia tanya.
+141	orang-orang China pabrikan itu gak bakalan langsung jawab. Dia akan tanya balik dan cuma ada satu pertanyaan yang dia tanya.
+142	Dia akan tanya balik dan cuma ada satu pertanyaan yang dia tanya.
+143	Dia akan tanya balik dan cuma ada satu pertanyaan yang dia tanya.
+144	Dia akan tanya balik dan cuma ada satu pertanyaan yang dia tanya.
+145	Dia akan tanya balik dan cuma ada satu pertanyaan yang dia tanya.
+146	Dia akan tanya balik dan cuma ada satu pertanyaan yang dia tanya.
+147	Dia akan tanya balik dan cuma ada satu pertanyaan yang dia tanya. Lu mau bikin berapa kuantitinya?
+148	Dia akan tanya balik dan cuma ada satu pertanyaan yang dia tanya. Lu mau bikin berapa kuantitinya?
+149	Lu mau bikin berapa kuantitinya?
+150	Lu mau bikin berapa kuantitinya?
+151	Lu mau bikin berapa kuantitinya?
+152	Lu mau bikin berapa kuantitinya?
+153	Lu mau bikin berapa kuantitinya? Gak ada pertanyaan lain.
+154	Lu mau bikin berapa kuantitinya? Gak ada pertanyaan lain.
+155	Gak ada pertanyaan lain.
+156	Gak ada pertanyaan lain. Kalau MSA cuma bisa jualan 60,
+157	Gak ada pertanyaan lain. Kalau MSA cuma bisa jualan 60,
+158	Kalau MSA cuma bisa jualan 60,
+159	Kalau MSA cuma bisa jualan 60,
+160	Kalau MSA cuma bisa jualan 60, sedangkan Xiaomi China jual 20 ribu piece di China,
+161	sedangkan Xiaomi China jual 20 ribu piece di China,
+162	sedangkan Xiaomi China jual 20 ribu piece di China,
+163	sedangkan Xiaomi China jual 20 ribu piece di China,
+164	sedangkan Xiaomi China jual 20 ribu piece di China,
+165	sedangkan Xiaomi China jual 20 ribu piece di China,
+166	sedangkan Xiaomi China jual 20 ribu piece di China,
+167	sedangkan Xiaomi China jual 20 ribu piece di China, mungkinkah MSA bisa bikin monitor lebih bagus dibanding Xiaomi?
+168	mungkinkah MSA bisa bikin monitor lebih bagus dibanding Xiaomi?
+169	mungkinkah MSA bisa bikin monitor lebih bagus dibanding Xiaomi?
+170	mungkinkah MSA bisa bikin monitor lebih bagus dibanding Xiaomi?
+171	mungkinkah MSA bisa bikin monitor lebih bagus dibanding Xiaomi?
+172	mungkinkah MSA bisa bikin monitor lebih bagus dibanding Xiaomi?
+173	mungkinkah MSA bisa bikin monitor lebih bagus dibanding Xiaomi?
+174	mungkinkah MSA bisa bikin monitor lebih bagus dibanding Xiaomi? Impos.
+175	Impos. Impos, bos.
+176	Impos. Impos, bos.
+177	Impos, bos. 1,60.
+178	Impos, bos. 1,60.
+179	1,60. 1,20 kurik.
+180	1,60. 1,20 kurik.
+181	1,20 kurik. Mungkin 60 di lepehan pabrik, ah.
+182	1,20 kurik. Mungkin 60 di lepehan pabrik, ah.
+183	Mungkin 60 di lepehan pabrik, ah.
+184	Mungkin 60 di lepehan pabrik, ah.
+185	Mungkin 60 di lepehan pabrik, ah.
+186	Mungkin 60 di lepehan pabrik, ah. Lebih lagi, MSA jualan di Indonesia,
+187	Mungkin 60 di lepehan pabrik, ah. Lebih lagi, MSA jualan di Indonesia,
+188	Lebih lagi, MSA jualan di Indonesia,
+189	Lebih lagi, MSA jualan di Indonesia,
+190	Lebih lagi, MSA jualan di Indonesia, mau untungnya gak kira-kira.
+191	Lebih lagi, MSA jualan di Indonesia, mau untungnya gak kira-kira.
+192	mau untungnya gak kira-kira.
+193	mau untungnya gak kira-kira. Mau 1,2 sampai 1,3 juta kalau gua lihat harga di topen.
+194	Mau 1,2 sampai 1,3 juta kalau gua lihat harga di topen.
+195	Mau 1,2 sampai 1,3 juta kalau gua lihat harga di topen.
+196	Mau 1,2 sampai 1,3 juta kalau gua lihat harga di topen.
+197	Mau 1,2 sampai 1,3 juta kalau gua lihat harga di topen.
+198	Mau 1,2 sampai 1,3 juta kalau gua lihat harga di topen.
+199	Mau 1,2 sampai 1,3 juta kalau gua lihat harga di topen.
+200	Mau 1,2 sampai 1,3 juta kalau gua lihat harga di topen. Xiaomi kemarin pas 12-12 berhasil bantai monitor 34 inch resminya itu di Indonesia.
+201	Xiaomi kemarin pas 12-12 berhasil bantai monitor 34 inch resminya itu di Indonesia.
+202	Xiaomi kemarin pas 12-12 berhasil bantai monitor 34 inch resminya itu di Indonesia.
+203	Xiaomi kemarin pas 12-12 berhasil bantai monitor 34 inch resminya itu di Indonesia.
+204	Xiaomi kemarin pas 12-12 berhasil bantai monitor 34 inch resminya itu di Indonesia.
+205	Xiaomi kemarin pas 12-12 berhasil bantai monitor 34 inch resminya itu di Indonesia.
+206	Xiaomi kemarin pas 12-12 berhasil bantai monitor 34 inch resminya itu di Indonesia.
+207	Xiaomi kemarin pas 12-12 berhasil bantai monitor 34 inch resminya itu di Indonesia.
+208	Xiaomi kemarin pas 12-12 berhasil bantai monitor 34 inch resminya itu di Indonesia.
+209	Xiaomi kemarin pas 12-12 berhasil bantai monitor 34 inch resminya itu di Indonesia. Sampai cuma 2,9 triton.
+210	Sampai cuma 2,9 triton.
+211	Sampai cuma 2,9 triton.
+212	Sampai cuma 2,9 triton.
+213	Sampai cuma 2,9 triton. Lebih murah dari harga China.
+214	Lebih murah dari harga China.
+215	Lebih murah dari harga China.
+216	Lebih murah dari harga China.
+217	Lebih murah dari harga China. Lepehan pabrik sama anak emas pabrik itu udah beda leko, bos.
+218	Lebih murah dari harga China. Lepehan pabrik sama anak emas pabrik itu udah beda leko, bos.
+219	Lepehan pabrik sama anak emas pabrik itu udah beda leko, bos.
+220	Lepehan pabrik sama anak emas pabrik itu udah beda leko, bos.
+221	Lepehan pabrik sama anak emas pabrik itu udah beda leko, bos.
+222	Lepehan pabrik sama anak emas pabrik itu udah beda leko, bos.
+223	Lepehan pabrik sama anak emas pabrik itu udah beda leko, bos.
+224	Lepehan pabrik sama anak emas pabrik itu udah beda leko, bos. Udah paham gak sekarang cara lihat barang bagus atau sampah?
+225	Lepehan pabrik sama anak emas pabrik itu udah beda leko, bos. Udah paham gak sekarang cara lihat barang bagus atau sampah?
+226	Udah paham gak sekarang cara lihat barang bagus atau sampah?
+227	Udah paham gak sekarang cara lihat barang bagus atau sampah?
+228	Udah paham gak sekarang cara lihat barang bagus atau sampah?
+229	Udah paham gak sekarang cara lihat barang bagus atau sampah? Easy.
+230	Udah paham gak sekarang cara lihat barang bagus atau sampah? Easy.
+231	Easy. Ingat, top up game.
+232	Ingat, top up game.
+233	Ingat, top up game.
+234	Ingat, top up game. Ingat, di daily low up.
+235	Ingat, di daily low up.
+236	Ingat, di daily low up. Top up.
+237	Ingat, di daily low up. Top up.
+238	[NO_SPEECH]

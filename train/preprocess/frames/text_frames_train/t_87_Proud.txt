@@ -1,0 +1,101 @@
+0	Siapa disini yang suka kesel kalo bulu matanya jadi bleber?
+1	Siapa disini yang suka kesel kalo bulu matanya jadi bleber?
+2	Siapa disini yang suka kesel kalo bulu matanya jadi bleber?
+3	Siapa disini yang suka kesel kalo bulu matanya jadi bleber?
+4	Siapa disini yang suka kesel kalo bulu matanya jadi bleber?
+5	Siapa disini yang suka kesel kalo bulu matanya jadi bleber? Pas kena air apalagi buat muslim kayak aku harus ambil hudu
+6	Siapa disini yang suka kesel kalo bulu matanya jadi bleber? Pas kena air apalagi buat muslim kayak aku harus ambil hudu
+7	Pas kena air apalagi buat muslim kayak aku harus ambil hudu
+8	Pas kena air apalagi buat muslim kayak aku harus ambil hudu
+9	Pas kena air apalagi buat muslim kayak aku harus ambil hudu
+10	Pas kena air apalagi buat muslim kayak aku harus ambil hudu
+11	Pas kena air apalagi buat muslim kayak aku harus ambil hudu Hasil harus bolak-balik re-apply mascara biar bulu mata tetep on point
+12	Pas kena air apalagi buat muslim kayak aku harus ambil hudu Hasil harus bolak-balik re-apply mascara biar bulu mata tetep on point
+13	Hasil harus bolak-balik re-apply mascara biar bulu mata tetep on point
+14	Hasil harus bolak-balik re-apply mascara biar bulu mata tetep on point
+15	Hasil harus bolak-balik re-apply mascara biar bulu mata tetep on point
+16	Hasil harus bolak-balik re-apply mascara biar bulu mata tetep on point
+17	Hasil harus bolak-balik re-apply mascara biar bulu mata tetep on point
+18	Hasil harus bolak-balik re-apply mascara biar bulu mata tetep on point Tapi disini aku udah gak pusing lagi
+19	Hasil harus bolak-balik re-apply mascara biar bulu mata tetep on point Tapi disini aku udah gak pusing lagi
+20	Tapi disini aku udah gak pusing lagi
+21	Tapi disini aku udah gak pusing lagi Soalnya aku pake waterproof volume mascara dari Essence
+22	Tapi disini aku udah gak pusing lagi Soalnya aku pake waterproof volume mascara dari Essence
+23	Tapi disini aku udah gak pusing lagi Soalnya aku pake waterproof volume mascara dari Essence
+24	Soalnya aku pake waterproof volume mascara dari Essence
+25	Soalnya aku pake waterproof volume mascara dari Essence
+26	Soalnya aku pake waterproof volume mascara dari Essence
+27	Soalnya aku pake waterproof volume mascara dari Essence
+28	Soalnya aku pake waterproof volume mascara dari Essence Yang aku suka juga disini mascara ini tuh gak bikin ngegumpul sama sekali
+29	Soalnya aku pake waterproof volume mascara dari Essence Yang aku suka juga disini mascara ini tuh gak bikin ngegumpul sama sekali
+30	Yang aku suka juga disini mascara ini tuh gak bikin ngegumpul sama sekali
+31	Yang aku suka juga disini mascara ini tuh gak bikin ngegumpul sama sekali
+32	Yang aku suka juga disini mascara ini tuh gak bikin ngegumpul sama sekali
+33	Yang aku suka juga disini mascara ini tuh gak bikin ngegumpul sama sekali
+34	Yang aku suka juga disini mascara ini tuh gak bikin ngegumpul sama sekali
+35	Yang aku suka juga disini mascara ini tuh gak bikin ngegumpul sama sekali
+36	Yang aku suka juga disini mascara ini tuh gak bikin ngegumpul sama sekali Tambah ini mengandung vitamin E
+37	Yang aku suka juga disini mascara ini tuh gak bikin ngegumpul sama sekali Tambah ini mengandung vitamin E
+38	Tambah ini mengandung vitamin E
+39	Tambah ini mengandung vitamin E Jadi sekaligus bisa ngasih hasil bulu mata lebih lentik, tebel, dan tetep ringan pas waktu dipakenya
+40	Tambah ini mengandung vitamin E Jadi sekaligus bisa ngasih hasil bulu mata lebih lentik, tebel, dan tetep ringan pas waktu dipakenya
+41	Jadi sekaligus bisa ngasih hasil bulu mata lebih lentik, tebel, dan tetep ringan pas waktu dipakenya
+42	Jadi sekaligus bisa ngasih hasil bulu mata lebih lentik, tebel, dan tetep ringan pas waktu dipakenya
+43	Jadi sekaligus bisa ngasih hasil bulu mata lebih lentik, tebel, dan tetep ringan pas waktu dipakenya
+44	Jadi sekaligus bisa ngasih hasil bulu mata lebih lentik, tebel, dan tetep ringan pas waktu dipakenya
+45	Jadi sekaligus bisa ngasih hasil bulu mata lebih lentik, tebel, dan tetep ringan pas waktu dipakenya
+46	Jadi sekaligus bisa ngasih hasil bulu mata lebih lentik, tebel, dan tetep ringan pas waktu dipakenya
+47	Jadi sekaligus bisa ngasih hasil bulu mata lebih lentik, tebel, dan tetep ringan pas waktu dipakenya
+48	Jadi sekaligus bisa ngasih hasil bulu mata lebih lentik, tebel, dan tetep ringan pas waktu dipakenya
+49	Jadi sekaligus bisa ngasih hasil bulu mata lebih lentik, tebel, dan tetep ringan pas waktu dipakenya
+50	Jadi sekaligus bisa ngasih hasil bulu mata lebih lentik, tebel, dan tetep ringan pas waktu dipakenya Sesuai namanya mascara ini udah smart proof
+51	Jadi sekaligus bisa ngasih hasil bulu mata lebih lentik, tebel, dan tetep ringan pas waktu dipakenya Sesuai namanya mascara ini udah smart proof
+52	Sesuai namanya mascara ini udah smart proof
+53	Sesuai namanya mascara ini udah smart proof
+54	Sesuai namanya mascara ini udah smart proof
+55	Sesuai namanya mascara ini udah smart proof Jadi mau kena air sekalipun dia gak akan runtur ataupun bleber
+56	Sesuai namanya mascara ini udah smart proof Jadi mau kena air sekalipun dia gak akan runtur ataupun bleber
+57	Jadi mau kena air sekalipun dia gak akan runtur ataupun bleber
+58	Jadi mau kena air sekalipun dia gak akan runtur ataupun bleber
+59	Jadi mau kena air sekalipun dia gak akan runtur ataupun bleber
+60	Jadi mau kena air sekalipun dia gak akan runtur ataupun bleber
+61	Jadi mau kena air sekalipun dia gak akan runtur ataupun bleber
+62	Jadi mau kena air sekalipun dia gak akan runtur ataupun bleber Dan pastinya long lasting
+63	Jadi mau kena air sekalipun dia gak akan runtur ataupun bleber Dan pastinya long lasting
+64	Dan pastinya long lasting
+65	Dan pastinya long lasting Ini hasil dari pemakaian aku kurang lebih 8 jam setelah berkegiatan di luar ruangan
+66	Dan pastinya long lasting Ini hasil dari pemakaian aku kurang lebih 8 jam setelah berkegiatan di luar ruangan
+67	Ini hasil dari pemakaian aku kurang lebih 8 jam setelah berkegiatan di luar ruangan
+68	Ini hasil dari pemakaian aku kurang lebih 8 jam setelah berkegiatan di luar ruangan
+69	Ini hasil dari pemakaian aku kurang lebih 8 jam setelah berkegiatan di luar ruangan
+70	Ini hasil dari pemakaian aku kurang lebih 8 jam setelah berkegiatan di luar ruangan
+71	Ini hasil dari pemakaian aku kurang lebih 8 jam setelah berkegiatan di luar ruangan
+72	Ini hasil dari pemakaian aku kurang lebih 8 jam setelah berkegiatan di luar ruangan
+73	Ini hasil dari pemakaian aku kurang lebih 8 jam setelah berkegiatan di luar ruangan
+74	Ini hasil dari pemakaian aku kurang lebih 8 jam setelah berkegiatan di luar ruangan Bener-bener masih on point banget
+75	Ini hasil dari pemakaian aku kurang lebih 8 jam setelah berkegiatan di luar ruangan Bener-bener masih on point banget
+76	Bener-bener masih on point banget
+77	Bener-bener masih on point banget
+78	Bener-bener masih on point banget Meskipun aku udah pake buat air hudu
+79	Bener-bener masih on point banget Meskipun aku udah pake buat air hudu
+80	Meskipun aku udah pake buat air hudu
+81	Meskipun aku udah pake buat air hudu
+82	Meskipun aku udah pake buat air hudu Kena air dia masih tetep stay
+83	Meskipun aku udah pake buat air hudu Kena air dia masih tetep stay
+84	Kena air dia masih tetep stay
+85	Kena air dia masih tetep stay
+86	Kena air dia masih tetep stay Buat kalian apalagi yang masih sekolah ini worth it banget dengan harga segini
+87	Kena air dia masih tetep stay Buat kalian apalagi yang masih sekolah ini worth it banget dengan harga segini
+88	Buat kalian apalagi yang masih sekolah ini worth it banget dengan harga segini
+89	Buat kalian apalagi yang masih sekolah ini worth it banget dengan harga segini
+90	Buat kalian apalagi yang masih sekolah ini worth it banget dengan harga segini
+91	Buat kalian apalagi yang masih sekolah ini worth it banget dengan harga segini
+92	Buat kalian apalagi yang masih sekolah ini worth it banget dengan harga segini
+93	Buat kalian apalagi yang masih sekolah ini worth it banget dengan harga segini
+94	Buat kalian apalagi yang masih sekolah ini worth it banget dengan harga segini Jadi tunggu apalagi check out sekarang
+95	Buat kalian apalagi yang masih sekolah ini worth it banget dengan harga segini Jadi tunggu apalagi check out sekarang
+96	Jadi tunggu apalagi check out sekarang
+97	Jadi tunggu apalagi check out sekarang
+98	Jadi tunggu apalagi check out sekarang
+99	[NO_SPEECH]
+100	[NO_SPEECH]

@@ -1,0 +1,1181 @@
+0	Halo semuanya
+1	Halo semuanya
+2	Halo semuanya Sekarang saya berada di mobil yang spesial
+3	Halo semuanya Sekarang saya berada di mobil yang spesial
+4	Sekarang saya berada di mobil yang spesial
+5	Sekarang saya berada di mobil yang spesial
+6	Sekarang saya berada di mobil yang spesial
+7	Sekarang saya berada di mobil yang spesial
+8	Sekarang saya berada di mobil yang spesial
+9	Sekarang saya berada di mobil yang spesial Hyundai Ioniq 5N
+10	Sekarang saya berada di mobil yang spesial Hyundai Ioniq 5N
+11	Hyundai Ioniq 5N
+12	Hyundai Ioniq 5N
+13	Hyundai Ioniq 5N Bareng sama Dipo Garasi Drift
+14	Hyundai Ioniq 5N Bareng sama Dipo Garasi Drift
+15	Bareng sama Dipo Garasi Drift
+16	Bareng sama Dipo Garasi Drift
+17	Bareng sama Dipo Garasi Drift
+18	Bareng sama Dipo Garasi Drift
+19	Bareng sama Dipo Garasi Drift Halo semuanya
+20	Bareng sama Dipo Garasi Drift Halo semuanya Dipo lagi nyetir
+21	Halo semuanya Dipo lagi nyetir
+22	Dipo lagi nyetir
+23	Dipo lagi nyetir
+24	Dipo lagi nyetir
+25	Dan ini mobil
+26	Dan ini mobil
+27	Dan ini mobil
+28	Dan ini mobil
+29	Dan ini mobil
+30	Dan ini mobil
+31	Dan ini mobil
+32	Sangat berbeda dibandingkan mobil listrik yang kencang lainnya
+33	Sangat berbeda dibandingkan mobil listrik yang kencang lainnya
+34	Sangat berbeda dibandingkan mobil listrik yang kencang lainnya
+35	Sangat berbeda dibandingkan mobil listrik yang kencang lainnya
+36	Sangat berbeda dibandingkan mobil listrik yang kencang lainnya
+37	Sangat berbeda dibandingkan mobil listrik yang kencang lainnya
+38	Sangat berbeda dibandingkan mobil listrik yang kencang lainnya
+39	Sangat berbeda dibandingkan mobil listrik yang kencang lainnya
+40	Sangat berbeda dibandingkan mobil listrik yang kencang lainnya
+41	Sangat berbeda dibandingkan mobil listrik yang kencang lainnya
+42	Sangat berbeda dibandingkan mobil listrik yang kencang lainnya
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	Kita lihat Dipo lagi nyetir pake mode
+46	Kita lihat Dipo lagi nyetir pake mode
+47	Kita lihat Dipo lagi nyetir pake mode
+48	Kita lihat Dipo lagi nyetir pake mode
+49	Kita lihat Dipo lagi nyetir pake mode
+50	Kita lihat Dipo lagi nyetir pake mode
+51	Kita lihat Dipo lagi nyetir pake mode Perpindahan gigi
+52	Kita lihat Dipo lagi nyetir pake mode Perpindahan gigi
+53	Perpindahan gigi
+54	Perpindahan gigi
+55	Perpindahan gigi
+56	Perpindahan gigi
+57	[NO_SPEECH]
+58	[NO_SPEECH]
+59	[NO_SPEECH]
+60	[NO_SPEECH]
+61	[NO_SPEECH]
+62	[NO_SPEECH]
+63	[NO_SPEECH]
+64	[NO_SPEECH]
+65	[NO_SPEECH]
+66	[NO_SPEECH]
+67	[NO_SPEECH]
+68	Dan setiap pindah gigi juga ada hentakannya ya
+69	Dan setiap pindah gigi juga ada hentakannya ya
+70	Dan setiap pindah gigi juga ada hentakannya ya
+71	Dan setiap pindah gigi juga ada hentakannya ya
+72	Dan setiap pindah gigi juga ada hentakannya ya Iya
+73	Dan setiap pindah gigi juga ada hentakannya ya Iya Setiap pindah gigi senyum gue
+74	Iya Setiap pindah gigi senyum gue
+75	Setiap pindah gigi senyum gue
+76	Setiap pindah gigi senyum gue
+77	Setiap pindah gigi senyum gue
+78	[NO_SPEECH]
+79	Dan kalau kita pake gigi 2 sama gigi 5 beda tarikannya ya
+80	Dan kalau kita pake gigi 2 sama gigi 5 beda tarikannya ya
+81	Dan kalau kita pake gigi 2 sama gigi 5 beda tarikannya ya
+82	Dan kalau kita pake gigi 2 sama gigi 5 beda tarikannya ya
+83	Dan kalau kita pake gigi 2 sama gigi 5 beda tarikannya ya
+84	Dan kalau kita pake gigi 2 sama gigi 5 beda tarikannya ya
+85	Dan kalau kita pake gigi 2 sama gigi 5 beda tarikannya ya
+86	Dan kalau kita pake gigi 2 sama gigi 5 beda tarikannya ya Beda tarikannya
+87	Dan kalau kita pake gigi 2 sama gigi 5 beda tarikannya ya Beda tarikannya Beda engine brake nya
+88	Beda tarikannya Beda engine brake nya
+89	Beda engine brake nya
+90	Beda engine brake nya Eh coba kenain speed limit deh pake gigi 1
+91	Beda engine brake nya Eh coba kenain speed limit deh pake gigi 1
+92	Eh coba kenain speed limit deh pake gigi 1
+93	Eh coba kenain speed limit deh pake gigi 1
+94	Eh coba kenain speed limit deh pake gigi 1
+95	Eh coba kenain speed limit deh pake gigi 1
+96	Eh coba kenain speed limit deh pake gigi 1
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	Coba ini belokan banget
+100	Coba ini belokan banget
+101	Coba ini belokan banget Coba gigi 1 aja
+102	Coba ini belokan banget Coba gigi 1 aja
+103	Coba gigi 1 aja
+104	Coba gigi 1 aja
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	[NO_SPEECH]
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	Ada berat tak tak
+113	Ada berat tak tak
+114	Ada berat tak tak
+115	Ada berat tak tak
+116	Ada berat tak tak
+117	[NO_SPEECH]
+118	[NO_SPEECH]
+119	Hahaha
+120	Hahaha
+121	Hahaha
+122	Hahaha
+123	Hahaha Hahaha
+124	Hahaha Hahaha
+125	Hahaha Hahaha
+126	Hahaha Hahaha
+127	[NO_SPEECH]
+128	[NO_SPEECH]
+129	[NO_SPEECH]
+130	[NO_SPEECH]
+131	[NO_SPEECH]
+132	[NO_SPEECH]
+133	[NO_SPEECH]
+134	Mungkin kedengerannya kayak mainan gitu ya
+135	Mungkin kedengerannya kayak mainan gitu ya
+136	Mungkin kedengerannya kayak mainan gitu ya
+137	Mungkin kedengerannya kayak mainan gitu ya
+138	Mungkin kedengerannya kayak mainan gitu ya
+139	Mungkin kedengerannya kayak mainan gitu ya Tapi begitu dibawa ke sirkuit
+140	Mungkin kedengerannya kayak mainan gitu ya Tapi begitu dibawa ke sirkuit
+141	Tapi begitu dibawa ke sirkuit
+142	Tapi begitu dibawa ke sirkuit
+143	Tapi begitu dibawa ke sirkuit Wow itu bener-bener bikin kita nyatu banget tadi ya
+144	Tapi begitu dibawa ke sirkuit Wow itu bener-bener bikin kita nyatu banget tadi ya
+145	Wow itu bener-bener bikin kita nyatu banget tadi ya
+146	Wow itu bener-bener bikin kita nyatu banget tadi ya
+147	Wow itu bener-bener bikin kita nyatu banget tadi ya
+148	Wow itu bener-bener bikin kita nyatu banget tadi ya
+149	Wow itu bener-bener bikin kita nyatu banget tadi ya
+150	Wow itu bener-bener bikin kita nyatu banget tadi ya Iya bener-bener apa ya
+151	Wow itu bener-bener bikin kita nyatu banget tadi ya Iya bener-bener apa ya
+152	Iya bener-bener apa ya
+153	Iya bener-bener apa ya Jadi kita inputnya ada gitu
+154	Iya bener-bener apa ya Jadi kita inputnya ada gitu
+155	Jadi kita inputnya ada gitu
+156	Jadi kita inputnya ada gitu Dapet suara yang masuk gitu
+157	Jadi kita inputnya ada gitu Dapet suara yang masuk gitu
+158	Dapet suara yang masuk gitu
+159	Dapet suara yang masuk gitu
+160	Dapet suara yang masuk gitu
+161	[NO_SPEECH]
+162	Kayak mobil balap banget rasanya begitu ditarik ada beban ya
+163	Kayak mobil balap banget rasanya begitu ditarik ada beban ya
+164	Kayak mobil balap banget rasanya begitu ditarik ada beban ya
+165	Kayak mobil balap banget rasanya begitu ditarik ada beban ya
+166	Kayak mobil balap banget rasanya begitu ditarik ada beban ya
+167	Kayak mobil balap banget rasanya begitu ditarik ada beban ya
+168	Kayak mobil balap banget rasanya begitu ditarik ada beban ya Coba kita tarik ada beban
+169	Kayak mobil balap banget rasanya begitu ditarik ada beban ya Coba kita tarik ada beban
+170	Coba kita tarik ada beban Hahaha
+171	Coba kita tarik ada beban Hahaha
+172	Hahaha
+173	Hahaha
+174	[NO_SPEECH]
+175	[NO_SPEECH]
+176	Hahaha
+177	Hahaha
+178	Hahaha
+179	Hahaha
+180	Hahaha Hahaha
+181	Hahaha Hahaha
+182	Hahaha
+183	Hahaha
+184	[NO_SPEECH]
+185	[NO_SPEECH]
+186	[NO_SPEECH]
+187	Oke ini ya Hyundai Ioniq 5N
+188	Oke ini ya Hyundai Ioniq 5N
+189	Oke ini ya Hyundai Ioniq 5N
+190	Oke ini ya Hyundai Ioniq 5N
+191	Oke ini ya Hyundai Ioniq 5N
+192	Oke ini ya Hyundai Ioniq 5N Nanti tunggu videonya
+193	Oke ini ya Hyundai Ioniq 5N Nanti tunggu videonya
+194	Nanti tunggu videonya
+195	Nanti tunggu videonya Videonya itu akan ada di channelnya Fitra Eri
+196	Nanti tunggu videonya Videonya itu akan ada di channelnya Fitra Eri
+197	Videonya itu akan ada di channelnya Fitra Eri
+198	Videonya itu akan ada di channelnya Fitra Eri
+199	Videonya itu akan ada di channelnya Fitra Eri
+200	Videonya itu akan ada di channelnya Fitra Eri
+201	Videonya itu akan ada di channelnya Fitra Eri Autodriver dan tentu saja di garasi drift
+202	Videonya itu akan ada di channelnya Fitra Eri Autodriver dan tentu saja di garasi drift
+203	Autodriver dan tentu saja di garasi drift
+204	Autodriver dan tentu saja di garasi drift
+205	Autodriver dan tentu saja di garasi drift
+206	Autodriver dan tentu saja di garasi drift
+207	Autodriver dan tentu saja di garasi drift Garasi drift
+208	Garasi drift
+209	Garasi drift Soalnya kita coba ngedrift juga pake ini mobil
+210	Garasi drift Soalnya kita coba ngedrift juga pake ini mobil
+211	Soalnya kita coba ngedrift juga pake ini mobil
+212	Soalnya kita coba ngedrift juga pake ini mobil
+213	Soalnya kita coba ngedrift juga pake ini mobil Dan saya mau liatin pemandangannya ya ke anda ya
+214	Soalnya kita coba ngedrift juga pake ini mobil Dan saya mau liatin pemandangannya ya ke anda ya
+215	Dan saya mau liatin pemandangannya ya ke anda ya
+216	Dan saya mau liatin pemandangannya ya ke anda ya
+217	Dan saya mau liatin pemandangannya ya ke anda ya
+218	Dan saya mau liatin pemandangannya ya ke anda ya
+219	Dan saya mau liatin pemandangannya ya ke anda ya
+220	[NO_SPEECH]
+221	[NO_SPEECH]
+222	Wow
+223	Wow
+224	Wow
+225	Wow
+226	Ada satu lagi Ioniq 5N
+227	Ada satu lagi Ioniq 5N
+228	Ada satu lagi Ioniq 5N
+229	Ada satu lagi Ioniq 5N
+230	Ada satu lagi Ioniq 5N Oh ini Ioniq 5N
+231	Ada satu lagi Ioniq 5N Oh ini Ioniq 5N
+232	Oh ini Ioniq 5N Kalau diliat dari luar kayak gini
+233	Oh ini Ioniq 5N Kalau diliat dari luar kayak gini
+234	Kalau diliat dari luar kayak gini
+235	Kalau diliat dari luar kayak gini Tuh
+236	Kalau diliat dari luar kayak gini Tuh
+237	Tuh
+238	[NO_SPEECH]
+239	[NO_SPEECH]
+240	[NO_SPEECH]
+241	[NO_SPEECH]
+242	Tuh
+243	Tuh Dan ini ya
+244	Tuh Dan ini ya Kalau kita liat ya
+245	Dan ini ya Kalau kita liat ya
+246	Kalau kita liat ya Kalau kita mau style-style gitu ya
+247	Kalau kita liat ya Kalau kita mau style-style gitu ya
+248	Kalau kita mau style-style gitu ya
+249	Kalau kita mau style-style gitu ya
+250	Kalau kita mau style-style gitu ya
+251	[NO_SPEECH]
+252	Banyak banget yang bisa di-style di mobil ini
+253	Banyak banget yang bisa di-style di mobil ini
+254	Banyak banget yang bisa di-style di mobil ini
+255	Banyak banget yang bisa di-style di mobil ini
+256	Banyak banget yang bisa di-style di mobil ini
+257	Banyak banget yang bisa di-style di mobil ini
+258	Banyak banget yang bisa di-style di mobil ini Ini bener-bener proper sport car
+259	Banyak banget yang bisa di-style di mobil ini Ini bener-bener proper sport car
+260	Ini bener-bener proper sport car
+261	Ini bener-bener proper sport car
+262	Ini bener-bener proper sport car
+263	Ini bener-bener proper sport car Bukan cuma mobil listrik yang kencang
+264	Ini bener-bener proper sport car Bukan cuma mobil listrik yang kencang
+265	Bukan cuma mobil listrik yang kencang
+266	Bukan cuma mobil listrik yang kencang
+267	Bukan cuma mobil listrik yang kencang
+268	Bukan cuma mobil listrik yang kencang
+269	Bukan cuma mobil listrik yang kencang
+270	Bukan cuma mobil listrik yang kencang Ini adalah
+271	Ini adalah
+272	Ini adalah
+273	Ini adalah
+274	Mobil listrik kencang yang dibangun oleh orang-orang petrolhead
+275	Mobil listrik kencang yang dibangun oleh orang-orang petrolhead
+276	Mobil listrik kencang yang dibangun oleh orang-orang petrolhead
+277	Mobil listrik kencang yang dibangun oleh orang-orang petrolhead
+278	Mobil listrik kencang yang dibangun oleh orang-orang petrolhead
+279	Mobil listrik kencang yang dibangun oleh orang-orang petrolhead
+280	Mobil listrik kencang yang dibangun oleh orang-orang petrolhead
+281	Mobil listrik kencang yang dibangun oleh orang-orang petrolhead
+282	Mobil listrik kencang yang dibangun oleh orang-orang petrolhead Yang bener-bener ngerti rasanya berkendara yang fun itu seperti apa
+283	Mobil listrik kencang yang dibangun oleh orang-orang petrolhead Yang bener-bener ngerti rasanya berkendara yang fun itu seperti apa
+284	Yang bener-bener ngerti rasanya berkendara yang fun itu seperti apa
+285	Yang bener-bener ngerti rasanya berkendara yang fun itu seperti apa
+286	Yang bener-bener ngerti rasanya berkendara yang fun itu seperti apa
+287	Yang bener-bener ngerti rasanya berkendara yang fun itu seperti apa
+288	Yang bener-bener ngerti rasanya berkendara yang fun itu seperti apa
+289	Yang bener-bener ngerti rasanya berkendara yang fun itu seperti apa
+290	Yang bener-bener ngerti rasanya berkendara yang fun itu seperti apa
+291	Yang bener-bener ngerti rasanya berkendara yang fun itu seperti apa
+292	Ini ada macem-macem
+293	Ini ada macem-macem
+294	Ini ada macem-macem
+295	Ini ada macem-macem Ada and custom one
+296	Ini ada macem-macem Ada and custom one
+297	Ada and custom one Custom 2
+298	Ada and custom one Custom 2
+299	Custom 2
+300	Custom 2
+301	[NO_SPEECH]
+302	Ada torque distribution
+303	Ada torque distribution
+304	Ada torque distribution
+305	Ada torque distribution Kita bisa pilih mau full 100%
+306	Ada torque distribution Kita bisa pilih mau full 100%
+307	Kita bisa pilih mau full 100%
+308	Kita bisa pilih mau full 100%
+309	Kita bisa pilih mau full 100%
+310	Kita bisa pilih mau full 100% Ke depan atau ke belakang
+311	Kita bisa pilih mau full 100% Ke depan atau ke belakang
+312	Ke depan atau ke belakang Atau dipilih
+313	Ke depan atau ke belakang Atau dipilih
+314	Atau dipilih Ada N pedal buat engine brake nya mobil balap
+315	Atau dipilih Ada N pedal buat engine brake nya mobil balap
+316	Ada N pedal buat engine brake nya mobil balap
+317	Ada N pedal buat engine brake nya mobil balap
+318	Ada N pedal buat engine brake nya mobil balap
+319	Ada N pedal buat engine brake nya mobil balap
+320	Ada N pedal buat engine brake nya mobil balap
+321	Ada N pedal buat engine brake nya mobil balap Ada N race
+322	Ada N pedal buat engine brake nya mobil balap Ada N race
+323	Ada N race
+324	Ada N race Kalau misalnya kita mau race
+325	Ada N race Kalau misalnya kita mau race
+326	Kalau misalnya kita mau race Ada buat drift, drift optimizer
+327	Kalau misalnya kita mau race Ada buat drift, drift optimizer
+328	Ada buat drift, drift optimizer
+329	Ada buat drift, drift optimizer
+330	Ada buat drift, drift optimizer
+331	Ada buat drift, drift optimizer
+332	Ada buat drift, drift optimizer Wow
+333	Wow
+334	Wow
+335	Wow Ada performance option nya
+336	Ada performance option nya
+337	Ada performance option nya
+338	Ada performance option nya
+339	Ada performance option nya Ada N e-shift
+340	Ada performance option nya Ada N e-shift
+341	Ada N e-shift
+342	Ada N e-shift Nah ini buat shifting pake
+343	Ada N e-shift Nah ini buat shifting pake
+344	Nah ini buat shifting pake
+345	Nah ini buat shifting pake
+346	Nah ini buat shifting pake
+347	[NO_SPEECH]
+348	Pake pedal shift nya
+349	Pake pedal shift nya
+350	Pake pedal shift nya
+351	Pake pedal shift nya Ada active sound
+352	Pake pedal shift nya Ada active sound
+353	Ada active sound
+354	Ada active sound Active sound nya bisa macem-macem bunyinya
+355	Ada active sound Active sound nya bisa macem-macem bunyinya
+356	Ada active sound Active sound nya bisa macem-macem bunyinya
+357	Active sound nya bisa macem-macem bunyinya
+358	Active sound nya bisa macem-macem bunyinya
+359	Active sound nya bisa macem-macem bunyinya
+360	Active sound nya bisa macem-macem bunyinya Coba ya
+361	Active sound nya bisa macem-macem bunyinya Coba ya
+362	Coba ya Yang ini nih yang supersonic
+363	Coba ya Yang ini nih yang supersonic
+364	Yang ini nih yang supersonic
+365	Yang ini nih yang supersonic
+366	Yang ini nih yang supersonic
+367	Yang ini nih yang supersonic Kalau pindah gigi ada boom
+368	Yang ini nih yang supersonic Kalau pindah gigi ada boom
+369	Kalau pindah gigi ada boom
+370	Kalau pindah gigi ada boom
+371	Kalau pindah gigi ada boom
+372	Coba jaga jarak dulu ke depan
+373	Coba jaga jarak dulu ke depan
+374	Coba jaga jarak dulu ke depan
+375	Coba jaga jarak dulu ke depan
+376	Coba jaga jarak dulu ke depan
+377	[NO_SPEECH]
+378	[NO_SPEECH]
+379	[NO_SPEECH]
+380	[NO_SPEECH]
+381	Pake gigi 1
+382	Pake gigi 1
+383	Pake gigi 1
+384	Pake gigi 1
+385	Pake gigi 1
+386	Pake gigi 1
+387	Pake gigi 1
+388	Pake gigi 1
+389	Pake gigi 1 aja
+390	Pake gigi 1 aja
+391	Pake gigi 1 aja Nanti pindah ke 2
+392	Pake gigi 1 aja Nanti pindah ke 2
+393	Nanti pindah ke 2 Oke
+394	Nanti pindah ke 2 Oke
+395	Nanti pindah ke 2 Oke
+396	Oke
+397	Oke
+398	[NO_SPEECH]
+399	[NO_SPEECH]
+400	[NO_SPEECH]
+401	[NO_SPEECH]
+402	[NO_SPEECH]
+403	[NO_SPEECH]
+404	[NO_SPEECH]
+405	Oh kalau gak pole dia gak itu ya
+406	Oh kalau gak pole dia gak itu ya
+407	Oh kalau gak pole dia gak itu ya
+408	Oh kalau gak pole dia gak itu ya
+409	Oh kalau gak pole dia gak itu ya
+410	Oh kalau gak pole dia gak itu ya
+411	Oh kalau gak pole dia gak itu ya Oke
+412	Oh kalau gak pole dia gak itu ya Oke Oke
+413	Oke Oke Oke
+414	Oke Oke Oke                 当然
+415	Oke Oke                 当然   
+416	当然   
+417	[NO_SPEECH]
+418	[NO_SPEECH]
+419	Nah masih terlalu dekat depan
+420	Nah masih terlalu dekat depan
+421	Nah masih terlalu dekat depan
+422	Nah masih terlalu dekat depan
+423	Nah masih terlalu dekat depan
+424	Nah masih terlalu dekat depan Belakang udah deket
+425	Nah masih terlalu dekat depan Belakang udah deket
+426	Belakang udah deket
+427	Belakang udah deket okay
+428	Belakang udah deket okay
+429	okay
+430	[NO_SPEECH]
+431	[NO_SPEECH]
+432	Boom
+433	Boom
+434	Boom
+435	Boom
+436	[NO_SPEECH]
+437	[NO_SPEECH]
+438	[NO_SPEECH]
+439	[NO_SPEECH]
+440	[NO_SPEECH]
+441	Saya lari pindah gigi
+442	Saya lari pindah gigi
+443	Saya lari pindah gigi
+444	Saya lari pindah gigi It's supersonic
+445	Saya lari pindah gigi It's supersonic
+446	It's supersonic
+447	It's supersonic Boom
+448	It's supersonic Boom
+449	Boom
+450	[NO_SPEECH]
+451	[NO_SPEECH]
+452	Kita balik lagi ke ignition
+453	Kita balik lagi ke ignition
+454	Kita balik lagi ke ignition
+455	Kita balik lagi ke ignition
+456	Kita balik lagi ke ignition
+457	Kita balik lagi ke ignition
+458	Kita balik lagi ke ignition
+459	Biar kayak mobil biasa
+460	Biar kayak mobil biasa
+461	Biar kayak mobil biasa Dia ada En
+462	Biar kayak mobil biasa Dia ada En
+463	Dia ada En scales Tiap daya
+464	Dia ada En scales Tiap daya ena
+465	Tiap daya ena Si explicit
+466	ena Si explicit
+467	[NO_SPEECH]
+468	[NO_SPEECH]
+469	[NO_SPEECH]
+470	[NO_SPEECH]
+471	ья
+472	ья
+473	ья
+474	dan Routesense
+475	dan Routesense
+476	dan Routesense
+477	dan Routesense
+478	[NO_SPEECH]
+479	[NO_SPEECH]
+480	[NO_SPEECH]
+481	ini banyak banget, ada lap timer
+482	ini banyak banget, ada lap timer
+483	ini banyak banget, ada lap timer
+484	ini banyak banget, ada lap timer
+485	ini banyak banget, ada lap timer jadi sirkuit-sirkuit di dunia juga udah ada disini
+486	ini banyak banget, ada lap timer jadi sirkuit-sirkuit di dunia juga udah ada disini
+487	jadi sirkuit-sirkuit di dunia juga udah ada disini
+488	jadi sirkuit-sirkuit di dunia juga udah ada disini
+489	jadi sirkuit-sirkuit di dunia juga udah ada disini
+490	jadi sirkuit-sirkuit di dunia juga udah ada disini
+491	jadi sirkuit-sirkuit di dunia juga udah ada disini kita tinggal pilih, moga-moga nanti mandalika ada
+492	jadi sirkuit-sirkuit di dunia juga udah ada disini kita tinggal pilih, moga-moga nanti mandalika ada
+493	kita tinggal pilih, moga-moga nanti mandalika ada
+494	kita tinggal pilih, moga-moga nanti mandalika ada
+495	kita tinggal pilih, moga-moga nanti mandalika ada
+496	kita tinggal pilih, moga-moga nanti mandalika ada atau kalau mau manual juga kita bisa manual
+497	kita tinggal pilih, moga-moga nanti mandalika ada atau kalau mau manual juga kita bisa manual
+498	atau kalau mau manual juga kita bisa manual
+499	atau kalau mau manual juga kita bisa manual
+500	atau kalau mau manual juga kita bisa manual
+501	[NO_SPEECH]
+502	[NO_SPEECH]
+503	[NO_SPEECH]
+504	[NO_SPEECH]
+505	[NO_SPEECH]
+506	[NO_SPEECH]
+507	[NO_SPEECH]
+508	gila, disini ada data loggernya semua
+509	gila, disini ada data loggernya semua
+510	gila, disini ada data loggernya semua
+511	gila, disini ada data loggernya semua
+512	gila, disini ada data loggernya semua wow, ada bis
+513	gila, disini ada data loggernya semua wow, ada bis
+514	gila, disini ada data loggernya semua wow, ada bis
+515	wow, ada bis
+516	wow, ada bis
+517	wow, ada bis
+518	besar sekali
+519	besar sekali
+520	besar sekali
+521	besar sekali
+522	[NO_SPEECH]
+523	[NO_SPEECH]
+524	[NO_SPEECH]
+525	[NO_SPEECH]
+526	[NO_SPEECH]
+527	[NO_SPEECH]
+528	[NO_SPEECH]
+529	...
+530	...
+531	... itu suara mesin atau sound system? jelas sound system
+532	... itu suara mesin atau sound system? jelas sound system
+533	itu suara mesin atau sound system? jelas sound system
+534	itu suara mesin atau sound system? jelas sound system
+535	itu suara mesin atau sound system? jelas sound system karena ini gak ada mesinnya
+536	itu suara mesin atau sound system? jelas sound system karena ini gak ada mesinnya
+537	karena ini gak ada mesinnya
+538	karena ini gak ada mesinnya
+539	karena ini gak ada mesinnya
+540	karena ini gak ada mesinnya tapi itulah yang membuat mobil ini
+541	tapi itulah yang membuat mobil ini
+542	tapi itulah yang membuat mobil ini
+543	tapi itulah yang membuat mobil ini
+544	tapi itulah yang membuat mobil ini lebih berfeeling
+545	tapi itulah yang membuat mobil ini lebih berfeeling
+546	lebih berfeeling
+547	lebih berfeeling dibandingkan mobil-mobil elektrik
+548	lebih berfeeling dibandingkan mobil-mobil elektrik
+549	dibandingkan mobil-mobil elektrik
+550	dibandingkan mobil-mobil elektrik
+551	dibandingkan mobil-mobil elektrik
+552	dibandingkan mobil-mobil elektrik lainnya, walaupun
+553	dibandingkan mobil-mobil elektrik lainnya, walaupun
+554	lainnya, walaupun elektrik yang kencang sekalipun, misalnya seperti Porsche
+555	lainnya, walaupun elektrik yang kencang sekalipun, misalnya seperti Porsche
+556	elektrik yang kencang sekalipun, misalnya seperti Porsche
+557	elektrik yang kencang sekalipun, misalnya seperti Porsche
+558	elektrik yang kencang sekalipun, misalnya seperti Porsche
+559	elektrik yang kencang sekalipun, misalnya seperti Porsche
+560	elektrik yang kencang sekalipun, misalnya seperti Porsche Taycan
+561	elektrik yang kencang sekalipun, misalnya seperti Porsche Taycan
+562	Taycan
+563	[NO_SPEECH]
+564	itu, atau
+565	itu, atau
+566	itu, atau
+567	itu, atau BYD Silverformance, itu feelingnya gak
+568	itu, atau BYD Silverformance, itu feelingnya gak
+569	BYD Silverformance, itu feelingnya gak
+570	BYD Silverformance, itu feelingnya gak
+571	BYD Silverformance, itu feelingnya gak
+572	BYD Silverformance, itu feelingnya gak seperti ini, ini
+573	BYD Silverformance, itu feelingnya gak seperti ini, ini
+574	seperti ini, ini
+575	seperti ini, ini beda
+576	seperti ini, ini beda
+577	beda
+578	beda
+579	beda
+580	kan bukan gimmick ya?
+581	kan bukan gimmick ya?
+582	kan bukan gimmick ya?
+583	kan bukan gimmick ya? disitu jam berapa? sekarang disini setengah 3
+584	kan bukan gimmick ya? disitu jam berapa? sekarang disini setengah 3
+585	disitu jam berapa? sekarang disini setengah 3
+586	disitu jam berapa? sekarang disini setengah 3
+587	disitu jam berapa? sekarang disini setengah 3
+588	disana jam berapa? disana udah buka puasa
+589	disana jam berapa? disana udah buka puasa
+590	disana jam berapa? disana udah buka puasa
+591	disana jam berapa? disana udah buka puasa
+592	disana jam berapa? disana udah buka puasa udah terawai, kita belum
+593	disana jam berapa? disana udah buka puasa udah terawai, kita belum
+594	udah terawai, kita belum
+595	udah terawai, kita belum
+596	[NO_SPEECH]
+597	[NO_SPEECH]
+598	[NO_SPEECH]
+599	tapi kalau jam puasa disini sama
+600	tapi kalau jam puasa disini sama
+601	tapi kalau jam puasa disini sama
+602	tapi kalau jam puasa disini sama
+603	tapi kalau jam puasa disini sama
+604	tapi kalau jam puasa disini sama
+605	kita imsaknya itu jam 5
+606	kita imsaknya itu jam 5
+607	kita imsaknya itu jam 5
+608	kita imsaknya itu jam 5 buka puasanya jam 7
+609	kita imsaknya itu jam 5 buka puasanya jam 7
+610	buka puasanya jam 7
+611	buka puasanya jam 7
+612	buka puasanya jam 7
+613	[NO_SPEECH]
+614	[NO_SPEECH]
+615	[NO_SPEECH]
+616	[NO_SPEECH]
+617	[NO_SPEECH]
+618	[NO_SPEECH]
+619	apakah akan masuk Indo? nah ini yang menarik
+620	apakah akan masuk Indo? nah ini yang menarik
+621	apakah akan masuk Indo? nah ini yang menarik
+622	apakah akan masuk Indo? nah ini yang menarik
+623	apakah akan masuk Indo? nah ini yang menarik
+624	apakah akan masuk Indo? nah ini yang menarik
+625	apakah akan masuk Indo? nah ini yang menarik
+626	kalau gak mau masuk
+627	kalau gak mau masuk
+628	kalau gak mau masuk Indo, Hyundai gak akan rapat-rapat
+629	kalau gak mau masuk Indo, Hyundai gak akan rapat-rapat
+630	Indo, Hyundai gak akan rapat-rapat
+631	Indo, Hyundai gak akan rapat-rapat
+632	Indo, Hyundai gak akan rapat-rapat mengundang kita nih, jauh-jauh kesini
+633	Indo, Hyundai gak akan rapat-rapat mengundang kita nih, jauh-jauh kesini
+634	mengundang kita nih, jauh-jauh kesini
+635	mengundang kita nih, jauh-jauh kesini
+636	mengundang kita nih, jauh-jauh kesini jauh-jauh, jadi kemungkinan
+637	mengundang kita nih, jauh-jauh kesini jauh-jauh, jadi kemungkinan
+638	jauh-jauh, jadi kemungkinan
+639	jauh-jauh, jadi kemungkinan
+640	jauh-jauh, jadi kemungkinan besar mobil ini akan masuk
+641	jauh-jauh, jadi kemungkinan besar mobil ini akan masuk
+642	besar mobil ini akan masuk
+643	besar mobil ini akan masuk Indonesia
+644	besar mobil ini akan masuk Indonesia
+645	Indonesia
+646	[NO_SPEECH]
+647	dan berapa harganya?
+648	dan berapa harganya?
+649	dan berapa harganya?
+650	dan berapa harganya?
+651	dan berapa harganya?
+652	[NO_SPEECH]
+653	nanti tunggu videonya
+654	nanti tunggu videonya
+655	nanti tunggu videonya
+656	nanti tunggu videonya menarik sekali ini
+657	nanti tunggu videonya menarik sekali ini
+658	menarik sekali ini
+659	menarik sekali ini
+660	[NO_SPEECH]
+661	Om Fit, kenapa Om Mobi
+662	Om Fit, kenapa Om Mobi
+663	Om Fit, kenapa Om Mobi
+664	Om Fit, kenapa Om Mobi gak diajak?
+665	Om Fit, kenapa Om Mobi gak diajak?
+666	gak diajak?
+667	kita aja harus lihat kondisi ya, maksudnya
+668	kita aja harus lihat kondisi ya, maksudnya
+669	kita aja harus lihat kondisi ya, maksudnya
+670	kita aja harus lihat kondisi ya, maksudnya
+671	kita aja harus lihat kondisi ya, maksudnya kalau udah berumur gitu kan
+672	kita aja harus lihat kondisi ya, maksudnya kalau udah berumur gitu kan
+673	kalau udah berumur gitu kan
+674	kalau udah berumur gitu kan
+675	kalau udah berumur gitu kan
+676	kalau udah berumur gitu kan jalan jauh
+677	kalau udah berumur gitu kan jalan jauh
+678	jalan jauh gak enak lah kalau sering-sering gitu
+679	jalan jauh gak enak lah kalau sering-sering gitu
+680	gak enak lah kalau sering-sering gitu
+681	gak enak lah kalau sering-sering gitu
+682	gak enak lah kalau sering-sering gitu
+683	gak enak lah kalau sering-sering gitu
+684	gak enak lah kalau sering-sering gitu
+685	[NO_SPEECH]
+686	jadi yang muda-muda aja
+687	jadi yang muda-muda aja
+688	jadi yang muda-muda aja
+689	jadi yang muda-muda aja kita yang diundang kan?
+690	jadi yang muda-muda aja kita yang diundang kan?
+691	kita yang diundang kan? yang muda-muda aja, dan ini memang mobil
+692	yang muda-muda aja, dan ini memang mobil
+693	yang muda-muda aja, dan ini memang mobil
+694	yang muda-muda aja, dan ini memang mobil
+695	yang muda-muda aja, dan ini memang mobil untuk yang berjiwa muda nih
+696	yang muda-muda aja, dan ini memang mobil untuk yang berjiwa muda nih
+697	untuk yang berjiwa muda nih
+698	untuk yang berjiwa muda nih
+699	untuk yang berjiwa muda nih
+700	[NO_SPEECH]
+701	kursinya dong
+702	kursinya dong
+703	kursinya dong
+704	semi bakter
+705	semi bakter
+706	semi bakter ada lampunya loh di tulisan N
+707	semi bakter ada lampunya loh di tulisan N
+708	ada lampunya loh di tulisan N
+709	ada lampunya loh di tulisan N iya ada lampunya di N nya juga
+710	ada lampunya loh di tulisan N iya ada lampunya di N nya juga
+711	iya ada lampunya di N nya juga
+712	iya ada lampunya di N nya juga
+713	iya ada lampunya di N nya juga ah bener-bener beda, gak nyangka Hyundai
+714	iya ada lampunya di N nya juga ah bener-bener beda, gak nyangka Hyundai
+715	ah bener-bener beda, gak nyangka Hyundai
+716	ah bener-bener beda, gak nyangka Hyundai
+717	ah bener-bener beda, gak nyangka Hyundai
+718	ah bener-bener beda, gak nyangka Hyundai
+719	ah bener-bener beda, gak nyangka Hyundai N itu bisa seperti ini kualitasnya
+720	N itu bisa seperti ini kualitasnya
+721	N itu bisa seperti ini kualitasnya
+722	N itu bisa seperti ini kualitasnya
+723	N itu bisa seperti ini kualitasnya dan inovasinya
+724	N itu bisa seperti ini kualitasnya dan inovasinya
+725	dan inovasinya
+726	dan inovasinya
+727	dan inovasinya kita ke kanan
+728	dan inovasinya kita ke kanan
+729	kita ke kanan
+730	kita ke kanan
+731	kita ke kanan
+732	[NO_SPEECH]
+733	[NO_SPEECH]
+734	kira-kira Om Mobi gak kalau masuk Indonesia?
+735	kira-kira Om Mobi gak kalau masuk Indonesia?
+736	kira-kira Om Mobi gak kalau masuk Indonesia?
+737	kira-kira Om Mobi gak kalau masuk Indonesia?
+738	kira-kira Om Mobi gak kalau masuk Indonesia?
+739	kira-kira Om Mobi gak kalau masuk Indonesia? hmmm kita lihat nanti ya
+740	hmmm kita lihat nanti ya
+741	hmmm kita lihat nanti ya iya
+742	hmmm kita lihat nanti ya iya
+743	iya
+744	[NO_SPEECH]
+745	[NO_SPEECH]
+746	[NO_SPEECH]
+747	[NO_SPEECH]
+748	[NO_SPEECH]
+749	[NO_SPEECH]
+750	perbandingannya 6 jam disana dan disini
+751	perbandingannya 6 jam disana dan disini
+752	perbandingannya 6 jam disana dan disini
+753	perbandingannya 6 jam disana dan disini
+754	perbandingannya 6 jam disana dan disini iya
+755	perbandingannya 6 jam disana dan disini iya
+756	iya
+757	[NO_SPEECH]
+758	[NO_SPEECH]
+759	[NO_SPEECH]
+760	[NO_SPEECH]
+761	[NO_SPEECH]
+762	[NO_SPEECH]
+763	[NO_SPEECH]
+764	[NO_SPEECH]
+765	[NO_SPEECH]
+766	[NO_SPEECH]
+767	[NO_SPEECH]
+768	[NO_SPEECH]
+769	[NO_SPEECH]
+770	senyum dulu, gue pakai mobilnya
+771	senyum dulu, gue pakai mobilnya
+772	senyum dulu, gue pakai mobilnya
+773	senyum dulu, gue pakai mobilnya coba kita pakai gigi 7
+774	senyum dulu, gue pakai mobilnya coba kita pakai gigi 7
+775	coba kita pakai gigi 7
+776	coba kita pakai gigi 7
+777	[NO_SPEECH]
+778	[NO_SPEECH]
+779	[NO_SPEECH]
+780	oke pakai gigi 6, gas
+781	oke pakai gigi 6, gas
+782	oke pakai gigi 6, gas
+783	oke pakai gigi 6, gas
+784	oke pakai gigi 6, gas
+785	oke pakai gigi 6, gas berat ya?
+786	berat ya?
+787	berat ya? kayak mobil beneran ya, berat gitu ya
+788	kayak mobil beneran ya, berat gitu ya
+789	kayak mobil beneran ya, berat gitu ya
+790	kayak mobil beneran ya, berat gitu ya
+791	kayak mobil beneran ya, berat gitu ya
+792	kayak mobil beneran ya, berat gitu ya dibikin berat jadinya dia
+793	kayak mobil beneran ya, berat gitu ya dibikin berat jadinya dia
+794	dibikin berat jadinya dia
+795	dibikin berat jadinya dia
+796	dibikin berat jadinya dia
+797	[NO_SPEECH]
+798	[NO_SPEECH]
+799	[NO_SPEECH]
+800	[NO_SPEECH]
+801	hahaha
+802	hahaha
+803	hahaha
+804	[NO_SPEECH]
+805	[NO_SPEECH]
+806	[NO_SPEECH]
+807	[NO_SPEECH]
+808	[NO_SPEECH]
+809	oh speed limit
+810	oh speed limit
+811	oh speed limit speed limit, speed limit 60
+812	oh speed limit speed limit, speed limit 60
+813	speed limit, speed limit 60
+814	speed limit, speed limit 60
+815	speed limit, speed limit 60
+816	speed limit, speed limit 60
+817	speed limit, speed limit 60
+818	[NO_SPEECH]
+819	[NO_SPEECH]
+820	[NO_SPEECH]
+821	[NO_SPEECH]
+822	[NO_SPEECH]
+823	[NO_SPEECH]
+824	[NO_SPEECH]
+825	[NO_SPEECH]
+826	disana jalannya lebih sempit
+827	disana jalannya lebih sempit
+828	disana jalannya lebih sempit
+829	disana jalannya lebih sempit
+830	disana jalannya lebih sempit iya, beberapa jalur lebih sempit
+831	disana jalannya lebih sempit iya, beberapa jalur lebih sempit
+832	iya, beberapa jalur lebih sempit
+833	iya, beberapa jalur lebih sempit
+834	iya, beberapa jalur lebih sempit dibandingin Indonesia
+835	iya, beberapa jalur lebih sempit dibandingin Indonesia
+836	dibandingin Indonesia
+837	tapi mobil ini lebar
+838	tapi mobil ini lebar
+839	tapi mobil ini lebar
+840	tapi mobil ini lebar white body
+841	tapi mobil ini lebar white body
+842	white body nah ini pertanyaan menarik
+843	white body nah ini pertanyaan menarik
+844	nah ini pertanyaan menarik
+845	nah ini pertanyaan menarik
+846	nah ini pertanyaan menarik
+847	nah ini pertanyaan menarik
+848	nah ini pertanyaan menarik
+849	nah ini pertanyaan menarik
+850	nah ini pertanyaan menarik
+851	nah ini pertanyaan menarik
+852	nah ini pertanyaan menarik orang luar denger suaranya gak?
+853	nah ini pertanyaan menarik orang luar denger suaranya gak?
+854	orang luar denger suaranya gak?
+855	orang luar denger suaranya gak?
+856	orang luar denger suaranya gak?
+857	orang luar denger suaranya gak?
+858	orang luar denger suaranya gak? ada ternyata suaranya
+859	orang luar denger suaranya gak? ada ternyata suaranya
+860	ada ternyata suaranya
+861	ada ternyata suaranya ada di luar ya? ada ada
+862	ada ternyata suaranya ada di luar ya? ada ada
+863	ada di luar ya? ada ada jadi waktu kita coba ngedrip di track tuh dari luar
+864	ada di luar ya? ada ada jadi waktu kita coba ngedrip di track tuh dari luar
+865	jadi waktu kita coba ngedrip di track tuh dari luar
+866	jadi waktu kita coba ngedrip di track tuh dari luar
+867	jadi waktu kita coba ngedrip di track tuh dari luar
+868	jadi waktu kita coba ngedrip di track tuh dari luar kedengeran suaranya dan suaranya tuh kayak mobil beneran
+869	jadi waktu kita coba ngedrip di track tuh dari luar kedengeran suaranya dan suaranya tuh kayak mobil beneran
+870	kedengeran suaranya dan suaranya tuh kayak mobil beneran
+871	kedengeran suaranya dan suaranya tuh kayak mobil beneran
+872	kedengeran suaranya dan suaranya tuh kayak mobil beneran
+873	kedengeran suaranya dan suaranya tuh kayak mobil beneran bukan kayak
+874	kedengeran suaranya dan suaranya tuh kayak mobil beneran bukan kayak bukan kayak mobil boongan gitu
+875	bukan kayak bukan kayak mobil boongan gitu
+876	bukan kayak mobil boongan gitu
+877	bukan kayak mobil boongan gitu
+878	bukan kayak mobil boongan gitu
+879	bukan kayak mobil boongan gitu
+880	bukan kayak mobil boongan gitu
+881	dan yang menarik itu
+882	dan yang menarik itu
+883	dan yang menarik itu
+884	dan yang menarik itu
+885	dan yang menarik itu bukan cuma gimmick suaranya ya tapi
+886	dan yang menarik itu bukan cuma gimmick suaranya ya tapi
+887	bukan cuma gimmick suaranya ya tapi
+888	bukan cuma gimmick suaranya ya tapi
+889	bukan cuma gimmick suaranya ya tapi karakter mesinnya
+890	karakter mesinnya
+891	karakter mesinnya itu bener-bener disesuaikan
+892	karakter mesinnya itu bener-bener disesuaikan
+893	itu bener-bener disesuaikan
+894	itu bener-bener disesuaikan
+895	itu bener-bener disesuaikan
+896	itu bener-bener disesuaikan
+897	itu bener-bener disesuaikan sama RPM kita
+898	itu bener-bener disesuaikan sama RPM kita
+899	sama RPM kita tapi kita juga bisa kalau mau mode full electric gitu ya
+900	sama RPM kita tapi kita juga bisa kalau mau mode full electric gitu ya
+901	tapi kita juga bisa kalau mau mode full electric gitu ya
+902	tapi kita juga bisa kalau mau mode full electric gitu ya
+903	tapi kita juga bisa kalau mau mode full electric gitu ya
+904	tapi kita juga bisa kalau mau mode full electric gitu ya
+905	tapi kita juga bisa kalau mau mode full electric gitu ya kita tinggal pencet
+906	tapi kita juga bisa kalau mau mode full electric gitu ya kita tinggal pencet
+907	kita tinggal pencet
+908	kita tinggal pencet
+909	kita tinggal pencet ada tombol merah NGB
+910	kita tinggal pencet ada tombol merah NGB
+911	ada tombol merah NGB
+912	ada tombol merah NGB N Green Boost itu langsung
+913	ada tombol merah NGB N Green Boost itu langsung
+914	N Green Boost itu langsung
+915	N Green Boost itu langsung
+916	N Green Boost itu langsung
+917	N Green Boost itu langsung modenya electric full
+918	N Green Boost itu langsung modenya electric full
+919	modenya electric full full attack
+920	modenya electric full full attack
+921	full attack
+922	full attack
+923	650 PS
+924	650 PS
+925	650 PS
+926	650 PS
+927	650 PS
+928	[NO_SPEECH]
+929	[NO_SPEECH]
+930	[NO_SPEECH]
+931	[NO_SPEECH]
+932	tapi poinnya dari mobil ini sih
+933	tapi poinnya dari mobil ini sih
+934	tapi poinnya dari mobil ini sih
+935	tapi poinnya dari mobil ini sih
+936	tapi poinnya dari mobil ini sih funnya sih
+937	tapi poinnya dari mobil ini sih funnya sih jadi bikin mobil listrik kenceng itu gak susah
+938	funnya sih jadi bikin mobil listrik kenceng itu gak susah
+939	funnya sih jadi bikin mobil listrik kenceng itu gak susah
+940	jadi bikin mobil listrik kenceng itu gak susah
+941	jadi bikin mobil listrik kenceng itu gak susah
+942	jadi bikin mobil listrik kenceng itu gak susah
+943	jadi bikin mobil listrik kenceng itu gak susah
+944	jadi bikin mobil listrik kenceng itu gak susah bikin mobil listrik yang fun
+945	jadi bikin mobil listrik kenceng itu gak susah bikin mobil listrik yang fun
+946	bikin mobil listrik yang fun
+947	bikin mobil listrik yang fun
+948	bikin mobil listrik yang fun itu susah
+949	bikin mobil listrik yang fun itu susah
+950	itu susah dan ini luar biasa funnya
+951	itu susah dan ini luar biasa funnya
+952	dan ini luar biasa funnya
+953	dan ini luar biasa funnya
+954	dan ini luar biasa funnya
+955	dan ini luar biasa funnya
+956	dan ini luar biasa funnya
+957	dan ini luar biasa funnya
+958	[NO_SPEECH]
+959	[NO_SPEECH]
+960	[NO_SPEECH]
+961	[NO_SPEECH]
+962	[NO_SPEECH]
+963	Luna Maya live aja gak sebanyak
+964	Luna Maya live aja gak sebanyak
+965	Luna Maya live aja gak sebanyak
+966	Luna Maya live aja gak sebanyak
+967	Luna Maya live aja gak sebanyak
+968	Luna Maya live aja gak sebanyak komputer viewersnya
+969	Luna Maya live aja gak sebanyak komputer viewersnya
+970	komputer viewersnya
+971	komputer viewersnya
+972	komputer viewersnya
+973	wah nonton Luna Maya juga ya
+974	wah nonton Luna Maya juga ya
+975	wah nonton Luna Maya juga ya
+976	wah nonton Luna Maya juga ya
+977	wah nonton Luna Maya juga ya kalau kena speed limit yang bayar denda siapa?
+978	kalau kena speed limit yang bayar denda siapa?
+979	kalau kena speed limit yang bayar denda siapa?
+980	kalau kena speed limit yang bayar denda siapa?
+981	kalau kena speed limit yang bayar denda siapa?
+982	kalau kena speed limit yang bayar denda siapa? sebenernya yang bayar denda itu Hyundai sini
+983	sebenernya yang bayar denda itu Hyundai sini
+984	sebenernya yang bayar denda itu Hyundai sini
+985	sebenernya yang bayar denda itu Hyundai sini tapi pasti akan dilaporkan ke Indonesia
+986	sebenernya yang bayar denda itu Hyundai sini tapi pasti akan dilaporkan ke Indonesia
+987	tapi pasti akan dilaporkan ke Indonesia
+988	tapi pasti akan dilaporkan ke Indonesia
+989	tapi pasti akan dilaporkan ke Indonesia
+990	tapi pasti akan dilaporkan ke Indonesia
+991	tapi pasti akan dilaporkan ke Indonesia dan itu menurunkan reputasi kita
+992	tapi pasti akan dilaporkan ke Indonesia dan itu menurunkan reputasi kita
+993	dan itu menurunkan reputasi kita
+994	dan itu menurunkan reputasi kita
+995	dan itu menurunkan reputasi kita kalau misalnya
+996	dan itu menurunkan reputasi kita kalau misalnya
+997	kalau misalnya kalau misalnya ngelewatin speed limit
+998	kalau misalnya kalau misalnya ngelewatin speed limit
+999	kalau misalnya ngelewatin speed limit
+1000	kalau misalnya ngelewatin speed limit
+1001	kalau misalnya ngelewatin speed limit kalau bandel
+1002	kalau misalnya ngelewatin speed limit kalau bandel
+1003	kalau bandel nanti gak diajak lagi kalau kebanyakan denda
+1004	kalau bandel nanti gak diajak lagi kalau kebanyakan denda
+1005	nanti gak diajak lagi kalau kebanyakan denda
+1006	nanti gak diajak lagi kalau kebanyakan denda
+1007	nanti gak diajak lagi kalau kebanyakan denda
+1008	nanti gak diajak lagi kalau kebanyakan denda gak ada sunroof ah
+1009	nanti gak diajak lagi kalau kebanyakan denda gak ada sunroof ah
+1010	gak ada sunroof ah
+1011	gak ada sunroof ah kebetulan tipe kita ini gak ada sunroof
+1012	gak ada sunroof ah kebetulan tipe kita ini gak ada sunroof
+1013	gak ada sunroof ah kebetulan tipe kita ini gak ada sunroof
+1014	kebetulan tipe kita ini gak ada sunroof
+1015	kebetulan tipe kita ini gak ada sunroof tapi ada yang ada panoramic roofnya
+1016	kebetulan tipe kita ini gak ada sunroof tapi ada yang ada panoramic roofnya
+1017	tapi ada yang ada panoramic roofnya
+1018	tapi ada yang ada panoramic roofnya
+1019	tapi ada yang ada panoramic roofnya kayak Yannick Five biasa
+1020	tapi ada yang ada panoramic roofnya kayak Yannick Five biasa
+1021	kayak Yannick Five biasa
+1022	kayak Yannick Five biasa
+1023	kayak Yannick Five biasa
+1024	[NO_SPEECH]
+1025	[NO_SPEECH]
+1026	[NO_SPEECH]
+1027	[NO_SPEECH]
+1028	[NO_SPEECH]
+1029	biasanya ya saya tuh gak suka sama suara palsu gitu ya
+1030	biasanya ya saya tuh gak suka sama suara palsu gitu ya
+1031	biasanya ya saya tuh gak suka sama suara palsu gitu ya
+1032	biasanya ya saya tuh gak suka sama suara palsu gitu ya
+1033	biasanya ya saya tuh gak suka sama suara palsu gitu ya
+1034	biasanya ya saya tuh gak suka sama suara palsu gitu ya tapi suara palsu itu gak suka ya?
+1035	biasanya ya saya tuh gak suka sama suara palsu gitu ya tapi suara palsu itu gak suka ya?
+1036	tapi suara palsu itu gak suka ya?
+1037	tapi suara palsu itu gak suka ya? kalau di mobil ini
+1038	tapi suara palsu itu gak suka ya? kalau di mobil ini
+1039	[NO_SPEECH]
+1040	itu malah kita pengennya pakai suara itu terus ya
+1041	itu malah kita pengennya pakai suara itu terus ya
+1042	itu malah kita pengennya pakai suara itu terus ya
+1043	itu malah kita pengennya pakai suara itu terus ya
+1044	itu malah kita pengennya pakai suara itu terus ya
+1045	itu malah kita pengennya pakai suara itu terus ya gak pengen yang silent ya
+1046	itu malah kita pengennya pakai suara itu terus ya gak pengen yang silent ya
+1047	gak pengen yang silent ya
+1048	gak pengen yang silent ya
+1049	gak pengen yang silent ya dan bisa mode otomatik
+1050	gak pengen yang silent ya dan bisa mode otomatik
+1051	dan bisa mode otomatik
+1052	dan bisa mode otomatik
+1053	dan bisa mode otomatik
+1054	dan bisa mode otomatik otomatiknya juga kayak ini
+1055	otomatiknya juga kayak ini
+1056	otomatiknya juga kayak ini
+1057	otomatiknya juga kayak ini kayak otomatik mobil sport gitu dia pindah sendiri
+1058	otomatiknya juga kayak ini kayak otomatik mobil sport gitu dia pindah sendiri
+1059	kayak otomatik mobil sport gitu dia pindah sendiri
+1060	kayak otomatik mobil sport gitu dia pindah sendiri
+1061	kayak otomatik mobil sport gitu dia pindah sendiri
+1062	kayak otomatik mobil sport gitu dia pindah sendiri
+1063	kayak otomatik mobil sport gitu dia pindah sendiri
+1064	kayak otomatik mobil sport gitu dia pindah sendiri pindah sendiri
+1065	kayak otomatik mobil sport gitu dia pindah sendiri pindah sendiri
+1066	pindah sendiri dan kalau kita gas itu ada lagnya
+1067	pindah sendiri dan kalau kita gas itu ada lagnya
+1068	dan kalau kita gas itu ada lagnya
+1069	dan kalau kita gas itu ada lagnya
+1070	dan kalau kita gas itu ada lagnya
+1071	dan kalau kita gas itu ada lagnya
+1072	dan kalau kita gas itu ada lagnya terus abis itu ada downshiftnya
+1073	dan kalau kita gas itu ada lagnya terus abis itu ada downshiftnya
+1074	terus abis itu ada downshiftnya
+1075	terus abis itu ada downshiftnya
+1076	terus abis itu ada downshiftnya
+1077	terus abis itu ada downshiftnya
+1078	[NO_SPEECH]
+1079	[NO_SPEECH]
+1080	ada rev matching ya
+1081	ada rev matching ya
+1082	ada rev matching ya
+1083	ada rev matching ya
+1084	ada rev matching ya
+1085	awas om diajak ke warteg sama bang Ziko
+1086	awas om diajak ke warteg sama bang Ziko
+1087	awas om diajak ke warteg sama bang Ziko
+1088	awas om diajak ke warteg sama bang Ziko
+1089	awas om diajak ke warteg sama bang Ziko
+1090	awas om diajak ke warteg sama bang Ziko eh ini kakaknya ini
+1091	awas om diajak ke warteg sama bang Ziko eh ini kakaknya ini
+1092	eh ini kakaknya ini
+1093	eh ini kakaknya ini hahaha
+1094	eh ini kakaknya ini hahaha
+1095	hahaha
+1096	[NO_SPEECH]
+1097	dan Ziko nya
+1098	dan Ziko nya
+1099	dan Ziko nya
+1100	[NO_SPEECH]
+1101	[NO_SPEECH]
+1102	suaranya bisa dimatiin?
+1103	suaranya bisa dimatiin?
+1104	suaranya bisa dimatiin? gak bisa suaranya bisa dimatiin
+1105	suaranya bisa dimatiin? gak bisa suaranya bisa dimatiin
+1106	gak bisa suaranya bisa dimatiin
+1107	gak bisa suaranya bisa dimatiin
+1108	gak bisa suaranya bisa dimatiin
+1109	gak bisa suaranya bisa dimatiin tapi percaya saya
+1110	gak bisa suaranya bisa dimatiin tapi percaya saya
+1111	tapi percaya saya kalau udah nyoba mobil ini gak pengen matiin suaranya
+1112	tapi percaya saya kalau udah nyoba mobil ini gak pengen matiin suaranya
+1113	kalau udah nyoba mobil ini gak pengen matiin suaranya
+1114	kalau udah nyoba mobil ini gak pengen matiin suaranya
+1115	kalau udah nyoba mobil ini gak pengen matiin suaranya
+1116	kalau udah nyoba mobil ini gak pengen matiin suaranya
+1117	kalau udah nyoba mobil ini gak pengen matiin suaranya beneran deh
+1118	kalau udah nyoba mobil ini gak pengen matiin suaranya beneran deh
+1119	beneran deh
+1120	beneran deh
+1121	oke
+1122	oke itu aja livenya
+1123	oke itu aja livenya
+1124	oke itu aja livenya
+1125	itu aja livenya
+1126	itu aja livenya
+1127	itu aja livenya
+1128	itu aja livenya
+1129	sekalian sedikit sneak preview
+1130	sekalian sedikit sneak preview
+1131	sekalian sedikit sneak preview
+1132	sekalian sedikit sneak preview tentang mobil ini
+1133	sekalian sedikit sneak preview tentang mobil ini
+1134	tentang mobil ini tapi fullnya nanti kita juga ngedrift pakai mobil ini
+1135	tentang mobil ini tapi fullnya nanti kita juga ngedrift pakai mobil ini
+1136	tapi fullnya nanti kita juga ngedrift pakai mobil ini
+1137	tapi fullnya nanti kita juga ngedrift pakai mobil ini
+1138	tapi fullnya nanti kita juga ngedrift pakai mobil ini
+1139	tapi fullnya nanti kita juga ngedrift pakai mobil ini
+1140	tapi fullnya nanti kita juga ngedrift pakai mobil ini
+1141	tapi fullnya nanti kita juga ngedrift pakai mobil ini kita hotlap
+1142	tapi fullnya nanti kita juga ngedrift pakai mobil ini kita hotlap
+1143	kita hotlap
+1144	kita hotlap
+1145	kita hotlap di track pakai mobil ini
+1146	kita hotlap di track pakai mobil ini
+1147	di track pakai mobil ini
+1148	di track pakai mobil ini dan kita lewat jalan-jalan
+1149	di track pakai mobil ini dan kita lewat jalan-jalan
+1150	dan kita lewat jalan-jalan
+1151	dan kita lewat jalan-jalan yang indah di spanyol itu nanti tunggu di
+1152	dan kita lewat jalan-jalan yang indah di spanyol itu nanti tunggu di
+1153	dan kita lewat jalan-jalan yang indah di spanyol itu nanti tunggu di
+1154	yang indah di spanyol itu nanti tunggu di
+1155	yang indah di spanyol itu nanti tunggu di
+1156	yang indah di spanyol itu nanti tunggu di
+1157	yang indah di spanyol itu nanti tunggu di channel youtube fitra eri
+1158	channel youtube fitra eri
+1159	channel youtube fitra eri
+1160	channel youtube fitra eri
+1161	motodriver dan garasi drift
+1162	motodriver dan garasi drift
+1163	motodriver dan garasi drift
+1164	motodriver dan garasi drift
+1165	motodriver dan garasi drift oke terima kasih
+1166	oke terima kasih
+1167	oke terima kasih
+1168	oke terima kasih
+1169	ribuan yang nonton
+1170	ribuan yang nonton sampai jumpa di live berikutnya
+1171	ribuan yang nonton sampai jumpa di live berikutnya
+1172	sampai jumpa di live berikutnya
+1173	sampai jumpa di live berikutnya
+1174	sampai jumpa di live berikutnya
+1175	sampai jumpa di live berikutnya
+1176	sampai jumpa di live berikutnya bye bye
+1177	sampai jumpa di live berikutnya bye bye
+1178	bye bye
+1179	[NO_SPEECH]
+1180	[NO_SPEECH]

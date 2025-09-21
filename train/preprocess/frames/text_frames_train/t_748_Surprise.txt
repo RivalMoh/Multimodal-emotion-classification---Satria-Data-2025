@@ -1,0 +1,177 @@
+0	Apakah bisnis lu itu diwipe out?
+1	Apakah bisnis lu itu diwipe out?
+2	Apakah bisnis lu itu diwipe out?
+3	Apakah bisnis lu itu diwipe out?
+4	Apakah bisnis lu itu diwipe out?
+5	Apakah bisnis lu itu diwipe out? Nah ini permasalahan kenapa bisnis itu hancur di generasi kedua ya.
+6	Apakah bisnis lu itu diwipe out? Nah ini permasalahan kenapa bisnis itu hancur di generasi kedua ya.
+7	Nah ini permasalahan kenapa bisnis itu hancur di generasi kedua ya.
+8	Nah ini permasalahan kenapa bisnis itu hancur di generasi kedua ya.
+9	Nah ini permasalahan kenapa bisnis itu hancur di generasi kedua ya.
+10	Nah ini permasalahan kenapa bisnis itu hancur di generasi kedua ya.
+11	Nah ini permasalahan kenapa bisnis itu hancur di generasi kedua ya.
+12	Nah ini permasalahan kenapa bisnis itu hancur di generasi kedua ya.
+13	Nah ini permasalahan kenapa bisnis itu hancur di generasi kedua ya.
+14	Nah ini permasalahan kenapa bisnis itu hancur di generasi kedua ya.
+15	Nah ini permasalahan kenapa bisnis itu hancur di generasi kedua ya.
+16	Generasi pertama, maksudnya bapak-bapak kita ya.
+17	Generasi pertama, maksudnya bapak-bapak kita ya.
+18	Generasi pertama, maksudnya bapak-bapak kita ya.
+19	Generasi pertama, maksudnya bapak-bapak kita ya.
+20	Generasi pertama, maksudnya bapak-bapak kita ya.
+21	Mereka itu sukses karena kerja keras, mau berkorban, setengah mati di lapangan,
+22	Mereka itu sukses karena kerja keras, mau berkorban, setengah mati di lapangan,
+23	Mereka itu sukses karena kerja keras, mau berkorban, setengah mati di lapangan,
+24	Mereka itu sukses karena kerja keras, mau berkorban, setengah mati di lapangan,
+25	Mereka itu sukses karena kerja keras, mau berkorban, setengah mati di lapangan,
+26	Mereka itu sukses karena kerja keras, mau berkorban, setengah mati di lapangan,
+27	Mereka itu sukses karena kerja keras, mau berkorban, setengah mati di lapangan,
+28	Mereka itu sukses karena kerja keras, mau berkorban, setengah mati di lapangan,
+29	Mereka itu sukses karena kerja keras, mau berkorban, setengah mati di lapangan, lu sampai kerimpetan lah segala macam, gue sampai kerja setengah mati.
+30	Mereka itu sukses karena kerja keras, mau berkorban, setengah mati di lapangan, lu sampai kerimpetan lah segala macam, gue sampai kerja setengah mati.
+31	lu sampai kerimpetan lah segala macam, gue sampai kerja setengah mati.
+32	lu sampai kerimpetan lah segala macam, gue sampai kerja setengah mati.
+33	lu sampai kerimpetan lah segala macam, gue sampai kerja setengah mati.
+34	lu sampai kerimpetan lah segala macam, gue sampai kerja setengah mati.
+35	lu sampai kerimpetan lah segala macam, gue sampai kerja setengah mati.
+36	lu sampai kerimpetan lah segala macam, gue sampai kerja setengah mati. Itulah yang buat bisnis itu sukses.
+37	Itulah yang buat bisnis itu sukses.
+38	Itulah yang buat bisnis itu sukses.
+39	Itulah yang buat bisnis itu sukses. Tapi begitu turun ke generasi kedua, mereka malah mau anak itu,
+40	Itulah yang buat bisnis itu sukses. Tapi begitu turun ke generasi kedua, mereka malah mau anak itu,
+41	Tapi begitu turun ke generasi kedua, mereka malah mau anak itu,
+42	Tapi begitu turun ke generasi kedua, mereka malah mau anak itu,
+43	Tapi begitu turun ke generasi kedua, mereka malah mau anak itu,
+44	Tapi begitu turun ke generasi kedua, mereka malah mau anak itu,
+45	Tapi begitu turun ke generasi kedua, mereka malah mau anak itu,
+46	Tapi begitu turun ke generasi kedua, mereka malah mau anak itu, lu dah, lu santai aja.
+47	lu dah, lu santai aja.
+48	lu dah, lu santai aja. Ya. Lu tidak menurunkan karakteristik yang bikin lu sukses di generasi kedua.
+49	lu dah, lu santai aja. Ya. Lu tidak menurunkan karakteristik yang bikin lu sukses di generasi kedua.
+50	Lu tidak menurunkan karakteristik yang bikin lu sukses di generasi kedua.
+51	Lu tidak menurunkan karakteristik yang bikin lu sukses di generasi kedua.
+52	Lu tidak menurunkan karakteristik yang bikin lu sukses di generasi kedua.
+53	Lu tidak menurunkan karakteristik yang bikin lu sukses di generasi kedua.
+54	Lu tidak menurunkan karakteristik yang bikin lu sukses di generasi kedua.
+55	Lu tidak menurunkan karakteristik yang bikin lu sukses di generasi kedua. Malah lu membuat generasi kedua jadi generasi cemen.
+56	Lu tidak menurunkan karakteristik yang bikin lu sukses di generasi kedua. Malah lu membuat generasi kedua jadi generasi cemen.
+57	Malah lu membuat generasi kedua jadi generasi cemen.
+58	Malah lu membuat generasi kedua jadi generasi cemen.
+59	Malah lu membuat generasi kedua jadi generasi cemen.
+60	Malah lu membuat generasi kedua jadi generasi cemen. Ya.
+61	Malah lu membuat generasi kedua jadi generasi cemen. Ya. Apakah bisnis lu itu diwipe out?
+62	Ya. Apakah bisnis lu itu diwipe out?
+63	Apakah bisnis lu itu diwipe out?
+64	Apakah bisnis lu itu diwipe out?
+65	Apakah bisnis lu itu diwipe out?
+66	Apakah bisnis lu itu diwipe out?
+67	Apakah bisnis lu itu diwipe out?
+68	Apakah bisnis lu itu diwipe out? Mereka pun juga ada universe-nya sendiri bro, AC-AC itu.
+69	Mereka pun juga ada universe-nya sendiri bro, AC-AC itu.
+70	Mereka pun juga ada universe-nya sendiri bro, AC-AC itu.
+71	Mereka pun juga ada universe-nya sendiri bro, AC-AC itu.
+72	Mereka pun juga ada universe-nya sendiri bro, AC-AC itu.
+73	Mereka pun juga ada universe-nya sendiri bro, AC-AC itu.
+74	Mereka pun juga ada universe-nya sendiri bro, AC-AC itu. Mereka yang kekumpul-kumpul di mana AC-AC itu.
+75	Mereka yang kekumpul-kumpul di mana AC-AC itu.
+76	Mereka yang kekumpul-kumpul di mana AC-AC itu.
+77	Mereka yang kekumpul-kumpul di mana AC-AC itu.
+78	Mereka yang kekumpul-kumpul di mana AC-AC itu. The idea about like when we see one another.
+79	Mereka yang kekumpul-kumpul di mana AC-AC itu. The idea about like when we see one another.
+80	The idea about like when we see one another.
+81	The idea about like when we see one another.
+82	The idea about like when we see one another. Mereka itu ideal tentang anak-anaknya mereka adalah mereka happy.
+83	The idea about like when we see one another. Mereka itu ideal tentang anak-anaknya mereka adalah mereka happy.
+84	Mereka itu ideal tentang anak-anaknya mereka adalah mereka happy.
+85	Mereka itu ideal tentang anak-anaknya mereka adalah mereka happy.
+86	Mereka itu ideal tentang anak-anaknya mereka adalah mereka happy.
+87	Mereka itu ideal tentang anak-anaknya mereka adalah mereka happy.
+88	Mereka itu ideal tentang anak-anaknya mereka adalah mereka happy. Siapa paling happy anak-anaknya itu?
+89	Mereka itu ideal tentang anak-anaknya mereka adalah mereka happy. Siapa paling happy anak-anaknya itu?
+90	Siapa paling happy anak-anaknya itu?
+91	Siapa paling happy anak-anaknya itu? Siapa yang diantara kita semua bisa kasih anak kita paling happy?
+92	Siapa paling happy anak-anaknya itu? Siapa yang diantara kita semua bisa kasih anak kita paling happy?
+93	Siapa yang diantara kita semua bisa kasih anak kita paling happy?
+94	Siapa yang diantara kita semua bisa kasih anak kita paling happy?
+95	Siapa yang diantara kita semua bisa kasih anak kita paling happy?
+96	Siapa yang diantara kita semua bisa kasih anak kita paling happy?
+97	Siapa yang diantara kita semua bisa kasih anak kita paling happy?
+98	Siapa yang diantara kita semua bisa kasih anak kita paling happy? Betul sekali itu.
+99	Siapa yang diantara kita semua bisa kasih anak kita paling happy? Betul sekali itu.
+100	Betul sekali itu. Lu tidak usah macam-macam, tidak usah jungkir balik.
+101	Betul sekali itu. Lu tidak usah macam-macam, tidak usah jungkir balik.
+102	Lu tidak usah macam-macam, tidak usah jungkir balik.
+103	Lu tidak usah macam-macam, tidak usah jungkir balik.
+104	Lu tidak usah macam-macam, tidak usah jungkir balik. Jadi kayak it's their own ego.
+105	Lu tidak usah macam-macam, tidak usah jungkir balik. Jadi kayak it's their own ego.
+106	Jadi kayak it's their own ego.
+107	Jadi kayak it's their own ego.
+108	Jadi kayak it's their own ego.
+109	Jadi kayak it's their own ego. Enggak mas, kayak orang tidak sadar ya.
+110	Enggak mas, kayak orang tidak sadar ya.
+111	Enggak mas, kayak orang tidak sadar ya.
+112	Enggak mas, kayak orang tidak sadar ya.
+113	Enggak mas, kayak orang tidak sadar ya.
+114	Enggak mas, kayak orang tidak sadar ya. Lu lihat.
+115	Enggak mas, kayak orang tidak sadar ya. Lu lihat.
+116	Lu lihat. Hanya dalam satu generasi, sistem marketing itu berubah.
+117	Hanya dalam satu generasi, sistem marketing itu berubah.
+118	Hanya dalam satu generasi, sistem marketing itu berubah.
+119	Hanya dalam satu generasi, sistem marketing itu berubah.
+120	Hanya dalam satu generasi, sistem marketing itu berubah.
+121	Hanya dalam satu generasi, sistem marketing itu berubah.
+122	Hanya dalam satu generasi, sistem marketing itu berubah.
+123	Hanya dalam satu generasi, sistem marketing itu berubah.
+124	Hanya dalam satu generasi, sistem marketing itu berubah. Sistem marketing.
+125	Hanya dalam satu generasi, sistem marketing itu berubah. Sistem marketing.
+126	Sistem marketing. Ya kan?
+127	Ya kan? Lu kayak salespeople, lu masuk-masuk pergi hire orang, pergi masuk ke sales gitu.
+128	Ya kan? Lu kayak salespeople, lu masuk-masuk pergi hire orang, pergi masuk ke sales gitu.
+129	Lu kayak salespeople, lu masuk-masuk pergi hire orang, pergi masuk ke sales gitu.
+130	Lu kayak salespeople, lu masuk-masuk pergi hire orang, pergi masuk ke sales gitu.
+131	Lu kayak salespeople, lu masuk-masuk pergi hire orang, pergi masuk ke sales gitu.
+132	Lu kayak salespeople, lu masuk-masuk pergi hire orang, pergi masuk ke sales gitu.
+133	Lu kayak salespeople, lu masuk-masuk pergi hire orang, pergi masuk ke sales gitu.
+134	Lu kayak salespeople, lu masuk-masuk pergi hire orang, pergi masuk ke sales gitu.
+135	Lu kayak salespeople, lu masuk-masuk pergi hire orang, pergi masuk ke sales gitu. Dalam satu generasi, social media itu semua gone.
+136	Lu kayak salespeople, lu masuk-masuk pergi hire orang, pergi masuk ke sales gitu. Dalam satu generasi, social media itu semua gone.
+137	Dalam satu generasi, social media itu semua gone.
+138	Dalam satu generasi, social media itu semua gone.
+139	Dalam satu generasi, social media itu semua gone.
+140	Dalam satu generasi, social media itu semua gone.
+141	Dalam satu generasi, social media itu semua gone.
+142	Ini hanya satu generasi.
+143	Ini hanya satu generasi.
+144	Ini hanya satu generasi. Half a generation.
+145	Ini hanya satu generasi. Half a generation.
+146	Half a generation.
+147	Half a generation. Ini saatnya namanya one day.
+148	Ini saatnya namanya one day.
+149	Ini saatnya namanya one day. Kan kita baru zaman kita, terus begitu masuk social media itu kan belum satu generasi itu sebenarnya.
+150	Kan kita baru zaman kita, terus begitu masuk social media itu kan belum satu generasi itu sebenarnya.
+151	Kan kita baru zaman kita, terus begitu masuk social media itu kan belum satu generasi itu sebenarnya.
+152	Kan kita baru zaman kita, terus begitu masuk social media itu kan belum satu generasi itu sebenarnya.
+153	Kan kita baru zaman kita, terus begitu masuk social media itu kan belum satu generasi itu sebenarnya.
+154	Kan kita baru zaman kita, terus begitu masuk social media itu kan belum satu generasi itu sebenarnya.
+155	Kan kita baru zaman kita, terus begitu masuk social media itu kan belum satu generasi itu sebenarnya.
+156	Kan kita baru zaman kita, terus begitu masuk social media itu kan belum satu generasi itu sebenarnya.
+157	Kan kita baru zaman kita, terus begitu masuk social media itu kan belum satu generasi itu sebenarnya.
+158	Kan kita baru zaman kita, terus begitu masuk social media itu kan belum satu generasi itu sebenarnya.
+159	Kan kita baru zaman kita, terus begitu masuk social media itu kan belum satu generasi itu sebenarnya.
+160	Kan kita baru zaman kita, terus begitu masuk social media itu kan belum satu generasi itu sebenarnya. Half a generation itu sudah gone.
+161	Half a generation itu sudah gone.
+162	Half a generation itu sudah gone.
+163	Half a generation itu sudah gone. Jadi kalau lu tidak mikir terus, apa enggak bisnis lu itu.
+164	Jadi kalau lu tidak mikir terus, apa enggak bisnis lu itu.
+165	Jadi kalau lu tidak mikir terus, apa enggak bisnis lu itu.
+166	Jadi kalau lu tidak mikir terus, apa enggak bisnis lu itu.
+167	Jadi kalau lu tidak mikir terus, apa enggak bisnis lu itu.
+168	Jadi kalau lu tidak mikir terus, apa enggak bisnis lu itu.
+169	Jadi kalau lu tidak mikir terus, apa enggak bisnis lu itu.
+170	Jadi kalau lu tidak mikir terus, apa enggak bisnis lu itu.
+171	[NO_SPEECH]
+172	[NO_SPEECH]
+173	[NO_SPEECH]
+174	[NO_SPEECH]
+175	[NO_SPEECH]
+176	[NO_SPEECH]

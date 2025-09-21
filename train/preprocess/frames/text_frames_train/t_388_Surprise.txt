@@ -1,0 +1,130 @@
+0	Kingfenix belum selesai
+1	Kingfenix belum selesai
+2	Kingfenix belum selesai
+3	Kingfenix belum selesai Nih ada badai berikutnya
+4	Kingfenix belum selesai Nih ada badai berikutnya
+5	Nih ada badai berikutnya
+6	Nih ada badai berikutnya Infinix Note 50s 5G Plus
+7	Nih ada badai berikutnya Infinix Note 50s 5G Plus
+8	Infinix Note 50s 5G Plus
+9	Infinix Note 50s 5G Plus
+10	Infinix Note 50s 5G Plus
+11	Infinix Note 50s 5G Plus Apalagi nih ya
+12	Infinix Note 50s 5G Plus Apalagi nih ya
+13	Apalagi nih ya
+14	Apalagi nih ya
+15	Apalagi nih ya Harga flash sale-nya 2,9 juta
+16	Apalagi nih ya Harga flash sale-nya 2,9 juta
+17	Harga flash sale-nya 2,9 juta
+18	Harga flash sale-nya 2,9 juta
+19	Harga flash sale-nya 2,9 juta SOC-nya tau apa?
+20	Harga flash sale-nya 2,9 juta SOC-nya tau apa?
+21	SOC-nya tau apa? Dimensity 7300
+22	SOC-nya tau apa? Dimensity 7300
+23	Dimensity 7300
+24	Dimensity 7300
+25	Dimensity 7300 Di bawah 3 juta kita udah bisa dapet
+26	Dimensity 7300 Di bawah 3 juta kita udah bisa dapet
+27	Di bawah 3 juta kita udah bisa dapet
+28	Di bawah 3 juta kita udah bisa dapet
+29	Di bawah 3 juta kita udah bisa dapet
+30	Di bawah 3 juta kita udah bisa dapet SOC sekenceng ini
+31	Di bawah 3 juta kita udah bisa dapet SOC sekenceng ini
+32	SOC sekenceng ini
+33	SOC sekenceng ini
+34	SOC sekenceng ini Dan karena ini Dimensity artinya
+35	SOC sekenceng ini Dan karena ini Dimensity artinya
+36	Dan karena ini Dimensity artinya
+37	Dan karena ini Dimensity artinya
+38	Dan karena ini Dimensity artinya HP ini adalah HP 5G, jadi kalo operator kalian
+39	Dan karena ini Dimensity artinya HP ini adalah HP 5G, jadi kalo operator kalian
+40	HP ini adalah HP 5G, jadi kalo operator kalian
+41	HP ini adalah HP 5G, jadi kalo operator kalian
+42	HP ini adalah HP 5G, jadi kalo operator kalian sudah support 5G dan areanya mendukung
+43	HP ini adalah HP 5G, jadi kalo operator kalian sudah support 5G dan areanya mendukung
+44	sudah support 5G dan areanya mendukung
+45	sudah support 5G dan areanya mendukung
+46	sudah support 5G dan areanya mendukung internetan jadi makin kenceng lagi nih
+47	sudah support 5G dan areanya mendukung internetan jadi makin kenceng lagi nih
+48	internetan jadi makin kenceng lagi nih
+49	internetan jadi makin kenceng lagi nih
+50	internetan jadi makin kenceng lagi nih
+51	internetan jadi makin kenceng lagi nih RAM 8GB, 256GB
+52	internetan jadi makin kenceng lagi nih RAM 8GB, 256GB
+53	RAM 8GB, 256GB
+54	RAM 8GB, 256GB
+55	RAM 8GB, 256GB Baterai 5200 mAh dengan charger
+56	RAM 8GB, 256GB Baterai 5200 mAh dengan charger
+57	Baterai 5200 mAh dengan charger
+58	Baterai 5200 mAh dengan charger
+59	Baterai 5200 mAh dengan charger 45W, layar pake AMOLED
+60	Baterai 5200 mAh dengan charger 45W, layar pake AMOLED
+61	45W, layar pake AMOLED
+62	45W, layar pake AMOLED
+63	45W, layar pake AMOLED Curve 144Hz
+64	45W, layar pake AMOLED Curve 144Hz
+65	Curve 144Hz
+66	Curve 144Hz In-display fingerprint scanner ya
+67	Curve 144Hz In-display fingerprint scanner ya
+68	In-display fingerprint scanner ya
+69	In-display fingerprint scanner ya
+70	In-display fingerprint scanner ya Kameranya 64MP
+71	In-display fingerprint scanner ya Kameranya 64MP
+72	Kameranya 64MP
+73	Kameranya 64MP
+74	Kameranya 64MP Sony IMX682
+75	Kameranya 64MP Sony IMX682
+76	Sony IMX682
+77	Sony IMX682
+78	Sony IMX682 Bisa rekam 4K dan hebatnya videonya
+79	Sony IMX682 Bisa rekam 4K dan hebatnya videonya
+80	Bisa rekam 4K dan hebatnya videonya
+81	Bisa rekam 4K dan hebatnya videonya
+82	Bisa rekam 4K dan hebatnya videonya bisa stabil nih, kagak-kagak lainnya juga mantep ya
+83	Bisa rekam 4K dan hebatnya videonya bisa stabil nih, kagak-kagak lainnya juga mantep ya
+84	bisa stabil nih, kagak-kagak lainnya juga mantep ya
+85	bisa stabil nih, kagak-kagak lainnya juga mantep ya
+86	bisa stabil nih, kagak-kagak lainnya juga mantep ya
+87	bisa stabil nih, kagak-kagak lainnya juga mantep ya Punya IP64, ada NFC
+88	bisa stabil nih, kagak-kagak lainnya juga mantep ya Punya IP64, ada NFC
+89	Punya IP64, ada NFC
+90	Punya IP64, ada NFC
+91	Punya IP64, ada NFC Speaker stereo dan yang unik
+92	Punya IP64, ada NFC Speaker stereo dan yang unik
+93	Speaker stereo dan yang unik
+94	Speaker stereo dan yang unik
+95	Speaker stereo dan yang unik dari back cover leathernya adalah
+96	Speaker stereo dan yang unik dari back cover leathernya adalah
+97	dari back cover leathernya adalah
+98	dari back cover leathernya adalah
+99	dari back cover leathernya adalah
+100	Wangi!
+101	Wangi! Back covernya ini ada aromanya, ada-ada aja nih
+102	Wangi! Back covernya ini ada aromanya, ada-ada aja nih
+103	Back covernya ini ada aromanya, ada-ada aja nih
+104	Back covernya ini ada aromanya, ada-ada aja nih
+105	Back covernya ini ada aromanya, ada-ada aja nih
+106	Back covernya ini ada aromanya, ada-ada aja nih
+107	Back covernya ini ada aromanya, ada-ada aja nih Ide-nya ya, smartphone ini akan dijual eksklusif
+108	Back covernya ini ada aromanya, ada-ada aja nih Ide-nya ya, smartphone ini akan dijual eksklusif
+109	Ide-nya ya, smartphone ini akan dijual eksklusif
+110	Ide-nya ya, smartphone ini akan dijual eksklusif
+111	Ide-nya ya, smartphone ini akan dijual eksklusif secara online dan nantikan peluncuran
+112	Ide-nya ya, smartphone ini akan dijual eksklusif secara online dan nantikan peluncuran
+113	secara online dan nantikan peluncuran
+114	secara online dan nantikan peluncuran Note 50 5G series pada tanggal
+115	secara online dan nantikan peluncuran Note 50 5G series pada tanggal
+116	Note 50 5G series pada tanggal
+117	Note 50 5G series pada tanggal
+118	Note 50 5G series pada tanggal 16 Mei 2025
+119	Note 50 5G series pada tanggal 16 Mei 2025
+120	16 Mei 2025
+121	16 Mei 2025 Jangan sampai kelewatan karena Infinix masih ada
+122	16 Mei 2025 Jangan sampai kelewatan karena Infinix masih ada
+123	Jangan sampai kelewatan karena Infinix masih ada
+124	Jangan sampai kelewatan karena Infinix masih ada
+125	Jangan sampai kelewatan karena Infinix masih ada
+126	Jangan sampai kelewatan karena Infinix masih ada kejutan-kejutan lainnya!
+127	Jangan sampai kelewatan karena Infinix masih ada kejutan-kejutan lainnya!
+128	kejutan-kejutan lainnya!
+129	kejutan-kejutan lainnya!

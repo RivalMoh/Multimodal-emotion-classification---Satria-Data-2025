@@ -1,0 +1,162 @@
+0	Studi terbaru menarik, jalan cepat versus jalan santai.
+1	Studi terbaru menarik, jalan cepat versus jalan santai.
+2	Studi terbaru menarik, jalan cepat versus jalan santai.
+3	Studi terbaru menarik, jalan cepat versus jalan santai.
+4	Studi terbaru menarik, jalan cepat versus jalan santai.
+5	Studi terbaru menarik, jalan cepat versus jalan santai.
+6	Studi terbaru menarik, jalan cepat versus jalan santai.
+7	Studi terbaru menarik, jalan cepat versus jalan santai.
+8	Studi terbaru menarik, jalan cepat versus jalan santai. Kenapa olahraga itu harus sampai ngos-ngosan atau ada intensitas yang tinggi?
+9	Studi terbaru menarik, jalan cepat versus jalan santai. Kenapa olahraga itu harus sampai ngos-ngosan atau ada intensitas yang tinggi?
+10	Kenapa olahraga itu harus sampai ngos-ngosan atau ada intensitas yang tinggi?
+11	Kenapa olahraga itu harus sampai ngos-ngosan atau ada intensitas yang tinggi?
+12	Kenapa olahraga itu harus sampai ngos-ngosan atau ada intensitas yang tinggi?
+13	Kenapa olahraga itu harus sampai ngos-ngosan atau ada intensitas yang tinggi?
+14	Kenapa olahraga itu harus sampai ngos-ngosan atau ada intensitas yang tinggi?
+15	Kenapa olahraga itu harus sampai ngos-ngosan atau ada intensitas yang tinggi?
+16	Kenapa olahraga itu harus sampai ngos-ngosan atau ada intensitas yang tinggi?
+17	Kenapa olahraga itu harus sampai ngos-ngosan atau ada intensitas yang tinggi?
+18	Kenapa olahraga itu harus sampai ngos-ngosan atau ada intensitas yang tinggi?
+19	Kenapa olahraga itu harus sampai ngos-ngosan atau ada intensitas yang tinggi?
+20	Kenapa olahraga itu harus sampai ngos-ngosan atau ada intensitas yang tinggi? Studi ini sangat-sangat menarik.
+21	Studi ini sangat-sangat menarik.
+22	Studi ini sangat-sangat menarik.
+23	Studi ini sangat-sangat menarik. Mereka itu membandingkan di 85 ribu orang dan mereka itu di follow up selama puluhan tahun.
+24	Studi ini sangat-sangat menarik. Mereka itu membandingkan di 85 ribu orang dan mereka itu di follow up selama puluhan tahun.
+25	Mereka itu membandingkan di 85 ribu orang dan mereka itu di follow up selama puluhan tahun.
+26	Mereka itu membandingkan di 85 ribu orang dan mereka itu di follow up selama puluhan tahun.
+27	Mereka itu membandingkan di 85 ribu orang dan mereka itu di follow up selama puluhan tahun.
+28	Mereka itu membandingkan di 85 ribu orang dan mereka itu di follow up selama puluhan tahun.
+29	Mereka itu membandingkan di 85 ribu orang dan mereka itu di follow up selama puluhan tahun.
+30	Mereka itu membandingkan di 85 ribu orang dan mereka itu di follow up selama puluhan tahun.
+31	Mereka itu membandingkan di 85 ribu orang dan mereka itu di follow up selama puluhan tahun.
+32	Mereka itu membandingkan di 85 ribu orang dan mereka itu di follow up selama puluhan tahun.
+33	Mereka itu membandingkan di 85 ribu orang dan mereka itu di follow up selama puluhan tahun.
+34	Mereka itu membandingkan di 85 ribu orang dan mereka itu di follow up selama puluhan tahun.
+35	Mereka itu membandingkan di 85 ribu orang dan mereka itu di follow up selama puluhan tahun. Mediannya itu sekitar 16 tahun.
+36	Mereka itu membandingkan di 85 ribu orang dan mereka itu di follow up selama puluhan tahun. Mediannya itu sekitar 16 tahun.
+37	Mediannya itu sekitar 16 tahun.
+38	Mediannya itu sekitar 16 tahun.
+39	Mediannya itu sekitar 16 tahun.
+40	Mediannya itu sekitar 16 tahun. Orang-orang yang olahraga dengan jalan cepat dengan orang-orang yang olahraganya itu adalah jalan santai.
+41	Orang-orang yang olahraga dengan jalan cepat dengan orang-orang yang olahraganya itu adalah jalan santai.
+42	Orang-orang yang olahraga dengan jalan cepat dengan orang-orang yang olahraganya itu adalah jalan santai.
+43	Orang-orang yang olahraga dengan jalan cepat dengan orang-orang yang olahraganya itu adalah jalan santai.
+44	Orang-orang yang olahraga dengan jalan cepat dengan orang-orang yang olahraganya itu adalah jalan santai.
+45	Orang-orang yang olahraga dengan jalan cepat dengan orang-orang yang olahraganya itu adalah jalan santai.
+46	Orang-orang yang olahraga dengan jalan cepat dengan orang-orang yang olahraganya itu adalah jalan santai.
+47	Orang-orang yang olahraga dengan jalan cepat dengan orang-orang yang olahraganya itu adalah jalan santai.
+48	Orang-orang yang olahraga dengan jalan cepat dengan orang-orang yang olahraganya itu adalah jalan santai.
+49	Orang-orang yang olahraga dengan jalan cepat dengan orang-orang yang olahraganya itu adalah jalan santai.
+50	Orang-orang yang olahraga dengan jalan cepat dengan orang-orang yang olahraganya itu adalah jalan santai.
+51	Orang-orang yang olahraga dengan jalan cepat dengan orang-orang yang olahraganya itu adalah jalan santai.
+52	Orang-orang yang olahraga dengan jalan cepat dengan orang-orang yang olahraganya itu adalah jalan santai.
+53	Orang-orang yang olahraga dengan jalan cepat dengan orang-orang yang olahraganya itu adalah jalan santai.
+54	Orang-orang yang olahraga dengan jalan cepat dengan orang-orang yang olahraganya itu adalah jalan santai. Jadi mereka itu nemuin penurunan kematian prematur sebesar 20% ya.
+55	Orang-orang yang olahraga dengan jalan cepat dengan orang-orang yang olahraganya itu adalah jalan santai. Jadi mereka itu nemuin penurunan kematian prematur sebesar 20% ya.
+56	Jadi mereka itu nemuin penurunan kematian prematur sebesar 20% ya.
+57	Jadi mereka itu nemuin penurunan kematian prematur sebesar 20% ya.
+58	Jadi mereka itu nemuin penurunan kematian prematur sebesar 20% ya.
+59	Jadi mereka itu nemuin penurunan kematian prematur sebesar 20% ya.
+60	Jadi mereka itu nemuin penurunan kematian prematur sebesar 20% ya.
+61	Jadi mereka itu nemuin penurunan kematian prematur sebesar 20% ya.
+62	Jadi mereka itu nemuin penurunan kematian prematur sebesar 20% ya.
+63	Jadi mereka itu nemuin penurunan kematian prematur sebesar 20% ya.
+64	Jadi mereka itu nemuin penurunan kematian prematur sebesar 20% ya.
+65	Jadi mereka itu nemuin penurunan kematian prematur sebesar 20% ya.
+66	Jadi mereka itu nemuin penurunan kematian prematur sebesar 20% ya.
+67	Jadi mereka itu nemuin penurunan kematian prematur sebesar 20% ya. Di orang-orang yang jalan cepat setiap hari selama cuma 15 menit doang.
+68	Jadi mereka itu nemuin penurunan kematian prematur sebesar 20% ya. Di orang-orang yang jalan cepat setiap hari selama cuma 15 menit doang.
+69	Di orang-orang yang jalan cepat setiap hari selama cuma 15 menit doang.
+70	Di orang-orang yang jalan cepat setiap hari selama cuma 15 menit doang.
+71	Di orang-orang yang jalan cepat setiap hari selama cuma 15 menit doang.
+72	Di orang-orang yang jalan cepat setiap hari selama cuma 15 menit doang.
+73	Di orang-orang yang jalan cepat setiap hari selama cuma 15 menit doang.
+74	Di orang-orang yang jalan cepat setiap hari selama cuma 15 menit doang.
+75	Di orang-orang yang jalan cepat setiap hari selama cuma 15 menit doang.
+76	Di orang-orang yang jalan cepat setiap hari selama cuma 15 menit doang.
+77	Di orang-orang yang jalan cepat setiap hari selama cuma 15 menit doang.
+78	Di orang-orang yang jalan cepat setiap hari selama cuma 15 menit doang.
+79	Di orang-orang yang jalan cepat setiap hari selama cuma 15 menit doang.
+80	Sedangkan orang-orang yang jalan santai sampai 3 jam itu penurunan kematian prematur cuma 4%.
+81	Sedangkan orang-orang yang jalan santai sampai 3 jam itu penurunan kematian prematur cuma 4%.
+82	Sedangkan orang-orang yang jalan santai sampai 3 jam itu penurunan kematian prematur cuma 4%.
+83	Sedangkan orang-orang yang jalan santai sampai 3 jam itu penurunan kematian prematur cuma 4%.
+84	Sedangkan orang-orang yang jalan santai sampai 3 jam itu penurunan kematian prematur cuma 4%.
+85	Sedangkan orang-orang yang jalan santai sampai 3 jam itu penurunan kematian prematur cuma 4%.
+86	Sedangkan orang-orang yang jalan santai sampai 3 jam itu penurunan kematian prematur cuma 4%.
+87	Sedangkan orang-orang yang jalan santai sampai 3 jam itu penurunan kematian prematur cuma 4%.
+88	Sedangkan orang-orang yang jalan santai sampai 3 jam itu penurunan kematian prematur cuma 4%.
+89	Sedangkan orang-orang yang jalan santai sampai 3 jam itu penurunan kematian prematur cuma 4%.
+90	Sedangkan orang-orang yang jalan santai sampai 3 jam itu penurunan kematian prematur cuma 4%.
+91	Sedangkan orang-orang yang jalan santai sampai 3 jam itu penurunan kematian prematur cuma 4%.
+92	Sedangkan orang-orang yang jalan santai sampai 3 jam itu penurunan kematian prematur cuma 4%.
+93	Sedangkan orang-orang yang jalan santai sampai 3 jam itu penurunan kematian prematur cuma 4%.
+94	Sedangkan orang-orang yang jalan santai sampai 3 jam itu penurunan kematian prematur cuma 4%.
+95	Sedangkan orang-orang yang jalan santai sampai 3 jam itu penurunan kematian prematur cuma 4%.
+96	Sedangkan orang-orang yang jalan santai sampai 3 jam itu penurunan kematian prematur cuma 4%.
+97	Sedangkan orang-orang yang jalan santai sampai 3 jam itu penurunan kematian prematur cuma 4%.
+98	Sedangkan orang-orang yang jalan santai sampai 3 jam itu penurunan kematian prematur cuma 4%. Nah jadi inilah yang gue selalu bilang.
+99	Sedangkan orang-orang yang jalan santai sampai 3 jam itu penurunan kematian prematur cuma 4%. Nah jadi inilah yang gue selalu bilang.
+100	Nah jadi inilah yang gue selalu bilang.
+101	Nah jadi inilah yang gue selalu bilang.
+102	Nah jadi inilah yang gue selalu bilang.
+103	Nah jadi inilah yang gue selalu bilang. Kalau teman-teman itu olahraga, terutama teman-teman yang punya orang tua.
+104	Nah jadi inilah yang gue selalu bilang. Kalau teman-teman itu olahraga, terutama teman-teman yang punya orang tua.
+105	Kalau teman-teman itu olahraga, terutama teman-teman yang punya orang tua.
+106	Kalau teman-teman itu olahraga, terutama teman-teman yang punya orang tua.
+107	Kalau teman-teman itu olahraga, terutama teman-teman yang punya orang tua.
+108	Kalau teman-teman itu olahraga, terutama teman-teman yang punya orang tua.
+109	Kalau teman-teman itu olahraga, terutama teman-teman yang punya orang tua.
+110	Kalau teman-teman itu olahraga, terutama teman-teman yang punya orang tua. Minta mereka.
+111	Minta mereka.
+112	Minta mereka. Minta mereka walaupun mereka itu cuma olahraga jalan doang.
+113	Minta mereka. Minta mereka walaupun mereka itu cuma olahraga jalan doang.
+114	Minta mereka walaupun mereka itu cuma olahraga jalan doang.
+115	Minta mereka walaupun mereka itu cuma olahraga jalan doang.
+116	Minta mereka walaupun mereka itu cuma olahraga jalan doang.
+117	Minta mereka walaupun mereka itu cuma olahraga jalan doang.
+118	Minta mereka walaupun mereka itu cuma olahraga jalan doang.
+119	Minta mereka walaupun mereka itu cuma olahraga jalan doang. Suruh mereka itu increase pacenya agak cepat gitu.
+120	Suruh mereka itu increase pacenya agak cepat gitu.
+121	Suruh mereka itu increase pacenya agak cepat gitu.
+122	Suruh mereka itu increase pacenya agak cepat gitu.
+123	Suruh mereka itu increase pacenya agak cepat gitu.
+124	Suruh mereka itu increase pacenya agak cepat gitu.
+125	Suruh mereka itu increase pacenya agak cepat gitu. Jadi punya intensitas pada saat olahraga.
+126	Suruh mereka itu increase pacenya agak cepat gitu. Jadi punya intensitas pada saat olahraga.
+127	Jadi punya intensitas pada saat olahraga.
+128	Jadi punya intensitas pada saat olahraga.
+129	Jadi punya intensitas pada saat olahraga. Kenapa?
+130	Jadi punya intensitas pada saat olahraga. Kenapa?
+131	Kenapa? Karena itu bantu sekali cardiovascular system kita itu jadi lebih kuat.
+132	Kenapa? Karena itu bantu sekali cardiovascular system kita itu jadi lebih kuat.
+133	Karena itu bantu sekali cardiovascular system kita itu jadi lebih kuat.
+134	Karena itu bantu sekali cardiovascular system kita itu jadi lebih kuat.
+135	Karena itu bantu sekali cardiovascular system kita itu jadi lebih kuat.
+136	Karena itu bantu sekali cardiovascular system kita itu jadi lebih kuat.
+137	Karena itu bantu sekali cardiovascular system kita itu jadi lebih kuat.
+138	Karena itu bantu sekali cardiovascular system kita itu jadi lebih kuat.
+139	Karena itu bantu sekali cardiovascular system kita itu jadi lebih kuat.
+140	Karena itu bantu sekali cardiovascular system kita itu jadi lebih kuat.
+141	Karena itu bantu sekali cardiovascular system kita itu jadi lebih kuat.
+142	Itu kan semua otot ya.
+143	Itu kan semua otot ya.
+144	Itu kan semua otot ya. Sama seperti apapun itu.
+145	Itu kan semua otot ya. Sama seperti apapun itu.
+146	Sama seperti apapun itu.
+147	Sama seperti apapun itu.
+148	Sama seperti apapun itu. Kalau kita itu makin lama makin naikin intensitas, badan kita itu makin lama makin kuat.
+149	Sama seperti apapun itu. Kalau kita itu makin lama makin naikin intensitas, badan kita itu makin lama makin kuat.
+150	Kalau kita itu makin lama makin naikin intensitas, badan kita itu makin lama makin kuat.
+151	Kalau kita itu makin lama makin naikin intensitas, badan kita itu makin lama makin kuat.
+152	Kalau kita itu makin lama makin naikin intensitas, badan kita itu makin lama makin kuat.
+153	Kalau kita itu makin lama makin naikin intensitas, badan kita itu makin lama makin kuat.
+154	Kalau kita itu makin lama makin naikin intensitas, badan kita itu makin lama makin kuat.
+155	Kalau kita itu makin lama makin naikin intensitas, badan kita itu makin lama makin kuat.
+156	Kalau kita itu makin lama makin naikin intensitas, badan kita itu makin lama makin kuat.
+157	Kalau kita itu makin lama makin naikin intensitas, badan kita itu makin lama makin kuat.
+158	Kalau kita itu makin lama makin naikin intensitas, badan kita itu makin lama makin kuat.
+159	Kalau kita itu makin lama makin naikin intensitas, badan kita itu makin lama makin kuat.
+160	Kalau kita itu makin lama makin naikin intensitas, badan kita itu makin lama makin kuat.
+161	[NO_SPEECH]

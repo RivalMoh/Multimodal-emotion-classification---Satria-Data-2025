@@ -1,0 +1,160 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	Sebelumnya peserta top 10 move your hustle business on the go competition
+3	Sebelumnya peserta top 10 move your hustle business on the go competition
+4	Sebelumnya peserta top 10 move your hustle business on the go competition
+5	Sebelumnya peserta top 10 move your hustle business on the go competition
+6	Sebelumnya peserta top 10 move your hustle business on the go competition
+7	Sebelumnya peserta top 10 move your hustle business on the go competition
+8	Sebelumnya peserta top 10 move your hustle business on the go competition
+9	Sebelumnya peserta top 10 move your hustle business on the go competition
+10	Sebelumnya peserta top 10 move your hustle business on the go competition Sudah mempresentasikan proposal ide bisnisnya
+11	Sebelumnya peserta top 10 move your hustle business on the go competition Sudah mempresentasikan proposal ide bisnisnya
+12	Sudah mempresentasikan proposal ide bisnisnya
+13	Sudah mempresentasikan proposal ide bisnisnya
+14	Sudah mempresentasikan proposal ide bisnisnya
+15	Sudah mempresentasikan proposal ide bisnisnya
+16	Sudah mempresentasikan proposal ide bisnisnya Kini juri akan berdiskusi untuk memilih pemenangnya
+17	Sudah mempresentasikan proposal ide bisnisnya Kini juri akan berdiskusi untuk memilih pemenangnya
+18	Kini juri akan berdiskusi untuk memilih pemenangnya
+19	Kini juri akan berdiskusi untuk memilih pemenangnya
+20	Kini juri akan berdiskusi untuk memilih pemenangnya
+21	Kini juri akan berdiskusi untuk memilih pemenangnya
+22	Kini juri akan berdiskusi untuk memilih pemenangnya
+23	Kini juri akan berdiskusi untuk memilih pemenangnya
+24	Kini juri akan berdiskusi untuk memilih pemenangnya
+25	Kini juri akan berdiskusi untuk memilih pemenangnya
+26	Kini juri akan berdiskusi untuk memilih pemenangnya
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	10 ide bisnis, 3 juri ahli, 1 misi mencari 3 terbaik
+33	10 ide bisnis, 3 juri ahli, 1 misi mencari 3 terbaik
+34	10 ide bisnis, 3 juri ahli, 1 misi mencari 3 terbaik
+35	10 ide bisnis, 3 juri ahli, 1 misi mencari 3 terbaik
+36	10 ide bisnis, 3 juri ahli, 1 misi mencari 3 terbaik
+37	10 ide bisnis, 3 juri ahli, 1 misi mencari 3 terbaik
+38	10 ide bisnis, 3 juri ahli, 1 misi mencari 3 terbaik
+39	10 ide bisnis, 3 juri ahli, 1 misi mencari 3 terbaik
+40	10 ide bisnis, 3 juri ahli, 1 misi mencari 3 terbaik
+41	10 ide bisnis, 3 juri ahli, 1 misi mencari 3 terbaik
+42	10 ide bisnis, 3 juri ahli, 1 misi mencari 3 terbaik Kreatifitasnya itu benar-benar diluar nalar
+43	10 ide bisnis, 3 juri ahli, 1 misi mencari 3 terbaik Kreatifitasnya itu benar-benar diluar nalar
+44	Kreatifitasnya itu benar-benar diluar nalar
+45	Kreatifitasnya itu benar-benar diluar nalar
+46	Kreatifitasnya itu benar-benar diluar nalar
+47	Kreatifitasnya itu benar-benar diluar nalar
+48	Kreatifitasnya itu benar-benar diluar nalar
+49	Kreatifitasnya itu benar-benar diluar nalar Banyak sekali ide-ide yang kalau menurut saya itu bisa sangat mudah diaplikasikan
+50	Kreatifitasnya itu benar-benar diluar nalar Banyak sekali ide-ide yang kalau menurut saya itu bisa sangat mudah diaplikasikan
+51	Banyak sekali ide-ide yang kalau menurut saya itu bisa sangat mudah diaplikasikan
+52	Banyak sekali ide-ide yang kalau menurut saya itu bisa sangat mudah diaplikasikan
+53	Banyak sekali ide-ide yang kalau menurut saya itu bisa sangat mudah diaplikasikan
+54	Banyak sekali ide-ide yang kalau menurut saya itu bisa sangat mudah diaplikasikan
+55	Banyak sekali ide-ide yang kalau menurut saya itu bisa sangat mudah diaplikasikan
+56	Banyak sekali ide-ide yang kalau menurut saya itu bisa sangat mudah diaplikasikan
+57	Banyak sekali ide-ide yang kalau menurut saya itu bisa sangat mudah diaplikasikan
+58	Banyak sekali ide-ide yang kalau menurut saya itu bisa sangat mudah diaplikasikan
+59	Banyak sekali ide-ide yang kalau menurut saya itu bisa sangat mudah diaplikasikan
+60	Banyak sekali ide-ide yang kalau menurut saya itu bisa sangat mudah diaplikasikan Dan bisa dibantu dengan kehadiran Wuling Mitra EV
+61	Banyak sekali ide-ide yang kalau menurut saya itu bisa sangat mudah diaplikasikan Dan bisa dibantu dengan kehadiran Wuling Mitra EV
+62	Dan bisa dibantu dengan kehadiran Wuling Mitra EV
+63	Dan bisa dibantu dengan kehadiran Wuling Mitra EV
+64	Dan bisa dibantu dengan kehadiran Wuling Mitra EV
+65	Dan bisa dibantu dengan kehadiran Wuling Mitra EV
+66	Dan bisa dibantu dengan kehadiran Wuling Mitra EV Korelasi yang sangat menarik antara Wuling EV dengan bisnis-bisnis peserta tadi
+67	Dan bisa dibantu dengan kehadiran Wuling Mitra EV Korelasi yang sangat menarik antara Wuling EV dengan bisnis-bisnis peserta tadi
+68	Korelasi yang sangat menarik antara Wuling EV dengan bisnis-bisnis peserta tadi
+69	Korelasi yang sangat menarik antara Wuling EV dengan bisnis-bisnis peserta tadi
+70	Korelasi yang sangat menarik antara Wuling EV dengan bisnis-bisnis peserta tadi
+71	Korelasi yang sangat menarik antara Wuling EV dengan bisnis-bisnis peserta tadi
+72	Korelasi yang sangat menarik antara Wuling EV dengan bisnis-bisnis peserta tadi
+73	Korelasi yang sangat menarik antara Wuling EV dengan bisnis-bisnis peserta tadi
+74	Korelasi yang sangat menarik antara Wuling EV dengan bisnis-bisnis peserta tadi
+75	Korelasi yang sangat menarik antara Wuling EV dengan bisnis-bisnis peserta tadi
+76	Korelasi yang sangat menarik antara Wuling EV dengan bisnis-bisnis peserta tadi
+77	Korelasi yang sangat menarik antara Wuling EV dengan bisnis-bisnis peserta tadi
+78	Korelasi yang sangat menarik antara Wuling EV dengan bisnis-bisnis peserta tadi Misalkan bagaimana mengandalkan renewable energy, mengandalkan bagaimana sustainable environment
+79	Korelasi yang sangat menarik antara Wuling EV dengan bisnis-bisnis peserta tadi Misalkan bagaimana mengandalkan renewable energy, mengandalkan bagaimana sustainable environment
+80	Misalkan bagaimana mengandalkan renewable energy, mengandalkan bagaimana sustainable environment
+81	Misalkan bagaimana mengandalkan renewable energy, mengandalkan bagaimana sustainable environment
+82	Misalkan bagaimana mengandalkan renewable energy, mengandalkan bagaimana sustainable environment
+83	Misalkan bagaimana mengandalkan renewable energy, mengandalkan bagaimana sustainable environment
+84	Misalkan bagaimana mengandalkan renewable energy, mengandalkan bagaimana sustainable environment
+85	Misalkan bagaimana mengandalkan renewable energy, mengandalkan bagaimana sustainable environment
+86	Misalkan bagaimana mengandalkan renewable energy, mengandalkan bagaimana sustainable environment
+87	Misalkan bagaimana mengandalkan renewable energy, mengandalkan bagaimana sustainable environment
+88	Misalkan bagaimana mengandalkan renewable energy, mengandalkan bagaimana sustainable environment
+89	Misalkan bagaimana mengandalkan renewable energy, mengandalkan bagaimana sustainable environment
+90	Misalkan bagaimana mengandalkan renewable energy, mengandalkan bagaimana sustainable environment Overall semua desainnya menarik ya
+91	Misalkan bagaimana mengandalkan renewable energy, mengandalkan bagaimana sustainable environment Overall semua desainnya menarik ya
+92	Overall semua desainnya menarik ya
+93	Overall semua desainnya menarik ya
+94	Overall semua desainnya menarik ya
+95	Overall semua desainnya menarik ya Dan mereka tuh punya utility masing-masing gitu
+96	Overall semua desainnya menarik ya Dan mereka tuh punya utility masing-masing gitu
+97	Dan mereka tuh punya utility masing-masing gitu
+98	Dan mereka tuh punya utility masing-masing gitu
+99	Dan mereka tuh punya utility masing-masing gitu Menjadikan mobil ini unik, custom dan memang sudah disesuaikan dengan bisnisnya
+100	Dan mereka tuh punya utility masing-masing gitu Menjadikan mobil ini unik, custom dan memang sudah disesuaikan dengan bisnisnya
+101	Menjadikan mobil ini unik, custom dan memang sudah disesuaikan dengan bisnisnya
+102	Menjadikan mobil ini unik, custom dan memang sudah disesuaikan dengan bisnisnya
+103	Menjadikan mobil ini unik, custom dan memang sudah disesuaikan dengan bisnisnya
+104	Menjadikan mobil ini unik, custom dan memang sudah disesuaikan dengan bisnisnya
+105	Menjadikan mobil ini unik, custom dan memang sudah disesuaikan dengan bisnisnya
+106	Menjadikan mobil ini unik, custom dan memang sudah disesuaikan dengan bisnisnya
+107	Menjadikan mobil ini unik, custom dan memang sudah disesuaikan dengan bisnisnya
+108	Menjadikan mobil ini unik, custom dan memang sudah disesuaikan dengan bisnisnya
+109	Menjadikan mobil ini unik, custom dan memang sudah disesuaikan dengan bisnisnya
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	[NO_SPEECH]
+113	[NO_SPEECH]
+114	[NO_SPEECH]
+115	[NO_SPEECH]
+116	Setelah melihat semua ide bisnis, akhirnya kami menemukan pemenangnya
+117	Setelah melihat semua ide bisnis, akhirnya kami menemukan pemenangnya
+118	Setelah melihat semua ide bisnis, akhirnya kami menemukan pemenangnya
+119	Setelah melihat semua ide bisnis, akhirnya kami menemukan pemenangnya
+120	Setelah melihat semua ide bisnis, akhirnya kami menemukan pemenangnya
+121	Setelah melihat semua ide bisnis, akhirnya kami menemukan pemenangnya
+122	Setelah melihat semua ide bisnis, akhirnya kami menemukan pemenangnya
+123	Setelah melihat semua ide bisnis, akhirnya kami menemukan pemenangnya
+124	Setelah melihat semua ide bisnis, akhirnya kami menemukan pemenangnya
+125	Setelah melihat semua ide bisnis, akhirnya kami menemukan pemenangnya
+126	Setelah melihat semua ide bisnis, akhirnya kami menemukan pemenangnya
+127	Setelah melihat semua ide bisnis, akhirnya kami menemukan pemenangnya
+128	Setelah melihat semua ide bisnis, akhirnya kami menemukan pemenangnya Siapakah top 3 move your hustle?
+129	Setelah melihat semua ide bisnis, akhirnya kami menemukan pemenangnya Siapakah top 3 move your hustle?
+130	Siapakah top 3 move your hustle?
+131	Siapakah top 3 move your hustle?
+132	Siapakah top 3 move your hustle?
+133	Siapakah top 3 move your hustle?
+134	Siapakah top 3 move your hustle?
+135	Siapakah top 3 move your hustle?
+136	Siapakah top 3 move your hustle?
+137	Siapakah top 3 move your hustle?
+138	Tunggu pengumumannya di 31 Juli pada saat Gias 2025
+139	Tunggu pengumumannya di 31 Juli pada saat Gias 2025
+140	Tunggu pengumumannya di 31 Juli pada saat Gias 2025
+141	Tunggu pengumumannya di 31 Juli pada saat Gias 2025
+142	Tunggu pengumumannya di 31 Juli pada saat Gias 2025
+143	Tunggu pengumumannya di 31 Juli pada saat Gias 2025
+144	Tunggu pengumumannya di 31 Juli pada saat Gias 2025
+145	Tunggu pengumumannya di 31 Juli pada saat Gias 2025
+146	Tunggu pengumumannya di 31 Juli pada saat Gias 2025
+147	Tunggu pengumumannya di 31 Juli pada saat Gias 2025
+148	Tunggu pengumumannya di 31 Juli pada saat Gias 2025
+149	[NO_SPEECH]
+150	[NO_SPEECH]
+151	[NO_SPEECH]
+152	[NO_SPEECH]
+153	[NO_SPEECH]
+154	[NO_SPEECH]
+155	[NO_SPEECH]
+156	[NO_SPEECH]
+157	[NO_SPEECH]
+158	[NO_SPEECH]
+159	[NO_SPEECH]

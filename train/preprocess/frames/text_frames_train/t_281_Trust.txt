@@ -1,0 +1,225 @@
+0	Dan pastinya memilih skincare yang tepat buat aku itu penting banget.
+1	Dan pastinya memilih skincare yang tepat buat aku itu penting banget.
+2	Dan pastinya memilih skincare yang tepat buat aku itu penting banget.
+3	Dan pastinya memilih skincare yang tepat buat aku itu penting banget.
+4	Dan pastinya memilih skincare yang tepat buat aku itu penting banget.
+5	Dan pastinya memilih skincare yang tepat buat aku itu penting banget.
+6	Dan pastinya memilih skincare yang tepat buat aku itu penting banget.
+7	Dan pastinya memilih skincare yang tepat buat aku itu penting banget.
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	Kalau malam hari aku lagi suka pakai yang retinal serumnya Wardah.
+17	Kalau malam hari aku lagi suka pakai yang retinal serumnya Wardah.
+18	Kalau malam hari aku lagi suka pakai yang retinal serumnya Wardah.
+19	Kalau malam hari aku lagi suka pakai yang retinal serumnya Wardah.
+20	Kalau malam hari aku lagi suka pakai yang retinal serumnya Wardah.
+21	Kalau malam hari aku lagi suka pakai yang retinal serumnya Wardah.
+22	Kalau malam hari aku lagi suka pakai yang retinal serumnya Wardah.
+23	Kalau malam hari aku lagi suka pakai yang retinal serumnya Wardah.
+24	Kalau malam hari aku lagi suka pakai yang retinal serumnya Wardah. It's really good, dia kayak meregenerasi kulit aku, jadi teksturnya tuh jadi lebih smooth, jadi lebih glowing.
+25	Kalau malam hari aku lagi suka pakai yang retinal serumnya Wardah. It's really good, dia kayak meregenerasi kulit aku, jadi teksturnya tuh jadi lebih smooth, jadi lebih glowing.
+26	It's really good, dia kayak meregenerasi kulit aku, jadi teksturnya tuh jadi lebih smooth, jadi lebih glowing.
+27	It's really good, dia kayak meregenerasi kulit aku, jadi teksturnya tuh jadi lebih smooth, jadi lebih glowing.
+28	It's really good, dia kayak meregenerasi kulit aku, jadi teksturnya tuh jadi lebih smooth, jadi lebih glowing.
+29	It's really good, dia kayak meregenerasi kulit aku, jadi teksturnya tuh jadi lebih smooth, jadi lebih glowing.
+30	It's really good, dia kayak meregenerasi kulit aku, jadi teksturnya tuh jadi lebih smooth, jadi lebih glowing.
+31	It's really good, dia kayak meregenerasi kulit aku, jadi teksturnya tuh jadi lebih smooth, jadi lebih glowing.
+32	It's really good, dia kayak meregenerasi kulit aku, jadi teksturnya tuh jadi lebih smooth, jadi lebih glowing.
+33	It's really good, dia kayak meregenerasi kulit aku, jadi teksturnya tuh jadi lebih smooth, jadi lebih glowing.
+34	It's really good, dia kayak meregenerasi kulit aku, jadi teksturnya tuh jadi lebih smooth, jadi lebih glowing.
+35	It's really good, dia kayak meregenerasi kulit aku, jadi teksturnya tuh jadi lebih smooth, jadi lebih glowing.
+36	It's really good, dia kayak meregenerasi kulit aku, jadi teksturnya tuh jadi lebih smooth, jadi lebih glowing.
+37	It's really good, dia kayak meregenerasi kulit aku, jadi teksturnya tuh jadi lebih smooth, jadi lebih glowing.
+38	It's really good, dia kayak meregenerasi kulit aku, jadi teksturnya tuh jadi lebih smooth, jadi lebih glowing. Aplikasi skincare di wajah akan lebih maksimal ketika kita melakukan face sculpting.
+39	Aplikasi skincare di wajah akan lebih maksimal ketika kita melakukan face sculpting.
+40	Aplikasi skincare di wajah akan lebih maksimal ketika kita melakukan face sculpting.
+41	Aplikasi skincare di wajah akan lebih maksimal ketika kita melakukan face sculpting.
+42	Aplikasi skincare di wajah akan lebih maksimal ketika kita melakukan face sculpting.
+43	Aplikasi skincare di wajah akan lebih maksimal ketika kita melakukan face sculpting.
+44	Aplikasi skincare di wajah akan lebih maksimal ketika kita melakukan face sculpting.
+45	Aplikasi skincare di wajah akan lebih maksimal ketika kita melakukan face sculpting.
+46	Aplikasi skincare di wajah akan lebih maksimal ketika kita melakukan face sculpting.
+47	Aplikasi skincare di wajah akan lebih maksimal ketika kita melakukan face sculpting.
+48	Aplikasi skincare di wajah akan lebih maksimal ketika kita melakukan face sculpting.
+49	Aplikasi skincare di wajah akan lebih maksimal ketika kita melakukan face sculpting. Jadi ketika penggabungan antara skincare dan face sculpting itu akan menjadikan kecantikan dari luar dan dalam.
+50	Aplikasi skincare di wajah akan lebih maksimal ketika kita melakukan face sculpting. Jadi ketika penggabungan antara skincare dan face sculpting itu akan menjadikan kecantikan dari luar dan dalam.
+51	Jadi ketika penggabungan antara skincare dan face sculpting itu akan menjadikan kecantikan dari luar dan dalam.
+52	Jadi ketika penggabungan antara skincare dan face sculpting itu akan menjadikan kecantikan dari luar dan dalam.
+53	Jadi ketika penggabungan antara skincare dan face sculpting itu akan menjadikan kecantikan dari luar dan dalam.
+54	Jadi ketika penggabungan antara skincare dan face sculpting itu akan menjadikan kecantikan dari luar dan dalam.
+55	Jadi ketika penggabungan antara skincare dan face sculpting itu akan menjadikan kecantikan dari luar dan dalam.
+56	Jadi ketika penggabungan antara skincare dan face sculpting itu akan menjadikan kecantikan dari luar dan dalam.
+57	Jadi ketika penggabungan antara skincare dan face sculpting itu akan menjadikan kecantikan dari luar dan dalam.
+58	Jadi ketika penggabungan antara skincare dan face sculpting itu akan menjadikan kecantikan dari luar dan dalam.
+59	Jadi ketika penggabungan antara skincare dan face sculpting itu akan menjadikan kecantikan dari luar dan dalam.
+60	Jadi ketika penggabungan antara skincare dan face sculpting itu akan menjadikan kecantikan dari luar dan dalam.
+61	Jadi ketika penggabungan antara skincare dan face sculpting itu akan menjadikan kecantikan dari luar dan dalam.
+62	Jadi ketika penggabungan antara skincare dan face sculpting itu akan menjadikan kecantikan dari luar dan dalam.
+63	Jadi ketika penggabungan antara skincare dan face sculpting itu akan menjadikan kecantikan dari luar dan dalam.
+64	Jadi ketika penggabungan antara skincare dan face sculpting itu akan menjadikan kecantikan dari luar dan dalam.
+65	Jadi ketika penggabungan antara skincare dan face sculpting itu akan menjadikan kecantikan dari luar dan dalam.
+66	Jadi ketika penggabungan antara skincare dan face sculpting itu akan menjadikan kecantikan dari luar dan dalam.
+67	Jadi ketika penggabungan antara skincare dan face sculpting itu akan menjadikan kecantikan dari luar dan dalam. I think it makes sense that the muscles beneath your skin are what keeping your skin looking tight, looking lifted.
+68	I think it makes sense that the muscles beneath your skin are what keeping your skin looking tight, looking lifted.
+69	I think it makes sense that the muscles beneath your skin are what keeping your skin looking tight, looking lifted.
+70	I think it makes sense that the muscles beneath your skin are what keeping your skin looking tight, looking lifted.
+71	I think it makes sense that the muscles beneath your skin are what keeping your skin looking tight, looking lifted.
+72	I think it makes sense that the muscles beneath your skin are what keeping your skin looking tight, looking lifted.
+73	I think it makes sense that the muscles beneath your skin are what keeping your skin looking tight, looking lifted.
+74	I think it makes sense that the muscles beneath your skin are what keeping your skin looking tight, looking lifted.
+75	I think it makes sense that the muscles beneath your skin are what keeping your skin looking tight, looking lifted.
+76	I think it makes sense that the muscles beneath your skin are what keeping your skin looking tight, looking lifted.
+77	I think it makes sense that the muscles beneath your skin are what keeping your skin looking tight, looking lifted.
+78	I think it makes sense that the muscles beneath your skin are what keeping your skin looking tight, looking lifted.
+79	I think it makes sense that the muscles beneath your skin are what keeping your skin looking tight, looking lifted.
+80	I think it makes sense that the muscles beneath your skin are what keeping your skin looking tight, looking lifted. So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+81	I think it makes sense that the muscles beneath your skin are what keeping your skin looking tight, looking lifted. So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+82	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+83	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+84	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+85	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+86	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+87	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+88	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+89	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+90	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+91	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+92	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+93	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+94	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+95	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+96	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+97	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+98	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+99	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+100	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+101	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+102	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face.
+103	So the more that you keep those muscles engaged, it's about kind of managing that whole ecosystem in combination with skincare that gets the maximum benefits of skincare for your face. Dan seneng banget Wardah mengadakan acara seperti ini.
+104	Dan seneng banget Wardah mengadakan acara seperti ini.
+105	Dan seneng banget Wardah mengadakan acara seperti ini.
+106	Dan seneng banget Wardah mengadakan acara seperti ini.
+107	Dan seneng banget Wardah mengadakan acara seperti ini.
+108	Dan seneng banget Wardah mengadakan acara seperti ini.
+109	Dan seneng banget Wardah mengadakan acara seperti ini. Skinverse Clinic karena banyak sekali teknologi dan juga AI tools yang bisa kita gunakan.
+110	Dan seneng banget Wardah mengadakan acara seperti ini. Skinverse Clinic karena banyak sekali teknologi dan juga AI tools yang bisa kita gunakan.
+111	Skinverse Clinic karena banyak sekali teknologi dan juga AI tools yang bisa kita gunakan.
+112	Skinverse Clinic karena banyak sekali teknologi dan juga AI tools yang bisa kita gunakan.
+113	Skinverse Clinic karena banyak sekali teknologi dan juga AI tools yang bisa kita gunakan.
+114	Skinverse Clinic karena banyak sekali teknologi dan juga AI tools yang bisa kita gunakan.
+115	Skinverse Clinic karena banyak sekali teknologi dan juga AI tools yang bisa kita gunakan.
+116	Skinverse Clinic karena banyak sekali teknologi dan juga AI tools yang bisa kita gunakan.
+117	Skinverse Clinic karena banyak sekali teknologi dan juga AI tools yang bisa kita gunakan.
+118	Skinverse Clinic karena banyak sekali teknologi dan juga AI tools yang bisa kita gunakan.
+119	Skinverse Clinic karena banyak sekali teknologi dan juga AI tools yang bisa kita gunakan. Dan pastinya memilih skincare yang tepat buat aku itu penting banget.
+120	Skinverse Clinic karena banyak sekali teknologi dan juga AI tools yang bisa kita gunakan. Dan pastinya memilih skincare yang tepat buat aku itu penting banget.
+121	Dan pastinya memilih skincare yang tepat buat aku itu penting banget.
+122	Dan pastinya memilih skincare yang tepat buat aku itu penting banget.
+123	Dan pastinya memilih skincare yang tepat buat aku itu penting banget.
+124	Dan pastinya memilih skincare yang tepat buat aku itu penting banget.
+125	Dan pastinya memilih skincare yang tepat buat aku itu penting banget.
+126	Dan pastinya memilih skincare yang tepat buat aku itu penting banget.
+127	Dan pastinya memilih skincare yang tepat buat aku itu penting banget. Hi, aku Amanda Rawls dan sekarang aku lagi ada di Wardah Skinverse Clinic di kota Casablanca.
+128	Dan pastinya memilih skincare yang tepat buat aku itu penting banget. Hi, aku Amanda Rawls dan sekarang aku lagi ada di Wardah Skinverse Clinic di kota Casablanca.
+129	Hi, aku Amanda Rawls dan sekarang aku lagi ada di Wardah Skinverse Clinic di kota Casablanca.
+130	Hi, aku Amanda Rawls dan sekarang aku lagi ada di Wardah Skinverse Clinic di kota Casablanca.
+131	Hi, aku Amanda Rawls dan sekarang aku lagi ada di Wardah Skinverse Clinic di kota Casablanca.
+132	Hi, aku Amanda Rawls dan sekarang aku lagi ada di Wardah Skinverse Clinic di kota Casablanca.
+133	Hi, aku Amanda Rawls dan sekarang aku lagi ada di Wardah Skinverse Clinic di kota Casablanca.
+134	Hi, aku Amanda Rawls dan sekarang aku lagi ada di Wardah Skinverse Clinic di kota Casablanca.
+135	Hi, aku Amanda Rawls dan sekarang aku lagi ada di Wardah Skinverse Clinic di kota Casablanca.
+136	Hi, aku Amanda Rawls dan sekarang aku lagi ada di Wardah Skinverse Clinic di kota Casablanca.
+137	Hi, aku Amanda Rawls dan sekarang aku lagi ada di Wardah Skinverse Clinic di kota Casablanca.
+138	Hi, aku Amanda Rawls dan sekarang aku lagi ada di Wardah Skinverse Clinic di kota Casablanca. Tadi sempat ngobrol bareng di dalam, ngomongin tentang aging gracefully dan menarik banget.
+139	Tadi sempat ngobrol bareng di dalam, ngomongin tentang aging gracefully dan menarik banget.
+140	Tadi sempat ngobrol bareng di dalam, ngomongin tentang aging gracefully dan menarik banget.
+141	Tadi sempat ngobrol bareng di dalam, ngomongin tentang aging gracefully dan menarik banget.
+142	Tadi sempat ngobrol bareng di dalam, ngomongin tentang aging gracefully dan menarik banget.
+143	Tadi sempat ngobrol bareng di dalam, ngomongin tentang aging gracefully dan menarik banget.
+144	Tadi sempat ngobrol bareng di dalam, ngomongin tentang aging gracefully dan menarik banget.
+145	Tadi sempat ngobrol bareng di dalam, ngomongin tentang aging gracefully dan menarik banget.
+146	Tadi sempat ngobrol bareng di dalam, ngomongin tentang aging gracefully dan menarik banget.
+147	Tadi sempat ngobrol bareng di dalam, ngomongin tentang aging gracefully dan menarik banget.
+148	Tadi sempat ngobrol bareng di dalam, ngomongin tentang aging gracefully dan menarik banget.
+149	Tadi sempat ngobrol bareng di dalam, ngomongin tentang aging gracefully dan menarik banget. Karena tadi sempat dibahas bahwa aging is a privilege.
+150	Tadi sempat ngobrol bareng di dalam, ngomongin tentang aging gracefully dan menarik banget. Karena tadi sempat dibahas bahwa aging is a privilege.
+151	Karena tadi sempat dibahas bahwa aging is a privilege.
+152	Karena tadi sempat dibahas bahwa aging is a privilege.
+153	Karena tadi sempat dibahas bahwa aging is a privilege.
+154	Karena tadi sempat dibahas bahwa aging is a privilege.
+155	Karena tadi sempat dibahas bahwa aging is a privilege.
+156	Karena tadi sempat dibahas bahwa aging is a privilege. Jadi seharusnya kita tidak takut untuk menua.
+157	Karena tadi sempat dibahas bahwa aging is a privilege. Jadi seharusnya kita tidak takut untuk menua.
+158	Jadi seharusnya kita tidak takut untuk menua.
+159	Jadi seharusnya kita tidak takut untuk menua.
+160	Jadi seharusnya kita tidak takut untuk menua.
+161	Jadi seharusnya kita tidak takut untuk menua.
+162	Jadi seharusnya kita tidak takut untuk menua.
+163	Jadi seharusnya kita tidak takut untuk menua. Dan banyak cara yang bisa kita lakuin.
+164	Dan banyak cara yang bisa kita lakuin.
+165	Dan banyak cara yang bisa kita lakuin.
+166	Dan banyak cara yang bisa kita lakuin. Salah satunya adalah mengenal.
+167	Dan banyak cara yang bisa kita lakuin. Salah satunya adalah mengenal.
+168	Salah satunya adalah mengenal.
+169	Salah satunya adalah mengenal. Jadi kita bisa melakukan skincare yang lebih dalam.
+170	Salah satunya adalah mengenal. Jadi kita bisa melakukan skincare yang lebih dalam.
+171	Jadi kita bisa melakukan skincare yang lebih dalam. Tadi sempat ngebahas soal facial yoga sculpting.
+172	Jadi kita bisa melakukan skincare yang lebih dalam. Tadi sempat ngebahas soal facial yoga sculpting.
+173	Tadi sempat ngebahas soal facial yoga sculpting.
+174	Tadi sempat ngebahas soal facial yoga sculpting.
+175	Tadi sempat ngebahas soal facial yoga sculpting.
+176	Tadi sempat ngebahas soal facial yoga sculpting.
+177	Tadi sempat ngebahas soal facial yoga sculpting.
+178	Tadi sempat ngebahas soal facial yoga sculpting. Dan juga bisa dapat personalized skincare products di sini.
+179	Tadi sempat ngebahas soal facial yoga sculpting. Dan juga bisa dapat personalized skincare products di sini.
+180	Dan juga bisa dapat personalized skincare products di sini.
+181	Dan juga bisa dapat personalized skincare products di sini.
+182	Dan juga bisa dapat personalized skincare products di sini.
+183	Dan juga bisa dapat personalized skincare products di sini.
+184	Dan juga bisa dapat personalized skincare products di sini.
+185	Dan juga bisa dapat personalized skincare products di sini. Dan pastinya merawat kulit kita bukan hanya dari luar, bukan hanya dari skincare products atau misalnya tools.
+186	Dan juga bisa dapat personalized skincare products di sini. Dan pastinya merawat kulit kita bukan hanya dari luar, bukan hanya dari skincare products atau misalnya tools.
+187	Dan pastinya merawat kulit kita bukan hanya dari luar, bukan hanya dari skincare products atau misalnya tools.
+188	Dan pastinya merawat kulit kita bukan hanya dari luar, bukan hanya dari skincare products atau misalnya tools.
+189	Dan pastinya merawat kulit kita bukan hanya dari luar, bukan hanya dari skincare products atau misalnya tools.
+190	Dan pastinya merawat kulit kita bukan hanya dari luar, bukan hanya dari skincare products atau misalnya tools.
+191	Dan pastinya merawat kulit kita bukan hanya dari luar, bukan hanya dari skincare products atau misalnya tools.
+192	Dan pastinya merawat kulit kita bukan hanya dari luar, bukan hanya dari skincare products atau misalnya tools.
+193	Dan pastinya merawat kulit kita bukan hanya dari luar, bukan hanya dari skincare products atau misalnya tools.
+194	Dan pastinya merawat kulit kita bukan hanya dari luar, bukan hanya dari skincare products atau misalnya tools.
+195	Dan pastinya merawat kulit kita bukan hanya dari luar, bukan hanya dari skincare products atau misalnya tools.
+196	Dan pastinya merawat kulit kita bukan hanya dari luar, bukan hanya dari skincare products atau misalnya tools.
+197	Dan pastinya merawat kulit kita bukan hanya dari luar, bukan hanya dari skincare products atau misalnya tools.
+198	Dan pastinya merawat kulit kita bukan hanya dari luar, bukan hanya dari skincare products atau misalnya tools. Tapi juga dari dalam.
+199	Tapi juga dari dalam.
+200	Tapi juga dari dalam. So it's really interesting.
+201	Tapi juga dari dalam. So it's really interesting.
+202	So it's really interesting.
+203	So it's really interesting.
+204	[NO_SPEECH]
+205	[NO_SPEECH]
+206	[NO_SPEECH]
+207	[NO_SPEECH]
+208	[NO_SPEECH]
+209	[NO_SPEECH]
+210	[NO_SPEECH]
+211	[NO_SPEECH]
+212	[NO_SPEECH]
+213	[NO_SPEECH]
+214	[NO_SPEECH]
+215	[NO_SPEECH]
+216	[NO_SPEECH]
+217	[NO_SPEECH]
+218	[NO_SPEECH]
+219	[NO_SPEECH]
+220	[NO_SPEECH]
+221	[NO_SPEECH]
+222	[NO_SPEECH]
+223	[NO_SPEECH]
+224	[NO_SPEECH]

@@ -1,0 +1,166 @@
+0	Sekilas tampilannya mulus, usia yang juga muda, dan ngakunya pernah terabas banjir sedikit.
+1	Sekilas tampilannya mulus, usia yang juga muda, dan ngakunya pernah terabas banjir sedikit.
+2	Sekilas tampilannya mulus, usia yang juga muda, dan ngakunya pernah terabas banjir sedikit.
+3	Sekilas tampilannya mulus, usia yang juga muda, dan ngakunya pernah terabas banjir sedikit.
+4	Sekilas tampilannya mulus, usia yang juga muda, dan ngakunya pernah terabas banjir sedikit.
+5	Sekilas tampilannya mulus, usia yang juga muda, dan ngakunya pernah terabas banjir sedikit.
+6	Sekilas tampilannya mulus, usia yang juga muda, dan ngakunya pernah terabas banjir sedikit.
+7	Sekilas tampilannya mulus, usia yang juga muda, dan ngakunya pernah terabas banjir sedikit.
+8	Sekilas tampilannya mulus, usia yang juga muda, dan ngakunya pernah terabas banjir sedikit.
+9	Sekilas tampilannya mulus, usia yang juga muda, dan ngakunya pernah terabas banjir sedikit. Kalau nemu Xenia yang kayak gini, kira-kira bakal dibeli atau enggak nih?
+10	Kalau nemu Xenia yang kayak gini, kira-kira bakal dibeli atau enggak nih?
+11	Kalau nemu Xenia yang kayak gini, kira-kira bakal dibeli atau enggak nih?
+12	Kalau nemu Xenia yang kayak gini, kira-kira bakal dibeli atau enggak nih?
+13	Kalau nemu Xenia yang kayak gini, kira-kira bakal dibeli atau enggak nih?
+14	Kalau nemu Xenia yang kayak gini, kira-kira bakal dibeli atau enggak nih?
+15	Kalau nemu Xenia yang kayak gini, kira-kira bakal dibeli atau enggak nih?
+16	Kalau nemu Xenia yang kayak gini, kira-kira bakal dibeli atau enggak nih? Temuan pertama, ternyata Xenia ini aslinya berplat E Cirebon.
+17	Temuan pertama, ternyata Xenia ini aslinya berplat E Cirebon.
+18	Temuan pertama, ternyata Xenia ini aslinya berplat E Cirebon.
+19	Temuan pertama, ternyata Xenia ini aslinya berplat E Cirebon.
+20	Temuan pertama, ternyata Xenia ini aslinya berplat E Cirebon.
+21	Temuan pertama, ternyata Xenia ini aslinya berplat E Cirebon.
+22	Temuan pertama, ternyata Xenia ini aslinya berplat E Cirebon.
+23	Temuan pertama, ternyata Xenia ini aslinya berplat E Cirebon. Tapi tim kita nemunya jauh banget di Mataram NTB.
+24	Temuan pertama, ternyata Xenia ini aslinya berplat E Cirebon. Tapi tim kita nemunya jauh banget di Mataram NTB.
+25	Tapi tim kita nemunya jauh banget di Mataram NTB.
+26	Tapi tim kita nemunya jauh banget di Mataram NTB.
+27	Tapi tim kita nemunya jauh banget di Mataram NTB.
+28	Tapi tim kita nemunya jauh banget di Mataram NTB.
+29	Tapi tim kita nemunya jauh banget di Mataram NTB.
+30	Tapi tim kita nemunya jauh banget di Mataram NTB. Pindahnya sih jauh, tapi ternyata masalahnya ikut juga.
+31	Tapi tim kita nemunya jauh banget di Mataram NTB. Pindahnya sih jauh, tapi ternyata masalahnya ikut juga.
+32	Pindahnya sih jauh, tapi ternyata masalahnya ikut juga.
+33	Pindahnya sih jauh, tapi ternyata masalahnya ikut juga.
+34	Pindahnya sih jauh, tapi ternyata masalahnya ikut juga.
+35	Pindahnya sih jauh, tapi ternyata masalahnya ikut juga.
+36	Pindahnya sih jauh, tapi ternyata masalahnya ikut juga. Begitu dicek lebih dalam, astaga!
+37	Begitu dicek lebih dalam, astaga!
+38	Begitu dicek lebih dalam, astaga!
+39	Begitu dicek lebih dalam, astaga!
+40	Begitu dicek lebih dalam, astaga!
+41	Begitu dicek lebih dalam, astaga! Kolong setir dan bawah jog depan udah diserang karat parah.
+42	Kolong setir dan bawah jog depan udah diserang karat parah.
+43	Kolong setir dan bawah jog depan udah diserang karat parah.
+44	Kolong setir dan bawah jog depan udah diserang karat parah.
+45	Kolong setir dan bawah jog depan udah diserang karat parah.
+46	Kolong setir dan bawah jog depan udah diserang karat parah. Ini tanda-tanda klasik mobil yang pernah nyemplung ke banjir.
+47	Kolong setir dan bawah jog depan udah diserang karat parah. Ini tanda-tanda klasik mobil yang pernah nyemplung ke banjir.
+48	Ini tanda-tanda klasik mobil yang pernah nyemplung ke banjir.
+49	Ini tanda-tanda klasik mobil yang pernah nyemplung ke banjir.
+50	Ini tanda-tanda klasik mobil yang pernah nyemplung ke banjir.
+51	Ini tanda-tanda klasik mobil yang pernah nyemplung ke banjir.
+52	Ini tanda-tanda klasik mobil yang pernah nyemplung ke banjir. Lanjut ke baris tengah, bracket jog full karat.
+53	Ini tanda-tanda klasik mobil yang pernah nyemplung ke banjir. Lanjut ke baris tengah, bracket jog full karat.
+54	Lanjut ke baris tengah, bracket jog full karat.
+55	Lanjut ke baris tengah, bracket jog full karat.
+56	Lanjut ke baris tengah, bracket jog full karat.
+57	Lanjut ke baris tengah, bracket jog full karat.
+58	Lanjut ke baris tengah, bracket jog full karat. Lantai dasar juga gak kalah serem.
+59	Lanjut ke baris tengah, bracket jog full karat. Lantai dasar juga gak kalah serem.
+60	Lantai dasar juga gak kalah serem.
+61	Lantai dasar juga gak kalah serem.
+62	Lantai dasar juga gak kalah serem. Kotor, lembab, dan masih tercium bau khas sisa air yang pernah masuk kabin.
+63	Lantai dasar juga gak kalah serem. Kotor, lembab, dan masih tercium bau khas sisa air yang pernah masuk kabin.
+64	Kotor, lembab, dan masih tercium bau khas sisa air yang pernah masuk kabin.
+65	Kotor, lembab, dan masih tercium bau khas sisa air yang pernah masuk kabin.
+66	Kotor, lembab, dan masih tercium bau khas sisa air yang pernah masuk kabin.
+67	Kotor, lembab, dan masih tercium bau khas sisa air yang pernah masuk kabin.
+68	Kotor, lembab, dan masih tercium bau khas sisa air yang pernah masuk kabin.
+69	Kotor, lembab, dan masih tercium bau khas sisa air yang pernah masuk kabin.
+70	Kotor, lembab, dan masih tercium bau khas sisa air yang pernah masuk kabin. Dan ini yang paling nyesek, area bagasi.
+71	Kotor, lembab, dan masih tercium bau khas sisa air yang pernah masuk kabin. Dan ini yang paling nyesek, area bagasi.
+72	Dan ini yang paling nyesek, area bagasi.
+73	Dan ini yang paling nyesek, area bagasi.
+74	Dan ini yang paling nyesek, area bagasi.
+75	Dan ini yang paling nyesek, area bagasi. Karatnya makin jadi, dan sisa-sisa air masih nangkring manis di pojokan.
+76	Dan ini yang paling nyesek, area bagasi. Karatnya makin jadi, dan sisa-sisa air masih nangkring manis di pojokan.
+77	Karatnya makin jadi, dan sisa-sisa air masih nangkring manis di pojokan.
+78	Karatnya makin jadi, dan sisa-sisa air masih nangkring manis di pojokan.
+79	Karatnya makin jadi, dan sisa-sisa air masih nangkring manis di pojokan.
+80	Karatnya makin jadi, dan sisa-sisa air masih nangkring manis di pojokan.
+81	Karatnya makin jadi, dan sisa-sisa air masih nangkring manis di pojokan.
+82	Karatnya makin jadi, dan sisa-sisa air masih nangkring manis di pojokan.
+83	Karatnya makin jadi, dan sisa-sisa air masih nangkring manis di pojokan. Bener-bener kenangan banjir yang gak bisa dilupakan.
+84	Karatnya makin jadi, dan sisa-sisa air masih nangkring manis di pojokan. Bener-bener kenangan banjir yang gak bisa dilupakan.
+85	Bener-bener kenangan banjir yang gak bisa dilupakan.
+86	Bener-bener kenangan banjir yang gak bisa dilupakan.
+87	Bener-bener kenangan banjir yang gak bisa dilupakan.
+88	Bener-bener kenangan banjir yang gak bisa dilupakan. Jadi, meskipun mobil ini masih muda, catatan kondisinya lumayan berat.
+89	Bener-bener kenangan banjir yang gak bisa dilupakan. Jadi, meskipun mobil ini masih muda, catatan kondisinya lumayan berat.
+90	Jadi, meskipun mobil ini masih muda, catatan kondisinya lumayan berat.
+91	Jadi, meskipun mobil ini masih muda, catatan kondisinya lumayan berat.
+92	Jadi, meskipun mobil ini masih muda, catatan kondisinya lumayan berat.
+93	Jadi, meskipun mobil ini masih muda, catatan kondisinya lumayan berat.
+94	Jadi, meskipun mobil ini masih muda, catatan kondisinya lumayan berat.
+95	Jadi, meskipun mobil ini masih muda, catatan kondisinya lumayan berat. Buat kamu yang lagi cari mobil bekas, jangan cuma liat bodi luar, pastikan dicek total luar dalam.
+96	Jadi, meskipun mobil ini masih muda, catatan kondisinya lumayan berat. Buat kamu yang lagi cari mobil bekas, jangan cuma liat bodi luar, pastikan dicek total luar dalam.
+97	Buat kamu yang lagi cari mobil bekas, jangan cuma liat bodi luar, pastikan dicek total luar dalam.
+98	Buat kamu yang lagi cari mobil bekas, jangan cuma liat bodi luar, pastikan dicek total luar dalam.
+99	Buat kamu yang lagi cari mobil bekas, jangan cuma liat bodi luar, pastikan dicek total luar dalam.
+100	Buat kamu yang lagi cari mobil bekas, jangan cuma liat bodi luar, pastikan dicek total luar dalam.
+101	Buat kamu yang lagi cari mobil bekas, jangan cuma liat bodi luar, pastikan dicek total luar dalam.
+102	Buat kamu yang lagi cari mobil bekas, jangan cuma liat bodi luar, pastikan dicek total luar dalam.
+103	Buat kamu yang lagi cari mobil bekas, jangan cuma liat bodi luar, pastikan dicek total luar dalam.
+104	Buat kamu yang lagi cari mobil bekas, jangan cuma liat bodi luar, pastikan dicek total luar dalam.
+105	Buat kamu yang lagi cari mobil bekas, jangan cuma liat bodi luar, pastikan dicek total luar dalam. Biar gak beli kucing dalam karung.
+106	Buat kamu yang lagi cari mobil bekas, jangan cuma liat bodi luar, pastikan dicek total luar dalam. Biar gak beli kucing dalam karung.
+107	Biar gak beli kucing dalam karung.
+108	Biar gak beli kucing dalam karung.
+109	Biar gak beli kucing dalam karung.
+110	Biar gak beli kucing dalam karung. Kejadian kayak gini tuh sering banget kejadian.
+111	Kejadian kayak gini tuh sering banget kejadian.
+112	Kejadian kayak gini tuh sering banget kejadian.
+113	Kejadian kayak gini tuh sering banget kejadian.
+114	Kejadian kayak gini tuh sering banget kejadian. Supaya aman, panggil aja timo inspeksi.
+115	Kejadian kayak gini tuh sering banget kejadian. Supaya aman, panggil aja timo inspeksi.
+116	Supaya aman, panggil aja timo inspeksi.
+117	Supaya aman, panggil aja timo inspeksi.
+118	Supaya aman, panggil aja timo inspeksi. Cukup dengan Rp150.000 untuk inspeksi menyeluruh, plus laporan lengkap dan konsultasi.
+119	Supaya aman, panggil aja timo inspeksi. Cukup dengan Rp150.000 untuk inspeksi menyeluruh, plus laporan lengkap dan konsultasi.
+120	Cukup dengan Rp150.000 untuk inspeksi menyeluruh, plus laporan lengkap dan konsultasi.
+121	Cukup dengan Rp150.000 untuk inspeksi menyeluruh, plus laporan lengkap dan konsultasi.
+122	Cukup dengan Rp150.000 untuk inspeksi menyeluruh, plus laporan lengkap dan konsultasi.
+123	Cukup dengan Rp150.000 untuk inspeksi menyeluruh, plus laporan lengkap dan konsultasi.
+124	Cukup dengan Rp150.000 untuk inspeksi menyeluruh, plus laporan lengkap dan konsultasi.
+125	Cukup dengan Rp150.000 untuk inspeksi menyeluruh, plus laporan lengkap dan konsultasi.
+126	Cukup dengan Rp150.000 untuk inspeksi menyeluruh, plus laporan lengkap dan konsultasi.
+127	Cukup dengan Rp150.000 untuk inspeksi menyeluruh, plus laporan lengkap dan konsultasi.
+128	Cukup dengan Rp150.000 untuk inspeksi menyeluruh, plus laporan lengkap dan konsultasi.
+129	Cukup dengan Rp150.000 untuk inspeksi menyeluruh, plus laporan lengkap dan konsultasi. Mau lebih detail, tambah Rp50.000 aja buat dapetin laporan kondisi sistem elektrikal dari OBD.
+130	Cukup dengan Rp150.000 untuk inspeksi menyeluruh, plus laporan lengkap dan konsultasi. Mau lebih detail, tambah Rp50.000 aja buat dapetin laporan kondisi sistem elektrikal dari OBD.
+131	Mau lebih detail, tambah Rp50.000 aja buat dapetin laporan kondisi sistem elektrikal dari OBD.
+132	Mau lebih detail, tambah Rp50.000 aja buat dapetin laporan kondisi sistem elektrikal dari OBD.
+133	Mau lebih detail, tambah Rp50.000 aja buat dapetin laporan kondisi sistem elektrikal dari OBD.
+134	Mau lebih detail, tambah Rp50.000 aja buat dapetin laporan kondisi sistem elektrikal dari OBD.
+135	Mau lebih detail, tambah Rp50.000 aja buat dapetin laporan kondisi sistem elektrikal dari OBD.
+136	Mau lebih detail, tambah Rp50.000 aja buat dapetin laporan kondisi sistem elektrikal dari OBD.
+137	Mau lebih detail, tambah Rp50.000 aja buat dapetin laporan kondisi sistem elektrikal dari OBD.
+138	Mau lebih detail, tambah Rp50.000 aja buat dapetin laporan kondisi sistem elektrikal dari OBD.
+139	Mau lebih detail, tambah Rp50.000 aja buat dapetin laporan kondisi sistem elektrikal dari OBD.
+140	Mau lebih detail, tambah Rp50.000 aja buat dapetin laporan kondisi sistem elektrikal dari OBD. Langsung aja hubungi mau inspeksi dengan klik link di bio Instagram untuk informasi lebih lanjut ya.
+141	Mau lebih detail, tambah Rp50.000 aja buat dapetin laporan kondisi sistem elektrikal dari OBD. Langsung aja hubungi mau inspeksi dengan klik link di bio Instagram untuk informasi lebih lanjut ya.
+142	Langsung aja hubungi mau inspeksi dengan klik link di bio Instagram untuk informasi lebih lanjut ya.
+143	Langsung aja hubungi mau inspeksi dengan klik link di bio Instagram untuk informasi lebih lanjut ya.
+144	Langsung aja hubungi mau inspeksi dengan klik link di bio Instagram untuk informasi lebih lanjut ya.
+145	Langsung aja hubungi mau inspeksi dengan klik link di bio Instagram untuk informasi lebih lanjut ya.
+146	Langsung aja hubungi mau inspeksi dengan klik link di bio Instagram untuk informasi lebih lanjut ya.
+147	Langsung aja hubungi mau inspeksi dengan klik link di bio Instagram untuk informasi lebih lanjut ya.
+148	Langsung aja hubungi mau inspeksi dengan klik link di bio Instagram untuk informasi lebih lanjut ya.
+149	Langsung aja hubungi mau inspeksi dengan klik link di bio Instagram untuk informasi lebih lanjut ya.
+150	Langsung aja hubungi mau inspeksi dengan klik link di bio Instagram untuk informasi lebih lanjut ya. Atau tinggal pilih mobil bekas yang udah lolos inspeksi dari dealer-dealer terverifikasi di website Moladin.
+151	Atau tinggal pilih mobil bekas yang udah lolos inspeksi dari dealer-dealer terverifikasi di website Moladin.
+152	Atau tinggal pilih mobil bekas yang udah lolos inspeksi dari dealer-dealer terverifikasi di website Moladin.
+153	Atau tinggal pilih mobil bekas yang udah lolos inspeksi dari dealer-dealer terverifikasi di website Moladin.
+154	Atau tinggal pilih mobil bekas yang udah lolos inspeksi dari dealer-dealer terverifikasi di website Moladin.
+155	Atau tinggal pilih mobil bekas yang udah lolos inspeksi dari dealer-dealer terverifikasi di website Moladin.
+156	Atau tinggal pilih mobil bekas yang udah lolos inspeksi dari dealer-dealer terverifikasi di website Moladin.
+157	Atau tinggal pilih mobil bekas yang udah lolos inspeksi dari dealer-dealer terverifikasi di website Moladin.
+158	Atau tinggal pilih mobil bekas yang udah lolos inspeksi dari dealer-dealer terverifikasi di website Moladin.
+159	Atau tinggal pilih mobil bekas yang udah lolos inspeksi dari dealer-dealer terverifikasi di website Moladin.
+160	Atau tinggal pilih mobil bekas yang udah lolos inspeksi dari dealer-dealer terverifikasi di website Moladin.
+161	Atau tinggal pilih mobil bekas yang udah lolos inspeksi dari dealer-dealer terverifikasi di website Moladin. Dijamin aman.
+162	Atau tinggal pilih mobil bekas yang udah lolos inspeksi dari dealer-dealer terverifikasi di website Moladin. Dijamin aman.
+163	Dijamin aman.
+164	[NO_SPEECH]
+165	[NO_SPEECH]

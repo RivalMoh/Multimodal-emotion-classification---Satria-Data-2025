@@ -1,0 +1,144 @@
+0	Orang selalu bicara kalau pasar saham jatuh.
+1	Orang selalu bicara kalau pasar saham jatuh.
+2	Orang selalu bicara kalau pasar saham jatuh.
+3	Orang selalu bicara kalau pasar saham jatuh.
+4	Orang selalu bicara kalau pasar saham jatuh.
+5	Orang selalu bicara kalau pasar saham jatuh.
+6	Orang selalu bicara kalau pasar saham jatuh.
+7	Kalau pasar saham naik, orang diem.
+8	Kalau pasar saham naik, orang diem.
+9	Kalau pasar saham naik, orang diem.
+10	Kalau pasar saham naik, orang diem.
+11	Kalau pasar saham naik, orang diem.
+12	Kalau pasar saham naik, orang diem.
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	Iya kan?
+16	Iya kan? Waktu sempat, beberapa hari lalu kan turun.
+17	Iya kan? Waktu sempat, beberapa hari lalu kan turun.
+18	Waktu sempat, beberapa hari lalu kan turun.
+19	Waktu sempat, beberapa hari lalu kan turun.
+20	Waktu sempat, beberapa hari lalu kan turun.
+21	Waktu sempat, beberapa hari lalu kan turun.
+22	Waktu sempat, beberapa hari lalu kan turun.
+23	Waktu sempat, beberapa hari lalu kan turun. Wow, wow, wow.
+24	Wow, wow, wow.
+25	Wow, wow, wow.
+26	[NO_SPEECH]
+27	Ekonomi Indonesia kacau, gelap, robo, gagal, blablabla.
+28	Ekonomi Indonesia kacau, gelap, robo, gagal, blablabla.
+29	Ekonomi Indonesia kacau, gelap, robo, gagal, blablabla.
+30	Ekonomi Indonesia kacau, gelap, robo, gagal, blablabla.
+31	Ekonomi Indonesia kacau, gelap, robo, gagal, blablabla.
+32	Ekonomi Indonesia kacau, gelap, robo, gagal, blablabla.
+33	Ekonomi Indonesia kacau, gelap, robo, gagal, blablabla.
+34	Ekonomi Indonesia kacau, gelap, robo, gagal, blablabla.
+35	Ekonomi Indonesia kacau, gelap, robo, gagal, blablabla. Begitu beberapa hari naik lagi, diem.
+36	Begitu beberapa hari naik lagi, diem.
+37	Begitu beberapa hari naik lagi, diem.
+38	Begitu beberapa hari naik lagi, diem. Gak ada yang komentar.
+39	Begitu beberapa hari naik lagi, diem. Gak ada yang komentar.
+40	Gak ada yang komentar.
+41	Gak ada yang komentar.
+42	Sekarang pasar saham di Amerika turun.
+43	Sekarang pasar saham di Amerika turun.
+44	Sekarang pasar saham di Amerika turun.
+45	Sekarang pasar saham di Amerika turun.
+46	Sekarang pasar saham di Amerika turun.
+47	Sekarang pasar saham di Amerika turun.
+48	Sekarang pasar saham di Amerika turun.
+49	Sekarang pasar saham di Amerika turun.
+50	Sekarang pasar saham di Amerika turun.
+51	Sekarang pasar saham di Amerika turun.
+52	Sekarang pasar saham di Amerika turun.
+53	Sekarang pasar saham di Amerika turun. Jauh sekali.
+54	Jauh sekali. Tapi pandangannya Trump, oh enggak.
+55	Jauh sekali. Tapi pandangannya Trump, oh enggak.
+56	Tapi pandangannya Trump, oh enggak.
+57	Tapi pandangannya Trump, oh enggak.
+58	Tapi pandangannya Trump, oh enggak.
+59	Tapi pandangannya Trump, oh enggak.
+60	Tapi pandangannya Trump, oh enggak.
+61	Tapi pandangannya Trump, oh enggak.
+62	Tapi pandangannya Trump, oh enggak.
+63	Tapi pandangannya Trump, oh enggak. Ini iya, tapi pada saatnya akan naik lagi.
+64	Ini iya, tapi pada saatnya akan naik lagi.
+65	Ini iya, tapi pada saatnya akan naik lagi.
+66	Ini iya, tapi pada saatnya akan naik lagi.
+67	Ini iya, tapi pada saatnya akan naik lagi.
+68	Ini iya, tapi pada saatnya akan naik lagi. Karena dia melakukan hal-hal yang dia anggap memperkuat ekonomi Amerika.
+69	Karena dia melakukan hal-hal yang dia anggap memperkuat ekonomi Amerika.
+70	Karena dia melakukan hal-hal yang dia anggap memperkuat ekonomi Amerika.
+71	Karena dia melakukan hal-hal yang dia anggap memperkuat ekonomi Amerika.
+72	Karena dia melakukan hal-hal yang dia anggap memperkuat ekonomi Amerika.
+73	Karena dia melakukan hal-hal yang dia anggap memperkuat ekonomi Amerika.
+74	Karena dia melakukan hal-hal yang dia anggap memperkuat ekonomi Amerika.
+75	Karena dia melakukan hal-hal yang dia anggap memperkuat ekonomi Amerika.
+76	Karena dia melakukan hal-hal yang dia anggap memperkuat ekonomi Amerika.
+77	Karena dia melakukan hal-hal yang dia anggap memperkuat ekonomi Amerika.
+78	Karena dia melakukan hal-hal yang dia anggap memperkuat ekonomi Amerika.
+79	Karena dia melakukan hal-hal yang dia anggap memperkuat ekonomi Amerika.
+80	Karena dia melakukan hal-hal yang dia anggap memperkuat ekonomi Amerika.
+81	Ini jawaban saya soal pasar modal.
+82	Ini jawaban saya soal pasar modal.
+83	Ini jawaban saya soal pasar modal.
+84	Ini jawaban saya soal pasar modal.
+85	Ini jawaban saya soal pasar modal. Jadi makanya saya itu gak terlalu takut sama pasar modal.
+86	Jadi makanya saya itu gak terlalu takut sama pasar modal.
+87	Jadi makanya saya itu gak terlalu takut sama pasar modal.
+88	Jadi makanya saya itu gak terlalu takut sama pasar modal.
+89	Jadi makanya saya itu gak terlalu takut sama pasar modal.
+90	Jadi makanya saya itu gak terlalu takut sama pasar modal.
+91	Jadi makanya saya itu gak terlalu takut sama pasar modal.
+92	Jadi makanya saya itu gak terlalu takut sama pasar modal.
+93	Jadi makanya saya itu gak terlalu takut sama pasar modal.
+94	Jadi makanya saya itu gak terlalu takut sama pasar modal.
+95	Jadi makanya saya itu gak terlalu takut sama pasar modal.
+96	Jadi makanya saya itu gak terlalu takut sama pasar modal.
+97	Jadi makanya saya itu gak terlalu takut sama pasar modal.
+98	Jadi makanya saya itu gak terlalu takut sama pasar modal.
+99	[NO_SPEECH]
+100	Karena Indonesia punya kekuatan.
+101	Karena Indonesia punya kekuatan.
+102	Karena Indonesia punya kekuatan.
+103	Karena Indonesia punya kekuatan.
+104	Karena Indonesia punya kekuatan.
+105	Karena Indonesia punya kekuatan. Yang kita sadar, kita jangan punya rancangan.
+106	Karena Indonesia punya kekuatan. Yang kita sadar, kita jangan punya rancangan.
+107	Yang kita sadar, kita jangan punya rancangan.
+108	Yang kita sadar, kita jangan punya rancangan.
+109	Yang kita sadar, kita jangan punya rancangan.
+110	Yang kita sadar, kita jangan punya rancangan.
+111	Yang kita sadar, kita jangan punya rancangan.
+112	Yang kita sadar, kita jangan punya rancangan.
+113	Yang kita sadar, kita jangan punya rancangan.
+114	Yang kita sadar, kita jangan punya rancangan. Kita rasa rendah diri.
+115	Yang kita sadar, kita jangan punya rancangan. Kita rasa rendah diri.
+116	Kita rasa rendah diri.
+117	Kita rasa rendah diri.
+118	[NO_SPEECH]
+119	[NO_SPEECH]
+120	Kita kayaknya diprogram.
+121	Kita kayaknya diprogram.
+122	Kita kayaknya diprogram.
+123	Kita kayaknya diprogram.
+124	[NO_SPEECH]
+125	Bangsa kita, elit kita juga.
+126	Bangsa kita, elit kita juga.
+127	Bangsa kita, elit kita juga. Bahwa kita ini lemah, kita kalah, kita ini dijajah, kita ini...
+128	Bangsa kita, elit kita juga. Bahwa kita ini lemah, kita kalah, kita ini dijajah, kita ini...
+129	Bahwa kita ini lemah, kita kalah, kita ini dijajah, kita ini...
+130	Bahwa kita ini lemah, kita kalah, kita ini dijajah, kita ini...
+131	Bahwa kita ini lemah, kita kalah, kita ini dijajah, kita ini...
+132	Bahwa kita ini lemah, kita kalah, kita ini dijajah, kita ini...
+133	Bahwa kita ini lemah, kita kalah, kita ini dijajah, kita ini...
+134	Bahwa kita ini lemah, kita kalah, kita ini dijajah, kita ini...
+135	Bahwa kita ini lemah, kita kalah, kita ini dijajah, kita ini...
+136	Bahwa kita ini lemah, kita kalah, kita ini dijajah, kita ini... Ini hebat, hebat, hebat.
+137	Bahwa kita ini lemah, kita kalah, kita ini dijajah, kita ini... Ini hebat, hebat, hebat.
+138	Ini hebat, hebat, hebat.
+139	Ini hebat, hebat, hebat.
+140	Ini hebat, hebat, hebat.
+141	Ini hebat, hebat, hebat.
+142	[NO_SPEECH]
+143	[NO_SPEECH]

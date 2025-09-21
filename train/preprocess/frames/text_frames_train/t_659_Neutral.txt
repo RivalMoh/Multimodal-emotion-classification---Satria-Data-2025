@@ -1,0 +1,127 @@
+0	Banyak yang bilang kalau nggak mual berarti nggak hamil.
+1	Banyak yang bilang kalau nggak mual berarti nggak hamil.
+2	Banyak yang bilang kalau nggak mual berarti nggak hamil.
+3	Banyak yang bilang kalau nggak mual berarti nggak hamil.
+4	Banyak yang bilang kalau nggak mual berarti nggak hamil. Bener nggak sih?
+5	Bener nggak sih?
+6	Bener nggak sih?
+7	Bener nggak sih?
+8	Awas, ternyata cuma mitos belaka lho, moms.
+9	Awas, ternyata cuma mitos belaka lho, moms.
+10	Awas, ternyata cuma mitos belaka lho, moms.
+11	Awas, ternyata cuma mitos belaka lho, moms.
+12	Awas, ternyata cuma mitos belaka lho, moms.
+13	Awas, ternyata cuma mitos belaka lho, moms.
+14	Awas, ternyata cuma mitos belaka lho, moms. Emang sih, sekitar 70-80% ibu mengalami morning sickness pada awal kehamilan.
+15	Emang sih, sekitar 70-80% ibu mengalami morning sickness pada awal kehamilan.
+16	Emang sih, sekitar 70-80% ibu mengalami morning sickness pada awal kehamilan.
+17	Emang sih, sekitar 70-80% ibu mengalami morning sickness pada awal kehamilan.
+18	Emang sih, sekitar 70-80% ibu mengalami morning sickness pada awal kehamilan.
+19	Emang sih, sekitar 70-80% ibu mengalami morning sickness pada awal kehamilan.
+20	Emang sih, sekitar 70-80% ibu mengalami morning sickness pada awal kehamilan.
+21	Emang sih, sekitar 70-80% ibu mengalami morning sickness pada awal kehamilan.
+22	Emang sih, sekitar 70-80% ibu mengalami morning sickness pada awal kehamilan.
+23	Emang sih, sekitar 70-80% ibu mengalami morning sickness pada awal kehamilan.
+24	Emang sih, sekitar 70-80% ibu mengalami morning sickness pada awal kehamilan.
+25	Emang sih, sekitar 70-80% ibu mengalami morning sickness pada awal kehamilan.
+26	Emang sih, sekitar 70-80% ibu mengalami morning sickness pada awal kehamilan.
+27	Emang sih, sekitar 70-80% ibu mengalami morning sickness pada awal kehamilan. Namun, nggak mual sama sekali bukan berarti nggak hamil ya, moms.
+28	Namun, nggak mual sama sekali bukan berarti nggak hamil ya, moms.
+29	Namun, nggak mual sama sekali bukan berarti nggak hamil ya, moms.
+30	Namun, nggak mual sama sekali bukan berarti nggak hamil ya, moms.
+31	Namun, nggak mual sama sekali bukan berarti nggak hamil ya, moms.
+32	Namun, nggak mual sama sekali bukan berarti nggak hamil ya, moms.
+33	Namun, nggak mual sama sekali bukan berarti nggak hamil ya, moms.
+34	Namun, nggak mual sama sekali bukan berarti nggak hamil ya, moms.
+35	Namun, nggak mual sama sekali bukan berarti nggak hamil ya, moms. Hamil tanpa mual itu normal lho.
+36	Hamil tanpa mual itu normal lho.
+37	Hamil tanpa mual itu normal lho.
+38	Hamil tanpa mual itu normal lho.
+39	Hamil tanpa mual itu normal lho.
+40	Hamil tanpa mual itu normal lho. Perlu moms ketahui perubahan kadar hormon HCG,
+41	Hamil tanpa mual itu normal lho. Perlu moms ketahui perubahan kadar hormon HCG,
+42	Perlu moms ketahui perubahan kadar hormon HCG,
+43	Perlu moms ketahui perubahan kadar hormon HCG,
+44	Perlu moms ketahui perubahan kadar hormon HCG,
+45	Perlu moms ketahui perubahan kadar hormon HCG, yaitu hormon yang memicu mual, bisa berbeda-beda pada setiap kehamilan.
+46	Perlu moms ketahui perubahan kadar hormon HCG, yaitu hormon yang memicu mual, bisa berbeda-beda pada setiap kehamilan.
+47	yaitu hormon yang memicu mual, bisa berbeda-beda pada setiap kehamilan.
+48	yaitu hormon yang memicu mual, bisa berbeda-beda pada setiap kehamilan.
+49	yaitu hormon yang memicu mual, bisa berbeda-beda pada setiap kehamilan.
+50	yaitu hormon yang memicu mual, bisa berbeda-beda pada setiap kehamilan.
+51	yaitu hormon yang memicu mual, bisa berbeda-beda pada setiap kehamilan.
+52	yaitu hormon yang memicu mual, bisa berbeda-beda pada setiap kehamilan.
+53	yaitu hormon yang memicu mual, bisa berbeda-beda pada setiap kehamilan. Berdasarkan studi, kesehatan,
+54	Berdasarkan studi, kesehatan,
+55	Berdasarkan studi, kesehatan,
+56	Berdasarkan studi, kesehatan,
+57	Berdasarkan studi, kesehatan, kadar HCG yang lebih tinggi umumnya ditemukan pada ibu hamil yang mengalami mual dan muntah lebih parah.
+58	Berdasarkan studi, kesehatan, kadar HCG yang lebih tinggi umumnya ditemukan pada ibu hamil yang mengalami mual dan muntah lebih parah.
+59	kadar HCG yang lebih tinggi umumnya ditemukan pada ibu hamil yang mengalami mual dan muntah lebih parah.
+60	kadar HCG yang lebih tinggi umumnya ditemukan pada ibu hamil yang mengalami mual dan muntah lebih parah.
+61	kadar HCG yang lebih tinggi umumnya ditemukan pada ibu hamil yang mengalami mual dan muntah lebih parah.
+62	kadar HCG yang lebih tinggi umumnya ditemukan pada ibu hamil yang mengalami mual dan muntah lebih parah.
+63	kadar HCG yang lebih tinggi umumnya ditemukan pada ibu hamil yang mengalami mual dan muntah lebih parah.
+64	kadar HCG yang lebih tinggi umumnya ditemukan pada ibu hamil yang mengalami mual dan muntah lebih parah.
+65	kadar HCG yang lebih tinggi umumnya ditemukan pada ibu hamil yang mengalami mual dan muntah lebih parah.
+66	kadar HCG yang lebih tinggi umumnya ditemukan pada ibu hamil yang mengalami mual dan muntah lebih parah.
+67	kadar HCG yang lebih tinggi umumnya ditemukan pada ibu hamil yang mengalami mual dan muntah lebih parah.
+68	kadar HCG yang lebih tinggi umumnya ditemukan pada ibu hamil yang mengalami mual dan muntah lebih parah. Dan sebaliknya, ibu hamil yang nggak mengalami mual dan muntah
+69	Dan sebaliknya, ibu hamil yang nggak mengalami mual dan muntah
+70	Dan sebaliknya, ibu hamil yang nggak mengalami mual dan muntah
+71	Dan sebaliknya, ibu hamil yang nggak mengalami mual dan muntah
+72	Dan sebaliknya, ibu hamil yang nggak mengalami mual dan muntah
+73	Dan sebaliknya, ibu hamil yang nggak mengalami mual dan muntah
+74	Dan sebaliknya, ibu hamil yang nggak mengalami mual dan muntah
+75	Dan sebaliknya, ibu hamil yang nggak mengalami mual dan muntah justru cenderung memiliki peningkatan kadar HCG yang lebih rendah.
+76	Dan sebaliknya, ibu hamil yang nggak mengalami mual dan muntah justru cenderung memiliki peningkatan kadar HCG yang lebih rendah.
+77	justru cenderung memiliki peningkatan kadar HCG yang lebih rendah.
+78	justru cenderung memiliki peningkatan kadar HCG yang lebih rendah.
+79	justru cenderung memiliki peningkatan kadar HCG yang lebih rendah.
+80	justru cenderung memiliki peningkatan kadar HCG yang lebih rendah.
+81	justru cenderung memiliki peningkatan kadar HCG yang lebih rendah.
+82	justru cenderung memiliki peningkatan kadar HCG yang lebih rendah.
+83	justru cenderung memiliki peningkatan kadar HCG yang lebih rendah. Selain dari mual, moms bisa kok melihat tanda kehamilan lain
+84	Selain dari mual, moms bisa kok melihat tanda kehamilan lain
+85	Selain dari mual, moms bisa kok melihat tanda kehamilan lain
+86	Selain dari mual, moms bisa kok melihat tanda kehamilan lain
+87	Selain dari mual, moms bisa kok melihat tanda kehamilan lain
+88	Selain dari mual, moms bisa kok melihat tanda kehamilan lain
+89	Selain dari mual, moms bisa kok melihat tanda kehamilan lain
+90	Selain dari mual, moms bisa kok melihat tanda kehamilan lain seperti telat haib, gampang lelah, sakit kepala, dan sering buang air kecil.
+91	Selain dari mual, moms bisa kok melihat tanda kehamilan lain seperti telat haib, gampang lelah, sakit kepala, dan sering buang air kecil.
+92	seperti telat haib, gampang lelah, sakit kepala, dan sering buang air kecil.
+93	seperti telat haib, gampang lelah, sakit kepala, dan sering buang air kecil.
+94	seperti telat haib, gampang lelah, sakit kepala, dan sering buang air kecil.
+95	seperti telat haib, gampang lelah, sakit kepala, dan sering buang air kecil.
+96	seperti telat haib, gampang lelah, sakit kepala, dan sering buang air kecil.
+97	seperti telat haib, gampang lelah, sakit kepala, dan sering buang air kecil.
+98	seperti telat haib, gampang lelah, sakit kepala, dan sering buang air kecil.
+99	seperti telat haib, gampang lelah, sakit kepala, dan sering buang air kecil.
+100	seperti telat haib, gampang lelah, sakit kepala, dan sering buang air kecil. Nah, kalau masih ragu kenapa bisa nggak mual saat hamil,
+101	Nah, kalau masih ragu kenapa bisa nggak mual saat hamil,
+102	Nah, kalau masih ragu kenapa bisa nggak mual saat hamil,
+103	Nah, kalau masih ragu kenapa bisa nggak mual saat hamil,
+104	Nah, kalau masih ragu kenapa bisa nggak mual saat hamil,
+105	Nah, kalau masih ragu kenapa bisa nggak mual saat hamil, coba konsultasikan ke dokter aja ya, moms.
+106	Nah, kalau masih ragu kenapa bisa nggak mual saat hamil, coba konsultasikan ke dokter aja ya, moms.
+107	coba konsultasikan ke dokter aja ya, moms.
+108	coba konsultasikan ke dokter aja ya, moms.
+109	coba konsultasikan ke dokter aja ya, moms.
+110	coba konsultasikan ke dokter aja ya, moms. Yuk, klik follow dan save video ini
+111	Yuk, klik follow dan save video ini
+112	Yuk, klik follow dan save video ini
+113	Yuk, klik follow dan save video ini
+114	Yuk, klik follow dan save video ini biar moms nggak ketinggalan informasi.
+115	Yuk, klik follow dan save video ini biar moms nggak ketinggalan informasi.
+116	biar moms nggak ketinggalan informasi.
+117	biar moms nggak ketinggalan informasi.
+118	biar moms nggak ketinggalan informasi.
+119	[NO_SPEECH]
+120	[NO_SPEECH]
+121	[NO_SPEECH]
+122	[NO_SPEECH]
+123	Terima kasih.
+124	Terima kasih.
+125	Terima kasih.
+126	Terima kasih.

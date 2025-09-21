@@ -1,0 +1,93 @@
+0	Gimana caranya punya motivasi buat workout?
+1	Gimana caranya punya motivasi buat workout?
+2	Gimana caranya punya motivasi buat workout?
+3	Gimana caranya punya motivasi buat workout?
+4	Gimana caranya punya motivasi buat workout? Sebenernya kalian tuh gak butuh motivasi
+5	Sebenernya kalian tuh gak butuh motivasi
+6	Sebenernya kalian tuh gak butuh motivasi
+7	Sebenernya kalian tuh gak butuh motivasi Kalian cuma butuh ganti baju olahraga gini
+8	Sebenernya kalian tuh gak butuh motivasi Kalian cuma butuh ganti baju olahraga gini
+9	Kalian cuma butuh ganti baju olahraga gini
+10	Kalian cuma butuh ganti baju olahraga gini
+11	Kalian cuma butuh ganti baju olahraga gini Abis itu kalian pemanasan
+12	Kalian cuma butuh ganti baju olahraga gini Abis itu kalian pemanasan
+13	Abis itu kalian pemanasan
+14	Abis itu kalian pemanasan Ya 3-5 menit lah
+15	Abis itu kalian pemanasan Ya 3-5 menit lah
+16	Ya 3-5 menit lah Abis itu udah
+17	Ya 3-5 menit lah Abis itu udah
+18	Abis itu udah Lakuin apapun lah
+19	Abis itu udah Lakuin apapun lah
+20	Lakuin apapun lah Misalkan
+21	Lakuin apapun lah Misalkan
+22	Misalkan Push up
+23	Misalkan Push up
+24	Push up
+25	Atau
+26	Atau Squat
+27	Atau Squat
+28	Squat
+29	Squat
+30	Atau kalian modal handphone
+31	Atau kalian modal handphone
+32	Atau kalian modal handphone
+33	Atau kalian modal handphone Terus cari di Youtube
+34	Atau kalian modal handphone Terus cari di Youtube
+35	Terus cari di Youtube
+36	Terus cari di Youtube Simple workout in 5 minutes
+37	Terus cari di Youtube Simple workout in 5 minutes
+38	Terus cari di Youtube Simple workout in 5 minutes
+39	Simple workout in 5 minutes
+40	Simple workout in 5 minutes Udah kontek aja tuh videonya di Youtube
+41	Simple workout in 5 minutes Udah kontek aja tuh videonya di Youtube
+42	Udah kontek aja tuh videonya di Youtube
+43	Udah kontek aja tuh videonya di Youtube
+44	Udah kontek aja tuh videonya di Youtube Yang penting kalian mulai bergerak dan mulai olahraga
+45	Udah kontek aja tuh videonya di Youtube Yang penting kalian mulai bergerak dan mulai olahraga
+46	Yang penting kalian mulai bergerak dan mulai olahraga
+47	Yang penting kalian mulai bergerak dan mulai olahraga
+48	Yang penting kalian mulai bergerak dan mulai olahraga
+49	Yang penting kalian mulai bergerak dan mulai olahraga
+50	Yang penting kalian mulai bergerak dan mulai olahraga Bang apa bisa nanti badannya berubah kalo misalnya ngelakuin hal-hal kayak gitu?
+51	Yang penting kalian mulai bergerak dan mulai olahraga Bang apa bisa nanti badannya berubah kalo misalnya ngelakuin hal-hal kayak gitu?
+52	Bang apa bisa nanti badannya berubah kalo misalnya ngelakuin hal-hal kayak gitu?
+53	Bang apa bisa nanti badannya berubah kalo misalnya ngelakuin hal-hal kayak gitu?
+54	Bang apa bisa nanti badannya berubah kalo misalnya ngelakuin hal-hal kayak gitu?
+55	Bang apa bisa nanti badannya berubah kalo misalnya ngelakuin hal-hal kayak gitu?
+56	Bang apa bisa nanti badannya berubah kalo misalnya ngelakuin hal-hal kayak gitu?
+57	Bang apa bisa nanti badannya berubah kalo misalnya ngelakuin hal-hal kayak gitu? Ya belum
+58	Bang apa bisa nanti badannya berubah kalo misalnya ngelakuin hal-hal kayak gitu? Ya belum Tapi itu tuh bagus banget buat ngebentuk habit kalian dari 0 jadi 1
+59	Ya belum Tapi itu tuh bagus banget buat ngebentuk habit kalian dari 0 jadi 1
+60	Tapi itu tuh bagus banget buat ngebentuk habit kalian dari 0 jadi 1
+61	Tapi itu tuh bagus banget buat ngebentuk habit kalian dari 0 jadi 1
+62	Tapi itu tuh bagus banget buat ngebentuk habit kalian dari 0 jadi 1
+63	Tapi itu tuh bagus banget buat ngebentuk habit kalian dari 0 jadi 1
+64	Tapi itu tuh bagus banget buat ngebentuk habit kalian dari 0 jadi 1
+65	Tapi itu tuh bagus banget buat ngebentuk habit kalian dari 0 jadi 1
+66	Tapi itu tuh bagus banget buat ngebentuk habit kalian dari 0 jadi 1 Nanti kalo kalian udah 1
+67	Tapi itu tuh bagus banget buat ngebentuk habit kalian dari 0 jadi 1 Nanti kalo kalian udah 1
+68	Nanti kalo kalian udah 1 Mulai tuh naik ke 2, 3, 4
+69	Nanti kalo kalian udah 1 Mulai tuh naik ke 2, 3, 4
+70	Mulai tuh naik ke 2, 3, 4
+71	Mulai tuh naik ke 2, 3, 4
+72	Mulai tuh naik ke 2, 3, 4 Dengan mau upgrade workoutnya
+73	Mulai tuh naik ke 2, 3, 4 Dengan mau upgrade workoutnya
+74	Dengan mau upgrade workoutnya
+75	Dengan mau upgrade workoutnya Nah pokoknya sebelum mikir terlalu jauh
+76	Dengan mau upgrade workoutnya Nah pokoknya sebelum mikir terlalu jauh
+77	Dengan mau upgrade workoutnya Nah pokoknya sebelum mikir terlalu jauh
+78	Nah pokoknya sebelum mikir terlalu jauh
+79	Nah pokoknya sebelum mikir terlalu jauh Buat upgrade workoutnya udah mulai dulu aja
+80	Nah pokoknya sebelum mikir terlalu jauh Buat upgrade workoutnya udah mulai dulu aja
+81	Buat upgrade workoutnya udah mulai dulu aja
+82	Buat upgrade workoutnya udah mulai dulu aja Oke?
+83	Buat upgrade workoutnya udah mulai dulu aja Oke?
+84	Oke? Share video ini kalo bermanfaat
+85	Oke? Share video ini kalo bermanfaat
+86	Share video ini kalo bermanfaat Tetap semangat dan
+87	Share video ini kalo bermanfaat Tetap semangat dan
+88	Tetap semangat dan Stay hard!
+89	Tetap semangat dan Stay hard!
+90	Stay hard! Wuhuu!
+91	Stay hard! Wuhuu!
+92	Wuhuu!

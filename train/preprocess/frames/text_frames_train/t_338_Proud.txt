@@ -1,0 +1,51 @@
+0	Lakuin pemanasan ini biar kaki kalian gak cedera.
+1	Lakuin pemanasan ini biar kaki kalian gak cedera.
+2	Lakuin pemanasan ini biar kaki kalian gak cedera.
+3	Lakuin pemanasan ini biar kaki kalian gak cedera.
+4	Lakuin pemanasan ini biar kaki kalian gak cedera.
+5	Lakuin pemanasan ini biar kaki kalian gak cedera. Pertama, kalian bisa loncat-loncat kecil, lalu teku kaki ke depan dan luruskan ke belakang.
+6	Pertama, kalian bisa loncat-loncat kecil, lalu teku kaki ke depan dan luruskan ke belakang.
+7	Pertama, kalian bisa loncat-loncat kecil, lalu teku kaki ke depan dan luruskan ke belakang.
+8	Pertama, kalian bisa loncat-loncat kecil, lalu teku kaki ke depan dan luruskan ke belakang.
+9	Pertama, kalian bisa loncat-loncat kecil, lalu teku kaki ke depan dan luruskan ke belakang.
+10	Pertama, kalian bisa loncat-loncat kecil, lalu teku kaki ke depan dan luruskan ke belakang.
+11	Pertama, kalian bisa loncat-loncat kecil, lalu teku kaki ke depan dan luruskan ke belakang.
+12	Pertama, kalian bisa loncat-loncat kecil, lalu teku kaki ke depan dan luruskan ke belakang.
+13	Pertama, kalian bisa loncat-loncat kecil, lalu teku kaki ke depan dan luruskan ke belakang.
+14	Pertama, kalian bisa loncat-loncat kecil, lalu teku kaki ke depan dan luruskan ke belakang.
+15	Pertama, kalian bisa loncat-loncat kecil, lalu teku kaki ke depan dan luruskan ke belakang.
+16	Kedua, kalian bisa lari-lari kecil dan lari menyamping seperti ini ya.
+17	Kedua, kalian bisa lari-lari kecil dan lari menyamping seperti ini ya.
+18	Kedua, kalian bisa lari-lari kecil dan lari menyamping seperti ini ya.
+19	Kedua, kalian bisa lari-lari kecil dan lari menyamping seperti ini ya.
+20	Kedua, kalian bisa lari-lari kecil dan lari menyamping seperti ini ya.
+21	Kedua, kalian bisa lari-lari kecil dan lari menyamping seperti ini ya.
+22	Kedua, kalian bisa lari-lari kecil dan lari menyamping seperti ini ya.
+23	Kedua, kalian bisa lari-lari kecil dan lari menyamping seperti ini ya. Lalu putar-putar kaki seperti ini.
+24	Kedua, kalian bisa lari-lari kecil dan lari menyamping seperti ini ya. Lalu putar-putar kaki seperti ini.
+25	Lalu putar-putar kaki seperti ini.
+26	Lalu putar-putar kaki seperti ini.
+27	Lalu putar-putar kaki seperti ini. Kemudian kalian juga bisa lakukan gerakan shadow racket seperti ini.
+28	Lalu putar-putar kaki seperti ini. Kemudian kalian juga bisa lakukan gerakan shadow racket seperti ini.
+29	Kemudian kalian juga bisa lakukan gerakan shadow racket seperti ini.
+30	Kemudian kalian juga bisa lakukan gerakan shadow racket seperti ini.
+31	Kemudian kalian juga bisa lakukan gerakan shadow racket seperti ini.
+32	Kemudian kalian juga bisa lakukan gerakan shadow racket seperti ini.
+33	Kemudian kalian juga bisa lakukan gerakan shadow racket seperti ini.
+34	Kemudian kalian juga bisa lakukan gerakan shadow racket seperti ini. Gimana? Udah siap cobain di lapangan? Jangan lupa follow ya.
+35	Gimana? Udah siap cobain di lapangan? Jangan lupa follow ya.
+36	Gimana? Udah siap cobain di lapangan? Jangan lupa follow ya.
+37	Gimana? Udah siap cobain di lapangan? Jangan lupa follow ya.
+38	Gimana? Udah siap cobain di lapangan? Jangan lupa follow ya.
+39	Gimana? Udah siap cobain di lapangan? Jangan lupa follow ya.
+40	Gimana? Udah siap cobain di lapangan? Jangan lupa follow ya.
+41	Gimana? Udah siap cobain di lapangan? Jangan lupa follow ya.
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]

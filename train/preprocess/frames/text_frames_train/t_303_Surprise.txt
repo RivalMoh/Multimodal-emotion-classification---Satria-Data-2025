@@ -1,0 +1,118 @@
+0	Kamu main tembak-tembakan kalau terus,
+1	Kamu main tembak-tembakan kalau terus,
+2	Kamu main tembak-tembakan kalau terus,
+3	Kamu main tembak-tembakan kalau terus, terasa mual-mual juga.
+4	terasa mual-mual juga.
+5	terasa mual-mual juga.
+6	terasa mual-mual juga. Jangan-jangan salah monitor kamu tuh yang udah butut hertznya.
+7	terasa mual-mual juga. Jangan-jangan salah monitor kamu tuh yang udah butut hertznya.
+8	Jangan-jangan salah monitor kamu tuh yang udah butut hertznya.
+9	Jangan-jangan salah monitor kamu tuh yang udah butut hertznya.
+10	Jangan-jangan salah monitor kamu tuh yang udah butut hertznya.
+11	Jangan-jangan salah monitor kamu tuh yang udah butut hertznya.
+12	Jangan-jangan salah monitor kamu tuh yang udah butut hertznya.
+13	Jangan-jangan salah monitor kamu tuh yang udah butut hertznya. 60, 75 atau 100 hertz ya?
+14	Jangan-jangan salah monitor kamu tuh yang udah butut hertznya. 60, 75 atau 100 hertz ya?
+15	60, 75 atau 100 hertz ya?
+16	60, 75 atau 100 hertz ya?
+17	60, 75 atau 100 hertz ya?
+18	60, 75 atau 100 hertz ya?
+19	60, 75 atau 100 hertz ya? Hertz gitu bikin gambarnya ngeblur,
+20	Hertz gitu bikin gambarnya ngeblur,
+21	Hertz gitu bikin gambarnya ngeblur,
+22	Hertz gitu bikin gambarnya ngeblur,
+23	Hertz gitu bikin gambarnya ngeblur, susah diikutin sama mata.
+24	Hertz gitu bikin gambarnya ngeblur, susah diikutin sama mata.
+25	susah diikutin sama mata.
+26	susah diikutin sama mata. Ujung-ujungnya kamu jadi mual deh.
+27	susah diikutin sama mata. Ujung-ujungnya kamu jadi mual deh.
+28	Ujung-ujungnya kamu jadi mual deh.
+29	Ujung-ujungnya kamu jadi mual deh.
+30	Ujung-ujungnya kamu jadi mual deh.
+31	Ujung-ujungnya kamu jadi mual deh.
+32	Ujung-ujungnya kamu jadi mual deh. Makanya, pastiin di 2024 sampai 2025 ini,
+33	Makanya, pastiin di 2024 sampai 2025 ini,
+34	Makanya, pastiin di 2024 sampai 2025 ini,
+35	Makanya, pastiin di 2024 sampai 2025 ini,
+36	Makanya, pastiin di 2024 sampai 2025 ini,
+37	Makanya, pastiin di 2024 sampai 2025 ini,
+38	Makanya, pastiin di 2024 sampai 2025 ini,
+39	Makanya, pastiin di 2024 sampai 2025 ini,
+40	Makanya, pastiin di 2024 sampai 2025 ini, kamu update monitor kamu ke minimal 180 hertz.
+41	Makanya, pastiin di 2024 sampai 2025 ini, kamu update monitor kamu ke minimal 180 hertz.
+42	kamu update monitor kamu ke minimal 180 hertz.
+43	kamu update monitor kamu ke minimal 180 hertz.
+44	kamu update monitor kamu ke minimal 180 hertz.
+45	kamu update monitor kamu ke minimal 180 hertz.
+46	kamu update monitor kamu ke minimal 180 hertz.
+47	kamu update monitor kamu ke minimal 180 hertz. Buat dapetin pengalaman game yang lebih asik,
+48	kamu update monitor kamu ke minimal 180 hertz. Buat dapetin pengalaman game yang lebih asik,
+49	Buat dapetin pengalaman game yang lebih asik,
+50	Buat dapetin pengalaman game yang lebih asik,
+51	Buat dapetin pengalaman game yang lebih asik,
+52	Buat dapetin pengalaman game yang lebih asik, dan karena makin tinggi hertznya,
+53	Buat dapetin pengalaman game yang lebih asik, dan karena makin tinggi hertznya,
+54	dan karena makin tinggi hertznya,
+55	dan karena makin tinggi hertznya,
+56	dan karena makin tinggi hertznya, makin clear gambarnya.
+57	dan karena makin tinggi hertznya, makin clear gambarnya.
+58	makin clear gambarnya.
+59	makin clear gambarnya. Dan lebih gampang di-track pake mata.
+60	Dan lebih gampang di-track pake mata.
+61	Dan lebih gampang di-track pake mata.
+62	Dan lebih gampang di-track pake mata.
+63	Dan lebih gampang di-track pake mata. Itu bisa kurangin mual kamu lho.
+64	Dan lebih gampang di-track pake mata. Itu bisa kurangin mual kamu lho.
+65	Itu bisa kurangin mual kamu lho.
+66	Itu bisa kurangin mual kamu lho.
+67	Itu bisa kurangin mual kamu lho.
+68	Itu bisa kurangin mual kamu lho. First, kamu lebih gampang pecahin kepala musuh.
+69	First, kamu lebih gampang pecahin kepala musuh.
+70	First, kamu lebih gampang pecahin kepala musuh.
+71	First, kamu lebih gampang pecahin kepala musuh.
+72	First, kamu lebih gampang pecahin kepala musuh.
+73	First, kamu lebih gampang pecahin kepala musuh. Piu-piu-piu!
+74	Piu-piu-piu!
+75	Piu-piu-piu! AOC ini harganya di bawah 2 juta lho.
+76	AOC ini harganya di bawah 2 juta lho.
+77	AOC ini harganya di bawah 2 juta lho.
+78	AOC ini harganya di bawah 2 juta lho.
+79	AOC ini harganya di bawah 2 juta lho.
+80	AOC ini harganya di bawah 2 juta lho.
+81	AOC ini harganya di bawah 2 juta lho. Dan kamu udah dapetin garansi 3 tahun full berikut panelnya.
+82	AOC ini harganya di bawah 2 juta lho. Dan kamu udah dapetin garansi 3 tahun full berikut panelnya.
+83	Dan kamu udah dapetin garansi 3 tahun full berikut panelnya.
+84	Dan kamu udah dapetin garansi 3 tahun full berikut panelnya.
+85	Dan kamu udah dapetin garansi 3 tahun full berikut panelnya.
+86	Dan kamu udah dapetin garansi 3 tahun full berikut panelnya.
+87	Dan kamu udah dapetin garansi 3 tahun full berikut panelnya.
+88	Dan kamu udah dapetin garansi 3 tahun full berikut panelnya.
+89	Dan kamu udah dapetin garansi 3 tahun full berikut panelnya.
+90	Dan kamu udah dapetin garansi 3 tahun full berikut panelnya.
+91	Dan kamu udah dapetin garansi 3 tahun full berikut panelnya. By the way, aku cocok gak sama monitornya?
+92	Dan kamu udah dapetin garansi 3 tahun full berikut panelnya. By the way, aku cocok gak sama monitornya?
+93	By the way, aku cocok gak sama monitornya?
+94	By the way, aku cocok gak sama monitornya?
+95	By the way, aku cocok gak sama monitornya?
+96	By the way, aku cocok gak sama monitornya? Aku tunggu kamu di bawah ya!
+97	By the way, aku cocok gak sama monitornya? Aku tunggu kamu di bawah ya!
+98	Aku tunggu kamu di bawah ya!
+99	Aku tunggu kamu di bawah ya!
+100	Aku tunggu kamu di bawah ya!
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	[NO_SPEECH]
+104	[NO_SPEECH]
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	[NO_SPEECH]
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	Sub indo by broth3rmax
+113	Sub indo by broth3rmax
+114	Sub indo by broth3rmax
+115	Sub indo by broth3rmax
+116	Sub indo by broth3rmax
+117	[NO_SPEECH]

@@ -1,0 +1,90 @@
+0	Mau isi angin ban tapi bingung berapa tekanannya?
+1	Mau isi angin ban tapi bingung berapa tekanannya?
+2	Mau isi angin ban tapi bingung berapa tekanannya?
+3	Mau isi angin ban tapi bingung berapa tekanannya?
+4	Mau isi angin ban tapi bingung berapa tekanannya? Ceknya di sini, Cing.
+5	Ceknya di sini, Cing.
+6	Ceknya di sini, Cing.
+7	Ceknya di sini, Cing. Kebanyakan pabrikan kasih stiker rekomendasi tekanan angin ban di area pilat bagian bawah.
+8	Kebanyakan pabrikan kasih stiker rekomendasi tekanan angin ban di area pilat bagian bawah.
+9	Kebanyakan pabrikan kasih stiker rekomendasi tekanan angin ban di area pilat bagian bawah.
+10	Kebanyakan pabrikan kasih stiker rekomendasi tekanan angin ban di area pilat bagian bawah.
+11	Kebanyakan pabrikan kasih stiker rekomendasi tekanan angin ban di area pilat bagian bawah.
+12	Kebanyakan pabrikan kasih stiker rekomendasi tekanan angin ban di area pilat bagian bawah.
+13	Kebanyakan pabrikan kasih stiker rekomendasi tekanan angin ban di area pilat bagian bawah.
+14	Kebanyakan pabrikan kasih stiker rekomendasi tekanan angin ban di area pilat bagian bawah.
+15	Kebanyakan pabrikan kasih stiker rekomendasi tekanan angin ban di area pilat bagian bawah. Kayak di Honda BR-V ada di sini nih.
+16	Kebanyakan pabrikan kasih stiker rekomendasi tekanan angin ban di area pilat bagian bawah. Kayak di Honda BR-V ada di sini nih.
+17	Kayak di Honda BR-V ada di sini nih.
+18	Kayak di Honda BR-V ada di sini nih.
+19	Kayak di Honda BR-V ada di sini nih.
+20	Kayak di Honda BR-V ada di sini nih. Biasanya stiker ini nunjukin dimensi ban, udah gitu tekanan angin, tergantung bobot yang sedang diangkut.
+21	Biasanya stiker ini nunjukin dimensi ban, udah gitu tekanan angin, tergantung bobot yang sedang diangkut.
+22	Biasanya stiker ini nunjukin dimensi ban, udah gitu tekanan angin, tergantung bobot yang sedang diangkut.
+23	Biasanya stiker ini nunjukin dimensi ban, udah gitu tekanan angin, tergantung bobot yang sedang diangkut.
+24	Biasanya stiker ini nunjukin dimensi ban, udah gitu tekanan angin, tergantung bobot yang sedang diangkut.
+25	Biasanya stiker ini nunjukin dimensi ban, udah gitu tekanan angin, tergantung bobot yang sedang diangkut.
+26	Biasanya stiker ini nunjukin dimensi ban, udah gitu tekanan angin, tergantung bobot yang sedang diangkut.
+27	Biasanya stiker ini nunjukin dimensi ban, udah gitu tekanan angin, tergantung bobot yang sedang diangkut.
+28	Biasanya stiker ini nunjukin dimensi ban, udah gitu tekanan angin, tergantung bobot yang sedang diangkut.
+29	Biasanya stiker ini nunjukin dimensi ban, udah gitu tekanan angin, tergantung bobot yang sedang diangkut.
+30	Biasanya stiker ini nunjukin dimensi ban, udah gitu tekanan angin, tergantung bobot yang sedang diangkut. Misalnya kayak BR-V ini nih, ada 5 orang plus barang atau 7 orang plus barang, tekanannya sama.
+31	Biasanya stiker ini nunjukin dimensi ban, udah gitu tekanan angin, tergantung bobot yang sedang diangkut. Misalnya kayak BR-V ini nih, ada 5 orang plus barang atau 7 orang plus barang, tekanannya sama.
+32	Misalnya kayak BR-V ini nih, ada 5 orang plus barang atau 7 orang plus barang, tekanannya sama.
+33	Misalnya kayak BR-V ini nih, ada 5 orang plus barang atau 7 orang plus barang, tekanannya sama.
+34	Misalnya kayak BR-V ini nih, ada 5 orang plus barang atau 7 orang plus barang, tekanannya sama.
+35	Misalnya kayak BR-V ini nih, ada 5 orang plus barang atau 7 orang plus barang, tekanannya sama.
+36	Misalnya kayak BR-V ini nih, ada 5 orang plus barang atau 7 orang plus barang, tekanannya sama.
+37	Misalnya kayak BR-V ini nih, ada 5 orang plus barang atau 7 orang plus barang, tekanannya sama.
+38	Misalnya kayak BR-V ini nih, ada 5 orang plus barang atau 7 orang plus barang, tekanannya sama.
+39	Misalnya kayak BR-V ini nih, ada 5 orang plus barang atau 7 orang plus barang, tekanannya sama.
+40	Misalnya kayak BR-V ini nih, ada 5 orang plus barang atau 7 orang plus barang, tekanannya sama. Dibacanya 220 kPa atau sekitar 2,2 bar atau 32 PSI.
+41	Dibacanya 220 kPa atau sekitar 2,2 bar atau 32 PSI.
+42	Dibacanya 220 kPa atau sekitar 2,2 bar atau 32 PSI.
+43	Dibacanya 220 kPa atau sekitar 2,2 bar atau 32 PSI.
+44	Dibacanya 220 kPa atau sekitar 2,2 bar atau 32 PSI.
+45	Dibacanya 220 kPa atau sekitar 2,2 bar atau 32 PSI.
+46	Dibacanya 220 kPa atau sekitar 2,2 bar atau 32 PSI.
+47	Dibacanya 220 kPa atau sekitar 2,2 bar atau 32 PSI.
+48	Dibacanya 220 kPa atau sekitar 2,2 bar atau 32 PSI.
+49	Dibacanya 220 kPa atau sekitar 2,2 bar atau 32 PSI.
+50	Dibacanya 220 kPa atau sekitar 2,2 bar atau 32 PSI.
+51	Dibacanya 220 kPa atau sekitar 2,2 bar atau 32 PSI. Dan termasuk juga tekanan angin untuk ban serepnya.
+52	Dibacanya 220 kPa atau sekitar 2,2 bar atau 32 PSI. Dan termasuk juga tekanan angin untuk ban serepnya.
+53	Dan termasuk juga tekanan angin untuk ban serepnya.
+54	Dan termasuk juga tekanan angin untuk ban serepnya.
+55	Dan termasuk juga tekanan angin untuk ban serepnya.
+56	Dan termasuk juga tekanan angin untuk ban serepnya. Rekomendasi pabrikan ini jadi penting karena kalau tekanan terlalu tinggi berpotensi menurunkan traksi atau meningkatkan risiko pecah ban.
+57	Dan termasuk juga tekanan angin untuk ban serepnya. Rekomendasi pabrikan ini jadi penting karena kalau tekanan terlalu tinggi berpotensi menurunkan traksi atau meningkatkan risiko pecah ban.
+58	Rekomendasi pabrikan ini jadi penting karena kalau tekanan terlalu tinggi berpotensi menurunkan traksi atau meningkatkan risiko pecah ban.
+59	Rekomendasi pabrikan ini jadi penting karena kalau tekanan terlalu tinggi berpotensi menurunkan traksi atau meningkatkan risiko pecah ban.
+60	Rekomendasi pabrikan ini jadi penting karena kalau tekanan terlalu tinggi berpotensi menurunkan traksi atau meningkatkan risiko pecah ban.
+61	Rekomendasi pabrikan ini jadi penting karena kalau tekanan terlalu tinggi berpotensi menurunkan traksi atau meningkatkan risiko pecah ban.
+62	Rekomendasi pabrikan ini jadi penting karena kalau tekanan terlalu tinggi berpotensi menurunkan traksi atau meningkatkan risiko pecah ban.
+63	Rekomendasi pabrikan ini jadi penting karena kalau tekanan terlalu tinggi berpotensi menurunkan traksi atau meningkatkan risiko pecah ban.
+64	Rekomendasi pabrikan ini jadi penting karena kalau tekanan terlalu tinggi berpotensi menurunkan traksi atau meningkatkan risiko pecah ban.
+65	Rekomendasi pabrikan ini jadi penting karena kalau tekanan terlalu tinggi berpotensi menurunkan traksi atau meningkatkan risiko pecah ban.
+66	Rekomendasi pabrikan ini jadi penting karena kalau tekanan terlalu tinggi berpotensi menurunkan traksi atau meningkatkan risiko pecah ban.
+67	Rekomendasi pabrikan ini jadi penting karena kalau tekanan terlalu tinggi berpotensi menurunkan traksi atau meningkatkan risiko pecah ban.
+68	Rekomendasi pabrikan ini jadi penting karena kalau tekanan terlalu tinggi berpotensi menurunkan traksi atau meningkatkan risiko pecah ban.
+69	Rekomendasi pabrikan ini jadi penting karena kalau tekanan terlalu tinggi berpotensi menurunkan traksi atau meningkatkan risiko pecah ban. Dan kalau terlalu rendah bisa menurunkan efisiensi bahan bakar.
+70	Rekomendasi pabrikan ini jadi penting karena kalau tekanan terlalu tinggi berpotensi menurunkan traksi atau meningkatkan risiko pecah ban. Dan kalau terlalu rendah bisa menurunkan efisiensi bahan bakar.
+71	Dan kalau terlalu rendah bisa menurunkan efisiensi bahan bakar.
+72	Dan kalau terlalu rendah bisa menurunkan efisiensi bahan bakar.
+73	Dan kalau terlalu rendah bisa menurunkan efisiensi bahan bakar.
+74	Dan kalau terlalu rendah bisa menurunkan efisiensi bahan bakar.
+75	Dan kalau terlalu rendah bisa menurunkan efisiensi bahan bakar. Nah, dengan tekanan yang pas jadi untuk urusan safety, performa, dan efisiensi, semuanya bisa optimal, Cing.
+76	Dan kalau terlalu rendah bisa menurunkan efisiensi bahan bakar. Nah, dengan tekanan yang pas jadi untuk urusan safety, performa, dan efisiensi, semuanya bisa optimal, Cing.
+77	Nah, dengan tekanan yang pas jadi untuk urusan safety, performa, dan efisiensi, semuanya bisa optimal, Cing.
+78	Nah, dengan tekanan yang pas jadi untuk urusan safety, performa, dan efisiensi, semuanya bisa optimal, Cing.
+79	Nah, dengan tekanan yang pas jadi untuk urusan safety, performa, dan efisiensi, semuanya bisa optimal, Cing.
+80	Nah, dengan tekanan yang pas jadi untuk urusan safety, performa, dan efisiensi, semuanya bisa optimal, Cing.
+81	Nah, dengan tekanan yang pas jadi untuk urusan safety, performa, dan efisiensi, semuanya bisa optimal, Cing.
+82	Nah, dengan tekanan yang pas jadi untuk urusan safety, performa, dan efisiensi, semuanya bisa optimal, Cing.
+83	Nah, dengan tekanan yang pas jadi untuk urusan safety, performa, dan efisiensi, semuanya bisa optimal, Cing.
+84	Nah, dengan tekanan yang pas jadi untuk urusan safety, performa, dan efisiensi, semuanya bisa optimal, Cing.
+85	Nah, dengan tekanan yang pas jadi untuk urusan safety, performa, dan efisiensi, semuanya bisa optimal, Cing.
+86	Nah, dengan tekanan yang pas jadi untuk urusan safety, performa, dan efisiensi, semuanya bisa optimal, Cing.
+87	Nah, dengan tekanan yang pas jadi untuk urusan safety, performa, dan efisiensi, semuanya bisa optimal, Cing.
+88	Nah, dengan tekanan yang pas jadi untuk urusan safety, performa, dan efisiensi, semuanya bisa optimal, Cing.
+89	[NO_SPEECH]

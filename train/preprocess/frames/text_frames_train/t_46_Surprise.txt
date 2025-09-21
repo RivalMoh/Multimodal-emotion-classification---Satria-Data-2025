@@ -1,0 +1,62 @@
+0	Kita udah di markas
+1	Kita udah di markas
+2	Kita udah di markas
+3	Kita udah di markas Layar bisa digeser-geser
+4	Kita udah di markas Layar bisa digeser-geser
+5	Layar bisa digeser-geser
+6	Layar bisa digeser-geser
+7	Layar bisa digeser-geser Ini bisa diputar gini juga kan
+8	Layar bisa digeser-geser Ini bisa diputar gini juga kan
+9	Ini bisa diputar gini juga kan
+10	Ini bisa diputar gini juga kan
+11	Ini bisa diputar gini juga kan
+12	Ini bisa diputar gini juga kan
+13	[NO_SPEECH]
+14	Nah
+15	Nah
+16	Nah
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	Dan ini bisa diputar-putar
+23	Dan ini bisa diputar-putar
+24	Dan ini bisa diputar-putar
+25	Dan ini bisa diputar-putar
+26	Dan ini bisa diputar-putar
+27	Dan ini bisa diputar-putar
+28	Dan ini bisa diputar-putar
+29	Karena gak
+30	Karena gak Ini parkiran
+31	Karena gak Ini parkiran
+32	Ini parkiran
+33	Ini parkiran
+34	Ini parkiran
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	Mobilnya pada getar-getar semua sih
+38	Mobilnya pada getar-getar semua sih
+39	Mobilnya pada getar-getar semua sih
+40	Mobilnya pada getar-getar semua sih Cuma oke lah
+41	Mobilnya pada getar-getar semua sih Cuma oke lah
+42	Mobilnya pada getar-getar semua sih Cuma oke lah
+43	Cuma oke lah Dan ini kenapa ada orang ya
+44	Cuma oke lah Dan ini kenapa ada orang ya
+45	Dan ini kenapa ada orang ya
+46	Dan ini kenapa ada orang ya
+47	Dan ini kenapa ada orang ya
+48	Dan ini kenapa ada orang ya Ini ada orang
+49	Dan ini kenapa ada orang ya Ini ada orang
+50	Ini ada orang
+51	Ini ada orang
+52	Ini ada orang
+53	Oh ada emang
+54	Oh ada emang
+55	Oh ada emang Hahaha
+56	Oh ada emang Hahaha
+57	Oh ada emang Hahaha
+58	[NO_SPEECH]
+59	[NO_SPEECH]
+60	[NO_SPEECH]
+61	[NO_SPEECH]

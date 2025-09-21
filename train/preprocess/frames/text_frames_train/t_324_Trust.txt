@@ -1,0 +1,100 @@
+0	Ini cara bentuk balonmu di rumah tanpa alat.
+1	Ini cara bentuk balonmu di rumah tanpa alat.
+2	Ini cara bentuk balonmu di rumah tanpa alat.
+3	Ini cara bentuk balonmu di rumah tanpa alat.
+4	Ini cara bentuk balonmu di rumah tanpa alat. You need to notice.
+5	Ini cara bentuk balonmu di rumah tanpa alat. You need to notice. Gerakan pertama lunge, selain paha depan dan belakang,
+6	You need to notice. Gerakan pertama lunge, selain paha depan dan belakang,
+7	Gerakan pertama lunge, selain paha depan dan belakang,
+8	Gerakan pertama lunge, selain paha depan dan belakang,
+9	Gerakan pertama lunge, selain paha depan dan belakang,
+10	Gerakan pertama lunge, selain paha depan dan belakang, kamu juga melatih keseimbangan tubuh.
+11	Gerakan pertama lunge, selain paha depan dan belakang, kamu juga melatih keseimbangan tubuh.
+12	kamu juga melatih keseimbangan tubuh.
+13	kamu juga melatih keseimbangan tubuh.
+14	kamu juga melatih keseimbangan tubuh. Selanjutnya, gerakan yang sangat basic tapi efektif,
+15	kamu juga melatih keseimbangan tubuh. Selanjutnya, gerakan yang sangat basic tapi efektif,
+16	Selanjutnya, gerakan yang sangat basic tapi efektif,
+17	Selanjutnya, gerakan yang sangat basic tapi efektif,
+18	Selanjutnya, gerakan yang sangat basic tapi efektif,
+19	Selanjutnya, gerakan yang sangat basic tapi efektif, push up untuk kuatkan otot dada, bahu, dan triceps.
+20	Selanjutnya, gerakan yang sangat basic tapi efektif, push up untuk kuatkan otot dada, bahu, dan triceps.
+21	push up untuk kuatkan otot dada, bahu, dan triceps.
+22	push up untuk kuatkan otot dada, bahu, dan triceps.
+23	push up untuk kuatkan otot dada, bahu, dan triceps.
+24	push up untuk kuatkan otot dada, bahu, dan triceps. Kalau gerakan ini terlalu susah, lakukan variasi ini push up.
+25	push up untuk kuatkan otot dada, bahu, dan triceps. Kalau gerakan ini terlalu susah, lakukan variasi ini push up.
+26	Kalau gerakan ini terlalu susah, lakukan variasi ini push up.
+27	Kalau gerakan ini terlalu susah, lakukan variasi ini push up.
+28	Kalau gerakan ini terlalu susah, lakukan variasi ini push up.
+29	Kalau gerakan ini terlalu susah, lakukan variasi ini push up.
+30	Kalau gerakan ini terlalu susah, lakukan variasi ini push up.
+31	Kalau gerakan ini terlalu susah, lakukan variasi ini push up. Balik lagi ke otot kaki dengan squats,
+32	Kalau gerakan ini terlalu susah, lakukan variasi ini push up. Balik lagi ke otot kaki dengan squats,
+33	Balik lagi ke otot kaki dengan squats,
+34	Balik lagi ke otot kaki dengan squats, karena otot kaki adalah otot yang paling besar dan kuat,
+35	Balik lagi ke otot kaki dengan squats, karena otot kaki adalah otot yang paling besar dan kuat,
+36	karena otot kaki adalah otot yang paling besar dan kuat,
+37	karena otot kaki adalah otot yang paling besar dan kuat,
+38	karena otot kaki adalah otot yang paling besar dan kuat,
+39	karena otot kaki adalah otot yang paling besar dan kuat, jadi kita lakukan dua gerakan.
+40	karena otot kaki adalah otot yang paling besar dan kuat, jadi kita lakukan dua gerakan.
+41	jadi kita lakukan dua gerakan.
+42	jadi kita lakukan dua gerakan. Lalu gerakan plank untuk melatih otot trot.
+43	jadi kita lakukan dua gerakan. Lalu gerakan plank untuk melatih otot trot.
+44	Lalu gerakan plank untuk melatih otot trot.
+45	Lalu gerakan plank untuk melatih otot trot.
+46	Lalu gerakan plank untuk melatih otot trot.
+47	Lalu gerakan plank untuk melatih otot trot. Biasanya gerakan ini lebih terasa dan nyaman dibandingkan sit up.
+48	Lalu gerakan plank untuk melatih otot trot. Biasanya gerakan ini lebih terasa dan nyaman dibandingkan sit up.
+49	Biasanya gerakan ini lebih terasa dan nyaman dibandingkan sit up.
+50	Biasanya gerakan ini lebih terasa dan nyaman dibandingkan sit up.
+51	Biasanya gerakan ini lebih terasa dan nyaman dibandingkan sit up.
+52	Biasanya gerakan ini lebih terasa dan nyaman dibandingkan sit up.
+53	Biasanya gerakan ini lebih terasa dan nyaman dibandingkan sit up.
+54	Biasanya gerakan ini lebih terasa dan nyaman dibandingkan sit up. Gerakan superman untuk pinggang,
+55	Biasanya gerakan ini lebih terasa dan nyaman dibandingkan sit up. Gerakan superman untuk pinggang,
+56	Gerakan superman untuk pinggang,
+57	Gerakan superman untuk pinggang, ini sangat bagus untuk kalian yang duduk sepanjang hari dan suka sakit pinggang.
+58	Gerakan superman untuk pinggang, ini sangat bagus untuk kalian yang duduk sepanjang hari dan suka sakit pinggang.
+59	ini sangat bagus untuk kalian yang duduk sepanjang hari dan suka sakit pinggang.
+60	ini sangat bagus untuk kalian yang duduk sepanjang hari dan suka sakit pinggang.
+61	ini sangat bagus untuk kalian yang duduk sepanjang hari dan suka sakit pinggang.
+62	ini sangat bagus untuk kalian yang duduk sepanjang hari dan suka sakit pinggang.
+63	ini sangat bagus untuk kalian yang duduk sepanjang hari dan suka sakit pinggang.
+64	ini sangat bagus untuk kalian yang duduk sepanjang hari dan suka sakit pinggang. Untuk punggung rose, kalian bisa pakai apa aja yang ada di rumah,
+65	ini sangat bagus untuk kalian yang duduk sepanjang hari dan suka sakit pinggang. Untuk punggung rose, kalian bisa pakai apa aja yang ada di rumah,
+66	Untuk punggung rose, kalian bisa pakai apa aja yang ada di rumah,
+67	Untuk punggung rose, kalian bisa pakai apa aja yang ada di rumah,
+68	Untuk punggung rose, kalian bisa pakai apa aja yang ada di rumah,
+69	Untuk punggung rose, kalian bisa pakai apa aja yang ada di rumah,
+70	Untuk punggung rose, kalian bisa pakai apa aja yang ada di rumah,
+71	Untuk punggung rose, kalian bisa pakai apa aja yang ada di rumah, botol air atau ransel diisi buku,
+72	botol air atau ransel diisi buku,
+73	botol air atau ransel diisi buku,
+74	botol air atau ransel diisi buku,
+75	botol air atau ransel diisi buku, lalu gerakan terakhir, biceps curls, untuk melatih otot biceps.
+76	botol air atau ransel diisi buku, lalu gerakan terakhir, biceps curls, untuk melatih otot biceps.
+77	lalu gerakan terakhir, biceps curls, untuk melatih otot biceps.
+78	lalu gerakan terakhir, biceps curls, untuk melatih otot biceps.
+79	lalu gerakan terakhir, biceps curls, untuk melatih otot biceps.
+80	lalu gerakan terakhir, biceps curls, untuk melatih otot biceps.
+81	lalu gerakan terakhir, biceps curls, untuk melatih otot biceps. Jadwal latihan untuk home workout ini ada di caption, so check it out.
+82	lalu gerakan terakhir, biceps curls, untuk melatih otot biceps. Jadwal latihan untuk home workout ini ada di caption, so check it out.
+83	Jadwal latihan untuk home workout ini ada di caption, so check it out.
+84	Jadwal latihan untuk home workout ini ada di caption, so check it out.
+85	Jadwal latihan untuk home workout ini ada di caption, so check it out.
+86	Jadwal latihan untuk home workout ini ada di caption, so check it out.
+87	Jadwal latihan untuk home workout ini ada di caption, so check it out. Intinya, kamu tidak punya alasan untuk tidak olahraga.
+88	Jadwal latihan untuk home workout ini ada di caption, so check it out. Intinya, kamu tidak punya alasan untuk tidak olahraga.
+89	Intinya, kamu tidak punya alasan untuk tidak olahraga.
+90	Intinya, kamu tidak punya alasan untuk tidak olahraga.
+91	Intinya, kamu tidak punya alasan untuk tidak olahraga.
+92	Intinya, kamu tidak punya alasan untuk tidak olahraga.
+93	Intinya, kamu tidak punya alasan untuk tidak olahraga. Workout ini hanya butuh 15-20 menit.
+94	Intinya, kamu tidak punya alasan untuk tidak olahraga. Workout ini hanya butuh 15-20 menit.
+95	Workout ini hanya butuh 15-20 menit.
+96	Workout ini hanya butuh 15-20 menit.
+97	Workout ini hanya butuh 15-20 menit.
+98	Workout ini hanya butuh 15-20 menit.
+99	Workout ini hanya butuh 15-20 menit.

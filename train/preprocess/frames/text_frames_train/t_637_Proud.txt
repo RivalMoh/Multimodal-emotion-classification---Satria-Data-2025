@@ -1,0 +1,262 @@
+0	Guys, gue mau cerita. Jadi kan selama sebulan ini, gue pake alat untuk ngecek gula selama 15 hari berturut-turut.
+1	Guys, gue mau cerita. Jadi kan selama sebulan ini, gue pake alat untuk ngecek gula selama 15 hari berturut-turut.
+2	Jadi kan selama sebulan ini, gue pake alat untuk ngecek gula selama 15 hari berturut-turut.
+3	Jadi kan selama sebulan ini, gue pake alat untuk ngecek gula selama 15 hari berturut-turut.
+4	Jadi kan selama sebulan ini, gue pake alat untuk ngecek gula selama 15 hari berturut-turut.
+5	Jadi kan selama sebulan ini, gue pake alat untuk ngecek gula selama 15 hari berturut-turut.
+6	Jadi kan selama sebulan ini, gue pake alat untuk ngecek gula selama 15 hari berturut-turut.
+7	Jadi kan selama sebulan ini, gue pake alat untuk ngecek gula selama 15 hari berturut-turut.
+8	Jadi kan selama sebulan ini, gue pake alat untuk ngecek gula selama 15 hari berturut-turut.
+9	Jadi kan selama sebulan ini, gue pake alat untuk ngecek gula selama 15 hari berturut-turut.
+10	Jadi kan selama sebulan ini, gue pake alat untuk ngecek gula selama 15 hari berturut-turut. Tapi bukan alat yang ngecek gula cetekan gitu loh.
+11	Tapi bukan alat yang ngecek gula cetekan gitu loh.
+12	Tapi bukan alat yang ngecek gula cetekan gitu loh.
+13	Tapi bukan alat yang ngecek gula cetekan gitu loh.
+14	Tapi bukan alat yang ngecek gula cetekan gitu loh. Tapi dia cukup ngecekin sekali di put dan yaudah bisa dibuat aktivitas.
+15	Tapi bukan alat yang ngecek gula cetekan gitu loh. Tapi dia cukup ngecekin sekali di put dan yaudah bisa dibuat aktivitas.
+16	Tapi dia cukup ngecekin sekali di put dan yaudah bisa dibuat aktivitas.
+17	Tapi dia cukup ngecekin sekali di put dan yaudah bisa dibuat aktivitas.
+18	Tapi dia cukup ngecekin sekali di put dan yaudah bisa dibuat aktivitas.
+19	Tapi dia cukup ngecekin sekali di put dan yaudah bisa dibuat aktivitas.
+20	Tapi dia cukup ngecekin sekali di put dan yaudah bisa dibuat aktivitas.
+21	Tapi dia cukup ngecekin sekali di put dan yaudah bisa dibuat aktivitas. Gue tuh bawa kayak buat makan, minum, mandi, nge-gym, sampe dengan sauna tuh masih gue pake tuh alat itu.
+22	Tapi dia cukup ngecekin sekali di put dan yaudah bisa dibuat aktivitas. Gue tuh bawa kayak buat makan, minum, mandi, nge-gym, sampe dengan sauna tuh masih gue pake tuh alat itu.
+23	Gue tuh bawa kayak buat makan, minum, mandi, nge-gym, sampe dengan sauna tuh masih gue pake tuh alat itu.
+24	Gue tuh bawa kayak buat makan, minum, mandi, nge-gym, sampe dengan sauna tuh masih gue pake tuh alat itu.
+25	Gue tuh bawa kayak buat makan, minum, mandi, nge-gym, sampe dengan sauna tuh masih gue pake tuh alat itu.
+26	Gue tuh bawa kayak buat makan, minum, mandi, nge-gym, sampe dengan sauna tuh masih gue pake tuh alat itu.
+27	Gue tuh bawa kayak buat makan, minum, mandi, nge-gym, sampe dengan sauna tuh masih gue pake tuh alat itu.
+28	Gue tuh bawa kayak buat makan, minum, mandi, nge-gym, sampe dengan sauna tuh masih gue pake tuh alat itu.
+29	Gue tuh bawa kayak buat makan, minum, mandi, nge-gym, sampe dengan sauna tuh masih gue pake tuh alat itu.
+30	Gue tuh bawa kayak buat makan, minum, mandi, nge-gym, sampe dengan sauna tuh masih gue pake tuh alat itu.
+31	Gue tuh bawa kayak buat makan, minum, mandi, nge-gym, sampe dengan sauna tuh masih gue pake tuh alat itu.
+32	Gue tuh bawa kayak buat makan, minum, mandi, nge-gym, sampe dengan sauna tuh masih gue pake tuh alat itu.
+33	Gue tuh bawa kayak buat makan, minum, mandi, nge-gym, sampe dengan sauna tuh masih gue pake tuh alat itu.
+34	Gue tuh bawa kayak buat makan, minum, mandi, nge-gym, sampe dengan sauna tuh masih gue pake tuh alat itu.
+35	Gue tuh bawa kayak buat makan, minum, mandi, nge-gym, sampe dengan sauna tuh masih gue pake tuh alat itu. Dan yaudah berfungsi normal.
+36	Gue tuh bawa kayak buat makan, minum, mandi, nge-gym, sampe dengan sauna tuh masih gue pake tuh alat itu. Dan yaudah berfungsi normal.
+37	Dan yaudah berfungsi normal.
+38	Dan yaudah berfungsi normal. Dan dia nunjukin kada gula gue selama 24 jam dan hasilnya keluar tiap 3 menit sekali lewat aplikasinya.
+39	Dan dia nunjukin kada gula gue selama 24 jam dan hasilnya keluar tiap 3 menit sekali lewat aplikasinya.
+40	Dan dia nunjukin kada gula gue selama 24 jam dan hasilnya keluar tiap 3 menit sekali lewat aplikasinya.
+41	Dan dia nunjukin kada gula gue selama 24 jam dan hasilnya keluar tiap 3 menit sekali lewat aplikasinya.
+42	Dan dia nunjukin kada gula gue selama 24 jam dan hasilnya keluar tiap 3 menit sekali lewat aplikasinya.
+43	Dan dia nunjukin kada gula gue selama 24 jam dan hasilnya keluar tiap 3 menit sekali lewat aplikasinya.
+44	Dan dia nunjukin kada gula gue selama 24 jam dan hasilnya keluar tiap 3 menit sekali lewat aplikasinya.
+45	Dan dia nunjukin kada gula gue selama 24 jam dan hasilnya keluar tiap 3 menit sekali lewat aplikasinya.
+46	Dan dia nunjukin kada gula gue selama 24 jam dan hasilnya keluar tiap 3 menit sekali lewat aplikasinya.
+47	Dan dia nunjukin kada gula gue selama 24 jam dan hasilnya keluar tiap 3 menit sekali lewat aplikasinya.
+48	Dan dia nunjukin kada gula gue selama 24 jam dan hasilnya keluar tiap 3 menit sekali lewat aplikasinya.
+49	Dan dia nunjukin kada gula gue selama 24 jam dan hasilnya keluar tiap 3 menit sekali lewat aplikasinya.
+50	Dan dia nunjukin kada gula gue selama 24 jam dan hasilnya keluar tiap 3 menit sekali lewat aplikasinya.
+51	Dan dia nunjukin kada gula gue selama 24 jam dan hasilnya keluar tiap 3 menit sekali lewat aplikasinya. Dan somehow ya, gue tuh jadi lebih aware dengan kada gula gue.
+52	Dan dia nunjukin kada gula gue selama 24 jam dan hasilnya keluar tiap 3 menit sekali lewat aplikasinya. Dan somehow ya, gue tuh jadi lebih aware dengan kada gula gue.
+53	Dan somehow ya, gue tuh jadi lebih aware dengan kada gula gue.
+54	Dan somehow ya, gue tuh jadi lebih aware dengan kada gula gue.
+55	Dan somehow ya, gue tuh jadi lebih aware dengan kada gula gue.
+56	Dan somehow ya, gue tuh jadi lebih aware dengan kada gula gue.
+57	Dan somehow ya, gue tuh jadi lebih aware dengan kada gula gue.
+58	Dan somehow ya, gue tuh jadi lebih aware dengan kada gula gue. Karena biasanya gue kan kalo bangun tidur cenderung lebih lemes ya.
+59	Dan somehow ya, gue tuh jadi lebih aware dengan kada gula gue. Karena biasanya gue kan kalo bangun tidur cenderung lebih lemes ya.
+60	Karena biasanya gue kan kalo bangun tidur cenderung lebih lemes ya.
+61	Karena biasanya gue kan kalo bangun tidur cenderung lebih lemes ya.
+62	Karena biasanya gue kan kalo bangun tidur cenderung lebih lemes ya.
+63	Karena biasanya gue kan kalo bangun tidur cenderung lebih lemes ya.
+64	Karena biasanya gue kan kalo bangun tidur cenderung lebih lemes ya. Ternyata pas gue cek gula gue itu kalo pas pagi-pagi cenderung lebih rendah.
+65	Karena biasanya gue kan kalo bangun tidur cenderung lebih lemes ya. Ternyata pas gue cek gula gue itu kalo pas pagi-pagi cenderung lebih rendah.
+66	Ternyata pas gue cek gula gue itu kalo pas pagi-pagi cenderung lebih rendah.
+67	Ternyata pas gue cek gula gue itu kalo pas pagi-pagi cenderung lebih rendah.
+68	Ternyata pas gue cek gula gue itu kalo pas pagi-pagi cenderung lebih rendah.
+69	Ternyata pas gue cek gula gue itu kalo pas pagi-pagi cenderung lebih rendah.
+70	Ternyata pas gue cek gula gue itu kalo pas pagi-pagi cenderung lebih rendah.
+71	Ternyata pas gue cek gula gue itu kalo pas pagi-pagi cenderung lebih rendah.
+72	Ternyata pas gue cek gula gue itu kalo pas pagi-pagi cenderung lebih rendah.
+73	Ternyata pas gue cek gula gue itu kalo pas pagi-pagi cenderung lebih rendah.
+74	Ternyata pas gue cek gula gue itu kalo pas pagi-pagi cenderung lebih rendah. Makanya biasanya kalo gula gue kurang dari 90, gue udah nyiapin cemilan buat gue makan.
+75	Ternyata pas gue cek gula gue itu kalo pas pagi-pagi cenderung lebih rendah. Makanya biasanya kalo gula gue kurang dari 90, gue udah nyiapin cemilan buat gue makan.
+76	Makanya biasanya kalo gula gue kurang dari 90, gue udah nyiapin cemilan buat gue makan.
+77	Makanya biasanya kalo gula gue kurang dari 90, gue udah nyiapin cemilan buat gue makan.
+78	Makanya biasanya kalo gula gue kurang dari 90, gue udah nyiapin cemilan buat gue makan.
+79	Makanya biasanya kalo gula gue kurang dari 90, gue udah nyiapin cemilan buat gue makan.
+80	Makanya biasanya kalo gula gue kurang dari 90, gue udah nyiapin cemilan buat gue makan.
+81	Makanya biasanya kalo gula gue kurang dari 90, gue udah nyiapin cemilan buat gue makan.
+82	Makanya biasanya kalo gula gue kurang dari 90, gue udah nyiapin cemilan buat gue makan.
+83	Makanya biasanya kalo gula gue kurang dari 90, gue udah nyiapin cemilan buat gue makan.
+84	Makanya biasanya kalo gula gue kurang dari 90, gue udah nyiapin cemilan buat gue makan. Dan menurut gue alat ini berguna banget buat kalian yang pengen monitor kada gula.
+85	Dan menurut gue alat ini berguna banget buat kalian yang pengen monitor kada gula.
+86	Dan menurut gue alat ini berguna banget buat kalian yang pengen monitor kada gula.
+87	Dan menurut gue alat ini berguna banget buat kalian yang pengen monitor kada gula.
+88	Dan menurut gue alat ini berguna banget buat kalian yang pengen monitor kada gula.
+89	Dan menurut gue alat ini berguna banget buat kalian yang pengen monitor kada gula.
+90	Dan menurut gue alat ini berguna banget buat kalian yang pengen monitor kada gula. Mungkin terutama yang punya diabetes tipe 1, tipe 2.
+91	Dan menurut gue alat ini berguna banget buat kalian yang pengen monitor kada gula. Mungkin terutama yang punya diabetes tipe 1, tipe 2.
+92	Mungkin terutama yang punya diabetes tipe 1, tipe 2.
+93	Mungkin terutama yang punya diabetes tipe 1, tipe 2.
+94	Mungkin terutama yang punya diabetes tipe 1, tipe 2.
+95	Mungkin terutama yang punya diabetes tipe 1, tipe 2. Atau mungkin orang tua yang punya, atau mungkin saudaranya yang punya diabetes tipe 1, tipe 2.
+96	Mungkin terutama yang punya diabetes tipe 1, tipe 2. Atau mungkin orang tua yang punya, atau mungkin saudaranya yang punya diabetes tipe 1, tipe 2.
+97	Atau mungkin orang tua yang punya, atau mungkin saudaranya yang punya diabetes tipe 1, tipe 2.
+98	Atau mungkin orang tua yang punya, atau mungkin saudaranya yang punya diabetes tipe 1, tipe 2.
+99	Atau mungkin orang tua yang punya, atau mungkin saudaranya yang punya diabetes tipe 1, tipe 2.
+100	Atau mungkin orang tua yang punya, atau mungkin saudaranya yang punya diabetes tipe 1, tipe 2.
+101	Atau mungkin orang tua yang punya, atau mungkin saudaranya yang punya diabetes tipe 1, tipe 2.
+102	Atau mungkin orang tua yang punya, atau mungkin saudaranya yang punya diabetes tipe 1, tipe 2.
+103	Atau mungkin orang tua yang punya, atau mungkin saudaranya yang punya diabetes tipe 1, tipe 2. Karena kan biasanya orang dengan diabetes kada gulanya kan fluktuatif ya, naik turun-naik turun.
+104	Atau mungkin orang tua yang punya, atau mungkin saudaranya yang punya diabetes tipe 1, tipe 2. Karena kan biasanya orang dengan diabetes kada gulanya kan fluktuatif ya, naik turun-naik turun.
+105	Karena kan biasanya orang dengan diabetes kada gulanya kan fluktuatif ya, naik turun-naik turun.
+106	Karena kan biasanya orang dengan diabetes kada gulanya kan fluktuatif ya, naik turun-naik turun.
+107	Karena kan biasanya orang dengan diabetes kada gulanya kan fluktuatif ya, naik turun-naik turun.
+108	Karena kan biasanya orang dengan diabetes kada gulanya kan fluktuatif ya, naik turun-naik turun.
+109	Karena kan biasanya orang dengan diabetes kada gulanya kan fluktuatif ya, naik turun-naik turun.
+110	Karena kan biasanya orang dengan diabetes kada gulanya kan fluktuatif ya, naik turun-naik turun.
+111	Karena kan biasanya orang dengan diabetes kada gulanya kan fluktuatif ya, naik turun-naik turun. Nah ini bisa ngebantu untuk memonitoring kada gula.
+112	Karena kan biasanya orang dengan diabetes kada gulanya kan fluktuatif ya, naik turun-naik turun. Nah ini bisa ngebantu untuk memonitoring kada gula.
+113	Nah ini bisa ngebantu untuk memonitoring kada gula.
+114	Nah ini bisa ngebantu untuk memonitoring kada gula.
+115	Nah ini bisa ngebantu untuk memonitoring kada gula.
+116	Nah ini bisa ngebantu untuk memonitoring kada gula.
+117	Nah ini bisa ngebantu untuk memonitoring kada gula. Atau juga hasilnya tuh bisa dilihat kayak, misalkan abis makan sesuatu jadinya tinggi.
+118	Nah ini bisa ngebantu untuk memonitoring kada gula. Atau juga hasilnya tuh bisa dilihat kayak, misalkan abis makan sesuatu jadinya tinggi.
+119	Atau juga hasilnya tuh bisa dilihat kayak, misalkan abis makan sesuatu jadinya tinggi.
+120	Atau juga hasilnya tuh bisa dilihat kayak, misalkan abis makan sesuatu jadinya tinggi.
+121	Atau juga hasilnya tuh bisa dilihat kayak, misalkan abis makan sesuatu jadinya tinggi.
+122	Atau juga hasilnya tuh bisa dilihat kayak, misalkan abis makan sesuatu jadinya tinggi.
+123	Atau juga hasilnya tuh bisa dilihat kayak, misalkan abis makan sesuatu jadinya tinggi.
+124	Atau juga hasilnya tuh bisa dilihat kayak, misalkan abis makan sesuatu jadinya tinggi.
+125	Atau juga hasilnya tuh bisa dilihat kayak, misalkan abis makan sesuatu jadinya tinggi.
+126	Atau juga hasilnya tuh bisa dilihat kayak, misalkan abis makan sesuatu jadinya tinggi.
+127	Atau juga hasilnya tuh bisa dilihat kayak, misalkan abis makan sesuatu jadinya tinggi. Nah itu bisa jadi patokan tuh buat menghindari makan-makanan yang bisa menyebabkan sugar spike atau lonjakan kada gula.
+128	Atau juga hasilnya tuh bisa dilihat kayak, misalkan abis makan sesuatu jadinya tinggi. Nah itu bisa jadi patokan tuh buat menghindari makan-makanan yang bisa menyebabkan sugar spike atau lonjakan kada gula.
+129	Nah itu bisa jadi patokan tuh buat menghindari makan-makanan yang bisa menyebabkan sugar spike atau lonjakan kada gula.
+130	Nah itu bisa jadi patokan tuh buat menghindari makan-makanan yang bisa menyebabkan sugar spike atau lonjakan kada gula.
+131	Nah itu bisa jadi patokan tuh buat menghindari makan-makanan yang bisa menyebabkan sugar spike atau lonjakan kada gula.
+132	Nah itu bisa jadi patokan tuh buat menghindari makan-makanan yang bisa menyebabkan sugar spike atau lonjakan kada gula.
+133	Nah itu bisa jadi patokan tuh buat menghindari makan-makanan yang bisa menyebabkan sugar spike atau lonjakan kada gula.
+134	Nah itu bisa jadi patokan tuh buat menghindari makan-makanan yang bisa menyebabkan sugar spike atau lonjakan kada gula.
+135	Nah itu bisa jadi patokan tuh buat menghindari makan-makanan yang bisa menyebabkan sugar spike atau lonjakan kada gula.
+136	Nah itu bisa jadi patokan tuh buat menghindari makan-makanan yang bisa menyebabkan sugar spike atau lonjakan kada gula.
+137	Nah itu bisa jadi patokan tuh buat menghindari makan-makanan yang bisa menyebabkan sugar spike atau lonjakan kada gula.
+138	Nah itu bisa jadi patokan tuh buat menghindari makan-makanan yang bisa menyebabkan sugar spike atau lonjakan kada gula. Dan banyak banget orang di Indonesia ini yang gak tau kalo misalkan komplikasi dari penyakit gula itu banyak.
+139	Nah itu bisa jadi patokan tuh buat menghindari makan-makanan yang bisa menyebabkan sugar spike atau lonjakan kada gula. Dan banyak banget orang di Indonesia ini yang gak tau kalo misalkan komplikasi dari penyakit gula itu banyak.
+140	Dan banyak banget orang di Indonesia ini yang gak tau kalo misalkan komplikasi dari penyakit gula itu banyak.
+141	Dan banyak banget orang di Indonesia ini yang gak tau kalo misalkan komplikasi dari penyakit gula itu banyak.
+142	Dan banyak banget orang di Indonesia ini yang gak tau kalo misalkan komplikasi dari penyakit gula itu banyak.
+143	Dan banyak banget orang di Indonesia ini yang gak tau kalo misalkan komplikasi dari penyakit gula itu banyak.
+144	Dan banyak banget orang di Indonesia ini yang gak tau kalo misalkan komplikasi dari penyakit gula itu banyak.
+145	Dan banyak banget orang di Indonesia ini yang gak tau kalo misalkan komplikasi dari penyakit gula itu banyak.
+146	Dan banyak banget orang di Indonesia ini yang gak tau kalo misalkan komplikasi dari penyakit gula itu banyak.
+147	Dan banyak banget orang di Indonesia ini yang gak tau kalo misalkan komplikasi dari penyakit gula itu banyak.
+148	Dan banyak banget orang di Indonesia ini yang gak tau kalo misalkan komplikasi dari penyakit gula itu banyak.
+149	Dan banyak banget orang di Indonesia ini yang gak tau kalo misalkan komplikasi dari penyakit gula itu banyak.
+150	Dan banyak banget orang di Indonesia ini yang gak tau kalo misalkan komplikasi dari penyakit gula itu banyak.
+151	Dan banyak banget orang di Indonesia ini yang gak tau kalo misalkan komplikasi dari penyakit gula itu banyak. Dan kebanyakan baru ketahuan pas udah parah-parahnya.
+152	Dan banyak banget orang di Indonesia ini yang gak tau kalo misalkan komplikasi dari penyakit gula itu banyak. Dan kebanyakan baru ketahuan pas udah parah-parahnya.
+153	Dan kebanyakan baru ketahuan pas udah parah-parahnya.
+154	Dan kebanyakan baru ketahuan pas udah parah-parahnya.
+155	Dan kebanyakan baru ketahuan pas udah parah-parahnya.
+156	Dan kebanyakan baru ketahuan pas udah parah-parahnya.
+157	Dan kebanyakan baru ketahuan pas udah parah-parahnya.
+158	Dan kebanyakan baru ketahuan pas udah parah-parahnya. Komplikasi dari penyakit gula bukan cuman kaki yang luka kagak semu-semu.
+159	Komplikasi dari penyakit gula bukan cuman kaki yang luka kagak semu-semu.
+160	Komplikasi dari penyakit gula bukan cuman kaki yang luka kagak semu-semu.
+161	Komplikasi dari penyakit gula bukan cuman kaki yang luka kagak semu-semu.
+162	Komplikasi dari penyakit gula bukan cuman kaki yang luka kagak semu-semu.
+163	Komplikasi dari penyakit gula bukan cuman kaki yang luka kagak semu-semu.
+164	Komplikasi dari penyakit gula bukan cuman kaki yang luka kagak semu-semu.
+165	Komplikasi dari penyakit gula bukan cuman kaki yang luka kagak semu-semu.
+166	Komplikasi dari penyakit gula bukan cuman kaki yang luka kagak semu-semu. Enggak, enggak itu.
+167	Komplikasi dari penyakit gula bukan cuman kaki yang luka kagak semu-semu. Enggak, enggak itu.
+168	Enggak, enggak itu. Tapi banyak.
+169	Enggak, enggak itu. Tapi banyak. Misalkan kerusakan saraf bola mata.
+170	Tapi banyak. Misalkan kerusakan saraf bola mata.
+171	Misalkan kerusakan saraf bola mata.
+172	Misalkan kerusakan saraf bola mata.
+173	Misalkan kerusakan saraf bola mata. Kita sebutnya retinopati diabetikum.
+174	Misalkan kerusakan saraf bola mata. Kita sebutnya retinopati diabetikum.
+175	Kita sebutnya retinopati diabetikum.
+176	Kita sebutnya retinopati diabetikum.
+177	Kita sebutnya retinopati diabetikum. Kerusakan saraf tepi.
+178	Kita sebutnya retinopati diabetikum. Kerusakan saraf tepi.
+179	Kerusakan saraf tepi.
+180	Kerusakan saraf tepi. Jadi biasanya tangan tuh gampang kesemutan.
+181	Kerusakan saraf tepi. Jadi biasanya tangan tuh gampang kesemutan.
+182	Jadi biasanya tangan tuh gampang kesemutan.
+183	Jadi biasanya tangan tuh gampang kesemutan.
+184	Jadi biasanya tangan tuh gampang kesemutan.
+185	Jadi biasanya tangan tuh gampang kesemutan. Atau bahkan yang parah-parah tuh misalnya kerusakan pada ginjal lah.
+186	Atau bahkan yang parah-parah tuh misalnya kerusakan pada ginjal lah.
+187	Atau bahkan yang parah-parah tuh misalnya kerusakan pada ginjal lah.
+188	Atau bahkan yang parah-parah tuh misalnya kerusakan pada ginjal lah.
+189	Atau bahkan yang parah-parah tuh misalnya kerusakan pada ginjal lah.
+190	Atau bahkan yang parah-parah tuh misalnya kerusakan pada ginjal lah.
+191	Atau bahkan yang parah-parah tuh misalnya kerusakan pada ginjal lah.
+192	Atau bahkan yang parah-parah tuh misalnya kerusakan pada ginjal lah.
+193	Atau bahkan yang parah-parah tuh misalnya kerusakan pada ginjal lah. Jadi sebenernya di dunia yang semakin instan ini yang banyak orang kena diabet.
+194	Atau bahkan yang parah-parah tuh misalnya kerusakan pada ginjal lah. Jadi sebenernya di dunia yang semakin instan ini yang banyak orang kena diabet.
+195	Jadi sebenernya di dunia yang semakin instan ini yang banyak orang kena diabet.
+196	Jadi sebenernya di dunia yang semakin instan ini yang banyak orang kena diabet.
+197	Jadi sebenernya di dunia yang semakin instan ini yang banyak orang kena diabet.
+198	Jadi sebenernya di dunia yang semakin instan ini yang banyak orang kena diabet.
+199	Jadi sebenernya di dunia yang semakin instan ini yang banyak orang kena diabet.
+200	Jadi sebenernya di dunia yang semakin instan ini yang banyak orang kena diabet.
+201	Jadi sebenernya di dunia yang semakin instan ini yang banyak orang kena diabet.
+202	Jadi sebenernya di dunia yang semakin instan ini yang banyak orang kena diabet. Tolonglah kita perbaikin pola hidup.
+203	Tolonglah kita perbaikin pola hidup.
+204	Tolonglah kita perbaikin pola hidup.
+205	Tolonglah kita perbaikin pola hidup.
+206	Tolonglah kita perbaikin pola hidup. Makan makanan yang sehat.
+207	Tolonglah kita perbaikin pola hidup. Makan makanan yang sehat.
+208	Makan makanan yang sehat.
+209	Makan makanan yang sehat.
+210	Makan makanan yang sehat. Makan secara teratur.
+211	Makan secara teratur.
+212	Makan secara teratur.
+213	Makan secara teratur. Luangin waktu buat olahraga.
+214	Luangin waktu buat olahraga.
+215	Luangin waktu buat olahraga.
+216	Luangin waktu buat olahraga.
+217	Luangin waktu buat olahraga.
+218	Luangin waktu buat olahraga. Minimal 30 menit sehari aja.
+219	Luangin waktu buat olahraga. Minimal 30 menit sehari aja.
+220	Minimal 30 menit sehari aja.
+221	Minimal 30 menit sehari aja. Dan kalo misalkan ada dananya, jangan lupa MCU.
+222	Minimal 30 menit sehari aja. Dan kalo misalkan ada dananya, jangan lupa MCU.
+223	Dan kalo misalkan ada dananya, jangan lupa MCU.
+224	Dan kalo misalkan ada dananya, jangan lupa MCU.
+225	Dan kalo misalkan ada dananya, jangan lupa MCU.
+226	Dan kalo misalkan ada dananya, jangan lupa MCU.
+227	Dan kalo misalkan ada dananya, jangan lupa MCU. Medical Checkup.
+228	Medical Checkup.
+229	Medical Checkup.
+230	Medical Checkup. Liat kondisi tubuhnya.
+231	Medical Checkup. Liat kondisi tubuhnya.
+232	Liat kondisi tubuhnya.
+233	Liat kondisi tubuhnya.
+234	Liat kondisi tubuhnya. Karena sebetulnya kita mencari.
+235	Karena sebetulnya kita mencari.
+236	Karena sebetulnya kita mencari.
+237	Karena sebetulnya kita mencari. Dan cegah itu lebih baik dibandingkan mengobati.
+238	Karena sebetulnya kita mencari. Dan cegah itu lebih baik dibandingkan mengobati.
+239	Dan cegah itu lebih baik dibandingkan mengobati.
+240	Dan cegah itu lebih baik dibandingkan mengobati.
+241	Dan cegah itu lebih baik dibandingkan mengobati.
+242	Dan cegah itu lebih baik dibandingkan mengobati.
+243	Dan cegah itu lebih baik dibandingkan mengobati. Jangan lupa pola hidup diperhatikan.
+244	Dan cegah itu lebih baik dibandingkan mengobati. Jangan lupa pola hidup diperhatikan.
+245	Jangan lupa pola hidup diperhatikan.
+246	Jangan lupa pola hidup diperhatikan.
+247	Jangan lupa pola hidup diperhatikan.
+248	Jangan lupa pola hidup diperhatikan.
+249	Jangan lupa pola hidup diperhatikan. Olahraga yang cukup.
+250	Jangan lupa pola hidup diperhatikan. Olahraga yang cukup.
+251	Olahraga yang cukup. Kalo ada dananya jangan lupa MCU.
+252	Olahraga yang cukup. Kalo ada dananya jangan lupa MCU.
+253	Kalo ada dananya jangan lupa MCU.
+254	Kalo ada dananya jangan lupa MCU. Karena monitoring kesehatan tuh amat sangat penting.
+255	Kalo ada dananya jangan lupa MCU. Karena monitoring kesehatan tuh amat sangat penting.
+256	Karena monitoring kesehatan tuh amat sangat penting.
+257	Karena monitoring kesehatan tuh amat sangat penting.
+258	Karena monitoring kesehatan tuh amat sangat penting. Oke?
+259	Karena monitoring kesehatan tuh amat sangat penting. Oke?
+260	Oke?
+261	[NO_SPEECH]

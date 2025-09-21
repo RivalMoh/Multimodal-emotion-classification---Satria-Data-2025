@@ -1,0 +1,278 @@
+0	Sempet tau gak sih ada yang viral di billboard loh
+1	Sempet tau gak sih ada yang viral di billboard loh
+2	Sempet tau gak sih ada yang viral di billboard loh
+3	Sempet tau gak sih ada yang viral di billboard loh
+4	Sempet tau gak sih ada yang viral di billboard loh
+5	Sempet tau gak sih ada yang viral di billboard loh Sunscreennya Wardah
+6	Sempet tau gak sih ada yang viral di billboard loh Sunscreennya Wardah
+7	Sunscreennya Wardah
+8	Sunscreennya Wardah
+9	Sunscreennya Wardah Tapi talentnya gak ada
+10	Sunscreennya Wardah Tapi talentnya gak ada
+11	Tapi talentnya gak ada
+12	Tapi talentnya gak ada
+13	Tapi talentnya gak ada Dengar-dengar nih sekarang udah ketemu
+14	Tapi talentnya gak ada Dengar-dengar nih sekarang udah ketemu
+15	Dengar-dengar nih sekarang udah ketemu
+16	Dengar-dengar nih sekarang udah ketemu
+17	Dengar-dengar nih sekarang udah ketemu Coba yuk kita cek-cek dulu update-nya yuk
+18	Dengar-dengar nih sekarang udah ketemu Coba yuk kita cek-cek dulu update-nya yuk
+19	Coba yuk kita cek-cek dulu update-nya yuk
+20	Coba yuk kita cek-cek dulu update-nya yuk
+21	Coba yuk kita cek-cek dulu update-nya yuk
+22	Coba yuk kita cek-cek dulu update-nya yuk
+23	Coba yuk kita cek-cek dulu update-nya yuk
+24	Coba yuk kita cek-cek dulu update-nya yuk Halo
+25	Coba yuk kita cek-cek dulu update-nya yuk Halo
+26	Halo Halo
+27	Halo Halo Permisi
+28	Halo Permisi
+29	Halo Permisi
+30	Permisi Tanya ini bener Wardah Skin First Clinic?
+31	Permisi Tanya ini bener Wardah Skin First Clinic?
+32	Tanya ini bener Wardah Skin First Clinic?
+33	Tanya ini bener Wardah Skin First Clinic?
+34	Tanya ini bener Wardah Skin First Clinic?
+35	Tanya ini bener Wardah Skin First Clinic?
+36	Tanya ini bener Wardah Skin First Clinic?
+37	Tanya ini bener Wardah Skin First Clinic?
+38	Tanya ini bener Wardah Skin First Clinic? Bener
+39	Bener Ini yang launching buat Wardah Sunscreen
+40	Bener Ini yang launching buat Wardah Sunscreen
+41	Ini yang launching buat Wardah Sunscreen
+42	Ini yang launching buat Wardah Sunscreen
+43	Ini yang launching buat Wardah Sunscreen
+44	Ini yang launching buat Wardah Sunscreen
+45	Ini yang launching buat Wardah Sunscreen Wardah Sun
+46	Ini yang launching buat Wardah Sunscreen Wardah Sun
+47	Wardah Sun Bener ini
+48	Wardah Sun Bener ini Ih keren banget
+49	Bener ini Ih keren banget
+50	Ih keren banget
+51	Ih keren banget
+52	Ih keren banget Ada yang kenal gak teman-teman?
+53	Ih keren banget Ada yang kenal gak teman-teman?
+54	Ada yang kenal gak teman-teman?
+55	Ada yang kenal gak teman-teman? Ih gemar
+56	Ih gemar
+57	Ih gemar
+58	[NO_SPEECH]
+59	Aduh
+60	Aduh
+61	Aduh Kenalin aku Yuki Kato
+62	Kenalin aku Yuki Kato
+63	Kenalin aku Yuki Kato
+64	Kenalin aku Yuki Kato Siapa sih kalau ngetan?
+65	Kenalin aku Yuki Kato Siapa sih kalau ngetan?
+66	Siapa sih kalau ngetan?
+67	Siapa sih kalau ngetan? Aku face Wardah Sunscreen you know
+68	Siapa sih kalau ngetan? Aku face Wardah Sunscreen you know
+69	Aku face Wardah Sunscreen you know
+70	Aku face Wardah Sunscreen you know
+71	Aku face Wardah Sunscreen you know
+72	Aku face Wardah Sunscreen you know Oh itu
+73	Aku face Wardah Sunscreen you know Oh itu Tuh
+74	Oh itu Tuh
+75	Tuh Sunscreen
+76	Tuh Sunscreen
+77	Sunscreen Wardah
+78	Sunscreen Wardah
+79	Wardah
+80	Wardah Talent
+81	Wardah Talent
+82	Talent
+83	Udah gede banget nih
+84	Udah gede banget nih
+85	Udah gede banget nih
+86	Udah gede banget nih
+87	Udah gede banget nih Wardah Sunscreen
+88	Udah gede banget nih Wardah Sunscreen
+89	Udah gede banget nih Wardah Sunscreen
+90	Wardah Sunscreen
+91	Wardah Sunscreen
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	[NO_SPEECH]
+95	[NO_SPEECH]
+96	Wardah itu memang always ya
+97	Wardah itu memang always ya
+98	Wardah itu memang always ya
+99	Wardah itu memang always ya
+100	Wardah itu memang always ya Always menghadirkan breakthrough
+101	Wardah itu memang always ya Always menghadirkan breakthrough
+102	Always menghadirkan breakthrough
+103	Always menghadirkan breakthrough
+104	Always menghadirkan breakthrough Nah salah satunya mengenalkan
+105	Always menghadirkan breakthrough Nah salah satunya mengenalkan
+106	Nah salah satunya mengenalkan
+107	Nah salah satunya mengenalkan
+108	Nah salah satunya mengenalkan
+109	Nah salah satunya mengenalkan Teknologi terbaru dari sunscreennya Wardah
+110	Nah salah satunya mengenalkan Teknologi terbaru dari sunscreennya Wardah
+111	Teknologi terbaru dari sunscreennya Wardah
+112	Teknologi terbaru dari sunscreennya Wardah
+113	Teknologi terbaru dari sunscreennya Wardah
+114	Teknologi terbaru dari sunscreennya Wardah
+115	Teknologi terbaru dari sunscreennya Wardah Ultra Cement
+116	Teknologi terbaru dari sunscreennya Wardah Ultra Cement Ultra Thin Veil
+117	Ultra Cement Ultra Thin Veil Yang bisa deliver
+118	Ultra Thin Veil Yang bisa deliver
+119	Yang bisa deliver
+120	Yang bisa deliver
+121	Yang bisa deliver Dua kali lebih ringan
+122	Dua kali lebih ringan
+123	Dua kali lebih ringan
+124	Dua kali lebih ringan Lebih tipis
+125	Dua kali lebih ringan Lebih tipis
+126	Lebih tipis
+127	Lebih tipis Dan gak sumuk
+128	Lebih tipis Dan gak sumuk
+129	Dan gak sumuk
+130	Dan gak sumuk Dia itu cepet banget menyerap
+131	Dan gak sumuk Dia itu cepet banget menyerap
+132	Dia itu cepet banget menyerap Hanya dalam waktu 6 detik
+133	Dia itu cepet banget menyerap Hanya dalam waktu 6 detik
+134	Hanya dalam waktu 6 detik
+135	Hanya dalam waktu 6 detik Aduh aku gak mau pakai sunscreen karena
+136	Hanya dalam waktu 6 detik Aduh aku gak mau pakai sunscreen karena
+137	Aduh aku gak mau pakai sunscreen karena
+138	Aduh aku gak mau pakai sunscreen karena
+139	Aduh aku gak mau pakai sunscreen karena
+140	Aduh aku gak mau pakai sunscreen karena Berat
+141	Berat
+142	Berat Atau bikin makeup aku
+143	Berat Atau bikin makeup aku
+144	Atau bikin makeup aku
+145	Atau bikin makeup aku Gak maksimal
+146	Atau bikin makeup aku Gak maksimal
+147	Gak maksimal
+148	Gak maksimal Nge-crack
+149	Gak maksimal Nge-crack
+150	Nge-crack Terus white cast
+151	Nge-crack Terus white cast
+152	Terus white cast Dari inside-inside tersebut
+153	Terus white cast Dari inside-inside tersebut
+154	Dari inside-inside tersebut
+155	Dari inside-inside tersebut Makanya kita menghasilkan teknologi Ultra Thin Veil
+156	Dari inside-inside tersebut Makanya kita menghasilkan teknologi Ultra Thin Veil
+157	Makanya kita menghasilkan teknologi Ultra Thin Veil
+158	Makanya kita menghasilkan teknologi Ultra Thin Veil
+159	Makanya kita menghasilkan teknologi Ultra Thin Veil
+160	Makanya kita menghasilkan teknologi Ultra Thin Veil
+161	Makanya kita menghasilkan teknologi Ultra Thin Veil
+162	Makanya kita menghasilkan teknologi Ultra Thin Veil
+163	Makanya kita menghasilkan teknologi Ultra Thin Veil Teknologi tadi
+164	Makanya kita menghasilkan teknologi Ultra Thin Veil Teknologi tadi
+165	Teknologi tadi
+166	[NO_SPEECH]
+167	Yang menarik dari yang sekarang ini selain teknologi yang Ultra Thin Veil
+168	Yang menarik dari yang sekarang ini selain teknologi yang Ultra Thin Veil
+169	Yang menarik dari yang sekarang ini selain teknologi yang Ultra Thin Veil
+170	Yang menarik dari yang sekarang ini selain teknologi yang Ultra Thin Veil
+171	Yang menarik dari yang sekarang ini selain teknologi yang Ultra Thin Veil
+172	Yang menarik dari yang sekarang ini selain teknologi yang Ultra Thin Veil
+173	Yang menarik dari yang sekarang ini selain teknologi yang Ultra Thin Veil
+174	Yang menarik dari yang sekarang ini selain teknologi yang Ultra Thin Veil Iya?
+175	Yang menarik dari yang sekarang ini selain teknologi yang Ultra Thin Veil Iya? Dia punya yang namanya Luminasen
+176	Iya? Dia punya yang namanya Luminasen
+177	Dia punya yang namanya Luminasen
+178	Dia punya yang namanya Luminasen Dia ini zat aktif yang sebenarnya kalo kita bilang itu
+179	Dia punya yang namanya Luminasen Dia ini zat aktif yang sebenarnya kalo kita bilang itu
+180	Dia ini zat aktif yang sebenarnya kalo kita bilang itu
+181	Dia ini zat aktif yang sebenarnya kalo kita bilang itu
+182	Dia ini zat aktif yang sebenarnya kalo kita bilang itu
+183	Dia ini zat aktif yang sebenarnya kalo kita bilang itu
+184	Dia ini zat aktif yang sebenarnya kalo kita bilang itu
+185	Dia ini zat aktif yang sebenarnya kalo kita bilang itu Menyulap energi negatif jadi energi positif
+186	Dia ini zat aktif yang sebenarnya kalo kita bilang itu Menyulap energi negatif jadi energi positif
+187	Menyulap energi negatif jadi energi positif
+188	Menyulap energi negatif jadi energi positif
+189	Menyulap energi negatif jadi energi positif
+190	Menyulap energi negatif jadi energi positif
+191	Menyulap energi negatif jadi energi positif Jadi Luminasen ini punya fungsi satu
+192	Menyulap energi negatif jadi energi positif Jadi Luminasen ini punya fungsi satu
+193	Jadi Luminasen ini punya fungsi satu
+194	Jadi Luminasen ini punya fungsi satu
+195	Jadi Luminasen ini punya fungsi satu Dia menurunkan stress oksidatif
+196	Jadi Luminasen ini punya fungsi satu Dia menurunkan stress oksidatif
+197	Dia menurunkan stress oksidatif
+198	Dia menurunkan stress oksidatif
+199	Dia menurunkan stress oksidatif Yang kedua dia bisa mencerahkan kulit
+200	Dia menurunkan stress oksidatif Yang kedua dia bisa mencerahkan kulit
+201	Yang kedua dia bisa mencerahkan kulit
+202	Yang kedua dia bisa mencerahkan kulit
+203	Yang kedua dia bisa mencerahkan kulit Dan yang ketiga dia memberikan efek glowing
+204	Yang kedua dia bisa mencerahkan kulit Dan yang ketiga dia memberikan efek glowing
+205	Dan yang ketiga dia memberikan efek glowing
+206	Dan yang ketiga dia memberikan efek glowing
+207	Dan yang ketiga dia memberikan efek glowing
+208	Dan yang ketiga dia memberikan efek glowing Iya hampir ketiganya tuh seperti itu
+209	Dan yang ketiga dia memberikan efek glowing Iya hampir ketiganya tuh seperti itu
+210	Iya hampir ketiganya tuh seperti itu
+211	Iya hampir ketiganya tuh seperti itu
+212	Iya hampir ketiganya tuh seperti itu
+213	Iya hampir ketiganya tuh seperti itu
+214	Iya hampir ketiganya tuh seperti itu Nah terus ada momen dimana aku pakai makeup
+215	Iya hampir ketiganya tuh seperti itu Nah terus ada momen dimana aku pakai makeup
+216	Nah terus ada momen dimana aku pakai makeup
+217	Nah terus ada momen dimana aku pakai makeup
+218	Nah terus ada momen dimana aku pakai makeup
+219	Nah terus ada momen dimana aku pakai makeup
+220	Nah terus ada momen dimana aku pakai makeup
+221	Nah terus ada momen dimana aku pakai makeup Salah satu concern sunscreen
+222	Salah satu concern sunscreen
+223	Salah satu concern sunscreen
+224	Salah satu concern sunscreen
+225	Salah satu concern sunscreen Itu adalah nanti kayak aduh kalo gue pakai makeup
+226	Salah satu concern sunscreen Itu adalah nanti kayak aduh kalo gue pakai makeup
+227	Itu adalah nanti kayak aduh kalo gue pakai makeup
+228	Itu adalah nanti kayak aduh kalo gue pakai makeup
+229	Itu adalah nanti kayak aduh kalo gue pakai makeup
+230	Itu adalah nanti kayak aduh kalo gue pakai makeup Tapi pakai sunscreen nanti lodoh
+231	Itu adalah nanti kayak aduh kalo gue pakai makeup Tapi pakai sunscreen nanti lodoh
+232	Tapi pakai sunscreen nanti lodoh
+233	Tapi pakai sunscreen nanti lodoh Nah itu yang paling penting ya?
+234	Tapi pakai sunscreen nanti lodoh Nah itu yang paling penting ya?
+235	Nah itu yang paling penting ya? Mukanya lodoh
+236	Nah itu yang paling penting ya? Mukanya lodoh Leleh
+237	Mukanya lodoh Leleh
+238	Leleh
+239	Leleh Meluntur
+240	Meluntur Iya kan?
+241	Meluntur Iya kan?
+242	Iya kan? Tapi surprisingly di aku nggak
+243	Iya kan? Tapi surprisingly di aku nggak
+244	Tapi surprisingly di aku nggak
+245	Tapi surprisingly di aku nggak
+246	Tapi surprisingly di aku nggak
+247	Tapi surprisingly di aku nggak Itu nggak ada cracking
+248	Tapi surprisingly di aku nggak Itu nggak ada cracking
+249	Itu nggak ada cracking
+250	Itu nggak ada cracking
+251	Terus habis itu disini smile lines juga nggak ada
+252	Terus habis itu disini smile lines juga nggak ada
+253	Terus habis itu disini smile lines juga nggak ada
+254	Terus habis itu disini smile lines juga nggak ada
+255	Terus habis itu disini smile lines juga nggak ada
+256	Terus habis itu disini smile lines juga nggak ada
+257	Terus habis itu disini smile lines juga nggak ada Jadi surprisingly it's very ngikat gitu
+258	Terus habis itu disini smile lines juga nggak ada Jadi surprisingly it's very ngikat gitu
+259	Jadi surprisingly it's very ngikat gitu
+260	Jadi surprisingly it's very ngikat gitu
+261	Jadi surprisingly it's very ngikat gitu
+262	Jadi surprisingly it's very ngikat gitu
+263	[NO_SPEECH]
+264	[NO_SPEECH]
+265	[NO_SPEECH]
+266	[NO_SPEECH]
+267	[NO_SPEECH]
+268	[NO_SPEECH]
+269	[NO_SPEECH]
+270	[NO_SPEECH]
+271	[NO_SPEECH]
+272	[NO_SPEECH]
+273	[NO_SPEECH]
+274	[NO_SPEECH]
+275	[NO_SPEECH]
+276	[NO_SPEECH]
+277	[NO_SPEECH]

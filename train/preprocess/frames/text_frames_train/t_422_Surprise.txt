@@ -1,0 +1,110 @@
+0	Ini dia step by step untuk kamu yang baru pertama kali nge-gym.
+1	Ini dia step by step untuk kamu yang baru pertama kali nge-gym.
+2	Ini dia step by step untuk kamu yang baru pertama kali nge-gym.
+3	Ini dia step by step untuk kamu yang baru pertama kali nge-gym.
+4	Ini dia step by step untuk kamu yang baru pertama kali nge-gym.
+5	Ini dia step by step untuk kamu yang baru pertama kali nge-gym.
+6	Ini dia step by step untuk kamu yang baru pertama kali nge-gym.
+7	Ini dia step by step untuk kamu yang baru pertama kali nge-gym. Hal pertama yang harus kamu lakukan adalah konfirmasi kehadiran di admin terlebih dahulu untuk mengambil kunci locker.
+8	Hal pertama yang harus kamu lakukan adalah konfirmasi kehadiran di admin terlebih dahulu untuk mengambil kunci locker.
+9	Hal pertama yang harus kamu lakukan adalah konfirmasi kehadiran di admin terlebih dahulu untuk mengambil kunci locker.
+10	Hal pertama yang harus kamu lakukan adalah konfirmasi kehadiran di admin terlebih dahulu untuk mengambil kunci locker.
+11	Hal pertama yang harus kamu lakukan adalah konfirmasi kehadiran di admin terlebih dahulu untuk mengambil kunci locker.
+12	Hal pertama yang harus kamu lakukan adalah konfirmasi kehadiran di admin terlebih dahulu untuk mengambil kunci locker.
+13	Hal pertama yang harus kamu lakukan adalah konfirmasi kehadiran di admin terlebih dahulu untuk mengambil kunci locker.
+14	Hal pertama yang harus kamu lakukan adalah konfirmasi kehadiran di admin terlebih dahulu untuk mengambil kunci locker.
+15	Hal pertama yang harus kamu lakukan adalah konfirmasi kehadiran di admin terlebih dahulu untuk mengambil kunci locker.
+16	Hal pertama yang harus kamu lakukan adalah konfirmasi kehadiran di admin terlebih dahulu untuk mengambil kunci locker.
+17	Hal pertama yang harus kamu lakukan adalah konfirmasi kehadiran di admin terlebih dahulu untuk mengambil kunci locker.
+18	Hal pertama yang harus kamu lakukan adalah konfirmasi kehadiran di admin terlebih dahulu untuk mengambil kunci locker.
+19	Hal pertama yang harus kamu lakukan adalah konfirmasi kehadiran di admin terlebih dahulu untuk mengambil kunci locker.
+20	Hal pertama yang harus kamu lakukan adalah konfirmasi kehadiran di admin terlebih dahulu untuk mengambil kunci locker.
+21	Hal pertama yang harus kamu lakukan adalah konfirmasi kehadiran di admin terlebih dahulu untuk mengambil kunci locker. Nah, setelah itu jangan lupa taruh barang-barang kamu di locker ya.
+22	Nah, setelah itu jangan lupa taruh barang-barang kamu di locker ya.
+23	Nah, setelah itu jangan lupa taruh barang-barang kamu di locker ya.
+24	Nah, setelah itu jangan lupa taruh barang-barang kamu di locker ya.
+25	Nah, setelah itu jangan lupa taruh barang-barang kamu di locker ya.
+26	Nah, setelah itu jangan lupa taruh barang-barang kamu di locker ya.
+27	Nah, setelah itu jangan lupa taruh barang-barang kamu di locker ya.
+28	Nah, setelah itu jangan lupa taruh barang-barang kamu di locker ya. Step kedua yaitu pemanasan sebelum olahraga nih. Hal ini penting banget untuk menghindari cedera.
+29	Nah, setelah itu jangan lupa taruh barang-barang kamu di locker ya. Step kedua yaitu pemanasan sebelum olahraga nih. Hal ini penting banget untuk menghindari cedera.
+30	Step kedua yaitu pemanasan sebelum olahraga nih. Hal ini penting banget untuk menghindari cedera.
+31	Step kedua yaitu pemanasan sebelum olahraga nih. Hal ini penting banget untuk menghindari cedera.
+32	Step kedua yaitu pemanasan sebelum olahraga nih. Hal ini penting banget untuk menghindari cedera.
+33	Step kedua yaitu pemanasan sebelum olahraga nih. Hal ini penting banget untuk menghindari cedera.
+34	Step kedua yaitu pemanasan sebelum olahraga nih. Hal ini penting banget untuk menghindari cedera.
+35	Step kedua yaitu pemanasan sebelum olahraga nih. Hal ini penting banget untuk menghindari cedera.
+36	Step kedua yaitu pemanasan sebelum olahraga nih. Hal ini penting banget untuk menghindari cedera.
+37	Step kedua yaitu pemanasan sebelum olahraga nih. Hal ini penting banget untuk menghindari cedera.
+38	Step kedua yaitu pemanasan sebelum olahraga nih. Hal ini penting banget untuk menghindari cedera.
+39	Step kedua yaitu pemanasan sebelum olahraga nih. Hal ini penting banget untuk menghindari cedera. Step ketiga, mulai olahraga kardio. Nah, di sini kalian bisa pakai treadmill ya.
+40	Step kedua yaitu pemanasan sebelum olahraga nih. Hal ini penting banget untuk menghindari cedera. Step ketiga, mulai olahraga kardio. Nah, di sini kalian bisa pakai treadmill ya.
+41	Step ketiga, mulai olahraga kardio. Nah, di sini kalian bisa pakai treadmill ya.
+42	Step ketiga, mulai olahraga kardio. Nah, di sini kalian bisa pakai treadmill ya.
+43	Step ketiga, mulai olahraga kardio. Nah, di sini kalian bisa pakai treadmill ya.
+44	Step ketiga, mulai olahraga kardio. Nah, di sini kalian bisa pakai treadmill ya.
+45	Step ketiga, mulai olahraga kardio. Nah, di sini kalian bisa pakai treadmill ya.
+46	Step ketiga, mulai olahraga kardio. Nah, di sini kalian bisa pakai treadmill ya.
+47	Step ketiga, mulai olahraga kardio. Nah, di sini kalian bisa pakai treadmill ya.
+48	Step ketiga, mulai olahraga kardio. Nah, di sini kalian bisa pakai treadmill ya.
+49	Step ketiga, mulai olahraga kardio. Nah, di sini kalian bisa pakai treadmill ya.
+50	Setelah itu, kalian bisa pakai smith machine. Usahakan bebannya sesuai dengan kemampuan kamu ya, jangan sampai ego lifting.
+51	Setelah itu, kalian bisa pakai smith machine. Usahakan bebannya sesuai dengan kemampuan kamu ya, jangan sampai ego lifting.
+52	Setelah itu, kalian bisa pakai smith machine. Usahakan bebannya sesuai dengan kemampuan kamu ya, jangan sampai ego lifting.
+53	Setelah itu, kalian bisa pakai smith machine. Usahakan bebannya sesuai dengan kemampuan kamu ya, jangan sampai ego lifting.
+54	Setelah itu, kalian bisa pakai smith machine. Usahakan bebannya sesuai dengan kemampuan kamu ya, jangan sampai ego lifting.
+55	Setelah itu, kalian bisa pakai smith machine. Usahakan bebannya sesuai dengan kemampuan kamu ya, jangan sampai ego lifting.
+56	Setelah itu, kalian bisa pakai smith machine. Usahakan bebannya sesuai dengan kemampuan kamu ya, jangan sampai ego lifting.
+57	Setelah itu, kalian bisa pakai smith machine. Usahakan bebannya sesuai dengan kemampuan kamu ya, jangan sampai ego lifting.
+58	Setelah itu, kalian bisa pakai smith machine. Usahakan bebannya sesuai dengan kemampuan kamu ya, jangan sampai ego lifting.
+59	Setelah itu, kalian bisa pakai smith machine. Usahakan bebannya sesuai dengan kemampuan kamu ya, jangan sampai ego lifting.
+60	Setelah itu, kalian bisa pakai smith machine. Usahakan bebannya sesuai dengan kemampuan kamu ya, jangan sampai ego lifting.
+61	Setelah itu, kalian bisa pakai smith machine. Usahakan bebannya sesuai dengan kemampuan kamu ya, jangan sampai ego lifting.
+62	Setelah itu, kalian bisa pakai smith machine. Usahakan bebannya sesuai dengan kemampuan kamu ya, jangan sampai ego lifting.
+63	Setelah itu, kalian bisa pakai smith machine. Usahakan bebannya sesuai dengan kemampuan kamu ya, jangan sampai ego lifting.
+64	Setelah itu, kalian bisa pakai smith machine. Usahakan bebannya sesuai dengan kemampuan kamu ya, jangan sampai ego lifting.
+65	[NO_SPEECH]
+66	[NO_SPEECH]
+67	[NO_SPEECH]
+68	Atau kalian bisa menggunakan dumbbell sebagai pengganti smith machine.
+69	Atau kalian bisa menggunakan dumbbell sebagai pengganti smith machine.
+70	Atau kalian bisa menggunakan dumbbell sebagai pengganti smith machine.
+71	Atau kalian bisa menggunakan dumbbell sebagai pengganti smith machine.
+72	Atau kalian bisa menggunakan dumbbell sebagai pengganti smith machine.
+73	Atau kalian bisa menggunakan dumbbell sebagai pengganti smith machine.
+74	Atau kalian bisa menggunakan dumbbell sebagai pengganti smith machine.
+75	Atau kalian bisa menggunakan dumbbell sebagai pengganti smith machine.
+76	Atau kalian bisa menggunakan dumbbell sebagai pengganti smith machine.
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	Nah, setelah kalian selesai olahraga, jangan lupa cooling down untuk melemaskan otot-otot kalian.
+82	Nah, setelah kalian selesai olahraga, jangan lupa cooling down untuk melemaskan otot-otot kalian.
+83	Nah, setelah kalian selesai olahraga, jangan lupa cooling down untuk melemaskan otot-otot kalian.
+84	Nah, setelah kalian selesai olahraga, jangan lupa cooling down untuk melemaskan otot-otot kalian.
+85	Nah, setelah kalian selesai olahraga, jangan lupa cooling down untuk melemaskan otot-otot kalian.
+86	Nah, setelah kalian selesai olahraga, jangan lupa cooling down untuk melemaskan otot-otot kalian.
+87	Nah, setelah kalian selesai olahraga, jangan lupa cooling down untuk melemaskan otot-otot kalian.
+88	Nah, setelah kalian selesai olahraga, jangan lupa cooling down untuk melemaskan otot-otot kalian.
+89	Nah, setelah kalian selesai olahraga, jangan lupa cooling down untuk melemaskan otot-otot kalian.
+90	Nah, setelah kalian selesai olahraga, jangan lupa cooling down untuk melemaskan otot-otot kalian.
+91	Nah, setelah kalian selesai olahraga, jangan lupa cooling down untuk melemaskan otot-otot kalian.
+92	Nah, setelah kalian selesai olahraga, jangan lupa cooling down untuk melemaskan otot-otot kalian.
+93	Kalau versi kalian gimana? Coba komen di bawah ya.
+94	Kalau versi kalian gimana? Coba komen di bawah ya.
+95	Kalau versi kalian gimana? Coba komen di bawah ya.
+96	Kalau versi kalian gimana? Coba komen di bawah ya.
+97	Kalau versi kalian gimana? Coba komen di bawah ya.
+98	Kalau versi kalian gimana? Coba komen di bawah ya.
+99	Kalau versi kalian gimana? Coba komen di bawah ya.
+100	Kalau versi kalian gimana? Coba komen di bawah ya.
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	[NO_SPEECH]
+104	[NO_SPEECH]
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	[NO_SPEECH]
+108	[NO_SPEECH]
+109	[NO_SPEECH]

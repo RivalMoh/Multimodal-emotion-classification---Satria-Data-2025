@@ -1,0 +1,131 @@
+0	Terus yang paling nyakitin hati saya tuh, dia sampai nyetrumin alat vital saya.
+1	Terus yang paling nyakitin hati saya tuh, dia sampai nyetrumin alat vital saya.
+2	Terus yang paling nyakitin hati saya tuh, dia sampai nyetrumin alat vital saya.
+3	Terus yang paling nyakitin hati saya tuh, dia sampai nyetrumin alat vital saya.
+4	Terus yang paling nyakitin hati saya tuh, dia sampai nyetrumin alat vital saya.
+5	Terus yang paling nyakitin hati saya tuh, dia sampai nyetrumin alat vital saya.
+6	Terus yang paling nyakitin hati saya tuh, dia sampai nyetrumin alat vital saya.
+7	Terus yang paling nyakitin hati saya tuh, dia sampai nyetrumin alat vital saya.
+8	Terus yang paling nyakitin hati saya tuh, dia sampai nyetrumin alat vital saya. Sampai itu saya jatuh, udah lemes banget. Saya bilang saya sakit.
+9	Sampai itu saya jatuh, udah lemes banget. Saya bilang saya sakit.
+10	Sampai itu saya jatuh, udah lemes banget. Saya bilang saya sakit.
+11	Sampai itu saya jatuh, udah lemes banget. Saya bilang saya sakit.
+12	Sampai itu saya jatuh, udah lemes banget. Saya bilang saya sakit.
+13	Sampai itu saya jatuh, udah lemes banget. Saya bilang saya sakit.
+14	Sampai itu saya jatuh, udah lemes banget. Saya bilang saya sakit.
+15	Sampai itu saya jatuh, udah lemes banget. Saya bilang saya sakit.
+16	Sampai itu saya jatuh, udah lemes banget. Saya bilang saya sakit.
+17	Sampai itu saya jatuh, udah lemes banget. Saya bilang saya sakit.
+18	[NO_SPEECH]
+19	Heboh kasus perbudakan terjadi pada para mantan pemain sirkus di salah satu kebun binatang.
+20	Heboh kasus perbudakan terjadi pada para mantan pemain sirkus di salah satu kebun binatang.
+21	Heboh kasus perbudakan terjadi pada para mantan pemain sirkus di salah satu kebun binatang.
+22	Heboh kasus perbudakan terjadi pada para mantan pemain sirkus di salah satu kebun binatang.
+23	Heboh kasus perbudakan terjadi pada para mantan pemain sirkus di salah satu kebun binatang.
+24	Heboh kasus perbudakan terjadi pada para mantan pemain sirkus di salah satu kebun binatang.
+25	Heboh kasus perbudakan terjadi pada para mantan pemain sirkus di salah satu kebun binatang.
+26	Heboh kasus perbudakan terjadi pada para mantan pemain sirkus di salah satu kebun binatang.
+27	Heboh kasus perbudakan terjadi pada para mantan pemain sirkus di salah satu kebun binatang.
+28	Heboh kasus perbudakan terjadi pada para mantan pemain sirkus di salah satu kebun binatang.
+29	Heboh kasus perbudakan terjadi pada para mantan pemain sirkus di salah satu kebun binatang.
+30	Heboh kasus perbudakan terjadi pada para mantan pemain sirkus di salah satu kebun binatang. Menurut pernyataan para pemain, mereka sejak kecil sudah dijadikan pemain sirkus
+31	Menurut pernyataan para pemain, mereka sejak kecil sudah dijadikan pemain sirkus
+32	Menurut pernyataan para pemain, mereka sejak kecil sudah dijadikan pemain sirkus
+33	Menurut pernyataan para pemain, mereka sejak kecil sudah dijadikan pemain sirkus
+34	Menurut pernyataan para pemain, mereka sejak kecil sudah dijadikan pemain sirkus
+35	Menurut pernyataan para pemain, mereka sejak kecil sudah dijadikan pemain sirkus
+36	Menurut pernyataan para pemain, mereka sejak kecil sudah dijadikan pemain sirkus
+37	Menurut pernyataan para pemain, mereka sejak kecil sudah dijadikan pemain sirkus
+38	Menurut pernyataan para pemain, mereka sejak kecil sudah dijadikan pemain sirkus
+39	Menurut pernyataan para pemain, mereka sejak kecil sudah dijadikan pemain sirkus
+40	Menurut pernyataan para pemain, mereka sejak kecil sudah dijadikan pemain sirkus yang ternyata mengalami kekerasan hingga pelecehan.
+41	Menurut pernyataan para pemain, mereka sejak kecil sudah dijadikan pemain sirkus yang ternyata mengalami kekerasan hingga pelecehan.
+42	yang ternyata mengalami kekerasan hingga pelecehan.
+43	yang ternyata mengalami kekerasan hingga pelecehan.
+44	yang ternyata mengalami kekerasan hingga pelecehan.
+45	yang ternyata mengalami kekerasan hingga pelecehan.
+46	yang ternyata mengalami kekerasan hingga pelecehan.
+47	yang ternyata mengalami kekerasan hingga pelecehan.
+48	Akibatnya, mereka mengalami trauma masa kecil
+49	Akibatnya, mereka mengalami trauma masa kecil
+50	Akibatnya, mereka mengalami trauma masa kecil
+51	Akibatnya, mereka mengalami trauma masa kecil
+52	Akibatnya, mereka mengalami trauma masa kecil
+53	Akibatnya, mereka mengalami trauma masa kecil yang cukup menimbulkan efek jangka panjang hingga dewasa lho.
+54	Akibatnya, mereka mengalami trauma masa kecil yang cukup menimbulkan efek jangka panjang hingga dewasa lho.
+55	yang cukup menimbulkan efek jangka panjang hingga dewasa lho.
+56	yang cukup menimbulkan efek jangka panjang hingga dewasa lho.
+57	yang cukup menimbulkan efek jangka panjang hingga dewasa lho.
+58	yang cukup menimbulkan efek jangka panjang hingga dewasa lho.
+59	yang cukup menimbulkan efek jangka panjang hingga dewasa lho.
+60	yang cukup menimbulkan efek jangka panjang hingga dewasa lho.
+61	yang cukup menimbulkan efek jangka panjang hingga dewasa lho.
+62	Bukan hanya fisik, efeknya pun bisa mempengaruhi kesehatan mental seseorang sampai dewasa seperti
+63	Bukan hanya fisik, efeknya pun bisa mempengaruhi kesehatan mental seseorang sampai dewasa seperti
+64	Bukan hanya fisik, efeknya pun bisa mempengaruhi kesehatan mental seseorang sampai dewasa seperti
+65	Bukan hanya fisik, efeknya pun bisa mempengaruhi kesehatan mental seseorang sampai dewasa seperti
+66	Bukan hanya fisik, efeknya pun bisa mempengaruhi kesehatan mental seseorang sampai dewasa seperti
+67	Bukan hanya fisik, efeknya pun bisa mempengaruhi kesehatan mental seseorang sampai dewasa seperti
+68	Bukan hanya fisik, efeknya pun bisa mempengaruhi kesehatan mental seseorang sampai dewasa seperti
+69	Bukan hanya fisik, efeknya pun bisa mempengaruhi kesehatan mental seseorang sampai dewasa seperti
+70	Bukan hanya fisik, efeknya pun bisa mempengaruhi kesehatan mental seseorang sampai dewasa seperti
+71	Bukan hanya fisik, efeknya pun bisa mempengaruhi kesehatan mental seseorang sampai dewasa seperti
+72	Bukan hanya fisik, efeknya pun bisa mempengaruhi kesehatan mental seseorang sampai dewasa seperti
+73	Bukan hanya fisik, efeknya pun bisa mempengaruhi kesehatan mental seseorang sampai dewasa seperti rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+74	Bukan hanya fisik, efeknya pun bisa mempengaruhi kesehatan mental seseorang sampai dewasa seperti rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+75	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+76	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+77	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+78	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+79	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+80	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+81	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+82	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+83	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+84	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+85	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+86	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+87	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+88	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+89	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+90	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+91	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+92	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+93	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+94	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+95	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+96	rasa takut berlebihan, depresi, antisosial, tidak percaya diri, hingga self-harm.
+97	Jika kamu atau orang sekitar mengalami trauma masa kecil,
+98	Jika kamu atau orang sekitar mengalami trauma masa kecil,
+99	Jika kamu atau orang sekitar mengalami trauma masa kecil,
+100	Jika kamu atau orang sekitar mengalami trauma masa kecil,
+101	Jika kamu atau orang sekitar mengalami trauma masa kecil,
+102	Jika kamu atau orang sekitar mengalami trauma masa kecil,
+103	Jika kamu atau orang sekitar mengalami trauma masa kecil, yuk beri dukungan dengan bercerita agar korban mengungkapkan kesedihannya.
+104	Jika kamu atau orang sekitar mengalami trauma masa kecil, yuk beri dukungan dengan bercerita agar korban mengungkapkan kesedihannya.
+105	yuk beri dukungan dengan bercerita agar korban mengungkapkan kesedihannya.
+106	yuk beri dukungan dengan bercerita agar korban mengungkapkan kesedihannya.
+107	yuk beri dukungan dengan bercerita agar korban mengungkapkan kesedihannya.
+108	yuk beri dukungan dengan bercerita agar korban mengungkapkan kesedihannya.
+109	yuk beri dukungan dengan bercerita agar korban mengungkapkan kesedihannya.
+110	yuk beri dukungan dengan bercerita agar korban mengungkapkan kesedihannya.
+111	yuk beri dukungan dengan bercerita agar korban mengungkapkan kesedihannya.
+112	yuk beri dukungan dengan bercerita agar korban mengungkapkan kesedihannya. Nah.
+113	yuk beri dukungan dengan bercerita agar korban mengungkapkan kesedihannya. Nah. Namun, jika kondisi sangat serius, bisa konsultasi ke psikolog atau psikiater ya Sobat Sehat.
+114	Nah. Namun, jika kondisi sangat serius, bisa konsultasi ke psikolog atau psikiater ya Sobat Sehat.
+115	Namun, jika kondisi sangat serius, bisa konsultasi ke psikolog atau psikiater ya Sobat Sehat.
+116	Namun, jika kondisi sangat serius, bisa konsultasi ke psikolog atau psikiater ya Sobat Sehat.
+117	Namun, jika kondisi sangat serius, bisa konsultasi ke psikolog atau psikiater ya Sobat Sehat.
+118	Namun, jika kondisi sangat serius, bisa konsultasi ke psikolog atau psikiater ya Sobat Sehat.
+119	Namun, jika kondisi sangat serius, bisa konsultasi ke psikolog atau psikiater ya Sobat Sehat.
+120	Namun, jika kondisi sangat serius, bisa konsultasi ke psikolog atau psikiater ya Sobat Sehat.
+121	Namun, jika kondisi sangat serius, bisa konsultasi ke psikolog atau psikiater ya Sobat Sehat.
+122	Namun, jika kondisi sangat serius, bisa konsultasi ke psikolog atau psikiater ya Sobat Sehat.
+123	Namun, jika kondisi sangat serius, bisa konsultasi ke psikolog atau psikiater ya Sobat Sehat.
+124	Namun, jika kondisi sangat serius, bisa konsultasi ke psikolog atau psikiater ya Sobat Sehat.
+125	[NO_SPEECH]
+126	[NO_SPEECH]
+127	[NO_SPEECH]
+128	[NO_SPEECH]
+129	[NO_SPEECH]
+130	[NO_SPEECH]

@@ -1,0 +1,82 @@
+0	Penting banget buat kita untuk memperkuat skin barrier
+1	Penting banget buat kita untuk memperkuat skin barrier
+2	Penting banget buat kita untuk memperkuat skin barrier
+3	Penting banget buat kita untuk memperkuat skin barrier Kayak siapa disini yang udah rajin pake body lotion
+4	Penting banget buat kita untuk memperkuat skin barrier Kayak siapa disini yang udah rajin pake body lotion
+5	Kayak siapa disini yang udah rajin pake body lotion
+6	Kayak siapa disini yang udah rajin pake body lotion
+7	Kayak siapa disini yang udah rajin pake body lotion Tapi masih ngerasa kulitnya tuh kering
+8	Kayak siapa disini yang udah rajin pake body lotion Tapi masih ngerasa kulitnya tuh kering
+9	Tapi masih ngerasa kulitnya tuh kering
+10	Tapi masih ngerasa kulitnya tuh kering
+11	Tapi masih ngerasa kulitnya tuh kering Dan juga musah
+12	Tapi masih ngerasa kulitnya tuh kering Dan juga musah Menurut dermatologi, sebanyak apapun produk pencer yang kita pake
+13	Dan juga musah Menurut dermatologi, sebanyak apapun produk pencer yang kita pake
+14	Menurut dermatologi, sebanyak apapun produk pencer yang kita pake
+15	Menurut dermatologi, sebanyak apapun produk pencer yang kita pake
+16	Menurut dermatologi, sebanyak apapun produk pencer yang kita pake
+17	Menurut dermatologi, sebanyak apapun produk pencer yang kita pake
+18	Menurut dermatologi, sebanyak apapun produk pencer yang kita pake Itu gak akan berpengaruh selama skin barrier kita tuh lemak
+19	Menurut dermatologi, sebanyak apapun produk pencer yang kita pake Itu gak akan berpengaruh selama skin barrier kita tuh lemak
+20	Itu gak akan berpengaruh selama skin barrier kita tuh lemak
+21	Itu gak akan berpengaruh selama skin barrier kita tuh lemak
+22	Itu gak akan berpengaruh selama skin barrier kita tuh lemak
+23	Itu gak akan berpengaruh selama skin barrier kita tuh lemak Tapi sekarang aku udah punya solusi buat ngatasin permasalahan itu
+24	Itu gak akan berpengaruh selama skin barrier kita tuh lemak Tapi sekarang aku udah punya solusi buat ngatasin permasalahan itu
+25	Tapi sekarang aku udah punya solusi buat ngatasin permasalahan itu
+26	Tapi sekarang aku udah punya solusi buat ngatasin permasalahan itu
+27	Tapi sekarang aku udah punya solusi buat ngatasin permasalahan itu Ini dia UV Extra Brightening dari Vaseline
+28	Tapi sekarang aku udah punya solusi buat ngatasin permasalahan itu Ini dia UV Extra Brightening dari Vaseline
+29	Ini dia UV Extra Brightening dari Vaseline
+30	Ini dia UV Extra Brightening dari Vaseline
+31	Ini dia UV Extra Brightening dari Vaseline Yang udah dilengkapi dengan Pro Ceramide untuk menjaga skin barrier
+32	Ini dia UV Extra Brightening dari Vaseline Yang udah dilengkapi dengan Pro Ceramide untuk menjaga skin barrier
+33	Yang udah dilengkapi dengan Pro Ceramide untuk menjaga skin barrier
+34	Yang udah dilengkapi dengan Pro Ceramide untuk menjaga skin barrier
+35	Yang udah dilengkapi dengan Pro Ceramide untuk menjaga skin barrier
+36	Yang udah dilengkapi dengan Pro Ceramide untuk menjaga skin barrier Dia punya tekstur yang cair, kalian bisa liat sendiri
+37	Yang udah dilengkapi dengan Pro Ceramide untuk menjaga skin barrier Dia punya tekstur yang cair, kalian bisa liat sendiri
+38	Dia punya tekstur yang cair, kalian bisa liat sendiri
+39	Dia punya tekstur yang cair, kalian bisa liat sendiri
+40	Dia punya tekstur yang cair, kalian bisa liat sendiri
+41	Dia punya tekstur yang cair, kalian bisa liat sendiri Jujur aku suka banget sama tekstur yang kayak gini
+42	Dia punya tekstur yang cair, kalian bisa liat sendiri Jujur aku suka banget sama tekstur yang kayak gini
+43	Jujur aku suka banget sama tekstur yang kayak gini
+44	Jujur aku suka banget sama tekstur yang kayak gini
+45	Jujur aku suka banget sama tekstur yang kayak gini Karena dia bisa cepet ngeresap ke kulit
+46	Jujur aku suka banget sama tekstur yang kayak gini Karena dia bisa cepet ngeresap ke kulit
+47	Karena dia bisa cepet ngeresap ke kulit
+48	Karena dia bisa cepet ngeresap ke kulit Dia juga gak bikin lengket di kulit sama sekali
+49	Karena dia bisa cepet ngeresap ke kulit Dia juga gak bikin lengket di kulit sama sekali
+50	Dia juga gak bikin lengket di kulit sama sekali
+51	Dia juga gak bikin lengket di kulit sama sekali
+52	Dia juga gak bikin lengket di kulit sama sekali Gak bikin gerah juga
+53	Dia juga gak bikin lengket di kulit sama sekali Gak bikin gerah juga
+54	Gak bikin gerah juga Dan kalian harus tau kalo dia tuh wanginya enak banget
+55	Gak bikin gerah juga Dan kalian harus tau kalo dia tuh wanginya enak banget
+56	Dan kalian harus tau kalo dia tuh wanginya enak banget
+57	Dan kalian harus tau kalo dia tuh wanginya enak banget
+58	Dan kalian harus tau kalo dia tuh wanginya enak banget
+59	Dan kalian harus tau kalo dia tuh wanginya enak banget Wanginya tuh fresh gitu
+60	Dan kalian harus tau kalo dia tuh wanginya enak banget Wanginya tuh fresh gitu
+61	Wanginya tuh fresh gitu
+62	Wanginya tuh fresh gitu Kulitku jadi lebih terhidrasi, moist, plump, dan glowing banget
+63	Wanginya tuh fresh gitu Kulitku jadi lebih terhidrasi, moist, plump, dan glowing banget
+64	Kulitku jadi lebih terhidrasi, moist, plump, dan glowing banget
+65	Kulitku jadi lebih terhidrasi, moist, plump, dan glowing banget
+66	Kulitku jadi lebih terhidrasi, moist, plump, dan glowing banget
+67	Kulitku jadi lebih terhidrasi, moist, plump, dan glowing banget
+68	Kulitku jadi lebih terhidrasi, moist, plump, dan glowing banget Dan tentunya skin barrier aku jauh lebih baik
+69	Kulitku jadi lebih terhidrasi, moist, plump, dan glowing banget Dan tentunya skin barrier aku jauh lebih baik
+70	Dan tentunya skin barrier aku jauh lebih baik
+71	Dan tentunya skin barrier aku jauh lebih baik
+72	Dan tentunya skin barrier aku jauh lebih baik Yuk perbaiki skin barrier kamu biar kulit lebih sehat dan terlindung
+73	Dan tentunya skin barrier aku jauh lebih baik Yuk perbaiki skin barrier kamu biar kulit lebih sehat dan terlindung
+74	Yuk perbaiki skin barrier kamu biar kulit lebih sehat dan terlindung
+75	Yuk perbaiki skin barrier kamu biar kulit lebih sehat dan terlindung
+76	Yuk perbaiki skin barrier kamu biar kulit lebih sehat dan terlindung
+77	Yuk perbaiki skin barrier kamu biar kulit lebih sehat dan terlindung Yuk cobain sekarang juga
+78	Yuk perbaiki skin barrier kamu biar kulit lebih sehat dan terlindung Yuk cobain sekarang juga
+79	Yuk cobain sekarang juga
+80	Yuk cobain sekarang juga
+81	[NO_SPEECH]

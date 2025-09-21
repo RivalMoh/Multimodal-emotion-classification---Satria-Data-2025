@@ -1,0 +1,166 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	Ini apa namanya?
+5	Ini apa namanya?
+6	Ini apa namanya?
+7	Ini apa namanya?
+8	Ini apa namanya? Siri
+9	Ini apa namanya? Siri
+10	Siri Ini apa? Terasi?
+11	Siri Ini apa? Terasi?
+12	Ini apa? Terasi?
+13	Ini apa? Terasi?
+14	Ini apa? Terasi?
+15	Ini apa? Terasi?
+16	Ini apa? Terasi?
+17	Ini apa? Terasi?
+18	Ini apa? Terasi?
+19	Ini apa? Terasi? Bukan
+20	Ini apa? Terasi? Bukan Jadi tadi kan gue datang ke pengajian orang mau nikahan
+21	Bukan Jadi tadi kan gue datang ke pengajian orang mau nikahan
+22	Jadi tadi kan gue datang ke pengajian orang mau nikahan
+23	Jadi tadi kan gue datang ke pengajian orang mau nikahan
+24	Jadi tadi kan gue datang ke pengajian orang mau nikahan
+25	Jadi tadi kan gue datang ke pengajian orang mau nikahan
+26	Jadi tadi kan gue datang ke pengajian orang mau nikahan
+27	Jadi tadi kan gue datang ke pengajian orang mau nikahan Karena gue diundang
+28	Jadi tadi kan gue datang ke pengajian orang mau nikahan Karena gue diundang
+29	Karena gue diundang
+30	Karena gue diundang Nah terus abis itu gue kaget
+31	Karena gue diundang Nah terus abis itu gue kaget
+32	Nah terus abis itu gue kaget
+33	Nah terus abis itu gue kaget Kalau ternyata kita tuh disuguhin sama Siri
+34	Nah terus abis itu gue kaget Kalau ternyata kita tuh disuguhin sama Siri
+35	Kalau ternyata kita tuh disuguhin sama Siri
+36	Kalau ternyata kita tuh disuguhin sama Siri
+37	Kalau ternyata kita tuh disuguhin sama Siri
+38	Kalau ternyata kita tuh disuguhin sama Siri Jadi kayak semacam kebudayaan wayu
+39	Kalau ternyata kita tuh disuguhin sama Siri Jadi kayak semacam kebudayaan wayu
+40	Jadi kayak semacam kebudayaan wayu
+41	Jadi kayak semacam kebudayaan wayu
+42	Jadi kayak semacam kebudayaan wayu
+43	Jadi kayak semacam kebudayaan wayu Gitulah halnya itu
+44	Jadi kayak semacam kebudayaan wayu Gitulah halnya itu
+45	Gitulah halnya itu Begini gue siuran ke tamu
+46	Gitulah halnya itu Begini gue siuran ke tamu
+47	Begini gue siuran ke tamu
+48	Begini gue siuran ke tamu
+49	Begini gue siuran ke tamu Terus gue nyoba dong
+50	Begini gue siuran ke tamu Terus gue nyoba dong
+51	Terus gue nyoba dong Ini pertama kali karena kita penasarkan kan
+52	Terus gue nyoba dong Ini pertama kali karena kita penasarkan kan
+53	Ini pertama kali karena kita penasarkan kan
+54	Ini pertama kali karena kita penasarkan kan
+55	Ini pertama kali karena kita penasarkan kan
+56	Ini pertama kali karena kita penasarkan kan Tapi ternyata tadi gue kira tuh ada terasi
+57	Ini pertama kali karena kita penasarkan kan Tapi ternyata tadi gue kira tuh ada terasi
+58	Tapi ternyata tadi gue kira tuh ada terasi
+59	Tapi ternyata tadi gue kira tuh ada terasi
+60	Tapi ternyata tadi gue kira tuh ada terasi
+61	Tapi ternyata tadi gue kira tuh ada terasi
+62	Tapi ternyata tadi gue kira tuh ada terasi Tapi ternyata bukan
+63	Tapi ternyata tadi gue kira tuh ada terasi Tapi ternyata bukan
+64	Tapi ternyata bukan Itu lebih ke gambir
+65	Tapi ternyata bukan Itu lebih ke gambir
+66	Itu lebih ke gambir
+67	Itu lebih ke gambir
+68	Itu lebih ke gambir
+69	Itu lebih ke gambir Stasiun kali aja
+70	Stasiun kali aja
+71	Stasiun kali aja Tapi kata gue tuh ada pinang sama kapalnya juga
+72	Stasiun kali aja Tapi kata gue tuh ada pinang sama kapalnya juga
+73	Tapi kata gue tuh ada pinang sama kapalnya juga
+74	Tapi kata gue tuh ada pinang sama kapalnya juga
+75	Tapi kata gue tuh ada pinang sama kapalnya juga
+76	Tapi kata gue tuh ada pinang sama kapalnya juga
+77	Tapi kata gue tuh ada pinang sama kapalnya juga Jadi kayak wow
+78	Tapi kata gue tuh ada pinang sama kapalnya juga Jadi kayak wow
+79	Jadi kayak wow
+80	Jadi kayak wow Pertama kali ini kita menyerih
+81	Pertama kali ini kita menyerih
+82	Pertama kali ini kita menyerih
+83	Pertama kali ini kita menyerih Mari kita mencoba
+84	Pertama kali ini kita menyerih Mari kita mencoba
+85	Mari kita mencoba
+86	Mari kita mencoba
+87	Budaya bangsa
+88	Budaya bangsa
+89	Budaya bangsa
+90	Budaya bangsa
+91	[NO_SPEECH]
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	[NO_SPEECH]
+95	Hah? Nggak di ini kan?
+96	Hah? Nggak di ini kan?
+97	Hah? Nggak di ini kan?
+98	Hah? Nggak di ini kan?
+99	Hah? Nggak di ini kan? Dikunyah doang kan?
+100	Dikunyah doang kan?
+101	Dikunyah doang kan? Dikunyah doang kan?
+102	Dikunyah doang kan? Dikunyah doang kan? Nggak ditelan gak sih?
+103	Dikunyah doang kan? Nggak ditelan gak sih?
+104	Nggak ditelan gak sih? Nggak, nggak, nggak
+105	Nggak ditelan gak sih? Nggak, nggak, nggak Iya kan?
+106	Nggak, nggak, nggak Iya kan?
+107	Iya kan?
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	[NO_SPEECH]
+113	[NO_SPEECH]
+114	[NO_SPEECH]
+115	[NO_SPEECH]
+116	Itu untuk apa ya tapi?
+117	Itu untuk apa ya tapi?
+118	Itu untuk apa ya tapi? Jadi caranya gitu lah
+119	Itu untuk apa ya tapi? Jadi caranya gitu lah
+120	Jadi caranya gitu lah
+121	Jadi caranya gitu lah
+122	Jadi caranya gitu lah
+123	Pahit banget
+124	Pahit banget
+125	Pahit banget
+126	Pahit banget
+127	[NO_SPEECH]
+128	Nggak punya arme habis
+129	Nggak punya arme habis
+130	Nggak punya arme habis
+131	Nggak punya arme habis
+132	Nggak punya arme habis Ditelan
+133	Nggak punya arme habis Ditelan Ditelan kan harusnya
+134	Ditelan Ditelan kan harusnya
+135	Ditelan kan harusnya
+136	Ditelan kan harusnya
+137	Ditelan kan harusnya Digi bisa itu kuat
+138	Digi bisa itu kuat
+139	Digi bisa itu kuat
+140	Digi bisa itu kuat Oh
+141	Digi bisa itu kuat Oh
+142	Oh
+143	Oh Itu harus lebih antiseptik
+144	Itu harus lebih antiseptik
+145	Itu harus lebih antiseptik
+146	Itu harus lebih antiseptik
+147	Itu harus lebih antiseptik Itu pahitnya apa
+148	Itu harus lebih antiseptik Itu pahitnya apa
+149	Itu pahitnya apa
+150	Itu pahitnya apa
+151	Itu pahitnya apa Perdua rambut
+152	Itu pahitnya apa Perdua rambut
+153	Perdua rambut Eh, gak kuat gue
+154	Perdua rambut Eh, gak kuat gue
+155	Eh, gak kuat gue
+156	Eh, gak kuat gue
+157	Eh, gak kuat gue Kita netekanin pake kubuk
+158	Kita netekanin pake kubuk
+159	Kita netekanin pake kubuk
+160	Kita netekanin pake kubuk
+161	[NO_SPEECH]
+162	[NO_SPEECH]
+163	[NO_SPEECH]
+164	[NO_SPEECH]
+165	[NO_SPEECH]

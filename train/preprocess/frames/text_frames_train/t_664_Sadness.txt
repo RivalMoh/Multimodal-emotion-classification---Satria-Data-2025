@@ -1,0 +1,238 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	Kandungan Nutrisi
+57	Kandungan Nutrisi
+58	Kandungan Nutrisi Les atau bermain?
+59	Kandungan Nutrisi Les atau bermain?
+60	Les atau bermain?
+61	Les atau bermain?
+62	Les atau bermain?
+63	Les atau bermain?
+64	Asupan minuman manis anak harus diperhatikan,
+65	Asupan minuman manis anak harus diperhatikan,
+66	Asupan minuman manis anak harus diperhatikan,
+67	Asupan minuman manis anak harus diperhatikan,
+68	Asupan minuman manis anak harus diperhatikan,
+69	Asupan minuman manis anak harus diperhatikan,
+70	Asupan minuman manis anak harus diperhatikan, karena jika tidak dikontrol, kandungan gula berlebih berdampak buruk bagi kesehatan si kecil.
+71	karena jika tidak dikontrol, kandungan gula berlebih berdampak buruk bagi kesehatan si kecil.
+72	karena jika tidak dikontrol, kandungan gula berlebih berdampak buruk bagi kesehatan si kecil.
+73	karena jika tidak dikontrol, kandungan gula berlebih berdampak buruk bagi kesehatan si kecil.
+74	karena jika tidak dikontrol, kandungan gula berlebih berdampak buruk bagi kesehatan si kecil.
+75	karena jika tidak dikontrol, kandungan gula berlebih berdampak buruk bagi kesehatan si kecil.
+76	karena jika tidak dikontrol, kandungan gula berlebih berdampak buruk bagi kesehatan si kecil.
+77	karena jika tidak dikontrol, kandungan gula berlebih berdampak buruk bagi kesehatan si kecil.
+78	karena jika tidak dikontrol, kandungan gula berlebih berdampak buruk bagi kesehatan si kecil.
+79	karena jika tidak dikontrol, kandungan gula berlebih berdampak buruk bagi kesehatan si kecil.
+80	karena jika tidak dikontrol, kandungan gula berlebih berdampak buruk bagi kesehatan si kecil.
+81	karena jika tidak dikontrol, kandungan gula berlebih berdampak buruk bagi kesehatan si kecil.
+82	karena jika tidak dikontrol, kandungan gula berlebih berdampak buruk bagi kesehatan si kecil. Sebaiknya, berikan tambahan nutrisi yang lebih sehat untuk dua hati ya.
+83	karena jika tidak dikontrol, kandungan gula berlebih berdampak buruk bagi kesehatan si kecil. Sebaiknya, berikan tambahan nutrisi yang lebih sehat untuk dua hati ya.
+84	Sebaiknya, berikan tambahan nutrisi yang lebih sehat untuk dua hati ya.
+85	Sebaiknya, berikan tambahan nutrisi yang lebih sehat untuk dua hati ya.
+86	Sebaiknya, berikan tambahan nutrisi yang lebih sehat untuk dua hati ya.
+87	Sebaiknya, berikan tambahan nutrisi yang lebih sehat untuk dua hati ya.
+88	Sebaiknya, berikan tambahan nutrisi yang lebih sehat untuk dua hati ya.
+89	Sebaiknya, berikan tambahan nutrisi yang lebih sehat untuk dua hati ya.
+90	Sebaiknya, berikan tambahan nutrisi yang lebih sehat untuk dua hati ya.
+91	Sebaiknya, berikan tambahan nutrisi yang lebih sehat untuk dua hati ya.
+92	Sebaiknya, berikan tambahan nutrisi yang lebih sehat untuk dua hati ya. Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium.
+93	Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium.
+94	Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium.
+95	Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium.
+96	Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium.
+97	Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium.
+98	Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium.
+99	Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium.
+100	Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium.
+101	Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium.
+102	Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium.
+103	Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium.
+104	Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium.
+105	Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium.
+106	Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium.
+107	Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium.
+108	Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium.
+109	Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium.
+110	Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium.
+111	Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium. Nutrisi seperti BHA akan mendukung akal cerdas.
+112	Pastikan minuman yang dikonsumsi tidak mengandung gula tambahan dan dilengkapi nutrisi seperti BHA, vitamin, dan kalsium. Nutrisi seperti BHA akan mendukung akal cerdas.
+113	Nutrisi seperti BHA akan mendukung akal cerdas.
+114	Nutrisi seperti BHA akan mendukung akal cerdas.
+115	Nutrisi seperti BHA akan mendukung akal cerdas.
+116	Nutrisi seperti BHA akan mendukung akal cerdas.
+117	Nutrisi seperti BHA akan mendukung akal cerdas.
+118	Nutrisi seperti BHA akan mendukung akal cerdas. Dan daya ingat anak.
+119	Nutrisi seperti BHA akan mendukung akal cerdas. Dan daya ingat anak.
+120	Dan daya ingat anak.
+121	Dan daya ingat anak.
+122	Dan daya ingat anak. Sementara vitamin dan kalsium dapat menjaga daya tahan tubuh serta kepadatan tulang.
+123	Sementara vitamin dan kalsium dapat menjaga daya tahan tubuh serta kepadatan tulang.
+124	Sementara vitamin dan kalsium dapat menjaga daya tahan tubuh serta kepadatan tulang.
+125	Sementara vitamin dan kalsium dapat menjaga daya tahan tubuh serta kepadatan tulang.
+126	Sementara vitamin dan kalsium dapat menjaga daya tahan tubuh serta kepadatan tulang.
+127	Sementara vitamin dan kalsium dapat menjaga daya tahan tubuh serta kepadatan tulang.
+128	Sementara vitamin dan kalsium dapat menjaga daya tahan tubuh serta kepadatan tulang.
+129	Sementara vitamin dan kalsium dapat menjaga daya tahan tubuh serta kepadatan tulang.
+130	Sementara vitamin dan kalsium dapat menjaga daya tahan tubuh serta kepadatan tulang.
+131	Sementara vitamin dan kalsium dapat menjaga daya tahan tubuh serta kepadatan tulang.
+132	Sementara vitamin dan kalsium dapat menjaga daya tahan tubuh serta kepadatan tulang.
+133	Sementara vitamin dan kalsium dapat menjaga daya tahan tubuh serta kepadatan tulang.
+134	Sementara vitamin dan kalsium dapat menjaga daya tahan tubuh serta kepadatan tulang.
+135	Sementara vitamin dan kalsium dapat menjaga daya tahan tubuh serta kepadatan tulang.
+136	Nah, selain tinggi nutrisi, mam juga bisa memberikan asupan tambahan nutrisi praktis
+137	Nah, selain tinggi nutrisi, mam juga bisa memberikan asupan tambahan nutrisi praktis
+138	Nah, selain tinggi nutrisi, mam juga bisa memberikan asupan tambahan nutrisi praktis
+139	Nah, selain tinggi nutrisi, mam juga bisa memberikan asupan tambahan nutrisi praktis
+140	Nah, selain tinggi nutrisi, mam juga bisa memberikan asupan tambahan nutrisi praktis
+141	Nah, selain tinggi nutrisi, mam juga bisa memberikan asupan tambahan nutrisi praktis
+142	Nah, selain tinggi nutrisi, mam juga bisa memberikan asupan tambahan nutrisi praktis
+143	Nah, selain tinggi nutrisi, mam juga bisa memberikan asupan tambahan nutrisi praktis
+144	Nah, selain tinggi nutrisi, mam juga bisa memberikan asupan tambahan nutrisi praktis
+145	Nah, selain tinggi nutrisi, mam juga bisa memberikan asupan tambahan nutrisi praktis
+146	Nah, selain tinggi nutrisi, mam juga bisa memberikan asupan tambahan nutrisi praktis
+147	Nah, selain tinggi nutrisi, mam juga bisa memberikan asupan tambahan nutrisi praktis dan tetap lezat yang bisa dibawa anak saat beraktivitas di luar rumah.
+148	Nah, selain tinggi nutrisi, mam juga bisa memberikan asupan tambahan nutrisi praktis dan tetap lezat yang bisa dibawa anak saat beraktivitas di luar rumah.
+149	dan tetap lezat yang bisa dibawa anak saat beraktivitas di luar rumah.
+150	dan tetap lezat yang bisa dibawa anak saat beraktivitas di luar rumah.
+151	dan tetap lezat yang bisa dibawa anak saat beraktivitas di luar rumah.
+152	dan tetap lezat yang bisa dibawa anak saat beraktivitas di luar rumah.
+153	dan tetap lezat yang bisa dibawa anak saat beraktivitas di luar rumah.
+154	dan tetap lezat yang bisa dibawa anak saat beraktivitas di luar rumah.
+155	dan tetap lezat yang bisa dibawa anak saat beraktivitas di luar rumah.
+156	dan tetap lezat yang bisa dibawa anak saat beraktivitas di luar rumah.
+157	dan tetap lezat yang bisa dibawa anak saat beraktivitas di luar rumah.
+158	dan tetap lezat yang bisa dibawa anak saat beraktivitas di luar rumah. Tenang, mam bisa kok memilih susu UHT yang memang diformulasikan khusus
+159	Tenang, mam bisa kok memilih susu UHT yang memang diformulasikan khusus
+160	Tenang, mam bisa kok memilih susu UHT yang memang diformulasikan khusus
+161	Tenang, mam bisa kok memilih susu UHT yang memang diformulasikan khusus
+162	Tenang, mam bisa kok memilih susu UHT yang memang diformulasikan khusus
+163	Tenang, mam bisa kok memilih susu UHT yang memang diformulasikan khusus
+164	Tenang, mam bisa kok memilih susu UHT yang memang diformulasikan khusus
+165	Tenang, mam bisa kok memilih susu UHT yang memang diformulasikan khusus
+166	Tenang, mam bisa kok memilih susu UHT yang memang diformulasikan khusus
+167	Tenang, mam bisa kok memilih susu UHT yang memang diformulasikan khusus
+168	Tenang, mam bisa kok memilih susu UHT yang memang diformulasikan khusus untuk anak usia 1 tahun ke atas dengan status gizi baik.
+169	Tenang, mam bisa kok memilih susu UHT yang memang diformulasikan khusus untuk anak usia 1 tahun ke atas dengan status gizi baik.
+170	untuk anak usia 1 tahun ke atas dengan status gizi baik.
+171	untuk anak usia 1 tahun ke atas dengan status gizi baik.
+172	untuk anak usia 1 tahun ke atas dengan status gizi baik.
+173	untuk anak usia 1 tahun ke atas dengan status gizi baik.
+174	untuk anak usia 1 tahun ke atas dengan status gizi baik.
+175	untuk anak usia 1 tahun ke atas dengan status gizi baik.
+176	untuk anak usia 1 tahun ke atas dengan status gizi baik. Pilih susu UHT tanpa tambahan sukrosa serta mengandung nutrisi seperti DHA, vitamin, dan mineral.
+177	untuk anak usia 1 tahun ke atas dengan status gizi baik. Pilih susu UHT tanpa tambahan sukrosa serta mengandung nutrisi seperti DHA, vitamin, dan mineral.
+178	Pilih susu UHT tanpa tambahan sukrosa serta mengandung nutrisi seperti DHA, vitamin, dan mineral.
+179	Pilih susu UHT tanpa tambahan sukrosa serta mengandung nutrisi seperti DHA, vitamin, dan mineral.
+180	Pilih susu UHT tanpa tambahan sukrosa serta mengandung nutrisi seperti DHA, vitamin, dan mineral.
+181	Pilih susu UHT tanpa tambahan sukrosa serta mengandung nutrisi seperti DHA, vitamin, dan mineral.
+182	Pilih susu UHT tanpa tambahan sukrosa serta mengandung nutrisi seperti DHA, vitamin, dan mineral.
+183	Pilih susu UHT tanpa tambahan sukrosa serta mengandung nutrisi seperti DHA, vitamin, dan mineral.
+184	Pilih susu UHT tanpa tambahan sukrosa serta mengandung nutrisi seperti DHA, vitamin, dan mineral.
+185	Pilih susu UHT tanpa tambahan sukrosa serta mengandung nutrisi seperti DHA, vitamin, dan mineral.
+186	Pilih susu UHT tanpa tambahan sukrosa serta mengandung nutrisi seperti DHA, vitamin, dan mineral.
+187	Pilih susu UHT tanpa tambahan sukrosa serta mengandung nutrisi seperti DHA, vitamin, dan mineral.
+188	Pilih susu UHT tanpa tambahan sukrosa serta mengandung nutrisi seperti DHA, vitamin, dan mineral.
+189	Pilih susu UHT tanpa tambahan sukrosa serta mengandung nutrisi seperti DHA, vitamin, dan mineral.
+190	Pilih susu UHT tanpa tambahan sukrosa serta mengandung nutrisi seperti DHA, vitamin, dan mineral.
+191	Pilih susu UHT tanpa tambahan sukrosa serta mengandung nutrisi seperti DHA, vitamin, dan mineral.
+192	Pilih susu UHT tanpa tambahan sukrosa serta mengandung nutrisi seperti DHA, vitamin, dan mineral.
+193	Pilih susu UHT tanpa tambahan sukrosa serta mengandung nutrisi seperti DHA, vitamin, dan mineral.
+194	Dengan memprioritaskan asupan tambahan nutrisi yang sehat,
+195	Dengan memprioritaskan asupan tambahan nutrisi yang sehat,
+196	Dengan memprioritaskan asupan tambahan nutrisi yang sehat,
+197	Dengan memprioritaskan asupan tambahan nutrisi yang sehat,
+198	Dengan memprioritaskan asupan tambahan nutrisi yang sehat,
+199	Dengan memprioritaskan asupan tambahan nutrisi yang sehat,
+200	Dengan memprioritaskan asupan tambahan nutrisi yang sehat,
+201	Dengan memprioritaskan asupan tambahan nutrisi yang sehat,
+202	Dengan memprioritaskan asupan tambahan nutrisi yang sehat, ini akan mendukung tumbuh kembang anak agar ia tetap aktif dan kreatif.
+203	Dengan memprioritaskan asupan tambahan nutrisi yang sehat, ini akan mendukung tumbuh kembang anak agar ia tetap aktif dan kreatif.
+204	ini akan mendukung tumbuh kembang anak agar ia tetap aktif dan kreatif.
+205	ini akan mendukung tumbuh kembang anak agar ia tetap aktif dan kreatif.
+206	ini akan mendukung tumbuh kembang anak agar ia tetap aktif dan kreatif.
+207	ini akan mendukung tumbuh kembang anak agar ia tetap aktif dan kreatif.
+208	ini akan mendukung tumbuh kembang anak agar ia tetap aktif dan kreatif.
+209	ini akan mendukung tumbuh kembang anak agar ia tetap aktif dan kreatif.
+210	ini akan mendukung tumbuh kembang anak agar ia tetap aktif dan kreatif.
+211	ini akan mendukung tumbuh kembang anak agar ia tetap aktif dan kreatif.
+212	ini akan mendukung tumbuh kembang anak agar ia tetap aktif dan kreatif.
+213	ini akan mendukung tumbuh kembang anak agar ia tetap aktif dan kreatif.
+214	ini akan mendukung tumbuh kembang anak agar ia tetap aktif dan kreatif. Jadi, sudahkah mam and dad memilih minuman yang tepat untuk si kecil?
+215	ini akan mendukung tumbuh kembang anak agar ia tetap aktif dan kreatif. Jadi, sudahkah mam and dad memilih minuman yang tepat untuk si kecil?
+216	Jadi, sudahkah mam and dad memilih minuman yang tepat untuk si kecil?
+217	Jadi, sudahkah mam and dad memilih minuman yang tepat untuk si kecil?
+218	Jadi, sudahkah mam and dad memilih minuman yang tepat untuk si kecil?
+219	Jadi, sudahkah mam and dad memilih minuman yang tepat untuk si kecil?
+220	Jadi, sudahkah mam and dad memilih minuman yang tepat untuk si kecil?
+221	Jadi, sudahkah mam and dad memilih minuman yang tepat untuk si kecil?
+222	Jadi, sudahkah mam and dad memilih minuman yang tepat untuk si kecil?
+223	Jadi, sudahkah mam and dad memilih minuman yang tepat untuk si kecil?
+224	Jadi, sudahkah mam and dad memilih minuman yang tepat untuk si kecil?
+225	Jadi, sudahkah mam and dad memilih minuman yang tepat untuk si kecil?
+226	Jadi, sudahkah mam and dad memilih minuman yang tepat untuk si kecil?
+227	[NO_SPEECH]
+228	[NO_SPEECH]
+229	[NO_SPEECH]
+230	[NO_SPEECH]
+231	[NO_SPEECH]
+232	[NO_SPEECH]
+233	[NO_SPEECH]
+234	Memilih minuman yang tepat untuk si kecil?
+235	Memilih minuman yang tepat untuk si kecil?
+236	Memilih minuman yang tepat untuk si kecil?
+237	[NO_SPEECH]

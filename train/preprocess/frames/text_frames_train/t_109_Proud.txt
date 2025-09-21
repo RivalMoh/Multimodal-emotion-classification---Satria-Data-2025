@@ -1,0 +1,85 @@
+0	Lagi istirahat dulu, udah 2 lap, tinggal 1 lap lagi, 3 kilo.
+1	Lagi istirahat dulu, udah 2 lap, tinggal 1 lap lagi, 3 kilo.
+2	Lagi istirahat dulu, udah 2 lap, tinggal 1 lap lagi, 3 kilo.
+3	Lagi istirahat dulu, udah 2 lap, tinggal 1 lap lagi, 3 kilo.
+4	Lagi istirahat dulu, udah 2 lap, tinggal 1 lap lagi, 3 kilo.
+5	Lagi istirahat dulu, udah 2 lap, tinggal 1 lap lagi, 3 kilo.
+6	Lagi istirahat dulu, udah 2 lap, tinggal 1 lap lagi, 3 kilo.
+7	Lagi istirahat dulu, udah 2 lap, tinggal 1 lap lagi, 3 kilo.
+8	Lagi istirahat dulu, udah 2 lap, tinggal 1 lap lagi, 3 kilo.
+9	Lagi istirahat dulu, udah 2 lap, tinggal 1 lap lagi, 3 kilo.
+10	[NO_SPEECH]
+11	Oke John, lanjut John.
+12	Oke John, lanjut John.
+13	Oke John, lanjut John.
+14	Oke John, lanjut John.
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	Temporan hari ini, tinggal 11 hari lagi menuju Boston Marathon.
+31	Temporan hari ini, tinggal 11 hari lagi menuju Boston Marathon.
+32	Temporan hari ini, tinggal 11 hari lagi menuju Boston Marathon.
+33	Temporan hari ini, tinggal 11 hari lagi menuju Boston Marathon.
+34	Temporan hari ini, tinggal 11 hari lagi menuju Boston Marathon.
+35	Temporan hari ini, tinggal 11 hari lagi menuju Boston Marathon.
+36	Temporan hari ini, tinggal 11 hari lagi menuju Boston Marathon.
+37	Temporan hari ini, tinggal 11 hari lagi menuju Boston Marathon.
+38	Temporan hari ini, tinggal 11 hari lagi menuju Boston Marathon.
+39	Temporan hari ini, tinggal 11 hari lagi menuju Boston Marathon.
+40	Temporan hari ini, tinggal 11 hari lagi menuju Boston Marathon.
+41	Temporan hari ini, tinggal 11 hari lagi menuju Boston Marathon.
+42	Temporan hari ini, tinggal 11 hari lagi menuju Boston Marathon. Keep it up, keep it up. Go Jamilus Journey, go.
+43	Keep it up, keep it up. Go Jamilus Journey, go.
+44	Keep it up, keep it up. Go Jamilus Journey, go.
+45	Keep it up, keep it up. Go Jamilus Journey, go.
+46	Keep it up, keep it up. Go Jamilus Journey, go.
+47	Keep it up, keep it up. Go Jamilus Journey, go.
+48	Keep it up, keep it up. Go Jamilus Journey, go.
+49	Keep it up, keep it up. Go Jamilus Journey, go.
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	Selesai temporan hari ini, 3 kilo kali 3, pace 5,5.
+53	Selesai temporan hari ini, 3 kilo kali 3, pace 5,5.
+54	Selesai temporan hari ini, 3 kilo kali 3, pace 5,5.
+55	Selesai temporan hari ini, 3 kilo kali 3, pace 5,5.
+56	Selesai temporan hari ini, 3 kilo kali 3, pace 5,5.
+57	Selesai temporan hari ini, 3 kilo kali 3, pace 5,5.
+58	Selesai temporan hari ini, 3 kilo kali 3, pace 5,5.
+59	Selesai temporan hari ini, 3 kilo kali 3, pace 5,5.
+60	Selesai temporan hari ini, 3 kilo kali 3, pace 5,5.
+61	Selesai temporan hari ini, 3 kilo kali 3, pace 5,5.
+62	Selesai temporan hari ini, 3 kilo kali 3, pace 5,5.
+63	Selesai temporan hari ini, 3 kilo kali 3, pace 5,5.
+64	Selesai temporan hari ini, 3 kilo kali 3, pace 5,5.
+65	Selesai temporan hari ini, 3 kilo kali 3, pace 5,5.
+66	Selesai temporan hari ini, 3 kilo kali 3, pace 5,5.
+67	[NO_SPEECH]
+68	Istirahat 2 menit.
+69	Istirahat 2 menit.
+70	Istirahat 2 menit.
+71	Istirahat 2 menit.
+72	Yo, mantap!
+73	Yo, mantap!
+74	Yo, mantap!
+75	Yo, mantap!
+76	Yo, mantap!
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	[NO_SPEECH]
+83	[NO_SPEECH]
+84	[NO_SPEECH]

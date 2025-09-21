@@ -1,0 +1,750 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	Halo semuanya
+48	Halo semuanya
+49	Halo semuanya
+50	Halo semuanya
+51	Halo semuanya
+52	Halo semuanya semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+53	Halo semuanya semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+54	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+55	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+56	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+57	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+58	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+59	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+60	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+61	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+62	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+63	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+64	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+65	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+66	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+67	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+68	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+69	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+70	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+71	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+72	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+73	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+74	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+75	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini
+76	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini saya perkenalkan ini adalah free di dalamnya ada dari Kral lagi yang kekal beli hoodie dapet ini ya
+77	semuanya ini adalah produk terbaru dari Kral Hello Alvin murada Arianto ibisono nita juanita ini saya perkenalkan ini adalah free di dalamnya ada dari Kral lagi yang kekal beli hoodie dapet ini ya
+78	saya perkenalkan ini adalah free di dalamnya ada dari Kral lagi yang kekal beli hoodie dapet ini ya
+79	saya perkenalkan ini adalah free di dalamnya ada dari Kral lagi yang kekal beli hoodie dapet ini ya
+80	saya perkenalkan ini adalah free di dalamnya ada dari Kral lagi yang kekal beli hoodie dapet ini ya
+81	saya perkenalkan ini adalah free di dalamnya ada dari Kral lagi yang kekal beli hoodie dapet ini ya
+82	saya perkenalkan ini adalah free di dalamnya ada dari Kral lagi yang kekal beli hoodie dapet ini ya
+83	saya perkenalkan ini adalah free di dalamnya ada dari Kral lagi yang kekal beli hoodie dapet ini ya
+84	saya perkenalkan ini adalah free di dalamnya ada dari Kral lagi yang kekal beli hoodie dapet ini ya
+85	saya perkenalkan ini adalah free di dalamnya ada dari Kral lagi yang kekal beli hoodie dapet ini ya
+86	saya perkenalkan ini adalah free di dalamnya ada dari Kral lagi yang kekal beli hoodie dapet ini ya
+87	saya perkenalkan ini adalah free di dalamnya ada dari Kral lagi yang kekal beli hoodie dapet ini ya
+88	saya perkenalkan ini adalah free di dalamnya ada dari Kral lagi yang kekal beli hoodie dapet ini ya
+89	saya perkenalkan ini adalah free di dalamnya ada dari Kral lagi yang kekal beli hoodie dapet ini ya
+90	saya perkenalkan ini adalah free di dalamnya ada dari Kral lagi yang kekal beli hoodie dapet ini ya
+91	saya perkenalkan ini adalah free di dalamnya ada dari Kral lagi yang kekal beli hoodie dapet ini ya
+92	saya perkenalkan ini adalah free di dalamnya ada dari Kral lagi yang kekal beli hoodie dapet ini ya
+93	saya perkenalkan ini adalah free di dalamnya ada dari Kral lagi yang kekal beli hoodie dapet ini ya
+94	saya perkenalkan ini adalah free di dalamnya ada dari Kral lagi yang kekal beli hoodie dapet ini ya
+95	saya perkenalkan ini adalah free di dalamnya ada dari Kral lagi yang kekal beli hoodie dapet ini ya
+96	bagus mana sama Yonek Jar kalau buat gajian sih bagus Yonek tapi ini saya promosiin dulu
+97	bagus mana sama Yonek Jar kalau buat gajian sih bagus Yonek tapi ini saya promosiin dulu
+98	bagus mana sama Yonek Jar kalau buat gajian sih bagus Yonek tapi ini saya promosiin dulu
+99	bagus mana sama Yonek Jar kalau buat gajian sih bagus Yonek tapi ini saya promosiin dulu
+100	bagus mana sama Yonek Jar kalau buat gajian sih bagus Yonek tapi ini saya promosiin dulu
+101	bagus mana sama Yonek Jar kalau buat gajian sih bagus Yonek tapi ini saya promosiin dulu
+102	bagus mana sama Yonek Jar kalau buat gajian sih bagus Yonek tapi ini saya promosiin dulu
+103	bagus mana sama Yonek Jar kalau buat gajian sih bagus Yonek tapi ini saya promosiin dulu
+104	bagus mana sama Yonek Jar kalau buat gajian sih bagus Yonek tapi ini saya promosiin dulu
+105	bagus mana sama Yonek Jar kalau buat gajian sih bagus Yonek tapi ini saya promosiin dulu
+106	bagus mana sama Yonek Jar kalau buat gajian sih bagus Yonek tapi ini saya promosiin dulu
+107	bagus mana sama Yonek Jar kalau buat gajian sih bagus Yonek tapi ini saya promosiin dulu
+108	bagus mana sama Yonek Jar kalau buat gajian sih bagus Yonek tapi ini saya promosiin dulu
+109	bagus mana sama Yonek Jar kalau buat gajian sih bagus Yonek tapi ini saya promosiin dulu
+110	bagus mana sama Yonek Jar kalau buat gajian sih bagus Yonek tapi ini saya promosiin dulu dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+111	bagus mana sama Yonek Jar kalau buat gajian sih bagus Yonek tapi ini saya promosiin dulu dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+112	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+113	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+114	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+115	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+116	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+117	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+118	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+119	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+120	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+121	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+122	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+123	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+124	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+125	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+126	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+127	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+128	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+129	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+130	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+131	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+132	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini
+133	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini enak banget nih enak banget ini saya lagi nonton live-nya dia sekalian saya juga promosiin jadi
+134	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini enak banget nih enak banget ini saya lagi nonton live-nya dia sekalian saya juga promosiin jadi
+135	dulu buat ini partner saya dulu itu biar-biar pibersnya Rian dikit bentar dulu pokoknya ini enak banget nih enak banget ini saya lagi nonton live-nya dia sekalian saya juga promosiin jadi
+136	enak banget nih enak banget ini saya lagi nonton live-nya dia sekalian saya juga promosiin jadi
+137	enak banget nih enak banget ini saya lagi nonton live-nya dia sekalian saya juga promosiin jadi
+138	enak banget nih enak banget ini saya lagi nonton live-nya dia sekalian saya juga promosiin jadi
+139	enak banget nih enak banget ini saya lagi nonton live-nya dia sekalian saya juga promosiin jadi
+140	enak banget nih enak banget ini saya lagi nonton live-nya dia sekalian saya juga promosiin jadi
+141	enak banget nih enak banget ini saya lagi nonton live-nya dia sekalian saya juga promosiin jadi
+142	enak banget nih enak banget ini saya lagi nonton live-nya dia sekalian saya juga promosiin jadi
+143	enak banget nih enak banget ini saya lagi nonton live-nya dia sekalian saya juga promosiin jadi
+144	enak banget nih enak banget ini saya lagi nonton live-nya dia sekalian saya juga promosiin jadi
+145	enak banget nih enak banget ini saya lagi nonton live-nya dia sekalian saya juga promosiin jadi
+146	enak banget nih enak banget ini saya lagi nonton live-nya dia sekalian saya juga promosiin jadi
+147	enak banget nih enak banget ini saya lagi nonton live-nya dia sekalian saya juga promosiin jadi
+148	enak banget nih enak banget ini saya lagi nonton live-nya dia sekalian saya juga promosiin jadi
+149	enak banget nih enak banget ini saya lagi nonton live-nya dia sekalian saya juga promosiin jadi Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya
+150	enak banget nih enak banget ini saya lagi nonton live-nya dia sekalian saya juga promosiin jadi Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya
+151	Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya
+152	Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya
+153	Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya
+154	Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya
+155	Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya
+156	Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya
+157	Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya
+158	Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya
+159	Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya
+160	Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya
+161	Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya
+162	Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya
+163	Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya
+164	Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya
+165	Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya
+166	Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya
+167	Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya
+168	Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya bagus juga hodinya kalian harus beli hoodie dari karya Rian Ardianto label ya
+169	Jadi kalau misalkan kalian beli hodinya dapat pri ini itu pokoknya murah banget ini kualitasnya bagus juga hodinya kalian harus beli hoodie dari karya Rian Ardianto label ya
+170	bagus juga hodinya kalian harus beli hoodie dari karya Rian Ardianto label ya
+171	bagus juga hodinya kalian harus beli hoodie dari karya Rian Ardianto label ya
+172	bagus juga hodinya kalian harus beli hoodie dari karya Rian Ardianto label ya
+173	bagus juga hodinya kalian harus beli hoodie dari karya Rian Ardianto label ya
+174	bagus juga hodinya kalian harus beli hoodie dari karya Rian Ardianto label ya
+175	bagus juga hodinya kalian harus beli hoodie dari karya Rian Ardianto label ya
+176	bagus juga hodinya kalian harus beli hoodie dari karya Rian Ardianto label ya
+177	bagus juga hodinya kalian harus beli hoodie dari karya Rian Ardianto label ya
+178	bagus juga hodinya kalian harus beli hoodie dari karya Rian Ardianto label ya
+179	bagus juga hodinya kalian harus beli hoodie dari karya Rian Ardianto label ya
+180	bagus juga hodinya kalian harus beli hoodie dari karya Rian Ardianto label ya
+181	[NO_SPEECH]
+182	[NO_SPEECH]
+183	[NO_SPEECH]
+184	[NO_SPEECH]
+185	[NO_SPEECH]
+186	[NO_SPEECH]
+187	[NO_SPEECH]
+188	[NO_SPEECH]
+189	[NO_SPEECH]
+190	[NO_SPEECH]
+191	[NO_SPEECH]
+192	[NO_SPEECH]
+193	[NO_SPEECH]
+194	[NO_SPEECH]
+195	[NO_SPEECH]
+196	[NO_SPEECH]
+197	[NO_SPEECH]
+198	[NO_SPEECH]
+199	[NO_SPEECH]
+200	[NO_SPEECH]
+201	[NO_SPEECH]
+202	nih dia juga lagi nonton saya nih
+203	nih dia juga lagi nonton saya nih
+204	nih dia juga lagi nonton saya nih
+205	nih dia juga lagi nonton saya nih
+206	nih dia juga lagi nonton saya nih
+207	nih dia juga lagi nonton saya nih
+208	nih dia juga lagi nonton saya nih lagi nonton nonton juga
+209	nih dia juga lagi nonton saya nih lagi nonton nonton juga
+210	lagi nonton nonton juga
+211	lagi nonton nonton juga
+212	lagi nonton nonton juga
+213	lagi nonton nonton juga
+214	lagi nonton nonton juga
+215	lagi nonton nonton juga
+216	lagi nonton nonton juga
+217	lagi nonton nonton juga
+218	hahaha
+219	hahaha hahaha
+220	hahaha hahaha
+221	hahaha  in the Cord area in the
+222	hahaha  in the Cord area in the
+223	in the Cord area in the
+224	in the Cord area in the
+225	in the Cord area in the
+226	in the Cord area in the
+227	in the Cord area in the
+228	in the Cord area in the
+229	in the Cord area in the
+230	in the Cord area in the
+231	in the Cord area in the
+232	in the Cord area in the
+233	in the Cord area in the
+234	in the Cord area in the
+235	in the Cord area in the
+236	in the Cord area in the
+237	in the Cord area in the
+238	in the Cord area in the
+239	in the Cord area in the
+240	in the Cord area in the  hai hai
+241	in the Cord area in the  hai hai
+242	hai hai
+243	hai hai ini apa namanya tuh Bentar ya grafisnya jadi kesel semua gitu Bentar lagi
+244	hai hai ini apa namanya tuh Bentar ya grafisnya jadi kesel semua gitu Bentar lagi
+245	ini apa namanya tuh Bentar ya grafisnya jadi kesel semua gitu Bentar lagi
+246	ini apa namanya tuh Bentar ya grafisnya jadi kesel semua gitu Bentar lagi
+247	ini apa namanya tuh Bentar ya grafisnya jadi kesel semua gitu Bentar lagi
+248	ini apa namanya tuh Bentar ya grafisnya jadi kesel semua gitu Bentar lagi
+249	ini apa namanya tuh Bentar ya grafisnya jadi kesel semua gitu Bentar lagi
+250	ini apa namanya tuh Bentar ya grafisnya jadi kesel semua gitu Bentar lagi
+251	ini apa namanya tuh Bentar ya grafisnya jadi kesel semua gitu Bentar lagi
+252	ini apa namanya tuh Bentar ya grafisnya jadi kesel semua gitu Bentar lagi
+253	ini apa namanya tuh Bentar ya grafisnya jadi kesel semua gitu Bentar lagi
+254	ini apa namanya tuh Bentar ya grafisnya jadi kesel semua gitu Bentar lagi sebelum kitaotshyun我
+255	sebelum kitaotshyun我
+256	sebelum kitaotshyun我
+257	sebelum kitaotshyun我 , 5 produk tersebut saya perkenalkan di
+258	sebelum kitaotshyun我 , 5 produk tersebut saya perkenalkan di
+259	, 5 produk tersebut saya perkenalkan di
+260	, 5 produk tersebut saya perkenalkan di
+261	, 5 produk tersebut saya perkenalkan di
+262	, 5 produk tersebut saya perkenalkan di
+263	, 5 produk tersebut saya perkenalkan di
+264	, 5 produk tersebut saya perkenalkan di
+265	, 5 produk tersebut saya perkenalkan di
+266	, 5 produk tersebut saya perkenalkan di
+267	, 5 produk tersebut saya perkenalkan di
+268	, 5 produk tersebut saya perkenalkan di
+269	[NO_SPEECH]
+270	[NO_SPEECH]
+271	[NO_SPEECH]
+272	[NO_SPEECH]
+273	[NO_SPEECH]
+274	[NO_SPEECH]
+275	[NO_SPEECH]
+276	[NO_SPEECH]
+277	[NO_SPEECH]
+278	[NO_SPEECH]
+279	[NO_SPEECH]
+280	[NO_SPEECH]
+281	[NO_SPEECH]
+282	[NO_SPEECH]
+283	[NO_SPEECH]
+284	[NO_SPEECH]
+285	[NO_SPEECH]
+286	[NO_SPEECH]
+287	[NO_SPEECH]
+288	[NO_SPEECH]
+289	[NO_SPEECH]
+290	ini hodinya guys
+291	ini hodinya guys
+292	ini hodinya guys
+293	ini hodinya guys
+294	ini hodinya guys
+295	[NO_SPEECH]
+296	[NO_SPEECH]
+297	[NO_SPEECH]
+298	[NO_SPEECH]
+299	[NO_SPEECH]
+300	[NO_SPEECH]
+301	[NO_SPEECH]
+302	[NO_SPEECH]
+303	[NO_SPEECH]
+304	[NO_SPEECH]
+305	jadi beli ini beli hoodie dari kral ini gratis masker ini ala hapenya jatuh maskernya tuh bagus
+306	jadi beli ini beli hoodie dari kral ini gratis masker ini ala hapenya jatuh maskernya tuh bagus
+307	jadi beli ini beli hoodie dari kral ini gratis masker ini ala hapenya jatuh maskernya tuh bagus
+308	jadi beli ini beli hoodie dari kral ini gratis masker ini ala hapenya jatuh maskernya tuh bagus
+309	jadi beli ini beli hoodie dari kral ini gratis masker ini ala hapenya jatuh maskernya tuh bagus
+310	jadi beli ini beli hoodie dari kral ini gratis masker ini ala hapenya jatuh maskernya tuh bagus
+311	jadi beli ini beli hoodie dari kral ini gratis masker ini ala hapenya jatuh maskernya tuh bagus
+312	jadi beli ini beli hoodie dari kral ini gratis masker ini ala hapenya jatuh maskernya tuh bagus
+313	jadi beli ini beli hoodie dari kral ini gratis masker ini ala hapenya jatuh maskernya tuh bagus
+314	jadi beli ini beli hoodie dari kral ini gratis masker ini ala hapenya jatuh maskernya tuh bagus
+315	jadi beli ini beli hoodie dari kral ini gratis masker ini ala hapenya jatuh maskernya tuh bagus
+316	jadi beli ini beli hoodie dari kral ini gratis masker ini ala hapenya jatuh maskernya tuh bagus
+317	jadi beli ini beli hoodie dari kral ini gratis masker ini ala hapenya jatuh maskernya tuh bagus
+318	jadi beli ini beli hoodie dari kral ini gratis masker ini ala hapenya jatuh maskernya tuh bagus
+319	jadi beli ini beli hoodie dari kral ini gratis masker ini ala hapenya jatuh maskernya tuh bagus dan hodinya tuh ini ya bagus banget ya saya coba pakai ya pokoknya ini enak banget udahnya
+320	jadi beli ini beli hoodie dari kral ini gratis masker ini ala hapenya jatuh maskernya tuh bagus dan hodinya tuh ini ya bagus banget ya saya coba pakai ya pokoknya ini enak banget udahnya
+321	dan hodinya tuh ini ya bagus banget ya saya coba pakai ya pokoknya ini enak banget udahnya
+322	dan hodinya tuh ini ya bagus banget ya saya coba pakai ya pokoknya ini enak banget udahnya
+323	dan hodinya tuh ini ya bagus banget ya saya coba pakai ya pokoknya ini enak banget udahnya
+324	dan hodinya tuh ini ya bagus banget ya saya coba pakai ya pokoknya ini enak banget udahnya
+325	dan hodinya tuh ini ya bagus banget ya saya coba pakai ya pokoknya ini enak banget udahnya
+326	dan hodinya tuh ini ya bagus banget ya saya coba pakai ya pokoknya ini enak banget udahnya
+327	dan hodinya tuh ini ya bagus banget ya saya coba pakai ya pokoknya ini enak banget udahnya
+328	dan hodinya tuh ini ya bagus banget ya saya coba pakai ya pokoknya ini enak banget udahnya
+329	dan hodinya tuh ini ya bagus banget ya saya coba pakai ya pokoknya ini enak banget udahnya
+330	dan hodinya tuh ini ya bagus banget ya saya coba pakai ya pokoknya ini enak banget udahnya
+331	dan hodinya tuh ini ya bagus banget ya saya coba pakai ya pokoknya ini enak banget udahnya
+332	dan hodinya tuh ini ya bagus banget ya saya coba pakai ya pokoknya ini enak banget udahnya
+333	dan hodinya tuh ini ya bagus banget ya saya coba pakai ya pokoknya ini enak banget udahnya
+334	dan hodinya tuh ini ya bagus banget ya saya coba pakai ya pokoknya ini enak banget udahnya
+335	dan hodinya tuh ini ya bagus banget ya saya coba pakai ya pokoknya ini enak banget udahnya
+336	dan hodinya tuh ini ya bagus banget ya saya coba pakai ya pokoknya ini enak banget udahnya
+337	dan hodinya tuh ini ya bagus banget ya saya coba pakai ya pokoknya ini enak banget udahnya
+338	[NO_SPEECH]
+339	[NO_SPEECH]
+340	[NO_SPEECH]
+341	[NO_SPEECH]
+342	[NO_SPEECH]
+343	[NO_SPEECH]
+344	[NO_SPEECH]
+345	[NO_SPEECH]
+346	[NO_SPEECH]
+347	[NO_SPEECH]
+348	[NO_SPEECH]
+349	[NO_SPEECH]
+350	[NO_SPEECH]
+351	[NO_SPEECH]
+352	[NO_SPEECH]
+353	[NO_SPEECH]
+354	[NO_SPEECH]
+355	[NO_SPEECH]
+356	[NO_SPEECH]
+357	[NO_SPEECH]
+358	[NO_SPEECH]
+359	[NO_SPEECH]
+360	[NO_SPEECH]
+361	aduh
+362	aduh
+363	aduh
+364	[NO_SPEECH]
+365	[NO_SPEECH]
+366	[NO_SPEECH]
+367	[NO_SPEECH]
+368	nih hodinya tuh gini keren banget kan tuh bisa set set set set apalagi
+369	nih hodinya tuh gini keren banget kan tuh bisa set set set set apalagi
+370	nih hodinya tuh gini keren banget kan tuh bisa set set set set apalagi
+371	nih hodinya tuh gini keren banget kan tuh bisa set set set set apalagi
+372	nih hodinya tuh gini keren banget kan tuh bisa set set set set apalagi
+373	nih hodinya tuh gini keren banget kan tuh bisa set set set set apalagi
+374	nih hodinya tuh gini keren banget kan tuh bisa set set set set apalagi
+375	nih hodinya tuh gini keren banget kan tuh bisa set set set set apalagi
+376	nih hodinya tuh gini keren banget kan tuh bisa set set set set apalagi
+377	nih hodinya tuh gini keren banget kan tuh bisa set set set set apalagi
+378	nih hodinya tuh gini keren banget kan tuh bisa set set set set apalagi yang mau
+379	nih hodinya tuh gini keren banget kan tuh bisa set set set set apalagi yang mau mau ke puncak yang ke gunung-gunungnya pakai hodinya keren apalagi dipakai orang
+380	yang mau mau ke puncak yang ke gunung-gunungnya pakai hodinya keren apalagi dipakai orang
+381	mau ke puncak yang ke gunung-gunungnya pakai hodinya keren apalagi dipakai orang
+382	mau ke puncak yang ke gunung-gunungnya pakai hodinya keren apalagi dipakai orang
+383	mau ke puncak yang ke gunung-gunungnya pakai hodinya keren apalagi dipakai orang
+384	mau ke puncak yang ke gunung-gunungnya pakai hodinya keren apalagi dipakai orang
+385	mau ke puncak yang ke gunung-gunungnya pakai hodinya keren apalagi dipakai orang
+386	mau ke puncak yang ke gunung-gunungnya pakai hodinya keren apalagi dipakai orang
+387	mau ke puncak yang ke gunung-gunungnya pakai hodinya keren apalagi dipakai orang
+388	mau ke puncak yang ke gunung-gunungnya pakai hodinya keren apalagi dipakai orang
+389	mau ke puncak yang ke gunung-gunungnya pakai hodinya keren apalagi dipakai orang sama orang yang keren jadi tambah keren apalagi sekarang lagi musim corona musim
+390	mau ke puncak yang ke gunung-gunungnya pakai hodinya keren apalagi dipakai orang sama orang yang keren jadi tambah keren apalagi sekarang lagi musim corona musim
+391	sama orang yang keren jadi tambah keren apalagi sekarang lagi musim corona musim
+392	sama orang yang keren jadi tambah keren apalagi sekarang lagi musim corona musim
+393	sama orang yang keren jadi tambah keren apalagi sekarang lagi musim corona musim
+394	sama orang yang keren jadi tambah keren apalagi sekarang lagi musim corona musim
+395	sama orang yang keren jadi tambah keren apalagi sekarang lagi musim corona musim
+396	sama orang yang keren jadi tambah keren apalagi sekarang lagi musim corona musim
+397	sama orang yang keren jadi tambah keren apalagi sekarang lagi musim corona musim
+398	sama orang yang keren jadi tambah keren apalagi sekarang lagi musim corona musim
+399	sama orang yang keren jadi tambah keren apalagi sekarang lagi musim corona musim
+400	sama orang yang keren jadi tambah keren apalagi sekarang lagi musim corona musim pandemi jadi harus di pakai masker
+401	sama orang yang keren jadi tambah keren apalagi sekarang lagi musim corona musim pandemi jadi harus di pakai masker
+402	pandemi jadi harus di pakai masker
+403	pandemi jadi harus di pakai masker
+404	pandemi jadi harus di pakai masker
+405	pandemi jadi harus di pakai masker
+406	pandemi jadi harus di pakai masker
+407	pandemi jadi harus di pakai masker
+408	pandemi jadi harus di pakai masker
+409	[NO_SPEECH]
+410	[NO_SPEECH]
+411	[NO_SPEECH]
+412	[NO_SPEECH]
+413	[NO_SPEECH]
+414	[NO_SPEECH]
+415	[NO_SPEECH]
+416	[NO_SPEECH]
+417	[NO_SPEECH]
+418	[NO_SPEECH]
+419	[NO_SPEECH]
+420	[NO_SPEECH]
+421	[NO_SPEECH]
+422	[NO_SPEECH]
+423	nih aduh pakai masker
+424	nih aduh pakai masker
+425	nih aduh pakai masker
+426	nih aduh pakai masker
+427	nih aduh pakai masker
+428	nih aduh pakai masker
+429	nih aduh pakai masker
+430	nih aduh pakai masker
+431	nih aduh pakai masker
+432	nih aduh pakai masker
+433	[NO_SPEECH]
+434	[NO_SPEECH]
+435	[NO_SPEECH]
+436	nih
+437	nih
+438	nih
+439	[NO_SPEECH]
+440	[NO_SPEECH]
+441	[NO_SPEECH]
+442	hmm terangkan deh begini maskernya kayak gini kalian yang mau naik
+443	hmm terangkan deh begini maskernya kayak gini kalian yang mau naik
+444	hmm terangkan deh begini maskernya kayak gini kalian yang mau naik
+445	hmm terangkan deh begini maskernya kayak gini kalian yang mau naik
+446	hmm terangkan deh begini maskernya kayak gini kalian yang mau naik
+447	hmm terangkan deh begini maskernya kayak gini kalian yang mau naik
+448	hmm terangkan deh begini maskernya kayak gini kalian yang mau naik
+449	hmm terangkan deh begini maskernya kayak gini kalian yang mau naik
+450	hmm terangkan deh begini maskernya kayak gini kalian yang mau naik
+451	hmm terangkan deh begini maskernya kayak gini kalian yang mau naik
+452	hmm terangkan deh begini maskernya kayak gini kalian yang mau naik
+453	hmm terangkan deh begini maskernya kayak gini kalian yang mau naik
+454	hmm terangkan deh begini maskernya kayak gini kalian yang mau naik motor-motor naik kemana-mana juga keren
+455	hmm terangkan deh begini maskernya kayak gini kalian yang mau naik motor-motor naik kemana-mana juga keren
+456	motor-motor naik kemana-mana juga keren
+457	motor-motor naik kemana-mana juga keren
+458	motor-motor naik kemana-mana juga keren
+459	[NO_SPEECH]
+460	[NO_SPEECH]
+461	[NO_SPEECH]
+462	[NO_SPEECH]
+463	[NO_SPEECH]
+464	pokoknya sekarang kalau Haji nya pengen samaan sama saya juga ini Hudi yang saya mau warnanya
+465	pokoknya sekarang kalau Haji nya pengen samaan sama saya juga ini Hudi yang saya mau warnanya
+466	pokoknya sekarang kalau Haji nya pengen samaan sama saya juga ini Hudi yang saya mau warnanya
+467	pokoknya sekarang kalau Haji nya pengen samaan sama saya juga ini Hudi yang saya mau warnanya
+468	pokoknya sekarang kalau Haji nya pengen samaan sama saya juga ini Hudi yang saya mau warnanya
+469	pokoknya sekarang kalau Haji nya pengen samaan sama saya juga ini Hudi yang saya mau warnanya
+470	pokoknya sekarang kalau Haji nya pengen samaan sama saya juga ini Hudi yang saya mau warnanya
+471	pokoknya sekarang kalau Haji nya pengen samaan sama saya juga ini Hudi yang saya mau warnanya
+472	pokoknya sekarang kalau Haji nya pengen samaan sama saya juga ini Hudi yang saya mau warnanya
+473	pokoknya sekarang kalau Haji nya pengen samaan sama saya juga ini Hudi yang saya mau warnanya
+474	pokoknya sekarang kalau Haji nya pengen samaan sama saya juga ini Hudi yang saya mau warnanya
+475	pokoknya sekarang kalau Haji nya pengen samaan sama saya juga ini Hudi yang saya mau warnanya
+476	pokoknya sekarang kalau Haji nya pengen samaan sama saya juga ini Hudi yang saya mau warnanya
+477	pokoknya sekarang kalau Haji nya pengen samaan sama saya juga ini Hudi yang saya mau warnanya putih putih ama biru pokoknya langsung di order ini saya pakai pribadi ukuran L Ya saya pribadi
+478	pokoknya sekarang kalau Haji nya pengen samaan sama saya juga ini Hudi yang saya mau warnanya putih putih ama biru pokoknya langsung di order ini saya pakai pribadi ukuran L Ya saya pribadi
+479	putih putih ama biru pokoknya langsung di order ini saya pakai pribadi ukuran L Ya saya pribadi
+480	putih putih ama biru pokoknya langsung di order ini saya pakai pribadi ukuran L Ya saya pribadi
+481	putih putih ama biru pokoknya langsung di order ini saya pakai pribadi ukuran L Ya saya pribadi
+482	putih putih ama biru pokoknya langsung di order ini saya pakai pribadi ukuran L Ya saya pribadi
+483	putih putih ama biru pokoknya langsung di order ini saya pakai pribadi ukuran L Ya saya pribadi
+484	putih putih ama biru pokoknya langsung di order ini saya pakai pribadi ukuran L Ya saya pribadi
+485	putih putih ama biru pokoknya langsung di order ini saya pakai pribadi ukuran L Ya saya pribadi
+486	putih putih ama biru pokoknya langsung di order ini saya pakai pribadi ukuran L Ya saya pribadi
+487	putih putih ama biru pokoknya langsung di order ini saya pakai pribadi ukuran L Ya saya pribadi
+488	putih putih ama biru pokoknya langsung di order ini saya pakai pribadi ukuran L Ya saya pribadi
+489	putih putih ama biru pokoknya langsung di order ini saya pakai pribadi ukuran L Ya saya pribadi
+490	putih putih ama biru pokoknya langsung di order ini saya pakai pribadi ukuran L Ya saya pribadi
+491	putih putih ama biru pokoknya langsung di order ini saya pakai pribadi ukuran L Ya saya pribadi
+492	putih putih ama biru pokoknya langsung di order ini saya pakai pribadi ukuran L Ya saya pribadi
+493	putih putih ama biru pokoknya langsung di order ini saya pakai pribadi ukuran L Ya saya pribadi
+494	putih putih ama biru pokoknya langsung di order ini saya pakai pribadi ukuran L Ya saya pribadi tadi ukuran L ini pas banget di saya kalian tergantung badan kalian segimana pokoknya ini
+495	putih putih ama biru pokoknya langsung di order ini saya pakai pribadi ukuran L Ya saya pribadi tadi ukuran L ini pas banget di saya kalian tergantung badan kalian segimana pokoknya ini
+496	tadi ukuran L ini pas banget di saya kalian tergantung badan kalian segimana pokoknya ini
+497	tadi ukuran L ini pas banget di saya kalian tergantung badan kalian segimana pokoknya ini
+498	tadi ukuran L ini pas banget di saya kalian tergantung badan kalian segimana pokoknya ini
+499	tadi ukuran L ini pas banget di saya kalian tergantung badan kalian segimana pokoknya ini
+500	tadi ukuran L ini pas banget di saya kalian tergantung badan kalian segimana pokoknya ini
+501	tadi ukuran L ini pas banget di saya kalian tergantung badan kalian segimana pokoknya ini
+502	tadi ukuran L ini pas banget di saya kalian tergantung badan kalian segimana pokoknya ini
+503	tadi ukuran L ini pas banget di saya kalian tergantung badan kalian segimana pokoknya ini
+504	tadi ukuran L ini pas banget di saya kalian tergantung badan kalian segimana pokoknya ini hodinya enak banget cuma harganya 300.000 kayaknya ya kayaknya sih 100.000 maafkan rambut saya guys
+505	tadi ukuran L ini pas banget di saya kalian tergantung badan kalian segimana pokoknya ini hodinya enak banget cuma harganya 300.000 kayaknya ya kayaknya sih 100.000 maafkan rambut saya guys
+506	hodinya enak banget cuma harganya 300.000 kayaknya ya kayaknya sih 100.000 maafkan rambut saya guys
+507	hodinya enak banget cuma harganya 300.000 kayaknya ya kayaknya sih 100.000 maafkan rambut saya guys
+508	hodinya enak banget cuma harganya 300.000 kayaknya ya kayaknya sih 100.000 maafkan rambut saya guys
+509	hodinya enak banget cuma harganya 300.000 kayaknya ya kayaknya sih 100.000 maafkan rambut saya guys
+510	hodinya enak banget cuma harganya 300.000 kayaknya ya kayaknya sih 100.000 maafkan rambut saya guys
+511	hodinya enak banget cuma harganya 300.000 kayaknya ya kayaknya sih 100.000 maafkan rambut saya guys
+512	hodinya enak banget cuma harganya 300.000 kayaknya ya kayaknya sih 100.000 maafkan rambut saya guys
+513	hodinya enak banget cuma harganya 300.000 kayaknya ya kayaknya sih 100.000 maafkan rambut saya guys
+514	hodinya enak banget cuma harganya 300.000 kayaknya ya kayaknya sih 100.000 maafkan rambut saya guys
+515	hodinya enak banget cuma harganya 300.000 kayaknya ya kayaknya sih 100.000 maafkan rambut saya guys
+516	hodinya enak banget cuma harganya 300.000 kayaknya ya kayaknya sih 100.000 maafkan rambut saya guys
+517	hodinya enak banget cuma harganya 300.000 kayaknya ya kayaknya sih 100.000 maafkan rambut saya guys
+518	hodinya enak banget cuma harganya 300.000 kayaknya ya kayaknya sih 100.000 maafkan rambut saya guys
+519	hodinya enak banget cuma harganya 300.000 kayaknya ya kayaknya sih 100.000 maafkan rambut saya guys
+520	hodinya enak banget cuma harganya 300.000 kayaknya ya kayaknya sih 100.000 maafkan rambut saya guys
+521	hodinya enak banget cuma harganya 300.000 kayaknya ya kayaknya sih 100.000 maafkan rambut saya guys
+522	hodinya enak banget cuma harganya 300.000 kayaknya ya kayaknya sih 100.000 maafkan rambut saya guys karena udah panjang pokoknya ini cocok banget buat new normal bener banget Ganevi ini cocok
+523	hodinya enak banget cuma harganya 300.000 kayaknya ya kayaknya sih 100.000 maafkan rambut saya guys karena udah panjang pokoknya ini cocok banget buat new normal bener banget Ganevi ini cocok
+524	karena udah panjang pokoknya ini cocok banget buat new normal bener banget Ganevi ini cocok
+525	karena udah panjang pokoknya ini cocok banget buat new normal bener banget Ganevi ini cocok
+526	karena udah panjang pokoknya ini cocok banget buat new normal bener banget Ganevi ini cocok
+527	karena udah panjang pokoknya ini cocok banget buat new normal bener banget Ganevi ini cocok
+528	karena udah panjang pokoknya ini cocok banget buat new normal bener banget Ganevi ini cocok
+529	karena udah panjang pokoknya ini cocok banget buat new normal bener banget Ganevi ini cocok
+530	karena udah panjang pokoknya ini cocok banget buat new normal bener banget Ganevi ini cocok
+531	karena udah panjang pokoknya ini cocok banget buat new normal bener banget Ganevi ini cocok
+532	karena udah panjang pokoknya ini cocok banget buat new normal bener banget Ganevi ini cocok
+533	karena udah panjang pokoknya ini cocok banget buat new normal bener banget Ganevi ini cocok
+534	karena udah panjang pokoknya ini cocok banget buat new normal bener banget Ganevi ini cocok
+535	karena udah panjang pokoknya ini cocok banget buat new normal bener banget Ganevi ini cocok banget buat new normal hodinya keren tambah free masker dari Kral nih Kral karya Rian Ardianto
+536	karena udah panjang pokoknya ini cocok banget buat new normal bener banget Ganevi ini cocok banget buat new normal hodinya keren tambah free masker dari Kral nih Kral karya Rian Ardianto
+537	banget buat new normal hodinya keren tambah free masker dari Kral nih Kral karya Rian Ardianto
+538	banget buat new normal hodinya keren tambah free masker dari Kral nih Kral karya Rian Ardianto
+539	banget buat new normal hodinya keren tambah free masker dari Kral nih Kral karya Rian Ardianto
+540	banget buat new normal hodinya keren tambah free masker dari Kral nih Kral karya Rian Ardianto
+541	banget buat new normal hodinya keren tambah free masker dari Kral nih Kral karya Rian Ardianto
+542	banget buat new normal hodinya keren tambah free masker dari Kral nih Kral karya Rian Ardianto
+543	banget buat new normal hodinya keren tambah free masker dari Kral nih Kral karya Rian Ardianto
+544	banget buat new normal hodinya keren tambah free masker dari Kral nih Kral karya Rian Ardianto
+545	banget buat new normal hodinya keren tambah free masker dari Kral nih Kral karya Rian Ardianto
+546	banget buat new normal hodinya keren tambah free masker dari Kral nih Kral karya Rian Ardianto
+547	banget buat new normal hodinya keren tambah free masker dari Kral nih Kral karya Rian Ardianto
+548	banget buat new normal hodinya keren tambah free masker dari Kral nih Kral karya Rian Ardianto
+549	banget buat new normal hodinya keren tambah free masker dari Kral nih Kral karya Rian Ardianto
+550	banget buat new normal hodinya keren tambah free masker dari Kral nih Kral karya Rian Ardianto
+551	banget buat new normal hodinya keren tambah free masker dari Kral nih Kral karya Rian Ardianto label tapi ini rambut saya udah kayak gini pokoknya keren banget kalau saya udah jadi
+552	banget buat new normal hodinya keren tambah free masker dari Kral nih Kral karya Rian Ardianto label tapi ini rambut saya udah kayak gini pokoknya keren banget kalau saya udah jadi
+553	label tapi ini rambut saya udah kayak gini pokoknya keren banget kalau saya udah jadi
+554	label tapi ini rambut saya udah kayak gini pokoknya keren banget kalau saya udah jadi
+555	label tapi ini rambut saya udah kayak gini pokoknya keren banget kalau saya udah jadi
+556	label tapi ini rambut saya udah kayak gini pokoknya keren banget kalau saya udah jadi
+557	label tapi ini rambut saya udah kayak gini pokoknya keren banget kalau saya udah jadi
+558	label tapi ini rambut saya udah kayak gini pokoknya keren banget kalau saya udah jadi
+559	label tapi ini rambut saya udah kayak gini pokoknya keren banget kalau saya udah jadi
+560	label tapi ini rambut saya udah kayak gini pokoknya keren banget kalau saya udah jadi
+561	label tapi ini rambut saya udah kayak gini pokoknya keren banget kalau saya udah jadi
+562	label tapi ini rambut saya udah kayak gini pokoknya keren banget kalau saya udah jadi
+563	label tapi ini rambut saya udah kayak gini pokoknya keren banget kalau saya udah jadi
+564	label tapi ini rambut saya udah kayak gini pokoknya keren banget kalau saya udah jadi
+565	label tapi ini rambut saya udah kayak gini pokoknya keren banget kalau saya udah jadi kayak model gini nih fotonya udah udah cocok banget kan
+566	label tapi ini rambut saya udah kayak gini pokoknya keren banget kalau saya udah jadi kayak model gini nih fotonya udah udah cocok banget kan
+567	kayak model gini nih fotonya udah udah cocok banget kan
+568	kayak model gini nih fotonya udah udah cocok banget kan
+569	kayak model gini nih fotonya udah udah cocok banget kan
+570	kayak model gini nih fotonya udah udah cocok banget kan
+571	kayak model gini nih fotonya udah udah cocok banget kan
+572	kayak model gini nih fotonya udah udah cocok banget kan
+573	kayak model gini nih fotonya udah udah cocok banget kan
+574	kayak model gini nih fotonya udah udah cocok banget kan
+575	kayak model gini nih fotonya udah udah cocok banget kan
+576	kayak model gini nih fotonya udah udah cocok banget kan
+577	kayak model gini nih fotonya udah udah cocok banget kan
+578	kayak model gini nih fotonya udah udah cocok banget kan
+579	kayak model gini nih fotonya udah udah cocok banget kan
+580	kayak model gini nih fotonya udah udah cocok banget kan
+581	kayak model gini nih fotonya udah udah cocok banget kan
+582	kayak model gini nih fotonya udah udah cocok banget kan
+583	kayak model gini nih fotonya udah udah cocok banget kan
+584	kayak model gini nih fotonya udah udah cocok banget kan
+585	kayak model gini nih fotonya udah udah cocok banget kan
+586	kayak model gini nih fotonya udah udah cocok banget kan
+587	kayak model gini nih fotonya udah udah cocok banget kan
+588	kayak model gini nih fotonya udah udah cocok banget kan
+589	kayak model gini nih fotonya udah udah cocok banget kan
+590	kayak model gini nih fotonya udah udah cocok banget kan
+591	kayak model gini nih fotonya udah udah cocok banget kan
+592	[NO_SPEECH]
+593	[NO_SPEECH]
+594	[NO_SPEECH]
+595	[NO_SPEECH]
+596	[NO_SPEECH]
+597	[NO_SPEECH]
+598	[NO_SPEECH]
+599	pokoknya langsung di order ini jaket hodinya yang recommended buat saya ini pokoknya warna
+600	pokoknya langsung di order ini jaket hodinya yang recommended buat saya ini pokoknya warna
+601	pokoknya langsung di order ini jaket hodinya yang recommended buat saya ini pokoknya warna
+602	pokoknya langsung di order ini jaket hodinya yang recommended buat saya ini pokoknya warna
+603	pokoknya langsung di order ini jaket hodinya yang recommended buat saya ini pokoknya warna
+604	pokoknya langsung di order ini jaket hodinya yang recommended buat saya ini pokoknya warna
+605	pokoknya langsung di order ini jaket hodinya yang recommended buat saya ini pokoknya warna
+606	pokoknya langsung di order ini jaket hodinya yang recommended buat saya ini pokoknya warna
+607	pokoknya langsung di order ini jaket hodinya yang recommended buat saya ini pokoknya warna
+608	pokoknya langsung di order ini jaket hodinya yang recommended buat saya ini pokoknya warna
+609	pokoknya langsung di order ini jaket hodinya yang recommended buat saya ini pokoknya warna biru sama putih ini
+610	pokoknya langsung di order ini jaket hodinya yang recommended buat saya ini pokoknya warna biru sama putih ini
+611	biru sama putih ini Saya suka banget warna ini jadi ya Saya mintanya yang ini Iya kan Pokoknya kalian harus apa namanya
+612	Saya suka banget warna ini jadi ya Saya mintanya yang ini Iya kan Pokoknya kalian harus apa namanya
+613	Saya suka banget warna ini jadi ya Saya mintanya yang ini Iya kan Pokoknya kalian harus apa namanya
+614	Saya suka banget warna ini jadi ya Saya mintanya yang ini Iya kan Pokoknya kalian harus apa namanya
+615	Saya suka banget warna ini jadi ya Saya mintanya yang ini Iya kan Pokoknya kalian harus apa namanya
+616	Saya suka banget warna ini jadi ya Saya mintanya yang ini Iya kan Pokoknya kalian harus apa namanya
+617	Saya suka banget warna ini jadi ya Saya mintanya yang ini Iya kan Pokoknya kalian harus apa namanya
+618	Saya suka banget warna ini jadi ya Saya mintanya yang ini Iya kan Pokoknya kalian harus apa namanya
+619	Saya suka banget warna ini jadi ya Saya mintanya yang ini Iya kan Pokoknya kalian harus apa namanya
+620	Saya suka banget warna ini jadi ya Saya mintanya yang ini Iya kan Pokoknya kalian harus apa namanya
+621	Saya suka banget warna ini jadi ya Saya mintanya yang ini Iya kan Pokoknya kalian harus apa namanya
+622	Saya suka banget warna ini jadi ya Saya mintanya yang ini Iya kan Pokoknya kalian harus apa namanya
+623	Saya suka banget warna ini jadi ya Saya mintanya yang ini Iya kan Pokoknya kalian harus apa namanya
+624	Saya suka banget warna ini jadi ya Saya mintanya yang ini Iya kan Pokoknya kalian harus apa namanya
+625	Saya suka banget warna ini jadi ya Saya mintanya yang ini Iya kan Pokoknya kalian harus apa namanya
+626	Saya suka banget warna ini jadi ya Saya mintanya yang ini Iya kan Pokoknya kalian harus apa namanya itu harus order sekarang juga biar nanti kalau kalian order kan nambah penghasilan buat partner
+627	Saya suka banget warna ini jadi ya Saya mintanya yang ini Iya kan Pokoknya kalian harus apa namanya itu harus order sekarang juga biar nanti kalau kalian order kan nambah penghasilan buat partner
+628	itu harus order sekarang juga biar nanti kalau kalian order kan nambah penghasilan buat partner
+629	itu harus order sekarang juga biar nanti kalau kalian order kan nambah penghasilan buat partner
+630	itu harus order sekarang juga biar nanti kalau kalian order kan nambah penghasilan buat partner
+631	itu harus order sekarang juga biar nanti kalau kalian order kan nambah penghasilan buat partner
+632	itu harus order sekarang juga biar nanti kalau kalian order kan nambah penghasilan buat partner
+633	itu harus order sekarang juga biar nanti kalau kalian order kan nambah penghasilan buat partner
+634	itu harus order sekarang juga biar nanti kalau kalian order kan nambah penghasilan buat partner
+635	itu harus order sekarang juga biar nanti kalau kalian order kan nambah penghasilan buat partner
+636	itu harus order sekarang juga biar nanti kalau kalian order kan nambah penghasilan buat partner
+637	itu harus order sekarang juga biar nanti kalau kalian order kan nambah penghasilan buat partner saya juga jadi dia langsungchi Hai Vijaya perhatinya tuh bahagia Jadi mainnya juga jadi
+638	itu harus order sekarang juga biar nanti kalau kalian order kan nambah penghasilan buat partner saya juga jadi dia langsungchi Hai Vijaya perhatinya tuh bahagia Jadi mainnya juga jadi
+639	saya juga jadi dia langsungchi Hai Vijaya perhatinya tuh bahagia Jadi mainnya juga jadi
+640	saya juga jadi dia langsungchi Hai Vijaya perhatinya tuh bahagia Jadi mainnya juga jadi
+641	saya juga jadi dia langsungchi Hai Vijaya perhatinya tuh bahagia Jadi mainnya juga jadi
+642	saya juga jadi dia langsungchi Hai Vijaya perhatinya tuh bahagia Jadi mainnya juga jadi
+643	saya juga jadi dia langsungchi Hai Vijaya perhatinya tuh bahagia Jadi mainnya juga jadi
+644	saya juga jadi dia langsungchi Hai Vijaya perhatinya tuh bahagia Jadi mainnya juga jadi
+645	saya juga jadi dia langsungchi Hai Vijaya perhatinya tuh bahagia Jadi mainnya juga jadi
+646	saya juga jadi dia langsungchi Hai Vijaya perhatinya tuh bahagia Jadi mainnya juga jadi
+647	saya juga jadi dia langsungchi Hai Vijaya perhatinya tuh bahagia Jadi mainnya juga jadi
+648	saya juga jadi dia langsungchi Hai Vijaya perhatinya tuh bahagia Jadi mainnya juga jadi senang gitu loh Seneng dan semangat Pokoknya kalian di order mantra llkri Ian Ardianto label saya dapat
+649	saya juga jadi dia langsungchi Hai Vijaya perhatinya tuh bahagia Jadi mainnya juga jadi senang gitu loh Seneng dan semangat Pokoknya kalian di order mantra llkri Ian Ardianto label saya dapat
+650	senang gitu loh Seneng dan semangat Pokoknya kalian di order mantra llkri Ian Ardianto label saya dapat
+651	senang gitu loh Seneng dan semangat Pokoknya kalian di order mantra llkri Ian Ardianto label saya dapat
+652	senang gitu loh Seneng dan semangat Pokoknya kalian di order mantra llkri Ian Ardianto label saya dapat
+653	senang gitu loh Seneng dan semangat Pokoknya kalian di order mantra llkri Ian Ardianto label saya dapat
+654	senang gitu loh Seneng dan semangat Pokoknya kalian di order mantra llkri Ian Ardianto label saya dapat
+655	senang gitu loh Seneng dan semangat Pokoknya kalian di order mantra llkri Ian Ardianto label saya dapat
+656	senang gitu loh Seneng dan semangat Pokoknya kalian di order mantra llkri Ian Ardianto label saya dapat
+657	senang gitu loh Seneng dan semangat Pokoknya kalian di order mantra llkri Ian Ardianto label saya dapat
+658	senang gitu loh Seneng dan semangat Pokoknya kalian di order mantra llkri Ian Ardianto label saya dapat
+659	senang gitu loh Seneng dan semangat Pokoknya kalian di order mantra llkri Ian Ardianto label saya dapat
+660	senang gitu loh Seneng dan semangat Pokoknya kalian di order mantra llkri Ian Ardianto label saya dapat
+661	senang gitu loh Seneng dan semangat Pokoknya kalian di order mantra llkri Ian Ardianto label saya dapat
+662	senang gitu loh Seneng dan semangat Pokoknya kalian di order mantra llkri Ian Ardianto label saya dapat
+663	senang gitu loh Seneng dan semangat Pokoknya kalian di order mantra llkri Ian Ardianto label saya dapat
+664	senang gitu loh Seneng dan semangat Pokoknya kalian di order mantra llkri Ian Ardianto label saya dapat dapat free dari dia kalau enggak dapat pria saya enggak umpanin depan-depannya dia nggak bisa
+665	senang gitu loh Seneng dan semangat Pokoknya kalian di order mantra llkri Ian Ardianto label saya dapat dapat free dari dia kalau enggak dapat pria saya enggak umpanin depan-depannya dia nggak bisa
+666	dapat free dari dia kalau enggak dapat pria saya enggak umpanin depan-depannya dia nggak bisa
+667	dapat free dari dia kalau enggak dapat pria saya enggak umpanin depan-depannya dia nggak bisa
+668	dapat free dari dia kalau enggak dapat pria saya enggak umpanin depan-depannya dia nggak bisa
+669	dapat free dari dia kalau enggak dapat pria saya enggak umpanin depan-depannya dia nggak bisa
+670	dapat free dari dia kalau enggak dapat pria saya enggak umpanin depan-depannya dia nggak bisa
+671	dapat free dari dia kalau enggak dapat pria saya enggak umpanin depan-depannya dia nggak bisa
+672	dapat free dari dia kalau enggak dapat pria saya enggak umpanin depan-depannya dia nggak bisa
+673	dapat free dari dia kalau enggak dapat pria saya enggak umpanin depan-depannya dia nggak bisa nyemes gitu Jadi pokoknya kalian harus beli ini hodinya keren banget serius tapi enggak bohong
+674	dapat free dari dia kalau enggak dapat pria saya enggak umpanin depan-depannya dia nggak bisa nyemes gitu Jadi pokoknya kalian harus beli ini hodinya keren banget serius tapi enggak bohong
+675	nyemes gitu Jadi pokoknya kalian harus beli ini hodinya keren banget serius tapi enggak bohong
+676	nyemes gitu Jadi pokoknya kalian harus beli ini hodinya keren banget serius tapi enggak bohong
+677	nyemes gitu Jadi pokoknya kalian harus beli ini hodinya keren banget serius tapi enggak bohong
+678	nyemes gitu Jadi pokoknya kalian harus beli ini hodinya keren banget serius tapi enggak bohong
+679	nyemes gitu Jadi pokoknya kalian harus beli ini hodinya keren banget serius tapi enggak bohong
+680	nyemes gitu Jadi pokoknya kalian harus beli ini hodinya keren banget serius tapi enggak bohong
+681	nyemes gitu Jadi pokoknya kalian harus beli ini hodinya keren banget serius tapi enggak bohong
+682	nyemes gitu Jadi pokoknya kalian harus beli ini hodinya keren banget serius tapi enggak bohong
+683	nyemes gitu Jadi pokoknya kalian harus beli ini hodinya keren banget serius tapi enggak bohong
+684	nyemes gitu Jadi pokoknya kalian harus beli ini hodinya keren banget serius tapi enggak bohong
+685	nyemes gitu Jadi pokoknya kalian harus beli ini hodinya keren banget serius tapi enggak bohong ini enggak enggak solo-solo enggak pokoknya enak banget adem juga jadi jaket bukan adem ya enggak
+686	nyemes gitu Jadi pokoknya kalian harus beli ini hodinya keren banget serius tapi enggak bohong ini enggak enggak solo-solo enggak pokoknya enak banget adem juga jadi jaket bukan adem ya enggak
+687	ini enggak enggak solo-solo enggak pokoknya enak banget adem juga jadi jaket bukan adem ya enggak
+688	ini enggak enggak solo-solo enggak pokoknya enak banget adem juga jadi jaket bukan adem ya enggak
+689	ini enggak enggak solo-solo enggak pokoknya enak banget adem juga jadi jaket bukan adem ya enggak
+690	ini enggak enggak solo-solo enggak pokoknya enak banget adem juga jadi jaket bukan adem ya enggak
+691	ini enggak enggak solo-solo enggak pokoknya enak banget adem juga jadi jaket bukan adem ya enggak
+692	ini enggak enggak solo-solo enggak pokoknya enak banget adem juga jadi jaket bukan adem ya enggak
+693	ini enggak enggak solo-solo enggak pokoknya enak banget adem juga jadi jaket bukan adem ya enggak
+694	ini enggak enggak solo-solo enggak pokoknya enak banget adem juga jadi jaket bukan adem ya enggak
+695	ini enggak enggak solo-solo enggak pokoknya enak banget adem juga jadi jaket bukan adem ya enggak
+696	ini enggak enggak solo-solo enggak pokoknya enak banget adem juga jadi jaket bukan adem ya enggak panas juga tapi bikin anget gitu pokoknya bisa dipakai di Indonesia lah pokoknya khususnya di
+697	ini enggak enggak solo-solo enggak pokoknya enak banget adem juga jadi jaket bukan adem ya enggak panas juga tapi bikin anget gitu pokoknya bisa dipakai di Indonesia lah pokoknya khususnya di
+698	panas juga tapi bikin anget gitu pokoknya bisa dipakai di Indonesia lah pokoknya khususnya di
+699	panas juga tapi bikin anget gitu pokoknya bisa dipakai di Indonesia lah pokoknya khususnya di
+700	panas juga tapi bikin anget gitu pokoknya bisa dipakai di Indonesia lah pokoknya khususnya di
+701	panas juga tapi bikin anget gitu pokoknya bisa dipakai di Indonesia lah pokoknya khususnya di
+702	panas juga tapi bikin anget gitu pokoknya bisa dipakai di Indonesia lah pokoknya khususnya di
+703	panas juga tapi bikin anget gitu pokoknya bisa dipakai di Indonesia lah pokoknya khususnya di
+704	panas juga tapi bikin anget gitu pokoknya bisa dipakai di Indonesia lah pokoknya khususnya di
+705	panas juga tapi bikin anget gitu pokoknya bisa dipakai di Indonesia lah pokoknya khususnya di
+706	panas juga tapi bikin anget gitu pokoknya bisa dipakai di Indonesia lah pokoknya khususnya di Indonesia ini enggak panas enggak gerah pokoknya enak banget pokoknya sekarang juga kalian harus
+707	panas juga tapi bikin anget gitu pokoknya bisa dipakai di Indonesia lah pokoknya khususnya di Indonesia ini enggak panas enggak gerah pokoknya enak banget pokoknya sekarang juga kalian harus
+708	Indonesia ini enggak panas enggak gerah pokoknya enak banget pokoknya sekarang juga kalian harus
+709	Indonesia ini enggak panas enggak gerah pokoknya enak banget pokoknya sekarang juga kalian harus
+710	Indonesia ini enggak panas enggak gerah pokoknya enak banget pokoknya sekarang juga kalian harus
+711	Indonesia ini enggak panas enggak gerah pokoknya enak banget pokoknya sekarang juga kalian harus
+712	Indonesia ini enggak panas enggak gerah pokoknya enak banget pokoknya sekarang juga kalian harus
+713	Indonesia ini enggak panas enggak gerah pokoknya enak banget pokoknya sekarang juga kalian harus
+714	Indonesia ini enggak panas enggak gerah pokoknya enak banget pokoknya sekarang juga kalian harus
+715	Indonesia ini enggak panas enggak gerah pokoknya enak banget pokoknya sekarang juga kalian harus
+716	Indonesia ini enggak panas enggak gerah pokoknya enak banget pokoknya sekarang juga kalian harus
+717	Indonesia ini enggak panas enggak gerah pokoknya enak banget pokoknya sekarang juga kalian harus terus beli Oke di at krall.id kalau enggak di enggak tahu pesannya di mana pokoknya di
+718	Indonesia ini enggak panas enggak gerah pokoknya enak banget pokoknya sekarang juga kalian harus terus beli Oke di at krall.id kalau enggak di enggak tahu pesannya di mana pokoknya di
+719	terus beli Oke di at krall.id kalau enggak di enggak tahu pesannya di mana pokoknya di
+720	terus beli Oke di at krall.id kalau enggak di enggak tahu pesannya di mana pokoknya di
+721	terus beli Oke di at krall.id kalau enggak di enggak tahu pesannya di mana pokoknya di
+722	terus beli Oke di at krall.id kalau enggak di enggak tahu pesannya di mana pokoknya di
+723	terus beli Oke di at krall.id kalau enggak di enggak tahu pesannya di mana pokoknya di
+724	terus beli Oke di at krall.id kalau enggak di enggak tahu pesannya di mana pokoknya di
+725	terus beli Oke di at krall.id kalau enggak di enggak tahu pesannya di mana pokoknya di
+726	terus beli Oke di at krall.id kalau enggak di enggak tahu pesannya di mana pokoknya di
+727	terus beli Oke di at krall.id kalau enggak di enggak tahu pesannya di mana pokoknya di
+728	terus beli Oke di at krall.id kalau enggak di enggak tahu pesannya di mana pokoknya di
+729	terus beli Oke di at krall.id kalau enggak di enggak tahu pesannya di mana pokoknya di
+730	terus beli Oke di at krall.id kalau enggak di enggak tahu pesannya di mana pokoknya di
+731	terus beli Oke di at krall.id kalau enggak di enggak tahu pesannya di mana pokoknya di
+732	terus beli Oke di at krall.id kalau enggak di enggak tahu pesannya di mana pokoknya di
+733	terus beli Oke di at krall.id kalau enggak di enggak tahu pesannya di mana pokoknya di
+734	terus beli Oke di at krall.id kalau enggak di enggak tahu pesannya di mana pokoknya di
+735	terus beli Oke di at krall.id kalau enggak di enggak tahu pesannya di mana pokoknya di websitenya dia ya pokoknya terima kasih thank you bye bye
+736	terus beli Oke di at krall.id kalau enggak di enggak tahu pesannya di mana pokoknya di websitenya dia ya pokoknya terima kasih thank you bye bye
+737	websitenya dia ya pokoknya terima kasih thank you bye bye
+738	websitenya dia ya pokoknya terima kasih thank you bye bye
+739	websitenya dia ya pokoknya terima kasih thank you bye bye
+740	websitenya dia ya pokoknya terima kasih thank you bye bye
+741	websitenya dia ya pokoknya terima kasih thank you bye bye
+742	websitenya dia ya pokoknya terima kasih thank you bye bye
+743	websitenya dia ya pokoknya terima kasih thank you bye bye
+744	websitenya dia ya pokoknya terima kasih thank you bye bye
+745	websitenya dia ya pokoknya terima kasih thank you bye bye
+746	websitenya dia ya pokoknya terima kasih thank you bye bye
+747	[NO_SPEECH]
+748	[NO_SPEECH]
+749	[NO_SPEECH]

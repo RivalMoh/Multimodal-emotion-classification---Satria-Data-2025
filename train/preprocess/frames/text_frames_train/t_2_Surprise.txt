@@ -1,0 +1,256 @@
+0	One Minute Journey, episode berikutnya akan dimulai.
+1	One Minute Journey, episode berikutnya akan dimulai.
+2	One Minute Journey, episode berikutnya akan dimulai.
+3	One Minute Journey, episode berikutnya akan dimulai.
+4	One Minute Journey, episode berikutnya akan dimulai.
+5	One Minute Journey, episode berikutnya akan dimulai. Sekarang kita di Laos dan kita sudah ngambil mobil kita,
+6	One Minute Journey, episode berikutnya akan dimulai. Sekarang kita di Laos dan kita sudah ngambil mobil kita,
+7	Sekarang kita di Laos dan kita sudah ngambil mobil kita,
+8	Sekarang kita di Laos dan kita sudah ngambil mobil kita,
+9	Sekarang kita di Laos dan kita sudah ngambil mobil kita,
+10	Sekarang kita di Laos dan kita sudah ngambil mobil kita,
+11	Sekarang kita di Laos dan kita sudah ngambil mobil kita,
+12	Sekarang kita di Laos dan kita sudah ngambil mobil kita,
+13	Sekarang kita di Laos dan kita sudah ngambil mobil kita, Chery Duo Tigo, Tigo 8 Pro Max, dan Tigo 8 yang Comfort.
+14	Chery Duo Tigo, Tigo 8 Pro Max, dan Tigo 8 yang Comfort.
+15	Chery Duo Tigo, Tigo 8 Pro Max, dan Tigo 8 yang Comfort.
+16	Chery Duo Tigo, Tigo 8 Pro Max, dan Tigo 8 yang Comfort.
+17	Chery Duo Tigo, Tigo 8 Pro Max, dan Tigo 8 yang Comfort.
+18	Chery Duo Tigo, Tigo 8 Pro Max, dan Tigo 8 yang Comfort.
+19	Chery Duo Tigo, Tigo 8 Pro Max, dan Tigo 8 yang Comfort.
+20	Chery Duo Tigo, Tigo 8 Pro Max, dan Tigo 8 yang Comfort.
+21	Chery Duo Tigo, Tigo 8 Pro Max, dan Tigo 8 yang Comfort. Nah pertanyaannya, gimana caranya mobil bisa kita kutip di Laos?
+22	Chery Duo Tigo, Tigo 8 Pro Max, dan Tigo 8 yang Comfort. Nah pertanyaannya, gimana caranya mobil bisa kita kutip di Laos?
+23	Nah pertanyaannya, gimana caranya mobil bisa kita kutip di Laos?
+24	Nah pertanyaannya, gimana caranya mobil bisa kita kutip di Laos?
+25	Nah pertanyaannya, gimana caranya mobil bisa kita kutip di Laos?
+26	Nah pertanyaannya, gimana caranya mobil bisa kita kutip di Laos?
+27	Nah pertanyaannya, gimana caranya mobil bisa kita kutip di Laos?
+28	Nah pertanyaannya, gimana caranya mobil bisa kita kutip di Laos?
+29	Nah pertanyaannya, gimana caranya mobil bisa kita kutip di Laos? Jadi kemarin kita dari Malaysia, Singapur, Thailand, Kamboja, Laos, terus Vietnam,
+30	Nah pertanyaannya, gimana caranya mobil bisa kita kutip di Laos? Jadi kemarin kita dari Malaysia, Singapur, Thailand, Kamboja, Laos, terus Vietnam,
+31	Jadi kemarin kita dari Malaysia, Singapur, Thailand, Kamboja, Laos, terus Vietnam,
+32	Jadi kemarin kita dari Malaysia, Singapur, Thailand, Kamboja, Laos, terus Vietnam,
+33	Jadi kemarin kita dari Malaysia, Singapur, Thailand, Kamboja, Laos, terus Vietnam,
+34	Jadi kemarin kita dari Malaysia, Singapur, Thailand, Kamboja, Laos, terus Vietnam,
+35	Jadi kemarin kita dari Malaysia, Singapur, Thailand, Kamboja, Laos, terus Vietnam,
+36	Jadi kemarin kita dari Malaysia, Singapur, Thailand, Kamboja, Laos, terus Vietnam,
+37	Jadi kemarin kita dari Malaysia, Singapur, Thailand, Kamboja, Laos, terus Vietnam,
+38	Jadi kemarin kita dari Malaysia, Singapur, Thailand, Kamboja, Laos, terus Vietnam,
+39	Jadi kemarin kita dari Malaysia, Singapur, Thailand, Kamboja, Laos, terus Vietnam,
+40	Jadi kemarin kita dari Malaysia, Singapur, Thailand, Kamboja, Laos, terus Vietnam,
+41	Jadi kemarin kita dari Malaysia, Singapur, Thailand, Kamboja, Laos, terus Vietnam, mobil kita tinggal di Laos selama 2 bulan.
+42	mobil kita tinggal di Laos selama 2 bulan.
+43	mobil kita tinggal di Laos selama 2 bulan.
+44	mobil kita tinggal di Laos selama 2 bulan.
+45	mobil kita tinggal di Laos selama 2 bulan.
+46	mobil kita tinggal di Laos selama 2 bulan. Emang bisa? Jawabannya, enggak.
+47	mobil kita tinggal di Laos selama 2 bulan. Emang bisa? Jawabannya, enggak.
+48	Emang bisa? Jawabannya, enggak.
+49	Emang bisa? Jawabannya, enggak.
+50	Emang bisa? Jawabannya, enggak. Jadi untuk masuk ke Laos, kita itu nggak perlu pakai CPD Carnet.
+51	Emang bisa? Jawabannya, enggak. Jadi untuk masuk ke Laos, kita itu nggak perlu pakai CPD Carnet.
+52	Jadi untuk masuk ke Laos, kita itu nggak perlu pakai CPD Carnet.
+53	Jadi untuk masuk ke Laos, kita itu nggak perlu pakai CPD Carnet.
+54	Jadi untuk masuk ke Laos, kita itu nggak perlu pakai CPD Carnet.
+55	Jadi untuk masuk ke Laos, kita itu nggak perlu pakai CPD Carnet.
+56	Jadi untuk masuk ke Laos, kita itu nggak perlu pakai CPD Carnet.
+57	Jadi untuk masuk ke Laos, kita itu nggak perlu pakai CPD Carnet. Karena Laos punya permitnya sendiri seperti ini,
+58	Jadi untuk masuk ke Laos, kita itu nggak perlu pakai CPD Carnet. Karena Laos punya permitnya sendiri seperti ini,
+59	Karena Laos punya permitnya sendiri seperti ini,
+60	Karena Laos punya permitnya sendiri seperti ini,
+61	Karena Laos punya permitnya sendiri seperti ini,
+62	Karena Laos punya permitnya sendiri seperti ini,
+63	Karena Laos punya permitnya sendiri seperti ini, dan kita harus urus ini sebelum masuk ke Laos.
+64	dan kita harus urus ini sebelum masuk ke Laos.
+65	dan kita harus urus ini sebelum masuk ke Laos.
+66	dan kita harus urus ini sebelum masuk ke Laos.
+67	dan kita harus urus ini sebelum masuk ke Laos.
+68	dan kita harus urus ini sebelum masuk ke Laos.
+69	dan kita harus urus ini sebelum masuk ke Laos. Untungnya kita menggunakan agent, agent sudah mengurus semua ini,
+70	dan kita harus urus ini sebelum masuk ke Laos. Untungnya kita menggunakan agent, agent sudah mengurus semua ini,
+71	Untungnya kita menggunakan agent, agent sudah mengurus semua ini,
+72	Untungnya kita menggunakan agent, agent sudah mengurus semua ini,
+73	Untungnya kita menggunakan agent, agent sudah mengurus semua ini,
+74	Untungnya kita menggunakan agent, agent sudah mengurus semua ini,
+75	Untungnya kita menggunakan agent, agent sudah mengurus semua ini,
+76	Untungnya kita menggunakan agent, agent sudah mengurus semua ini, dan kita wajib membayar sekitar 100 USD per mobil.
+77	Untungnya kita menggunakan agent, agent sudah mengurus semua ini, dan kita wajib membayar sekitar 100 USD per mobil.
+78	dan kita wajib membayar sekitar 100 USD per mobil.
+79	dan kita wajib membayar sekitar 100 USD per mobil.
+80	dan kita wajib membayar sekitar 100 USD per mobil.
+81	dan kita wajib membayar sekitar 100 USD per mobil.
+82	dan kita wajib membayar sekitar 100 USD per mobil.
+83	dan kita wajib membayar sekitar 100 USD per mobil. Jadi untuk 2 mobil, kita membayar 200 USD,
+84	dan kita wajib membayar sekitar 100 USD per mobil. Jadi untuk 2 mobil, kita membayar 200 USD,
+85	Jadi untuk 2 mobil, kita membayar 200 USD,
+86	Jadi untuk 2 mobil, kita membayar 200 USD,
+87	Jadi untuk 2 mobil, kita membayar 200 USD,
+88	Jadi untuk 2 mobil, kita membayar 200 USD,
+89	Jadi untuk 2 mobil, kita membayar 200 USD, tapi permitnya hanya berlaku untuk 1 bulan saja.
+90	Jadi untuk 2 mobil, kita membayar 200 USD, tapi permitnya hanya berlaku untuk 1 bulan saja.
+91	tapi permitnya hanya berlaku untuk 1 bulan saja.
+92	tapi permitnya hanya berlaku untuk 1 bulan saja.
+93	tapi permitnya hanya berlaku untuk 1 bulan saja.
+94	tapi permitnya hanya berlaku untuk 1 bulan saja.
+95	tapi permitnya hanya berlaku untuk 1 bulan saja.
+96	tapi permitnya hanya berlaku untuk 1 bulan saja.
+97	tapi permitnya hanya berlaku untuk 1 bulan saja.
+98	tapi permitnya hanya berlaku untuk 1 bulan saja. Nah sayangnya permitnya kan cuma 1 bulan.
+99	Nah sayangnya permitnya kan cuma 1 bulan.
+100	Nah sayangnya permitnya kan cuma 1 bulan.
+101	Nah sayangnya permitnya kan cuma 1 bulan. Gimana caranya biar jadi 2 bulan?
+102	Nah sayangnya permitnya kan cuma 1 bulan. Gimana caranya biar jadi 2 bulan?
+103	Gimana caranya biar jadi 2 bulan?
+104	Gimana caranya biar jadi 2 bulan?
+105	Gimana caranya biar jadi 2 bulan? Kita coba carilah caranya.
+106	Gimana caranya biar jadi 2 bulan? Kita coba carilah caranya.
+107	Kita coba carilah caranya.
+108	Kita coba carilah caranya. Kita kontak KBRI, biar cukai agent, termasuk juga Chery yang ada di Laos.
+109	Kita coba carilah caranya. Kita kontak KBRI, biar cukai agent, termasuk juga Chery yang ada di Laos.
+110	Kita kontak KBRI, biar cukai agent, termasuk juga Chery yang ada di Laos.
+111	Kita kontak KBRI, biar cukai agent, termasuk juga Chery yang ada di Laos.
+112	Kita kontak KBRI, biar cukai agent, termasuk juga Chery yang ada di Laos.
+113	Kita kontak KBRI, biar cukai agent, termasuk juga Chery yang ada di Laos.
+114	Kita kontak KBRI, biar cukai agent, termasuk juga Chery yang ada di Laos.
+115	Kita kontak KBRI, biar cukai agent, termasuk juga Chery yang ada di Laos.
+116	Kita kontak KBRI, biar cukai agent, termasuk juga Chery yang ada di Laos.
+117	Kita kontak KBRI, biar cukai agent, termasuk juga Chery yang ada di Laos. Ternyata memang tidak bisa diperpanjang jadi 2 bulan.
+118	Kita kontak KBRI, biar cukai agent, termasuk juga Chery yang ada di Laos. Ternyata memang tidak bisa diperpanjang jadi 2 bulan.
+119	Ternyata memang tidak bisa diperpanjang jadi 2 bulan.
+120	Ternyata memang tidak bisa diperpanjang jadi 2 bulan.
+121	Ternyata memang tidak bisa diperpanjang jadi 2 bulan.
+122	Ternyata memang tidak bisa diperpanjang jadi 2 bulan. Akhirnya kita melakukan sesuatu yang legal, dan kalian bisa curi cara ini.
+123	Ternyata memang tidak bisa diperpanjang jadi 2 bulan. Akhirnya kita melakukan sesuatu yang legal, dan kalian bisa curi cara ini.
+124	Akhirnya kita melakukan sesuatu yang legal, dan kalian bisa curi cara ini.
+125	Akhirnya kita melakukan sesuatu yang legal, dan kalian bisa curi cara ini.
+126	Akhirnya kita melakukan sesuatu yang legal, dan kalian bisa curi cara ini.
+127	Akhirnya kita melakukan sesuatu yang legal, dan kalian bisa curi cara ini.
+128	Akhirnya kita melakukan sesuatu yang legal, dan kalian bisa curi cara ini.
+129	Akhirnya kita melakukan sesuatu yang legal, dan kalian bisa curi cara ini.
+130	Akhirnya kita melakukan sesuatu yang legal, dan kalian bisa curi cara ini. Sebelum permitnya genap 1 bulan,
+131	Sebelum permitnya genap 1 bulan,
+132	Sebelum permitnya genap 1 bulan,
+133	Sebelum permitnya genap 1 bulan,
+134	Sebelum permitnya genap 1 bulan, gue mengirim pala dan rahmat untuk ke Laos dan mengeluarkan mobil ini ke Thailand.
+135	Sebelum permitnya genap 1 bulan, gue mengirim pala dan rahmat untuk ke Laos dan mengeluarkan mobil ini ke Thailand.
+136	gue mengirim pala dan rahmat untuk ke Laos dan mengeluarkan mobil ini ke Thailand.
+137	gue mengirim pala dan rahmat untuk ke Laos dan mengeluarkan mobil ini ke Thailand.
+138	gue mengirim pala dan rahmat untuk ke Laos dan mengeluarkan mobil ini ke Thailand.
+139	gue mengirim pala dan rahmat untuk ke Laos dan mengeluarkan mobil ini ke Thailand.
+140	gue mengirim pala dan rahmat untuk ke Laos dan mengeluarkan mobil ini ke Thailand.
+141	gue mengirim pala dan rahmat untuk ke Laos dan mengeluarkan mobil ini ke Thailand.
+142	gue mengirim pala dan rahmat untuk ke Laos dan mengeluarkan mobil ini ke Thailand.
+143	gue mengirim pala dan rahmat untuk ke Laos dan mengeluarkan mobil ini ke Thailand. Kemudian sampai Thailand, mobil ini harus masuk lagi ke Laos.
+144	gue mengirim pala dan rahmat untuk ke Laos dan mengeluarkan mobil ini ke Thailand. Kemudian sampai Thailand, mobil ini harus masuk lagi ke Laos.
+145	Kemudian sampai Thailand, mobil ini harus masuk lagi ke Laos.
+146	Kemudian sampai Thailand, mobil ini harus masuk lagi ke Laos.
+147	Kemudian sampai Thailand, mobil ini harus masuk lagi ke Laos.
+148	Kemudian sampai Thailand, mobil ini harus masuk lagi ke Laos.
+149	Kemudian sampai Thailand, mobil ini harus masuk lagi ke Laos. Sehingga dia dapat permit lagi, renewal 1 bulan lagi.
+150	Kemudian sampai Thailand, mobil ini harus masuk lagi ke Laos. Sehingga dia dapat permit lagi, renewal 1 bulan lagi.
+151	Sehingga dia dapat permit lagi, renewal 1 bulan lagi.
+152	Sehingga dia dapat permit lagi, renewal 1 bulan lagi.
+153	Sehingga dia dapat permit lagi, renewal 1 bulan lagi.
+154	Sehingga dia dapat permit lagi, renewal 1 bulan lagi.
+155	Sehingga dia dapat permit lagi, renewal 1 bulan lagi.
+156	Sehingga dia dapat permit lagi, renewal 1 bulan lagi. Emang sih agak mahal, karena gue harus kirim 2 orang ke sini.
+157	Emang sih agak mahal, karena gue harus kirim 2 orang ke sini.
+158	Emang sih agak mahal, karena gue harus kirim 2 orang ke sini.
+159	Emang sih agak mahal, karena gue harus kirim 2 orang ke sini.
+160	Emang sih agak mahal, karena gue harus kirim 2 orang ke sini.
+161	Emang sih agak mahal, karena gue harus kirim 2 orang ke sini.
+162	Emang sih agak mahal, karena gue harus kirim 2 orang ke sini. Ditambah untuk masuk ke Laos, nambah lagi 100 USD untuk per mobil.
+163	Ditambah untuk masuk ke Laos, nambah lagi 100 USD untuk per mobil.
+164	Ditambah untuk masuk ke Laos, nambah lagi 100 USD untuk per mobil.
+165	Ditambah untuk masuk ke Laos, nambah lagi 100 USD untuk per mobil.
+166	Ditambah untuk masuk ke Laos, nambah lagi 100 USD untuk per mobil.
+167	Ditambah untuk masuk ke Laos, nambah lagi 100 USD untuk per mobil.
+168	Ditambah untuk masuk ke Laos, nambah lagi 100 USD untuk per mobil. Jadi kita keluarkan 200 USD lagi.
+169	Ditambah untuk masuk ke Laos, nambah lagi 100 USD untuk per mobil. Jadi kita keluarkan 200 USD lagi.
+170	Jadi kita keluarkan 200 USD lagi.
+171	Jadi kita keluarkan 200 USD lagi.
+172	Jadi kita keluarkan 200 USD lagi. Tapi itu cara yang menurut gue paling aman,
+173	Jadi kita keluarkan 200 USD lagi. Tapi itu cara yang menurut gue paling aman,
+174	Tapi itu cara yang menurut gue paling aman,
+175	Tapi itu cara yang menurut gue paling aman,
+176	Tapi itu cara yang menurut gue paling aman,
+177	Tapi itu cara yang menurut gue paling aman, dan legal.
+178	Tapi itu cara yang menurut gue paling aman, dan legal.
+179	dan legal. Setelah itu, mobil kita taruh lagi, titip lagi di Chery Laos.
+180	dan legal. Setelah itu, mobil kita taruh lagi, titip lagi di Chery Laos.
+181	Setelah itu, mobil kita taruh lagi, titip lagi di Chery Laos.
+182	Setelah itu, mobil kita taruh lagi, titip lagi di Chery Laos.
+183	Setelah itu, mobil kita taruh lagi, titip lagi di Chery Laos.
+184	Setelah itu, mobil kita taruh lagi, titip lagi di Chery Laos.
+185	Setelah itu, mobil kita taruh lagi, titip lagi di Chery Laos.
+186	Setelah itu, mobil kita taruh lagi, titip lagi di Chery Laos. Setelah itu, kita balik ke sini, kita mulai perjalanan ke China.
+187	Setelah itu, mobil kita taruh lagi, titip lagi di Chery Laos. Setelah itu, kita balik ke sini, kita mulai perjalanan ke China.
+188	Setelah itu, kita balik ke sini, kita mulai perjalanan ke China.
+189	Setelah itu, kita balik ke sini, kita mulai perjalanan ke China.
+190	Setelah itu, kita balik ke sini, kita mulai perjalanan ke China.
+191	Setelah itu, kita balik ke sini, kita mulai perjalanan ke China.
+192	Setelah itu, kita balik ke sini, kita mulai perjalanan ke China.
+193	Setelah itu, kita balik ke sini, kita mulai perjalanan ke China. Memang mahal, tapi itulah resiko overland.
+194	Setelah itu, kita balik ke sini, kita mulai perjalanan ke China. Memang mahal, tapi itulah resiko overland.
+195	Memang mahal, tapi itulah resiko overland.
+196	Memang mahal, tapi itulah resiko overland.
+197	Memang mahal, tapi itulah resiko overland.
+198	Memang mahal, tapi itulah resiko overland. Jadi buat teman-teman, kalau misalkan kalian mau overland ke luar negeri,
+199	Memang mahal, tapi itulah resiko overland. Jadi buat teman-teman, kalau misalkan kalian mau overland ke luar negeri,
+200	Jadi buat teman-teman, kalau misalkan kalian mau overland ke luar negeri,
+201	Jadi buat teman-teman, kalau misalkan kalian mau overland ke luar negeri,
+202	Jadi buat teman-teman, kalau misalkan kalian mau overland ke luar negeri,
+203	Jadi buat teman-teman, kalau misalkan kalian mau overland ke luar negeri,
+204	Jadi buat teman-teman, kalau misalkan kalian mau overland ke luar negeri, menggunakan mobil dari plat B, sebisa mungkin ikuti peraturan dan undang-undang yang berlaku.
+205	Jadi buat teman-teman, kalau misalkan kalian mau overland ke luar negeri, menggunakan mobil dari plat B, sebisa mungkin ikuti peraturan dan undang-undang yang berlaku.
+206	menggunakan mobil dari plat B, sebisa mungkin ikuti peraturan dan undang-undang yang berlaku.
+207	menggunakan mobil dari plat B, sebisa mungkin ikuti peraturan dan undang-undang yang berlaku.
+208	menggunakan mobil dari plat B, sebisa mungkin ikuti peraturan dan undang-undang yang berlaku.
+209	menggunakan mobil dari plat B, sebisa mungkin ikuti peraturan dan undang-undang yang berlaku.
+210	menggunakan mobil dari plat B, sebisa mungkin ikuti peraturan dan undang-undang yang berlaku.
+211	menggunakan mobil dari plat B, sebisa mungkin ikuti peraturan dan undang-undang yang berlaku.
+212	menggunakan mobil dari plat B, sebisa mungkin ikuti peraturan dan undang-undang yang berlaku.
+213	menggunakan mobil dari plat B, sebisa mungkin ikuti peraturan dan undang-undang yang berlaku.
+214	menggunakan mobil dari plat B, sebisa mungkin ikuti peraturan dan undang-undang yang berlaku.
+215	menggunakan mobil dari plat B, sebisa mungkin ikuti peraturan dan undang-undang yang berlaku. Jangan melanggar, karena nanti urusannya bisa repot.
+216	menggunakan mobil dari plat B, sebisa mungkin ikuti peraturan dan undang-undang yang berlaku. Jangan melanggar, karena nanti urusannya bisa repot.
+217	Jangan melanggar, karena nanti urusannya bisa repot.
+218	Jangan melanggar, karena nanti urusannya bisa repot.
+219	Jangan melanggar, karena nanti urusannya bisa repot.
+220	Jangan melanggar, karena nanti urusannya bisa repot.
+221	Jangan melanggar, karena nanti urusannya bisa repot. Bahkan kita bisa merepotin KBRI dan mencoreng nama Indonesia.
+222	Jangan melanggar, karena nanti urusannya bisa repot. Bahkan kita bisa merepotin KBRI dan mencoreng nama Indonesia.
+223	Bahkan kita bisa merepotin KBRI dan mencoreng nama Indonesia.
+224	Bahkan kita bisa merepotin KBRI dan mencoreng nama Indonesia.
+225	Bahkan kita bisa merepotin KBRI dan mencoreng nama Indonesia.
+226	Bahkan kita bisa merepotin KBRI dan mencoreng nama Indonesia.
+227	Bahkan kita bisa merepotin KBRI dan mencoreng nama Indonesia. Kalau overland, pasti ada aja kejadian-kejadian yang di luar dari perjalanan kita.
+228	Bahkan kita bisa merepotin KBRI dan mencoreng nama Indonesia. Kalau overland, pasti ada aja kejadian-kejadian yang di luar dari perjalanan kita.
+229	Kalau overland, pasti ada aja kejadian-kejadian yang di luar dari perjalanan kita.
+230	Kalau overland, pasti ada aja kejadian-kejadian yang di luar dari perjalanan kita.
+231	Kalau overland, pasti ada aja kejadian-kejadian yang di luar dari perjalanan kita.
+232	Kalau overland, pasti ada aja kejadian-kejadian yang di luar dari perjalanan kita.
+233	Kalau overland, pasti ada aja kejadian-kejadian yang di luar dari perjalanan kita.
+234	Kalau overland, pasti ada aja kejadian-kejadian yang di luar dari perjalanan kita.
+235	Kalau overland, pasti ada aja kejadian-kejadian yang di luar dari perjalanan kita. Sebisa mungkin.
+236	Kalau overland, pasti ada aja kejadian-kejadian yang di luar dari perjalanan kita. Sebisa mungkin.
+237	Sebisa mungkin. Carilah cara yang legal.
+238	Sebisa mungkin. Carilah cara yang legal.
+239	Carilah cara yang legal.
+240	Carilah cara yang legal.
+241	Carilah cara yang legal. Buat teman-teman yang pengen tahu dan ikutin keseruan kita pas lagi overlanding,
+242	Carilah cara yang legal. Buat teman-teman yang pengen tahu dan ikutin keseruan kita pas lagi overlanding,
+243	Buat teman-teman yang pengen tahu dan ikutin keseruan kita pas lagi overlanding,
+244	Buat teman-teman yang pengen tahu dan ikutin keseruan kita pas lagi overlanding,
+245	Buat teman-teman yang pengen tahu dan ikutin keseruan kita pas lagi overlanding,
+246	Buat teman-teman yang pengen tahu dan ikutin keseruan kita pas lagi overlanding,
+247	Buat teman-teman yang pengen tahu dan ikutin keseruan kita pas lagi overlanding,
+248	Buat teman-teman yang pengen tahu dan ikutin keseruan kita pas lagi overlanding,
+249	Buat teman-teman yang pengen tahu dan ikutin keseruan kita pas lagi overlanding, bisa langsung aja follow aku ini.
+250	Buat teman-teman yang pengen tahu dan ikutin keseruan kita pas lagi overlanding, bisa langsung aja follow aku ini.
+251	bisa langsung aja follow aku ini.
+252	bisa langsung aja follow aku ini. Gas!
+253	bisa langsung aja follow aku ini. Gas!
+254	Gas!
+255	[NO_SPEECH]

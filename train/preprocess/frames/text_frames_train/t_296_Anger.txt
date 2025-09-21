@@ -1,0 +1,119 @@
+0	Amerika Serikat menetapkan berbagai regulasi
+1	Amerika Serikat menetapkan berbagai regulasi
+2	Amerika Serikat menetapkan berbagai regulasi buat batasin akses China ke teknologi AI dan semikonduktor canggih.
+3	Amerika Serikat menetapkan berbagai regulasi buat batasin akses China ke teknologi AI dan semikonduktor canggih.
+4	buat batasin akses China ke teknologi AI dan semikonduktor canggih.
+5	buat batasin akses China ke teknologi AI dan semikonduktor canggih.
+6	buat batasin akses China ke teknologi AI dan semikonduktor canggih.
+7	buat batasin akses China ke teknologi AI dan semikonduktor canggih.
+8	buat batasin akses China ke teknologi AI dan semikonduktor canggih.
+9	buat batasin akses China ke teknologi AI dan semikonduktor canggih.
+10	buat batasin akses China ke teknologi AI dan semikonduktor canggih.
+11	buat batasin akses China ke teknologi AI dan semikonduktor canggih.
+12	buat batasin akses China ke teknologi AI dan semikonduktor canggih.
+13	buat batasin akses China ke teknologi AI dan semikonduktor canggih. Tujuan langkah ini dibilang buat melindungi keamanan nasional AS
+14	buat batasin akses China ke teknologi AI dan semikonduktor canggih. Tujuan langkah ini dibilang buat melindungi keamanan nasional AS
+15	Tujuan langkah ini dibilang buat melindungi keamanan nasional AS
+16	Tujuan langkah ini dibilang buat melindungi keamanan nasional AS
+17	Tujuan langkah ini dibilang buat melindungi keamanan nasional AS
+18	Tujuan langkah ini dibilang buat melindungi keamanan nasional AS
+19	Tujuan langkah ini dibilang buat melindungi keamanan nasional AS
+20	Tujuan langkah ini dibilang buat melindungi keamanan nasional AS dan mencegah peningkatan militernya China ke teknologi canggih.
+21	Tujuan langkah ini dibilang buat melindungi keamanan nasional AS dan mencegah peningkatan militernya China ke teknologi canggih.
+22	dan mencegah peningkatan militernya China ke teknologi canggih.
+23	dan mencegah peningkatan militernya China ke teknologi canggih.
+24	dan mencegah peningkatan militernya China ke teknologi canggih.
+25	dan mencegah peningkatan militernya China ke teknologi canggih.
+26	dan mencegah peningkatan militernya China ke teknologi canggih.
+27	dan mencegah peningkatan militernya China ke teknologi canggih.
+28	dan mencegah peningkatan militernya China ke teknologi canggih.
+29	dan mencegah peningkatan militernya China ke teknologi canggih.
+30	dan mencegah peningkatan militernya China ke teknologi canggih.
+31	dan mencegah peningkatan militernya China ke teknologi canggih. 28 Oktober 2024 kemarin,
+32	28 Oktober 2024 kemarin,
+33	28 Oktober 2024 kemarin,
+34	28 Oktober 2024 kemarin, pemerintahan Biden menyelesaikan aturan
+35	28 Oktober 2024 kemarin, pemerintahan Biden menyelesaikan aturan
+36	pemerintahan Biden menyelesaikan aturan
+37	pemerintahan Biden menyelesaikan aturan
+38	pemerintahan Biden menyelesaikan aturan
+39	pemerintahan Biden menyelesaikan aturan yang membatasi investasi Amerika Serikat di sektor teknologi di China,
+40	pemerintahan Biden menyelesaikan aturan yang membatasi investasi Amerika Serikat di sektor teknologi di China,
+41	yang membatasi investasi Amerika Serikat di sektor teknologi di China,
+42	yang membatasi investasi Amerika Serikat di sektor teknologi di China,
+43	yang membatasi investasi Amerika Serikat di sektor teknologi di China,
+44	yang membatasi investasi Amerika Serikat di sektor teknologi di China,
+45	yang membatasi investasi Amerika Serikat di sektor teknologi di China,
+46	yang membatasi investasi Amerika Serikat di sektor teknologi di China,
+47	yang membatasi investasi Amerika Serikat di sektor teknologi di China,
+48	yang membatasi investasi Amerika Serikat di sektor teknologi di China,
+49	yang membatasi investasi Amerika Serikat di sektor teknologi di China,
+50	yang membatasi investasi Amerika Serikat di sektor teknologi di China, termasuk AI, semikonduktor, dan teknologi kuantum.
+51	termasuk AI, semikonduktor, dan teknologi kuantum.
+52	termasuk AI, semikonduktor, dan teknologi kuantum.
+53	termasuk AI, semikonduktor, dan teknologi kuantum.
+54	termasuk AI, semikonduktor, dan teknologi kuantum.
+55	termasuk AI, semikonduktor, dan teknologi kuantum.
+56	termasuk AI, semikonduktor, dan teknologi kuantum.
+57	termasuk AI, semikonduktor, dan teknologi kuantum. Dan ditambah lagi, 10 November kemarin,
+58	termasuk AI, semikonduktor, dan teknologi kuantum. Dan ditambah lagi, 10 November kemarin,
+59	Dan ditambah lagi, 10 November kemarin,
+60	Dan ditambah lagi, 10 November kemarin,
+61	Dan ditambah lagi, 10 November kemarin, Departemen Perdagangan AS kasih perintah ke TSMC
+62	Dan ditambah lagi, 10 November kemarin, Departemen Perdagangan AS kasih perintah ke TSMC
+63	Departemen Perdagangan AS kasih perintah ke TSMC
+64	Departemen Perdagangan AS kasih perintah ke TSMC
+65	Departemen Perdagangan AS kasih perintah ke TSMC
+66	Departemen Perdagangan AS kasih perintah ke TSMC
+67	Departemen Perdagangan AS kasih perintah ke TSMC
+68	Departemen Perdagangan AS kasih perintah ke TSMC
+69	Departemen Perdagangan AS kasih perintah ke TSMC
+70	Departemen Perdagangan AS kasih perintah ke TSMC buat hentiin pengiriman chip canggih ke pelanggan di China.
+71	Departemen Perdagangan AS kasih perintah ke TSMC buat hentiin pengiriman chip canggih ke pelanggan di China.
+72	buat hentiin pengiriman chip canggih ke pelanggan di China.
+73	buat hentiin pengiriman chip canggih ke pelanggan di China.
+74	buat hentiin pengiriman chip canggih ke pelanggan di China.
+75	buat hentiin pengiriman chip canggih ke pelanggan di China.
+76	buat hentiin pengiriman chip canggih ke pelanggan di China.
+77	buat hentiin pengiriman chip canggih ke pelanggan di China.
+78	buat hentiin pengiriman chip canggih ke pelanggan di China.
+79	buat hentiin pengiriman chip canggih ke pelanggan di China. Keputusan ini diambil setelah ditemuin kalau salah satu chip TSMC
+80	buat hentiin pengiriman chip canggih ke pelanggan di China. Keputusan ini diambil setelah ditemuin kalau salah satu chip TSMC
+81	Keputusan ini diambil setelah ditemuin kalau salah satu chip TSMC
+82	Keputusan ini diambil setelah ditemuin kalau salah satu chip TSMC
+83	Keputusan ini diambil setelah ditemuin kalau salah satu chip TSMC
+84	Keputusan ini diambil setelah ditemuin kalau salah satu chip TSMC
+85	Keputusan ini diambil setelah ditemuin kalau salah satu chip TSMC
+86	Keputusan ini diambil setelah ditemuin kalau salah satu chip TSMC digunain dalam prosesor AI-nya Huawei.
+87	Keputusan ini diambil setelah ditemuin kalau salah satu chip TSMC digunain dalam prosesor AI-nya Huawei.
+88	digunain dalam prosesor AI-nya Huawei.
+89	digunain dalam prosesor AI-nya Huawei.
+90	digunain dalam prosesor AI-nya Huawei.
+91	digunain dalam prosesor AI-nya Huawei.
+92	digunain dalam prosesor AI-nya Huawei.
+93	digunain dalam prosesor AI-nya Huawei. Ya, kayak gitu sih udah pasti maksa China
+94	Ya, kayak gitu sih udah pasti maksa China
+95	Ya, kayak gitu sih udah pasti maksa China
+96	Ya, kayak gitu sih udah pasti maksa China
+97	Ya, kayak gitu sih udah pasti maksa China
+98	Ya, kayak gitu sih udah pasti maksa China
+99	Ya, kayak gitu sih udah pasti maksa China buat bikin chip mereka sendiri secepat mungkin.
+100	Ya, kayak gitu sih udah pasti maksa China buat bikin chip mereka sendiri secepat mungkin.
+101	buat bikin chip mereka sendiri secepat mungkin.
+102	buat bikin chip mereka sendiri secepat mungkin.
+103	buat bikin chip mereka sendiri secepat mungkin.
+104	buat bikin chip mereka sendiri secepat mungkin.
+105	buat bikin chip mereka sendiri secepat mungkin. Butuh banyak duit dong.
+106	Butuh banyak duit dong.
+107	Butuh banyak duit dong.
+108	Butuh banyak duit dong.
+109	Butuh banyak duit dong. Dapet duit dari mana?
+110	Dapet duit dari mana?
+111	Dapet duit dari mana? Jualan barang di Indonesia.
+112	Jualan barang di Indonesia.
+113	Jualan barang di Indonesia.
+114	Jualan barang di Indonesia.
+115	Jualan barang di Indonesia.
+116	[NO_SPEECH]
+117	[NO_SPEECH]
+118	[NO_SPEECH]

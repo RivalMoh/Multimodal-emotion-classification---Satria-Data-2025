@@ -1,0 +1,92 @@
+0	Kalau kalian sampai sekarang masih males-malesan, workout,
+1	Kalau kalian sampai sekarang masih males-malesan, workout,
+2	Kalau kalian sampai sekarang masih males-malesan, workout,
+3	Kalau kalian sampai sekarang masih males-malesan, workout,
+4	Kalau kalian sampai sekarang masih males-malesan, workout, please banget tolong minimal kalian tuh ngelakuin squat ya,
+5	please banget tolong minimal kalian tuh ngelakuin squat ya,
+6	please banget tolong minimal kalian tuh ngelakuin squat ya,
+7	please banget tolong minimal kalian tuh ngelakuin squat ya,
+8	please banget tolong minimal kalian tuh ngelakuin squat ya,
+9	please banget tolong minimal kalian tuh ngelakuin squat ya,
+10	please banget tolong minimal kalian tuh ngelakuin squat ya,
+11	please banget tolong minimal kalian tuh ngelakuin squat ya,
+12	please banget tolong minimal kalian tuh ngelakuin squat ya, buat nguatin otot kaki kalian.
+13	please banget tolong minimal kalian tuh ngelakuin squat ya, buat nguatin otot kaki kalian.
+14	buat nguatin otot kaki kalian.
+15	buat nguatin otot kaki kalian.
+16	buat nguatin otot kaki kalian. Atau kalau misalnya kalian lututnya bermasalah,
+17	Atau kalau misalnya kalian lututnya bermasalah,
+18	Atau kalau misalnya kalian lututnya bermasalah,
+19	Atau kalau misalnya kalian lututnya bermasalah,
+20	Atau kalau misalnya kalian lututnya bermasalah, kalian kelebihan berat badan, atau udah lanjut usia,
+21	Atau kalau misalnya kalian lututnya bermasalah, kalian kelebihan berat badan, atau udah lanjut usia,
+22	kalian kelebihan berat badan, atau udah lanjut usia,
+23	kalian kelebihan berat badan, atau udah lanjut usia,
+24	kalian kelebihan berat badan, atau udah lanjut usia,
+25	kalian kelebihan berat badan, atau udah lanjut usia, minimal reverse lanjut lah.
+26	kalian kelebihan berat badan, atau udah lanjut usia, minimal reverse lanjut lah.
+27	minimal reverse lanjut lah.
+28	minimal reverse lanjut lah. Ini latihan kaki juga, tapi ramah buat orang-orang yang kusebutin tadi.
+29	minimal reverse lanjut lah. Ini latihan kaki juga, tapi ramah buat orang-orang yang kusebutin tadi.
+30	Ini latihan kaki juga, tapi ramah buat orang-orang yang kusebutin tadi.
+31	Ini latihan kaki juga, tapi ramah buat orang-orang yang kusebutin tadi.
+32	Ini latihan kaki juga, tapi ramah buat orang-orang yang kusebutin tadi.
+33	Ini latihan kaki juga, tapi ramah buat orang-orang yang kusebutin tadi.
+34	Ini latihan kaki juga, tapi ramah buat orang-orang yang kusebutin tadi.
+35	Ini latihan kaki juga, tapi ramah buat orang-orang yang kusebutin tadi.
+36	Ini latihan kaki juga, tapi ramah buat orang-orang yang kusebutin tadi. Kalau belum bisa seimbang, sambil pegangan kursi gini pun juga udah oke banget kok.
+37	Ini latihan kaki juga, tapi ramah buat orang-orang yang kusebutin tadi. Kalau belum bisa seimbang, sambil pegangan kursi gini pun juga udah oke banget kok.
+38	Kalau belum bisa seimbang, sambil pegangan kursi gini pun juga udah oke banget kok.
+39	Kalau belum bisa seimbang, sambil pegangan kursi gini pun juga udah oke banget kok.
+40	Kalau belum bisa seimbang, sambil pegangan kursi gini pun juga udah oke banget kok.
+41	Kalau belum bisa seimbang, sambil pegangan kursi gini pun juga udah oke banget kok.
+42	Kalau belum bisa seimbang, sambil pegangan kursi gini pun juga udah oke banget kok.
+43	Kalau belum bisa seimbang, sambil pegangan kursi gini pun juga udah oke banget kok. Please ya.
+44	Please ya. Karena apa?
+45	Please ya. Karena apa?
+46	Karena apa? Ya karena kaki kita tuh bener-bener kepake buat aktivitas sehari-hari,
+47	Karena apa? Ya karena kaki kita tuh bener-bener kepake buat aktivitas sehari-hari,
+48	Ya karena kaki kita tuh bener-bener kepake buat aktivitas sehari-hari,
+49	Ya karena kaki kita tuh bener-bener kepake buat aktivitas sehari-hari,
+50	Ya karena kaki kita tuh bener-bener kepake buat aktivitas sehari-hari,
+51	Ya karena kaki kita tuh bener-bener kepake buat aktivitas sehari-hari,
+52	Ya karena kaki kita tuh bener-bener kepake buat aktivitas sehari-hari, kayak jalan, atau lompat-lompat,
+53	Ya karena kaki kita tuh bener-bener kepake buat aktivitas sehari-hari, kayak jalan, atau lompat-lompat,
+54	kayak jalan, atau lompat-lompat,
+55	kayak jalan, atau lompat-lompat,
+56	kayak jalan, atau lompat-lompat,
+57	kayak jalan, atau lompat-lompat, atau kalian ngangkat barang, atau apapun lah.
+58	kayak jalan, atau lompat-lompat, atau kalian ngangkat barang, atau apapun lah.
+59	atau kalian ngangkat barang, atau apapun lah.
+60	atau kalian ngangkat barang, atau apapun lah.
+61	atau kalian ngangkat barang, atau apapun lah.
+62	atau kalian ngangkat barang, atau apapun lah. Itu tuh semuanya pake kaki ya.
+63	atau kalian ngangkat barang, atau apapun lah. Itu tuh semuanya pake kaki ya.
+64	Itu tuh semuanya pake kaki ya.
+65	Itu tuh semuanya pake kaki ya. Jadi please banget pake kaki kalian sama perbanyak jalan kaki gini ya.
+66	Itu tuh semuanya pake kaki ya. Jadi please banget pake kaki kalian sama perbanyak jalan kaki gini ya.
+67	Jadi please banget pake kaki kalian sama perbanyak jalan kaki gini ya.
+68	Jadi please banget pake kaki kalian sama perbanyak jalan kaki gini ya.
+69	Jadi please banget pake kaki kalian sama perbanyak jalan kaki gini ya.
+70	Jadi please banget pake kaki kalian sama perbanyak jalan kaki gini ya.
+71	Jadi please banget pake kaki kalian sama perbanyak jalan kaki gini ya.
+72	Jadi please banget pake kaki kalian sama perbanyak jalan kaki gini ya.
+73	Jadi please banget pake kaki kalian sama perbanyak jalan kaki gini ya.
+74	Jadi please banget pake kaki kalian sama perbanyak jalan kaki gini ya. Jangan males.
+75	Jangan males.
+76	Jangan males. Oke?
+77	Oke? Share video ini ke temen-temen kalian yang pasti pada males workout.
+78	Oke? Share video ini ke temen-temen kalian yang pasti pada males workout.
+79	Share video ini ke temen-temen kalian yang pasti pada males workout.
+80	Share video ini ke temen-temen kalian yang pasti pada males workout.
+81	Share video ini ke temen-temen kalian yang pasti pada males workout.
+82	Share video ini ke temen-temen kalian yang pasti pada males workout. Biar works on his leg, atau her leg, their leg.
+83	Biar works on his leg, atau her leg, their leg.
+84	Biar works on his leg, atau her leg, their leg.
+85	Biar works on his leg, atau her leg, their leg.
+86	Biar works on his leg, atau her leg, their leg.
+87	Biar works on his leg, atau her leg, their leg.
+88	Biar works on his leg, atau her leg, their leg.
+89	Biar works on his leg, atau her leg, their leg. Oke?
+90	Biar works on his leg, atau her leg, their leg. Oke?
+91	[NO_SPEECH]

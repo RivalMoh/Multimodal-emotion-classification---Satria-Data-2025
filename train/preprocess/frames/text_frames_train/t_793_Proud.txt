@@ -1,0 +1,578 @@
+0	Apa sih dress code yang makin marak di kalangan high society Jakarta belakangan ini?
+1	Apa sih dress code yang makin marak di kalangan high society Jakarta belakangan ini?
+2	Apa sih dress code yang makin marak di kalangan high society Jakarta belakangan ini?
+3	Apa sih dress code yang makin marak di kalangan high society Jakarta belakangan ini?
+4	Apa sih dress code yang makin marak di kalangan high society Jakarta belakangan ini?
+5	Apa sih dress code yang makin marak di kalangan high society Jakarta belakangan ini?
+6	Apa sih dress code yang makin marak di kalangan high society Jakarta belakangan ini?
+7	Apa sih dress code yang makin marak di kalangan high society Jakarta belakangan ini?
+8	Apa sih dress code yang makin marak di kalangan high society Jakarta belakangan ini?
+9	Apa sih dress code yang makin marak di kalangan high society Jakarta belakangan ini?
+10	Apa sih dress code yang makin marak di kalangan high society Jakarta belakangan ini?
+11	Apa sih dress code yang makin marak di kalangan high society Jakarta belakangan ini?
+12	Apa sih dress code yang makin marak di kalangan high society Jakarta belakangan ini? Kalian harus tau guys, a touch of wastra.
+13	Kalian harus tau guys, a touch of wastra.
+14	Kalian harus tau guys, a touch of wastra.
+15	Kalian harus tau guys, a touch of wastra.
+16	Kalian harus tau guys, a touch of wastra.
+17	Kalian harus tau guys, a touch of wastra.
+18	Kalian harus tau guys, a touch of wastra.
+19	Kalian harus tau guys, a touch of wastra.
+20	Kalian harus tau guys, a touch of wastra.
+21	Kalian harus tau guys, a touch of wastra.
+22	Kalian harus tau guys, a touch of wastra. Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara.
+23	Kalian harus tau guys, a touch of wastra. Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara.
+24	Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara.
+25	Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara.
+26	Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara.
+27	Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara.
+28	Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara.
+29	Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara.
+30	Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara.
+31	Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara.
+32	Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara.
+33	Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara.
+34	Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara.
+35	Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara.
+36	Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara.
+37	Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara.
+38	Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara.
+39	Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara.
+40	Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara.
+41	Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara.
+42	Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara. Karena mereka gak bisa nemuin gaun-gaun high fashion yang berunsur wastra yang ready stock.
+43	Dress code ini ya tentu aja jadi tantangan bagi para ladies yang terbiasa dengan Dio, Louis, Langfang, Max Mara. Karena mereka gak bisa nemuin gaun-gaun high fashion yang berunsur wastra yang ready stock.
+44	Karena mereka gak bisa nemuin gaun-gaun high fashion yang berunsur wastra yang ready stock.
+45	Karena mereka gak bisa nemuin gaun-gaun high fashion yang berunsur wastra yang ready stock.
+46	Karena mereka gak bisa nemuin gaun-gaun high fashion yang berunsur wastra yang ready stock.
+47	Karena mereka gak bisa nemuin gaun-gaun high fashion yang berunsur wastra yang ready stock.
+48	Karena mereka gak bisa nemuin gaun-gaun high fashion yang berunsur wastra yang ready stock.
+49	Karena mereka gak bisa nemuin gaun-gaun high fashion yang berunsur wastra yang ready stock.
+50	Karena mereka gak bisa nemuin gaun-gaun high fashion yang berunsur wastra yang ready stock.
+51	Karena mereka gak bisa nemuin gaun-gaun high fashion yang berunsur wastra yang ready stock.
+52	Karena mereka gak bisa nemuin gaun-gaun high fashion yang berunsur wastra yang ready stock.
+53	Karena mereka gak bisa nemuin gaun-gaun high fashion yang berunsur wastra yang ready stock.
+54	Karena mereka gak bisa nemuin gaun-gaun high fashion yang berunsur wastra yang ready stock.
+55	Karena mereka gak bisa nemuin gaun-gaun high fashion yang berunsur wastra yang ready stock.
+56	Karena mereka gak bisa nemuin gaun-gaun high fashion yang berunsur wastra yang ready stock.
+57	Karena mereka gak bisa nemuin gaun-gaun high fashion yang berunsur wastra yang ready stock.
+58	Karena mereka gak bisa nemuin gaun-gaun high fashion yang berunsur wastra yang ready stock. Mereka harus buat dulu kebanyak desainer yang tentu aja gak bisa dong 3 hari sebelumnya.
+59	Karena mereka gak bisa nemuin gaun-gaun high fashion yang berunsur wastra yang ready stock. Mereka harus buat dulu kebanyak desainer yang tentu aja gak bisa dong 3 hari sebelumnya.
+60	Mereka harus buat dulu kebanyak desainer yang tentu aja gak bisa dong 3 hari sebelumnya.
+61	Mereka harus buat dulu kebanyak desainer yang tentu aja gak bisa dong 3 hari sebelumnya.
+62	Mereka harus buat dulu kebanyak desainer yang tentu aja gak bisa dong 3 hari sebelumnya.
+63	Mereka harus buat dulu kebanyak desainer yang tentu aja gak bisa dong 3 hari sebelumnya.
+64	Mereka harus buat dulu kebanyak desainer yang tentu aja gak bisa dong 3 hari sebelumnya.
+65	Mereka harus buat dulu kebanyak desainer yang tentu aja gak bisa dong 3 hari sebelumnya.
+66	Mereka harus buat dulu kebanyak desainer yang tentu aja gak bisa dong 3 hari sebelumnya.
+67	Mereka harus buat dulu kebanyak desainer yang tentu aja gak bisa dong 3 hari sebelumnya.
+68	Mereka harus buat dulu kebanyak desainer yang tentu aja gak bisa dong 3 hari sebelumnya.
+69	Mereka harus buat dulu kebanyak desainer yang tentu aja gak bisa dong 3 hari sebelumnya.
+70	Mereka harus buat dulu kebanyak desainer yang tentu aja gak bisa dong 3 hari sebelumnya.
+71	Mereka harus buat dulu kebanyak desainer yang tentu aja gak bisa dong 3 hari sebelumnya.
+72	Mereka harus buat dulu kebanyak desainer yang tentu aja gak bisa dong 3 hari sebelumnya. Di sisi lain, gaun-gaun berunsur wastra yang tersedia cenderung bergaya seremonial dan tradisional.
+73	Di sisi lain, gaun-gaun berunsur wastra yang tersedia cenderung bergaya seremonial dan tradisional.
+74	Di sisi lain, gaun-gaun berunsur wastra yang tersedia cenderung bergaya seremonial dan tradisional.
+75	Di sisi lain, gaun-gaun berunsur wastra yang tersedia cenderung bergaya seremonial dan tradisional.
+76	Di sisi lain, gaun-gaun berunsur wastra yang tersedia cenderung bergaya seremonial dan tradisional.
+77	Di sisi lain, gaun-gaun berunsur wastra yang tersedia cenderung bergaya seremonial dan tradisional.
+78	Di sisi lain, gaun-gaun berunsur wastra yang tersedia cenderung bergaya seremonial dan tradisional.
+79	Di sisi lain, gaun-gaun berunsur wastra yang tersedia cenderung bergaya seremonial dan tradisional.
+80	Di sisi lain, gaun-gaun berunsur wastra yang tersedia cenderung bergaya seremonial dan tradisional.
+81	Di sisi lain, gaun-gaun berunsur wastra yang tersedia cenderung bergaya seremonial dan tradisional.
+82	Di sisi lain, gaun-gaun berunsur wastra yang tersedia cenderung bergaya seremonial dan tradisional.
+83	Di sisi lain, gaun-gaun berunsur wastra yang tersedia cenderung bergaya seremonial dan tradisional.
+84	Di sisi lain, gaun-gaun berunsur wastra yang tersedia cenderung bergaya seremonial dan tradisional.
+85	Di sisi lain, gaun-gaun berunsur wastra yang tersedia cenderung bergaya seremonial dan tradisional.
+86	Di sisi lain, gaun-gaun berunsur wastra yang tersedia cenderung bergaya seremonial dan tradisional.
+87	Di sisi lain, gaun-gaun berunsur wastra yang tersedia cenderung bergaya seremonial dan tradisional.
+88	Di sisi lain, gaun-gaun berunsur wastra yang tersedia cenderung bergaya seremonial dan tradisional. Disinilah guysku Ivan Gunawan melihat peluang dan menciptakan jenama baru.
+89	Disinilah guysku Ivan Gunawan melihat peluang dan menciptakan jenama baru.
+90	Disinilah guysku Ivan Gunawan melihat peluang dan menciptakan jenama baru.
+91	Disinilah guysku Ivan Gunawan melihat peluang dan menciptakan jenama baru.
+92	Disinilah guysku Ivan Gunawan melihat peluang dan menciptakan jenama baru.
+93	Disinilah guysku Ivan Gunawan melihat peluang dan menciptakan jenama baru.
+94	Disinilah guysku Ivan Gunawan melihat peluang dan menciptakan jenama baru.
+95	Disinilah guysku Ivan Gunawan melihat peluang dan menciptakan jenama baru.
+96	Disinilah guysku Ivan Gunawan melihat peluang dan menciptakan jenama baru.
+97	Disinilah guysku Ivan Gunawan melihat peluang dan menciptakan jenama baru.
+98	Disinilah guysku Ivan Gunawan melihat peluang dan menciptakan jenama baru.
+99	Disinilah guysku Ivan Gunawan melihat peluang dan menciptakan jenama baru.
+100	Disinilah guysku Ivan Gunawan melihat peluang dan menciptakan jenama baru.
+101	Disinilah guysku Ivan Gunawan melihat peluang dan menciptakan jenama baru. Nusantara.
+102	Nusantara. Nusanova.
+103	Nusantara. Nusanova.
+104	Nusanova. Jenama ini berbasis wastra Indonesia dan dibuat dalam level Ivan Gunawan Deluxe.
+105	Nusanova. Jenama ini berbasis wastra Indonesia dan dibuat dalam level Ivan Gunawan Deluxe.
+106	Jenama ini berbasis wastra Indonesia dan dibuat dalam level Ivan Gunawan Deluxe.
+107	Jenama ini berbasis wastra Indonesia dan dibuat dalam level Ivan Gunawan Deluxe.
+108	Jenama ini berbasis wastra Indonesia dan dibuat dalam level Ivan Gunawan Deluxe.
+109	Jenama ini berbasis wastra Indonesia dan dibuat dalam level Ivan Gunawan Deluxe.
+110	Jenama ini berbasis wastra Indonesia dan dibuat dalam level Ivan Gunawan Deluxe.
+111	Jenama ini berbasis wastra Indonesia dan dibuat dalam level Ivan Gunawan Deluxe.
+112	Jenama ini berbasis wastra Indonesia dan dibuat dalam level Ivan Gunawan Deluxe.
+113	Jenama ini berbasis wastra Indonesia dan dibuat dalam level Ivan Gunawan Deluxe.
+114	Jenama ini berbasis wastra Indonesia dan dibuat dalam level Ivan Gunawan Deluxe.
+115	Jenama ini berbasis wastra Indonesia dan dibuat dalam level Ivan Gunawan Deluxe.
+116	Jenama ini berbasis wastra Indonesia dan dibuat dalam level Ivan Gunawan Deluxe.
+117	Jenama ini berbasis wastra Indonesia dan dibuat dalam level Ivan Gunawan Deluxe.
+118	Jenama ini berbasis wastra Indonesia dan dibuat dalam level Ivan Gunawan Deluxe. Untuk koleksi perdana Nusanova ini, Ivan membawa koleksinya ke Mood Cruise Collection.
+119	Jenama ini berbasis wastra Indonesia dan dibuat dalam level Ivan Gunawan Deluxe. Untuk koleksi perdana Nusanova ini, Ivan membawa koleksinya ke Mood Cruise Collection.
+120	Untuk koleksi perdana Nusanova ini, Ivan membawa koleksinya ke Mood Cruise Collection.
+121	Untuk koleksi perdana Nusanova ini, Ivan membawa koleksinya ke Mood Cruise Collection.
+122	Untuk koleksi perdana Nusanova ini, Ivan membawa koleksinya ke Mood Cruise Collection.
+123	Untuk koleksi perdana Nusanova ini, Ivan membawa koleksinya ke Mood Cruise Collection.
+124	Untuk koleksi perdana Nusanova ini, Ivan membawa koleksinya ke Mood Cruise Collection.
+125	Untuk koleksi perdana Nusanova ini, Ivan membawa koleksinya ke Mood Cruise Collection.
+126	Untuk koleksi perdana Nusanova ini, Ivan membawa koleksinya ke Mood Cruise Collection.
+127	Untuk koleksi perdana Nusanova ini, Ivan membawa koleksinya ke Mood Cruise Collection.
+128	Untuk koleksi perdana Nusanova ini, Ivan membawa koleksinya ke Mood Cruise Collection.
+129	Untuk koleksi perdana Nusanova ini, Ivan membawa koleksinya ke Mood Cruise Collection.
+130	Untuk koleksi perdana Nusanova ini, Ivan membawa koleksinya ke Mood Cruise Collection.
+131	Untuk koleksi perdana Nusanova ini, Ivan membawa koleksinya ke Mood Cruise Collection.
+132	Untuk koleksi perdana Nusanova ini, Ivan membawa koleksinya ke Mood Cruise Collection.
+133	Untuk koleksi perdana Nusanova ini, Ivan membawa koleksinya ke Mood Cruise Collection.
+134	Untuk koleksi perdana Nusanova ini, Ivan membawa koleksinya ke Mood Cruise Collection.
+135	Untuk koleksi perdana Nusanova ini, Ivan membawa koleksinya ke Mood Cruise Collection. Lucunya ya.
+136	Lucunya ya.
+137	Lucunya ya.
+138	Lucunya ya.
+139	[NO_SPEECH]
+140	[NO_SPEECH]
+141	[NO_SPEECH]
+142	[NO_SPEECH]
+143	[NO_SPEECH]
+144	[NO_SPEECH]
+145	[NO_SPEECH]
+146	[NO_SPEECH]
+147	[NO_SPEECH]
+148	[NO_SPEECH]
+149	Borderline ini kerancang.
+150	Borderline ini kerancang.
+151	Borderline ini kerancang.
+152	Borderline ini kerancang.
+153	Borderline ini kerancang.
+154	Borderline ini kerancang. Tapi ini aku bentuknya aku semi 3D itu mas.
+155	Tapi ini aku bentuknya aku semi 3D itu mas.
+156	Tapi ini aku bentuknya aku semi 3D itu mas.
+157	Tapi ini aku bentuknya aku semi 3D itu mas.
+158	Tapi ini aku bentuknya aku semi 3D itu mas.
+159	Tapi ini aku bentuknya aku semi 3D itu mas.
+160	Tapi ini aku bentuknya aku semi 3D itu mas.
+161	Tapi ini aku bentuknya aku semi 3D itu mas. Jadi ada.
+162	Tapi ini aku bentuknya aku semi 3D itu mas. Jadi ada.
+163	Jadi ada. Oh ini nih.
+164	Oh ini nih.
+165	Oh ini nih.
+166	Oh ini nih.
+167	Jadi dia ada keluarnya lagi.
+168	Jadi dia ada keluarnya lagi.
+169	Jadi dia ada keluarnya lagi.
+170	Jadi dia ada keluarnya lagi. Oh ini.
+171	Jadi dia ada keluarnya lagi. Oh ini. Jadi ini yang bakal ada di store juga.
+172	Oh ini. Jadi ini yang bakal ada di store juga.
+173	Jadi ini yang bakal ada di store juga.
+174	Jadi ini yang bakal ada di store juga.
+175	Jadi ini yang bakal ada di store juga.
+176	Jadi ini yang bakal ada di store juga. Jadi orang mau beli tuh gampang langsung.
+177	Jadi ini yang bakal ada di store juga. Jadi orang mau beli tuh gampang langsung.
+178	Jadi orang mau beli tuh gampang langsung.
+179	Jadi orang mau beli tuh gampang langsung.
+180	Jadi orang mau beli tuh gampang langsung. Langsung bisa beli gitu kan.
+181	Jadi orang mau beli tuh gampang langsung. Langsung bisa beli gitu kan.
+182	Langsung bisa beli gitu kan.
+183	Langsung bisa beli gitu kan.
+184	Langsung bisa beli gitu kan.
+185	[NO_SPEECH]
+186	[NO_SPEECH]
+187	[NO_SPEECH]
+188	[NO_SPEECH]
+189	[NO_SPEECH]
+190	[NO_SPEECH]
+191	[NO_SPEECH]
+192	[NO_SPEECH]
+193	[NO_SPEECH]
+194	[NO_SPEECH]
+195	[NO_SPEECH]
+196	[NO_SPEECH]
+197	[NO_SPEECH]
+198	[NO_SPEECH]
+199	Ndeknya diolah lagi ya.
+200	Ndeknya diolah lagi ya.
+201	Ndeknya diolah lagi ya.
+202	Ndeknya diolah lagi ya.
+203	Ndeknya diolah lagi ya. Ditambah ini ya.
+204	Ditambah ini ya.
+205	Ditambah ini ya. Kita buat lebih desainer gitu.
+206	Ditambah ini ya. Kita buat lebih desainer gitu.
+207	Kita buat lebih desainer gitu.
+208	Kita buat lebih desainer gitu.
+209	Kita buat lebih desainer gitu.
+210	Kita buat lebih desainer gitu.
+211	Kita buat lebih desainer gitu.
+212	[NO_SPEECH]
+213	[NO_SPEECH]
+214	Jadi ndek 3D ya.
+215	Jadi ndek 3D ya.
+216	Jadi ndek 3D ya.
+217	Jadi ndek 3D ya.
+218	Jadi ndek 3D ya. 3 ndek.
+219	Jadi ndek 3D ya. 3 ndek.
+220	3 ndek.
+221	3 ndek.
+222	
+223	
+224	[NO_SPEECH]
+225	[NO_SPEECH]
+226	Bunganya kurang banyak mbak di tangannya.
+227	Bunganya kurang banyak mbak di tangannya.
+228	Bunganya kurang banyak mbak di tangannya.
+229	Bunganya kurang banyak mbak di tangannya.
+230	Bunganya kurang banyak mbak di tangannya.
+231	Bunganya kurang banyak mbak di tangannya.
+232	[NO_SPEECH]
+233	[NO_SPEECH]
+234	[NO_SPEECH]
+235	Itu dari mana mbak?
+236	Itu dari mana mbak?
+237	Itu dari mana mbak?
+238	Itu dari mana mbak? Wasstra ini didesain dengan mood fashion yang klasik.
+239	Itu dari mana mbak? Wasstra ini didesain dengan mood fashion yang klasik.
+240	Wasstra ini didesain dengan mood fashion yang klasik.
+241	Wasstra ini didesain dengan mood fashion yang klasik.
+242	Wasstra ini didesain dengan mood fashion yang klasik.
+243	Wasstra ini didesain dengan mood fashion yang klasik.
+244	Wasstra ini didesain dengan mood fashion yang klasik.
+245	Wasstra ini didesain dengan mood fashion yang klasik.
+246	Wasstra ini didesain dengan mood fashion yang klasik. Dikerjakan dengan teknik soft tailoring.
+247	Dikerjakan dengan teknik soft tailoring.
+248	Dikerjakan dengan teknik soft tailoring.
+249	Dikerjakan dengan teknik soft tailoring.
+250	Dikerjakan dengan teknik soft tailoring.
+251	Dikerjakan dengan teknik soft tailoring.
+252	Dikerjakan dengan teknik soft tailoring.
+253	[NO_SPEECH]
+254	Nah ini tenun Makassar mas.
+255	Nah ini tenun Makassar mas.
+256	Nah ini tenun Makassar mas.
+257	Nah ini tenun Makassar mas.
+258	Nah ini tenun Makassar mas. Iya.
+259	Nah ini tenun Makassar mas. Iya.
+260	Iya.
+261	[NO_SPEECH]
+262	[NO_SPEECH]
+263	[NO_SPEECH]
+264	[NO_SPEECH]
+265	[NO_SPEECH]
+266	Jadi emang banyak pengerjaan tangan sih di koleksi ini gitu.
+267	Jadi emang banyak pengerjaan tangan sih di koleksi ini gitu.
+268	Jadi emang banyak pengerjaan tangan sih di koleksi ini gitu.
+269	Jadi emang banyak pengerjaan tangan sih di koleksi ini gitu.
+270	Jadi emang banyak pengerjaan tangan sih di koleksi ini gitu.
+271	Jadi emang banyak pengerjaan tangan sih di koleksi ini gitu.
+272	Jadi emang banyak pengerjaan tangan sih di koleksi ini gitu.
+273	Jadi emang banyak pengerjaan tangan sih di koleksi ini gitu. Terus kayak detail-detailnya tuh aku...
+274	Terus kayak detail-detailnya tuh aku...
+275	Terus kayak detail-detailnya tuh aku...
+276	Terus kayak detail-detailnya tuh aku...
+277	Terus kayak detail-detailnya tuh aku...
+278	Terus kayak detail-detailnya tuh aku... Kita bikin detail.
+279	Kita bikin detail.
+280	Kita bikin detail.
+281	Kita bikin detail.
+282	Kita bikin detail. bunga ya kan Wow baliknya Wow Makassar itu print bukan
+283	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+284	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+285	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+286	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+287	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+288	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+289	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+290	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+291	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+292	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+293	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+294	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+295	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+296	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+297	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+298	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+299	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+300	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+301	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+302	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+303	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+304	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+305	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+306	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+307	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+308	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+309	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+310	bunga ya kan Wow baliknya Wow Makassar itu print bukan
+311	[NO_SPEECH]
+312	[NO_SPEECH]
+313	[NO_SPEECH]
+314	[NO_SPEECH]
+315	[NO_SPEECH]
+316	[NO_SPEECH]
+317	[NO_SPEECH]
+318	[NO_SPEECH]
+319	[NO_SPEECH]
+320	[NO_SPEECH]
+321	[NO_SPEECH]
+322	[NO_SPEECH]
+323	[NO_SPEECH]
+324	[NO_SPEECH]
+325	[NO_SPEECH]
+326	[NO_SPEECH]
+327	[NO_SPEECH]
+328	[NO_SPEECH]
+329	[NO_SPEECH]
+330	[NO_SPEECH]
+331	[NO_SPEECH]
+332	[NO_SPEECH]
+333	[NO_SPEECH]
+334	[NO_SPEECH]
+335	[NO_SPEECH]
+336	[NO_SPEECH]
+337	[NO_SPEECH]
+338	[NO_SPEECH]
+339	[NO_SPEECH]
+340	[NO_SPEECH]
+341	[NO_SPEECH]
+342	[NO_SPEECH]
+343	[NO_SPEECH]
+344	[NO_SPEECH]
+345	Wow bawahnya Oh my God
+346	Wow bawahnya Oh my God
+347	Wow bawahnya Oh my God
+348	Wow bawahnya Oh my God
+349	Wow bawahnya Oh my God
+350	Wow bawahnya Oh my God
+351	Wow bawahnya Oh my God
+352	[NO_SPEECH]
+353	[NO_SPEECH]
+354	[NO_SPEECH]
+355	[NO_SPEECH]
+356	rinsnya terbalik ke pas misi yang ditekankan Ivan Gunawan adalah
+357	rinsnya terbalik ke pas misi yang ditekankan Ivan Gunawan adalah
+358	rinsnya terbalik ke pas misi yang ditekankan Ivan Gunawan adalah
+359	rinsnya terbalik ke pas misi yang ditekankan Ivan Gunawan adalah
+360	rinsnya terbalik ke pas misi yang ditekankan Ivan Gunawan adalah
+361	rinsnya terbalik ke pas misi yang ditekankan Ivan Gunawan adalah
+362	rinsnya terbalik ke pas misi yang ditekankan Ivan Gunawan adalah
+363	rinsnya terbalik ke pas misi yang ditekankan Ivan Gunawan adalah
+364	rinsnya terbalik ke pas misi yang ditekankan Ivan Gunawan adalah
+365	rinsnya terbalik ke pas misi yang ditekankan Ivan Gunawan adalah
+366	rinsnya terbalik ke pas misi yang ditekankan Ivan Gunawan adalah mengolah kain tradisional dengan look yang enggak tradisional alias mengglobal ini
+367	rinsnya terbalik ke pas misi yang ditekankan Ivan Gunawan adalah mengolah kain tradisional dengan look yang enggak tradisional alias mengglobal ini
+368	mengolah kain tradisional dengan look yang enggak tradisional alias mengglobal ini
+369	mengolah kain tradisional dengan look yang enggak tradisional alias mengglobal ini
+370	mengolah kain tradisional dengan look yang enggak tradisional alias mengglobal ini
+371	mengolah kain tradisional dengan look yang enggak tradisional alias mengglobal ini
+372	mengolah kain tradisional dengan look yang enggak tradisional alias mengglobal ini
+373	mengolah kain tradisional dengan look yang enggak tradisional alias mengglobal ini
+374	mengolah kain tradisional dengan look yang enggak tradisional alias mengglobal ini
+375	mengolah kain tradisional dengan look yang enggak tradisional alias mengglobal ini
+376	mengolah kain tradisional dengan look yang enggak tradisional alias mengglobal ini
+377	mengolah kain tradisional dengan look yang enggak tradisional alias mengglobal ini
+378	mengolah kain tradisional dengan look yang enggak tradisional alias mengglobal ini
+379	mengolah kain tradisional dengan look yang enggak tradisional alias mengglobal ini
+380	mengolah kain tradisional dengan look yang enggak tradisional alias mengglobal ini
+381	mengolah kain tradisional dengan look yang enggak tradisional alias mengglobal ini
+382	mengolah kain tradisional dengan look yang enggak tradisional alias mengglobal ini simple shift dress dari bahan tenun endek dengan detail double bow dipundak dan Fringe
+383	mengolah kain tradisional dengan look yang enggak tradisional alias mengglobal ini simple shift dress dari bahan tenun endek dengan detail double bow dipundak dan Fringe
+384	simple shift dress dari bahan tenun endek dengan detail double bow dipundak dan Fringe
+385	simple shift dress dari bahan tenun endek dengan detail double bow dipundak dan Fringe
+386	simple shift dress dari bahan tenun endek dengan detail double bow dipundak dan Fringe
+387	simple shift dress dari bahan tenun endek dengan detail double bow dipundak dan Fringe
+388	simple shift dress dari bahan tenun endek dengan detail double bow dipundak dan Fringe
+389	simple shift dress dari bahan tenun endek dengan detail double bow dipundak dan Fringe
+390	simple shift dress dari bahan tenun endek dengan detail double bow dipundak dan Fringe
+391	simple shift dress dari bahan tenun endek dengan detail double bow dipundak dan Fringe
+392	simple shift dress dari bahan tenun endek dengan detail double bow dipundak dan Fringe
+393	simple shift dress dari bahan tenun endek dengan detail double bow dipundak dan Fringe
+394	simple shift dress dari bahan tenun endek dengan detail double bow dipundak dan Fringe
+395	simple shift dress dari bahan tenun endek dengan detail double bow dipundak dan Fringe
+396	simple shift dress dari bahan tenun endek dengan detail double bow dipundak dan Fringe
+397	simple shift dress dari bahan tenun endek dengan detail double bow dipundak dan Fringe
+398	simple shift dress dari bahan tenun endek dengan detail double bow dipundak dan Fringe yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+399	simple shift dress dari bahan tenun endek dengan detail double bow dipundak dan Fringe yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+400	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+401	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+402	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+403	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+404	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+405	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+406	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+407	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+408	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+409	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+410	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+411	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+412	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+413	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+414	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+415	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+416	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+417	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+418	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+419	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+420	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+421	yang menyentuh lantai tapi aku ada monogramnya aku Oh iya gimana order layar ya Halo silakan
+422	[NO_SPEECH]
+423	[NO_SPEECH]
+424	[NO_SPEECH]
+425	[NO_SPEECH]
+426	[NO_SPEECH]
+427	[NO_SPEECH]
+428	[NO_SPEECH]
+429	[NO_SPEECH]
+430	[NO_SPEECH]
+431	[NO_SPEECH]
+432	baliknya
+433	baliknya
+434	baliknya
+435	baliknya
+436	[NO_SPEECH]
+437	[NO_SPEECH]
+438	[NO_SPEECH]
+439	[NO_SPEECH]
+440	[NO_SPEECH]
+441	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+442	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+443	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+444	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+445	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+446	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+447	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+448	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+449	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+450	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+451	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+452	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+453	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+454	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+455	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+456	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+457	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+458	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+459	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+460	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+461	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+462	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang
+463	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang mulai trending di tahun 40-an tapi Ivan membuatnya lebih melenuk lagi karena dia menambahkan volume
+464	ini ini kris banget sini satu look penting yang diserap adalah nyiluk berupa rok-rok mekar yang mulai trending di tahun 40-an tapi Ivan membuatnya lebih melenuk lagi karena dia menambahkan volume
+465	mulai trending di tahun 40-an tapi Ivan membuatnya lebih melenuk lagi karena dia menambahkan volume
+466	mulai trending di tahun 40-an tapi Ivan membuatnya lebih melenuk lagi karena dia menambahkan volume
+467	mulai trending di tahun 40-an tapi Ivan membuatnya lebih melenuk lagi karena dia menambahkan volume
+468	mulai trending di tahun 40-an tapi Ivan membuatnya lebih melenuk lagi karena dia menambahkan volume
+469	mulai trending di tahun 40-an tapi Ivan membuatnya lebih melenuk lagi karena dia menambahkan volume
+470	mulai trending di tahun 40-an tapi Ivan membuatnya lebih melenuk lagi karena dia menambahkan volume
+471	mulai trending di tahun 40-an tapi Ivan membuatnya lebih melenuk lagi karena dia menambahkan volume
+472	mulai trending di tahun 40-an tapi Ivan membuatnya lebih melenuk lagi karena dia menambahkan volume
+473	mulai trending di tahun 40-an tapi Ivan membuatnya lebih melenuk lagi karena dia menambahkan volume
+474	mulai trending di tahun 40-an tapi Ivan membuatnya lebih melenuk lagi karena dia menambahkan volume
+475	mulai trending di tahun 40-an tapi Ivan membuatnya lebih melenuk lagi karena dia menambahkan volume
+476	mulai trending di tahun 40-an tapi Ivan membuatnya lebih melenuk lagi karena dia menambahkan volume
+477	mulai trending di tahun 40-an tapi Ivan membuatnya lebih melenuk lagi karena dia menambahkan volume
+478	mulai trending di tahun 40-an tapi Ivan membuatnya lebih melenuk lagi karena dia menambahkan volume
+479	mulai trending di tahun 40-an tapi Ivan membuatnya lebih melenuk lagi karena dia menambahkan volume
+480	mulai trending di tahun 40-an tapi Ivan membuatnya lebih melenuk lagi karena dia menambahkan volume di sisi pinggul kanan-kiri sini look skirt ini dikenakan dengan Loose sleeveless top dari bahan
+481	di sisi pinggul kanan-kiri sini look skirt ini dikenakan dengan Loose sleeveless top dari bahan
+482	di sisi pinggul kanan-kiri sini look skirt ini dikenakan dengan Loose sleeveless top dari bahan
+483	di sisi pinggul kanan-kiri sini look skirt ini dikenakan dengan Loose sleeveless top dari bahan
+484	di sisi pinggul kanan-kiri sini look skirt ini dikenakan dengan Loose sleeveless top dari bahan
+485	di sisi pinggul kanan-kiri sini look skirt ini dikenakan dengan Loose sleeveless top dari bahan
+486	di sisi pinggul kanan-kiri sini look skirt ini dikenakan dengan Loose sleeveless top dari bahan
+487	di sisi pinggul kanan-kiri sini look skirt ini dikenakan dengan Loose sleeveless top dari bahan
+488	di sisi pinggul kanan-kiri sini look skirt ini dikenakan dengan Loose sleeveless top dari bahan
+489	di sisi pinggul kanan-kiri sini look skirt ini dikenakan dengan Loose sleeveless top dari bahan
+490	di sisi pinggul kanan-kiri sini look skirt ini dikenakan dengan Loose sleeveless top dari bahan
+491	di sisi pinggul kanan-kiri sini look skirt ini dikenakan dengan Loose sleeveless top dari bahan
+492	di sisi pinggul kanan-kiri sini look skirt ini dikenakan dengan Loose sleeveless top dari bahan
+493	di sisi pinggul kanan-kiri sini look skirt ini dikenakan dengan Loose sleeveless top dari bahan
+494	di sisi pinggul kanan-kiri sini look skirt ini dikenakan dengan Loose sleeveless top dari bahan
+495	di sisi pinggul kanan-kiri sini look skirt ini dikenakan dengan Loose sleeveless top dari bahan
+496	di sisi pinggul kanan-kiri sini look skirt ini dikenakan dengan Loose sleeveless top dari bahan
+497	di sisi pinggul kanan-kiri sini look skirt ini dikenakan dengan Loose sleeveless top dari bahan kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan
+498	di sisi pinggul kanan-kiri sini look skirt ini dikenakan dengan Loose sleeveless top dari bahan kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan
+499	kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan
+500	kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan
+501	kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan
+502	kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan
+503	kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan
+504	kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan
+505	kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan
+506	kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan
+507	kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan
+508	kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan
+509	kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan
+510	kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan
+511	kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan
+512	kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan
+513	kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan
+514	kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan
+515	kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan
+516	kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan
+517	kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+518	kerancang cool ya di Nusanova juga ada segelintir koleksi menswear cruise style dilengkapi dengan alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+519	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+520	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+521	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+522	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+523	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+524	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+525	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+526	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+527	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+528	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+529	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+530	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+531	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+532	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+533	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+534	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+535	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+536	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+537	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+538	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+539	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.
+540	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.   siapa aja yang diundang yang kelihatan sih para bisnis woman dan powerful woman
+541	alas kaki dari lokal brand kebanggaan Mario Minardi di kesempatan ini lahir juga homeware baru Ivan Gunawan yang langsung digunakan saat peluncurnya.   siapa aja yang diundang yang kelihatan sih para bisnis woman dan powerful woman
+542	siapa aja yang diundang yang kelihatan sih para bisnis woman dan powerful woman
+543	siapa aja yang diundang yang kelihatan sih para bisnis woman dan powerful woman
+544	siapa aja yang diundang yang kelihatan sih para bisnis woman dan powerful woman
+545	siapa aja yang diundang yang kelihatan sih para bisnis woman dan powerful woman
+546	siapa aja yang diundang yang kelihatan sih para bisnis woman dan powerful woman
+547	siapa aja yang diundang yang kelihatan sih para bisnis woman dan powerful woman
+548	siapa aja yang diundang yang kelihatan sih para bisnis woman dan powerful woman
+549	siapa aja yang diundang yang kelihatan sih para bisnis woman dan powerful woman
+550	siapa aja yang diundang yang kelihatan sih para bisnis woman dan powerful woman
+551	siapa aja yang diundang yang kelihatan sih para bisnis woman dan powerful woman
+552	siapa aja yang diundang yang kelihatan sih para bisnis woman dan powerful woman
+553	siapa aja yang diundang yang kelihatan sih para bisnis woman dan powerful woman
+554	siapa aja yang diundang yang kelihatan sih para bisnis woman dan powerful woman
+555	siapa aja yang diundang yang kelihatan sih para bisnis woman dan powerful woman less celebrities dan kalaupun ada mereka adalah diva
+556	siapa aja yang diundang yang kelihatan sih para bisnis woman dan powerful woman less celebrities dan kalaupun ada mereka adalah diva
+557	less celebrities dan kalaupun ada mereka adalah diva
+558	less celebrities dan kalaupun ada mereka adalah diva
+559	less celebrities dan kalaupun ada mereka adalah diva
+560	less celebrities dan kalaupun ada mereka adalah diva
+561	less celebrities dan kalaupun ada mereka adalah diva
+562	less celebrities dan kalaupun ada mereka adalah diva
+563	less celebrities dan kalaupun ada mereka adalah diva
+564	less celebrities dan kalaupun ada mereka adalah diva
+565	less celebrities dan kalaupun ada mereka adalah diva
+566	less celebrities dan kalaupun ada mereka adalah diva
+567	less celebrities dan kalaupun ada mereka adalah diva hai hai
+568	less celebrities dan kalaupun ada mereka adalah diva hai hai
+569	hai hai
+570	hai hai
+571	hai hai
+572	[NO_SPEECH]
+573	[NO_SPEECH]
+574	[NO_SPEECH]
+575	[NO_SPEECH]
+576	[NO_SPEECH]
+577	[NO_SPEECH]

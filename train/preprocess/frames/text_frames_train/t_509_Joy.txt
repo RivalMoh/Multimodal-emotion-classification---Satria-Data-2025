@@ -1,0 +1,107 @@
+0	Eugene Ishida pernah mencetak 5 ace beruntun.
+1	Eugene Ishida pernah mencetak 5 ace beruntun.
+2	Eugene Ishida pernah mencetak 5 ace beruntun.
+3	Eugene Ishida pernah mencetak 5 ace beruntun. Saat itu ia tampil di World Cup 2019 dan usianya masih 19 tahun.
+4	Eugene Ishida pernah mencetak 5 ace beruntun. Saat itu ia tampil di World Cup 2019 dan usianya masih 19 tahun.
+5	Saat itu ia tampil di World Cup 2019 dan usianya masih 19 tahun.
+6	Saat itu ia tampil di World Cup 2019 dan usianya masih 19 tahun.
+7	Saat itu ia tampil di World Cup 2019 dan usianya masih 19 tahun.
+8	Saat itu ia tampil di World Cup 2019 dan usianya masih 19 tahun.
+9	Saat itu ia tampil di World Cup 2019 dan usianya masih 19 tahun.
+10	Saat itu ia tampil di World Cup 2019 dan usianya masih 19 tahun.
+11	Saat itu ia tampil di World Cup 2019 dan usianya masih 19 tahun.
+12	Saat itu ia tampil di World Cup 2019 dan usianya masih 19 tahun.
+13	Saat itu ia tampil di World Cup 2019 dan usianya masih 19 tahun.
+14	Saat itu ia tampil di World Cup 2019 dan usianya masih 19 tahun.
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	[NO_SPEECH]
+59	[NO_SPEECH]
+60	[NO_SPEECH]
+61	Terima kasih telah menonton!
+62	Terima kasih telah menonton!
+63	Terima kasih telah menonton!
+64	Terima kasih telah menonton!
+65	Terima kasih telah menonton!
+66	Terima kasih telah menonton!
+67	Terima kasih telah menonton!
+68	Terima kasih telah menonton!
+69	Terima kasih telah menonton!
+70	Terima kasih telah menonton!
+71	Terima kasih telah menonton!
+72	Terima kasih telah menonton!
+73	Terima kasih telah menonton!
+74	Terima kasih telah menonton!
+75	Terima kasih telah menonton!
+76	Terima kasih telah menonton!
+77	Terima kasih telah menonton!
+78	Terima kasih telah menonton!
+79	Terima kasih telah menonton!
+80	Terima kasih telah menonton!
+81	Terima kasih telah menonton!
+82	Terima kasih telah menonton!
+83	Terima kasih telah menonton!
+84	Terima kasih telah menonton!
+85	Terima kasih telah menonton!
+86	Terima kasih telah menonton!
+87	Terima kasih telah menonton!
+88	Terima kasih telah menonton!
+89	Terima kasih telah menonton!
+90	Terima kasih telah menonton!
+91	Terima kasih telah menonton!
+92	Terima kasih telah menonton!
+93	Terima kasih telah menonton!
+94	Terima kasih telah menonton!
+95	Terima kasih telah menonton!
+96	Terima kasih telah menonton!
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	[NO_SPEECH]
+104	[NO_SPEECH]
+105	[NO_SPEECH]
+106	[NO_SPEECH]

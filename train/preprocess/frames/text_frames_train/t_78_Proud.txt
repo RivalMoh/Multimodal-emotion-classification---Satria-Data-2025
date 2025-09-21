@@ -1,0 +1,59 @@
+0	Hai, happy banget aku diundang ke acara Disney Content Showcase di Singapore.
+1	Hai, happy banget aku diundang ke acara Disney Content Showcase di Singapore.
+2	Hai, happy banget aku diundang ke acara Disney Content Showcase di Singapore.
+3	Hai, happy banget aku diundang ke acara Disney Content Showcase di Singapore.
+4	Hai, happy banget aku diundang ke acara Disney Content Showcase di Singapore.
+5	Hai, happy banget aku diundang ke acara Disney Content Showcase di Singapore. Aku udah makeup di hotel, tapi hotelnya ke lokasi, aku mau touch up dan pake lipstick.
+6	Hai, happy banget aku diundang ke acara Disney Content Showcase di Singapore. Aku udah makeup di hotel, tapi hotelnya ke lokasi, aku mau touch up dan pake lipstick.
+7	Aku udah makeup di hotel, tapi hotelnya ke lokasi, aku mau touch up dan pake lipstick.
+8	Aku udah makeup di hotel, tapi hotelnya ke lokasi, aku mau touch up dan pake lipstick.
+9	Aku udah makeup di hotel, tapi hotelnya ke lokasi, aku mau touch up dan pake lipstick.
+10	Aku udah makeup di hotel, tapi hotelnya ke lokasi, aku mau touch up dan pake lipstick.
+11	Aku udah makeup di hotel, tapi hotelnya ke lokasi, aku mau touch up dan pake lipstick.
+12	Aku udah makeup di hotel, tapi hotelnya ke lokasi, aku mau touch up dan pake lipstick. Buat pagi ini, supaya lebih fresh, aku pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Authentic nomor B40.
+13	Aku udah makeup di hotel, tapi hotelnya ke lokasi, aku mau touch up dan pake lipstick. Buat pagi ini, supaya lebih fresh, aku pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Authentic nomor B40.
+14	Buat pagi ini, supaya lebih fresh, aku pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Authentic nomor B40.
+15	Buat pagi ini, supaya lebih fresh, aku pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Authentic nomor B40.
+16	Buat pagi ini, supaya lebih fresh, aku pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Authentic nomor B40.
+17	Buat pagi ini, supaya lebih fresh, aku pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Authentic nomor B40.
+18	Buat pagi ini, supaya lebih fresh, aku pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Authentic nomor B40.
+19	Buat pagi ini, supaya lebih fresh, aku pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Authentic nomor B40.
+20	Buat pagi ini, supaya lebih fresh, aku pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Authentic nomor B40.
+21	Buat pagi ini, supaya lebih fresh, aku pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Authentic nomor B40.
+22	Buat pagi ini, supaya lebih fresh, aku pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Authentic nomor B40.
+23	Buat pagi ini, supaya lebih fresh, aku pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Authentic nomor B40.
+24	Buat pagi ini, supaya lebih fresh, aku pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Authentic nomor B40. Seru banget acaranya, banyak film dan seri skren yang aku nonton di dalam.
+25	Buat pagi ini, supaya lebih fresh, aku pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Authentic nomor B40. Seru banget acaranya, banyak film dan seri skren yang aku nonton di dalam.
+26	Seru banget acaranya, banyak film dan seri skren yang aku nonton di dalam.
+27	Seru banget acaranya, banyak film dan seri skren yang aku nonton di dalam.
+28	Seru banget acaranya, banyak film dan seri skren yang aku nonton di dalam.
+29	Seru banget acaranya, banyak film dan seri skren yang aku nonton di dalam.
+30	Seru banget acaranya, banyak film dan seri skren yang aku nonton di dalam.
+31	Seru banget acaranya, banyak film dan seri skren yang aku nonton di dalam. Setelah acara selesai, aku harus langsung balik ke Jakarta for my next event.
+32	Seru banget acaranya, banyak film dan seri skren yang aku nonton di dalam. Setelah acara selesai, aku harus langsung balik ke Jakarta for my next event.
+33	Setelah acara selesai, aku harus langsung balik ke Jakarta for my next event.
+34	Setelah acara selesai, aku harus langsung balik ke Jakarta for my next event.
+35	Setelah acara selesai, aku harus langsung balik ke Jakarta for my next event.
+36	Setelah acara selesai, aku harus langsung balik ke Jakarta for my next event.
+37	Setelah acara selesai, aku harus langsung balik ke Jakarta for my next event. Nah, karena acaranya malem, aku mau ganti pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Pleasure nomor B101.
+38	Setelah acara selesai, aku harus langsung balik ke Jakarta for my next event. Nah, karena acaranya malem, aku mau ganti pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Pleasure nomor B101.
+39	Nah, karena acaranya malem, aku mau ganti pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Pleasure nomor B101.
+40	Nah, karena acaranya malem, aku mau ganti pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Pleasure nomor B101.
+41	Nah, karena acaranya malem, aku mau ganti pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Pleasure nomor B101.
+42	Nah, karena acaranya malem, aku mau ganti pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Pleasure nomor B101.
+43	Nah, karena acaranya malem, aku mau ganti pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Pleasure nomor B101.
+44	Nah, karena acaranya malem, aku mau ganti pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Pleasure nomor B101.
+45	Nah, karena acaranya malem, aku mau ganti pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Pleasure nomor B101.
+46	Nah, karena acaranya malem, aku mau ganti pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Pleasure nomor B101.
+47	Nah, karena acaranya malem, aku mau ganti pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Pleasure nomor B101.
+48	Nah, karena acaranya malem, aku mau ganti pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Pleasure nomor B101.
+49	Nah, karena acaranya malem, aku mau ganti pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Pleasure nomor B101.
+50	Nah, karena acaranya malem, aku mau ganti pake Makeover Power Stay Transfer Proof Matte Lip Cream yang shade Pleasure nomor B101. Biar tampilnya beda.
+51	Biar tampilnya beda.
+52	Biar tampilnya beda. Oke, bye!
+53	Biar tampilnya beda. Oke, bye!
+54	Oke, bye!
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	[NO_SPEECH]

@@ -1,0 +1,404 @@
+0	Jangan salah kaprah.
+1	Jangan salah kaprah. Ini adalah Time Foria Nebula Lip Velvet.
+2	Jangan salah kaprah. Ini adalah Time Foria Nebula Lip Velvet.
+3	Ini adalah Time Foria Nebula Lip Velvet.
+4	Ini adalah Time Foria Nebula Lip Velvet.
+5	Ini adalah Time Foria Nebula Lip Velvet.
+6	Ini adalah Time Foria Nebula Lip Velvet.
+7	Ini adalah Time Foria Nebula Lip Velvet.
+8	Ini adalah Time Foria Nebula Lip Velvet. Dan aku have no complain about this product.
+9	Dan aku have no complain about this product.
+10	Dan aku have no complain about this product.
+11	Dan aku have no complain about this product.
+12	Dan aku have no complain about this product.
+13	Dan aku have no complain about this product.
+14	Dan aku have no complain about this product. Highly pigmented, super lembut di bibir.
+15	Highly pigmented, super lembut di bibir.
+16	Highly pigmented, super lembut di bibir.
+17	Highly pigmented, super lembut di bibir.
+18	Highly pigmented, super lembut di bibir. Aku juga udah nge-review semua warna-warna favorit aku.
+19	Highly pigmented, super lembut di bibir. Aku juga udah nge-review semua warna-warna favorit aku.
+20	Aku juga udah nge-review semua warna-warna favorit aku.
+21	Aku juga udah nge-review semua warna-warna favorit aku.
+22	Aku juga udah nge-review semua warna-warna favorit aku.
+23	Aku juga udah nge-review semua warna-warna favorit aku. Tapi banyak banget juga yang minta aku nge-review lip tint-nya.
+24	Aku juga udah nge-review semua warna-warna favorit aku. Tapi banyak banget juga yang minta aku nge-review lip tint-nya.
+25	Tapi banyak banget juga yang minta aku nge-review lip tint-nya.
+26	Tapi banyak banget juga yang minta aku nge-review lip tint-nya.
+27	Tapi banyak banget juga yang minta aku nge-review lip tint-nya.
+28	Tapi banyak banget juga yang minta aku nge-review lip tint-nya.
+29	Tapi banyak banget juga yang minta aku nge-review lip tint-nya.
+30	Tapi banyak banget juga yang minta aku nge-review lip tint-nya.
+31	Tapi banyak banget juga yang minta aku nge-review lip tint-nya. Lip tint-nya Time Foria ini tuh masih ada plus minusnya gitu ya.
+32	Lip tint-nya Time Foria ini tuh masih ada plus minusnya gitu ya.
+33	Lip tint-nya Time Foria ini tuh masih ada plus minusnya gitu ya.
+34	Lip tint-nya Time Foria ini tuh masih ada plus minusnya gitu ya.
+35	Lip tint-nya Time Foria ini tuh masih ada plus minusnya gitu ya.
+36	Lip tint-nya Time Foria ini tuh masih ada plus minusnya gitu ya.
+37	Lip tint-nya Time Foria ini tuh masih ada plus minusnya gitu ya.
+38	Lip tint-nya Time Foria ini tuh masih ada plus minusnya gitu ya.
+39	Lip tint-nya Time Foria ini tuh masih ada plus minusnya gitu ya. Plusnya adalah dia super highly pigmented.
+40	Plusnya adalah dia super highly pigmented.
+41	Plusnya adalah dia super highly pigmented.
+42	Plusnya adalah dia super highly pigmented.
+43	Plusnya adalah dia super highly pigmented.
+44	Plusnya adalah dia super highly pigmented.
+45	Plusnya adalah dia super highly pigmented. Tapi minusnya itu kalau di bibir yang kering, dia tuh suka ngegaris di dalam.
+46	Plusnya adalah dia super highly pigmented. Tapi minusnya itu kalau di bibir yang kering, dia tuh suka ngegaris di dalam.
+47	Tapi minusnya itu kalau di bibir yang kering, dia tuh suka ngegaris di dalam.
+48	Tapi minusnya itu kalau di bibir yang kering, dia tuh suka ngegaris di dalam.
+49	Tapi minusnya itu kalau di bibir yang kering, dia tuh suka ngegaris di dalam.
+50	Tapi minusnya itu kalau di bibir yang kering, dia tuh suka ngegaris di dalam.
+51	Tapi minusnya itu kalau di bibir yang kering, dia tuh suka ngegaris di dalam.
+52	Tapi minusnya itu kalau di bibir yang kering, dia tuh suka ngegaris di dalam.
+53	Tapi minusnya itu kalau di bibir yang kering, dia tuh suka ngegaris di dalam.
+54	Tapi minusnya itu kalau di bibir yang kering, dia tuh suka ngegaris di dalam.
+55	Tapi minusnya itu kalau di bibir yang kering, dia tuh suka ngegaris di dalam. Terus plusnya lagi, stain-nya dia itu awet banget.
+56	Tapi minusnya itu kalau di bibir yang kering, dia tuh suka ngegaris di dalam. Terus plusnya lagi, stain-nya dia itu awet banget.
+57	Terus plusnya lagi, stain-nya dia itu awet banget.
+58	Terus plusnya lagi, stain-nya dia itu awet banget.
+59	Terus plusnya lagi, stain-nya dia itu awet banget.
+60	Terus plusnya lagi, stain-nya dia itu awet banget.
+61	Terus plusnya lagi, stain-nya dia itu awet banget.
+62	Terus plusnya lagi, stain-nya dia itu awet banget. Dan banyak warna-warna nude.
+63	Dan banyak warna-warna nude.
+64	Dan banyak warna-warna nude.
+65	Dan banyak warna-warna nude. Aku akan kasih tau ke kalian warna-warna nude yang menurut aku cakep banget untuk diombre sama warna-warna gelapnya.
+66	Dan banyak warna-warna nude. Aku akan kasih tau ke kalian warna-warna nude yang menurut aku cakep banget untuk diombre sama warna-warna gelapnya.
+67	Aku akan kasih tau ke kalian warna-warna nude yang menurut aku cakep banget untuk diombre sama warna-warna gelapnya.
+68	Aku akan kasih tau ke kalian warna-warna nude yang menurut aku cakep banget untuk diombre sama warna-warna gelapnya.
+69	Aku akan kasih tau ke kalian warna-warna nude yang menurut aku cakep banget untuk diombre sama warna-warna gelapnya.
+70	Aku akan kasih tau ke kalian warna-warna nude yang menurut aku cakep banget untuk diombre sama warna-warna gelapnya.
+71	Aku akan kasih tau ke kalian warna-warna nude yang menurut aku cakep banget untuk diombre sama warna-warna gelapnya.
+72	Aku akan kasih tau ke kalian warna-warna nude yang menurut aku cakep banget untuk diombre sama warna-warna gelapnya.
+73	Aku akan kasih tau ke kalian warna-warna nude yang menurut aku cakep banget untuk diombre sama warna-warna gelapnya.
+74	Aku akan kasih tau ke kalian warna-warna nude yang menurut aku cakep banget untuk diombre sama warna-warna gelapnya.
+75	Aku akan kasih tau ke kalian warna-warna nude yang menurut aku cakep banget untuk diombre sama warna-warna gelapnya.
+76	Aku akan kasih tau ke kalian warna-warna nude yang menurut aku cakep banget untuk diombre sama warna-warna gelapnya.
+77	Aku akan kasih tau ke kalian warna-warna nude yang menurut aku cakep banget untuk diombre sama warna-warna gelapnya. Tapi dengan syarat, kalau bibir kalian kering, kalian coba usahakan untuk scrubbing dulu dan li-balm dulu.
+78	Aku akan kasih tau ke kalian warna-warna nude yang menurut aku cakep banget untuk diombre sama warna-warna gelapnya. Tapi dengan syarat, kalau bibir kalian kering, kalian coba usahakan untuk scrubbing dulu dan li-balm dulu.
+79	Tapi dengan syarat, kalau bibir kalian kering, kalian coba usahakan untuk scrubbing dulu dan li-balm dulu.
+80	Tapi dengan syarat, kalau bibir kalian kering, kalian coba usahakan untuk scrubbing dulu dan li-balm dulu.
+81	Tapi dengan syarat, kalau bibir kalian kering, kalian coba usahakan untuk scrubbing dulu dan li-balm dulu.
+82	Tapi dengan syarat, kalau bibir kalian kering, kalian coba usahakan untuk scrubbing dulu dan li-balm dulu.
+83	Tapi dengan syarat, kalau bibir kalian kering, kalian coba usahakan untuk scrubbing dulu dan li-balm dulu.
+84	Tapi dengan syarat, kalau bibir kalian kering, kalian coba usahakan untuk scrubbing dulu dan li-balm dulu.
+85	Tapi dengan syarat, kalau bibir kalian kering, kalian coba usahakan untuk scrubbing dulu dan li-balm dulu.
+86	Tapi dengan syarat, kalau bibir kalian kering, kalian coba usahakan untuk scrubbing dulu dan li-balm dulu.
+87	Tapi dengan syarat, kalau bibir kalian kering, kalian coba usahakan untuk scrubbing dulu dan li-balm dulu.
+88	Tapi dengan syarat, kalau bibir kalian kering, kalian coba usahakan untuk scrubbing dulu dan li-balm dulu.
+89	Tapi dengan syarat, kalau bibir kalian kering, kalian coba usahakan untuk scrubbing dulu dan li-balm dulu.
+90	Tapi dengan syarat, kalau bibir kalian kering, kalian coba usahakan untuk scrubbing dulu dan li-balm dulu. Karena biasanya memang lip tint yang highly pigmented itu cenderung kelihatan agak lebih dry di bibir.
+91	Tapi dengan syarat, kalau bibir kalian kering, kalian coba usahakan untuk scrubbing dulu dan li-balm dulu. Karena biasanya memang lip tint yang highly pigmented itu cenderung kelihatan agak lebih dry di bibir.
+92	Karena biasanya memang lip tint yang highly pigmented itu cenderung kelihatan agak lebih dry di bibir.
+93	Karena biasanya memang lip tint yang highly pigmented itu cenderung kelihatan agak lebih dry di bibir.
+94	Karena biasanya memang lip tint yang highly pigmented itu cenderung kelihatan agak lebih dry di bibir.
+95	Karena biasanya memang lip tint yang highly pigmented itu cenderung kelihatan agak lebih dry di bibir.
+96	Karena biasanya memang lip tint yang highly pigmented itu cenderung kelihatan agak lebih dry di bibir.
+97	Karena biasanya memang lip tint yang highly pigmented itu cenderung kelihatan agak lebih dry di bibir.
+98	Karena biasanya memang lip tint yang highly pigmented itu cenderung kelihatan agak lebih dry di bibir.
+99	Karena biasanya memang lip tint yang highly pigmented itu cenderung kelihatan agak lebih dry di bibir.
+100	Karena biasanya memang lip tint yang highly pigmented itu cenderung kelihatan agak lebih dry di bibir.
+101	Karena biasanya memang lip tint yang highly pigmented itu cenderung kelihatan agak lebih dry di bibir. Aku nggak tau nih udah banyak yang bahas atau belum.
+102	Karena biasanya memang lip tint yang highly pigmented itu cenderung kelihatan agak lebih dry di bibir. Aku nggak tau nih udah banyak yang bahas atau belum.
+103	Aku nggak tau nih udah banyak yang bahas atau belum.
+104	Aku nggak tau nih udah banyak yang bahas atau belum.
+105	Aku nggak tau nih udah banyak yang bahas atau belum.
+106	Aku nggak tau nih udah banyak yang bahas atau belum. Tapi kalau itu ada pribadi di aku.
+107	Aku nggak tau nih udah banyak yang bahas atau belum. Tapi kalau itu ada pribadi di aku.
+108	Tapi kalau itu ada pribadi di aku.
+109	Tapi kalau itu ada pribadi di aku.
+110	Tapi kalau itu ada pribadi di aku. Mari langsung aja kita coba.
+111	Tapi kalau itu ada pribadi di aku. Mari langsung aja kita coba.
+112	Mari langsung aja kita coba.
+113	Mari langsung aja kita coba. Pertama, ini ada lip tint.
+114	Mari langsung aja kita coba. Pertama, ini ada lip tint.
+115	Pertama, ini ada lip tint. Lip tint yang warnanya cantik banget.
+116	Pertama, ini ada lip tint. Lip tint yang warnanya cantik banget.
+117	Lip tint yang warnanya cantik banget.
+118	Lip tint yang warnanya cantik banget.
+119	Lip tint yang warnanya cantik banget. Namanya adalah Solaris 02.
+120	Namanya adalah Solaris 02.
+121	Namanya adalah Solaris 02.
+122	Namanya adalah Solaris 02.
+123	Namanya adalah Solaris 02. Lihat, ini lip tint warnanya kayak gini.
+124	Lihat, ini lip tint warnanya kayak gini.
+125	Lihat, ini lip tint warnanya kayak gini.
+126	Lihat, ini lip tint warnanya kayak gini. Aku akan pakai di bibir aku yang udah aku wrap dengan lip balm dan scrubbing.
+127	Lihat, ini lip tint warnanya kayak gini. Aku akan pakai di bibir aku yang udah aku wrap dengan lip balm dan scrubbing.
+128	Aku akan pakai di bibir aku yang udah aku wrap dengan lip balm dan scrubbing.
+129	Aku akan pakai di bibir aku yang udah aku wrap dengan lip balm dan scrubbing.
+130	Aku akan pakai di bibir aku yang udah aku wrap dengan lip balm dan scrubbing.
+131	Aku akan pakai di bibir aku yang udah aku wrap dengan lip balm dan scrubbing.
+132	Aku akan pakai di bibir aku yang udah aku wrap dengan lip balm dan scrubbing.
+133	Aku akan pakai di bibir aku yang udah aku wrap dengan lip balm dan scrubbing.
+134	Aku akan pakai di bibir aku yang udah aku wrap dengan lip balm dan scrubbing.
+135	Aku akan pakai di bibir aku yang udah aku wrap dengan lip balm dan scrubbing. Si Solaris itu warnanya kayak gini.
+136	Si Solaris itu warnanya kayak gini.
+137	Si Solaris itu warnanya kayak gini.
+138	Si Solaris itu warnanya kayak gini.
+139	Si Solaris itu warnanya kayak gini. Kalau untuk yang warna nude-nya itu memang dia tidak se-highly pigmented yang warna gelapnya.
+140	Si Solaris itu warnanya kayak gini. Kalau untuk yang warna nude-nya itu memang dia tidak se-highly pigmented yang warna gelapnya.
+141	Kalau untuk yang warna nude-nya itu memang dia tidak se-highly pigmented yang warna gelapnya.
+142	Kalau untuk yang warna nude-nya itu memang dia tidak se-highly pigmented yang warna gelapnya.
+143	Kalau untuk yang warna nude-nya itu memang dia tidak se-highly pigmented yang warna gelapnya.
+144	Kalau untuk yang warna nude-nya itu memang dia tidak se-highly pigmented yang warna gelapnya.
+145	Kalau untuk yang warna nude-nya itu memang dia tidak se-highly pigmented yang warna gelapnya.
+146	Kalau untuk yang warna nude-nya itu memang dia tidak se-highly pigmented yang warna gelapnya.
+147	Kalau untuk yang warna nude-nya itu memang dia tidak se-highly pigmented yang warna gelapnya.
+148	Kalau untuk yang warna nude-nya itu memang dia tidak se-highly pigmented yang warna gelapnya.
+149	Kalau untuk yang warna nude-nya itu memang dia tidak se-highly pigmented yang warna gelapnya.
+150	Kalau untuk yang warna nude-nya itu memang dia tidak se-highly pigmented yang warna gelapnya. Dan aku akan ombre sama salah satu warna gelap favorit aku, yaitu yang Cerion.
+151	Kalau untuk yang warna nude-nya itu memang dia tidak se-highly pigmented yang warna gelapnya. Dan aku akan ombre sama salah satu warna gelap favorit aku, yaitu yang Cerion.
+152	Dan aku akan ombre sama salah satu warna gelap favorit aku, yaitu yang Cerion.
+153	Dan aku akan ombre sama salah satu warna gelap favorit aku, yaitu yang Cerion.
+154	Dan aku akan ombre sama salah satu warna gelap favorit aku, yaitu yang Cerion.
+155	Dan aku akan ombre sama salah satu warna gelap favorit aku, yaitu yang Cerion.
+156	Dan aku akan ombre sama salah satu warna gelap favorit aku, yaitu yang Cerion.
+157	Dan aku akan ombre sama salah satu warna gelap favorit aku, yaitu yang Cerion.
+158	Dan aku akan ombre sama salah satu warna gelap favorit aku, yaitu yang Cerion.
+159	Dan aku akan ombre sama salah satu warna gelap favorit aku, yaitu yang Cerion.
+160	Dan aku akan ombre sama salah satu warna gelap favorit aku, yaitu yang Cerion.
+161	Dan aku akan ombre sama salah satu warna gelap favorit aku, yaitu yang Cerion. Karena warnanya unik banget.
+162	Dan aku akan ombre sama salah satu warna gelap favorit aku, yaitu yang Cerion. Karena warnanya unik banget.
+163	Karena warnanya unik banget.
+164	Karena warnanya unik banget. Jadi dia tuh kayak reddish purple.
+165	Karena warnanya unik banget. Jadi dia tuh kayak reddish purple.
+166	Jadi dia tuh kayak reddish purple.
+167	Jadi dia tuh kayak reddish purple.
+168	Jadi dia tuh kayak reddish purple.
+169	Jadi dia tuh kayak reddish purple. Gila, pigmentasinya memang tidak diragukan lagi.
+170	Gila, pigmentasinya memang tidak diragukan lagi.
+171	Gila, pigmentasinya memang tidak diragukan lagi.
+172	Gila, pigmentasinya memang tidak diragukan lagi.
+173	Gila, pigmentasinya memang tidak diragukan lagi.
+174	Gila, pigmentasinya memang tidak diragukan lagi.
+175	Gila, pigmentasinya memang tidak diragukan lagi. Jadi coba lip tint ini aku pakai seharian.
+176	Jadi coba lip tint ini aku pakai seharian.
+177	Jadi coba lip tint ini aku pakai seharian.
+178	Jadi coba lip tint ini aku pakai seharian.
+179	Jadi coba lip tint ini aku pakai seharian.
+180	Jadi coba lip tint ini aku pakai seharian. Aku pakai makan.
+181	Jadi coba lip tint ini aku pakai seharian. Aku pakai makan.
+182	Aku pakai makan.
+183	Aku pakai makan. Pokoknya wear testnya tuh beribu-ribu kali.
+184	Aku pakai makan. Pokoknya wear testnya tuh beribu-ribu kali.
+185	Pokoknya wear testnya tuh beribu-ribu kali.
+186	Pokoknya wear testnya tuh beribu-ribu kali.
+187	Pokoknya wear testnya tuh beribu-ribu kali.
+188	Pokoknya wear testnya tuh beribu-ribu kali. Kalau di saat bibir kita kering, dia itu kayak ngegaris di dalam bibir.
+189	Kalau di saat bibir kita kering, dia itu kayak ngegaris di dalam bibir.
+190	Kalau di saat bibir kita kering, dia itu kayak ngegaris di dalam bibir.
+191	Kalau di saat bibir kita kering, dia itu kayak ngegaris di dalam bibir.
+192	Kalau di saat bibir kita kering, dia itu kayak ngegaris di dalam bibir.
+193	Kalau di saat bibir kita kering, dia itu kayak ngegaris di dalam bibir.
+194	Kalau di saat bibir kita kering, dia itu kayak ngegaris di dalam bibir.
+195	Kalau di saat bibir kita kering, dia itu kayak ngegaris di dalam bibir.
+196	Kalau di saat bibir kita kering, dia itu kayak ngegaris di dalam bibir. Tapi kalau dalam kondisi bibir kita sehat, kelihatannya akan seindah ini.
+197	Kalau di saat bibir kita kering, dia itu kayak ngegaris di dalam bibir. Tapi kalau dalam kondisi bibir kita sehat, kelihatannya akan seindah ini.
+198	Tapi kalau dalam kondisi bibir kita sehat, kelihatannya akan seindah ini.
+199	Tapi kalau dalam kondisi bibir kita sehat, kelihatannya akan seindah ini.
+200	Tapi kalau dalam kondisi bibir kita sehat, kelihatannya akan seindah ini.
+201	Tapi kalau dalam kondisi bibir kita sehat, kelihatannya akan seindah ini.
+202	Tapi kalau dalam kondisi bibir kita sehat, kelihatannya akan seindah ini.
+203	Tapi kalau dalam kondisi bibir kita sehat, kelihatannya akan seindah ini.
+204	Tapi kalau dalam kondisi bibir kita sehat, kelihatannya akan seindah ini. Tunggu sebentar.
+205	Tunggu sebentar. Dan kalian harus lihat kalau dia sangat minim transfer.
+206	Tunggu sebentar. Dan kalian harus lihat kalau dia sangat minim transfer.
+207	Dan kalian harus lihat kalau dia sangat minim transfer.
+208	Dan kalian harus lihat kalau dia sangat minim transfer.
+209	Dan kalian harus lihat kalau dia sangat minim transfer.
+210	Dan kalian harus lihat kalau dia sangat minim transfer.
+211	Dan kalian harus lihat kalau dia sangat minim transfer. Itu juga salah satu poin plusnya dari lip stain-nya Time For Ya yang warna hitam.
+212	Dan kalian harus lihat kalau dia sangat minim transfer. Itu juga salah satu poin plusnya dari lip stain-nya Time For Ya yang warna hitam.
+213	Itu juga salah satu poin plusnya dari lip stain-nya Time For Ya yang warna hitam.
+214	Itu juga salah satu poin plusnya dari lip stain-nya Time For Ya yang warna hitam.
+215	Itu juga salah satu poin plusnya dari lip stain-nya Time For Ya yang warna hitam.
+216	Itu juga salah satu poin plusnya dari lip stain-nya Time For Ya yang warna hitam.
+217	Itu juga salah satu poin plusnya dari lip stain-nya Time For Ya yang warna hitam.
+218	Itu juga salah satu poin plusnya dari lip stain-nya Time For Ya yang warna hitam.
+219	Itu juga salah satu poin plusnya dari lip stain-nya Time For Ya yang warna hitam.
+220	Itu juga salah satu poin plusnya dari lip stain-nya Time For Ya yang warna hitam.
+221	Itu juga salah satu poin plusnya dari lip stain-nya Time For Ya yang warna hitam. Transfernya langsung minim banget.
+222	Itu juga salah satu poin plusnya dari lip stain-nya Time For Ya yang warna hitam. Transfernya langsung minim banget.
+223	Transfernya langsung minim banget.
+224	Transfernya langsung minim banget.
+225	Transfernya langsung minim banget. Setelah di atas 2 menit, hampir nggak ada lagi transfernya.
+226	Setelah di atas 2 menit, hampir nggak ada lagi transfernya.
+227	Setelah di atas 2 menit, hampir nggak ada lagi transfernya.
+228	Setelah di atas 2 menit, hampir nggak ada lagi transfernya.
+229	Setelah di atas 2 menit, hampir nggak ada lagi transfernya.
+230	Setelah di atas 2 menit, hampir nggak ada lagi transfernya.
+231	Setelah di atas 2 menit, hampir nggak ada lagi transfernya.
+232	Setelah di atas 2 menit, hampir nggak ada lagi transfernya.
+233	Setelah di atas 2 menit, hampir nggak ada lagi transfernya. Tunggu sebentar.
+234	Setelah di atas 2 menit, hampir nggak ada lagi transfernya. Tunggu sebentar. Coba The Darkest Shade yang ada di sini.
+235	Tunggu sebentar. Coba The Darkest Shade yang ada di sini.
+236	Coba The Darkest Shade yang ada di sini.
+237	Coba The Darkest Shade yang ada di sini.
+238	Coba The Darkest Shade yang ada di sini. Ini tuh yang shade Enigma 09.
+239	Coba The Darkest Shade yang ada di sini. Ini tuh yang shade Enigma 09.
+240	Ini tuh yang shade Enigma 09.
+241	Ini tuh yang shade Enigma 09.
+242	Ini tuh yang shade Enigma 09.
+243	Ini tuh yang shade Enigma 09. Nah, seperti yang kalian bisa lihat, di warna gelap dia tuh sedikit ngegaris di dalam bibir.
+244	Nah, seperti yang kalian bisa lihat, di warna gelap dia tuh sedikit ngegaris di dalam bibir.
+245	Nah, seperti yang kalian bisa lihat, di warna gelap dia tuh sedikit ngegaris di dalam bibir.
+246	Nah, seperti yang kalian bisa lihat, di warna gelap dia tuh sedikit ngegaris di dalam bibir.
+247	Nah, seperti yang kalian bisa lihat, di warna gelap dia tuh sedikit ngegaris di dalam bibir.
+248	Nah, seperti yang kalian bisa lihat, di warna gelap dia tuh sedikit ngegaris di dalam bibir.
+249	Nah, seperti yang kalian bisa lihat, di warna gelap dia tuh sedikit ngegaris di dalam bibir.
+250	Nah, seperti yang kalian bisa lihat, di warna gelap dia tuh sedikit ngegaris di dalam bibir.
+251	Nah, seperti yang kalian bisa lihat, di warna gelap dia tuh sedikit ngegaris di dalam bibir.
+252	Nah, seperti yang kalian bisa lihat, di warna gelap dia tuh sedikit ngegaris di dalam bibir.
+253	Nah, seperti yang kalian bisa lihat, di warna gelap dia tuh sedikit ngegaris di dalam bibir.
+254	Nah, seperti yang kalian bisa lihat, di warna gelap dia tuh sedikit ngegaris di dalam bibir.
+255	Nah, seperti yang kalian bisa lihat, di warna gelap dia tuh sedikit ngegaris di dalam bibir.
+256	Nah, seperti yang kalian bisa lihat, di warna gelap dia tuh sedikit ngegaris di dalam bibir. Tapi overall, it's still a good lip tint product.
+257	Tapi overall, it's still a good lip tint product.
+258	Tapi overall, it's still a good lip tint product.
+259	Tapi overall, it's still a good lip tint product.
+260	Tapi overall, it's still a good lip tint product.
+261	Tapi overall, it's still a good lip tint product.
+262	Tapi overall, it's still a good lip tint product. Dan keunggulan lainnya lagi adalah kalian bisa lakukan ini.
+263	Tapi overall, it's still a good lip tint product. Dan keunggulan lainnya lagi adalah kalian bisa lakukan ini.
+264	Dan keunggulan lainnya lagi adalah kalian bisa lakukan ini.
+265	Dan keunggulan lainnya lagi adalah kalian bisa lakukan ini.
+266	Dan keunggulan lainnya lagi adalah kalian bisa lakukan ini.
+267	Dan keunggulan lainnya lagi adalah kalian bisa lakukan ini.
+268	Dan keunggulan lainnya lagi adalah kalian bisa lakukan ini. Dot, terus dijadiin liquid blush.
+269	Dan keunggulan lainnya lagi adalah kalian bisa lakukan ini. Dot, terus dijadiin liquid blush.
+270	Dot, terus dijadiin liquid blush.
+271	Dot, terus dijadiin liquid blush.
+272	Dot, terus dijadiin liquid blush.
+273	Dot, terus dijadiin liquid blush. Jadi kalau lagi mager makeup tuh langsung pakai ini aja gitu.
+274	Dot, terus dijadiin liquid blush. Jadi kalau lagi mager makeup tuh langsung pakai ini aja gitu.
+275	Jadi kalau lagi mager makeup tuh langsung pakai ini aja gitu.
+276	Jadi kalau lagi mager makeup tuh langsung pakai ini aja gitu.
+277	Jadi kalau lagi mager makeup tuh langsung pakai ini aja gitu.
+278	Jadi kalau lagi mager makeup tuh langsung pakai ini aja gitu.
+279	Jadi kalau lagi mager makeup tuh langsung pakai ini aja gitu.
+280	Jadi kalau lagi mager makeup tuh langsung pakai ini aja gitu. Nah, semua lip tint bisa dijadiin kayak liquid blush kayak gini.
+281	Jadi kalau lagi mager makeup tuh langsung pakai ini aja gitu. Nah, semua lip tint bisa dijadiin kayak liquid blush kayak gini.
+282	Nah, semua lip tint bisa dijadiin kayak liquid blush kayak gini.
+283	Nah, semua lip tint bisa dijadiin kayak liquid blush kayak gini.
+284	Nah, semua lip tint bisa dijadiin kayak liquid blush kayak gini.
+285	Nah, semua lip tint bisa dijadiin kayak liquid blush kayak gini.
+286	Nah, semua lip tint bisa dijadiin kayak liquid blush kayak gini.
+287	Nah, semua lip tint bisa dijadiin kayak liquid blush kayak gini.
+288	Nah, semua lip tint bisa dijadiin kayak liquid blush kayak gini. Nah, kalau ditanya jadinya aku lebih suka lip velvet-nya,
+289	Nah, kalau ditanya jadinya aku lebih suka lip velvet-nya,
+290	Nah, kalau ditanya jadinya aku lebih suka lip velvet-nya,
+291	Nah, kalau ditanya jadinya aku lebih suka lip velvet-nya,
+292	Nah, kalau ditanya jadinya aku lebih suka lip velvet-nya,
+293	Nah, kalau ditanya jadinya aku lebih suka lip velvet-nya,
+294	Nah, kalau ditanya jadinya aku lebih suka lip velvet-nya, atau lebih suka lip stain-nya,
+295	Nah, kalau ditanya jadinya aku lebih suka lip velvet-nya, atau lebih suka lip stain-nya,
+296	atau lebih suka lip stain-nya,
+297	atau lebih suka lip stain-nya, jawabannya aku disuka lip velvet-nya.
+298	atau lebih suka lip stain-nya, jawabannya aku disuka lip velvet-nya.
+299	jawabannya aku disuka lip velvet-nya.
+300	jawabannya aku disuka lip velvet-nya.
+301	jawabannya aku disuka lip velvet-nya. Kalau kalian penasaran, sekarang kita akan coba ombre lip velvet-nya dengan lip stain-nya.
+302	jawabannya aku disuka lip velvet-nya. Kalau kalian penasaran, sekarang kita akan coba ombre lip velvet-nya dengan lip stain-nya.
+303	Kalau kalian penasaran, sekarang kita akan coba ombre lip velvet-nya dengan lip stain-nya.
+304	Kalau kalian penasaran, sekarang kita akan coba ombre lip velvet-nya dengan lip stain-nya.
+305	Kalau kalian penasaran, sekarang kita akan coba ombre lip velvet-nya dengan lip stain-nya.
+306	Kalau kalian penasaran, sekarang kita akan coba ombre lip velvet-nya dengan lip stain-nya.
+307	Kalau kalian penasaran, sekarang kita akan coba ombre lip velvet-nya dengan lip stain-nya.
+308	Kalau kalian penasaran, sekarang kita akan coba ombre lip velvet-nya dengan lip stain-nya.
+309	Kalau kalian penasaran, sekarang kita akan coba ombre lip velvet-nya dengan lip stain-nya.
+310	Kalau kalian penasaran, sekarang kita akan coba ombre lip velvet-nya dengan lip stain-nya.
+311	Kalau kalian penasaran, sekarang kita akan coba ombre lip velvet-nya dengan lip stain-nya.
+312	Kalau kalian penasaran, sekarang kita akan coba ombre lip velvet-nya dengan lip stain-nya. Kita bisa pakai lip velvet-nya shade Cordelia yang nude.
+313	Kita bisa pakai lip velvet-nya shade Cordelia yang nude.
+314	Kita bisa pakai lip velvet-nya shade Cordelia yang nude.
+315	Kita bisa pakai lip velvet-nya shade Cordelia yang nude.
+316	Kita bisa pakai lip velvet-nya shade Cordelia yang nude.
+317	Kita bisa pakai lip velvet-nya shade Cordelia yang nude.
+318	Kita bisa pakai lip velvet-nya shade Cordelia yang nude.
+319	Kita bisa pakai lip velvet-nya shade Cordelia yang nude. Kalian bisa lihat ya kalau lip velvet-nya bener-bener langsung smooth.
+320	Kita bisa pakai lip velvet-nya shade Cordelia yang nude. Kalian bisa lihat ya kalau lip velvet-nya bener-bener langsung smooth.
+321	Kalian bisa lihat ya kalau lip velvet-nya bener-bener langsung smooth.
+322	Kalian bisa lihat ya kalau lip velvet-nya bener-bener langsung smooth.
+323	Kalian bisa lihat ya kalau lip velvet-nya bener-bener langsung smooth.
+324	Kalian bisa lihat ya kalau lip velvet-nya bener-bener langsung smooth.
+325	Kalian bisa lihat ya kalau lip velvet-nya bener-bener langsung smooth.
+326	Kalian bisa lihat ya kalau lip velvet-nya bener-bener langsung smooth.
+327	Kalian bisa lihat ya kalau lip velvet-nya bener-bener langsung smooth. Semua tekstur bibir tercover.
+328	Kalian bisa lihat ya kalau lip velvet-nya bener-bener langsung smooth. Semua tekstur bibir tercover.
+329	Semua tekstur bibir tercover.
+330	Semua tekstur bibir tercover.
+331	Semua tekstur bibir tercover.
+332	Semua tekstur bibir tercover. Nyaman banget dipakainya juga.
+333	Nyaman banget dipakainya juga.
+334	Nyaman banget dipakainya juga.
+335	Nyaman banget dipakainya juga.
+336	Nyaman banget dipakainya juga.
+337	Nyaman banget dipakainya juga. Pilihan warnanya cantik-cantik.
+338	Pilihan warnanya cantik-cantik.
+339	Pilihan warnanya cantik-cantik.
+340	Pilihan warnanya cantik-cantik.
+341	Pilihan warnanya cantik-cantik.
+342	Pilihan warnanya cantik-cantik. Aku bener-bener nggak ada perluan sama sekali sama lip velvet-nya.
+343	Pilihan warnanya cantik-cantik. Aku bener-bener nggak ada perluan sama sekali sama lip velvet-nya.
+344	Aku bener-bener nggak ada perluan sama sekali sama lip velvet-nya.
+345	Aku bener-bener nggak ada perluan sama sekali sama lip velvet-nya.
+346	Aku bener-bener nggak ada perluan sama sekali sama lip velvet-nya.
+347	Aku bener-bener nggak ada perluan sama sekali sama lip velvet-nya.
+348	Aku bener-bener nggak ada perluan sama sekali sama lip velvet-nya.
+349	Aku bener-bener nggak ada perluan sama sekali sama lip velvet-nya. Oke, sekarang kita ombre lagi dengan...
+350	Oke, sekarang kita ombre lagi dengan...
+351	Oke, sekarang kita ombre lagi dengan...
+352	Oke, sekarang kita ombre lagi dengan...
+353	Oke, sekarang kita ombre lagi dengan...
+354	Oke, sekarang kita ombre lagi dengan... shade Enigma.
+355	shade Enigma.
+356	shade Enigma. Gorgeous.
+357	shade Enigma. Gorgeous. Dan jadinya nggak ngegaris di dalam bibir karena udah ada lip velvet-nya.
+358	Gorgeous. Dan jadinya nggak ngegaris di dalam bibir karena udah ada lip velvet-nya.
+359	Dan jadinya nggak ngegaris di dalam bibir karena udah ada lip velvet-nya.
+360	Dan jadinya nggak ngegaris di dalam bibir karena udah ada lip velvet-nya.
+361	Dan jadinya nggak ngegaris di dalam bibir karena udah ada lip velvet-nya.
+362	Dan jadinya nggak ngegaris di dalam bibir karena udah ada lip velvet-nya.
+363	Dan jadinya nggak ngegaris di dalam bibir karena udah ada lip velvet-nya.
+364	Dan jadinya nggak ngegaris di dalam bibir karena udah ada lip velvet-nya.
+365	Dan jadinya nggak ngegaris di dalam bibir karena udah ada lip velvet-nya.
+366	Dan jadinya nggak ngegaris di dalam bibir karena udah ada lip velvet-nya. Jadi saran aku, kalau yang bibirnya kering,
+367	Dan jadinya nggak ngegaris di dalam bibir karena udah ada lip velvet-nya. Jadi saran aku, kalau yang bibirnya kering,
+368	Jadi saran aku, kalau yang bibirnya kering,
+369	Jadi saran aku, kalau yang bibirnya kering,
+370	Jadi saran aku, kalau yang bibirnya kering,
+371	Jadi saran aku, kalau yang bibirnya kering, kalian bisa coba combine lip velvet-nya Time For Ya,
+372	Jadi saran aku, kalau yang bibirnya kering, kalian bisa coba combine lip velvet-nya Time For Ya,
+373	kalian bisa coba combine lip velvet-nya Time For Ya,
+374	kalian bisa coba combine lip velvet-nya Time For Ya,
+375	kalian bisa coba combine lip velvet-nya Time For Ya,
+376	kalian bisa coba combine lip velvet-nya Time For Ya,
+377	kalian bisa coba combine lip velvet-nya Time For Ya,
+378	kalian bisa coba combine lip velvet-nya Time For Ya, di-combine dengan lip stain-nya.
+379	di-combine dengan lip stain-nya.
+380	di-combine dengan lip stain-nya.
+381	di-combine dengan lip stain-nya.
+382	di-combine dengan lip stain-nya. Biar hasilnya bisa secantik ini, temen-temen.
+383	di-combine dengan lip stain-nya. Biar hasilnya bisa secantik ini, temen-temen.
+384	Biar hasilnya bisa secantik ini, temen-temen.
+385	Biar hasilnya bisa secantik ini, temen-temen.
+386	Biar hasilnya bisa secantik ini, temen-temen.
+387	Biar hasilnya bisa secantik ini, temen-temen.
+388	Biar hasilnya bisa secantik ini, temen-temen.
+389	Biar hasilnya bisa secantik ini, temen-temen. Sekian review dari saya.
+390	Sekian review dari saya.
+391	Sekian review dari saya. Semoga membantu.
+392	Sekian review dari saya. Semoga membantu.
+393	Semoga membantu. Kalau menurut kalian gimana?
+394	Semoga membantu. Kalau menurut kalian gimana?
+395	Kalau menurut kalian gimana?
+396	Kalau menurut kalian gimana? Kalian lebih suka lip velvet-nya atau lip stain-nya?
+397	Kalau menurut kalian gimana? Kalian lebih suka lip velvet-nya atau lip stain-nya?
+398	Kalian lebih suka lip velvet-nya atau lip stain-nya?
+399	Kalian lebih suka lip velvet-nya atau lip stain-nya?
+400	Kalian lebih suka lip velvet-nya atau lip stain-nya?
+401	Kalian lebih suka lip velvet-nya atau lip stain-nya? Hmm?
+402	Kalian lebih suka lip velvet-nya atau lip stain-nya? Hmm?
+403	Hmm?

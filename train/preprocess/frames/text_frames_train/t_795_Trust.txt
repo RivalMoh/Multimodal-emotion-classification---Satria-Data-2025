@@ -1,0 +1,236 @@
+0	Kalau aku bisa belajar coding dari nol di tahun 2025,
+1	Kalau aku bisa belajar coding dari nol di tahun 2025,
+2	Kalau aku bisa belajar coding dari nol di tahun 2025,
+3	Kalau aku bisa belajar coding dari nol di tahun 2025,
+4	Kalau aku bisa belajar coding dari nol di tahun 2025,
+5	Kalau aku bisa belajar coding dari nol di tahun 2025,
+6	ini yang akan aku lakukan.
+7	ini yang akan aku lakukan.
+8	ini yang akan aku lakukan.
+9	ini yang akan aku lakukan. Selamat datang di series Warung Why.
+10	Selamat datang di series Warung Why.
+11	Selamat datang di series Warung Why.
+12	Selamat datang di series Warung Why.
+13	Selamat datang di series Warung Why. Bukan cuma tahu apa, tapi paham kenapa.
+14	Bukan cuma tahu apa, tapi paham kenapa.
+15	Bukan cuma tahu apa, tapi paham kenapa.
+16	Bukan cuma tahu apa, tapi paham kenapa.
+17	Bukan cuma tahu apa, tapi paham kenapa. Sebelumnya kita udah ngebahas belajar coding di era gempuran AI,
+18	Bukan cuma tahu apa, tapi paham kenapa. Sebelumnya kita udah ngebahas belajar coding di era gempuran AI,
+19	Sebelumnya kita udah ngebahas belajar coding di era gempuran AI,
+20	Sebelumnya kita udah ngebahas belajar coding di era gempuran AI,
+21	Sebelumnya kita udah ngebahas belajar coding di era gempuran AI,
+22	Sebelumnya kita udah ngebahas belajar coding di era gempuran AI,
+23	Sebelumnya kita udah ngebahas belajar coding di era gempuran AI, jadi kali ini aku bakal langsung aja spill
+24	jadi kali ini aku bakal langsung aja spill
+25	jadi kali ini aku bakal langsung aja spill
+26	jadi kali ini aku bakal langsung aja spill
+27	jadi kali ini aku bakal langsung aja spill gimana cara aku akan belajar coding dari nol
+28	jadi kali ini aku bakal langsung aja spill gimana cara aku akan belajar coding dari nol
+29	gimana cara aku akan belajar coding dari nol
+30	gimana cara aku akan belajar coding dari nol
+31	gimana cara aku akan belajar coding dari nol
+32	gimana cara aku akan belajar coding dari nol kalau aku mulai di tahun ini.
+33	gimana cara aku akan belajar coding dari nol kalau aku mulai di tahun ini.
+34	kalau aku mulai di tahun ini.
+35	kalau aku mulai di tahun ini.
+36	kalau aku mulai di tahun ini. Yang pertama, aku bakal fokus ke pemahaman aku
+37	Yang pertama, aku bakal fokus ke pemahaman aku
+38	Yang pertama, aku bakal fokus ke pemahaman aku
+39	Yang pertama, aku bakal fokus ke pemahaman aku
+40	Yang pertama, aku bakal fokus ke pemahaman aku
+41	Yang pertama, aku bakal fokus ke pemahaman aku di struktur data dan algoritma.
+42	Yang pertama, aku bakal fokus ke pemahaman aku di struktur data dan algoritma.
+43	di struktur data dan algoritma.
+44	di struktur data dan algoritma.
+45	di struktur data dan algoritma. Setelah bertahun-tahun belajar coding,
+46	di struktur data dan algoritma. Setelah bertahun-tahun belajar coding,
+47	Setelah bertahun-tahun belajar coding,
+48	Setelah bertahun-tahun belajar coding,
+49	Setelah bertahun-tahun belajar coding, aku sadar bahwa foundation inilah sebenarnya
+50	aku sadar bahwa foundation inilah sebenarnya
+51	aku sadar bahwa foundation inilah sebenarnya
+52	aku sadar bahwa foundation inilah sebenarnya
+53	aku sadar bahwa foundation inilah sebenarnya
+54	aku sadar bahwa foundation inilah sebenarnya pemahaman kita di sinilah yang sangat ngebentuk
+55	aku sadar bahwa foundation inilah sebenarnya pemahaman kita di sinilah yang sangat ngebentuk
+56	pemahaman kita di sinilah yang sangat ngebentuk
+57	pemahaman kita di sinilah yang sangat ngebentuk
+58	pemahaman kita di sinilah yang sangat ngebentuk
+59	pemahaman kita di sinilah yang sangat ngebentuk cara berpikir kita dalam ngedevelop
+60	pemahaman kita di sinilah yang sangat ngebentuk cara berpikir kita dalam ngedevelop
+61	cara berpikir kita dalam ngedevelop
+62	cara berpikir kita dalam ngedevelop
+63	cara berpikir kita dalam ngedevelop atau mengembangkan sebuah software.
+64	cara berpikir kita dalam ngedevelop atau mengembangkan sebuah software.
+65	atau mengembangkan sebuah software.
+66	atau mengembangkan sebuah software.
+67	atau mengembangkan sebuah software. So, solidify your foundations.
+68	atau mengembangkan sebuah software. So, solidify your foundations.
+69	So, solidify your foundations.
+70	So, solidify your foundations.
+71	So, solidify your foundations.
+72	So, solidify your foundations. Yang kedua, aku bakal learn by doing.
+73	Yang kedua, aku bakal learn by doing.
+74	Yang kedua, aku bakal learn by doing.
+75	Yang kedua, aku bakal learn by doing.
+76	Yang kedua, aku bakal learn by doing. Belajar teori itu penting,
+77	Yang kedua, aku bakal learn by doing. Belajar teori itu penting,
+78	Belajar teori itu penting,
+79	Belajar teori itu penting, tapi personally aku sadar kalau aku mau nge-level up
+80	Belajar teori itu penting, tapi personally aku sadar kalau aku mau nge-level up
+81	tapi personally aku sadar kalau aku mau nge-level up
+82	tapi personally aku sadar kalau aku mau nge-level up
+83	tapi personally aku sadar kalau aku mau nge-level up
+84	tapi personally aku sadar kalau aku mau nge-level up
+85	tapi personally aku sadar kalau aku mau nge-level up skill coding aku itu sendiri,
+86	tapi personally aku sadar kalau aku mau nge-level up skill coding aku itu sendiri,
+87	skill coding aku itu sendiri,
+88	skill coding aku itu sendiri,
+89	skill coding aku itu sendiri, terefektif caranya adalah dengan meluncur ke project
+90	terefektif caranya adalah dengan meluncur ke project
+91	terefektif caranya adalah dengan meluncur ke project
+92	terefektif caranya adalah dengan meluncur ke project
+93	terefektif caranya adalah dengan meluncur ke project
+94	terefektif caranya adalah dengan meluncur ke project atau ke real life application
+95	terefektif caranya adalah dengan meluncur ke project atau ke real life application
+96	atau ke real life application
+97	atau ke real life application
+98	atau ke real life application yang kita bisa lihat di kehidupan sehari-hari.
+99	atau ke real life application yang kita bisa lihat di kehidupan sehari-hari.
+100	yang kita bisa lihat di kehidupan sehari-hari.
+101	yang kita bisa lihat di kehidupan sehari-hari.
+102	yang kita bisa lihat di kehidupan sehari-hari. Ngelatih pola pikir kita secara langsung.
+103	yang kita bisa lihat di kehidupan sehari-hari. Ngelatih pola pikir kita secara langsung.
+104	Ngelatih pola pikir kita secara langsung.
+105	Ngelatih pola pikir kita secara langsung.
+106	Ngelatih pola pikir kita secara langsung.
+107	Ngelatih pola pikir kita secara langsung.
+108	Ngelatih pola pikir kita secara langsung. Ketiga, ini aku sempat bahas secara detail,
+109	Ketiga, ini aku sempat bahas secara detail,
+110	Ketiga, ini aku sempat bahas secara detail,
+111	Ketiga, ini aku sempat bahas secara detail,
+112	Ketiga, ini aku sempat bahas secara detail, kalian bisa cek di video YouTube.
+113	kalian bisa cek di video YouTube.
+114	kalian bisa cek di video YouTube. Yang ketiga, ini aku sempat bahas secara detail, 
+115	kalian bisa cek di video YouTube. Yang ketiga, ini aku sempat bahas secara detail,  Aku adalah having the right mindset.
+116	Aku adalah having the right mindset.
+117	Aku adalah having the right mindset.
+118	Aku adalah having the right mindset.
+119	Aku adalah having the right mindset. Belajar coding itu bukan perjalanan yang mulus
+120	Aku adalah having the right mindset. Belajar coding itu bukan perjalanan yang mulus
+121	Belajar coding itu bukan perjalanan yang mulus
+122	Belajar coding itu bukan perjalanan yang mulus
+123	Belajar coding itu bukan perjalanan yang mulus
+124	Belajar coding itu bukan perjalanan yang mulus
+125	Belajar coding itu bukan perjalanan yang mulus seperti kita belajar hal-hal baru lainnya ya.
+126	Belajar coding itu bukan perjalanan yang mulus seperti kita belajar hal-hal baru lainnya ya.
+127	seperti kita belajar hal-hal baru lainnya ya.
+128	seperti kita belajar hal-hal baru lainnya ya.
+129	seperti kita belajar hal-hal baru lainnya ya. Justru kesusahan kalian atau kesulitan kalian itulah
+130	Justru kesusahan kalian atau kesulitan kalian itulah
+131	Justru kesusahan kalian atau kesulitan kalian itulah
+132	Justru kesusahan kalian atau kesulitan kalian itulah
+133	Justru kesusahan kalian atau kesulitan kalian itulah
+134	Justru kesusahan kalian atau kesulitan kalian itulah yang mengartikan bahwa kalian sedang belajar.
+135	Justru kesusahan kalian atau kesulitan kalian itulah yang mengartikan bahwa kalian sedang belajar.
+136	yang mengartikan bahwa kalian sedang belajar.
+137	yang mengartikan bahwa kalian sedang belajar.
+138	yang mengartikan bahwa kalian sedang belajar. Yang keempat, yang akan aku lakukan berbeda di 2025 ini
+139	yang mengartikan bahwa kalian sedang belajar. Yang keempat, yang akan aku lakukan berbeda di 2025 ini
+140	Yang keempat, yang akan aku lakukan berbeda di 2025 ini
+141	Yang keempat, yang akan aku lakukan berbeda di 2025 ini
+142	Yang keempat, yang akan aku lakukan berbeda di 2025 ini
+143	Yang keempat, yang akan aku lakukan berbeda di 2025 ini
+144	Yang keempat, yang akan aku lakukan berbeda di 2025 ini
+145	Yang keempat, yang akan aku lakukan berbeda di 2025 ini adalah aku bakal pakai generative AI
+146	Yang keempat, yang akan aku lakukan berbeda di 2025 ini adalah aku bakal pakai generative AI
+147	adalah aku bakal pakai generative AI
+148	adalah aku bakal pakai generative AI
+149	adalah aku bakal pakai generative AI untuk ngajarin aku cara coding.
+150	adalah aku bakal pakai generative AI untuk ngajarin aku cara coding.
+151	adalah aku bakal pakai generative AI untuk ngajarin aku cara coding.
+152	untuk ngajarin aku cara coding.
+153	untuk ngajarin aku cara coding.
+154	untuk ngajarin aku cara coding.
+155	untuk ngajarin aku cara coding. Ingat ya, ngajarin bukan buatin.
+156	Ingat ya, ngajarin bukan buatin.
+157	Ingat ya, ngajarin bukan buatin.
+158	Ingat ya, ngajarin bukan buatin.
+159	Ingat ya, ngajarin bukan buatin.
+160	Ingat ya, ngajarin bukan buatin. Misalnya yang buatin AI yang pada akhirnya
+161	Ingat ya, ngajarin bukan buatin. Misalnya yang buatin AI yang pada akhirnya
+162	Misalnya yang buatin AI yang pada akhirnya
+163	Misalnya yang buatin AI yang pada akhirnya
+164	Misalnya yang buatin AI yang pada akhirnya yang belajar bukan kita.
+165	Misalnya yang buatin AI yang pada akhirnya yang belajar bukan kita.
+166	yang belajar bukan kita. Dulu, waktu aku pertama kali belajar coding,
+167	yang belajar bukan kita. Dulu, waktu aku pertama kali belajar coding,
+168	Dulu, waktu aku pertama kali belajar coding,
+169	Dulu, waktu aku pertama kali belajar coding,
+170	Dulu, waktu aku pertama kali belajar coding,
+171	Dulu, waktu aku pertama kali belajar coding, aku harus cari tutorial di
+172	aku harus cari tutorial di
+173	aku harus cari tutorial di
+174	aku harus cari tutorial di web atau video macam-macam.
+175	aku harus cari tutorial di web atau video macam-macam.
+176	web atau video macam-macam.
+177	web atau video macam-macam. Jadi itu untuk bisa buat timer aja tuh
+178	web atau video macam-macam. Jadi itu untuk bisa buat timer aja tuh
+179	Jadi itu untuk bisa buat timer aja tuh
+180	Jadi itu untuk bisa buat timer aja tuh
+181	Jadi itu untuk bisa buat timer aja tuh
+182	Jadi itu untuk bisa buat timer aja tuh aku butuh berhari-hari.
+183	Jadi itu untuk bisa buat timer aja tuh aku butuh berhari-hari.
+184	aku butuh berhari-hari.
+185	aku butuh berhari-hari. Ibarat kalau misalnya zaman dulu tuh
+186	aku butuh berhari-hari. Ibarat kalau misalnya zaman dulu tuh
+187	Ibarat kalau misalnya zaman dulu tuh
+188	Ibarat kalau misalnya zaman dulu tuh
+189	Ibarat kalau misalnya zaman dulu tuh kita harus belajar dari buku,
+190	Ibarat kalau misalnya zaman dulu tuh kita harus belajar dari buku,
+191	kita harus belajar dari buku,
+192	kita harus belajar dari buku, lama-kelamaan kita bisa searching internet,
+193	kita harus belajar dari buku, lama-kelamaan kita bisa searching internet,
+194	lama-kelamaan kita bisa searching internet,
+195	lama-kelamaan kita bisa searching internet,
+196	lama-kelamaan kita bisa searching internet, sekarang muncullah generative AI
+197	sekarang muncullah generative AI
+198	sekarang muncullah generative AI
+199	sekarang muncullah generative AI yang bisa membantu kita untuk belajar.
+200	sekarang muncullah generative AI yang bisa membantu kita untuk belajar.
+201	yang bisa membantu kita untuk belajar.
+202	yang bisa membantu kita untuk belajar.
+203	yang bisa membantu kita untuk belajar. Tapi pastinya gunakan saat diperlukan saja ya,
+204	yang bisa membantu kita untuk belajar. Tapi pastinya gunakan saat diperlukan saja ya,
+205	Tapi pastinya gunakan saat diperlukan saja ya,
+206	Tapi pastinya gunakan saat diperlukan saja ya,
+207	Tapi pastinya gunakan saat diperlukan saja ya,
+208	Tapi pastinya gunakan saat diperlukan saja ya,
+209	Tapi pastinya gunakan saat diperlukan saja ya, karena kita harus menjadi pengguna yang bijak.
+210	Tapi pastinya gunakan saat diperlukan saja ya, karena kita harus menjadi pengguna yang bijak.
+211	karena kita harus menjadi pengguna yang bijak.
+212	karena kita harus menjadi pengguna yang bijak.
+213	karena kita harus menjadi pengguna yang bijak. Mau tau juga dong cerita-cerita kalian
+214	karena kita harus menjadi pengguna yang bijak. Mau tau juga dong cerita-cerita kalian
+215	Mau tau juga dong cerita-cerita kalian
+216	Mau tau juga dong cerita-cerita kalian belajar coding itu kayak gimana?
+217	Mau tau juga dong cerita-cerita kalian belajar coding itu kayak gimana?
+218	belajar coding itu kayak gimana?
+219	belajar coding itu kayak gimana?
+220	belajar coding itu kayak gimana? Semoga aku bisa buat teknologi dan coding fun for everyone.
+221	Semoga aku bisa buat teknologi dan coding fun for everyone.
+222	Semoga aku bisa buat teknologi dan coding fun for everyone.
+223	Semoga aku bisa buat teknologi dan coding fun for everyone.
+224	Semoga aku bisa buat teknologi dan coding fun for everyone.
+225	Semoga aku bisa buat teknologi dan coding fun for everyone.
+226	Semoga aku bisa buat teknologi dan coding fun for everyone. Sampai ketemu di resep selanjutnya.
+227	Semoga aku bisa buat teknologi dan coding fun for everyone. Sampai ketemu di resep selanjutnya.
+228	Sampai ketemu di resep selanjutnya.
+229	Sampai ketemu di resep selanjutnya. Dadah!
+230	Sampai ketemu di resep selanjutnya. Dadah!
+231	Dadah!
+232	[NO_SPEECH]
+233	[NO_SPEECH]
+234	Subtitles by the Amara.org community
+235	Subtitles by the Amara.org community

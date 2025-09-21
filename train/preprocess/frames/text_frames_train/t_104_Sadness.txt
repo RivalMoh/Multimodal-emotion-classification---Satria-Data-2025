@@ -1,0 +1,109 @@
+0	Barang wajib yang perlu aku bawa
+1	Barang wajib yang perlu aku bawa
+2	Barang wajib yang perlu aku bawa
+3	Barang wajib yang perlu aku bawa
+4	Barang wajib yang perlu aku bawa
+5	Barang wajib yang perlu aku bawa Pas lagi
+6	Barang wajib yang perlu aku bawa Pas lagi Pedal selain raket
+7	Pas lagi Pedal selain raket
+8	Pedal selain raket
+9	Pedal selain raket Selain raket
+10	Pedal selain raket Selain raket
+11	Selain raket
+12	Selain raket Banyak banget
+13	Selain raket Banyak banget
+14	Banyak banget
+15	Banyak banget Yang harus dibawa pas pedal
+16	Banyak banget Yang harus dibawa pas pedal
+17	Yang harus dibawa pas pedal
+18	Yang harus dibawa pas pedal
+19	Yang harus dibawa pas pedal Tumbler
+20	Yang harus dibawa pas pedal Tumbler
+21	Tumbler Ikat rambut
+22	Tumbler Ikat rambut
+23	Ikat rambut Cipas
+24	Ikat rambut Cipas
+25	Cipas Patung
+26	Cipas Patung
+27	Patung Handuk
+28	Patung Handuk
+29	Handuk Karet rambut
+30	Handuk Karet rambut
+31	Karet rambut Kinum
+32	Karet rambut Kinum
+33	Kinum Patung
+34	Kinum Patung
+35	Patung Ikatan rambut kali ya
+36	Patung Ikatan rambut kali ya
+37	Ikatan rambut kali ya
+38	Ikatan rambut kali ya Tumbler
+39	Ikatan rambut kali ya Tumbler Anduk kecil
+40	Tumbler Anduk kecil
+41	Anduk kecil Patung
+42	Anduk kecil Patung
+43	Patung Pas pedal sih
+44	Patung Pas pedal sih
+45	Pas pedal sih
+46	Pas pedal sih Jadi aku bisa isi sepatu, bola, anduk, baju ganti
+47	Pas pedal sih Jadi aku bisa isi sepatu, bola, anduk, baju ganti
+48	Jadi aku bisa isi sepatu, bola, anduk, baju ganti
+49	Jadi aku bisa isi sepatu, bola, anduk, baju ganti
+50	Jadi aku bisa isi sepatu, bola, anduk, baju ganti
+51	Jadi aku bisa isi sepatu, bola, anduk, baju ganti
+52	Jadi aku bisa isi sepatu, bola, anduk, baju ganti
+53	Jadi aku bisa isi sepatu, bola, anduk, baju ganti
+54	Jadi aku bisa isi sepatu, bola, anduk, baju ganti Kalau aku udah pasti harus bawa potongan
+55	Jadi aku bisa isi sepatu, bola, anduk, baju ganti Kalau aku udah pasti harus bawa potongan
+56	Kalau aku udah pasti harus bawa potongan
+57	Kalau aku udah pasti harus bawa potongan
+58	Kalau aku udah pasti harus bawa potongan Iya wajib
+59	Kalau aku udah pasti harus bawa potongan Iya wajib
+60	Iya wajib
+61	Iya wajib Bener
+62	Iya wajib Bener Aku juga harus wajib bawa anduk
+63	Bener Aku juga harus wajib bawa anduk
+64	Aku juga harus wajib bawa anduk
+65	Aku juga harus wajib bawa anduk
+66	Aku juga harus wajib bawa anduk
+67	Aku juga harus wajib bawa anduk Karena keringet
+68	Aku juga harus wajib bawa anduk Karena keringet
+69	Karena keringet
+70	Karena keringet
+71	Sepatu
+72	Sepatu Minimal dua
+73	Sepatu Minimal dua
+74	Minimal dua Kaut kaki
+75	Minimal dua Kaut kaki
+76	Kaut kaki
+77	Kaut kaki
+78	Kaut kaki Handband
+79	Kaut kaki Handband Punciran
+80	Handband Punciran
+81	Punciran
+82	Punciran Sisir
+83	Punciran Sisir Itu sih paling penting
+84	Sisir Itu sih paling penting
+85	Itu sih paling penting
+86	Itu sih paling penting Pastinya lifting
+87	Itu sih paling penting Pastinya lifting
+88	Pastinya lifting
+89	Pastinya lifting
+90	Pastinya lifting Karena kalau bersuapin bisa
+91	Pastinya lifting Karena kalau bersuapin bisa
+92	Karena kalau bersuapin bisa
+93	Karena kalau bersuapin bisa
+94	Karena kalau bersuapin bisa Gak perlu touch up
+95	Karena kalau bersuapin bisa Gak perlu touch up
+96	Gak perlu touch up Keringet
+97	Gak perlu touch up Keringet Waktu di diri tetap
+98	Keringet Waktu di diri tetap
+99	Waktu di diri tetap Berumah
+100	Waktu di diri tetap Berumah
+101	Berumah
+102	[NO_SPEECH]
+103	[NO_SPEECH]
+104	[NO_SPEECH]
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	[NO_SPEECH]
+108	[NO_SPEECH]

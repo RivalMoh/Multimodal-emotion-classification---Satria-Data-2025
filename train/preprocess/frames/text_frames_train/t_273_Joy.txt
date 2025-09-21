@@ -1,0 +1,215 @@
+0	Jadi karena aku acne prone, aku itu sangat spesifik tentang tekstur skincare.
+1	Jadi karena aku acne prone, aku itu sangat spesifik tentang tekstur skincare.
+2	Jadi karena aku acne prone, aku itu sangat spesifik tentang tekstur skincare.
+3	Jadi karena aku acne prone, aku itu sangat spesifik tentang tekstur skincare.
+4	Jadi karena aku acne prone, aku itu sangat spesifik tentang tekstur skincare.
+5	Jadi karena aku acne prone, aku itu sangat spesifik tentang tekstur skincare.
+6	Jadi karena aku acne prone, aku itu sangat spesifik tentang tekstur skincare.
+7	Jadi karena aku acne prone, aku itu sangat spesifik tentang tekstur skincare.
+8	Jadi karena aku acne prone, aku itu sangat spesifik tentang tekstur skincare.
+9	Jadi karena aku acne prone, aku itu sangat spesifik tentang tekstur skincare. Aku bingung banget karena dia ada active ingredients, tapi dia sangat ringan di wajah aku.
+10	Aku bingung banget karena dia ada active ingredients, tapi dia sangat ringan di wajah aku.
+11	Aku bingung banget karena dia ada active ingredients, tapi dia sangat ringan di wajah aku.
+12	Aku bingung banget karena dia ada active ingredients, tapi dia sangat ringan di wajah aku.
+13	Aku bingung banget karena dia ada active ingredients, tapi dia sangat ringan di wajah aku.
+14	Aku bingung banget karena dia ada active ingredients, tapi dia sangat ringan di wajah aku.
+15	Aku bingung banget karena dia ada active ingredients, tapi dia sangat ringan di wajah aku.
+16	Aku bingung banget karena dia ada active ingredients, tapi dia sangat ringan di wajah aku.
+17	Aku bingung banget karena dia ada active ingredients, tapi dia sangat ringan di wajah aku.
+18	Aku bingung banget karena dia ada active ingredients, tapi dia sangat ringan di wajah aku.
+19	Aku bingung banget karena dia ada active ingredients, tapi dia sangat ringan di wajah aku. Terus dia nggak bikin redness, nggak bikin iritasi, nggak bikin dry patches.
+20	Terus dia nggak bikin redness, nggak bikin iritasi, nggak bikin dry patches.
+21	Terus dia nggak bikin redness, nggak bikin iritasi, nggak bikin dry patches.
+22	Terus dia nggak bikin redness, nggak bikin iritasi, nggak bikin dry patches.
+23	Terus dia nggak bikin redness, nggak bikin iritasi, nggak bikin dry patches.
+24	Terus dia nggak bikin redness, nggak bikin iritasi, nggak bikin dry patches.
+25	Terus dia nggak bikin redness, nggak bikin iritasi, nggak bikin dry patches.
+26	Terus dia nggak bikin redness, nggak bikin iritasi, nggak bikin dry patches.
+27	Terus dia nggak bikin redness, nggak bikin iritasi, nggak bikin dry patches. So I'm really happy about this one.
+28	Terus dia nggak bikin redness, nggak bikin iritasi, nggak bikin dry patches. So I'm really happy about this one.
+29	So I'm really happy about this one.
+30	So I'm really happy about this one.
+31	So I'm really happy about this one.
+32	So I'm really happy about this one.
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	Yang warna silver ini, kandungannya itu ada retinal dan sistiamin.
+39	Yang warna silver ini, kandungannya itu ada retinal dan sistiamin.
+40	Yang warna silver ini, kandungannya itu ada retinal dan sistiamin.
+41	Yang warna silver ini, kandungannya itu ada retinal dan sistiamin.
+42	Yang warna silver ini, kandungannya itu ada retinal dan sistiamin.
+43	Yang warna silver ini, kandungannya itu ada retinal dan sistiamin.
+44	Yang warna silver ini, kandungannya itu ada retinal dan sistiamin.
+45	Yang warna silver ini, kandungannya itu ada retinal dan sistiamin.
+46	Yang warna silver ini, kandungannya itu ada retinal dan sistiamin.
+47	Yang warna silver ini, kandungannya itu ada retinal dan sistiamin. Fungsinya itu bisa untuk hyperpigmentation gitu ya.
+48	Fungsinya itu bisa untuk hyperpigmentation gitu ya.
+49	Fungsinya itu bisa untuk hyperpigmentation gitu ya.
+50	Fungsinya itu bisa untuk hyperpigmentation gitu ya.
+51	Fungsinya itu bisa untuk hyperpigmentation gitu ya.
+52	Fungsinya itu bisa untuk hyperpigmentation gitu ya. Kemudian untuk kulit kusam atau dark spot yang susah hilang.
+53	Fungsinya itu bisa untuk hyperpigmentation gitu ya. Kemudian untuk kulit kusam atau dark spot yang susah hilang.
+54	Kemudian untuk kulit kusam atau dark spot yang susah hilang.
+55	Kemudian untuk kulit kusam atau dark spot yang susah hilang.
+56	Kemudian untuk kulit kusam atau dark spot yang susah hilang.
+57	Kemudian untuk kulit kusam atau dark spot yang susah hilang.
+58	Kemudian untuk kulit kusam atau dark spot yang susah hilang.
+59	Kemudian untuk kulit kusam atau dark spot yang susah hilang.
+60	Kemudian untuk kulit kusam atau dark spot yang susah hilang. Untuk yang warna toska ini, kandungannya ada PDRN, kemudian ada exosome, dan ada epidermal growth factor.
+61	Untuk yang warna toska ini, kandungannya ada PDRN, kemudian ada exosome, dan ada epidermal growth factor.
+62	Untuk yang warna toska ini, kandungannya ada PDRN, kemudian ada exosome, dan ada epidermal growth factor.
+63	Untuk yang warna toska ini, kandungannya ada PDRN, kemudian ada exosome, dan ada epidermal growth factor.
+64	Untuk yang warna toska ini, kandungannya ada PDRN, kemudian ada exosome, dan ada epidermal growth factor.
+65	Untuk yang warna toska ini, kandungannya ada PDRN, kemudian ada exosome, dan ada epidermal growth factor.
+66	Untuk yang warna toska ini, kandungannya ada PDRN, kemudian ada exosome, dan ada epidermal growth factor.
+67	Untuk yang warna toska ini, kandungannya ada PDRN, kemudian ada exosome, dan ada epidermal growth factor.
+68	Untuk yang warna toska ini, kandungannya ada PDRN, kemudian ada exosome, dan ada epidermal growth factor.
+69	Untuk yang warna toska ini, kandungannya ada PDRN, kemudian ada exosome, dan ada epidermal growth factor.
+70	Untuk yang warna toska ini, kandungannya ada PDRN, kemudian ada exosome, dan ada epidermal growth factor.
+71	Untuk yang warna toska ini, kandungannya ada PDRN, kemudian ada exosome, dan ada epidermal growth factor.
+72	Untuk yang warna toska ini, kandungannya ada PDRN, kemudian ada exosome, dan ada epidermal growth factor.
+73	Untuk yang warna toska ini, kandungannya ada PDRN, kemudian ada exosome, dan ada epidermal growth factor.
+74	Untuk yang warna toska ini, kandungannya ada PDRN, kemudian ada exosome, dan ada epidermal growth factor.
+75	Untuk yang warna toska ini, kandungannya ada PDRN, kemudian ada exosome, dan ada epidermal growth factor. Biasanya ingredients-ingredients itu tuh digunakan di skin booster.
+76	Biasanya ingredients-ingredients itu tuh digunakan di skin booster.
+77	Biasanya ingredients-ingredients itu tuh digunakan di skin booster.
+78	Biasanya ingredients-ingredients itu tuh digunakan di skin booster.
+79	Biasanya ingredients-ingredients itu tuh digunakan di skin booster.
+80	Biasanya ingredients-ingredients itu tuh digunakan di skin booster.
+81	Biasanya ingredients-ingredients itu tuh digunakan di skin booster.
+82	Biasanya ingredients-ingredients itu tuh digunakan di skin booster.
+83	Biasanya ingredients-ingredients itu tuh digunakan di skin booster. Kalau di treatment yang biasa disuntik tuh pake jarum.
+84	Biasanya ingredients-ingredients itu tuh digunakan di skin booster. Kalau di treatment yang biasa disuntik tuh pake jarum.
+85	Kalau di treatment yang biasa disuntik tuh pake jarum.
+86	Kalau di treatment yang biasa disuntik tuh pake jarum.
+87	Kalau di treatment yang biasa disuntik tuh pake jarum.
+88	Kalau di treatment yang biasa disuntik tuh pake jarum.
+89	Kalau di treatment yang biasa disuntik tuh pake jarum. Yang mungkin harganya tuh jutaan.
+90	Kalau di treatment yang biasa disuntik tuh pake jarum. Yang mungkin harganya tuh jutaan.
+91	Yang mungkin harganya tuh jutaan.
+92	Yang mungkin harganya tuh jutaan.
+93	Yang mungkin harganya tuh jutaan.
+94	[NO_SPEECH]
+95	Dan sistiamin ini cara kerjanya juga luar biasa menurut aku.
+96	Dan sistiamin ini cara kerjanya juga luar biasa menurut aku.
+97	Dan sistiamin ini cara kerjanya juga luar biasa menurut aku.
+98	Dan sistiamin ini cara kerjanya juga luar biasa menurut aku.
+99	Dan sistiamin ini cara kerjanya juga luar biasa menurut aku.
+100	Dan sistiamin ini cara kerjanya juga luar biasa menurut aku. Karena pembentukan hyperpigmentation itu kan kompleks prosesnya.
+101	Dan sistiamin ini cara kerjanya juga luar biasa menurut aku. Karena pembentukan hyperpigmentation itu kan kompleks prosesnya.
+102	Karena pembentukan hyperpigmentation itu kan kompleks prosesnya.
+103	Karena pembentukan hyperpigmentation itu kan kompleks prosesnya.
+104	Karena pembentukan hyperpigmentation itu kan kompleks prosesnya.
+105	Karena pembentukan hyperpigmentation itu kan kompleks prosesnya.
+106	Karena pembentukan hyperpigmentation itu kan kompleks prosesnya.
+107	Karena pembentukan hyperpigmentation itu kan kompleks prosesnya.
+108	Karena pembentukan hyperpigmentation itu kan kompleks prosesnya. Dan dia tuh menyasar banyak banget mekaniknya.
+109	Karena pembentukan hyperpigmentation itu kan kompleks prosesnya. Dan dia tuh menyasar banyak banget mekaniknya.
+110	Dan dia tuh menyasar banyak banget mekaniknya.
+111	Dan dia tuh menyasar banyak banget mekaniknya.
+112	Dan dia tuh menyasar banyak banget mekaniknya. Mekanisme-mekanisme pembentukan melanin pada kulit.
+113	Dan dia tuh menyasar banyak banget mekaniknya. Mekanisme-mekanisme pembentukan melanin pada kulit.
+114	Mekanisme-mekanisme pembentukan melanin pada kulit.
+115	Mekanisme-mekanisme pembentukan melanin pada kulit.
+116	Mekanisme-mekanisme pembentukan melanin pada kulit.
+117	Mekanisme-mekanisme pembentukan melanin pada kulit.
+118	Mekanisme-mekanisme pembentukan melanin pada kulit. Jadi bagus banget.
+119	Mekanisme-mekanisme pembentukan melanin pada kulit. Jadi bagus banget.
+120	Jadi bagus banget.
+121	Jadi bagus banget. Terutama apalagi digabungkan secara bersamaan.
+122	Terutama apalagi digabungkan secara bersamaan.
+123	Terutama apalagi digabungkan secara bersamaan.
+124	Terutama apalagi digabungkan secara bersamaan.
+125	Terutama apalagi digabungkan secara bersamaan.
+126	Terutama apalagi digabungkan secara bersamaan.
+127	Terutama apalagi digabungkan secara bersamaan.
+128	Regenerasinya dapet dari retinal.
+129	Regenerasinya dapet dari retinal.
+130	Regenerasinya dapet dari retinal.
+131	Regenerasinya dapet dari retinal. Terus untuk hyperpigmentasinya dapet dari sistiamin.
+132	Regenerasinya dapet dari retinal. Terus untuk hyperpigmentasinya dapet dari sistiamin.
+133	Terus untuk hyperpigmentasinya dapet dari sistiamin.
+134	Terus untuk hyperpigmentasinya dapet dari sistiamin.
+135	Terus untuk hyperpigmentasinya dapet dari sistiamin.
+136	Terus untuk hyperpigmentasinya dapet dari sistiamin.
+137	Terus untuk hyperpigmentasinya dapet dari sistiamin. Jadi langsung kulit bisa terlihat lebih cerah.
+138	Terus untuk hyperpigmentasinya dapet dari sistiamin. Jadi langsung kulit bisa terlihat lebih cerah.
+139	Jadi langsung kulit bisa terlihat lebih cerah.
+140	Jadi langsung kulit bisa terlihat lebih cerah.
+141	Jadi langsung kulit bisa terlihat lebih cerah. Tekstur juga merata.
+142	Jadi langsung kulit bisa terlihat lebih cerah. Tekstur juga merata.
+143	Tekstur juga merata.
+144	Tekstur juga merata. Semua skin goals-skin goals bisa lebih tercapai gitu ya.
+145	Tekstur juga merata. Semua skin goals-skin goals bisa lebih tercapai gitu ya.
+146	Semua skin goals-skin goals bisa lebih tercapai gitu ya.
+147	Semua skin goals-skin goals bisa lebih tercapai gitu ya.
+148	Semua skin goals-skin goals bisa lebih tercapai gitu ya.
+149	Semua skin goals-skin goals bisa lebih tercapai gitu ya.
+150	Semua skin goals-skin goals bisa lebih tercapai gitu ya. Sepertinya hanya dengan satu produk ini gitu.
+151	Semua skin goals-skin goals bisa lebih tercapai gitu ya. Sepertinya hanya dengan satu produk ini gitu.
+152	Sepertinya hanya dengan satu produk ini gitu.
+153	Sepertinya hanya dengan satu produk ini gitu.
+154	Sepertinya hanya dengan satu produk ini gitu.
+155	Sepertinya hanya dengan satu produk ini gitu.
+156	[NO_SPEECH]
+157	[NO_SPEECH]
+158	[NO_SPEECH]
+159	Ini sebenernya teman-teman adalah serum pertama di Indonesia yang mengandung vegan exosome.
+160	Ini sebenernya teman-teman adalah serum pertama di Indonesia yang mengandung vegan exosome.
+161	Ini sebenernya teman-teman adalah serum pertama di Indonesia yang mengandung vegan exosome.
+162	Ini sebenernya teman-teman adalah serum pertama di Indonesia yang mengandung vegan exosome.
+163	Ini sebenernya teman-teman adalah serum pertama di Indonesia yang mengandung vegan exosome.
+164	Ini sebenernya teman-teman adalah serum pertama di Indonesia yang mengandung vegan exosome.
+165	Ini sebenernya teman-teman adalah serum pertama di Indonesia yang mengandung vegan exosome.
+166	Ini sebenernya teman-teman adalah serum pertama di Indonesia yang mengandung vegan exosome.
+167	Ini sebenernya teman-teman adalah serum pertama di Indonesia yang mengandung vegan exosome.
+168	Ini sebenernya teman-teman adalah serum pertama di Indonesia yang mengandung vegan exosome.
+169	Ini sebenernya teman-teman adalah serum pertama di Indonesia yang mengandung vegan exosome. Fungsinya memang...
+170	Ini sebenernya teman-teman adalah serum pertama di Indonesia yang mengandung vegan exosome. Fungsinya memang...
+171	Fungsinya memang...
+172	Fungsinya memang... Exosome itu seperti kayak kurir gitu.
+173	Fungsinya memang... Exosome itu seperti kayak kurir gitu.
+174	Exosome itu seperti kayak kurir gitu.
+175	Exosome itu seperti kayak kurir gitu.
+176	Exosome itu seperti kayak kurir gitu. Yang membawa pesan kayak ke kulit gitu ya.
+177	Exosome itu seperti kayak kurir gitu. Yang membawa pesan kayak ke kulit gitu ya.
+178	Yang membawa pesan kayak ke kulit gitu ya.
+179	Yang membawa pesan kayak ke kulit gitu ya.
+180	Yang membawa pesan kayak ke kulit gitu ya.
+181	Yang membawa pesan kayak ke kulit gitu ya. Supaya ayo cepet-cepet regenerasinya gitu.
+182	Yang membawa pesan kayak ke kulit gitu ya. Supaya ayo cepet-cepet regenerasinya gitu.
+183	Supaya ayo cepet-cepet regenerasinya gitu.
+184	Supaya ayo cepet-cepet regenerasinya gitu.
+185	Supaya ayo cepet-cepet regenerasinya gitu. Karena vegan itu dia lebih aman, lebih stabil juga dan lebih rendah resiko alerginya gitu kak.
+186	Supaya ayo cepet-cepet regenerasinya gitu. Karena vegan itu dia lebih aman, lebih stabil juga dan lebih rendah resiko alerginya gitu kak.
+187	Karena vegan itu dia lebih aman, lebih stabil juga dan lebih rendah resiko alerginya gitu kak.
+188	Karena vegan itu dia lebih aman, lebih stabil juga dan lebih rendah resiko alerginya gitu kak.
+189	Karena vegan itu dia lebih aman, lebih stabil juga dan lebih rendah resiko alerginya gitu kak.
+190	Karena vegan itu dia lebih aman, lebih stabil juga dan lebih rendah resiko alerginya gitu kak.
+191	Karena vegan itu dia lebih aman, lebih stabil juga dan lebih rendah resiko alerginya gitu kak.
+192	Karena vegan itu dia lebih aman, lebih stabil juga dan lebih rendah resiko alerginya gitu kak.
+193	Karena vegan itu dia lebih aman, lebih stabil juga dan lebih rendah resiko alerginya gitu kak.
+194	Karena vegan itu dia lebih aman, lebih stabil juga dan lebih rendah resiko alerginya gitu kak.
+195	Karena vegan itu dia lebih aman, lebih stabil juga dan lebih rendah resiko alerginya gitu kak.
+196	Karena vegan itu dia lebih aman, lebih stabil juga dan lebih rendah resiko alerginya gitu kak.
+197	Karena vegan itu dia lebih aman, lebih stabil juga dan lebih rendah resiko alerginya gitu kak.
+198	Karena vegan itu dia lebih aman, lebih stabil juga dan lebih rendah resiko alerginya gitu kak.
+199	Karena vegan itu dia lebih aman, lebih stabil juga dan lebih rendah resiko alerginya gitu kak.
+200	[NO_SPEECH]
+201	[NO_SPEECH]
+202	[NO_SPEECH]
+203	[NO_SPEECH]
+204	[NO_SPEECH]
+205	[NO_SPEECH]
+206	[NO_SPEECH]
+207	[NO_SPEECH]
+208	[NO_SPEECH]
+209	[NO_SPEECH]
+210	[NO_SPEECH]
+211	[NO_SPEECH]
+212	[NO_SPEECH]
+213	[NO_SPEECH]
+214	[NO_SPEECH]

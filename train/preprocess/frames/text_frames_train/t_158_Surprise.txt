@@ -1,0 +1,199 @@
+0	Aduh bensin Rolls 92 antara BP, Shell, Pertamina, sama Vivo kira-kira irit yang mana?
+1	Aduh bensin Rolls 92 antara BP, Shell, Pertamina, sama Vivo kira-kira irit yang mana?
+2	Aduh bensin Rolls 92 antara BP, Shell, Pertamina, sama Vivo kira-kira irit yang mana?
+3	Aduh bensin Rolls 92 antara BP, Shell, Pertamina, sama Vivo kira-kira irit yang mana?
+4	Aduh bensin Rolls 92 antara BP, Shell, Pertamina, sama Vivo kira-kira irit yang mana?
+5	Aduh bensin Rolls 92 antara BP, Shell, Pertamina, sama Vivo kira-kira irit yang mana?
+6	Aduh bensin Rolls 92 antara BP, Shell, Pertamina, sama Vivo kira-kira irit yang mana?
+7	Aduh bensin Rolls 92 antara BP, Shell, Pertamina, sama Vivo kira-kira irit yang mana?
+8	Aduh bensin Rolls 92 antara BP, Shell, Pertamina, sama Vivo kira-kira irit yang mana?
+9	Aduh bensin Rolls 92 antara BP, Shell, Pertamina, sama Vivo kira-kira irit yang mana? Cek dulu, Cing.
+10	Cek dulu, Cing.
+11	Cek dulu, Cing. Nah, jadi kita ada 4 Toyota Avanza yang identik untuk dites dan semuanya dikuras dulu bensinnya kayak gini.
+12	Nah, jadi kita ada 4 Toyota Avanza yang identik untuk dites dan semuanya dikuras dulu bensinnya kayak gini.
+13	Nah, jadi kita ada 4 Toyota Avanza yang identik untuk dites dan semuanya dikuras dulu bensinnya kayak gini.
+14	Nah, jadi kita ada 4 Toyota Avanza yang identik untuk dites dan semuanya dikuras dulu bensinnya kayak gini.
+15	Nah, jadi kita ada 4 Toyota Avanza yang identik untuk dites dan semuanya dikuras dulu bensinnya kayak gini.
+16	Nah, jadi kita ada 4 Toyota Avanza yang identik untuk dites dan semuanya dikuras dulu bensinnya kayak gini.
+17	Nah, jadi kita ada 4 Toyota Avanza yang identik untuk dites dan semuanya dikuras dulu bensinnya kayak gini.
+18	Nah, jadi kita ada 4 Toyota Avanza yang identik untuk dites dan semuanya dikuras dulu bensinnya kayak gini.
+19	Nah, jadi kita ada 4 Toyota Avanza yang identik untuk dites dan semuanya dikuras dulu bensinnya kayak gini.
+20	Nah, jadi kita ada 4 Toyota Avanza yang identik untuk dites dan semuanya dikuras dulu bensinnya kayak gini.
+21	Nah, jadi kita ada 4 Toyota Avanza yang identik untuk dites dan semuanya dikuras dulu bensinnya kayak gini.
+22	Nah, jadi kita ada 4 Toyota Avanza yang identik untuk dites dan semuanya dikuras dulu bensinnya kayak gini.
+23	Nah, jadi kita ada 4 Toyota Avanza yang identik untuk dites dan semuanya dikuras dulu bensinnya kayak gini. Sampai habis, sampai 0, biar semuanya rata, berangkat dari kosong.
+24	Nah, jadi kita ada 4 Toyota Avanza yang identik untuk dites dan semuanya dikuras dulu bensinnya kayak gini. Sampai habis, sampai 0, biar semuanya rata, berangkat dari kosong.
+25	Sampai habis, sampai 0, biar semuanya rata, berangkat dari kosong.
+26	Sampai habis, sampai 0, biar semuanya rata, berangkat dari kosong.
+27	Sampai habis, sampai 0, biar semuanya rata, berangkat dari kosong.
+28	Sampai habis, sampai 0, biar semuanya rata, berangkat dari kosong.
+29	Sampai habis, sampai 0, biar semuanya rata, berangkat dari kosong.
+30	Sampai habis, sampai 0, biar semuanya rata, berangkat dari kosong.
+31	Sampai habis, sampai 0, biar semuanya rata, berangkat dari kosong. Udah gitu, mobilnya dipastikan bener-bener nggak mau di starter lagi, baru deh masing-masing dibekelin bensin 7 liter.
+32	Sampai habis, sampai 0, biar semuanya rata, berangkat dari kosong. Udah gitu, mobilnya dipastikan bener-bener nggak mau di starter lagi, baru deh masing-masing dibekelin bensin 7 liter.
+33	Udah gitu, mobilnya dipastikan bener-bener nggak mau di starter lagi, baru deh masing-masing dibekelin bensin 7 liter.
+34	Udah gitu, mobilnya dipastikan bener-bener nggak mau di starter lagi, baru deh masing-masing dibekelin bensin 7 liter.
+35	Udah gitu, mobilnya dipastikan bener-bener nggak mau di starter lagi, baru deh masing-masing dibekelin bensin 7 liter.
+36	Udah gitu, mobilnya dipastikan bener-bener nggak mau di starter lagi, baru deh masing-masing dibekelin bensin 7 liter.
+37	Udah gitu, mobilnya dipastikan bener-bener nggak mau di starter lagi, baru deh masing-masing dibekelin bensin 7 liter.
+38	Udah gitu, mobilnya dipastikan bener-bener nggak mau di starter lagi, baru deh masing-masing dibekelin bensin 7 liter.
+39	Udah gitu, mobilnya dipastikan bener-bener nggak mau di starter lagi, baru deh masing-masing dibekelin bensin 7 liter.
+40	Udah gitu, mobilnya dipastikan bener-bener nggak mau di starter lagi, baru deh masing-masing dibekelin bensin 7 liter.
+41	Udah gitu, mobilnya dipastikan bener-bener nggak mau di starter lagi, baru deh masing-masing dibekelin bensin 7 liter.
+42	Udah gitu, mobilnya dipastikan bener-bener nggak mau di starter lagi, baru deh masing-masing dibekelin bensin 7 liter.
+43	Udah gitu, mobilnya dipastikan bener-bener nggak mau di starter lagi, baru deh masing-masing dibekelin bensin 7 liter. Gue ke bagian Pertamina, Mike dapet BP, Fikri dapet Vivo, dan Nanda dapet Shell.
+44	Udah gitu, mobilnya dipastikan bener-bener nggak mau di starter lagi, baru deh masing-masing dibekelin bensin 7 liter. Gue ke bagian Pertamina, Mike dapet BP, Fikri dapet Vivo, dan Nanda dapet Shell.
+45	Gue ke bagian Pertamina, Mike dapet BP, Fikri dapet Vivo, dan Nanda dapet Shell.
+46	Gue ke bagian Pertamina, Mike dapet BP, Fikri dapet Vivo, dan Nanda dapet Shell.
+47	Gue ke bagian Pertamina, Mike dapet BP, Fikri dapet Vivo, dan Nanda dapet Shell.
+48	Gue ke bagian Pertamina, Mike dapet BP, Fikri dapet Vivo, dan Nanda dapet Shell.
+49	Gue ke bagian Pertamina, Mike dapet BP, Fikri dapet Vivo, dan Nanda dapet Shell.
+50	Gue ke bagian Pertamina, Mike dapet BP, Fikri dapet Vivo, dan Nanda dapet Shell.
+51	Gue ke bagian Pertamina, Mike dapet BP, Fikri dapet Vivo, dan Nanda dapet Shell.
+52	Gue ke bagian Pertamina, Mike dapet BP, Fikri dapet Vivo, dan Nanda dapet Shell. Kira-kira siapa yang duluan habis?
+53	Gue ke bagian Pertamina, Mike dapet BP, Fikri dapet Vivo, dan Nanda dapet Shell. Kira-kira siapa yang duluan habis?
+54	Kira-kira siapa yang duluan habis? Oke, kita udah jalan dengan bekal bensin 7 liter.
+55	Kira-kira siapa yang duluan habis? Oke, kita udah jalan dengan bekal bensin 7 liter.
+56	Kira-kira siapa yang duluan habis? Oke, kita udah jalan dengan bekal bensin 7 liter.
+57	Oke, kita udah jalan dengan bekal bensin 7 liter.
+58	Oke, kita udah jalan dengan bekal bensin 7 liter.
+59	Oke, kita udah jalan dengan bekal bensin 7 liter.
+60	Oke, kita udah jalan dengan bekal bensin 7 liter.
+61	Oke, kita udah jalan dengan bekal bensin 7 liter. Anyway, soal mobilnya, semua dibikin rata.
+62	Anyway, soal mobilnya, semua dibikin rata.
+63	Anyway, soal mobilnya, semua dibikin rata.
+64	Anyway, soal mobilnya, semua dibikin rata.
+65	Anyway, soal mobilnya, semua dibikin rata.
+66	Anyway, soal mobilnya, semua dibikin rata. Bukan cuma bensinnya dapet 7 liter, tapi tekanan anginnya, terus bobot penumpang di dalamnya, bahkan kita dapet ekstra balas nih.
+67	Anyway, soal mobilnya, semua dibikin rata. Bukan cuma bensinnya dapet 7 liter, tapi tekanan anginnya, terus bobot penumpang di dalamnya, bahkan kita dapet ekstra balas nih.
+68	Bukan cuma bensinnya dapet 7 liter, tapi tekanan anginnya, terus bobot penumpang di dalamnya, bahkan kita dapet ekstra balas nih.
+69	Bukan cuma bensinnya dapet 7 liter, tapi tekanan anginnya, terus bobot penumpang di dalamnya, bahkan kita dapet ekstra balas nih.
+70	Bukan cuma bensinnya dapet 7 liter, tapi tekanan anginnya, terus bobot penumpang di dalamnya, bahkan kita dapet ekstra balas nih.
+71	Bukan cuma bensinnya dapet 7 liter, tapi tekanan anginnya, terus bobot penumpang di dalamnya, bahkan kita dapet ekstra balas nih.
+72	Bukan cuma bensinnya dapet 7 liter, tapi tekanan anginnya, terus bobot penumpang di dalamnya, bahkan kita dapet ekstra balas nih.
+73	Bukan cuma bensinnya dapet 7 liter, tapi tekanan anginnya, terus bobot penumpang di dalamnya, bahkan kita dapet ekstra balas nih.
+74	Bukan cuma bensinnya dapet 7 liter, tapi tekanan anginnya, terus bobot penumpang di dalamnya, bahkan kita dapet ekstra balas nih.
+75	Bukan cuma bensinnya dapet 7 liter, tapi tekanan anginnya, terus bobot penumpang di dalamnya, bahkan kita dapet ekstra balas nih.
+76	Bukan cuma bensinnya dapet 7 liter, tapi tekanan anginnya, terus bobot penumpang di dalamnya, bahkan kita dapet ekstra balas nih.
+77	Bukan cuma bensinnya dapet 7 liter, tapi tekanan anginnya, terus bobot penumpang di dalamnya, bahkan kita dapet ekstra balas nih.
+78	Bukan cuma bensinnya dapet 7 liter, tapi tekanan anginnya, terus bobot penumpang di dalamnya, bahkan kita dapet ekstra balas nih.
+79	Bukan cuma bensinnya dapet 7 liter, tapi tekanan anginnya, terus bobot penumpang di dalamnya, bahkan kita dapet ekstra balas nih.
+80	Bukan cuma bensinnya dapet 7 liter, tapi tekanan anginnya, terus bobot penumpang di dalamnya, bahkan kita dapet ekstra balas nih.
+81	Bukan cuma bensinnya dapet 7 liter, tapi tekanan anginnya, terus bobot penumpang di dalamnya, bahkan kita dapet ekstra balas nih. Rupa air mineral.
+82	Rupa air mineral.
+83	Rupa air mineral.
+84	Rupa air mineral.
+85	Rupa air mineral. Kita dapet 2 galon sama 2 botol 1,5 liter.
+86	Kita dapet 2 galon sama 2 botol 1,5 liter.
+87	Kita dapet 2 galon sama 2 botol 1,5 liter.
+88	Kita dapet 2 galon sama 2 botol 1,5 liter.
+89	Kita dapet 2 galon sama 2 botol 1,5 liter.
+90	Kita dapet 2 galon sama 2 botol 1,5 liter.
+91	Kita dapet 2 galon sama 2 botol 1,5 liter. Jadi, semuanya dibikin imbang gitu.
+92	Jadi, semuanya dibikin imbang gitu.
+93	Jadi, semuanya dibikin imbang gitu.
+94	Jadi, semuanya dibikin imbang gitu.
+95	Jadi, semuanya dibikin imbang gitu.
+96	Jadi, semuanya dibikin imbang gitu. Perjalanan kami, ring-ringan berempat dan secara urutan dinamis terus bergantian.
+97	Perjalanan kami, ring-ringan berempat dan secara urutan dinamis terus bergantian.
+98	Perjalanan kami, ring-ringan berempat dan secara urutan dinamis terus bergantian.
+99	Perjalanan kami, ring-ringan berempat dan secara urutan dinamis terus bergantian.
+100	Perjalanan kami, ring-ringan berempat dan secara urutan dinamis terus bergantian.
+101	Perjalanan kami, ring-ringan berempat dan secara urutan dinamis terus bergantian.
+102	Perjalanan kami, ring-ringan berempat dan secara urutan dinamis terus bergantian.
+103	Perjalanan kami, ring-ringan berempat dan secara urutan dinamis terus bergantian.
+104	Perjalanan kami, ring-ringan berempat dan secara urutan dinamis terus bergantian.
+105	Perjalanan kami, ring-ringan berempat dan secara urutan dinamis terus bergantian. Juga soal AC nggak ada kompromi ya.
+106	Juga soal AC nggak ada kompromi ya.
+107	Juga soal AC nggak ada kompromi ya.
+108	Juga soal AC nggak ada kompromi ya. Nyala di temperatur terendah dengan double blower aktif.
+109	Juga soal AC nggak ada kompromi ya. Nyala di temperatur terendah dengan double blower aktif.
+110	Nyala di temperatur terendah dengan double blower aktif.
+111	Nyala di temperatur terendah dengan double blower aktif.
+112	Nyala di temperatur terendah dengan double blower aktif.
+113	Nyala di temperatur terendah dengan double blower aktif.
+114	Nyala di temperatur terendah dengan double blower aktif. Paling penting, di sini kaki semuanya mau udah sekolah dulu dan jaga speed konstan di 80-100.
+115	Nyala di temperatur terendah dengan double blower aktif. Paling penting, di sini kaki semuanya mau udah sekolah dulu dan jaga speed konstan di 80-100.
+116	Paling penting, di sini kaki semuanya mau udah sekolah dulu dan jaga speed konstan di 80-100.
+117	Paling penting, di sini kaki semuanya mau udah sekolah dulu dan jaga speed konstan di 80-100.
+118	Paling penting, di sini kaki semuanya mau udah sekolah dulu dan jaga speed konstan di 80-100.
+119	Paling penting, di sini kaki semuanya mau udah sekolah dulu dan jaga speed konstan di 80-100.
+120	Paling penting, di sini kaki semuanya mau udah sekolah dulu dan jaga speed konstan di 80-100.
+121	Paling penting, di sini kaki semuanya mau udah sekolah dulu dan jaga speed konstan di 80-100.
+122	Paling penting, di sini kaki semuanya mau udah sekolah dulu dan jaga speed konstan di 80-100.
+123	Paling penting, di sini kaki semuanya mau udah sekolah dulu dan jaga speed konstan di 80-100.
+124	Paling penting, di sini kaki semuanya mau udah sekolah dulu dan jaga speed konstan di 80-100.
+125	Paling penting, di sini kaki semuanya mau udah sekolah dulu dan jaga speed konstan di 80-100. Nah, mostly by MID sih pada dapetin angka 20-an kilometer per liter.
+126	Nah, mostly by MID sih pada dapetin angka 20-an kilometer per liter.
+127	Nah, mostly by MID sih pada dapetin angka 20-an kilometer per liter.
+128	Nah, mostly by MID sih pada dapetin angka 20-an kilometer per liter.
+129	Nah, mostly by MID sih pada dapetin angka 20-an kilometer per liter.
+130	Nah, mostly by MID sih pada dapetin angka 20-an kilometer per liter.
+131	Nah, mostly by MID sih pada dapetin angka 20-an kilometer per liter.
+132	Nah, mostly by MID sih pada dapetin angka 20-an kilometer per liter.
+133	Nah, mostly by MID sih pada dapetin angka 20-an kilometer per liter. Tapi, setelah sekian lama ngabisin waktu di jalan, kontestan pertama yang tumbang adalah BP92 dengan jarak 162,5 kilometer.
+134	Nah, mostly by MID sih pada dapetin angka 20-an kilometer per liter. Tapi, setelah sekian lama ngabisin waktu di jalan, kontestan pertama yang tumbang adalah BP92 dengan jarak 162,5 kilometer.
+135	Tapi, setelah sekian lama ngabisin waktu di jalan, kontestan pertama yang tumbang adalah BP92 dengan jarak 162,5 kilometer.
+136	Tapi, setelah sekian lama ngabisin waktu di jalan, kontestan pertama yang tumbang adalah BP92 dengan jarak 162,5 kilometer.
+137	Tapi, setelah sekian lama ngabisin waktu di jalan, kontestan pertama yang tumbang adalah BP92 dengan jarak 162,5 kilometer.
+138	Tapi, setelah sekian lama ngabisin waktu di jalan, kontestan pertama yang tumbang adalah BP92 dengan jarak 162,5 kilometer.
+139	Tapi, setelah sekian lama ngabisin waktu di jalan, kontestan pertama yang tumbang adalah BP92 dengan jarak 162,5 kilometer.
+140	Tapi, setelah sekian lama ngabisin waktu di jalan, kontestan pertama yang tumbang adalah BP92 dengan jarak 162,5 kilometer.
+141	Tapi, setelah sekian lama ngabisin waktu di jalan, kontestan pertama yang tumbang adalah BP92 dengan jarak 162,5 kilometer.
+142	Tapi, setelah sekian lama ngabisin waktu di jalan, kontestan pertama yang tumbang adalah BP92 dengan jarak 162,5 kilometer.
+143	Tapi, setelah sekian lama ngabisin waktu di jalan, kontestan pertama yang tumbang adalah BP92 dengan jarak 162,5 kilometer.
+144	Tapi, setelah sekian lama ngabisin waktu di jalan, kontestan pertama yang tumbang adalah BP92 dengan jarak 162,5 kilometer.
+145	Tapi, setelah sekian lama ngabisin waktu di jalan, kontestan pertama yang tumbang adalah BP92 dengan jarak 162,5 kilometer.
+146	Tapi, setelah sekian lama ngabisin waktu di jalan, kontestan pertama yang tumbang adalah BP92 dengan jarak 162,5 kilometer.
+147	Tapi, setelah sekian lama ngabisin waktu di jalan, kontestan pertama yang tumbang adalah BP92 dengan jarak 162,5 kilometer.
+148	Tapi, setelah sekian lama ngabisin waktu di jalan, kontestan pertama yang tumbang adalah BP92 dengan jarak 162,5 kilometer. Nggak jauh dari itu, Pertamax habis di 162,9 kilometer.
+149	Nggak jauh dari itu, Pertamax habis di 162,9 kilometer.
+150	Nggak jauh dari itu, Pertamax habis di 162,9 kilometer.
+151	Nggak jauh dari itu, Pertamax habis di 162,9 kilometer.
+152	Nggak jauh dari itu, Pertamax habis di 162,9 kilometer.
+153	Nggak jauh dari itu, Pertamax habis di 162,9 kilometer.
+154	Nggak jauh dari itu, Pertamax habis di 162,9 kilometer.
+155	Nggak jauh dari itu, Pertamax habis di 162,9 kilometer.
+156	Nggak jauh dari itu, Pertamax habis di 162,9 kilometer. Lalu, disusul sama Vivo yang kelar di 164,2 kilometer.
+157	Lalu, disusul sama Vivo yang kelar di 164,2 kilometer.
+158	Lalu, disusul sama Vivo yang kelar di 164,2 kilometer.
+159	Lalu, disusul sama Vivo yang kelar di 164,2 kilometer.
+160	Lalu, disusul sama Vivo yang kelar di 164,2 kilometer.
+161	Lalu, disusul sama Vivo yang kelar di 164,2 kilometer.
+162	Lalu, disusul sama Vivo yang kelar di 164,2 kilometer.
+163	Lalu, disusul sama Vivo yang kelar di 164,2 kilometer.
+164	Lalu, disusul sama Vivo yang kelar di 164,2 kilometer.
+165	Lalu, disusul sama Vivo yang kelar di 164,2 kilometer. Hebatnya, Shell masih bisa dipentokin sampai habis di 178,4.
+166	Hebatnya, Shell masih bisa dipentokin sampai habis di 178,4.
+167	Hebatnya, Shell masih bisa dipentokin sampai habis di 178,4.
+168	Hebatnya, Shell masih bisa dipentokin sampai habis di 178,4.
+169	Hebatnya, Shell masih bisa dipentokin sampai habis di 178,4.
+170	Hebatnya, Shell masih bisa dipentokin sampai habis di 178,4.
+171	Hebatnya, Shell masih bisa dipentokin sampai habis di 178,4.
+172	Hebatnya, Shell masih bisa dipentokin sampai habis di 178,4.
+173	Hebatnya, Shell masih bisa dipentokin sampai habis di 178,4.
+174	[NO_SPEECH]
+175	[NO_SPEECH]
+176	Lumayan jauh ya selisihnya dan jadi catetan ini hasilnya murni tanpa rekayasa.
+177	Lumayan jauh ya selisihnya dan jadi catetan ini hasilnya murni tanpa rekayasa.
+178	Lumayan jauh ya selisihnya dan jadi catetan ini hasilnya murni tanpa rekayasa.
+179	Lumayan jauh ya selisihnya dan jadi catetan ini hasilnya murni tanpa rekayasa.
+180	Lumayan jauh ya selisihnya dan jadi catetan ini hasilnya murni tanpa rekayasa.
+181	Lumayan jauh ya selisihnya dan jadi catetan ini hasilnya murni tanpa rekayasa.
+182	Lumayan jauh ya selisihnya dan jadi catetan ini hasilnya murni tanpa rekayasa.
+183	Lumayan jauh ya selisihnya dan jadi catetan ini hasilnya murni tanpa rekayasa.
+184	Lumayan jauh ya selisihnya dan jadi catetan ini hasilnya murni tanpa rekayasa.
+185	Lumayan jauh ya selisihnya dan jadi catetan ini hasilnya murni tanpa rekayasa. Buat yang mau nonton video lebih lengkapnya, lihat aja di channel Mawladin, oke?
+186	Buat yang mau nonton video lebih lengkapnya, lihat aja di channel Mawladin, oke?
+187	Buat yang mau nonton video lebih lengkapnya, lihat aja di channel Mawladin, oke?
+188	Buat yang mau nonton video lebih lengkapnya, lihat aja di channel Mawladin, oke?
+189	Buat yang mau nonton video lebih lengkapnya, lihat aja di channel Mawladin, oke?
+190	Buat yang mau nonton video lebih lengkapnya, lihat aja di channel Mawladin, oke?
+191	Buat yang mau nonton video lebih lengkapnya, lihat aja di channel Mawladin, oke?
+192	Buat yang mau nonton video lebih lengkapnya, lihat aja di channel Mawladin, oke? So, kalian pake yang mana nih selama ini?
+193	So, kalian pake yang mana nih selama ini?
+194	So, kalian pake yang mana nih selama ini?
+195	So, kalian pake yang mana nih selama ini?
+196	So, kalian pake yang mana nih selama ini?
+197	So, kalian pake yang mana nih selama ini?
+198	[NO_SPEECH]

@@ -1,0 +1,141 @@
+0	Laptop ini bisa main game Black Myth, Wukong, dan Cyberpunk di atas 200 fps.
+1	Laptop ini bisa main game Black Myth, Wukong, dan Cyberpunk di atas 200 fps.
+2	Laptop ini bisa main game Black Myth, Wukong, dan Cyberpunk di atas 200 fps.
+3	Laptop ini bisa main game Black Myth, Wukong, dan Cyberpunk di atas 200 fps.
+4	Laptop ini bisa main game Black Myth, Wukong, dan Cyberpunk di atas 200 fps.
+5	Laptop ini bisa main game Black Myth, Wukong, dan Cyberpunk di atas 200 fps.
+6	Laptop ini bisa main game Black Myth, Wukong, dan Cyberpunk di atas 200 fps.
+7	Laptop ini bisa main game Black Myth, Wukong, dan Cyberpunk di atas 200 fps.
+8	Laptop ini bisa main game Black Myth, Wukong, dan Cyberpunk di atas 200 fps.
+9	Laptop ini bisa main game Black Myth, Wukong, dan Cyberpunk di atas 200 fps. Mau render 3D? Lancar!
+10	Mau render 3D? Lancar!
+11	Mau render 3D? Lancar!
+12	Mau render 3D? Lancar!
+13	Mau render 3D? Lancar! Ini Lenovo Legion Pro 7i keluaran 2025.
+14	Mau render 3D? Lancar! Ini Lenovo Legion Pro 7i keluaran 2025.
+15	Ini Lenovo Legion Pro 7i keluaran 2025.
+16	Ini Lenovo Legion Pro 7i keluaran 2025.
+17	Ini Lenovo Legion Pro 7i keluaran 2025.
+18	Ini Lenovo Legion Pro 7i keluaran 2025.
+19	Ini Lenovo Legion Pro 7i keluaran 2025.
+20	Ini Lenovo Legion Pro 7i keluaran 2025.
+21	Ini Lenovo Legion Pro 7i keluaran 2025. Penampilannya gaming banget, banyak RGB-nya.
+22	Penampilannya gaming banget, banyak RGB-nya.
+23	Penampilannya gaming banget, banyak RGB-nya.
+24	Penampilannya gaming banget, banyak RGB-nya.
+25	Penampilannya gaming banget, banyak RGB-nya.
+26	Penampilannya gaming banget, banyak RGB-nya.
+27	Penampilannya gaming banget, banyak RGB-nya. Dia pake RTX 5090 dan bisa DLSS 4 yang bikin frame rate game jadi tumpah-tumpah.
+28	Dia pake RTX 5090 dan bisa DLSS 4 yang bikin frame rate game jadi tumpah-tumpah.
+29	Dia pake RTX 5090 dan bisa DLSS 4 yang bikin frame rate game jadi tumpah-tumpah.
+30	Dia pake RTX 5090 dan bisa DLSS 4 yang bikin frame rate game jadi tumpah-tumpah.
+31	Dia pake RTX 5090 dan bisa DLSS 4 yang bikin frame rate game jadi tumpah-tumpah.
+32	Dia pake RTX 5090 dan bisa DLSS 4 yang bikin frame rate game jadi tumpah-tumpah.
+33	Dia pake RTX 5090 dan bisa DLSS 4 yang bikin frame rate game jadi tumpah-tumpah.
+34	Dia pake RTX 5090 dan bisa DLSS 4 yang bikin frame rate game jadi tumpah-tumpah.
+35	Dia pake RTX 5090 dan bisa DLSS 4 yang bikin frame rate game jadi tumpah-tumpah.
+36	Dia pake RTX 5090 dan bisa DLSS 4 yang bikin frame rate game jadi tumpah-tumpah.
+37	Dia pake RTX 5090 dan bisa DLSS 4 yang bikin frame rate game jadi tumpah-tumpah.
+38	Dia pake RTX 5090 dan bisa DLSS 4 yang bikin frame rate game jadi tumpah-tumpah.
+39	Dia pake RTX 5090 dan bisa DLSS 4 yang bikin frame rate game jadi tumpah-tumpah. Masih bisa di-overclock juga biar lebih kenceng.
+40	Masih bisa di-overclock juga biar lebih kenceng.
+41	Masih bisa di-overclock juga biar lebih kenceng.
+42	Masih bisa di-overclock juga biar lebih kenceng.
+43	Masih bisa di-overclock juga biar lebih kenceng.
+44	Masih bisa di-overclock juga biar lebih kenceng. Prosesornya pake Intel Core Ultra 9 dengan 24 core di dalamnya.
+45	Masih bisa di-overclock juga biar lebih kenceng. Prosesornya pake Intel Core Ultra 9 dengan 24 core di dalamnya.
+46	Prosesornya pake Intel Core Ultra 9 dengan 24 core di dalamnya.
+47	Prosesornya pake Intel Core Ultra 9 dengan 24 core di dalamnya.
+48	Prosesornya pake Intel Core Ultra 9 dengan 24 core di dalamnya.
+49	Prosesornya pake Intel Core Ultra 9 dengan 24 core di dalamnya.
+50	Prosesornya pake Intel Core Ultra 9 dengan 24 core di dalamnya.
+51	Prosesornya pake Intel Core Ultra 9 dengan 24 core di dalamnya.
+52	Prosesornya pake Intel Core Ultra 9 dengan 24 core di dalamnya.
+53	Prosesornya pake Intel Core Ultra 9 dengan 24 core di dalamnya. NPU juga punya.
+54	Prosesornya pake Intel Core Ultra 9 dengan 24 core di dalamnya. NPU juga punya.
+55	NPU juga punya.
+56	NPU juga punya. Buat peningin dia pake Legion Cold Front Vapor dengan Vapor Chamber
+57	NPU juga punya. Buat peningin dia pake Legion Cold Front Vapor dengan Vapor Chamber
+58	Buat peningin dia pake Legion Cold Front Vapor dengan Vapor Chamber
+59	Buat peningin dia pake Legion Cold Front Vapor dengan Vapor Chamber
+60	Buat peningin dia pake Legion Cold Front Vapor dengan Vapor Chamber
+61	Buat peningin dia pake Legion Cold Front Vapor dengan Vapor Chamber
+62	Buat peningin dia pake Legion Cold Front Vapor dengan Vapor Chamber
+63	Buat peningin dia pake Legion Cold Front Vapor dengan Vapor Chamber
+64	Buat peningin dia pake Legion Cold Front Vapor dengan Vapor Chamber jadi mampu menghandle TDP prosesor dengan GPU hingga 250W.
+65	Buat peningin dia pake Legion Cold Front Vapor dengan Vapor Chamber jadi mampu menghandle TDP prosesor dengan GPU hingga 250W.
+66	jadi mampu menghandle TDP prosesor dengan GPU hingga 250W.
+67	jadi mampu menghandle TDP prosesor dengan GPU hingga 250W.
+68	jadi mampu menghandle TDP prosesor dengan GPU hingga 250W.
+69	jadi mampu menghandle TDP prosesor dengan GPU hingga 250W.
+70	jadi mampu menghandle TDP prosesor dengan GPU hingga 250W.
+71	jadi mampu menghandle TDP prosesor dengan GPU hingga 250W.
+72	jadi mampu menghandle TDP prosesor dengan GPU hingga 250W.
+73	jadi mampu menghandle TDP prosesor dengan GPU hingga 250W. RAM-nya langsung 32GB tapi masih bisa di-upgrade.
+74	jadi mampu menghandle TDP prosesor dengan GPU hingga 250W. RAM-nya langsung 32GB tapi masih bisa di-upgrade.
+75	RAM-nya langsung 32GB tapi masih bisa di-upgrade.
+76	RAM-nya langsung 32GB tapi masih bisa di-upgrade.
+77	RAM-nya langsung 32GB tapi masih bisa di-upgrade.
+78	RAM-nya langsung 32GB tapi masih bisa di-upgrade.
+79	RAM-nya langsung 32GB tapi masih bisa di-upgrade. SSD-nya juga langsung PCIe Gen 5 yang super kencang.
+80	RAM-nya langsung 32GB tapi masih bisa di-upgrade. SSD-nya juga langsung PCIe Gen 5 yang super kencang.
+81	SSD-nya juga langsung PCIe Gen 5 yang super kencang.
+82	SSD-nya juga langsung PCIe Gen 5 yang super kencang.
+83	SSD-nya juga langsung PCIe Gen 5 yang super kencang.
+84	SSD-nya juga langsung PCIe Gen 5 yang super kencang.
+85	SSD-nya juga langsung PCIe Gen 5 yang super kencang.
+86	SSD-nya juga langsung PCIe Gen 5 yang super kencang. Layar QHD 240Hz, OLED 100% DCI-P3.
+87	Layar QHD 240Hz, OLED 100% DCI-P3.
+88	Layar QHD 240Hz, OLED 100% DCI-P3.
+89	Layar QHD 240Hz, OLED 100% DCI-P3.
+90	Layar QHD 240Hz, OLED 100% DCI-P3.
+91	Layar QHD 240Hz, OLED 100% DCI-P3.
+92	Layar QHD 240Hz, OLED 100% DCI-P3. Mantap buat gaming esports dan editing.
+93	Layar QHD 240Hz, OLED 100% DCI-P3. Mantap buat gaming esports dan editing.
+94	Mantap buat gaming esports dan editing.
+95	Mantap buat gaming esports dan editing.
+96	Mantap buat gaming esports dan editing. Dia juga pake Legion True Strike Keyboard yang nyaman buat main game atau kerja.
+97	Mantap buat gaming esports dan editing. Dia juga pake Legion True Strike Keyboard yang nyaman buat main game atau kerja.
+98	Dia juga pake Legion True Strike Keyboard yang nyaman buat main game atau kerja.
+99	Dia juga pake Legion True Strike Keyboard yang nyaman buat main game atau kerja.
+100	Dia juga pake Legion True Strike Keyboard yang nyaman buat main game atau kerja.
+101	Dia juga pake Legion True Strike Keyboard yang nyaman buat main game atau kerja.
+102	Dia juga pake Legion True Strike Keyboard yang nyaman buat main game atau kerja.
+103	Dia juga pake Legion True Strike Keyboard yang nyaman buat main game atau kerja.
+104	Dia juga pake Legion True Strike Keyboard yang nyaman buat main game atau kerja.
+105	Dia juga pake Legion True Strike Keyboard yang nyaman buat main game atau kerja. Baterai 80Wh, ada Rapid Charge, punya Wi-Fi 7,
+106	Dia juga pake Legion True Strike Keyboard yang nyaman buat main game atau kerja. Baterai 80Wh, ada Rapid Charge, punya Wi-Fi 7,
+107	Baterai 80Wh, ada Rapid Charge, punya Wi-Fi 7,
+108	Baterai 80Wh, ada Rapid Charge, punya Wi-Fi 7,
+109	Baterai 80Wh, ada Rapid Charge, punya Wi-Fi 7,
+110	Baterai 80Wh, ada Rapid Charge, punya Wi-Fi 7,
+111	Baterai 80Wh, ada Rapid Charge, punya Wi-Fi 7,
+112	Baterai 80Wh, ada Rapid Charge, punya Wi-Fi 7, dan Thunderbolt.
+113	Baterai 80Wh, ada Rapid Charge, punya Wi-Fi 7, dan Thunderbolt. Bot 4 juga ada.
+114	dan Thunderbolt. Bot 4 juga ada. Garansinya 3 tahun dengan ADP.
+115	Bot 4 juga ada. Garansinya 3 tahun dengan ADP.
+116	Garansinya 3 tahun dengan ADP.
+117	Garansinya 3 tahun dengan ADP.
+118	Garansinya 3 tahun dengan ADP.
+119	Garansinya 3 tahun dengan ADP. Kalau dia jatuh, ketupan cairan, atau kena korset listrik, tetap aman.
+120	Kalau dia jatuh, ketupan cairan, atau kena korset listrik, tetap aman.
+121	Kalau dia jatuh, ketupan cairan, atau kena korset listrik, tetap aman.
+122	Kalau dia jatuh, ketupan cairan, atau kena korset listrik, tetap aman.
+123	Kalau dia jatuh, ketupan cairan, atau kena korset listrik, tetap aman.
+124	Kalau dia jatuh, ketupan cairan, atau kena korset listrik, tetap aman.
+125	Kalau dia jatuh, ketupan cairan, atau kena korset listrik, tetap aman.
+126	Kalau dia jatuh, ketupan cairan, atau kena korset listrik, tetap aman. Kan di-cover 100% sama Lenovo.
+127	Kalau dia jatuh, ketupan cairan, atau kena korset listrik, tetap aman. Kan di-cover 100% sama Lenovo.
+128	Kan di-cover 100% sama Lenovo.
+129	Kan di-cover 100% sama Lenovo.
+130	Kan di-cover 100% sama Lenovo. Bisa di-claim berkali-kali pula.
+131	Kan di-cover 100% sama Lenovo. Bisa di-claim berkali-kali pula.
+132	Bisa di-claim berkali-kali pula.
+133	Bisa di-claim berkali-kali pula.
+134	Bisa di-claim berkali-kali pula.
+135	[NO_SPEECH]
+136	[NO_SPEECH]
+137	[NO_SPEECH]
+138	[NO_SPEECH]
+139	[NO_SPEECH]
+140	[NO_SPEECH]

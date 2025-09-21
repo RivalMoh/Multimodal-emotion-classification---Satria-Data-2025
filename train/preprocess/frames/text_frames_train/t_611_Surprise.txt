@@ -1,0 +1,92 @@
+0	Battle Gentle Face Wash yang gak bikin kulit jadi kering.
+1	Battle Gentle Face Wash yang gak bikin kulit jadi kering.
+2	Battle Gentle Face Wash yang gak bikin kulit jadi kering.
+3	Battle Gentle Face Wash yang gak bikin kulit jadi kering.
+4	Battle Gentle Face Wash yang gak bikin kulit jadi kering. Kira-kira mana yang lebih bagus ya?
+5	Battle Gentle Face Wash yang gak bikin kulit jadi kering. Kira-kira mana yang lebih bagus ya?
+6	Kira-kira mana yang lebih bagus ya? Oke, dari segi harga, punya Stapel di angka Rp90.000 untuk 125ml,
+7	Kira-kira mana yang lebih bagus ya? Oke, dari segi harga, punya Stapel di angka Rp90.000 untuk 125ml,
+8	Oke, dari segi harga, punya Stapel di angka Rp90.000 untuk 125ml,
+9	Oke, dari segi harga, punya Stapel di angka Rp90.000 untuk 125ml,
+10	Oke, dari segi harga, punya Stapel di angka Rp90.000 untuk 125ml,
+11	Oke, dari segi harga, punya Stapel di angka Rp90.000 untuk 125ml,
+12	Oke, dari segi harga, punya Stapel di angka Rp90.000 untuk 125ml,
+13	Oke, dari segi harga, punya Stapel di angka Rp90.000 untuk 125ml,
+14	Oke, dari segi harga, punya Stapel di angka Rp90.000 untuk 125ml, sedangkan punya Vaseline di angka Rp49.000 untuk 120ml.
+15	Oke, dari segi harga, punya Stapel di angka Rp90.000 untuk 125ml, sedangkan punya Vaseline di angka Rp49.000 untuk 120ml.
+16	sedangkan punya Vaseline di angka Rp49.000 untuk 120ml.
+17	sedangkan punya Vaseline di angka Rp49.000 untuk 120ml.
+18	sedangkan punya Vaseline di angka Rp49.000 untuk 120ml.
+19	sedangkan punya Vaseline di angka Rp49.000 untuk 120ml.
+20	sedangkan punya Vaseline di angka Rp49.000 untuk 120ml.
+21	sedangkan punya Vaseline di angka Rp49.000 untuk 120ml.
+22	sedangkan punya Vaseline di angka Rp49.000 untuk 120ml. Untuk ingredients-nya, kalau punya Stapel tuh mengandung glycerin dan niacinamide,
+23	Untuk ingredients-nya, kalau punya Stapel tuh mengandung glycerin dan niacinamide,
+24	Untuk ingredients-nya, kalau punya Stapel tuh mengandung glycerin dan niacinamide,
+25	Untuk ingredients-nya, kalau punya Stapel tuh mengandung glycerin dan niacinamide,
+26	Untuk ingredients-nya, kalau punya Stapel tuh mengandung glycerin dan niacinamide,
+27	Untuk ingredients-nya, kalau punya Stapel tuh mengandung glycerin dan niacinamide,
+28	Untuk ingredients-nya, kalau punya Stapel tuh mengandung glycerin dan niacinamide, sedangkan punya Vaseline ada kandungan panthenol yang bisa bantu menenangin kulit dan jerawat.
+29	Untuk ingredients-nya, kalau punya Stapel tuh mengandung glycerin dan niacinamide, sedangkan punya Vaseline ada kandungan panthenol yang bisa bantu menenangin kulit dan jerawat.
+30	sedangkan punya Vaseline ada kandungan panthenol yang bisa bantu menenangin kulit dan jerawat.
+31	sedangkan punya Vaseline ada kandungan panthenol yang bisa bantu menenangin kulit dan jerawat.
+32	sedangkan punya Vaseline ada kandungan panthenol yang bisa bantu menenangin kulit dan jerawat.
+33	sedangkan punya Vaseline ada kandungan panthenol yang bisa bantu menenangin kulit dan jerawat.
+34	sedangkan punya Vaseline ada kandungan panthenol yang bisa bantu menenangin kulit dan jerawat.
+35	sedangkan punya Vaseline ada kandungan panthenol yang bisa bantu menenangin kulit dan jerawat.
+36	sedangkan punya Vaseline ada kandungan panthenol yang bisa bantu menenangin kulit dan jerawat. Untuk teksturnya, kalau punya Stapel teksturnya tuh gel dan sama sekali gak ada busanya,
+37	sedangkan punya Vaseline ada kandungan panthenol yang bisa bantu menenangin kulit dan jerawat. Untuk teksturnya, kalau punya Stapel teksturnya tuh gel dan sama sekali gak ada busanya,
+38	Untuk teksturnya, kalau punya Stapel teksturnya tuh gel dan sama sekali gak ada busanya,
+39	Untuk teksturnya, kalau punya Stapel teksturnya tuh gel dan sama sekali gak ada busanya,
+40	Untuk teksturnya, kalau punya Stapel teksturnya tuh gel dan sama sekali gak ada busanya,
+41	Untuk teksturnya, kalau punya Stapel teksturnya tuh gel dan sama sekali gak ada busanya,
+42	Untuk teksturnya, kalau punya Stapel teksturnya tuh gel dan sama sekali gak ada busanya,
+43	Untuk teksturnya, kalau punya Stapel teksturnya tuh gel dan sama sekali gak ada busanya, jadi pasti pake di kulit kayak kurang berasa ngebesihin kulit gitu loh.
+44	jadi pasti pake di kulit kayak kurang berasa ngebesihin kulit gitu loh.
+45	jadi pasti pake di kulit kayak kurang berasa ngebesihin kulit gitu loh.
+46	jadi pasti pake di kulit kayak kurang berasa ngebesihin kulit gitu loh.
+47	jadi pasti pake di kulit kayak kurang berasa ngebesihin kulit gitu loh.
+48	jadi pasti pake di kulit kayak kurang berasa ngebesihin kulit gitu loh.
+49	jadi pasti pake di kulit kayak kurang berasa ngebesihin kulit gitu loh. Sedangkan punya Vaseline teksturnya gel juga, tapi masih ada sedikit busa.
+50	Sedangkan punya Vaseline teksturnya gel juga, tapi masih ada sedikit busa.
+51	Sedangkan punya Vaseline teksturnya gel juga, tapi masih ada sedikit busa.
+52	Sedangkan punya Vaseline teksturnya gel juga, tapi masih ada sedikit busa.
+53	Sedangkan punya Vaseline teksturnya gel juga, tapi masih ada sedikit busa.
+54	Sedangkan punya Vaseline teksturnya gel juga, tapi masih ada sedikit busa.
+55	Sedangkan punya Vaseline teksturnya gel juga, tapi masih ada sedikit busa. Pasti pake rasanya nyaman banget.
+56	Sedangkan punya Vaseline teksturnya gel juga, tapi masih ada sedikit busa. Pasti pake rasanya nyaman banget.
+57	Pasti pake rasanya nyaman banget. Walau busanya sedikit, tapi dia masih berasa ngebesihin kulit banget.
+58	Pasti pake rasanya nyaman banget. Walau busanya sedikit, tapi dia masih berasa ngebesihin kulit banget.
+59	Walau busanya sedikit, tapi dia masih berasa ngebesihin kulit banget.
+60	Walau busanya sedikit, tapi dia masih berasa ngebesihin kulit banget.
+61	Walau busanya sedikit, tapi dia masih berasa ngebesihin kulit banget.
+62	Walau busanya sedikit, tapi dia masih berasa ngebesihin kulit banget.
+63	Walau busanya sedikit, tapi dia masih berasa ngebesihin kulit banget.
+64	Walau busanya sedikit, tapi dia masih berasa ngebesihin kulit banget. Jadi dipake dikit aja udah cukup.
+65	Jadi dipake dikit aja udah cukup.
+66	Jadi dipake dikit aja udah cukup.
+67	Jadi dipake dikit aja udah cukup. Dan setelah dibilas, keduanya sama-sama gak bikin kulit dan dikering ketarik.
+68	Jadi dipake dikit aja udah cukup. Dan setelah dibilas, keduanya sama-sama gak bikin kulit dan dikering ketarik.
+69	Dan setelah dibilas, keduanya sama-sama gak bikin kulit dan dikering ketarik.
+70	Dan setelah dibilas, keduanya sama-sama gak bikin kulit dan dikering ketarik.
+71	Dan setelah dibilas, keduanya sama-sama gak bikin kulit dan dikering ketarik.
+72	Dan setelah dibilas, keduanya sama-sama gak bikin kulit dan dikering ketarik.
+73	Dan setelah dibilas, keduanya sama-sama gak bikin kulit dan dikering ketarik. Tapi kalau disuruh pilih satu, aku lebih pilih punya Vaseline sih,
+74	Dan setelah dibilas, keduanya sama-sama gak bikin kulit dan dikering ketarik. Tapi kalau disuruh pilih satu, aku lebih pilih punya Vaseline sih,
+75	Tapi kalau disuruh pilih satu, aku lebih pilih punya Vaseline sih,
+76	Tapi kalau disuruh pilih satu, aku lebih pilih punya Vaseline sih,
+77	Tapi kalau disuruh pilih satu, aku lebih pilih punya Vaseline sih,
+78	Tapi kalau disuruh pilih satu, aku lebih pilih punya Vaseline sih,
+79	Tapi kalau disuruh pilih satu, aku lebih pilih punya Vaseline sih, soalnya dari segi harga jauh lebih murah, tapi pas dipake rasanya jauh lebih nyaman.
+80	Tapi kalau disuruh pilih satu, aku lebih pilih punya Vaseline sih, soalnya dari segi harga jauh lebih murah, tapi pas dipake rasanya jauh lebih nyaman.
+81	soalnya dari segi harga jauh lebih murah, tapi pas dipake rasanya jauh lebih nyaman.
+82	soalnya dari segi harga jauh lebih murah, tapi pas dipake rasanya jauh lebih nyaman.
+83	soalnya dari segi harga jauh lebih murah, tapi pas dipake rasanya jauh lebih nyaman.
+84	soalnya dari segi harga jauh lebih murah, tapi pas dipake rasanya jauh lebih nyaman.
+85	soalnya dari segi harga jauh lebih murah, tapi pas dipake rasanya jauh lebih nyaman.
+86	soalnya dari segi harga jauh lebih murah, tapi pas dipake rasanya jauh lebih nyaman. Udah dermatologis approve pula.
+87	soalnya dari segi harga jauh lebih murah, tapi pas dipake rasanya jauh lebih nyaman. Udah dermatologis approve pula.
+88	Udah dermatologis approve pula.
+89	Udah dermatologis approve pula.
+90	Udah dermatologis approve pula.
+91	[NO_SPEECH]

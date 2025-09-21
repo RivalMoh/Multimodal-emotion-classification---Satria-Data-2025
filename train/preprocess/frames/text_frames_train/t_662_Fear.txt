@@ -1,0 +1,111 @@
+0	Pernah nggak sih, pas lagi ngucek pusar, eh ternyata bau banget nih?
+1	Pernah nggak sih, pas lagi ngucek pusar, eh ternyata bau banget nih?
+2	Pernah nggak sih, pas lagi ngucek pusar, eh ternyata bau banget nih?
+3	Pernah nggak sih, pas lagi ngucek pusar, eh ternyata bau banget nih?
+4	Pernah nggak sih, pas lagi ngucek pusar, eh ternyata bau banget nih?
+5	Pernah nggak sih, pas lagi ngucek pusar, eh ternyata bau banget nih?
+6	Pernah nggak sih, pas lagi ngucek pusar, eh ternyata bau banget nih?
+7	Pernah nggak sih, pas lagi ngucek pusar, eh ternyata bau banget nih?
+8	Pernah nggak sih, pas lagi ngucek pusar, eh ternyata bau banget nih?
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	Tenang, kamu nggak sendiri kok.
+13	Tenang, kamu nggak sendiri kok.
+14	Tenang, kamu nggak sendiri kok.
+15	Tenang, kamu nggak sendiri kok.
+16	Tenang, kamu nggak sendiri kok. Banyak orang ngalamin hal yang sama, dan FYI aja, pusar itu bisa jadi rumah bakteri lho.
+17	Tenang, kamu nggak sendiri kok. Banyak orang ngalamin hal yang sama, dan FYI aja, pusar itu bisa jadi rumah bakteri lho.
+18	Banyak orang ngalamin hal yang sama, dan FYI aja, pusar itu bisa jadi rumah bakteri lho.
+19	Banyak orang ngalamin hal yang sama, dan FYI aja, pusar itu bisa jadi rumah bakteri lho.
+20	Banyak orang ngalamin hal yang sama, dan FYI aja, pusar itu bisa jadi rumah bakteri lho.
+21	Banyak orang ngalamin hal yang sama, dan FYI aja, pusar itu bisa jadi rumah bakteri lho.
+22	Banyak orang ngalamin hal yang sama, dan FYI aja, pusar itu bisa jadi rumah bakteri lho.
+23	Banyak orang ngalamin hal yang sama, dan FYI aja, pusar itu bisa jadi rumah bakteri lho.
+24	Banyak orang ngalamin hal yang sama, dan FYI aja, pusar itu bisa jadi rumah bakteri lho.
+25	Banyak orang ngalamin hal yang sama, dan FYI aja, pusar itu bisa jadi rumah bakteri lho.
+26	Banyak orang ngalamin hal yang sama, dan FYI aja, pusar itu bisa jadi rumah bakteri lho.
+27	Banyak orang ngalamin hal yang sama, dan FYI aja, pusar itu bisa jadi rumah bakteri lho.
+28	[NO_SPEECH]
+29	Pusar emang sering banget kita lupain pas lagi mandi nih.
+30	Pusar emang sering banget kita lupain pas lagi mandi nih.
+31	Pusar emang sering banget kita lupain pas lagi mandi nih.
+32	Pusar emang sering banget kita lupain pas lagi mandi nih.
+33	Pusar emang sering banget kita lupain pas lagi mandi nih.
+34	Pusar emang sering banget kita lupain pas lagi mandi nih. Padahal, pusar itu lipatan kulit yang gampang numpuk kotoran, minyak, dan sel kulit mati.
+35	Pusar emang sering banget kita lupain pas lagi mandi nih. Padahal, pusar itu lipatan kulit yang gampang numpuk kotoran, minyak, dan sel kulit mati.
+36	Padahal, pusar itu lipatan kulit yang gampang numpuk kotoran, minyak, dan sel kulit mati.
+37	Padahal, pusar itu lipatan kulit yang gampang numpuk kotoran, minyak, dan sel kulit mati.
+38	Padahal, pusar itu lipatan kulit yang gampang numpuk kotoran, minyak, dan sel kulit mati.
+39	Padahal, pusar itu lipatan kulit yang gampang numpuk kotoran, minyak, dan sel kulit mati.
+40	Padahal, pusar itu lipatan kulit yang gampang numpuk kotoran, minyak, dan sel kulit mati.
+41	Padahal, pusar itu lipatan kulit yang gampang numpuk kotoran, minyak, dan sel kulit mati.
+42	Padahal, pusar itu lipatan kulit yang gampang numpuk kotoran, minyak, dan sel kulit mati.
+43	Padahal, pusar itu lipatan kulit yang gampang numpuk kotoran, minyak, dan sel kulit mati.
+44	Padahal, pusar itu lipatan kulit yang gampang numpuk kotoran, minyak, dan sel kulit mati.
+45	Padahal, pusar itu lipatan kulit yang gampang numpuk kotoran, minyak, dan sel kulit mati. Kalau pusar kamu gatal, merah, atau keluar cairan, bisa jadi infeksi jamur atau bakteri tuh.
+46	Kalau pusar kamu gatal, merah, atau keluar cairan, bisa jadi infeksi jamur atau bakteri tuh.
+47	Kalau pusar kamu gatal, merah, atau keluar cairan, bisa jadi infeksi jamur atau bakteri tuh.
+48	Kalau pusar kamu gatal, merah, atau keluar cairan, bisa jadi infeksi jamur atau bakteri tuh.
+49	Kalau pusar kamu gatal, merah, atau keluar cairan, bisa jadi infeksi jamur atau bakteri tuh.
+50	Kalau pusar kamu gatal, merah, atau keluar cairan, bisa jadi infeksi jamur atau bakteri tuh.
+51	Kalau pusar kamu gatal, merah, atau keluar cairan, bisa jadi infeksi jamur atau bakteri tuh.
+52	Kalau pusar kamu gatal, merah, atau keluar cairan, bisa jadi infeksi jamur atau bakteri tuh.
+53	Kalau pusar kamu gatal, merah, atau keluar cairan, bisa jadi infeksi jamur atau bakteri tuh.
+54	Kalau pusar kamu gatal, merah, atau keluar cairan, bisa jadi infeksi jamur atau bakteri tuh.
+55	Kalau pusar kamu gatal, merah, atau keluar cairan, bisa jadi infeksi jamur atau bakteri tuh.
+56	Kalau pusar kamu gatal, merah, atau keluar cairan, bisa jadi infeksi jamur atau bakteri tuh. Tuh, apalagi kalau kamu sering keringetan.
+57	Kalau pusar kamu gatal, merah, atau keluar cairan, bisa jadi infeksi jamur atau bakteri tuh. Tuh, apalagi kalau kamu sering keringetan.
+58	Tuh, apalagi kalau kamu sering keringetan.
+59	Tuh, apalagi kalau kamu sering keringetan.
+60	Tuh, apalagi kalau kamu sering keringetan.
+61	Tuh, apalagi kalau kamu sering keringetan.
+62	Punya tindik di pusar? Nah, itu bisa jadi pintu masuk kuman kalau nggak dirawat bersih.
+63	Punya tindik di pusar? Nah, itu bisa jadi pintu masuk kuman kalau nggak dirawat bersih.
+64	Punya tindik di pusar? Nah, itu bisa jadi pintu masuk kuman kalau nggak dirawat bersih.
+65	Punya tindik di pusar? Nah, itu bisa jadi pintu masuk kuman kalau nggak dirawat bersih.
+66	Punya tindik di pusar? Nah, itu bisa jadi pintu masuk kuman kalau nggak dirawat bersih.
+67	Punya tindik di pusar? Nah, itu bisa jadi pintu masuk kuman kalau nggak dirawat bersih.
+68	Punya tindik di pusar? Nah, itu bisa jadi pintu masuk kuman kalau nggak dirawat bersih.
+69	Punya tindik di pusar? Nah, itu bisa jadi pintu masuk kuman kalau nggak dirawat bersih.
+70	Punya tindik di pusar? Nah, itu bisa jadi pintu masuk kuman kalau nggak dirawat bersih.
+71	Punya tindik di pusar? Nah, itu bisa jadi pintu masuk kuman kalau nggak dirawat bersih.
+72	Punya tindik di pusar? Nah, itu bisa jadi pintu masuk kuman kalau nggak dirawat bersih.
+73	Punya tindik di pusar? Nah, itu bisa jadi pintu masuk kuman kalau nggak dirawat bersih. Ujung-ujungnya? Ya bau deh.
+74	Punya tindik di pusar? Nah, itu bisa jadi pintu masuk kuman kalau nggak dirawat bersih. Ujung-ujungnya? Ya bau deh.
+75	Ujung-ujungnya? Ya bau deh.
+76	Ujung-ujungnya? Ya bau deh.
+77	Ujung-ujungnya? Ya bau deh.
+78	Ujung-ujungnya? Ya bau deh. Makanya penting banget buat bersihin pusar.
+79	Makanya penting banget buat bersihin pusar.
+80	Makanya penting banget buat bersihin pusar.
+81	Makanya penting banget buat bersihin pusar.
+82	Makanya penting banget buat bersihin pusar.
+83	Makanya penting banget buat bersihin pusar. Cukup seminggu satu hingga dua kali pakai cotton bud, tambah air hangat.
+84	Makanya penting banget buat bersihin pusar. Cukup seminggu satu hingga dua kali pakai cotton bud, tambah air hangat.
+85	Cukup seminggu satu hingga dua kali pakai cotton bud, tambah air hangat.
+86	Cukup seminggu satu hingga dua kali pakai cotton bud, tambah air hangat.
+87	Cukup seminggu satu hingga dua kali pakai cotton bud, tambah air hangat.
+88	Cukup seminggu satu hingga dua kali pakai cotton bud, tambah air hangat.
+89	Cukup seminggu satu hingga dua kali pakai cotton bud, tambah air hangat.
+90	Cukup seminggu satu hingga dua kali pakai cotton bud, tambah air hangat.
+91	Cukup seminggu satu hingga dua kali pakai cotton bud, tambah air hangat. Jangan dicolok terlalu dalam ya, nanti malah iritasi.
+92	Jangan dicolok terlalu dalam ya, nanti malah iritasi.
+93	Jangan dicolok terlalu dalam ya, nanti malah iritasi.
+94	Jangan dicolok terlalu dalam ya, nanti malah iritasi.
+95	Jangan dicolok terlalu dalam ya, nanti malah iritasi.
+96	Jangan dicolok terlalu dalam ya, nanti malah iritasi. Yuk, rawat pusar kamu. Jangan sampai baunya jadi masalah ya.
+97	Jangan dicolok terlalu dalam ya, nanti malah iritasi. Yuk, rawat pusar kamu. Jangan sampai baunya jadi masalah ya.
+98	Yuk, rawat pusar kamu. Jangan sampai baunya jadi masalah ya.
+99	Yuk, rawat pusar kamu. Jangan sampai baunya jadi masalah ya.
+100	Yuk, rawat pusar kamu. Jangan sampai baunya jadi masalah ya.
+101	Yuk, rawat pusar kamu. Jangan sampai baunya jadi masalah ya.
+102	Yuk, rawat pusar kamu. Jangan sampai baunya jadi masalah ya.
+103	Yuk, rawat pusar kamu. Jangan sampai baunya jadi masalah ya.
+104	Yuk, rawat pusar kamu. Jangan sampai baunya jadi masalah ya.
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	[NO_SPEECH]
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]

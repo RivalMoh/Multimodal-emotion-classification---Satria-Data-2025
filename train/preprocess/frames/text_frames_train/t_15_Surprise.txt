@@ -1,0 +1,96 @@
+0	kok pengen ke sauna sih, tapi gak ada yang ngajak
+1	kok pengen ke sauna sih, tapi gak ada yang ngajak
+2	kok pengen ke sauna sih, tapi gak ada yang ngajak karena lo gue sama Seva ke gas, inget gak?
+3	kok pengen ke sauna sih, tapi gak ada yang ngajak karena lo gue sama Seva ke gas, inget gak?
+4	karena lo gue sama Seva ke gas, inget gak?
+5	karena lo gue sama Seva ke gas, inget gak?
+6	karena lo gue sama Seva ke gas, inget gak? ya, ya mari doang, nih, jago otomotif, deh
+7	karena lo gue sama Seva ke gas, inget gak? ya, ya mari doang, nih, jago otomotif, deh
+8	ya, ya mari doang, nih, jago otomotif, deh
+9	ya, ya mari doang, nih, jago otomotif, deh
+10	ya, ya mari doang, nih, jago otomotif, deh videonya nonton, kan, ajatan Seva
+11	ya, ya mari doang, nih, jago otomotif, deh videonya nonton, kan, ajatan Seva
+12	videonya nonton, kan, ajatan Seva
+13	videonya nonton, kan, ajatan Seva
+14	videonya nonton, kan, ajatan Seva
+15	[NO_SPEECH]
+16	aduh, Farhan, Farhan
+17	aduh, Farhan, Farhan
+18	aduh, Farhan, Farhan
+19	aduh, Farhan, Farhan
+20	aduh, Farhan, Farhan
+21	bikin konten apaan sih?
+22	bikin konten apaan sih?
+23	bikin konten apaan sih? jadi gue di-tag-tag, kan
+24	bikin konten apaan sih? jadi gue di-tag-tag, kan
+25	jadi gue di-tag-tag, kan
+26	jadi gue di-tag-tag, kan
+27	by the way, gue kan udah pernah ngajak lo kemarin, ya
+28	by the way, gue kan udah pernah ngajak lo kemarin, ya
+29	by the way, gue kan udah pernah ngajak lo kemarin, ya
+30	by the way, gue kan udah pernah ngajak lo kemarin, ya
+31	by the way, gue kan udah pernah ngajak lo kemarin, ya udah gue bantuin, ya, sampe lo bisa beli mobil, ya
+32	by the way, gue kan udah pernah ngajak lo kemarin, ya udah gue bantuin, ya, sampe lo bisa beli mobil, ya
+33	udah gue bantuin, ya, sampe lo bisa beli mobil, ya
+34	udah gue bantuin, ya, sampe lo bisa beli mobil, ya
+35	udah gue bantuin, ya, sampe lo bisa beli mobil, ya
+36	udah gue bantuin, ya, sampe lo bisa beli mobil, ya
+37	udah gue bantuin, ya, sampe lo bisa beli mobil, ya
+38	cuma, kemarin tuh udah salah kostum
+39	cuma, kemarin tuh udah salah kostum
+40	cuma, kemarin tuh udah salah kostum
+41	cuma, kemarin tuh udah salah kostum
+42	cuma, kemarin tuh udah salah kostum kayaknya belum mandi juga, gitu loh
+43	kayaknya belum mandi juga, gitu loh
+44	kayaknya belum mandi juga, gitu loh
+45	kayaknya belum mandi juga, gitu loh
+46	kayaknya belum mandi juga, gitu loh
+47	kayaknya belum mandi juga, gitu loh
+48	terus, kan tahun-tahun itu dia diajak
+49	terus, kan tahun-tahun itu dia diajak
+50	terus, kan tahun-tahun itu dia diajak
+51	terus, kan tahun-tahun itu dia diajak
+52	terus, kan tahun-tahun itu dia diajak kenapa tahun ini harus diajak lagi, gitu
+53	kenapa tahun ini harus diajak lagi, gitu
+54	kenapa tahun ini harus diajak lagi, gitu
+55	kenapa tahun ini harus diajak lagi, gitu
+56	kenapa tahun ini harus diajak lagi, gitu kalau mau ke sana tuh effort sendiri, lah, gitu
+57	kenapa tahun ini harus diajak lagi, gitu kalau mau ke sana tuh effort sendiri, lah, gitu
+58	kalau mau ke sana tuh effort sendiri, lah, gitu
+59	kalau mau ke sana tuh effort sendiri, lah, gitu
+60	kalau mau ke sana tuh effort sendiri, lah, gitu
+61	kalau mau ke sana tuh effort sendiri, lah, gitu
+62	kalau mau ke sana tuh effort sendiri, lah, gitu
+63	kalau mau ke sana tuh effort sendiri, lah, gitu
+64	kalau mau ke sana tuh effort sendiri, lah, gitu gak enak soal, ya, kalau sama Seva diketahuan
+65	gak enak soal, ya, kalau sama Seva diketahuan
+66	gak enak soal, ya, kalau sama Seva diketahuan
+67	gak enak soal, ya, kalau sama Seva diketahuan
+68	gak enak soal, ya, kalau sama Seva diketahuan
+69	gak enak soal, ya, kalau sama Seva diketahuan wah, kok dia begitu, ya
+70	gak enak soal, ya, kalau sama Seva diketahuan wah, kok dia begitu, ya
+71	wah, kok dia begitu, ya
+72	wah, kok dia begitu, ya
+73	wah, kok dia begitu, ya udah diajak kemarin, minta diajak lagi
+74	udah diajak kemarin, minta diajak lagi
+75	udah diajak kemarin, minta diajak lagi
+76	udah diajak kemarin, minta diajak lagi
+77	udah diajak kemarin, minta diajak lagi
+78	udah diajak kemarin, minta diajak lagi
+79	udah diajak kemarin, minta diajak lagi ngelunjak, gitu
+80	ngelunjak, gitu
+81	ngelunjak, gitu gak enak juga sama pelas teguh nanti kalau dia tau, ya, kan
+82	ngelunjak, gitu gak enak juga sama pelas teguh nanti kalau dia tau, ya, kan
+83	gak enak juga sama pelas teguh nanti kalau dia tau, ya, kan
+84	gak enak juga sama pelas teguh nanti kalau dia tau, ya, kan
+85	gak enak juga sama pelas teguh nanti kalau dia tau, ya, kan
+86	gak enak juga sama pelas teguh nanti kalau dia tau, ya, kan
+87	gak enak juga sama pelas teguh nanti kalau dia tau, ya, kan dan gak usah di-tag-tag, lah, pelas teguh, lah
+88	dan gak usah di-tag-tag, lah, pelas teguh, lah
+89	dan gak usah di-tag-tag, lah, pelas teguh, lah
+90	dan gak usah di-tag-tag, lah, pelas teguh, lah
+91	dan gak usah di-tag-tag, lah, pelas teguh, lah cuma di-mention aja
+92	cuma di-mention aja
+93	cuma di-mention aja
+94	cuma di-mention aja
+95	[NO_SPEECH]

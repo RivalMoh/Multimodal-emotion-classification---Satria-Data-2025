@@ -1,0 +1,263 @@
+0	Pal, ada motor buat orang ganteng, Pal.
+1	Pal, ada motor buat orang ganteng, Pal.
+2	Pal, ada motor buat orang ganteng, Pal.
+3	Pal, ada motor buat orang ganteng, Pal.
+4	Pal, ada motor buat orang ganteng, Pal. Nah, apa tuh?
+5	Nah, apa tuh?
+6	Nah, apa tuh?
+7	Nah, apa tuh? Skomadi.
+8	Skomadi. Oh, iya, iya, iya.
+9	Skomadi. Oh, iya, iya, iya.
+10	Oh, iya, iya, iya.
+11	Oh, iya, iya, iya.
+12	Oh, iya, iya, iya. Nih, lihat.
+13	Oh, iya, iya, iya. Nih, lihat.
+14	Nih, lihat. Ini yang sama nih kayak punya gue nih.
+15	Ini yang sama nih kayak punya gue nih.
+16	Ini yang sama nih kayak punya gue nih.
+17	Ini yang sama nih kayak punya gue nih.
+18	Ini yang sama nih kayak punya gue nih.
+19	Ini yang sama nih kayak punya gue nih. Oh iya, pernah lihat nih gue.
+20	Oh iya, pernah lihat nih gue.
+21	Oh iya, pernah lihat nih gue. Ganteng banget kan?
+22	Oh iya, pernah lihat nih gue. Ganteng banget kan?
+23	Ganteng banget kan? Ganteng banget ini.
+24	Ganteng banget kan? Ganteng banget ini. Ini adventure.
+25	Ganteng banget ini. Ini adventure. Skomadi yang adventure series.
+26	Ini adventure. Skomadi yang adventure series.
+27	Skomadi yang adventure series.
+28	Skomadi yang adventure series.
+29	Skomadi yang adventure series. Oh iya, ganteng nih, ganteng, ganteng, ganteng.
+30	Skomadi yang adventure series. Oh iya, ganteng nih, ganteng, ganteng, ganteng.
+31	Oh iya, ganteng nih, ganteng, ganteng, ganteng. Jadi dia skutik, ya kan?
+32	Oh iya, ganteng nih, ganteng, ganteng, ganteng. Jadi dia skutik, ya kan?
+33	Jadi dia skutik, ya kan?
+34	Jadi dia skutik, ya kan?
+35	Jadi dia skutik, ya kan?
+36	Jadi dia skutik, ya kan? Retro.
+37	Jadi dia skutik, ya kan? Retro. Iya.
+38	Retro. Iya.
+39	Iya. Tapi bisa buat off-road.
+40	Tapi bisa buat off-road.
+41	Tapi bisa buat off-road.
+42	Tapi bisa buat off-road.
+43	Tapi bisa buat off-road.
+44	Terus, ini ada yang versi Frank Sanderson.
+45	Terus, ini ada yang versi Frank Sanderson.
+46	Terus, ini ada yang versi Frank Sanderson.
+47	Terus, ini ada yang versi Frank Sanderson.
+48	Terus, ini ada yang versi Frank Sanderson.
+49	Terus, ini ada yang versi Frank Sanderson.
+50	Terus, ini ada yang versi Frank Sanderson.
+51	Terus, ini ada yang versi Frank Sanderson.
+52	Terus, ini ada yang versi Frank Sanderson. Frank Sanderson.
+53	Frank Sanderson.
+54	Frank Sanderson. Jadi yang buat kan namanya Frank Sanderson.
+55	Jadi yang buat kan namanya Frank Sanderson.
+56	Jadi yang buat kan namanya Frank Sanderson.
+57	Jadi yang buat kan namanya Frank Sanderson.
+58	Jadi yang buat kan namanya Frank Sanderson. Betul. Nah, dia bikin yang edisi khusus dia.
+59	Betul. Nah, dia bikin yang edisi khusus dia.
+60	Nah, dia bikin yang edisi khusus dia.
+61	Nah, dia bikin yang edisi khusus dia.
+62	Nah, dia bikin yang edisi khusus dia.
+63	Nah, dia bikin yang edisi khusus dia. Oh, ini?
+64	Oh, ini? Ini motornya.
+65	Oh, ini? Ini motornya.
+66	Ini motornya. Keren warnanya, Pak.
+67	Ini motornya. Keren warnanya, Pak.
+68	Keren warnanya, Pak. Ganteng kan?
+69	Keren warnanya, Pak. Ganteng kan? Ganteng banget, Pak.
+70	Ganteng kan? Ganteng banget, Pak.
+71	Ganteng banget, Pak. Ganteng.
+72	Ganteng banget, Pak. Ganteng. Terus, ada yang The Woo Limited Edition.
+73	Ganteng. Terus, ada yang The Woo Limited Edition.
+74	Terus, ada yang The Woo Limited Edition.
+75	Terus, ada yang The Woo Limited Edition.
+76	Terus, ada yang The Woo Limited Edition.
+77	Terus, ada yang The Woo Limited Edition.
+78	Terus, ada yang The Woo Limited Edition. Iya, ini bagusnya, Pak.
+79	Terus, ada yang The Woo Limited Edition. Iya, ini bagusnya, Pak.
+80	Iya, ini bagusnya, Pak.
+81	Iya, ini bagusnya, Pak. Iya.
+82	Iya, ini bagusnya, Pak. Iya. Ganteng.
+83	Ganteng. Yang masuk sini ada 100.
+84	Ganteng. Yang masuk sini ada 100.
+85	Yang masuk sini ada 100.
+86	Yang masuk sini ada 100. Ada 100?
+87	Ada 100? Sekarang tinggal, dia nggak sampai 10 katanya.
+88	Ada 100? Sekarang tinggal, dia nggak sampai 10 katanya.
+89	Sekarang tinggal, dia nggak sampai 10 katanya.
+90	Sekarang tinggal, dia nggak sampai 10 katanya.
+91	Sekarang tinggal, dia nggak sampai 10 katanya. Wah, baru-baru beli, Pak.
+92	Sekarang tinggal, dia nggak sampai 10 katanya. Wah, baru-baru beli, Pak.
+93	Wah, baru-baru beli, Pak.
+94	Wah, baru-baru beli, Pak. Jadi beruntung nih yang beli ini.
+95	Jadi beruntung nih yang beli ini.
+96	Jadi beruntung nih yang beli ini. Iya, iya, iya.
+97	Jadi beruntung nih yang beli ini. Iya, iya, iya.
+98	Iya, iya, iya. Terus ada yang baru.
+99	Terus ada yang baru.
+100	Terus ada yang baru. Jadi ini Skomadi Turismo Piccolo.
+101	Terus ada yang baru. Jadi ini Skomadi Turismo Piccolo.
+102	Jadi ini Skomadi Turismo Piccolo.
+103	Jadi ini Skomadi Turismo Piccolo.
+104	Jadi ini Skomadi Turismo Piccolo.
+105	Jadi ini Skomadi Turismo Piccolo.
+106	Jadi ini Skomadi Turismo Piccolo.
+107	Jadi ini Skomadi Turismo Piccolo. Wow.
+108	Wow. Color Your Way.
+109	Color Your Way.
+110	Color Your Way. Baru launching hari ini.
+111	Baru launching hari ini.
+112	Baru launching hari ini. Baru launching hari ini.
+113	Baru launching hari ini. Baru launching hari ini. Dimana dia punya 9 pilihan warna.
+114	Baru launching hari ini. Dimana dia punya 9 pilihan warna.
+115	Dimana dia punya 9 pilihan warna.
+116	Dimana dia punya 9 pilihan warna.
+117	Dimana dia punya 9 pilihan warna. Ini warnanya.
+118	Dimana dia punya 9 pilihan warna. Ini warnanya. Dan warnanya terinspirasi dari supercar.
+119	Ini warnanya. Dan warnanya terinspirasi dari supercar.
+120	Dan warnanya terinspirasi dari supercar.
+121	Dan warnanya terinspirasi dari supercar.
+122	Dan warnanya terinspirasi dari supercar.
+123	Dan warnanya terinspirasi dari supercar.
+124	Dan warnanya terinspirasi dari supercar. Wow.
+125	Wow. Bener warna begini, supercar, Pak.
+126	Bener warna begini, supercar, Pak.
+127	Bener warna begini, supercar, Pak.
+128	Bener warna begini, supercar, Pak. Mulai dari lockness green metallic, ya.
+129	Bener warna begini, supercar, Pak. Mulai dari lockness green metallic, ya.
+130	Mulai dari lockness green metallic, ya.
+131	Mulai dari lockness green metallic, ya.
+132	Mulai dari lockness green metallic, ya.
+133	Mulai dari lockness green metallic, ya.
+134	Mulai dari lockness green metallic, ya.
+135	[NO_SPEECH]
+136	Majestic violet metallic.
+137	Majestic violet metallic.
+138	Majestic violet metallic.
+139	Majestic violet metallic. Dan kawan-kawannya.
+140	Majestic violet metallic. Dan kawan-kawannya.
+141	Dan kawan-kawannya.
+142	Dan kawan-kawannya.
+143	Dan kawan-kawannya. Coba duduk, Pak.
+144	Coba duduk, Pak.
+145	Coba duduk, Pak.
+146	[NO_SPEECH]
+147	Duduk dong.
+148	Duduk dong. Eh, mau dibeliin nih gue nih.
+149	Duduk dong. Eh, mau dibeliin nih gue nih.
+150	Eh, mau dibeliin nih gue nih.
+151	Eh, mau dibeliin nih gue nih. Aduh, cakep nih.
+152	Eh, mau dibeliin nih gue nih. Aduh, cakep nih.
+153	Aduh, cakep nih. Ah, cowok-cowok ini buat gue, Pak.
+154	Aduh, cakep nih. Ah, cowok-cowok ini buat gue, Pak.
+155	Ah, cowok-cowok ini buat gue, Pak.
+156	Ah, cowok-cowok ini buat gue, Pak.
+157	Ah, cowok-cowok ini buat gue, Pak. Ganteng kan?
+158	Ganteng kan? Ganteng banget, Pak.
+159	Ganteng kan? Ganteng banget, Pak. Terus tipe yang Color Your Way ini.
+160	Ganteng banget, Pak. Terus tipe yang Color Your Way ini.
+161	Terus tipe yang Color Your Way ini.
+162	Terus tipe yang Color Your Way ini.
+163	Terus tipe yang Color Your Way ini.
+164	Langsung dapat supply screen.
+165	Langsung dapat supply screen.
+166	Langsung dapat supply screen. Oh, nggak perlu nambah nih.
+167	Langsung dapat supply screen. Oh, nggak perlu nambah nih.
+168	Oh, nggak perlu nambah nih.
+169	Oh, nggak perlu nambah nih. Sama kalau kita lihat.
+170	Sama kalau kita lihat.
+171	Sama kalau kita lihat. Yang belakang?
+172	Sama kalau kita lihat. Yang belakang?
+173	Yang belakang? Rak belakangnya.
+174	Yang belakang? Rak belakangnya.
+175	Rak belakangnya. Dia krum juga.
+176	Rak belakangnya. Dia krum juga.
+177	Dia krum juga. Oh, keren.
+178	Oh, keren. Gimana sih, Pak? Dapet, Pak?
+179	Oh, keren. Gimana sih, Pak? Dapet, Pak?
+180	Gimana sih, Pak? Dapet, Pak? Langsung dapet kalau beli yang tipe Color Your Way.
+181	Langsung dapet kalau beli yang tipe Color Your Way.
+182	Langsung dapet kalau beli yang tipe Color Your Way.
+183	Langsung dapet kalau beli yang tipe Color Your Way.
+184	Langsung dapet kalau beli yang tipe Color Your Way.
+185	Langsung dapet kalau beli yang tipe Color Your Way. Wih, cakep, Pak.
+186	Wih, cakep, Pak. Cakep, kan?
+187	Wih, cakep, Pak. Cakep, kan? Mau dibeliin nih, Pak.
+188	Cakep, kan? Mau dibeliin nih, Pak. Jadi, Pak.
+189	Mau dibeliin nih, Pak. Jadi, Pak. Kan gue bilang.
+190	Jadi, Pak. Kan gue bilang.
+191	Kan gue bilang.
+192	Kan gue bilang. Ini motor yang cocok buat orang ganteng.
+193	Ini motor yang cocok buat orang ganteng.
+194	Ini motor yang cocok buat orang ganteng.
+195	Ini motor yang cocok buat orang ganteng.
+196	Ini motor yang cocok buat orang ganteng.
+197	Oh, iya.
+198	Oh, iya. Saya nggak ganteng sih, Pak.
+199	Oh, iya. Saya nggak ganteng sih, Pak.
+200	Saya nggak ganteng sih, Pak. Banyak gue punya.
+201	Saya nggak ganteng sih, Pak. Banyak gue punya.
+202	Banyak gue punya. Oh, iya, Pak.
+203	Oh, iya, Pak.
+204	Oh, iya, Pak. Wow.
+205	Oh, iya, Pak. Wow.
+206	Wow. Nah, sama kalau teman-teman digias.
+207	Nah, sama kalau teman-teman digias.
+208	Nah, sama kalau teman-teman digias.
+209	Nah, sama kalau teman-teman digias.
+210	Nah, sama kalau teman-teman digias. Beli Skomadi bisa dapet 2 tahun free service.
+211	Nah, sama kalau teman-teman digias. Beli Skomadi bisa dapet 2 tahun free service.
+212	Beli Skomadi bisa dapet 2 tahun free service.
+213	Beli Skomadi bisa dapet 2 tahun free service.
+214	Beli Skomadi bisa dapet 2 tahun free service.
+215	Beli Skomadi bisa dapet 2 tahun free service.
+216	Beli Skomadi bisa dapet 2 tahun free service. Jadi, 2 tahun udah tinggal isi bensin doang.
+217	Beli Skomadi bisa dapet 2 tahun free service. Jadi, 2 tahun udah tinggal isi bensin doang.
+218	Jadi, 2 tahun udah tinggal isi bensin doang.
+219	Jadi, 2 tahun udah tinggal isi bensin doang.
+220	Jadi, 2 tahun udah tinggal isi bensin doang.
+221	Jadi, 2 tahun udah tinggal isi bensin doang. Wih, enak banget, ya.
+222	Jadi, 2 tahun udah tinggal isi bensin doang. Wih, enak banget, ya.
+223	Wih, enak banget, ya.
+224	Wih, enak banget, ya. Free service yang spare part lagi.
+225	Wih, enak banget, ya. Free service yang spare part lagi.
+226	Free service yang spare part lagi.
+227	Free service yang spare part lagi. Wih, mantep, mantep.
+228	Free service yang spare part lagi. Wih, mantep, mantep. Kemarin juga gratis.
+229	Wih, mantep, mantep. Kemarin juga gratis.
+230	Kemarin juga gratis. Jadi, buat teman-teman bisa langsung ke Gias.
+231	Kemarin juga gratis. Jadi, buat teman-teman bisa langsung ke Gias.
+232	Jadi, buat teman-teman bisa langsung ke Gias.
+233	Jadi, buat teman-teman bisa langsung ke Gias.
+234	Jadi, buat teman-teman bisa langsung ke Gias. Langsung ke Hall 11 C5.
+235	Jadi, buat teman-teman bisa langsung ke Gias. Langsung ke Hall 11 C5.
+236	Langsung ke Hall 11 C5.
+237	Langsung ke Hall 11 C5.
+238	Langsung ke Hall 11 C5.
+239	Langsung ke Hall 11 C5. Di sini kalian bisa reaktif motor-motor Skomadi.
+240	Di sini kalian bisa reaktif motor-motor Skomadi.
+241	Di sini kalian bisa reaktif motor-motor Skomadi.
+242	Di sini kalian bisa reaktif motor-motor Skomadi.
+243	Di sini kalian bisa reaktif motor-motor Skomadi.
+244	Di sini kalian bisa reaktif motor-motor Skomadi. Dan kalau beruntung, kalian bisa lihat pala ada di sini.
+245	Dan kalau beruntung, kalian bisa lihat pala ada di sini.
+246	Dan kalau beruntung, kalian bisa lihat pala ada di sini.
+247	Dan kalau beruntung, kalian bisa lihat pala ada di sini.
+248	Dan kalau beruntung, kalian bisa lihat pala ada di sini.
+249	Dan kalau beruntung, kalian bisa lihat pala ada di sini. Loh, kok jadi saya?
+250	Dan kalau beruntung, kalian bisa lihat pala ada di sini. Loh, kok jadi saya?
+251	Loh, kok jadi saya?
+252	Loh, kok jadi saya?
+253	[NO_SPEECH]
+254	Nggak dibeliin karena saya nggak ganteng nih jadinya.
+255	Nggak dibeliin karena saya nggak ganteng nih jadinya.
+256	Nggak dibeliin karena saya nggak ganteng nih jadinya.
+257	Nggak dibeliin karena saya nggak ganteng nih jadinya.
+258	Nggak dibeliin karena saya nggak ganteng nih jadinya.
+259	Nggak dibeliin karena saya nggak ganteng nih jadinya. Nah, udah.
+260	Nah, udah.
+261	Nah, udah. Udah.
+262	Udah.

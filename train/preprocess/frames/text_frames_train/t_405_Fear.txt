@@ -1,0 +1,68 @@
+0	Siap lari?
+1	Siap lari? Siap
+2	Siap lari? Siap
+3	Siap
+4	Siap
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	Sudah siap lari hari ini?
+9	Sudah siap lari hari ini?
+10	Sudah siap lari hari ini?
+11	Sudah siap lari hari ini?
+12	Sudah siap lari hari ini? Sudah
+13	Sudah Sudah pakai smartwatch?
+14	Sudah Sudah pakai smartwatch?
+15	Sudah pakai smartwatch?
+16	Sudah pakai smartwatch? Sudah
+17	Sudah Strava nya udah nyala?
+18	Sudah Strava nya udah nyala?
+19	Strava nya udah nyala?
+20	Strava nya udah nyala? Sudah
+21	Strava nya udah nyala? Sudah Softlash?
+22	Sudah Softlash?
+23	Softlash?
+24	Softlash? Sudah
+25	Sudah Evo SL nya?
+26	Sudah Evo SL nya?
+27	Evo SL nya?
+28	Evo SL nya? Ada dong
+29	Ada dong
+30	Ada dong
+31	Topi?
+32	Topi? Sudah
+33	Topi? Sudah Headset?
+34	Sudah Headset?
+35	Sudah Headset?
+36	Headset? Sudah
+37	Sudah Kacamata?
+38	Sudah Kacamata?
+39	Kacamata? Sudah
+40	Kacamata? Sudah Caption buat Strava?
+41	Sudah Caption buat Strava?
+42	Sudah Caption buat Strava?
+43	Caption buat Strava?
+44	Caption buat Strava? Sudah
+45	Caption buat Strava? Sudah Tebus foto juga hari ini?
+46	Sudah Tebus foto juga hari ini?
+47	Tebus foto juga hari ini?
+48	Tebus foto juga hari ini?
+49	Tebus foto juga hari ini? Tebus Udah siap lari sambil ngevlog?
+50	Tebus foto juga hari ini? Tebus Udah siap lari sambil ngevlog?
+51	Udah siap lari sambil ngevlog?
+52	Udah siap lari sambil ngevlog?
+53	Udah siap lari sambil ngevlog?
+54	Udah siap lari sambil ngevlog? Sudah
+55	Udah siap lari sambil ngevlog? Sudah Oke
+56	Sudah Oke Siap
+57	Oke Siap
+58	Siap
+59	Siap
+60	Siap
+61	[NO_SPEECH]
+62	[NO_SPEECH]
+63	[NO_SPEECH]
+64	[NO_SPEECH]
+65	[NO_SPEECH]
+66	[NO_SPEECH]
+67	[NO_SPEECH]

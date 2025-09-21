@@ -1,0 +1,331 @@
+0	Hari ini saya mau spill latihan favorit saya untuk lebarin lats atau gedein lats secara keseluruhan.
+1	Hari ini saya mau spill latihan favorit saya untuk lebarin lats atau gedein lats secara keseluruhan.
+2	Hari ini saya mau spill latihan favorit saya untuk lebarin lats atau gedein lats secara keseluruhan.
+3	Hari ini saya mau spill latihan favorit saya untuk lebarin lats atau gedein lats secara keseluruhan.
+4	Hari ini saya mau spill latihan favorit saya untuk lebarin lats atau gedein lats secara keseluruhan.
+5	Hari ini saya mau spill latihan favorit saya untuk lebarin lats atau gedein lats secara keseluruhan.
+6	Hari ini saya mau spill latihan favorit saya untuk lebarin lats atau gedein lats secara keseluruhan.
+7	Hari ini saya mau spill latihan favorit saya untuk lebarin lats atau gedein lats secara keseluruhan.
+8	Hari ini saya mau spill latihan favorit saya untuk lebarin lats atau gedein lats secara keseluruhan.
+9	Hari ini saya mau spill latihan favorit saya untuk lebarin lats atau gedein lats secara keseluruhan.
+10	Hari ini saya mau spill latihan favorit saya untuk lebarin lats atau gedein lats secara keseluruhan.
+11	Hari ini saya mau spill latihan favorit saya untuk lebarin lats atau gedein lats secara keseluruhan.
+12	Hari ini saya mau spill latihan favorit saya untuk lebarin lats atau gedein lats secara keseluruhan.
+13	Hari ini saya mau spill latihan favorit saya untuk lebarin lats atau gedein lats secara keseluruhan. Karena kalau kalian mau badan yang estetik, kalian wajib punya lats yang lebar untuk dapet V-Taper.
+14	Karena kalau kalian mau badan yang estetik, kalian wajib punya lats yang lebar untuk dapet V-Taper.
+15	Karena kalau kalian mau badan yang estetik, kalian wajib punya lats yang lebar untuk dapet V-Taper.
+16	Karena kalau kalian mau badan yang estetik, kalian wajib punya lats yang lebar untuk dapet V-Taper.
+17	Karena kalau kalian mau badan yang estetik, kalian wajib punya lats yang lebar untuk dapet V-Taper.
+18	Karena kalau kalian mau badan yang estetik, kalian wajib punya lats yang lebar untuk dapet V-Taper.
+19	Karena kalau kalian mau badan yang estetik, kalian wajib punya lats yang lebar untuk dapet V-Taper.
+20	Karena kalau kalian mau badan yang estetik, kalian wajib punya lats yang lebar untuk dapet V-Taper.
+21	Karena kalau kalian mau badan yang estetik, kalian wajib punya lats yang lebar untuk dapet V-Taper.
+22	Karena kalau kalian mau badan yang estetik, kalian wajib punya lats yang lebar untuk dapet V-Taper.
+23	Karena kalau kalian mau badan yang estetik, kalian wajib punya lats yang lebar untuk dapet V-Taper.
+24	Karena kalau kalian mau badan yang estetik, kalian wajib punya lats yang lebar untuk dapet V-Taper.
+25	Karena kalau kalian mau badan yang estetik, kalian wajib punya lats yang lebar untuk dapet V-Taper. Bukan cuma yang gede di tangan doang, tapi nggak lebar.
+26	Karena kalau kalian mau badan yang estetik, kalian wajib punya lats yang lebar untuk dapet V-Taper. Bukan cuma yang gede di tangan doang, tapi nggak lebar.
+27	Bukan cuma yang gede di tangan doang, tapi nggak lebar.
+28	Bukan cuma yang gede di tangan doang, tapi nggak lebar.
+29	Bukan cuma yang gede di tangan doang, tapi nggak lebar.
+30	Bukan cuma yang gede di tangan doang, tapi nggak lebar.
+31	Bukan cuma yang gede di tangan doang, tapi nggak lebar.
+32	Bukan cuma yang gede di tangan doang, tapi nggak lebar. Kebetulan hari ini saya mau cetak personal record.
+33	Kebetulan hari ini saya mau cetak personal record.
+34	Kebetulan hari ini saya mau cetak personal record.
+35	Kebetulan hari ini saya mau cetak personal record.
+36	Kebetulan hari ini saya mau cetak personal record.
+37	Kebetulan hari ini saya mau cetak personal record.
+38	Kebetulan hari ini saya mau cetak personal record. Karena pasca kompetisi, mungkin saya ada sedikit muscle loss sehingga strength saya belum kembali.
+39	Kebetulan hari ini saya mau cetak personal record. Karena pasca kompetisi, mungkin saya ada sedikit muscle loss sehingga strength saya belum kembali.
+40	Karena pasca kompetisi, mungkin saya ada sedikit muscle loss sehingga strength saya belum kembali.
+41	Karena pasca kompetisi, mungkin saya ada sedikit muscle loss sehingga strength saya belum kembali.
+42	Karena pasca kompetisi, mungkin saya ada sedikit muscle loss sehingga strength saya belum kembali.
+43	Karena pasca kompetisi, mungkin saya ada sedikit muscle loss sehingga strength saya belum kembali.
+44	Karena pasca kompetisi, mungkin saya ada sedikit muscle loss sehingga strength saya belum kembali.
+45	Karena pasca kompetisi, mungkin saya ada sedikit muscle loss sehingga strength saya belum kembali.
+46	Karena pasca kompetisi, mungkin saya ada sedikit muscle loss sehingga strength saya belum kembali.
+47	Karena pasca kompetisi, mungkin saya ada sedikit muscle loss sehingga strength saya belum kembali. Dan ini mulai balik lagi.
+48	Karena pasca kompetisi, mungkin saya ada sedikit muscle loss sehingga strength saya belum kembali. Dan ini mulai balik lagi.
+49	Dan ini mulai balik lagi.
+50	Dan ini mulai balik lagi. Hari ini spesial saya pakai Stimulate Vinaflex supaya dapat personal record baru.
+51	Dan ini mulai balik lagi. Hari ini spesial saya pakai Stimulate Vinaflex supaya dapat personal record baru.
+52	Hari ini spesial saya pakai Stimulate Vinaflex supaya dapat personal record baru.
+53	Hari ini spesial saya pakai Stimulate Vinaflex supaya dapat personal record baru.
+54	Hari ini spesial saya pakai Stimulate Vinaflex supaya dapat personal record baru.
+55	Hari ini spesial saya pakai Stimulate Vinaflex supaya dapat personal record baru.
+56	Hari ini spesial saya pakai Stimulate Vinaflex supaya dapat personal record baru.
+57	Hari ini spesial saya pakai Stimulate Vinaflex supaya dapat personal record baru.
+58	Hari ini spesial saya pakai Stimulate Vinaflex supaya dapat personal record baru.
+59	Hari ini spesial saya pakai Stimulate Vinaflex supaya dapat personal record baru.
+60	Hari ini spesial saya pakai Stimulate Vinaflex supaya dapat personal record baru.
+61	Hari ini spesial saya pakai Stimulate Vinaflex supaya dapat personal record baru.
+62	Hari ini spesial saya pakai Stimulate Vinaflex supaya dapat personal record baru. Kandungan beta-alanin, kafein, vitamin C, dan tea cream bantu kita lebih fokus latihan, break PR meski di saat ngantuk.
+63	Kandungan beta-alanin, kafein, vitamin C, dan tea cream bantu kita lebih fokus latihan, break PR meski di saat ngantuk.
+64	Kandungan beta-alanin, kafein, vitamin C, dan tea cream bantu kita lebih fokus latihan, break PR meski di saat ngantuk.
+65	Kandungan beta-alanin, kafein, vitamin C, dan tea cream bantu kita lebih fokus latihan, break PR meski di saat ngantuk.
+66	Kandungan beta-alanin, kafein, vitamin C, dan tea cream bantu kita lebih fokus latihan, break PR meski di saat ngantuk.
+67	Kandungan beta-alanin, kafein, vitamin C, dan tea cream bantu kita lebih fokus latihan, break PR meski di saat ngantuk.
+68	Kandungan beta-alanin, kafein, vitamin C, dan tea cream bantu kita lebih fokus latihan, break PR meski di saat ngantuk.
+69	Kandungan beta-alanin, kafein, vitamin C, dan tea cream bantu kita lebih fokus latihan, break PR meski di saat ngantuk.
+70	Kandungan beta-alanin, kafein, vitamin C, dan tea cream bantu kita lebih fokus latihan, break PR meski di saat ngantuk.
+71	Kandungan beta-alanin, kafein, vitamin C, dan tea cream bantu kita lebih fokus latihan, break PR meski di saat ngantuk.
+72	Kandungan beta-alanin, kafein, vitamin C, dan tea cream bantu kita lebih fokus latihan, break PR meski di saat ngantuk.
+73	Kandungan beta-alanin, kafein, vitamin C, dan tea cream bantu kita lebih fokus latihan, break PR meski di saat ngantuk.
+74	Kandungan beta-alanin, kafein, vitamin C, dan tea cream bantu kita lebih fokus latihan, break PR meski di saat ngantuk.
+75	Kandungan beta-alanin, kafein, vitamin C, dan tea cream bantu kita lebih fokus latihan, break PR meski di saat ngantuk.
+76	Kandungan beta-alanin, kafein, vitamin C, dan tea cream bantu kita lebih fokus latihan, break PR meski di saat ngantuk.
+77	Kandungan beta-alanin, kafein, vitamin C, dan tea cream bantu kita lebih fokus latihan, break PR meski di saat ngantuk.
+78	Kandungan beta-alanin, kafein, vitamin C, dan tea cream bantu kita lebih fokus latihan, break PR meski di saat ngantuk.
+79	Kandungan beta-alanin, kafein, vitamin C, dan tea cream bantu kita lebih fokus latihan, break PR meski di saat ngantuk.
+80	Kandungan beta-alanin, kafein, vitamin C, dan tea cream bantu kita lebih fokus latihan, break PR meski di saat ngantuk.
+81	[NO_SPEECH]
+82	[NO_SPEECH]
+83	[NO_SPEECH]
+84	[NO_SPEECH]
+85	Dry scoop. Reaksinya cepat. Powerful.
+86	Dry scoop. Reaksinya cepat. Powerful.
+87	Dry scoop. Reaksinya cepat. Powerful.
+88	Dry scoop. Reaksinya cepat. Powerful.
+89	Dry scoop. Reaksinya cepat. Powerful.
+90	Dry scoop. Reaksinya cepat. Powerful.
+91	Dry scoop. Reaksinya cepat. Powerful.
+92	Dry scoop. Reaksinya cepat. Powerful. Pandangin terus sampai akhir karena tutorial eksersis ini menurut saya bakal golden banget.
+93	Dry scoop. Reaksinya cepat. Powerful. Pandangin terus sampai akhir karena tutorial eksersis ini menurut saya bakal golden banget.
+94	Pandangin terus sampai akhir karena tutorial eksersis ini menurut saya bakal golden banget.
+95	Pandangin terus sampai akhir karena tutorial eksersis ini menurut saya bakal golden banget.
+96	Pandangin terus sampai akhir karena tutorial eksersis ini menurut saya bakal golden banget.
+97	Pandangin terus sampai akhir karena tutorial eksersis ini menurut saya bakal golden banget.
+98	Pandangin terus sampai akhir karena tutorial eksersis ini menurut saya bakal golden banget.
+99	Pandangin terus sampai akhir karena tutorial eksersis ini menurut saya bakal golden banget.
+100	Pandangin terus sampai akhir karena tutorial eksersis ini menurut saya bakal golden banget.
+101	Pandangin terus sampai akhir karena tutorial eksersis ini menurut saya bakal golden banget. Oke, jadi ini alatnya. Ini kita akan melakukan vertical pull dalam scapular.
+102	Oke, jadi ini alatnya. Ini kita akan melakukan vertical pull dalam scapular.
+103	Oke, jadi ini alatnya. Ini kita akan melakukan vertical pull dalam scapular.
+104	Oke, jadi ini alatnya. Ini kita akan melakukan vertical pull dalam scapular.
+105	Oke, jadi ini alatnya. Ini kita akan melakukan vertical pull dalam scapular.
+106	Oke, jadi ini alatnya. Ini kita akan melakukan vertical pull dalam scapular.
+107	Oke, jadi ini alatnya. Ini kita akan melakukan vertical pull dalam scapular.
+108	Oke, jadi ini alatnya. Ini kita akan melakukan vertical pull dalam scapular.
+109	Oke, jadi ini alatnya. Ini kita akan melakukan vertical pull dalam scapular.
+110	Oke, jadi ini alatnya. Ini kita akan melakukan vertical pull dalam scapular. Jadi scapular plane ini, angle-nya kayak gini ya. Ini badan, ini angle 45 derajat.
+111	Oke, jadi ini alatnya. Ini kita akan melakukan vertical pull dalam scapular. Jadi scapular plane ini, angle-nya kayak gini ya. Ini badan, ini angle 45 derajat.
+112	Jadi scapular plane ini, angle-nya kayak gini ya. Ini badan, ini angle 45 derajat.
+113	Jadi scapular plane ini, angle-nya kayak gini ya. Ini badan, ini angle 45 derajat.
+114	Jadi scapular plane ini, angle-nya kayak gini ya. Ini badan, ini angle 45 derajat.
+115	Jadi scapular plane ini, angle-nya kayak gini ya. Ini badan, ini angle 45 derajat.
+116	Jadi scapular plane ini, angle-nya kayak gini ya. Ini badan, ini angle 45 derajat.
+117	Jadi scapular plane ini, angle-nya kayak gini ya. Ini badan, ini angle 45 derajat.
+118	Jadi scapular plane ini, angle-nya kayak gini ya. Ini badan, ini angle 45 derajat.
+119	Jadi scapular plane ini, angle-nya kayak gini ya. Ini badan, ini angle 45 derajat.
+120	Jadi scapular plane ini, angle-nya kayak gini ya. Ini badan, ini angle 45 derajat. Kalau ini frontal plane, ini sagittal plane, ini scapular plane.
+121	Jadi scapular plane ini, angle-nya kayak gini ya. Ini badan, ini angle 45 derajat. Kalau ini frontal plane, ini sagittal plane, ini scapular plane.
+122	Kalau ini frontal plane, ini sagittal plane, ini scapular plane.
+123	Kalau ini frontal plane, ini sagittal plane, ini scapular plane.
+124	Kalau ini frontal plane, ini sagittal plane, ini scapular plane.
+125	Kalau ini frontal plane, ini sagittal plane, ini scapular plane.
+126	Kalau ini frontal plane, ini sagittal plane, ini scapular plane.
+127	Kalau ini frontal plane, ini sagittal plane, ini scapular plane.
+128	Kalau ini frontal plane, ini sagittal plane, ini scapular plane.
+129	Kalau ini frontal plane, ini sagittal plane, ini scapular plane. Kita pull di scapular plane supaya kena bagian atas dan kena bagian bawah.
+130	Kita pull di scapular plane supaya kena bagian atas dan kena bagian bawah.
+131	Kita pull di scapular plane supaya kena bagian atas dan kena bagian bawah.
+132	Kita pull di scapular plane supaya kena bagian atas dan kena bagian bawah.
+133	Kita pull di scapular plane supaya kena bagian atas dan kena bagian bawah.
+134	Kita pull di scapular plane supaya kena bagian atas dan kena bagian bawah.
+135	Kita pull di scapular plane supaya kena bagian atas dan kena bagian bawah.
+136	Kita pull di scapular plane supaya kena bagian atas dan kena bagian bawah.
+137	Kita pull di scapular plane supaya kena bagian atas dan kena bagian bawah.
+138	Kita pull di scapular plane supaya kena bagian atas dan kena bagian bawah. Kalau misalkan frontal plane seperti pull down atau pull up, dia di bagian lats bawah.
+139	Kita pull di scapular plane supaya kena bagian atas dan kena bagian bawah. Kalau misalkan frontal plane seperti pull down atau pull up, dia di bagian lats bawah.
+140	Kalau misalkan frontal plane seperti pull down atau pull up, dia di bagian lats bawah.
+141	Kalau misalkan frontal plane seperti pull down atau pull up, dia di bagian lats bawah.
+142	Kalau misalkan frontal plane seperti pull down atau pull up, dia di bagian lats bawah.
+143	Kalau misalkan frontal plane seperti pull down atau pull up, dia di bagian lats bawah.
+144	Kalau misalkan frontal plane seperti pull down atau pull up, dia di bagian lats bawah.
+145	Kalau misalkan frontal plane seperti pull down atau pull up, dia di bagian lats bawah.
+146	Kalau misalkan frontal plane seperti pull down atau pull up, dia di bagian lats bawah.
+147	Kalau misalkan frontal plane seperti pull down atau pull up, dia di bagian lats bawah.
+148	Kalau misalkan frontal plane seperti pull down atau pull up, dia di bagian lats bawah. Tapi kalau misalkan di scapular plane, sagittal plane, dia kena upper lats.
+149	Kalau misalkan frontal plane seperti pull down atau pull up, dia di bagian lats bawah. Tapi kalau misalkan di scapular plane, sagittal plane, dia kena upper lats.
+150	Tapi kalau misalkan di scapular plane, sagittal plane, dia kena upper lats.
+151	Tapi kalau misalkan di scapular plane, sagittal plane, dia kena upper lats.
+152	Tapi kalau misalkan di scapular plane, sagittal plane, dia kena upper lats.
+153	Tapi kalau misalkan di scapular plane, sagittal plane, dia kena upper lats.
+154	Tapi kalau misalkan di scapular plane, sagittal plane, dia kena upper lats.
+155	Tapi kalau misalkan di scapular plane, sagittal plane, dia kena upper lats.
+156	Tapi kalau misalkan di scapular plane, sagittal plane, dia kena upper lats. Scapular plane itu kena semua.
+157	Tapi kalau misalkan di scapular plane, sagittal plane, dia kena upper lats. Scapular plane itu kena semua.
+158	Scapular plane itu kena semua.
+159	Scapular plane itu kena semua.
+160	Scapular plane itu kena semua. Itu kenapa saya pake scapular plane.
+161	Itu kenapa saya pake scapular plane.
+162	Itu kenapa saya pake scapular plane.
+163	Itu kenapa saya pake scapular plane.
+164	Itu kenapa saya pake scapular plane. Saya juga menggunakan underhand grip.
+165	Itu kenapa saya pake scapular plane. Saya juga menggunakan underhand grip.
+166	Saya juga menggunakan underhand grip.
+167	Saya juga menggunakan underhand grip.
+168	Saya juga menggunakan underhand grip. Karena dengan underhand grip, bicep lebih tidak sakit.
+169	Saya juga menggunakan underhand grip. Karena dengan underhand grip, bicep lebih tidak sakit.
+170	Karena dengan underhand grip, bicep lebih tidak sakit.
+171	Karena dengan underhand grip, bicep lebih tidak sakit.
+172	Karena dengan underhand grip, bicep lebih tidak sakit.
+173	Karena dengan underhand grip, bicep lebih tidak sakit. Saya punya bicep pain, dimana saya pronated grip akan sakit dan natural grip akan sakit.
+174	Karena dengan underhand grip, bicep lebih tidak sakit. Saya punya bicep pain, dimana saya pronated grip akan sakit dan natural grip akan sakit.
+175	Saya punya bicep pain, dimana saya pronated grip akan sakit dan natural grip akan sakit.
+176	Saya punya bicep pain, dimana saya pronated grip akan sakit dan natural grip akan sakit.
+177	Saya punya bicep pain, dimana saya pronated grip akan sakit dan natural grip akan sakit.
+178	Saya punya bicep pain, dimana saya pronated grip akan sakit dan natural grip akan sakit.
+179	Saya punya bicep pain, dimana saya pronated grip akan sakit dan natural grip akan sakit.
+180	Saya punya bicep pain, dimana saya pronated grip akan sakit dan natural grip akan sakit.
+181	Saya punya bicep pain, dimana saya pronated grip akan sakit dan natural grip akan sakit.
+182	Saya punya bicep pain, dimana saya pronated grip akan sakit dan natural grip akan sakit.
+183	Saya punya bicep pain, dimana saya pronated grip akan sakit dan natural grip akan sakit. Jadi saya akan menggunakan underhand grip.
+184	Saya punya bicep pain, dimana saya pronated grip akan sakit dan natural grip akan sakit. Jadi saya akan menggunakan underhand grip.
+185	Jadi saya akan menggunakan underhand grip.
+186	Jadi saya akan menggunakan underhand grip. Ini warm up terakhir. 50 kilo posisi. Top set saya di 60 kilo.
+187	Jadi saya akan menggunakan underhand grip. Ini warm up terakhir. 50 kilo posisi. Top set saya di 60 kilo.
+188	Ini warm up terakhir. 50 kilo posisi. Top set saya di 60 kilo.
+189	Ini warm up terakhir. 50 kilo posisi. Top set saya di 60 kilo.
+190	Ini warm up terakhir. 50 kilo posisi. Top set saya di 60 kilo.
+191	Ini warm up terakhir. 50 kilo posisi. Top set saya di 60 kilo.
+192	Ini warm up terakhir. 50 kilo posisi. Top set saya di 60 kilo.
+193	Ini warm up terakhir. 50 kilo posisi. Top set saya di 60 kilo.
+194	Ini warm up terakhir. 50 kilo posisi. Top set saya di 60 kilo.
+195	Ini warm up terakhir. 50 kilo posisi. Top set saya di 60 kilo. Gerakannya agak aneh dikit. Yaitu saya nyamping kayak gini supaya berada di scapular plane.
+196	Gerakannya agak aneh dikit. Yaitu saya nyamping kayak gini supaya berada di scapular plane.
+197	Gerakannya agak aneh dikit. Yaitu saya nyamping kayak gini supaya berada di scapular plane.
+198	Gerakannya agak aneh dikit. Yaitu saya nyamping kayak gini supaya berada di scapular plane.
+199	Gerakannya agak aneh dikit. Yaitu saya nyamping kayak gini supaya berada di scapular plane.
+200	Gerakannya agak aneh dikit. Yaitu saya nyamping kayak gini supaya berada di scapular plane.
+201	Gerakannya agak aneh dikit. Yaitu saya nyamping kayak gini supaya berada di scapular plane.
+202	Gerakannya agak aneh dikit. Yaitu saya nyamping kayak gini supaya berada di scapular plane.
+203	Gerakannya agak aneh dikit. Yaitu saya nyamping kayak gini supaya berada di scapular plane.
+204	Gerakannya agak aneh dikit. Yaitu saya nyamping kayak gini supaya berada di scapular plane.
+205	Gerakannya agak aneh dikit. Yaitu saya nyamping kayak gini supaya berada di scapular plane.
+206	Gerakannya agak aneh dikit. Yaitu saya nyamping kayak gini supaya berada di scapular plane. Kuncinya elbow selalu bawa ke badan.
+207	Kuncinya elbow selalu bawa ke badan.
+208	Kuncinya elbow selalu bawa ke badan.
+209	Kuncinya elbow selalu bawa ke badan.
+210	Kuncinya elbow selalu bawa ke badan.
+211	Kuncinya elbow selalu bawa ke badan.
+212	Kuncinya elbow selalu bawa ke badan. Jadi rapet elbow selalu deket sama badan.
+213	Kuncinya elbow selalu bawa ke badan. Jadi rapet elbow selalu deket sama badan.
+214	Jadi rapet elbow selalu deket sama badan.
+215	Jadi rapet elbow selalu deket sama badan.
+216	Jadi rapet elbow selalu deket sama badan.
+217	Jadi rapet elbow selalu deket sama badan.
+218	Jadi rapet elbow selalu deket sama badan.
+219	Jadi rapet elbow selalu deket sama badan. Jangan sampai jauh. Tariknya ke hip.
+220	Jangan sampai jauh. Tariknya ke hip.
+221	Jangan sampai jauh. Tariknya ke hip.
+222	Jangan sampai jauh. Tariknya ke hip.
+223	Jangan sampai jauh. Tariknya ke hip.
+224	Jangan sampai jauh. Tariknya ke hip. Oke. Karena ini cuma warm up. Jadi saya cuma 2 sampai 4 tetepis aja.
+225	Oke. Karena ini cuma warm up. Jadi saya cuma 2 sampai 4 tetepis aja.
+226	Oke. Karena ini cuma warm up. Jadi saya cuma 2 sampai 4 tetepis aja.
+227	Karena ini cuma warm up. Jadi saya cuma 2 sampai 4 tetepis aja.
+228	Karena ini cuma warm up. Jadi saya cuma 2 sampai 4 tetepis aja.
+229	Karena ini cuma warm up. Jadi saya cuma 2 sampai 4 tetepis aja.
+230	Karena ini cuma warm up. Jadi saya cuma 2 sampai 4 tetepis aja.
+231	Karena ini cuma warm up. Jadi saya cuma 2 sampai 4 tetepis aja.
+232	Karena ini cuma warm up. Jadi saya cuma 2 sampai 4 tetepis aja. Pering gini ya. Pull ke hip.
+233	Pering gini ya. Pull ke hip.
+234	Pering gini ya. Pull ke hip.
+235	Pering gini ya. Pull ke hip.
+236	Pering gini ya. Pull ke hip. Range of motion pastikan humerusnya 120 derajat sampai 60 derajat.
+237	Range of motion pastikan humerusnya 120 derajat sampai 60 derajat.
+238	Range of motion pastikan humerusnya 120 derajat sampai 60 derajat.
+239	Range of motion pastikan humerusnya 120 derajat sampai 60 derajat.
+240	Range of motion pastikan humerusnya 120 derajat sampai 60 derajat.
+241	Range of motion pastikan humerusnya 120 derajat sampai 60 derajat.
+242	Range of motion pastikan humerusnya 120 derajat sampai 60 derajat.
+243	Range of motion pastikan humerusnya 120 derajat sampai 60 derajat.
+244	Range of motion pastikan humerusnya 120 derajat sampai 60 derajat.
+245	Range of motion pastikan humerusnya 120 derajat sampai 60 derajat.
+246	Range of motion pastikan humerusnya 120 derajat sampai 60 derajat. Jadi nggak perlu sampai full ke atas.
+247	Range of motion pastikan humerusnya 120 derajat sampai 60 derajat. Jadi nggak perlu sampai full ke atas.
+248	Jadi nggak perlu sampai full ke atas.
+249	Jadi nggak perlu sampai full ke atas.
+250	Jadi nggak perlu sampai full ke atas. Karena kalau ke atas dia pindah ke chest.
+251	Jadi nggak perlu sampai full ke atas. Karena kalau ke atas dia pindah ke chest.
+252	Karena kalau ke atas dia pindah ke chest.
+253	Karena kalau ke atas dia pindah ke chest.
+254	Karena kalau ke atas dia pindah ke chest. Kalau ke bawah masih oke. Tapi maybe more on the biceps.
+255	Kalau ke bawah masih oke. Tapi maybe more on the biceps.
+256	Kalau ke bawah masih oke. Tapi maybe more on the biceps.
+257	Kalau ke bawah masih oke. Tapi maybe more on the biceps.
+258	Kalau ke bawah masih oke. Tapi maybe more on the biceps.
+259	Kalau ke bawah masih oke. Tapi maybe more on the biceps.
+260	Kalau ke bawah masih oke. Tapi maybe more on the biceps.
+261	Kalau ke bawah masih oke. Tapi maybe more on the biceps.
+262	Kalau ke bawah masih oke. Tapi maybe more on the biceps.
+263	Kalau ke bawah masih oke. Tapi maybe more on the biceps.
+264	Kalau ke bawah masih oke. Tapi maybe more on the biceps. Oke sekarang kita top set 60 kilo posisi.
+265	Oke sekarang kita top set 60 kilo posisi.
+266	Oke sekarang kita top set 60 kilo posisi.
+267	Oke sekarang kita top set 60 kilo posisi.
+268	Oke sekarang kita top set 60 kilo posisi.
+269	Oke sekarang kita top set 60 kilo posisi. PR saya 5 rep.
+270	PR saya 5 rep.
+271	PR saya 5 rep.
+272	PR saya 5 rep. Jadi saya mau coba lebih dari 5 rep.
+273	PR saya 5 rep. Jadi saya mau coba lebih dari 5 rep.
+274	Jadi saya mau coba lebih dari 5 rep.
+275	Jadi saya mau coba lebih dari 5 rep.
+276	Jadi saya mau coba lebih dari 5 rep.
+277	Jadi saya mau coba lebih dari 5 rep. Let's go.
+278	Let's go.
+279	Let's go.
+280	[NO_SPEECH]
+281	[NO_SPEECH]
+282	[NO_SPEECH]
+283	[NO_SPEECH]
+284	The date was 9threne.
+285	The date was 9threne.
+286	The date was 9threne.
+287	The date was 9threne.
+288	The date was 9threne.
+289	The date was 9threne.
+290	The date was 9threne.
+291	[NO_SPEECH]
+292	[NO_SPEECH]
+293	[NO_SPEECH]
+294	[NO_SPEECH]
+295	[NO_SPEECH]
+296	[NO_SPEECH]
+297	[NO_SPEECH]
+298	[NO_SPEECH]
+299	[NO_SPEECH]
+300	7 jam setelah disiapkan nemu.
+301	7 jam setelah disiapkan nemu.
+302	7 jam setelah disiapkan nemu.
+303	7 jam setelah disiapkan nemu. RubyPatterna might try to help up the hotness.
+304	7 jam setelah disiapkan nemu. RubyPatterna might try to help up the hotness.
+305	RubyPatterna might try to help up the hotness.
+306	RubyPatterna might try to help up the hotness.
+307	RubyPatterna might try to help up the hotness.
+308	RubyPatterna might try to help up the hotness.
+309	RubyPatterna might try to help up the hotness.
+310	RubyPatterna might try to help up the hotness.
+311	RubyPatterna might try to help up the hotness. Saya mau pindah ke kahan tapi dia mau datang estratég, tambah jual lengku hang hier miriam.
+312	RubyPatterna might try to help up the hotness. Saya mau pindah ke kahan tapi dia mau datang estratég, tambah jual lengku hang hier miriam.
+313	Saya mau pindah ke kahan tapi dia mau datang estratég, tambah jual lengku hang hier miriam.
+314	Saya mau pindah ke kahan tapi dia mau datang estratég, tambah jual lengku hang hier miriam.
+315	Saya mau pindah ke kahan tapi dia mau datang estratég, tambah jual lengku hang hier miriam.
+316	Saya mau pindah ke kahan tapi dia mau datang estratég, tambah jual lengku hang hier miriam.
+317	Saya mau pindah ke kahan tapi dia mau datang estratég, tambah jual lengku hang hier miriam.
+318	Saya mau pindah ke kahan tapi dia mau datang estratég, tambah jual lengku hang hier miriam.
+319	[NO_SPEECH]
+320	[NO_SPEECH]
+321	[NO_SPEECH]
+322	rise balance ke line.
+323	rise balance ke line.
+324	rise balance ke line. L梹sang f мужa menggali bu difficulties
+325	rise balance ke line. L梹sang f мужa menggali bu difficulties Singkat daha 都有10 perang dan penanganan itu tower k archismus.
+326	L梹sang f мужa menggali bu difficulties Singkat daha 都有10 perang dan penanganan itu tower k archismus.
+327	Singkat daha 都有10 perang dan penanganan itu tower k archismus.
+328	Singkat daha 都有10 perang dan penanganan itu tower k archismus.     Gue enjert darineg kg paS right there.
+329	Singkat daha 都有10 perang dan penanganan itu tower k archismus.     Gue enjert darineg kg paS right there.
+330	Gue enjert darineg kg paS right there.

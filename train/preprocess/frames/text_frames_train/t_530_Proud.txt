@@ -1,0 +1,220 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	Salam olahraga
+54	Salam olahraga
+55	Salam olahraga
+56	Salam olahraga
+57	Salam olahraga
+58	Salam olahraga yang insyaallah akan dilaksanakan pada tanggal 4 sampai dengan 8 Agustus 2025
+59	Salam olahraga yang insyaallah akan dilaksanakan pada tanggal 4 sampai dengan 8 Agustus 2025
+60	yang insyaallah akan dilaksanakan pada tanggal 4 sampai dengan 8 Agustus 2025
+61	yang insyaallah akan dilaksanakan pada tanggal 4 sampai dengan 8 Agustus 2025
+62	yang insyaallah akan dilaksanakan pada tanggal 4 sampai dengan 8 Agustus 2025
+63	yang insyaallah akan dilaksanakan pada tanggal 4 sampai dengan 8 Agustus 2025
+64	yang insyaallah akan dilaksanakan pada tanggal 4 sampai dengan 8 Agustus 2025
+65	yang insyaallah akan dilaksanakan pada tanggal 4 sampai dengan 8 Agustus 2025
+66	yang insyaallah akan dilaksanakan pada tanggal 4 sampai dengan 8 Agustus 2025
+67	yang insyaallah akan dilaksanakan pada tanggal 4 sampai dengan 8 Agustus 2025
+68	yang insyaallah akan dilaksanakan pada tanggal 4 sampai dengan 8 Agustus 2025
+69	yang insyaallah akan dilaksanakan pada tanggal 4 sampai dengan 8 Agustus 2025
+70	yang insyaallah akan dilaksanakan pada tanggal 4 sampai dengan 8 Agustus 2025
+71	yang insyaallah akan dilaksanakan pada tanggal 4 sampai dengan 8 Agustus 2025
+72	yang insyaallah akan dilaksanakan pada tanggal 4 sampai dengan 8 Agustus 2025
+73	yang insyaallah akan dilaksanakan pada tanggal 4 sampai dengan 8 Agustus 2025
+74	yang insyaallah akan dilaksanakan pada tanggal 4 sampai dengan 8 Agustus 2025
+75	yang insyaallah akan dilaksanakan pada tanggal 4 sampai dengan 8 Agustus 2025
+76	yang insyaallah akan dilaksanakan pada tanggal 4 sampai dengan 8 Agustus 2025
+77	yang insyaallah akan dilaksanakan pada tanggal 4 sampai dengan 8 Agustus 2025
+78	Ajang ini bukan hanya sekedar pertandingan
+79	Ajang ini bukan hanya sekedar pertandingan
+80	Ajang ini bukan hanya sekedar pertandingan
+81	Ajang ini bukan hanya sekedar pertandingan
+82	Ajang ini bukan hanya sekedar pertandingan
+83	Ajang ini bukan hanya sekedar pertandingan
+84	Ajang ini bukan hanya sekedar pertandingan
+85	Ajang ini bukan hanya sekedar pertandingan
+86	Ajang ini bukan hanya sekedar pertandingan tetapi sebagai wujud komitmen Pemprov DKI Jakarta dan Koni DKI Jakarta
+87	Ajang ini bukan hanya sekedar pertandingan tetapi sebagai wujud komitmen Pemprov DKI Jakarta dan Koni DKI Jakarta
+88	tetapi sebagai wujud komitmen Pemprov DKI Jakarta dan Koni DKI Jakarta
+89	tetapi sebagai wujud komitmen Pemprov DKI Jakarta dan Koni DKI Jakarta
+90	tetapi sebagai wujud komitmen Pemprov DKI Jakarta dan Koni DKI Jakarta
+91	tetapi sebagai wujud komitmen Pemprov DKI Jakarta dan Koni DKI Jakarta
+92	tetapi sebagai wujud komitmen Pemprov DKI Jakarta dan Koni DKI Jakarta
+93	tetapi sebagai wujud komitmen Pemprov DKI Jakarta dan Koni DKI Jakarta
+94	tetapi sebagai wujud komitmen Pemprov DKI Jakarta dan Koni DKI Jakarta
+95	tetapi sebagai wujud komitmen Pemprov DKI Jakarta dan Koni DKI Jakarta
+96	tetapi sebagai wujud komitmen Pemprov DKI Jakarta dan Koni DKI Jakarta
+97	tetapi sebagai wujud komitmen Pemprov DKI Jakarta dan Koni DKI Jakarta
+98	tetapi sebagai wujud komitmen Pemprov DKI Jakarta dan Koni DKI Jakarta dalam melakukan pembinaan dan peningkatan prestasi olahraga di DKI Jakarta
+99	tetapi sebagai wujud komitmen Pemprov DKI Jakarta dan Koni DKI Jakarta dalam melakukan pembinaan dan peningkatan prestasi olahraga di DKI Jakarta
+100	dalam melakukan pembinaan dan peningkatan prestasi olahraga di DKI Jakarta
+101	dalam melakukan pembinaan dan peningkatan prestasi olahraga di DKI Jakarta
+102	dalam melakukan pembinaan dan peningkatan prestasi olahraga di DKI Jakarta
+103	dalam melakukan pembinaan dan peningkatan prestasi olahraga di DKI Jakarta
+104	dalam melakukan pembinaan dan peningkatan prestasi olahraga di DKI Jakarta
+105	dalam melakukan pembinaan dan peningkatan prestasi olahraga di DKI Jakarta
+106	dalam melakukan pembinaan dan peningkatan prestasi olahraga di DKI Jakarta
+107	dalam melakukan pembinaan dan peningkatan prestasi olahraga di DKI Jakarta
+108	dalam melakukan pembinaan dan peningkatan prestasi olahraga di DKI Jakarta
+109	dalam melakukan pembinaan dan peningkatan prestasi olahraga di DKI Jakarta
+110	dalam melakukan pembinaan dan peningkatan prestasi olahraga di DKI Jakarta
+111	dalam melakukan pembinaan dan peningkatan prestasi olahraga di DKI Jakarta
+112	dalam melakukan pembinaan dan peningkatan prestasi olahraga di DKI Jakarta menuju prestasi global
+113	dalam melakukan pembinaan dan peningkatan prestasi olahraga di DKI Jakarta menuju prestasi global
+114	menuju prestasi global
+115	menuju prestasi global
+116	menuju prestasi global
+117	menuju prestasi global dan kepada seluruh atlet saya ucapkan selamat bertanding
+118	menuju prestasi global dan kepada seluruh atlet saya ucapkan selamat bertanding
+119	dan kepada seluruh atlet saya ucapkan selamat bertanding
+120	dan kepada seluruh atlet saya ucapkan selamat bertanding
+121	dan kepada seluruh atlet saya ucapkan selamat bertanding
+122	dan kepada seluruh atlet saya ucapkan selamat bertanding
+123	dan kepada seluruh atlet saya ucapkan selamat bertanding
+124	dan kepada seluruh atlet saya ucapkan selamat bertanding
+125	dan kepada seluruh atlet saya ucapkan selamat bertanding
+126	dan kepada seluruh atlet saya ucapkan selamat bertanding
+127	dan kepada seluruh atlet saya ucapkan selamat bertanding
+128	dan kepada seluruh atlet saya ucapkan selamat bertanding
+129	dan kepada seluruh atlet saya ucapkan selamat bertanding
+130	dan kepada seluruh atlet saya ucapkan selamat bertanding di pekan olahraga pelajar provinsi dan pekan olahraga provinsi DKI Jakarta tahun 2025
+131	dan kepada seluruh atlet saya ucapkan selamat bertanding di pekan olahraga pelajar provinsi dan pekan olahraga provinsi DKI Jakarta tahun 2025
+132	di pekan olahraga pelajar provinsi dan pekan olahraga provinsi DKI Jakarta tahun 2025
+133	di pekan olahraga pelajar provinsi dan pekan olahraga provinsi DKI Jakarta tahun 2025
+134	di pekan olahraga pelajar provinsi dan pekan olahraga provinsi DKI Jakarta tahun 2025
+135	di pekan olahraga pelajar provinsi dan pekan olahraga provinsi DKI Jakarta tahun 2025
+136	di pekan olahraga pelajar provinsi dan pekan olahraga provinsi DKI Jakarta tahun 2025
+137	di pekan olahraga pelajar provinsi dan pekan olahraga provinsi DKI Jakarta tahun 2025
+138	di pekan olahraga pelajar provinsi dan pekan olahraga provinsi DKI Jakarta tahun 2025
+139	di pekan olahraga pelajar provinsi dan pekan olahraga provinsi DKI Jakarta tahun 2025
+140	di pekan olahraga pelajar provinsi dan pekan olahraga provinsi DKI Jakarta tahun 2025
+141	di pekan olahraga pelajar provinsi dan pekan olahraga provinsi DKI Jakarta tahun 2025
+142	di pekan olahraga pelajar provinsi dan pekan olahraga provinsi DKI Jakarta tahun 2025
+143	di pekan olahraga pelajar provinsi dan pekan olahraga provinsi DKI Jakarta tahun 2025
+144	di pekan olahraga pelajar provinsi dan pekan olahraga provinsi DKI Jakarta tahun 2025
+145	di pekan olahraga pelajar provinsi dan pekan olahraga provinsi DKI Jakarta tahun 2025 tunjukkan prestasi terbaik kalian
+146	di pekan olahraga pelajar provinsi dan pekan olahraga provinsi DKI Jakarta tahun 2025 tunjukkan prestasi terbaik kalian
+147	tunjukkan prestasi terbaik kalian
+148	tunjukkan prestasi terbaik kalian
+149	tunjukkan prestasi terbaik kalian
+150	tunjukkan prestasi terbaik kalian
+151	tunjukkan prestasi terbaik kalian
+152	tunjukkan prestasi terbaik kalian junjung indi sportivitas, integritas dan rasa hormat kepada setiap pelawan
+153	tunjukkan prestasi terbaik kalian junjung indi sportivitas, integritas dan rasa hormat kepada setiap pelawan
+154	junjung indi sportivitas, integritas dan rasa hormat kepada setiap pelawan
+155	junjung indi sportivitas, integritas dan rasa hormat kepada setiap pelawan
+156	junjung indi sportivitas, integritas dan rasa hormat kepada setiap pelawan
+157	junjung indi sportivitas, integritas dan rasa hormat kepada setiap pelawan
+158	junjung indi sportivitas, integritas dan rasa hormat kepada setiap pelawan
+159	junjung indi sportivitas, integritas dan rasa hormat kepada setiap pelawan
+160	junjung indi sportivitas, integritas dan rasa hormat kepada setiap pelawan
+161	junjung indi sportivitas, integritas dan rasa hormat kepada setiap pelawan
+162	junjung indi sportivitas, integritas dan rasa hormat kepada setiap pelawan
+163	junjung indi sportivitas, integritas dan rasa hormat kepada setiap pelawan
+164	junjung indi sportivitas, integritas dan rasa hormat kepada setiap pelawan
+165	junjung indi sportivitas, integritas dan rasa hormat kepada setiap pelawan Jakarta kota global dan berbudaya
+166	junjung indi sportivitas, integritas dan rasa hormat kepada setiap pelawan Jakarta kota global dan berbudaya
+167	Jakarta kota global dan berbudaya
+168	Jakarta kota global dan berbudaya
+169	Jakarta kota global dan berbudaya
+170	Jakarta kota global dan berbudaya
+171	Jakarta kota global dan berbudaya
+172	Jakarta kota global dan berbudaya
+173	Jakarta kota global dan berbudaya Jakarta menuju prestasi global
+174	Jakarta kota global dan berbudaya Jakarta menuju prestasi global
+175	Jakarta menuju prestasi global
+176	Jakarta menuju prestasi global
+177	Jakarta menuju prestasi global
+178	Jakarta menuju prestasi global
+179	[NO_SPEECH]
+180	salam olahraga
+181	salam olahraga
+182	salam olahraga
+183	salam olahraga
+184	salam olahraga terima kasih
+185	salam olahraga terima kasih
+186	terima kasih wassalamualaikum warahmatullahi wabarakatuh
+187	terima kasih wassalamualaikum warahmatullahi wabarakatuh
+188	wassalamualaikum warahmatullahi wabarakatuh
+189	wassalamualaikum warahmatullahi wabarakatuh
+190	wassalamualaikum warahmatullahi wabarakatuh
+191	wassalamualaikum warahmatullahi wabarakatuh
+192	wassalamualaikum warahmatullahi wabarakatuh
+193	wassalamualaikum warahmatullahi wabarakatuh
+194	wassalamualaikum warahmatullahi wabarakatuh
+195	[NO_SPEECH]
+196	[NO_SPEECH]
+197	[NO_SPEECH]
+198	[NO_SPEECH]
+199	[NO_SPEECH]
+200	[NO_SPEECH]
+201	[NO_SPEECH]
+202	[NO_SPEECH]
+203	[NO_SPEECH]
+204	[NO_SPEECH]
+205	[NO_SPEECH]
+206	[NO_SPEECH]
+207	[NO_SPEECH]
+208	[NO_SPEECH]
+209	[NO_SPEECH]
+210	[NO_SPEECH]
+211	[NO_SPEECH]
+212	[NO_SPEECH]
+213	[NO_SPEECH]
+214	[NO_SPEECH]
+215	[NO_SPEECH]
+216	[NO_SPEECH]
+217	[NO_SPEECH]
+218	[NO_SPEECH]
+219	[NO_SPEECH]

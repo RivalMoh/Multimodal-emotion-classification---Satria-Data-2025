@@ -1,0 +1,180 @@
+0	Bapak ini jualan mie ayam 4.000 rupiah, tapi bisa beli tanah untuk ke-6 anaknya.
+1	Bapak ini jualan mie ayam 4.000 rupiah, tapi bisa beli tanah untuk ke-6 anaknya.
+2	Bapak ini jualan mie ayam 4.000 rupiah, tapi bisa beli tanah untuk ke-6 anaknya.
+3	Bapak ini jualan mie ayam 4.000 rupiah, tapi bisa beli tanah untuk ke-6 anaknya.
+4	Bapak ini jualan mie ayam 4.000 rupiah, tapi bisa beli tanah untuk ke-6 anaknya.
+5	Bapak ini jualan mie ayam 4.000 rupiah, tapi bisa beli tanah untuk ke-6 anaknya.
+6	Bapak ini jualan mie ayam 4.000 rupiah, tapi bisa beli tanah untuk ke-6 anaknya.
+7	Bapak ini jualan mie ayam 4.000 rupiah, tapi bisa beli tanah untuk ke-6 anaknya.
+8	Bapak ini jualan mie ayam 4.000 rupiah, tapi bisa beli tanah untuk ke-6 anaknya. Perjalanan kuliner ke Klaten kali ini tidak hanya membuat perut gue kenyang,
+9	Bapak ini jualan mie ayam 4.000 rupiah, tapi bisa beli tanah untuk ke-6 anaknya. Perjalanan kuliner ke Klaten kali ini tidak hanya membuat perut gue kenyang,
+10	Perjalanan kuliner ke Klaten kali ini tidak hanya membuat perut gue kenyang,
+11	Perjalanan kuliner ke Klaten kali ini tidak hanya membuat perut gue kenyang,
+12	Perjalanan kuliner ke Klaten kali ini tidak hanya membuat perut gue kenyang,
+13	Perjalanan kuliner ke Klaten kali ini tidak hanya membuat perut gue kenyang,
+14	Perjalanan kuliner ke Klaten kali ini tidak hanya membuat perut gue kenyang,
+15	Perjalanan kuliner ke Klaten kali ini tidak hanya membuat perut gue kenyang,
+16	Perjalanan kuliner ke Klaten kali ini tidak hanya membuat perut gue kenyang, tapi gue juga bisa mendapatkan pelajaran hidup dari Bapak Suro,
+17	tapi gue juga bisa mendapatkan pelajaran hidup dari Bapak Suro,
+18	tapi gue juga bisa mendapatkan pelajaran hidup dari Bapak Suro,
+19	tapi gue juga bisa mendapatkan pelajaran hidup dari Bapak Suro,
+20	tapi gue juga bisa mendapatkan pelajaran hidup dari Bapak Suro,
+21	tapi gue juga bisa mendapatkan pelajaran hidup dari Bapak Suro,
+22	tapi gue juga bisa mendapatkan pelajaran hidup dari Bapak Suro, sang penjual mie ayam dengan harga murah.
+23	tapi gue juga bisa mendapatkan pelajaran hidup dari Bapak Suro, sang penjual mie ayam dengan harga murah.
+24	sang penjual mie ayam dengan harga murah.
+25	sang penjual mie ayam dengan harga murah.
+26	sang penjual mie ayam dengan harga murah.
+27	sang penjual mie ayam dengan harga murah. Jualan ini, walaupun untungnya sedikit,
+28	sang penjual mie ayam dengan harga murah. Jualan ini, walaupun untungnya sedikit,
+29	Jualan ini, walaupun untungnya sedikit,
+30	Jualan ini, walaupun untungnya sedikit,
+31	Jualan ini, walaupun untungnya sedikit,
+32	Jualan ini, walaupun untungnya sedikit,
+33	Jualan ini, walaupun untungnya sedikit,
+34	Jualan ini, walaupun untungnya sedikit, tapi orang itu kalau nggak punya hutang,
+35	Jualan ini, walaupun untungnya sedikit, tapi orang itu kalau nggak punya hutang,
+36	tapi orang itu kalau nggak punya hutang,
+37	tapi orang itu kalau nggak punya hutang,
+38	tapi orang itu kalau nggak punya hutang,
+39	tapi orang itu kalau nggak punya hutang,
+40	tapi orang itu kalau nggak punya hutang,
+41	tapi orang itu kalau nggak punya hutang, makannya apapun enak, tidurnya nyenyak.
+42	makannya apapun enak, tidurnya nyenyak.
+43	makannya apapun enak, tidurnya nyenyak.
+44	makannya apapun enak, tidurnya nyenyak.
+45	makannya apapun enak, tidurnya nyenyak.
+46	makannya apapun enak, tidurnya nyenyak.
+47	makannya apapun enak, tidurnya nyenyak.
+48	makannya apapun enak, tidurnya nyenyak.
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	Anaknya 6, entah semua, sekolah semua.
+52	Anaknya 6, entah semua, sekolah semua.
+53	Anaknya 6, entah semua, sekolah semua.
+54	Anaknya 6, entah semua, sekolah semua.
+55	Anaknya 6, entah semua, sekolah semua. Sekolah semua, walaupun enggak.
+56	Anaknya 6, entah semua, sekolah semua. Sekolah semua, walaupun enggak.
+57	Sekolah semua, walaupun enggak.
+58	Sekolah semua, walaupun enggak.
+59	Sekolah semua, walaupun enggak. Tapi kita bisa beli tanah.
+60	Tapi kita bisa beli tanah.
+61	Tapi kita bisa beli tanah.
+62	Tapi kita bisa beli tanah.
+63	Tapi kita bisa beli tanah.
+64	Tapi kita bisa beli tanah.
+65	Tapi kita bisa beli tanah.
+66	Tapi kita bisa beli tanah. Bila panas, kita semua teman.
+67	Bila panas, kita semua teman.
+68	Bila panas, kita semua teman.
+69	Bila panas, kita semua teman.
+70	Bila panas, kita semua teman.
+71	Bila panas, kita semua teman.
+72	Bila panas, kita semua teman. Jadi tiap anak udah punya tanah?
+73	Bila panas, kita semua teman. Jadi tiap anak udah punya tanah?
+74	Jadi tiap anak udah punya tanah?
+75	Jadi tiap anak udah punya tanah?
+76	Jadi tiap anak udah punya tanah? Iya.
+77	Jadi tiap anak udah punya tanah? Iya. Bapak beli?
+78	Iya. Bapak beli? Beli.
+79	Bapak beli? Beli.
+80	Beli. Ditemani Reton Hanif, kita penasaran banget dengan harga 4.000 rupiah.
+81	Beli. Ditemani Reton Hanif, kita penasaran banget dengan harga 4.000 rupiah.
+82	Ditemani Reton Hanif, kita penasaran banget dengan harga 4.000 rupiah.
+83	Ditemani Reton Hanif, kita penasaran banget dengan harga 4.000 rupiah.
+84	Ditemani Reton Hanif, kita penasaran banget dengan harga 4.000 rupiah.
+85	Ditemani Reton Hanif, kita penasaran banget dengan harga 4.000 rupiah.
+86	Ditemani Reton Hanif, kita penasaran banget dengan harga 4.000 rupiah.
+87	Ditemani Reton Hanif, kita penasaran banget dengan harga 4.000 rupiah.
+88	Ditemani Reton Hanif, kita penasaran banget dengan harga 4.000 rupiah. Kira-kira apa saja sih isinya dan gimana ya rasanya?
+89	Ditemani Reton Hanif, kita penasaran banget dengan harga 4.000 rupiah. Kira-kira apa saja sih isinya dan gimana ya rasanya?
+90	Kira-kira apa saja sih isinya dan gimana ya rasanya?
+91	Kira-kira apa saja sih isinya dan gimana ya rasanya?
+92	Kira-kira apa saja sih isinya dan gimana ya rasanya?
+93	Kira-kira apa saja sih isinya dan gimana ya rasanya?
+94	Kira-kira apa saja sih isinya dan gimana ya rasanya?
+95	Kira-kira apa saja sih isinya dan gimana ya rasanya? Sebenarnya 4.000 rupiah kalau di Klaten itu ya oke lah.
+96	Sebenarnya 4.000 rupiah kalau di Klaten itu ya oke lah.
+97	Sebenarnya 4.000 rupiah kalau di Klaten itu ya oke lah.
+98	Sebenarnya 4.000 rupiah kalau di Klaten itu ya oke lah.
+99	Sebenarnya 4.000 rupiah kalau di Klaten itu ya oke lah.
+100	Sebenarnya 4.000 rupiah kalau di Klaten itu ya oke lah.
+101	Sebenarnya 4.000 rupiah kalau di Klaten itu ya oke lah. Oke ya?
+102	Oke ya? Tapi ada bakso-nya, ada topping ayamnya.
+103	Oke ya? Tapi ada bakso-nya, ada topping ayamnya.
+104	Tapi ada bakso-nya, ada topping ayamnya.
+105	Tapi ada bakso-nya, ada topping ayamnya.
+106	Tapi ada bakso-nya, ada topping ayamnya.
+107	Tapi ada bakso-nya, ada topping ayamnya.
+108	Tapi ada bakso-nya, ada topping ayamnya.
+109	Tapi ada bakso-nya, ada topping ayamnya.
+110	Tapi ada bakso-nya, ada topping ayamnya. Ayamnya juga banyak.
+111	Tapi ada bakso-nya, ada topping ayamnya. Ayamnya juga banyak.
+112	Ayamnya juga banyak.
+113	Ayamnya juga banyak. Ayamnya juga banyak.
+114	Ayamnya juga banyak.
+115	Ayamnya juga banyak. Sayur.
+116	Sayur.
+117	Sayur. Sayur. Makan cuy.
+118	Sayur. Makan cuy.
+119	Makan cuy.
+120	Makan cuy.
+121	Makan cuy.
+122	[NO_SPEECH]
+123	[NO_SPEECH]
+124	[NO_SPEECH]
+125	[NO_SPEECH]
+126	Enak nggak?
+127	Enak nggak?
+128	Enak nggak?
+129	[NO_SPEECH]
+130	[NO_SPEECH]
+131	Enak.
+132	Enak. 
+133	Enak. 
+134	[NO_SPEECH]
+135	[NO_SPEECH]
+136	Enak.
+137	Enak. Enak.
+138	Enak. Enak. Enak untuk 4.000, itu harganya 4.000.
+139	Enak. Enak untuk 4.000, itu harganya 4.000.
+140	Enak untuk 4.000, itu harganya 4.000.
+141	Enak untuk 4.000, itu harganya 4.000.
+142	Enak untuk 4.000, itu harganya 4.000. Jawabannya kebenaran, kalau lu makan mie ayam harganya 4.000.
+143	Enak untuk 4.000, itu harganya 4.000. Jawabannya kebenaran, kalau lu makan mie ayam harganya 4.000.
+144	Jawabannya kebenaran, kalau lu makan mie ayam harganya 4.000.
+145	Jawabannya kebenaran, kalau lu makan mie ayam harganya 4.000.
+146	Jawabannya kebenaran, kalau lu makan mie ayam harganya 4.000.
+147	Jawabannya kebenaran, kalau lu makan mie ayam harganya 4.000.
+148	Jawabannya kebenaran, kalau lu makan mie ayam harganya 4.000.
+149	Jawabannya kebenaran, kalau lu makan mie ayam harganya 4.000.
+150	Please jangan banyak, protek.
+151	Please jangan banyak, protek.
+152	Please jangan banyak, protek.
+153	Please jangan banyak, protek.
+154	Please jangan banyak, protek. Kenapa? Ini manen pahala juga sih, sebenarnya gue ngeliatnya.
+155	Kenapa? Ini manen pahala juga sih, sebenarnya gue ngeliatnya.
+156	Kenapa? Ini manen pahala juga sih, sebenarnya gue ngeliatnya.
+157	Kenapa? Ini manen pahala juga sih, sebenarnya gue ngeliatnya.
+158	Kenapa? Ini manen pahala juga sih, sebenarnya gue ngeliatnya.
+159	Kenapa? Ini manen pahala juga sih, sebenarnya gue ngeliatnya.
+160	Kenapa? Ini manen pahala juga sih, sebenarnya gue ngeliatnya.
+161	Kenapa? Ini manen pahala juga sih, sebenarnya gue ngeliatnya.
+162	Kenapa? Ini manen pahala juga sih, sebenarnya gue ngeliatnya. Betul, luar biasa.
+163	Betul, luar biasa.
+164	Betul, luar biasa.
+165	Betul, luar biasa. Sebenarnya masih banyak cerita tentang Bapak Suro,
+166	Sebenarnya masih banyak cerita tentang Bapak Suro,
+167	Sebenarnya masih banyak cerita tentang Bapak Suro,
+168	Sebenarnya masih banyak cerita tentang Bapak Suro,
+169	Sebenarnya masih banyak cerita tentang Bapak Suro, jadi buat yang penasaran, tonton saja video lengkapnya
+170	Sebenarnya masih banyak cerita tentang Bapak Suro, jadi buat yang penasaran, tonton saja video lengkapnya
+171	jadi buat yang penasaran, tonton saja video lengkapnya
+172	jadi buat yang penasaran, tonton saja video lengkapnya
+173	jadi buat yang penasaran, tonton saja video lengkapnya
+174	jadi buat yang penasaran, tonton saja video lengkapnya
+175	jadi buat yang penasaran, tonton saja video lengkapnya di Youtube channel Next Carlos.
+176	di Youtube channel Next Carlos.
+177	di Youtube channel Next Carlos.
+178	di Youtube channel Next Carlos.
+179	[NO_SPEECH]

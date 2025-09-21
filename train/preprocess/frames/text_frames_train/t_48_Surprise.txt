@@ -1,0 +1,328 @@
+0	nyobain jeep CJ7 nya temen
+1	nyobain jeep CJ7 nya temen
+2	nyobain jeep CJ7 nya temen
+3	nyobain jeep CJ7 nya temen warna merah, liat nih kalo dikontak dia
+4	nyobain jeep CJ7 nya temen warna merah, liat nih kalo dikontak dia
+5	warna merah, liat nih kalo dikontak dia
+6	warna merah, liat nih kalo dikontak dia
+7	warna merah, liat nih kalo dikontak dia
+8	warna merah, liat nih kalo dikontak dia
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	ada toeng, begitunya
+12	ada toeng, begitunya
+13	ada toeng, begitunya
+14	ada toeng, begitunya ini kan udah diganti
+15	ada toeng, begitunya ini kan udah diganti
+16	ini kan udah diganti
+17	ini kan udah diganti
+18	ini kan udah diganti jadi digital semua
+19	ini kan udah diganti jadi digital semua
+20	jadi digital semua
+21	jadi digital semua
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	nah ini
+36	nah ini
+37	nah ini
+38	nah ini
+39	CJ7 pake soft top
+40	CJ7 pake soft top
+41	CJ7 pake soft top
+42	CJ7 pake soft top soft top nya soft top nya
+43	CJ7 pake soft top soft top nya soft top nya
+44	soft top nya soft top nya
+45	soft top nya soft top nya
+46	soft top nya soft top nya jeep YJ atau Wrangler
+47	soft top nya soft top nya jeep YJ atau Wrangler
+48	jeep YJ atau Wrangler
+49	jeep YJ atau Wrangler
+50	jeep YJ atau Wrangler pake pintu setengah
+51	jeep YJ atau Wrangler pake pintu setengah
+52	pake pintu setengah
+53	pake pintu setengah
+54	pake pintu setengah YJ juga, tapi
+55	pake pintu setengah YJ juga, tapi
+56	YJ juga, tapi
+57	YJ juga, tapi AC nya sayangnya belum
+58	YJ juga, tapi AC nya sayangnya belum
+59	AC nya sayangnya belum
+60	AC nya sayangnya belum
+61	[NO_SPEECH]
+62	YJ
+63	YJ
+64	YJ
+65	[NO_SPEECH]
+66	[NO_SPEECH]
+67	[NO_SPEECH]
+68	nah ini
+69	nah ini
+70	nah ini per nya udah diganti per nya
+71	nah ini per nya udah diganti per nya
+72	per nya udah diganti per nya
+73	per nya udah diganti per nya punya nya YJ juga
+74	per nya udah diganti per nya punya nya YJ juga
+75	per nya udah diganti per nya punya nya YJ juga
+76	punya nya YJ juga jadi enak banget
+77	punya nya YJ juga jadi enak banget
+78	jadi enak banget
+79	jadi enak banget
+80	jadi enak banget
+81	jadi enak banget per nya
+82	jadi enak banget per nya
+83	per nya
+84	per nya
+85	[NO_SPEECH]
+86	rem nya belum kita coba
+87	rem nya belum kita coba
+88	rem nya belum kita coba
+89	rem nya belum kita coba mobil tuh harus coba rem nya
+90	rem nya belum kita coba mobil tuh harus coba rem nya
+91	mobil tuh harus coba rem nya
+92	mobil tuh harus coba rem nya jadi ini pake master
+93	mobil tuh harus coba rem nya jadi ini pake master
+94	jadi ini pake master
+95	jadi ini pake master
+96	jadi ini pake master
+97	jadi ini pake master sama servo nya pake
+98	jadi ini pake master sama servo nya pake
+99	sama servo nya pake
+100	sama servo nya pake
+101	sama servo nya pake sama yang dipake
+102	sama servo nya pake sama yang dipake
+103	sama yang dipake
+104	sama yang dipake
+105	sama yang dipake di CJ kita juga
+106	sama yang dipake di CJ kita juga
+107	di CJ kita juga di CJ biru
+108	di CJ kita juga di CJ biru
+109	di CJ biru
+110	di CJ biru Spione juga pake Spione Wrangler
+111	di CJ biru Spione juga pake Spione Wrangler
+112	Spione juga pake Spione Wrangler
+113	Spione juga pake Spione Wrangler
+114	Spione juga pake Spione Wrangler
+115	Spione juga pake Spione Wrangler
+116	[NO_SPEECH]
+117	[NO_SPEECH]
+118	yang keliatannya tuh jauh lebih enak
+119	yang keliatannya tuh jauh lebih enak
+120	yang keliatannya tuh jauh lebih enak
+121	yang keliatannya tuh jauh lebih enak
+122	yang keliatannya tuh jauh lebih enak
+123	yang keliatannya tuh jauh lebih enak
+124	tapi tetep aja yang sebelah kiri tuh agak terlalu
+125	tapi tetep aja yang sebelah kiri tuh agak terlalu
+126	tapi tetep aja yang sebelah kiri tuh agak terlalu
+127	tapi tetep aja yang sebelah kiri tuh agak terlalu
+128	tapi tetep aja yang sebelah kiri tuh agak terlalu
+129	tapi tetep aja yang sebelah kiri tuh agak terlalu
+130	tapi tetep aja yang sebelah kiri tuh agak terlalu
+131	kurang cembung
+132	kurang cembung
+133	kurang cembung
+134	kurang cembung
+135	[NO_SPEECH]
+136	kenapa tiap masuk G3 begitu ya
+137	kenapa tiap masuk G3 begitu ya
+138	kenapa tiap masuk G3 begitu ya
+139	kenapa tiap masuk G3 begitu ya
+140	kenapa tiap masuk G3 begitu ya
+141	sinkromes
+142	sinkromes sinkromes ya ini
+143	sinkromes sinkromes ya ini
+144	sinkromes ya ini
+145	sinkromes ya ini
+146	sinkromes ya ini
+147	[NO_SPEECH]
+148	asalnya bagus
+149	asalnya bagus
+150	asalnya bagus
+151	asalnya bagus
+152	[NO_SPEECH]
+153	spelling nya bagusan saja kita
+154	spelling nya bagusan saja kita
+155	spelling nya bagusan saja kita
+156	spelling nya bagusan saja kita
+157	spelling nya bagusan saja kita
+158	spelling nya bagusan saja kita
+159	[NO_SPEECH]
+160	[NO_SPEECH]
+161	[NO_SPEECH]
+162	[NO_SPEECH]
+163	[NO_SPEECH]
+164	suaranya enak nih
+165	suaranya enak nih
+166	suaranya enak nih
+167	suaranya enak nih
+168	suaranya enak nih
+169	karburator nya tubero
+170	karburator nya tubero
+171	karburator nya tubero
+172	karburator nya tubero sejarah nya enak nih
+173	karburator nya tubero sejarah nya enak nih
+174	sejarah nya enak nih aduh suspensi nya sih bener sih
+175	sejarah nya enak nih aduh suspensi nya sih bener sih
+176	aduh suspensi nya sih bener sih
+177	aduh suspensi nya sih bener sih
+178	aduh suspensi nya sih bener sih
+179	aduh suspensi nya sih bener sih bener deh suspensi nya
+180	aduh suspensi nya sih bener sih bener deh suspensi nya
+181	bener deh suspensi nya
+182	bener deh suspensi nya tetep goyang goyang
+183	bener deh suspensi nya tetep goyang goyang
+184	tetep goyang goyang
+185	tetep goyang goyang kaya mobil jaman dulu
+186	tetep goyang goyang kaya mobil jaman dulu
+187	kaya mobil jaman dulu
+188	kaya mobil jaman dulu
+189	kaya mobil jaman dulu tapi
+190	kaya mobil jaman dulu tapi
+191	tapi
+192	[NO_SPEECH]
+193	[NO_SPEECH]
+194	[NO_SPEECH]
+195	[NO_SPEECH]
+196	[NO_SPEECH]
+197	[NO_SPEECH]
+198	[NO_SPEECH]
+199	[NO_SPEECH]
+200	[NO_SPEECH]
+201	[NO_SPEECH]
+202	ada aja mobil tua ya
+203	ada aja mobil tua ya
+204	ada aja mobil tua ya
+205	ada aja mobil tua ya
+206	ada aja mobil tua ya
+207	[NO_SPEECH]
+208	loper gigi nya lah begitu
+209	loper gigi nya lah begitu
+210	loper gigi nya lah begitu
+211	loper gigi nya lah begitu
+212	loper gigi nya lah begitu
+213	tapi ini 5 speed pak
+214	tapi ini 5 speed pak
+215	tapi ini 5 speed pak
+216	tapi ini 5 speed pak 4 ga? 4 dong
+217	tapi ini 5 speed pak 4 ga? 4 dong
+218	4 ga? 4 dong
+219	4 ga? 4 dong 4 ya
+220	4 ga? 4 dong 4 ya
+221	4 ya
+222	kiri box bawa kan
+223	kiri box bawa kan
+224	kiri box bawa kan gig nya emang 4
+225	kiri box bawa kan gig nya emang 4
+226	kiri box bawa kan gig nya emang 4
+227	gig nya emang 4
+228	[NO_SPEECH]
+229	[NO_SPEECH]
+230	[NO_SPEECH]
+231	tapi kayaknya karena
+232	tapi kayaknya karena
+233	tapi kayaknya karena
+234	tapi kayaknya karena sayangnya matic kita
+235	sayangnya matic kita
+236	sayangnya matic kita oh ini
+237	sayangnya matic kita oh ini ga loncat loncat ya
+238	oh ini ga loncat loncat ya
+239	ga loncat loncat ya ga loncat loncat
+240	ga loncat loncat ya ga loncat loncat
+241	ga loncat loncat
+242	ga loncat loncat
+243	ga loncat loncat
+244	[NO_SPEECH]
+245	[NO_SPEECH]
+246	[NO_SPEECH]
+247	[NO_SPEECH]
+248	ganteng nih
+249	ganteng nih
+250	ganteng nih ganteng ya orang pake GPS nih
+251	ganteng nih ganteng ya orang pake GPS nih
+252	ganteng ya orang pake GPS nih
+253	ganteng ya orang pake GPS nih
+254	ganteng ya orang pake GPS nih
+255	ganteng ya orang pake GPS nih antena GPS nya
+256	ganteng ya orang pake GPS nih antena GPS nya
+257	antena GPS nya
+258	antena GPS nya
+259	[NO_SPEECH]
+260	[NO_SPEECH]
+261	[NO_SPEECH]
+262	[NO_SPEECH]
+263	[NO_SPEECH]
+264	[NO_SPEECH]
+265	[NO_SPEECH]
+266	[NO_SPEECH]
+267	[NO_SPEECH]
+268	tapi enak sih rumah setir nya
+269	tapi enak sih rumah setir nya
+270	tapi enak sih rumah setir nya
+271	tapi enak sih rumah setir nya walaupun spelling tapi
+272	tapi enak sih rumah setir nya walaupun spelling tapi
+273	walaupun spelling tapi
+274	walaupun spelling tapi
+275	walaupun spelling tapi
+276	gampang untuk lurus
+277	gampang untuk lurus
+278	gampang untuk lurus
+279	gampang untuk lurus
+280	gampang untuk lurus
+281	[NO_SPEECH]
+282	[NO_SPEECH]
+283	[NO_SPEECH]
+284	[NO_SPEECH]
+285	[NO_SPEECH]
+286	kenapa sih itu?
+287	kenapa sih itu?
+288	kenapa sih itu?
+289	kenapa sih itu? kenapa sih itu?
+290	kenapa sih itu?
+291	kenapa sih itu? 
+292	kenapa sih itu? 
+293	kenapa sih itu?
+294	kenapa sih itu? 
+295	kenapa sih itu? 
+296	[NO_SPEECH]
+297	[NO_SPEECH]
+298	[NO_SPEECH]
+299	[NO_SPEECH]
+300	[NO_SPEECH]
+301	bener kira klar相
+302	bener kira klar相
+303	bener kira klar相
+304	bener kira klar相
+305	bener kira klar相 k peeled
+306	bener kira klar相 k peeled
+307	k peeled
+308	k peeled
+309	k peeled onward
+310	k peeled onward
+311	onward
+312	onward
+313	onward
+314	onward ział
+315	onward ział
+316	ział
+317	[NO_SPEECH]
+318	[NO_SPEECH]
+319	[NO_SPEECH]
+320	A2
+321	A2
+322	A2
+323	A2 benteng
+324	A2 benteng berhenti
+325	benteng berhenti
+326	berhenti
+327	berhenti

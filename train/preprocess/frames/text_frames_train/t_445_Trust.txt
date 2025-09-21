@@ -1,0 +1,120 @@
+0	Bro, mau nanya dong, workout 2x dalam sehari tuh boleh gak sih?
+1	Bro, mau nanya dong, workout 2x dalam sehari tuh boleh gak sih?
+2	Bro, mau nanya dong, workout 2x dalam sehari tuh boleh gak sih?
+3	Bro, mau nanya dong, workout 2x dalam sehari tuh boleh gak sih?
+4	Bro, mau nanya dong, workout 2x dalam sehari tuh boleh gak sih?
+5	Bro, mau nanya dong, workout 2x dalam sehari tuh boleh gak sih? Hah? Maksudnya gimana tuh?
+6	Bro, mau nanya dong, workout 2x dalam sehari tuh boleh gak sih? Hah? Maksudnya gimana tuh?
+7	Hah? Maksudnya gimana tuh? Ya misal paginya aku latihan push-up, terus sorenya aku lari, atau latihan forearm gitu, boleh gak?
+8	Hah? Maksudnya gimana tuh? Ya misal paginya aku latihan push-up, terus sorenya aku lari, atau latihan forearm gitu, boleh gak?
+9	Ya misal paginya aku latihan push-up, terus sorenya aku lari, atau latihan forearm gitu, boleh gak?
+10	Ya misal paginya aku latihan push-up, terus sorenya aku lari, atau latihan forearm gitu, boleh gak?
+11	Ya misal paginya aku latihan push-up, terus sorenya aku lari, atau latihan forearm gitu, boleh gak?
+12	Ya misal paginya aku latihan push-up, terus sorenya aku lari, atau latihan forearm gitu, boleh gak?
+13	Ya misal paginya aku latihan push-up, terus sorenya aku lari, atau latihan forearm gitu, boleh gak?
+14	Ya misal paginya aku latihan push-up, terus sorenya aku lari, atau latihan forearm gitu, boleh gak?
+15	Ya misal paginya aku latihan push-up, terus sorenya aku lari, atau latihan forearm gitu, boleh gak?
+16	Ya misal paginya aku latihan push-up, terus sorenya aku lari, atau latihan forearm gitu, boleh gak?
+17	Ya misal paginya aku latihan push-up, terus sorenya aku lari, atau latihan forearm gitu, boleh gak? Oh gitu maksudnya, kalo ada waktu dan tenaganya sih gapapa bro, silahkan aja.
+18	Ya misal paginya aku latihan push-up, terus sorenya aku lari, atau latihan forearm gitu, boleh gak? Oh gitu maksudnya, kalo ada waktu dan tenaganya sih gapapa bro, silahkan aja.
+19	Oh gitu maksudnya, kalo ada waktu dan tenaganya sih gapapa bro, silahkan aja.
+20	Oh gitu maksudnya, kalo ada waktu dan tenaganya sih gapapa bro, silahkan aja.
+21	Oh gitu maksudnya, kalo ada waktu dan tenaganya sih gapapa bro, silahkan aja.
+22	Oh gitu maksudnya, kalo ada waktu dan tenaganya sih gapapa bro, silahkan aja.
+23	Oh gitu maksudnya, kalo ada waktu dan tenaganya sih gapapa bro, silahkan aja.
+24	Oh gitu maksudnya, kalo ada waktu dan tenaganya sih gapapa bro, silahkan aja.
+25	Oh gitu maksudnya, kalo ada waktu dan tenaganya sih gapapa bro, silahkan aja. Tapi kalo aku kurang rekomen ya workout kayak gitu.
+26	Tapi kalo aku kurang rekomen ya workout kayak gitu.
+27	Tapi kalo aku kurang rekomen ya workout kayak gitu.
+28	Tapi kalo aku kurang rekomen ya workout kayak gitu.
+29	Tapi kalo aku kurang rekomen ya workout kayak gitu. Hah? Kenapa kok kayak gitu bro?
+30	Tapi kalo aku kurang rekomen ya workout kayak gitu. Hah? Kenapa kok kayak gitu bro?
+31	Hah? Kenapa kok kayak gitu bro?
+32	Hah? Kenapa kok kayak gitu bro? Gini bro, kalo aku pribadi ya, mendingan tuh workoutnya sekali aja dalam sehari tapi all out gitu.
+33	Gini bro, kalo aku pribadi ya, mendingan tuh workoutnya sekali aja dalam sehari tapi all out gitu.
+34	Gini bro, kalo aku pribadi ya, mendingan tuh workoutnya sekali aja dalam sehari tapi all out gitu.
+35	Gini bro, kalo aku pribadi ya, mendingan tuh workoutnya sekali aja dalam sehari tapi all out gitu.
+36	Gini bro, kalo aku pribadi ya, mendingan tuh workoutnya sekali aja dalam sehari tapi all out gitu.
+37	Gini bro, kalo aku pribadi ya, mendingan tuh workoutnya sekali aja dalam sehari tapi all out gitu.
+38	Gini bro, kalo aku pribadi ya, mendingan tuh workoutnya sekali aja dalam sehari tapi all out gitu.
+39	Gini bro, kalo aku pribadi ya, mendingan tuh workoutnya sekali aja dalam sehari tapi all out gitu.
+40	Gini bro, kalo aku pribadi ya, mendingan tuh workoutnya sekali aja dalam sehari tapi all out gitu.
+41	Gini bro, kalo aku pribadi ya, mendingan tuh workoutnya sekali aja dalam sehari tapi all out gitu. Misalkan kayak kamu tadi tuh, abis latihan push-up, langsung aja lari atau latihan forearm gitu, digabung dalam satu sesi.
+42	Misalkan kayak kamu tadi tuh, abis latihan push-up, langsung aja lari atau latihan forearm gitu, digabung dalam satu sesi.
+43	Misalkan kayak kamu tadi tuh, abis latihan push-up, langsung aja lari atau latihan forearm gitu, digabung dalam satu sesi.
+44	Misalkan kayak kamu tadi tuh, abis latihan push-up, langsung aja lari atau latihan forearm gitu, digabung dalam satu sesi.
+45	Misalkan kayak kamu tadi tuh, abis latihan push-up, langsung aja lari atau latihan forearm gitu, digabung dalam satu sesi.
+46	Misalkan kayak kamu tadi tuh, abis latihan push-up, langsung aja lari atau latihan forearm gitu, digabung dalam satu sesi.
+47	Misalkan kayak kamu tadi tuh, abis latihan push-up, langsung aja lari atau latihan forearm gitu, digabung dalam satu sesi.
+48	Misalkan kayak kamu tadi tuh, abis latihan push-up, langsung aja lari atau latihan forearm gitu, digabung dalam satu sesi.
+49	Misalkan kayak kamu tadi tuh, abis latihan push-up, langsung aja lari atau latihan forearm gitu, digabung dalam satu sesi.
+50	Misalkan kayak kamu tadi tuh, abis latihan push-up, langsung aja lari atau latihan forearm gitu, digabung dalam satu sesi.
+51	Misalkan kayak kamu tadi tuh, abis latihan push-up, langsung aja lari atau latihan forearm gitu, digabung dalam satu sesi.
+52	Misalkan kayak kamu tadi tuh, abis latihan push-up, langsung aja lari atau latihan forearm gitu, digabung dalam satu sesi. Oh gitu ya?
+53	Oh gitu ya? Iya bro, soalnya nih workout 2-3 kali dalam sehari tuh levelnya tuh udah atlet bro.
+54	Oh gitu ya? Iya bro, soalnya nih workout 2-3 kali dalam sehari tuh levelnya tuh udah atlet bro.
+55	Iya bro, soalnya nih workout 2-3 kali dalam sehari tuh levelnya tuh udah atlet bro.
+56	Iya bro, soalnya nih workout 2-3 kali dalam sehari tuh levelnya tuh udah atlet bro.
+57	Iya bro, soalnya nih workout 2-3 kali dalam sehari tuh levelnya tuh udah atlet bro.
+58	Iya bro, soalnya nih workout 2-3 kali dalam sehari tuh levelnya tuh udah atlet bro.
+59	Iya bro, soalnya nih workout 2-3 kali dalam sehari tuh levelnya tuh udah atlet bro.
+60	Iya bro, soalnya nih workout 2-3 kali dalam sehari tuh levelnya tuh udah atlet bro.
+61	Iya bro, soalnya nih workout 2-3 kali dalam sehari tuh levelnya tuh udah atlet bro.
+62	Iya bro, soalnya nih workout 2-3 kali dalam sehari tuh levelnya tuh udah atlet bro.
+63	Iya bro, soalnya nih workout 2-3 kali dalam sehari tuh levelnya tuh udah atlet bro. Kalo orang biasa kayak kita mah 1x sehari udah oke banget.
+64	Kalo orang biasa kayak kita mah 1x sehari udah oke banget.
+65	Kalo orang biasa kayak kita mah 1x sehari udah oke banget.
+66	Kalo orang biasa kayak kita mah 1x sehari udah oke banget.
+67	Kalo orang biasa kayak kita mah 1x sehari udah oke banget.
+68	Kalo orang biasa kayak kita mah 1x sehari udah oke banget. Iya ya, kita orang biasa.
+69	Kalo orang biasa kayak kita mah 1x sehari udah oke banget. Iya ya, kita orang biasa.
+70	Iya ya, kita orang biasa.
+71	Iya ya, kita orang biasa. Yoi, kecuali nih, kamu pengen jadi atlet, atau kamu punya banyak waktu dan banyak kekuatan.
+72	Iya ya, kita orang biasa. Yoi, kecuali nih, kamu pengen jadi atlet, atau kamu punya banyak waktu dan banyak kekuatan.
+73	Yoi, kecuali nih, kamu pengen jadi atlet, atau kamu punya banyak waktu dan banyak kekuatan.
+74	Yoi, kecuali nih, kamu pengen jadi atlet, atau kamu punya banyak waktu dan banyak kekuatan.
+75	Yoi, kecuali nih, kamu pengen jadi atlet, atau kamu punya banyak waktu dan banyak kekuatan.
+76	Yoi, kecuali nih, kamu pengen jadi atlet, atau kamu punya banyak waktu dan banyak kekuatan.
+77	Yoi, kecuali nih, kamu pengen jadi atlet, atau kamu punya banyak waktu dan banyak kekuatan.
+78	Yoi, kecuali nih, kamu pengen jadi atlet, atau kamu punya banyak waktu dan banyak kekuatan.
+79	Yoi, kecuali nih, kamu pengen jadi atlet, atau kamu punya banyak waktu dan banyak kekuatan.
+80	Yoi, kecuali nih, kamu pengen jadi atlet, atau kamu punya banyak waktu dan banyak kekuatan. Nah itu gapapa, kamu workout 2-3 sesi dalam sehari.
+81	Yoi, kecuali nih, kamu pengen jadi atlet, atau kamu punya banyak waktu dan banyak kekuatan. Nah itu gapapa, kamu workout 2-3 sesi dalam sehari.
+82	Nah itu gapapa, kamu workout 2-3 sesi dalam sehari.
+83	Nah itu gapapa, kamu workout 2-3 sesi dalam sehari.
+84	Nah itu gapapa, kamu workout 2-3 sesi dalam sehari.
+85	Nah itu gapapa, kamu workout 2-3 sesi dalam sehari.
+86	Nah itu gapapa, kamu workout 2-3 sesi dalam sehari. Iya juga sih, faktor waktu dan kekuatan tuh menentukan banget ya.
+87	Nah itu gapapa, kamu workout 2-3 sesi dalam sehari. Iya juga sih, faktor waktu dan kekuatan tuh menentukan banget ya.
+88	Iya juga sih, faktor waktu dan kekuatan tuh menentukan banget ya.
+89	Iya juga sih, faktor waktu dan kekuatan tuh menentukan banget ya.
+90	Iya juga sih, faktor waktu dan kekuatan tuh menentukan banget ya.
+91	Iya juga sih, faktor waktu dan kekuatan tuh menentukan banget ya.
+92	Iya juga sih, faktor waktu dan kekuatan tuh menentukan banget ya.
+93	Iya juga sih, faktor waktu dan kekuatan tuh menentukan banget ya. Tepat sekali.
+94	Iya juga sih, faktor waktu dan kekuatan tuh menentukan banget ya. Tepat sekali. Oke oke, mulai sekarang kayak aku workoutnya sekali sehari aja deh.
+95	Tepat sekali. Oke oke, mulai sekarang kayak aku workoutnya sekali sehari aja deh.
+96	Oke oke, mulai sekarang kayak aku workoutnya sekali sehari aja deh.
+97	Oke oke, mulai sekarang kayak aku workoutnya sekali sehari aja deh.
+98	Oke oke, mulai sekarang kayak aku workoutnya sekali sehari aja deh.
+99	Oke oke, mulai sekarang kayak aku workoutnya sekali sehari aja deh.
+100	Oke oke, mulai sekarang kayak aku workoutnya sekali sehari aja deh. Nanti kalo udah kuat, dan ada waktunya mungkin baru 2x sehari.
+101	Oke oke, mulai sekarang kayak aku workoutnya sekali sehari aja deh. Nanti kalo udah kuat, dan ada waktunya mungkin baru 2x sehari.
+102	Nanti kalo udah kuat, dan ada waktunya mungkin baru 2x sehari.
+103	Nanti kalo udah kuat, dan ada waktunya mungkin baru 2x sehari.
+104	Nanti kalo udah kuat, dan ada waktunya mungkin baru 2x sehari.
+105	Nanti kalo udah kuat, dan ada waktunya mungkin baru 2x sehari.
+106	Nanti kalo udah kuat, dan ada waktunya mungkin baru 2x sehari. Hahaha, oke oke bro.
+107	Nanti kalo udah kuat, dan ada waktunya mungkin baru 2x sehari. Hahaha, oke oke bro.
+108	Hahaha, oke oke bro.
+109	Hahaha, oke oke bro. Makasih ya Tirzia bro, aku bakal follow kamu sih.
+110	Hahaha, oke oke bro. Makasih ya Tirzia bro, aku bakal follow kamu sih.
+111	Makasih ya Tirzia bro, aku bakal follow kamu sih.
+112	Makasih ya Tirzia bro, aku bakal follow kamu sih.
+113	Makasih ya Tirzia bro, aku bakal follow kamu sih. Makasih buat tips-tips yang kayak gini nih.
+114	Makasih ya Tirzia bro, aku bakal follow kamu sih. Makasih buat tips-tips yang kayak gini nih.
+115	Makasih buat tips-tips yang kayak gini nih.
+116	Makasih buat tips-tips yang kayak gini nih. Siap, sama-sama.
+117	Siap, sama-sama.
+118	Siap, sama-sama.
+119	[NO_SPEECH]

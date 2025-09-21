@@ -1,0 +1,103 @@
+0	Siapa sih yang nggak tau brand beauty satu ini?
+1	Siapa sih yang nggak tau brand beauty satu ini?
+2	Siapa sih yang nggak tau brand beauty satu ini?
+3	Siapa sih yang nggak tau brand beauty satu ini?
+4	Siapa sih yang nggak tau brand beauty satu ini? Hampir di setiap event beauty atau fashion pasti aja selalu ada boothnya dan selalu jadi inceran para cewek-cewek.
+5	Siapa sih yang nggak tau brand beauty satu ini? Hampir di setiap event beauty atau fashion pasti aja selalu ada boothnya dan selalu jadi inceran para cewek-cewek.
+6	Hampir di setiap event beauty atau fashion pasti aja selalu ada boothnya dan selalu jadi inceran para cewek-cewek.
+7	Hampir di setiap event beauty atau fashion pasti aja selalu ada boothnya dan selalu jadi inceran para cewek-cewek.
+8	Hampir di setiap event beauty atau fashion pasti aja selalu ada boothnya dan selalu jadi inceran para cewek-cewek.
+9	Hampir di setiap event beauty atau fashion pasti aja selalu ada boothnya dan selalu jadi inceran para cewek-cewek.
+10	Hampir di setiap event beauty atau fashion pasti aja selalu ada boothnya dan selalu jadi inceran para cewek-cewek.
+11	Hampir di setiap event beauty atau fashion pasti aja selalu ada boothnya dan selalu jadi inceran para cewek-cewek.
+12	Hampir di setiap event beauty atau fashion pasti aja selalu ada boothnya dan selalu jadi inceran para cewek-cewek.
+13	Hampir di setiap event beauty atau fashion pasti aja selalu ada boothnya dan selalu jadi inceran para cewek-cewek.
+14	Hampir di setiap event beauty atau fashion pasti aja selalu ada boothnya dan selalu jadi inceran para cewek-cewek.
+15	Hampir di setiap event beauty atau fashion pasti aja selalu ada boothnya dan selalu jadi inceran para cewek-cewek.
+16	Hampir di setiap event beauty atau fashion pasti aja selalu ada boothnya dan selalu jadi inceran para cewek-cewek. Makanya nggak heran ya kalau di event besar kayak sekarang ini tuh boothnya selalu rame lho.
+17	Hampir di setiap event beauty atau fashion pasti aja selalu ada boothnya dan selalu jadi inceran para cewek-cewek. Makanya nggak heran ya kalau di event besar kayak sekarang ini tuh boothnya selalu rame lho.
+18	Makanya nggak heran ya kalau di event besar kayak sekarang ini tuh boothnya selalu rame lho.
+19	Makanya nggak heran ya kalau di event besar kayak sekarang ini tuh boothnya selalu rame lho.
+20	Makanya nggak heran ya kalau di event besar kayak sekarang ini tuh boothnya selalu rame lho.
+21	Makanya nggak heran ya kalau di event besar kayak sekarang ini tuh boothnya selalu rame lho.
+22	Makanya nggak heran ya kalau di event besar kayak sekarang ini tuh boothnya selalu rame lho.
+23	Makanya nggak heran ya kalau di event besar kayak sekarang ini tuh boothnya selalu rame lho.
+24	Makanya nggak heran ya kalau di event besar kayak sekarang ini tuh boothnya selalu rame lho. By the way guys, ini tuh aku lagi mampir ke boothnya Wardah yang ada di event Beyond Fest.
+25	Makanya nggak heran ya kalau di event besar kayak sekarang ini tuh boothnya selalu rame lho. By the way guys, ini tuh aku lagi mampir ke boothnya Wardah yang ada di event Beyond Fest.
+26	By the way guys, ini tuh aku lagi mampir ke boothnya Wardah yang ada di event Beyond Fest.
+27	By the way guys, ini tuh aku lagi mampir ke boothnya Wardah yang ada di event Beyond Fest.
+28	By the way guys, ini tuh aku lagi mampir ke boothnya Wardah yang ada di event Beyond Fest.
+29	By the way guys, ini tuh aku lagi mampir ke boothnya Wardah yang ada di event Beyond Fest.
+30	By the way guys, ini tuh aku lagi mampir ke boothnya Wardah yang ada di event Beyond Fest.
+31	By the way guys, ini tuh aku lagi mampir ke boothnya Wardah yang ada di event Beyond Fest.
+32	By the way guys, ini tuh aku lagi mampir ke boothnya Wardah yang ada di event Beyond Fest.
+33	By the way guys, ini tuh aku lagi mampir ke boothnya Wardah yang ada di event Beyond Fest. Nah, sekarang tuh lagi ada banyak banget promo.
+34	Nah, sekarang tuh lagi ada banyak banget promo.
+35	Nah, sekarang tuh lagi ada banyak banget promo.
+36	Nah, sekarang tuh lagi ada banyak banget promo.
+37	Nah, sekarang tuh lagi ada banyak banget promo. Ada promo bundling, buy one get one, buy two get one, ada free gift juga.
+38	Ada promo bundling, buy one get one, buy two get one, ada free gift juga.
+39	Ada promo bundling, buy one get one, buy two get one, ada free gift juga.
+40	Ada promo bundling, buy one get one, buy two get one, ada free gift juga.
+41	Ada promo bundling, buy one get one, buy two get one, ada free gift juga.
+42	Ada promo bundling, buy one get one, buy two get one, ada free gift juga.
+43	Ada promo bundling, buy one get one, buy two get one, ada free gift juga.
+44	Ada promo bundling, buy one get one, buy two get one, ada free gift juga.
+45	Ada promo bundling, buy one get one, buy two get one, ada free gift juga. Terus ada promo diskon up to 25%, ada Wardah Color Fest Studio.
+46	Ada promo bundling, buy one get one, buy two get one, ada free gift juga. Terus ada promo diskon up to 25%, ada Wardah Color Fest Studio.
+47	Terus ada promo diskon up to 25%, ada Wardah Color Fest Studio.
+48	Terus ada promo diskon up to 25%, ada Wardah Color Fest Studio.
+49	Terus ada promo diskon up to 25%, ada Wardah Color Fest Studio.
+50	Terus ada promo diskon up to 25%, ada Wardah Color Fest Studio.
+51	Terus ada promo diskon up to 25%, ada Wardah Color Fest Studio.
+52	Terus ada promo diskon up to 25%, ada Wardah Color Fest Studio.
+53	Terus ada promo diskon up to 25%, ada Wardah Color Fest Studio. Dan kalian tuh cukup bayar 200 ribu, bisa langsung ikutan personal color-nya.
+54	Terus ada promo diskon up to 25%, ada Wardah Color Fest Studio. Dan kalian tuh cukup bayar 200 ribu, bisa langsung ikutan personal color-nya.
+55	Dan kalian tuh cukup bayar 200 ribu, bisa langsung ikutan personal color-nya.
+56	Dan kalian tuh cukup bayar 200 ribu, bisa langsung ikutan personal color-nya.
+57	Dan kalian tuh cukup bayar 200 ribu, bisa langsung ikutan personal color-nya.
+58	Dan kalian tuh cukup bayar 200 ribu, bisa langsung ikutan personal color-nya.
+59	Dan kalian tuh cukup bayar 200 ribu, bisa langsung ikutan personal color-nya.
+60	Dan kalian tuh cukup bayar 200 ribu, bisa langsung ikutan personal color-nya. Dan kalian dapetin juga tuh Wardah voucher senilai 200 ribu.
+61	Dan kalian tuh cukup bayar 200 ribu, bisa langsung ikutan personal color-nya. Dan kalian dapetin juga tuh Wardah voucher senilai 200 ribu.
+62	Dan kalian dapetin juga tuh Wardah voucher senilai 200 ribu.
+63	Dan kalian dapetin juga tuh Wardah voucher senilai 200 ribu.
+64	Dan kalian dapetin juga tuh Wardah voucher senilai 200 ribu.
+65	Dan kalian dapetin juga tuh Wardah voucher senilai 200 ribu.
+66	Dan kalian dapetin juga tuh Wardah voucher senilai 200 ribu.
+67	Dan kalian dapetin juga tuh Wardah voucher senilai 200 ribu. Kalau kata aku sih ini tuh worth it banget.
+68	Dan kalian dapetin juga tuh Wardah voucher senilai 200 ribu. Kalau kata aku sih ini tuh worth it banget.
+69	Kalau kata aku sih ini tuh worth it banget.
+70	Kalau kata aku sih ini tuh worth it banget. Kalian bisa ikutan personal color-nya plus dapetin juga voucher belanjanya.
+71	Kalau kata aku sih ini tuh worth it banget. Kalian bisa ikutan personal color-nya plus dapetin juga voucher belanjanya.
+72	Kalian bisa ikutan personal color-nya plus dapetin juga voucher belanjanya.
+73	Kalian bisa ikutan personal color-nya plus dapetin juga voucher belanjanya.
+74	Kalian bisa ikutan personal color-nya plus dapetin juga voucher belanjanya.
+75	Kalian bisa ikutan personal color-nya plus dapetin juga voucher belanjanya.
+76	Kalian bisa ikutan personal color-nya plus dapetin juga voucher belanjanya.
+77	Kalian bisa ikutan personal color-nya plus dapetin juga voucher belanjanya.
+78	Kalian bisa ikutan personal color-nya plus dapetin juga voucher belanjanya. Ini tuh kan eventnya cuma 3 hari dan terakhir itu tanggal 18.
+79	Ini tuh kan eventnya cuma 3 hari dan terakhir itu tanggal 18.
+80	Ini tuh kan eventnya cuma 3 hari dan terakhir itu tanggal 18.
+81	Ini tuh kan eventnya cuma 3 hari dan terakhir itu tanggal 18.
+82	Ini tuh kan eventnya cuma 3 hari dan terakhir itu tanggal 18.
+83	Ini tuh kan eventnya cuma 3 hari dan terakhir itu tanggal 18.
+84	Ini tuh kan eventnya cuma 3 hari dan terakhir itu tanggal 18. Jadi, mending buruan deh langsung aja datang ke event Beyond Fest dan langsung mampir belanja ke boothnya Wardah ya.
+85	Jadi, mending buruan deh langsung aja datang ke event Beyond Fest dan langsung mampir belanja ke boothnya Wardah ya.
+86	Jadi, mending buruan deh langsung aja datang ke event Beyond Fest dan langsung mampir belanja ke boothnya Wardah ya.
+87	Jadi, mending buruan deh langsung aja datang ke event Beyond Fest dan langsung mampir belanja ke boothnya Wardah ya.
+88	Jadi, mending buruan deh langsung aja datang ke event Beyond Fest dan langsung mampir belanja ke boothnya Wardah ya.
+89	Jadi, mending buruan deh langsung aja datang ke event Beyond Fest dan langsung mampir belanja ke boothnya Wardah ya.
+90	Jadi, mending buruan deh langsung aja datang ke event Beyond Fest dan langsung mampir belanja ke boothnya Wardah ya.
+91	Jadi, mending buruan deh langsung aja datang ke event Beyond Fest dan langsung mampir belanja ke boothnya Wardah ya.
+92	Jadi, mending buruan deh langsung aja datang ke event Beyond Fest dan langsung mampir belanja ke boothnya Wardah ya.
+93	Jadi, mending buruan deh langsung aja datang ke event Beyond Fest dan langsung mampir belanja ke boothnya Wardah ya.
+94	Jadi, mending buruan deh langsung aja datang ke event Beyond Fest dan langsung mampir belanja ke boothnya Wardah ya.
+95	Jadi, mending buruan deh langsung aja datang ke event Beyond Fest dan langsung mampir belanja ke boothnya Wardah ya. Jangan sampai kalian lewatin promonya.
+96	Jadi, mending buruan deh langsung aja datang ke event Beyond Fest dan langsung mampir belanja ke boothnya Wardah ya. Jangan sampai kalian lewatin promonya.
+97	Jangan sampai kalian lewatin promonya.
+98	Jangan sampai kalian lewatin promonya. Happy shopping!
+99	Jangan sampai kalian lewatin promonya. Happy shopping!
+100	Happy shopping!
+101	[NO_SPEECH]
+102	[NO_SPEECH]

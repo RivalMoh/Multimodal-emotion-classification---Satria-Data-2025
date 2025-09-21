@@ -1,0 +1,124 @@
+0	Stargazer Kartens hadir dengan tampang yang baru.
+1	Stargazer Kartens hadir dengan tampang yang baru.
+2	Stargazer Kartens hadir dengan tampang yang baru.
+3	Stargazer Kartens hadir dengan tampang yang baru.
+4	Stargazer Kartens hadir dengan tampang yang baru.
+5	Stargazer Kartens hadir dengan tampang yang baru.
+6	Stargazer Kartens hadir dengan tampang yang baru.
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	Tampak depan sudah berubah dengan mengusung desain kotak.
+10	Tampak depan sudah berubah dengan mengusung desain kotak.
+11	Tampak depan sudah berubah dengan mengusung desain kotak.
+12	Tampak depan sudah berubah dengan mengusung desain kotak.
+13	Tampak depan sudah berubah dengan mengusung desain kotak.
+14	Tampak depan sudah berubah dengan mengusung desain kotak.
+15	Tampak depan sudah berubah dengan mengusung desain kotak.
+16	Tampak depan sudah berubah dengan mengusung desain kotak. Bagian belakang juga mengarah ke tema yang sama dengan bagian depan.
+17	Bagian belakang juga mengarah ke tema yang sama dengan bagian depan.
+18	Bagian belakang juga mengarah ke tema yang sama dengan bagian depan.
+19	Bagian belakang juga mengarah ke tema yang sama dengan bagian depan.
+20	Bagian belakang juga mengarah ke tema yang sama dengan bagian depan.
+21	Bagian belakang juga mengarah ke tema yang sama dengan bagian depan.
+22	Bagian belakang juga mengarah ke tema yang sama dengan bagian depan.
+23	Bagian belakang juga mengarah ke tema yang sama dengan bagian depan.
+24	Bagian belakang juga mengarah ke tema yang sama dengan bagian depan.
+25	Bagian belakang juga mengarah ke tema yang sama dengan bagian depan.
+26	[NO_SPEECH]
+27	Perubahan signifikan terasa saat berkendara.
+28	Perubahan signifikan terasa saat berkendara.
+29	Perubahan signifikan terasa saat berkendara.
+30	Perubahan signifikan terasa saat berkendara.
+31	Perubahan signifikan terasa saat berkendara.
+32	Perubahan signifikan terasa saat berkendara. Point of view-nya lebih luas karena dashboard-nya lebih rendah sehingga tidak menghalangi pandangan ke depan.
+33	Perubahan signifikan terasa saat berkendara. Point of view-nya lebih luas karena dashboard-nya lebih rendah sehingga tidak menghalangi pandangan ke depan.
+34	Point of view-nya lebih luas karena dashboard-nya lebih rendah sehingga tidak menghalangi pandangan ke depan.
+35	Point of view-nya lebih luas karena dashboard-nya lebih rendah sehingga tidak menghalangi pandangan ke depan.
+36	Point of view-nya lebih luas karena dashboard-nya lebih rendah sehingga tidak menghalangi pandangan ke depan.
+37	Point of view-nya lebih luas karena dashboard-nya lebih rendah sehingga tidak menghalangi pandangan ke depan.
+38	Point of view-nya lebih luas karena dashboard-nya lebih rendah sehingga tidak menghalangi pandangan ke depan.
+39	Point of view-nya lebih luas karena dashboard-nya lebih rendah sehingga tidak menghalangi pandangan ke depan.
+40	Point of view-nya lebih luas karena dashboard-nya lebih rendah sehingga tidak menghalangi pandangan ke depan.
+41	Point of view-nya lebih luas karena dashboard-nya lebih rendah sehingga tidak menghalangi pandangan ke depan.
+42	Point of view-nya lebih luas karena dashboard-nya lebih rendah sehingga tidak menghalangi pandangan ke depan.
+43	Point of view-nya lebih luas karena dashboard-nya lebih rendah sehingga tidak menghalangi pandangan ke depan.
+44	Point of view-nya lebih luas karena dashboard-nya lebih rendah sehingga tidak menghalangi pandangan ke depan.
+45	Point of view-nya lebih luas karena dashboard-nya lebih rendah sehingga tidak menghalangi pandangan ke depan.
+46	Point of view-nya lebih luas karena dashboard-nya lebih rendah sehingga tidak menghalangi pandangan ke depan.
+47	Dan juga yang bisa saya rasakan di sini adalah suspensinya.
+48	Dan juga yang bisa saya rasakan di sini adalah suspensinya.
+49	Dan juga yang bisa saya rasakan di sini adalah suspensinya.
+50	Dan juga yang bisa saya rasakan di sini adalah suspensinya.
+51	Dan juga yang bisa saya rasakan di sini adalah suspensinya.
+52	Dan juga yang bisa saya rasakan di sini adalah suspensinya.
+53	Dan juga yang bisa saya rasakan di sini adalah suspensinya. Terasa suspensinya itu seperti dikoreksi sedikit.
+54	Dan juga yang bisa saya rasakan di sini adalah suspensinya. Terasa suspensinya itu seperti dikoreksi sedikit.
+55	Dan juga yang bisa saya rasakan di sini adalah suspensinya. Terasa suspensinya itu seperti dikoreksi sedikit.
+56	Terasa suspensinya itu seperti dikoreksi sedikit.
+57	Terasa suspensinya itu seperti dikoreksi sedikit.
+58	Terasa suspensinya itu seperti dikoreksi sedikit.
+59	Terasa suspensinya itu seperti dikoreksi sedikit.
+60	Terasa suspensinya itu seperti dikoreksi sedikit.
+61	Terasa suspensinya itu seperti dikoreksi sedikit. Sehingga ketika melewati jalanan rusak atau gravel, penumpang tidak terasa begitu bergoyang-goyang.
+62	Sehingga ketika melewati jalanan rusak atau gravel, penumpang tidak terasa begitu bergoyang-goyang.
+63	Sehingga ketika melewati jalanan rusak atau gravel, penumpang tidak terasa begitu bergoyang-goyang.
+64	Sehingga ketika melewati jalanan rusak atau gravel, penumpang tidak terasa begitu bergoyang-goyang.
+65	Sehingga ketika melewati jalanan rusak atau gravel, penumpang tidak terasa begitu bergoyang-goyang.
+66	Sehingga ketika melewati jalanan rusak atau gravel, penumpang tidak terasa begitu bergoyang-goyang.
+67	Sehingga ketika melewati jalanan rusak atau gravel, penumpang tidak terasa begitu bergoyang-goyang.
+68	Sehingga ketika melewati jalanan rusak atau gravel, penumpang tidak terasa begitu bergoyang-goyang.
+69	Sehingga ketika melewati jalanan rusak atau gravel, penumpang tidak terasa begitu bergoyang-goyang.
+70	Sehingga ketika melewati jalanan rusak atau gravel, penumpang tidak terasa begitu bergoyang-goyang.
+71	Sehingga ketika melewati jalanan rusak atau gravel, penumpang tidak terasa begitu bergoyang-goyang.
+72	Sehingga ketika melewati jalanan rusak atau gravel, penumpang tidak terasa begitu bergoyang-goyang.
+73	Sehingga ketika melewati jalanan rusak atau gravel, penumpang tidak terasa begitu bergoyang-goyang.
+74	Sehingga ketika melewati jalanan rusak atau gravel, penumpang tidak terasa begitu bergoyang-goyang.
+75	Sehingga ketika melewati jalanan rusak atau gravel, penumpang tidak terasa begitu bergoyang-goyang.
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	[NO_SPEECH]
+83	[NO_SPEECH]
+84	[NO_SPEECH]
+85	Uniknya, beberapa tombol di menu AC sudah AC Tift Touch, jadi serasa lebih modern.
+86	Uniknya, beberapa tombol di menu AC sudah AC Tift Touch, jadi serasa lebih modern.
+87	Uniknya, beberapa tombol di menu AC sudah AC Tift Touch, jadi serasa lebih modern.
+88	Uniknya, beberapa tombol di menu AC sudah AC Tift Touch, jadi serasa lebih modern.
+89	Uniknya, beberapa tombol di menu AC sudah AC Tift Touch, jadi serasa lebih modern.
+90	Uniknya, beberapa tombol di menu AC sudah AC Tift Touch, jadi serasa lebih modern.
+91	Uniknya, beberapa tombol di menu AC sudah AC Tift Touch, jadi serasa lebih modern.
+92	Uniknya, beberapa tombol di menu AC sudah AC Tift Touch, jadi serasa lebih modern.
+93	Uniknya, beberapa tombol di menu AC sudah AC Tift Touch, jadi serasa lebih modern.
+94	Uniknya, beberapa tombol di menu AC sudah AC Tift Touch, jadi serasa lebih modern.
+95	Uniknya, beberapa tombol di menu AC sudah AC Tift Touch, jadi serasa lebih modern.
+96	Uniknya, beberapa tombol di menu AC sudah AC Tift Touch, jadi serasa lebih modern.
+97	Uniknya, beberapa tombol di menu AC sudah AC Tift Touch, jadi serasa lebih modern.
+98	Uniknya, beberapa tombol di menu AC sudah AC Tift Touch, jadi serasa lebih modern.
+99	Uniknya, beberapa tombol di menu AC sudah AC Tift Touch, jadi serasa lebih modern.
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	Jadi bagaimana?
+103	Jadi bagaimana?
+104	Jadi bagaimana?
+105	Jadi bagaimana? Dengan perubahan ini, apakah Hyundai Stargazer Kartens bisa masuk daftar?
+106	Jadi bagaimana? Dengan perubahan ini, apakah Hyundai Stargazer Kartens bisa masuk daftar?
+107	Dengan perubahan ini, apakah Hyundai Stargazer Kartens bisa masuk daftar?
+108	Dengan perubahan ini, apakah Hyundai Stargazer Kartens bisa masuk daftar?
+109	Dengan perubahan ini, apakah Hyundai Stargazer Kartens bisa masuk daftar?
+110	Dengan perubahan ini, apakah Hyundai Stargazer Kartens bisa masuk daftar?
+111	Dengan perubahan ini, apakah Hyundai Stargazer Kartens bisa masuk daftar?
+112	Dengan perubahan ini, apakah Hyundai Stargazer Kartens bisa masuk daftar?
+113	Dengan perubahan ini, apakah Hyundai Stargazer Kartens bisa masuk daftar? Pilihan kalian?
+114	Dengan perubahan ini, apakah Hyundai Stargazer Kartens bisa masuk daftar? Pilihan kalian?
+115	Pilihan kalian?
+116	Pilihan kalian?
+117	Pilihan kalian?
+118	[NO_SPEECH]
+119	[NO_SPEECH]
+120	[NO_SPEECH]
+121	[NO_SPEECH]
+122	[NO_SPEECH]
+123	[NO_SPEECH]

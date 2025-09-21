@@ -1,0 +1,120 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	Tiga tip untuk pemula
+3	Tiga tip untuk pemula
+4	Tiga tip untuk pemula
+5	Tiga tip untuk pemula
+6	Tiga tip untuk pemula
+7	Tiga tip untuk pemula
+8	[NO_SPEECH]
+9	Satu, backswingnya, backswing tangannya harus lurus
+10	Satu, backswingnya, backswing tangannya harus lurus
+11	Satu, backswingnya, backswing tangannya harus lurus
+12	Satu, backswingnya, backswing tangannya harus lurus
+13	Satu, backswingnya, backswing tangannya harus lurus
+14	Satu, backswingnya, backswing tangannya harus lurus
+15	Satu, backswingnya, backswing tangannya harus lurus
+16	Satu, backswingnya, backswing tangannya harus lurus
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	Kedua, backswing sikunya tidak boleh bengkok
+23	Kedua, backswing sikunya tidak boleh bengkok
+24	Kedua, backswing sikunya tidak boleh bengkok
+25	Kedua, backswing sikunya tidak boleh bengkok
+26	Kedua, backswing sikunya tidak boleh bengkok
+27	Kedua, backswing sikunya tidak boleh bengkok
+28	Kedua, backswing sikunya tidak boleh bengkok
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	Pandangan ke batangnya bola
+35	Pandangan ke batangnya bola
+36	Pandangan ke batangnya bola
+37	Pandangan ke batangnya bola
+38	Pandangan ke batangnya bola
+39	Pandangan ke batangnya bola
+40	Pandangan ke batangnya bola
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	Ketiga, glove harus menggunakan glove
+54	Ketiga, glove harus menggunakan glove
+55	Ketiga, glove harus menggunakan glove
+56	Ketiga, glove harus menggunakan glove
+57	Ketiga, glove harus menggunakan glove
+58	Ketiga, glove harus menggunakan glove
+59	Ketiga, glove harus menggunakan glove Supaya tidak terjadi lecet
+60	Ketiga, glove harus menggunakan glove Supaya tidak terjadi lecet
+61	Supaya tidak terjadi lecet
+62	Supaya tidak terjadi lecet
+63	Supaya tidak terjadi lecet Kalian bisa beli glove di Garuda Prosop Driving Ring
+64	Supaya tidak terjadi lecet Kalian bisa beli glove di Garuda Prosop Driving Ring
+65	Kalian bisa beli glove di Garuda Prosop Driving Ring
+66	Kalian bisa beli glove di Garuda Prosop Driving Ring
+67	Kalian bisa beli glove di Garuda Prosop Driving Ring
+68	Kalian bisa beli glove di Garuda Prosop Driving Ring
+69	Kalian bisa beli glove di Garuda Prosop Driving Ring
+70	Kalian bisa beli glove di Garuda Prosop Driving Ring Mari ikut kita antar
+71	Kalian bisa beli glove di Garuda Prosop Driving Ring Mari ikut kita antar
+72	Mari ikut kita antar
+73	Mari ikut kita antar
+74	Mari ikut kita antar
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	[NO_SPEECH]
+83	Kalian bisa beli glove di Garuda Prosop Driving Ring
+84	Kalian bisa beli glove di Garuda Prosop Driving Ring
+85	Kalian bisa beli glove di Garuda Prosop Driving Ring
+86	Kalian bisa beli glove di Garuda Prosop Driving Ring
+87	Kalian bisa beli glove di Garuda Prosop Driving Ring
+88	Kalian bisa beli glove di Garuda Prosop Driving Ring
+89	Kalian bisa beli glove di Garuda Prosop Driving Ring
+90	Kalian bisa beli glove di Garuda Prosop Driving Ring Sesuai keinginan Anda
+91	Kalian bisa beli glove di Garuda Prosop Driving Ring Sesuai keinginan Anda
+92	Sesuai keinginan Anda
+93	Sesuai keinginan Anda
+94	Sesuai keinginan Anda
+95	Ada nomornya ini
+96	Ada nomornya ini
+97	Ada nomornya ini
+98	Ada nomornya ini Kalian bisa beli glove di Garuda Prosop Driving Ring
+99	Ada nomornya ini Kalian bisa beli glove di Garuda Prosop Driving Ring Kalian bisa beli glove di Garuda Prosop Driving Ring
+100	Kalian bisa beli glove di Garuda Prosop Driving Ring Kalian bisa beli glove di Garuda Prosop Driving Ring
+101	Kalian bisa beli glove di Garuda Prosop Driving Ring
+102	Kalian bisa beli glove di Garuda Prosop Driving Ring Tangannya nomor Bapa
+103	Kalian bisa beli glove di Garuda Prosop Driving Ring Tangannya nomor Bapa Kita sesuaikan supaya tidak terjadi lecet
+104	Tangannya nomor Bapa Kita sesuaikan supaya tidak terjadi lecet
+105	Kita sesuaikan supaya tidak terjadi lecet
+106	Kita sesuaikan supaya tidak terjadi lecet
+107	Kita sesuaikan supaya tidak terjadi lecet
+108	Kita sesuaikan supaya tidak terjadi lecet
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	Tinggal pilih
+113	Tinggal pilih
+114	Tinggal pilih
+115	Tinggal pilih
+116	[NO_SPEECH]
+117	[NO_SPEECH]
+118	[NO_SPEECH]
+119	[NO_SPEECH]

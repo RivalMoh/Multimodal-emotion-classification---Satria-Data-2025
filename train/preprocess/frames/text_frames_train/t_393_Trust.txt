@@ -1,0 +1,139 @@
+0	Ada ga sih yang pokoknya suka grounded juga kayak gue?
+1	Ada ga sih yang pokoknya suka grounded juga kayak gue?
+2	Ada ga sih yang pokoknya suka grounded juga kayak gue?
+3	Ada ga sih yang pokoknya suka grounded juga kayak gue? Istilahnya apa aja grounded kek, pad kek, atau daft kek
+4	Istilahnya apa aja grounded kek, pad kek, atau daft kek
+5	Istilahnya apa aja grounded kek, pad kek, atau daft kek
+6	Istilahnya apa aja grounded kek, pad kek, atau daft kek
+7	Istilahnya apa aja grounded kek, pad kek, atau daft kek
+8	Istilahnya apa aja grounded kek, pad kek, atau daft kek
+9	Istilahnya apa aja grounded kek, pad kek, atau daft kek
+10	Istilahnya apa aja grounded kek, pad kek, atau daft kek
+11	Istilahnya apa aja grounded kek, pad kek, atau daft kek Meet to shot air, gue lagi sering banget kayak gitu
+12	Istilahnya apa aja grounded kek, pad kek, atau daft kek Meet to shot air, gue lagi sering banget kayak gitu
+13	Meet to shot air, gue lagi sering banget kayak gitu
+14	Meet to shot air, gue lagi sering banget kayak gitu
+15	Meet to shot air, gue lagi sering banget kayak gitu
+16	Meet to shot air, gue lagi sering banget kayak gitu
+17	Meet to shot air, gue lagi sering banget kayak gitu Tapi akhirnya gue ketemu sama Kevin Akbar dan dia kasih tau satu tips yang efektif banget
+18	Meet to shot air, gue lagi sering banget kayak gitu Tapi akhirnya gue ketemu sama Kevin Akbar dan dia kasih tau satu tips yang efektif banget
+19	Tapi akhirnya gue ketemu sama Kevin Akbar dan dia kasih tau satu tips yang efektif banget
+20	Tapi akhirnya gue ketemu sama Kevin Akbar dan dia kasih tau satu tips yang efektif banget
+21	Tapi akhirnya gue ketemu sama Kevin Akbar dan dia kasih tau satu tips yang efektif banget
+22	Tapi akhirnya gue ketemu sama Kevin Akbar dan dia kasih tau satu tips yang efektif banget
+23	Tapi akhirnya gue ketemu sama Kevin Akbar dan dia kasih tau satu tips yang efektif banget
+24	Tapi akhirnya gue ketemu sama Kevin Akbar dan dia kasih tau satu tips yang efektif banget
+25	Tapi akhirnya gue ketemu sama Kevin Akbar dan dia kasih tau satu tips yang efektif banget
+26	Tapi akhirnya gue ketemu sama Kevin Akbar dan dia kasih tau satu tips yang efektif banget
+27	Tapi akhirnya gue ketemu sama Kevin Akbar dan dia kasih tau satu tips yang efektif banget
+28	Tapi akhirnya gue ketemu sama Kevin Akbar dan dia kasih tau satu tips yang efektif banget
+29	Tapi akhirnya gue ketemu sama Kevin Akbar dan dia kasih tau satu tips yang efektif banget Pertama-tama yang kita butuhin adalah handuk
+30	Tapi akhirnya gue ketemu sama Kevin Akbar dan dia kasih tau satu tips yang efektif banget Pertama-tama yang kita butuhin adalah handuk
+31	Pertama-tama yang kita butuhin adalah handuk
+32	Pertama-tama yang kita butuhin adalah handuk
+33	Pertama-tama yang kita butuhin adalah handuk Apapun handuknya kita taruh disini di karpet
+34	Pertama-tama yang kita butuhin adalah handuk Apapun handuknya kita taruh disini di karpet
+35	Apapun handuknya kita taruh disini di karpet
+36	Apapun handuknya kita taruh disini di karpet
+37	Apapun handuknya kita taruh disini di karpet
+38	Apapun handuknya kita taruh disini di karpet
+39	Apapun handuknya kita taruh disini di karpet
+40	Apapun handuknya kita taruh disini di karpet
+41	Kita posisikan bola persis di depan
+42	Kita posisikan bola persis di depan
+43	Kita posisikan bola persis di depan
+44	Kita posisikan bola persis di depan
+45	Kita posisikan bola persis di depan
+46	Kita posisikan bola persis di depan
+47	[NO_SPEECH]
+48	Handuk!
+49	Handuk! Yaitu kecenderungannya pengen nyungkil bola jadi berat badannya stay di belakang
+50	Handuk! Yaitu kecenderungannya pengen nyungkil bola jadi berat badannya stay di belakang
+51	Yaitu kecenderungannya pengen nyungkil bola jadi berat badannya stay di belakang
+52	Yaitu kecenderungannya pengen nyungkil bola jadi berat badannya stay di belakang
+53	Yaitu kecenderungannya pengen nyungkil bola jadi berat badannya stay di belakang
+54	Yaitu kecenderungannya pengen nyungkil bola jadi berat badannya stay di belakang
+55	Yaitu kecenderungannya pengen nyungkil bola jadi berat badannya stay di belakang
+56	Yaitu kecenderungannya pengen nyungkil bola jadi berat badannya stay di belakang
+57	Yaitu kecenderungannya pengen nyungkil bola jadi berat badannya stay di belakang
+58	Yaitu kecenderungannya pengen nyungkil bola jadi berat badannya stay di belakang Kalau berat badannya stay di belakang, handuk ini akan kepukul
+59	Yaitu kecenderungannya pengen nyungkil bola jadi berat badannya stay di belakang Kalau berat badannya stay di belakang, handuk ini akan kepukul
+60	Kalau berat badannya stay di belakang, handuk ini akan kepukul
+61	Kalau berat badannya stay di belakang, handuk ini akan kepukul
+62	Kalau berat badannya stay di belakang, handuk ini akan kepukul
+63	Kalau berat badannya stay di belakang, handuk ini akan kepukul
+64	Kalau berat badannya stay di belakang, handuk ini akan kepukul
+65	Kalau berat badannya stay di belakang, handuk ini akan kepukul
+66	Kalau berat badannya stay di belakang, handuk ini akan kepukul Kurang lebih kayak gitu
+67	Kalau berat badannya stay di belakang, handuk ini akan kepukul Kurang lebih kayak gitu
+68	Kurang lebih kayak gitu
+69	Kurang lebih kayak gitu
+70	[NO_SPEECH]
+71	[NO_SPEECH]
+72	[NO_SPEECH]
+73	[NO_SPEECH]
+74	[NO_SPEECH]
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	Sekarang kita coba bikin downswingnya agak lebih steep
+78	Sekarang kita coba bikin downswingnya agak lebih steep
+79	Sekarang kita coba bikin downswingnya agak lebih steep
+80	Sekarang kita coba bikin downswingnya agak lebih steep
+81	Sekarang kita coba bikin downswingnya agak lebih steep
+82	Sekarang kita coba bikin downswingnya agak lebih steep Dari atas ke bawah dan memastikan berat badan pindah dari kanan ke sisi kiri
+83	Sekarang kita coba bikin downswingnya agak lebih steep Dari atas ke bawah dan memastikan berat badan pindah dari kanan ke sisi kiri
+84	Dari atas ke bawah dan memastikan berat badan pindah dari kanan ke sisi kiri
+85	Dari atas ke bawah dan memastikan berat badan pindah dari kanan ke sisi kiri
+86	Dari atas ke bawah dan memastikan berat badan pindah dari kanan ke sisi kiri
+87	Dari atas ke bawah dan memastikan berat badan pindah dari kanan ke sisi kiri
+88	Dari atas ke bawah dan memastikan berat badan pindah dari kanan ke sisi kiri
+89	Dari atas ke bawah dan memastikan berat badan pindah dari kanan ke sisi kiri
+90	Dari atas ke bawah dan memastikan berat badan pindah dari kanan ke sisi kiri
+91	Dari atas ke bawah dan memastikan berat badan pindah dari kanan ke sisi kiri
+92	Dari atas ke bawah dan memastikan berat badan pindah dari kanan ke sisi kiri
+93	Dari atas ke bawah dan memastikan berat badan pindah dari kanan ke sisi kiri Supaya, apa yang saya katakan juga bisa gitu
+94	Supaya, apa yang saya katakan juga bisa gitu
+95	Supaya, apa yang saya katakan juga bisa gitu
+96	Supaya, apa yang saya katakan juga bisa gitu
+97	Supaya, apa yang saya katakan juga bisa gitu
+98	Supaya, apa yang saya katakan juga bisa gitu
+99	Supaya, apa yang saya katakan juga bisa gitu
+100	Tajem ke bola dan ga akan ngenain handuknya
+101	Tajem ke bola dan ga akan ngenain handuknya
+102	Tajem ke bola dan ga akan ngenain handuknya
+103	Tajem ke bola dan ga akan ngenain handuknya
+104	Tajem ke bola dan ga akan ngenain handuknya
+105	Tajem ke bola dan ga akan ngenain handuknya
+106	[NO_SPEECH]
+107	[NO_SPEECH]
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	Nah itu dia tipsnya, selamat mencoba ya teman-teman
+112	Nah itu dia tipsnya, selamat mencoba ya teman-teman
+113	Nah itu dia tipsnya, selamat mencoba ya teman-teman
+114	Nah itu dia tipsnya, selamat mencoba ya teman-teman
+115	Nah itu dia tipsnya, selamat mencoba ya teman-teman
+116	Nah itu dia tipsnya, selamat mencoba ya teman-teman
+117	Nah itu dia tipsnya, selamat mencoba ya teman-teman
+118	Nah itu dia tipsnya, selamat mencoba ya teman-teman Golf setiap hari ga jadi masalah
+119	Nah itu dia tipsnya, selamat mencoba ya teman-teman Golf setiap hari ga jadi masalah
+120	Golf setiap hari ga jadi masalah
+121	Golf setiap hari ga jadi masalah
+122	Golf setiap hari ga jadi masalah
+123	Golf setiap hari ga jadi masalah Karena ada terapeidik yang setia men-support tidur gue
+124	Golf setiap hari ga jadi masalah Karena ada terapeidik yang setia men-support tidur gue
+125	Karena ada terapeidik yang setia men-support tidur gue
+126	Karena ada terapeidik yang setia men-support tidur gue
+127	Karena ada terapeidik yang setia men-support tidur gue
+128	Karena ada terapeidik yang setia men-support tidur gue
+129	Karena ada terapeidik yang setia men-support tidur gue Untuk wake up ready setiap pagi
+130	Karena ada terapeidik yang setia men-support tidur gue Untuk wake up ready setiap pagi
+131	Untuk wake up ready setiap pagi
+132	Untuk wake up ready setiap pagi
+133	Untuk wake up ready setiap pagi
+134	Untuk wake up ready setiap pagi
+135	Untuk wake up ready setiap pagi
+136	[NO_SPEECH]
+137	[NO_SPEECH]
+138	[NO_SPEECH]

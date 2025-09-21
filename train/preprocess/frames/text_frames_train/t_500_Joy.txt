@@ -1,0 +1,66 @@
+0	Kami dari SSB Jatira Bandung Soccer
+1	Kami dari SSB Jatira Bandung Soccer
+2	Kami dari SSB Jatira Bandung Soccer
+3	Kami dari SSB Jatira Bandung Soccer
+4	Kami dari SSB Jatira Bandung Soccer
+5	Kami dari SSB Jatira Bandung Soccer
+6	Kami dari SSB Jatira Bandung Soccer Semoga lancar, lancar terus
+7	Kami dari SSB Jatira Bandung Soccer Semoga lancar, lancar terus
+8	Semoga lancar, lancar terus
+9	Semoga lancar, lancar terus
+10	Semoga lancar, lancar terus
+11	Semoga lancar, lancar terus
+12	Semoga lancar, lancar terus
+13	Semoga lancar, lancar terus Bisa memotivasi dari pemain lain
+14	Semoga lancar, lancar terus Bisa memotivasi dari pemain lain
+15	Bisa memotivasi dari pemain lain
+16	Bisa memotivasi dari pemain lain
+17	Bisa memotivasi dari pemain lain
+18	Bisa memotivasi dari pemain lain
+19	Bisa memotivasi dari pemain lain
+20	Bisa memotivasi dari pemain lain
+21	Bisa memotivasi dari pemain lain
+22	Bisa memotivasi dari pemain lain
+23	Bisa memotivasi dari pemain lain
+24	Bisa memotivasi dari pemain lain
+25	Bisa memotivasi dari pemain lain
+26	Bisa memotivasi dari pemain lain
+27	Bisa memotivasi dari pemain lain 2-0 menang Oksport
+28	Bisa memotivasi dari pemain lain 2-0 menang Oksport
+29	2-0 menang Oksport
+30	2-0 menang Oksport
+31	2-0 menang Oksport 4-2 menang Oksport
+32	2-0 menang Oksport 4-2 menang Oksport
+33	4-2 menang Oksport 2-0 menang Oksport
+34	4-2 menang Oksport 2-0 menang Oksport
+35	2-0 menang Oksport
+36	2-0 menang Oksport 7-0 menang Oksport
+37	2-0 menang Oksport 7-0 menang Oksport
+38	7-0 menang Oksport
+39	7-0 menang Oksport 2-0 menang Oksport
+40	7-0 menang Oksport 2-0 menang Oksport
+41	2-0 menang Oksport 8-5 menang Oksport
+42	2-0 menang Oksport 8-5 menang Oksport
+43	8-5 menang Oksport
+44	8-5 menang Oksport
+45	8-5 menang Oksport
+46	8-5 menang Oksport 2-0 menang Oksport
+47	8-5 menang Oksport 2-0 menang Oksport
+48	2-0 menang Oksport
+49	2-0 menang Oksport 2-0 menang Oksport
+50	2-0 menang Oksport 2-0 menang Oksport
+51	2-0 menang Oksport
+52	2-0 menang Oksport 3-1 menang Oksport
+53	2-0 menang Oksport 3-1 menang Oksport
+54	3-1 menang Oksport 3-2 menang Oksport
+55	3-1 menang Oksport 3-2 menang Oksport
+56	3-2 menang Oksport
+57	3-2 menang Oksport
+58	3-2 menang Oksport 3-2 menang Oksport
+59	3-2 menang Oksport
+60	3-2 menang Oksport
+61	3-2 menang Oksport
+62	3-2 menang Oksport
+63	3-2 menang Oksport
+64	3-2 menang Oksport
+65	3-2 menang Oksport

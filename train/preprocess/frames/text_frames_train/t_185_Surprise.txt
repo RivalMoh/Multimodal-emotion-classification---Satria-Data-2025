@@ -1,0 +1,174 @@
+0	ini adalah yang uang U8 yang dipamerkan di booth BYD
+1	ini adalah yang uang U8 yang dipamerkan di booth BYD
+2	ini adalah yang uang U8 yang dipamerkan di booth BYD
+3	ini adalah yang uang U8 yang dipamerkan di booth BYD
+4	ini adalah yang uang U8 yang dipamerkan di booth BYD
+5	ini adalah yang uang U8 yang dipamerkan di booth BYD dan dia bisa pivot
+6	ini adalah yang uang U8 yang dipamerkan di booth BYD dan dia bisa pivot
+7	dan dia bisa pivot
+8	dan dia bisa pivot
+9	dan dia bisa pivot puter balik pada porosnya
+10	dan dia bisa pivot puter balik pada porosnya
+11	puter balik pada porosnya
+12	puter balik pada porosnya
+13	puter balik pada porosnya
+14	puter balik pada porosnya seperti ini
+15	puter balik pada porosnya seperti ini
+16	puter balik pada porosnya seperti ini jadi ini yang dipencet?
+17	seperti ini jadi ini yang dipencet?
+18	jadi ini yang dipencet?
+19	jadi ini yang dipencet?
+20	jadi ini yang dipencet? VOT
+21	jadi ini yang dipencet? VOT oke
+22	VOT oke
+23	[NO_SPEECH]
+24	kita ready buat puter balik
+25	kita ready buat puter balik
+26	kita ready buat puter balik
+27	kita ready buat puter balik kita atur dulu puterannya
+28	kita ready buat puter balik kita atur dulu puterannya
+29	kita atur dulu puterannya
+30	kita atur dulu puterannya
+31	kita atur dulu puterannya oke
+32	kita atur dulu puterannya oke
+33	oke
+34	kita atur di 359
+35	kita atur di 359
+36	kita atur di 359
+37	kita atur di 359
+38	kita atur di 359
+39	kita atur di 359
+40	kita atur di 359
+41	kita atur di 359 kenapa nggak 360?
+42	kenapa nggak 360?
+43	kenapa nggak 360? kalau 360 nanti akan balik lagi ke 0
+44	kalau 360 nanti akan balik lagi ke 0
+45	kalau 360 nanti akan balik lagi ke 0
+46	kalau 360 nanti akan balik lagi ke 0
+47	kalau 360 nanti akan balik lagi ke 0
+48	kalau 360 nanti akan balik lagi ke 0 oh oke
+49	kalau 360 nanti akan balik lagi ke 0 oh oke kita coba rotet lagi
+50	oh oke kita coba rotet lagi
+51	kita coba rotet lagi
+52	kita coba rotet lagi
+53	kita coba rotet lagi artinya kalau balik ke 0 itu cuma orang iseng ya
+54	kita coba rotet lagi artinya kalau balik ke 0 itu cuma orang iseng ya
+55	artinya kalau balik ke 0 itu cuma orang iseng ya
+56	artinya kalau balik ke 0 itu cuma orang iseng ya
+57	artinya kalau balik ke 0 itu cuma orang iseng ya kalau 359 memang ada maunya lah gitu ya
+58	artinya kalau balik ke 0 itu cuma orang iseng ya kalau 359 memang ada maunya lah gitu ya
+59	kalau 359 memang ada maunya lah gitu ya
+60	kalau 359 memang ada maunya lah gitu ya
+61	kalau 359 memang ada maunya lah gitu ya
+62	kalau 359 memang ada maunya lah gitu ya
+63	kalau 359 memang ada maunya lah gitu ya ke satu arah
+64	kalau 359 memang ada maunya lah gitu ya ke satu arah
+65	ke satu arah
+66	ke satu arah oke
+67	ke satu arah oke
+68	udah ready?
+69	udah ready? oke, mulai
+70	udah ready? oke, mulai
+71	oke, mulai
+72	oke, mulai
+73	oke, mulai pakai gas?
+74	pakai gas?
+75	pakai gas? enggak
+76	pakai gas? enggak
+77	enggak
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	dia akan puter sendiri
+81	dia akan puter sendiri
+82	dia akan puter sendiri udah nih?
+83	dia akan puter sendiri udah nih?
+84	udah nih? udah otomatis
+85	udah nih? udah otomatis
+86	udah otomatis
+87	udah otomatis
+88	[NO_SPEECH]
+89	[NO_SPEECH]
+90	mobilnya pivot loh
+91	mobilnya pivot loh
+92	mobilnya pivot loh
+93	mobilnya pivot loh
+94	mobilnya pivot loh
+95	[NO_SPEECH]
+96	[NO_SPEECH]
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	gilirnya mas, kita lihat
+101	gilirnya mas, kita lihat
+102	gilirnya mas, kita lihat
+103	gilirnya mas, kita lihat
+104	[NO_SPEECH]
+105	otomatis, 21 km
+106	otomatis, 21 km
+107	otomatis, 21 km
+108	otomatis, 21 km
+109	otomatis, 21 km otomatis semuanya dan ketahuan ya
+110	otomatis semuanya dan ketahuan ya
+111	otomatis semuanya dan ketahuan ya
+112	otomatis semuanya dan ketahuan ya
+113	otomatis semuanya dan ketahuan ya nah kalau tiba-tiba ada obstekal
+114	otomatis semuanya dan ketahuan ya nah kalau tiba-tiba ada obstekal
+115	nah kalau tiba-tiba ada obstekal
+116	nah kalau tiba-tiba ada obstekal dia berhenti
+117	nah kalau tiba-tiba ada obstekal dia berhenti ketika kalau misalnya tata ada
+118	dia berhenti ketika kalau misalnya tata ada
+119	ketika kalau misalnya tata ada
+120	ketika kalau misalnya tata ada
+121	ketika kalau misalnya tata ada mungkin ada yang lewat gitu
+122	ketika kalau misalnya tata ada mungkin ada yang lewat gitu
+123	mungkin ada yang lewat gitu kita pencet begini aja
+124	mungkin ada yang lewat gitu kita pencet begini aja
+125	kita pencet begini aja dia otomatis akan puter aja tuh
+126	kita pencet begini aja dia otomatis akan puter aja tuh
+127	dia otomatis akan puter aja tuh
+128	dia otomatis akan puter aja tuh oke
+129	dia otomatis akan puter aja tuh oke
+130	oke
+131	oke
+132	[NO_SPEECH]
+133	[NO_SPEECH]
+134	[NO_SPEECH]
+135	[NO_SPEECH]
+136	[NO_SPEECH]
+137	[NO_SPEECH]
+138	[NO_SPEECH]
+139	lucu banget puter seperti ini
+140	lucu banget puter seperti ini
+141	lucu banget puter seperti ini
+142	lucu banget puter seperti ini
+143	lucu banget puter seperti ini ya memang pasti ban akan tersiksa
+144	lucu banget puter seperti ini ya memang pasti ban akan tersiksa
+145	ya memang pasti ban akan tersiksa
+146	ya memang pasti ban akan tersiksa
+147	ya memang pasti ban akan tersiksa
+148	ya memang pasti ban akan tersiksa kalau kita manuver begitu terus-terusan
+149	ya memang pasti ban akan tersiksa kalau kita manuver begitu terus-terusan
+150	kalau kita manuver begitu terus-terusan
+151	kalau kita manuver begitu terus-terusan
+152	kalau kita manuver begitu terus-terusan tapi di saat darurat atau saat yang dibutuhkan
+153	kalau kita manuver begitu terus-terusan tapi di saat darurat atau saat yang dibutuhkan
+154	tapi di saat darurat atau saat yang dibutuhkan
+155	tapi di saat darurat atau saat yang dibutuhkan
+156	tapi di saat darurat atau saat yang dibutuhkan
+157	tapi di saat darurat atau saat yang dibutuhkan fitur ini sangat berguna
+158	tapi di saat darurat atau saat yang dibutuhkan fitur ini sangat berguna
+159	fitur ini sangat berguna
+160	fitur ini sangat berguna sayangnya mobil ini belum dijual di Indonesia
+161	fitur ini sangat berguna sayangnya mobil ini belum dijual di Indonesia
+162	sayangnya mobil ini belum dijual di Indonesia
+163	sayangnya mobil ini belum dijual di Indonesia
+164	sayangnya mobil ini belum dijual di Indonesia
+165	sayangnya mobil ini belum dijual di Indonesia kalau di luar negeri harganya sekitar 2,2 miliar
+166	sayangnya mobil ini belum dijual di Indonesia kalau di luar negeri harganya sekitar 2,2 miliar
+167	kalau di luar negeri harganya sekitar 2,2 miliar
+168	kalau di luar negeri harganya sekitar 2,2 miliar
+169	kalau di luar negeri harganya sekitar 2,2 miliar
+170	kalau di luar negeri harganya sekitar 2,2 miliar
+171	kalau di luar negeri harganya sekitar 2,2 miliar miliar
+172	miliar
+173	miliar

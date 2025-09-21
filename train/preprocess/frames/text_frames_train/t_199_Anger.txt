@@ -1,0 +1,24 @@
+0	[NO_SPEECH]
+1	paling sebel deh sama orang lawan arus
+2	paling sebel deh sama orang lawan arus
+3	paling sebel deh sama orang lawan arus
+4	paling sebel deh sama orang lawan arus
+5	paling sebel deh sama orang lawan arus
+6	paling sebel deh sama orang lawan arus
+7	paling sebel deh sama orang lawan arus
+8	[NO_SPEECH]
+9	ada narasinya dulu
+10	ada narasinya dulu
+11	ada narasinya dulu
+12	ada narasinya dulu
+13	ada narasinya dulu bagus, bagus
+14	ada narasinya dulu bagus, bagus
+15	bagus, bagus
+16	bagus, bagus ah minggir langsung semua
+17	bagus, bagus ah minggir langsung semua
+18	ah minggir langsung semua
+19	ah minggir langsung semua
+20	ah minggir langsung semua
+21	ah minggir langsung semua
+22	ah minggir langsung semua
+23	[NO_SPEECH]

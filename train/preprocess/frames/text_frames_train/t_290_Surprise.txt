@@ -1,0 +1,116 @@
+0	Wow, karena gak bawa lip Wardah jadi kena tilang.
+1	Wow, karena gak bawa lip Wardah jadi kena tilang.
+2	Wow, karena gak bawa lip Wardah jadi kena tilang.
+3	Wow, karena gak bawa lip Wardah jadi kena tilang.
+4	Wow, karena gak bawa lip Wardah jadi kena tilang. Yang niatnya belanja mau restock Wardah, kaget dong ada patroli.
+5	Wow, karena gak bawa lip Wardah jadi kena tilang. Yang niatnya belanja mau restock Wardah, kaget dong ada patroli.
+6	Yang niatnya belanja mau restock Wardah, kaget dong ada patroli.
+7	Yang niatnya belanja mau restock Wardah, kaget dong ada patroli.
+8	Yang niatnya belanja mau restock Wardah, kaget dong ada patroli.
+9	Yang niatnya belanja mau restock Wardah, kaget dong ada patroli.
+10	Yang niatnya belanja mau restock Wardah, kaget dong ada patroli.
+11	Yang niatnya belanja mau restock Wardah, kaget dong ada patroli.
+12	Yang niatnya belanja mau restock Wardah, kaget dong ada patroli. Jadi tas kita tuh dicek bawa lipstick Wardah atau enggak.
+13	Jadi tas kita tuh dicek bawa lipstick Wardah atau enggak.
+14	Jadi tas kita tuh dicek bawa lipstick Wardah atau enggak.
+15	Jadi tas kita tuh dicek bawa lipstick Wardah atau enggak.
+16	Jadi tas kita tuh dicek bawa lipstick Wardah atau enggak.
+17	Jadi tas kita tuh dicek bawa lipstick Wardah atau enggak. Yups, pasti aku bawa dong.
+18	Jadi tas kita tuh dicek bawa lipstick Wardah atau enggak. Yups, pasti aku bawa dong.
+19	Yups, pasti aku bawa dong.
+20	Yups, pasti aku bawa dong. Karena ini brand kecintaan aku, gak expect langsung dapet free product dari Wardah.
+21	Yups, pasti aku bawa dong. Karena ini brand kecintaan aku, gak expect langsung dapet free product dari Wardah.
+22	Karena ini brand kecintaan aku, gak expect langsung dapet free product dari Wardah.
+23	Karena ini brand kecintaan aku, gak expect langsung dapet free product dari Wardah.
+24	Karena ini brand kecintaan aku, gak expect langsung dapet free product dari Wardah.
+25	Karena ini brand kecintaan aku, gak expect langsung dapet free product dari Wardah.
+26	Karena ini brand kecintaan aku, gak expect langsung dapet free product dari Wardah.
+27	Karena ini brand kecintaan aku, gak expect langsung dapet free product dari Wardah. Eps, tenang. Buat kamu yang gak bawa pun akan dapet red card, voucher 25K.
+28	Karena ini brand kecintaan aku, gak expect langsung dapet free product dari Wardah. Eps, tenang. Buat kamu yang gak bawa pun akan dapet red card, voucher 25K.
+29	Eps, tenang. Buat kamu yang gak bawa pun akan dapet red card, voucher 25K.
+30	Eps, tenang. Buat kamu yang gak bawa pun akan dapet red card, voucher 25K.
+31	Eps, tenang. Buat kamu yang gak bawa pun akan dapet red card, voucher 25K.
+32	Eps, tenang. Buat kamu yang gak bawa pun akan dapet red card, voucher 25K.
+33	Eps, tenang. Buat kamu yang gak bawa pun akan dapet red card, voucher 25K.
+34	Eps, tenang. Buat kamu yang gak bawa pun akan dapet red card, voucher 25K.
+35	Eps, tenang. Buat kamu yang gak bawa pun akan dapet red card, voucher 25K.
+36	Eps, tenang. Buat kamu yang gak bawa pun akan dapet red card, voucher 25K. Lumayan banget kan?
+37	Lumayan banget kan? Dan tentunya banyak promo spesial up to 30%.
+38	Lumayan banget kan? Dan tentunya banyak promo spesial up to 30%.
+39	Dan tentunya banyak promo spesial up to 30%.
+40	Dan tentunya banyak promo spesial up to 30%.
+41	Dan tentunya banyak promo spesial up to 30%.
+42	Dan tentunya banyak promo spesial up to 30%.
+43	Dan tentunya banyak promo spesial up to 30%. Buy one get one, spesial bundling dari tanggal 28 Juli sampai 3 Agustus 2025.
+44	Dan tentunya banyak promo spesial up to 30%. Buy one get one, spesial bundling dari tanggal 28 Juli sampai 3 Agustus 2025.
+45	Buy one get one, spesial bundling dari tanggal 28 Juli sampai 3 Agustus 2025.
+46	Buy one get one, spesial bundling dari tanggal 28 Juli sampai 3 Agustus 2025.
+47	Buy one get one, spesial bundling dari tanggal 28 Juli sampai 3 Agustus 2025.
+48	Buy one get one, spesial bundling dari tanggal 28 Juli sampai 3 Agustus 2025.
+49	Buy one get one, spesial bundling dari tanggal 28 Juli sampai 3 Agustus 2025.
+50	Buy one get one, spesial bundling dari tanggal 28 Juli sampai 3 Agustus 2025.
+51	Buy one get one, spesial bundling dari tanggal 28 Juli sampai 3 Agustus 2025.
+52	Buy one get one, spesial bundling dari tanggal 28 Juli sampai 3 Agustus 2025. Lokasinya di Atrium Pascal Watson Beauty My Way.
+53	Buy one get one, spesial bundling dari tanggal 28 Juli sampai 3 Agustus 2025. Lokasinya di Atrium Pascal Watson Beauty My Way.
+54	Lokasinya di Atrium Pascal Watson Beauty My Way.
+55	Lokasinya di Atrium Pascal Watson Beauty My Way.
+56	Lokasinya di Atrium Pascal Watson Beauty My Way.
+57	Lokasinya di Atrium Pascal Watson Beauty My Way.
+58	Lokasinya di Atrium Pascal Watson Beauty My Way. Dari produk makeup sampai skincare Wardah bikin kalap.
+59	Lokasinya di Atrium Pascal Watson Beauty My Way. Dari produk makeup sampai skincare Wardah bikin kalap.
+60	Dari produk makeup sampai skincare Wardah bikin kalap.
+61	Dari produk makeup sampai skincare Wardah bikin kalap.
+62	Dari produk makeup sampai skincare Wardah bikin kalap.
+63	Dari produk makeup sampai skincare Wardah bikin kalap.
+64	Dari produk makeup sampai skincare Wardah bikin kalap. Apalagi kita bisa cobain aktiviti seru, try on makeup atau skincare sepuasnya.
+65	Apalagi kita bisa cobain aktiviti seru, try on makeup atau skincare sepuasnya.
+66	Apalagi kita bisa cobain aktiviti seru, try on makeup atau skincare sepuasnya.
+67	Apalagi kita bisa cobain aktiviti seru, try on makeup atau skincare sepuasnya.
+68	Apalagi kita bisa cobain aktiviti seru, try on makeup atau skincare sepuasnya.
+69	Apalagi kita bisa cobain aktiviti seru, try on makeup atau skincare sepuasnya.
+70	Apalagi kita bisa cobain aktiviti seru, try on makeup atau skincare sepuasnya.
+71	Apalagi kita bisa cobain aktiviti seru, try on makeup atau skincare sepuasnya.
+72	Apalagi kita bisa cobain aktiviti seru, try on makeup atau skincare sepuasnya. Ditambah bisa cobain experience color analysis, precision color, juga makeup palette,
+73	Apalagi kita bisa cobain aktiviti seru, try on makeup atau skincare sepuasnya. Ditambah bisa cobain experience color analysis, precision color, juga makeup palette,
+74	Ditambah bisa cobain experience color analysis, precision color, juga makeup palette,
+75	Ditambah bisa cobain experience color analysis, precision color, juga makeup palette,
+76	Ditambah bisa cobain experience color analysis, precision color, juga makeup palette,
+77	Ditambah bisa cobain experience color analysis, precision color, juga makeup palette,
+78	Ditambah bisa cobain experience color analysis, precision color, juga makeup palette,
+79	Ditambah bisa cobain experience color analysis, precision color, juga makeup palette,
+80	Ditambah bisa cobain experience color analysis, precision color, juga makeup palette,
+81	Ditambah bisa cobain experience color analysis, precision color, juga makeup palette,
+82	Ditambah bisa cobain experience color analysis, precision color, juga makeup palette, sampai complexion finder biar gak salah shade.
+83	Ditambah bisa cobain experience color analysis, precision color, juga makeup palette, sampai complexion finder biar gak salah shade.
+84	sampai complexion finder biar gak salah shade.
+85	sampai complexion finder biar gak salah shade.
+86	sampai complexion finder biar gak salah shade.
+87	sampai complexion finder biar gak salah shade. Atau mau coba skin analysis juga bisa banget.
+88	sampai complexion finder biar gak salah shade. Atau mau coba skin analysis juga bisa banget.
+89	Atau mau coba skin analysis juga bisa banget.
+90	Atau mau coba skin analysis juga bisa banget.
+91	Atau mau coba skin analysis juga bisa banget.
+92	Atau mau coba skin analysis juga bisa banget. Apalagi di bulan Agustus Wardah akan banyak aktiviti menarik seputar lips.
+93	Atau mau coba skin analysis juga bisa banget. Apalagi di bulan Agustus Wardah akan banyak aktiviti menarik seputar lips.
+94	Apalagi di bulan Agustus Wardah akan banyak aktiviti menarik seputar lips.
+95	Apalagi di bulan Agustus Wardah akan banyak aktiviti menarik seputar lips.
+96	Apalagi di bulan Agustus Wardah akan banyak aktiviti menarik seputar lips.
+97	Apalagi di bulan Agustus Wardah akan banyak aktiviti menarik seputar lips.
+98	Apalagi di bulan Agustus Wardah akan banyak aktiviti menarik seputar lips.
+99	Apalagi di bulan Agustus Wardah akan banyak aktiviti menarik seputar lips. Buat kamu yang penasaran, stay tune dan pantengin terus di IG-nya Wardah Beauty Bandung.
+100	Apalagi di bulan Agustus Wardah akan banyak aktiviti menarik seputar lips. Buat kamu yang penasaran, stay tune dan pantengin terus di IG-nya Wardah Beauty Bandung.
+101	Buat kamu yang penasaran, stay tune dan pantengin terus di IG-nya Wardah Beauty Bandung.
+102	Buat kamu yang penasaran, stay tune dan pantengin terus di IG-nya Wardah Beauty Bandung.
+103	Buat kamu yang penasaran, stay tune dan pantengin terus di IG-nya Wardah Beauty Bandung.
+104	Buat kamu yang penasaran, stay tune dan pantengin terus di IG-nya Wardah Beauty Bandung.
+105	Buat kamu yang penasaran, stay tune dan pantengin terus di IG-nya Wardah Beauty Bandung.
+106	Buat kamu yang penasaran, stay tune dan pantengin terus di IG-nya Wardah Beauty Bandung.
+107	Buat kamu yang penasaran, stay tune dan pantengin terus di IG-nya Wardah Beauty Bandung. Yuk siapin lips Wardah di tas kamu.
+108	Buat kamu yang penasaran, stay tune dan pantengin terus di IG-nya Wardah Beauty Bandung. Yuk siapin lips Wardah di tas kamu.
+109	Yuk siapin lips Wardah di tas kamu.
+110	Yuk siapin lips Wardah di tas kamu. Sebelum dicek patrolips.
+111	Yuk siapin lips Wardah di tas kamu. Sebelum dicek patrolips.
+112	Sebelum dicek patrolips.
+113	Sebelum dicek patrolips.
+114	Sebelum dicek patrolips.
+115	[NO_SPEECH]

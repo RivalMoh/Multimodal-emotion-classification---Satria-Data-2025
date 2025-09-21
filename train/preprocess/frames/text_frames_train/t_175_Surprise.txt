@@ -1,0 +1,448 @@
+0	Halo, saya ingin memberikan klarifikasi sedikit mengenai video wawancara saya di TV One yang ini.
+1	Halo, saya ingin memberikan klarifikasi sedikit mengenai video wawancara saya di TV One yang ini.
+2	Halo, saya ingin memberikan klarifikasi sedikit mengenai video wawancara saya di TV One yang ini.
+3	Halo, saya ingin memberikan klarifikasi sedikit mengenai video wawancara saya di TV One yang ini.
+4	Halo, saya ingin memberikan klarifikasi sedikit mengenai video wawancara saya di TV One yang ini.
+5	Halo, saya ingin memberikan klarifikasi sedikit mengenai video wawancara saya di TV One yang ini.
+6	Halo, saya ingin memberikan klarifikasi sedikit mengenai video wawancara saya di TV One yang ini.
+7	Halo, saya ingin memberikan klarifikasi sedikit mengenai video wawancara saya di TV One yang ini.
+8	Halo, saya ingin memberikan klarifikasi sedikit mengenai video wawancara saya di TV One yang ini.
+9	Halo, saya ingin memberikan klarifikasi sedikit mengenai video wawancara saya di TV One yang ini. Segera lakukan sosialisasi bersama para influencer ini untuk tujuannya menenangkan masyarakat.
+10	Halo, saya ingin memberikan klarifikasi sedikit mengenai video wawancara saya di TV One yang ini. Segera lakukan sosialisasi bersama para influencer ini untuk tujuannya menenangkan masyarakat.
+11	Segera lakukan sosialisasi bersama para influencer ini untuk tujuannya menenangkan masyarakat.
+12	Segera lakukan sosialisasi bersama para influencer ini untuk tujuannya menenangkan masyarakat.
+13	Segera lakukan sosialisasi bersama para influencer ini untuk tujuannya menenangkan masyarakat.
+14	Segera lakukan sosialisasi bersama para influencer ini untuk tujuannya menenangkan masyarakat.
+15	Segera lakukan sosialisasi bersama para influencer ini untuk tujuannya menenangkan masyarakat.
+16	Segera lakukan sosialisasi bersama para influencer ini untuk tujuannya menenangkan masyarakat.
+17	Segera lakukan sosialisasi bersama para influencer ini untuk tujuannya menenangkan masyarakat.
+18	Segera lakukan sosialisasi bersama para influencer ini untuk tujuannya menenangkan masyarakat.
+19	Segera lakukan sosialisasi bersama para influencer ini untuk tujuannya menenangkan masyarakat.
+20	Segera lakukan sosialisasi bersama para influencer ini untuk tujuannya menenangkan masyarakat. Bahwa oplosnya itu salah kaprah gitu.
+21	Segera lakukan sosialisasi bersama para influencer ini untuk tujuannya menenangkan masyarakat. Bahwa oplosnya itu salah kaprah gitu.
+22	Bahwa oplosnya itu salah kaprah gitu.
+23	Bahwa oplosnya itu salah kaprah gitu.
+24	Bahwa oplosnya itu salah kaprah gitu.
+25	Bahwa oplosnya itu salah kaprah gitu.
+26	Bahwa oplosnya itu salah kaprah gitu.
+27	Bahwa oplosnya itu salah kaprah gitu. Oplos dengan blending kan beda nih.
+28	Bahwa oplosnya itu salah kaprah gitu. Oplos dengan blending kan beda nih.
+29	Oplos dengan blending kan beda nih.
+30	Oplos dengan blending kan beda nih.
+31	Oplos dengan blending kan beda nih.
+32	Oplos dengan blending kan beda nih. Kalau blending itu resmi, kalau oplos kan kesannya itu kan manipulatif.
+33	Oplos dengan blending kan beda nih. Kalau blending itu resmi, kalau oplos kan kesannya itu kan manipulatif.
+34	Kalau blending itu resmi, kalau oplos kan kesannya itu kan manipulatif.
+35	Kalau blending itu resmi, kalau oplos kan kesannya itu kan manipulatif.
+36	Kalau blending itu resmi, kalau oplos kan kesannya itu kan manipulatif.
+37	Kalau blending itu resmi, kalau oplos kan kesannya itu kan manipulatif.
+38	Kalau blending itu resmi, kalau oplos kan kesannya itu kan manipulatif.
+39	Kalau blending itu resmi, kalau oplos kan kesannya itu kan manipulatif.
+40	Kalau blending itu resmi, kalau oplos kan kesannya itu kan manipulatif.
+41	Kalau blending itu resmi, kalau oplos kan kesannya itu kan manipulatif.
+42	Kalau blending itu resmi, kalau oplos kan kesannya itu kan manipulatif. Oke, Mas Fitra gimana? Siap, bersedia mungkin?
+43	Kalau blending itu resmi, kalau oplos kan kesannya itu kan manipulatif. Oke, Mas Fitra gimana? Siap, bersedia mungkin?
+44	Oke, Mas Fitra gimana? Siap, bersedia mungkin?
+45	Oke, Mas Fitra gimana? Siap, bersedia mungkin?
+46	Oke, Mas Fitra gimana? Siap, bersedia mungkin?
+47	Oke, Mas Fitra gimana? Siap, bersedia mungkin?
+48	Oke, Mas Fitra gimana? Siap, bersedia mungkin? Hari ini saya dihubungi Pertamina untuk bilang bahwa bukan bensin oplosan.
+49	Oke, Mas Fitra gimana? Siap, bersedia mungkin? Hari ini saya dihubungi Pertamina untuk bilang bahwa bukan bensin oplosan.
+50	Hari ini saya dihubungi Pertamina untuk bilang bahwa bukan bensin oplosan.
+51	Hari ini saya dihubungi Pertamina untuk bilang bahwa bukan bensin oplosan.
+52	Hari ini saya dihubungi Pertamina untuk bilang bahwa bukan bensin oplosan.
+53	Hari ini saya dihubungi Pertamina untuk bilang bahwa bukan bensin oplosan.
+54	Hari ini saya dihubungi Pertamina untuk bilang bahwa bukan bensin oplosan.
+55	Hari ini saya dihubungi Pertamina untuk bilang bahwa bukan bensin oplosan.
+56	Hari ini saya dihubungi Pertamina untuk bilang bahwa bukan bensin oplosan.
+57	Hari ini saya dihubungi Pertamina untuk bilang bahwa bukan bensin oplosan. Saya sendiri tidak berani, karena saya tidak tahu faktanya seperti apa.
+58	Hari ini saya dihubungi Pertamina untuk bilang bahwa bukan bensin oplosan. Saya sendiri tidak berani, karena saya tidak tahu faktanya seperti apa.
+59	Saya sendiri tidak berani, karena saya tidak tahu faktanya seperti apa.
+60	Saya sendiri tidak berani, karena saya tidak tahu faktanya seperti apa.
+61	Saya sendiri tidak berani, karena saya tidak tahu faktanya seperti apa.
+62	Saya sendiri tidak berani, karena saya tidak tahu faktanya seperti apa.
+63	Saya sendiri tidak berani, karena saya tidak tahu faktanya seperti apa.
+64	Saya sendiri tidak berani, karena saya tidak tahu faktanya seperti apa. Saya masyarakat biasa, saya konsumen.
+65	Saya masyarakat biasa, saya konsumen.
+66	Saya masyarakat biasa, saya konsumen.
+67	Saya masyarakat biasa, saya konsumen.
+68	Saya masyarakat biasa, saya konsumen.
+69	Saya masyarakat biasa, saya konsumen. Saya dengar dari Kejaksaan Agung ada oplosan.
+70	Saya masyarakat biasa, saya konsumen. Saya dengar dari Kejaksaan Agung ada oplosan.
+71	Saya dengar dari Kejaksaan Agung ada oplosan.
+72	Saya dengar dari Kejaksaan Agung ada oplosan.
+73	Saya dengar dari Kejaksaan Agung ada oplosan.
+74	Saya dengar dari Kejaksaan Agung ada oplosan.
+75	Saya dengar dari Kejaksaan Agung ada oplosan. Kebetulan saya dengar pendapat di DPR, tidak ada oplosan.
+76	Saya dengar dari Kejaksaan Agung ada oplosan. Kebetulan saya dengar pendapat di DPR, tidak ada oplosan.
+77	Kebetulan saya dengar pendapat di DPR, tidak ada oplosan.
+78	Kebetulan saya dengar pendapat di DPR, tidak ada oplosan.
+79	Kebetulan saya dengar pendapat di DPR, tidak ada oplosan.
+80	Kebetulan saya dengar pendapat di DPR, tidak ada oplosan.
+81	Kebetulan saya dengar pendapat di DPR, tidak ada oplosan.
+82	Kebetulan saya dengar pendapat di DPR, tidak ada oplosan. Mana yang benar?
+83	Kebetulan saya dengar pendapat di DPR, tidak ada oplosan. Mana yang benar?
+84	Mana yang benar?
+85	Mana yang benar? Jadi, kalaupun Pertamina mau mengembalikan kepercayaan,
+86	Jadi, kalaupun Pertamina mau mengembalikan kepercayaan,
+87	Jadi, kalaupun Pertamina mau mengembalikan kepercayaan,
+88	Jadi, kalaupun Pertamina mau mengembalikan kepercayaan,
+89	Jadi, kalaupun Pertamina mau mengembalikan kepercayaan,
+90	Jadi, kalaupun Pertamina mau mengembalikan kepercayaan,
+91	Jadi, kalaupun Pertamina mau mengembalikan kepercayaan,
+92	Jadi, kalaupun Pertamina mau mengembalikan kepercayaan,
+93	Jadi, kalaupun Pertamina mau mengembalikan kepercayaan, menurut saya yang dilakukan harus komunikasi publik yang tepat.
+94	Jadi, kalaupun Pertamina mau mengembalikan kepercayaan, menurut saya yang dilakukan harus komunikasi publik yang tepat.
+95	menurut saya yang dilakukan harus komunikasi publik yang tepat.
+96	menurut saya yang dilakukan harus komunikasi publik yang tepat.
+97	menurut saya yang dilakukan harus komunikasi publik yang tepat.
+98	menurut saya yang dilakukan harus komunikasi publik yang tepat.
+99	menurut saya yang dilakukan harus komunikasi publik yang tepat.
+100	menurut saya yang dilakukan harus komunikasi publik yang tepat.
+101	menurut saya yang dilakukan harus komunikasi publik yang tepat.
+102	menurut saya yang dilakukan harus komunikasi publik yang tepat.
+103	Tidak harus melalui influencer.
+104	Tidak harus melalui influencer.
+105	Tidak harus melalui influencer. Oke, mungkin ada yang mau ditambahkan, Mas Abra.
+106	Tidak harus melalui influencer. Oke, mungkin ada yang mau ditambahkan, Mas Abra.
+107	Oke, mungkin ada yang mau ditambahkan, Mas Abra.
+108	Oke, mungkin ada yang mau ditambahkan, Mas Abra.
+109	Oke, mungkin ada yang mau ditambahkan, Mas Abra.
+110	Oke, mungkin ada yang mau ditambahkan, Mas Abra.
+111	Oke, mungkin ada yang mau ditambahkan, Mas Abra.
+112	Oke, mungkin ada yang mau ditambahkan, Mas Abra.
+113	Oke, mungkin ada yang mau ditambahkan, Mas Abra.
+114	Oke, mungkin ada yang mau ditambahkan, Mas Abra. Yang pertama,
+115	Yang pertama, saya ingin memberikan keterangan sedikit ke anda semua mengenai pernyataannya Pak Eri.
+116	Yang pertama, saya ingin memberikan keterangan sedikit ke anda semua mengenai pernyataannya Pak Eri.
+117	saya ingin memberikan keterangan sedikit ke anda semua mengenai pernyataannya Pak Eri.
+118	saya ingin memberikan keterangan sedikit ke anda semua mengenai pernyataannya Pak Eri.
+119	saya ingin memberikan keterangan sedikit ke anda semua mengenai pernyataannya Pak Eri.
+120	saya ingin memberikan keterangan sedikit ke anda semua mengenai pernyataannya Pak Eri.
+121	saya ingin memberikan keterangan sedikit ke anda semua mengenai pernyataannya Pak Eri.
+122	saya ingin memberikan keterangan sedikit ke anda semua mengenai pernyataannya Pak Eri.
+123	saya ingin memberikan keterangan sedikit ke anda semua mengenai pernyataannya Pak Eri.
+124	saya ingin memberikan keterangan sedikit ke anda semua mengenai pernyataannya Pak Eri.
+125	saya ingin memberikan keterangan sedikit ke anda semua mengenai pernyataannya Pak Eri. Saya tahu betul bahwa niat Pak Eri itu baik.
+126	saya ingin memberikan keterangan sedikit ke anda semua mengenai pernyataannya Pak Eri. Saya tahu betul bahwa niat Pak Eri itu baik.
+127	Saya tahu betul bahwa niat Pak Eri itu baik.
+128	Saya tahu betul bahwa niat Pak Eri itu baik.
+129	Saya tahu betul bahwa niat Pak Eri itu baik.
+130	Saya tahu betul bahwa niat Pak Eri itu baik.
+131	Saya tahu betul bahwa niat Pak Eri itu baik.
+132	Saya tahu betul bahwa niat Pak Eri itu baik.
+133	Beliau hanya memberikan saran kepada Pertamina,
+134	Beliau hanya memberikan saran kepada Pertamina,
+135	Beliau hanya memberikan saran kepada Pertamina,
+136	Beliau hanya memberikan saran kepada Pertamina,
+137	Beliau hanya memberikan saran kepada Pertamina,
+138	Beliau hanya memberikan saran kepada Pertamina, kalau misalnya memang tidak bisa melakukan komunikasi publik yang tepat, yang baik,
+139	Beliau hanya memberikan saran kepada Pertamina, kalau misalnya memang tidak bisa melakukan komunikasi publik yang tepat, yang baik,
+140	kalau misalnya memang tidak bisa melakukan komunikasi publik yang tepat, yang baik,
+141	kalau misalnya memang tidak bisa melakukan komunikasi publik yang tepat, yang baik,
+142	kalau misalnya memang tidak bisa melakukan komunikasi publik yang tepat, yang baik,
+143	kalau misalnya memang tidak bisa melakukan komunikasi publik yang tepat, yang baik,
+144	kalau misalnya memang tidak bisa melakukan komunikasi publik yang tepat, yang baik,
+145	kalau misalnya memang tidak bisa melakukan komunikasi publik yang tepat, yang baik,
+146	kalau misalnya memang tidak bisa melakukan komunikasi publik yang tepat, yang baik, gunakan influencer.
+147	kalau misalnya memang tidak bisa melakukan komunikasi publik yang tepat, yang baik, gunakan influencer.
+148	gunakan influencer.
+149	gunakan influencer.
+150	gunakan influencer.
+151	gunakan influencer.
+152	gunakan influencer. Tapi, saya harus menanggapi, karena saya takutnya,
+153	Tapi, saya harus menanggapi, karena saya takutnya,
+154	Tapi, saya harus menanggapi, karena saya takutnya,
+155	Tapi, saya harus menanggapi, karena saya takutnya,
+156	Tapi, saya harus menanggapi, karena saya takutnya,
+157	Tapi, saya harus menanggapi, karena saya takutnya,
+158	Tapi, saya harus menanggapi, karena saya takutnya,
+159	Tapi, saya harus menanggapi, karena saya takutnya, kalau setidak saya tanggapi, pernyataan itu akan ditangkap publik sebagai,
+160	kalau setidak saya tanggapi, pernyataan itu akan ditangkap publik sebagai,
+161	kalau setidak saya tanggapi, pernyataan itu akan ditangkap publik sebagai,
+162	kalau setidak saya tanggapi, pernyataan itu akan ditangkap publik sebagai,
+163	kalau setidak saya tanggapi, pernyataan itu akan ditangkap publik sebagai,
+164	kalau setidak saya tanggapi, pernyataan itu akan ditangkap publik sebagai,
+165	kalau setidak saya tanggapi, pernyataan itu akan ditangkap publik sebagai,
+166	kalau setidak saya tanggapi, pernyataan itu akan ditangkap publik sebagai,
+167	kalau setidak saya tanggapi, pernyataan itu akan ditangkap publik sebagai,
+168	kalau setidak saya tanggapi, pernyataan itu akan ditangkap publik sebagai,
+169	kalau setidak saya tanggapi, pernyataan itu akan ditangkap publik sebagai, oi, influencer ini hadir untuk,
+170	kalau setidak saya tanggapi, pernyataan itu akan ditangkap publik sebagai, oi, influencer ini hadir untuk,
+171	oi, influencer ini hadir untuk,
+172	oi, influencer ini hadir untuk,
+173	oi, influencer ini hadir untuk,
+174	oi, influencer ini hadir untuk,
+175	oi, influencer ini hadir untuk, Untuk menutupi fakta.
+176	oi, influencer ini hadir untuk, Untuk menutupi fakta.
+177	Untuk menutupi fakta.
+178	Untuk menutupi fakta.
+179	Untuk menutupi fakta. Makanya disitu saya bilang bahwa.
+180	Makanya disitu saya bilang bahwa.
+181	Makanya disitu saya bilang bahwa.
+182	Makanya disitu saya bilang bahwa.
+183	Makanya disitu saya bilang bahwa.
+184	Makanya disitu saya bilang bahwa.
+185	Kalau saya pribadi tidak akan berani menyuarakan sesuatu.
+186	Kalau saya pribadi tidak akan berani menyuarakan sesuatu.
+187	Kalau saya pribadi tidak akan berani menyuarakan sesuatu.
+188	Kalau saya pribadi tidak akan berani menyuarakan sesuatu.
+189	Kalau saya pribadi tidak akan berani menyuarakan sesuatu.
+190	Kalau saya pribadi tidak akan berani menyuarakan sesuatu.
+191	Kalau saya pribadi tidak akan berani menyuarakan sesuatu. Mau dibayar berapapun.
+192	Kalau saya pribadi tidak akan berani menyuarakan sesuatu. Mau dibayar berapapun.
+193	Mau dibayar berapapun.
+194	Mau dibayar berapapun. Kalau saya tidak tahu fakta yang sebenarnya.
+195	Mau dibayar berapapun. Kalau saya tidak tahu fakta yang sebenarnya.
+196	Kalau saya tidak tahu fakta yang sebenarnya.
+197	Kalau saya tidak tahu fakta yang sebenarnya.
+198	Kalau saya tidak tahu fakta yang sebenarnya.
+199	Kalau saya tidak tahu fakta yang sebenarnya.
+200	Kalau saya tidak tahu fakta yang sebenarnya. Tapi saya tahu niatnya Pak Eri itu bukan niat buruk.
+201	Kalau saya tidak tahu fakta yang sebenarnya. Tapi saya tahu niatnya Pak Eri itu bukan niat buruk.
+202	Tapi saya tahu niatnya Pak Eri itu bukan niat buruk.
+203	Tapi saya tahu niatnya Pak Eri itu bukan niat buruk.
+204	Tapi saya tahu niatnya Pak Eri itu bukan niat buruk.
+205	Tapi saya tahu niatnya Pak Eri itu bukan niat buruk.
+206	Tapi saya tahu niatnya Pak Eri itu bukan niat buruk.
+207	Tapi saya tahu niatnya Pak Eri itu bukan niat buruk.
+208	Tapi saya tahu niatnya Pak Eri itu bukan niat buruk. Tapi niat baik.
+209	Tapi saya tahu niatnya Pak Eri itu bukan niat buruk. Tapi niat baik.
+210	Tapi niat baik. Kemudian pada saat saya menanggapi Pak Eri.
+211	Kemudian pada saat saya menanggapi Pak Eri.
+212	Kemudian pada saat saya menanggapi Pak Eri.
+213	Kemudian pada saat saya menanggapi Pak Eri.
+214	Kemudian pada saat saya menanggapi Pak Eri.
+215	Kemudian pada saat saya menanggapi Pak Eri.
+216	Kemudian pada saat saya menanggapi Pak Eri.
+217	Kemudian pada saat saya menanggapi Pak Eri.
+218	[NO_SPEECH]
+219	[NO_SPEECH]
+220	Ada tabrakan suara antara saya dan presenternya.
+221	Ada tabrakan suara antara saya dan presenternya.
+222	Ada tabrakan suara antara saya dan presenternya.
+223	Ada tabrakan suara antara saya dan presenternya.
+224	Ada tabrakan suara antara saya dan presenternya.
+225	Ada tabrakan suara antara saya dan presenternya.
+226	Ada tabrakan suara antara saya dan presenternya. Sehingga seolah-olah saya berbicara.
+227	Ada tabrakan suara antara saya dan presenternya. Sehingga seolah-olah saya berbicara.
+228	Sehingga seolah-olah saya berbicara.
+229	Sehingga seolah-olah saya berbicara. Sebab hari ini Pertamina menghubungi saya.
+230	Sehingga seolah-olah saya berbicara. Sebab hari ini Pertamina menghubungi saya.
+231	Sebab hari ini Pertamina menghubungi saya.
+232	Sebab hari ini Pertamina menghubungi saya.
+233	Sebab hari ini Pertamina menghubungi saya.
+234	Sebab hari ini Pertamina menghubungi saya.
+235	Sebab hari ini Pertamina menghubungi saya. Padahal sebenarnya ada kata walaupun yang tidak begitu terdengar.
+236	Padahal sebenarnya ada kata walaupun yang tidak begitu terdengar.
+237	Padahal sebenarnya ada kata walaupun yang tidak begitu terdengar.
+238	Padahal sebenarnya ada kata walaupun yang tidak begitu terdengar.
+239	Padahal sebenarnya ada kata walaupun yang tidak begitu terdengar.
+240	Padahal sebenarnya ada kata walaupun yang tidak begitu terdengar.
+241	Padahal sebenarnya ada kata walaupun yang tidak begitu terdengar.
+242	Padahal sebenarnya ada kata walaupun yang tidak begitu terdengar. Jadi yang saya ucapkan ketika menanggapi Pak Eri.
+243	Jadi yang saya ucapkan ketika menanggapi Pak Eri.
+244	Jadi yang saya ucapkan ketika menanggapi Pak Eri.
+245	Jadi yang saya ucapkan ketika menanggapi Pak Eri.
+246	Jadi yang saya ucapkan ketika menanggapi Pak Eri.
+247	Jadi yang saya ucapkan ketika menanggapi Pak Eri.
+248	Jadi yang saya ucapkan ketika menanggapi Pak Eri.
+249	Jadi yang saya ucapkan ketika menanggapi Pak Eri. Yang bertabrakan dengan suara presenter itu adalah.
+250	Jadi yang saya ucapkan ketika menanggapi Pak Eri. Yang bertabrakan dengan suara presenter itu adalah.
+251	Yang bertabrakan dengan suara presenter itu adalah.
+252	Yang bertabrakan dengan suara presenter itu adalah.
+253	Yang bertabrakan dengan suara presenter itu adalah. Walaupun hari ini Pertamina menghubungi saya.
+254	Walaupun hari ini Pertamina menghubungi saya.
+255	Walaupun hari ini Pertamina menghubungi saya.
+256	Walaupun hari ini Pertamina menghubungi saya.
+257	Walaupun hari ini Pertamina menghubungi saya.
+258	Walaupun hari ini Pertamina menghubungi saya.
+259	Walaupun hari ini Pertamina menghubungi saya.
+260	Walaupun hari ini Pertamina menghubungi saya.
+261	[NO_SPEECH]
+262	Baru kalimat selanjutnya.
+263	Baru kalimat selanjutnya.
+264	Baru kalimat selanjutnya. Jadi Pertamina tidak pernah menghubungi saya sama sekali.
+265	Baru kalimat selanjutnya. Jadi Pertamina tidak pernah menghubungi saya sama sekali.
+266	Jadi Pertamina tidak pernah menghubungi saya sama sekali.
+267	Jadi Pertamina tidak pernah menghubungi saya sama sekali.
+268	Jadi Pertamina tidak pernah menghubungi saya sama sekali.
+269	Jadi Pertamina tidak pernah menghubungi saya sama sekali.
+270	Jadi Pertamina tidak pernah menghubungi saya sama sekali. Itu hanya perandayan untuk menanggapi dari pernyataan dari Pak Eri.
+271	Jadi Pertamina tidak pernah menghubungi saya sama sekali. Itu hanya perandayan untuk menanggapi dari pernyataan dari Pak Eri.
+272	Itu hanya perandayan untuk menanggapi dari pernyataan dari Pak Eri.
+273	Itu hanya perandayan untuk menanggapi dari pernyataan dari Pak Eri.
+274	Itu hanya perandayan untuk menanggapi dari pernyataan dari Pak Eri.
+275	Itu hanya perandayan untuk menanggapi dari pernyataan dari Pak Eri.
+276	Itu hanya perandayan untuk menanggapi dari pernyataan dari Pak Eri.
+277	Itu hanya perandayan untuk menanggapi dari pernyataan dari Pak Eri.
+278	Itu hanya perandayan untuk menanggapi dari pernyataan dari Pak Eri.
+279	Itu hanya perandayan untuk menanggapi dari pernyataan dari Pak Eri.
+280	Itu hanya perandayan untuk menanggapi dari pernyataan dari Pak Eri.
+281	Itu hanya perandayan untuk menanggapi dari pernyataan dari Pak Eri. Kemudian banyak yang berpendapat bahwa.
+282	Itu hanya perandayan untuk menanggapi dari pernyataan dari Pak Eri. Kemudian banyak yang berpendapat bahwa.
+283	Kemudian banyak yang berpendapat bahwa.
+284	Kemudian banyak yang berpendapat bahwa.
+285	Kemudian banyak yang berpendapat bahwa.
+286	Kemudian banyak yang berpendapat bahwa.
+287	Kemudian banyak yang berpendapat bahwa. Obrolan saya diputus oleh TV One.
+288	Kemudian banyak yang berpendapat bahwa. Obrolan saya diputus oleh TV One.
+289	Obrolan saya diputus oleh TV One.
+290	Obrolan saya diputus oleh TV One.
+291	Obrolan saya diputus oleh TV One.
+292	Obrolan saya diputus oleh TV One. Dengan saya baru menyebutkan beberapa poin.
+293	Obrolan saya diputus oleh TV One. Dengan saya baru menyebutkan beberapa poin.
+294	Dengan saya baru menyebutkan beberapa poin.
+295	Dengan saya baru menyebutkan beberapa poin.
+296	Dengan saya baru menyebutkan beberapa poin.
+297	Dengan saya baru menyebutkan beberapa poin. Kemudian sudah ada tepuk tangan.
+298	Dengan saya baru menyebutkan beberapa poin. Kemudian sudah ada tepuk tangan.
+299	Kemudian sudah ada tepuk tangan.
+300	Kemudian sudah ada tepuk tangan.
+301	Kemudian sudah ada tepuk tangan.
+302	Kemudian sudah ada tepuk tangan.
+303	Kemudian sudah ada tepuk tangan. Well keadaan di studio sebenarnya tidak seperti itu.
+304	Well keadaan di studio sebenarnya tidak seperti itu.
+305	Well keadaan di studio sebenarnya tidak seperti itu.
+306	Well keadaan di studio sebenarnya tidak seperti itu.
+307	Well keadaan di studio sebenarnya tidak seperti itu.
+308	Well keadaan di studio sebenarnya tidak seperti itu. Karena mungkin mereka menyangka saya sudah selesai.
+309	Well keadaan di studio sebenarnya tidak seperti itu. Karena mungkin mereka menyangka saya sudah selesai.
+310	Karena mungkin mereka menyangka saya sudah selesai.
+311	Karena mungkin mereka menyangka saya sudah selesai.
+312	Karena mungkin mereka menyangka saya sudah selesai. Dan ada bicara saya memang seakan sudah selesai.
+313	Karena mungkin mereka menyangka saya sudah selesai. Dan ada bicara saya memang seakan sudah selesai.
+314	Dan ada bicara saya memang seakan sudah selesai.
+315	Dan ada bicara saya memang seakan sudah selesai.
+316	Dan ada bicara saya memang seakan sudah selesai.
+317	Dan ada bicara saya memang seakan sudah selesai.
+318	Dan ada bicara saya memang seakan sudah selesai. Jadi mereka bertepuk tangan.
+319	Dan ada bicara saya memang seakan sudah selesai. Jadi mereka bertepuk tangan.
+320	Jadi mereka bertepuk tangan.
+321	Jadi mereka bertepuk tangan. Dan saya juga tahu waktunya sangat singkat di sana.
+322	Jadi mereka bertepuk tangan. Dan saya juga tahu waktunya sangat singkat di sana.
+323	Dan saya juga tahu waktunya sangat singkat di sana.
+324	Dan saya juga tahu waktunya sangat singkat di sana.
+325	Dan saya juga tahu waktunya sangat singkat di sana.
+326	Dan saya juga tahu waktunya sangat singkat di sana.
+327	Dan saya juga tahu waktunya sangat singkat di sana. Jadi saya harus berbagi waktu dengan narasumber yang lain.
+328	Dan saya juga tahu waktunya sangat singkat di sana. Jadi saya harus berbagi waktu dengan narasumber yang lain.
+329	Jadi saya harus berbagi waktu dengan narasumber yang lain.
+330	Jadi saya harus berbagi waktu dengan narasumber yang lain.
+331	Jadi saya harus berbagi waktu dengan narasumber yang lain.
+332	Jadi saya harus berbagi waktu dengan narasumber yang lain.
+333	Jadi saya harus berbagi waktu dengan narasumber yang lain.
+334	Jadi saya harus berbagi waktu dengan narasumber yang lain. Tok di berikutnya juga saya masih diberikan kesempatan untuk berbicara lagi.
+335	Jadi saya harus berbagi waktu dengan narasumber yang lain. Tok di berikutnya juga saya masih diberikan kesempatan untuk berbicara lagi.
+336	Tok di berikutnya juga saya masih diberikan kesempatan untuk berbicara lagi.
+337	Tok di berikutnya juga saya masih diberikan kesempatan untuk berbicara lagi.
+338	Tok di berikutnya juga saya masih diberikan kesempatan untuk berbicara lagi.
+339	Tok di berikutnya juga saya masih diberikan kesempatan untuk berbicara lagi.
+340	Tok di berikutnya juga saya masih diberikan kesempatan untuk berbicara lagi.
+341	Tok di berikutnya juga saya masih diberikan kesempatan untuk berbicara lagi.
+342	Tok di berikutnya juga saya masih diberikan kesempatan untuk berbicara lagi.
+343	Tok di berikutnya juga saya masih diberikan kesempatan untuk berbicara lagi.
+344	Tok di berikutnya juga saya masih diberikan kesempatan untuk berbicara lagi.
+345	Tok di berikutnya juga saya masih diberikan kesempatan untuk berbicara lagi.
+346	Tok di berikutnya juga saya masih diberikan kesempatan untuk berbicara lagi.
+347	Tok di berikutnya juga saya masih diberikan kesempatan untuk berbicara lagi. Jadi itu hanya satu segmen.
+348	Tok di berikutnya juga saya masih diberikan kesempatan untuk berbicara lagi. Jadi itu hanya satu segmen.
+349	Jadi itu hanya satu segmen.
+350	Jadi itu hanya satu segmen.
+351	Jadi itu hanya satu segmen. Hal-hal yang belum saya sampaikan disitu ada di segmen berikutnya di wawancara tersebut saya sampaikan.
+352	Jadi itu hanya satu segmen. Hal-hal yang belum saya sampaikan disitu ada di segmen berikutnya di wawancara tersebut saya sampaikan.
+353	Hal-hal yang belum saya sampaikan disitu ada di segmen berikutnya di wawancara tersebut saya sampaikan.
+354	Hal-hal yang belum saya sampaikan disitu ada di segmen berikutnya di wawancara tersebut saya sampaikan.
+355	Hal-hal yang belum saya sampaikan disitu ada di segmen berikutnya di wawancara tersebut saya sampaikan.
+356	Hal-hal yang belum saya sampaikan disitu ada di segmen berikutnya di wawancara tersebut saya sampaikan.
+357	Hal-hal yang belum saya sampaikan disitu ada di segmen berikutnya di wawancara tersebut saya sampaikan.
+358	Hal-hal yang belum saya sampaikan disitu ada di segmen berikutnya di wawancara tersebut saya sampaikan.
+359	Hal-hal yang belum saya sampaikan disitu ada di segmen berikutnya di wawancara tersebut saya sampaikan.
+360	Hal-hal yang belum saya sampaikan disitu ada di segmen berikutnya di wawancara tersebut saya sampaikan.
+361	Hal-hal yang belum saya sampaikan disitu ada di segmen berikutnya di wawancara tersebut saya sampaikan.
+362	Hal-hal yang belum saya sampaikan disitu ada di segmen berikutnya di wawancara tersebut saya sampaikan.
+363	Hal-hal yang belum saya sampaikan disitu ada di segmen berikutnya di wawancara tersebut saya sampaikan.
+364	Hal-hal yang belum saya sampaikan disitu ada di segmen berikutnya di wawancara tersebut saya sampaikan.
+365	Hal-hal yang belum saya sampaikan disitu ada di segmen berikutnya di wawancara tersebut saya sampaikan.
+366	Hal-hal yang belum saya sampaikan disitu ada di segmen berikutnya di wawancara tersebut saya sampaikan. Nah kalau harapan saya.
+367	Nah kalau harapan saya.
+368	Nah kalau harapan saya.
+369	Nah kalau harapan saya.
+370	Semoga momen ini bisa digunakan Pertamina sebagai institusi.
+371	Semoga momen ini bisa digunakan Pertamina sebagai institusi.
+372	Semoga momen ini bisa digunakan Pertamina sebagai institusi.
+373	Semoga momen ini bisa digunakan Pertamina sebagai institusi.
+374	Semoga momen ini bisa digunakan Pertamina sebagai institusi.
+375	Semoga momen ini bisa digunakan Pertamina sebagai institusi.
+376	Semoga momen ini bisa digunakan Pertamina sebagai institusi.
+377	Semoga momen ini bisa digunakan Pertamina sebagai institusi.
+378	Semoga momen ini bisa digunakan Pertamina sebagai institusi.
+379	Semoga momen ini bisa digunakan Pertamina sebagai institusi.
+380	Semoga momen ini bisa digunakan Pertamina sebagai institusi. Itu untuk berbenah diri.
+381	Semoga momen ini bisa digunakan Pertamina sebagai institusi. Itu untuk berbenah diri.
+382	Itu untuk berbenah diri.
+383	Itu untuk berbenah diri.
+384	Itu untuk berbenah diri.
+385	Itu untuk berbenah diri.
+386	Itu untuk berbenah diri.
+387	Itu untuk berbenah diri.
+388	Melakukan penyelidikan yang mendalam.
+389	Melakukan penyelidikan yang mendalam.
+390	Melakukan penyelidikan yang mendalam.
+391	Melakukan penyelidikan yang mendalam.
+392	Melakukan penyelidikan yang mendalam.
+393	Melakukan penyelidikan yang mendalam. Bukan hanya yang sudah terjerat kasus.
+394	Melakukan penyelidikan yang mendalam. Bukan hanya yang sudah terjerat kasus.
+395	Bukan hanya yang sudah terjerat kasus.
+396	Bukan hanya yang sudah terjerat kasus.
+397	Bukan hanya yang sudah terjerat kasus. Kalau bisa yang belum terjerat tapi ada penyimpangan di dalam.
+398	Bukan hanya yang sudah terjerat kasus. Kalau bisa yang belum terjerat tapi ada penyimpangan di dalam.
+399	Kalau bisa yang belum terjerat tapi ada penyimpangan di dalam.
+400	Kalau bisa yang belum terjerat tapi ada penyimpangan di dalam.
+401	Kalau bisa yang belum terjerat tapi ada penyimpangan di dalam.
+402	Kalau bisa yang belum terjerat tapi ada penyimpangan di dalam.
+403	Kalau bisa yang belum terjerat tapi ada penyimpangan di dalam.
+404	Kalau bisa yang belum terjerat tapi ada penyimpangan di dalam.
+405	Kalau bisa yang belum terjerat tapi ada penyimpangan di dalam. Juga harus dibersihkan.
+406	Kalau bisa yang belum terjerat tapi ada penyimpangan di dalam. Juga harus dibersihkan.
+407	Juga harus dibersihkan. Lakukan transparansi ke publik.
+408	Juga harus dibersihkan. Lakukan transparansi ke publik.
+409	Lakukan transparansi ke publik.
+410	Lakukan transparansi ke publik.
+411	Lakukan transparansi ke publik.
+412	Lakukan transparansi ke publik. Supaya kedepannya Pertamina itu bisa memperbaiki lagi standar pelayanan serta standar kualitas produknya.
+413	Lakukan transparansi ke publik. Supaya kedepannya Pertamina itu bisa memperbaiki lagi standar pelayanan serta standar kualitas produknya.
+414	Supaya kedepannya Pertamina itu bisa memperbaiki lagi standar pelayanan serta standar kualitas produknya.
+415	Supaya kedepannya Pertamina itu bisa memperbaiki lagi standar pelayanan serta standar kualitas produknya.
+416	Supaya kedepannya Pertamina itu bisa memperbaiki lagi standar pelayanan serta standar kualitas produknya.
+417	Supaya kedepannya Pertamina itu bisa memperbaiki lagi standar pelayanan serta standar kualitas produknya.
+418	Supaya kedepannya Pertamina itu bisa memperbaiki lagi standar pelayanan serta standar kualitas produknya.
+419	Supaya kedepannya Pertamina itu bisa memperbaiki lagi standar pelayanan serta standar kualitas produknya.
+420	Supaya kedepannya Pertamina itu bisa memperbaiki lagi standar pelayanan serta standar kualitas produknya.
+421	Supaya kedepannya Pertamina itu bisa memperbaiki lagi standar pelayanan serta standar kualitas produknya.
+422	Supaya kedepannya Pertamina itu bisa memperbaiki lagi standar pelayanan serta standar kualitas produknya.
+423	Supaya kedepannya Pertamina itu bisa memperbaiki lagi standar pelayanan serta standar kualitas produknya.
+424	Supaya kedepannya Pertamina itu bisa memperbaiki lagi standar pelayanan serta standar kualitas produknya.
+425	Supaya kedepannya Pertamina itu bisa memperbaiki lagi standar pelayanan serta standar kualitas produknya.
+426	Supaya kedepannya Pertamina itu bisa memperbaiki lagi standar pelayanan serta standar kualitas produknya.
+427	Supaya kedepannya Pertamina itu bisa memperbaiki lagi standar pelayanan serta standar kualitas produknya.
+428	Supaya kedepannya Pertamina itu bisa memperbaiki lagi standar pelayanan serta standar kualitas produknya.
+429	Supaya kedepannya Pertamina itu bisa memperbaiki lagi standar pelayanan serta standar kualitas produknya.
+430	Supaya kedepannya Pertamina itu bisa memperbaiki lagi standar pelayanan serta standar kualitas produknya. Dan tentunya kita semua berharap Pertamina bisa kembali menjadi BUMN yang kita cintai bersama.
+431	Supaya kedepannya Pertamina itu bisa memperbaiki lagi standar pelayanan serta standar kualitas produknya. Dan tentunya kita semua berharap Pertamina bisa kembali menjadi BUMN yang kita cintai bersama.
+432	Dan tentunya kita semua berharap Pertamina bisa kembali menjadi BUMN yang kita cintai bersama.
+433	Dan tentunya kita semua berharap Pertamina bisa kembali menjadi BUMN yang kita cintai bersama.
+434	Dan tentunya kita semua berharap Pertamina bisa kembali menjadi BUMN yang kita cintai bersama.
+435	Dan tentunya kita semua berharap Pertamina bisa kembali menjadi BUMN yang kita cintai bersama.
+436	Dan tentunya kita semua berharap Pertamina bisa kembali menjadi BUMN yang kita cintai bersama.
+437	Dan tentunya kita semua berharap Pertamina bisa kembali menjadi BUMN yang kita cintai bersama.
+438	Dan tentunya kita semua berharap Pertamina bisa kembali menjadi BUMN yang kita cintai bersama.
+439	Dan tentunya kita semua berharap Pertamina bisa kembali menjadi BUMN yang kita cintai bersama.
+440	Dan tentunya kita semua berharap Pertamina bisa kembali menjadi BUMN yang kita cintai bersama.
+441	Dan tentunya kita semua berharap Pertamina bisa kembali menjadi BUMN yang kita cintai bersama.
+442	Dan tentunya kita semua berharap Pertamina bisa kembali menjadi BUMN yang kita cintai bersama.
+443	Dan tentunya kita semua berharap Pertamina bisa kembali menjadi BUMN yang kita cintai bersama.
+444	Dan tentunya kita semua berharap Pertamina bisa kembali menjadi BUMN yang kita cintai bersama.
+445	Dan tentunya kita semua berharap Pertamina bisa kembali menjadi BUMN yang kita cintai bersama.
+446	Dan tentunya kita semua berharap Pertamina bisa kembali menjadi BUMN yang kita cintai bersama.
+447	[NO_SPEECH]

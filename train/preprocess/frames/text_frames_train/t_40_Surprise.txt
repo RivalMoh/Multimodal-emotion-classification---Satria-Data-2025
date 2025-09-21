@@ -1,0 +1,231 @@
+0	HP 3 juta bisa secakep ini.
+1	HP 3 juta bisa secakep ini.
+2	HP 3 juta bisa secakep ini.
+3	HP 3 juta bisa secakep ini.
+4	HP 3 juta bisa secakep ini. HP 3 juta pake material se-premium ini.
+5	HP 3 juta pake material se-premium ini.
+6	HP 3 juta pake material se-premium ini.
+7	HP 3 juta pake material se-premium ini.
+8	HP 3 juta pake material se-premium ini.
+9	HP 3 juta pake material se-premium ini.
+10	HP 3 juta pake material se-premium ini.
+11	HP 3 juta pake material se-premium ini.
+12	HP 3 juta pake material se-premium ini. HP 3 juta bisa dicas kayak gini?
+13	HP 3 juta bisa dicas kayak gini?
+14	HP 3 juta bisa dicas kayak gini?
+15	HP 3 juta bisa dicas kayak gini?
+16	HP 3 juta bisa dicas kayak gini?
+17	HP 3 juta bisa dicas kayak gini? Emang edan ya, Infinix Note 50 Pro.
+18	Emang edan ya, Infinix Note 50 Pro.
+19	Emang edan ya, Infinix Note 50 Pro.
+20	Emang edan ya, Infinix Note 50 Pro.
+21	Emang edan ya, Infinix Note 50 Pro.
+22	Emang edan ya, Infinix Note 50 Pro.
+23	Emang edan ya, Infinix Note 50 Pro.
+24	Emang edan ya, Infinix Note 50 Pro. Harga resminya 3,199 juta.
+25	Harga resminya 3,199 juta.
+26	Harga resminya 3,199 juta.
+27	Harga resminya 3,199 juta.
+28	Harga resminya 3,199 juta.
+29	Harga resminya 3,199 juta.
+30	Harga resminya 3,199 juta. Masih bisa dikombo sama banyak promo.
+31	Harga resminya 3,199 juta. Masih bisa dikombo sama banyak promo.
+32	Masih bisa dikombo sama banyak promo.
+33	Masih bisa dikombo sama banyak promo.
+34	Masih bisa dikombo sama banyak promo.
+35	Masih bisa dikombo sama banyak promo. Semua paket penjualannya dapetin bonus melimpah.
+36	Semua paket penjualannya dapetin bonus melimpah.
+37	Semua paket penjualannya dapetin bonus melimpah.
+38	Semua paket penjualannya dapetin bonus melimpah.
+39	Semua paket penjualannya dapetin bonus melimpah.
+40	Semua paket penjualannya dapetin bonus melimpah. Dari casing, charger 90W, wireless charger.
+41	Semua paket penjualannya dapetin bonus melimpah. Dari casing, charger 90W, wireless charger.
+42	Dari casing, charger 90W, wireless charger.
+43	Dari casing, charger 90W, wireless charger.
+44	Dari casing, charger 90W, wireless charger.
+45	Dari casing, charger 90W, wireless charger.
+46	Dari casing, charger 90W, wireless charger.
+47	Dari casing, charger 90W, wireless charger. Desainnya spesial.
+48	Desainnya spesial.
+49	Desainnya spesial. Harga segini udah pake frame metal.
+50	Desainnya spesial. Harga segini udah pake frame metal.
+51	Harga segini udah pake frame metal.
+52	Harga segini udah pake frame metal.
+53	Harga segini udah pake frame metal. Metal, saya nggak pernah liat HP 3 juta begini.
+54	Harga segini udah pake frame metal. Metal, saya nggak pernah liat HP 3 juta begini.
+55	Metal, saya nggak pernah liat HP 3 juta begini.
+56	Metal, saya nggak pernah liat HP 3 juta begini.
+57	Metal, saya nggak pernah liat HP 3 juta begini.
+58	Metal, saya nggak pernah liat HP 3 juta begini.
+59	Metal, saya nggak pernah liat HP 3 juta begini. Bagian belakangnya minimalis.
+60	Metal, saya nggak pernah liat HP 3 juta begini. Bagian belakangnya minimalis.
+61	Bagian belakangnya minimalis.
+62	Bagian belakangnya minimalis. Kamera belakangnya juga udah dapet kamera wide sama ultra wide.
+63	Bagian belakangnya minimalis. Kamera belakangnya juga udah dapet kamera wide sama ultra wide.
+64	Kamera belakangnya juga udah dapet kamera wide sama ultra wide.
+65	Kamera belakangnya juga udah dapet kamera wide sama ultra wide.
+66	Kamera belakangnya juga udah dapet kamera wide sama ultra wide.
+67	Kamera belakangnya juga udah dapet kamera wide sama ultra wide.
+68	Kamera belakangnya juga udah dapet kamera wide sama ultra wide. Yang kualitasnya udah oke banget buat kelas 2-3 jutaan.
+69	Kamera belakangnya juga udah dapet kamera wide sama ultra wide. Yang kualitasnya udah oke banget buat kelas 2-3 jutaan.
+70	Yang kualitasnya udah oke banget buat kelas 2-3 jutaan.
+71	Yang kualitasnya udah oke banget buat kelas 2-3 jutaan.
+72	Yang kualitasnya udah oke banget buat kelas 2-3 jutaan.
+73	Yang kualitasnya udah oke banget buat kelas 2-3 jutaan.
+74	Yang kualitasnya udah oke banget buat kelas 2-3 jutaan.
+75	Yang kualitasnya udah oke banget buat kelas 2-3 jutaan.
+76	Yang kualitasnya udah oke banget buat kelas 2-3 jutaan.
+77	Yang kualitasnya udah oke banget buat kelas 2-3 jutaan. Silahkan nikmatin foto-fotonya bentar.
+78	Silahkan nikmatin foto-fotonya bentar.
+79	Silahkan nikmatin foto-fotonya bentar.
+80	Silahkan nikmatin foto-fotonya bentar.
+81	Silahkan nikmatin foto-fotonya bentar. Kalau mau sampel yang lebih lengkap bisa main ke Youtube ya.
+82	Silahkan nikmatin foto-fotonya bentar. Kalau mau sampel yang lebih lengkap bisa main ke Youtube ya.
+83	Kalau mau sampel yang lebih lengkap bisa main ke Youtube ya.
+84	Kalau mau sampel yang lebih lengkap bisa main ke Youtube ya.
+85	Kalau mau sampel yang lebih lengkap bisa main ke Youtube ya.
+86	Kalau mau sampel yang lebih lengkap bisa main ke Youtube ya. Layar Infinix Note 50 Pro juga joss.
+87	Kalau mau sampel yang lebih lengkap bisa main ke Youtube ya. Layar Infinix Note 50 Pro juga joss.
+88	Layar Infinix Note 50 Pro juga joss.
+89	Layar Infinix Note 50 Pro juga joss.
+90	Layar Infinix Note 50 Pro juga joss.
+91	Layar Infinix Note 50 Pro juga joss.
+92	Layar Infinix Note 50 Pro juga joss. Bezelnya tipis, brightness tinggi, bening.
+93	Layar Infinix Note 50 Pro juga joss. Bezelnya tipis, brightness tinggi, bening.
+94	Bezelnya tipis, brightness tinggi, bening.
+95	Bezelnya tipis, brightness tinggi, bening.
+96	Bezelnya tipis, brightness tinggi, bening.
+97	Bezelnya tipis, brightness tinggi, bening.
+98	Bezelnya tipis, brightness tinggi, bening.
+99	Bezelnya tipis, brightness tinggi, bening. Dan hebatnya layar HP ini juga nyentuh refresh rate 144Hz.
+100	Bezelnya tipis, brightness tinggi, bening. Dan hebatnya layar HP ini juga nyentuh refresh rate 144Hz.
+101	Dan hebatnya layar HP ini juga nyentuh refresh rate 144Hz.
+102	Dan hebatnya layar HP ini juga nyentuh refresh rate 144Hz.
+103	Dan hebatnya layar HP ini juga nyentuh refresh rate 144Hz.
+104	Dan hebatnya layar HP ini juga nyentuh refresh rate 144Hz.
+105	Dan hebatnya layar HP ini juga nyentuh refresh rate 144Hz.
+106	Dan hebatnya layar HP ini juga nyentuh refresh rate 144Hz.
+107	Dan hebatnya layar HP ini juga nyentuh refresh rate 144Hz.
+108	Dan hebatnya layar HP ini juga nyentuh refresh rate 144Hz.
+109	Dan hebatnya layar HP ini juga nyentuh refresh rate 144Hz. Udah berasa HP gaming belasan juta aja.
+110	Udah berasa HP gaming belasan juta aja.
+111	Udah berasa HP gaming belasan juta aja.
+112	Udah berasa HP gaming belasan juta aja.
+113	Udah berasa HP gaming belasan juta aja. Mesinnya juga udah andalan HP Transient.
+114	Udah berasa HP gaming belasan juta aja. Mesinnya juga udah andalan HP Transient.
+115	Mesinnya juga udah andalan HP Transient.
+116	Mesinnya juga udah andalan HP Transient.
+117	Mesinnya juga udah andalan HP Transient.
+118	Mesinnya juga udah andalan HP Transient. MediaTek Helio G100.
+119	Mesinnya juga udah andalan HP Transient. MediaTek Helio G100.
+120	MediaTek Helio G100.
+121	MediaTek Helio G100.
+122	MediaTek Helio G100. Performanya udah keuji.
+123	Performanya udah keuji.
+124	Performanya udah keuji. Aman buat main banyak game.
+125	Performanya udah keuji. Aman buat main banyak game.
+126	Aman buat main banyak game.
+127	Aman buat main banyak game. RAM 8GB, LPDDR4X, storage 256GB, UFS 2.2.
+128	Aman buat main banyak game. RAM 8GB, LPDDR4X, storage 256GB, UFS 2.2.
+129	RAM 8GB, LPDDR4X, storage 256GB, UFS 2.2.
+130	RAM 8GB, LPDDR4X, storage 256GB, UFS 2.2.
+131	RAM 8GB, LPDDR4X, storage 256GB, UFS 2.2.
+132	RAM 8GB, LPDDR4X, storage 256GB, UFS 2.2.
+133	RAM 8GB, LPDDR4X, storage 256GB, UFS 2.2.
+134	RAM 8GB, LPDDR4X, storage 256GB, UFS 2.2.
+135	RAM 8GB, LPDDR4X, storage 256GB, UFS 2.2.
+136	RAM 8GB, LPDDR4X, storage 256GB, UFS 2.2.
+137	RAM 8GB, LPDDR4X, storage 256GB, UFS 2.2. Baterai 5200 mAh.
+138	RAM 8GB, LPDDR4X, storage 256GB, UFS 2.2. Baterai 5200 mAh.
+139	Baterai 5200 mAh.
+140	Baterai 5200 mAh. Software juga berasa makin niat ya.
+141	Baterai 5200 mAh. Software juga berasa makin niat ya.
+142	Software juga berasa makin niat ya.
+143	Software juga berasa makin niat ya.
+144	Software juga berasa makin niat ya. UI makin clean.
+145	Software juga berasa makin niat ya. UI makin clean.
+146	UI makin clean.
+147	UI makin clean. Udah ready Android 15 juga.
+148	UI makin clean. Udah ready Android 15 juga.
+149	Udah ready Android 15 juga.
+150	Udah ready Android 15 juga.
+151	Udah ready Android 15 juga. Fitur AI pun ready.
+152	Fitur AI pun ready.
+153	Fitur AI pun ready. Dari yang basic kayak eraser sampai ke Note Summary juga ada.
+154	Fitur AI pun ready. Dari yang basic kayak eraser sampai ke Note Summary juga ada.
+155	Dari yang basic kayak eraser sampai ke Note Summary juga ada.
+156	Dari yang basic kayak eraser sampai ke Note Summary juga ada.
+157	Dari yang basic kayak eraser sampai ke Note Summary juga ada.
+158	Dari yang basic kayak eraser sampai ke Note Summary juga ada.
+159	Dari yang basic kayak eraser sampai ke Note Summary juga ada.
+160	Dari yang basic kayak eraser sampai ke Note Summary juga ada. Fitur soal charging pun banyak loh.
+161	Dari yang basic kayak eraser sampai ke Note Summary juga ada. Fitur soal charging pun banyak loh.
+162	Fitur soal charging pun banyak loh.
+163	Fitur soal charging pun banyak loh.
+164	Fitur soal charging pun banyak loh. Puas-puas lah utak-atiknya.
+165	Fitur soal charging pun banyak loh. Puas-puas lah utak-atiknya.
+166	Puas-puas lah utak-atiknya.
+167	Puas-puas lah utak-atiknya. Kalau mau speed maksimal bisa pake kabel sampe 90W.
+168	Puas-puas lah utak-atiknya. Kalau mau speed maksimal bisa pake kabel sampe 90W.
+169	Kalau mau speed maksimal bisa pake kabel sampe 90W.
+170	Kalau mau speed maksimal bisa pake kabel sampe 90W.
+171	Kalau mau speed maksimal bisa pake kabel sampe 90W.
+172	Kalau mau speed maksimal bisa pake kabel sampe 90W.
+173	Kalau mau speed maksimal bisa pake kabel sampe 90W. Colok 20 menit udah keisi 50%.
+174	Kalau mau speed maksimal bisa pake kabel sampe 90W. Colok 20 menit udah keisi 50%.
+175	Colok 20 menit udah keisi 50%.
+176	Colok 20 menit udah keisi 50%.
+177	Colok 20 menit udah keisi 50%.
+178	Colok 20 menit udah keisi 50%. Kalau wireless bisa up to 30W.
+179	Colok 20 menit udah keisi 50%. Kalau wireless bisa up to 30W.
+180	Kalau wireless bisa up to 30W.
+181	Kalau wireless bisa up to 30W.
+182	Kalau wireless bisa up to 30W.
+183	Kalau wireless bisa up to 30W. HP 3 juta loh.
+184	Kalau wireless bisa up to 30W. HP 3 juta loh.
+185	HP 3 juta loh.
+186	HP 3 juta loh.
+187	HP 3 juta loh. Wuhh.
+188	Wuhh. Lagi-lagi King Phoenix berulah ya.
+189	Wuhh. Lagi-lagi King Phoenix berulah ya.
+190	Lagi-lagi King Phoenix berulah ya.
+191	Lagi-lagi King Phoenix berulah ya.
+192	Lagi-lagi King Phoenix berulah ya.
+193	Lagi-lagi King Phoenix berulah ya. Seri Note kemaren aja masih susah dilawan.
+194	Lagi-lagi King Phoenix berulah ya. Seri Note kemaren aja masih susah dilawan.
+195	Seri Note kemaren aja masih susah dilawan.
+196	Seri Note kemaren aja masih susah dilawan.
+197	Seri Note kemaren aja masih susah dilawan.
+198	Seri Note kemaren aja masih susah dilawan.
+199	Seri Note kemaren aja masih susah dilawan. Sekarang malah ada yang baru lagi.
+200	Sekarang malah ada yang baru lagi.
+201	Sekarang malah ada yang baru lagi.
+202	Sekarang malah ada yang baru lagi.
+203	Sekarang malah ada yang baru lagi. Note 50 Pro.
+204	Sekarang malah ada yang baru lagi. Note 50 Pro.
+205	Note 50 Pro.
+206	Note 50 Pro. Material lebih premium dan software yang lebih mateng lagi.
+207	Note 50 Pro. Material lebih premium dan software yang lebih mateng lagi.
+208	Material lebih premium dan software yang lebih mateng lagi.
+209	Material lebih premium dan software yang lebih mateng lagi.
+210	Material lebih premium dan software yang lebih mateng lagi.
+211	Material lebih premium dan software yang lebih mateng lagi.
+212	Material lebih premium dan software yang lebih mateng lagi.
+213	Material lebih premium dan software yang lebih mateng lagi.
+214	Material lebih premium dan software yang lebih mateng lagi. Kalau minat bisa langsung cek-cek promonya di e-commerce kesayangan atau toko langganan anda.
+215	Kalau minat bisa langsung cek-cek promonya di e-commerce kesayangan atau toko langganan anda.
+216	Kalau minat bisa langsung cek-cek promonya di e-commerce kesayangan atau toko langganan anda.
+217	Kalau minat bisa langsung cek-cek promonya di e-commerce kesayangan atau toko langganan anda.
+218	Kalau minat bisa langsung cek-cek promonya di e-commerce kesayangan atau toko langganan anda.
+219	Kalau minat bisa langsung cek-cek promonya di e-commerce kesayangan atau toko langganan anda.
+220	Kalau minat bisa langsung cek-cek promonya di e-commerce kesayangan atau toko langganan anda.
+221	Kalau minat bisa langsung cek-cek promonya di e-commerce kesayangan atau toko langganan anda.
+222	Kalau minat bisa langsung cek-cek promonya di e-commerce kesayangan atau toko langganan anda.
+223	Kalau minat bisa langsung cek-cek promonya di e-commerce kesayangan atau toko langganan anda.
+224	Kalau minat bisa langsung cek-cek promonya di e-commerce kesayangan atau toko langganan anda.
+225	Kalau minat bisa langsung cek-cek promonya di e-commerce kesayangan atau toko langganan anda.
+226	Kalau minat bisa langsung cek-cek promonya di e-commerce kesayangan atau toko langganan anda.
+227	Langganan HP.
+228	Langganan HP.
+229	Langganan HP.
+230	[NO_SPEECH]

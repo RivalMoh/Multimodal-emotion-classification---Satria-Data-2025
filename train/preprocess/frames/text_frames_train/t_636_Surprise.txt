@@ -1,0 +1,108 @@
+0	Oke pak, paling ini kita pencuian lebih ke V3 aja, kalau V3 itu gak berbahaya, paling nanti kita kasih battle-battle untuk mengingatkan.
+1	Oke pak, paling ini kita pencuian lebih ke V3 aja, kalau V3 itu gak berbahaya, paling nanti kita kasih battle-battle untuk mengingatkan.
+2	Oke pak, paling ini kita pencuian lebih ke V3 aja, kalau V3 itu gak berbahaya, paling nanti kita kasih battle-battle untuk mengingatkan.
+3	Oke pak, paling ini kita pencuian lebih ke V3 aja, kalau V3 itu gak berbahaya, paling nanti kita kasih battle-battle untuk mengingatkan.
+4	Oke pak, paling ini kita pencuian lebih ke V3 aja, kalau V3 itu gak berbahaya, paling nanti kita kasih battle-battle untuk mengingatkan.
+5	Oke pak, paling ini kita pencuian lebih ke V3 aja, kalau V3 itu gak berbahaya, paling nanti kita kasih battle-battle untuk mengingatkan.
+6	Oke pak, paling ini kita pencuian lebih ke V3 aja, kalau V3 itu gak berbahaya, paling nanti kita kasih battle-battle untuk mengingatkan.
+7	Oke pak, paling ini kita pencuian lebih ke V3 aja, kalau V3 itu gak berbahaya, paling nanti kita kasih battle-battle untuk mengingatkan.
+8	Oke pak, paling ini kita pencuian lebih ke V3 aja, kalau V3 itu gak berbahaya, paling nanti kita kasih battle-battle untuk mengingatkan.
+9	Oke pak, paling ini kita pencuian lebih ke V3 aja, kalau V3 itu gak berbahaya, paling nanti kita kasih battle-battle untuk mengingatkan.
+10	Oke pak, paling ini kita pencuian lebih ke V3 aja, kalau V3 itu gak berbahaya, paling nanti kita kasih battle-battle untuk mengingatkan.
+11	Oke pak, paling ini kita pencuian lebih ke V3 aja, kalau V3 itu gak berbahaya, paling nanti kita kasih battle-battle untuk mengingatkan.
+12	Oke pak, paling ini kita pencuian lebih ke V3 aja, kalau V3 itu gak berbahaya, paling nanti kita kasih battle-battle untuk mengingatkan. Sampai sini ada yang mau ditanya gak?
+13	Sampai sini ada yang mau ditanya gak?
+14	Sampai sini ada yang mau ditanya gak?
+15	Sampai sini ada yang mau ditanya gak? Mau tanya soal tensi ini dok, tensinya bisa rendah sih dok, 80 per 60 biasanya, dan 90 per 80.
+16	Sampai sini ada yang mau ditanya gak? Mau tanya soal tensi ini dok, tensinya bisa rendah sih dok, 80 per 60 biasanya, dan 90 per 80.
+17	Mau tanya soal tensi ini dok, tensinya bisa rendah sih dok, 80 per 60 biasanya, dan 90 per 80.
+18	Mau tanya soal tensi ini dok, tensinya bisa rendah sih dok, 80 per 60 biasanya, dan 90 per 80.
+19	Mau tanya soal tensi ini dok, tensinya bisa rendah sih dok, 80 per 60 biasanya, dan 90 per 80.
+20	Mau tanya soal tensi ini dok, tensinya bisa rendah sih dok, 80 per 60 biasanya, dan 90 per 80.
+21	Mau tanya soal tensi ini dok, tensinya bisa rendah sih dok, 80 per 60 biasanya, dan 90 per 80.
+22	Mau tanya soal tensi ini dok, tensinya bisa rendah sih dok, 80 per 60 biasanya, dan 90 per 80.
+23	Mau tanya soal tensi ini dok, tensinya bisa rendah sih dok, 80 per 60 biasanya, dan 90 per 80.
+24	Mau tanya soal tensi ini dok, tensinya bisa rendah sih dok, 80 per 60 biasanya, dan 90 per 80.
+25	Mau tanya soal tensi ini dok, tensinya bisa rendah sih dok, 80 per 60 biasanya, dan 90 per 80.
+26	Mau tanya soal tensi ini dok, tensinya bisa rendah sih dok, 80 per 60 biasanya, dan 90 per 80.
+27	Mau tanya soal tensi ini dok, tensinya bisa rendah sih dok, 80 per 60 biasanya, dan 90 per 80. Oh biasanya segitu, oke kita coba tensi ulang lagi aja ya.
+28	Oh biasanya segitu, oke kita coba tensi ulang lagi aja ya.
+29	Oh biasanya segitu, oke kita coba tensi ulang lagi aja ya.
+30	Oh biasanya segitu, oke kita coba tensi ulang lagi aja ya.
+31	Oh biasanya segitu, oke kita coba tensi ulang lagi aja ya.
+32	Oh biasanya segitu, oke kita coba tensi ulang lagi aja ya. Bang, kita tolong tensi ulang dulu ya.
+33	Oh biasanya segitu, oke kita coba tensi ulang lagi aja ya. Bang, kita tolong tensi ulang dulu ya.
+34	Bang, kita tolong tensi ulang dulu ya.
+35	Bang, kita tolong tensi ulang dulu ya.
+36	Bang, kita tolong tensi ulang dulu ya.
+37	Bang, kita tolong tensi ulang dulu ya. Siap dok, kita tensi ulang.
+38	Siap dok, kita tensi ulang.
+39	Siap dok, kita tensi ulang.
+40	Siap dok, kita tensi ulang.
+41	Siap dok, kita tensi ulang.
+42	[NO_SPEECH]
+43	Dok, udah tinggi belum ini tensinya?
+44	Dok, udah tinggi belum ini tensinya?
+45	Dok, udah tinggi belum ini tensinya?
+46	Dok, udah tinggi belum ini tensinya?
+47	Dok, udah tinggi belum ini tensinya?
+48	Dok, udah tinggi belum ini tensinya? Aduh, salah.
+49	Dok, udah tinggi belum ini tensinya? Aduh, salah.
+50	Aduh, salah.
+51	Aduh, salah.
+52	Aduh, salah.
+53	Aduh, salah.
+54	Aduh, salah.
+55	Aduh, salah.
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	Salah.
+59	Salah.
+60	Salah.
+61	Salah. Duh bu ibu, kasih paham dong.
+62	Duh bu ibu, kasih paham dong.
+63	Duh bu ibu, kasih paham dong.
+64	Duh bu ibu, kasih paham dong.
+65	Duh bu ibu, kasih paham dong.
+66	Duh bu ibu, kasih paham dong. Jadi, kalau kalian ada hipotensi, jangan lupa tiap bulan kontrolnya puskesmas.
+67	Duh bu ibu, kasih paham dong. Jadi, kalau kalian ada hipotensi, jangan lupa tiap bulan kontrolnya puskesmas.
+68	Jadi, kalau kalian ada hipotensi, jangan lupa tiap bulan kontrolnya puskesmas.
+69	Jadi, kalau kalian ada hipotensi, jangan lupa tiap bulan kontrolnya puskesmas.
+70	Jadi, kalau kalian ada hipotensi, jangan lupa tiap bulan kontrolnya puskesmas.
+71	Jadi, kalau kalian ada hipotensi, jangan lupa tiap bulan kontrolnya puskesmas.
+72	Jadi, kalau kalian ada hipotensi, jangan lupa tiap bulan kontrolnya puskesmas.
+73	Jadi, kalau kalian ada hipotensi, jangan lupa tiap bulan kontrolnya puskesmas.
+74	Jadi, kalau kalian ada hipotensi, jangan lupa tiap bulan kontrolnya puskesmas.
+75	Jadi, kalau kalian ada hipotensi, jangan lupa tiap bulan kontrolnya puskesmas.
+76	Jadi, kalau kalian ada hipotensi, jangan lupa tiap bulan kontrolnya puskesmas.
+77	Jadi, kalau kalian ada hipotensi, jangan lupa tiap bulan kontrolnya puskesmas.
+78	Jadi, kalau kalian ada hipotensi, jangan lupa tiap bulan kontrolnya puskesmas.
+79	Kontrolnya yang teratur ya.
+80	Kontrolnya yang teratur ya.
+81	Kontrolnya yang teratur ya.
+82	Kontrolnya yang teratur ya. Dengan kalian berjumpa kontrol, bisa mencegah dari komplikasi.
+83	Kontrolnya yang teratur ya. Dengan kalian berjumpa kontrol, bisa mencegah dari komplikasi.
+84	Dengan kalian berjumpa kontrol, bisa mencegah dari komplikasi.
+85	Dengan kalian berjumpa kontrol, bisa mencegah dari komplikasi.
+86	Dengan kalian berjumpa kontrol, bisa mencegah dari komplikasi.
+87	Dengan kalian berjumpa kontrol, bisa mencegah dari komplikasi.
+88	Dengan kalian berjumpa kontrol, bisa mencegah dari komplikasi.
+89	Dengan kalian berjumpa kontrol, bisa mencegah dari komplikasi.
+90	Dengan kalian berjumpa kontrol, bisa mencegah dari komplikasi. Obatnya gratis kok.
+91	Obatnya gratis kok.
+92	Obatnya gratis kok.
+93	Obatnya gratis kok.
+94	Obatnya gratis kok. Jadi, harus datang ke puskesmas.
+95	Jadi, harus datang ke puskesmas.
+96	Jadi, harus datang ke puskesmas.
+97	Jadi, harus datang ke puskesmas.
+98	Jadi, harus datang ke puskesmas.
+99	Jadi, harus datang ke puskesmas.
+100	Jadi, harus datang ke puskesmas.
+101	Jadi, harus datang ke puskesmas.
+102	Jadi, harus datang ke puskesmas.
+103	Jadi, harus datang ke puskesmas.
+104	Jadi, harus datang ke puskesmas.
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	[NO_SPEECH]

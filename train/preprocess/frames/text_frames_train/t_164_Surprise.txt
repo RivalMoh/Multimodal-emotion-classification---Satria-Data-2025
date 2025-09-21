@@ -1,0 +1,219 @@
+0	Di saat yang lain mainan hybrid GWM justru hadirkan SUV diesel yang siap diajak off-road.
+1	Di saat yang lain mainan hybrid GWM justru hadirkan SUV diesel yang siap diajak off-road.
+2	Di saat yang lain mainan hybrid GWM justru hadirkan SUV diesel yang siap diajak off-road.
+3	Di saat yang lain mainan hybrid GWM justru hadirkan SUV diesel yang siap diajak off-road.
+4	Di saat yang lain mainan hybrid GWM justru hadirkan SUV diesel yang siap diajak off-road.
+5	Di saat yang lain mainan hybrid GWM justru hadirkan SUV diesel yang siap diajak off-road.
+6	Di saat yang lain mainan hybrid GWM justru hadirkan SUV diesel yang siap diajak off-road.
+7	Di saat yang lain mainan hybrid GWM justru hadirkan SUV diesel yang siap diajak off-road. Marki Cope GWM, tank 300 diesel, 4x4 zinc.
+8	Di saat yang lain mainan hybrid GWM justru hadirkan SUV diesel yang siap diajak off-road. Marki Cope GWM, tank 300 diesel, 4x4 zinc.
+9	Marki Cope GWM, tank 300 diesel, 4x4 zinc.
+10	Marki Cope GWM, tank 300 diesel, 4x4 zinc.
+11	Marki Cope GWM, tank 300 diesel, 4x4 zinc.
+12	Marki Cope GWM, tank 300 diesel, 4x4 zinc.
+13	Marki Cope GWM, tank 300 diesel, 4x4 zinc.
+14	Marki Cope GWM, tank 300 diesel, 4x4 zinc. Sebagai permulaan, mesinnya dia pakai 2400cc turbo dengan variable geometry turbocharger
+15	Sebagai permulaan, mesinnya dia pakai 2400cc turbo dengan variable geometry turbocharger
+16	Sebagai permulaan, mesinnya dia pakai 2400cc turbo dengan variable geometry turbocharger
+17	Sebagai permulaan, mesinnya dia pakai 2400cc turbo dengan variable geometry turbocharger
+18	Sebagai permulaan, mesinnya dia pakai 2400cc turbo dengan variable geometry turbocharger
+19	Sebagai permulaan, mesinnya dia pakai 2400cc turbo dengan variable geometry turbocharger
+20	Sebagai permulaan, mesinnya dia pakai 2400cc turbo dengan variable geometry turbocharger
+21	Sebagai permulaan, mesinnya dia pakai 2400cc turbo dengan variable geometry turbocharger
+22	Sebagai permulaan, mesinnya dia pakai 2400cc turbo dengan variable geometry turbocharger
+23	Sebagai permulaan, mesinnya dia pakai 2400cc turbo dengan variable geometry turbocharger
+24	Sebagai permulaan, mesinnya dia pakai 2400cc turbo dengan variable geometry turbocharger yang sanggup hasilkan 184 PS dan torsenya di 480 Nm,
+25	Sebagai permulaan, mesinnya dia pakai 2400cc turbo dengan variable geometry turbocharger yang sanggup hasilkan 184 PS dan torsenya di 480 Nm,
+26	yang sanggup hasilkan 184 PS dan torsenya di 480 Nm,
+27	yang sanggup hasilkan 184 PS dan torsenya di 480 Nm,
+28	yang sanggup hasilkan 184 PS dan torsenya di 480 Nm,
+29	yang sanggup hasilkan 184 PS dan torsenya di 480 Nm,
+30	yang sanggup hasilkan 184 PS dan torsenya di 480 Nm,
+31	yang sanggup hasilkan 184 PS dan torsenya di 480 Nm,
+32	yang sanggup hasilkan 184 PS dan torsenya di 480 Nm,
+33	yang sanggup hasilkan 184 PS dan torsenya di 480 Nm,
+34	yang sanggup hasilkan 184 PS dan torsenya di 480 Nm, disalurkan ke 4 roda melalui transmisi 9 percepatan.
+35	disalurkan ke 4 roda melalui transmisi 9 percepatan.
+36	disalurkan ke 4 roda melalui transmisi 9 percepatan.
+37	disalurkan ke 4 roda melalui transmisi 9 percepatan.
+38	disalurkan ke 4 roda melalui transmisi 9 percepatan.
+39	disalurkan ke 4 roda melalui transmisi 9 percepatan.
+40	disalurkan ke 4 roda melalui transmisi 9 percepatan.
+41	disalurkan ke 4 roda melalui transmisi 9 percepatan. Langsung kita cobain suara mesinnya.
+42	Langsung kita cobain suara mesinnya.
+43	Langsung kita cobain suara mesinnya.
+44	Langsung kita cobain suara mesinnya.
+45	Langsung kita cobain suara mesinnya.
+46	Langsung kita cobain suara mesinnya.
+47	Langsung kita cobain suara mesinnya. Ini audio gue, noise cancellation-nya udah dimatiin.
+48	Ini audio gue, noise cancellation-nya udah dimatiin.
+49	Ini audio gue, noise cancellation-nya udah dimatiin.
+50	Ini audio gue, noise cancellation-nya udah dimatiin.
+51	Ini audio gue, noise cancellation-nya udah dimatiin.
+52	Ini audio gue, noise cancellation-nya udah dimatiin.
+53	Ini audio gue, noise cancellation-nya udah dimatiin.
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	[NO_SPEECH]
+59	[NO_SPEECH]
+60	[NO_SPEECH]
+61	[NO_SPEECH]
+62	[NO_SPEECH]
+63	Wah, ini suara dieselnya.
+64	Wah, ini suara dieselnya.
+65	Wah, ini suara dieselnya.
+66	Wah, ini suara dieselnya.
+67	Wah, ini suara dieselnya.
+68	Wah, ini suara dieselnya. Senyap sih, nggak kedengeran suara diesel.
+69	Senyap sih, nggak kedengeran suara diesel.
+70	Senyap sih, nggak kedengeran suara diesel.
+71	Senyap sih, nggak kedengeran suara diesel.
+72	Senyap sih, nggak kedengeran suara diesel.
+73	Senyap sih, nggak kedengeran suara diesel.
+74	Senyap sih, nggak kedengeran suara diesel.
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	Nah, digas sedikit baru ada.
+78	Nah, digas sedikit baru ada.
+79	Nah, digas sedikit baru ada.
+80	Nah, digas sedikit baru ada. Tapi pas idle, rasanya kosong gitu suara dieselnya.
+81	Nah, digas sedikit baru ada. Tapi pas idle, rasanya kosong gitu suara dieselnya.
+82	Tapi pas idle, rasanya kosong gitu suara dieselnya.
+83	Tapi pas idle, rasanya kosong gitu suara dieselnya.
+84	Tapi pas idle, rasanya kosong gitu suara dieselnya.
+85	Tapi pas idle, rasanya kosong gitu suara dieselnya.
+86	Tapi pas idle, rasanya kosong gitu suara dieselnya.
+87	Tapi pas idle, rasanya kosong gitu suara dieselnya.
+88	Tapi pas idle, rasanya kosong gitu suara dieselnya. Kita tes jalan.
+89	Kita tes jalan.
+90	Kita tes jalan.
+91	Kita tes jalan. GWM tank 300 ini, boleh dibilang off-roader beneran, 4x4 beneran.
+92	Kita tes jalan. GWM tank 300 ini, boleh dibilang off-roader beneran, 4x4 beneran.
+93	GWM tank 300 ini, boleh dibilang off-roader beneran, 4x4 beneran.
+94	GWM tank 300 ini, boleh dibilang off-roader beneran, 4x4 beneran.
+95	GWM tank 300 ini, boleh dibilang off-roader beneran, 4x4 beneran.
+96	GWM tank 300 ini, boleh dibilang off-roader beneran, 4x4 beneran.
+97	GWM tank 300 ini, boleh dibilang off-roader beneran, 4x4 beneran.
+98	GWM tank 300 ini, boleh dibilang off-roader beneran, 4x4 beneran.
+99	GWM tank 300 ini, boleh dibilang off-roader beneran, 4x4 beneran.
+100	GWM tank 300 ini, boleh dibilang off-roader beneran, 4x4 beneran. Karena si transfer case-nya aja ada 2H, ada 4H, ada 4 Low.
+101	GWM tank 300 ini, boleh dibilang off-roader beneran, 4x4 beneran. Karena si transfer case-nya aja ada 2H, ada 4H, ada 4 Low.
+102	Karena si transfer case-nya aja ada 2H, ada 4H, ada 4 Low.
+103	Karena si transfer case-nya aja ada 2H, ada 4H, ada 4 Low.
+104	Karena si transfer case-nya aja ada 2H, ada 4H, ada 4 Low.
+105	Karena si transfer case-nya aja ada 2H, ada 4H, ada 4 Low.
+106	Karena si transfer case-nya aja ada 2H, ada 4H, ada 4 Low.
+107	Karena si transfer case-nya aja ada 2H, ada 4H, ada 4 Low.
+108	Karena si transfer case-nya aja ada 2H, ada 4H, ada 4 Low. Dan selain itu, fitur-fitur off-roadnya juga lengkap.
+109	Karena si transfer case-nya aja ada 2H, ada 4H, ada 4 Low. Dan selain itu, fitur-fitur off-roadnya juga lengkap.
+110	Dan selain itu, fitur-fitur off-roadnya juga lengkap.
+111	Dan selain itu, fitur-fitur off-roadnya juga lengkap.
+112	Dan selain itu, fitur-fitur off-roadnya juga lengkap.
+113	Dan selain itu, fitur-fitur off-roadnya juga lengkap.
+114	Dan selain itu, fitur-fitur off-roadnya juga lengkap.
+115	Dan selain itu, fitur-fitur off-roadnya juga lengkap. Misalnya ada terrain mode-nya untuk...
+116	Misalnya ada terrain mode-nya untuk...
+117	Misalnya ada terrain mode-nya untuk...
+118	Misalnya ada terrain mode-nya untuk... Mode berkendara di medan berat, udah gitu.
+119	Misalnya ada terrain mode-nya untuk... Mode berkendara di medan berat, udah gitu.
+120	Mode berkendara di medan berat, udah gitu.
+121	Mode berkendara di medan berat, udah gitu.
+122	Mode berkendara di medan berat, udah gitu.
+123	Mode berkendara di medan berat, udah gitu.
+124	Mode berkendara di medan berat, udah gitu. Ada diff lock belakang, sama ada tank turn.
+125	Mode berkendara di medan berat, udah gitu. Ada diff lock belakang, sama ada tank turn.
+126	Ada diff lock belakang, sama ada tank turn.
+127	Ada diff lock belakang, sama ada tank turn.
+128	Ada diff lock belakang, sama ada tank turn.
+129	Ada diff lock belakang, sama ada tank turn. Jadi ketika di medan yang licin, kita bisa punya radius putar yang kecil.
+130	Ada diff lock belakang, sama ada tank turn. Jadi ketika di medan yang licin, kita bisa punya radius putar yang kecil.
+131	Jadi ketika di medan yang licin, kita bisa punya radius putar yang kecil.
+132	Jadi ketika di medan yang licin, kita bisa punya radius putar yang kecil.
+133	Jadi ketika di medan yang licin, kita bisa punya radius putar yang kecil.
+134	Jadi ketika di medan yang licin, kita bisa punya radius putar yang kecil.
+135	Jadi ketika di medan yang licin, kita bisa punya radius putar yang kecil.
+136	Jadi ketika di medan yang licin, kita bisa punya radius putar yang kecil.
+137	Jadi ketika di medan yang licin, kita bisa punya radius putar yang kecil.
+138	Jadi ketika di medan yang licin, kita bisa punya radius putar yang kecil.
+139	Jadi ketika di medan yang licin, kita bisa punya radius putar yang kecil. Kita tes akselerasi dieselnya ya.
+140	Jadi ketika di medan yang licin, kita bisa punya radius putar yang kecil. Kita tes akselerasi dieselnya ya.
+141	Kita tes akselerasi dieselnya ya.
+142	Kita tes akselerasi dieselnya ya.
+143	Kita tes akselerasi dieselnya ya.
+144	Kita tes akselerasi dieselnya ya.
+145	[NO_SPEECH]
+146	[NO_SPEECH]
+147	[NO_SPEECH]
+148	Wah, menarik nih.
+149	Wah, menarik nih.
+150	Wah, menarik nih.
+151	Wah, menarik nih.
+152	Wah, menarik nih.
+153	[NO_SPEECH]
+154	[NO_SPEECH]
+155	[NO_SPEECH]
+156	Overall, GWM tank 300 diesel 4x4 berasa jadi SUV leather frame yang lumayan fancy.
+157	Overall, GWM tank 300 diesel 4x4 berasa jadi SUV leather frame yang lumayan fancy.
+158	Overall, GWM tank 300 diesel 4x4 berasa jadi SUV leather frame yang lumayan fancy.
+159	Overall, GWM tank 300 diesel 4x4 berasa jadi SUV leather frame yang lumayan fancy.
+160	Overall, GWM tank 300 diesel 4x4 berasa jadi SUV leather frame yang lumayan fancy.
+161	Overall, GWM tank 300 diesel 4x4 berasa jadi SUV leather frame yang lumayan fancy.
+162	Overall, GWM tank 300 diesel 4x4 berasa jadi SUV leather frame yang lumayan fancy.
+163	Overall, GWM tank 300 diesel 4x4 berasa jadi SUV leather frame yang lumayan fancy.
+164	Overall, GWM tank 300 diesel 4x4 berasa jadi SUV leather frame yang lumayan fancy.
+165	Overall, GWM tank 300 diesel 4x4 berasa jadi SUV leather frame yang lumayan fancy.
+166	Overall, GWM tank 300 diesel 4x4 berasa jadi SUV leather frame yang lumayan fancy. Tergolong senyap, minim getar, ada sisi premium-nya juga di dalam kabin.
+167	Overall, GWM tank 300 diesel 4x4 berasa jadi SUV leather frame yang lumayan fancy. Tergolong senyap, minim getar, ada sisi premium-nya juga di dalam kabin.
+168	Tergolong senyap, minim getar, ada sisi premium-nya juga di dalam kabin.
+169	Tergolong senyap, minim getar, ada sisi premium-nya juga di dalam kabin.
+170	Tergolong senyap, minim getar, ada sisi premium-nya juga di dalam kabin.
+171	Tergolong senyap, minim getar, ada sisi premium-nya juga di dalam kabin.
+172	Tergolong senyap, minim getar, ada sisi premium-nya juga di dalam kabin.
+173	Tergolong senyap, minim getar, ada sisi premium-nya juga di dalam kabin. Bikin tambah menarik model 4x4 ini dibanderol.
+174	Tergolong senyap, minim getar, ada sisi premium-nya juga di dalam kabin. Bikin tambah menarik model 4x4 ini dibanderol.
+175	Bikin tambah menarik model 4x4 ini dibanderol.
+176	Bikin tambah menarik model 4x4 ini dibanderol.
+177	Bikin tambah menarik model 4x4 ini dibanderol.
+178	Bikin tambah menarik model 4x4 ini dibanderol. Rp 658 juta bahkan bisa didapetin di harga spesial early bird Rp 648 juta.
+179	Bikin tambah menarik model 4x4 ini dibanderol. Rp 658 juta bahkan bisa didapetin di harga spesial early bird Rp 648 juta.
+180	Rp 658 juta bahkan bisa didapetin di harga spesial early bird Rp 648 juta.
+181	Rp 658 juta bahkan bisa didapetin di harga spesial early bird Rp 648 juta.
+182	Rp 658 juta bahkan bisa didapetin di harga spesial early bird Rp 648 juta.
+183	Rp 658 juta bahkan bisa didapetin di harga spesial early bird Rp 648 juta.
+184	Rp 658 juta bahkan bisa didapetin di harga spesial early bird Rp 648 juta.
+185	Rp 658 juta bahkan bisa didapetin di harga spesial early bird Rp 648 juta.
+186	Rp 658 juta bahkan bisa didapetin di harga spesial early bird Rp 648 juta.
+187	Rp 658 juta bahkan bisa didapetin di harga spesial early bird Rp 648 juta.
+188	Rp 658 juta bahkan bisa didapetin di harga spesial early bird Rp 648 juta.
+189	Rp 658 juta bahkan bisa didapetin di harga spesial early bird Rp 648 juta. Menjamin durabilitasnya, juga GWM berani kasih garansi mesin hingga 10 tahun tuh.
+190	Menjamin durabilitasnya, juga GWM berani kasih garansi mesin hingga 10 tahun tuh.
+191	Menjamin durabilitasnya, juga GWM berani kasih garansi mesin hingga 10 tahun tuh.
+192	Menjamin durabilitasnya, juga GWM berani kasih garansi mesin hingga 10 tahun tuh.
+193	Menjamin durabilitasnya, juga GWM berani kasih garansi mesin hingga 10 tahun tuh.
+194	Menjamin durabilitasnya, juga GWM berani kasih garansi mesin hingga 10 tahun tuh.
+195	Menjamin durabilitasnya, juga GWM berani kasih garansi mesin hingga 10 tahun tuh.
+196	Menjamin durabilitasnya, juga GWM berani kasih garansi mesin hingga 10 tahun tuh.
+197	Menjamin durabilitasnya, juga GWM berani kasih garansi mesin hingga 10 tahun tuh. Atau 1 juta kilometer spesifik model diesel.
+198	Menjamin durabilitasnya, juga GWM berani kasih garansi mesin hingga 10 tahun tuh. Atau 1 juta kilometer spesifik model diesel.
+199	Atau 1 juta kilometer spesifik model diesel.
+200	Atau 1 juta kilometer spesifik model diesel.
+201	Atau 1 juta kilometer spesifik model diesel. Gimana, minat sama off-roader satu ini?
+202	Atau 1 juta kilometer spesifik model diesel. Gimana, minat sama off-roader satu ini?
+203	Gimana, minat sama off-roader satu ini?
+204	Gimana, minat sama off-roader satu ini?
+205	Gimana, minat sama off-roader satu ini? Main-main aja ke GS2025 dan kunjungi booth GWM buat lihat sekaligus rasain langsung SUV diesel terbaru mereka.
+206	Gimana, minat sama off-roader satu ini? Main-main aja ke GS2025 dan kunjungi booth GWM buat lihat sekaligus rasain langsung SUV diesel terbaru mereka.
+207	Main-main aja ke GS2025 dan kunjungi booth GWM buat lihat sekaligus rasain langsung SUV diesel terbaru mereka.
+208	Main-main aja ke GS2025 dan kunjungi booth GWM buat lihat sekaligus rasain langsung SUV diesel terbaru mereka.
+209	Main-main aja ke GS2025 dan kunjungi booth GWM buat lihat sekaligus rasain langsung SUV diesel terbaru mereka.
+210	Main-main aja ke GS2025 dan kunjungi booth GWM buat lihat sekaligus rasain langsung SUV diesel terbaru mereka.
+211	Main-main aja ke GS2025 dan kunjungi booth GWM buat lihat sekaligus rasain langsung SUV diesel terbaru mereka.
+212	Main-main aja ke GS2025 dan kunjungi booth GWM buat lihat sekaligus rasain langsung SUV diesel terbaru mereka.
+213	Main-main aja ke GS2025 dan kunjungi booth GWM buat lihat sekaligus rasain langsung SUV diesel terbaru mereka.
+214	Main-main aja ke GS2025 dan kunjungi booth GWM buat lihat sekaligus rasain langsung SUV diesel terbaru mereka.
+215	Main-main aja ke GS2025 dan kunjungi booth GWM buat lihat sekaligus rasain langsung SUV diesel terbaru mereka.
+216	Main-main aja ke GS2025 dan kunjungi booth GWM buat lihat sekaligus rasain langsung SUV diesel terbaru mereka.
+217	Main-main aja ke GS2025 dan kunjungi booth GWM buat lihat sekaligus rasain langsung SUV diesel terbaru mereka.
+218	[NO_SPEECH]

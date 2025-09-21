@@ -1,0 +1,78 @@
+0	Mau hujan, mau panas, gak ada alasan karena bisa dilakukan di rumah.
+1	Mau hujan, mau panas, gak ada alasan karena bisa dilakukan di rumah.
+2	Mau hujan, mau panas, gak ada alasan karena bisa dilakukan di rumah.
+3	Mau hujan, mau panas, gak ada alasan karena bisa dilakukan di rumah.
+4	Mau hujan, mau panas, gak ada alasan karena bisa dilakukan di rumah.
+5	Mau hujan, mau panas, gak ada alasan karena bisa dilakukan di rumah.
+6	Mau hujan, mau panas, gak ada alasan karena bisa dilakukan di rumah.
+7	Mau hujan, mau panas, gak ada alasan karena bisa dilakukan di rumah. 4 sehat 5 gerakan yang bisa dilakukan BodyMax dan Wingbo.
+8	Mau hujan, mau panas, gak ada alasan karena bisa dilakukan di rumah. 4 sehat 5 gerakan yang bisa dilakukan BodyMax dan Wingbo.
+9	4 sehat 5 gerakan yang bisa dilakukan BodyMax dan Wingbo.
+10	4 sehat 5 gerakan yang bisa dilakukan BodyMax dan Wingbo.
+11	4 sehat 5 gerakan yang bisa dilakukan BodyMax dan Wingbo.
+12	4 sehat 5 gerakan yang bisa dilakukan BodyMax dan Wingbo.
+13	4 sehat 5 gerakan yang bisa dilakukan BodyMax dan Wingbo.
+14	4 sehat 5 gerakan yang bisa dilakukan BodyMax dan Wingbo.
+15	4 sehat 5 gerakan yang bisa dilakukan BodyMax dan Wingbo. Yang pertama, chin pulse buat latihan pundak kalian biar makin kuat memikul kehidupan.
+16	4 sehat 5 gerakan yang bisa dilakukan BodyMax dan Wingbo. Yang pertama, chin pulse buat latihan pundak kalian biar makin kuat memikul kehidupan.
+17	Yang pertama, chin pulse buat latihan pundak kalian biar makin kuat memikul kehidupan.
+18	Yang pertama, chin pulse buat latihan pundak kalian biar makin kuat memikul kehidupan.
+19	Yang pertama, chin pulse buat latihan pundak kalian biar makin kuat memikul kehidupan.
+20	Yang pertama, chin pulse buat latihan pundak kalian biar makin kuat memikul kehidupan.
+21	Yang pertama, chin pulse buat latihan pundak kalian biar makin kuat memikul kehidupan.
+22	Yang pertama, chin pulse buat latihan pundak kalian biar makin kuat memikul kehidupan.
+23	Yang pertama, chin pulse buat latihan pundak kalian biar makin kuat memikul kehidupan.
+24	Yang pertama, chin pulse buat latihan pundak kalian biar makin kuat memikul kehidupan.
+25	Yang pertama, chin pulse buat latihan pundak kalian biar makin kuat memikul kehidupan.
+26	Yang pertama, chin pulse buat latihan pundak kalian biar makin kuat memikul kehidupan.
+27	Yang pertama, chin pulse buat latihan pundak kalian biar makin kuat memikul kehidupan. Yang kedua, kita squat kuatin kaki-kaki biar gak sering masuk bengkel, Jon.
+28	Yang pertama, chin pulse buat latihan pundak kalian biar makin kuat memikul kehidupan. Yang kedua, kita squat kuatin kaki-kaki biar gak sering masuk bengkel, Jon.
+29	Yang kedua, kita squat kuatin kaki-kaki biar gak sering masuk bengkel, Jon.
+30	Yang kedua, kita squat kuatin kaki-kaki biar gak sering masuk bengkel, Jon.
+31	Yang kedua, kita squat kuatin kaki-kaki biar gak sering masuk bengkel, Jon.
+32	Yang kedua, kita squat kuatin kaki-kaki biar gak sering masuk bengkel, Jon.
+33	Yang kedua, kita squat kuatin kaki-kaki biar gak sering masuk bengkel, Jon.
+34	Yang kedua, kita squat kuatin kaki-kaki biar gak sering masuk bengkel, Jon.
+35	Yang kedua, kita squat kuatin kaki-kaki biar gak sering masuk bengkel, Jon.
+36	Yang kedua, kita squat kuatin kaki-kaki biar gak sering masuk bengkel, Jon.
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	Nah, habis kelar latihan bisa kita taruh di sela-sela ruang.
+57	Nah, habis kelar latihan bisa kita taruh di sela-sela ruang.
+58	Nah, habis kelar latihan bisa kita taruh di sela-sela ruang.
+59	Nah, habis kelar latihan bisa kita taruh di sela-sela ruang.
+60	Nah, habis kelar latihan bisa kita taruh di sela-sela ruang.
+61	Nah, habis kelar latihan bisa kita taruh di sela-sela ruang.
+62	Nah, habis kelar latihan bisa kita taruh di sela-sela ruang.
+63	Nah, habis kelar latihan bisa kita taruh di sela-sela ruang.
+64	Nah, habis kelar latihan bisa kita taruh di sela-sela ruang. Karena alat ini simple banget dan gak makan banyak space.
+65	Nah, habis kelar latihan bisa kita taruh di sela-sela ruang. Karena alat ini simple banget dan gak makan banyak space.
+66	Karena alat ini simple banget dan gak makan banyak space.
+67	Karena alat ini simple banget dan gak makan banyak space.
+68	Karena alat ini simple banget dan gak makan banyak space.
+69	Karena alat ini simple banget dan gak makan banyak space.
+70	Karena alat ini simple banget dan gak makan banyak space.
+71	Karena alat ini simple banget dan gak makan banyak space. Sikat, Jon!
+72	Sikat, Jon!
+73	Sikat, Jon!
+74	[NO_SPEECH]
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]

@@ -1,0 +1,153 @@
+0	Hai guys, kalian inget gak dulu aku pernah beli ikan lele bantet si ikan yeye?
+1	Hai guys, kalian inget gak dulu aku pernah beli ikan lele bantet si ikan yeye?
+2	Hai guys, kalian inget gak dulu aku pernah beli ikan lele bantet si ikan yeye?
+3	Hai guys, kalian inget gak dulu aku pernah beli ikan lele bantet si ikan yeye?
+4	Hai guys, kalian inget gak dulu aku pernah beli ikan lele bantet si ikan yeye?
+5	Hai guys, kalian inget gak dulu aku pernah beli ikan lele bantet si ikan yeye?
+6	Hai guys, kalian inget gak dulu aku pernah beli ikan lele bantet si ikan yeye?
+7	Hai guys, kalian inget gak dulu aku pernah beli ikan lele bantet si ikan yeye? Nah ini dia, dulu aku beli sekitar Mei tahun 2024, panjangnya sekitar 30 cm.
+8	Hai guys, kalian inget gak dulu aku pernah beli ikan lele bantet si ikan yeye? Nah ini dia, dulu aku beli sekitar Mei tahun 2024, panjangnya sekitar 30 cm.
+9	Nah ini dia, dulu aku beli sekitar Mei tahun 2024, panjangnya sekitar 30 cm.
+10	Nah ini dia, dulu aku beli sekitar Mei tahun 2024, panjangnya sekitar 30 cm.
+11	Nah ini dia, dulu aku beli sekitar Mei tahun 2024, panjangnya sekitar 30 cm.
+12	Nah ini dia, dulu aku beli sekitar Mei tahun 2024, panjangnya sekitar 30 cm.
+13	Nah ini dia, dulu aku beli sekitar Mei tahun 2024, panjangnya sekitar 30 cm.
+14	Nah ini dia, dulu aku beli sekitar Mei tahun 2024, panjangnya sekitar 30 cm.
+15	Nah ini dia, dulu aku beli sekitar Mei tahun 2024, panjangnya sekitar 30 cm.
+16	Nah ini dia, dulu aku beli sekitar Mei tahun 2024, panjangnya sekitar 30 cm.
+17	Nah ini dia, dulu aku beli sekitar Mei tahun 2024, panjangnya sekitar 30 cm. Sini-sini aku tunjukin kayak gimana dia sekarang.
+18	Sini-sini aku tunjukin kayak gimana dia sekarang.
+19	Sini-sini aku tunjukin kayak gimana dia sekarang.
+20	Sini-sini aku tunjukin kayak gimana dia sekarang.
+21	Sini-sini aku tunjukin kayak gimana dia sekarang. Taraaa! Karena dia memang hidup bareng sama ikan koi aku, jadi dia ikut makan pelet.
+22	Sini-sini aku tunjukin kayak gimana dia sekarang. Taraaa! Karena dia memang hidup bareng sama ikan koi aku, jadi dia ikut makan pelet.
+23	Taraaa! Karena dia memang hidup bareng sama ikan koi aku, jadi dia ikut makan pelet.
+24	Taraaa! Karena dia memang hidup bareng sama ikan koi aku, jadi dia ikut makan pelet.
+25	Taraaa! Karena dia memang hidup bareng sama ikan koi aku, jadi dia ikut makan pelet.
+26	Taraaa! Karena dia memang hidup bareng sama ikan koi aku, jadi dia ikut makan pelet.
+27	Taraaa! Karena dia memang hidup bareng sama ikan koi aku, jadi dia ikut makan pelet.
+28	Taraaa! Karena dia memang hidup bareng sama ikan koi aku, jadi dia ikut makan pelet.
+29	Taraaa! Karena dia memang hidup bareng sama ikan koi aku, jadi dia ikut makan pelet.
+30	Taraaa! Karena dia memang hidup bareng sama ikan koi aku, jadi dia ikut makan pelet.
+31	Taraaa! Karena dia memang hidup bareng sama ikan koi aku, jadi dia ikut makan pelet.
+32	Taraaa! Karena dia memang hidup bareng sama ikan koi aku, jadi dia ikut makan pelet. Sebenernya banyak banget penghobi predator yang udah kasih warning ke aku.
+33	Sebenernya banyak banget penghobi predator yang udah kasih warning ke aku.
+34	Sebenernya banyak banget penghobi predator yang udah kasih warning ke aku.
+35	Sebenernya banyak banget penghobi predator yang udah kasih warning ke aku.
+36	Sebenernya banyak banget penghobi predator yang udah kasih warning ke aku.
+37	Sebenernya banyak banget penghobi predator yang udah kasih warning ke aku.
+38	Sebenernya banyak banget penghobi predator yang udah kasih warning ke aku.
+39	Sebenernya banyak banget penghobi predator yang udah kasih warning ke aku. Ada ungkapan jangan percaya mulut RTC, saking rakusnya dia dan berpotensi makan ikan yang lainnya.
+40	Ada ungkapan jangan percaya mulut RTC, saking rakusnya dia dan berpotensi makan ikan yang lainnya.
+41	Ada ungkapan jangan percaya mulut RTC, saking rakusnya dia dan berpotensi makan ikan yang lainnya.
+42	Ada ungkapan jangan percaya mulut RTC, saking rakusnya dia dan berpotensi makan ikan yang lainnya.
+43	Ada ungkapan jangan percaya mulut RTC, saking rakusnya dia dan berpotensi makan ikan yang lainnya.
+44	Ada ungkapan jangan percaya mulut RTC, saking rakusnya dia dan berpotensi makan ikan yang lainnya.
+45	Ada ungkapan jangan percaya mulut RTC, saking rakusnya dia dan berpotensi makan ikan yang lainnya.
+46	Ada ungkapan jangan percaya mulut RTC, saking rakusnya dia dan berpotensi makan ikan yang lainnya.
+47	Ada ungkapan jangan percaya mulut RTC, saking rakusnya dia dan berpotensi makan ikan yang lainnya.
+48	Ada ungkapan jangan percaya mulut RTC, saking rakusnya dia dan berpotensi makan ikan yang lainnya.
+49	Ada ungkapan jangan percaya mulut RTC, saking rakusnya dia dan berpotensi makan ikan yang lainnya.
+50	Ada ungkapan jangan percaya mulut RTC, saking rakusnya dia dan berpotensi makan ikan yang lainnya.
+51	Ada ungkapan jangan percaya mulut RTC, saking rakusnya dia dan berpotensi makan ikan yang lainnya. Sejauh ini sih dia baik-baik aja ya sama ikan-ikan aku yang lain mungkin karena size-nya memang jauh agak berbeda.
+52	Ada ungkapan jangan percaya mulut RTC, saking rakusnya dia dan berpotensi makan ikan yang lainnya. Sejauh ini sih dia baik-baik aja ya sama ikan-ikan aku yang lain mungkin karena size-nya memang jauh agak berbeda.
+53	Sejauh ini sih dia baik-baik aja ya sama ikan-ikan aku yang lain mungkin karena size-nya memang jauh agak berbeda.
+54	Sejauh ini sih dia baik-baik aja ya sama ikan-ikan aku yang lain mungkin karena size-nya memang jauh agak berbeda.
+55	Sejauh ini sih dia baik-baik aja ya sama ikan-ikan aku yang lain mungkin karena size-nya memang jauh agak berbeda.
+56	Sejauh ini sih dia baik-baik aja ya sama ikan-ikan aku yang lain mungkin karena size-nya memang jauh agak berbeda.
+57	Sejauh ini sih dia baik-baik aja ya sama ikan-ikan aku yang lain mungkin karena size-nya memang jauh agak berbeda.
+58	Sejauh ini sih dia baik-baik aja ya sama ikan-ikan aku yang lain mungkin karena size-nya memang jauh agak berbeda.
+59	Sejauh ini sih dia baik-baik aja ya sama ikan-ikan aku yang lain mungkin karena size-nya memang jauh agak berbeda.
+60	Sejauh ini sih dia baik-baik aja ya sama ikan-ikan aku yang lain mungkin karena size-nya memang jauh agak berbeda.
+61	Sejauh ini sih dia baik-baik aja ya sama ikan-ikan aku yang lain mungkin karena size-nya memang jauh agak berbeda.
+62	Sejauh ini sih dia baik-baik aja ya sama ikan-ikan aku yang lain mungkin karena size-nya memang jauh agak berbeda.
+63	Sejauh ini sih dia baik-baik aja ya sama ikan-ikan aku yang lain mungkin karena size-nya memang jauh agak berbeda. Anyway, dia emang rakus banget sehari aku kasih makan dia 2 kali pagi dan sore.
+64	Sejauh ini sih dia baik-baik aja ya sama ikan-ikan aku yang lain mungkin karena size-nya memang jauh agak berbeda. Anyway, dia emang rakus banget sehari aku kasih makan dia 2 kali pagi dan sore.
+65	Anyway, dia emang rakus banget sehari aku kasih makan dia 2 kali pagi dan sore.
+66	Anyway, dia emang rakus banget sehari aku kasih makan dia 2 kali pagi dan sore.
+67	Anyway, dia emang rakus banget sehari aku kasih makan dia 2 kali pagi dan sore.
+68	Anyway, dia emang rakus banget sehari aku kasih makan dia 2 kali pagi dan sore.
+69	Anyway, dia emang rakus banget sehari aku kasih makan dia 2 kali pagi dan sore.
+70	Anyway, dia emang rakus banget sehari aku kasih makan dia 2 kali pagi dan sore.
+71	Anyway, dia emang rakus banget sehari aku kasih makan dia 2 kali pagi dan sore.
+72	Anyway, dia emang rakus banget sehari aku kasih makan dia 2 kali pagi dan sore.
+73	Anyway, dia emang rakus banget sehari aku kasih makan dia 2 kali pagi dan sore. Hari ini aku emang mau ngangkat dia dan ngecek seberapa besar sih dia tumbuh dalam jangka waktu 10 bulan.
+74	Anyway, dia emang rakus banget sehari aku kasih makan dia 2 kali pagi dan sore. Hari ini aku emang mau ngangkat dia dan ngecek seberapa besar sih dia tumbuh dalam jangka waktu 10 bulan.
+75	Hari ini aku emang mau ngangkat dia dan ngecek seberapa besar sih dia tumbuh dalam jangka waktu 10 bulan.
+76	Hari ini aku emang mau ngangkat dia dan ngecek seberapa besar sih dia tumbuh dalam jangka waktu 10 bulan.
+77	Hari ini aku emang mau ngangkat dia dan ngecek seberapa besar sih dia tumbuh dalam jangka waktu 10 bulan.
+78	Hari ini aku emang mau ngangkat dia dan ngecek seberapa besar sih dia tumbuh dalam jangka waktu 10 bulan.
+79	Hari ini aku emang mau ngangkat dia dan ngecek seberapa besar sih dia tumbuh dalam jangka waktu 10 bulan.
+80	Hari ini aku emang mau ngangkat dia dan ngecek seberapa besar sih dia tumbuh dalam jangka waktu 10 bulan.
+81	Hari ini aku emang mau ngangkat dia dan ngecek seberapa besar sih dia tumbuh dalam jangka waktu 10 bulan.
+82	Hari ini aku emang mau ngangkat dia dan ngecek seberapa besar sih dia tumbuh dalam jangka waktu 10 bulan.
+83	Hari ini aku emang mau ngangkat dia dan ngecek seberapa besar sih dia tumbuh dalam jangka waktu 10 bulan.
+84	Hari ini aku emang mau ngangkat dia dan ngecek seberapa besar sih dia tumbuh dalam jangka waktu 10 bulan. Ternyata dia sekarang ukurannya udah 52 cm.
+85	Ternyata dia sekarang ukurannya udah 52 cm.
+86	Ternyata dia sekarang ukurannya udah 52 cm.
+87	Ternyata dia sekarang ukurannya udah 52 cm.
+88	Ternyata dia sekarang ukurannya udah 52 cm.
+89	Ternyata dia sekarang ukurannya udah 52 cm. Aku paling sayang sama ikan yeye aku dibandingin sama anak amis yang lain.
+90	Ternyata dia sekarang ukurannya udah 52 cm. Aku paling sayang sama ikan yeye aku dibandingin sama anak amis yang lain.
+91	Aku paling sayang sama ikan yeye aku dibandingin sama anak amis yang lain.
+92	Aku paling sayang sama ikan yeye aku dibandingin sama anak amis yang lain.
+93	Aku paling sayang sama ikan yeye aku dibandingin sama anak amis yang lain.
+94	Aku paling sayang sama ikan yeye aku dibandingin sama anak amis yang lain.
+95	Aku paling sayang sama ikan yeye aku dibandingin sama anak amis yang lain.
+96	Aku paling sayang sama ikan yeye aku dibandingin sama anak amis yang lain.
+97	Aku paling sayang sama ikan yeye aku dibandingin sama anak amis yang lain. Gak tau ya kenapa tapi mukanya tuh lucu banget.
+98	Gak tau ya kenapa tapi mukanya tuh lucu banget.
+99	Gak tau ya kenapa tapi mukanya tuh lucu banget.
+100	Gak tau ya kenapa tapi mukanya tuh lucu banget.
+101	Gak tau ya kenapa tapi mukanya tuh lucu banget.
+102	Gak tau ya kenapa tapi mukanya tuh lucu banget. Ada sumutnya lagi tuing-tuing.
+103	Ada sumutnya lagi tuing-tuing.
+104	Ada sumutnya lagi tuing-tuing.
+105	Ada sumutnya lagi tuing-tuing. Setelah aku cek, ternyata di belakang operkulumnya,
+106	Ada sumutnya lagi tuing-tuing. Setelah aku cek, ternyata di belakang operkulumnya,
+107	Setelah aku cek, ternyata di belakang operkulumnya,
+108	Setelah aku cek, ternyata di belakang operkulumnya,
+109	Setelah aku cek, ternyata di belakang operkulumnya,
+110	Setelah aku cek, ternyata di belakang operkulumnya,
+111	Setelah aku cek, ternyata di belakang operkulumnya, ini ada papilomanya tapi selama ini gak terlalu keliatan.
+112	ini ada papilomanya tapi selama ini gak terlalu keliatan.
+113	ini ada papilomanya tapi selama ini gak terlalu keliatan.
+114	ini ada papilomanya tapi selama ini gak terlalu keliatan.
+115	ini ada papilomanya tapi selama ini gak terlalu keliatan.
+116	ini ada papilomanya tapi selama ini gak terlalu keliatan. Untung aku dokter ikan deh, jadi kamu bisa aku obatin sendiri deh.
+117	ini ada papilomanya tapi selama ini gak terlalu keliatan. Untung aku dokter ikan deh, jadi kamu bisa aku obatin sendiri deh.
+118	Untung aku dokter ikan deh, jadi kamu bisa aku obatin sendiri deh.
+119	Untung aku dokter ikan deh, jadi kamu bisa aku obatin sendiri deh.
+120	Untung aku dokter ikan deh, jadi kamu bisa aku obatin sendiri deh.
+121	Untung aku dokter ikan deh, jadi kamu bisa aku obatin sendiri deh.
+122	Untung aku dokter ikan deh, jadi kamu bisa aku obatin sendiri deh.
+123	Untung aku dokter ikan deh, jadi kamu bisa aku obatin sendiri deh. Panjang umur ya yeye, aku bakal bikin video terus perkembangan pertumbuhannya 1 tahun sekali
+124	Untung aku dokter ikan deh, jadi kamu bisa aku obatin sendiri deh. Panjang umur ya yeye, aku bakal bikin video terus perkembangan pertumbuhannya 1 tahun sekali
+125	Panjang umur ya yeye, aku bakal bikin video terus perkembangan pertumbuhannya 1 tahun sekali
+126	Panjang umur ya yeye, aku bakal bikin video terus perkembangan pertumbuhannya 1 tahun sekali
+127	Panjang umur ya yeye, aku bakal bikin video terus perkembangan pertumbuhannya 1 tahun sekali
+128	Panjang umur ya yeye, aku bakal bikin video terus perkembangan pertumbuhannya 1 tahun sekali
+129	Panjang umur ya yeye, aku bakal bikin video terus perkembangan pertumbuhannya 1 tahun sekali
+130	Panjang umur ya yeye, aku bakal bikin video terus perkembangan pertumbuhannya 1 tahun sekali
+131	Panjang umur ya yeye, aku bakal bikin video terus perkembangan pertumbuhannya 1 tahun sekali
+132	Panjang umur ya yeye, aku bakal bikin video terus perkembangan pertumbuhannya 1 tahun sekali
+133	Panjang umur ya yeye, aku bakal bikin video terus perkembangan pertumbuhannya 1 tahun sekali
+134	Panjang umur ya yeye, aku bakal bikin video terus perkembangan pertumbuhannya 1 tahun sekali biar kita sama-sama menyaksikan dia tubuh sampai panjangnya 1 meter.
+135	Panjang umur ya yeye, aku bakal bikin video terus perkembangan pertumbuhannya 1 tahun sekali biar kita sama-sama menyaksikan dia tubuh sampai panjangnya 1 meter.
+136	biar kita sama-sama menyaksikan dia tubuh sampai panjangnya 1 meter.
+137	biar kita sama-sama menyaksikan dia tubuh sampai panjangnya 1 meter.
+138	biar kita sama-sama menyaksikan dia tubuh sampai panjangnya 1 meter.
+139	biar kita sama-sama menyaksikan dia tubuh sampai panjangnya 1 meter.
+140	biar kita sama-sama menyaksikan dia tubuh sampai panjangnya 1 meter.
+141	biar kita sama-sama menyaksikan dia tubuh sampai panjangnya 1 meter.
+142	biar kita sama-sama menyaksikan dia tubuh sampai panjangnya 1 meter. Hidup dengan bahagia ya yeyeku.
+143	biar kita sama-sama menyaksikan dia tubuh sampai panjangnya 1 meter. Hidup dengan bahagia ya yeyeku.
+144	Hidup dengan bahagia ya yeyeku.
+145	Hidup dengan bahagia ya yeyeku.
+146	Hidup dengan bahagia ya yeyeku.
+147	Hidup dengan bahagia ya yeyeku.
+148	[NO_SPEECH]
+149	[NO_SPEECH]
+150	[NO_SPEECH]
+151	[NO_SPEECH]
+152	[NO_SPEECH]

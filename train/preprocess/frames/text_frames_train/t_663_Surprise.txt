@@ -1,0 +1,114 @@
+0	Kamu bisa tahu kalau hamil cuma dari tanda-tanda ini.
+1	Kamu bisa tahu kalau hamil cuma dari tanda-tanda ini.
+2	Kamu bisa tahu kalau hamil cuma dari tanda-tanda ini.
+3	Kamu bisa tahu kalau hamil cuma dari tanda-tanda ini.
+4	Kamu bisa tahu kalau hamil cuma dari tanda-tanda ini.
+5	Kamu bisa tahu kalau hamil cuma dari tanda-tanda ini.
+6	[NO_SPEECH]
+7	Tanpa tespek, sebenarnya kehamilan bisa dikenali dari perubahan fisik lho.
+8	Tanpa tespek, sebenarnya kehamilan bisa dikenali dari perubahan fisik lho.
+9	Tanpa tespek, sebenarnya kehamilan bisa dikenali dari perubahan fisik lho.
+10	Tanpa tespek, sebenarnya kehamilan bisa dikenali dari perubahan fisik lho.
+11	Tanpa tespek, sebenarnya kehamilan bisa dikenali dari perubahan fisik lho.
+12	Tanpa tespek, sebenarnya kehamilan bisa dikenali dari perubahan fisik lho.
+13	Tanpa tespek, sebenarnya kehamilan bisa dikenali dari perubahan fisik lho.
+14	Tanpa tespek, sebenarnya kehamilan bisa dikenali dari perubahan fisik lho.
+15	Tanpa tespek, sebenarnya kehamilan bisa dikenali dari perubahan fisik lho.
+16	Tanpa tespek, sebenarnya kehamilan bisa dikenali dari perubahan fisik lho.
+17	Tanpa tespek, sebenarnya kehamilan bisa dikenali dari perubahan fisik lho.
+18	Pertama, dari yang paling umum, sering mual dan muntah di pagi hari.
+19	Pertama, dari yang paling umum, sering mual dan muntah di pagi hari.
+20	Pertama, dari yang paling umum, sering mual dan muntah di pagi hari.
+21	Pertama, dari yang paling umum, sering mual dan muntah di pagi hari.
+22	Pertama, dari yang paling umum, sering mual dan muntah di pagi hari.
+23	Pertama, dari yang paling umum, sering mual dan muntah di pagi hari.
+24	Pertama, dari yang paling umum, sering mual dan muntah di pagi hari.
+25	Pertama, dari yang paling umum, sering mual dan muntah di pagi hari.
+26	Pertama, dari yang paling umum, sering mual dan muntah di pagi hari.
+27	Pertama, dari yang paling umum, sering mual dan muntah di pagi hari.
+28	Karena faktanya hampir 50% wanita hamil mengalami ini lho.
+29	Karena faktanya hampir 50% wanita hamil mengalami ini lho.
+30	Karena faktanya hampir 50% wanita hamil mengalami ini lho.
+31	Karena faktanya hampir 50% wanita hamil mengalami ini lho.
+32	Karena faktanya hampir 50% wanita hamil mengalami ini lho.
+33	Karena faktanya hampir 50% wanita hamil mengalami ini lho.
+34	Karena faktanya hampir 50% wanita hamil mengalami ini lho.
+35	Karena faktanya hampir 50% wanita hamil mengalami ini lho. Kedua, payudara terasa lebih kencang dan nyeri.
+36	Kedua, payudara terasa lebih kencang dan nyeri.
+37	Kedua, payudara terasa lebih kencang dan nyeri.
+38	Kedua, payudara terasa lebih kencang dan nyeri.
+39	Kedua, payudara terasa lebih kencang dan nyeri.
+40	Kedua, payudara terasa lebih kencang dan nyeri.
+41	Kedua, payudara terasa lebih kencang dan nyeri.
+42	Kedua, payudara terasa lebih kencang dan nyeri. Kadang, warna puting berubah jadi lebih gelap dan menonjol.
+43	Kadang, warna puting berubah jadi lebih gelap dan menonjol.
+44	Kadang, warna puting berubah jadi lebih gelap dan menonjol.
+45	Kadang, warna puting berubah jadi lebih gelap dan menonjol.
+46	Kadang, warna puting berubah jadi lebih gelap dan menonjol.
+47	Kadang, warna puting berubah jadi lebih gelap dan menonjol.
+48	Kadang, warna puting berubah jadi lebih gelap dan menonjol.
+49	Kadang, warna puting berubah jadi lebih gelap dan menonjol.
+50	Kadang, warna puting berubah jadi lebih gelap dan menonjol.
+51	[NO_SPEECH]
+52	Ketiga, perut kembung.
+53	Ketiga, perut kembung.
+54	Ketiga, perut kembung.
+55	Ketiga, perut kembung. Seringkali disalah artikan asam lambung naik nih, padahal bukan lho.
+56	Ketiga, perut kembung. Seringkali disalah artikan asam lambung naik nih, padahal bukan lho.
+57	Seringkali disalah artikan asam lambung naik nih, padahal bukan lho.
+58	Seringkali disalah artikan asam lambung naik nih, padahal bukan lho.
+59	Seringkali disalah artikan asam lambung naik nih, padahal bukan lho.
+60	Seringkali disalah artikan asam lambung naik nih, padahal bukan lho.
+61	Seringkali disalah artikan asam lambung naik nih, padahal bukan lho.
+62	Seringkali disalah artikan asam lambung naik nih, padahal bukan lho.
+63	Seringkali disalah artikan asam lambung naik nih, padahal bukan lho.
+64	Seringkali disalah artikan asam lambung naik nih, padahal bukan lho. Ini terjadi karena ada peningkatan hormon progesteron saat hamil ya.
+65	Ini terjadi karena ada peningkatan hormon progesteron saat hamil ya.
+66	Ini terjadi karena ada peningkatan hormon progesteron saat hamil ya.
+67	Ini terjadi karena ada peningkatan hormon progesteron saat hamil ya.
+68	Ini terjadi karena ada peningkatan hormon progesteron saat hamil ya.
+69	Ini terjadi karena ada peningkatan hormon progesteron saat hamil ya.
+70	Ini terjadi karena ada peningkatan hormon progesteron saat hamil ya.
+71	Ini terjadi karena ada peningkatan hormon progesteron saat hamil ya.
+72	Ini terjadi karena ada peningkatan hormon progesteron saat hamil ya.
+73	Terakhir, kram perut.
+74	Terakhir, kram perut.
+75	Terakhir, kram perut.
+76	Terakhir, kram perut. Yang berbeda dengan gejala menstruasi, biasanya cuma di satu sisi dan sebentar aja.
+77	Terakhir, kram perut. Yang berbeda dengan gejala menstruasi, biasanya cuma di satu sisi dan sebentar aja.
+78	Yang berbeda dengan gejala menstruasi, biasanya cuma di satu sisi dan sebentar aja.
+79	Yang berbeda dengan gejala menstruasi, biasanya cuma di satu sisi dan sebentar aja.
+80	Yang berbeda dengan gejala menstruasi, biasanya cuma di satu sisi dan sebentar aja.
+81	Yang berbeda dengan gejala menstruasi, biasanya cuma di satu sisi dan sebentar aja.
+82	Yang berbeda dengan gejala menstruasi, biasanya cuma di satu sisi dan sebentar aja.
+83	Yang berbeda dengan gejala menstruasi, biasanya cuma di satu sisi dan sebentar aja.
+84	Yang berbeda dengan gejala menstruasi, biasanya cuma di satu sisi dan sebentar aja.
+85	Yang berbeda dengan gejala menstruasi, biasanya cuma di satu sisi dan sebentar aja.
+86	Yang berbeda dengan gejala menstruasi, biasanya cuma di satu sisi dan sebentar aja.
+87	Nah, kalau kamu sudah merasakan tanda-tanda tadi, yuk segera periksakan diri ke dokter ya.
+88	Nah, kalau kamu sudah merasakan tanda-tanda tadi, yuk segera periksakan diri ke dokter ya.
+89	Nah, kalau kamu sudah merasakan tanda-tanda tadi, yuk segera periksakan diri ke dokter ya.
+90	Nah, kalau kamu sudah merasakan tanda-tanda tadi, yuk segera periksakan diri ke dokter ya.
+91	Nah, kalau kamu sudah merasakan tanda-tanda tadi, yuk segera periksakan diri ke dokter ya.
+92	Nah, kalau kamu sudah merasakan tanda-tanda tadi, yuk segera periksakan diri ke dokter ya.
+93	Nah, kalau kamu sudah merasakan tanda-tanda tadi, yuk segera periksakan diri ke dokter ya.
+94	Nah, kalau kamu sudah merasakan tanda-tanda tadi, yuk segera periksakan diri ke dokter ya.
+95	Nah, kalau kamu sudah merasakan tanda-tanda tadi, yuk segera periksakan diri ke dokter ya.
+96	Nah, kalau kamu sudah merasakan tanda-tanda tadi, yuk segera periksakan diri ke dokter ya.
+97	Nah, kalau kamu sudah merasakan tanda-tanda tadi, yuk segera periksakan diri ke dokter ya.
+98	Klik follow dan save videonya biar nggak ketinggalan dapetin informasi menarik lainnya ya, Sobat Sehat.
+99	Klik follow dan save videonya biar nggak ketinggalan dapetin informasi menarik lainnya ya, Sobat Sehat.
+100	Klik follow dan save videonya biar nggak ketinggalan dapetin informasi menarik lainnya ya, Sobat Sehat.
+101	Klik follow dan save videonya biar nggak ketinggalan dapetin informasi menarik lainnya ya, Sobat Sehat.
+102	Klik follow dan save videonya biar nggak ketinggalan dapetin informasi menarik lainnya ya, Sobat Sehat.
+103	Klik follow dan save videonya biar nggak ketinggalan dapetin informasi menarik lainnya ya, Sobat Sehat.
+104	Klik follow dan save videonya biar nggak ketinggalan dapetin informasi menarik lainnya ya, Sobat Sehat.
+105	Klik follow dan save videonya biar nggak ketinggalan dapetin informasi menarik lainnya ya, Sobat Sehat.
+106	Klik follow dan save videonya biar nggak ketinggalan dapetin informasi menarik lainnya ya, Sobat Sehat.
+107	Klik follow dan save videonya biar nggak ketinggalan dapetin informasi menarik lainnya ya, Sobat Sehat.
+108	Klik follow dan save videonya biar nggak ketinggalan dapetin informasi menarik lainnya ya, Sobat Sehat.
+109	Klik follow dan save videonya biar nggak ketinggalan dapetin informasi menarik lainnya ya, Sobat Sehat.
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	[NO_SPEECH]
+113	[NO_SPEECH]

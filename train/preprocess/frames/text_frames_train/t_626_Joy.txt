@@ -1,0 +1,66 @@
+0	Sulitnya menjadi dokter hewan adalah terkadang kita diharuskan untuk melakukan tindakan eutanasi.
+1	Sulitnya menjadi dokter hewan adalah terkadang kita diharuskan untuk melakukan tindakan eutanasi.
+2	Sulitnya menjadi dokter hewan adalah terkadang kita diharuskan untuk melakukan tindakan eutanasi.
+3	Sulitnya menjadi dokter hewan adalah terkadang kita diharuskan untuk melakukan tindakan eutanasi.
+4	Sulitnya menjadi dokter hewan adalah terkadang kita diharuskan untuk melakukan tindakan eutanasi.
+5	Sulitnya menjadi dokter hewan adalah terkadang kita diharuskan untuk melakukan tindakan eutanasi.
+6	Sulitnya menjadi dokter hewan adalah terkadang kita diharuskan untuk melakukan tindakan eutanasi.
+7	Sulitnya menjadi dokter hewan adalah terkadang kita diharuskan untuk melakukan tindakan eutanasi.
+8	Sulitnya menjadi dokter hewan adalah terkadang kita diharuskan untuk melakukan tindakan eutanasi.
+9	Sulitnya menjadi dokter hewan adalah terkadang kita diharuskan untuk melakukan tindakan eutanasi.
+10	Sulitnya menjadi dokter hewan adalah terkadang kita diharuskan untuk melakukan tindakan eutanasi.
+11	Sulitnya menjadi dokter hewan adalah terkadang kita diharuskan untuk melakukan tindakan eutanasi.
+12	Sulitnya menjadi dokter hewan adalah terkadang kita diharuskan untuk melakukan tindakan eutanasi. Eutanasi adalah tindakan menidurkan selamanya demi kebaikan pasien.
+13	Sulitnya menjadi dokter hewan adalah terkadang kita diharuskan untuk melakukan tindakan eutanasi. Eutanasi adalah tindakan menidurkan selamanya demi kebaikan pasien.
+14	Eutanasi adalah tindakan menidurkan selamanya demi kebaikan pasien.
+15	Eutanasi adalah tindakan menidurkan selamanya demi kebaikan pasien.
+16	Eutanasi adalah tindakan menidurkan selamanya demi kebaikan pasien.
+17	Eutanasi adalah tindakan menidurkan selamanya demi kebaikan pasien.
+18	Eutanasi adalah tindakan menidurkan selamanya demi kebaikan pasien.
+19	Eutanasi adalah tindakan menidurkan selamanya demi kebaikan pasien.
+20	Eutanasi adalah tindakan menidurkan selamanya demi kebaikan pasien.
+21	Eutanasi adalah tindakan menidurkan selamanya demi kebaikan pasien.
+22	Eutanasi adalah tindakan menidurkan selamanya demi kebaikan pasien. Contohnya ikan ini yang sudah bernama lengkung, matanya sudah buta, dan mulutnya yang sudah tidak bisa menutup.
+23	Eutanasi adalah tindakan menidurkan selamanya demi kebaikan pasien. Contohnya ikan ini yang sudah bernama lengkung, matanya sudah buta, dan mulutnya yang sudah tidak bisa menutup.
+24	Contohnya ikan ini yang sudah bernama lengkung, matanya sudah buta, dan mulutnya yang sudah tidak bisa menutup.
+25	Contohnya ikan ini yang sudah bernama lengkung, matanya sudah buta, dan mulutnya yang sudah tidak bisa menutup.
+26	Contohnya ikan ini yang sudah bernama lengkung, matanya sudah buta, dan mulutnya yang sudah tidak bisa menutup.
+27	Contohnya ikan ini yang sudah bernama lengkung, matanya sudah buta, dan mulutnya yang sudah tidak bisa menutup.
+28	Contohnya ikan ini yang sudah bernama lengkung, matanya sudah buta, dan mulutnya yang sudah tidak bisa menutup.
+29	Contohnya ikan ini yang sudah bernama lengkung, matanya sudah buta, dan mulutnya yang sudah tidak bisa menutup.
+30	Contohnya ikan ini yang sudah bernama lengkung, matanya sudah buta, dan mulutnya yang sudah tidak bisa menutup.
+31	Contohnya ikan ini yang sudah bernama lengkung, matanya sudah buta, dan mulutnya yang sudah tidak bisa menutup.
+32	Contohnya ikan ini yang sudah bernama lengkung, matanya sudah buta, dan mulutnya yang sudah tidak bisa menutup.
+33	Contohnya ikan ini yang sudah bernama lengkung, matanya sudah buta, dan mulutnya yang sudah tidak bisa menutup.
+34	Contohnya ikan ini yang sudah bernama lengkung, matanya sudah buta, dan mulutnya yang sudah tidak bisa menutup.
+35	Contohnya ikan ini yang sudah bernama lengkung, matanya sudah buta, dan mulutnya yang sudah tidak bisa menutup.
+36	Contohnya ikan ini yang sudah bernama lengkung, matanya sudah buta, dan mulutnya yang sudah tidak bisa menutup. Dari kacamata medis, sudah tidak ada lagi harapan.
+37	Contohnya ikan ini yang sudah bernama lengkung, matanya sudah buta, dan mulutnya yang sudah tidak bisa menutup. Dari kacamata medis, sudah tidak ada lagi harapan.
+38	Dari kacamata medis, sudah tidak ada lagi harapan.
+39	Dari kacamata medis, sudah tidak ada lagi harapan.
+40	Dari kacamata medis, sudah tidak ada lagi harapan.
+41	Dari kacamata medis, sudah tidak ada lagi harapan.
+42	Dari kacamata medis, sudah tidak ada lagi harapan.
+43	Dari kacamata medis, sudah tidak ada lagi harapan.
+44	Dari kacamata medis, sudah tidak ada lagi harapan.
+45	Selamat tinggal pasienku, pemilikmu sudah melepas kamu pergi.
+46	Selamat tinggal pasienku, pemilikmu sudah melepas kamu pergi.
+47	Selamat tinggal pasienku, pemilikmu sudah melepas kamu pergi.
+48	Selamat tinggal pasienku, pemilikmu sudah melepas kamu pergi.
+49	Selamat tinggal pasienku, pemilikmu sudah melepas kamu pergi.
+50	Selamat tinggal pasienku, pemilikmu sudah melepas kamu pergi.
+51	Selamat tinggal pasienku, pemilikmu sudah melepas kamu pergi.
+52	Selamat tinggal pasienku, pemilikmu sudah melepas kamu pergi. Sampai jumpa lagi di Pelangi.
+53	Selamat tinggal pasienku, pemilikmu sudah melepas kamu pergi. Sampai jumpa lagi di Pelangi.
+54	Selamat tinggal pasienku, pemilikmu sudah melepas kamu pergi. Sampai jumpa lagi di Pelangi.
+55	Sampai jumpa lagi di Pelangi.
+56	Sampai jumpa lagi di Pelangi.
+57	Sampai jumpa lagi di Pelangi.
+58	Sampai jumpa lagi di Pelangi.
+59	Sampai jumpa lagi di Pelangi.
+60	Sampai jumpa lagi di Pelangi.
+61	[NO_SPEECH]
+62	[NO_SPEECH]
+63	[NO_SPEECH]
+64	[NO_SPEECH]
+65	[NO_SPEECH]

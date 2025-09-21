@@ -1,0 +1,128 @@
+0	Google baru-baru ini mengumumkan rilis AI yang mereka buat, yang disebut dengan Musik LM,
+1	Google baru-baru ini mengumumkan rilis AI yang mereka buat, yang disebut dengan Musik LM,
+2	Google baru-baru ini mengumumkan rilis AI yang mereka buat, yang disebut dengan Musik LM,
+3	Google baru-baru ini mengumumkan rilis AI yang mereka buat, yang disebut dengan Musik LM,
+4	Google baru-baru ini mengumumkan rilis AI yang mereka buat, yang disebut dengan Musik LM,
+5	Google baru-baru ini mengumumkan rilis AI yang mereka buat, yang disebut dengan Musik LM,
+6	Google baru-baru ini mengumumkan rilis AI yang mereka buat, yang disebut dengan Musik LM,
+7	Google baru-baru ini mengumumkan rilis AI yang mereka buat, yang disebut dengan Musik LM,
+8	Google baru-baru ini mengumumkan rilis AI yang mereka buat, yang disebut dengan Musik LM, yang mampu mengubah teks menjadi musik.
+9	yang mampu mengubah teks menjadi musik.
+10	yang mampu mengubah teks menjadi musik.
+11	yang mampu mengubah teks menjadi musik. Musik LM dibangun dengan memanfaatkan deep learning untuk memahami struktur dan elemen musik,
+12	yang mampu mengubah teks menjadi musik. Musik LM dibangun dengan memanfaatkan deep learning untuk memahami struktur dan elemen musik,
+13	Musik LM dibangun dengan memanfaatkan deep learning untuk memahami struktur dan elemen musik,
+14	Musik LM dibangun dengan memanfaatkan deep learning untuk memahami struktur dan elemen musik,
+15	Musik LM dibangun dengan memanfaatkan deep learning untuk memahami struktur dan elemen musik,
+16	Musik LM dibangun dengan memanfaatkan deep learning untuk memahami struktur dan elemen musik,
+17	Musik LM dibangun dengan memanfaatkan deep learning untuk memahami struktur dan elemen musik,
+18	Musik LM dibangun dengan memanfaatkan deep learning untuk memahami struktur dan elemen musik,
+19	Musik LM dibangun dengan memanfaatkan deep learning untuk memahami struktur dan elemen musik,
+20	Musik LM dibangun dengan memanfaatkan deep learning untuk memahami struktur dan elemen musik, seperti melodi, ritme, dan harmoni.
+21	Musik LM dibangun dengan memanfaatkan deep learning untuk memahami struktur dan elemen musik, seperti melodi, ritme, dan harmoni.
+22	seperti melodi, ritme, dan harmoni.
+23	seperti melodi, ritme, dan harmoni.
+24	seperti melodi, ritme, dan harmoni.
+25	seperti melodi, ritme, dan harmoni.
+26	seperti melodi, ritme, dan harmoni. Dengan Musik LM, pengguna dapat memasukkan teks seperti lirik lagu atau puisi dan mengubahnya menjadi musik yang sesuai.
+27	Dengan Musik LM, pengguna dapat memasukkan teks seperti lirik lagu atau puisi dan mengubahnya menjadi musik yang sesuai.
+28	Dengan Musik LM, pengguna dapat memasukkan teks seperti lirik lagu atau puisi dan mengubahnya menjadi musik yang sesuai.
+29	Dengan Musik LM, pengguna dapat memasukkan teks seperti lirik lagu atau puisi dan mengubahnya menjadi musik yang sesuai.
+30	Dengan Musik LM, pengguna dapat memasukkan teks seperti lirik lagu atau puisi dan mengubahnya menjadi musik yang sesuai.
+31	Dengan Musik LM, pengguna dapat memasukkan teks seperti lirik lagu atau puisi dan mengubahnya menjadi musik yang sesuai.
+32	Dengan Musik LM, pengguna dapat memasukkan teks seperti lirik lagu atau puisi dan mengubahnya menjadi musik yang sesuai.
+33	Dengan Musik LM, pengguna dapat memasukkan teks seperti lirik lagu atau puisi dan mengubahnya menjadi musik yang sesuai.
+34	Dengan Musik LM, pengguna dapat memasukkan teks seperti lirik lagu atau puisi dan mengubahnya menjadi musik yang sesuai.
+35	Dengan Musik LM, pengguna dapat memasukkan teks seperti lirik lagu atau puisi dan mengubahnya menjadi musik yang sesuai.
+36	Dengan Musik LM, pengguna dapat memasukkan teks seperti lirik lagu atau puisi dan mengubahnya menjadi musik yang sesuai. Hasil yang diberikan oleh Musik LM tidak selalu identik dengan musik yang sudah ada,
+37	Dengan Musik LM, pengguna dapat memasukkan teks seperti lirik lagu atau puisi dan mengubahnya menjadi musik yang sesuai. Hasil yang diberikan oleh Musik LM tidak selalu identik dengan musik yang sudah ada,
+38	Hasil yang diberikan oleh Musik LM tidak selalu identik dengan musik yang sudah ada,
+39	Hasil yang diberikan oleh Musik LM tidak selalu identik dengan musik yang sudah ada,
+40	Hasil yang diberikan oleh Musik LM tidak selalu identik dengan musik yang sudah ada,
+41	Hasil yang diberikan oleh Musik LM tidak selalu identik dengan musik yang sudah ada,
+42	Hasil yang diberikan oleh Musik LM tidak selalu identik dengan musik yang sudah ada,
+43	Hasil yang diberikan oleh Musik LM tidak selalu identik dengan musik yang sudah ada, tetapi bisa memberikan hasil yang unik dan berbeda.
+44	Hasil yang diberikan oleh Musik LM tidak selalu identik dengan musik yang sudah ada, tetapi bisa memberikan hasil yang unik dan berbeda.
+45	tetapi bisa memberikan hasil yang unik dan berbeda.
+46	tetapi bisa memberikan hasil yang unik dan berbeda.
+47	tetapi bisa memberikan hasil yang unik dan berbeda.
+48	tetapi bisa memberikan hasil yang unik dan berbeda. Menurut Google, Musik LM memiliki banyak kemampuan,
+49	Menurut Google, Musik LM memiliki banyak kemampuan,
+50	Menurut Google, Musik LM memiliki banyak kemampuan,
+51	Menurut Google, Musik LM memiliki banyak kemampuan,
+52	Menurut Google, Musik LM memiliki banyak kemampuan, seperti memahami emosi dan tonalitas teks.
+53	Menurut Google, Musik LM memiliki banyak kemampuan, seperti memahami emosi dan tonalitas teks.
+54	seperti memahami emosi dan tonalitas teks.
+55	seperti memahami emosi dan tonalitas teks.
+56	seperti memahami emosi dan tonalitas teks.
+57	seperti memahami emosi dan tonalitas teks. Membuat melodi yang sesuai, serta membuat arrangement musik yang menarik.
+58	seperti memahami emosi dan tonalitas teks. Membuat melodi yang sesuai, serta membuat arrangement musik yang menarik.
+59	Membuat melodi yang sesuai, serta membuat arrangement musik yang menarik.
+60	Membuat melodi yang sesuai, serta membuat arrangement musik yang menarik.
+61	Membuat melodi yang sesuai, serta membuat arrangement musik yang menarik.
+62	Membuat melodi yang sesuai, serta membuat arrangement musik yang menarik.
+63	Membuat melodi yang sesuai, serta membuat arrangement musik yang menarik.
+64	Membuat melodi yang sesuai, serta membuat arrangement musik yang menarik.
+65	Membuat melodi yang sesuai, serta membuat arrangement musik yang menarik. Ini memungkinkan para pengguna untuk membuat musik secara cepat dan mudah
+66	Membuat melodi yang sesuai, serta membuat arrangement musik yang menarik. Ini memungkinkan para pengguna untuk membuat musik secara cepat dan mudah
+67	Ini memungkinkan para pengguna untuk membuat musik secara cepat dan mudah
+68	Ini memungkinkan para pengguna untuk membuat musik secara cepat dan mudah
+69	Ini memungkinkan para pengguna untuk membuat musik secara cepat dan mudah
+70	Ini memungkinkan para pengguna untuk membuat musik secara cepat dan mudah
+71	Ini memungkinkan para pengguna untuk membuat musik secara cepat dan mudah
+72	Ini memungkinkan para pengguna untuk membuat musik secara cepat dan mudah tanpa harus memiliki pengetahuan mendalam tentang musik.
+73	Ini memungkinkan para pengguna untuk membuat musik secara cepat dan mudah tanpa harus memiliki pengetahuan mendalam tentang musik.
+74	tanpa harus memiliki pengetahuan mendalam tentang musik.
+75	tanpa harus memiliki pengetahuan mendalam tentang musik.
+76	tanpa harus memiliki pengetahuan mendalam tentang musik.
+77	tanpa harus memiliki pengetahuan mendalam tentang musik. Musik LM juga memiliki banyak aplikasi potensial dalam bidang musik dan hiburan,
+78	Musik LM juga memiliki banyak aplikasi potensial dalam bidang musik dan hiburan,
+79	Musik LM juga memiliki banyak aplikasi potensial dalam bidang musik dan hiburan,
+80	Musik LM juga memiliki banyak aplikasi potensial dalam bidang musik dan hiburan,
+81	Musik LM juga memiliki banyak aplikasi potensial dalam bidang musik dan hiburan,
+82	Musik LM juga memiliki banyak aplikasi potensial dalam bidang musik dan hiburan,
+83	Musik LM juga memiliki banyak aplikasi potensial dalam bidang musik dan hiburan,
+84	Musik LM juga memiliki banyak aplikasi potensial dalam bidang musik dan hiburan, seperti membuat musik untuk film atau video game,
+85	Musik LM juga memiliki banyak aplikasi potensial dalam bidang musik dan hiburan, seperti membuat musik untuk film atau video game,
+86	seperti membuat musik untuk film atau video game,
+87	seperti membuat musik untuk film atau video game,
+88	seperti membuat musik untuk film atau video game,
+89	seperti membuat musik untuk film atau video game,
+90	seperti membuat musik untuk film atau video game, menghasilkan lagu baru untuk artis dan band,
+91	seperti membuat musik untuk film atau video game, menghasilkan lagu baru untuk artis dan band,
+92	menghasilkan lagu baru untuk artis dan band,
+93	menghasilkan lagu baru untuk artis dan band,
+94	menghasilkan lagu baru untuk artis dan band,
+95	menghasilkan lagu baru untuk artis dan band, atau bahkan membantu proses komposisi musik yang lebih cepat dan efisien.
+96	menghasilkan lagu baru untuk artis dan band, atau bahkan membantu proses komposisi musik yang lebih cepat dan efisien.
+97	atau bahkan membantu proses komposisi musik yang lebih cepat dan efisien.
+98	atau bahkan membantu proses komposisi musik yang lebih cepat dan efisien.
+99	atau bahkan membantu proses komposisi musik yang lebih cepat dan efisien.
+100	atau bahkan membantu proses komposisi musik yang lebih cepat dan efisien.
+101	atau bahkan membantu proses komposisi musik yang lebih cepat dan efisien.
+102	atau bahkan membantu proses komposisi musik yang lebih cepat dan efisien.
+103	atau bahkan membantu proses komposisi musik yang lebih cepat dan efisien. Meskipun Musik LM baru saja diluncurkan,
+104	Meskipun Musik LM baru saja diluncurkan,
+105	Meskipun Musik LM baru saja diluncurkan,
+106	Meskipun Musik LM baru saja diluncurkan,
+107	Meskipun Musik LM baru saja diluncurkan, Google sudah berencana untuk mengembangkan fitur dan aplikasi baru
+108	Meskipun Musik LM baru saja diluncurkan, Google sudah berencana untuk mengembangkan fitur dan aplikasi baru
+109	Google sudah berencana untuk mengembangkan fitur dan aplikasi baru
+110	Google sudah berencana untuk mengembangkan fitur dan aplikasi baru
+111	Google sudah berencana untuk mengembangkan fitur dan aplikasi baru
+112	Google sudah berencana untuk mengembangkan fitur dan aplikasi baru untuk membuat pengalaman pengguna lebih baik.
+113	Google sudah berencana untuk mengembangkan fitur dan aplikasi baru untuk membuat pengalaman pengguna lebih baik.
+114	untuk membuat pengalaman pengguna lebih baik.
+115	untuk membuat pengalaman pengguna lebih baik.
+116	untuk membuat pengalaman pengguna lebih baik.
+117	untuk membuat pengalaman pengguna lebih baik. Ini menunjukkan bahwa Google terus berinvestasi dan berinovasi dalam bidang AI dan teknologi musik.
+118	Ini menunjukkan bahwa Google terus berinvestasi dan berinovasi dalam bidang AI dan teknologi musik.
+119	Ini menunjukkan bahwa Google terus berinvestasi dan berinovasi dalam bidang AI dan teknologi musik.
+120	Ini menunjukkan bahwa Google terus berinvestasi dan berinovasi dalam bidang AI dan teknologi musik.
+121	Ini menunjukkan bahwa Google terus berinvestasi dan berinovasi dalam bidang AI dan teknologi musik.
+122	Ini menunjukkan bahwa Google terus berinvestasi dan berinovasi dalam bidang AI dan teknologi musik.
+123	Ini menunjukkan bahwa Google terus berinvestasi dan berinovasi dalam bidang AI dan teknologi musik.
+124	Ini menunjukkan bahwa Google terus berinvestasi dan berinovasi dalam bidang AI dan teknologi musik.
+125	Ini menunjukkan bahwa Google terus berinvestasi dan berinovasi dalam bidang AI dan teknologi musik.
+126	Ini menunjukkan bahwa Google terus berinvestasi dan berinovasi dalam bidang AI dan teknologi musik.
+127	[NO_SPEECH]

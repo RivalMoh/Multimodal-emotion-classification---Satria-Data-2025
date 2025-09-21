@@ -1,0 +1,75 @@
+0	Makanan atau minuman penawar junk food, ini informasi yang sangat-sangat luar biasa penting.
+1	Makanan atau minuman penawar junk food, ini informasi yang sangat-sangat luar biasa penting.
+2	Makanan atau minuman penawar junk food, ini informasi yang sangat-sangat luar biasa penting.
+3	Makanan atau minuman penawar junk food, ini informasi yang sangat-sangat luar biasa penting.
+4	Makanan atau minuman penawar junk food, ini informasi yang sangat-sangat luar biasa penting.
+5	Makanan atau minuman penawar junk food, ini informasi yang sangat-sangat luar biasa penting.
+6	Makanan atau minuman penawar junk food, ini informasi yang sangat-sangat luar biasa penting.
+7	Makanan atau minuman penawar junk food, ini informasi yang sangat-sangat luar biasa penting.
+8	Makanan atau minuman penawar junk food, ini informasi yang sangat-sangat luar biasa penting.
+9	Makanan atau minuman penawar junk food, ini informasi yang sangat-sangat luar biasa penting.
+10	Makanan atau minuman penawar junk food, ini informasi yang sangat-sangat luar biasa penting. Habis makan junk food, jangan lupa minum penawannya.
+11	Habis makan junk food, jangan lupa minum penawannya.
+12	Habis makan junk food, jangan lupa minum penawannya.
+13	Habis makan junk food, jangan lupa minum penawannya.
+14	Habis makan junk food, jangan lupa minum penawannya.
+15	Habis makan junk food, jangan lupa minum penawannya. Penawar ayam goreng adalah susu kedelai.
+16	Habis makan junk food, jangan lupa minum penawannya. Penawar ayam goreng adalah susu kedelai.
+17	Penawar ayam goreng adalah susu kedelai.
+18	Penawar ayam goreng adalah susu kedelai.
+19	Penawar ayam goreng adalah susu kedelai.
+20	Penawar ayam goreng adalah susu kedelai. Penawar barbecue adalah pisang.
+21	Penawar barbecue adalah pisang.
+22	Penawar barbecue adalah pisang.
+23	Penawar barbecue adalah pisang. Penawar teh susu adalah jeruk balai.
+24	Penawar barbecue adalah pisang. Penawar teh susu adalah jeruk balai.
+25	Penawar teh susu adalah jeruk balai.
+26	Penawar teh susu adalah jeruk balai.
+27	Penawar teh susu adalah jeruk balai. Penawar mie istan adalah apel.
+28	Penawar teh susu adalah jeruk balai. Penawar mie istan adalah apel.
+29	Penawar mie istan adalah apel.
+30	Penawar mie istan adalah apel.
+31	Penawar mie istan adalah apel. Penawar sosis adalah teh hijau.
+32	Penawar mie istan adalah apel. Penawar sosis adalah teh hijau.
+33	Penawar sosis adalah teh hijau.
+34	Penawar sosis adalah teh hijau.
+35	Penawar sosis adalah teh hijau. Penawar snack pedas adalah wapir.
+36	Penawar sosis adalah teh hijau. Penawar snack pedas adalah wapir.
+37	Penawar snack pedas adalah wapir.
+38	Penawar snack pedas adalah wapir.
+39	Penawar snack pedas adalah wapir.
+40	Penawar snack pedas adalah wapir. Penawar permen adalah lemon.
+41	Penawar permen adalah lemon.
+42	Penawar permen adalah lemon.
+43	Penawar permen adalah lemon. Penawar kue adalah stroberi.
+44	Penawar permen adalah lemon. Penawar kue adalah stroberi.
+45	Penawar kue adalah stroberi.
+46	Penawar kue adalah stroberi.
+47	Penawar kue adalah stroberi. Penawar keripik kentang adalah tomat.
+48	Penawar kue adalah stroberi. Penawar keripik kentang adalah tomat.
+49	Penawar keripik kentang adalah tomat.
+50	Penawar keripik kentang adalah tomat.
+51	Penawar keripik kentang adalah tomat. Apa penawar junk food favorimu?
+52	Penawar keripik kentang adalah tomat. Apa penawar junk food favorimu?
+53	Apa penawar junk food favorimu?
+54	Apa penawar junk food favorimu? Ini gue lagi mau cari ribut lagi nih sama orang.
+55	Ini gue lagi mau cari ribut lagi nih sama orang.
+56	Ini gue lagi mau cari ribut lagi nih sama orang.
+57	Ini gue lagi mau cari ribut lagi nih sama orang.
+58	Ini gue lagi mau cari ribut lagi nih sama orang.
+59	Ini gue lagi mau cari ribut lagi nih sama orang.
+60	Ini gue lagi mau cari ribut lagi nih sama orang. Kalau menurut gue, it's rather bullshit.
+61	Kalau menurut gue, it's rather bullshit.
+62	Kalau menurut gue, it's rather bullshit.
+63	Kalau menurut gue, it's rather bullshit.
+64	Kalau menurut gue, it's rather bullshit.
+65	Penawar junk food ya, lu jangan pergi makan junk food.
+66	Penawar junk food ya, lu jangan pergi makan junk food.
+67	Penawar junk food ya, lu jangan pergi makan junk food.
+68	Penawar junk food ya, lu jangan pergi makan junk food.
+69	Penawar junk food ya, lu jangan pergi makan junk food.
+70	Penawar junk food ya, lu jangan pergi makan junk food.
+71	[NO_SPEECH]
+72	[NO_SPEECH]
+73	[NO_SPEECH]
+74	[NO_SPEECH]

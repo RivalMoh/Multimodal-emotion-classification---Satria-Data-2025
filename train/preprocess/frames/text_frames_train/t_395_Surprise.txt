@@ -1,0 +1,155 @@
+0	Ini yang perlu kamu tahu untuk jadi pemain basket yang jago.
+1	Ini yang perlu kamu tahu untuk jadi pemain basket yang jago.
+2	Ini yang perlu kamu tahu untuk jadi pemain basket yang jago.
+3	Ini yang perlu kamu tahu untuk jadi pemain basket yang jago.
+4	Ini yang perlu kamu tahu untuk jadi pemain basket yang jago.
+5	Ini yang perlu kamu tahu untuk jadi pemain basket yang jago.
+6	Ini yang perlu kamu tahu untuk jadi pemain basket yang jago. Siapa sih yang nggak mau jadi pemain andalan di tim?
+7	Ini yang perlu kamu tahu untuk jadi pemain basket yang jago. Siapa sih yang nggak mau jadi pemain andalan di tim?
+8	Siapa sih yang nggak mau jadi pemain andalan di tim?
+9	Siapa sih yang nggak mau jadi pemain andalan di tim?
+10	Siapa sih yang nggak mau jadi pemain andalan di tim?
+11	Siapa sih yang nggak mau jadi pemain andalan di tim?
+12	Siapa sih yang nggak mau jadi pemain andalan di tim?
+13	Siapa sih yang nggak mau jadi pemain andalan di tim? Sini saya kasih tau caranya.
+14	Siapa sih yang nggak mau jadi pemain andalan di tim? Sini saya kasih tau caranya.
+15	Sini saya kasih tau caranya.
+16	Sini saya kasih tau caranya.
+17	Sini saya kasih tau caranya. Kamu perlu punya plan dan target mau ningkatin skills apa dalam waktu dekat.
+18	Sini saya kasih tau caranya. Kamu perlu punya plan dan target mau ningkatin skills apa dalam waktu dekat.
+19	Kamu perlu punya plan dan target mau ningkatin skills apa dalam waktu dekat.
+20	Kamu perlu punya plan dan target mau ningkatin skills apa dalam waktu dekat.
+21	Kamu perlu punya plan dan target mau ningkatin skills apa dalam waktu dekat.
+22	Kamu perlu punya plan dan target mau ningkatin skills apa dalam waktu dekat.
+23	Kamu perlu punya plan dan target mau ningkatin skills apa dalam waktu dekat.
+24	Kamu perlu punya plan dan target mau ningkatin skills apa dalam waktu dekat.
+25	Kamu perlu punya plan dan target mau ningkatin skills apa dalam waktu dekat.
+26	Kamu perlu punya plan dan target mau ningkatin skills apa dalam waktu dekat.
+27	Kamu perlu punya plan dan target mau ningkatin skills apa dalam waktu dekat.
+28	Kamu perlu punya plan dan target mau ningkatin skills apa dalam waktu dekat. Karena main basket itu luas.
+29	Kamu perlu punya plan dan target mau ningkatin skills apa dalam waktu dekat. Karena main basket itu luas.
+30	Karena main basket itu luas.
+31	Karena main basket itu luas.
+32	Karena main basket itu luas.
+33	Karena main basket itu luas. Ada dribble, shooting, passing, footwork, defense, dan lain-lain.
+34	Karena main basket itu luas. Ada dribble, shooting, passing, footwork, defense, dan lain-lain.
+35	Ada dribble, shooting, passing, footwork, defense, dan lain-lain.
+36	Ada dribble, shooting, passing, footwork, defense, dan lain-lain.
+37	Ada dribble, shooting, passing, footwork, defense, dan lain-lain.
+38	Ada dribble, shooting, passing, footwork, defense, dan lain-lain.
+39	Ada dribble, shooting, passing, footwork, defense, dan lain-lain.
+40	Ada dribble, shooting, passing, footwork, defense, dan lain-lain.
+41	Ada dribble, shooting, passing, footwork, defense, dan lain-lain.
+42	Ada dribble, shooting, passing, footwork, defense, dan lain-lain.
+43	Ada dribble, shooting, passing, footwork, defense, dan lain-lain. Kalau kamu nggak ada plan dan target latihan, kemampuan individual kamu akan segitu-gitu aja.
+44	Kalau kamu nggak ada plan dan target latihan, kemampuan individual kamu akan segitu-gitu aja.
+45	Kalau kamu nggak ada plan dan target latihan, kemampuan individual kamu akan segitu-gitu aja.
+46	Kalau kamu nggak ada plan dan target latihan, kemampuan individual kamu akan segitu-gitu aja.
+47	Kalau kamu nggak ada plan dan target latihan, kemampuan individual kamu akan segitu-gitu aja.
+48	Kalau kamu nggak ada plan dan target latihan, kemampuan individual kamu akan segitu-gitu aja.
+49	Kalau kamu nggak ada plan dan target latihan, kemampuan individual kamu akan segitu-gitu aja.
+50	Kalau kamu nggak ada plan dan target latihan, kemampuan individual kamu akan segitu-gitu aja.
+51	Kalau kamu nggak ada plan dan target latihan, kemampuan individual kamu akan segitu-gitu aja.
+52	Kalau kamu nggak ada plan dan target latihan, kemampuan individual kamu akan segitu-gitu aja.
+53	Kalau kamu nggak ada plan dan target latihan, kemampuan individual kamu akan segitu-gitu aja.
+54	Kalau kamu nggak ada plan dan target latihan, kemampuan individual kamu akan segitu-gitu aja.
+55	Kalau kamu nggak ada plan dan target latihan, kemampuan individual kamu akan segitu-gitu aja. Jadi, kamu perlu punya target buat ningkatin skills individualnya.
+56	Kalau kamu nggak ada plan dan target latihan, kemampuan individual kamu akan segitu-gitu aja. Jadi, kamu perlu punya target buat ningkatin skills individualnya.
+57	Jadi, kamu perlu punya target buat ningkatin skills individualnya.
+58	Jadi, kamu perlu punya target buat ningkatin skills individualnya.
+59	Jadi, kamu perlu punya target buat ningkatin skills individualnya.
+60	Jadi, kamu perlu punya target buat ningkatin skills individualnya.
+61	Jadi, kamu perlu punya target buat ningkatin skills individualnya.
+62	Jadi, kamu perlu punya target buat ningkatin skills individualnya.
+63	Jadi, kamu perlu punya target buat ningkatin skills individualnya.
+64	Jadi, kamu perlu punya target buat ningkatin skills individualnya.
+65	Jadi, kamu perlu punya target buat ningkatin skills individualnya.
+66	Jadi, kamu perlu punya target buat ningkatin skills individualnya. Ball handling.
+67	Jadi, kamu perlu punya target buat ningkatin skills individualnya. Ball handling. Dalam waktu 1-2 bulan, kamu memutuskan untuk latihan ekstra.
+68	Ball handling. Dalam waktu 1-2 bulan, kamu memutuskan untuk latihan ekstra.
+69	Dalam waktu 1-2 bulan, kamu memutuskan untuk latihan ekstra.
+70	Dalam waktu 1-2 bulan, kamu memutuskan untuk latihan ekstra.
+71	Dalam waktu 1-2 bulan, kamu memutuskan untuk latihan ekstra.
+72	Dalam waktu 1-2 bulan, kamu memutuskan untuk latihan ekstra.
+73	Dalam waktu 1-2 bulan, kamu memutuskan untuk latihan ekstra.
+74	Dalam waktu 1-2 bulan, kamu memutuskan untuk latihan ekstra.
+75	Dalam waktu 1-2 bulan, kamu memutuskan untuk latihan ekstra.
+76	Dalam waktu 1-2 bulan, kamu memutuskan untuk latihan ekstra.
+77	Dalam waktu 1-2 bulan, kamu memutuskan untuk latihan ekstra. Hanya ball handling.
+78	Dalam waktu 1-2 bulan, kamu memutuskan untuk latihan ekstra. Hanya ball handling.
+79	Hanya ball handling. Bulan selanjutnya, fokus buat ningkatin skills lainnya.
+80	Bulan selanjutnya, fokus buat ningkatin skills lainnya.
+81	Bulan selanjutnya, fokus buat ningkatin skills lainnya.
+82	Bulan selanjutnya, fokus buat ningkatin skills lainnya.
+83	Bulan selanjutnya, fokus buat ningkatin skills lainnya.
+84	Bulan selanjutnya, fokus buat ningkatin skills lainnya.
+85	Bulan selanjutnya, fokus buat ningkatin skills lainnya.
+86	Bulan selanjutnya, fokus buat ningkatin skills lainnya.
+87	Bulan selanjutnya, fokus buat ningkatin skills lainnya. Jamin kemampuan individual kamu lebih cepat meningkat.
+88	Bulan selanjutnya, fokus buat ningkatin skills lainnya. Jamin kemampuan individual kamu lebih cepat meningkat.
+89	Jamin kemampuan individual kamu lebih cepat meningkat.
+90	Jamin kemampuan individual kamu lebih cepat meningkat.
+91	Jamin kemampuan individual kamu lebih cepat meningkat.
+92	Jamin kemampuan individual kamu lebih cepat meningkat.
+93	Jamin kemampuan individual kamu lebih cepat meningkat.
+94	Jamin kemampuan individual kamu lebih cepat meningkat. Kamu mau ningkatin skills dribble, tapi bingung mau latihan ball handling seperti apa.
+95	Jamin kemampuan individual kamu lebih cepat meningkat. Kamu mau ningkatin skills dribble, tapi bingung mau latihan ball handling seperti apa.
+96	Kamu mau ningkatin skills dribble, tapi bingung mau latihan ball handling seperti apa.
+97	Kamu mau ningkatin skills dribble, tapi bingung mau latihan ball handling seperti apa.
+98	Kamu mau ningkatin skills dribble, tapi bingung mau latihan ball handling seperti apa.
+99	Kamu mau ningkatin skills dribble, tapi bingung mau latihan ball handling seperti apa.
+100	Kamu mau ningkatin skills dribble, tapi bingung mau latihan ball handling seperti apa.
+101	Kamu mau ningkatin skills dribble, tapi bingung mau latihan ball handling seperti apa.
+102	Kamu mau ningkatin skills dribble, tapi bingung mau latihan ball handling seperti apa.
+103	Kamu mau ningkatin skills dribble, tapi bingung mau latihan ball handling seperti apa.
+104	Kamu mau ningkatin skills dribble, tapi bingung mau latihan ball handling seperti apa.
+105	Kamu mau ningkatin skills dribble, tapi bingung mau latihan ball handling seperti apa. Saya udah bikin e-course ball handling yang lengkap buat ningkatin skills dribble-mu.
+106	Kamu mau ningkatin skills dribble, tapi bingung mau latihan ball handling seperti apa. Saya udah bikin e-course ball handling yang lengkap buat ningkatin skills dribble-mu.
+107	Saya udah bikin e-course ball handling yang lengkap buat ningkatin skills dribble-mu.
+108	Saya udah bikin e-course ball handling yang lengkap buat ningkatin skills dribble-mu.
+109	Saya udah bikin e-course ball handling yang lengkap buat ningkatin skills dribble-mu.
+110	Saya udah bikin e-course ball handling yang lengkap buat ningkatin skills dribble-mu.
+111	Saya udah bikin e-course ball handling yang lengkap buat ningkatin skills dribble-mu.
+112	Saya udah bikin e-course ball handling yang lengkap buat ningkatin skills dribble-mu.
+113	Saya udah bikin e-course ball handling yang lengkap buat ningkatin skills dribble-mu.
+114	Saya udah bikin e-course ball handling yang lengkap buat ningkatin skills dribble-mu.
+115	Saya udah bikin e-course ball handling yang lengkap buat ningkatin skills dribble-mu. Linknya ada di bio.
+116	Saya udah bikin e-course ball handling yang lengkap buat ningkatin skills dribble-mu. Linknya ada di bio.
+117	Linknya ada di bio.
+118	Linknya ada di bio. Ini berbayar ya.
+119	Ini berbayar ya.
+120	Ini berbayar ya. Hitung-hitung ngehemat waktu kamu biar nggak bingung mau latihan seperti apa.
+121	Ini berbayar ya. Hitung-hitung ngehemat waktu kamu biar nggak bingung mau latihan seperti apa.
+122	Hitung-hitung ngehemat waktu kamu biar nggak bingung mau latihan seperti apa.
+123	Hitung-hitung ngehemat waktu kamu biar nggak bingung mau latihan seperti apa.
+124	Hitung-hitung ngehemat waktu kamu biar nggak bingung mau latihan seperti apa.
+125	Hitung-hitung ngehemat waktu kamu biar nggak bingung mau latihan seperti apa.
+126	Hitung-hitung ngehemat waktu kamu biar nggak bingung mau latihan seperti apa.
+127	Hitung-hitung ngehemat waktu kamu biar nggak bingung mau latihan seperti apa.
+128	Hitung-hitung ngehemat waktu kamu biar nggak bingung mau latihan seperti apa.
+129	Hitung-hitung ngehemat waktu kamu biar nggak bingung mau latihan seperti apa.
+130	Hitung-hitung ngehemat waktu kamu biar nggak bingung mau latihan seperti apa. Gas langsung download e-course-nya.
+131	Gas langsung download e-course-nya.
+132	Gas langsung download e-course-nya.
+133	Gas langsung download e-course-nya.
+134	Gas langsung download e-course-nya. Biar bulan depan jadi pemain yang makin jago.
+135	Gas langsung download e-course-nya. Biar bulan depan jadi pemain yang makin jago.
+136	Biar bulan depan jadi pemain yang makin jago.
+137	Biar bulan depan jadi pemain yang makin jago.
+138	Biar bulan depan jadi pemain yang makin jago.
+139	Biar bulan depan jadi pemain yang makin jago.
+140	Biar bulan depan jadi pemain yang makin jago. Share video ini ke temen kalian dan komen di bawah untuk tips video basket lainnya.
+141	Biar bulan depan jadi pemain yang makin jago. Share video ini ke temen kalian dan komen di bawah untuk tips video basket lainnya.
+142	Share video ini ke temen kalian dan komen di bawah untuk tips video basket lainnya.
+143	Share video ini ke temen kalian dan komen di bawah untuk tips video basket lainnya.
+144	Share video ini ke temen kalian dan komen di bawah untuk tips video basket lainnya.
+145	Share video ini ke temen kalian dan komen di bawah untuk tips video basket lainnya.
+146	Share video ini ke temen kalian dan komen di bawah untuk tips video basket lainnya.
+147	Share video ini ke temen kalian dan komen di bawah untuk tips video basket lainnya.
+148	Share video ini ke temen kalian dan komen di bawah untuk tips video basket lainnya.
+149	Share video ini ke temen kalian dan komen di bawah untuk tips video basket lainnya.
+150	Share video ini ke temen kalian dan komen di bawah untuk tips video basket lainnya.
+151	Share video ini ke temen kalian dan komen di bawah untuk tips video basket lainnya.
+152	Share video ini ke temen kalian dan komen di bawah untuk tips video basket lainnya.
+153	[NO_SPEECH]
+154	[NO_SPEECH]

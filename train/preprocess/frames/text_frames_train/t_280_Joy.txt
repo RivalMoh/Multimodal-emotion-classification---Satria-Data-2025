@@ -1,0 +1,120 @@
+0	Halo, perkenalkan nama aku Snadia dari Wadah Yat Ambassador Solo.
+1	Halo, perkenalkan nama aku Snadia dari Wadah Yat Ambassador Solo.
+2	Halo, perkenalkan nama aku Snadia dari Wadah Yat Ambassador Solo.
+3	Halo, perkenalkan nama aku Snadia dari Wadah Yat Ambassador Solo.
+4	Halo, perkenalkan nama aku Snadia dari Wadah Yat Ambassador Solo.
+5	Halo, perkenalkan nama aku Snadia dari Wadah Yat Ambassador Solo.
+6	Halo, perkenalkan nama aku Snadia dari Wadah Yat Ambassador Solo.
+7	Halo, perkenalkan nama aku Snadia dari Wadah Yat Ambassador Solo.
+8	[NO_SPEECH]
+9	Belajar banyak hal-hal baru tentang sesuatu yang saya nantikan.
+10	Belajar banyak hal-hal baru tentang sesuatu yang saya nantikan.
+11	Belajar banyak hal-hal baru tentang sesuatu yang saya nantikan.
+12	Belajar banyak hal-hal baru tentang sesuatu yang saya nantikan.
+13	Belajar banyak hal-hal baru tentang sesuatu yang saya nantikan.
+14	Belajar banyak hal-hal baru tentang sesuatu yang saya nantikan.
+15	Belajar banyak hal-hal baru tentang sesuatu yang saya nantikan.
+16	Belajar banyak hal-hal baru tentang sesuatu yang saya nantikan.
+17	Belajar banyak hal-hal baru tentang sesuatu yang saya nantikan.
+18	Pengalaman mengikuti event bersama Wadah Yat Ambassador menjadi momen yang tak terlepas bagi saya.
+19	Pengalaman mengikuti event bersama Wadah Yat Ambassador menjadi momen yang tak terlepas bagi saya.
+20	Pengalaman mengikuti event bersama Wadah Yat Ambassador menjadi momen yang tak terlepas bagi saya.
+21	Pengalaman mengikuti event bersama Wadah Yat Ambassador menjadi momen yang tak terlepas bagi saya.
+22	Pengalaman mengikuti event bersama Wadah Yat Ambassador menjadi momen yang tak terlepas bagi saya.
+23	Pengalaman mengikuti event bersama Wadah Yat Ambassador menjadi momen yang tak terlepas bagi saya.
+24	Pengalaman mengikuti event bersama Wadah Yat Ambassador menjadi momen yang tak terlepas bagi saya.
+25	Pengalaman mengikuti event bersama Wadah Yat Ambassador menjadi momen yang tak terlepas bagi saya.
+26	Pengalaman mengikuti event bersama Wadah Yat Ambassador menjadi momen yang tak terlepas bagi saya.
+27	Pengalaman mengikuti event bersama Wadah Yat Ambassador menjadi momen yang tak terlepas bagi saya.
+28	Dan dari Wadah Yat Ambassador, saya bisa mulai belajar banyak hal sebagai beauty enthusiast dan influencer.
+29	Dan dari Wadah Yat Ambassador, saya bisa mulai belajar banyak hal sebagai beauty enthusiast dan influencer.
+30	Dan dari Wadah Yat Ambassador, saya bisa mulai belajar banyak hal sebagai beauty enthusiast dan influencer.
+31	Dan dari Wadah Yat Ambassador, saya bisa mulai belajar banyak hal sebagai beauty enthusiast dan influencer.
+32	Dan dari Wadah Yat Ambassador, saya bisa mulai belajar banyak hal sebagai beauty enthusiast dan influencer.
+33	Dan dari Wadah Yat Ambassador, saya bisa mulai belajar banyak hal sebagai beauty enthusiast dan influencer.
+34	Dan dari Wadah Yat Ambassador, saya bisa mulai belajar banyak hal sebagai beauty enthusiast dan influencer.
+35	Dan dari Wadah Yat Ambassador, saya bisa mulai belajar banyak hal sebagai beauty enthusiast dan influencer.
+36	Dan dari Wadah Yat Ambassador, saya bisa mulai belajar banyak hal sebagai beauty enthusiast dan influencer.
+37	Dan dari Wadah Yat Ambassador, saya bisa mulai belajar banyak hal sebagai beauty enthusiast dan influencer.
+38	Dan dari Wadah Yat Ambassador, saya bisa mulai belajar banyak hal sebagai beauty enthusiast dan influencer.
+39	Dan dari Wadah Yat Ambassador, saya bisa mulai belajar banyak hal sebagai beauty enthusiast dan influencer.
+40	Banyak benefit yang saya dapatkan sebagai Wadah Yat Ambassador.
+41	Banyak benefit yang saya dapatkan sebagai Wadah Yat Ambassador.
+42	Banyak benefit yang saya dapatkan sebagai Wadah Yat Ambassador.
+43	Banyak benefit yang saya dapatkan sebagai Wadah Yat Ambassador.
+44	Banyak benefit yang saya dapatkan sebagai Wadah Yat Ambassador.
+45	Banyak benefit yang saya dapatkan sebagai Wadah Yat Ambassador.
+46	Banyak benefit yang saya dapatkan sebagai Wadah Yat Ambassador.
+47	Banyak benefit yang saya dapatkan sebagai Wadah Yat Ambassador. Selain mendapatkan kesempatan mencoba produk baru dan mengikuti event,
+48	Selain mendapatkan kesempatan mencoba produk baru dan mengikuti event,
+49	Selain mendapatkan kesempatan mencoba produk baru dan mengikuti event,
+50	Selain mendapatkan kesempatan mencoba produk baru dan mengikuti event,
+51	Selain mendapatkan kesempatan mencoba produk baru dan mengikuti event,
+52	Selain mendapatkan kesempatan mencoba produk baru dan mengikuti event,
+53	Selain mendapatkan kesempatan mencoba produk baru dan mengikuti event,
+54	Selain mendapatkan kesempatan mencoba produk baru dan mengikuti event, kita juga bisa saling informasi sesama teman IYA untuk lebih kreatif sebagai beauty influencer.
+55	Selain mendapatkan kesempatan mencoba produk baru dan mengikuti event, kita juga bisa saling informasi sesama teman IYA untuk lebih kreatif sebagai beauty influencer.
+56	kita juga bisa saling informasi sesama teman IYA untuk lebih kreatif sebagai beauty influencer.
+57	kita juga bisa saling informasi sesama teman IYA untuk lebih kreatif sebagai beauty influencer.
+58	kita juga bisa saling informasi sesama teman IYA untuk lebih kreatif sebagai beauty influencer.
+59	kita juga bisa saling informasi sesama teman IYA untuk lebih kreatif sebagai beauty influencer.
+60	kita juga bisa saling informasi sesama teman IYA untuk lebih kreatif sebagai beauty influencer.
+61	kita juga bisa saling informasi sesama teman IYA untuk lebih kreatif sebagai beauty influencer.
+62	kita juga bisa saling informasi sesama teman IYA untuk lebih kreatif sebagai beauty influencer.
+63	kita juga bisa saling informasi sesama teman IYA untuk lebih kreatif sebagai beauty influencer.
+64	kita juga bisa saling informasi sesama teman IYA untuk lebih kreatif sebagai beauty influencer.
+65	kita juga bisa saling informasi sesama teman IYA untuk lebih kreatif sebagai beauty influencer.
+66	kita juga bisa saling informasi sesama teman IYA untuk lebih kreatif sebagai beauty influencer.
+67	kita juga bisa saling informasi sesama teman IYA untuk lebih kreatif sebagai beauty influencer.
+68	Aku pribadi merasa happy dan bangga menjadi bagian dari Wadah Yat Ambassador
+69	Aku pribadi merasa happy dan bangga menjadi bagian dari Wadah Yat Ambassador
+70	Aku pribadi merasa happy dan bangga menjadi bagian dari Wadah Yat Ambassador
+71	Aku pribadi merasa happy dan bangga menjadi bagian dari Wadah Yat Ambassador
+72	Aku pribadi merasa happy dan bangga menjadi bagian dari Wadah Yat Ambassador
+73	Aku pribadi merasa happy dan bangga menjadi bagian dari Wadah Yat Ambassador
+74	Aku pribadi merasa happy dan bangga menjadi bagian dari Wadah Yat Ambassador
+75	Aku pribadi merasa happy dan bangga menjadi bagian dari Wadah Yat Ambassador
+76	Aku pribadi merasa happy dan bangga menjadi bagian dari Wadah Yat Ambassador yang menjadi wadah bagi para beauty enthusiast untuk berani mencoba dan berkreasi dalam kecantikan.
+77	Aku pribadi merasa happy dan bangga menjadi bagian dari Wadah Yat Ambassador yang menjadi wadah bagi para beauty enthusiast untuk berani mencoba dan berkreasi dalam kecantikan.
+78	yang menjadi wadah bagi para beauty enthusiast untuk berani mencoba dan berkreasi dalam kecantikan.
+79	yang menjadi wadah bagi para beauty enthusiast untuk berani mencoba dan berkreasi dalam kecantikan.
+80	yang menjadi wadah bagi para beauty enthusiast untuk berani mencoba dan berkreasi dalam kecantikan.
+81	yang menjadi wadah bagi para beauty enthusiast untuk berani mencoba dan berkreasi dalam kecantikan.
+82	yang menjadi wadah bagi para beauty enthusiast untuk berani mencoba dan berkreasi dalam kecantikan.
+83	yang menjadi wadah bagi para beauty enthusiast untuk berani mencoba dan berkreasi dalam kecantikan.
+84	yang menjadi wadah bagi para beauty enthusiast untuk berani mencoba dan berkreasi dalam kecantikan.
+85	yang menjadi wadah bagi para beauty enthusiast untuk berani mencoba dan berkreasi dalam kecantikan.
+86	yang menjadi wadah bagi para beauty enthusiast untuk berani mencoba dan berkreasi dalam kecantikan.
+87	yang menjadi wadah bagi para beauty enthusiast untuk berani mencoba dan berkreasi dalam kecantikan.
+88	yang menjadi wadah bagi para beauty enthusiast untuk berani mencoba dan berkreasi dalam kecantikan.
+89	Banyak kegiatan yang menurutku dapat meningkatkan rasa percaya diri dan motivasi para teman-teman beauty influencer.
+90	Banyak kegiatan yang menurutku dapat meningkatkan rasa percaya diri dan motivasi para teman-teman beauty influencer.
+91	Banyak kegiatan yang menurutku dapat meningkatkan rasa percaya diri dan motivasi para teman-teman beauty influencer.
+92	Banyak kegiatan yang menurutku dapat meningkatkan rasa percaya diri dan motivasi para teman-teman beauty influencer.
+93	Banyak kegiatan yang menurutku dapat meningkatkan rasa percaya diri dan motivasi para teman-teman beauty influencer.
+94	Banyak kegiatan yang menurutku dapat meningkatkan rasa percaya diri dan motivasi para teman-teman beauty influencer.
+95	Banyak kegiatan yang menurutku dapat meningkatkan rasa percaya diri dan motivasi para teman-teman beauty influencer.
+96	Banyak kegiatan yang menurutku dapat meningkatkan rasa percaya diri dan motivasi para teman-teman beauty influencer.
+97	Banyak kegiatan yang menurutku dapat meningkatkan rasa percaya diri dan motivasi para teman-teman beauty influencer.
+98	Banyak kegiatan yang menurutku dapat meningkatkan rasa percaya diri dan motivasi para teman-teman beauty influencer.
+99	Banyak kegiatan yang menurutku dapat meningkatkan rasa percaya diri dan motivasi para teman-teman beauty influencer.
+100	Banyak kegiatan yang menurutku dapat meningkatkan rasa percaya diri dan motivasi para teman-teman beauty influencer.
+101	Banyak kegiatan yang menurutku dapat meningkatkan rasa percaya diri dan motivasi para teman-teman beauty influencer.
+102	Banyak kegiatan yang menurutku dapat meningkatkan rasa percaya diri dan motivasi para teman-teman beauty influencer. Growth
+103	Growth
+104	Growth
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	[NO_SPEECH]
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	[NO_SPEECH]
+113	[NO_SPEECH]
+114	[NO_SPEECH]
+115	[NO_SPEECH]
+116	Wadah Yat Ambassador
+117	Wadah Yat Ambassador
+118	Wadah Yat Ambassador
+119	Wadah Yat Ambassador

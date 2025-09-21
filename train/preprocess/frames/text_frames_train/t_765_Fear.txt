@@ -1,0 +1,157 @@
+0	Apakah KB wanita, terutama yang berhubungan dengan hormon-hormon,
+1	Apakah KB wanita, terutama yang berhubungan dengan hormon-hormon,
+2	Apakah KB wanita, terutama yang berhubungan dengan hormon-hormon,
+3	Apakah KB wanita, terutama yang berhubungan dengan hormon-hormon,
+4	Apakah KB wanita, terutama yang berhubungan dengan hormon-hormon,
+5	Apakah KB wanita, terutama yang berhubungan dengan hormon-hormon,
+6	Apakah KB wanita, terutama yang berhubungan dengan hormon-hormon,
+7	Apakah KB wanita, terutama yang berhubungan dengan hormon-hormon, itu bisa menaikkan resiko serangan jantung dan strok?
+8	Apakah KB wanita, terutama yang berhubungan dengan hormon-hormon, itu bisa menaikkan resiko serangan jantung dan strok?
+9	itu bisa menaikkan resiko serangan jantung dan strok?
+10	itu bisa menaikkan resiko serangan jantung dan strok?
+11	itu bisa menaikkan resiko serangan jantung dan strok?
+12	itu bisa menaikkan resiko serangan jantung dan strok?
+13	itu bisa menaikkan resiko serangan jantung dan strok?
+14	itu bisa menaikkan resiko serangan jantung dan strok? Ini studi yang sangat-sangat penting ya, ini baru aja dipublish di The BMJ.
+15	Ini studi yang sangat-sangat penting ya, ini baru aja dipublish di The BMJ.
+16	Ini studi yang sangat-sangat penting ya, ini baru aja dipublish di The BMJ.
+17	Ini studi yang sangat-sangat penting ya, ini baru aja dipublish di The BMJ.
+18	Ini studi yang sangat-sangat penting ya, ini baru aja dipublish di The BMJ.
+19	Ini studi yang sangat-sangat penting ya, ini baru aja dipublish di The BMJ.
+20	Ini studi yang sangat-sangat penting ya, ini baru aja dipublish di The BMJ.
+21	Ini studi yang sangat-sangat penting ya, ini baru aja dipublish di The BMJ.
+22	Ini studi yang sangat-sangat penting ya, ini baru aja dipublish di The BMJ. Studi ini dikerjain di 2 juta wanita.
+23	Ini studi yang sangat-sangat penting ya, ini baru aja dipublish di The BMJ. Studi ini dikerjain di 2 juta wanita.
+24	Studi ini dikerjain di 2 juta wanita.
+25	Studi ini dikerjain di 2 juta wanita.
+26	Studi ini dikerjain di 2 juta wanita.
+27	Studi ini dikerjain di 2 juta wanita.
+28	Studi ini dikerjain di 2 juta wanita.
+29	Studi ini dikerjain di 2 juta wanita. Dan mereka itu membandingkan wanita-wanita yang menggunakan KB,
+30	Dan mereka itu membandingkan wanita-wanita yang menggunakan KB,
+31	Dan mereka itu membandingkan wanita-wanita yang menggunakan KB,
+32	Dan mereka itu membandingkan wanita-wanita yang menggunakan KB,
+33	Dan mereka itu membandingkan wanita-wanita yang menggunakan KB,
+34	Dan mereka itu membandingkan wanita-wanita yang menggunakan KB,
+35	Dan mereka itu membandingkan wanita-wanita yang menggunakan KB,
+36	Dan mereka itu membandingkan wanita-wanita yang menggunakan KB, terutama yang berhubungan dengan hormon-hormon, dengan wanita yang tidak.
+37	Dan mereka itu membandingkan wanita-wanita yang menggunakan KB, terutama yang berhubungan dengan hormon-hormon, dengan wanita yang tidak.
+38	terutama yang berhubungan dengan hormon-hormon, dengan wanita yang tidak.
+39	terutama yang berhubungan dengan hormon-hormon, dengan wanita yang tidak.
+40	terutama yang berhubungan dengan hormon-hormon, dengan wanita yang tidak.
+41	terutama yang berhubungan dengan hormon-hormon, dengan wanita yang tidak.
+42	terutama yang berhubungan dengan hormon-hormon, dengan wanita yang tidak. Dan mereka itu melihat apakah ada kenaikan resiko serangan jantung dan strok.
+43	terutama yang berhubungan dengan hormon-hormon, dengan wanita yang tidak. Dan mereka itu melihat apakah ada kenaikan resiko serangan jantung dan strok.
+44	Dan mereka itu melihat apakah ada kenaikan resiko serangan jantung dan strok.
+45	Dan mereka itu melihat apakah ada kenaikan resiko serangan jantung dan strok.
+46	Dan mereka itu melihat apakah ada kenaikan resiko serangan jantung dan strok.
+47	Dan mereka itu melihat apakah ada kenaikan resiko serangan jantung dan strok.
+48	Dan mereka itu melihat apakah ada kenaikan resiko serangan jantung dan strok.
+49	Dan mereka itu melihat apakah ada kenaikan resiko serangan jantung dan strok. Jadi mereka nemuin bahwa ada kenaikan resiko serangan jantung dan strok
+50	Dan mereka itu melihat apakah ada kenaikan resiko serangan jantung dan strok. Jadi mereka nemuin bahwa ada kenaikan resiko serangan jantung dan strok
+51	Jadi mereka nemuin bahwa ada kenaikan resiko serangan jantung dan strok
+52	Jadi mereka nemuin bahwa ada kenaikan resiko serangan jantung dan strok
+53	Jadi mereka nemuin bahwa ada kenaikan resiko serangan jantung dan strok
+54	Jadi mereka nemuin bahwa ada kenaikan resiko serangan jantung dan strok
+55	Jadi mereka nemuin bahwa ada kenaikan resiko serangan jantung dan strok
+56	Jadi mereka nemuin bahwa ada kenaikan resiko serangan jantung dan strok
+57	Jadi mereka nemuin bahwa ada kenaikan resiko serangan jantung dan strok
+58	Jadi mereka nemuin bahwa ada kenaikan resiko serangan jantung dan strok
+59	Jadi mereka nemuin bahwa ada kenaikan resiko serangan jantung dan strok
+60	Jadi mereka nemuin bahwa ada kenaikan resiko serangan jantung dan strok di wanita-wanita yang berKB dengan berhubungan dengan hormon-hormon itu loh.
+61	Jadi mereka nemuin bahwa ada kenaikan resiko serangan jantung dan strok di wanita-wanita yang berKB dengan berhubungan dengan hormon-hormon itu loh.
+62	di wanita-wanita yang berKB dengan berhubungan dengan hormon-hormon itu loh.
+63	di wanita-wanita yang berKB dengan berhubungan dengan hormon-hormon itu loh.
+64	di wanita-wanita yang berKB dengan berhubungan dengan hormon-hormon itu loh.
+65	di wanita-wanita yang berKB dengan berhubungan dengan hormon-hormon itu loh.
+66	di wanita-wanita yang berKB dengan berhubungan dengan hormon-hormon itu loh.
+67	di wanita-wanita yang berKB dengan berhubungan dengan hormon-hormon itu loh. Karena punya efek protrombotik.
+68	di wanita-wanita yang berKB dengan berhubungan dengan hormon-hormon itu loh. Karena punya efek protrombotik.
+69	Karena punya efek protrombotik.
+70	Karena punya efek protrombotik.
+71	Karena punya efek protrombotik.
+72	Karena punya efek protrombotik.
+73	Karena punya efek protrombotik.
+74	Karena punya efek protrombotik. KB-KB hormon itu bisa ngebuat pengumpulan darah.
+75	KB-KB hormon itu bisa ngebuat pengumpulan darah.
+76	KB-KB hormon itu bisa ngebuat pengumpulan darah.
+77	KB-KB hormon itu bisa ngebuat pengumpulan darah.
+78	KB-KB hormon itu bisa ngebuat pengumpulan darah.
+79	KB-KB hormon itu bisa ngebuat pengumpulan darah.
+80	KB-KB hormon itu bisa ngebuat pengumpulan darah.
+81	KB-KB hormon itu bisa ngebuat pengumpulan darah.
+82	KB-KB hormon itu bisa ngebuat pengumpulan darah.
+83	KB-KB hormon itu bisa ngebuat pengumpulan darah. Yes, resikonya kecil, tapi kalau dilihat dari berapa banyak wanita yang menggunakan,
+84	Yes, resikonya kecil, tapi kalau dilihat dari berapa banyak wanita yang menggunakan,
+85	Yes, resikonya kecil, tapi kalau dilihat dari berapa banyak wanita yang menggunakan,
+86	Yes, resikonya kecil, tapi kalau dilihat dari berapa banyak wanita yang menggunakan,
+87	Yes, resikonya kecil, tapi kalau dilihat dari berapa banyak wanita yang menggunakan,
+88	Yes, resikonya kecil, tapi kalau dilihat dari berapa banyak wanita yang menggunakan,
+89	Yes, resikonya kecil, tapi kalau dilihat dari berapa banyak wanita yang menggunakan,
+90	Yes, resikonya kecil, tapi kalau dilihat dari berapa banyak wanita yang menggunakan,
+91	Yes, resikonya kecil, tapi kalau dilihat dari berapa banyak wanita yang menggunakan,
+92	Yes, resikonya kecil, tapi kalau dilihat dari berapa banyak wanita yang menggunakan, jadi resiko itu jadi kelihatan sangat-sangat nyata.
+93	Yes, resikonya kecil, tapi kalau dilihat dari berapa banyak wanita yang menggunakan, jadi resiko itu jadi kelihatan sangat-sangat nyata.
+94	jadi resiko itu jadi kelihatan sangat-sangat nyata.
+95	jadi resiko itu jadi kelihatan sangat-sangat nyata.
+96	jadi resiko itu jadi kelihatan sangat-sangat nyata.
+97	jadi resiko itu jadi kelihatan sangat-sangat nyata.
+98	jadi resiko itu jadi kelihatan sangat-sangat nyata.
+99	jadi resiko itu jadi kelihatan sangat-sangat nyata. Nah ini juga yang membuat gue sangat-sangat bias bahwa KB itu seharusnya adalah
+100	Nah ini juga yang membuat gue sangat-sangat bias bahwa KB itu seharusnya adalah
+101	Nah ini juga yang membuat gue sangat-sangat bias bahwa KB itu seharusnya adalah
+102	Nah ini juga yang membuat gue sangat-sangat bias bahwa KB itu seharusnya adalah
+103	Nah ini juga yang membuat gue sangat-sangat bias bahwa KB itu seharusnya adalah
+104	Nah ini juga yang membuat gue sangat-sangat bias bahwa KB itu seharusnya adalah
+105	Nah ini juga yang membuat gue sangat-sangat bias bahwa KB itu seharusnya adalah
+106	Nah ini juga yang membuat gue sangat-sangat bias bahwa KB itu seharusnya adalah
+107	Nah ini juga yang membuat gue sangat-sangat bias bahwa KB itu seharusnya adalah
+108	Nah ini juga yang membuat gue sangat-sangat bias bahwa KB itu seharusnya adalah
+109	Nah ini juga yang membuat gue sangat-sangat bias bahwa KB itu seharusnya adalah
+110	Nah ini juga yang membuat gue sangat-sangat bias bahwa KB itu seharusnya adalah dipegang oleh pria-pria.
+111	dipegang oleh pria-pria.
+112	dipegang oleh pria-pria.
+113	dipegang oleh pria-pria. Yaitu pakai aja KB itu sarung joni, KB Indomaret, Afamart, so easy.
+114	dipegang oleh pria-pria. Yaitu pakai aja KB itu sarung joni, KB Indomaret, Afamart, so easy.
+115	Yaitu pakai aja KB itu sarung joni, KB Indomaret, Afamart, so easy.
+116	Yaitu pakai aja KB itu sarung joni, KB Indomaret, Afamart, so easy.
+117	Yaitu pakai aja KB itu sarung joni, KB Indomaret, Afamart, so easy.
+118	Yaitu pakai aja KB itu sarung joni, KB Indomaret, Afamart, so easy.
+119	Yaitu pakai aja KB itu sarung joni, KB Indomaret, Afamart, so easy.
+120	Yaitu pakai aja KB itu sarung joni, KB Indomaret, Afamart, so easy.
+121	Yaitu pakai aja KB itu sarung joni, KB Indomaret, Afamart, so easy.
+122	Yaitu pakai aja KB itu sarung joni, KB Indomaret, Afamart, so easy.
+123	Yaitu pakai aja KB itu sarung joni, KB Indomaret, Afamart, so easy. Itu resiko paling rendah dan jangan lagi wanita-wanita dan istri-istri yang mengambil resiko itu loh.
+124	Itu resiko paling rendah dan jangan lagi wanita-wanita dan istri-istri yang mengambil resiko itu loh.
+125	Itu resiko paling rendah dan jangan lagi wanita-wanita dan istri-istri yang mengambil resiko itu loh.
+126	Itu resiko paling rendah dan jangan lagi wanita-wanita dan istri-istri yang mengambil resiko itu loh.
+127	Itu resiko paling rendah dan jangan lagi wanita-wanita dan istri-istri yang mengambil resiko itu loh.
+128	Itu resiko paling rendah dan jangan lagi wanita-wanita dan istri-istri yang mengambil resiko itu loh.
+129	Itu resiko paling rendah dan jangan lagi wanita-wanita dan istri-istri yang mengambil resiko itu loh.
+130	Itu resiko paling rendah dan jangan lagi wanita-wanita dan istri-istri yang mengambil resiko itu loh.
+131	Itu resiko paling rendah dan jangan lagi wanita-wanita dan istri-istri yang mengambil resiko itu loh.
+132	Itu resiko paling rendah dan jangan lagi wanita-wanita dan istri-istri yang mengambil resiko itu loh.
+133	Itu resiko paling rendah dan jangan lagi wanita-wanita dan istri-istri yang mengambil resiko itu loh.
+134	Itu resiko paling rendah dan jangan lagi wanita-wanita dan istri-istri yang mengambil resiko itu loh. Istri udah hamil 9 bulan, melahirkan, ngurus anak, dan segala macem.
+135	Istri udah hamil 9 bulan, melahirkan, ngurus anak, dan segala macem.
+136	Istri udah hamil 9 bulan, melahirkan, ngurus anak, dan segala macem.
+137	Istri udah hamil 9 bulan, melahirkan, ngurus anak, dan segala macem.
+138	Istri udah hamil 9 bulan, melahirkan, ngurus anak, dan segala macem.
+139	Istri udah hamil 9 bulan, melahirkan, ngurus anak, dan segala macem.
+140	Istri udah hamil 9 bulan, melahirkan, ngurus anak, dan segala macem.
+141	Istri udah hamil 9 bulan, melahirkan, ngurus anak, dan segala macem.
+142	Istri udah hamil 9 bulan, melahirkan, ngurus anak, dan segala macem.
+143	Istri udah hamil 9 bulan, melahirkan, ngurus anak, dan segala macem. Masa harus istri lagi yang menanggung resiko penggunaan KB-KB hormonal?
+144	Istri udah hamil 9 bulan, melahirkan, ngurus anak, dan segala macem. Masa harus istri lagi yang menanggung resiko penggunaan KB-KB hormonal?
+145	Masa harus istri lagi yang menanggung resiko penggunaan KB-KB hormonal?
+146	Masa harus istri lagi yang menanggung resiko penggunaan KB-KB hormonal?
+147	Masa harus istri lagi yang menanggung resiko penggunaan KB-KB hormonal?
+148	Masa harus istri lagi yang menanggung resiko penggunaan KB-KB hormonal?
+149	Masa harus istri lagi yang menanggung resiko penggunaan KB-KB hormonal?
+150	Masa harus istri lagi yang menanggung resiko penggunaan KB-KB hormonal?
+151	Masa harus istri lagi yang menanggung resiko penggunaan KB-KB hormonal?
+152	Masa harus istri lagi yang menanggung resiko penggunaan KB-KB hormonal? Itu sih kalau menurut gue ya.
+153	Masa harus istri lagi yang menanggung resiko penggunaan KB-KB hormonal? Itu sih kalau menurut gue ya.
+154	Itu sih kalau menurut gue ya.
+155	Itu sih kalau menurut gue ya.
+156	Itu sih kalau menurut gue ya.

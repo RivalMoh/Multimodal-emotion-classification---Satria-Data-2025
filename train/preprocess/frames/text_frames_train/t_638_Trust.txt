@@ -1,0 +1,229 @@
+0	Hai Bu Ibu bapak-bapak kalau kalian semua punya kolesterol tinggi ya tolong juga
+1	Hai Bu Ibu bapak-bapak kalau kalian semua punya kolesterol tinggi ya tolong juga
+2	Hai Bu Ibu bapak-bapak kalau kalian semua punya kolesterol tinggi ya tolong juga
+3	Hai Bu Ibu bapak-bapak kalau kalian semua punya kolesterol tinggi ya tolong juga
+4	Hai Bu Ibu bapak-bapak kalau kalian semua punya kolesterol tinggi ya tolong juga
+5	Hai Bu Ibu bapak-bapak kalau kalian semua punya kolesterol tinggi ya tolong juga
+6	Hai Bu Ibu bapak-bapak kalau kalian semua punya kolesterol tinggi ya tolong juga
+7	Hai Bu Ibu bapak-bapak kalau kalian semua punya kolesterol tinggi ya tolong juga
+8	Hai Bu Ibu bapak-bapak kalau kalian semua punya kolesterol tinggi ya tolong juga
+9	Hai Bu Ibu bapak-bapak kalau kalian semua punya kolesterol tinggi ya tolong juga
+10	Hai Bu Ibu bapak-bapak kalau kalian semua punya kolesterol tinggi ya tolong juga
+11	Hai Bu Ibu bapak-bapak kalau kalian semua punya kolesterol tinggi ya tolong juga pesu makanan ini kita dapat bukan HP ini bolak-balik bolak-balik dok pengen cek
+12	Hai Bu Ibu bapak-bapak kalau kalian semua punya kolesterol tinggi ya tolong juga pesu makanan ini kita dapat bukan HP ini bolak-balik bolak-balik dok pengen cek
+13	pesu makanan ini kita dapat bukan HP ini bolak-balik bolak-balik dok pengen cek
+14	pesu makanan ini kita dapat bukan HP ini bolak-balik bolak-balik dok pengen cek
+15	pesu makanan ini kita dapat bukan HP ini bolak-balik bolak-balik dok pengen cek
+16	pesu makanan ini kita dapat bukan HP ini bolak-balik bolak-balik dok pengen cek
+17	pesu makanan ini kita dapat bukan HP ini bolak-balik bolak-balik dok pengen cek
+18	pesu makanan ini kita dapat bukan HP ini bolak-balik bolak-balik dok pengen cek
+19	pesu makanan ini kita dapat bukan HP ini bolak-balik bolak-balik dok pengen cek
+20	pesu makanan ini kita dapat bukan HP ini bolak-balik bolak-balik dok pengen cek
+21	pesu makanan ini kita dapat bukan HP ini bolak-balik bolak-balik dok pengen cek kolesterol ya nggak papa mau cek kolesterol cuma masalah pasti tanya masih suka nggak
+22	pesu makanan ini kita dapat bukan HP ini bolak-balik bolak-balik dok pengen cek kolesterol ya nggak papa mau cek kolesterol cuma masalah pasti tanya masih suka nggak
+23	kolesterol ya nggak papa mau cek kolesterol cuma masalah pasti tanya masih suka nggak
+24	kolesterol ya nggak papa mau cek kolesterol cuma masalah pasti tanya masih suka nggak
+25	kolesterol ya nggak papa mau cek kolesterol cuma masalah pasti tanya masih suka nggak
+26	kolesterol ya nggak papa mau cek kolesterol cuma masalah pasti tanya masih suka nggak
+27	kolesterol ya nggak papa mau cek kolesterol cuma masalah pasti tanya masih suka nggak
+28	kolesterol ya nggak papa mau cek kolesterol cuma masalah pasti tanya masih suka nggak
+29	kolesterol ya nggak papa mau cek kolesterol cuma masalah pasti tanya masih suka nggak makan jeruk-jeruk masih suka nggak makan lemak lemakan gimane olahraganya
+30	kolesterol ya nggak papa mau cek kolesterol cuma masalah pasti tanya masih suka nggak makan jeruk-jeruk masih suka nggak makan lemak lemakan gimane olahraganya
+31	kolesterol ya nggak papa mau cek kolesterol cuma masalah pasti tanya masih suka nggak makan jeruk-jeruk masih suka nggak makan lemak lemakan gimane olahraganya
+32	makan jeruk-jeruk masih suka nggak makan lemak lemakan gimane olahraganya
+33	makan jeruk-jeruk masih suka nggak makan lemak lemakan gimane olahraganya
+34	makan jeruk-jeruk masih suka nggak makan lemak lemakan gimane olahraganya
+35	makan jeruk-jeruk masih suka nggak makan lemak lemakan gimane olahraganya
+36	makan jeruk-jeruk masih suka nggak makan lemak lemakan gimane olahraganya
+37	makan jeruk-jeruk masih suka nggak makan lemak lemakan gimane olahraganya
+38	makan jeruk-jeruk masih suka nggak makan lemak lemakan gimane olahraganya
+39	makan jeruk-jeruk masih suka nggak makan lemak lemakan gimane olahraganya
+40	makan jeruk-jeruk masih suka nggak makan lemak lemakan gimane olahraganya
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	maksudnya begini kolesterol itu penting buat tubuh kita karena kolesterol itu dia
+48	maksudnya begini kolesterol itu penting buat tubuh kita karena kolesterol itu dia
+49	maksudnya begini kolesterol itu penting buat tubuh kita karena kolesterol itu dia
+50	maksudnya begini kolesterol itu penting buat tubuh kita karena kolesterol itu dia
+51	maksudnya begini kolesterol itu penting buat tubuh kita karena kolesterol itu dia
+52	maksudnya begini kolesterol itu penting buat tubuh kita karena kolesterol itu dia
+53	maksudnya begini kolesterol itu penting buat tubuh kita karena kolesterol itu dia
+54	maksudnya begini kolesterol itu penting buat tubuh kita karena kolesterol itu dia
+55	maksudnya begini kolesterol itu penting buat tubuh kita karena kolesterol itu dia
+56	maksudnya begini kolesterol itu penting buat tubuh kita karena kolesterol itu dia membantu menstabilkan membran sel intinya kalau satu penting buat tubuh kita buat
+57	maksudnya begini kolesterol itu penting buat tubuh kita karena kolesterol itu dia membantu menstabilkan membran sel intinya kalau satu penting buat tubuh kita buat
+58	membantu menstabilkan membran sel intinya kalau satu penting buat tubuh kita buat
+59	membantu menstabilkan membran sel intinya kalau satu penting buat tubuh kita buat
+60	membantu menstabilkan membran sel intinya kalau satu penting buat tubuh kita buat
+61	membantu menstabilkan membran sel intinya kalau satu penting buat tubuh kita buat
+62	membantu menstabilkan membran sel intinya kalau satu penting buat tubuh kita buat
+63	membantu menstabilkan membran sel intinya kalau satu penting buat tubuh kita buat
+64	membantu menstabilkan membran sel intinya kalau satu penting buat tubuh kita buat
+65	membantu menstabilkan membran sel intinya kalau satu penting buat tubuh kita buat hormon dan lain makanya sebenarnya tubuh kita secara alami itu memproduksi
+66	membantu menstabilkan membran sel intinya kalau satu penting buat tubuh kita buat hormon dan lain makanya sebenarnya tubuh kita secara alami itu memproduksi
+67	hormon dan lain makanya sebenarnya tubuh kita secara alami itu memproduksi
+68	hormon dan lain makanya sebenarnya tubuh kita secara alami itu memproduksi
+69	hormon dan lain makanya sebenarnya tubuh kita secara alami itu memproduksi
+70	hormon dan lain makanya sebenarnya tubuh kita secara alami itu memproduksi
+71	hormon dan lain makanya sebenarnya tubuh kita secara alami itu memproduksi
+72	hormon dan lain makanya sebenarnya tubuh kita secara alami itu memproduksi kolesterol cuma jangan gitu loh kalau berlebih jadi bahaya dan nurunin
+73	hormon dan lain makanya sebenarnya tubuh kita secara alami itu memproduksi kolesterol cuma jangan gitu loh kalau berlebih jadi bahaya dan nurunin
+74	kolesterol cuma jangan gitu loh kalau berlebih jadi bahaya dan nurunin
+75	kolesterol cuma jangan gitu loh kalau berlebih jadi bahaya dan nurunin
+76	kolesterol cuma jangan gitu loh kalau berlebih jadi bahaya dan nurunin
+77	kolesterol cuma jangan gitu loh kalau berlebih jadi bahaya dan nurunin
+78	kolesterol cuma jangan gitu loh kalau berlebih jadi bahaya dan nurunin
+79	kolesterol cuma jangan gitu loh kalau berlebih jadi bahaya dan nurunin
+80	kolesterol cuma jangan gitu loh kalau berlebih jadi bahaya dan nurunin
+81	kolesterol cuma jangan gitu loh kalau berlebih jadi bahaya dan nurunin
+82	kolesterol cuma jangan gitu loh kalau berlebih jadi bahaya dan nurunin
+83	kolesterol cuma jangan gitu loh kalau berlebih jadi bahaya dan nurunin kolesterol bukan cuman dari minum obat-obatan doang tapi juga dari pola
+84	kolesterol cuma jangan gitu loh kalau berlebih jadi bahaya dan nurunin kolesterol bukan cuman dari minum obat-obatan doang tapi juga dari pola
+85	kolesterol bukan cuman dari minum obat-obatan doang tapi juga dari pola
+86	kolesterol bukan cuman dari minum obat-obatan doang tapi juga dari pola
+87	kolesterol bukan cuman dari minum obat-obatan doang tapi juga dari pola
+88	kolesterol bukan cuman dari minum obat-obatan doang tapi juga dari pola
+89	kolesterol bukan cuman dari minum obat-obatan doang tapi juga dari pola
+90	kolesterol bukan cuman dari minum obat-obatan doang tapi juga dari pola
+91	kolesterol bukan cuman dari minum obat-obatan doang tapi juga dari pola hidup kalau anda sekalian makan yang nggak dijaga ya udah tuh kolesterol
+92	kolesterol bukan cuman dari minum obat-obatan doang tapi juga dari pola hidup kalau anda sekalian makan yang nggak dijaga ya udah tuh kolesterol
+93	hidup kalau anda sekalian makan yang nggak dijaga ya udah tuh kolesterol
+94	hidup kalau anda sekalian makan yang nggak dijaga ya udah tuh kolesterol
+95	hidup kalau anda sekalian makan yang nggak dijaga ya udah tuh kolesterol
+96	hidup kalau anda sekalian makan yang nggak dijaga ya udah tuh kolesterol
+97	hidup kalau anda sekalian makan yang nggak dijaga ya udah tuh kolesterol
+98	hidup kalau anda sekalian makan yang nggak dijaga ya udah tuh kolesterol
+99	hidup kalau anda sekalian makan yang nggak dijaga ya udah tuh kolesterol jadi itu penyakit cuk jadi itu penyakit jantung makanya sebetulnya pola hidup itu
+100	jadi itu penyakit cuk jadi itu penyakit jantung makanya sebetulnya pola hidup itu
+101	jadi itu penyakit cuk jadi itu penyakit jantung makanya sebetulnya pola hidup itu
+102	jadi itu penyakit cuk jadi itu penyakit jantung makanya sebetulnya pola hidup itu
+103	jadi itu penyakit cuk jadi itu penyakit jantung makanya sebetulnya pola hidup itu
+104	jadi itu penyakit cuk jadi itu penyakit jantung makanya sebetulnya pola hidup itu
+105	jadi itu penyakit cuk jadi itu penyakit jantung makanya sebetulnya pola hidup itu
+106	jadi itu penyakit cuk jadi itu penyakit jantung makanya sebetulnya pola hidup itu
+107	jadi itu penyakit cuk jadi itu penyakit jantung makanya sebetulnya pola hidup itu
+108	jadi itu penyakit cuk jadi itu penyakit jantung makanya sebetulnya pola hidup itu
+109	jadi itu penyakit cuk jadi itu penyakit jantung makanya sebetulnya pola hidup itu penting statin nih yang biasa dikasih apa itu merek terserah itu dia menghambat
+110	jadi itu penyakit cuk jadi itu penyakit jantung makanya sebetulnya pola hidup itu penting statin nih yang biasa dikasih apa itu merek terserah itu dia menghambat
+111	penting statin nih yang biasa dikasih apa itu merek terserah itu dia menghambat
+112	penting statin nih yang biasa dikasih apa itu merek terserah itu dia menghambat
+113	penting statin nih yang biasa dikasih apa itu merek terserah itu dia menghambat
+114	penting statin nih yang biasa dikasih apa itu merek terserah itu dia menghambat
+115	penting statin nih yang biasa dikasih apa itu merek terserah itu dia menghambat
+116	penting statin nih yang biasa dikasih apa itu merek terserah itu dia menghambat
+117	penting statin nih yang biasa dikasih apa itu merek terserah itu dia menghambat
+118	penting statin nih yang biasa dikasih apa itu merek terserah itu dia menghambat
+119	penting statin nih yang biasa dikasih apa itu merek terserah itu dia menghambat produksi kolesterol dalam tubuh kita tapi kolesterol dari luar itu tetap harus
+120	penting statin nih yang biasa dikasih apa itu merek terserah itu dia menghambat produksi kolesterol dalam tubuh kita tapi kolesterol dari luar itu tetap harus
+121	produksi kolesterol dalam tubuh kita tapi kolesterol dari luar itu tetap harus
+122	produksi kolesterol dalam tubuh kita tapi kolesterol dari luar itu tetap harus
+123	produksi kolesterol dalam tubuh kita tapi kolesterol dari luar itu tetap harus
+124	produksi kolesterol dalam tubuh kita tapi kolesterol dari luar itu tetap harus
+125	produksi kolesterol dalam tubuh kita tapi kolesterol dari luar itu tetap harus
+126	produksi kolesterol dalam tubuh kita tapi kolesterol dari luar itu tetap harus
+127	produksi kolesterol dalam tubuh kita tapi kolesterol dari luar itu tetap harus
+128	produksi kolesterol dalam tubuh kita tapi kolesterol dari luar itu tetap harus
+129	produksi kolesterol dalam tubuh kita tapi kolesterol dari luar itu tetap harus dibatesin kalau nggak dibatesin ya nggak turun-turun kolesterolnya atau misalkan
+130	produksi kolesterol dalam tubuh kita tapi kolesterol dari luar itu tetap harus dibatesin kalau nggak dibatesin ya nggak turun-turun kolesterolnya atau misalkan
+131	dibatesin kalau nggak dibatesin ya nggak turun-turun kolesterolnya atau misalkan
+132	dibatesin kalau nggak dibatesin ya nggak turun-turun kolesterolnya atau misalkan
+133	dibatesin kalau nggak dibatesin ya nggak turun-turun kolesterolnya atau misalkan
+134	dibatesin kalau nggak dibatesin ya nggak turun-turun kolesterolnya atau misalkan
+135	dibatesin kalau nggak dibatesin ya nggak turun-turun kolesterolnya atau misalkan
+136	dibatesin kalau nggak dibatesin ya nggak turun-turun kolesterolnya atau misalkan
+137	dibatesin kalau nggak dibatesin ya nggak turun-turun kolesterolnya atau misalkan
+138	dibatesin kalau nggak dibatesin ya nggak turun-turun kolesterolnya atau misalkan opsi lain deh pilih misalkan ada minuman yang mengandung plensternal ester apa itu
+139	dibatesin kalau nggak dibatesin ya nggak turun-turun kolesterolnya atau misalkan opsi lain deh pilih misalkan ada minuman yang mengandung plensternal ester apa itu
+140	opsi lain deh pilih misalkan ada minuman yang mengandung plensternal ester apa itu
+141	opsi lain deh pilih misalkan ada minuman yang mengandung plensternal ester apa itu
+142	opsi lain deh pilih misalkan ada minuman yang mengandung plensternal ester apa itu
+143	opsi lain deh pilih misalkan ada minuman yang mengandung plensternal ester apa itu
+144	opsi lain deh pilih misalkan ada minuman yang mengandung plensternal ester apa itu
+145	opsi lain deh pilih misalkan ada minuman yang mengandung plensternal ester apa itu
+146	opsi lain deh pilih misalkan ada minuman yang mengandung plensternal ester apa itu
+147	opsi lain deh pilih misalkan ada minuman yang mengandung plensternal ester apa itu fungsinya plensternal ester dia itu kayak menghambat penyerapan kolesterol dari
+148	opsi lain deh pilih misalkan ada minuman yang mengandung plensternal ester apa itu fungsinya plensternal ester dia itu kayak menghambat penyerapan kolesterol dari
+149	fungsinya plensternal ester dia itu kayak menghambat penyerapan kolesterol dari
+150	fungsinya plensternal ester dia itu kayak menghambat penyerapan kolesterol dari
+151	fungsinya plensternal ester dia itu kayak menghambat penyerapan kolesterol dari
+152	fungsinya plensternal ester dia itu kayak menghambat penyerapan kolesterol dari
+153	fungsinya plensternal ester dia itu kayak menghambat penyerapan kolesterol dari usus halus kalau lu mau minum minuman yang mengandung
+154	fungsinya plensternal ester dia itu kayak menghambat penyerapan kolesterol dari usus halus kalau lu mau minum minuman yang mengandung
+155	usus halus kalau lu mau minum minuman yang mengandung
+156	usus halus kalau lu mau minum minuman yang mengandung
+157	usus halus kalau lu mau minum minuman yang mengandung
+158	usus halus kalau lu mau minum minuman yang mengandung PSA maka itu harus dikonsumsi dengan kolesterol yang tersebut jadi kalau lu mau minum minuman yang mengandung PSA
+159	usus halus kalau lu mau minum minuman yang mengandung PSA maka itu harus dikonsumsi dengan kolesterol yang tersebut jadi kalau lu mau minum minuman yang mengandung PSA itu diminumnya habis makan usahain minumnya itu rutin akhirnya kolesterol bisa turun ya karena
+160	PSA maka itu harus dikonsumsi dengan kolesterol yang tersebut jadi kalau lu mau minum minuman yang mengandung PSA itu diminumnya habis makan usahain minumnya itu rutin akhirnya kolesterol bisa turun ya karena
+161	itu diminumnya habis makan usahain minumnya itu rutin akhirnya kolesterol bisa turun ya karena
+162	itu diminumnya habis makan usahain minumnya itu rutin akhirnya kolesterol bisa turun ya karena
+163	itu diminumnya habis makan usahain minumnya itu rutin akhirnya kolesterol bisa turun ya karena
+164	itu diminumnya habis makan usahain minumnya itu rutin akhirnya kolesterol bisa turun ya karena
+165	itu diminumnya habis makan usahain minumnya itu rutin akhirnya kolesterol bisa turun ya karena
+166	itu diminumnya habis makan usahain minumnya itu rutin akhirnya kolesterol bisa turun ya karena
+167	itu diminumnya habis makan usahain minumnya itu rutin akhirnya kolesterol bisa turun ya karena
+168	itu diminumnya habis makan usahain minumnya itu rutin akhirnya kolesterol bisa turun ya karena
+169	itu diminumnya habis makan usahain minumnya itu rutin akhirnya kolesterol bisa turun ya karena
+170	itu diminumnya habis makan usahain minumnya itu rutin akhirnya kolesterol bisa turun ya karena
+171	itu diminumnya habis makan usahain minumnya itu rutin akhirnya kolesterol bisa turun ya karena kehambat penyerapannya dan secara klinis emang udah teruji dan lo kalau lihat di
+172	itu diminumnya habis makan usahain minumnya itu rutin akhirnya kolesterol bisa turun ya karena kehambat penyerapannya dan secara klinis emang udah teruji dan lo kalau lihat di
+173	kehambat penyerapannya dan secara klinis emang udah teruji dan lo kalau lihat di
+174	kehambat penyerapannya dan secara klinis emang udah teruji dan lo kalau lihat di
+175	kehambat penyerapannya dan secara klinis emang udah teruji dan lo kalau lihat di
+176	kehambat penyerapannya dan secara klinis emang udah teruji dan lo kalau lihat di
+177	kehambat penyerapannya dan secara klinis emang udah teruji dan lo kalau lihat di
+178	kehambat penyerapannya dan secara klinis emang udah teruji dan lo kalau lihat di
+179	kehambat penyerapannya dan secara klinis emang udah teruji dan lo kalau lihat di
+180	kehambat penyerapannya dan secara klinis emang udah teruji dan lo kalau lihat di kemasannya dia termasuk endah gula sama setauba minuman yang mengandung PSA ini
+181	kehambat penyerapannya dan secara klinis emang udah teruji dan lo kalau lihat di kemasannya dia termasuk endah gula sama setauba minuman yang mengandung PSA ini
+182	kehambat penyerapannya dan secara klinis emang udah teruji dan lo kalau lihat di kemasannya dia termasuk endah gula sama setauba minuman yang mengandung PSA ini
+183	kemasannya dia termasuk endah gula sama setauba minuman yang mengandung PSA ini
+184	kemasannya dia termasuk endah gula sama setauba minuman yang mengandung PSA ini
+185	kemasannya dia termasuk endah gula sama setauba minuman yang mengandung PSA ini
+186	kemasannya dia termasuk endah gula sama setauba minuman yang mengandung PSA ini
+187	kemasannya dia termasuk endah gula sama setauba minuman yang mengandung PSA ini
+188	kemasannya dia termasuk endah gula sama setauba minuman yang mengandung PSA ini bisa lo beli dimanapun itu misalkan kayak skin up di itu juga minum gitu wan nah
+189	kemasannya dia termasuk endah gula sama setauba minuman yang mengandung PSA ini bisa lo beli dimanapun itu misalkan kayak skin up di itu juga minum gitu wan nah
+190	bisa lo beli dimanapun itu misalkan kayak skin up di itu juga minum gitu wan nah
+191	bisa lo beli dimanapun itu misalkan kayak skin up di itu juga minum gitu wan nah
+192	bisa lo beli dimanapun itu misalkan kayak skin up di itu juga minum gitu wan nah
+193	bisa lo beli dimanapun itu misalkan kayak skin up di itu juga minum gitu wan nah
+194	bisa lo beli dimanapun itu misalkan kayak skin up di itu juga minum gitu wan nah
+195	bisa lo beli dimanapun itu misalkan kayak skin up di itu juga minum gitu wan nah tapi yang paling penting adalah kurangin asupan kolesterolnya dari jerawan dari
+196	bisa lo beli dimanapun itu misalkan kayak skin up di itu juga minum gitu wan nah tapi yang paling penting adalah kurangin asupan kolesterolnya dari jerawan dari
+197	tapi yang paling penting adalah kurangin asupan kolesterolnya dari jerawan dari
+198	tapi yang paling penting adalah kurangin asupan kolesterolnya dari jerawan dari
+199	tapi yang paling penting adalah kurangin asupan kolesterolnya dari jerawan dari
+200	tapi yang paling penting adalah kurangin asupan kolesterolnya dari jerawan dari
+201	tapi yang paling penting adalah kurangin asupan kolesterolnya dari jerawan dari
+202	tapi yang paling penting adalah kurangin asupan kolesterolnya dari jerawan dari
+203	tapi yang paling penting adalah kurangin asupan kolesterolnya dari jerawan dari
+204	tapi yang paling penting adalah kurangin asupan kolesterolnya dari jerawan dari
+205	tapi yang paling penting adalah kurangin asupan kolesterolnya dari jerawan dari
+206	tapi yang paling penting adalah kurangin asupan kolesterolnya dari jerawan dari
+207	tapi yang paling penting adalah kurangin asupan kolesterolnya dari jerawan dari lemak lemaknya lemak hewani gitu loh dan jangan lupa olahraga jangan sampai
+208	tapi yang paling penting adalah kurangin asupan kolesterolnya dari jerawan dari lemak lemaknya lemak hewani gitu loh dan jangan lupa olahraga jangan sampai
+209	lemak lemaknya lemak hewani gitu loh dan jangan lupa olahraga jangan sampai
+210	lemak lemaknya lemak hewani gitu loh dan jangan lupa olahraga jangan sampai
+211	lemak lemaknya lemak hewani gitu loh dan jangan lupa olahraga jangan sampai
+212	lemak lemaknya lemak hewani gitu loh dan jangan lupa olahraga jangan sampai
+213	lemak lemaknya lemak hewani gitu loh dan jangan lupa olahraga jangan sampai
+214	lemak lemaknya lemak hewani gitu loh dan jangan lupa olahraga jangan sampai
+215	lemak lemaknya lemak hewani gitu loh dan jangan lupa olahraga jangan sampai
+216	lemak lemaknya lemak hewani gitu loh dan jangan lupa olahraga jangan sampai
+217	lemak lemaknya lemak hewani gitu loh dan jangan lupa olahraga jangan sampai anda semua kena penyakit jantung kenapa itu kebuka terlambat
+218	lemak lemaknya lemak hewani gitu loh dan jangan lupa olahraga jangan sampai anda semua kena penyakit jantung kenapa itu kebuka terlambat
+219	anda semua kena penyakit jantung kenapa itu kebuka terlambat
+220	anda semua kena penyakit jantung kenapa itu kebuka terlambat
+221	anda semua kena penyakit jantung kenapa itu kebuka terlambat
+222	anda semua kena penyakit jantung kenapa itu kebuka terlambat
+223	anda semua kena penyakit jantung kenapa itu kebuka terlambat
+224	anda semua kena penyakit jantung kenapa itu kebuka terlambat
+225	anda semua kena penyakit jantung kenapa itu kebuka terlambat
+226	anda semua kena penyakit jantung kenapa itu kebuka terlambat
+227	[NO_SPEECH]
+228	[NO_SPEECH]

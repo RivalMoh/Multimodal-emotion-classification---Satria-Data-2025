@@ -1,0 +1,119 @@
+0	Ini juga salah satu perdebatan yang paling sering.
+1	Ini juga salah satu perdebatan yang paling sering.
+2	Ini juga salah satu perdebatan yang paling sering.
+3	Ini juga salah satu perdebatan yang paling sering. Apakah konsumsi protein sebelum atau sesudah olahraga
+4	Ini juga salah satu perdebatan yang paling sering. Apakah konsumsi protein sebelum atau sesudah olahraga
+5	Apakah konsumsi protein sebelum atau sesudah olahraga
+6	Apakah konsumsi protein sebelum atau sesudah olahraga
+7	Apakah konsumsi protein sebelum atau sesudah olahraga
+8	Apakah konsumsi protein sebelum atau sesudah olahraga
+9	Apakah konsumsi protein sebelum atau sesudah olahraga
+10	Apakah konsumsi protein sebelum atau sesudah olahraga
+11	Apakah konsumsi protein sebelum atau sesudah olahraga itu mempengaruhi performance dan mempengaruhi komposisi badan, terutama masa otot?
+12	Apakah konsumsi protein sebelum atau sesudah olahraga itu mempengaruhi performance dan mempengaruhi komposisi badan, terutama masa otot?
+13	itu mempengaruhi performance dan mempengaruhi komposisi badan, terutama masa otot?
+14	itu mempengaruhi performance dan mempengaruhi komposisi badan, terutama masa otot?
+15	itu mempengaruhi performance dan mempengaruhi komposisi badan, terutama masa otot?
+16	itu mempengaruhi performance dan mempengaruhi komposisi badan, terutama masa otot?
+17	itu mempengaruhi performance dan mempengaruhi komposisi badan, terutama masa otot?
+18	itu mempengaruhi performance dan mempengaruhi komposisi badan, terutama masa otot?
+19	itu mempengaruhi performance dan mempengaruhi komposisi badan, terutama masa otot?
+20	itu mempengaruhi performance dan mempengaruhi komposisi badan, terutama masa otot?
+21	itu mempengaruhi performance dan mempengaruhi komposisi badan, terutama masa otot?
+22	itu mempengaruhi performance dan mempengaruhi komposisi badan, terutama masa otot? Ini ada satu systematic review, meta-analysis terbaru yang melihat itu.
+23	Ini ada satu systematic review, meta-analysis terbaru yang melihat itu.
+24	Ini ada satu systematic review, meta-analysis terbaru yang melihat itu.
+25	Ini ada satu systematic review, meta-analysis terbaru yang melihat itu.
+26	Ini ada satu systematic review, meta-analysis terbaru yang melihat itu.
+27	Ini ada satu systematic review, meta-analysis terbaru yang melihat itu.
+28	Ini ada satu systematic review, meta-analysis terbaru yang melihat itu.
+29	Ini ada satu systematic review, meta-analysis terbaru yang melihat itu.
+30	Ini ada satu systematic review, meta-analysis terbaru yang melihat itu.
+31	Ini ada satu systematic review, meta-analysis terbaru yang melihat itu. Apa yang mereka temuin?
+32	Ini ada satu systematic review, meta-analysis terbaru yang melihat itu. Apa yang mereka temuin?
+33	Apa yang mereka temuin?
+34	Apa yang mereka temuin? Sepertinya tidak ada pengaruh yang signifikan apakah konsumsi protein itu sebelum ataupun sesudah olahraga.
+35	Sepertinya tidak ada pengaruh yang signifikan apakah konsumsi protein itu sebelum ataupun sesudah olahraga.
+36	Sepertinya tidak ada pengaruh yang signifikan apakah konsumsi protein itu sebelum ataupun sesudah olahraga.
+37	Sepertinya tidak ada pengaruh yang signifikan apakah konsumsi protein itu sebelum ataupun sesudah olahraga.
+38	Sepertinya tidak ada pengaruh yang signifikan apakah konsumsi protein itu sebelum ataupun sesudah olahraga.
+39	Sepertinya tidak ada pengaruh yang signifikan apakah konsumsi protein itu sebelum ataupun sesudah olahraga.
+40	Sepertinya tidak ada pengaruh yang signifikan apakah konsumsi protein itu sebelum ataupun sesudah olahraga.
+41	Sepertinya tidak ada pengaruh yang signifikan apakah konsumsi protein itu sebelum ataupun sesudah olahraga.
+42	Sepertinya tidak ada pengaruh yang signifikan apakah konsumsi protein itu sebelum ataupun sesudah olahraga.
+43	Sepertinya tidak ada pengaruh yang signifikan apakah konsumsi protein itu sebelum ataupun sesudah olahraga.
+44	Sepertinya tidak ada pengaruh yang signifikan apakah konsumsi protein itu sebelum ataupun sesudah olahraga.
+45	Sepertinya tidak ada pengaruh yang signifikan apakah konsumsi protein itu sebelum ataupun sesudah olahraga.
+46	Sepertinya tidak ada pengaruh yang signifikan apakah konsumsi protein itu sebelum ataupun sesudah olahraga.
+47	Baik dari sisi performance maupun dari sisi komposisi otot.
+48	Baik dari sisi performance maupun dari sisi komposisi otot.
+49	Baik dari sisi performance maupun dari sisi komposisi otot.
+50	Baik dari sisi performance maupun dari sisi komposisi otot.
+51	Baik dari sisi performance maupun dari sisi komposisi otot.
+52	Baik dari sisi performance maupun dari sisi komposisi otot.
+53	Baik dari sisi performance maupun dari sisi komposisi otot.
+54	Baik dari sisi performance maupun dari sisi komposisi otot. Tapi mereka ketemu ada efek kecil kalau saya lihat kita konsumsi protein sebelum olahraga,
+55	Baik dari sisi performance maupun dari sisi komposisi otot. Tapi mereka ketemu ada efek kecil kalau saya lihat kita konsumsi protein sebelum olahraga,
+56	Tapi mereka ketemu ada efek kecil kalau saya lihat kita konsumsi protein sebelum olahraga,
+57	Tapi mereka ketemu ada efek kecil kalau saya lihat kita konsumsi protein sebelum olahraga,
+58	Tapi mereka ketemu ada efek kecil kalau saya lihat kita konsumsi protein sebelum olahraga,
+59	Tapi mereka ketemu ada efek kecil kalau saya lihat kita konsumsi protein sebelum olahraga,
+60	Tapi mereka ketemu ada efek kecil kalau saya lihat kita konsumsi protein sebelum olahraga,
+61	Tapi mereka ketemu ada efek kecil kalau saya lihat kita konsumsi protein sebelum olahraga,
+62	Tapi mereka ketemu ada efek kecil kalau saya lihat kita konsumsi protein sebelum olahraga,
+63	Tapi mereka ketemu ada efek kecil kalau saya lihat kita konsumsi protein sebelum olahraga,
+64	Tapi mereka ketemu ada efek kecil kalau saya lihat kita konsumsi protein sebelum olahraga,
+65	Tapi mereka ketemu ada efek kecil kalau saya lihat kita konsumsi protein sebelum olahraga, kita naikin sedikit kemampuan kaki.
+66	Tapi mereka ketemu ada efek kecil kalau saya lihat kita konsumsi protein sebelum olahraga, kita naikin sedikit kemampuan kaki.
+67	kita naikin sedikit kemampuan kaki.
+68	kita naikin sedikit kemampuan kaki.
+69	kita naikin sedikit kemampuan kaki.
+70	kita naikin sedikit kemampuan kaki.
+71	kita naikin sedikit kemampuan kaki.
+72	kita naikin sedikit kemampuan kaki.
+73	[NO_SPEECH]
+74	Tapi to be honest, kalau gue ngelihat studi-studi yang lain ya,
+75	Tapi to be honest, kalau gue ngelihat studi-studi yang lain ya,
+76	Tapi to be honest, kalau gue ngelihat studi-studi yang lain ya,
+77	Tapi to be honest, kalau gue ngelihat studi-studi yang lain ya,
+78	Tapi to be honest, kalau gue ngelihat studi-studi yang lain ya,
+79	Tapi to be honest, kalau gue ngelihat studi-studi yang lain ya,
+80	Tapi to be honest, kalau gue ngelihat studi-studi yang lain ya, yang penting kalau menurut gue adalah asupan protein sepanjang hari itu ada.
+81	yang penting kalau menurut gue adalah asupan protein sepanjang hari itu ada.
+82	yang penting kalau menurut gue adalah asupan protein sepanjang hari itu ada.
+83	yang penting kalau menurut gue adalah asupan protein sepanjang hari itu ada.
+84	yang penting kalau menurut gue adalah asupan protein sepanjang hari itu ada.
+85	yang penting kalau menurut gue adalah asupan protein sepanjang hari itu ada.
+86	yang penting kalau menurut gue adalah asupan protein sepanjang hari itu ada.
+87	yang penting kalau menurut gue adalah asupan protein sepanjang hari itu ada.
+88	yang penting kalau menurut gue adalah asupan protein sepanjang hari itu ada.
+89	yang penting kalau menurut gue adalah asupan protein sepanjang hari itu ada.
+90	yang penting kalau menurut gue adalah asupan protein sepanjang hari itu ada. Amino acid pool, artinya kolam asam amino, terutama asam amino esensial,
+91	Amino acid pool, artinya kolam asam amino, terutama asam amino esensial,
+92	Amino acid pool, artinya kolam asam amino, terutama asam amino esensial,
+93	Amino acid pool, artinya kolam asam amino, terutama asam amino esensial,
+94	Amino acid pool, artinya kolam asam amino, terutama asam amino esensial,
+95	Amino acid pool, artinya kolam asam amino, terutama asam amino esensial,
+96	Amino acid pool, artinya kolam asam amino, terutama asam amino esensial,
+97	Amino acid pool, artinya kolam asam amino, terutama asam amino esensial,
+98	Amino acid pool, artinya kolam asam amino, terutama asam amino esensial,
+99	Amino acid pool, artinya kolam asam amino, terutama asam amino esensial, di dalam badan kita itu secara keseharian terpenuhi
+100	Amino acid pool, artinya kolam asam amino, terutama asam amino esensial, di dalam badan kita itu secara keseharian terpenuhi
+101	di dalam badan kita itu secara keseharian terpenuhi
+102	di dalam badan kita itu secara keseharian terpenuhi
+103	di dalam badan kita itu secara keseharian terpenuhi
+104	di dalam badan kita itu secara keseharian terpenuhi
+105	di dalam badan kita itu secara keseharian terpenuhi untuk membentuk otot, untuk memperbaiki jaringan,
+106	di dalam badan kita itu secara keseharian terpenuhi untuk membentuk otot, untuk memperbaiki jaringan,
+107	untuk membentuk otot, untuk memperbaiki jaringan,
+108	untuk membentuk otot, untuk memperbaiki jaringan,
+109	untuk membentuk otot, untuk memperbaiki jaringan,
+110	untuk membentuk otot, untuk memperbaiki jaringan,
+111	untuk membentuk otot, untuk memperbaiki jaringan, dan untuk menunjang.
+112	untuk membentuk otot, untuk memperbaiki jaringan, dan untuk menunjang.
+113	dan untuk menunjang.
+114	dan untuk menunjang. Performance.
+115	Performance.
+116	Performance.
+117	[NO_SPEECH]
+118	[NO_SPEECH]

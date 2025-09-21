@@ -1,0 +1,132 @@
+0	Saya tidak akan mundur menghadapi koruptor.
+1	Saya tidak akan mundur menghadapi koruptor.
+2	Saya tidak akan mundur menghadapi koruptor.
+3	Saya tidak akan mundur menghadapi koruptor.
+4	Saya tidak akan mundur menghadapi koruptor.
+5	Saya tidak akan mundur menghadapi koruptor.
+6	Saya tidak akan mundur menghadapi koruptor.
+7	Saya tidak akan mundur menghadapi koruptor. Saya tidak akan mundur menghadapi koruptor.
+8	Saya tidak akan mundur menghadapi koruptor. Saya tidak akan mundur menghadapi koruptor.
+9	Saya tidak akan mundur menghadapi koruptor.
+10	Saya tidak akan mundur menghadapi koruptor.
+11	Saya tidak akan mundur menghadapi koruptor.
+12	Saya tidak akan mundur menghadapi koruptor.
+13	Saya tidak akan mundur menghadapi koruptor.
+14	Saya tidak akan mundur menghadapi koruptor.
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	Mereka harus mengerti, saya ini siap mati untuk bangsa dan rakyat ini.
+18	Mereka harus mengerti, saya ini siap mati untuk bangsa dan rakyat ini.
+19	Mereka harus mengerti, saya ini siap mati untuk bangsa dan rakyat ini.
+20	Mereka harus mengerti, saya ini siap mati untuk bangsa dan rakyat ini.
+21	Mereka harus mengerti, saya ini siap mati untuk bangsa dan rakyat ini.
+22	Mereka harus mengerti, saya ini siap mati untuk bangsa dan rakyat ini.
+23	Mereka harus mengerti, saya ini siap mati untuk bangsa dan rakyat ini.
+24	Mereka harus mengerti, saya ini siap mati untuk bangsa dan rakyat ini.
+25	Mereka harus mengerti, saya ini siap mati untuk bangsa dan rakyat ini.
+26	Mereka harus mengerti, saya ini siap mati untuk bangsa dan rakyat ini.
+27	Mereka harus mengerti, saya ini siap mati untuk bangsa dan rakyat ini.
+28	Mereka harus mengerti, saya ini siap mati untuk bangsa dan rakyat ini.
+29	Mereka harus mengerti, saya ini siap mati untuk bangsa dan rakyat ini.
+30	Mafia manapun saya tidak takut.
+31	Mafia manapun saya tidak takut.
+32	Mafia manapun saya tidak takut.
+33	Mafia manapun saya tidak takut.
+34	Mafia manapun saya tidak takut.
+35	Saudara-saudara, koruptor-koruptor itulah yang buat guru-guru susah,
+36	Saudara-saudara, koruptor-koruptor itulah yang buat guru-guru susah,
+37	Saudara-saudara, koruptor-koruptor itulah yang buat guru-guru susah,
+38	Saudara-saudara, koruptor-koruptor itulah yang buat guru-guru susah,
+39	Saudara-saudara, koruptor-koruptor itulah yang buat guru-guru susah,
+40	Saudara-saudara, koruptor-koruptor itulah yang buat guru-guru susah,
+41	Saudara-saudara, koruptor-koruptor itulah yang buat guru-guru susah,
+42	Saudara-saudara, koruptor-koruptor itulah yang buat guru-guru susah,
+43	Saudara-saudara, koruptor-koruptor itulah yang buat guru-guru susah,
+44	Saudara-saudara, koruptor-koruptor itulah yang buat guru-guru susah, dokter-dokter susah, perawat-perawat susah, petani susah.
+45	Saudara-saudara, koruptor-koruptor itulah yang buat guru-guru susah, dokter-dokter susah, perawat-perawat susah, petani susah.
+46	Saudara-saudara, koruptor-koruptor itulah yang buat guru-guru susah, dokter-dokter susah, perawat-perawat susah, petani susah.
+47	dokter-dokter susah, perawat-perawat susah, petani susah.
+48	dokter-dokter susah, perawat-perawat susah, petani susah.
+49	dokter-dokter susah, perawat-perawat susah, petani susah.
+50	dokter-dokter susah, perawat-perawat susah, petani susah.
+51	dokter-dokter susah, perawat-perawat susah, petani susah.
+52	dokter-dokter susah, perawat-perawat susah, petani susah.
+53	dokter-dokter susah, perawat-perawat susah, petani susah.
+54	dokter-dokter susah, perawat-perawat susah, petani susah.
+55	dokter-dokter susah, perawat-perawat susah, petani susah.
+56	dokter-dokter susah, perawat-perawat susah, petani susah.
+57	dokter-dokter susah, perawat-perawat susah, petani susah.
+58	dokter-dokter susah, perawat-perawat susah, petani susah.
+59	dokter-dokter susah, perawat-perawat susah, petani susah. Karena itu terima kasih dukungan saudara-saudara.
+60	Karena itu terima kasih dukungan saudara-saudara.
+61	Karena itu terima kasih dukungan saudara-saudara.
+62	Karena itu terima kasih dukungan saudara-saudara.
+63	Karena itu terima kasih dukungan saudara-saudara.
+64	Karena itu terima kasih dukungan saudara-saudara.
+65	Karena itu terima kasih dukungan saudara-saudara.
+66	Karena itu terima kasih dukungan saudara-saudara. Kita bersama akan menghadapi maling-maling itu.
+67	Kita bersama akan menghadapi maling-maling itu.
+68	Kita bersama akan menghadapi maling-maling itu.
+69	Kita bersama akan menghadapi maling-maling itu.
+70	Kita bersama akan menghadapi maling-maling itu.
+71	Kita bersama akan menghadapi maling-maling itu.
+72	Kita bersama akan menghadapi maling-maling itu.
+73	Kita bersama akan menghadapi maling-maling itu.
+74	Dan kita akan mengusir mereka dari bumi Indonesia kalau perlu.
+75	Dan kita akan mengusir mereka dari bumi Indonesia kalau perlu.
+76	Dan kita akan mengusir mereka dari bumi Indonesia kalau perlu.
+77	Dan kita akan mengusir mereka dari bumi Indonesia kalau perlu.
+78	Dan kita akan mengusir mereka dari bumi Indonesia kalau perlu.
+79	Dan kita akan mengusir mereka dari bumi Indonesia kalau perlu.
+80	Dan kita akan mengusir mereka dari bumi Indonesia kalau perlu.
+81	Dan kita akan mengusir mereka dari bumi Indonesia kalau perlu.
+82	Dan kita akan mengusir mereka dari bumi Indonesia kalau perlu.
+83	Dan kita akan mengusir mereka dari bumi Indonesia kalau perlu.
+84	Dan kita akan mengusir mereka dari bumi Indonesia kalau perlu.
+85	Dan kita akan mengusir mereka dari bumi Indonesia kalau perlu.
+86	Dan kita akan mengusir mereka dari bumi Indonesia kalau perlu.
+87	Dan kita akan mengusir mereka dari bumi Indonesia kalau perlu. Saya nanti juga akan sisikan dana, saya akan bikin penjara
+88	Saya nanti juga akan sisikan dana, saya akan bikin penjara
+89	Saya nanti juga akan sisikan dana, saya akan bikin penjara
+90	Saya nanti juga akan sisikan dana, saya akan bikin penjara
+91	Saya nanti juga akan sisikan dana, saya akan bikin penjara
+92	Saya nanti juga akan sisikan dana, saya akan bikin penjara
+93	Saya nanti juga akan sisikan dana, saya akan bikin penjara
+94	Saya nanti juga akan sisikan dana, saya akan bikin penjara yang sangat, pokoknya sangat kokoh.
+95	Saya nanti juga akan sisikan dana, saya akan bikin penjara yang sangat, pokoknya sangat kokoh.
+96	yang sangat, pokoknya sangat kokoh.
+97	yang sangat, pokoknya sangat kokoh.
+98	yang sangat, pokoknya sangat kokoh.
+99	yang sangat, pokoknya sangat kokoh.
+100	yang sangat, pokoknya sangat kokoh.
+101	yang sangat, pokoknya sangat kokoh.
+102	yang sangat, pokoknya sangat kokoh.
+103	yang sangat, pokoknya sangat kokoh.
+104	yang sangat, pokoknya sangat kokoh. Di suatu tempat yang terpencil mereka tidak bisa keluar malam hari.
+105	Di suatu tempat yang terpencil mereka tidak bisa keluar malam hari.
+106	Di suatu tempat yang terpencil mereka tidak bisa keluar malam hari.
+107	Di suatu tempat yang terpencil mereka tidak bisa keluar malam hari.
+108	Di suatu tempat yang terpencil mereka tidak bisa keluar malam hari.
+109	Di suatu tempat yang terpencil mereka tidak bisa keluar malam hari.
+110	Di suatu tempat yang terpencil mereka tidak bisa keluar malam hari.
+111	Di suatu tempat yang terpencil mereka tidak bisa keluar malam hari.
+112	Di suatu tempat yang terpencil mereka tidak bisa keluar malam hari.
+113	Di suatu tempat yang terpencil mereka tidak bisa keluar malam hari.
+114	[NO_SPEECH]
+115	Kita akan cari pulau.
+116	Kita akan cari pulau.
+117	Kita akan cari pulau.
+118	Kita akan cari pulau.
+119	Kita akan cari pulau.
+120	Kita akan cari pulau.
+121	[NO_SPEECH]
+122	[NO_SPEECH]
+123	Kalau mereka mau keluar, biar ketemu sama Hugh.
+124	Kalau mereka mau keluar, biar ketemu sama Hugh.
+125	Kalau mereka mau keluar, biar ketemu sama Hugh.
+126	Kalau mereka mau keluar, biar ketemu sama Hugh.
+127	Kalau mereka mau keluar, biar ketemu sama Hugh.
+128	Kalau mereka mau keluar, biar ketemu sama Hugh.
+129	[NO_SPEECH]
+130	[NO_SPEECH]
+131	[NO_SPEECH]

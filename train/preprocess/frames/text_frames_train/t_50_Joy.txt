@@ -1,0 +1,229 @@
+0	Apabila Anda berada di Gies 2025, mampir ke booth-boothnya J.K.
+1	Apabila Anda berada di Gies 2025, mampir ke booth-boothnya J.K.
+2	Apabila Anda berada di Gies 2025, mampir ke booth-boothnya J.K.
+3	Apabila Anda berada di Gies 2025, mampir ke booth-boothnya J.K.
+4	Apabila Anda berada di Gies 2025, mampir ke booth-boothnya J.K.
+5	Apabila Anda berada di Gies 2025, mampir ke booth-boothnya J.K.
+6	Apabila Anda berada di Gies 2025, mampir ke booth-boothnya J.K.
+7	Apabila Anda berada di Gies 2025, mampir ke booth-boothnya J.K.
+8	Apabila Anda berada di Gies 2025, mampir ke booth-boothnya J.K.
+9	Apabila Anda berada di Gies 2025, mampir ke booth-boothnya J.K.
+10	Apabila Anda berada di Gies 2025, mampir ke booth-boothnya J.K. Ada solusi untuk melindungi mobil Anda.
+11	Apabila Anda berada di Gies 2025, mampir ke booth-boothnya J.K. Ada solusi untuk melindungi mobil Anda.
+12	Ada solusi untuk melindungi mobil Anda.
+13	Ada solusi untuk melindungi mobil Anda.
+14	Ada solusi untuk melindungi mobil Anda.
+15	Ada solusi untuk melindungi mobil Anda.
+16	Ada solusi untuk melindungi mobil Anda.
+17	Ada solusi untuk melindungi mobil Anda. Lihat ini, panas sekali lampunya.
+18	Ada solusi untuk melindungi mobil Anda. Lihat ini, panas sekali lampunya.
+19	Lihat ini, panas sekali lampunya.
+20	Lihat ini, panas sekali lampunya.
+21	Lihat ini, panas sekali lampunya.
+22	Lihat ini, panas sekali lampunya.
+23	Lihat ini, panas sekali lampunya.
+24	Lihat ini, panas sekali lampunya. Nah, bayangkan ini adalah matahari, tanpa kaca film, panas sekali.
+25	Nah, bayangkan ini adalah matahari, tanpa kaca film, panas sekali.
+26	Nah, bayangkan ini adalah matahari, tanpa kaca film, panas sekali.
+27	Nah, bayangkan ini adalah matahari, tanpa kaca film, panas sekali.
+28	Nah, bayangkan ini adalah matahari, tanpa kaca film, panas sekali.
+29	Nah, bayangkan ini adalah matahari, tanpa kaca film, panas sekali.
+30	Nah, bayangkan ini adalah matahari, tanpa kaca film, panas sekali.
+31	Nah, bayangkan ini adalah matahari, tanpa kaca film, panas sekali. Nah, dengan kaca film lumar, ini black metallic, wow, sama sekali tidak merasakan panasnya.
+32	Nah, bayangkan ini adalah matahari, tanpa kaca film, panas sekali. Nah, dengan kaca film lumar, ini black metallic, wow, sama sekali tidak merasakan panasnya.
+33	Nah, dengan kaca film lumar, ini black metallic, wow, sama sekali tidak merasakan panasnya.
+34	Nah, dengan kaca film lumar, ini black metallic, wow, sama sekali tidak merasakan panasnya.
+35	Nah, dengan kaca film lumar, ini black metallic, wow, sama sekali tidak merasakan panasnya.
+36	Nah, dengan kaca film lumar, ini black metallic, wow, sama sekali tidak merasakan panasnya.
+37	Nah, dengan kaca film lumar, ini black metallic, wow, sama sekali tidak merasakan panasnya.
+38	Nah, dengan kaca film lumar, ini black metallic, wow, sama sekali tidak merasakan panasnya.
+39	Nah, dengan kaca film lumar, ini black metallic, wow, sama sekali tidak merasakan panasnya.
+40	Nah, dengan kaca film lumar, ini black metallic, wow, sama sekali tidak merasakan panasnya.
+41	Nah, dengan kaca film lumar, ini black metallic, wow, sama sekali tidak merasakan panasnya.
+42	Nah, dengan kaca film lumar, ini black metallic, wow, sama sekali tidak merasakan panasnya.
+43	Nah, dengan kaca film lumar, ini black metallic, wow, sama sekali tidak merasakan panasnya.
+44	Nah, dengan kaca film lumar, ini black metallic, wow, sama sekali tidak merasakan panasnya.
+45	Nah, dengan kaca film lumar, ini black metallic, wow, sama sekali tidak merasakan panasnya. Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+46	Nah, dengan kaca film lumar, ini black metallic, wow, sama sekali tidak merasakan panasnya. Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+47	Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+48	Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+49	Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+50	Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+51	Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+52	Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+53	Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+54	Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+55	Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+56	Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+57	Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+58	Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+59	Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+60	Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+61	Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+62	Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+63	Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+64	Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+65	Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini.
+66	Nah, ini pilihan kita, selera kita, mau segelap apa, mau gayanya hitam pekat, mau gayanya agak terlihat bening seperti ini, bisa ada semua di sini. Kalau yang tadi untuk melindungi panas di dalam kabin, kalau ini untuk melindungi cat bodi mobil Anda.
+67	Kalau yang tadi untuk melindungi panas di dalam kabin, kalau ini untuk melindungi cat bodi mobil Anda.
+68	Kalau yang tadi untuk melindungi panas di dalam kabin, kalau ini untuk melindungi cat bodi mobil Anda.
+69	Kalau yang tadi untuk melindungi panas di dalam kabin, kalau ini untuk melindungi cat bodi mobil Anda.
+70	Kalau yang tadi untuk melindungi panas di dalam kabin, kalau ini untuk melindungi cat bodi mobil Anda.
+71	Kalau yang tadi untuk melindungi panas di dalam kabin, kalau ini untuk melindungi cat bodi mobil Anda.
+72	Kalau yang tadi untuk melindungi panas di dalam kabin, kalau ini untuk melindungi cat bodi mobil Anda.
+73	Kalau yang tadi untuk melindungi panas di dalam kabin, kalau ini untuk melindungi cat bodi mobil Anda.
+74	Kalau yang tadi untuk melindungi panas di dalam kabin, kalau ini untuk melindungi cat bodi mobil Anda.
+75	Kalau yang tadi untuk melindungi panas di dalam kabin, kalau ini untuk melindungi cat bodi mobil Anda.
+76	Kalau yang tadi untuk melindungi panas di dalam kabin, kalau ini untuk melindungi cat bodi mobil Anda.
+77	Kalau yang tadi untuk melindungi panas di dalam kabin, kalau ini untuk melindungi cat bodi mobil Anda.
+78	Kalau yang tadi untuk melindungi panas di dalam kabin, kalau ini untuk melindungi cat bodi mobil Anda.
+79	Kalau yang tadi untuk melindungi panas di dalam kabin, kalau ini untuk melindungi cat bodi mobil Anda. Ini adalah lumar PPF.
+80	Ini adalah lumar PPF.
+81	Ini adalah lumar PPF.
+82	Ini adalah lumar PPF.
+83	Ini adalah lumar PPF.
+84	Ini adalah lumar PPF. Nah, jadi dengan lumar PPF, cat original mobil kita terjaga.
+85	Ini adalah lumar PPF. Nah, jadi dengan lumar PPF, cat original mobil kita terjaga.
+86	Nah, jadi dengan lumar PPF, cat original mobil kita terjaga.
+87	Nah, jadi dengan lumar PPF, cat original mobil kita terjaga.
+88	Nah, jadi dengan lumar PPF, cat original mobil kita terjaga.
+89	Nah, jadi dengan lumar PPF, cat original mobil kita terjaga.
+90	Nah, jadi dengan lumar PPF, cat original mobil kita terjaga.
+91	Nah, jadi dengan lumar PPF, cat original mobil kita terjaga.
+92	Nah, jadi dengan lumar PPF, cat original mobil kita terjaga.
+93	Nah, jadi dengan lumar PPF, cat original mobil kita terjaga.
+94	Nah, jadi dengan lumar PPF, cat original mobil kita terjaga. Bebas baret, halus, dan apabila terjadi baret halus, dipanasin dikit, dia hilang.
+95	Bebas baret, halus, dan apabila terjadi baret halus, dipanasin dikit, dia hilang.
+96	Bebas baret, halus, dan apabila terjadi baret halus, dipanasin dikit, dia hilang.
+97	Bebas baret, halus, dan apabila terjadi baret halus, dipanasin dikit, dia hilang.
+98	Bebas baret, halus, dan apabila terjadi baret halus, dipanasin dikit, dia hilang.
+99	Bebas baret, halus, dan apabila terjadi baret halus, dipanasin dikit, dia hilang.
+100	Bebas baret, halus, dan apabila terjadi baret halus, dipanasin dikit, dia hilang.
+101	Bebas baret, halus, dan apabila terjadi baret halus, dipanasin dikit, dia hilang.
+102	Bebas baret, halus, dan apabila terjadi baret halus, dipanasin dikit, dia hilang.
+103	Bebas baret, halus, dan apabila terjadi baret halus, dipanasin dikit, dia hilang.
+104	Bebas baret, halus, dan apabila terjadi baret halus, dipanasin dikit, dia hilang.
+105	Bebas baret, halus, dan apabila terjadi baret halus, dipanasin dikit, dia hilang. Self-healing, sayang mobil kan?
+106	Bebas baret, halus, dan apabila terjadi baret halus, dipanasin dikit, dia hilang. Self-healing, sayang mobil kan?
+107	Self-healing, sayang mobil kan?
+108	Self-healing, sayang mobil kan?
+109	Self-healing, sayang mobil kan? Nih, pakai ini.
+110	Self-healing, sayang mobil kan? Nih, pakai ini.
+111	Nih, pakai ini.
+112	Nih, pakai ini. Ada juga kaca film CPF1, nih, banyak sekali pilihan kaca filmnya ya.
+113	Ada juga kaca film CPF1, nih, banyak sekali pilihan kaca filmnya ya.
+114	Ada juga kaca film CPF1, nih, banyak sekali pilihan kaca filmnya ya.
+115	Ada juga kaca film CPF1, nih, banyak sekali pilihan kaca filmnya ya.
+116	Ada juga kaca film CPF1, nih, banyak sekali pilihan kaca filmnya ya.
+117	Ada juga kaca film CPF1, nih, banyak sekali pilihan kaca filmnya ya.
+118	Ada juga kaca film CPF1, nih, banyak sekali pilihan kaca filmnya ya.
+119	Ada juga kaca film CPF1, nih, banyak sekali pilihan kaca filmnya ya.
+120	Ada juga kaca film CPF1, nih, banyak sekali pilihan kaca filmnya ya. Nah, ada yang namanya black security.
+121	Ada juga kaca film CPF1, nih, banyak sekali pilihan kaca filmnya ya. Nah, ada yang namanya black security.
+122	Nah, ada yang namanya black security.
+123	Nah, ada yang namanya black security.
+124	Nah, ada yang namanya black security. Black security itu, kaca filmnya tebal, sehingga melindungi kita apabila terjadi apa-apa dari pecahan kacanya.
+125	Nah, ada yang namanya black security. Black security itu, kaca filmnya tebal, sehingga melindungi kita apabila terjadi apa-apa dari pecahan kacanya.
+126	Black security itu, kaca filmnya tebal, sehingga melindungi kita apabila terjadi apa-apa dari pecahan kacanya.
+127	Black security itu, kaca filmnya tebal, sehingga melindungi kita apabila terjadi apa-apa dari pecahan kacanya.
+128	Black security itu, kaca filmnya tebal, sehingga melindungi kita apabila terjadi apa-apa dari pecahan kacanya.
+129	Black security itu, kaca filmnya tebal, sehingga melindungi kita apabila terjadi apa-apa dari pecahan kacanya.
+130	Black security itu, kaca filmnya tebal, sehingga melindungi kita apabila terjadi apa-apa dari pecahan kacanya.
+131	Black security itu, kaca filmnya tebal, sehingga melindungi kita apabila terjadi apa-apa dari pecahan kacanya.
+132	Black security itu, kaca filmnya tebal, sehingga melindungi kita apabila terjadi apa-apa dari pecahan kacanya.
+133	Black security itu, kaca filmnya tebal, sehingga melindungi kita apabila terjadi apa-apa dari pecahan kacanya.
+134	Black security itu, kaca filmnya tebal, sehingga melindungi kita apabila terjadi apa-apa dari pecahan kacanya.
+135	Black security itu, kaca filmnya tebal, sehingga melindungi kita apabila terjadi apa-apa dari pecahan kacanya.
+136	Black security itu, kaca filmnya tebal, sehingga melindungi kita apabila terjadi apa-apa dari pecahan kacanya.
+137	Black security itu, kaca filmnya tebal, sehingga melindungi kita apabila terjadi apa-apa dari pecahan kacanya.
+138	Ada lagi yang baru nih?
+139	Ada lagi yang baru nih?
+140	Ada lagi yang baru nih?
+141	Ada lagi yang baru nih?
+142	Nah, yang ini kaca film CPF1 Nero X, yang sudah terpasang di Jariari Skapi, yang terpajang di GF 2025.
+143	Nah, yang ini kaca film CPF1 Nero X, yang sudah terpasang di Jariari Skapi, yang terpajang di GF 2025.
+144	Nah, yang ini kaca film CPF1 Nero X, yang sudah terpasang di Jariari Skapi, yang terpajang di GF 2025.
+145	Nah, yang ini kaca film CPF1 Nero X, yang sudah terpasang di Jariari Skapi, yang terpajang di GF 2025.
+146	Nah, yang ini kaca film CPF1 Nero X, yang sudah terpasang di Jariari Skapi, yang terpajang di GF 2025.
+147	Nah, yang ini kaca film CPF1 Nero X, yang sudah terpasang di Jariari Skapi, yang terpajang di GF 2025.
+148	Nah, yang ini kaca film CPF1 Nero X, yang sudah terpasang di Jariari Skapi, yang terpajang di GF 2025.
+149	Nah, yang ini kaca film CPF1 Nero X, yang sudah terpasang di Jariari Skapi, yang terpajang di GF 2025.
+150	Nah, yang ini kaca film CPF1 Nero X, yang sudah terpasang di Jariari Skapi, yang terpajang di GF 2025.
+151	Nah, yang ini kaca film CPF1 Nero X, yang sudah terpasang di Jariari Skapi, yang terpajang di GF 2025.
+152	Nah, yang ini kaca film CPF1 Nero X, yang sudah terpasang di Jariari Skapi, yang terpajang di GF 2025.
+153	Nah, yang ini kaca film CPF1 Nero X, yang sudah terpasang di Jariari Skapi, yang terpajang di GF 2025.
+154	Nah, yang ini kaca film CPF1 Nero X, yang sudah terpasang di Jariari Skapi, yang terpajang di GF 2025.
+155	Nah, yang ini kaca film CPF1 Nero X, yang sudah terpasang di Jariari Skapi, yang terpajang di GF 2025.
+156	Nah, yang ini kaca film CPF1 Nero X, yang sudah terpasang di Jariari Skapi, yang terpajang di GF 2025.
+157	Nah, yang ini kaca film CPF1 Nero X, yang sudah terpasang di Jariari Skapi, yang terpajang di GF 2025. Nih, kaca film ini bagus melindungi panasnya.
+158	Nah, yang ini kaca film CPF1 Nero X, yang sudah terpasang di Jariari Skapi, yang terpajang di GF 2025. Nih, kaca film ini bagus melindungi panasnya.
+159	Nih, kaca film ini bagus melindungi panasnya.
+160	Nih, kaca film ini bagus melindungi panasnya.
+161	Nih, kaca film ini bagus melindungi panasnya.
+162	Nih, kaca film ini bagus melindungi panasnya.
+163	Nih, kaca film ini bagus melindungi panasnya. Ada lagi Duratec PPF.
+164	Nih, kaca film ini bagus melindungi panasnya. Ada lagi Duratec PPF.
+165	Ada lagi Duratec PPF.
+166	Ada lagi Duratec PPF.
+167	Ada lagi Duratec PPF.
+168	Ada lagi Duratec PPF.
+169	Ada lagi Duratec PPF. Lihat nih, ada yang glossy, ada juga yang matte.
+170	Ada lagi Duratec PPF. Lihat nih, ada yang glossy, ada juga yang matte.
+171	Lihat nih, ada yang glossy, ada juga yang matte.
+172	Lihat nih, ada yang glossy, ada juga yang matte.
+173	Lihat nih, ada yang glossy, ada juga yang matte.
+174	Lihat nih, ada yang glossy, ada juga yang matte.
+175	Lihat nih, ada yang glossy, ada juga yang matte.
+176	Lihat nih, ada yang glossy, ada juga yang matte. Dan ini menarik.
+177	Lihat nih, ada yang glossy, ada juga yang matte. Dan ini menarik.
+178	Dan ini menarik. Ini bisa untuk PPF-kan rakyat pedal kita.
+179	Dan ini menarik. Ini bisa untuk PPF-kan rakyat pedal kita.
+180	Ini bisa untuk PPF-kan rakyat pedal kita.
+181	Ini bisa untuk PPF-kan rakyat pedal kita.
+182	Ini bisa untuk PPF-kan rakyat pedal kita.
+183	Ini bisa untuk PPF-kan rakyat pedal kita.
+184	Ini bisa untuk PPF-kan rakyat pedal kita.
+185	Ini bisa untuk PPF-kan rakyat pedal kita.
+186	Ini bisa untuk PPF-kan rakyat pedal kita. Ayo PPF-in rakyat pedalnya biar nggak baret-baret.
+187	Ini bisa untuk PPF-kan rakyat pedal kita. Ayo PPF-in rakyat pedalnya biar nggak baret-baret.
+188	Ayo PPF-in rakyat pedalnya biar nggak baret-baret.
+189	Ayo PPF-in rakyat pedalnya biar nggak baret-baret.
+190	Ayo PPF-in rakyat pedalnya biar nggak baret-baret.
+191	Ayo PPF-in rakyat pedalnya biar nggak baret-baret.
+192	Ayo PPF-in rakyat pedalnya biar nggak baret-baret.
+193	Ayo PPF-in rakyat pedalnya biar nggak baret-baret.
+194	Ayo PPF-in rakyat pedalnya biar nggak baret-baret. Mahal nih sekarang ginian.
+195	Mahal nih sekarang ginian.
+196	Mahal nih sekarang ginian.
+197	Mahal nih sekarang ginian.
+198	Nah, sekarang udah tahu kan gimana caranya melindungi mobil kita.
+199	Nah, sekarang udah tahu kan gimana caranya melindungi mobil kita.
+200	Nah, sekarang udah tahu kan gimana caranya melindungi mobil kita.
+201	Nah, sekarang udah tahu kan gimana caranya melindungi mobil kita.
+202	Nah, sekarang udah tahu kan gimana caranya melindungi mobil kita.
+203	Nah, sekarang udah tahu kan gimana caranya melindungi mobil kita.
+204	Nah, sekarang udah tahu kan gimana caranya melindungi mobil kita.
+205	Nah, sekarang udah tahu kan gimana caranya melindungi mobil kita. Nah, apabila Anda ke GF 2025, mampir ke booth-nya J-Kind.
+206	Nah, sekarang udah tahu kan gimana caranya melindungi mobil kita. Nah, apabila Anda ke GF 2025, mampir ke booth-nya J-Kind.
+207	Nah, apabila Anda ke GF 2025, mampir ke booth-nya J-Kind.
+208	Nah, apabila Anda ke GF 2025, mampir ke booth-nya J-Kind.
+209	Nah, apabila Anda ke GF 2025, mampir ke booth-nya J-Kind.
+210	Nah, apabila Anda ke GF 2025, mampir ke booth-nya J-Kind.
+211	Nah, apabila Anda ke GF 2025, mampir ke booth-nya J-Kind.
+212	Nah, apabila Anda ke GF 2025, mampir ke booth-nya J-Kind.
+213	Nah, apabila Anda ke GF 2025, mampir ke booth-nya J-Kind.
+214	Nah, apabila Anda ke GF 2025, mampir ke booth-nya J-Kind. Ada Lumar, ada CPF1, ada Duratec.
+215	Ada Lumar, ada CPF1, ada Duratec.
+216	Ada Lumar, ada CPF1, ada Duratec.
+217	Ada Lumar, ada CPF1, ada Duratec.
+218	Ada Lumar, ada CPF1, ada Duratec.
+219	Ada Lumar, ada CPF1, ada Duratec.
+220	Ada Lumar, ada CPF1, ada Duratec.
+221	Ada Lumar, ada CPF1, ada Duratec. Komplit.
+222	Ada Lumar, ada CPF1, ada Duratec. Komplit.
+223	Komplit. Ya, sini.
+224	Komplit. Ya, sini. Kita mau mobil.
+225	Ya, sini. Kita mau mobil.
+226	Kita mau mobil.
+227	Kita mau mobil. Mobil.
+228	Mobil.

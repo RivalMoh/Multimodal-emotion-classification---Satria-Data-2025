@@ -1,0 +1,117 @@
+0	Let me tell you
+1	Let me tell you
+2	Let me tell you
+3	Let me tell you
+4	Let me tell you
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	I'm a good girl and you're mad like mine
+59	I'm a good girl and you're mad like mine
+60	I'm a good girl and you're mad like mine
+61	I'm a good girl and you're mad like mine
+62	I'm a good girl and you're mad like mine If you're looking for a family, you got my song
+63	I'm a good girl and you're mad like mine If you're looking for a family, you got my song
+64	If you're looking for a family, you got my song
+65	If you're looking for a family, you got my song
+66	If you're looking for a family, you got my song Girl, it's good, watch the chat
+67	If you're looking for a family, you got my song Girl, it's good, watch the chat
+68	Girl, it's good, watch the chat
+69	Girl, it's good, watch the chat
+70	Girl, it's good, watch the chat If you put your head down, that's fiction
+71	Girl, it's good, watch the chat If you put your head down, that's fiction
+72	If you put your head down, that's fiction
+73	If you put your head down, that's fiction I'm outside, no good try
+74	If you put your head down, that's fiction I'm outside, no good try
+75	I'm outside, no good try
+76	I'm outside, no good try
+77	I'm outside, no good try
+78	I'm outside, no good try You know what I mean, don't forget
+79	I'm outside, no good try You know what I mean, don't forget
+80	You know what I mean, don't forget
+81	You know what I mean, don't forget I took that, took that
+82	You know what I mean, don't forget I took that, took that
+83	I took that, took that
+84	I took that, took that You were ten, baby, go around the line
+85	I took that, took that You were ten, baby, go around the line
+86	You were ten, baby, go around the line
+87	You were ten, baby, go around the line
+88	You were ten, baby, go around the line
+89	You were ten, baby, go around the line I took that, took that
+90	You were ten, baby, go around the line I took that, took that
+91	I took that, took that
+92	I took that, took that You were ten, baby, go around the line
+93	I took that, took that You were ten, baby, go around the line
+94	You were ten, baby, go around the line
+95	You were ten, baby, go around the line
+96	You were ten, baby, go around the line
+97	You were ten, baby, go around the line
+98	You might not think that
+99	You might not think that
+100	You might not think that So I'll give a hoot, but you do say that
+101	You might not think that So I'll give a hoot, but you do say that
+102	So I'll give a hoot, but you do say that
+103	So I'll give a hoot, but you do say that
+104	So I'll give a hoot, but you do say that
+105	So I'll give a hoot, but you do say that No, you were too ten
+106	So I'll give a hoot, but you do say that No, you were too ten
+107	No, you were too ten
+108	No, you were too ten I be shooting that shot like two-foot-three
+109	No, you were too ten I be shooting that shot like two-foot-three
+110	I be shooting that shot like two-foot-three
+111	I be shooting that shot like two-foot-three
+112	I be shooting that shot like two-foot-three I'm not trying to be a
+113	I be shooting that shot like two-foot-three I'm not trying to be a
+114	I'm not trying to be a
+115	I'm not trying to be a
+116	I'm not trying to be a

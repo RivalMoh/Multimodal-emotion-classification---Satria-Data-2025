@@ -1,0 +1,147 @@
+0	Orang nakal cenderung takut sama yang di depan ini.
+1	Orang nakal cenderung takut sama yang di depan ini.
+2	Orang nakal cenderung takut sama yang di depan ini.
+3	Orang nakal cenderung takut sama yang di depan ini.
+4	Orang nakal cenderung takut sama yang di depan ini.
+5	Orang nakal cenderung takut sama yang di depan ini.
+6	Orang nakal cenderung takut sama yang di depan ini.
+7	Orang nakal cenderung takut sama yang di depan ini.
+8	Orang nakal cenderung takut sama yang di depan ini.
+9	Biasanya kalau misalnya di virali masalahnya selesai?
+10	Biasanya kalau misalnya di virali masalahnya selesai?
+11	Biasanya kalau misalnya di virali masalahnya selesai?
+12	Biasanya kalau misalnya di virali masalahnya selesai?
+13	Biasanya kalau misalnya di virali masalahnya selesai? Bagi saya sih iya.
+14	Biasanya kalau misalnya di virali masalahnya selesai? Bagi saya sih iya.
+15	Bagi saya sih iya.
+16	Bagi saya sih iya. Saya dan tim saya, tim-tim Roroni, relawan-relawan ini,
+17	Saya dan tim saya, tim-tim Roroni, relawan-relawan ini,
+18	Saya dan tim saya, tim-tim Roroni, relawan-relawan ini,
+19	Saya dan tim saya, tim-tim Roroni, relawan-relawan ini,
+20	Saya dan tim saya, tim-tim Roroni, relawan-relawan ini,
+21	Saya dan tim saya, tim-tim Roroni, relawan-relawan ini,
+22	Saya dan tim saya, tim-tim Roroni, relawan-relawan ini, banyak yang dipersulit.
+23	Saya dan tim saya, tim-tim Roroni, relawan-relawan ini, banyak yang dipersulit.
+24	banyak yang dipersulit.
+25	banyak yang dipersulit. Titika TESA, pendaftaran BPJS aja,
+26	banyak yang dipersulit. Titika TESA, pendaftaran BPJS aja,
+27	Titika TESA, pendaftaran BPJS aja,
+28	Titika TESA, pendaftaran BPJS aja,
+29	Titika TESA, pendaftaran BPJS aja, mengurus KTP aja dipersulit.
+30	Titika TESA, pendaftaran BPJS aja, mengurus KTP aja dipersulit.
+31	mengurus KTP aja dipersulit.
+32	mengurus KTP aja dipersulit.
+33	mengurus KTP aja dipersulit. Minta duit maksudnya?
+34	mengurus KTP aja dipersulit. Minta duit maksudnya?
+35	Minta duit maksudnya? Oh, sering dipalak.
+36	Minta duit maksudnya? Oh, sering dipalak.
+37	Oh, sering dipalak. Dipalak, dipalak sama desanya.
+38	Oh, sering dipalak. Dipalak, dipalak sama desanya.
+39	Dipalak, dipalak sama desanya.
+40	Dipalak, dipalak sama desanya.
+41	Dipalak, dipalak sama desanya.
+42	Dipalak, dipalak sama desanya. Baik itu kepala desanya langsung,
+43	Baik itu kepala desanya langsung,
+44	Baik itu kepala desanya langsung,
+45	Baik itu kepala desanya langsung,
+46	Baik itu kepala desanya langsung, baik itu pengurus desanya langsung.
+47	baik itu pengurus desanya langsung.
+48	baik itu pengurus desanya langsung.
+49	baik itu pengurus desanya langsung. Sampai sekarang masih ya?
+50	baik itu pengurus desanya langsung. Sampai sekarang masih ya?
+51	Sampai sekarang masih ya? Sampai sekarang kami temukan.
+52	Sampai sekarang masih ya? Sampai sekarang kami temukan.
+53	Sampai sekarang kami temukan. Ada yang terzulimi, kita kontenin.
+54	Sampai sekarang kami temukan. Ada yang terzulimi, kita kontenin.
+55	Ada yang terzulimi, kita kontenin.
+56	Ada yang terzulimi, kita kontenin.
+57	Ada yang terzulimi, kita kontenin.
+58	Ada yang terzulimi, kita kontenin. Cari masalahnya, viralin, masalah selesai.
+59	Ada yang terzulimi, kita kontenin. Cari masalahnya, viralin, masalah selesai.
+60	Cari masalahnya, viralin, masalah selesai.
+61	Cari masalahnya, viralin, masalah selesai.
+62	Cari masalahnya, viralin, masalah selesai.
+63	Cari masalahnya, viralin, masalah selesai. Nggak kooperatif, viralin.
+64	Cari masalahnya, viralin, masalah selesai. Nggak kooperatif, viralin.
+65	Nggak kooperatif, viralin.
+66	Nggak kooperatif, viralin. Beberapa kali kita lapor ke camatnya,
+67	Nggak kooperatif, viralin. Beberapa kali kita lapor ke camatnya,
+68	Beberapa kali kita lapor ke camatnya,
+69	Beberapa kali kita lapor ke camatnya,
+70	Beberapa kali kita lapor ke camatnya, ini anak buah lu malak-malak kayak gini gimana,
+71	Beberapa kali kita lapor ke camatnya, ini anak buah lu malak-malak kayak gini gimana,
+72	ini anak buah lu malak-malak kayak gini gimana,
+73	ini anak buah lu malak-malak kayak gini gimana,
+74	ini anak buah lu malak-malak kayak gini gimana,
+75	ini anak buah lu malak-malak kayak gini gimana, kalau nggak lu beres, bisa lu beresin nggak?
+76	ini anak buah lu malak-malak kayak gini gimana, kalau nggak lu beres, bisa lu beresin nggak?
+77	kalau nggak lu beres, bisa lu beresin nggak?
+78	kalau nggak lu beres, bisa lu beresin nggak?
+79	kalau nggak lu beres, bisa lu beresin nggak? Kalau nggak gue viralin, ini gaya anak muda lah ya.
+80	kalau nggak lu beres, bisa lu beresin nggak? Kalau nggak gue viralin, ini gaya anak muda lah ya.
+81	Kalau nggak gue viralin, ini gaya anak muda lah ya.
+82	Kalau nggak gue viralin, ini gaya anak muda lah ya.
+83	Kalau nggak gue viralin, ini gaya anak muda lah ya.
+84	Kalau nggak gue viralin, ini gaya anak muda lah ya.
+85	Kalau nggak gue viralin, ini gaya anak muda lah ya. Beres, Pak.
+86	Beres, Pak. Datang orangnya, pagi datang, selesai, camatnya beres.
+87	Beres, Pak. Datang orangnya, pagi datang, selesai, camatnya beres.
+88	Datang orangnya, pagi datang, selesai, camatnya beres.
+89	Datang orangnya, pagi datang, selesai, camatnya beres.
+90	Datang orangnya, pagi datang, selesai, camatnya beres.
+91	Datang orangnya, pagi datang, selesai, camatnya beres.
+92	Datang orangnya, pagi datang, selesai, camatnya beres.
+93	Datang orangnya, pagi datang, selesai, camatnya beres. Jadi tiba-tiba KTP-nya langsung lancar.
+94	Datang orangnya, pagi datang, selesai, camatnya beres. Jadi tiba-tiba KTP-nya langsung lancar.
+95	Jadi tiba-tiba KTP-nya langsung lancar.
+96	Jadi tiba-tiba KTP-nya langsung lancar.
+97	Jadi tiba-tiba KTP-nya langsung lancar. Bagi saya sih iya.
+98	Jadi tiba-tiba KTP-nya langsung lancar. Bagi saya sih iya.
+99	Bagi saya sih iya. Simit tiba-tiba lancar.
+100	Bagi saya sih iya. Simit tiba-tiba lancar. Iya, betul.
+101	Simit tiba-tiba lancar. Iya, betul. Karena orang nakal cenderung takut sama yang di depan ini.
+102	Iya, betul. Karena orang nakal cenderung takut sama yang di depan ini.
+103	Karena orang nakal cenderung takut sama yang di depan ini.
+104	Karena orang nakal cenderung takut sama yang di depan ini.
+105	Karena orang nakal cenderung takut sama yang di depan ini.
+106	Karena orang nakal cenderung takut sama yang di depan ini.
+107	Karena orang nakal cenderung takut sama yang di depan ini.
+108	Karena orang nakal cenderung takut sama yang di depan ini.
+109	Karena orang nakal cenderung takut sama yang di depan ini.
+110	Yang nakal-nakal baik itu pengurus desa,
+111	Yang nakal-nakal baik itu pengurus desa,
+112	Yang nakal-nakal baik itu pengurus desa,
+113	Yang nakal-nakal baik itu pengurus desa,
+114	Yang nakal-nakal baik itu pengurus desa,
+115	Yang nakal-nakal baik itu pengurus desa, sampai ke cabut,
+116	Yang nakal-nakal baik itu pengurus desa, sampai ke cabut,
+117	sampai ke cabut, cenderung takut.
+118	sampai ke cabut, cenderung takut. Sama ini.
+119	cenderung takut. Sama ini.
+120	Sama ini. Jadi ya, kalau kita memang partai anak muda,
+121	Jadi ya, kalau kita memang partai anak muda,
+122	Jadi ya, kalau kita memang partai anak muda,
+123	Jadi ya, kalau kita memang partai anak muda,
+124	Jadi ya, kalau kita memang partai anak muda, gunakanlah anak muda.
+125	Jadi ya, kalau kita memang partai anak muda, gunakanlah anak muda.
+126	gunakanlah anak muda.
+127	gunakanlah anak muda. Belajar menjadi aktivis.
+128	Belajar menjadi aktivis.
+129	Belajar menjadi aktivis.
+130	Belajar menjadi aktivis. Belajar membantu masyarakat dengan keberanian dari hati.
+131	Belajar membantu masyarakat dengan keberanian dari hati.
+132	Belajar membantu masyarakat dengan keberanian dari hati.
+133	Belajar membantu masyarakat dengan keberanian dari hati.
+134	Belajar membantu masyarakat dengan keberanian dari hati.
+135	Belajar membantu masyarakat dengan keberanian dari hati.
+136	Belajar membantu masyarakat dengan keberanian dari hati. Dan ini.
+137	Belajar membantu masyarakat dengan keberanian dari hati. Dan ini.
+138	Dan ini.
+139	Dan ini. Semua anak muda kan punya ini.
+140	Semua anak muda kan punya ini.
+141	Semua anak muda kan punya ini.
+142	Semua anak muda kan punya ini.
+143	[NO_SPEECH]
+144	[NO_SPEECH]
+145	[NO_SPEECH]
+146	[NO_SPEECH]

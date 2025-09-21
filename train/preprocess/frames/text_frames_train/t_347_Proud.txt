@@ -1,0 +1,69 @@
+0	Defense lo lemah, siap-siap pasti lawan langsung ngincar lo terus.
+1	Defense lo lemah, siap-siap pasti lawan langsung ngincar lo terus.
+2	Defense lo lemah, siap-siap pasti lawan langsung ngincar lo terus.
+3	Defense lo lemah, siap-siap pasti lawan langsung ngincar lo terus.
+4	Defense lo lemah, siap-siap pasti lawan langsung ngincar lo terus.
+5	Defense lo lemah, siap-siap pasti lawan langsung ngincar lo terus.
+6	Defense lo lemah, siap-siap pasti lawan langsung ngincar lo terus. Jangan sampai lo jadi korban di lapangan ya.
+7	Jangan sampai lo jadi korban di lapangan ya.
+8	Jangan sampai lo jadi korban di lapangan ya.
+9	Jangan sampai lo jadi korban di lapangan ya.
+10	Jangan sampai lo jadi korban di lapangan ya. Defense itu salah satu skill yang penting juga buat pemula.
+11	Jangan sampai lo jadi korban di lapangan ya. Defense itu salah satu skill yang penting juga buat pemula.
+12	Defense itu salah satu skill yang penting juga buat pemula.
+13	Defense itu salah satu skill yang penting juga buat pemula.
+14	Defense itu salah satu skill yang penting juga buat pemula.
+15	Defense itu salah satu skill yang penting juga buat pemula. Gini tip defense biar defense lo makin kuat dan gak diincah terus sama lawan.
+16	Defense itu salah satu skill yang penting juga buat pemula. Gini tip defense biar defense lo makin kuat dan gak diincah terus sama lawan.
+17	Gini tip defense biar defense lo makin kuat dan gak diincah terus sama lawan.
+18	Gini tip defense biar defense lo makin kuat dan gak diincah terus sama lawan.
+19	Gini tip defense biar defense lo makin kuat dan gak diincah terus sama lawan.
+20	Gini tip defense biar defense lo makin kuat dan gak diincah terus sama lawan.
+21	Gini tip defense biar defense lo makin kuat dan gak diincah terus sama lawan.
+22	Gini tip defense biar defense lo makin kuat dan gak diincah terus sama lawan. Pertama, posisi racket harus selalu di depan badan kita dan kasih sedikit jarak.
+23	Gini tip defense biar defense lo makin kuat dan gak diincah terus sama lawan. Pertama, posisi racket harus selalu di depan badan kita dan kasih sedikit jarak.
+24	Pertama, posisi racket harus selalu di depan badan kita dan kasih sedikit jarak.
+25	Pertama, posisi racket harus selalu di depan badan kita dan kasih sedikit jarak.
+26	Pertama, posisi racket harus selalu di depan badan kita dan kasih sedikit jarak.
+27	Pertama, posisi racket harus selalu di depan badan kita dan kasih sedikit jarak.
+28	Pertama, posisi racket harus selalu di depan badan kita dan kasih sedikit jarak.
+29	Pertama, posisi racket harus selalu di depan badan kita dan kasih sedikit jarak. Jadi kita bisa kasih refleks yang bagus walaupun smash lawan kenceng.
+30	Pertama, posisi racket harus selalu di depan badan kita dan kasih sedikit jarak. Jadi kita bisa kasih refleks yang bagus walaupun smash lawan kenceng.
+31	Jadi kita bisa kasih refleks yang bagus walaupun smash lawan kenceng.
+32	Jadi kita bisa kasih refleks yang bagus walaupun smash lawan kenceng.
+33	Jadi kita bisa kasih refleks yang bagus walaupun smash lawan kenceng.
+34	Jadi kita bisa kasih refleks yang bagus walaupun smash lawan kenceng.
+35	Jadi kita bisa kasih refleks yang bagus walaupun smash lawan kenceng.
+36	Jadi kita bisa kasih refleks yang bagus walaupun smash lawan kenceng. Posisi kaki agak dibuka ya, dan kasih sedikit kuda-kuda biar badan kita stabil dan gak kaget sama smash lawan.
+37	Jadi kita bisa kasih refleks yang bagus walaupun smash lawan kenceng. Posisi kaki agak dibuka ya, dan kasih sedikit kuda-kuda biar badan kita stabil dan gak kaget sama smash lawan.
+38	Posisi kaki agak dibuka ya, dan kasih sedikit kuda-kuda biar badan kita stabil dan gak kaget sama smash lawan.
+39	Posisi kaki agak dibuka ya, dan kasih sedikit kuda-kuda biar badan kita stabil dan gak kaget sama smash lawan.
+40	Posisi kaki agak dibuka ya, dan kasih sedikit kuda-kuda biar badan kita stabil dan gak kaget sama smash lawan.
+41	Posisi kaki agak dibuka ya, dan kasih sedikit kuda-kuda biar badan kita stabil dan gak kaget sama smash lawan.
+42	Posisi kaki agak dibuka ya, dan kasih sedikit kuda-kuda biar badan kita stabil dan gak kaget sama smash lawan.
+43	Posisi kaki agak dibuka ya, dan kasih sedikit kuda-kuda biar badan kita stabil dan gak kaget sama smash lawan.
+44	Posisi kaki agak dibuka ya, dan kasih sedikit kuda-kuda biar badan kita stabil dan gak kaget sama smash lawan.
+45	Posisi kaki agak dibuka ya, dan kasih sedikit kuda-kuda biar badan kita stabil dan gak kaget sama smash lawan.
+46	Posisi kaki agak dibuka ya, dan kasih sedikit kuda-kuda biar badan kita stabil dan gak kaget sama smash lawan.
+47	Posisi kaki agak dibuka ya, dan kasih sedikit kuda-kuda biar badan kita stabil dan gak kaget sama smash lawan. Nah, kalau bola berada sejajar sama kepala kita, kita lepas aja udah pasti smashnya out.
+48	Posisi kaki agak dibuka ya, dan kasih sedikit kuda-kuda biar badan kita stabil dan gak kaget sama smash lawan. Nah, kalau bola berada sejajar sama kepala kita, kita lepas aja udah pasti smashnya out.
+49	Nah, kalau bola berada sejajar sama kepala kita, kita lepas aja udah pasti smashnya out.
+50	Nah, kalau bola berada sejajar sama kepala kita, kita lepas aja udah pasti smashnya out.
+51	Nah, kalau bola berada sejajar sama kepala kita, kita lepas aja udah pasti smashnya out.
+52	Nah, kalau bola berada sejajar sama kepala kita, kita lepas aja udah pasti smashnya out.
+53	Nah, kalau bola berada sejajar sama kepala kita, kita lepas aja udah pasti smashnya out.
+54	Nah, kalau bola berada sejajar sama kepala kita, kita lepas aja udah pasti smashnya out.
+55	Nah, kalau bola berada sejajar sama kepala kita, kita lepas aja udah pasti smashnya out. Jadi jangan takut dan harus tetap tenang ya.
+56	Nah, kalau bola berada sejajar sama kepala kita, kita lepas aja udah pasti smashnya out. Jadi jangan takut dan harus tetap tenang ya.
+57	Jadi jangan takut dan harus tetap tenang ya.
+58	Jadi jangan takut dan harus tetap tenang ya.
+59	Jadi jangan takut dan harus tetap tenang ya.
+60	Jadi jangan takut dan harus tetap tenang ya. Gimana? Udah siap cobain di lapangan? Jangan lupa follow ya.
+61	Jadi jangan takut dan harus tetap tenang ya. Gimana? Udah siap cobain di lapangan? Jangan lupa follow ya.
+62	Gimana? Udah siap cobain di lapangan? Jangan lupa follow ya.
+63	Gimana? Udah siap cobain di lapangan? Jangan lupa follow ya.
+64	Gimana? Udah siap cobain di lapangan? Jangan lupa follow ya.
+65	Gimana? Udah siap cobain di lapangan? Jangan lupa follow ya.
+66	Gimana? Udah siap cobain di lapangan? Jangan lupa follow ya.
+67	[NO_SPEECH]
+68	[NO_SPEECH]

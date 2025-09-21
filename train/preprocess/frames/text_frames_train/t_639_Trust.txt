@@ -1,0 +1,153 @@
+0	semua masyarakat Indonesia yang namanya
+1	semua masyarakat Indonesia yang namanya
+2	semua masyarakat Indonesia yang namanya
+3	semua masyarakat Indonesia yang namanya cotton bud itu, kagak boleh
+4	semua masyarakat Indonesia yang namanya cotton bud itu, kagak boleh
+5	cotton bud itu, kagak boleh
+6	cotton bud itu, kagak boleh lu pake masukin sampe ke dalam kuping
+7	cotton bud itu, kagak boleh lu pake masukin sampe ke dalam kuping
+8	lu pake masukin sampe ke dalam kuping
+9	lu pake masukin sampe ke dalam kuping
+10	lu pake masukin sampe ke dalam kuping cotton bud itu cuma boleh dipake di dua tempat
+11	lu pake masukin sampe ke dalam kuping cotton bud itu cuma boleh dipake di dua tempat
+12	lu pake masukin sampe ke dalam kuping cotton bud itu cuma boleh dipake di dua tempat
+13	cotton bud itu cuma boleh dipake di dua tempat
+14	cotton bud itu cuma boleh dipake di dua tempat
+15	cotton bud itu cuma boleh dipake di dua tempat satu kuping bagian luar
+16	cotton bud itu cuma boleh dipake di dua tempat satu kuping bagian luar
+17	satu kuping bagian luar
+18	satu kuping bagian luar
+19	satu kuping bagian luar satu lagi udah, jangan dimasukin
+20	satu kuping bagian luar satu lagi udah, jangan dimasukin
+21	satu lagi udah, jangan dimasukin
+22	satu lagi udah, jangan dimasukin ke bagian dalam telinga, kalo kagak
+23	satu lagi udah, jangan dimasukin ke bagian dalam telinga, kalo kagak
+24	ke bagian dalam telinga, kalo kagak
+25	ke bagian dalam telinga, kalo kagak
+26	ke bagian dalam telinga, kalo kagak gendang telinga lu bisa jadi bolong
+27	ke bagian dalam telinga, kalo kagak gendang telinga lu bisa jadi bolong
+28	gendang telinga lu bisa jadi bolong
+29	gendang telinga lu bisa jadi bolong
+30	gendang telinga lu bisa jadi bolong
+31	gendang telinga lu bisa jadi bolong gue ini ya, hari ini aja udah dapet pasien
+32	gendang telinga lu bisa jadi bolong gue ini ya, hari ini aja udah dapet pasien
+33	gue ini ya, hari ini aja udah dapet pasien
+34	gue ini ya, hari ini aja udah dapet pasien tiga biji, dengan keluhan telinganya berdenging
+35	gue ini ya, hari ini aja udah dapet pasien tiga biji, dengan keluhan telinganya berdenging
+36	tiga biji, dengan keluhan telinganya berdenging
+37	tiga biji, dengan keluhan telinganya berdenging
+38	tiga biji, dengan keluhan telinganya berdenging
+39	tiga biji, dengan keluhan telinganya berdenging keluar cairan bagian telinga, sama punya
+40	tiga biji, dengan keluhan telinganya berdenging keluar cairan bagian telinga, sama punya
+41	keluar cairan bagian telinga, sama punya
+42	keluar cairan bagian telinga, sama punya
+43	keluar cairan bagian telinga, sama punya riwet, mengorek bagian telinganya
+44	keluar cairan bagian telinga, sama punya riwet, mengorek bagian telinganya
+45	riwet, mengorek bagian telinganya
+46	riwet, mengorek bagian telinganya
+47	riwet, mengorek bagian telinganya dengan cotton bud, biasanya abis mandi
+48	riwet, mengorek bagian telinganya dengan cotton bud, biasanya abis mandi
+49	dengan cotton bud, biasanya abis mandi
+50	dengan cotton bud, biasanya abis mandi
+51	dengan cotton bud, biasanya abis mandi katanya gatel, nah pas
+52	dengan cotton bud, biasanya abis mandi katanya gatel, nah pas
+53	katanya gatel, nah pas
+54	katanya gatel, nah pas
+55	katanya gatel, nah pas gue liat, udah ya gendang telinganya
+56	katanya gatel, nah pas gue liat, udah ya gendang telinganya
+57	gue liat, udah ya gendang telinganya
+58	gue liat, udah ya gendang telinganya bolong, padahal infeksi
+59	gue liat, udah ya gendang telinganya bolong, padahal infeksi
+60	bolong, padahal infeksi
+61	bolong, padahal infeksi
+62	bolong, padahal infeksi yang namanya tai telinga atau cong ya, dia tuh bisa
+63	bolong, padahal infeksi yang namanya tai telinga atau cong ya, dia tuh bisa
+64	yang namanya tai telinga atau cong ya, dia tuh bisa
+65	yang namanya tai telinga atau cong ya, dia tuh bisa
+66	yang namanya tai telinga atau cong ya, dia tuh bisa keluar sendiri, dari lu mandi, lu wudu
+67	yang namanya tai telinga atau cong ya, dia tuh bisa keluar sendiri, dari lu mandi, lu wudu
+68	keluar sendiri, dari lu mandi, lu wudu
+69	keluar sendiri, dari lu mandi, lu wudu
+70	keluar sendiri, dari lu mandi, lu wudu
+71	keluar sendiri, dari lu mandi, lu wudu lu miring kanan kiri, dia bisa keluar sendiri
+72	keluar sendiri, dari lu mandi, lu wudu lu miring kanan kiri, dia bisa keluar sendiri
+73	lu miring kanan kiri, dia bisa keluar sendiri
+74	lu miring kanan kiri, dia bisa keluar sendiri
+75	lu miring kanan kiri, dia bisa keluar sendiri cuman kalo misalkan emang terasa
+76	lu miring kanan kiri, dia bisa keluar sendiri cuman kalo misalkan emang terasa
+77	cuman kalo misalkan emang terasa
+78	cuman kalo misalkan emang terasa numpuk dan nyumbat, yaudah ke pusat-pusat aja
+79	cuman kalo misalkan emang terasa numpuk dan nyumbat, yaudah ke pusat-pusat aja
+80	numpuk dan nyumbat, yaudah ke pusat-pusat aja
+81	numpuk dan nyumbat, yaudah ke pusat-pusat aja
+82	numpuk dan nyumbat, yaudah ke pusat-pusat aja
+83	numpuk dan nyumbat, yaudah ke pusat-pusat aja ntar ada alatnya kita
+84	numpuk dan nyumbat, yaudah ke pusat-pusat aja ntar ada alatnya kita
+85	ntar ada alatnya kita
+86	ntar ada alatnya kita buat ngebersihinin itu gratis, kalo lu pake BPJS
+87	ntar ada alatnya kita buat ngebersihinin itu gratis, kalo lu pake BPJS
+88	buat ngebersihinin itu gratis, kalo lu pake BPJS
+89	buat ngebersihinin itu gratis, kalo lu pake BPJS
+90	buat ngebersihinin itu gratis, kalo lu pake BPJS
+91	buat ngebersihinin itu gratis, kalo lu pake BPJS nah jangan dimasukin pake cotton bud
+92	buat ngebersihinin itu gratis, kalo lu pake BPJS nah jangan dimasukin pake cotton bud
+93	nah jangan dimasukin pake cotton bud
+94	nah jangan dimasukin pake cotton bud
+95	nah jangan dimasukin pake cotton bud karena cotton bud itu dia bisa
+96	nah jangan dimasukin pake cotton bud karena cotton bud itu dia bisa
+97	karena cotton bud itu dia bisa tiba-tiba nusuk nih ke bagian gendang telinganya
+98	karena cotton bud itu dia bisa tiba-tiba nusuk nih ke bagian gendang telinganya
+99	tiba-tiba nusuk nih ke bagian gendang telinganya
+100	tiba-tiba nusuk nih ke bagian gendang telinganya
+101	tiba-tiba nusuk nih ke bagian gendang telinganya
+102	tiba-tiba nusuk nih ke bagian gendang telinganya gendang telinganya jadi apa ya, jadi robek, jadi infeksi
+103	tiba-tiba nusuk nih ke bagian gendang telinganya gendang telinganya jadi apa ya, jadi robek, jadi infeksi
+104	gendang telinganya jadi apa ya, jadi robek, jadi infeksi
+105	gendang telinganya jadi apa ya, jadi robek, jadi infeksi
+106	gendang telinganya jadi apa ya, jadi robek, jadi infeksi
+107	gendang telinganya jadi apa ya, jadi robek, jadi infeksi kalo udah kayak gitu, pengobatannya
+108	gendang telinganya jadi apa ya, jadi robek, jadi infeksi kalo udah kayak gitu, pengobatannya
+109	kalo udah kayak gitu, pengobatannya
+110	kalo udah kayak gitu, pengobatannya
+111	kalo udah kayak gitu, pengobatannya susah-susah gampang
+112	kalo udah kayak gitu, pengobatannya susah-susah gampang
+113	susah-susah gampang
+114	susah-susah gampang lo bisa aja diujuk ke dokter spesialis
+115	susah-susah gampang lo bisa aja diujuk ke dokter spesialis
+116	lo bisa aja diujuk ke dokter spesialis
+117	lo bisa aja diujuk ke dokter spesialis
+118	lo bisa aja diujuk ke dokter spesialis buat penanganan lebih lanjut, apalagi
+119	lo bisa aja diujuk ke dokter spesialis buat penanganan lebih lanjut, apalagi
+120	buat penanganan lebih lanjut, apalagi
+121	buat penanganan lebih lanjut, apalagi
+122	buat penanganan lebih lanjut, apalagi telinga tuh deket sama api, deket sama otak
+123	buat penanganan lebih lanjut, apalagi telinga tuh deket sama api, deket sama otak
+124	telinga tuh deket sama api, deket sama otak
+125	telinga tuh deket sama api, deket sama otak
+126	telinga tuh deket sama api, deket sama otak
+127	telinga tuh deket sama api, deket sama otak kan, bukan deket sama ginjal
+128	telinga tuh deket sama api, deket sama otak kan, bukan deket sama ginjal
+129	kan, bukan deket sama ginjal
+130	kan, bukan deket sama ginjal lo bayangin kalo otak lu kena penapai
+131	kan, bukan deket sama ginjal lo bayangin kalo otak lu kena penapai
+132	lo bayangin kalo otak lu kena penapai
+133	lo bayangin kalo otak lu kena penapai
+134	lo bayangin kalo otak lu kena penapai jadi kagak usah, kagak usah ngide-ngide
+135	lo bayangin kalo otak lu kena penapai jadi kagak usah, kagak usah ngide-ngide
+136	jadi kagak usah, kagak usah ngide-ngide
+137	jadi kagak usah, kagak usah ngide-ngide
+138	jadi kagak usah, kagak usah ngide-ngide
+139	jadi kagak usah, kagak usah ngide-ngide masukin cotton bud ke telinga
+140	jadi kagak usah, kagak usah ngide-ngide masukin cotton bud ke telinga
+141	masukin cotton bud ke telinga
+142	masukin cotton bud ke telinga
+143	masukin cotton bud ke telinga udah, cotton bud tuh buat bagian luar doang
+144	masukin cotton bud ke telinga udah, cotton bud tuh buat bagian luar doang
+145	masukin cotton bud ke telinga udah, cotton bud tuh buat bagian luar doang
+146	udah, cotton bud tuh buat bagian luar doang
+147	udah, cotton bud tuh buat bagian luar doang sama bagian udel, udah stop
+148	udah, cotton bud tuh buat bagian luar doang sama bagian udel, udah stop
+149	sama bagian udel, udah stop
+150	sama bagian udel, udah stop
+151	[NO_SPEECH]
+152	[NO_SPEECH]

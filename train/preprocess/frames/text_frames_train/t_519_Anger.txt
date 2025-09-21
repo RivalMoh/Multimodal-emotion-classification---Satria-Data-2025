@@ -1,0 +1,180 @@
+0	Balon nomor 66
+1	Balon nomor 66
+2	Balon nomor 66
+3	Balon nomor 66
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	Cek kesiapan GBK sebelum lawan Jepang
+23	Cek kesiapan GBK sebelum lawan Jepang
+24	Cek kesiapan GBK sebelum lawan Jepang
+25	Cek kesiapan GBK sebelum lawan Jepang
+26	Cek kesiapan GBK sebelum lawan Jepang
+27	Cek kesiapan GBK sebelum lawan Jepang
+28	Cek kesiapan GBK sebelum lawan Jepang
+29	Cek kesiapan GBK sebelum lawan Jepang
+30	Cek kesiapan GBK sebelum lawan Jepang
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	Oh, itu jauh
+59	Oh, itu jauh
+60	Oh, itu jauh
+61	Oh, itu jauh
+62	Oh, itu jauh
+63	Oh, itu jauh Jadi kan total 103 tambahan kan dengan face recognition
+64	Oh, itu jauh Jadi kan total 103 tambahan kan dengan face recognition
+65	Jadi kan total 103 tambahan kan dengan face recognition
+66	Jadi kan total 103 tambahan kan dengan face recognition
+67	Jadi kan total 103 tambahan kan dengan face recognition
+68	Jadi kan total 103 tambahan kan dengan face recognition
+69	Jadi kan total 103 tambahan kan dengan face recognition
+70	Jadi kan total 103 tambahan kan dengan face recognition
+71	Jadi kan total 103 tambahan kan dengan face recognition
+72	Jadi kan total 103 tambahan kan dengan face recognition
+73	Jadi kan total 103 tambahan kan dengan face recognition
+74	Jadi kan total 103 tambahan kan dengan face recognition
+75	Jadi kan total 103 tambahan kan dengan face recognition
+76	Jadi kan total 103 tambahan kan dengan face recognition
+77	Jadi kan total 103 tambahan kan dengan face recognition
+78	Jadi kan total 103 tambahan kan dengan face recognition
+79	Jadi kan total 103 tambahan kan dengan face recognition
+80	Jadi kan total 103 tambahan kan dengan face recognition
+81	Jadi kan total 103 tambahan kan dengan face recognition
+82	Jadi kan total 103 tambahan kan dengan face recognition
+83	Jadi kan total 103 tambahan kan dengan face recognition
+84	Jadi kan total 103 tambahan kan dengan face recognition
+85	Jadi kan total 103 tambahan kan dengan face recognition
+86	Jadi kan total 103 tambahan kan dengan face recognition
+87	Jadi kan total 103 tambahan kan dengan face recognition
+88	Jadi kan total 103 tambahan kan dengan face recognition
+89	Jadi kan total 103 tambahan kan dengan face recognition
+90	Jadi kan total 103 tambahan kan dengan face recognition
+91	Jadi kan total 103 tambahan kan dengan face recognition
+92	Jadi kan total 103 tambahan kan dengan face recognition
+93	Jadi kan total 103 tambahan kan dengan face recognition
+94	Jadi kan total 103 tambahan kan dengan face recognition
+95	Jadi kan total 103 tambahan kan dengan face recognition
+96	Jadi kan total 103 tambahan kan dengan face recognition Di luar yang sudah terpasang
+97	Jadi kan total 103 tambahan kan dengan face recognition Di luar yang sudah terpasang
+98	Di luar yang sudah terpasang
+99	Di luar yang sudah terpasang
+100	Di luar yang sudah terpasang
+101	Di luar yang sudah terpasang
+102	Di luar yang sudah terpasang Jepang nomor 66
+103	Di luar yang sudah terpasang Jepang nomor 66
+104	Jepang nomor 66
+105	Jepang nomor 66
+106	Jepang nomor 66
+107	Jepang nomor 66 Atau 69
+108	Jepang nomor 66 Atau 69
+109	Atau 69
+110	Atau 69
+111	Atau 69
+112	Atau 69
+113	[NO_SPEECH]
+114	[NO_SPEECH]
+115	[NO_SPEECH]
+116	[NO_SPEECH]
+117	[NO_SPEECH]
+118	[NO_SPEECH]
+119	[NO_SPEECH]
+120	Kalau yang lakunya Garuda ID
+121	Kalau yang lakunya Garuda ID
+122	Kalau yang lakunya Garuda ID
+123	Kalau yang lakunya Garuda ID
+124	Kalau yang lakunya Garuda ID Kita nambah 103 CCTV
+125	Kalau yang lakunya Garuda ID Kita nambah 103 CCTV
+126	Kita nambah 103 CCTV
+127	Kita nambah 103 CCTV
+128	Kita nambah 103 CCTV
+129	Kita nambah 103 CCTV
+130	Kita nambah 103 CCTV
+131	Kita nambah 103 CCTV
+132	Kita nambah 103 CCTV
+133	Kita nambah 103 CCTV
+134	Kita nambah 103 CCTV
+135	Kita nambah 103 CCTV
+136	Kita nambah 103 CCTV
+137	Kita nambah 103 CCTV Jadi nanti Garuda ID plus CCTV
+138	Kita nambah 103 CCTV Jadi nanti Garuda ID plus CCTV
+139	Jadi nanti Garuda ID plus CCTV
+140	Jadi nanti Garuda ID plus CCTV
+141	Jadi nanti Garuda ID plus CCTV
+142	Jadi nanti Garuda ID plus CCTV
+143	Jadi nanti Garuda ID plus CCTV Supaya jaga kebocoran tiket bukan karena komersial
+144	Jadi nanti Garuda ID plus CCTV Supaya jaga kebocoran tiket bukan karena komersial
+145	Supaya jaga kebocoran tiket bukan karena komersial
+146	Supaya jaga kebocoran tiket bukan karena komersial
+147	Supaya jaga kebocoran tiket bukan karena komersial
+148	Supaya jaga kebocoran tiket bukan karena komersial
+149	Supaya jaga kebocoran tiket bukan karena komersial
+150	Supaya jaga kebocoran tiket bukan karena komersial Tapi ini karena keselamatan
+151	Supaya jaga kebocoran tiket bukan karena komersial Tapi ini karena keselamatan
+152	Tapi ini karena keselamatan
+153	Tapi ini karena keselamatan Viva, IFC tadi saya ajak ketemu
+154	Tapi ini karena keselamatan Viva, IFC tadi saya ajak ketemu
+155	Viva, IFC tadi saya ajak ketemu
+156	Viva, IFC tadi saya ajak ketemu
+157	Viva, IFC tadi saya ajak ketemu Mereka melihat kita siap
+158	Viva, IFC tadi saya ajak ketemu Mereka melihat kita siap
+159	Mereka melihat kita siap
+160	Mereka melihat kita siap
+161	Mereka melihat kita siap Yang penting kita kasih lihat ke mereka
+162	Mereka melihat kita siap Yang penting kita kasih lihat ke mereka
+163	Yang penting kita kasih lihat ke mereka
+164	Yang penting kita kasih lihat ke mereka
+165	Yang penting kita kasih lihat ke mereka
+166	Yang penting kita kasih lihat ke mereka Kita bukan bangsa yang terbelakang
+167	Yang penting kita kasih lihat ke mereka Kita bukan bangsa yang terbelakang
+168	Kita bukan bangsa yang terbelakang
+169	Kita bukan bangsa yang terbelakang
+170	Kita bukan bangsa yang terbelakang Terima kasih
+171	Kita bukan bangsa yang terbelakang Terima kasih
+172	Terima kasih
+173	Terima kasih
+174	Terima kasih
+175	Terima kasih
+176	[NO_SPEECH]
+177	[NO_SPEECH]
+178	[NO_SPEECH]
+179	[NO_SPEECH]

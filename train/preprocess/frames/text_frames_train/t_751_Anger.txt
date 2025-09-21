@@ -1,0 +1,159 @@
+0	Hati-hati konsumsi produk turunan susu yang satu ini, yaitu butter.
+1	Hati-hati konsumsi produk turunan susu yang satu ini, yaitu butter.
+2	Hati-hati konsumsi produk turunan susu yang satu ini, yaitu butter.
+3	Hati-hati konsumsi produk turunan susu yang satu ini, yaitu butter.
+4	Hati-hati konsumsi produk turunan susu yang satu ini, yaitu butter.
+5	Hati-hati konsumsi produk turunan susu yang satu ini, yaitu butter.
+6	Hati-hati konsumsi produk turunan susu yang satu ini, yaitu butter.
+7	Hati-hati konsumsi produk turunan susu yang satu ini, yaitu butter.
+8	Hati-hati konsumsi produk turunan susu yang satu ini, yaitu butter. Kita udah tau kalau produk-produk hewan itu kurang bagus, terutama butter kenapa?
+9	Hati-hati konsumsi produk turunan susu yang satu ini, yaitu butter. Kita udah tau kalau produk-produk hewan itu kurang bagus, terutama butter kenapa?
+10	Kita udah tau kalau produk-produk hewan itu kurang bagus, terutama butter kenapa?
+11	Kita udah tau kalau produk-produk hewan itu kurang bagus, terutama butter kenapa?
+12	Kita udah tau kalau produk-produk hewan itu kurang bagus, terutama butter kenapa?
+13	Kita udah tau kalau produk-produk hewan itu kurang bagus, terutama butter kenapa?
+14	Kita udah tau kalau produk-produk hewan itu kurang bagus, terutama butter kenapa?
+15	Kita udah tau kalau produk-produk hewan itu kurang bagus, terutama butter kenapa?
+16	Kita udah tau kalau produk-produk hewan itu kurang bagus, terutama butter kenapa?
+17	Kita udah tau kalau produk-produk hewan itu kurang bagus, terutama butter kenapa?
+18	Kita udah tau kalau produk-produk hewan itu kurang bagus, terutama butter kenapa? Karena itu tinggi dengan saturated fat, lemak jenuh.
+19	Karena itu tinggi dengan saturated fat, lemak jenuh.
+20	Karena itu tinggi dengan saturated fat, lemak jenuh.
+21	Karena itu tinggi dengan saturated fat, lemak jenuh.
+22	Karena itu tinggi dengan saturated fat, lemak jenuh.
+23	Karena itu tinggi dengan saturated fat, lemak jenuh.
+24	Karena itu tinggi dengan saturated fat, lemak jenuh.
+25	Karena itu tinggi dengan saturated fat, lemak jenuh. Itu bisa ngasih kita serangan jantung dan semua penyakit metabolik.
+26	Karena itu tinggi dengan saturated fat, lemak jenuh. Itu bisa ngasih kita serangan jantung dan semua penyakit metabolik.
+27	Itu bisa ngasih kita serangan jantung dan semua penyakit metabolik.
+28	Itu bisa ngasih kita serangan jantung dan semua penyakit metabolik.
+29	Itu bisa ngasih kita serangan jantung dan semua penyakit metabolik.
+30	Itu bisa ngasih kita serangan jantung dan semua penyakit metabolik.
+31	Itu bisa ngasih kita serangan jantung dan semua penyakit metabolik.
+32	Itu bisa ngasih kita serangan jantung dan semua penyakit metabolik.
+33	Itu bisa ngasih kita serangan jantung dan semua penyakit metabolik. Ini gue mau share satu studi yang terbaru, yang dipublish di European Journal of Clinical Nutrition.
+34	Itu bisa ngasih kita serangan jantung dan semua penyakit metabolik. Ini gue mau share satu studi yang terbaru, yang dipublish di European Journal of Clinical Nutrition.
+35	Ini gue mau share satu studi yang terbaru, yang dipublish di European Journal of Clinical Nutrition.
+36	Ini gue mau share satu studi yang terbaru, yang dipublish di European Journal of Clinical Nutrition.
+37	Ini gue mau share satu studi yang terbaru, yang dipublish di European Journal of Clinical Nutrition.
+38	Ini gue mau share satu studi yang terbaru, yang dipublish di European Journal of Clinical Nutrition.
+39	Ini gue mau share satu studi yang terbaru, yang dipublish di European Journal of Clinical Nutrition.
+40	Ini gue mau share satu studi yang terbaru, yang dipublish di European Journal of Clinical Nutrition.
+41	Ini gue mau share satu studi yang terbaru, yang dipublish di European Journal of Clinical Nutrition.
+42	Ini gue mau share satu studi yang terbaru, yang dipublish di European Journal of Clinical Nutrition.
+43	Ini gue mau share satu studi yang terbaru, yang dipublish di European Journal of Clinical Nutrition.
+44	Ini gue mau share satu studi yang terbaru, yang dipublish di European Journal of Clinical Nutrition.
+45	Ini gue mau share satu studi yang terbaru, yang dipublish di European Journal of Clinical Nutrition.
+46	Dan mereka tuh ngeliat di data di 2000 orang ya.
+47	Dan mereka tuh ngeliat di data di 2000 orang ya.
+48	Dan mereka tuh ngeliat di data di 2000 orang ya.
+49	Dan mereka tuh ngeliat di data di 2000 orang ya.
+50	Dan mereka tuh ngeliat di data di 2000 orang ya.
+51	Dan mereka tuh ngeliat di data di 2000 orang ya. Mereka bukan cuma ngeliat di konsumsi butter, tapi mereka juga membandingkan dengan konsumsi margarin di orang-orang ini, 2000 orang ya.
+52	Dan mereka tuh ngeliat di data di 2000 orang ya. Mereka bukan cuma ngeliat di konsumsi butter, tapi mereka juga membandingkan dengan konsumsi margarin di orang-orang ini, 2000 orang ya.
+53	Mereka bukan cuma ngeliat di konsumsi butter, tapi mereka juga membandingkan dengan konsumsi margarin di orang-orang ini, 2000 orang ya.
+54	Mereka bukan cuma ngeliat di konsumsi butter, tapi mereka juga membandingkan dengan konsumsi margarin di orang-orang ini, 2000 orang ya.
+55	Mereka bukan cuma ngeliat di konsumsi butter, tapi mereka juga membandingkan dengan konsumsi margarin di orang-orang ini, 2000 orang ya.
+56	Mereka bukan cuma ngeliat di konsumsi butter, tapi mereka juga membandingkan dengan konsumsi margarin di orang-orang ini, 2000 orang ya.
+57	Mereka bukan cuma ngeliat di konsumsi butter, tapi mereka juga membandingkan dengan konsumsi margarin di orang-orang ini, 2000 orang ya.
+58	Mereka bukan cuma ngeliat di konsumsi butter, tapi mereka juga membandingkan dengan konsumsi margarin di orang-orang ini, 2000 orang ya.
+59	Mereka bukan cuma ngeliat di konsumsi butter, tapi mereka juga membandingkan dengan konsumsi margarin di orang-orang ini, 2000 orang ya.
+60	Mereka bukan cuma ngeliat di konsumsi butter, tapi mereka juga membandingkan dengan konsumsi margarin di orang-orang ini, 2000 orang ya.
+61	Mereka bukan cuma ngeliat di konsumsi butter, tapi mereka juga membandingkan dengan konsumsi margarin di orang-orang ini, 2000 orang ya.
+62	Mereka bukan cuma ngeliat di konsumsi butter, tapi mereka juga membandingkan dengan konsumsi margarin di orang-orang ini, 2000 orang ya.
+63	Mereka bukan cuma ngeliat di konsumsi butter, tapi mereka juga membandingkan dengan konsumsi margarin di orang-orang ini, 2000 orang ya.
+64	Mereka bukan cuma ngeliat di konsumsi butter, tapi mereka juga membandingkan dengan konsumsi margarin di orang-orang ini, 2000 orang ya. Bukan cuma dari yang mereka konsumsi, mereka juga ngecek serum darahnya.
+65	Mereka bukan cuma ngeliat di konsumsi butter, tapi mereka juga membandingkan dengan konsumsi margarin di orang-orang ini, 2000 orang ya. Bukan cuma dari yang mereka konsumsi, mereka juga ngecek serum darahnya.
+66	Bukan cuma dari yang mereka konsumsi, mereka juga ngecek serum darahnya.
+67	Bukan cuma dari yang mereka konsumsi, mereka juga ngecek serum darahnya.
+68	Bukan cuma dari yang mereka konsumsi, mereka juga ngecek serum darahnya.
+69	Bukan cuma dari yang mereka konsumsi, mereka juga ngecek serum darahnya.
+70	Bukan cuma dari yang mereka konsumsi, mereka juga ngecek serum darahnya.
+71	Bukan cuma dari yang mereka konsumsi, mereka juga ngecek serum darahnya.
+72	Bukan cuma dari yang mereka konsumsi, mereka juga ngecek serum darahnya. Untuk HDL, triglycerida, persentase lemak di dalam badannya, dan rasio triglyceride dan HDL.
+73	Bukan cuma dari yang mereka konsumsi, mereka juga ngecek serum darahnya. Untuk HDL, triglycerida, persentase lemak di dalam badannya, dan rasio triglyceride dan HDL.
+74	Untuk HDL, triglycerida, persentase lemak di dalam badannya, dan rasio triglyceride dan HDL.
+75	Untuk HDL, triglycerida, persentase lemak di dalam badannya, dan rasio triglyceride dan HDL.
+76	Untuk HDL, triglycerida, persentase lemak di dalam badannya, dan rasio triglyceride dan HDL.
+77	Untuk HDL, triglycerida, persentase lemak di dalam badannya, dan rasio triglyceride dan HDL.
+78	Untuk HDL, triglycerida, persentase lemak di dalam badannya, dan rasio triglyceride dan HDL.
+79	Untuk HDL, triglycerida, persentase lemak di dalam badannya, dan rasio triglyceride dan HDL.
+80	Untuk HDL, triglycerida, persentase lemak di dalam badannya, dan rasio triglyceride dan HDL.
+81	Untuk HDL, triglycerida, persentase lemak di dalam badannya, dan rasio triglyceride dan HDL.
+82	Untuk HDL, triglycerida, persentase lemak di dalam badannya, dan rasio triglyceride dan HDL.
+83	Untuk HDL, triglycerida, persentase lemak di dalam badannya, dan rasio triglyceride dan HDL.
+84	Untuk HDL, triglycerida, persentase lemak di dalam badannya, dan rasio triglyceride dan HDL.
+85	Untuk HDL, triglycerida, persentase lemak di dalam badannya, dan rasio triglyceride dan HDL.
+86	Untuk HDL, triglycerida, persentase lemak di dalam badannya, dan rasio triglyceride dan HDL.
+87	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter.
+88	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter.
+89	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter.
+90	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter.
+91	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter.
+92	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter.
+93	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter.
+94	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter.
+95	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter.
+96	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter.
+97	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter.
+98	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter.
+99	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter.
+100	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter.
+101	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter.
+102	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter.
+103	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter.
+104	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter.
+105	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter.
+106	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter.
+107	Ternyata, orang-orang yang konsumsi butter, mereka itu resiko kena serangan jantung dan tipe 2 diabetesnya terasosidik turun malahan dengan konsumsi butter. Malahnya konsumsi margarin yang pelan-pelan.
+108	Malahnya konsumsi margarin yang pelan-pelan.
+109	Malahnya konsumsi margarin yang pelan-pelan.
+110	Malahnya konsumsi margarin yang pelan-pelan.
+111	Malahnya konsumsi margarin yang pelan-pelan. Dan itu malah naik resiko mereka kena serangan jantung, penyakit jantung, dan tipe 2 diabetes.
+112	Malahnya konsumsi margarin yang pelan-pelan. Dan itu malah naik resiko mereka kena serangan jantung, penyakit jantung, dan tipe 2 diabetes.
+113	Dan itu malah naik resiko mereka kena serangan jantung, penyakit jantung, dan tipe 2 diabetes.
+114	Dan itu malah naik resiko mereka kena serangan jantung, penyakit jantung, dan tipe 2 diabetes.
+115	Dan itu malah naik resiko mereka kena serangan jantung, penyakit jantung, dan tipe 2 diabetes.
+116	Dan itu malah naik resiko mereka kena serangan jantung, penyakit jantung, dan tipe 2 diabetes.
+117	Dan itu malah naik resiko mereka kena serangan jantung, penyakit jantung, dan tipe 2 diabetes.
+118	Dan itu malah naik resiko mereka kena serangan jantung, penyakit jantung, dan tipe 2 diabetes.
+119	Dan itu malah naik resiko mereka kena serangan jantung, penyakit jantung, dan tipe 2 diabetes.
+120	Dan itu malah naik resiko mereka kena serangan jantung, penyakit jantung, dan tipe 2 diabetes.
+121	Dan itu malah naik resiko mereka kena serangan jantung, penyakit jantung, dan tipe 2 diabetes.
+122	Dan itu malah naik resiko mereka kena serangan jantung, penyakit jantung, dan tipe 2 diabetes.
+123	Dan itu malah naik resiko mereka kena serangan jantung, penyakit jantung, dan tipe 2 diabetes.
+124	Dan itu malah naik resiko mereka kena serangan jantung, penyakit jantung, dan tipe 2 diabetes.
+125	Dan itu malah naik resiko mereka kena serangan jantung, penyakit jantung, dan tipe 2 diabetes.
+126	Dan itu malah naik resiko mereka kena serangan jantung, penyakit jantung, dan tipe 2 diabetes.
+127	Karena kemungkinan margarin itu tinggi di trans fat.
+128	Karena kemungkinan margarin itu tinggi di trans fat.
+129	Karena kemungkinan margarin itu tinggi di trans fat.
+130	Karena kemungkinan margarin itu tinggi di trans fat.
+131	Karena kemungkinan margarin itu tinggi di trans fat.
+132	Karena kemungkinan margarin itu tinggi di trans fat.
+133	Karena kemungkinan margarin itu tinggi di trans fat.
+134	Karena kemungkinan margarin itu tinggi di trans fat. Jadi, apa bahayanya konsumsi produk turunan susu, butter, yang tinggi dengan lemak jenuh?
+135	Jadi, apa bahayanya konsumsi produk turunan susu, butter, yang tinggi dengan lemak jenuh?
+136	Jadi, apa bahayanya konsumsi produk turunan susu, butter, yang tinggi dengan lemak jenuh?
+137	Jadi, apa bahayanya konsumsi produk turunan susu, butter, yang tinggi dengan lemak jenuh?
+138	Jadi, apa bahayanya konsumsi produk turunan susu, butter, yang tinggi dengan lemak jenuh?
+139	Jadi, apa bahayanya konsumsi produk turunan susu, butter, yang tinggi dengan lemak jenuh?
+140	Jadi, apa bahayanya konsumsi produk turunan susu, butter, yang tinggi dengan lemak jenuh?
+141	Jadi, apa bahayanya konsumsi produk turunan susu, butter, yang tinggi dengan lemak jenuh?
+142	Jadi, apa bahayanya konsumsi produk turunan susu, butter, yang tinggi dengan lemak jenuh?
+143	Jadi, apa bahayanya konsumsi produk turunan susu, butter, yang tinggi dengan lemak jenuh?
+144	Jadi, apa bahayanya konsumsi produk turunan susu, butter, yang tinggi dengan lemak jenuh?
+145	Jadi, apa bahayanya konsumsi produk turunan susu, butter, yang tinggi dengan lemak jenuh?
+146	Jadi, apa bahayanya konsumsi produk turunan susu, butter, yang tinggi dengan lemak jenuh?
+147	Jadi, apa bahayanya konsumsi produk turunan susu, butter, yang tinggi dengan lemak jenuh?
+148	Jadi, apa bahayanya konsumsi produk turunan susu, butter, yang tinggi dengan lemak jenuh?
+149	Jadi, apa bahayanya konsumsi produk turunan susu, butter, yang tinggi dengan lemak jenuh? Bahayanya adalah bagi orang-orang yang nggak nonton video ini sampai selesai.
+150	Bahayanya adalah bagi orang-orang yang nggak nonton video ini sampai selesai.
+151	Bahayanya adalah bagi orang-orang yang nggak nonton video ini sampai selesai.
+152	Bahayanya adalah bagi orang-orang yang nggak nonton video ini sampai selesai.
+153	Bahayanya adalah bagi orang-orang yang nggak nonton video ini sampai selesai.
+154	Bahayanya adalah bagi orang-orang yang nggak nonton video ini sampai selesai.
+155	Bahayanya adalah bagi orang-orang yang nggak nonton video ini sampai selesai.
+156	Bahayanya adalah bagi orang-orang yang nggak nonton video ini sampai selesai.
+157	Bahayanya adalah bagi orang-orang yang nggak nonton video ini sampai selesai.
+158	[NO_SPEECH]

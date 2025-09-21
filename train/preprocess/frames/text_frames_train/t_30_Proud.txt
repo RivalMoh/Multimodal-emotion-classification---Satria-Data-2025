@@ -1,0 +1,235 @@
+0	Sederhana, tapi smartwatch lain nggak bisa.
+1	Sederhana, tapi smartwatch lain nggak bisa.
+2	Sederhana, tapi smartwatch lain nggak bisa.
+3	Sederhana, tapi smartwatch lain nggak bisa.
+4	Sederhana, tapi smartwatch lain nggak bisa.
+5	Sederhana, tapi smartwatch lain nggak bisa. Fitur rotating bezel di Samsung Galaxy Watch 8 Classic.
+6	Fitur rotating bezel di Samsung Galaxy Watch 8 Classic.
+7	Fitur rotating bezel di Samsung Galaxy Watch 8 Classic.
+8	Fitur rotating bezel di Samsung Galaxy Watch 8 Classic.
+9	Fitur rotating bezel di Samsung Galaxy Watch 8 Classic.
+10	Fitur rotating bezel di Samsung Galaxy Watch 8 Classic.
+11	Fitur rotating bezel di Samsung Galaxy Watch 8 Classic.
+12	Fitur rotating bezel di Samsung Galaxy Watch 8 Classic. Bikin navigasi UI atau data jadi lebih presisi.
+13	Fitur rotating bezel di Samsung Galaxy Watch 8 Classic. Bikin navigasi UI atau data jadi lebih presisi.
+14	Bikin navigasi UI atau data jadi lebih presisi.
+15	Bikin navigasi UI atau data jadi lebih presisi.
+16	Bikin navigasi UI atau data jadi lebih presisi.
+17	Bikin navigasi UI atau data jadi lebih presisi.
+18	Bikin navigasi UI atau data jadi lebih presisi. Mau diputer per step, bisa.
+19	Bikin navigasi UI atau data jadi lebih presisi. Mau diputer per step, bisa.
+20	Mau diputer per step, bisa.
+21	Mau diputer per step, bisa. Mau diputer sekali banyak, gerakan scrollnya langsung ngebut.
+22	Mau diputer per step, bisa. Mau diputer sekali banyak, gerakan scrollnya langsung ngebut.
+23	Mau diputer sekali banyak, gerakan scrollnya langsung ngebut.
+24	Mau diputer sekali banyak, gerakan scrollnya langsung ngebut.
+25	Mau diputer sekali banyak, gerakan scrollnya langsung ngebut.
+26	Mau diputer sekali banyak, gerakan scrollnya langsung ngebut.
+27	Mau diputer sekali banyak, gerakan scrollnya langsung ngebut.
+28	Mau diputer sekali banyak, gerakan scrollnya langsung ngebut. Mau kontrol pas lagi nyemplung, atau tangan lagi basah, pake sarung tangan, easy.
+29	Mau diputer sekali banyak, gerakan scrollnya langsung ngebut. Mau kontrol pas lagi nyemplung, atau tangan lagi basah, pake sarung tangan, easy.
+30	Mau kontrol pas lagi nyemplung, atau tangan lagi basah, pake sarung tangan, easy.
+31	Mau kontrol pas lagi nyemplung, atau tangan lagi basah, pake sarung tangan, easy.
+32	Mau kontrol pas lagi nyemplung, atau tangan lagi basah, pake sarung tangan, easy.
+33	Mau kontrol pas lagi nyemplung, atau tangan lagi basah, pake sarung tangan, easy.
+34	Mau kontrol pas lagi nyemplung, atau tangan lagi basah, pake sarung tangan, easy.
+35	Mau kontrol pas lagi nyemplung, atau tangan lagi basah, pake sarung tangan, easy.
+36	Mau kontrol pas lagi nyemplung, atau tangan lagi basah, pake sarung tangan, easy.
+37	Mau kontrol pas lagi nyemplung, atau tangan lagi basah, pake sarung tangan, easy.
+38	Mau kontrol pas lagi nyemplung, atau tangan lagi basah, pake sarung tangan, easy. Galaxy Watch 8 Classic juga punya tombol baru, yang namanya Quick Button di tengah ini.
+39	Galaxy Watch 8 Classic juga punya tombol baru, yang namanya Quick Button di tengah ini.
+40	Galaxy Watch 8 Classic juga punya tombol baru, yang namanya Quick Button di tengah ini.
+41	Galaxy Watch 8 Classic juga punya tombol baru, yang namanya Quick Button di tengah ini.
+42	Galaxy Watch 8 Classic juga punya tombol baru, yang namanya Quick Button di tengah ini.
+43	Galaxy Watch 8 Classic juga punya tombol baru, yang namanya Quick Button di tengah ini.
+44	Galaxy Watch 8 Classic juga punya tombol baru, yang namanya Quick Button di tengah ini.
+45	Galaxy Watch 8 Classic juga punya tombol baru, yang namanya Quick Button di tengah ini.
+46	Galaxy Watch 8 Classic juga punya tombol baru, yang namanya Quick Button di tengah ini.
+47	Galaxy Watch 8 Classic juga punya tombol baru, yang namanya Quick Button di tengah ini. Kita bisa custom buat jadi shortcut ke fungsi tertentu ya.
+48	Galaxy Watch 8 Classic juga punya tombol baru, yang namanya Quick Button di tengah ini. Kita bisa custom buat jadi shortcut ke fungsi tertentu ya.
+49	Kita bisa custom buat jadi shortcut ke fungsi tertentu ya.
+50	Kita bisa custom buat jadi shortcut ke fungsi tertentu ya.
+51	Kita bisa custom buat jadi shortcut ke fungsi tertentu ya.
+52	Kita bisa custom buat jadi shortcut ke fungsi tertentu ya.
+53	Kita bisa custom buat jadi shortcut ke fungsi tertentu ya. Watch 8 Classic ini gayanya doang klasik, tapi isinya,
+54	Kita bisa custom buat jadi shortcut ke fungsi tertentu ya. Watch 8 Classic ini gayanya doang klasik, tapi isinya,
+55	Watch 8 Classic ini gayanya doang klasik, tapi isinya,
+56	Watch 8 Classic ini gayanya doang klasik, tapi isinya,
+57	Watch 8 Classic ini gayanya doang klasik, tapi isinya,
+58	Watch 8 Classic ini gayanya doang klasik, tapi isinya,
+59	Watch 8 Classic ini gayanya doang klasik, tapi isinya,
+60	Watch 8 Classic ini gayanya doang klasik, tapi isinya,
+61	Watch 8 Classic ini gayanya doang klasik, tapi isinya, mulai dari prosesor, bioaktif sensor, sampe ke sistem One UI 8 baru,
+62	Watch 8 Classic ini gayanya doang klasik, tapi isinya, mulai dari prosesor, bioaktif sensor, sampe ke sistem One UI 8 baru,
+63	mulai dari prosesor, bioaktif sensor, sampe ke sistem One UI 8 baru,
+64	mulai dari prosesor, bioaktif sensor, sampe ke sistem One UI 8 baru,
+65	mulai dari prosesor, bioaktif sensor, sampe ke sistem One UI 8 baru,
+66	mulai dari prosesor, bioaktif sensor, sampe ke sistem One UI 8 baru,
+67	mulai dari prosesor, bioaktif sensor, sampe ke sistem One UI 8 baru,
+68	mulai dari prosesor, bioaktif sensor, sampe ke sistem One UI 8 baru,
+69	mulai dari prosesor, bioaktif sensor, sampe ke sistem One UI 8 baru,
+70	mulai dari prosesor, bioaktif sensor, sampe ke sistem One UI 8 baru,
+71	mulai dari prosesor, bioaktif sensor, sampe ke sistem One UI 8 baru, bikin fungsinya makin update, makin rame.
+72	mulai dari prosesor, bioaktif sensor, sampe ke sistem One UI 8 baru, bikin fungsinya makin update, makin rame.
+73	bikin fungsinya makin update, makin rame.
+74	bikin fungsinya makin update, makin rame.
+75	bikin fungsinya makin update, makin rame.
+76	bikin fungsinya makin update, makin rame. Favorit saya, AI Gemini.
+77	bikin fungsinya makin update, makin rame. Favorit saya, AI Gemini.
+78	Favorit saya, AI Gemini.
+79	Favorit saya, AI Gemini.
+80	Favorit saya, AI Gemini. Langsung ready dalam Galaxy Watch 8 Series.
+81	Langsung ready dalam Galaxy Watch 8 Series.
+82	Langsung ready dalam Galaxy Watch 8 Series.
+83	Langsung ready dalam Galaxy Watch 8 Series.
+84	Langsung ready dalam Galaxy Watch 8 Series.
+85	Langsung ready dalam Galaxy Watch 8 Series. Tinggal tahan tombol home, terus ngomong dah ke gemininya kayak AI di HP.
+86	Langsung ready dalam Galaxy Watch 8 Series. Tinggal tahan tombol home, terus ngomong dah ke gemininya kayak AI di HP.
+87	Tinggal tahan tombol home, terus ngomong dah ke gemininya kayak AI di HP.
+88	Tinggal tahan tombol home, terus ngomong dah ke gemininya kayak AI di HP.
+89	Tinggal tahan tombol home, terus ngomong dah ke gemininya kayak AI di HP.
+90	Tinggal tahan tombol home, terus ngomong dah ke gemininya kayak AI di HP.
+91	Tinggal tahan tombol home, terus ngomong dah ke gemininya kayak AI di HP.
+92	Tinggal tahan tombol home, terus ngomong dah ke gemininya kayak AI di HP.
+93	Tinggal tahan tombol home, terus ngomong dah ke gemininya kayak AI di HP.
+94	Tinggal tahan tombol home, terus ngomong dah ke gemininya kayak AI di HP. Input suaranya udah mantep, akurat.
+95	Input suaranya udah mantep, akurat.
+96	Input suaranya udah mantep, akurat.
+97	Input suaranya udah mantep, akurat.
+98	Input suaranya udah mantep, akurat. Mau tanya jawab info apapun, silahkan interaksi kayak ngomong sama orang beneran, dia nyambung.
+99	Input suaranya udah mantep, akurat. Mau tanya jawab info apapun, silahkan interaksi kayak ngomong sama orang beneran, dia nyambung.
+100	Mau tanya jawab info apapun, silahkan interaksi kayak ngomong sama orang beneran, dia nyambung.
+101	Mau tanya jawab info apapun, silahkan interaksi kayak ngomong sama orang beneran, dia nyambung.
+102	Mau tanya jawab info apapun, silahkan interaksi kayak ngomong sama orang beneran, dia nyambung.
+103	Mau tanya jawab info apapun, silahkan interaksi kayak ngomong sama orang beneran, dia nyambung.
+104	Mau tanya jawab info apapun, silahkan interaksi kayak ngomong sama orang beneran, dia nyambung.
+105	Mau tanya jawab info apapun, silahkan interaksi kayak ngomong sama orang beneran, dia nyambung.
+106	Mau tanya jawab info apapun, silahkan interaksi kayak ngomong sama orang beneran, dia nyambung.
+107	Mau tanya jawab info apapun, silahkan interaksi kayak ngomong sama orang beneran, dia nyambung.
+108	Mau tanya jawab info apapun, silahkan interaksi kayak ngomong sama orang beneran, dia nyambung.
+109	Mau tanya jawab info apapun, silahkan interaksi kayak ngomong sama orang beneran, dia nyambung.
+110	Jawabannya bakal ditampilkan di video selanjutnya.
+111	Jawabannya bakal ditampilkan di video selanjutnya.
+112	Jawabannya bakal ditampilkan di video selanjutnya.
+113	Jawabannya bakal ditampilkan di video selanjutnya. Ngelilin di layar, dan ada suaranya juga. Cool.
+114	Jawabannya bakal ditampilkan di video selanjutnya. Ngelilin di layar, dan ada suaranya juga. Cool.
+115	Ngelilin di layar, dan ada suaranya juga. Cool.
+116	Ngelilin di layar, dan ada suaranya juga. Cool.
+117	Ngelilin di layar, dan ada suaranya juga. Cool.
+118	Ngelilin di layar, dan ada suaranya juga. Cool. Rencanakan menu, hindari membeli bahan yang tidak terpakai.
+119	Rencanakan menu, hindari membeli bahan yang tidak terpakai.
+120	Rencanakan menu, hindari membeli bahan yang tidak terpakai.
+121	Rencanakan menu, hindari membeli bahan yang tidak terpakai.
+122	Rencanakan menu, hindari membeli bahan yang tidak terpakai.
+123	Rencanakan menu, hindari membeli bahan yang tidak terpakai.
+124	Rencanakan menu, hindari membeli bahan yang tidak terpakai.
+125	Rencanakan menu, hindari membeli bahan yang tidak terpakai. Selain Gemini AI, sekarang Watch 8 Classic juga bisa jadi running coach,
+126	Selain Gemini AI, sekarang Watch 8 Classic juga bisa jadi running coach,
+127	Selain Gemini AI, sekarang Watch 8 Classic juga bisa jadi running coach,
+128	Selain Gemini AI, sekarang Watch 8 Classic juga bisa jadi running coach,
+129	Selain Gemini AI, sekarang Watch 8 Classic juga bisa jadi running coach,
+130	Selain Gemini AI, sekarang Watch 8 Classic juga bisa jadi running coach,
+131	Selain Gemini AI, sekarang Watch 8 Classic juga bisa jadi running coach,
+132	Selain Gemini AI, sekarang Watch 8 Classic juga bisa jadi running coach, yang susunin porsi latihan lari kita buat target tertentu.
+133	Selain Gemini AI, sekarang Watch 8 Classic juga bisa jadi running coach, yang susunin porsi latihan lari kita buat target tertentu.
+134	yang susunin porsi latihan lari kita buat target tertentu.
+135	yang susunin porsi latihan lari kita buat target tertentu.
+136	yang susunin porsi latihan lari kita buat target tertentu.
+137	yang susunin porsi latihan lari kita buat target tertentu.
+138	yang susunin porsi latihan lari kita buat target tertentu.
+139	yang susunin porsi latihan lari kita buat target tertentu. Bisa ngasih sleep guidance biar tidur jadi lebih berkualitas.
+140	yang susunin porsi latihan lari kita buat target tertentu. Bisa ngasih sleep guidance biar tidur jadi lebih berkualitas.
+141	Bisa ngasih sleep guidance biar tidur jadi lebih berkualitas.
+142	Bisa ngasih sleep guidance biar tidur jadi lebih berkualitas.
+143	Bisa ngasih sleep guidance biar tidur jadi lebih berkualitas.
+144	Bisa ngasih sleep guidance biar tidur jadi lebih berkualitas.
+145	Bisa ngasih sleep guidance biar tidur jadi lebih berkualitas.
+146	Bisa ngasih sleep guidance biar tidur jadi lebih berkualitas. Bisa cek energi score buat gambaran kondisi badan sebelum aktivitas.
+147	Bisa ngasih sleep guidance biar tidur jadi lebih berkualitas. Bisa cek energi score buat gambaran kondisi badan sebelum aktivitas.
+148	Bisa cek energi score buat gambaran kondisi badan sebelum aktivitas.
+149	Bisa cek energi score buat gambaran kondisi badan sebelum aktivitas.
+150	Bisa cek energi score buat gambaran kondisi badan sebelum aktivitas.
+151	Bisa cek energi score buat gambaran kondisi badan sebelum aktivitas.
+152	Bisa cek energi score buat gambaran kondisi badan sebelum aktivitas.
+153	Bisa cek energi score buat gambaran kondisi badan sebelum aktivitas.
+154	Bisa cek energi score buat gambaran kondisi badan sebelum aktivitas. Bisa tracking vascular load, data tentang beban di sistem peredaran darah kita.
+155	Bisa cek energi score buat gambaran kondisi badan sebelum aktivitas. Bisa tracking vascular load, data tentang beban di sistem peredaran darah kita.
+156	Bisa tracking vascular load, data tentang beban di sistem peredaran darah kita.
+157	Bisa tracking vascular load, data tentang beban di sistem peredaran darah kita.
+158	Bisa tracking vascular load, data tentang beban di sistem peredaran darah kita.
+159	Bisa tracking vascular load, data tentang beban di sistem peredaran darah kita.
+160	Bisa tracking vascular load, data tentang beban di sistem peredaran darah kita.
+161	Bisa tracking vascular load, data tentang beban di sistem peredaran darah kita.
+162	Bisa tracking vascular load, data tentang beban di sistem peredaran darah kita.
+163	Bisa tracking vascular load, data tentang beban di sistem peredaran darah kita. Kasih panduan buat latihan napas, biar pikiran lebih tenang, relax.
+164	Bisa tracking vascular load, data tentang beban di sistem peredaran darah kita. Kasih panduan buat latihan napas, biar pikiran lebih tenang, relax.
+165	Kasih panduan buat latihan napas, biar pikiran lebih tenang, relax.
+166	Kasih panduan buat latihan napas, biar pikiran lebih tenang, relax.
+167	Kasih panduan buat latihan napas, biar pikiran lebih tenang, relax.
+168	Kasih panduan buat latihan napas, biar pikiran lebih tenang, relax.
+169	Kasih panduan buat latihan napas, biar pikiran lebih tenang, relax.
+170	Kasih panduan buat latihan napas, biar pikiran lebih tenang, relax.
+171	Kasih panduan buat latihan napas, biar pikiran lebih tenang, relax.
+172	Kasih panduan buat latihan napas, biar pikiran lebih tenang, relax.
+173	Data soal status antioksidan di badan makin pinter aja.
+174	Data soal status antioksidan di badan makin pinter aja.
+175	Data soal status antioksidan di badan makin pinter aja.
+176	Data soal status antioksidan di badan makin pinter aja.
+177	Data soal status antioksidan di badan makin pinter aja.
+178	Data soal status antioksidan di badan makin pinter aja.
+179	Data soal status antioksidan di badan makin pinter aja.
+180	Data soal status antioksidan di badan makin pinter aja. Dukungan buat aplikasi third party juga makin banyak.
+181	Data soal status antioksidan di badan makin pinter aja. Dukungan buat aplikasi third party juga makin banyak.
+182	Dukungan buat aplikasi third party juga makin banyak.
+183	Dukungan buat aplikasi third party juga makin banyak.
+184	Dukungan buat aplikasi third party juga makin banyak.
+185	Dukungan buat aplikasi third party juga makin banyak.
+186	Dukungan buat aplikasi third party juga makin banyak. Mulai dari Strava, Spotify, To Do List, dan lain-lain yang bisa dilihat di Play Store.
+187	Dukungan buat aplikasi third party juga makin banyak. Mulai dari Strava, Spotify, To Do List, dan lain-lain yang bisa dilihat di Play Store.
+188	Mulai dari Strava, Spotify, To Do List, dan lain-lain yang bisa dilihat di Play Store.
+189	Mulai dari Strava, Spotify, To Do List, dan lain-lain yang bisa dilihat di Play Store.
+190	Mulai dari Strava, Spotify, To Do List, dan lain-lain yang bisa dilihat di Play Store.
+191	Mulai dari Strava, Spotify, To Do List, dan lain-lain yang bisa dilihat di Play Store.
+192	Mulai dari Strava, Spotify, To Do List, dan lain-lain yang bisa dilihat di Play Store.
+193	Mulai dari Strava, Spotify, To Do List, dan lain-lain yang bisa dilihat di Play Store.
+194	Mulai dari Strava, Spotify, To Do List, dan lain-lain yang bisa dilihat di Play Store.
+195	Mulai dari Strava, Spotify, To Do List, dan lain-lain yang bisa dilihat di Play Store.
+196	Mulai dari Strava, Spotify, To Do List, dan lain-lain yang bisa dilihat di Play Store.
+197	Mulai dari Strava, Spotify, To Do List, dan lain-lain yang bisa dilihat di Play Store. Fungsi wajib kayak tracking olahraga, denyut jantung, kontrol kamera HP pasti tetep ada.
+198	Mulai dari Strava, Spotify, To Do List, dan lain-lain yang bisa dilihat di Play Store. Fungsi wajib kayak tracking olahraga, denyut jantung, kontrol kamera HP pasti tetep ada.
+199	Fungsi wajib kayak tracking olahraga, denyut jantung, kontrol kamera HP pasti tetep ada.
+200	Fungsi wajib kayak tracking olahraga, denyut jantung, kontrol kamera HP pasti tetep ada.
+201	Fungsi wajib kayak tracking olahraga, denyut jantung, kontrol kamera HP pasti tetep ada.
+202	Fungsi wajib kayak tracking olahraga, denyut jantung, kontrol kamera HP pasti tetep ada.
+203	Fungsi wajib kayak tracking olahraga, denyut jantung, kontrol kamera HP pasti tetep ada.
+204	Fungsi wajib kayak tracking olahraga, denyut jantung, kontrol kamera HP pasti tetep ada.
+205	Fungsi wajib kayak tracking olahraga, denyut jantung, kontrol kamera HP pasti tetep ada.
+206	Fungsi wajib kayak tracking olahraga, denyut jantung, kontrol kamera HP pasti tetep ada.
+207	Fungsi wajib kayak tracking olahraga, denyut jantung, kontrol kamera HP pasti tetep ada.
+208	Fungsi wajib kayak tracking olahraga, denyut jantung, kontrol kamera HP pasti tetep ada. Brightness layar juga udah pasti tinggi, 3000 nits.
+209	Brightness layar juga udah pasti tinggi, 3000 nits.
+210	Brightness layar juga udah pasti tinggi, 3000 nits.
+211	Brightness layar juga udah pasti tinggi, 3000 nits.
+212	Brightness layar juga udah pasti tinggi, 3000 nits.
+213	Brightness layar juga udah pasti tinggi, 3000 nits.
+214	Brightness layar juga udah pasti tinggi, 3000 nits. Pake outdoor trick juga aman.
+215	Brightness layar juga udah pasti tinggi, 3000 nits. Pake outdoor trick juga aman.
+216	Pake outdoor trick juga aman.
+217	Pake outdoor trick juga aman. Jadi, Samsung Galaxy Watch 8 Classic.
+218	Pake outdoor trick juga aman. Jadi, Samsung Galaxy Watch 8 Classic.
+219	Jadi, Samsung Galaxy Watch 8 Classic.
+220	Jadi, Samsung Galaxy Watch 8 Classic.
+221	Jadi, Samsung Galaxy Watch 8 Classic.
+222	Jadi, Samsung Galaxy Watch 8 Classic. Gayanya klasik, isinya makin canggih ya.
+223	Jadi, Samsung Galaxy Watch 8 Classic. Gayanya klasik, isinya makin canggih ya.
+224	Gayanya klasik, isinya makin canggih ya.
+225	Gayanya klasik, isinya makin canggih ya.
+226	Gayanya klasik, isinya makin canggih ya.
+227	Gayanya klasik, isinya makin canggih ya.
+228	Gayanya klasik, isinya makin canggih ya. Makin pinter lagi.
+229	Makin pinter lagi.
+230	Makin pinter lagi.
+231	Makin pinter lagi.
+232	[NO_SPEECH]
+233	[NO_SPEECH]
+234	[NO_SPEECH]

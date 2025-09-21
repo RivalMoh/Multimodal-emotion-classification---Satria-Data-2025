@@ -1,0 +1,162 @@
+0	Jadi dokter ikan, sama sekali nggak mudah.
+1	Jadi dokter ikan, sama sekali nggak mudah.
+2	Jadi dokter ikan, sama sekali nggak mudah.
+3	Jadi dokter ikan, sama sekali nggak mudah.
+4	Jadi dokter ikan, sama sekali nggak mudah.
+5	Jadi dokter ikan, sama sekali nggak mudah. Seringkali aku dapat klien yang ikannya sakit satu kolam.
+6	Jadi dokter ikan, sama sekali nggak mudah. Seringkali aku dapat klien yang ikannya sakit satu kolam.
+7	Seringkali aku dapat klien yang ikannya sakit satu kolam.
+8	Seringkali aku dapat klien yang ikannya sakit satu kolam.
+9	Seringkali aku dapat klien yang ikannya sakit satu kolam.
+10	Seringkali aku dapat klien yang ikannya sakit satu kolam.
+11	Seringkali aku dapat klien yang ikannya sakit satu kolam.
+12	Seringkali aku dapat klien yang ikannya sakit satu kolam.
+13	Seringkali aku dapat klien yang ikannya sakit satu kolam. Contohnya ikan-ikan ini, populasi kolamnya ada 30 ekor, semuanya nggak mau makan.
+14	Seringkali aku dapat klien yang ikannya sakit satu kolam. Contohnya ikan-ikan ini, populasi kolamnya ada 30 ekor, semuanya nggak mau makan.
+15	Contohnya ikan-ikan ini, populasi kolamnya ada 30 ekor, semuanya nggak mau makan.
+16	Contohnya ikan-ikan ini, populasi kolamnya ada 30 ekor, semuanya nggak mau makan.
+17	Contohnya ikan-ikan ini, populasi kolamnya ada 30 ekor, semuanya nggak mau makan.
+18	Contohnya ikan-ikan ini, populasi kolamnya ada 30 ekor, semuanya nggak mau makan.
+19	Contohnya ikan-ikan ini, populasi kolamnya ada 30 ekor, semuanya nggak mau makan.
+20	Contohnya ikan-ikan ini, populasi kolamnya ada 30 ekor, semuanya nggak mau makan.
+21	Contohnya ikan-ikan ini, populasi kolamnya ada 30 ekor, semuanya nggak mau makan.
+22	Contohnya ikan-ikan ini, populasi kolamnya ada 30 ekor, semuanya nggak mau makan.
+23	Contohnya ikan-ikan ini, populasi kolamnya ada 30 ekor, semuanya nggak mau makan. Ikan akhirnya dievakuasi semua di tempat karantina,
+24	Contohnya ikan-ikan ini, populasi kolamnya ada 30 ekor, semuanya nggak mau makan. Ikan akhirnya dievakuasi semua di tempat karantina,
+25	Ikan akhirnya dievakuasi semua di tempat karantina,
+26	Ikan akhirnya dievakuasi semua di tempat karantina,
+27	Ikan akhirnya dievakuasi semua di tempat karantina,
+28	Ikan akhirnya dievakuasi semua di tempat karantina, sementara kolam airnya full kita ganti dan kita riset.
+29	Ikan akhirnya dievakuasi semua di tempat karantina, sementara kolam airnya full kita ganti dan kita riset.
+30	sementara kolam airnya full kita ganti dan kita riset.
+31	sementara kolam airnya full kita ganti dan kita riset.
+32	sementara kolam airnya full kita ganti dan kita riset.
+33	sementara kolam airnya full kita ganti dan kita riset.
+34	sementara kolam airnya full kita ganti dan kita riset. Ikan-ikan yang di karantina, aku pisahkan berdasarkan gejala klinis.
+35	sementara kolam airnya full kita ganti dan kita riset. Ikan-ikan yang di karantina, aku pisahkan berdasarkan gejala klinis.
+36	Ikan-ikan yang di karantina, aku pisahkan berdasarkan gejala klinis.
+37	Ikan-ikan yang di karantina, aku pisahkan berdasarkan gejala klinis.
+38	Ikan-ikan yang di karantina, aku pisahkan berdasarkan gejala klinis.
+39	Ikan-ikan yang di karantina, aku pisahkan berdasarkan gejala klinis.
+40	Ikan-ikan yang di karantina, aku pisahkan berdasarkan gejala klinis.
+41	Ikan-ikan yang di karantina, aku pisahkan berdasarkan gejala klinis.
+42	Ikan-ikan yang di karantina, aku pisahkan berdasarkan gejala klinis. Yang gejalanya paling parah, aku jadikan satu di satu tempat.
+43	Ikan-ikan yang di karantina, aku pisahkan berdasarkan gejala klinis. Yang gejalanya paling parah, aku jadikan satu di satu tempat.
+44	Yang gejalanya paling parah, aku jadikan satu di satu tempat.
+45	Yang gejalanya paling parah, aku jadikan satu di satu tempat.
+46	Yang gejalanya paling parah, aku jadikan satu di satu tempat.
+47	Yang gejalanya paling parah, aku jadikan satu di satu tempat.
+48	Yang gejalanya paling parah, aku jadikan satu di satu tempat.
+49	Yang gejalanya paling parah, aku jadikan satu di satu tempat.
+50	Yang gejalanya paling parah, aku jadikan satu di satu tempat. Ikan-ikan inilah yang aku terapi paling intensif.
+51	Yang gejalanya paling parah, aku jadikan satu di satu tempat. Ikan-ikan inilah yang aku terapi paling intensif.
+52	Ikan-ikan inilah yang aku terapi paling intensif.
+53	Ikan-ikan inilah yang aku terapi paling intensif.
+54	Ikan-ikan inilah yang aku terapi paling intensif.
+55	Ikan-ikan inilah yang aku terapi paling intensif.
+56	Ikan-ikan inilah yang aku terapi paling intensif. Apakah kasus ini bisa selesai dalam jangka waktu satu atau dua hari?
+57	Ikan-ikan inilah yang aku terapi paling intensif. Apakah kasus ini bisa selesai dalam jangka waktu satu atau dua hari?
+58	Apakah kasus ini bisa selesai dalam jangka waktu satu atau dua hari?
+59	Apakah kasus ini bisa selesai dalam jangka waktu satu atau dua hari?
+60	Apakah kasus ini bisa selesai dalam jangka waktu satu atau dua hari?
+61	Apakah kasus ini bisa selesai dalam jangka waktu satu atau dua hari?
+62	Apakah kasus ini bisa selesai dalam jangka waktu satu atau dua hari?
+63	Apakah kasus ini bisa selesai dalam jangka waktu satu atau dua hari?
+64	Apakah kasus ini bisa selesai dalam jangka waktu satu atau dua hari? Jawabannya tentu saja tidak.
+65	Jawabannya tentu saja tidak.
+66	Jawabannya tentu saja tidak.
+67	Jawabannya tentu saja tidak. Aku dan tim dokter aku butuh waktu selama tiga minggu untuk menyelesaikan kasus ini.
+68	Aku dan tim dokter aku butuh waktu selama tiga minggu untuk menyelesaikan kasus ini.
+69	Aku dan tim dokter aku butuh waktu selama tiga minggu untuk menyelesaikan kasus ini.
+70	Aku dan tim dokter aku butuh waktu selama tiga minggu untuk menyelesaikan kasus ini.
+71	Aku dan tim dokter aku butuh waktu selama tiga minggu untuk menyelesaikan kasus ini.
+72	Aku dan tim dokter aku butuh waktu selama tiga minggu untuk menyelesaikan kasus ini.
+73	Aku dan tim dokter aku butuh waktu selama tiga minggu untuk menyelesaikan kasus ini.
+74	Aku dan tim dokter aku butuh waktu selama tiga minggu untuk menyelesaikan kasus ini.
+75	Aku dan tim dokter aku butuh waktu selama tiga minggu untuk menyelesaikan kasus ini.
+76	Aku dan tim dokter aku butuh waktu selama tiga minggu untuk menyelesaikan kasus ini. Selama satu sampai dua hari, kita rutin visit ke tempat klien untuk observasi dan melakukan pengobatan.
+77	Aku dan tim dokter aku butuh waktu selama tiga minggu untuk menyelesaikan kasus ini. Selama satu sampai dua hari, kita rutin visit ke tempat klien untuk observasi dan melakukan pengobatan.
+78	Selama satu sampai dua hari, kita rutin visit ke tempat klien untuk observasi dan melakukan pengobatan.
+79	Selama satu sampai dua hari, kita rutin visit ke tempat klien untuk observasi dan melakukan pengobatan.
+80	Selama satu sampai dua hari, kita rutin visit ke tempat klien untuk observasi dan melakukan pengobatan.
+81	Selama satu sampai dua hari, kita rutin visit ke tempat klien untuk observasi dan melakukan pengobatan.
+82	Selama satu sampai dua hari, kita rutin visit ke tempat klien untuk observasi dan melakukan pengobatan.
+83	Selama satu sampai dua hari, kita rutin visit ke tempat klien untuk observasi dan melakukan pengobatan.
+84	Selama satu sampai dua hari, kita rutin visit ke tempat klien untuk observasi dan melakukan pengobatan.
+85	Selama satu sampai dua hari, kita rutin visit ke tempat klien untuk observasi dan melakukan pengobatan.
+86	Selama satu sampai dua hari, kita rutin visit ke tempat klien untuk observasi dan melakukan pengobatan.
+87	Selama satu sampai dua hari, kita rutin visit ke tempat klien untuk observasi dan melakukan pengobatan.
+88	Selama satu sampai dua hari, kita rutin visit ke tempat klien untuk observasi dan melakukan pengobatan. Apakah semuanya bisa berhasil kami selamatkan?
+89	Apakah semuanya bisa berhasil kami selamatkan?
+90	Apakah semuanya bisa berhasil kami selamatkan?
+91	Apakah semuanya bisa berhasil kami selamatkan?
+92	Apakah semuanya bisa berhasil kami selamatkan?
+93	Apakah semuanya bisa berhasil kami selamatkan? Tentu saja tidak.
+94	Tentu saja tidak.
+95	Tentu saja tidak.
+96	Tentu saja tidak.
+97	Tentu saja tidak.
+98	[NO_SPEECH]
+99	Yang bertahan kurang lebih hanya 18 ekor.
+100	Yang bertahan kurang lebih hanya 18 ekor.
+101	Yang bertahan kurang lebih hanya 18 ekor.
+102	Yang bertahan kurang lebih hanya 18 ekor.
+103	Yang bertahan kurang lebih hanya 18 ekor.
+104	Yang bertahan kurang lebih hanya 18 ekor. Beberapa ikan yang menunjukkan gejala klinis paling parah, justru yang selamat.
+105	Yang bertahan kurang lebih hanya 18 ekor. Beberapa ikan yang menunjukkan gejala klinis paling parah, justru yang selamat.
+106	Beberapa ikan yang menunjukkan gejala klinis paling parah, justru yang selamat.
+107	Beberapa ikan yang menunjukkan gejala klinis paling parah, justru yang selamat.
+108	Beberapa ikan yang menunjukkan gejala klinis paling parah, justru yang selamat.
+109	Beberapa ikan yang menunjukkan gejala klinis paling parah, justru yang selamat.
+110	Beberapa ikan yang menunjukkan gejala klinis paling parah, justru yang selamat.
+111	Beberapa ikan yang menunjukkan gejala klinis paling parah, justru yang selamat.
+112	Beberapa ikan yang menunjukkan gejala klinis paling parah, justru yang selamat.
+113	Beberapa ikan yang menunjukkan gejala klinis paling parah, justru yang selamat.
+114	Beberapa ikan yang menunjukkan gejala klinis paling parah, justru yang selamat. Yang insangnya sudah nyatakan.
+115	Beberapa ikan yang menunjukkan gejala klinis paling parah, justru yang selamat. Yang insangnya sudah nyatakan.
+116	Yang insangnya sudah nyatakan. Yang nekrosis atau busuk sebanyak 70% sampai hari ini masih hidup.
+117	Yang insangnya sudah nyatakan. Yang nekrosis atau busuk sebanyak 70% sampai hari ini masih hidup.
+118	Yang nekrosis atau busuk sebanyak 70% sampai hari ini masih hidup.
+119	Yang nekrosis atau busuk sebanyak 70% sampai hari ini masih hidup.
+120	Yang nekrosis atau busuk sebanyak 70% sampai hari ini masih hidup.
+121	Yang nekrosis atau busuk sebanyak 70% sampai hari ini masih hidup.
+122	Yang nekrosis atau busuk sebanyak 70% sampai hari ini masih hidup.
+123	Yang nekrosis atau busuk sebanyak 70% sampai hari ini masih hidup.
+124	Yang nekrosis atau busuk sebanyak 70% sampai hari ini masih hidup.
+125	Yang nekrosis atau busuk sebanyak 70% sampai hari ini masih hidup. Setelah sudah selesai pengobatan, ikan satu per satu kita rilis kembali ke kolam.
+126	Yang nekrosis atau busuk sebanyak 70% sampai hari ini masih hidup. Setelah sudah selesai pengobatan, ikan satu per satu kita rilis kembali ke kolam.
+127	Setelah sudah selesai pengobatan, ikan satu per satu kita rilis kembali ke kolam.
+128	Setelah sudah selesai pengobatan, ikan satu per satu kita rilis kembali ke kolam.
+129	Setelah sudah selesai pengobatan, ikan satu per satu kita rilis kembali ke kolam.
+130	Setelah sudah selesai pengobatan, ikan satu per satu kita rilis kembali ke kolam.
+131	Setelah sudah selesai pengobatan, ikan satu per satu kita rilis kembali ke kolam.
+132	Setelah sudah selesai pengobatan, ikan satu per satu kita rilis kembali ke kolam.
+133	Setelah sudah selesai pengobatan, ikan satu per satu kita rilis kembali ke kolam.
+134	Setelah sudah selesai pengobatan, ikan satu per satu kita rilis kembali ke kolam.
+135	Setelah sudah selesai pengobatan, ikan satu per satu kita rilis kembali ke kolam.
+136	Setelah sudah selesai pengobatan, ikan satu per satu kita rilis kembali ke kolam. Ikan terlihat sudah lebih lincah dan yang gak kalah penting, ikan sudah mau makan.
+137	Setelah sudah selesai pengobatan, ikan satu per satu kita rilis kembali ke kolam. Ikan terlihat sudah lebih lincah dan yang gak kalah penting, ikan sudah mau makan.
+138	Ikan terlihat sudah lebih lincah dan yang gak kalah penting, ikan sudah mau makan.
+139	Ikan terlihat sudah lebih lincah dan yang gak kalah penting, ikan sudah mau makan.
+140	Ikan terlihat sudah lebih lincah dan yang gak kalah penting, ikan sudah mau makan.
+141	Ikan terlihat sudah lebih lincah dan yang gak kalah penting, ikan sudah mau makan.
+142	Ikan terlihat sudah lebih lincah dan yang gak kalah penting, ikan sudah mau makan.
+143	Ikan terlihat sudah lebih lincah dan yang gak kalah penting, ikan sudah mau makan.
+144	Ikan terlihat sudah lebih lincah dan yang gak kalah penting, ikan sudah mau makan.
+145	Ikan terlihat sudah lebih lincah dan yang gak kalah penting, ikan sudah mau makan.
+146	Ikan terlihat sudah lebih lincah dan yang gak kalah penting, ikan sudah mau makan. Aku dan owner ngerasa happy banget setelah tiga minggu perjuangan.
+147	Ikan terlihat sudah lebih lincah dan yang gak kalah penting, ikan sudah mau makan. Aku dan owner ngerasa happy banget setelah tiga minggu perjuangan.
+148	Aku dan owner ngerasa happy banget setelah tiga minggu perjuangan.
+149	Aku dan owner ngerasa happy banget setelah tiga minggu perjuangan.
+150	Aku dan owner ngerasa happy banget setelah tiga minggu perjuangan.
+151	Aku dan owner ngerasa happy banget setelah tiga minggu perjuangan.
+152	Aku dan owner ngerasa happy banget setelah tiga minggu perjuangan.
+153	Aku dan owner ngerasa happy banget setelah tiga minggu perjuangan.
+154	Aku dan owner ngerasa happy banget setelah tiga minggu perjuangan.
+155	Aku dan owner ngerasa happy banget setelah tiga minggu perjuangan.
+156	[NO_SPEECH]
+157	[NO_SPEECH]
+158	[NO_SPEECH]
+159	[NO_SPEECH]
+160	[NO_SPEECH]
+161	[NO_SPEECH]

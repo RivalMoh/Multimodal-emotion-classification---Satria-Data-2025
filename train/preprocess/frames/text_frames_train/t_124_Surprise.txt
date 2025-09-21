@@ -1,0 +1,16 @@
+0	Habis servis? Jangan diam!
+1	Habis servis? Jangan diam!
+2	Habis servis? Jangan diam! Kalian bisa langsung angkat raket dan kaki siap bergerak seperti ini ya.
+3	Kalian bisa langsung angkat raket dan kaki siap bergerak seperti ini ya.
+4	Kalian bisa langsung angkat raket dan kaki siap bergerak seperti ini ya.
+5	Kalian bisa langsung angkat raket dan kaki siap bergerak seperti ini ya.
+6	Kalian bisa langsung angkat raket dan kaki siap bergerak seperti ini ya.
+7	Kalian bisa langsung angkat raket dan kaki siap bergerak seperti ini ya.
+8	Kalian bisa langsung angkat raket dan kaki siap bergerak seperti ini ya. Gimana? Udah siap cobain di lapangan?
+9	Kalian bisa langsung angkat raket dan kaki siap bergerak seperti ini ya. Gimana? Udah siap cobain di lapangan?
+10	Gimana? Udah siap cobain di lapangan?
+11	Gimana? Udah siap cobain di lapangan?
+12	Gimana? Udah siap cobain di lapangan? Jangan lupa follow ya!
+13	Jangan lupa follow ya!
+14	Jangan lupa follow ya!
+15	[NO_SPEECH]

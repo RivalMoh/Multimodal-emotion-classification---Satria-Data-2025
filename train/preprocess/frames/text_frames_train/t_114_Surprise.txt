@@ -1,0 +1,84 @@
+0	Lari sendiri bukan berarti gak punya temen
+1	Lari sendiri bukan berarti gak punya temen
+2	Lari sendiri bukan berarti gak punya temen
+3	Lari sendiri bukan berarti gak punya temen
+4	Lari sendiri bukan berarti gak punya temen Kalau kita mau punya banyak temen
+5	Lari sendiri bukan berarti gak punya temen Kalau kita mau punya banyak temen
+6	Kalau kita mau punya banyak temen
+7	Kalau kita mau punya banyak temen
+8	Kalau kita mau punya banyak temen
+9	Kalau kita mau punya banyak temen Ikuti arus
+10	Kalau kita mau punya banyak temen Ikuti arus
+11	Ikuti arus Pasti temennya banyak
+12	Ikuti arus Pasti temennya banyak
+13	Pasti temennya banyak
+14	Pasti temennya banyak Tapi kita harus siap-siap John
+15	Pasti temennya banyak Tapi kita harus siap-siap John
+16	Tapi kita harus siap-siap John
+17	Tapi kita harus siap-siap John
+18	Tapi kita harus siap-siap John
+19	Tapi kita harus siap-siap John Kita gak punya karakter
+20	Tapi kita harus siap-siap John Kita gak punya karakter
+21	Kita gak punya karakter
+22	Kita gak punya karakter Kita cuma jadi kerumunan di tengah keramayan
+23	Kita gak punya karakter Kita cuma jadi kerumunan di tengah keramayan
+24	Kita cuma jadi kerumunan di tengah keramayan
+25	Kita cuma jadi kerumunan di tengah keramayan
+26	Kita cuma jadi kerumunan di tengah keramayan
+27	Kita cuma jadi kerumunan di tengah keramayan
+28	Kita cuma jadi kerumunan di tengah keramayan Besabis gak tuh
+29	Kita cuma jadi kerumunan di tengah keramayan Besabis gak tuh
+30	Kita cuma jadi kerumunan di tengah keramayan Besabis gak tuh
+31	Besabis gak tuh
+32	Besabis gak tuh Dan belum tentu temen-temen kita kenal kita
+33	Besabis gak tuh Dan belum tentu temen-temen kita kenal kita
+34	Dan belum tentu temen-temen kita kenal kita
+35	Dan belum tentu temen-temen kita kenal kita
+36	Dan belum tentu temen-temen kita kenal kita
+37	Dan belum tentu temen-temen kita kenal kita
+38	Dan belum tentu temen-temen kita kenal kita Karena kita gak punya identitas
+39	Dan belum tentu temen-temen kita kenal kita Karena kita gak punya identitas
+40	Karena kita gak punya identitas
+41	Karena kita gak punya identitas
+42	Karena kita gak punya identitas
+43	[NO_SPEECH]
+44	Jadi kalau kita
+45	Jadi kalau kita
+46	Jadi kalau kita
+47	Jadi kalau kita Mau punya karakter dan identitas
+48	Jadi kalau kita Mau punya karakter dan identitas
+49	Mau punya karakter dan identitas
+50	Mau punya karakter dan identitas
+51	Mau punya karakter dan identitas
+52	Mau punya karakter dan identitas
+53	Mau punya karakter dan identitas
+54	Mau punya karakter dan identitas
+55	Kenali diri kalian
+56	Kenali diri kalian
+57	Kenali diri kalian
+58	Kenali diri kalian
+59	Kenali diri kalian
+60	Gak ada salahnya
+61	Gak ada salahnya
+62	Gak ada salahnya
+63	Gak ada salahnya Lari sendirian
+64	Gak ada salahnya Lari sendirian
+65	Lari sendirian
+66	Lari sendirian
+67	Lari sendirian
+68	[NO_SPEECH]
+69	[NO_SPEECH]
+70	Ya gak?
+71	Ya gak?
+72	Ya gak?
+73	Ya gak?
+74	[NO_SPEECH]
+75	Ya dong
+76	Ya dong Masa enggak?
+77	Ya dong Masa enggak?
+78	Masa enggak?
+79	Masa enggak?
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	[NO_SPEECH]
+83	[NO_SPEECH]

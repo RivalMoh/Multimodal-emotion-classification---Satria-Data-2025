@@ -1,0 +1,159 @@
+0	Sudah keliling Indonesia, sekarang lagi keliling ASEAN.
+1	Sudah keliling Indonesia, sekarang lagi keliling ASEAN.
+2	Sudah keliling Indonesia, sekarang lagi keliling ASEAN.
+3	Sudah keliling Indonesia, sekarang lagi keliling ASEAN.
+4	Sudah keliling Indonesia, sekarang lagi keliling ASEAN. Nah pertanyaannya, Duo Tigo ini sudah jalan berapa kilometer sih totalnya?
+5	Sudah keliling Indonesia, sekarang lagi keliling ASEAN. Nah pertanyaannya, Duo Tigo ini sudah jalan berapa kilometer sih totalnya?
+6	Nah pertanyaannya, Duo Tigo ini sudah jalan berapa kilometer sih totalnya?
+7	Nah pertanyaannya, Duo Tigo ini sudah jalan berapa kilometer sih totalnya?
+8	Nah pertanyaannya, Duo Tigo ini sudah jalan berapa kilometer sih totalnya?
+9	Nah pertanyaannya, Duo Tigo ini sudah jalan berapa kilometer sih totalnya?
+10	Nah pertanyaannya, Duo Tigo ini sudah jalan berapa kilometer sih totalnya?
+11	Nah pertanyaannya, Duo Tigo ini sudah jalan berapa kilometer sih totalnya?
+12	Nah pertanyaannya, Duo Tigo ini sudah jalan berapa kilometer sih totalnya?
+13	Nah pertanyaannya, Duo Tigo ini sudah jalan berapa kilometer sih totalnya?
+14	Nah pertanyaannya, Duo Tigo ini sudah jalan berapa kilometer sih totalnya? Kita mulai dari yang Tigo 8 dulu.
+15	Nah pertanyaannya, Duo Tigo ini sudah jalan berapa kilometer sih totalnya? Kita mulai dari yang Tigo 8 dulu.
+16	Kita mulai dari yang Tigo 8 dulu.
+17	Kita mulai dari yang Tigo 8 dulu.
+18	Kita mulai dari yang Tigo 8 dulu.
+19	Kita mulai dari yang Tigo 8 dulu. Nih, kita buka mobilnya.
+20	Nih, kita buka mobilnya.
+21	Nih, kita buka mobilnya.
+22	Nih, kita buka mobilnya.
+23	Nih, kita buka mobilnya. Kemudian kita cek di speedometer, kita sudah jalan 26.172 kilometer.
+24	Kemudian kita cek di speedometer, kita sudah jalan 26.172 kilometer.
+25	Kemudian kita cek di speedometer, kita sudah jalan 26.172 kilometer.
+26	Kemudian kita cek di speedometer, kita sudah jalan 26.172 kilometer.
+27	Kemudian kita cek di speedometer, kita sudah jalan 26.172 kilometer.
+28	Kemudian kita cek di speedometer, kita sudah jalan 26.172 kilometer.
+29	Kemudian kita cek di speedometer, kita sudah jalan 26.172 kilometer.
+30	Kemudian kita cek di speedometer, kita sudah jalan 26.172 kilometer.
+31	Kemudian kita cek di speedometer, kita sudah jalan 26.172 kilometer.
+32	Kemudian kita cek di speedometer, kita sudah jalan 26.172 kilometer.
+33	Kemudian kita cek di speedometer, kita sudah jalan 26.172 kilometer.
+34	Kemudian kita cek di speedometer, kita sudah jalan 26.172 kilometer.
+35	Kemudian kita cek di speedometer, kita sudah jalan 26.172 kilometer.
+36	Kemudian kita cek di speedometer, kita sudah jalan 26.172 kilometer.
+37	Kemudian kita cek di speedometer, kita sudah jalan 26.172 kilometer.
+38	Kemudian kita cek di speedometer, kita sudah jalan 26.172 kilometer.
+39	Kemudian kita cek di speedometer, kita sudah jalan 26.172 kilometer.
+40	Dan ini tuh sekarang kita lagi otw ke Bangkok.
+41	Dan ini tuh sekarang kita lagi otw ke Bangkok.
+42	Dan ini tuh sekarang kita lagi otw ke Bangkok.
+43	Dan ini tuh sekarang kita lagi otw ke Bangkok.
+44	Dan ini tuh sekarang kita lagi otw ke Bangkok.
+45	Dan ini tuh sekarang kita lagi otw ke Bangkok.
+46	Dan ini tuh sekarang kita lagi otw ke Bangkok.
+47	Dan ini tuh sekarang kita lagi otw ke Bangkok. Alias dari Phuket ke Bangkok itu sekitar 800 kilometer.
+48	Dan ini tuh sekarang kita lagi otw ke Bangkok. Alias dari Phuket ke Bangkok itu sekitar 800 kilometer.
+49	Alias dari Phuket ke Bangkok itu sekitar 800 kilometer.
+50	Alias dari Phuket ke Bangkok itu sekitar 800 kilometer.
+51	Alias dari Phuket ke Bangkok itu sekitar 800 kilometer.
+52	Alias dari Phuket ke Bangkok itu sekitar 800 kilometer.
+53	Alias dari Phuket ke Bangkok itu sekitar 800 kilometer. Jadi kita masih ada sekitar 400 kilometer lagi untuk jalan.
+54	Alias dari Phuket ke Bangkok itu sekitar 800 kilometer. Jadi kita masih ada sekitar 400 kilometer lagi untuk jalan.
+55	Jadi kita masih ada sekitar 400 kilometer lagi untuk jalan.
+56	Jadi kita masih ada sekitar 400 kilometer lagi untuk jalan.
+57	Jadi kita masih ada sekitar 400 kilometer lagi untuk jalan.
+58	Jadi kita masih ada sekitar 400 kilometer lagi untuk jalan.
+59	Jadi kita masih ada sekitar 400 kilometer lagi untuk jalan. Nah buat teman-teman yang pengen lihat update berapa kilometer total mobil ini secara live,
+60	Jadi kita masih ada sekitar 400 kilometer lagi untuk jalan. Nah buat teman-teman yang pengen lihat update berapa kilometer total mobil ini secara live,
+61	Nah buat teman-teman yang pengen lihat update berapa kilometer total mobil ini secara live,
+62	Nah buat teman-teman yang pengen lihat update berapa kilometer total mobil ini secara live,
+63	Nah buat teman-teman yang pengen lihat update berapa kilometer total mobil ini secara live,
+64	Nah buat teman-teman yang pengen lihat update berapa kilometer total mobil ini secara live,
+65	Nah buat teman-teman yang pengen lihat update berapa kilometer total mobil ini secara live,
+66	Nah buat teman-teman yang pengen lihat update berapa kilometer total mobil ini secara live,
+67	Nah buat teman-teman yang pengen lihat update berapa kilometer total mobil ini secara live,
+68	Nah buat teman-teman yang pengen lihat update berapa kilometer total mobil ini secara live,
+69	Nah buat teman-teman yang pengen lihat update berapa kilometer total mobil ini secara live, kalian bisa langsung ke gps.id.
+70	Nah buat teman-teman yang pengen lihat update berapa kilometer total mobil ini secara live, kalian bisa langsung ke gps.id.
+71	kalian bisa langsung ke gps.id.
+72	kalian bisa langsung ke gps.id.
+73	kalian bisa langsung ke gps.id.
+74	kalian bisa langsung ke gps.id.
+75	kalian bisa langsung ke gps.id. Di situ kalian bisa lihat dan nge-track di mana Duo Tigo sekarang.
+76	Di situ kalian bisa lihat dan nge-track di mana Duo Tigo sekarang.
+77	Di situ kalian bisa lihat dan nge-track di mana Duo Tigo sekarang.
+78	Di situ kalian bisa lihat dan nge-track di mana Duo Tigo sekarang.
+79	Di situ kalian bisa lihat dan nge-track di mana Duo Tigo sekarang.
+80	Di situ kalian bisa lihat dan nge-track di mana Duo Tigo sekarang.
+81	Di situ kalian bisa lihat dan nge-track di mana Duo Tigo sekarang.
+82	Di situ kalian bisa lihat dan nge-track di mana Duo Tigo sekarang.
+83	Di situ kalian bisa lihat dan nge-track di mana Duo Tigo sekarang. Dan kalian juga bisa lihat berapa kilometer yang sudah ditemukan.
+84	Di situ kalian bisa lihat dan nge-track di mana Duo Tigo sekarang. Dan kalian juga bisa lihat berapa kilometer yang sudah ditemukan.
+85	Dan kalian juga bisa lihat berapa kilometer yang sudah ditemukan.
+86	Dan kalian juga bisa lihat berapa kilometer yang sudah ditemukan.
+87	Dan kalian juga bisa lihat berapa kilometer yang sudah ditemukan.
+88	Dan kalian juga bisa lihat berapa kilometer yang sudah ditemukan.
+89	Dan kalian juga bisa lihat berapa kilometer yang sudah ditemukan.
+90	Dan kalian juga bisa lihat berapa kilometer yang sudah ditemukan.
+91	Dan kalian juga bisa lihat berapa kilometer yang sudah ditemukan. Termasuk yang mobil ini.
+92	Termasuk yang mobil ini.
+93	Termasuk yang mobil ini.
+94	Termasuk yang mobil ini.
+95	Termasuk yang mobil ini. Dan trackernya ini juga sangat canggih.
+96	Termasuk yang mobil ini. Dan trackernya ini juga sangat canggih.
+97	Dan trackernya ini juga sangat canggih.
+98	Dan trackernya ini juga sangat canggih.
+99	Dan trackernya ini juga sangat canggih.
+100	Dan trackernya ini juga sangat canggih. Jadi kalau misalnya kita terpisah,
+101	Dan trackernya ini juga sangat canggih. Jadi kalau misalnya kita terpisah,
+102	Jadi kalau misalnya kita terpisah,
+103	Jadi kalau misalnya kita terpisah,
+104	Jadi kalau misalnya kita terpisah, gue pun juga bisa nge-check tampilan interior sama tampilan di luarnya.
+105	gue pun juga bisa nge-check tampilan interior sama tampilan di luarnya.
+106	gue pun juga bisa nge-check tampilan interior sama tampilan di luarnya.
+107	gue pun juga bisa nge-check tampilan interior sama tampilan di luarnya.
+108	gue pun juga bisa nge-check tampilan interior sama tampilan di luarnya.
+109	gue pun juga bisa nge-check tampilan interior sama tampilan di luarnya.
+110	gue pun juga bisa nge-check tampilan interior sama tampilan di luarnya.
+111	gue pun juga bisa nge-check tampilan interior sama tampilan di luarnya.
+112	gue pun juga bisa nge-check tampilan interior sama tampilan di luarnya.
+113	gue pun juga bisa nge-check tampilan interior sama tampilan di luarnya. Seperti apa?
+114	Seperti apa? Karena dia sudah dilengkapi dengan kamera buat dalam dan luar.
+115	Karena dia sudah dilengkapi dengan kamera buat dalam dan luar.
+116	Karena dia sudah dilengkapi dengan kamera buat dalam dan luar.
+117	Karena dia sudah dilengkapi dengan kamera buat dalam dan luar.
+118	Karena dia sudah dilengkapi dengan kamera buat dalam dan luar.
+119	Karena dia sudah dilengkapi dengan kamera buat dalam dan luar.
+120	Karena dia sudah dilengkapi dengan kamera buat dalam dan luar. Jadi ada dashcam-nya lah.
+121	Karena dia sudah dilengkapi dengan kamera buat dalam dan luar. Jadi ada dashcam-nya lah.
+122	Jadi ada dashcam-nya lah.
+123	Jadi ada dashcam-nya lah.
+124	Jadi ada dashcam-nya lah. Cuma bisa di-Live.
+125	Jadi ada dashcam-nya lah. Cuma bisa di-Live.
+126	Cuma bisa di-Live. Tapi kalian nggak bisa lihat live.
+127	Cuma bisa di-Live. Tapi kalian nggak bisa lihat live.
+128	Tapi kalian nggak bisa lihat live.
+129	Tapi kalian nggak bisa lihat live. Itu cuma buat kita aja.
+130	Tapi kalian nggak bisa lihat live. Itu cuma buat kita aja.
+131	Itu cuma buat kita aja. Dan teman-teman juga bisa langsung masuk ke Instagramnya at Duo Tigo.
+132	Dan teman-teman juga bisa langsung masuk ke Instagramnya at Duo Tigo.
+133	Dan teman-teman juga bisa langsung masuk ke Instagramnya at Duo Tigo.
+134	Dan teman-teman juga bisa langsung masuk ke Instagramnya at Duo Tigo.
+135	Dan teman-teman juga bisa langsung masuk ke Instagramnya at Duo Tigo.
+136	Dan teman-teman juga bisa langsung masuk ke Instagramnya at Duo Tigo.
+137	Dan teman-teman juga bisa langsung masuk ke Instagramnya at Duo Tigo.
+138	Dan teman-teman juga bisa langsung masuk ke Instagramnya at Duo Tigo. Di deskripsinya tuh ada langsung link buat nge-check kita ada di mana dan sudah berapa kilometer yang ditemukan dengan dua mobil ini.
+139	Dan teman-teman juga bisa langsung masuk ke Instagramnya at Duo Tigo. Di deskripsinya tuh ada langsung link buat nge-check kita ada di mana dan sudah berapa kilometer yang ditemukan dengan dua mobil ini.
+140	Di deskripsinya tuh ada langsung link buat nge-check kita ada di mana dan sudah berapa kilometer yang ditemukan dengan dua mobil ini.
+141	Di deskripsinya tuh ada langsung link buat nge-check kita ada di mana dan sudah berapa kilometer yang ditemukan dengan dua mobil ini.
+142	Di deskripsinya tuh ada langsung link buat nge-check kita ada di mana dan sudah berapa kilometer yang ditemukan dengan dua mobil ini.
+143	Di deskripsinya tuh ada langsung link buat nge-check kita ada di mana dan sudah berapa kilometer yang ditemukan dengan dua mobil ini.
+144	Di deskripsinya tuh ada langsung link buat nge-check kita ada di mana dan sudah berapa kilometer yang ditemukan dengan dua mobil ini.
+145	Di deskripsinya tuh ada langsung link buat nge-check kita ada di mana dan sudah berapa kilometer yang ditemukan dengan dua mobil ini.
+146	Di deskripsinya tuh ada langsung link buat nge-check kita ada di mana dan sudah berapa kilometer yang ditemukan dengan dua mobil ini.
+147	Di deskripsinya tuh ada langsung link buat nge-check kita ada di mana dan sudah berapa kilometer yang ditemukan dengan dua mobil ini.
+148	Di deskripsinya tuh ada langsung link buat nge-check kita ada di mana dan sudah berapa kilometer yang ditemukan dengan dua mobil ini.
+149	Di deskripsinya tuh ada langsung link buat nge-check kita ada di mana dan sudah berapa kilometer yang ditemukan dengan dua mobil ini.
+150	Di deskripsinya tuh ada langsung link buat nge-check kita ada di mana dan sudah berapa kilometer yang ditemukan dengan dua mobil ini. Let's go!
+151	Di deskripsinya tuh ada langsung link buat nge-check kita ada di mana dan sudah berapa kilometer yang ditemukan dengan dua mobil ini. Let's go!
+152	Let's go!
+153	[NO_SPEECH]
+154	[NO_SPEECH]
+155	[NO_SPEECH]
+156	[NO_SPEECH]
+157	[NO_SPEECH]
+158	[NO_SPEECH]

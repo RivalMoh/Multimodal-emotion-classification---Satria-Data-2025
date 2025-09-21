@@ -1,0 +1,191 @@
+0	Kemarin tuh ada yang bilang ternyata orang Indonesia itu bagi mereka itu cantik banget
+1	Kemarin tuh ada yang bilang ternyata orang Indonesia itu bagi mereka itu cantik banget
+2	Kemarin tuh ada yang bilang ternyata orang Indonesia itu bagi mereka itu cantik banget
+3	Kemarin tuh ada yang bilang ternyata orang Indonesia itu bagi mereka itu cantik banget
+4	Kemarin tuh ada yang bilang ternyata orang Indonesia itu bagi mereka itu cantik banget
+5	Kemarin tuh ada yang bilang ternyata orang Indonesia itu bagi mereka itu cantik banget
+6	Kemarin tuh ada yang bilang ternyata orang Indonesia itu bagi mereka itu cantik banget Karena kemarin kan Kak Harasah foto kan, foto lah sama Kak Harasah
+7	Kemarin tuh ada yang bilang ternyata orang Indonesia itu bagi mereka itu cantik banget Karena kemarin kan Kak Harasah foto kan, foto lah sama Kak Harasah
+8	Karena kemarin kan Kak Harasah foto kan, foto lah sama Kak Harasah
+9	Karena kemarin kan Kak Harasah foto kan, foto lah sama Kak Harasah
+10	Karena kemarin kan Kak Harasah foto kan, foto lah sama Kak Harasah
+11	Karena kemarin kan Kak Harasah foto kan, foto lah sama Kak Harasah
+12	Karena kemarin kan Kak Harasah foto kan, foto lah sama Kak Harasah
+13	Karena kemarin kan Kak Harasah foto kan, foto lah sama Kak Harasah
+14	Karena kemarin kan Kak Harasah foto kan, foto lah sama Kak Harasah
+15	Karena kemarin kan Kak Harasah foto kan, foto lah sama Kak Harasah Terus aku kayak menunggu dia foto, aku sambil duduk bengong gitu
+16	Karena kemarin kan Kak Harasah foto kan, foto lah sama Kak Harasah Terus aku kayak menunggu dia foto, aku sambil duduk bengong gitu
+17	Terus aku kayak menunggu dia foto, aku sambil duduk bengong gitu
+18	Terus aku kayak menunggu dia foto, aku sambil duduk bengong gitu
+19	Terus aku kayak menunggu dia foto, aku sambil duduk bengong gitu
+20	Terus aku kayak menunggu dia foto, aku sambil duduk bengong gitu
+21	Terus aku kayak menunggu dia foto, aku sambil duduk bengong gitu
+22	Terus aku kayak menunggu dia foto, aku sambil duduk bengong gitu Terus tiba-tiba ada tiga orang, cewek-cewek itu kayak nyamperin aku
+23	Terus aku kayak menunggu dia foto, aku sambil duduk bengong gitu Terus tiba-tiba ada tiga orang, cewek-cewek itu kayak nyamperin aku
+24	Terus tiba-tiba ada tiga orang, cewek-cewek itu kayak nyamperin aku
+25	Terus tiba-tiba ada tiga orang, cewek-cewek itu kayak nyamperin aku
+26	Terus tiba-tiba ada tiga orang, cewek-cewek itu kayak nyamperin aku
+27	Terus tiba-tiba ada tiga orang, cewek-cewek itu kayak nyamperin aku
+28	Terus tiba-tiba ada tiga orang, cewek-cewek itu kayak nyamperin aku
+29	Terus tiba-tiba ada tiga orang, cewek-cewek itu kayak nyamperin aku
+30	Terus tiba-tiba ada tiga orang, cewek-cewek itu kayak nyamperin aku Terus kayak aku bingung kan apa ini
+31	Terus tiba-tiba ada tiga orang, cewek-cewek itu kayak nyamperin aku Terus kayak aku bingung kan apa ini
+32	Terus kayak aku bingung kan apa ini
+33	Terus kayak aku bingung kan apa ini
+34	Terus kayak aku bingung kan apa ini Aku sambil duduk terus ngeliat mereka berdiri gini
+35	Terus kayak aku bingung kan apa ini Aku sambil duduk terus ngeliat mereka berdiri gini
+36	Aku sambil duduk terus ngeliat mereka berdiri gini
+37	Aku sambil duduk terus ngeliat mereka berdiri gini
+38	Aku sambil duduk terus ngeliat mereka berdiri gini Apa ini kok tiba-tiba nyamperin aku
+39	Aku sambil duduk terus ngeliat mereka berdiri gini Apa ini kok tiba-tiba nyamperin aku
+40	Apa ini kok tiba-tiba nyamperin aku
+41	Apa ini kok tiba-tiba nyamperin aku Terus mereka cuma bilang, hey you're so pretty like a doll
+42	Apa ini kok tiba-tiba nyamperin aku Terus mereka cuma bilang, hey you're so pretty like a doll
+43	Terus mereka cuma bilang, hey you're so pretty like a doll
+44	Terus mereka cuma bilang, hey you're so pretty like a doll
+45	Terus mereka cuma bilang, hey you're so pretty like a doll
+46	Terus mereka cuma bilang, hey you're so pretty like a doll
+47	Terus mereka cuma bilang, hey you're so pretty like a doll Kayak gitu, salting lah aku
+48	Terus mereka cuma bilang, hey you're so pretty like a doll Kayak gitu, salting lah aku
+49	Kayak gitu, salting lah aku
+50	Kayak gitu, salting lah aku
+51	Kayak gitu, salting lah aku
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	Oh itu di depan toko
+56	Oh itu di depan toko
+57	Oh itu di depan toko
+58	Oh itu di depan toko
+59	Oh itu di depan toko Yang Pak Mega juga duduk, duduk tapi ngadep kesana
+60	Oh itu di depan toko Yang Pak Mega juga duduk, duduk tapi ngadep kesana
+61	Yang Pak Mega juga duduk, duduk tapi ngadep kesana
+62	Yang Pak Mega juga duduk, duduk tapi ngadep kesana
+63	Yang Pak Mega juga duduk, duduk tapi ngadep kesana
+64	Yang Pak Mega juga duduk, duduk tapi ngadep kesana
+65	Yang Pak Mega juga duduk, duduk tapi ngadep kesana Terus Pak Mega bingung kenapa-kenapa gitu loh
+66	Yang Pak Mega juga duduk, duduk tapi ngadep kesana Terus Pak Mega bingung kenapa-kenapa gitu loh
+67	Terus Pak Mega bingung kenapa-kenapa gitu loh
+68	Terus Pak Mega bingung kenapa-kenapa gitu loh
+69	Terus Pak Mega bingung kenapa-kenapa gitu loh
+70	Terus Pak Mega bingung kenapa-kenapa gitu loh
+71	Terus Pak Mega bingung kenapa-kenapa gitu loh Terus Kak Aron juga, yang apa?
+72	Terus Kak Aron juga, yang apa?
+73	Terus Kak Aron juga, yang apa?
+74	Terus Kak Aron juga, yang apa?
+75	Terus Kak Aron juga, yang apa? Yang di Prada
+76	Terus Kak Aron juga, yang apa? Yang di Prada
+77	Yang di Prada
+78	Yang di Prada Yang di Prada, aku gak tau yang di Prada
+79	Yang di Prada, aku gak tau yang di Prada
+80	Yang di Prada, aku gak tau yang di Prada
+81	Yang di Prada, aku gak tau yang di Prada
+82	Yang di Prada, aku gak tau yang di Prada
+83	Yang di Prada, aku gak tau yang di Prada
+84	[NO_SPEECH]
+85	[NO_SPEECH]
+86	Yang Jelato tiba-tiba ada yang ngasih, bingung kayaknya orang-orang kok
+87	Yang Jelato tiba-tiba ada yang ngasih, bingung kayaknya orang-orang kok
+88	Yang Jelato tiba-tiba ada yang ngasih, bingung kayaknya orang-orang kok
+89	Yang Jelato tiba-tiba ada yang ngasih, bingung kayaknya orang-orang kok
+90	Yang Jelato tiba-tiba ada yang ngasih, bingung kayaknya orang-orang kok
+91	Yang Jelato tiba-tiba ada yang ngasih, bingung kayaknya orang-orang kok
+92	Yang Jelato tiba-tiba ada yang ngasih, bingung kayaknya orang-orang kok
+93	Yang Jelato tiba-tiba ada yang ngasih, bingung kayaknya orang-orang kok Kayaknya ternyata mau di traktir
+94	Yang Jelato tiba-tiba ada yang ngasih, bingung kayaknya orang-orang kok Kayaknya ternyata mau di traktir
+95	Kayaknya ternyata mau di traktir
+96	Kayaknya ternyata mau di traktir
+97	Oh iya, nah kalau itu kan Kak Harasah
+98	Oh iya, nah kalau itu kan Kak Harasah
+99	Oh iya, nah kalau itu kan Kak Harasah
+100	Oh iya, nah kalau itu kan Kak Harasah
+101	Oh iya, nah kalau itu kan Kak Harasah
+102	Oh iya, nah kalau itu kan Kak Harasah Jadi gak tau sih, aku sebenernya gak tau itu Kak Harasah apa
+103	Oh iya, nah kalau itu kan Kak Harasah Jadi gak tau sih, aku sebenernya gak tau itu Kak Harasah apa
+104	Jadi gak tau sih, aku sebenernya gak tau itu Kak Harasah apa
+105	Jadi gak tau sih, aku sebenernya gak tau itu Kak Harasah apa
+106	Jadi gak tau sih, aku sebenernya gak tau itu Kak Harasah apa
+107	Jadi gak tau sih, aku sebenernya gak tau itu Kak Harasah apa
+108	Jadi gak tau sih, aku sebenernya gak tau itu Kak Harasah apa
+109	Jadi gak tau sih, aku sebenernya gak tau itu Kak Harasah apa
+110	Jadi gak tau sih, aku sebenernya gak tau itu Kak Harasah apa Aku pokoknya gak tau Pokoknya intinya kemarin itu pas di Jelato
+111	Jadi gak tau sih, aku sebenernya gak tau itu Kak Harasah apa Aku pokoknya gak tau Pokoknya intinya kemarin itu pas di Jelato
+112	Pokoknya intinya kemarin itu pas di Jelato
+113	Pokoknya intinya kemarin itu pas di Jelato
+114	Pokoknya intinya kemarin itu pas di Jelato Itu ada dua kejadian
+115	Pokoknya intinya kemarin itu pas di Jelato Itu ada dua kejadian
+116	Itu ada dua kejadian
+117	Itu ada dua kejadian
+118	Itu ada dua kejadian Yang pertama tiba-tiba ada orang kayak mau traktir gitu
+119	Itu ada dua kejadian Yang pertama tiba-tiba ada orang kayak mau traktir gitu
+120	Yang pertama tiba-tiba ada orang kayak mau traktir gitu
+121	Yang pertama tiba-tiba ada orang kayak mau traktir gitu
+122	Yang pertama tiba-tiba ada orang kayak mau traktir gitu
+123	Yang pertama tiba-tiba ada orang kayak mau traktir gitu
+124	Yang pertama tiba-tiba ada orang kayak mau traktir gitu Itu kayaknya sebelumnya Kak Harasah deh gitu
+125	Yang pertama tiba-tiba ada orang kayak mau traktir gitu Itu kayaknya sebelumnya Kak Harasah deh gitu
+126	Itu kayaknya sebelumnya Kak Harasah deh gitu
+127	Itu kayaknya sebelumnya Kak Harasah deh gitu
+128	Itu kayaknya sebelumnya Kak Harasah deh gitu
+129	Itu kayaknya sebelumnya Kak Harasah deh gitu
+130	Itu kayaknya sebelumnya Kak Harasah deh gitu Terus habis itu kayak mereka
+131	Itu kayaknya sebelumnya Kak Harasah deh gitu Terus habis itu kayak mereka
+132	Terus habis itu kayak mereka Intinya mungkin terkesima ya dengan kecantikan Indonesia ini
+133	Terus habis itu kayak mereka Intinya mungkin terkesima ya dengan kecantikan Indonesia ini
+134	Intinya mungkin terkesima ya dengan kecantikan Indonesia ini
+135	Intinya mungkin terkesima ya dengan kecantikan Indonesia ini
+136	Intinya mungkin terkesima ya dengan kecantikan Indonesia ini
+137	Intinya mungkin terkesima ya dengan kecantikan Indonesia ini
+138	Intinya mungkin terkesima ya dengan kecantikan Indonesia ini
+139	Intinya mungkin terkesima ya dengan kecantikan Indonesia ini
+140	Terus habis itu kayak mau traktir Jelato gitu
+141	Terus habis itu kayak mau traktir Jelato gitu
+142	Terus habis itu kayak mau traktir Jelato gitu
+143	Terus habis itu kayak mau traktir Jelato gitu Terus habis itu udah kan kita di antrian
+144	Terus habis itu kayak mau traktir Jelato gitu Terus habis itu udah kan kita di antrian
+145	Terus habis itu udah kan kita di antrian
+146	Terus habis itu udah kan kita di antrian
+147	Terus habis itu udah kan kita di antrian Terus tiba-tiba ada cowok gitu
+148	Terus habis itu udah kan kita di antrian Terus tiba-tiba ada cowok gitu
+149	Terus habis itu udah kan kita di antrian Terus tiba-tiba ada cowok gitu
+150	Terus tiba-tiba ada cowok gitu
+151	Terus tiba-tiba ada cowok gitu
+152	Terus tiba-tiba ada cowok gitu
+153	Terus tiba-tiba ada cowok gitu
+154	Terus tiba-tiba ada cowok gitu
+155	Terus tiba-tiba ada cowok gitu
+156	Terus tiba-tiba ada cowok gitu
+157	Tiba-tiba dia berhenti di depanku Kak
+158	Tiba-tiba dia berhenti di depanku Kak
+159	Tiba-tiba dia berhenti di depanku Kak
+160	Tiba-tiba dia berhenti di depanku Kak
+161	Tiba-tiba dia berhenti di depanku Kak Berhenti di depanku terus habis itu bilang
+162	Tiba-tiba dia berhenti di depanku Kak Berhenti di depanku terus habis itu bilang
+163	Berhenti di depanku terus habis itu bilang
+164	Berhenti di depanku terus habis itu bilang Hey you're so pretty
+165	Berhenti di depanku terus habis itu bilang Hey you're so pretty
+166	Hey you're so pretty Kayak gitu
+167	Hey you're so pretty Kayak gitu
+168	Kayak gitu Kan kayak
+169	Kayak gitu Kan kayak
+170	Kan kayak Makasih-makasih gitu kan
+171	Makasih-makasih gitu kan
+172	Makasih-makasih gitu kan
+173	Makasih-makasih gitu kan Lucu banget
+174	Makasih-makasih gitu kan Lucu banget
+175	Lucu banget Ternyata orang Indonesia kecantikan disini tuh
+176	Lucu banget Ternyata orang Indonesia kecantikan disini tuh
+177	Ternyata orang Indonesia kecantikan disini tuh
+178	Ternyata orang Indonesia kecantikan disini tuh
+179	Ternyata orang Indonesia kecantikan disini tuh
+180	Ternyata orang Indonesia kecantikan disini tuh
+181	Ternyata orang Indonesia kecantikan disini tuh Kita laku guys
+182	Ternyata orang Indonesia kecantikan disini tuh Kita laku guys
+183	Kita laku guys
+184	[NO_SPEECH]
+185	[NO_SPEECH]
+186	[NO_SPEECH]
+187	[NO_SPEECH]
+188	[NO_SPEECH]
+189	[NO_SPEECH]
+190	[NO_SPEECH]

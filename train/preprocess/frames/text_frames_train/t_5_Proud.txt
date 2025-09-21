@@ -1,0 +1,130 @@
+0	Jadi ini dia, mobil yang akan kita pakai buat road party nanti.
+1	Jadi ini dia, mobil yang akan kita pakai buat road party nanti.
+2	Jadi ini dia, mobil yang akan kita pakai buat road party nanti.
+3	Jadi ini dia, mobil yang akan kita pakai buat road party nanti.
+4	Jadi ini dia, mobil yang akan kita pakai buat road party nanti.
+5	Jadi ini dia, mobil yang akan kita pakai buat road party nanti.
+6	Jadi ini dia, mobil yang akan kita pakai buat road party nanti.
+7	Jadi ini dia, mobil yang akan kita pakai buat road party nanti. Baik BJ40 Plus yang sudah dimodifikasi,
+8	Jadi ini dia, mobil yang akan kita pakai buat road party nanti. Baik BJ40 Plus yang sudah dimodifikasi,
+9	Baik BJ40 Plus yang sudah dimodifikasi,
+10	Baik BJ40 Plus yang sudah dimodifikasi,
+11	Baik BJ40 Plus yang sudah dimodifikasi,
+12	Baik BJ40 Plus yang sudah dimodifikasi,
+13	Baik BJ40 Plus yang sudah dimodifikasi,
+14	Baik BJ40 Plus yang sudah dimodifikasi, dan kalau kalian lihat, atasnya sudah kita buka,
+15	Baik BJ40 Plus yang sudah dimodifikasi, dan kalau kalian lihat, atasnya sudah kita buka,
+16	dan kalau kalian lihat, atasnya sudah kita buka,
+17	dan kalau kalian lihat, atasnya sudah kita buka,
+18	dan kalau kalian lihat, atasnya sudah kita buka,
+19	dan kalau kalian lihat, atasnya sudah kita buka, pintu sudah diganti,
+20	dan kalau kalian lihat, atasnya sudah kita buka, pintu sudah diganti,
+21	pintu sudah diganti,
+22	pintu sudah diganti,
+23	pintu sudah diganti, bumper juga sudah kita ganti,
+24	bumper juga sudah kita ganti,
+25	bumper juga sudah kita ganti,
+26	bumper juga sudah kita ganti, dan yang paling keren menurut gue adalah pemilihan velg sama bannya.
+27	bumper juga sudah kita ganti, dan yang paling keren menurut gue adalah pemilihan velg sama bannya.
+28	dan yang paling keren menurut gue adalah pemilihan velg sama bannya.
+29	dan yang paling keren menurut gue adalah pemilihan velg sama bannya.
+30	dan yang paling keren menurut gue adalah pemilihan velg sama bannya.
+31	dan yang paling keren menurut gue adalah pemilihan velg sama bannya.
+32	dan yang paling keren menurut gue adalah pemilihan velg sama bannya.
+33	dan yang paling keren menurut gue adalah pemilihan velg sama bannya.
+34	dan yang paling keren menurut gue adalah pemilihan velg sama bannya.
+35	dan yang paling keren menurut gue adalah pemilihan velg sama bannya.
+36	dan yang paling keren menurut gue adalah pemilihan velg sama bannya. Nah, velg kita pakai Black Rhino,
+37	Nah, velg kita pakai Black Rhino,
+38	Nah, velg kita pakai Black Rhino,
+39	Nah, velg kita pakai Black Rhino,
+40	Nah, velg kita pakai Black Rhino, motifnya itu kayak Army Style,
+41	motifnya itu kayak Army Style,
+42	motifnya itu kayak Army Style,
+43	motifnya itu kayak Army Style,
+44	motifnya itu kayak Army Style, di mana dia punya pelindung di bagian sampingnya,
+45	di mana dia punya pelindung di bagian sampingnya,
+46	di mana dia punya pelindung di bagian sampingnya,
+47	di mana dia punya pelindung di bagian sampingnya,
+48	di mana dia punya pelindung di bagian sampingnya,
+49	di mana dia punya pelindung di bagian sampingnya,
+50	di mana dia punya pelindung di bagian sampingnya, ini bisa dicopot dan bisa dipasang.
+51	di mana dia punya pelindung di bagian sampingnya, ini bisa dicopot dan bisa dipasang.
+52	ini bisa dicopot dan bisa dipasang.
+53	ini bisa dicopot dan bisa dipasang. Kalau misalkan kita lagi di jalanan berbatu,
+54	ini bisa dicopot dan bisa dipasang. Kalau misalkan kita lagi di jalanan berbatu,
+55	Kalau misalkan kita lagi di jalanan berbatu,
+56	Kalau misalkan kita lagi di jalanan berbatu,
+57	Kalau misalkan kita lagi di jalanan berbatu,
+58	Kalau misalkan kita lagi di jalanan berbatu,
+59	Kalau misalkan kita lagi di jalanan berbatu,
+60	Kalau misalkan kita lagi di jalanan berbatu, terus baret-baret, ini bisa kita ganti,
+61	Kalau misalkan kita lagi di jalanan berbatu, terus baret-baret, ini bisa kita ganti,
+62	terus baret-baret, ini bisa kita ganti,
+63	terus baret-baret, ini bisa kita ganti,
+64	terus baret-baret, ini bisa kita ganti, nggak harus ganti sama velg-velgnya.
+65	terus baret-baret, ini bisa kita ganti, nggak harus ganti sama velg-velgnya.
+66	nggak harus ganti sama velg-velgnya.
+67	nggak harus ganti sama velg-velgnya.
+68	nggak harus ganti sama velg-velgnya. Dan untuk bannya sendiri, dia pakai Delium Terra Rider ATX.
+69	Dan untuk bannya sendiri, dia pakai Delium Terra Rider ATX.
+70	Dan untuk bannya sendiri, dia pakai Delium Terra Rider ATX.
+71	Dan untuk bannya sendiri, dia pakai Delium Terra Rider ATX.
+72	Dan untuk bannya sendiri, dia pakai Delium Terra Rider ATX.
+73	Dan untuk bannya sendiri, dia pakai Delium Terra Rider ATX.
+74	Dan untuk bannya sendiri, dia pakai Delium Terra Rider ATX.
+75	Dan untuk bannya sendiri, dia pakai Delium Terra Rider ATX.
+76	Dan untuk bannya sendiri, dia pakai Delium Terra Rider ATX.
+77	Dan untuk bannya sendiri, dia pakai Delium Terra Rider ATX. Ini ban nggak cuma looksnya keren ya,
+78	Dan untuk bannya sendiri, dia pakai Delium Terra Rider ATX. Ini ban nggak cuma looksnya keren ya,
+79	Ini ban nggak cuma looksnya keren ya,
+80	Ini ban nggak cuma looksnya keren ya,
+81	Ini ban nggak cuma looksnya keren ya,
+82	Ini ban nggak cuma looksnya keren ya, kalau kita lihat kembangnya bagus,
+83	Ini ban nggak cuma looksnya keren ya, kalau kita lihat kembangnya bagus,
+84	kalau kita lihat kembangnya bagus,
+85	kalau kita lihat kembangnya bagus,
+86	kalau kita lihat kembangnya bagus, samping kanan cirinya itu juga ada grip tambahannya,
+87	samping kanan cirinya itu juga ada grip tambahannya,
+88	samping kanan cirinya itu juga ada grip tambahannya,
+89	samping kanan cirinya itu juga ada grip tambahannya,
+90	samping kanan cirinya itu juga ada grip tambahannya,
+91	samping kanan cirinya itu juga ada grip tambahannya,
+92	samping kanan cirinya itu juga ada grip tambahannya, kalau misalkan kita lagi off-road, kita kempesin,
+93	samping kanan cirinya itu juga ada grip tambahannya, kalau misalkan kita lagi off-road, kita kempesin,
+94	kalau misalkan kita lagi off-road, kita kempesin,
+95	kalau misalkan kita lagi off-road, kita kempesin,
+96	kalau misalkan kita lagi off-road, kita kempesin,
+97	kalau misalkan kita lagi off-road, kita kempesin, jadi nggak cuma looksnya keren,
+98	jadi nggak cuma looksnya keren,
+99	jadi nggak cuma looksnya keren,
+100	jadi nggak cuma looksnya keren,
+101	jadi nggak cuma looksnya keren, tapi fungsinya itu juga bisa diandalkan.
+102	jadi nggak cuma looksnya keren, tapi fungsinya itu juga bisa diandalkan.
+103	tapi fungsinya itu juga bisa diandalkan.
+104	tapi fungsinya itu juga bisa diandalkan.
+105	tapi fungsinya itu juga bisa diandalkan.
+106	tapi fungsinya itu juga bisa diandalkan.
+107	tapi fungsinya itu juga bisa diandalkan.
+108	tapi fungsinya itu juga bisa diandalkan. Nah, gimana?
+109	tapi fungsinya itu juga bisa diandalkan. Nah, gimana?
+110	Nah, gimana? Kalian punya mobil yang mau dipakai off-road?
+111	Kalian punya mobil yang mau dipakai off-road?
+112	Kalian punya mobil yang mau dipakai off-road?
+113	Kalian punya mobil yang mau dipakai off-road? Nah, pakai aja band Delium.
+114	Kalian punya mobil yang mau dipakai off-road? Nah, pakai aja band Delium.
+115	Nah, pakai aja band Delium.
+116	Nah, pakai aja band Delium.
+117	Nah, pakai aja band Delium. Ban lokal, kualitas internasional.
+118	Nah, pakai aja band Delium. Ban lokal, kualitas internasional.
+119	Ban lokal, kualitas internasional.
+120	Ban lokal, kualitas internasional.
+121	Ban lokal, kualitas internasional.
+122	Ban lokal, kualitas internasional.
+123	Ban lokal, kualitas internasional.
+124	[NO_SPEECH]
+125	[NO_SPEECH]
+126	[NO_SPEECH]
+127	[NO_SPEECH]
+128	[NO_SPEECH]
+129	[NO_SPEECH]

@@ -1,0 +1,121 @@
+0	Hai guys, kali ini aku meriksa ikan clownfish atau yang biasa kita sebut dengan Nemo.
+1	Hai guys, kali ini aku meriksa ikan clownfish atau yang biasa kita sebut dengan Nemo.
+2	Hai guys, kali ini aku meriksa ikan clownfish atau yang biasa kita sebut dengan Nemo.
+3	Hai guys, kali ini aku meriksa ikan clownfish atau yang biasa kita sebut dengan Nemo.
+4	Hai guys, kali ini aku meriksa ikan clownfish atau yang biasa kita sebut dengan Nemo.
+5	Hai guys, kali ini aku meriksa ikan clownfish atau yang biasa kita sebut dengan Nemo.
+6	Hai guys, kali ini aku meriksa ikan clownfish atau yang biasa kita sebut dengan Nemo.
+7	Hai guys, kali ini aku meriksa ikan clownfish atau yang biasa kita sebut dengan Nemo.
+8	Hai guys, kali ini aku meriksa ikan clownfish atau yang biasa kita sebut dengan Nemo. Aslinya mereka ukurannya kecil banget, cuma sekitar 3 cm.
+9	Hai guys, kali ini aku meriksa ikan clownfish atau yang biasa kita sebut dengan Nemo. Aslinya mereka ukurannya kecil banget, cuma sekitar 3 cm.
+10	Aslinya mereka ukurannya kecil banget, cuma sekitar 3 cm.
+11	Aslinya mereka ukurannya kecil banget, cuma sekitar 3 cm.
+12	Aslinya mereka ukurannya kecil banget, cuma sekitar 3 cm.
+13	Aslinya mereka ukurannya kecil banget, cuma sekitar 3 cm.
+14	Aslinya mereka ukurannya kecil banget, cuma sekitar 3 cm.
+15	Aslinya mereka ukurannya kecil banget, cuma sekitar 3 cm.
+16	Aslinya mereka ukurannya kecil banget, cuma sekitar 3 cm. Kalian tau gak kalau ikan Nemo ini transgender?
+17	Kalian tau gak kalau ikan Nemo ini transgender?
+18	Kalian tau gak kalau ikan Nemo ini transgender?
+19	Kalian tau gak kalau ikan Nemo ini transgender?
+20	Kalian tau gak kalau ikan Nemo ini transgender? Mereka semua akan terlahir sebagai jantan, apabila diperlukan salah satu diantara koloninya akan berubah menjadi betina.
+21	Kalian tau gak kalau ikan Nemo ini transgender? Mereka semua akan terlahir sebagai jantan, apabila diperlukan salah satu diantara koloninya akan berubah menjadi betina.
+22	Mereka semua akan terlahir sebagai jantan, apabila diperlukan salah satu diantara koloninya akan berubah menjadi betina.
+23	Mereka semua akan terlahir sebagai jantan, apabila diperlukan salah satu diantara koloninya akan berubah menjadi betina.
+24	Mereka semua akan terlahir sebagai jantan, apabila diperlukan salah satu diantara koloninya akan berubah menjadi betina.
+25	Mereka semua akan terlahir sebagai jantan, apabila diperlukan salah satu diantara koloninya akan berubah menjadi betina.
+26	Mereka semua akan terlahir sebagai jantan, apabila diperlukan salah satu diantara koloninya akan berubah menjadi betina.
+27	Mereka semua akan terlahir sebagai jantan, apabila diperlukan salah satu diantara koloninya akan berubah menjadi betina.
+28	Mereka semua akan terlahir sebagai jantan, apabila diperlukan salah satu diantara koloninya akan berubah menjadi betina.
+29	Mereka semua akan terlahir sebagai jantan, apabila diperlukan salah satu diantara koloninya akan berubah menjadi betina.
+30	Mereka semua akan terlahir sebagai jantan, apabila diperlukan salah satu diantara koloninya akan berubah menjadi betina.
+31	Mereka semua akan terlahir sebagai jantan, apabila diperlukan salah satu diantara koloninya akan berubah menjadi betina.
+32	Mereka semua akan terlahir sebagai jantan, apabila diperlukan salah satu diantara koloninya akan berubah menjadi betina.
+33	Mereka semua akan terlahir sebagai jantan, apabila diperlukan salah satu diantara koloninya akan berubah menjadi betina. Hal ini menguntungkan buat mereka karena mereka hidup berkoloni di terumbu karang yang kecil.
+34	Mereka semua akan terlahir sebagai jantan, apabila diperlukan salah satu diantara koloninya akan berubah menjadi betina. Hal ini menguntungkan buat mereka karena mereka hidup berkoloni di terumbu karang yang kecil.
+35	Hal ini menguntungkan buat mereka karena mereka hidup berkoloni di terumbu karang yang kecil.
+36	Hal ini menguntungkan buat mereka karena mereka hidup berkoloni di terumbu karang yang kecil.
+37	Hal ini menguntungkan buat mereka karena mereka hidup berkoloni di terumbu karang yang kecil.
+38	Hal ini menguntungkan buat mereka karena mereka hidup berkoloni di terumbu karang yang kecil.
+39	Hal ini menguntungkan buat mereka karena mereka hidup berkoloni di terumbu karang yang kecil.
+40	Hal ini menguntungkan buat mereka karena mereka hidup berkoloni di terumbu karang yang kecil.
+41	Hal ini menguntungkan buat mereka karena mereka hidup berkoloni di terumbu karang yang kecil. Jadi mereka gak perlu susah-susah cari jodoh.
+42	Hal ini menguntungkan buat mereka karena mereka hidup berkoloni di terumbu karang yang kecil. Jadi mereka gak perlu susah-susah cari jodoh.
+43	Jadi mereka gak perlu susah-susah cari jodoh.
+44	Jadi mereka gak perlu susah-susah cari jodoh.
+45	Jadi mereka gak perlu susah-susah cari jodoh.
+46	Jadi mereka gak perlu susah-susah cari jodoh. Setelah kita sampling si ikan Nemo ini, cacingnya banyak banget.
+47	Jadi mereka gak perlu susah-susah cari jodoh. Setelah kita sampling si ikan Nemo ini, cacingnya banyak banget.
+48	Setelah kita sampling si ikan Nemo ini, cacingnya banyak banget.
+49	Setelah kita sampling si ikan Nemo ini, cacingnya banyak banget.
+50	Setelah kita sampling si ikan Nemo ini, cacingnya banyak banget.
+51	Setelah kita sampling si ikan Nemo ini, cacingnya banyak banget.
+52	Setelah kita sampling si ikan Nemo ini, cacingnya banyak banget.
+53	Setelah kita sampling si ikan Nemo ini, cacingnya banyak banget.
+54	Setelah kita sampling si ikan Nemo ini, cacingnya banyak banget. Ada om cacing, tante cacing, adik cacing, bayi cacing.
+55	Setelah kita sampling si ikan Nemo ini, cacingnya banyak banget. Ada om cacing, tante cacing, adik cacing, bayi cacing.
+56	Ada om cacing, tante cacing, adik cacing, bayi cacing.
+57	Ada om cacing, tante cacing, adik cacing, bayi cacing.
+58	Ada om cacing, tante cacing, adik cacing, bayi cacing.
+59	Ada om cacing, tante cacing, adik cacing, bayi cacing.
+60	Ada om cacing, tante cacing, adik cacing, bayi cacing.
+61	Ada om cacing, tante cacing, adik cacing, bayi cacing.
+62	Ada om cacing, tante cacing, adik cacing, bayi cacing. Akhirnya satu akwarium aku kasih obat cacing.
+63	Akhirnya satu akwarium aku kasih obat cacing.
+64	Akhirnya satu akwarium aku kasih obat cacing.
+65	Akhirnya satu akwarium aku kasih obat cacing.
+66	Akhirnya satu akwarium aku kasih obat cacing.
+67	Akhirnya satu akwarium aku kasih obat cacing. Karena dengan jumlah cacing yang segitu banyak, sangat memungkinkan menelalkan ikan-ikan yang lain.
+68	Karena dengan jumlah cacing yang segitu banyak, sangat memungkinkan menelalkan ikan-ikan yang lain.
+69	Karena dengan jumlah cacing yang segitu banyak, sangat memungkinkan menelalkan ikan-ikan yang lain.
+70	Karena dengan jumlah cacing yang segitu banyak, sangat memungkinkan menelalkan ikan-ikan yang lain.
+71	Karena dengan jumlah cacing yang segitu banyak, sangat memungkinkan menelalkan ikan-ikan yang lain.
+72	Karena dengan jumlah cacing yang segitu banyak, sangat memungkinkan menelalkan ikan-ikan yang lain.
+73	Karena dengan jumlah cacing yang segitu banyak, sangat memungkinkan menelalkan ikan-ikan yang lain.
+74	Karena dengan jumlah cacing yang segitu banyak, sangat memungkinkan menelalkan ikan-ikan yang lain.
+75	Karena dengan jumlah cacing yang segitu banyak, sangat memungkinkan menelalkan ikan-ikan yang lain.
+76	Karena dengan jumlah cacing yang segitu banyak, sangat memungkinkan menelalkan ikan-ikan yang lain. Setelah lelah menangkap Nemo, muka jadi kotor banget, makeup bercampur sama keringat.
+77	Karena dengan jumlah cacing yang segitu banyak, sangat memungkinkan menelalkan ikan-ikan yang lain. Setelah lelah menangkap Nemo, muka jadi kotor banget, makeup bercampur sama keringat.
+78	Setelah lelah menangkap Nemo, muka jadi kotor banget, makeup bercampur sama keringat.
+79	Setelah lelah menangkap Nemo, muka jadi kotor banget, makeup bercampur sama keringat.
+80	Setelah lelah menangkap Nemo, muka jadi kotor banget, makeup bercampur sama keringat.
+81	Setelah lelah menangkap Nemo, muka jadi kotor banget, makeup bercampur sama keringat.
+82	Setelah lelah menangkap Nemo, muka jadi kotor banget, makeup bercampur sama keringat.
+83	Setelah lelah menangkap Nemo, muka jadi kotor banget, makeup bercampur sama keringat.
+84	Setelah lelah menangkap Nemo, muka jadi kotor banget, makeup bercampur sama keringat.
+85	Setelah lelah menangkap Nemo, muka jadi kotor banget, makeup bercampur sama keringat.
+86	Setelah lelah menangkap Nemo, muka jadi kotor banget, makeup bercampur sama keringat. Sebelum cuci muka, aku pakai GQG Micellar Water.
+87	Setelah lelah menangkap Nemo, muka jadi kotor banget, makeup bercampur sama keringat. Sebelum cuci muka, aku pakai GQG Micellar Water.
+88	Sebelum cuci muka, aku pakai GQG Micellar Water.
+89	Sebelum cuci muka, aku pakai GQG Micellar Water.
+90	Sebelum cuci muka, aku pakai GQG Micellar Water.
+91	Sebelum cuci muka, aku pakai GQG Micellar Water. Karena botolnya yang pump, ngebuat produknya jadi praktis banget.
+92	Karena botolnya yang pump, ngebuat produknya jadi praktis banget.
+93	Karena botolnya yang pump, ngebuat produknya jadi praktis banget.
+94	Karena botolnya yang pump, ngebuat produknya jadi praktis banget.
+95	Karena botolnya yang pump, ngebuat produknya jadi praktis banget.
+96	Karena botolnya yang pump, ngebuat produknya jadi praktis banget.
+97	Karena botolnya yang pump, ngebuat produknya jadi praktis banget.
+98	Karena botolnya yang pump, ngebuat produknya jadi praktis banget. Asli sih, semua kotoran bener-bener keangkat.
+99	Asli sih, semua kotoran bener-bener keangkat.
+100	Asli sih, semua kotoran bener-bener keangkat.
+101	Asli sih, semua kotoran bener-bener keangkat.
+102	Asli sih, semua kotoran bener-bener keangkat.
+103	Asli sih, semua kotoran bener-bener keangkat. Ukurannya juga gede, jadi bikin lebih hemat.
+104	Ukurannya juga gede, jadi bikin lebih hemat.
+105	Ukurannya juga gede, jadi bikin lebih hemat.
+106	Ukurannya juga gede, jadi bikin lebih hemat.
+107	Ukurannya juga gede, jadi bikin lebih hemat. Nah sekarang kita jadi tau ya, kenapa Nemo digambarkan sebagai laki-laki.
+108	Ukurannya juga gede, jadi bikin lebih hemat. Nah sekarang kita jadi tau ya, kenapa Nemo digambarkan sebagai laki-laki.
+109	Nah sekarang kita jadi tau ya, kenapa Nemo digambarkan sebagai laki-laki.
+110	Nah sekarang kita jadi tau ya, kenapa Nemo digambarkan sebagai laki-laki.
+111	Nah sekarang kita jadi tau ya, kenapa Nemo digambarkan sebagai laki-laki.
+112	Nah sekarang kita jadi tau ya, kenapa Nemo digambarkan sebagai laki-laki.
+113	Nah sekarang kita jadi tau ya, kenapa Nemo digambarkan sebagai laki-laki.
+114	Nah sekarang kita jadi tau ya, kenapa Nemo digambarkan sebagai laki-laki. Dan gak mungkin punya saudara perempuan.
+115	Nah sekarang kita jadi tau ya, kenapa Nemo digambarkan sebagai laki-laki. Dan gak mungkin punya saudara perempuan.
+116	Dan gak mungkin punya saudara perempuan.
+117	Dan gak mungkin punya saudara perempuan.
+118	Dan gak mungkin punya saudara perempuan.
+119	Dan gak mungkin punya saudara perempuan.
+120	[NO_SPEECH]

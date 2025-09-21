@@ -1,0 +1,91 @@
+0	Pepayan di rumah gue tuh agak aneh ya
+1	Pepayan di rumah gue tuh agak aneh ya
+2	Pepayan di rumah gue tuh agak aneh ya Biasanya pohon pepayan tuh kan lurus ke atas, gak bercabang
+3	Pepayan di rumah gue tuh agak aneh ya Biasanya pohon pepayan tuh kan lurus ke atas, gak bercabang
+4	Biasanya pohon pepayan tuh kan lurus ke atas, gak bercabang
+5	Biasanya pohon pepayan tuh kan lurus ke atas, gak bercabang
+6	Biasanya pohon pepayan tuh kan lurus ke atas, gak bercabang
+7	Biasanya pohon pepayan tuh kan lurus ke atas, gak bercabang
+8	Biasanya pohon pepayan tuh kan lurus ke atas, gak bercabang
+9	Biasanya pohon pepayan tuh kan lurus ke atas, gak bercabang Tapi kita lihat disini
+10	Biasanya pohon pepayan tuh kan lurus ke atas, gak bercabang Tapi kita lihat disini
+11	Tapi kita lihat disini
+12	Tapi kita lihat disini Ini pepayannya cabang 3
+13	Tapi kita lihat disini Ini pepayannya cabang 3
+14	Ini pepayannya cabang 3
+15	Ini pepayannya cabang 3
+16	Ini pepayannya cabang 3 Tuh lihat, 1, 2, 3
+17	Ini pepayannya cabang 3 Tuh lihat, 1, 2, 3
+18	Tuh lihat, 1, 2, 3
+19	Tuh lihat, 1, 2, 3
+20	Tuh lihat, 1, 2, 3 Terus ada batang lagi yang ngebulet disini
+21	Tuh lihat, 1, 2, 3 Terus ada batang lagi yang ngebulet disini
+22	Terus ada batang lagi yang ngebulet disini
+23	Terus ada batang lagi yang ngebulet disini
+24	Terus ada batang lagi yang ngebulet disini
+25	Terus ada batang lagi yang ngebulet disini Agak aneh, tuh
+26	Terus ada batang lagi yang ngebulet disini Agak aneh, tuh
+27	Agak aneh, tuh Ini deh kayak ngebulet gitu
+28	Agak aneh, tuh Ini deh kayak ngebulet gitu
+29	Ini deh kayak ngebulet gitu
+30	Ini deh kayak ngebulet gitu
+31	Ini deh kayak ngebulet gitu
+32	Ini deh kayak ngebulet gitu Bercabang lagi, ya
+33	Bercabang lagi, ya
+34	Bercabang lagi, ya
+35	Bercabang lagi, ya Disini ada percabangan lagi
+36	Bercabang lagi, ya Disini ada percabangan lagi
+37	Disini ada percabangan lagi
+38	Disini ada percabangan lagi
+39	Disini ada percabangan lagi Ya, bahkan di sebelah sana tuh ada percabangan yang banyak tuh
+40	Ya, bahkan di sebelah sana tuh ada percabangan yang banyak tuh
+41	Ya, bahkan di sebelah sana tuh ada percabangan yang banyak tuh
+42	Ya, bahkan di sebelah sana tuh ada percabangan yang banyak tuh
+43	Ya, bahkan di sebelah sana tuh ada percabangan yang banyak tuh
+44	Ya, bahkan di sebelah sana tuh ada percabangan yang banyak tuh
+45	Ya, bahkan di sebelah sana tuh ada percabangan yang banyak tuh 1, 2, 3, 4, 5
+46	Ya, bahkan di sebelah sana tuh ada percabangan yang banyak tuh 1, 2, 3, 4, 5
+47	1, 2, 3, 4, 5
+48	1, 2, 3, 4, 5
+49	1, 2, 3, 4, 5
+50	1, 2, 3, 4, 5 Dan tiap cabangnya
+51	1, 2, 3, 4, 5 Dan tiap cabangnya
+52	Dan tiap cabangnya
+53	Dan tiap cabangnya Itu ada daunnya sama ada pepayanya
+54	Dan tiap cabangnya Itu ada daunnya sama ada pepayanya
+55	Dan tiap cabangnya Itu ada daunnya sama ada pepayanya
+56	Itu ada daunnya sama ada pepayanya
+57	Itu ada daunnya sama ada pepayanya
+58	Itu ada daunnya sama ada pepayanya
+59	Itu ada daunnya sama ada pepayanya
+60	Itu ada daunnya sama ada pepayanya Tuh, banyak banget pepayanya sampai ke atas
+61	Itu ada daunnya sama ada pepayanya Tuh, banyak banget pepayanya sampai ke atas
+62	Tuh, banyak banget pepayanya sampai ke atas
+63	Tuh, banyak banget pepayanya sampai ke atas
+64	Tuh, banyak banget pepayanya sampai ke atas
+65	Tuh, banyak banget pepayanya sampai ke atas Banyak banget
+66	Tuh, banyak banget pepayanya sampai ke atas Banyak banget
+67	Banyak banget
+68	Banyak banget Gue seumur hidup baru pertama kali ketemu pepaya yang kayak gini
+69	Banyak banget Gue seumur hidup baru pertama kali ketemu pepaya yang kayak gini
+70	Gue seumur hidup baru pertama kali ketemu pepaya yang kayak gini
+71	Gue seumur hidup baru pertama kali ketemu pepaya yang kayak gini
+72	Gue seumur hidup baru pertama kali ketemu pepaya yang kayak gini
+73	Gue seumur hidup baru pertama kali ketemu pepaya yang kayak gini
+74	Gue seumur hidup baru pertama kali ketemu pepaya yang kayak gini
+75	Gue seumur hidup baru pertama kali ketemu pepaya yang kayak gini
+76	Gue seumur hidup baru pertama kali ketemu pepaya yang kayak gini
+77	Gue seumur hidup baru pertama kali ketemu pepaya yang kayak gini Dan uniknya ada di rumah sendiri
+78	Gue seumur hidup baru pertama kali ketemu pepaya yang kayak gini Dan uniknya ada di rumah sendiri
+79	Dan uniknya ada di rumah sendiri
+80	Dan uniknya ada di rumah sendiri Kenapa bisa kayak gitu ya?
+81	Dan uniknya ada di rumah sendiri Kenapa bisa kayak gitu ya?
+82	Kenapa bisa kayak gitu ya?
+83	Kenapa bisa kayak gitu ya? Gue juga gak ngerti
+84	Kenapa bisa kayak gitu ya? Gue juga gak ngerti
+85	Gue juga gak ngerti
+86	Gue juga gak ngerti
+87	Enak duanya
+88	Enak duanya
+89	Enak duanya
+90	[NO_SPEECH]

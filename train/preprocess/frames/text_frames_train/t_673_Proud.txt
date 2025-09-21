@@ -1,0 +1,117 @@
+0	[NO_SPEECH]
+1	Apa? Nungguin kagusnya, kena kepala, terus kesakitan dan lemah?
+2	Apa? Nungguin kagusnya, kena kepala, terus kesakitan dan lemah?
+3	Apa? Nungguin kagusnya, kena kepala, terus kesakitan dan lemah?
+4	Apa? Nungguin kagusnya, kena kepala, terus kesakitan dan lemah?
+5	Apa? Nungguin kagusnya, kena kepala, terus kesakitan dan lemah?
+6	Apa? Nungguin kagusnya, kena kepala, terus kesakitan dan lemah?
+7	Apa? Nungguin kagusnya, kena kepala, terus kesakitan dan lemah?
+8	Apa? Nungguin kagusnya, kena kepala, terus kesakitan dan lemah?
+9	Apa? Nungguin kagusnya, kena kepala, terus kesakitan dan lemah?
+10	Apa? Nungguin kagusnya, kena kepala, terus kesakitan dan lemah?
+11	Apa? Nungguin kagusnya, kena kepala, terus kesakitan dan lemah? Gak mungkin lah!
+12	Gak mungkin lah!
+13	Gak mungkin lah!
+14	[NO_SPEECH]
+15	Pas sistem tubuh imun wanita terbukti lebih kuat dibanding pria.
+16	Pas sistem tubuh imun wanita terbukti lebih kuat dibanding pria.
+17	Pas sistem tubuh imun wanita terbukti lebih kuat dibanding pria.
+18	Pas sistem tubuh imun wanita terbukti lebih kuat dibanding pria.
+19	Pas sistem tubuh imun wanita terbukti lebih kuat dibanding pria.
+20	Pas sistem tubuh imun wanita terbukti lebih kuat dibanding pria.
+21	Pas sistem tubuh imun wanita terbukti lebih kuat dibanding pria.
+22	Menurut penelitian juga, hormon ekstrogen di tubuh wanita bikin respon imun lebih aktif lho.
+23	Menurut penelitian juga, hormon ekstrogen di tubuh wanita bikin respon imun lebih aktif lho.
+24	Menurut penelitian juga, hormon ekstrogen di tubuh wanita bikin respon imun lebih aktif lho.
+25	Menurut penelitian juga, hormon ekstrogen di tubuh wanita bikin respon imun lebih aktif lho.
+26	Menurut penelitian juga, hormon ekstrogen di tubuh wanita bikin respon imun lebih aktif lho.
+27	Menurut penelitian juga, hormon ekstrogen di tubuh wanita bikin respon imun lebih aktif lho.
+28	Menurut penelitian juga, hormon ekstrogen di tubuh wanita bikin respon imun lebih aktif lho.
+29	Menurut penelitian juga, hormon ekstrogen di tubuh wanita bikin respon imun lebih aktif lho.
+30	Menurut penelitian juga, hormon ekstrogen di tubuh wanita bikin respon imun lebih aktif lho.
+31	Menurut penelitian juga, hormon ekstrogen di tubuh wanita bikin respon imun lebih aktif lho.
+32	Menurut penelitian juga, hormon ekstrogen di tubuh wanita bikin respon imun lebih aktif lho.
+33	Menurut penelitian juga, hormon ekstrogen di tubuh wanita bikin respon imun lebih aktif lho.
+34	Menurut penelitian juga, hormon ekstrogen di tubuh wanita bikin respon imun lebih aktif lho.
+35	Menurut penelitian juga, hormon ekstrogen di tubuh wanita bikin respon imun lebih aktif lho.
+36	Makanya gak heran deh kalau wanita lagi sakit itu lebih cepat sembuhnya.
+37	Makanya gak heran deh kalau wanita lagi sakit itu lebih cepat sembuhnya.
+38	Makanya gak heran deh kalau wanita lagi sakit itu lebih cepat sembuhnya.
+39	Makanya gak heran deh kalau wanita lagi sakit itu lebih cepat sembuhnya.
+40	Makanya gak heran deh kalau wanita lagi sakit itu lebih cepat sembuhnya.
+41	Makanya gak heran deh kalau wanita lagi sakit itu lebih cepat sembuhnya.
+42	Makanya gak heran deh kalau wanita lagi sakit itu lebih cepat sembuhnya.
+43	Makanya gak heran deh kalau wanita lagi sakit itu lebih cepat sembuhnya.
+44	Makanya gak heran deh kalau wanita lagi sakit itu lebih cepat sembuhnya.
+45	Makanya gak heran deh kalau wanita lagi sakit itu lebih cepat sembuhnya. Nah, selain itu juga, kromosom X yang lebih banyak pada tubuh wanita membuat sistem imun tubuh lebih kuat.
+46	Makanya gak heran deh kalau wanita lagi sakit itu lebih cepat sembuhnya. Nah, selain itu juga, kromosom X yang lebih banyak pada tubuh wanita membuat sistem imun tubuh lebih kuat.
+47	Nah, selain itu juga, kromosom X yang lebih banyak pada tubuh wanita membuat sistem imun tubuh lebih kuat.
+48	Nah, selain itu juga, kromosom X yang lebih banyak pada tubuh wanita membuat sistem imun tubuh lebih kuat.
+49	Nah, selain itu juga, kromosom X yang lebih banyak pada tubuh wanita membuat sistem imun tubuh lebih kuat.
+50	Nah, selain itu juga, kromosom X yang lebih banyak pada tubuh wanita membuat sistem imun tubuh lebih kuat.
+51	Nah, selain itu juga, kromosom X yang lebih banyak pada tubuh wanita membuat sistem imun tubuh lebih kuat.
+52	Nah, selain itu juga, kromosom X yang lebih banyak pada tubuh wanita membuat sistem imun tubuh lebih kuat.
+53	Nah, selain itu juga, kromosom X yang lebih banyak pada tubuh wanita membuat sistem imun tubuh lebih kuat.
+54	Nah, selain itu juga, kromosom X yang lebih banyak pada tubuh wanita membuat sistem imun tubuh lebih kuat.
+55	Nah, selain itu juga, kromosom X yang lebih banyak pada tubuh wanita membuat sistem imun tubuh lebih kuat.
+56	Nah, selain itu juga, kromosom X yang lebih banyak pada tubuh wanita membuat sistem imun tubuh lebih kuat.
+57	Nah, selain itu juga, kromosom X yang lebih banyak pada tubuh wanita membuat sistem imun tubuh lebih kuat.
+58	Nah, selain itu juga, kromosom X yang lebih banyak pada tubuh wanita membuat sistem imun tubuh lebih kuat.
+59	Nah, selain itu juga, kromosom X yang lebih banyak pada tubuh wanita membuat sistem imun tubuh lebih kuat.
+60	Nah, selain itu juga, kromosom X yang lebih banyak pada tubuh wanita membuat sistem imun tubuh lebih kuat.
+61	Nah, selain itu juga, kromosom X yang lebih banyak pada tubuh wanita membuat sistem imun tubuh lebih kuat.
+62	Nah, selain itu juga, kromosom X yang lebih banyak pada tubuh wanita membuat sistem imun tubuh lebih kuat.
+63	Nah, makanya jangan ngeremehin wanita ya.
+64	Nah, makanya jangan ngeremehin wanita ya.
+65	Nah, makanya jangan ngeremehin wanita ya.
+66	Nah, makanya jangan ngeremehin wanita ya.
+67	Nah, makanya jangan ngeremehin wanita ya.
+68	Nah, makanya jangan ngeremehin wanita ya.
+69	Nah, makanya jangan ngeremehin wanita ya.
+70	Nah, makanya jangan ngeremehin wanita ya.
+71	Kita mah kalau sakit masih tetap mantor, tetap masak, tetap dandang, dan tetap kuat.
+72	Kita mah kalau sakit masih tetap mantor, tetap masak, tetap dandang, dan tetap kuat.
+73	Kita mah kalau sakit masih tetap mantor, tetap masak, tetap dandang, dan tetap kuat.
+74	Kita mah kalau sakit masih tetap mantor, tetap masak, tetap dandang, dan tetap kuat.
+75	Kita mah kalau sakit masih tetap mantor, tetap masak, tetap dandang, dan tetap kuat.
+76	Kita mah kalau sakit masih tetap mantor, tetap masak, tetap dandang, dan tetap kuat.
+77	Kita mah kalau sakit masih tetap mantor, tetap masak, tetap dandang, dan tetap kuat.
+78	Kita mah kalau sakit masih tetap mantor, tetap masak, tetap dandang, dan tetap kuat.
+79	Kita mah kalau sakit masih tetap mantor, tetap masak, tetap dandang, dan tetap kuat.
+80	Kita mah kalau sakit masih tetap mantor, tetap masak, tetap dandang, dan tetap kuat.
+81	Kita mah kalau sakit masih tetap mantor, tetap masak, tetap dandang, dan tetap kuat.
+82	Kita mah kalau sakit masih tetap mantor, tetap masak, tetap dandang, dan tetap kuat.
+83	Kita mah kalau sakit masih tetap mantor, tetap masak, tetap dandang, dan tetap kuat.
+84	Kita mah kalau sakit masih tetap mantor, tetap masak, tetap dandang, dan tetap kuat.
+85	Kita mah kalau sakit masih tetap mantor, tetap masak, tetap dandang, dan tetap kuat.
+86	Kita mah kalau sakit masih tetap mantor, tetap masak, tetap dandang, dan tetap kuat.
+87	Kita mah kalau sakit masih tetap mantor, tetap masak, tetap dandang, dan tetap kuat. Arti ini bukan cuma kuat di hati, tapi juga kuat di imun.
+88	Arti ini bukan cuma kuat di hati, tapi juga kuat di imun.
+89	Arti ini bukan cuma kuat di hati, tapi juga kuat di imun.
+90	Arti ini bukan cuma kuat di hati, tapi juga kuat di imun.
+91	Arti ini bukan cuma kuat di hati, tapi juga kuat di imun.
+92	Arti ini bukan cuma kuat di hati, tapi juga kuat di imun.
+93	Arti ini bukan cuma kuat di hati, tapi juga kuat di imun.
+94	Arti ini bukan cuma kuat di hati, tapi juga kuat di imun.
+95	Arti ini bukan cuma kuat di hati, tapi juga kuat di imun.
+96	Arti ini bukan cuma kuat di hati, tapi juga kuat di imun.
+97	Arti ini bukan cuma kuat di hati, tapi juga kuat di imun.
+98	Arti ini bukan cuma kuat di hati, tapi juga kuat di imun.
+99	Arti ini bukan cuma kuat di hati, tapi juga kuat di imun. Selamat hari Kartini untuk wanita di Indonesia.
+100	Selamat hari Kartini untuk wanita di Indonesia.
+101	Selamat hari Kartini untuk wanita di Indonesia.
+102	Selamat hari Kartini untuk wanita di Indonesia.
+103	Selamat hari Kartini untuk wanita di Indonesia.
+104	Selamat hari Kartini untuk wanita di Indonesia.
+105	Selamat hari Kartini untuk wanita di Indonesia. Indonesia!
+106	Selamat hari Kartini untuk wanita di Indonesia. Indonesia!
+107	[NO_SPEECH]
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	[NO_SPEECH]
+113	[NO_SPEECH]
+114	[NO_SPEECH]
+115	[NO_SPEECH]
+116	[NO_SPEECH]

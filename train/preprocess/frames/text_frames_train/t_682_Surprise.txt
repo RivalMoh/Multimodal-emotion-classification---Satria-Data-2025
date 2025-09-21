@@ -1,0 +1,145 @@
+0	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri
+1	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri
+2	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri
+3	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri
+4	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri
+5	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri
+6	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri
+7	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri
+8	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri
+9	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri
+10	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri
+11	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri
+12	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri
+13	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri
+14	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri
+15	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri
+16	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri
+17	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri
+18	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri
+19	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri
+20	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri yang seringkali terasa panas dan bahkan nyeri yang tak tertelahankan seperti tertusuk baku.
+21	Sakit dan gatelnya terasa mulai dari area punggung, pinggang, sampai perut di sisi samping sebelah kiri yang seringkali terasa panas dan bahkan nyeri yang tak tertelahankan seperti tertusuk baku.
+22	yang seringkali terasa panas dan bahkan nyeri yang tak tertelahankan seperti tertusuk baku.
+23	yang seringkali terasa panas dan bahkan nyeri yang tak tertelahankan seperti tertusuk baku.
+24	yang seringkali terasa panas dan bahkan nyeri yang tak tertelahankan seperti tertusuk baku.
+25	yang seringkali terasa panas dan bahkan nyeri yang tak tertelahankan seperti tertusuk baku.
+26	yang seringkali terasa panas dan bahkan nyeri yang tak tertelahankan seperti tertusuk baku.
+27	yang seringkali terasa panas dan bahkan nyeri yang tak tertelahankan seperti tertusuk baku.
+28	yang seringkali terasa panas dan bahkan nyeri yang tak tertelahankan seperti tertusuk baku.
+29	yang seringkali terasa panas dan bahkan nyeri yang tak tertelahankan seperti tertusuk baku.
+30	yang seringkali terasa panas dan bahkan nyeri yang tak tertelahankan seperti tertusuk baku.
+31	yang seringkali terasa panas dan bahkan nyeri yang tak tertelahankan seperti tertusuk baku.
+32	yang seringkali terasa panas dan bahkan nyeri yang tak tertelahankan seperti tertusuk baku.
+33	yang seringkali terasa panas dan bahkan nyeri yang tak tertelahankan seperti tertusuk baku.
+34	yang seringkali terasa panas dan bahkan nyeri yang tak tertelahankan seperti tertusuk baku.
+35	yang seringkali terasa panas dan bahkan nyeri yang tak tertelahankan seperti tertusuk baku.
+36	yang seringkali terasa panas dan bahkan nyeri yang tak tertelahankan seperti tertusuk baku.
+37	yang seringkali terasa panas dan bahkan nyeri yang tak tertelahankan seperti tertusuk baku.
+38	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita.
+39	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita.
+40	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita.
+41	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita.
+42	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita.
+43	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita.
+44	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita.
+45	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita.
+46	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita.
+47	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita.
+48	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita.
+49	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita.
+50	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita.
+51	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita.
+52	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita.
+53	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita.
+54	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita.
+55	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita.
+56	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita. Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+57	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita. Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+58	Gimana ya, gatelnya itu ada rasa sakit, ada rasa gatel, ini sampai 2 bulan loh, rasanya itu sampai ke sarap kita. Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+59	Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+60	Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+61	Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+62	Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+63	Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+64	Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+65	Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+66	Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+67	Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+68	Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+69	Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+70	Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+71	Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+72	Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+73	Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+74	Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+75	Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+76	Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun.
+77	Ini adalah rasa sakit terburuk yang pernah saya rasakan. Saya berharap ini tidak terjadi pada siapapun. Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+78	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+79	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+80	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+81	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+82	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+83	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+84	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+85	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+86	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+87	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+88	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+89	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+90	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+91	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+92	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+93	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+94	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+95	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+96	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+97	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+98	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+99	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga.
+100	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga. Saya masih tidak menyangka bisa terkena cacar api karena saya selalu menjaga kesehatan saya setiap hari.
+101	Sebaiknya kita mencegah sebelum terlambat dan jangan biarkan cacar api itu mengganggu momen berharga Anda bersama keluarga. Saya masih tidak menyangka bisa terkena cacar api karena saya selalu menjaga kesehatan saya setiap hari.
+102	Saya masih tidak menyangka bisa terkena cacar api karena saya selalu menjaga kesehatan saya setiap hari.
+103	Saya masih tidak menyangka bisa terkena cacar api karena saya selalu menjaga kesehatan saya setiap hari.
+104	Saya masih tidak menyangka bisa terkena cacar api karena saya selalu menjaga kesehatan saya setiap hari.
+105	Saya masih tidak menyangka bisa terkena cacar api karena saya selalu menjaga kesehatan saya setiap hari.
+106	Saya masih tidak menyangka bisa terkena cacar api karena saya selalu menjaga kesehatan saya setiap hari.
+107	Saya masih tidak menyangka bisa terkena cacar api karena saya selalu menjaga kesehatan saya setiap hari.
+108	Saya masih tidak menyangka bisa terkena cacar api karena saya selalu menjaga kesehatan saya setiap hari.
+109	Saya masih tidak menyangka bisa terkena cacar api karena saya selalu menjaga kesehatan saya setiap hari.
+110	Saya masih tidak menyangka bisa terkena cacar api karena saya selalu menjaga kesehatan saya setiap hari.
+111	Saya masih tidak menyangka bisa terkena cacar api karena saya selalu menjaga kesehatan saya setiap hari.
+112	Saya masih tidak menyangka bisa terkena cacar api karena saya selalu menjaga kesehatan saya setiap hari.
+113	Saya masih tidak menyangka bisa terkena cacar api karena saya selalu menjaga kesehatan saya setiap hari.
+114	Saya masih tidak menyangka bisa terkena cacar api karena saya selalu menjaga kesehatan saya setiap hari.
+115	Saya masih tidak menyangka bisa terkena cacar api karena saya selalu menjaga kesehatan saya setiap hari.
+116	Saya masih tidak menyangka bisa terkena cacar api karena saya selalu menjaga kesehatan saya setiap hari.
+117	Saya masih tidak menyangka bisa terkena cacar api karena saya selalu menjaga kesehatan saya setiap hari.
+118	Jangan menyepelekan cacar api. Diskusikan cara penjagaannya dengan dokter Anda.
+119	Jangan menyepelekan cacar api. Diskusikan cara penjagaannya dengan dokter Anda.
+120	Jangan menyepelekan cacar api. Diskusikan cara penjagaannya dengan dokter Anda.
+121	Jangan menyepelekan cacar api. Diskusikan cara penjagaannya dengan dokter Anda.
+122	Jangan menyepelekan cacar api. Diskusikan cara penjagaannya dengan dokter Anda.
+123	Jangan menyepelekan cacar api. Diskusikan cara penjagaannya dengan dokter Anda.
+124	Jangan menyepelekan cacar api. Diskusikan cara penjagaannya dengan dokter Anda.
+125	Jangan menyepelekan cacar api. Diskusikan cara penjagaannya dengan dokter Anda.
+126	Jangan menyepelekan cacar api. Diskusikan cara penjagaannya dengan dokter Anda.
+127	Jangan menyepelekan cacar api. Diskusikan cara penjagaannya dengan dokter Anda.
+128	Jangan menyepelekan cacar api. Diskusikan cara penjagaannya dengan dokter Anda.
+129	Jangan menyepelekan cacar api. Diskusikan cara penjagaannya dengan dokter Anda.
+130	Jangan menyepelekan cacar api. Diskusikan cara penjagaannya dengan dokter Anda.
+131	Jangan menyepelekan cacar api. Diskusikan cara penjagaannya dengan dokter Anda. Terima kasih telah menonton.
+132	Jangan menyepelekan cacar api. Diskusikan cara penjagaannya dengan dokter Anda. Terima kasih telah menonton.
+133	Terima kasih telah menonton.
+134	Terima kasih telah menonton.
+135	Terima kasih telah menonton.
+136	Terima kasih telah menonton.
+137	Terima kasih telah menonton.
+138	Terima kasih telah menonton.
+139	Terima kasih telah menonton.
+140	Terima kasih telah menonton.
+141	Terima kasih telah menonton.
+142	Terima kasih telah menonton.
+143	Terima kasih telah menonton.
+144	Terima kasih telah menonton.

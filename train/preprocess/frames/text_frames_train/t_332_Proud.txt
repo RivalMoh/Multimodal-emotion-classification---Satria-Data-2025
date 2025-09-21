@@ -1,0 +1,121 @@
+0	Hati-hati buat yang FOMO lari, efeknya nggak main-main.
+1	Hati-hati buat yang FOMO lari, efeknya nggak main-main.
+2	Hati-hati buat yang FOMO lari, efeknya nggak main-main.
+3	Hati-hati buat yang FOMO lari, efeknya nggak main-main.
+4	Hati-hati buat yang FOMO lari, efeknya nggak main-main.
+5	Hati-hati buat yang FOMO lari, efeknya nggak main-main. Berawal dari FOMO ngeliat orang lain lari,
+6	Hati-hati buat yang FOMO lari, efeknya nggak main-main. Berawal dari FOMO ngeliat orang lain lari,
+7	Berawal dari FOMO ngeliat orang lain lari,
+8	Berawal dari FOMO ngeliat orang lain lari,
+9	Berawal dari FOMO ngeliat orang lain lari,
+10	Berawal dari FOMO ngeliat orang lain lari, jadi kebiasaan sehat yang bikin bangga sama diri sendiri.
+11	Berawal dari FOMO ngeliat orang lain lari, jadi kebiasaan sehat yang bikin bangga sama diri sendiri.
+12	jadi kebiasaan sehat yang bikin bangga sama diri sendiri.
+13	jadi kebiasaan sehat yang bikin bangga sama diri sendiri.
+14	jadi kebiasaan sehat yang bikin bangga sama diri sendiri.
+15	jadi kebiasaan sehat yang bikin bangga sama diri sendiri.
+16	jadi kebiasaan sehat yang bikin bangga sama diri sendiri.
+17	jadi kebiasaan sehat yang bikin bangga sama diri sendiri.
+18	jadi kebiasaan sehat yang bikin bangga sama diri sendiri. Awalnya mungkin berat, napas ngos-ngosan,
+19	Awalnya mungkin berat, napas ngos-ngosan,
+20	Awalnya mungkin berat, napas ngos-ngosan,
+21	Awalnya mungkin berat, napas ngos-ngosan,
+22	Awalnya mungkin berat, napas ngos-ngosan,
+23	Awalnya mungkin berat, napas ngos-ngosan, hati pegel, bawahannya pengen nyerah.
+24	Awalnya mungkin berat, napas ngos-ngosan, hati pegel, bawahannya pengen nyerah.
+25	hati pegel, bawahannya pengen nyerah.
+26	hati pegel, bawahannya pengen nyerah.
+27	hati pegel, bawahannya pengen nyerah.
+28	hati pegel, bawahannya pengen nyerah. Tapi, coba deh kamu konsisten 3 kali seminggu.
+29	hati pegel, bawahannya pengen nyerah. Tapi, coba deh kamu konsisten 3 kali seminggu.
+30	Tapi, coba deh kamu konsisten 3 kali seminggu.
+31	Tapi, coba deh kamu konsisten 3 kali seminggu.
+32	Tapi, coba deh kamu konsisten 3 kali seminggu.
+33	Tapi, coba deh kamu konsisten 3 kali seminggu.
+34	Tapi, coba deh kamu konsisten 3 kali seminggu.
+35	Tapi, coba deh kamu konsisten 3 kali seminggu. Perlahan, badan jadi lebih ringan,
+36	Perlahan, badan jadi lebih ringan,
+37	Perlahan, badan jadi lebih ringan,
+38	Perlahan, badan jadi lebih ringan,
+39	Perlahan, badan jadi lebih ringan, tidur lebih nyenyak, dan yang paling penting, mental makin kuat.
+40	Perlahan, badan jadi lebih ringan, tidur lebih nyenyak, dan yang paling penting, mental makin kuat.
+41	tidur lebih nyenyak, dan yang paling penting, mental makin kuat.
+42	tidur lebih nyenyak, dan yang paling penting, mental makin kuat.
+43	tidur lebih nyenyak, dan yang paling penting, mental makin kuat.
+44	tidur lebih nyenyak, dan yang paling penting, mental makin kuat.
+45	tidur lebih nyenyak, dan yang paling penting, mental makin kuat.
+46	tidur lebih nyenyak, dan yang paling penting, mental makin kuat.
+47	tidur lebih nyenyak, dan yang paling penting, mental makin kuat. Lari itu bukan cuma soal kecepatan,
+48	Lari itu bukan cuma soal kecepatan,
+49	Lari itu bukan cuma soal kecepatan,
+50	Lari itu bukan cuma soal kecepatan,
+51	Lari itu bukan cuma soal kecepatan,
+52	Lari itu bukan cuma soal kecepatan, tapi soal membuktikan kalau kamu bisa ngelewatin rasa malas lagi dan lagi.
+53	Lari itu bukan cuma soal kecepatan, tapi soal membuktikan kalau kamu bisa ngelewatin rasa malas lagi dan lagi.
+54	tapi soal membuktikan kalau kamu bisa ngelewatin rasa malas lagi dan lagi.
+55	tapi soal membuktikan kalau kamu bisa ngelewatin rasa malas lagi dan lagi.
+56	tapi soal membuktikan kalau kamu bisa ngelewatin rasa malas lagi dan lagi.
+57	tapi soal membuktikan kalau kamu bisa ngelewatin rasa malas lagi dan lagi.
+58	tapi soal membuktikan kalau kamu bisa ngelewatin rasa malas lagi dan lagi.
+59	tapi soal membuktikan kalau kamu bisa ngelewatin rasa malas lagi dan lagi.
+60	tapi soal membuktikan kalau kamu bisa ngelewatin rasa malas lagi dan lagi.
+61	tapi soal membuktikan kalau kamu bisa ngelewatin rasa malas lagi dan lagi.
+62	tapi soal membuktikan kalau kamu bisa ngelewatin rasa malas lagi dan lagi.
+63	tapi soal membuktikan kalau kamu bisa ngelewatin rasa malas lagi dan lagi. Efeknya, stamina meningkat,
+64	Efeknya, stamina meningkat,
+65	Efeknya, stamina meningkat,
+66	Efeknya, stamina meningkat,
+67	Efeknya, stamina meningkat, gantung lebih sehat, pikiran lebih tenang,
+68	Efeknya, stamina meningkat, gantung lebih sehat, pikiran lebih tenang,
+69	gantung lebih sehat, pikiran lebih tenang,
+70	gantung lebih sehat, pikiran lebih tenang,
+71	gantung lebih sehat, pikiran lebih tenang,
+72	gantung lebih sehat, pikiran lebih tenang,
+73	gantung lebih sehat, pikiran lebih tenang, emosi lebih stabil, dan bonusnya,
+74	gantung lebih sehat, pikiran lebih tenang, emosi lebih stabil, dan bonusnya,
+75	emosi lebih stabil, dan bonusnya,
+76	emosi lebih stabil, dan bonusnya,
+77	emosi lebih stabil, dan bonusnya,
+78	badan juga lebih ideal.
+79	badan juga lebih ideal.
+80	badan juga lebih ideal.
+81	badan juga lebih ideal. Nggak apa-apa, mulai aja dulu dari FOMO.
+82	Nggak apa-apa, mulai aja dulu dari FOMO.
+83	Nggak apa-apa, mulai aja dulu dari FOMO.
+84	Nggak apa-apa, mulai aja dulu dari FOMO.
+85	Nggak apa-apa, mulai aja dulu dari FOMO.
+86	Nggak apa-apa, mulai aja dulu dari FOMO. 15 menit, 1 kilometer, jalan cepat pun nggak apa-apa,
+87	Nggak apa-apa, mulai aja dulu dari FOMO. 15 menit, 1 kilometer, jalan cepat pun nggak apa-apa,
+88	15 menit, 1 kilometer, jalan cepat pun nggak apa-apa,
+89	15 menit, 1 kilometer, jalan cepat pun nggak apa-apa,
+90	15 menit, 1 kilometer, jalan cepat pun nggak apa-apa,
+91	15 menit, 1 kilometer, jalan cepat pun nggak apa-apa,
+92	15 menit, 1 kilometer, jalan cepat pun nggak apa-apa,
+93	15 menit, 1 kilometer, jalan cepat pun nggak apa-apa, karena lari bukan buat siapa-siapa,
+94	15 menit, 1 kilometer, jalan cepat pun nggak apa-apa, karena lari bukan buat siapa-siapa,
+95	karena lari bukan buat siapa-siapa,
+96	karena lari bukan buat siapa-siapa,
+97	karena lari bukan buat siapa-siapa,
+98	karena lari bukan buat siapa-siapa, ini buat diri sendiri.
+99	karena lari bukan buat siapa-siapa, ini buat diri sendiri.
+100	ini buat diri sendiri.
+101	ini buat diri sendiri.
+102	Gimana, udah mulai lari minggu ini?
+103	Gimana, udah mulai lari minggu ini?
+104	Gimana, udah mulai lari minggu ini?
+105	Gimana, udah mulai lari minggu ini?
+106	Gimana, udah mulai lari minggu ini?
+107	Gimana, udah mulai lari minggu ini? Atau masih bingung harus pakai outfit apa?
+108	Atau masih bingung harus pakai outfit apa?
+109	Atau masih bingung harus pakai outfit apa?
+110	Atau masih bingung harus pakai outfit apa?
+111	Atau masih bingung harus pakai outfit apa?
+112	Atau masih bingung harus pakai outfit apa? Saat lari?
+113	Atau masih bingung harus pakai outfit apa? Saat lari? Yuk, komen di bawah.
+114	Saat lari? Yuk, komen di bawah.
+115	Yuk, komen di bawah.
+116	Yuk, komen di bawah.
+117	Yuk, komen di bawah.
+118	[NO_SPEECH]
+119	[NO_SPEECH]
+120	[NO_SPEECH]

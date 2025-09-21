@@ -1,0 +1,122 @@
+0	Menurut World Health Organization, WHO,
+1	Menurut World Health Organization, WHO,
+2	Menurut World Health Organization, WHO,
+3	Menurut World Health Organization, WHO,
+4	Menurut World Health Organization, WHO, anak-anak seringkali jadi korban tenggelam.
+5	anak-anak seringkali jadi korban tenggelam.
+6	anak-anak seringkali jadi korban tenggelam.
+7	anak-anak seringkali jadi korban tenggelam.
+8	anak-anak seringkali jadi korban tenggelam.
+9	anak-anak seringkali jadi korban tenggelam.
+10	anak-anak seringkali jadi korban tenggelam. Tenggelam adalah penyebab utama kematian pada anak-anak di berbagai negara.
+11	Tenggelam adalah penyebab utama kematian pada anak-anak di berbagai negara.
+12	Tenggelam adalah penyebab utama kematian pada anak-anak di berbagai negara.
+13	Tenggelam adalah penyebab utama kematian pada anak-anak di berbagai negara.
+14	Tenggelam adalah penyebab utama kematian pada anak-anak di berbagai negara.
+15	Tenggelam adalah penyebab utama kematian pada anak-anak di berbagai negara.
+16	Tenggelam adalah penyebab utama kematian pada anak-anak di berbagai negara.
+17	Tenggelam adalah penyebab utama kematian pada anak-anak di berbagai negara.
+18	Tenggelam adalah penyebab utama kematian pada anak-anak di berbagai negara.
+19	Tenggelam adalah penyebab utama kematian pada anak-anak di berbagai negara.
+20	WHO mencatat bahwa tenggelam merupakan penyebab kematian terbesar kedua
+21	WHO mencatat bahwa tenggelam merupakan penyebab kematian terbesar kedua
+22	WHO mencatat bahwa tenggelam merupakan penyebab kematian terbesar kedua
+23	WHO mencatat bahwa tenggelam merupakan penyebab kematian terbesar kedua
+24	WHO mencatat bahwa tenggelam merupakan penyebab kematian terbesar kedua
+25	WHO mencatat bahwa tenggelam merupakan penyebab kematian terbesar kedua
+26	WHO mencatat bahwa tenggelam merupakan penyebab kematian terbesar kedua
+27	WHO mencatat bahwa tenggelam merupakan penyebab kematian terbesar kedua setelah pneumonia pada anak-anak usia 1-14 tahun.
+28	WHO mencatat bahwa tenggelam merupakan penyebab kematian terbesar kedua setelah pneumonia pada anak-anak usia 1-14 tahun.
+29	setelah pneumonia pada anak-anak usia 1-14 tahun.
+30	setelah pneumonia pada anak-anak usia 1-14 tahun.
+31	setelah pneumonia pada anak-anak usia 1-14 tahun.
+32	setelah pneumonia pada anak-anak usia 1-14 tahun.
+33	setelah pneumonia pada anak-anak usia 1-14 tahun.
+34	setelah pneumonia pada anak-anak usia 1-14 tahun.
+35	setelah pneumonia pada anak-anak usia 1-14 tahun.
+36	setelah pneumonia pada anak-anak usia 1-14 tahun.
+37	Makanya, penting banget untuk si kecil belajar berenang
+38	Makanya, penting banget untuk si kecil belajar berenang
+39	Makanya, penting banget untuk si kecil belajar berenang
+40	Makanya, penting banget untuk si kecil belajar berenang
+41	Makanya, penting banget untuk si kecil belajar berenang
+42	Makanya, penting banget untuk si kecil belajar berenang
+43	Makanya, penting banget untuk si kecil belajar berenang karena ini adalah tentang keselamatan.
+44	Makanya, penting banget untuk si kecil belajar berenang karena ini adalah tentang keselamatan.
+45	karena ini adalah tentang keselamatan.
+46	karena ini adalah tentang keselamatan.
+47	karena ini adalah tentang keselamatan.
+48	karena ini adalah tentang keselamatan.
+49	Dengan keterampilan berenang yang tepat,
+50	Dengan keterampilan berenang yang tepat,
+51	Dengan keterampilan berenang yang tepat,
+52	Dengan keterampilan berenang yang tepat,
+53	Dengan keterampilan berenang yang tepat, si kecil akan bisa merasa lebih percaya diri,
+54	Dengan keterampilan berenang yang tepat, si kecil akan bisa merasa lebih percaya diri,
+55	si kecil akan bisa merasa lebih percaya diri,
+56	si kecil akan bisa merasa lebih percaya diri,
+57	si kecil akan bisa merasa lebih percaya diri,
+58	si kecil akan bisa merasa lebih percaya diri, aman, nyaman, dan mandiri dengan lingkungan air.
+59	si kecil akan bisa merasa lebih percaya diri, aman, nyaman, dan mandiri dengan lingkungan air.
+60	aman, nyaman, dan mandiri dengan lingkungan air.
+61	aman, nyaman, dan mandiri dengan lingkungan air.
+62	aman, nyaman, dan mandiri dengan lingkungan air.
+63	aman, nyaman, dan mandiri dengan lingkungan air.
+64	aman, nyaman, dan mandiri dengan lingkungan air.
+65	aman, nyaman, dan mandiri dengan lingkungan air.
+66	Dengan keterampilan berenang,
+67	Dengan keterampilan berenang,
+68	Dengan keterampilan berenang,
+69	Dengan keterampilan berenang, mereka bisa menikmati bermain di air
+70	Dengan keterampilan berenang, mereka bisa menikmati bermain di air
+71	mereka bisa menikmati bermain di air
+72	mereka bisa menikmati bermain di air
+73	mereka bisa menikmati bermain di air tanpa harus selalu mengandalkan bantuan orang dewasa.
+74	mereka bisa menikmati bermain di air tanpa harus selalu mengandalkan bantuan orang dewasa.
+75	tanpa harus selalu mengandalkan bantuan orang dewasa.
+76	tanpa harus selalu mengandalkan bantuan orang dewasa.
+77	tanpa harus selalu mengandalkan bantuan orang dewasa.
+78	tanpa harus selalu mengandalkan bantuan orang dewasa.
+79	tanpa harus selalu mengandalkan bantuan orang dewasa.
+80	Ini adalah langkah pertama menuju kemandirian
+81	Ini adalah langkah pertama menuju kemandirian
+82	Ini adalah langkah pertama menuju kemandirian
+83	Ini adalah langkah pertama menuju kemandirian
+84	Ini adalah langkah pertama menuju kemandirian yang penting dalam perkembangan mereka.
+85	Ini adalah langkah pertama menuju kemandirian yang penting dalam perkembangan mereka.
+86	yang penting dalam perkembangan mereka.
+87	yang penting dalam perkembangan mereka.
+88	yang penting dalam perkembangan mereka.
+89	yang penting dalam perkembangan mereka. Selain itu, berenang adalah olahraga yang menyenangkan dan menyehatkan.
+90	Selain itu, berenang adalah olahraga yang menyenangkan dan menyehatkan.
+91	Selain itu, berenang adalah olahraga yang menyenangkan dan menyehatkan.
+92	Selain itu, berenang adalah olahraga yang menyenangkan dan menyehatkan.
+93	Selain itu, berenang adalah olahraga yang menyenangkan dan menyehatkan.
+94	Selain itu, berenang adalah olahraga yang menyenangkan dan menyehatkan.
+95	Selain itu, berenang adalah olahraga yang menyenangkan dan menyehatkan.
+96	Selain itu, berenang adalah olahraga yang menyenangkan dan menyehatkan.
+97	Selain itu, berenang adalah olahraga yang menyenangkan dan menyehatkan. Berenang bisa membantu meningkatkan kesehatan jantung,
+98	Berenang bisa membantu meningkatkan kesehatan jantung,
+99	Berenang bisa membantu meningkatkan kesehatan jantung,
+100	Berenang bisa membantu meningkatkan kesehatan jantung,
+101	Berenang bisa membantu meningkatkan kesehatan jantung,
+102	Berenang bisa membantu meningkatkan kesehatan jantung,
+103	Berenang bisa membantu meningkatkan kesehatan jantung, membangun kekuatan otot,
+104	Berenang bisa membantu meningkatkan kesehatan jantung, membangun kekuatan otot,
+105	membangun kekuatan otot,
+106	membangun kekuatan otot,
+107	membangun kekuatan otot, meningkatkan fleksibilitas tubuh.
+108	meningkatkan fleksibilitas tubuh.
+109	meningkatkan fleksibilitas tubuh.
+110	meningkatkan fleksibilitas tubuh.
+111	meningkatkan fleksibilitas tubuh. Yuk mulai perjalanan keajaiban air si kecil
+112	meningkatkan fleksibilitas tubuh. Yuk mulai perjalanan keajaiban air si kecil
+113	Yuk mulai perjalanan keajaiban air si kecil
+114	Yuk mulai perjalanan keajaiban air si kecil
+115	Yuk mulai perjalanan keajaiban air si kecil
+116	Yuk mulai perjalanan keajaiban air si kecil di Studio Renang.
+117	Yuk mulai perjalanan keajaiban air si kecil di Studio Renang.
+118	Yuk mulai perjalanan keajaiban air si kecil di Studio Renang. Terima kasih.
+119	di Studio Renang. Terima kasih.
+120	Terima kasih.
+121	Terima kasih.

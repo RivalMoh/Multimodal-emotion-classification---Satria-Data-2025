@@ -1,0 +1,79 @@
+0	Ini dia gaya renang yang bisa kita gunakan untuk survive di kolam renang jika tidak sengaja terjatuh.
+1	Ini dia gaya renang yang bisa kita gunakan untuk survive di kolam renang jika tidak sengaja terjatuh.
+2	Ini dia gaya renang yang bisa kita gunakan untuk survive di kolam renang jika tidak sengaja terjatuh.
+3	Ini dia gaya renang yang bisa kita gunakan untuk survive di kolam renang jika tidak sengaja terjatuh.
+4	Ini dia gaya renang yang bisa kita gunakan untuk survive di kolam renang jika tidak sengaja terjatuh.
+5	Ini dia gaya renang yang bisa kita gunakan untuk survive di kolam renang jika tidak sengaja terjatuh.
+6	Ini dia gaya renang yang bisa kita gunakan untuk survive di kolam renang jika tidak sengaja terjatuh.
+7	Ini dia gaya renang yang bisa kita gunakan untuk survive di kolam renang jika tidak sengaja terjatuh.
+8	Ini dia gaya renang yang bisa kita gunakan untuk survive di kolam renang jika tidak sengaja terjatuh.
+9	Ini dia gaya renang yang bisa kita gunakan untuk survive di kolam renang jika tidak sengaja terjatuh.
+10	Ini dia gaya renang yang bisa kita gunakan untuk survive di kolam renang jika tidak sengaja terjatuh.
+11	Ini dia gaya renang yang bisa kita gunakan untuk survive di kolam renang jika tidak sengaja terjatuh. Yang pertama ada entry turn.
+12	Ini dia gaya renang yang bisa kita gunakan untuk survive di kolam renang jika tidak sengaja terjatuh. Yang pertama ada entry turn.
+13	Yang pertama ada entry turn.
+14	Yang pertama ada entry turn.
+15	Yang pertama ada entry turn. Gerakan ini memungkinkan kita untuk berputar ke arah deck atau pinggir kolam dan kemudian naik.
+16	Yang pertama ada entry turn. Gerakan ini memungkinkan kita untuk berputar ke arah deck atau pinggir kolam dan kemudian naik.
+17	Gerakan ini memungkinkan kita untuk berputar ke arah deck atau pinggir kolam dan kemudian naik.
+18	Gerakan ini memungkinkan kita untuk berputar ke arah deck atau pinggir kolam dan kemudian naik.
+19	Gerakan ini memungkinkan kita untuk berputar ke arah deck atau pinggir kolam dan kemudian naik.
+20	Gerakan ini memungkinkan kita untuk berputar ke arah deck atau pinggir kolam dan kemudian naik.
+21	Gerakan ini memungkinkan kita untuk berputar ke arah deck atau pinggir kolam dan kemudian naik.
+22	Gerakan ini memungkinkan kita untuk berputar ke arah deck atau pinggir kolam dan kemudian naik.
+23	Gerakan ini memungkinkan kita untuk berputar ke arah deck atau pinggir kolam dan kemudian naik.
+24	Gerakan ini memungkinkan kita untuk berputar ke arah deck atau pinggir kolam dan kemudian naik.
+25	Gerakan ini memungkinkan kita untuk berputar ke arah deck atau pinggir kolam dan kemudian naik.
+26	Gerakan ini memungkinkan kita untuk berputar ke arah deck atau pinggir kolam dan kemudian naik.
+27	Gerakan ini memungkinkan kita untuk berputar ke arah deck atau pinggir kolam dan kemudian naik. Untuk stepnya, biasa kami menggunakan entry, turn kemudian grab the wall.
+28	Gerakan ini memungkinkan kita untuk berputar ke arah deck atau pinggir kolam dan kemudian naik. Untuk stepnya, biasa kami menggunakan entry, turn kemudian grab the wall.
+29	Untuk stepnya, biasa kami menggunakan entry, turn kemudian grab the wall.
+30	Untuk stepnya, biasa kami menggunakan entry, turn kemudian grab the wall.
+31	Untuk stepnya, biasa kami menggunakan entry, turn kemudian grab the wall.
+32	Untuk stepnya, biasa kami menggunakan entry, turn kemudian grab the wall.
+33	Untuk stepnya, biasa kami menggunakan entry, turn kemudian grab the wall.
+34	Untuk stepnya, biasa kami menggunakan entry, turn kemudian grab the wall.
+35	Untuk stepnya, biasa kami menggunakan entry, turn kemudian grab the wall.
+36	Untuk stepnya, biasa kami menggunakan entry, turn kemudian grab the wall.
+37	Untuk stepnya, biasa kami menggunakan entry, turn kemudian grab the wall.
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	Ketika naik, caranya melakukan elbow, elbow tummy knee.
+41	Ketika naik, caranya melakukan elbow, elbow tummy knee.
+42	Ketika naik, caranya melakukan elbow, elbow tummy knee.
+43	Ketika naik, caranya melakukan elbow, elbow tummy knee.
+44	Ketika naik, caranya melakukan elbow, elbow tummy knee.
+45	Ketika naik, caranya melakukan elbow, elbow tummy knee.
+46	Ketika naik, caranya melakukan elbow, elbow tummy knee.
+47	Ketika naik, caranya melakukan elbow, elbow tummy knee.
+48	Ketika naik, caranya melakukan elbow, elbow tummy knee.
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	Nah yang kedua, yang bisa kita lakukan adalah fall and float.
+53	Nah yang kedua, yang bisa kita lakukan adalah fall and float.
+54	Nah yang kedua, yang bisa kita lakukan adalah fall and float.
+55	Nah yang kedua, yang bisa kita lakukan adalah fall and float.
+56	Nah yang kedua, yang bisa kita lakukan adalah fall and float.
+57	Nah yang kedua, yang bisa kita lakukan adalah fall and float.
+58	Nah yang kedua, yang bisa kita lakukan adalah fall and float.
+59	Nah yang kedua, yang bisa kita lakukan adalah fall and float.
+60	Nah yang kedua, yang bisa kita lakukan adalah fall and float.
+61	Nah yang kedua, yang bisa kita lakukan adalah fall and float.
+62	Nah yang kedua, yang bisa kita lakukan adalah fall and float. Dimana ketika terjatuh, tubuh bisa berputar balik dan mengambang melihat ke atas untuk bernafas.
+63	Nah yang kedua, yang bisa kita lakukan adalah fall and float. Dimana ketika terjatuh, tubuh bisa berputar balik dan mengambang melihat ke atas untuk bernafas.
+64	Dimana ketika terjatuh, tubuh bisa berputar balik dan mengambang melihat ke atas untuk bernafas.
+65	Dimana ketika terjatuh, tubuh bisa berputar balik dan mengambang melihat ke atas untuk bernafas.
+66	Dimana ketika terjatuh, tubuh bisa berputar balik dan mengambang melihat ke atas untuk bernafas.
+67	Dimana ketika terjatuh, tubuh bisa berputar balik dan mengambang melihat ke atas untuk bernafas.
+68	Dimana ketika terjatuh, tubuh bisa berputar balik dan mengambang melihat ke atas untuk bernafas.
+69	Dimana ketika terjatuh, tubuh bisa berputar balik dan mengambang melihat ke atas untuk bernafas.
+70	Dimana ketika terjatuh, tubuh bisa berputar balik dan mengambang melihat ke atas untuk bernafas.
+71	Dimana ketika terjatuh, tubuh bisa berputar balik dan mengambang melihat ke atas untuk bernafas.
+72	Dimana ketika terjatuh, tubuh bisa berputar balik dan mengambang melihat ke atas untuk bernafas.
+73	Dimana ketika terjatuh, tubuh bisa berputar balik dan mengambang melihat ke atas untuk bernafas.
+74	Dimana ketika terjatuh, tubuh bisa berputar balik dan mengambang melihat ke atas untuk bernafas.
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]

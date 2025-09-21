@@ -1,0 +1,100 @@
+0	Mumpung masih celegon, kita beli tiket penyebrangan feri pakai feri Z dari sekarang aja.
+1	Mumpung masih celegon, kita beli tiket penyebrangan feri pakai feri Z dari sekarang aja.
+2	Mumpung masih celegon, kita beli tiket penyebrangan feri pakai feri Z dari sekarang aja.
+3	Mumpung masih celegon, kita beli tiket penyebrangan feri pakai feri Z dari sekarang aja.
+4	Mumpung masih celegon, kita beli tiket penyebrangan feri pakai feri Z dari sekarang aja.
+5	Mumpung masih celegon, kita beli tiket penyebrangan feri pakai feri Z dari sekarang aja.
+6	Mumpung masih celegon, kita beli tiket penyebrangan feri pakai feri Z dari sekarang aja.
+7	Mumpung masih celegon, kita beli tiket penyebrangan feri pakai feri Z dari sekarang aja.
+8	Mumpung masih celegon, kita beli tiket penyebrangan feri pakai feri Z dari sekarang aja.
+9	Mumpung masih celegon, kita beli tiket penyebrangan feri pakai feri Z dari sekarang aja. Kenapa dari sekarang?
+10	Kenapa dari sekarang?
+11	Kenapa dari sekarang?
+12	Kenapa dari sekarang?
+13	[NO_SPEECH]
+14	Belilah tiket sebelum sampai ke pelabuhan, karena setelah Anda sampai ke pelabuhan,
+15	Belilah tiket sebelum sampai ke pelabuhan, karena setelah Anda sampai ke pelabuhan,
+16	Belilah tiket sebelum sampai ke pelabuhan, karena setelah Anda sampai ke pelabuhan,
+17	Belilah tiket sebelum sampai ke pelabuhan, karena setelah Anda sampai ke pelabuhan,
+18	Belilah tiket sebelum sampai ke pelabuhan, karena setelah Anda sampai ke pelabuhan,
+19	Belilah tiket sebelum sampai ke pelabuhan, karena setelah Anda sampai ke pelabuhan,
+20	Belilah tiket sebelum sampai ke pelabuhan, karena setelah Anda sampai ke pelabuhan,
+21	Belilah tiket sebelum sampai ke pelabuhan, karena setelah Anda sampai ke pelabuhan,
+22	Belilah tiket sebelum sampai ke pelabuhan, karena setelah Anda sampai ke pelabuhan,
+23	Belilah tiket sebelum sampai ke pelabuhan, karena setelah Anda sampai ke pelabuhan,
+24	Belilah tiket sebelum sampai ke pelabuhan, karena setelah Anda sampai ke pelabuhan, sudah tidak bisa beli tiket lagi.
+25	sudah tidak bisa beli tiket lagi.
+26	sudah tidak bisa beli tiket lagi.
+27	sudah tidak bisa beli tiket lagi.
+28	sudah tidak bisa beli tiket lagi. Jadi, harus di atas 5 km dari pelabuhan agar bisa beli tiket.
+29	Jadi, harus di atas 5 km dari pelabuhan agar bisa beli tiket.
+30	Jadi, harus di atas 5 km dari pelabuhan agar bisa beli tiket.
+31	Jadi, harus di atas 5 km dari pelabuhan agar bisa beli tiket.
+32	Jadi, harus di atas 5 km dari pelabuhan agar bisa beli tiket.
+33	Jadi, harus di atas 5 km dari pelabuhan agar bisa beli tiket.
+34	Jadi, harus di atas 5 km dari pelabuhan agar bisa beli tiket.
+35	Jadi, harus di atas 5 km dari pelabuhan agar bisa beli tiket.
+36	Jadi, harus di atas 5 km dari pelabuhan agar bisa beli tiket.
+37	Jadi, harus di atas 5 km dari pelabuhan agar bisa beli tiket.
+38	Jadi, harus di atas 5 km dari pelabuhan agar bisa beli tiket. Informasi penting untuk Anda pemudik yang mau mudik lewat darat,
+39	Jadi, harus di atas 5 km dari pelabuhan agar bisa beli tiket. Informasi penting untuk Anda pemudik yang mau mudik lewat darat,
+40	Informasi penting untuk Anda pemudik yang mau mudik lewat darat,
+41	Informasi penting untuk Anda pemudik yang mau mudik lewat darat,
+42	Informasi penting untuk Anda pemudik yang mau mudik lewat darat,
+43	Informasi penting untuk Anda pemudik yang mau mudik lewat darat,
+44	Informasi penting untuk Anda pemudik yang mau mudik lewat darat,
+45	Informasi penting untuk Anda pemudik yang mau mudik lewat darat, dan Anda harus share informasi ini ke pemudik yang lewat darat lainnya lagi.
+46	Informasi penting untuk Anda pemudik yang mau mudik lewat darat, dan Anda harus share informasi ini ke pemudik yang lewat darat lainnya lagi.
+47	dan Anda harus share informasi ini ke pemudik yang lewat darat lainnya lagi.
+48	dan Anda harus share informasi ini ke pemudik yang lewat darat lainnya lagi.
+49	dan Anda harus share informasi ini ke pemudik yang lewat darat lainnya lagi.
+50	dan Anda harus share informasi ini ke pemudik yang lewat darat lainnya lagi.
+51	dan Anda harus share informasi ini ke pemudik yang lewat darat lainnya lagi.
+52	dan Anda harus share informasi ini ke pemudik yang lewat darat lainnya lagi.
+53	dan Anda harus share informasi ini ke pemudik yang lewat darat lainnya lagi.
+54	dan Anda harus share informasi ini ke pemudik yang lewat darat lainnya lagi.
+55	dan Anda harus share informasi ini ke pemudik yang lewat darat lainnya lagi. Nah, apabila Anda mau keluar Pulau Jawa, Anda pasti naik itu, naik feri.
+56	dan Anda harus share informasi ini ke pemudik yang lewat darat lainnya lagi. Nah, apabila Anda mau keluar Pulau Jawa, Anda pasti naik itu, naik feri.
+57	Nah, apabila Anda mau keluar Pulau Jawa, Anda pasti naik itu, naik feri.
+58	Nah, apabila Anda mau keluar Pulau Jawa, Anda pasti naik itu, naik feri.
+59	Nah, apabila Anda mau keluar Pulau Jawa, Anda pasti naik itu, naik feri.
+60	Nah, apabila Anda mau keluar Pulau Jawa, Anda pasti naik itu, naik feri.
+61	Nah, apabila Anda mau keluar Pulau Jawa, Anda pasti naik itu, naik feri.
+62	Nah, apabila Anda mau keluar Pulau Jawa, Anda pasti naik itu, naik feri.
+63	Nah, apabila Anda mau keluar Pulau Jawa, Anda pasti naik itu, naik feri. Entah ke Sumatera maupun ke Bali.
+64	Nah, apabila Anda mau keluar Pulau Jawa, Anda pasti naik itu, naik feri. Entah ke Sumatera maupun ke Bali.
+65	Entah ke Sumatera maupun ke Bali.
+66	Entah ke Sumatera maupun ke Bali.
+67	Entah ke Sumatera maupun ke Bali. Nah, Anda beli tiketnya itu melalui aplikasi feri Z.
+68	Entah ke Sumatera maupun ke Bali. Nah, Anda beli tiketnya itu melalui aplikasi feri Z.
+69	Nah, Anda beli tiketnya itu melalui aplikasi feri Z.
+70	Nah, Anda beli tiketnya itu melalui aplikasi feri Z.
+71	Nah, Anda beli tiketnya itu melalui aplikasi feri Z.
+72	Nah, Anda beli tiketnya itu melalui aplikasi feri Z.
+73	Nah, Anda beli tiketnya itu melalui aplikasi feri Z.
+74	Nah, Anda beli tiketnya itu melalui aplikasi feri Z. Itu ada di iOS dan ada juga di Android.
+75	Nah, Anda beli tiketnya itu melalui aplikasi feri Z. Itu ada di iOS dan ada juga di Android.
+76	Itu ada di iOS dan ada juga di Android.
+77	Itu ada di iOS dan ada juga di Android.
+78	Itu ada di iOS dan ada juga di Android.
+79	Itu ada di iOS dan ada juga di Android.
+80	Itu ada di iOS dan ada juga di Android.
+81	Itu ada di iOS dan ada juga di Android. Nah, untuk informasi lebih lanjut, Anda bisa cek dan follow Instagramnya, isdp191.
+82	Itu ada di iOS dan ada juga di Android. Nah, untuk informasi lebih lanjut, Anda bisa cek dan follow Instagramnya, isdp191.
+83	Nah, untuk informasi lebih lanjut, Anda bisa cek dan follow Instagramnya, isdp191.
+84	Nah, untuk informasi lebih lanjut, Anda bisa cek dan follow Instagramnya, isdp191.
+85	Nah, untuk informasi lebih lanjut, Anda bisa cek dan follow Instagramnya, isdp191.
+86	Nah, untuk informasi lebih lanjut, Anda bisa cek dan follow Instagramnya, isdp191.
+87	Nah, untuk informasi lebih lanjut, Anda bisa cek dan follow Instagramnya, isdp191.
+88	Nah, untuk informasi lebih lanjut, Anda bisa cek dan follow Instagramnya, isdp191.
+89	Nah, untuk informasi lebih lanjut, Anda bisa cek dan follow Instagramnya, isdp191.
+90	Nah, untuk informasi lebih lanjut, Anda bisa cek dan follow Instagramnya, isdp191.
+91	Nah, untuk informasi lebih lanjut, Anda bisa cek dan follow Instagramnya, isdp191.
+92	Nah, untuk informasi lebih lanjut, Anda bisa cek dan follow Instagramnya, isdp191.
+93	Nah, untuk informasi lebih lanjut, Anda bisa cek dan follow Instagramnya, isdp191.
+94	Nah, untuk informasi lebih lanjut, Anda bisa cek dan follow Instagramnya, isdp191.
+95	Nah, untuk informasi lebih lanjut, Anda bisa cek dan follow Instagramnya, isdp191.
+96	Nah, untuk informasi lebih lanjut, Anda bisa cek dan follow Instagramnya, isdp191.
+97	Nah, untuk informasi lebih lanjut, Anda bisa cek dan follow Instagramnya, isdp191.
+98	[NO_SPEECH]
+99	[NO_SPEECH]

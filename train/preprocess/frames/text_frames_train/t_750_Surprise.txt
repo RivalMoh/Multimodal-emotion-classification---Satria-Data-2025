@@ -1,0 +1,173 @@
+0	The second time...
+1	The second time...
+2	The second time...
+3	Shall I stay?
+4	Shall I stay?
+5	Shall I stay?
+6	Shall I stay?
+7	Shall I stay? Shall I stay?
+8	Shall I stay? Shall I stay?
+9	Shall I stay?
+10	Shall I stay?
+11	Shall I stay? Well, the last day, all that...
+12	Shall I stay? Well, the last day, all that...
+13	Well, the last day, all that...
+14	Well, the last day, all that...
+15	Well, the last day, all that...
+16	Well, the last day, all that...
+17	Well, the last day, all that... Okay, yup.
+18	Well, the last day, all that... Okay, yup.
+19	Okay, yup.
+20	Okay, yup.
+21	Okay, yup.
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	Wise men say
+32	Wise men say
+33	Wise men say
+34	Wise men say
+35	Wise men say
+36	Wise men say
+37	Wise men say
+38	Wise men say
+39	Wise men say
+40	Wise men say
+41	[NO_SPEECH]
+42	Only fools rush in
+43	Only fools rush in
+44	Only fools rush in
+45	Only fools rush in
+46	Only fools rush in
+47	Only fools rush in
+48	Only fools rush in
+49	Only fools rush in
+50	Only fools rush in
+51	Only fools rush in
+52	Only fools rush in
+53	Only fools rush in
+54	Only fools rush in
+55	Only fools rush in
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	But I can't help
+59	But I can't help
+60	But I can't help
+61	But I can't help
+62	But I can't help
+63	But I can't help
+64	But I can't help
+65	But I can't help
+66	But I can't help
+67	But I can't help
+68	But I can't help
+69	[NO_SPEECH]
+70	Falling in love with you
+71	Falling in love with you
+72	Falling in love with you
+73	Falling in love with you
+74	Falling in love with you
+75	Falling in love with you
+76	Falling in love with you
+77	Falling in love with you
+78	Falling in love with you
+79	Falling in love with you
+80	Falling in love with you
+81	Falling in love with you
+82	Falling in love with you
+83	[NO_SPEECH]
+84	[NO_SPEECH]
+85	[NO_SPEECH]
+86	Shall I stay?
+87	Shall I stay?
+88	Shall I stay?
+89	Shall I stay?
+90	Shall I stay?
+91	Shall I stay?
+92	Shall I stay?
+93	Shall I stay?
+94	Shall I stay?
+95	Shall I stay?
+96	Shall I stay?
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	Would it be a sin?
+101	Would it be a sin?
+102	Would it be a sin?
+103	Would it be a sin?
+104	Would it be a sin?
+105	Would it be a sin?
+106	Would it be a sin?
+107	Would it be a sin?
+108	Would it be a sin?
+109	Would it be a sin?
+110	Would it be a sin?
+111	Would it be a sin?
+112	[NO_SPEECH]
+113	[NO_SPEECH]
+114	If I...
+115	If I...
+116	If I...
+117	If I...
+118	If I... I can't help
+119	I can't help
+120	I can't help
+121	I can't help
+122	I can't help
+123	I can't help
+124	I can't help
+125	I can't help
+126	[NO_SPEECH]
+127	[NO_SPEECH]
+128	Falling in love with you
+129	Falling in love with you
+130	Falling in love with you
+131	Falling in love with you
+132	Falling in love with you
+133	Falling in love with you
+134	Falling in love with you
+135	Falling in love with you
+136	Falling in love with you
+137	Falling in love with you
+138	Falling in love with you
+139	Falling in love with you
+140	[NO_SPEECH]
+141	[NO_SPEECH]
+142	[NO_SPEECH]
+143	[NO_SPEECH]
+144	Yeah, I was a bit late in that last part.
+145	Yeah, I was a bit late in that last part.
+146	Yeah, I was a bit late in that last part.
+147	Yeah, I was a bit late in that last part.
+148	Yeah, I was a bit late in that last part.
+149	Yeah, I was a bit late in that last part.
+150	Yeah, I was a bit late in that last part.
+151	Yeah, I was a bit late in that last part. I see, I see.
+152	I see, I see.
+153	I see, I see.
+154	I see, I see.
+155	I see, I see.
+156	[NO_SPEECH]
+157	Don't worry.
+158	Don't worry.
+159	Don't worry. Okay, very good.
+160	Okay, very good.
+161	Okay, very good.
+162	Okay, very good. It sounds more...
+163	It sounds more...
+164	It sounds more...
+165	It sounds more...
+166	It sounds more...
+167	It sounds more...
+168	It sounds more... It sounds better.
+169	It sounds better.
+170	It sounds better.
+171	It sounds better.
+172	It sounds better.

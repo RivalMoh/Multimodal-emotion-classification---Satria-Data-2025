@@ -1,0 +1,303 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	[NO_SPEECH]
+59	[NO_SPEECH]
+60	[NO_SPEECH]
+61	[NO_SPEECH]
+62	[NO_SPEECH]
+63	이 대회는 정말 좋은 것 같아요.
+64	이 대회는 정말 좋은 것 같아요.
+65	이 대회는 정말 좋은 것 같아요.
+66	이 대회는 정말 좋은 것 같아요.
+67	이 대회는 정말 좋은 것 같아요.
+68	이 대회는 정말 좋은 것 같아요.
+69	이 대회는 정말 좋은 것 같아요.
+70	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+71	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+72	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+73	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+74	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+75	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+76	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+77	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+78	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+79	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다. 이 대회는 태국에 가기 위해 트레이닝을 할 수 있는 기회입니다.
+80	이 대회는 태국에 가기 위해 트레이닝을 할 수 있는 기회입니다.
+81	이 대회는 태국에 가기 위해 트레이닝을 할 수 있는 기회입니다.
+82	이 대회는 태국에 가기 위해 트레이닝을 할 수 있는 기회입니다.
+83	이 대회는 태국에 가기 위해 트레이닝을 할 수 있는 기회입니다.
+84	이 대회는 태국에 가기 위해 트레이닝을 할 수 있는 기회입니다.
+85	이 대회는 태국에 가기 위해 트레이닝을 할 수 있는 기회입니다.
+86	이 대회는 태국에 가기 위해 트레이닝을 할 수 있는 기회입니다.
+87	이 대회는 태국에 가기 위해 트레이닝을 할 수 있는 기회입니다.
+88	이 대회는 태국에 가기 위해 트레이닝을 할 수 있는 기회입니다.
+89	이 대회는 태국에 가기 위해 트레이닝을 할 수 있는 기회입니다.
+90	이 대회는 태국에 가기 위해 트레이닝을 할 수 있는 기회입니다.
+91	이 대회는 태국에 가기 위해 트레이닝을 할 수 있는 기회입니다.
+92	이 대회는 태국에 가기 위해 트레이닝을 할 수 있는 기회입니다. 이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+93	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+94	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+95	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+96	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+97	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+98	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+99	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다. 이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+100	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다. 이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+101	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+102	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+103	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+104	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+105	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+106	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+107	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+108	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+109	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+110	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+111	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+112	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+113	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+114	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+115	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+116	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+117	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+118	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다. 이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+119	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다. 이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+120	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+121	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+122	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다.
+123	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다. 저 자신이 할 수 있는 행동은 플라트네즈ouse 입니다.
+124	이 대회는 이 주인과 이 주인의 행동이 정말 훌륭합니다. 저 자신이 할 수 있는 행동은 플라트네즈ouse 입니다.
+125	저 자신이 할 수 있는 행동은 플라트네즈ouse 입니다.
+126	저 자신이 할 수 있는 행동은 플라트네즈ouse 입니다.
+127	저 자신이 할 수 있는 행동은 플라트네즈ouse 입니다.
+128	저 자신이 할 수 있는 행동은 플라트네즈ouse 입니다.
+129	저 자신이 할 수 있는 행동은 플라트네즈ouse 입니다.
+130	저 자신이 할 수 있는 행동은 플라트네즈ouse 입니다.
+131	저 자신이 할 수 있는 행동은 플라트네즈ouse 입니다.
+132	저 자신이 할 수 있는 행동은 플라트네즈ouse 입니다.
+133	저 자신이 할 수 있는 행동은 플라트네즈ouse 입니다.
+134	하지만 우리는 항상 새로운 소원을 찾으려고 해요.
+135	하지만 우리는 항상 새로운 소원을 찾으려고 해요.
+136	하지만 우리는 항상 새로운 소원을 찾으려고 해요.
+137	하지만 우리는 항상 새로운 소원을 찾으려고 해요.
+138	하지만 우리는 항상 새로운 소원을 찾으려고 해요.
+139	하지만 우리는 항상 새로운 소원을 찾으려고 해요.
+140	하지만 우리는 항상 새로운 소원을 찾으려고 해요.
+141	하지만 우리는 항상 새로운 소원을 찾으려고 해요.
+142	하지만 우리는 항상 새로운 소원을 찾으려고 해요.
+143	하지만 우리는 항상 새로운 소원을 찾으려고 해요.
+144	하지만 우리는 항상 새로운 소원을 찾으려고 해요.
+145	하지만 우리는 항상 새로운 소원을 찾으려고 해요.
+146	플라트네즈ouse는 없는 것처럼備는 사람이 없습니다.
+147	플라트네즈ouse는 없는 것처럼備는 사람이 없습니다.
+148	플라트네즈ouse는 없는 것처럼備는 사람이 없습니다.
+149	플라트네즈ouse는 없는 것처럼備는 사람이 없습니다.
+150	플라트네즈ouse는 없는 것처럼備는 사람이 없습니다.
+151	하지만metramentoml 반�
+152	하지만metramentoml 반�
+153	하지만metramentoml 반�
+154	하지만metramentoml 반� 부동산을 분리하고,
+155	하지만metramentoml 반� 부동산을 분리하고,
+156	부동산을 분리하고,
+157	부동산을 분리하고,
+158	부동산을 분리하고, 여름,
+159	부동산을 분리하고, 여름, 는 다 수중을 의미하고 여러분과 함께 하고 있습니다.
+160	여름, 는 다 수중을 의미하고 여러분과 함께 하고 있습니다.
+161	는 다 수중을 의미하고 여러분과 함께 하고 있습니다.
+162	는 다 수중을 의미하고 여러분과 함께 하고 있습니다.
+163	는 다 수중을 의미하고 여러분과 함께 하고 있습니다.
+164	는 다 수중을 의미하고 여러분과 함께 하고 있습니다.
+165	는 다 수중을 의미하고 여러분과 함께 하고 있습니다.
+166	는 다 수중을 의미하고 여러분과 함께 하고 있습니다.
+167	는 다 수중을 의미하고 여러분과 함께 하고 있습니다.
+168	는 다 수중을 의미하고 여러분과 함께 하고 있습니다. such a
+169	는 다 수중을 의미하고 여러분과 함께 하고 있습니다. such a
+170	such a
+171	such a
+172	such a
+173	such a
+174	such a
+175	such a
+176	such a
+177	such a
+178	such a
+179	such a
+180	such a
+181	such a
+182	such a
+183	such a
+184	such a
+185	[NO_SPEECH]
+186	[NO_SPEECH]
+187	[NO_SPEECH]
+188	[NO_SPEECH]
+189	[NO_SPEECH]
+190	ary
+191	ary
+192	ary
+193	ary ku
+194	ary ku
+195	[NO_SPEECH]
+196	[NO_SPEECH]
+197	[NO_SPEECH]
+198	[NO_SPEECH]
+199	u3
+200	u3
+201	u3
+202	u3 shared 와 진짜 science 2021
+203	u3 shared 와 진짜 science 2021
+204	shared 와 진짜 science 2021
+205	shared 와 진짜 science 2021
+206	shared 와 진짜 science 2021
+207	shared 와 진짜 science 2021
+208	shared 와 진짜 science 2021
+209	shared 와 진짜 science 2021
+210	shared 와 진짜 science 2021
+211	shared 와 진짜 science 2021
+212	shared 와 진짜 science 2021
+213	shared 와 진짜 science 2021
+214	shared 와 진짜 science 2021
+215	shared 와 진짜 science 2021
+216	shared 와 진짜 science 2021
+217	shared 와 진짜 science 2021
+218	shared 와 진짜 science 2021
+219	shared 와 진짜 science 2021
+220	shared 와 진짜 science 2021
+221	shared 와 진짜 science 2021
+222	shared 와 진짜 science 2021
+223	shared 와 진짜 science 2021
+224	[NO_SPEECH]
+225	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda
+226	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda
+227	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda
+228	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda
+229	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda
+230	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda
+231	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda
+232	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda
+233	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda
+234	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda
+235	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda
+236	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda
+237	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda
+238	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda
+239	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda
+240	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda
+241	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda
+242	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda
+243	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda
+244	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda
+245	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda Because we, NGCE representatives are so Ю에 승부치지질러 oftentimes
+246	Additions for Disabilities are rare Scheme, so I like to keep it short So this video will be a 4-year agenda Because we, NGCE representatives are so Ю에 승부치지질러 oftentimes
+247	Because we, NGCE representatives are so Ю에 승부치지질러 oftentimes
+248	Because we, NGCE representatives are so Ю에 승부치지질러 oftentimes
+249	Because we, NGCE representatives are so Ю에 승부치지질러 oftentimes
+250	Because we, NGCE representatives are so Ю에 승부치지질러 oftentimes
+251	Because we, NGCE representatives are so Ю에 승부치지질러 oftentimes
+252	Because we, NGCE representatives are so Ю에 승부치지질러 oftentimes
+253	Because we, NGCE representatives are so Ю에 승부치지질러 oftentimes
+254	Because we, NGCE representatives are so Ю에 승부치지질러 oftentimes
+255	Because we, NGCE representatives are so Ю에 승부치지질러 oftentimes
+256	Because we, NGCE representatives are so Ю에 승부치지질러 oftentimes We as Disabilities greedy for this examination Will .
+257	Because we, NGCE representatives are so Ю에 승부치지질러 oftentimes We as Disabilities greedy for this examination Will .
+258	We as Disabilities greedy for this examination Will .
+259	We as Disabilities greedy for this examination Will .
+260	We as Disabilities greedy for this examination Will .
+261	We as Disabilities greedy for this examination Will .
+262	We as Disabilities greedy for this examination Will .
+263	We as Disabilities greedy for this examination Will .
+264	We as Disabilities greedy for this examination Will .
+265	We as Disabilities greedy for this examination Will .
+266	We as Disabilities greedy for this examination Will .
+267	We as Disabilities greedy for this examination Will .
+268	We as Disabilities greedy for this examination Will .
+269	We as Disabilities greedy for this examination Will .
+270	We as Disabilities greedy for this examination Will .
+271	We as Disabilities greedy for this examination Will .
+272	We as Disabilities greedy for this examination Will .
+273	We as Disabilities greedy for this examination Will .
+274	We as Disabilities greedy for this examination Will .
+275	We as Disabilities greedy for this examination Will .
+276	We as Disabilities greedy for this examination Will . 감사합니다.
+277	We as Disabilities greedy for this examination Will . 감사합니다.
+278	We as Disabilities greedy for this examination Will . 감사합니다.
+279	감사합니다.
+280	감사합니다.
+281	[NO_SPEECH]
+282	[NO_SPEECH]
+283	[NO_SPEECH]
+284	[NO_SPEECH]
+285	[NO_SPEECH]
+286	[NO_SPEECH]
+287	[NO_SPEECH]
+288	[NO_SPEECH]
+289	[NO_SPEECH]
+290	[NO_SPEECH]
+291	[NO_SPEECH]
+292	[NO_SPEECH]
+293	[NO_SPEECH]
+294	[NO_SPEECH]
+295	[NO_SPEECH]
+296	[NO_SPEECH]
+297	[NO_SPEECH]
+298	[NO_SPEECH]
+299	[NO_SPEECH]
+300	[NO_SPEECH]
+301	[NO_SPEECH]
+302	[NO_SPEECH]

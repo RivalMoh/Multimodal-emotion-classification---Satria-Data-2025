@@ -1,0 +1,43 @@
+0	[NO_SPEECH]
+1	Jadi 4 kali ikut event
+2	Jadi 4 kali ikut event
+3	Jadi 4 kali ikut event
+4	Jadi 4 kali ikut event
+5	Jadi 4 kali ikut event
+6	Jadi 4 kali ikut event 4 kali juara 1
+7	Jadi 4 kali ikut event 4 kali juara 1
+8	4 kali juara 1
+9	4 kali juara 1
+10	[NO_SPEECH]
+11	Tahun depan
+12	Tahun depan
+13	Tahun depan Ada mobil baru
+14	Tahun depan Ada mobil baru
+15	Tahun depan Ada mobil baru
+16	Ada mobil baru
+17	Ada mobil baru Buat kamu
+18	Ada mobil baru Buat kamu
+19	Buat kamu Mobil apa?
+20	Buat kamu Mobil apa?
+21	Mobil apa?
+22	Mobil apa?
+23	Mobil apa?
+24	Buat ikut kelas pro 2
+25	Buat ikut kelas pro 2
+26	Buat ikut kelas pro 2
+27	Buat ikut kelas pro 2
+28	Buat ikut kelas pro 2 Mobil apa?
+29	Buat ikut kelas pro 2 Mobil apa?
+30	Mobil apa?
+31	Mobil apa?
+32	Mobil apa? Mobil apa?
+33	Mobil apa?
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	Wih
+37	Wih Bagus banget
+38	Wih Bagus banget
+39	Bagus banget
+40	Bagus banget
+41	[NO_SPEECH]
+42	[NO_SPEECH]

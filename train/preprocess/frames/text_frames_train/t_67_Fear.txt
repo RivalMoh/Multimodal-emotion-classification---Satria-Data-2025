@@ -1,0 +1,26 @@
+0	Hari ini kita jalan-jalan di Gias tanpa topeng.
+1	Hari ini kita jalan-jalan di Gias tanpa topeng.
+2	Hari ini kita jalan-jalan di Gias tanpa topeng.
+3	Hari ini kita jalan-jalan di Gias tanpa topeng.
+4	Hari ini kita jalan-jalan di Gias tanpa topeng.
+5	Hari ini kita jalan-jalan di Gias tanpa topeng.
+6	Hari ini kita jalan-jalan di Gias tanpa topeng.
+7	Hari ini kita jalan-jalan di Gias tanpa topeng.
+8	Hari ini kita jalan-jalan di Gias tanpa topeng. Masalahnya cuma satu, Rian.
+9	Hari ini kita jalan-jalan di Gias tanpa topeng. Masalahnya cuma satu, Rian.
+10	Masalahnya cuma satu, Rian.
+11	Masalahnya cuma satu, Rian. Kalau orang ngenalin Rian, ubar.
+12	Masalahnya cuma satu, Rian. Kalau orang ngenalin Rian, ubar.
+13	Kalau orang ngenalin Rian, ubar.
+14	Kalau orang ngenalin Rian, ubar.
+15	Kalau orang ngenalin Rian, ubar.
+16	Kalau orang ngenalin Rian, ubar.
+17	Kalau orang ngenalin Rian, ubar. Tapi kita jalan-jalan, kita coba interview cewek-cewek.
+18	Tapi kita jalan-jalan, kita coba interview cewek-cewek.
+19	Tapi kita jalan-jalan, kita coba interview cewek-cewek.
+20	Tapi kita jalan-jalan, kita coba interview cewek-cewek.
+21	Tapi kita jalan-jalan, kita coba interview cewek-cewek.
+22	Tapi kita jalan-jalan, kita coba interview cewek-cewek.
+23	Tapi kita jalan-jalan, kita coba interview cewek-cewek.
+24	Tapi kita jalan-jalan, kita coba interview cewek-cewek.
+25	Tapi kita jalan-jalan, kita coba interview cewek-cewek.

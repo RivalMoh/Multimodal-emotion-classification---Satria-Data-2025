@@ -1,0 +1,132 @@
+0	Gym iya, trail run iya, yoga iya, tenis iya, pilates juga gue ayo
+1	Gym iya, trail run iya, yoga iya, tenis iya, pilates juga gue ayo
+2	Gym iya, trail run iya, yoga iya, tenis iya, pilates juga gue ayo
+3	Gym iya, trail run iya, yoga iya, tenis iya, pilates juga gue ayo
+4	Gym iya, trail run iya, yoga iya, tenis iya, pilates juga gue ayo
+5	Gym iya, trail run iya, yoga iya, tenis iya, pilates juga gue ayo
+6	Gym iya, trail run iya, yoga iya, tenis iya, pilates juga gue ayo
+7	Gym iya, trail run iya, yoga iya, tenis iya, pilates juga gue ayo
+8	Gym iya, trail run iya, yoga iya, tenis iya, pilates juga gue ayo
+9	Gym iya, trail run iya, yoga iya, tenis iya, pilates juga gue ayo
+10	Gym iya, trail run iya, yoga iya, tenis iya, pilates juga gue ayo Pertanyaannya cuma satu, capek gak sih?
+11	Gym iya, trail run iya, yoga iya, tenis iya, pilates juga gue ayo Pertanyaannya cuma satu, capek gak sih?
+12	Gym iya, trail run iya, yoga iya, tenis iya, pilates juga gue ayo Pertanyaannya cuma satu, capek gak sih?
+13	Pertanyaannya cuma satu, capek gak sih?
+14	Pertanyaannya cuma satu, capek gak sih?
+15	Pertanyaannya cuma satu, capek gak sih?
+16	Pertanyaannya cuma satu, capek gak sih? Ya capek, tapi gue seneng banget
+17	Ya capek, tapi gue seneng banget
+18	Ya capek, tapi gue seneng banget
+19	Ya capek, tapi gue seneng banget Terus badan apa gak remuk itu?
+20	Ya capek, tapi gue seneng banget Terus badan apa gak remuk itu?
+21	Terus badan apa gak remuk itu?
+22	Terus badan apa gak remuk itu?
+23	Terus badan apa gak remuk itu? Ya enggak sih, paling ya pinggang doang nih yang sering pegel-pegel gitu
+24	Ya enggak sih, paling ya pinggang doang nih yang sering pegel-pegel gitu
+25	Ya enggak sih, paling ya pinggang doang nih yang sering pegel-pegel gitu
+26	Ya enggak sih, paling ya pinggang doang nih yang sering pegel-pegel gitu
+27	Ya enggak sih, paling ya pinggang doang nih yang sering pegel-pegel gitu
+28	Ya enggak sih, paling ya pinggang doang nih yang sering pegel-pegel gitu
+29	Ya enggak sih, paling ya pinggang doang nih yang sering pegel-pegel gitu
+30	Ya enggak sih, paling ya pinggang doang nih yang sering pegel-pegel gitu Kalo menurut gue cuma pinggang yang pegel itu masih aman lah
+31	Ya enggak sih, paling ya pinggang doang nih yang sering pegel-pegel gitu Kalo menurut gue cuma pinggang yang pegel itu masih aman lah
+32	Kalo menurut gue cuma pinggang yang pegel itu masih aman lah
+33	Kalo menurut gue cuma pinggang yang pegel itu masih aman lah
+34	Kalo menurut gue cuma pinggang yang pegel itu masih aman lah
+35	Kalo menurut gue cuma pinggang yang pegel itu masih aman lah
+36	Kalo menurut gue cuma pinggang yang pegel itu masih aman lah Soalnya gue udah punya penyelamat
+37	Kalo menurut gue cuma pinggang yang pegel itu masih aman lah Soalnya gue udah punya penyelamat
+38	Soalnya gue udah punya penyelamat
+39	Soalnya gue udah punya penyelamat Ini dia nih, Peel Lips Massage PPM 4331
+40	Soalnya gue udah punya penyelamat Ini dia nih, Peel Lips Massage PPM 4331
+41	Ini dia nih, Peel Lips Massage PPM 4331
+42	Ini dia nih, Peel Lips Massage PPM 4331
+43	Ini dia nih, Peel Lips Massage PPM 4331
+44	Ini dia nih, Peel Lips Massage PPM 4331
+45	Ini dia nih, Peel Lips Massage PPM 4331
+46	Ini dia nih, Peel Lips Massage PPM 4331 Nah ini tuh alat pijet pinggang dari Peel Lips Massage Series
+47	Ini dia nih, Peel Lips Massage PPM 4331 Nah ini tuh alat pijet pinggang dari Peel Lips Massage Series
+48	Nah ini tuh alat pijet pinggang dari Peel Lips Massage Series
+49	Nah ini tuh alat pijet pinggang dari Peel Lips Massage Series
+50	Nah ini tuh alat pijet pinggang dari Peel Lips Massage Series
+51	Nah ini tuh alat pijet pinggang dari Peel Lips Massage Series
+52	Nah ini tuh alat pijet pinggang dari Peel Lips Massage Series Dia tuh udah lengkap banget
+53	Nah ini tuh alat pijet pinggang dari Peel Lips Massage Series Dia tuh udah lengkap banget
+54	Dia tuh udah lengkap banget Ada IMS plus kompres panasnya
+55	Dia tuh udah lengkap banget Ada IMS plus kompres panasnya
+56	Ada IMS plus kompres panasnya
+57	Ada IMS plus kompres panasnya
+58	Ada IMS plus kompres panasnya Dan modenya udah ada 6 jenis pijatan
+59	Ada IMS plus kompres panasnya Dan modenya udah ada 6 jenis pijatan
+60	Dan modenya udah ada 6 jenis pijatan
+61	Dan modenya udah ada 6 jenis pijatan
+62	Dan modenya udah ada 6 jenis pijatan Bisa pilih sesuai kebutuhan kita
+63	Dan modenya udah ada 6 jenis pijatan Bisa pilih sesuai kebutuhan kita
+64	Bisa pilih sesuai kebutuhan kita
+65	Bisa pilih sesuai kebutuhan kita
+66	Bisa pilih sesuai kebutuhan kita Pemanasnya juga bisa disesuai nih
+67	Bisa pilih sesuai kebutuhan kita Pemanasnya juga bisa disesuai nih
+68	Pemanasnya juga bisa disesuai nih
+69	Pemanasnya juga bisa disesuai nih
+70	Pemanasnya juga bisa disesuai nih Ada 40 derajat, 45 derajat, sampai 50 derajat celcius
+71	Pemanasnya juga bisa disesuai nih Ada 40 derajat, 45 derajat, sampai 50 derajat celcius
+72	Ada 40 derajat, 45 derajat, sampai 50 derajat celcius
+73	Ada 40 derajat, 45 derajat, sampai 50 derajat celcius
+74	Ada 40 derajat, 45 derajat, sampai 50 derajat celcius
+75	Ada 40 derajat, 45 derajat, sampai 50 derajat celcius
+76	Ada 40 derajat, 45 derajat, sampai 50 derajat celcius
+77	Ada 40 derajat, 45 derajat, sampai 50 derajat celcius
+78	Ada 40 derajat, 45 derajat, sampai 50 derajat celcius Terus intensitasnya ada 16 level guys
+79	Ada 40 derajat, 45 derajat, sampai 50 derajat celcius Terus intensitasnya ada 16 level guys
+80	Terus intensitasnya ada 16 level guys
+81	Terus intensitasnya ada 16 level guys
+82	Terus intensitasnya ada 16 level guys
+83	Terus intensitasnya ada 16 level guys
+84	Terus intensitasnya ada 16 level guys Tinggal atur aja nih pake remote-nya
+85	Terus intensitasnya ada 16 level guys Tinggal atur aja nih pake remote-nya
+86	Tinggal atur aja nih pake remote-nya
+87	Tinggal atur aja nih pake remote-nya Nah karena gue mau ngecilin perut juga
+88	Tinggal atur aja nih pake remote-nya Nah karena gue mau ngecilin perut juga
+89	Nah karena gue mau ngecilin perut juga
+90	Nah karena gue mau ngecilin perut juga
+91	Nah karena gue mau ngecilin perut juga Jadi biasanya gue pake sambil olahraga kayak gini nih
+92	Nah karena gue mau ngecilin perut juga Jadi biasanya gue pake sambil olahraga kayak gini nih
+93	Jadi biasanya gue pake sambil olahraga kayak gini nih
+94	Jadi biasanya gue pake sambil olahraga kayak gini nih
+95	Jadi biasanya gue pake sambil olahraga kayak gini nih
+96	Jadi biasanya gue pake sambil olahraga kayak gini nih Tapi kalo badan gue lagi pegel-pegel banget abis olahraga
+97	Jadi biasanya gue pake sambil olahraga kayak gini nih Tapi kalo badan gue lagi pegel-pegel banget abis olahraga
+98	Tapi kalo badan gue lagi pegel-pegel banget abis olahraga
+99	Tapi kalo badan gue lagi pegel-pegel banget abis olahraga
+100	Tapi kalo badan gue lagi pegel-pegel banget abis olahraga
+101	Tapi kalo badan gue lagi pegel-pegel banget abis olahraga
+102	Tapi kalo badan gue lagi pegel-pegel banget abis olahraga Ya tinggal nyantai aja nih kayak gini
+103	Tapi kalo badan gue lagi pegel-pegel banget abis olahraga Ya tinggal nyantai aja nih kayak gini
+104	Ya tinggal nyantai aja nih kayak gini
+105	Ya tinggal nyantai aja nih kayak gini Sambil pijet pake Peel Lips Massage ini deh
+106	Ya tinggal nyantai aja nih kayak gini Sambil pijet pake Peel Lips Massage ini deh
+107	Sambil pijet pake Peel Lips Massage ini deh
+108	Sambil pijet pake Peel Lips Massage ini deh
+109	Sambil pijet pake Peel Lips Massage ini deh
+110	Sambil pijet pake Peel Lips Massage ini deh Yang penting ini bukan alat random ya
+111	Sambil pijet pake Peel Lips Massage ini deh Yang penting ini bukan alat random ya
+112	Yang penting ini bukan alat random ya
+113	Yang penting ini bukan alat random ya
+114	Yang penting ini bukan alat random ya Ini dari Peel Lips
+115	Yang penting ini bukan alat random ya Ini dari Peel Lips
+116	Ini dari Peel Lips Dan ada garansi
+117	Ini dari Peel Lips Dan ada garansi
+118	Dan ada garansi
+119	Dan ada garansi Menurut gue kalian buruan cek deh
+120	Menurut gue kalian buruan cek deh
+121	Menurut gue kalian buruan cek deh
+122	Menurut gue kalian buruan cek deh Peel Lips Massagers underscore IDN
+123	Menurut gue kalian buruan cek deh Peel Lips Massagers underscore IDN
+124	Peel Lips Massagers underscore IDN
+125	Peel Lips Massagers underscore IDN
+126	Peel Lips Massagers underscore IDN Nanti kalian cobain sendiri deh sensasinya
+127	Peel Lips Massagers underscore IDN Nanti kalian cobain sendiri deh sensasinya
+128	Nanti kalian cobain sendiri deh sensasinya
+129	Nanti kalian cobain sendiri deh sensasinya
+130	Nanti kalian cobain sendiri deh sensasinya
+131	Nanti kalian cobain sendiri deh sensasinya

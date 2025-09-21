@@ -1,0 +1,120 @@
+0	Good day tennis enthusiast!
+1	Good day tennis enthusiast! Ini gue dengan coach Andran Terandang
+2	Good day tennis enthusiast! Ini gue dengan coach Andran Terandang
+3	Ini gue dengan coach Andran Terandang
+4	Ini gue dengan coach Andran Terandang
+5	Ini gue dengan coach Andran Terandang dan kali ini gue akan membahas
+6	Ini gue dengan coach Andran Terandang dan kali ini gue akan membahas
+7	dan kali ini gue akan membahas
+8	dan kali ini gue akan membahas
+9	dan kali ini gue akan membahas teknik forehand untuk newbie atau beginner
+10	dan kali ini gue akan membahas teknik forehand untuk newbie atau beginner
+11	teknik forehand untuk newbie atau beginner
+12	teknik forehand untuk newbie atau beginner
+13	teknik forehand untuk newbie atau beginner
+14	teknik forehand untuk newbie atau beginner gue jelasin dulu ya abis ini ya
+15	teknik forehand untuk newbie atau beginner gue jelasin dulu ya abis ini ya
+16	gue jelasin dulu ya abis ini ya
+17	gue jelasin dulu ya abis ini ya
+18	gue jelasin dulu ya abis ini ya oke, continental grip
+19	gue jelasin dulu ya abis ini ya oke, continental grip
+20	oke, continental grip
+21	oke, continental grip cara mengukulnya biasanya simple
+22	oke, continental grip cara mengukulnya biasanya simple
+23	cara mengukulnya biasanya simple
+24	cara mengukulnya biasanya simple
+25	cara mengukulnya biasanya simple dia mengukul dari tarik belakang, lurus ke depan
+26	cara mengukulnya biasanya simple dia mengukul dari tarik belakang, lurus ke depan
+27	dia mengukul dari tarik belakang, lurus ke depan
+28	dia mengukul dari tarik belakang, lurus ke depan
+29	dia mengukul dari tarik belakang, lurus ke depan
+30	dia mengukul dari tarik belakang, lurus ke depan tarik belakang, lurus ke depan
+31	dia mengukul dari tarik belakang, lurus ke depan tarik belakang, lurus ke depan
+32	tarik belakang, lurus ke depan
+33	tarik belakang, lurus ke depan
+34	tarik belakang, lurus ke depan jadi hanya linear ke depan
+35	tarik belakang, lurus ke depan jadi hanya linear ke depan
+36	jadi hanya linear ke depan
+37	jadi hanya linear ke depan nah yang kedua, yang memang banyak
+38	jadi hanya linear ke depan nah yang kedua, yang memang banyak
+39	nah yang kedua, yang memang banyak
+40	nah yang kedua, yang memang banyak
+41	nah yang kedua, yang memang banyak
+42	nah yang kedua, yang memang banyak yang dilakukan sekarang juga yaitu eastern grip
+43	nah yang kedua, yang memang banyak yang dilakukan sekarang juga yaitu eastern grip
+44	yang dilakukan sekarang juga yaitu eastern grip
+45	yang dilakukan sekarang juga yaitu eastern grip
+46	yang dilakukan sekarang juga yaitu eastern grip nah eastern grip juga sama, tarik belakang
+47	yang dilakukan sekarang juga yaitu eastern grip nah eastern grip juga sama, tarik belakang
+48	nah eastern grip juga sama, tarik belakang
+49	nah eastern grip juga sama, tarik belakang
+50	nah eastern grip juga sama, tarik belakang ke depan, dan memang dia sama juga linear
+51	nah eastern grip juga sama, tarik belakang ke depan, dan memang dia sama juga linear
+52	ke depan, dan memang dia sama juga linear
+53	ke depan, dan memang dia sama juga linear
+54	ke depan, dan memang dia sama juga linear ke depan, jadi ini baru bisa
+55	ke depan, dan memang dia sama juga linear ke depan, jadi ini baru bisa
+56	ke depan, jadi ini baru bisa
+57	ke depan, jadi ini baru bisa
+58	ke depan, jadi ini baru bisa impoler ke depan, nah yang banyak
+59	ke depan, jadi ini baru bisa impoler ke depan, nah yang banyak
+60	impoler ke depan, nah yang banyak
+61	impoler ke depan, nah yang banyak
+62	impoler ke depan, nah yang banyak dilakukan zaman sekarang adalah semi western
+63	impoler ke depan, nah yang banyak dilakukan zaman sekarang adalah semi western
+64	dilakukan zaman sekarang adalah semi western
+65	dilakukan zaman sekarang adalah semi western
+66	dilakukan zaman sekarang adalah semi western semi western grip jatuhnya angular
+67	dilakukan zaman sekarang adalah semi western semi western grip jatuhnya angular
+68	semi western grip jatuhnya angular
+69	semi western grip jatuhnya angular dia keluar ya, jadi tarik belakang
+70	semi western grip jatuhnya angular dia keluar ya, jadi tarik belakang
+71	dia keluar ya, jadi tarik belakang
+72	dia keluar ya, jadi tarik belakang
+73	dia keluar ya, jadi tarik belakang
+74	dia keluar ya, jadi tarik belakang keluar dan ini setap
+75	dia keluar ya, jadi tarik belakang keluar dan ini setap
+76	keluar dan ini setap dan ininya menghadap ke
+77	keluar dan ini setap dan ininya menghadap ke
+78	dan ininya menghadap ke
+79	dan ininya menghadap ke
+80	dan ininya menghadap ke
+81	dan ininya menghadap ke
+82	dan ininya menghadap ke
+83	belakang, dan yang terakhir
+84	belakang, dan yang terakhir
+85	belakang, dan yang terakhir
+86	belakang, dan yang terakhir western grip, western grip memang jarang
+87	belakang, dan yang terakhir western grip, western grip memang jarang
+88	western grip, western grip memang jarang
+89	western grip, western grip memang jarang pertama dia ke depan, dan tarik
+90	western grip, western grip memang jarang pertama dia ke depan, dan tarik
+91	pertama dia ke depan, dan tarik
+92	pertama dia ke depan, dan tarik
+93	pertama dia ke depan, dan tarik sama juga seperti semi western
+94	pertama dia ke depan, dan tarik sama juga seperti semi western
+95	sama juga seperti semi western
+96	sama juga seperti semi western
+97	sama juga seperti semi western
+98	sama juga seperti semi western belakang ini menghadap ke
+99	sama juga seperti semi western belakang ini menghadap ke
+100	belakang ini menghadap ke
+101	belakang ini menghadap ke tetep ikutin gue terus ya
+102	belakang ini menghadap ke tetep ikutin gue terus ya
+103	tetep ikutin gue terus ya
+104	tetep ikutin gue terus ya
+105	tetep ikutin gue terus ya video-video gue yang akan datang
+106	tetep ikutin gue terus ya video-video gue yang akan datang
+107	video-video gue yang akan datang
+108	video-video gue yang akan datang I'll see you guys later, alright bye
+109	video-video gue yang akan datang I'll see you guys later, alright bye
+110	video-video gue yang akan datang I'll see you guys later, alright bye
+111	I'll see you guys later, alright bye
+112	I'll see you guys later, alright bye
+113	I'll see you guys later, alright bye
+114	I'll see you guys later, alright bye
+115	sub indo by broth3rmax
+116	sub indo by broth3rmax
+117	sub indo by broth3rmax
+118	sub indo by broth3rmax
+119	sub indo by broth3rmax

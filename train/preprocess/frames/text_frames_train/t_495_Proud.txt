@@ -1,0 +1,174 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	Bagaimana menjaga kemampuan Buddha?
+23	Bagaimana menjaga kemampuan Buddha?
+24	Bagaimana menjaga kemampuan Buddha?
+25	Bagaimana menjaga kemampuan Buddha?
+26	Bagaimana menjaga kemampuan Buddha?
+27	Bagaimana menjaga kemampuan Buddha?
+28	Bagaimana menjaga kemampuan Buddha?
+29	Bagaimana menjaga kemampuan Buddha?
+30	Bagaimana menjaga kemampuan Buddha?
+31	Bagaimana menjaga kemampuan Buddha?
+32	Bagaimana menjaga kemampuan Buddha?
+33	Bagaimana menjaga kemampuan Buddha?
+34	Bagaimana menjaga kemampuan Buddha?
+35	Bagaimana menjaga kemampuan Buddha?
+36	Bagaimana menjaga kemampuan Buddha?
+37	Bagaimana menjaga kemampuan Buddha?
+38	Bagaimana menjaga kemampuan Buddha?
+39	Bagaimana menjaga kemampuan Buddha?
+40	Bagaimana menjaga kemampuan Buddha?
+41	Bagaimana menjaga kemampuan Buddha?
+42	Bagaimana menjaga kemampuan Buddha?
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	Kedoman hidup yang diajarkan oleh sang Buddha
+59	Kedoman hidup yang diajarkan oleh sang Buddha
+60	Kedoman hidup yang diajarkan oleh sang Buddha
+61	Kedoman hidup yang diajarkan oleh sang Buddha
+62	Kedoman hidup yang diajarkan oleh sang Buddha
+63	Kedoman hidup yang diajarkan oleh sang Buddha Yang mana itu ada bentuk kecintaan, cinta kasih, ada rasa empati dan rasa bagaimana kita menyayangi sesama makhluk hidup
+64	Kedoman hidup yang diajarkan oleh sang Buddha Yang mana itu ada bentuk kecintaan, cinta kasih, ada rasa empati dan rasa bagaimana kita menyayangi sesama makhluk hidup
+65	Yang mana itu ada bentuk kecintaan, cinta kasih, ada rasa empati dan rasa bagaimana kita menyayangi sesama makhluk hidup
+66	Yang mana itu ada bentuk kecintaan, cinta kasih, ada rasa empati dan rasa bagaimana kita menyayangi sesama makhluk hidup
+67	Yang mana itu ada bentuk kecintaan, cinta kasih, ada rasa empati dan rasa bagaimana kita menyayangi sesama makhluk hidup
+68	Yang mana itu ada bentuk kecintaan, cinta kasih, ada rasa empati dan rasa bagaimana kita menyayangi sesama makhluk hidup
+69	Yang mana itu ada bentuk kecintaan, cinta kasih, ada rasa empati dan rasa bagaimana kita menyayangi sesama makhluk hidup
+70	Yang mana itu ada bentuk kecintaan, cinta kasih, ada rasa empati dan rasa bagaimana kita menyayangi sesama makhluk hidup
+71	Yang mana itu ada bentuk kecintaan, cinta kasih, ada rasa empati dan rasa bagaimana kita menyayangi sesama makhluk hidup
+72	Yang mana itu ada bentuk kecintaan, cinta kasih, ada rasa empati dan rasa bagaimana kita menyayangi sesama makhluk hidup
+73	Yang mana itu ada bentuk kecintaan, cinta kasih, ada rasa empati dan rasa bagaimana kita menyayangi sesama makhluk hidup
+74	Yang mana itu ada bentuk kecintaan, cinta kasih, ada rasa empati dan rasa bagaimana kita menyayangi sesama makhluk hidup
+75	Yang mana itu ada bentuk kecintaan, cinta kasih, ada rasa empati dan rasa bagaimana kita menyayangi sesama makhluk hidup
+76	Yang mana itu ada bentuk kecintaan, cinta kasih, ada rasa empati dan rasa bagaimana kita menyayangi sesama makhluk hidup
+77	Yang mana itu ada bentuk kecintaan, cinta kasih, ada rasa empati dan rasa bagaimana kita menyayangi sesama makhluk hidup
+78	Yang mana itu ada bentuk kecintaan, cinta kasih, ada rasa empati dan rasa bagaimana kita menyayangi sesama makhluk hidup
+79	Yang mana itu ada bentuk kecintaan, cinta kasih, ada rasa empati dan rasa bagaimana kita menyayangi sesama makhluk hidup Bagaimana kita bisa melakukan gerakan nyata
+80	Yang mana itu ada bentuk kecintaan, cinta kasih, ada rasa empati dan rasa bagaimana kita menyayangi sesama makhluk hidup Bagaimana kita bisa melakukan gerakan nyata
+81	Bagaimana kita bisa melakukan gerakan nyata
+82	Bagaimana kita bisa melakukan gerakan nyata
+83	Bagaimana kita bisa melakukan gerakan nyata
+84	Bagaimana kita bisa melakukan gerakan nyata
+85	Bagaimana kita bisa melakukan gerakan nyata
+86	Bagaimana kita bisa melakukan gerakan nyata Bukan hanya kita terkurung dalam segmen dimensi ritualisme
+87	Bagaimana kita bisa melakukan gerakan nyata Bukan hanya kita terkurung dalam segmen dimensi ritualisme
+88	Bukan hanya kita terkurung dalam segmen dimensi ritualisme
+89	Bukan hanya kita terkurung dalam segmen dimensi ritualisme
+90	Bukan hanya kita terkurung dalam segmen dimensi ritualisme
+91	Bukan hanya kita terkurung dalam segmen dimensi ritualisme
+92	Bukan hanya kita terkurung dalam segmen dimensi ritualisme
+93	Bukan hanya kita terkurung dalam segmen dimensi ritualisme
+94	Bukan hanya kita terkurung dalam segmen dimensi ritualisme
+95	Bukan hanya kita terkurung dalam segmen dimensi ritualisme
+96	Bukan hanya kita terkurung dalam segmen dimensi ritualisme
+97	Bukan hanya kita terkurung dalam segmen dimensi ritualisme Nah ini Cipayung ini bisa menjadi simbol dan patron
+98	Bukan hanya kita terkurung dalam segmen dimensi ritualisme Nah ini Cipayung ini bisa menjadi simbol dan patron
+99	Nah ini Cipayung ini bisa menjadi simbol dan patron
+100	Nah ini Cipayung ini bisa menjadi simbol dan patron
+101	Nah ini Cipayung ini bisa menjadi simbol dan patron
+102	Nah ini Cipayung ini bisa menjadi simbol dan patron
+103	Nah ini Cipayung ini bisa menjadi simbol dan patron
+104	Nah ini Cipayung ini bisa menjadi simbol dan patron
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	Terhadap kepersatuan dan terkait kebinekaan
+108	Terhadap kepersatuan dan terkait kebinekaan
+109	Terhadap kepersatuan dan terkait kebinekaan
+110	Terhadap kepersatuan dan terkait kebinekaan
+111	Terhadap kepersatuan dan terkait kebinekaan
+112	Terhadap kepersatuan dan terkait kebinekaan
+113	Terhadap kepersatuan dan terkait kebinekaan
+114	Terhadap kepersatuan dan terkait kebinekaan
+115	Terhadap kepersatuan dan terkait kebinekaan Dan terkait keberagaman
+116	Terhadap kepersatuan dan terkait kebinekaan Dan terkait keberagaman
+117	Dan terkait keberagaman
+118	Dan terkait keberagaman Jadi ini Cipayung ini bisa dikatakan
+119	Dan terkait keberagaman Jadi ini Cipayung ini bisa dikatakan
+120	Jadi ini Cipayung ini bisa dikatakan
+121	Jadi ini Cipayung ini bisa dikatakan
+122	Jadi ini Cipayung ini bisa dikatakan
+123	Jadi ini Cipayung ini bisa dikatakan
+124	Jadi ini Cipayung ini bisa dikatakan
+125	Jadi ini Cipayung ini bisa dikatakan Inilah wajah-wajah anak muda yang bisa bersatu di dalam satu rumah
+126	Jadi ini Cipayung ini bisa dikatakan Inilah wajah-wajah anak muda yang bisa bersatu di dalam satu rumah
+127	Inilah wajah-wajah anak muda yang bisa bersatu di dalam satu rumah
+128	Inilah wajah-wajah anak muda yang bisa bersatu di dalam satu rumah
+129	Inilah wajah-wajah anak muda yang bisa bersatu di dalam satu rumah
+130	Inilah wajah-wajah anak muda yang bisa bersatu di dalam satu rumah
+131	Inilah wajah-wajah anak muda yang bisa bersatu di dalam satu rumah
+132	Inilah wajah-wajah anak muda yang bisa bersatu di dalam satu rumah
+133	Inilah wajah-wajah anak muda yang bisa bersatu di dalam satu rumah
+134	Inilah wajah-wajah anak muda yang bisa bersatu di dalam satu rumah Yang mungkin orang-orangnya berbeda karakter, berbeda suku, berbeda agama
+135	Inilah wajah-wajah anak muda yang bisa bersatu di dalam satu rumah Yang mungkin orang-orangnya berbeda karakter, berbeda suku, berbeda agama
+136	Yang mungkin orang-orangnya berbeda karakter, berbeda suku, berbeda agama
+137	Yang mungkin orang-orangnya berbeda karakter, berbeda suku, berbeda agama
+138	Yang mungkin orang-orangnya berbeda karakter, berbeda suku, berbeda agama
+139	Yang mungkin orang-orangnya berbeda karakter, berbeda suku, berbeda agama
+140	Yang mungkin orang-orangnya berbeda karakter, berbeda suku, berbeda agama
+141	Yang mungkin orang-orangnya berbeda karakter, berbeda suku, berbeda agama
+142	Yang mungkin orang-orangnya berbeda karakter, berbeda suku, berbeda agama Tapi bisa disatukan dalam forum satu yaitu forum Cipayung Plus
+143	Yang mungkin orang-orangnya berbeda karakter, berbeda suku, berbeda agama Tapi bisa disatukan dalam forum satu yaitu forum Cipayung Plus
+144	Tapi bisa disatukan dalam forum satu yaitu forum Cipayung Plus
+145	Tapi bisa disatukan dalam forum satu yaitu forum Cipayung Plus
+146	Tapi bisa disatukan dalam forum satu yaitu forum Cipayung Plus
+147	Tapi bisa disatukan dalam forum satu yaitu forum Cipayung Plus
+148	Tapi bisa disatukan dalam forum satu yaitu forum Cipayung Plus
+149	Tapi bisa disatukan dalam forum satu yaitu forum Cipayung Plus
+150	Tapi bisa disatukan dalam forum satu yaitu forum Cipayung Plus
+151	Tapi bisa disatukan dalam forum satu yaitu forum Cipayung Plus Apamadena, Sampanita, berjuanglah dengan sungguh-sungguh
+152	Tapi bisa disatukan dalam forum satu yaitu forum Cipayung Plus Apamadena, Sampanita, berjuanglah dengan sungguh-sungguh
+153	Apamadena, Sampanita, berjuanglah dengan sungguh-sungguh
+154	Apamadena, Sampanita, berjuanglah dengan sungguh-sungguh
+155	Apamadena, Sampanita, berjuanglah dengan sungguh-sungguh
+156	Apamadena, Sampanita, berjuanglah dengan sungguh-sungguh
+157	Apamadena, Sampanita, berjuanglah dengan sungguh-sungguh
+158	Apamadena, Sampanita, berjuanglah dengan sungguh-sungguh
+159	[NO_SPEECH]
+160	[NO_SPEECH]
+161	[NO_SPEECH]
+162	[NO_SPEECH]
+163	[NO_SPEECH]
+164	[NO_SPEECH]
+165	[NO_SPEECH]
+166	[NO_SPEECH]
+167	[NO_SPEECH]
+168	[NO_SPEECH]
+169	[NO_SPEECH]
+170	[NO_SPEECH]
+171	[NO_SPEECH]
+172	[NO_SPEECH]
+173	[NO_SPEECH]

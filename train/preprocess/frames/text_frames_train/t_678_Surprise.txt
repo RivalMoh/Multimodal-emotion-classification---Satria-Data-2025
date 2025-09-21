@@ -1,0 +1,106 @@
+0	Es teh manis, es buah, es sirup, emang siga dan manis ya.
+1	Es teh manis, es buah, es sirup, emang siga dan manis ya.
+2	Es teh manis, es buah, es sirup, emang siga dan manis ya.
+3	Es teh manis, es buah, es sirup, emang siga dan manis ya.
+4	Es teh manis, es buah, es sirup, emang siga dan manis ya.
+5	Es teh manis, es buah, es sirup, emang siga dan manis ya.
+6	Es teh manis, es buah, es sirup, emang siga dan manis ya.
+7	Es teh manis, es buah, es sirup, emang siga dan manis ya. Apalagi, diminum saat buka puasa.
+8	Apalagi, diminum saat buka puasa.
+9	Apalagi, diminum saat buka puasa.
+10	Apalagi, diminum saat buka puasa.
+11	Apalagi, diminum saat buka puasa.
+12	Apalagi, diminum saat buka puasa.
+13	Apalagi, diminum saat buka puasa. Aits, aits, jangan hilaf ya, karena selama berpuasa,
+14	Aits, aits, jangan hilaf ya, karena selama berpuasa,
+15	Aits, aits, jangan hilaf ya, karena selama berpuasa,
+16	Aits, aits, jangan hilaf ya, karena selama berpuasa,
+17	Aits, aits, jangan hilaf ya, karena selama berpuasa,
+18	Aits, aits, jangan hilaf ya, karena selama berpuasa,
+19	Aits, aits, jangan hilaf ya, karena selama berpuasa,
+20	Aits, aits, jangan hilaf ya, karena selama berpuasa, kadar gula pada tubuh akan menurun.
+21	Aits, aits, jangan hilaf ya, karena selama berpuasa, kadar gula pada tubuh akan menurun.
+22	kadar gula pada tubuh akan menurun.
+23	kadar gula pada tubuh akan menurun.
+24	kadar gula pada tubuh akan menurun.
+25	kadar gula pada tubuh akan menurun.
+26	kadar gula pada tubuh akan menurun. Nah, jika saat berbuka kamu selalu konsumsi minuman manis dalam jumlah banyak,
+27	Nah, jika saat berbuka kamu selalu konsumsi minuman manis dalam jumlah banyak,
+28	Nah, jika saat berbuka kamu selalu konsumsi minuman manis dalam jumlah banyak,
+29	Nah, jika saat berbuka kamu selalu konsumsi minuman manis dalam jumlah banyak,
+30	Nah, jika saat berbuka kamu selalu konsumsi minuman manis dalam jumlah banyak,
+31	Nah, jika saat berbuka kamu selalu konsumsi minuman manis dalam jumlah banyak,
+32	Nah, jika saat berbuka kamu selalu konsumsi minuman manis dalam jumlah banyak,
+33	Nah, jika saat berbuka kamu selalu konsumsi minuman manis dalam jumlah banyak,
+34	Nah, jika saat berbuka kamu selalu konsumsi minuman manis dalam jumlah banyak,
+35	Nah, jika saat berbuka kamu selalu konsumsi minuman manis dalam jumlah banyak,
+36	Nah, jika saat berbuka kamu selalu konsumsi minuman manis dalam jumlah banyak,
+37	Nah, jika saat berbuka kamu selalu konsumsi minuman manis dalam jumlah banyak, maka kadar gula akan naik secara drastis.
+38	Nah, jika saat berbuka kamu selalu konsumsi minuman manis dalam jumlah banyak, maka kadar gula akan naik secara drastis.
+39	maka kadar gula akan naik secara drastis.
+40	maka kadar gula akan naik secara drastis.
+41	maka kadar gula akan naik secara drastis.
+42	maka kadar gula akan naik secara drastis.
+43	maka kadar gula akan naik secara drastis. Akibatnya timbul penyakit.
+44	maka kadar gula akan naik secara drastis. Akibatnya timbul penyakit.
+45	Akibatnya timbul penyakit.
+46	Akibatnya timbul penyakit.
+47	Akibatnya timbul penyakit. Salah, satunya gagal jinjal dengan gejala.
+48	Akibatnya timbul penyakit. Salah, satunya gagal jinjal dengan gejala.
+49	Salah, satunya gagal jinjal dengan gejala.
+50	Salah, satunya gagal jinjal dengan gejala.
+51	Salah, satunya gagal jinjal dengan gejala.
+52	Salah, satunya gagal jinjal dengan gejala.
+53	Salah, satunya gagal jinjal dengan gejala. Salah, bengkak di kaki, tangan, dan wajah.
+54	Salah, satunya gagal jinjal dengan gejala. Salah, bengkak di kaki, tangan, dan wajah.
+55	Salah, bengkak di kaki, tangan, dan wajah.
+56	Salah, bengkak di kaki, tangan, dan wajah.
+57	Salah, bengkak di kaki, tangan, dan wajah.
+58	Salah, bengkak di kaki, tangan, dan wajah.
+59	Salah, bengkak di kaki, tangan, dan wajah. Sesak nafas, lelah dan lemas terus-menerus.
+60	Salah, bengkak di kaki, tangan, dan wajah. Sesak nafas, lelah dan lemas terus-menerus.
+61	Sesak nafas, lelah dan lemas terus-menerus.
+62	Sesak nafas, lelah dan lemas terus-menerus.
+63	Sesak nafas, lelah dan lemas terus-menerus.
+64	Sesak nafas, lelah dan lemas terus-menerus.
+65	Sesak nafas, lelah dan lemas terus-menerus.
+66	Sesak nafas, lelah dan lemas terus-menerus.
+67	Sesak nafas, lelah dan lemas terus-menerus.
+68	Jika dibiarkan terlalu lama, kondisi jinjal akan semakin memburuk
+69	Jika dibiarkan terlalu lama, kondisi jinjal akan semakin memburuk
+70	Jika dibiarkan terlalu lama, kondisi jinjal akan semakin memburuk
+71	Jika dibiarkan terlalu lama, kondisi jinjal akan semakin memburuk
+72	Jika dibiarkan terlalu lama, kondisi jinjal akan semakin memburuk
+73	Jika dibiarkan terlalu lama, kondisi jinjal akan semakin memburuk
+74	Jika dibiarkan terlalu lama, kondisi jinjal akan semakin memburuk
+75	Jika dibiarkan terlalu lama, kondisi jinjal akan semakin memburuk dan kamu harus melakukan cuci darah.
+76	Jika dibiarkan terlalu lama, kondisi jinjal akan semakin memburuk dan kamu harus melakukan cuci darah.
+77	dan kamu harus melakukan cuci darah.
+78	dan kamu harus melakukan cuci darah.
+79	dan kamu harus melakukan cuci darah.
+80	dan kamu harus melakukan cuci darah.
+81	dan kamu harus melakukan cuci darah. Gak mau terjadikan?
+82	Gak mau terjadikan?
+83	Gak mau terjadikan? Makanya selama berpuasa, lebih baik minum air putih aja atau ganti
+84	Makanya selama berpuasa, lebih baik minum air putih aja atau ganti
+85	Makanya selama berpuasa, lebih baik minum air putih aja atau ganti
+86	Makanya selama berpuasa, lebih baik minum air putih aja atau ganti
+87	Makanya selama berpuasa, lebih baik minum air putih aja atau ganti
+88	Makanya selama berpuasa, lebih baik minum air putih aja atau ganti
+89	Makanya selama berpuasa, lebih baik minum air putih aja atau ganti
+90	Makanya selama berpuasa, lebih baik minum air putih aja atau ganti
+91	Makanya selama berpuasa, lebih baik minum air putih aja atau ganti
+92	Makanya selama berpuasa, lebih baik minum air putih aja atau ganti
+93	Makanya selama berpuasa, lebih baik minum air putih aja atau ganti dengan buah-buahan ya, sobat sehat.
+94	Makanya selama berpuasa, lebih baik minum air putih aja atau ganti dengan buah-buahan ya, sobat sehat.
+95	dengan buah-buahan ya, sobat sehat.
+96	dengan buah-buahan ya, sobat sehat.
+97	dengan buah-buahan ya, sobat sehat.
+98	dengan buah-buahan ya, sobat sehat.
+99	dengan buah-buahan ya, sobat sehat.
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	[NO_SPEECH]
+104	[NO_SPEECH]
+105	[NO_SPEECH]

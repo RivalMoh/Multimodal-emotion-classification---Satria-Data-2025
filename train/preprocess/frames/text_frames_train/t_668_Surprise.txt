@@ -1,0 +1,99 @@
+0	Kamu pernah cium bau mulut orang sampai pengen pingsan?
+1	Kamu pernah cium bau mulut orang sampai pengen pingsan?
+2	Kamu pernah cium bau mulut orang sampai pengen pingsan?
+3	Kamu pernah cium bau mulut orang sampai pengen pingsan? Bisa jadi karena karang giginya sudah terlalu menumpuk lho.
+4	Kamu pernah cium bau mulut orang sampai pengen pingsan? Bisa jadi karena karang giginya sudah terlalu menumpuk lho.
+5	Bisa jadi karena karang giginya sudah terlalu menumpuk lho.
+6	Bisa jadi karena karang giginya sudah terlalu menumpuk lho.
+7	Bisa jadi karena karang giginya sudah terlalu menumpuk lho.
+8	Bisa jadi karena karang giginya sudah terlalu menumpuk lho.
+9	Bisa jadi karena karang giginya sudah terlalu menumpuk lho.
+10	Bisa jadi karena karang giginya sudah terlalu menumpuk lho. Karena karang gigi itu berasal dari sisa makanan dan bakteri yang menempel di gigi,
+11	Karena karang gigi itu berasal dari sisa makanan dan bakteri yang menempel di gigi,
+12	Karena karang gigi itu berasal dari sisa makanan dan bakteri yang menempel di gigi,
+13	Karena karang gigi itu berasal dari sisa makanan dan bakteri yang menempel di gigi,
+14	Karena karang gigi itu berasal dari sisa makanan dan bakteri yang menempel di gigi,
+15	Karena karang gigi itu berasal dari sisa makanan dan bakteri yang menempel di gigi,
+16	Karena karang gigi itu berasal dari sisa makanan dan bakteri yang menempel di gigi,
+17	Karena karang gigi itu berasal dari sisa makanan dan bakteri yang menempel di gigi,
+18	Karena karang gigi itu berasal dari sisa makanan dan bakteri yang menempel di gigi,
+19	Karena karang gigi itu berasal dari sisa makanan dan bakteri yang menempel di gigi,
+20	Karena karang gigi itu berasal dari sisa makanan dan bakteri yang menempel di gigi, lama-lama mengeras karena nggak dibersihin,
+21	lama-lama mengeras karena nggak dibersihin,
+22	lama-lama mengeras karena nggak dibersihin,
+23	lama-lama mengeras karena nggak dibersihin,
+24	lama-lama mengeras karena nggak dibersihin, sering minum kopi, merokok, atau malas sikat gigi.
+25	sering minum kopi, merokok, atau malas sikat gigi.
+26	sering minum kopi, merokok, atau malas sikat gigi.
+27	sering minum kopi, merokok, atau malas sikat gigi.
+28	sering minum kopi, merokok, atau malas sikat gigi.
+29	sering minum kopi, merokok, atau malas sikat gigi.
+30	sering minum kopi, merokok, atau malas sikat gigi.
+31	sering minum kopi, merokok, atau malas sikat gigi.
+32	sering minum kopi, merokok, atau malas sikat gigi. Hati-hati, kamu lebih rentan kena karang gigi yang bisa bikin bau mulut berlebihan,
+33	sering minum kopi, merokok, atau malas sikat gigi. Hati-hati, kamu lebih rentan kena karang gigi yang bisa bikin bau mulut berlebihan,
+34	Hati-hati, kamu lebih rentan kena karang gigi yang bisa bikin bau mulut berlebihan,
+35	Hati-hati, kamu lebih rentan kena karang gigi yang bisa bikin bau mulut berlebihan,
+36	Hati-hati, kamu lebih rentan kena karang gigi yang bisa bikin bau mulut berlebihan,
+37	Hati-hati, kamu lebih rentan kena karang gigi yang bisa bikin bau mulut berlebihan,
+38	Hati-hati, kamu lebih rentan kena karang gigi yang bisa bikin bau mulut berlebihan,
+39	Hati-hati, kamu lebih rentan kena karang gigi yang bisa bikin bau mulut berlebihan,
+40	Hati-hati, kamu lebih rentan kena karang gigi yang bisa bikin bau mulut berlebihan, gigi ngilu, iritasi gusi, bahkan gigi copot nih.
+41	Hati-hati, kamu lebih rentan kena karang gigi yang bisa bikin bau mulut berlebihan, gigi ngilu, iritasi gusi, bahkan gigi copot nih.
+42	gigi ngilu, iritasi gusi, bahkan gigi copot nih.
+43	gigi ngilu, iritasi gusi, bahkan gigi copot nih.
+44	gigi ngilu, iritasi gusi, bahkan gigi copot nih.
+45	gigi ngilu, iritasi gusi, bahkan gigi copot nih.
+46	gigi ngilu, iritasi gusi, bahkan gigi copot nih.
+47	gigi ngilu, iritasi gusi, bahkan gigi copot nih.
+48	Walaupun sudah rutin sikat gigi,
+49	Walaupun sudah rutin sikat gigi,
+50	Walaupun sudah rutin sikat gigi,
+51	Walaupun sudah rutin sikat gigi,
+52	Walaupun sudah rutin sikat gigi, bukan berarti karang gigi langsung hilang ya,
+53	bukan berarti karang gigi langsung hilang ya,
+54	bukan berarti karang gigi langsung hilang ya,
+55	bukan berarti karang gigi langsung hilang ya,
+56	bukan berarti karang gigi langsung hilang ya, karena karang gigi cuma bisa dibersihkan melalui scaling oleh dokter gigi.
+57	bukan berarti karang gigi langsung hilang ya, karena karang gigi cuma bisa dibersihkan melalui scaling oleh dokter gigi.
+58	karena karang gigi cuma bisa dibersihkan melalui scaling oleh dokter gigi.
+59	karena karang gigi cuma bisa dibersihkan melalui scaling oleh dokter gigi.
+60	karena karang gigi cuma bisa dibersihkan melalui scaling oleh dokter gigi.
+61	karena karang gigi cuma bisa dibersihkan melalui scaling oleh dokter gigi.
+62	karena karang gigi cuma bisa dibersihkan melalui scaling oleh dokter gigi.
+63	karena karang gigi cuma bisa dibersihkan melalui scaling oleh dokter gigi.
+64	karena karang gigi cuma bisa dibersihkan melalui scaling oleh dokter gigi.
+65	karena karang gigi cuma bisa dibersihkan melalui scaling oleh dokter gigi. Tapi kamu bisa mencegahnya dengan sikat gigi dua kali sehari,
+66	Tapi kamu bisa mencegahnya dengan sikat gigi dua kali sehari,
+67	Tapi kamu bisa mencegahnya dengan sikat gigi dua kali sehari,
+68	Tapi kamu bisa mencegahnya dengan sikat gigi dua kali sehari,
+69	Tapi kamu bisa mencegahnya dengan sikat gigi dua kali sehari,
+70	Tapi kamu bisa mencegahnya dengan sikat gigi dua kali sehari,
+71	Tapi kamu bisa mencegahnya dengan sikat gigi dua kali sehari,
+72	Tapi kamu bisa mencegahnya dengan sikat gigi dua kali sehari,
+73	pakai obat kumur, berhenti merokok, dan gunakan benang gigi.
+74	pakai obat kumur, berhenti merokok, dan gunakan benang gigi.
+75	pakai obat kumur, berhenti merokok, dan gunakan benang gigi.
+76	pakai obat kumur, berhenti merokok, dan gunakan benang gigi.
+77	pakai obat kumur, berhenti merokok, dan gunakan benang gigi.
+78	pakai obat kumur, berhenti merokok, dan gunakan benang gigi.
+79	pakai obat kumur, berhenti merokok, dan gunakan benang gigi.
+80	pakai obat kumur, berhenti merokok, dan gunakan benang gigi.
+81	Jadi, jangan sepelekan karang gigi ya,
+82	Jadi, jangan sepelekan karang gigi ya,
+83	Jadi, jangan sepelekan karang gigi ya,
+84	Jadi, jangan sepelekan karang gigi ya,
+85	Jadi, jangan sepelekan karang gigi ya, karena gigi bersih, nafas segar, hidup pun tenang.
+86	Jadi, jangan sepelekan karang gigi ya, karena gigi bersih, nafas segar, hidup pun tenang.
+87	karena gigi bersih, nafas segar, hidup pun tenang.
+88	karena gigi bersih, nafas segar, hidup pun tenang.
+89	karena gigi bersih, nafas segar, hidup pun tenang.
+90	karena gigi bersih, nafas segar, hidup pun tenang.
+91	karena gigi bersih, nafas segar, hidup pun tenang.
+92	karena gigi bersih, nafas segar, hidup pun tenang.
+93	karena gigi bersih, nafas segar, hidup pun tenang.
+94	[NO_SPEECH]
+95	[NO_SPEECH]
+96	[NO_SPEECH]
+97	[NO_SPEECH]
+98	[NO_SPEECH]

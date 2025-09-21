@@ -1,0 +1,70 @@
+0	Harga saham boleh naik turun, pangan aman, negara aman.
+1	Harga saham boleh naik turun, pangan aman, negara aman.
+2	Harga saham boleh naik turun, pangan aman, negara aman.
+3	Harga saham boleh naik turun, pangan aman, negara aman.
+4	Harga saham boleh naik turun, pangan aman, negara aman.
+5	Harga saham boleh naik turun, pangan aman, negara aman.
+6	Harga saham boleh naik turun, pangan aman, negara aman.
+7	Harga saham boleh naik turun, pangan aman, negara aman.
+8	Harga saham boleh naik turun, pangan aman, negara aman.
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	Saya lihat yang stres, harga saham turun hanya beberapa orang di antara kadang-kadang.
+15	Saya lihat yang stres, harga saham turun hanya beberapa orang di antara kadang-kadang.
+16	Saya lihat yang stres, harga saham turun hanya beberapa orang di antara kadang-kadang.
+17	Saya lihat yang stres, harga saham turun hanya beberapa orang di antara kadang-kadang.
+18	Saya lihat yang stres, harga saham turun hanya beberapa orang di antara kadang-kadang.
+19	Saya lihat yang stres, harga saham turun hanya beberapa orang di antara kadang-kadang.
+20	Saya lihat yang stres, harga saham turun hanya beberapa orang di antara kadang-kadang.
+21	Saya lihat yang stres, harga saham turun hanya beberapa orang di antara kadang-kadang.
+22	Saya lihat yang stres, harga saham turun hanya beberapa orang di antara kadang-kadang.
+23	Saya lihat yang stres, harga saham turun hanya beberapa orang di antara kadang-kadang.
+24	Saya lihat yang stres, harga saham turun hanya beberapa orang di antara kadang-kadang.
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	Marwar, siapa lagi itu?
+33	Marwar, siapa lagi itu?
+34	Marwar, siapa lagi itu?
+35	Marwar, siapa lagi itu?
+36	Marwar, siapa lagi itu? Tranggono, mana Tranggono?
+37	Tranggono, mana Tranggono?
+38	Tranggono, mana Tranggono?
+39	Tranggono, mana Tranggono?
+40	Tranggono, mana Tranggono?
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	Tranggono, oh duduk sebelah.
+45	Tranggono, oh duduk sebelah.
+46	Tranggono, oh duduk sebelah.
+47	Tranggono, oh duduk sebelah.
+48	Tranggono, oh duduk sebelah.
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	Mana lagi ya?
+53	Mana lagi ya?
+54	Mana lagi ya?
+55	Mana lagi ya? Kalau Budiman enggak, Budiman tenang aja karena enggak punya saham dia.
+56	Mana lagi ya? Kalau Budiman enggak, Budiman tenang aja karena enggak punya saham dia.
+57	Kalau Budiman enggak, Budiman tenang aja karena enggak punya saham dia.
+58	Kalau Budiman enggak, Budiman tenang aja karena enggak punya saham dia.
+59	Kalau Budiman enggak, Budiman tenang aja karena enggak punya saham dia.
+60	Kalau Budiman enggak, Budiman tenang aja karena enggak punya saham dia.
+61	Kalau Budiman enggak, Budiman tenang aja karena enggak punya saham dia.
+62	Kalau Budiman enggak, Budiman tenang aja karena enggak punya saham dia.
+63	Kalau Budiman enggak, Budiman tenang aja karena enggak punya saham dia.
+64	[NO_SPEECH]
+65	[NO_SPEECH]
+66	[NO_SPEECH]
+67	[NO_SPEECH]
+68	[NO_SPEECH]
+69	[NO_SPEECH]

@@ -1,0 +1,102 @@
+0	Kalau kamu udah rajin skincare-an, tapi kulit kamu masih tetep rusem dan masih suka jerawatan,
+1	Kalau kamu udah rajin skincare-an, tapi kulit kamu masih tetep rusem dan masih suka jerawatan,
+2	Kalau kamu udah rajin skincare-an, tapi kulit kamu masih tetep rusem dan masih suka jerawatan,
+3	Kalau kamu udah rajin skincare-an, tapi kulit kamu masih tetep rusem dan masih suka jerawatan,
+4	Kalau kamu udah rajin skincare-an, tapi kulit kamu masih tetep rusem dan masih suka jerawatan,
+5	Kalau kamu udah rajin skincare-an, tapi kulit kamu masih tetep rusem dan masih suka jerawatan,
+6	Kalau kamu udah rajin skincare-an, tapi kulit kamu masih tetep rusem dan masih suka jerawatan,
+7	Kalau kamu udah rajin skincare-an, tapi kulit kamu masih tetep rusem dan masih suka jerawatan, jangan buru-buru salahin skincare yang kamu pake.
+8	Kalau kamu udah rajin skincare-an, tapi kulit kamu masih tetep rusem dan masih suka jerawatan, jangan buru-buru salahin skincare yang kamu pake.
+9	jangan buru-buru salahin skincare yang kamu pake.
+10	jangan buru-buru salahin skincare yang kamu pake.
+11	jangan buru-buru salahin skincare yang kamu pake.
+12	jangan buru-buru salahin skincare yang kamu pake. Bisa jadi itu karena proses bersihin kulit kamu tuh kurang maksimal, alias kamu jarang double cleansing.
+13	jangan buru-buru salahin skincare yang kamu pake. Bisa jadi itu karena proses bersihin kulit kamu tuh kurang maksimal, alias kamu jarang double cleansing.
+14	Bisa jadi itu karena proses bersihin kulit kamu tuh kurang maksimal, alias kamu jarang double cleansing.
+15	Bisa jadi itu karena proses bersihin kulit kamu tuh kurang maksimal, alias kamu jarang double cleansing.
+16	Bisa jadi itu karena proses bersihin kulit kamu tuh kurang maksimal, alias kamu jarang double cleansing.
+17	Bisa jadi itu karena proses bersihin kulit kamu tuh kurang maksimal, alias kamu jarang double cleansing.
+18	Bisa jadi itu karena proses bersihin kulit kamu tuh kurang maksimal, alias kamu jarang double cleansing.
+19	Bisa jadi itu karena proses bersihin kulit kamu tuh kurang maksimal, alias kamu jarang double cleansing.
+20	Bisa jadi itu karena proses bersihin kulit kamu tuh kurang maksimal, alias kamu jarang double cleansing.
+21	Bisa jadi itu karena proses bersihin kulit kamu tuh kurang maksimal, alias kamu jarang double cleansing. Yah, buat aku personal, double cleansing tuh harus banget dilakukan setiap hari.
+22	Bisa jadi itu karena proses bersihin kulit kamu tuh kurang maksimal, alias kamu jarang double cleansing. Yah, buat aku personal, double cleansing tuh harus banget dilakukan setiap hari.
+23	Yah, buat aku personal, double cleansing tuh harus banget dilakukan setiap hari.
+24	Yah, buat aku personal, double cleansing tuh harus banget dilakukan setiap hari.
+25	Yah, buat aku personal, double cleansing tuh harus banget dilakukan setiap hari.
+26	Yah, buat aku personal, double cleansing tuh harus banget dilakukan setiap hari.
+27	Yah, buat aku personal, double cleansing tuh harus banget dilakukan setiap hari.
+28	Yah, buat aku personal, double cleansing tuh harus banget dilakukan setiap hari. Apalagi kalau kamu sering naik motor ataupun ojol kemana-mana,
+29	Apalagi kalau kamu sering naik motor ataupun ojol kemana-mana,
+30	Apalagi kalau kamu sering naik motor ataupun ojol kemana-mana,
+31	Apalagi kalau kamu sering naik motor ataupun ojol kemana-mana,
+32	Apalagi kalau kamu sering naik motor ataupun ojol kemana-mana,
+33	Apalagi kalau kamu sering naik motor ataupun ojol kemana-mana, itu debu-debu di jalan, asap kendaraan, polusi pabrik bisa nempel di kulit kamu.
+34	Apalagi kalau kamu sering naik motor ataupun ojol kemana-mana, itu debu-debu di jalan, asap kendaraan, polusi pabrik bisa nempel di kulit kamu.
+35	itu debu-debu di jalan, asap kendaraan, polusi pabrik bisa nempel di kulit kamu.
+36	itu debu-debu di jalan, asap kendaraan, polusi pabrik bisa nempel di kulit kamu.
+37	itu debu-debu di jalan, asap kendaraan, polusi pabrik bisa nempel di kulit kamu.
+38	itu debu-debu di jalan, asap kendaraan, polusi pabrik bisa nempel di kulit kamu.
+39	itu debu-debu di jalan, asap kendaraan, polusi pabrik bisa nempel di kulit kamu.
+40	itu debu-debu di jalan, asap kendaraan, polusi pabrik bisa nempel di kulit kamu.
+41	itu debu-debu di jalan, asap kendaraan, polusi pabrik bisa nempel di kulit kamu.
+42	itu debu-debu di jalan, asap kendaraan, polusi pabrik bisa nempel di kulit kamu.
+43	itu debu-debu di jalan, asap kendaraan, polusi pabrik bisa nempel di kulit kamu. Dan kalau nggak dibersihin, itu bisa nyempet pori-pori.
+44	Dan kalau nggak dibersihin, itu bisa nyempet pori-pori.
+45	Dan kalau nggak dibersihin, itu bisa nyempet pori-pori.
+46	Dan kalau nggak dibersihin, itu bisa nyempet pori-pori.
+47	Dan kalau nggak dibersihin, itu bisa nyempet pori-pori. Untuk contoh produk face cleanser yang aku sarankan adalah Missile Water.
+48	Dan kalau nggak dibersihin, itu bisa nyempet pori-pori. Untuk contoh produk face cleanser yang aku sarankan adalah Missile Water.
+49	Untuk contoh produk face cleanser yang aku sarankan adalah Missile Water.
+50	Untuk contoh produk face cleanser yang aku sarankan adalah Missile Water.
+51	Untuk contoh produk face cleanser yang aku sarankan adalah Missile Water.
+52	Untuk contoh produk face cleanser yang aku sarankan adalah Missile Water.
+53	Untuk contoh produk face cleanser yang aku sarankan adalah Missile Water. Misalnya, punya Azarin yang ini.
+54	Misalnya, punya Azarin yang ini.
+55	Misalnya, punya Azarin yang ini. Buat aku personal, produk ini bukan sekedar Missile Water biasa.
+56	Misalnya, punya Azarin yang ini. Buat aku personal, produk ini bukan sekedar Missile Water biasa.
+57	Buat aku personal, produk ini bukan sekedar Missile Water biasa.
+58	Buat aku personal, produk ini bukan sekedar Missile Water biasa.
+59	Buat aku personal, produk ini bukan sekedar Missile Water biasa.
+60	Buat aku personal, produk ini bukan sekedar Missile Water biasa.
+61	Buat aku personal, produk ini bukan sekedar Missile Water biasa. Yah, emang daya membersihkannya bagus banget.
+62	Buat aku personal, produk ini bukan sekedar Missile Water biasa. Yah, emang daya membersihkannya bagus banget.
+63	Yah, emang daya membersihkannya bagus banget.
+64	Yah, emang daya membersihkannya bagus banget.
+65	Yah, emang daya membersihkannya bagus banget. Semuanya tuh beneran keangkat dari kulit.
+66	Yah, emang daya membersihkannya bagus banget. Semuanya tuh beneran keangkat dari kulit.
+67	Semuanya tuh beneran keangkat dari kulit.
+68	Semuanya tuh beneran keangkat dari kulit.
+69	Semuanya tuh beneran keangkat dari kulit. Tapi nggak cuma sampai situ, dia tuh masih ninggalin rasa hydrating dan moisturizing juga.
+70	Semuanya tuh beneran keangkat dari kulit. Tapi nggak cuma sampai situ, dia tuh masih ninggalin rasa hydrating dan moisturizing juga.
+71	Tapi nggak cuma sampai situ, dia tuh masih ninggalin rasa hydrating dan moisturizing juga.
+72	Tapi nggak cuma sampai situ, dia tuh masih ninggalin rasa hydrating dan moisturizing juga.
+73	Tapi nggak cuma sampai situ, dia tuh masih ninggalin rasa hydrating dan moisturizing juga.
+74	Tapi nggak cuma sampai situ, dia tuh masih ninggalin rasa hydrating dan moisturizing juga.
+75	Tapi nggak cuma sampai situ, dia tuh masih ninggalin rasa hydrating dan moisturizing juga.
+76	Tapi nggak cuma sampai situ, dia tuh masih ninggalin rasa hydrating dan moisturizing juga.
+77	Tapi nggak cuma sampai situ, dia tuh masih ninggalin rasa hydrating dan moisturizing juga. Yah, itu semua karena kandungan pentafitin yang ada di dalam Missile Water ini.
+78	Yah, itu semua karena kandungan pentafitin yang ada di dalam Missile Water ini.
+79	Yah, itu semua karena kandungan pentafitin yang ada di dalam Missile Water ini.
+80	Yah, itu semua karena kandungan pentafitin yang ada di dalam Missile Water ini.
+81	Yah, itu semua karena kandungan pentafitin yang ada di dalam Missile Water ini.
+82	Yah, itu semua karena kandungan pentafitin yang ada di dalam Missile Water ini. Ditambah lagi, dia aman buat kulit penjerawat karena dia mengandung green tea yang fungsinya buat menenangkan kulit.
+83	Yah, itu semua karena kandungan pentafitin yang ada di dalam Missile Water ini. Ditambah lagi, dia aman buat kulit penjerawat karena dia mengandung green tea yang fungsinya buat menenangkan kulit.
+84	Ditambah lagi, dia aman buat kulit penjerawat karena dia mengandung green tea yang fungsinya buat menenangkan kulit.
+85	Ditambah lagi, dia aman buat kulit penjerawat karena dia mengandung green tea yang fungsinya buat menenangkan kulit.
+86	Ditambah lagi, dia aman buat kulit penjerawat karena dia mengandung green tea yang fungsinya buat menenangkan kulit.
+87	Ditambah lagi, dia aman buat kulit penjerawat karena dia mengandung green tea yang fungsinya buat menenangkan kulit.
+88	Ditambah lagi, dia aman buat kulit penjerawat karena dia mengandung green tea yang fungsinya buat menenangkan kulit.
+89	Ditambah lagi, dia aman buat kulit penjerawat karena dia mengandung green tea yang fungsinya buat menenangkan kulit.
+90	Ditambah lagi, dia aman buat kulit penjerawat karena dia mengandung green tea yang fungsinya buat menenangkan kulit.
+91	Ditambah lagi, dia aman buat kulit penjerawat karena dia mengandung green tea yang fungsinya buat menenangkan kulit.
+92	Ditambah lagi, dia aman buat kulit penjerawat karena dia mengandung green tea yang fungsinya buat menenangkan kulit. Udah, cobain punya Azarin deh.
+93	Ditambah lagi, dia aman buat kulit penjerawat karena dia mengandung green tea yang fungsinya buat menenangkan kulit. Udah, cobain punya Azarin deh.
+94	Udah, cobain punya Azarin deh.
+95	Udah, cobain punya Azarin deh. Harga yang murah, lagi promo by one get one pula.
+96	Udah, cobain punya Azarin deh. Harga yang murah, lagi promo by one get one pula.
+97	Harga yang murah, lagi promo by one get one pula.
+98	Harga yang murah, lagi promo by one get one pula.
+99	Harga yang murah, lagi promo by one get one pula.
+100	Harga yang murah, lagi promo by one get one pula.
+101	[NO_SPEECH]

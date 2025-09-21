@@ -1,0 +1,180 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	Guys, aku udah selesai makeup-an
+3	Guys, aku udah selesai makeup-an
+4	Guys, aku udah selesai makeup-an
+5	Guys, aku udah selesai makeup-an
+6	Guys, aku udah selesai makeup-an
+7	Guys, aku udah selesai makeup-an Cuman aku belum pake lip product
+8	Guys, aku udah selesai makeup-an Cuman aku belum pake lip product
+9	Cuman aku belum pake lip product Udah lumayan lama aku gak pake lip vinyl
+10	Cuman aku belum pake lip product Udah lumayan lama aku gak pake lip vinyl
+11	Udah lumayan lama aku gak pake lip vinyl
+12	Udah lumayan lama aku gak pake lip vinyl
+13	Udah lumayan lama aku gak pake lip vinyl Untuk look bibir aku
+14	Udah lumayan lama aku gak pake lip vinyl Untuk look bibir aku
+15	Untuk look bibir aku
+16	Untuk look bibir aku Dan aku rindu banget pake lipstick ini
+17	Untuk look bibir aku Dan aku rindu banget pake lipstick ini
+18	Dan aku rindu banget pake lipstick ini
+19	Dan aku rindu banget pake lipstick ini
+20	Dan aku rindu banget pake lipstick ini Dan disini aku punya 5 shades
+21	Dan aku rindu banget pake lipstick ini Dan disini aku punya 5 shades
+22	Dan disini aku punya 5 shades
+23	Dan disini aku punya 5 shades
+24	Dan disini aku punya 5 shades Kan aku mau swatches
+25	Dan disini aku punya 5 shades Kan aku mau swatches
+26	Kan aku mau swatches
+27	Kan aku mau swatches Kalian bantuin pakein aku shade mana yang paling bagus
+28	Kan aku mau swatches Kalian bantuin pakein aku shade mana yang paling bagus
+29	Kalian bantuin pakein aku shade mana yang paling bagus
+30	Kalian bantuin pakein aku shade mana yang paling bagus
+31	Kalian bantuin pakein aku shade mana yang paling bagus
+32	Kalian bantuin pakein aku shade mana yang paling bagus Dan paling cocok sama look ini
+33	Kalian bantuin pakein aku shade mana yang paling bagus Dan paling cocok sama look ini
+34	Dan paling cocok sama look ini
+35	Dan paling cocok sama look ini First, aku mau swatch yang shade 100 Charm
+36	Dan paling cocok sama look ini First, aku mau swatch yang shade 100 Charm
+37	First, aku mau swatch yang shade 100 Charm
+38	First, aku mau swatch yang shade 100 Charm
+39	First, aku mau swatch yang shade 100 Charm Jangan lupa di-shake dulu sebelum dipake
+40	First, aku mau swatch yang shade 100 Charm Jangan lupa di-shake dulu sebelum dipake
+41	Jangan lupa di-shake dulu sebelum dipake
+42	Jangan lupa di-shake dulu sebelum dipake
+43	Jangan lupa di-shake dulu sebelum dipake Dan kalo pake ini aku gak pernah pake lip liner
+44	Jangan lupa di-shake dulu sebelum dipake Dan kalo pake ini aku gak pernah pake lip liner
+45	Dan kalo pake ini aku gak pernah pake lip liner
+46	Dan kalo pake ini aku gak pernah pake lip liner
+47	Dan kalo pake ini aku gak pernah pake lip liner Karena ini mudah banget untuk nge-overline lips
+48	Dan kalo pake ini aku gak pernah pake lip liner Karena ini mudah banget untuk nge-overline lips
+49	Karena ini mudah banget untuk nge-overline lips
+50	Karena ini mudah banget untuk nge-overline lips
+51	Karena ini mudah banget untuk nge-overline lips
+52	Karena ini mudah banget untuk nge-overline lips Tapi seperti biasa sebelum dia nge-set
+53	Karena ini mudah banget untuk nge-overline lips Tapi seperti biasa sebelum dia nge-set
+54	Tapi seperti biasa sebelum dia nge-set
+55	Tapi seperti biasa sebelum dia nge-set
+56	Tapi seperti biasa sebelum dia nge-set Aku akan blur bagian luarnya
+57	Tapi seperti biasa sebelum dia nge-set Aku akan blur bagian luarnya
+58	Aku akan blur bagian luarnya
+59	Aku akan blur bagian luarnya
+60	Aku akan blur bagian luarnya Hal yang aku paling suka dari lip vinyl
+61	Aku akan blur bagian luarnya Hal yang aku paling suka dari lip vinyl
+62	Hal yang aku paling suka dari lip vinyl
+63	Hal yang aku paling suka dari lip vinyl
+64	Hal yang aku paling suka dari lip vinyl
+65	Hal yang aku paling suka dari lip vinyl Itu tuh dia pigmented banget
+66	Hal yang aku paling suka dari lip vinyl Itu tuh dia pigmented banget
+67	Itu tuh dia pigmented banget
+68	Itu tuh dia pigmented banget
+69	Itu tuh dia pigmented banget Dan dia nge-blur bibir banget
+70	Itu tuh dia pigmented banget Dan dia nge-blur bibir banget
+71	Dan dia nge-blur bibir banget
+72	Dan dia nge-blur bibir banget Garisnya kayak gak terlalu keliatan
+73	Dan dia nge-blur bibir banget Garisnya kayak gak terlalu keliatan
+74	Garisnya kayak gak terlalu keliatan
+75	Garisnya kayak gak terlalu keliatan
+76	Garisnya kayak gak terlalu keliatan Bibirnya kayak lebih smooth dan soft
+77	Garisnya kayak gak terlalu keliatan Bibirnya kayak lebih smooth dan soft
+78	Bibirnya kayak lebih smooth dan soft
+79	Bibirnya kayak lebih smooth dan soft
+80	Bibirnya kayak lebih smooth dan soft Ini harus di-dimin 5-8 menit dulu
+81	Bibirnya kayak lebih smooth dan soft Ini harus di-dimin 5-8 menit dulu
+82	Ini harus di-dimin 5-8 menit dulu
+83	Ini harus di-dimin 5-8 menit dulu Sampai dia nge-set
+84	Ini harus di-dimin 5-8 menit dulu Sampai dia nge-set
+85	Ini harus di-dimin 5-8 menit dulu Sampai dia nge-set
+86	Sampai dia nge-set Next shade itu 15 Peachy
+87	Sampai dia nge-set Next shade itu 15 Peachy
+88	Next shade itu 15 Peachy
+89	Next shade itu 15 Peachy
+90	Next shade itu 15 Peachy I also love this color, menurut aku ini cocok juga
+91	Next shade itu 15 Peachy I also love this color, menurut aku ini cocok juga
+92	I also love this color, menurut aku ini cocok juga
+93	I also love this color, menurut aku ini cocok juga
+94	I also love this color, menurut aku ini cocok juga Sama makeupnya lagi, kayaknya warna nude-nya bakal paling cocok
+95	I also love this color, menurut aku ini cocok juga Sama makeupnya lagi, kayaknya warna nude-nya bakal paling cocok
+96	Sama makeupnya lagi, kayaknya warna nude-nya bakal paling cocok
+97	Sama makeupnya lagi, kayaknya warna nude-nya bakal paling cocok
+98	Sama makeupnya lagi, kayaknya warna nude-nya bakal paling cocok
+99	Sama makeupnya lagi, kayaknya warna nude-nya bakal paling cocok
+100	Sama makeupnya lagi, kayaknya warna nude-nya bakal paling cocok Untuk look ini
+101	Sama makeupnya lagi, kayaknya warna nude-nya bakal paling cocok Untuk look ini Third shade itu nomor 10 Leapy
+102	Untuk look ini Third shade itu nomor 10 Leapy
+103	Third shade itu nomor 10 Leapy
+104	Third shade itu nomor 10 Leapy
+105	Third shade itu nomor 10 Leapy
+106	Third shade itu nomor 10 Leapy Tapi karena ini warnanya bold, jadi aku pakenya gak apa-apa
+107	Third shade itu nomor 10 Leapy Tapi karena ini warnanya bold, jadi aku pakenya gak apa-apa
+108	Tapi karena ini warnanya bold, jadi aku pakenya gak apa-apa
+109	Tapi karena ini warnanya bold, jadi aku pakenya gak apa-apa
+110	Tapi karena ini warnanya bold, jadi aku pakenya gak apa-apa
+111	Tapi karena ini warnanya bold, jadi aku pakenya gak apa-apa
+112	Tapi karena ini warnanya bold, jadi aku pakenya gak apa-apa Berantakan aja
+113	Tapi karena ini warnanya bold, jadi aku pakenya gak apa-apa Berantakan aja Kita akan blend lagi
+114	Berantakan aja Kita akan blend lagi
+115	Kita akan blend lagi
+116	Kita akan blend lagi
+117	Kita akan blend lagi
+118	[NO_SPEECH]
+119	Next ini nomor 30 Unreveal
+120	Next ini nomor 30 Unreveal
+121	Next ini nomor 30 Unreveal
+122	Next ini nomor 30 Unreveal
+123	Next ini nomor 30 Unreveal
+124	Next ini nomor 30 Unreveal
+125	Next ini nomor 30 Unreveal
+126	[NO_SPEECH]
+127	[NO_SPEECH]
+128	Wah ini warna cantik banget
+129	Wah ini warna cantik banget
+130	Wah ini warna cantik banget Nah gue rasa ini warna cocok banget untuk makeup ini
+131	Wah ini warna cantik banget Nah gue rasa ini warna cocok banget untuk makeup ini
+132	Nah gue rasa ini warna cocok banget untuk makeup ini
+133	Nah gue rasa ini warna cocok banget untuk makeup ini
+134	Nah gue rasa ini warna cocok banget untuk makeup ini
+135	Nah gue rasa ini warna cocok banget untuk makeup ini Last shade itu 35 Cheeky
+136	Nah gue rasa ini warna cocok banget untuk makeup ini Last shade itu 35 Cheeky
+137	Last shade itu 35 Cheeky
+138	Last shade itu 35 Cheeky
+139	Last shade itu 35 Cheeky
+140	Last shade itu 35 Cheeky
+141	Last shade itu 35 Cheeky Ini menurut aku adalah warna nude terperfek buat skin tone aku
+142	Last shade itu 35 Cheeky Ini menurut aku adalah warna nude terperfek buat skin tone aku
+143	Ini menurut aku adalah warna nude terperfek buat skin tone aku
+144	Ini menurut aku adalah warna nude terperfek buat skin tone aku
+145	Ini menurut aku adalah warna nude terperfek buat skin tone aku
+146	Ini menurut aku adalah warna nude terperfek buat skin tone aku
+147	Ini menurut aku adalah warna nude terperfek buat skin tone aku
+148	Ini menurut aku adalah warna nude terperfek buat skin tone aku
+149	Ini menurut aku adalah warna nude terperfek buat skin tone aku Vote di bawah shade mana yang paling cocok buat aku
+150	Ini menurut aku adalah warna nude terperfek buat skin tone aku Vote di bawah shade mana yang paling cocok buat aku
+151	Vote di bawah shade mana yang paling cocok buat aku
+152	Vote di bawah shade mana yang paling cocok buat aku
+153	Vote di bawah shade mana yang paling cocok buat aku
+154	Vote di bawah shade mana yang paling cocok buat aku Ini tuh si Maybelline Superstay Vinyl Ink The OG Vinyl Lipstick
+155	Vote di bawah shade mana yang paling cocok buat aku Ini tuh si Maybelline Superstay Vinyl Ink The OG Vinyl Lipstick
+156	Ini tuh si Maybelline Superstay Vinyl Ink The OG Vinyl Lipstick
+157	Ini tuh si Maybelline Superstay Vinyl Ink The OG Vinyl Lipstick
+158	Ini tuh si Maybelline Superstay Vinyl Ink The OG Vinyl Lipstick
+159	Ini tuh si Maybelline Superstay Vinyl Ink The OG Vinyl Lipstick
+160	Ini tuh si Maybelline Superstay Vinyl Ink The OG Vinyl Lipstick
+161	Ini tuh si Maybelline Superstay Vinyl Ink The OG Vinyl Lipstick
+162	Ini tuh si Maybelline Superstay Vinyl Ink The OG Vinyl Lipstick
+163	Ini tuh si Maybelline Superstay Vinyl Ink The OG Vinyl Lipstick
+164	[NO_SPEECH]
+165	Bener-bener transfer proof kayak gak ada apapun
+166	Bener-bener transfer proof kayak gak ada apapun
+167	Bener-bener transfer proof kayak gak ada apapun
+168	Bener-bener transfer proof kayak gak ada apapun
+169	Bener-bener transfer proof kayak gak ada apapun
+170	Bener-bener transfer proof kayak gak ada apapun
+171	Bener-bener transfer proof kayak gak ada apapun This is a sign for you to try
+172	Bener-bener transfer proof kayak gak ada apapun This is a sign for you to try
+173	This is a sign for you to try
+174	This is a sign for you to try
+175	This is a sign for you to try Cus coba
+176	This is a sign for you to try Cus coba
+177	Cus coba
+178	[NO_SPEECH]
+179	[NO_SPEECH]

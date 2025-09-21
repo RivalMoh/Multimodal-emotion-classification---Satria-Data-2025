@@ -1,0 +1,73 @@
+0	Saya udah memberikan yang terbaik, udah go above and beyond, tapi gaji saya gak dinaikin.
+1	Saya udah memberikan yang terbaik, udah go above and beyond, tapi gaji saya gak dinaikin.
+2	Saya udah memberikan yang terbaik, udah go above and beyond, tapi gaji saya gak dinaikin.
+3	Saya udah memberikan yang terbaik, udah go above and beyond, tapi gaji saya gak dinaikin.
+4	Saya udah memberikan yang terbaik, udah go above and beyond, tapi gaji saya gak dinaikin.
+5	Saya udah memberikan yang terbaik, udah go above and beyond, tapi gaji saya gak dinaikin.
+6	Saya udah memberikan yang terbaik, udah go above and beyond, tapi gaji saya gak dinaikin.
+7	Saya udah memberikan yang terbaik, udah go above and beyond, tapi gaji saya gak dinaikin. Apa advice ibu?
+8	Saya udah memberikan yang terbaik, udah go above and beyond, tapi gaji saya gak dinaikin. Apa advice ibu?
+9	Apa advice ibu?
+10	Apa advice ibu?
+11	Apa advice ibu? Ketika kamu bekerja, jangan pernah berpikir memberikan yang terbaik untuk bosmu.
+12	Ketika kamu bekerja, jangan pernah berpikir memberikan yang terbaik untuk bosmu.
+13	Ketika kamu bekerja, jangan pernah berpikir memberikan yang terbaik untuk bosmu.
+14	Ketika kamu bekerja, jangan pernah berpikir memberikan yang terbaik untuk bosmu.
+15	Ketika kamu bekerja, jangan pernah berpikir memberikan yang terbaik untuk bosmu.
+16	Ketika kamu bekerja, jangan pernah berpikir memberikan yang terbaik untuk bosmu.
+17	Ketika kamu bekerja, jangan pernah berpikir memberikan yang terbaik untuk bosmu.
+18	Ketika kamu bekerja, jangan pernah berpikir memberikan yang terbaik untuk bosmu.
+19	Ketika kamu bekerja, jangan pernah berpikir memberikan yang terbaik untuk bosmu. Tapi selalulah berpikir memberikan yang terbaik untuk dirimu sendiri.
+20	Tapi selalulah berpikir memberikan yang terbaik untuk dirimu sendiri.
+21	Tapi selalulah berpikir memberikan yang terbaik untuk dirimu sendiri.
+22	Tapi selalulah berpikir memberikan yang terbaik untuk dirimu sendiri.
+23	Tapi selalulah berpikir memberikan yang terbaik untuk dirimu sendiri.
+24	Tapi selalulah berpikir memberikan yang terbaik untuk dirimu sendiri.
+25	Tapi selalulah berpikir memberikan yang terbaik untuk dirimu sendiri. Ketika bosmu nih gak lihat apa yang sudah kamu kasih yang terbaik, kamu tuh gak kalah.
+26	Ketika bosmu nih gak lihat apa yang sudah kamu kasih yang terbaik, kamu tuh gak kalah.
+27	Ketika bosmu nih gak lihat apa yang sudah kamu kasih yang terbaik, kamu tuh gak kalah.
+28	Ketika bosmu nih gak lihat apa yang sudah kamu kasih yang terbaik, kamu tuh gak kalah.
+29	Ketika bosmu nih gak lihat apa yang sudah kamu kasih yang terbaik, kamu tuh gak kalah.
+30	Ketika bosmu nih gak lihat apa yang sudah kamu kasih yang terbaik, kamu tuh gak kalah.
+31	Ketika bosmu nih gak lihat apa yang sudah kamu kasih yang terbaik, kamu tuh gak kalah.
+32	Ketika bosmu nih gak lihat apa yang sudah kamu kasih yang terbaik, kamu tuh gak kalah.
+33	Ketika bosmu nih gak lihat apa yang sudah kamu kasih yang terbaik, kamu tuh gak kalah.
+34	Ketika bosmu nih gak lihat apa yang sudah kamu kasih yang terbaik, kamu tuh gak kalah. Yang kalah itu dia.
+35	Ketika bosmu nih gak lihat apa yang sudah kamu kasih yang terbaik, kamu tuh gak kalah. Yang kalah itu dia.
+36	Yang kalah itu dia. Karena apa? Ketika kamu keluar dari sana, kamu keluar dengan kepala tegak,
+37	Karena apa? Ketika kamu keluar dari sana, kamu keluar dengan kepala tegak,
+38	Karena apa? Ketika kamu keluar dari sana, kamu keluar dengan kepala tegak,
+39	Karena apa? Ketika kamu keluar dari sana, kamu keluar dengan kepala tegak,
+40	Karena apa? Ketika kamu keluar dari sana, kamu keluar dengan kepala tegak,
+41	Karena apa? Ketika kamu keluar dari sana, kamu keluar dengan kepala tegak,
+42	Karena apa? Ketika kamu keluar dari sana, kamu keluar dengan kepala tegak,
+43	Karena apa? Ketika kamu keluar dari sana, kamu keluar dengan kepala tegak, dan kamu bisa membawa value itu ke tempat lain, dan tempat lain bisa melihat value itu.
+44	Karena apa? Ketika kamu keluar dari sana, kamu keluar dengan kepala tegak, dan kamu bisa membawa value itu ke tempat lain, dan tempat lain bisa melihat value itu.
+45	dan kamu bisa membawa value itu ke tempat lain, dan tempat lain bisa melihat value itu.
+46	dan kamu bisa membawa value itu ke tempat lain, dan tempat lain bisa melihat value itu.
+47	dan kamu bisa membawa value itu ke tempat lain, dan tempat lain bisa melihat value itu.
+48	dan kamu bisa membawa value itu ke tempat lain, dan tempat lain bisa melihat value itu.
+49	dan kamu bisa membawa value itu ke tempat lain, dan tempat lain bisa melihat value itu.
+50	dan kamu bisa membawa value itu ke tempat lain, dan tempat lain bisa melihat value itu. Saya selama di Kompas TV gak pernah minta kenaikan gaji.
+51	dan kamu bisa membawa value itu ke tempat lain, dan tempat lain bisa melihat value itu. Saya selama di Kompas TV gak pernah minta kenaikan gaji.
+52	Saya selama di Kompas TV gak pernah minta kenaikan gaji.
+53	Saya selama di Kompas TV gak pernah minta kenaikan gaji.
+54	Saya selama di Kompas TV gak pernah minta kenaikan gaji.
+55	Saya selama di Kompas TV gak pernah minta kenaikan gaji. Tapi saya gak pernah menurunkan kualitas diri saya.
+56	Saya selama di Kompas TV gak pernah minta kenaikan gaji. Tapi saya gak pernah menurunkan kualitas diri saya.
+57	Tapi saya gak pernah menurunkan kualitas diri saya.
+58	Tapi saya gak pernah menurunkan kualitas diri saya.
+59	Tapi saya gak pernah menurunkan kualitas diri saya. Tapi gaji saya naik dengan sendirinya.
+60	Tapi saya gak pernah menurunkan kualitas diri saya. Tapi gaji saya naik dengan sendirinya.
+61	Tapi gaji saya naik dengan sendirinya.
+62	Tapi gaji saya naik dengan sendirinya.
+63	Tapi gaji saya naik dengan sendirinya. Ketika kantor melihat kualitas saya, saya naik.
+64	Tapi gaji saya naik dengan sendirinya. Ketika kantor melihat kualitas saya, saya naik.
+65	Ketika kantor melihat kualitas saya, saya naik.
+66	Ketika kantor melihat kualitas saya, saya naik.
+67	Ketika kantor melihat kualitas saya, saya naik.
+68	Ketika kantor melihat kualitas saya, saya naik.
+69	[NO_SPEECH]
+70	[NO_SPEECH]
+71	[NO_SPEECH]
+72	[NO_SPEECH]

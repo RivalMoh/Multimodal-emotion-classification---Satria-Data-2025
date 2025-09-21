@@ -1,0 +1,92 @@
+0	Buka puasa pakai gorengan, siap-siap jadi masalah
+1	Buka puasa pakai gorengan, siap-siap jadi masalah
+2	Buka puasa pakai gorengan, siap-siap jadi masalah
+3	Buka puasa pakai gorengan, siap-siap jadi masalah
+4	Buka puasa pakai gorengan, siap-siap jadi masalah
+5	Buka puasa pakai gorengan, siap-siap jadi masalah
+6	Buka puasa pakai gorengan, siap-siap jadi masalah
+7	Buka puasa pakai gorengan, siap-siap jadi masalah Iya, masalah bagi kesehatan tubuh kamu
+8	Buka puasa pakai gorengan, siap-siap jadi masalah Iya, masalah bagi kesehatan tubuh kamu
+9	Iya, masalah bagi kesehatan tubuh kamu
+10	Iya, masalah bagi kesehatan tubuh kamu
+11	Iya, masalah bagi kesehatan tubuh kamu
+12	Iya, masalah bagi kesehatan tubuh kamu
+13	Iya, masalah bagi kesehatan tubuh kamu
+14	Iya, masalah bagi kesehatan tubuh kamu
+15	Iya, masalah bagi kesehatan tubuh kamu Apalagi saat berbuka puasa, pasti suka hilaf deh makan gorengan yang banyak
+16	Iya, masalah bagi kesehatan tubuh kamu Apalagi saat berbuka puasa, pasti suka hilaf deh makan gorengan yang banyak
+17	Apalagi saat berbuka puasa, pasti suka hilaf deh makan gorengan yang banyak
+18	Apalagi saat berbuka puasa, pasti suka hilaf deh makan gorengan yang banyak
+19	Apalagi saat berbuka puasa, pasti suka hilaf deh makan gorengan yang banyak
+20	Apalagi saat berbuka puasa, pasti suka hilaf deh makan gorengan yang banyak
+21	Apalagi saat berbuka puasa, pasti suka hilaf deh makan gorengan yang banyak
+22	Apalagi saat berbuka puasa, pasti suka hilaf deh makan gorengan yang banyak
+23	Apalagi saat berbuka puasa, pasti suka hilaf deh makan gorengan yang banyak
+24	Apalagi saat berbuka puasa, pasti suka hilaf deh makan gorengan yang banyak Tanpa tahu bahwa makin banyak gorengan yang kamu makan, lambung akan bekerja sangat keras untuk mencernanya loh
+25	Apalagi saat berbuka puasa, pasti suka hilaf deh makan gorengan yang banyak Tanpa tahu bahwa makin banyak gorengan yang kamu makan, lambung akan bekerja sangat keras untuk mencernanya loh
+26	Tanpa tahu bahwa makin banyak gorengan yang kamu makan, lambung akan bekerja sangat keras untuk mencernanya loh
+27	Tanpa tahu bahwa makin banyak gorengan yang kamu makan, lambung akan bekerja sangat keras untuk mencernanya loh
+28	Tanpa tahu bahwa makin banyak gorengan yang kamu makan, lambung akan bekerja sangat keras untuk mencernanya loh
+29	Tanpa tahu bahwa makin banyak gorengan yang kamu makan, lambung akan bekerja sangat keras untuk mencernanya loh
+30	Tanpa tahu bahwa makin banyak gorengan yang kamu makan, lambung akan bekerja sangat keras untuk mencernanya loh
+31	Tanpa tahu bahwa makin banyak gorengan yang kamu makan, lambung akan bekerja sangat keras untuk mencernanya loh
+32	Tanpa tahu bahwa makin banyak gorengan yang kamu makan, lambung akan bekerja sangat keras untuk mencernanya loh
+33	Tanpa tahu bahwa makin banyak gorengan yang kamu makan, lambung akan bekerja sangat keras untuk mencernanya loh
+34	Tanpa tahu bahwa makin banyak gorengan yang kamu makan, lambung akan bekerja sangat keras untuk mencernanya loh
+35	Tanpa tahu bahwa makin banyak gorengan yang kamu makan, lambung akan bekerja sangat keras untuk mencernanya loh
+36	Tanpa tahu bahwa makin banyak gorengan yang kamu makan, lambung akan bekerja sangat keras untuk mencernanya loh
+37	Tanpa tahu bahwa makin banyak gorengan yang kamu makan, lambung akan bekerja sangat keras untuk mencernanya loh Selain itu juga bikin tenggorokan kering, mual, diare, batuk-batuk, hingga perut kembung
+38	Tanpa tahu bahwa makin banyak gorengan yang kamu makan, lambung akan bekerja sangat keras untuk mencernanya loh Selain itu juga bikin tenggorokan kering, mual, diare, batuk-batuk, hingga perut kembung
+39	Selain itu juga bikin tenggorokan kering, mual, diare, batuk-batuk, hingga perut kembung
+40	Selain itu juga bikin tenggorokan kering, mual, diare, batuk-batuk, hingga perut kembung
+41	Selain itu juga bikin tenggorokan kering, mual, diare, batuk-batuk, hingga perut kembung
+42	Selain itu juga bikin tenggorokan kering, mual, diare, batuk-batuk, hingga perut kembung
+43	Selain itu juga bikin tenggorokan kering, mual, diare, batuk-batuk, hingga perut kembung
+44	Selain itu juga bikin tenggorokan kering, mual, diare, batuk-batuk, hingga perut kembung
+45	Selain itu juga bikin tenggorokan kering, mual, diare, batuk-batuk, hingga perut kembung
+46	Selain itu juga bikin tenggorokan kering, mual, diare, batuk-batuk, hingga perut kembung
+47	Selain itu juga bikin tenggorokan kering, mual, diare, batuk-batuk, hingga perut kembung
+48	Selain itu juga bikin tenggorokan kering, mual, diare, batuk-batuk, hingga perut kembung
+49	Selain itu juga bikin tenggorokan kering, mual, diare, batuk-batuk, hingga perut kembung
+50	Selain itu juga bikin tenggorokan kering, mual, diare, batuk-batuk, hingga perut kembung
+51	Selain itu juga bikin tenggorokan kering, mual, diare, batuk-batuk, hingga perut kembung
+52	Selain itu juga bikin tenggorokan kering, mual, diare, batuk-batuk, hingga perut kembung
+53	Selain itu juga bikin tenggorokan kering, mual, diare, batuk-batuk, hingga perut kembung
+54	Selain itu juga bikin tenggorokan kering, mual, diare, batuk-batuk, hingga perut kembung
+55	Selain itu juga bikin tenggorokan kering, mual, diare, batuk-batuk, hingga perut kembung Nah, makanya biar kesehatanmu tetap terjaga selama puasa, konsumsi gorengannya lebih dibatasi lagi ya
+56	Selain itu juga bikin tenggorokan kering, mual, diare, batuk-batuk, hingga perut kembung Nah, makanya biar kesehatanmu tetap terjaga selama puasa, konsumsi gorengannya lebih dibatasi lagi ya
+57	Nah, makanya biar kesehatanmu tetap terjaga selama puasa, konsumsi gorengannya lebih dibatasi lagi ya
+58	Nah, makanya biar kesehatanmu tetap terjaga selama puasa, konsumsi gorengannya lebih dibatasi lagi ya
+59	Nah, makanya biar kesehatanmu tetap terjaga selama puasa, konsumsi gorengannya lebih dibatasi lagi ya
+60	Nah, makanya biar kesehatanmu tetap terjaga selama puasa, konsumsi gorengannya lebih dibatasi lagi ya
+61	Nah, makanya biar kesehatanmu tetap terjaga selama puasa, konsumsi gorengannya lebih dibatasi lagi ya
+62	Nah, makanya biar kesehatanmu tetap terjaga selama puasa, konsumsi gorengannya lebih dibatasi lagi ya
+63	Nah, makanya biar kesehatanmu tetap terjaga selama puasa, konsumsi gorengannya lebih dibatasi lagi ya
+64	Nah, makanya biar kesehatanmu tetap terjaga selama puasa, konsumsi gorengannya lebih dibatasi lagi ya
+65	Nah, makanya biar kesehatanmu tetap terjaga selama puasa, konsumsi gorengannya lebih dibatasi lagi ya
+66	Nah, makanya biar kesehatanmu tetap terjaga selama puasa, konsumsi gorengannya lebih dibatasi lagi ya
+67	Nah, makanya biar kesehatanmu tetap terjaga selama puasa, konsumsi gorengannya lebih dibatasi lagi ya
+68	Nah, makanya biar kesehatanmu tetap terjaga selama puasa, konsumsi gorengannya lebih dibatasi lagi ya
+69	Nah, makanya biar kesehatanmu tetap terjaga selama puasa, konsumsi gorengannya lebih dibatasi lagi ya Dan lebih baik kamu masak sendiri dengan mengatur takaran minyaknya dan jangan digoreng berkali-kali ya sobat sehat
+70	Nah, makanya biar kesehatanmu tetap terjaga selama puasa, konsumsi gorengannya lebih dibatasi lagi ya Dan lebih baik kamu masak sendiri dengan mengatur takaran minyaknya dan jangan digoreng berkali-kali ya sobat sehat
+71	Dan lebih baik kamu masak sendiri dengan mengatur takaran minyaknya dan jangan digoreng berkali-kali ya sobat sehat
+72	Dan lebih baik kamu masak sendiri dengan mengatur takaran minyaknya dan jangan digoreng berkali-kali ya sobat sehat
+73	Dan lebih baik kamu masak sendiri dengan mengatur takaran minyaknya dan jangan digoreng berkali-kali ya sobat sehat
+74	Dan lebih baik kamu masak sendiri dengan mengatur takaran minyaknya dan jangan digoreng berkali-kali ya sobat sehat
+75	Dan lebih baik kamu masak sendiri dengan mengatur takaran minyaknya dan jangan digoreng berkali-kali ya sobat sehat
+76	Dan lebih baik kamu masak sendiri dengan mengatur takaran minyaknya dan jangan digoreng berkali-kali ya sobat sehat
+77	Dan lebih baik kamu masak sendiri dengan mengatur takaran minyaknya dan jangan digoreng berkali-kali ya sobat sehat
+78	Dan lebih baik kamu masak sendiri dengan mengatur takaran minyaknya dan jangan digoreng berkali-kali ya sobat sehat
+79	Dan lebih baik kamu masak sendiri dengan mengatur takaran minyaknya dan jangan digoreng berkali-kali ya sobat sehat
+80	Dan lebih baik kamu masak sendiri dengan mengatur takaran minyaknya dan jangan digoreng berkali-kali ya sobat sehat
+81	Dan lebih baik kamu masak sendiri dengan mengatur takaran minyaknya dan jangan digoreng berkali-kali ya sobat sehat
+82	Dan lebih baik kamu masak sendiri dengan mengatur takaran minyaknya dan jangan digoreng berkali-kali ya sobat sehat
+83	Dan lebih baik kamu masak sendiri dengan mengatur takaran minyaknya dan jangan digoreng berkali-kali ya sobat sehat
+84	Dan lebih baik kamu masak sendiri dengan mengatur takaran minyaknya dan jangan digoreng berkali-kali ya sobat sehat
+85	Dan lebih baik kamu masak sendiri dengan mengatur takaran minyaknya dan jangan digoreng berkali-kali ya sobat sehat
+86	[NO_SPEECH]
+87	[NO_SPEECH]
+88	[NO_SPEECH]
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	[NO_SPEECH]

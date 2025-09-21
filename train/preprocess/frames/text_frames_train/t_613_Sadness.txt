@@ -1,0 +1,135 @@
+0	Ini kondisi kulit gue seminggu yang lalu, dan ini kondisi kulit gue di hari ini.
+1	Ini kondisi kulit gue seminggu yang lalu, dan ini kondisi kulit gue di hari ini.
+2	Ini kondisi kulit gue seminggu yang lalu, dan ini kondisi kulit gue di hari ini.
+3	Ini kondisi kulit gue seminggu yang lalu, dan ini kondisi kulit gue di hari ini.
+4	Ini kondisi kulit gue seminggu yang lalu, dan ini kondisi kulit gue di hari ini.
+5	Ini kondisi kulit gue seminggu yang lalu, dan ini kondisi kulit gue di hari ini.
+6	Ini kondisi kulit gue seminggu yang lalu, dan ini kondisi kulit gue di hari ini.
+7	Ini kondisi kulit gue seminggu yang lalu, dan ini kondisi kulit gue di hari ini.
+8	Ini kondisi kulit gue seminggu yang lalu, dan ini kondisi kulit gue di hari ini.
+9	Ini kondisi kulit gue seminggu yang lalu, dan ini kondisi kulit gue di hari ini. Ini adalah beberapa skincare yang gue pake buat recovery skin barrier yang rusak, dan semuanya no sponsor.
+10	Ini kondisi kulit gue seminggu yang lalu, dan ini kondisi kulit gue di hari ini. Ini adalah beberapa skincare yang gue pake buat recovery skin barrier yang rusak, dan semuanya no sponsor.
+11	Ini adalah beberapa skincare yang gue pake buat recovery skin barrier yang rusak, dan semuanya no sponsor.
+12	Ini adalah beberapa skincare yang gue pake buat recovery skin barrier yang rusak, dan semuanya no sponsor.
+13	Ini adalah beberapa skincare yang gue pake buat recovery skin barrier yang rusak, dan semuanya no sponsor.
+14	Ini adalah beberapa skincare yang gue pake buat recovery skin barrier yang rusak, dan semuanya no sponsor.
+15	Ini adalah beberapa skincare yang gue pake buat recovery skin barrier yang rusak, dan semuanya no sponsor.
+16	Ini adalah beberapa skincare yang gue pake buat recovery skin barrier yang rusak, dan semuanya no sponsor.
+17	Ini adalah beberapa skincare yang gue pake buat recovery skin barrier yang rusak, dan semuanya no sponsor.
+18	Ini adalah beberapa skincare yang gue pake buat recovery skin barrier yang rusak, dan semuanya no sponsor.
+19	Ini adalah beberapa skincare yang gue pake buat recovery skin barrier yang rusak, dan semuanya no sponsor.
+20	Ini adalah beberapa skincare yang gue pake buat recovery skin barrier yang rusak, dan semuanya no sponsor.
+21	Ini adalah beberapa skincare yang gue pake buat recovery skin barrier yang rusak, dan semuanya no sponsor.
+22	Ini adalah beberapa skincare yang gue pake buat recovery skin barrier yang rusak, dan semuanya no sponsor.
+23	Ini adalah beberapa skincare yang gue pake buat recovery skin barrier yang rusak, dan semuanya no sponsor. Pertama, micellar water.
+24	Pertama, micellar water.
+25	Pertama, micellar water. Kalo misalnya kulit gue tiba-tiba perih, gatel, dan gak cocok waktu trial skincare baru,
+26	Pertama, micellar water. Kalo misalnya kulit gue tiba-tiba perih, gatel, dan gak cocok waktu trial skincare baru,
+27	Kalo misalnya kulit gue tiba-tiba perih, gatel, dan gak cocok waktu trial skincare baru,
+28	Kalo misalnya kulit gue tiba-tiba perih, gatel, dan gak cocok waktu trial skincare baru,
+29	Kalo misalnya kulit gue tiba-tiba perih, gatel, dan gak cocok waktu trial skincare baru,
+30	Kalo misalnya kulit gue tiba-tiba perih, gatel, dan gak cocok waktu trial skincare baru,
+31	Kalo misalnya kulit gue tiba-tiba perih, gatel, dan gak cocok waktu trial skincare baru,
+32	Kalo misalnya kulit gue tiba-tiba perih, gatel, dan gak cocok waktu trial skincare baru,
+33	Kalo misalnya kulit gue tiba-tiba perih, gatel, dan gak cocok waktu trial skincare baru,
+34	Kalo misalnya kulit gue tiba-tiba perih, gatel, dan gak cocok waktu trial skincare baru,
+35	Kalo misalnya kulit gue tiba-tiba perih, gatel, dan gak cocok waktu trial skincare baru, gue selalu pake Something Calm Down Micellar Water.
+36	Kalo misalnya kulit gue tiba-tiba perih, gatel, dan gak cocok waktu trial skincare baru, gue selalu pake Something Calm Down Micellar Water.
+37	gue selalu pake Something Calm Down Micellar Water.
+38	gue selalu pake Something Calm Down Micellar Water.
+39	gue selalu pake Something Calm Down Micellar Water.
+40	gue selalu pake Something Calm Down Micellar Water. Ini tuh formulasinya bagus banget buat bantu nenangin kulit.
+41	gue selalu pake Something Calm Down Micellar Water. Ini tuh formulasinya bagus banget buat bantu nenangin kulit.
+42	Ini tuh formulasinya bagus banget buat bantu nenangin kulit.
+43	Ini tuh formulasinya bagus banget buat bantu nenangin kulit.
+44	Ini tuh formulasinya bagus banget buat bantu nenangin kulit.
+45	Ini tuh formulasinya bagus banget buat bantu nenangin kulit.
+46	Ini tuh formulasinya bagus banget buat bantu nenangin kulit.
+47	Ini tuh formulasinya bagus banget buat bantu nenangin kulit. Lanjut ke face wash.
+48	Ini tuh formulasinya bagus banget buat bantu nenangin kulit. Lanjut ke face wash.
+49	Lanjut ke face wash.
+50	Lanjut ke face wash. Kemarin gue repurchase My Holy Grail Face Wash dari Avoskin.
+51	Lanjut ke face wash. Kemarin gue repurchase My Holy Grail Face Wash dari Avoskin.
+52	Kemarin gue repurchase My Holy Grail Face Wash dari Avoskin.
+53	Kemarin gue repurchase My Holy Grail Face Wash dari Avoskin.
+54	Kemarin gue repurchase My Holy Grail Face Wash dari Avoskin.
+55	Kemarin gue repurchase My Holy Grail Face Wash dari Avoskin.
+56	Kemarin gue repurchase My Holy Grail Face Wash dari Avoskin. Ini tuh daya bersihnya efektif banget, dan after dibilasnya bikin kulit berasa lembab.
+57	Kemarin gue repurchase My Holy Grail Face Wash dari Avoskin. Ini tuh daya bersihnya efektif banget, dan after dibilasnya bikin kulit berasa lembab.
+58	Ini tuh daya bersihnya efektif banget, dan after dibilasnya bikin kulit berasa lembab.
+59	Ini tuh daya bersihnya efektif banget, dan after dibilasnya bikin kulit berasa lembab.
+60	Ini tuh daya bersihnya efektif banget, dan after dibilasnya bikin kulit berasa lembab.
+61	Ini tuh daya bersihnya efektif banget, dan after dibilasnya bikin kulit berasa lembab.
+62	Ini tuh daya bersihnya efektif banget, dan after dibilasnya bikin kulit berasa lembab.
+63	Ini tuh daya bersihnya efektif banget, dan after dibilasnya bikin kulit berasa lembab.
+64	Ini tuh daya bersihnya efektif banget, dan after dibilasnya bikin kulit berasa lembab.
+65	Ini tuh daya bersihnya efektif banget, dan after dibilasnya bikin kulit berasa lembab.
+66	Ini tuh daya bersihnya efektif banget, dan after dibilasnya bikin kulit berasa lembab.
+67	Ini tuh daya bersihnya efektif banget, dan after dibilasnya bikin kulit berasa lembab. Lanjut ke toner dan moisturizer.
+68	Lanjut ke toner dan moisturizer.
+69	Lanjut ke toner dan moisturizer.
+70	Lanjut ke toner dan moisturizer. Karena kemarin kulit gue kering dan gatel, gue pake 2 produk ini buat recovery skin barrier gue yang rusak,
+71	Karena kemarin kulit gue kering dan gatel, gue pake 2 produk ini buat recovery skin barrier gue yang rusak,
+72	Karena kemarin kulit gue kering dan gatel, gue pake 2 produk ini buat recovery skin barrier gue yang rusak,
+73	Karena kemarin kulit gue kering dan gatel, gue pake 2 produk ini buat recovery skin barrier gue yang rusak,
+74	Karena kemarin kulit gue kering dan gatel, gue pake 2 produk ini buat recovery skin barrier gue yang rusak,
+75	Karena kemarin kulit gue kering dan gatel, gue pake 2 produk ini buat recovery skin barrier gue yang rusak,
+76	Karena kemarin kulit gue kering dan gatel, gue pake 2 produk ini buat recovery skin barrier gue yang rusak,
+77	Karena kemarin kulit gue kering dan gatel, gue pake 2 produk ini buat recovery skin barrier gue yang rusak,
+78	Karena kemarin kulit gue kering dan gatel, gue pake 2 produk ini buat recovery skin barrier gue yang rusak,
+79	Karena kemarin kulit gue kering dan gatel, gue pake 2 produk ini buat recovery skin barrier gue yang rusak,
+80	Karena kemarin kulit gue kering dan gatel, gue pake 2 produk ini buat recovery skin barrier gue yang rusak,
+81	Karena kemarin kulit gue kering dan gatel, gue pake 2 produk ini buat recovery skin barrier gue yang rusak,
+82	Karena kemarin kulit gue kering dan gatel, gue pake 2 produk ini buat recovery skin barrier gue yang rusak,
+83	Karena kemarin kulit gue kering dan gatel, gue pake 2 produk ini buat recovery skin barrier gue yang rusak, yaitu Ultra Calm Face Toner dari RH, dan juga Multi Purpose Calming Cream dia for dry and itchy skin.
+84	Karena kemarin kulit gue kering dan gatel, gue pake 2 produk ini buat recovery skin barrier gue yang rusak, yaitu Ultra Calm Face Toner dari RH, dan juga Multi Purpose Calming Cream dia for dry and itchy skin.
+85	yaitu Ultra Calm Face Toner dari RH, dan juga Multi Purpose Calming Cream dia for dry and itchy skin.
+86	yaitu Ultra Calm Face Toner dari RH, dan juga Multi Purpose Calming Cream dia for dry and itchy skin.
+87	yaitu Ultra Calm Face Toner dari RH, dan juga Multi Purpose Calming Cream dia for dry and itchy skin.
+88	yaitu Ultra Calm Face Toner dari RH, dan juga Multi Purpose Calming Cream dia for dry and itchy skin.
+89	yaitu Ultra Calm Face Toner dari RH, dan juga Multi Purpose Calming Cream dia for dry and itchy skin.
+90	yaitu Ultra Calm Face Toner dari RH, dan juga Multi Purpose Calming Cream dia for dry and itchy skin.
+91	yaitu Ultra Calm Face Toner dari RH, dan juga Multi Purpose Calming Cream dia for dry and itchy skin.
+92	yaitu Ultra Calm Face Toner dari RH, dan juga Multi Purpose Calming Cream dia for dry and itchy skin.
+93	yaitu Ultra Calm Face Toner dari RH, dan juga Multi Purpose Calming Cream dia for dry and itchy skin.
+94	yaitu Ultra Calm Face Toner dari RH, dan juga Multi Purpose Calming Cream dia for dry and itchy skin.
+95	yaitu Ultra Calm Face Toner dari RH, dan juga Multi Purpose Calming Cream dia for dry and itchy skin.
+96	yaitu Ultra Calm Face Toner dari RH, dan juga Multi Purpose Calming Cream dia for dry and itchy skin.
+97	yaitu Ultra Calm Face Toner dari RH, dan juga Multi Purpose Calming Cream dia for dry and itchy skin. Terakhir, sunscreen.
+98	yaitu Ultra Calm Face Toner dari RH, dan juga Multi Purpose Calming Cream dia for dry and itchy skin. Terakhir, sunscreen.
+99	Terakhir, sunscreen.
+100	Terakhir, sunscreen. Karena kulit gue kemarin lagi kering, jadi gue menghindari sunscreen yang finishnya matte.
+101	Karena kulit gue kemarin lagi kering, jadi gue menghindari sunscreen yang finishnya matte.
+102	Karena kulit gue kemarin lagi kering, jadi gue menghindari sunscreen yang finishnya matte.
+103	Karena kulit gue kemarin lagi kering, jadi gue menghindari sunscreen yang finishnya matte.
+104	Karena kulit gue kemarin lagi kering, jadi gue menghindari sunscreen yang finishnya matte.
+105	Karena kulit gue kemarin lagi kering, jadi gue menghindari sunscreen yang finishnya matte.
+106	Karena kulit gue kemarin lagi kering, jadi gue menghindari sunscreen yang finishnya matte.
+107	Karena kulit gue kemarin lagi kering, jadi gue menghindari sunscreen yang finishnya matte.
+108	Karena kulit gue kemarin lagi kering, jadi gue menghindari sunscreen yang finishnya matte. Gue pake Bumi yang Prime Defense Daily Sunscreen,
+109	Gue pake Bumi yang Prime Defense Daily Sunscreen,
+110	Gue pake Bumi yang Prime Defense Daily Sunscreen,
+111	Gue pake Bumi yang Prime Defense Daily Sunscreen,
+112	Gue pake Bumi yang Prime Defense Daily Sunscreen,
+113	Gue pake Bumi yang Prime Defense Daily Sunscreen,
+114	Gue pake Bumi yang Prime Defense Daily Sunscreen,
+115	Gue pake Bumi yang Prime Defense Daily Sunscreen,
+116	Gue pake Bumi yang Prime Defense Daily Sunscreen, karena dia kaya akan emollient, jadi feelsnya tuh ngelembapin di kulit gue.
+117	Gue pake Bumi yang Prime Defense Daily Sunscreen, karena dia kaya akan emollient, jadi feelsnya tuh ngelembapin di kulit gue.
+118	karena dia kaya akan emollient, jadi feelsnya tuh ngelembapin di kulit gue.
+119	karena dia kaya akan emollient, jadi feelsnya tuh ngelembapin di kulit gue.
+120	karena dia kaya akan emollient, jadi feelsnya tuh ngelembapin di kulit gue.
+121	karena dia kaya akan emollient, jadi feelsnya tuh ngelembapin di kulit gue.
+122	karena dia kaya akan emollient, jadi feelsnya tuh ngelembapin di kulit gue.
+123	karena dia kaya akan emollient, jadi feelsnya tuh ngelembapin di kulit gue. Oke that's it, semoga video gue ini bisa membantu.
+124	Oke that's it, semoga video gue ini bisa membantu.
+125	Oke that's it, semoga video gue ini bisa membantu.
+126	Oke that's it, semoga video gue ini bisa membantu.
+127	Oke that's it, semoga video gue ini bisa membantu. Kalo kalian ada pertanyaan, yuk kita ngobrol di comment.
+128	Oke that's it, semoga video gue ini bisa membantu. Kalo kalian ada pertanyaan, yuk kita ngobrol di comment.
+129	Kalo kalian ada pertanyaan, yuk kita ngobrol di comment.
+130	Kalo kalian ada pertanyaan, yuk kita ngobrol di comment.
+131	Kalo kalian ada pertanyaan, yuk kita ngobrol di comment.
+132	Kalo kalian ada pertanyaan, yuk kita ngobrol di comment.
+133	Kalo kalian ada pertanyaan, yuk kita ngobrol di comment.
+134	[NO_SPEECH]

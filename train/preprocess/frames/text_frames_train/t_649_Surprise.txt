@@ -1,0 +1,154 @@
+0	Hai, dan di malam live lagi sama aku, Dr. Hewan Specialist Ikan
+1	Hai, dan di malam live lagi sama aku, Dr. Hewan Specialist Ikan
+2	Hai, dan di malam live lagi sama aku, Dr. Hewan Specialist Ikan
+3	Hai, dan di malam live lagi sama aku, Dr. Hewan Specialist Ikan
+4	Hai, dan di malam live lagi sama aku, Dr. Hewan Specialist Ikan
+5	Hai, dan di malam live lagi sama aku, Dr. Hewan Specialist Ikan Pesan pertama aku, lokasi Ribintaro, ikan koi langak gini
+6	Hai, dan di malam live lagi sama aku, Dr. Hewan Specialist Ikan Pesan pertama aku, lokasi Ribintaro, ikan koi langak gini
+7	Pesan pertama aku, lokasi Ribintaro, ikan koi langak gini
+8	Pesan pertama aku, lokasi Ribintaro, ikan koi langak gini
+9	Pesan pertama aku, lokasi Ribintaro, ikan koi langak gini
+10	Pesan pertama aku, lokasi Ribintaro, ikan koi langak gini Seperti biasa, aku selalu mengevaluasi filtrasi yang ada
+11	Pesan pertama aku, lokasi Ribintaro, ikan koi langak gini Seperti biasa, aku selalu mengevaluasi filtrasi yang ada
+12	Pesan pertama aku, lokasi Ribintaro, ikan koi langak gini Seperti biasa, aku selalu mengevaluasi filtrasi yang ada
+13	Seperti biasa, aku selalu mengevaluasi filtrasi yang ada
+14	Seperti biasa, aku selalu mengevaluasi filtrasi yang ada
+15	Seperti biasa, aku selalu mengevaluasi filtrasi yang ada
+16	Seperti biasa, aku selalu mengevaluasi filtrasi yang ada Ternyata kolamnya tidak ada media biologisnya
+17	Seperti biasa, aku selalu mengevaluasi filtrasi yang ada Ternyata kolamnya tidak ada media biologisnya
+18	Ternyata kolamnya tidak ada media biologisnya
+19	Ternyata kolamnya tidak ada media biologisnya
+20	Ternyata kolamnya tidak ada media biologisnya Jadi aku serangkan owner untuk tambah media biologis
+21	Ternyata kolamnya tidak ada media biologisnya Jadi aku serangkan owner untuk tambah media biologis
+22	Jadi aku serangkan owner untuk tambah media biologis
+23	Jadi aku serangkan owner untuk tambah media biologis
+24	Jadi aku serangkan owner untuk tambah media biologis
+25	Jadi aku serangkan owner untuk tambah media biologis Dan ikan yang sakit, aku ambil untuk rawat inap
+26	Jadi aku serangkan owner untuk tambah media biologis Dan ikan yang sakit, aku ambil untuk rawat inap
+27	Dan ikan yang sakit, aku ambil untuk rawat inap
+28	Dan ikan yang sakit, aku ambil untuk rawat inap
+29	Dan ikan yang sakit, aku ambil untuk rawat inap
+30	Dan ikan yang sakit, aku ambil untuk rawat inap Next, aku menuju ke Jakarta Convention Center, Senayan
+31	Dan ikan yang sakit, aku ambil untuk rawat inap Next, aku menuju ke Jakarta Convention Center, Senayan
+32	Next, aku menuju ke Jakarta Convention Center, Senayan
+33	Next, aku menuju ke Jakarta Convention Center, Senayan
+34	Next, aku menuju ke Jakarta Convention Center, Senayan
+35	Next, aku menuju ke Jakarta Convention Center, Senayan Aku kesini untuk datang ke event Indo Fisheries
+36	Next, aku menuju ke Jakarta Convention Center, Senayan Aku kesini untuk datang ke event Indo Fisheries
+37	Next, aku menuju ke Jakarta Convention Center, Senayan Aku kesini untuk datang ke event Indo Fisheries
+38	Aku kesini untuk datang ke event Indo Fisheries
+39	Aku kesini untuk datang ke event Indo Fisheries
+40	Aku kesini untuk datang ke event Indo Fisheries
+41	Aku kesini untuk datang ke event Indo Fisheries Yang diadakan oleh Kementerian Kelautan dan Perikanan
+42	Aku kesini untuk datang ke event Indo Fisheries Yang diadakan oleh Kementerian Kelautan dan Perikanan
+43	Yang diadakan oleh Kementerian Kelautan dan Perikanan
+44	Yang diadakan oleh Kementerian Kelautan dan Perikanan
+45	Yang diadakan oleh Kementerian Kelautan dan Perikanan
+46	Yang diadakan oleh Kementerian Kelautan dan Perikanan Salut banget sebenernya sama pemerintah kita
+47	Yang diadakan oleh Kementerian Kelautan dan Perikanan Salut banget sebenernya sama pemerintah kita
+48	Salut banget sebenernya sama pemerintah kita
+49	Salut banget sebenernya sama pemerintah kita
+50	Salut banget sebenernya sama pemerintah kita Karena disini mereka bener-bener mengadepankan produk-produk Indonesia
+51	Salut banget sebenernya sama pemerintah kita Karena disini mereka bener-bener mengadepankan produk-produk Indonesia
+52	Karena disini mereka bener-bener mengadepankan produk-produk Indonesia
+53	Karena disini mereka bener-bener mengadepankan produk-produk Indonesia
+54	Karena disini mereka bener-bener mengadepankan produk-produk Indonesia
+55	Karena disini mereka bener-bener mengadepankan produk-produk Indonesia
+56	Karena disini mereka bener-bener mengadepankan produk-produk Indonesia
+57	Karena disini mereka bener-bener mengadepankan produk-produk Indonesia Mereka ingin menunjukkan bahwa produk-produk yang kita punya tidak kalah baik dengan produk luar
+58	Karena disini mereka bener-bener mengadepankan produk-produk Indonesia Mereka ingin menunjukkan bahwa produk-produk yang kita punya tidak kalah baik dengan produk luar
+59	Mereka ingin menunjukkan bahwa produk-produk yang kita punya tidak kalah baik dengan produk luar
+60	Mereka ingin menunjukkan bahwa produk-produk yang kita punya tidak kalah baik dengan produk luar
+61	Mereka ingin menunjukkan bahwa produk-produk yang kita punya tidak kalah baik dengan produk luar
+62	Mereka ingin menunjukkan bahwa produk-produk yang kita punya tidak kalah baik dengan produk luar
+63	Mereka ingin menunjukkan bahwa produk-produk yang kita punya tidak kalah baik dengan produk luar
+64	Mereka ingin menunjukkan bahwa produk-produk yang kita punya tidak kalah baik dengan produk luar
+65	Mereka ingin menunjukkan bahwa produk-produk yang kita punya tidak kalah baik dengan produk luar Ini aku nyobain crab stick, rasanya enak banget
+66	Mereka ingin menunjukkan bahwa produk-produk yang kita punya tidak kalah baik dengan produk luar Ini aku nyobain crab stick, rasanya enak banget
+67	Ini aku nyobain crab stick, rasanya enak banget
+68	Ini aku nyobain crab stick, rasanya enak banget
+69	Ini aku nyobain crab stick, rasanya enak banget Aku lapar banget, belum makan dari SD
+70	Ini aku nyobain crab stick, rasanya enak banget Aku lapar banget, belum makan dari SD
+71	Aku lapar banget, belum makan dari SD
+72	Aku lapar banget, belum makan dari SD Di busnya ke Kementerian Pindustrian, aku lumayan amazed
+73	Aku lapar banget, belum makan dari SD Di busnya ke Kementerian Pindustrian, aku lumayan amazed
+74	Di busnya ke Kementerian Pindustrian, aku lumayan amazed
+75	Di busnya ke Kementerian Pindustrian, aku lumayan amazed
+76	Di busnya ke Kementerian Pindustrian, aku lumayan amazed
+77	Di busnya ke Kementerian Pindustrian, aku lumayan amazed
+78	Di busnya ke Kementerian Pindustrian, aku lumayan amazed Ternyata Indonesia punya produk spirulina yang kualitasnya gak kalah dari luar
+79	Di busnya ke Kementerian Pindustrian, aku lumayan amazed Ternyata Indonesia punya produk spirulina yang kualitasnya gak kalah dari luar
+80	Ternyata Indonesia punya produk spirulina yang kualitasnya gak kalah dari luar
+81	Ternyata Indonesia punya produk spirulina yang kualitasnya gak kalah dari luar
+82	Ternyata Indonesia punya produk spirulina yang kualitasnya gak kalah dari luar
+83	Ternyata Indonesia punya produk spirulina yang kualitasnya gak kalah dari luar
+84	Ternyata Indonesia punya produk spirulina yang kualitasnya gak kalah dari luar
+85	Ternyata Indonesia punya produk spirulina yang kualitasnya gak kalah dari luar
+86	Ternyata Indonesia punya produk spirulina yang kualitasnya gak kalah dari luar Spirulina sendiri untuk ikan banyak manfaatnya, salah satunya untuk color enhancer
+87	Ternyata Indonesia punya produk spirulina yang kualitasnya gak kalah dari luar Spirulina sendiri untuk ikan banyak manfaatnya, salah satunya untuk color enhancer
+88	Spirulina sendiri untuk ikan banyak manfaatnya, salah satunya untuk color enhancer
+89	Spirulina sendiri untuk ikan banyak manfaatnya, salah satunya untuk color enhancer
+90	Spirulina sendiri untuk ikan banyak manfaatnya, salah satunya untuk color enhancer
+91	Spirulina sendiri untuk ikan banyak manfaatnya, salah satunya untuk color enhancer
+92	Spirulina sendiri untuk ikan banyak manfaatnya, salah satunya untuk color enhancer
+93	Spirulina sendiri untuk ikan banyak manfaatnya, salah satunya untuk color enhancer Bambang ini informatif banget, aku dijelasin banyak sama dia
+94	Spirulina sendiri untuk ikan banyak manfaatnya, salah satunya untuk color enhancer Bambang ini informatif banget, aku dijelasin banyak sama dia
+95	Bambang ini informatif banget, aku dijelasin banyak sama dia
+96	Bambang ini informatif banget, aku dijelasin banyak sama dia
+97	Bambang ini informatif banget, aku dijelasin banyak sama dia
+98	Bambang ini informatif banget, aku dijelasin banyak sama dia Kemendikbud juga keren banget, mereka tunjukin udah banyak sekolah-sekolah yang berinovasi di bidang perikanan
+99	Bambang ini informatif banget, aku dijelasin banyak sama dia Kemendikbud juga keren banget, mereka tunjukin udah banyak sekolah-sekolah yang berinovasi di bidang perikanan
+100	Kemendikbud juga keren banget, mereka tunjukin udah banyak sekolah-sekolah yang berinovasi di bidang perikanan
+101	Kemendikbud juga keren banget, mereka tunjukin udah banyak sekolah-sekolah yang berinovasi di bidang perikanan
+102	Kemendikbud juga keren banget, mereka tunjukin udah banyak sekolah-sekolah yang berinovasi di bidang perikanan
+103	Kemendikbud juga keren banget, mereka tunjukin udah banyak sekolah-sekolah yang berinovasi di bidang perikanan
+104	Kemendikbud juga keren banget, mereka tunjukin udah banyak sekolah-sekolah yang berinovasi di bidang perikanan
+105	Kemendikbud juga keren banget, mereka tunjukin udah banyak sekolah-sekolah yang berinovasi di bidang perikanan
+106	Kemendikbud juga keren banget, mereka tunjukin udah banyak sekolah-sekolah yang berinovasi di bidang perikanan
+107	Kemendikbud juga keren banget, mereka tunjukin udah banyak sekolah-sekolah yang berinovasi di bidang perikanan
+108	Kemendikbud juga keren banget, mereka tunjukin udah banyak sekolah-sekolah yang berinovasi di bidang perikanan
+109	Kemendikbud juga keren banget, mereka tunjukin udah banyak sekolah-sekolah yang berinovasi di bidang perikanan Di acara ini, pemerintah juga menghibur kita untuk makan lebih banyak protein
+110	Kemendikbud juga keren banget, mereka tunjukin udah banyak sekolah-sekolah yang berinovasi di bidang perikanan Di acara ini, pemerintah juga menghibur kita untuk makan lebih banyak protein
+111	Di acara ini, pemerintah juga menghibur kita untuk makan lebih banyak protein
+112	Di acara ini, pemerintah juga menghibur kita untuk makan lebih banyak protein
+113	Di acara ini, pemerintah juga menghibur kita untuk makan lebih banyak protein
+114	Di acara ini, pemerintah juga menghibur kita untuk makan lebih banyak protein
+115	Di acara ini, pemerintah juga menghibur kita untuk makan lebih banyak protein
+116	Di acara ini, pemerintah juga menghibur kita untuk makan lebih banyak protein Dan juga untuk mencari produk-produk yang lebih baik
+117	Di acara ini, pemerintah juga menghibur kita untuk makan lebih banyak protein Dan juga untuk mencari produk-produk yang lebih baik  Lewat sosialisasi SDTI
+118	Dan juga untuk mencari produk-produk yang lebih baik  Lewat sosialisasi SDTI
+119	Lewat sosialisasi SDTI SDTI itu susu daging telur ikan ya temen-temen
+120	Lewat sosialisasi SDTI SDTI itu susu daging telur ikan ya temen-temen
+121	SDTI itu susu daging telur ikan ya temen-temen
+122	SDTI itu susu daging telur ikan ya temen-temen
+123	SDTI itu susu daging telur ikan ya temen-temen
+124	SDTI itu susu daging telur ikan ya temen-temen
+125	SDTI itu susu daging telur ikan ya temen-temen
+126	SDTI itu susu daging telur ikan ya temen-temen Tidak sedikit vendor-vendor yang menunjukkan teknologi-teknologi terkini
+127	SDTI itu susu daging telur ikan ya temen-temen Tidak sedikit vendor-vendor yang menunjukkan teknologi-teknologi terkini
+128	Tidak sedikit vendor-vendor yang menunjukkan teknologi-teknologi terkini
+129	Tidak sedikit vendor-vendor yang menunjukkan teknologi-teknologi terkini
+130	Tidak sedikit vendor-vendor yang menunjukkan teknologi-teknologi terkini
+131	Tidak sedikit vendor-vendor yang menunjukkan teknologi-teknologi terkini
+132	Tidak sedikit vendor-vendor yang menunjukkan teknologi-teknologi terkini Event ini masih 2 hari lagi loh, sampai hari Jumat
+133	Tidak sedikit vendor-vendor yang menunjukkan teknologi-teknologi terkini Event ini masih 2 hari lagi loh, sampai hari Jumat
+134	Event ini masih 2 hari lagi loh, sampai hari Jumat
+135	Event ini masih 2 hari lagi loh, sampai hari Jumat
+136	Event ini masih 2 hari lagi loh, sampai hari Jumat
+137	Event ini masih 2 hari lagi loh, sampai hari Jumat Buruan datang kesini gak sih?
+138	Event ini masih 2 hari lagi loh, sampai hari Jumat Buruan datang kesini gak sih?
+139	Buruan datang kesini gak sih? Selama disini aku gagal fokus banget sama drone ini
+140	Buruan datang kesini gak sih? Selama disini aku gagal fokus banget sama drone ini
+141	Selama disini aku gagal fokus banget sama drone ini
+142	Selama disini aku gagal fokus banget sama drone ini
+143	Selama disini aku gagal fokus banget sama drone ini
+144	Selama disini aku gagal fokus banget sama drone ini
+145	Selama disini aku gagal fokus banget sama drone ini Ini super gede
+146	Selama disini aku gagal fokus banget sama drone ini Ini super gede
+147	Ini super gede
+148	Ini super gede Kira-kira fungsinya buat apa ya?
+149	Ini super gede Kira-kira fungsinya buat apa ya?
+150	Kira-kira fungsinya buat apa ya?
+151	Kira-kira fungsinya buat apa ya? Ya?
+152	Kira-kira fungsinya buat apa ya? Ya?
+153	Ya?

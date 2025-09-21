@@ -1,0 +1,119 @@
+0	[NO_SPEECH]
+1	Selamat pagi John
+2	Selamat pagi John
+3	Selamat pagi John
+4	Selamat pagi John
+5	Selamat pagi John Start dari UGM
+6	Selamat pagi John Start dari UGM
+7	Start dari UGM
+8	Start dari UGM
+9	Start dari UGM Malioboro
+10	Start dari UGM Malioboro
+11	Malioboro
+12	Malioboro
+13	Malioboro
+14	Malioboro Glory glory
+15	Malioboro Glory glory
+16	Glory glory
+17	Glory glory
+18	Glory glory Masuk ke benteng
+19	Glory glory Masuk ke benteng
+20	Masuk ke benteng
+21	Masuk ke benteng
+22	Masuk ke benteng
+23	Masuk ke benteng
+24	Masuk ke benteng Freddeburg
+25	Masuk ke benteng Freddeburg
+26	Freddeburg Depan istana
+27	Freddeburg Depan istana
+28	Depan istana
+29	Depan istana
+30	Depan istana
+31	Depan istana 4 kilo
+32	Depan istana 4 kilo
+33	4 kilo
+34	4 kilo
+35	4 kilo
+36	4 kilo
+37	4 kilo
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	[NO_SPEECH]
+59	[NO_SPEECH]
+60	[NO_SPEECH]
+61	[NO_SPEECH]
+62	[NO_SPEECH]
+63	[NO_SPEECH]
+64	[NO_SPEECH]
+65	[NO_SPEECH]
+66	[NO_SPEECH]
+67	[NO_SPEECH]
+68	[NO_SPEECH]
+69	[NO_SPEECH]
+70	[NO_SPEECH]
+71	[NO_SPEECH]
+72	Pijek
+73	Pijek Kopi
+74	Pijek Kopi
+75	Kopi
+76	Kopi Boka Ice Wet
+77	Kopi Boka Ice Wet
+78	Boka Ice Wet Run Hill Indonesia Bandung
+79	Boka Ice Wet Run Hill Indonesia Bandung
+80	Run Hill Indonesia Bandung
+81	Run Hill Indonesia Bandung
+82	Run Hill Indonesia Bandung Dersi Puma
+83	Run Hill Indonesia Bandung Dersi Puma
+84	Dersi Puma
+85	Dersi Puma
+86	Dersi Puma Jelana Unitro Dry X
+87	Dersi Puma Jelana Unitro Dry X
+88	Jelana Unitro Dry X
+89	Jelana Unitro Dry X
+90	Jelana Unitro Dry X
+91	Jelana Unitro Dry X
+92	Puma Deviant Nitro L3
+93	Puma Deviant Nitro L3
+94	Puma Deviant Nitro L3
+95	Puma Deviant Nitro L3
+96	Puma Deviant Nitro L3
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	[NO_SPEECH]
+104	[NO_SPEECH]
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	[NO_SPEECH]
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	[NO_SPEECH]
+113	[NO_SPEECH]
+114	[NO_SPEECH]
+115	[NO_SPEECH]
+116	[NO_SPEECH]
+117	[NO_SPEECH]
+118	[NO_SPEECH]

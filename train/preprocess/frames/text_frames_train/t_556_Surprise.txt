@@ -1,0 +1,136 @@
+0	Tasnya belum diambil, hahaha
+1	Tasnya belum diambil, hahaha Udah lama banget gak main tenis
+2	Tasnya belum diambil, hahaha Udah lama banget gak main tenis
+3	Udah lama banget gak main tenis
+4	Udah lama banget gak main tenis
+5	Udah lama banget gak main tenis
+6	Udah lama banget gak main tenis Hari ini kalian temenin aku main tenis
+7	Udah lama banget gak main tenis Hari ini kalian temenin aku main tenis
+8	Hari ini kalian temenin aku main tenis
+9	Hari ini kalian temenin aku main tenis
+10	Hari ini kalian temenin aku main tenis
+11	Hari ini kalian temenin aku main tenis
+12	Hari ini kalian temenin aku main tenis Semoga hari ini mainnya lancar
+13	Hari ini kalian temenin aku main tenis Semoga hari ini mainnya lancar
+14	Semoga hari ini mainnya lancar
+15	Semoga hari ini mainnya lancar Karena cuaca cukup panas
+16	Semoga hari ini mainnya lancar Karena cuaca cukup panas
+17	Karena cuaca cukup panas
+18	Karena cuaca cukup panas Jadi aku takut banget ada yang basah ya
+19	Karena cuaca cukup panas Jadi aku takut banget ada yang basah ya
+20	Jadi aku takut banget ada yang basah ya
+21	Jadi aku takut banget ada yang basah ya
+22	Jadi aku takut banget ada yang basah ya Tasnya belum diambil, hahaha
+23	Jadi aku takut banget ada yang basah ya Tasnya belum diambil, hahaha
+24	Tasnya belum diambil, hahaha
+25	Tasnya belum diambil, hahaha
+26	Tasnya belum diambil, hahaha
+27	Tasnya belum diambil, hahaha Let's go
+28	Let's go
+29	Let's go
+30	Let's go
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	Ah, capek
+35	Ah, capek
+36	Ah, capek
+37	Ah, capek Tadi-tadi sudah mulai di atas kepala ya
+38	Ah, capek Tadi-tadi sudah mulai di atas kepala ya
+39	Tadi-tadi sudah mulai di atas kepala ya
+40	Tadi-tadi sudah mulai di atas kepala ya
+41	Tadi-tadi sudah mulai di atas kepala ya
+42	Tadi-tadi sudah mulai di atas kepala ya
+43	Tadi-tadi sudah mulai di atas kepala ya Tepat-tepat, betul-betul
+44	Tadi-tadi sudah mulai di atas kepala ya Tepat-tepat, betul-betul
+45	Tepat-tepat, betul-betul Ah, capek banget
+46	Tepat-tepat, betul-betul Ah, capek banget
+47	Ah, capek banget
+48	Ah, capek banget
+49	Ah, capek banget
+50	Ah, capek banget
+51	Ah, capek banget
+52	Ah, capek banget
+53	Ah, capek banget
+54	Ah, capek banget Tapi Alhamdulillah masih aman
+55	Ah, capek banget Tapi Alhamdulillah masih aman
+56	Ah, capek banget Tapi Alhamdulillah masih aman
+57	Tapi Alhamdulillah masih aman
+58	Tapi Alhamdulillah masih aman Keti, gak basah
+59	Tapi Alhamdulillah masih aman Keti, gak basah
+60	Keti, gak basah
+61	Keti, gak basah Dan sepenciuman aku sih gak bau ya
+62	Keti, gak basah Dan sepenciuman aku sih gak bau ya
+63	Dan sepenciuman aku sih gak bau ya
+64	Dan sepenciuman aku sih gak bau ya
+65	Dan sepenciuman aku sih gak bau ya Nah, sebenernya tuh aku tipe yang
+66	Dan sepenciuman aku sih gak bau ya Nah, sebenernya tuh aku tipe yang
+67	Nah, sebenernya tuh aku tipe yang
+68	Nah, sebenernya tuh aku tipe yang
+69	Nah, sebenernya tuh aku tipe yang Kalo misalnya olahraga dikit
+70	Nah, sebenernya tuh aku tipe yang Kalo misalnya olahraga dikit
+71	Kalo misalnya olahraga dikit
+72	Kalo misalnya olahraga dikit Langsung gobiot sebadan-badan bisa langsung basah
+73	Kalo misalnya olahraga dikit Langsung gobiot sebadan-badan bisa langsung basah
+74	Langsung gobiot sebadan-badan bisa langsung basah
+75	Langsung gobiot sebadan-badan bisa langsung basah
+76	Langsung gobiot sebadan-badan bisa langsung basah
+77	Langsung gobiot sebadan-badan bisa langsung basah Sempur insecure karena susah kan mencari deodoran yang cocok
+78	Langsung gobiot sebadan-badan bisa langsung basah Sempur insecure karena susah kan mencari deodoran yang cocok
+79	Sempur insecure karena susah kan mencari deodoran yang cocok
+80	Sempur insecure karena susah kan mencari deodoran yang cocok
+81	Sempur insecure karena susah kan mencari deodoran yang cocok
+82	Sempur insecure karena susah kan mencari deodoran yang cocok
+83	Sempur insecure karena susah kan mencari deodoran yang cocok
+84	Sempur insecure karena susah kan mencari deodoran yang cocok Jadi tuh aku pakenya antiperspiran deodoran
+85	Sempur insecure karena susah kan mencari deodoran yang cocok Jadi tuh aku pakenya antiperspiran deodoran
+86	Jadi tuh aku pakenya antiperspiran deodoran
+87	Jadi tuh aku pakenya antiperspiran deodoran
+88	Jadi tuh aku pakenya antiperspiran deodoran
+89	Jadi tuh aku pakenya antiperspiran deodoran
+90	Jadi tuh aku pakenya antiperspiran deodoran Dari Posh Roll-On Hijab Kick Refreshing Cool
+91	Jadi tuh aku pakenya antiperspiran deodoran Dari Posh Roll-On Hijab Kick Refreshing Cool
+92	Dari Posh Roll-On Hijab Kick Refreshing Cool
+93	Dari Posh Roll-On Hijab Kick Refreshing Cool
+94	Dari Posh Roll-On Hijab Kick Refreshing Cool Karena cara kerja si Posh ini bukan cuma nahan bau keringat
+95	Dari Posh Roll-On Hijab Kick Refreshing Cool Karena cara kerja si Posh ini bukan cuma nahan bau keringat
+96	Karena cara kerja si Posh ini bukan cuma nahan bau keringat
+97	Karena cara kerja si Posh ini bukan cuma nahan bau keringat
+98	Karena cara kerja si Posh ini bukan cuma nahan bau keringat
+99	Karena cara kerja si Posh ini bukan cuma nahan bau keringat
+100	Karena cara kerja si Posh ini bukan cuma nahan bau keringat
+101	Karena cara kerja si Posh ini bukan cuma nahan bau keringat Tapi dia juga mengurangi keringat perlebihan pas olahraga
+102	Karena cara kerja si Posh ini bukan cuma nahan bau keringat Tapi dia juga mengurangi keringat perlebihan pas olahraga
+103	Tapi dia juga mengurangi keringat perlebihan pas olahraga
+104	Tapi dia juga mengurangi keringat perlebihan pas olahraga
+105	Tapi dia juga mengurangi keringat perlebihan pas olahraga
+106	Tapi dia juga mengurangi keringat perlebihan pas olahraga
+107	Tapi dia juga mengurangi keringat perlebihan pas olahraga Dan aku ngerasa keti aku kayak lebih cerah
+108	Tapi dia juga mengurangi keringat perlebihan pas olahraga Dan aku ngerasa keti aku kayak lebih cerah
+109	Dan aku ngerasa keti aku kayak lebih cerah
+110	Dan aku ngerasa keti aku kayak lebih cerah
+111	Dan aku ngerasa keti aku kayak lebih cerah Karena ternyata dia tuh ada kandungan bulu
+112	Dan aku ngerasa keti aku kayak lebih cerah Karena ternyata dia tuh ada kandungan bulu
+113	Karena ternyata dia tuh ada kandungan bulu
+114	Karena ternyata dia tuh ada kandungan bulu Dan dia tuh ada active burst fragrance
+115	Karena ternyata dia tuh ada kandungan bulu Dan dia tuh ada active burst fragrance
+116	Dan dia tuh ada active burst fragrance
+117	Dan dia tuh ada active burst fragrance
+118	Dan dia tuh ada active burst fragrance
+119	Dan dia tuh ada active burst fragrance
+120	Dan dia tuh ada active burst fragrance Jadi bisa mengurangi keringat berlebih
+121	Dan dia tuh ada active burst fragrance Jadi bisa mengurangi keringat berlebih
+122	Jadi bisa mengurangi keringat berlebih
+123	Jadi bisa mengurangi keringat berlebih Dan bau badan hingga 48 jam
+124	Jadi bisa mengurangi keringat berlebih Dan bau badan hingga 48 jam
+125	Dan bau badan hingga 48 jam
+126	Dan bau badan hingga 48 jam
+127	Dan bau badan hingga 48 jam Jadi udah gak ada lagi cerita gak pede
+128	Dan bau badan hingga 48 jam Jadi udah gak ada lagi cerita gak pede
+129	Jadi udah gak ada lagi cerita gak pede
+130	Jadi udah gak ada lagi cerita gak pede
+131	Jadi udah gak ada lagi cerita gak pede Ciao
+132	Jadi udah gak ada lagi cerita gak pede Ciao
+133	Ciao
+134	Ciao
+135	[NO_SPEECH]

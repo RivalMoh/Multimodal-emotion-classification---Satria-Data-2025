@@ -1,0 +1,113 @@
+0	cara menurunkan benda berat seperti galon atau tas belanjaan atau apapun dari mobil yang gampang dan aman untuk pinggang atau panggul kalian
+1	cara menurunkan benda berat seperti galon atau tas belanjaan atau apapun dari mobil yang gampang dan aman untuk pinggang atau panggul kalian
+2	cara menurunkan benda berat seperti galon atau tas belanjaan atau apapun dari mobil yang gampang dan aman untuk pinggang atau panggul kalian
+3	cara menurunkan benda berat seperti galon atau tas belanjaan atau apapun dari mobil yang gampang dan aman untuk pinggang atau panggul kalian
+4	cara menurunkan benda berat seperti galon atau tas belanjaan atau apapun dari mobil yang gampang dan aman untuk pinggang atau panggul kalian
+5	cara menurunkan benda berat seperti galon atau tas belanjaan atau apapun dari mobil yang gampang dan aman untuk pinggang atau panggul kalian
+6	cara menurunkan benda berat seperti galon atau tas belanjaan atau apapun dari mobil yang gampang dan aman untuk pinggang atau panggul kalian
+7	cara menurunkan benda berat seperti galon atau tas belanjaan atau apapun dari mobil yang gampang dan aman untuk pinggang atau panggul kalian
+8	cara menurunkan benda berat seperti galon atau tas belanjaan atau apapun dari mobil yang gampang dan aman untuk pinggang atau panggul kalian
+9	cara menurunkan benda berat seperti galon atau tas belanjaan atau apapun dari mobil yang gampang dan aman untuk pinggang atau panggul kalian
+10	cara menurunkan benda berat seperti galon atau tas belanjaan atau apapun dari mobil yang gampang dan aman untuk pinggang atau panggul kalian
+11	cara menurunkan benda berat seperti galon atau tas belanjaan atau apapun dari mobil yang gampang dan aman untuk pinggang atau panggul kalian
+12	cara menurunkan benda berat seperti galon atau tas belanjaan atau apapun dari mobil yang gampang dan aman untuk pinggang atau panggul kalian seperti ini, misalkan kalian mau menurunkan galon dari mobil
+13	cara menurunkan benda berat seperti galon atau tas belanjaan atau apapun dari mobil yang gampang dan aman untuk pinggang atau panggul kalian seperti ini, misalkan kalian mau menurunkan galon dari mobil
+14	seperti ini, misalkan kalian mau menurunkan galon dari mobil
+15	seperti ini, misalkan kalian mau menurunkan galon dari mobil
+16	seperti ini, misalkan kalian mau menurunkan galon dari mobil jadi kalian pegang galonnya dengan tangan kanan di sini dan tangan kiri di sini
+17	seperti ini, misalkan kalian mau menurunkan galon dari mobil jadi kalian pegang galonnya dengan tangan kanan di sini dan tangan kiri di sini
+18	seperti ini, misalkan kalian mau menurunkan galon dari mobil jadi kalian pegang galonnya dengan tangan kanan di sini dan tangan kiri di sini
+19	jadi kalian pegang galonnya dengan tangan kanan di sini dan tangan kiri di sini
+20	jadi kalian pegang galonnya dengan tangan kanan di sini dan tangan kiri di sini
+21	jadi kalian pegang galonnya dengan tangan kanan di sini dan tangan kiri di sini
+22	jadi kalian pegang galonnya dengan tangan kanan di sini dan tangan kiri di sini
+23	jadi kalian pegang galonnya dengan tangan kanan di sini dan tangan kiri di sini
+24	jadi kalian pegang galonnya dengan tangan kanan di sini dan tangan kiri di sini atau pegang dua-duanya di bawah juga tidak apa-apa
+25	jadi kalian pegang galonnya dengan tangan kanan di sini dan tangan kiri di sini atau pegang dua-duanya di bawah juga tidak apa-apa
+26	atau pegang dua-duanya di bawah juga tidak apa-apa
+27	atau pegang dua-duanya di bawah juga tidak apa-apa nah kuncinya di sini, kalian harus tekuk kakinya sedikit
+28	atau pegang dua-duanya di bawah juga tidak apa-apa nah kuncinya di sini, kalian harus tekuk kakinya sedikit
+29	atau pegang dua-duanya di bawah juga tidak apa-apa nah kuncinya di sini, kalian harus tekuk kakinya sedikit
+30	nah kuncinya di sini, kalian harus tekuk kakinya sedikit
+31	nah kuncinya di sini, kalian harus tekuk kakinya sedikit
+32	nah kuncinya di sini, kalian harus tekuk kakinya sedikit jadi biar bisa mengangkat itu pakai otot pahal kalian, kekuatannya bukan dari pinggang kalian
+33	nah kuncinya di sini, kalian harus tekuk kakinya sedikit jadi biar bisa mengangkat itu pakai otot pahal kalian, kekuatannya bukan dari pinggang kalian
+34	jadi biar bisa mengangkat itu pakai otot pahal kalian, kekuatannya bukan dari pinggang kalian
+35	jadi biar bisa mengangkat itu pakai otot pahal kalian, kekuatannya bukan dari pinggang kalian
+36	jadi biar bisa mengangkat itu pakai otot pahal kalian, kekuatannya bukan dari pinggang kalian
+37	jadi biar bisa mengangkat itu pakai otot pahal kalian, kekuatannya bukan dari pinggang kalian
+38	jadi biar bisa mengangkat itu pakai otot pahal kalian, kekuatannya bukan dari pinggang kalian
+39	jadi biar bisa mengangkat itu pakai otot pahal kalian, kekuatannya bukan dari pinggang kalian
+40	jadi biar bisa mengangkat itu pakai otot pahal kalian, kekuatannya bukan dari pinggang kalian
+41	jadi biar bisa mengangkat itu pakai otot pahal kalian, kekuatannya bukan dari pinggang kalian jadi begini, tekuk sedikit, setelah itu angkat
+42	jadi biar bisa mengangkat itu pakai otot pahal kalian, kekuatannya bukan dari pinggang kalian jadi begini, tekuk sedikit, setelah itu angkat
+43	jadi begini, tekuk sedikit, setelah itu angkat
+44	jadi begini, tekuk sedikit, setelah itu angkat
+45	jadi begini, tekuk sedikit, setelah itu angkat
+46	jadi begini, tekuk sedikit, setelah itu angkat
+47	jadi begini, tekuk sedikit, setelah itu angkat nah, kalau mau menurunkan juga gampang
+48	jadi begini, tekuk sedikit, setelah itu angkat nah, kalau mau menurunkan juga gampang
+49	nah, kalau mau menurunkan juga gampang
+50	nah, kalau mau menurunkan juga gampang
+51	nah, kalau mau menurunkan juga gampang misalkan kalian sudah selesai mengangkat lalu mau menurunkan
+52	nah, kalau mau menurunkan juga gampang misalkan kalian sudah selesai mengangkat lalu mau menurunkan
+53	misalkan kalian sudah selesai mengangkat lalu mau menurunkan
+54	misalkan kalian sudah selesai mengangkat lalu mau menurunkan
+55	misalkan kalian sudah selesai mengangkat lalu mau menurunkan seperti ini, kalian jongkok saja seperti ini
+56	misalkan kalian sudah selesai mengangkat lalu mau menurunkan seperti ini, kalian jongkok saja seperti ini
+57	seperti ini, kalian jongkok saja seperti ini
+58	seperti ini, kalian jongkok saja seperti ini
+59	seperti ini, kalian jongkok saja seperti ini terus taruh
+60	terus taruh
+61	terus taruh
+62	terus taruh atau bisa juga dengan gaya lances
+63	atau bisa juga dengan gaya lances
+64	atau bisa juga dengan gaya lances
+65	atau bisa juga dengan gaya lances
+66	atau bisa juga dengan gaya lances jadi kalian memanjui kakinya satu seperti ini
+67	atau bisa juga dengan gaya lances jadi kalian memanjui kakinya satu seperti ini
+68	jadi kalian memanjui kakinya satu seperti ini
+69	jadi kalian memanjui kakinya satu seperti ini
+70	jadi kalian memanjui kakinya satu seperti ini lalu tekuk seperti ini
+71	lalu tekuk seperti ini
+72	lalu tekuk seperti ini
+73	lalu tekuk seperti ini nah, kalau tas belanjaan juga sama
+74	lalu tekuk seperti ini nah, kalau tas belanjaan juga sama
+75	nah, kalau tas belanjaan juga sama
+76	nah, kalau tas belanjaan juga sama
+77	nah, kalau tas belanjaan juga sama
+78	nah, kalau tas belanjaan juga sama
+79	nah, kalau tas belanjaan juga sama
+80	nah, kalau tas belanjaan juga sama ini kalian pegang tas belanjaannya
+81	ini kalian pegang tas belanjaannya
+82	ini kalian pegang tas belanjaannya
+83	ini kalian pegang tas belanjaannya
+84	ini kalian pegang tas belanjaannya lalu setelah itu kalian tekuk sedikit kakinya
+85	ini kalian pegang tas belanjaannya lalu setelah itu kalian tekuk sedikit kakinya
+86	lalu setelah itu kalian tekuk sedikit kakinya
+87	lalu setelah itu kalian tekuk sedikit kakinya
+88	lalu setelah itu kalian tekuk sedikit kakinya
+89	lalu setelah itu kalian tekuk sedikit kakinya
+90	lalu angkat
+91	lalu angkat kalau kalian seperti ini, tidak pakai tekuk
+92	lalu angkat kalau kalian seperti ini, tidak pakai tekuk
+93	kalau kalian seperti ini, tidak pakai tekuk
+94	kalau kalian seperti ini, tidak pakai tekuk
+95	kalau kalian seperti ini, tidak pakai tekuk
+96	kalau kalian seperti ini, tidak pakai tekuk
+97	kalau kalian seperti ini, tidak pakai tekuk
+98	kalau kalian seperti ini, tidak pakai tekuk nanti sumber tenaganya di sini
+99	kalau kalian seperti ini, tidak pakai tekuk nanti sumber tenaganya di sini
+100	nanti sumber tenaganya di sini
+101	nanti sumber tenaganya di sini itu yang membuat bojongan atau nyeri di sekitar sini
+102	nanti sumber tenaganya di sini itu yang membuat bojongan atau nyeri di sekitar sini
+103	nanti sumber tenaganya di sini itu yang membuat bojongan atau nyeri di sekitar sini
+104	itu yang membuat bojongan atau nyeri di sekitar sini
+105	itu yang membuat bojongan atau nyeri di sekitar sini
+106	itu yang membuat bojongan atau nyeri di sekitar sini
+107	itu yang membuat bojongan atau nyeri di sekitar sini
+108	itu yang membuat bojongan atau nyeri di sekitar sini semoga bermanfaat ya
+109	itu yang membuat bojongan atau nyeri di sekitar sini semoga bermanfaat ya
+110	semoga bermanfaat ya setehat
+111	semoga bermanfaat ya setehat
+112	setehat

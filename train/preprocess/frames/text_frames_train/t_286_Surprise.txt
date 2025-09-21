@@ -1,0 +1,103 @@
+0	Halo, selamat siang. Saya dengan Dr. Rufiana, SPDVE.
+1	Halo, selamat siang. Saya dengan Dr. Rufiana, SPDVE.
+2	Halo, selamat siang. Saya dengan Dr. Rufiana, SPDVE.
+3	Halo, selamat siang. Saya dengan Dr. Rufiana, SPDVE.
+4	Halo, selamat siang. Saya dengan Dr. Rufiana, SPDVE.
+5	Halo, selamat siang. Saya dengan Dr. Rufiana, SPDVE. Aku Dr. Sipa, dokter spesialis dermatologi, tenerologi, dan estetika.
+6	Halo, selamat siang. Saya dengan Dr. Rufiana, SPDVE. Aku Dr. Sipa, dokter spesialis dermatologi, tenerologi, dan estetika.
+7	Aku Dr. Sipa, dokter spesialis dermatologi, tenerologi, dan estetika.
+8	Aku Dr. Sipa, dokter spesialis dermatologi, tenerologi, dan estetika.
+9	Aku Dr. Sipa, dokter spesialis dermatologi, tenerologi, dan estetika.
+10	Aku Dr. Sipa, dokter spesialis dermatologi, tenerologi, dan estetika.
+11	Aku Dr. Sipa, dokter spesialis dermatologi, tenerologi, dan estetika.
+12	Aku Dr. Sipa, dokter spesialis dermatologi, tenerologi, dan estetika.
+13	Aku Dr. Sipa, dokter spesialis dermatologi, tenerologi, dan estetika.
+14	Aku Dr. Sipa, dokter spesialis dermatologi, tenerologi, dan estetika.
+15	Aku Dr. Sipa, dokter spesialis dermatologi, tenerologi, dan estetika. Jadi semua yang bertugas saat ini di Wardah Skin First Clinic adalah spesialis dermatologi, tenerologi, estetik.
+16	Jadi semua yang bertugas saat ini di Wardah Skin First Clinic adalah spesialis dermatologi, tenerologi, estetik.
+17	Jadi semua yang bertugas saat ini di Wardah Skin First Clinic adalah spesialis dermatologi, tenerologi, estetik.
+18	Jadi semua yang bertugas saat ini di Wardah Skin First Clinic adalah spesialis dermatologi, tenerologi, estetik.
+19	Jadi semua yang bertugas saat ini di Wardah Skin First Clinic adalah spesialis dermatologi, tenerologi, estetik.
+20	Jadi semua yang bertugas saat ini di Wardah Skin First Clinic adalah spesialis dermatologi, tenerologi, estetik.
+21	Jadi semua yang bertugas saat ini di Wardah Skin First Clinic adalah spesialis dermatologi, tenerologi, estetik.
+22	Jadi semua yang bertugas saat ini di Wardah Skin First Clinic adalah spesialis dermatologi, tenerologi, estetik.
+23	Jadi semua yang bertugas saat ini di Wardah Skin First Clinic adalah spesialis dermatologi, tenerologi, estetik.
+24	Jadi semua yang bertugas saat ini di Wardah Skin First Clinic adalah spesialis dermatologi, tenerologi, estetik.
+25	Jadi semua yang bertugas saat ini di Wardah Skin First Clinic adalah spesialis dermatologi, tenerologi, estetik.
+26	Jadi semua yang bertugas saat ini di Wardah Skin First Clinic adalah spesialis dermatologi, tenerologi, estetik.
+27	Jadi semua yang bertugas saat ini di Wardah Skin First Clinic adalah spesialis dermatologi, tenerologi, estetik.
+28	Jadi semua yang bertugas saat ini di Wardah Skin First Clinic adalah spesialis dermatologi, tenerologi, estetik.
+29	Jadi semua yang bertugas saat ini di Wardah Skin First Clinic adalah spesialis dermatologi, tenerologi, estetik. Di sini melakukan konsultasi dan berbasis AI.
+30	Jadi semua yang bertugas saat ini di Wardah Skin First Clinic adalah spesialis dermatologi, tenerologi, estetik. Di sini melakukan konsultasi dan berbasis AI.
+31	Di sini melakukan konsultasi dan berbasis AI.
+32	Di sini melakukan konsultasi dan berbasis AI.
+33	Di sini melakukan konsultasi dan berbasis AI.
+34	Di sini melakukan konsultasi dan berbasis AI.
+35	Di sini melakukan konsultasi dan berbasis AI.
+36	Di sini melakukan konsultasi dan berbasis AI. Jadi ada alat untuk mendeteksi jenis kulit kita itu jenis kulit yang apa.
+37	Jadi ada alat untuk mendeteksi jenis kulit kita itu jenis kulit yang apa.
+38	Jadi ada alat untuk mendeteksi jenis kulit kita itu jenis kulit yang apa.
+39	Jadi ada alat untuk mendeteksi jenis kulit kita itu jenis kulit yang apa.
+40	Jadi ada alat untuk mendeteksi jenis kulit kita itu jenis kulit yang apa.
+41	Jadi ada alat untuk mendeteksi jenis kulit kita itu jenis kulit yang apa.
+42	Jadi ada alat untuk mendeteksi jenis kulit kita itu jenis kulit yang apa.
+43	Jadi ada alat untuk mendeteksi jenis kulit kita itu jenis kulit yang apa.
+44	Jadi ada alat untuk mendeteksi jenis kulit kita itu jenis kulit yang apa. Kita meriksa menggunakan alat Bitmoji AI Deep Skin Analyzer.
+45	Jadi ada alat untuk mendeteksi jenis kulit kita itu jenis kulit yang apa. Kita meriksa menggunakan alat Bitmoji AI Deep Skin Analyzer.
+46	Kita meriksa menggunakan alat Bitmoji AI Deep Skin Analyzer.
+47	Kita meriksa menggunakan alat Bitmoji AI Deep Skin Analyzer.
+48	Kita meriksa menggunakan alat Bitmoji AI Deep Skin Analyzer.
+49	Kita meriksa menggunakan alat Bitmoji AI Deep Skin Analyzer.
+50	Kita meriksa menggunakan alat Bitmoji AI Deep Skin Analyzer.
+51	Kita meriksa menggunakan alat Bitmoji AI Deep Skin Analyzer.
+52	Kita meriksa menggunakan alat Bitmoji AI Deep Skin Analyzer.
+53	Kita meriksa menggunakan alat Bitmoji AI Deep Skin Analyzer.
+54	Kita meriksa menggunakan alat Bitmoji AI Deep Skin Analyzer. Dan nanti kita akan mendapat hasil yang sangat detail mengenai bagaimana ID buklinnya.
+55	Kita meriksa menggunakan alat Bitmoji AI Deep Skin Analyzer. Dan nanti kita akan mendapat hasil yang sangat detail mengenai bagaimana ID buklinnya.
+56	Dan nanti kita akan mendapat hasil yang sangat detail mengenai bagaimana ID buklinnya.
+57	Dan nanti kita akan mendapat hasil yang sangat detail mengenai bagaimana ID buklinnya.
+58	Dan nanti kita akan mendapat hasil yang sangat detail mengenai bagaimana ID buklinnya.
+59	Dan nanti kita akan mendapat hasil yang sangat detail mengenai bagaimana ID buklinnya.
+60	Dan nanti kita akan mendapat hasil yang sangat detail mengenai bagaimana ID buklinnya.
+61	Dan nanti kita akan mendapat hasil yang sangat detail mengenai bagaimana ID buklinnya.
+62	Dan nanti kita akan mendapat hasil yang sangat detail mengenai bagaimana ID buklinnya.
+63	Dan nanti kita akan mendapat hasil yang sangat detail mengenai bagaimana ID buklinnya.
+64	Dan nanti kita akan mendapat hasil yang sangat detail mengenai bagaimana ID buklinnya.
+65	Dan nanti kita akan mendapat hasil yang sangat detail mengenai bagaimana ID buklinnya. Nanti kalau di sini treatmentnya itu sifatnya non-invasive.
+66	Dan nanti kita akan mendapat hasil yang sangat detail mengenai bagaimana ID buklinnya. Nanti kalau di sini treatmentnya itu sifatnya non-invasive.
+67	Nanti kalau di sini treatmentnya itu sifatnya non-invasive.
+68	Nanti kalau di sini treatmentnya itu sifatnya non-invasive.
+69	Nanti kalau di sini treatmentnya itu sifatnya non-invasive.
+70	Nanti kalau di sini treatmentnya itu sifatnya non-invasive.
+71	Nanti kalau di sini treatmentnya itu sifatnya non-invasive.
+72	Nanti kalau di sini treatmentnya itu sifatnya non-invasive. Jadi nggak perlu takut nih abis treatment downtime-nya lama.
+73	Nanti kalau di sini treatmentnya itu sifatnya non-invasive. Jadi nggak perlu takut nih abis treatment downtime-nya lama.
+74	Jadi nggak perlu takut nih abis treatment downtime-nya lama.
+75	Jadi nggak perlu takut nih abis treatment downtime-nya lama.
+76	Jadi nggak perlu takut nih abis treatment downtime-nya lama.
+77	Jadi nggak perlu takut nih abis treatment downtime-nya lama.
+78	Jadi nggak perlu takut nih abis treatment downtime-nya lama.
+79	Jadi nggak perlu takut nih abis treatment downtime-nya lama. Itu nggak perlu khawatir karena abis treatment di sini mukanya langsung auto glowing.
+80	Jadi nggak perlu takut nih abis treatment downtime-nya lama. Itu nggak perlu khawatir karena abis treatment di sini mukanya langsung auto glowing.
+81	Itu nggak perlu khawatir karena abis treatment di sini mukanya langsung auto glowing.
+82	Itu nggak perlu khawatir karena abis treatment di sini mukanya langsung auto glowing.
+83	Itu nggak perlu khawatir karena abis treatment di sini mukanya langsung auto glowing.
+84	Itu nggak perlu khawatir karena abis treatment di sini mukanya langsung auto glowing.
+85	Itu nggak perlu khawatir karena abis treatment di sini mukanya langsung auto glowing.
+86	Itu nggak perlu khawatir karena abis treatment di sini mukanya langsung auto glowing.
+87	Itu nggak perlu khawatir karena abis treatment di sini mukanya langsung auto glowing.
+88	Itu nggak perlu khawatir karena abis treatment di sini mukanya langsung auto glowing.
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	[NO_SPEECH]
+95	[NO_SPEECH]
+96	[NO_SPEECH]
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]

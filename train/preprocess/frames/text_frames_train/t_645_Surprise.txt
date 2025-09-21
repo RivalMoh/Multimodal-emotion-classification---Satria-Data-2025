@@ -1,0 +1,108 @@
+0	Hah, dokter aku kesengat ikan pari
+1	Hah, dokter aku kesengat ikan pari
+2	Hah, dokter aku kesengat ikan pari
+3	Hah, dokter aku kesengat ikan pari Jadi kemarin aku dapet pasien ikan pari jenisnya Black Diamond
+4	Hah, dokter aku kesengat ikan pari Jadi kemarin aku dapet pasien ikan pari jenisnya Black Diamond
+5	Jadi kemarin aku dapet pasien ikan pari jenisnya Black Diamond
+6	Jadi kemarin aku dapet pasien ikan pari jenisnya Black Diamond
+7	Jadi kemarin aku dapet pasien ikan pari jenisnya Black Diamond
+8	Jadi kemarin aku dapet pasien ikan pari jenisnya Black Diamond
+9	Jadi kemarin aku dapet pasien ikan pari jenisnya Black Diamond
+10	Jadi kemarin aku dapet pasien ikan pari jenisnya Black Diamond Badannya banyak luka-luka karena trauma medical injury
+11	Jadi kemarin aku dapet pasien ikan pari jenisnya Black Diamond Badannya banyak luka-luka karena trauma medical injury
+12	Badannya banyak luka-luka karena trauma medical injury
+13	Badannya banyak luka-luka karena trauma medical injury
+14	Badannya banyak luka-luka karena trauma medical injury Atas persetujuan owner, ikan aku rawat, dirawat inap
+15	Badannya banyak luka-luka karena trauma medical injury Atas persetujuan owner, ikan aku rawat, dirawat inap
+16	Badannya banyak luka-luka karena trauma medical injury Atas persetujuan owner, ikan aku rawat, dirawat inap
+17	Atas persetujuan owner, ikan aku rawat, dirawat inap
+18	Atas persetujuan owner, ikan aku rawat, dirawat inap
+19	Atas persetujuan owner, ikan aku rawat, dirawat inap
+20	Atas persetujuan owner, ikan aku rawat, dirawat inap
+21	Atas persetujuan owner, ikan aku rawat, dirawat inap Luka-lukanya rutin, kita bersihkan setiap hari
+22	Atas persetujuan owner, ikan aku rawat, dirawat inap Luka-lukanya rutin, kita bersihkan setiap hari
+23	Luka-lukanya rutin, kita bersihkan setiap hari
+24	Luka-lukanya rutin, kita bersihkan setiap hari
+25	Luka-lukanya rutin, kita bersihkan setiap hari Beberapa luka, tumbuh jamurnya, kita bersihkan juga setiap hari
+26	Luka-lukanya rutin, kita bersihkan setiap hari Beberapa luka, tumbuh jamurnya, kita bersihkan juga setiap hari
+27	Beberapa luka, tumbuh jamurnya, kita bersihkan juga setiap hari
+28	Beberapa luka, tumbuh jamurnya, kita bersihkan juga setiap hari
+29	Beberapa luka, tumbuh jamurnya, kita bersihkan juga setiap hari
+30	Beberapa luka, tumbuh jamurnya, kita bersihkan juga setiap hari
+31	Beberapa luka, tumbuh jamurnya, kita bersihkan juga setiap hari
+32	Beberapa luka, tumbuh jamurnya, kita bersihkan juga setiap hari
+33	Beberapa luka, tumbuh jamurnya, kita bersihkan juga setiap hari Gak lupa aku berikan antibiotik, antiradang, dan vitamin
+34	Beberapa luka, tumbuh jamurnya, kita bersihkan juga setiap hari Gak lupa aku berikan antibiotik, antiradang, dan vitamin
+35	Gak lupa aku berikan antibiotik, antiradang, dan vitamin
+36	Gak lupa aku berikan antibiotik, antiradang, dan vitamin
+37	Gak lupa aku berikan antibiotik, antiradang, dan vitamin
+38	Gak lupa aku berikan antibiotik, antiradang, dan vitamin Ikan pari gak hanya air laut saja, tapi juga ada freshwater stingray
+39	Gak lupa aku berikan antibiotik, antiradang, dan vitamin Ikan pari gak hanya air laut saja, tapi juga ada freshwater stingray
+40	Ikan pari gak hanya air laut saja, tapi juga ada freshwater stingray
+41	Ikan pari gak hanya air laut saja, tapi juga ada freshwater stingray
+42	Ikan pari gak hanya air laut saja, tapi juga ada freshwater stingray
+43	Ikan pari gak hanya air laut saja, tapi juga ada freshwater stingray
+44	Ikan pari gak hanya air laut saja, tapi juga ada freshwater stingray
+45	Ikan pari gak hanya air laut saja, tapi juga ada freshwater stingray
+46	Ikan pari gak hanya air laut saja, tapi juga ada freshwater stingray
+47	Ikan pari gak hanya air laut saja, tapi juga ada freshwater stingray Stingnya beracun juga loh, tapi gak high venom
+48	Ikan pari gak hanya air laut saja, tapi juga ada freshwater stingray Stingnya beracun juga loh, tapi gak high venom
+49	Stingnya beracun juga loh, tapi gak high venom
+50	Stingnya beracun juga loh, tapi gak high venom
+51	Stingnya beracun juga loh, tapi gak high venom Dokter Amel waktu lagi mau nyerok gak sengaja jarinya ini jaraknya terlalu dekat sama ikannya
+52	Stingnya beracun juga loh, tapi gak high venom Dokter Amel waktu lagi mau nyerok gak sengaja jarinya ini jaraknya terlalu dekat sama ikannya
+53	Dokter Amel waktu lagi mau nyerok gak sengaja jarinya ini jaraknya terlalu dekat sama ikannya
+54	Dokter Amel waktu lagi mau nyerok gak sengaja jarinya ini jaraknya terlalu dekat sama ikannya
+55	Dokter Amel waktu lagi mau nyerok gak sengaja jarinya ini jaraknya terlalu dekat sama ikannya
+56	Dokter Amel waktu lagi mau nyerok gak sengaja jarinya ini jaraknya terlalu dekat sama ikannya
+57	Dokter Amel waktu lagi mau nyerok gak sengaja jarinya ini jaraknya terlalu dekat sama ikannya
+58	Dokter Amel waktu lagi mau nyerok gak sengaja jarinya ini jaraknya terlalu dekat sama ikannya
+59	Dokter Amel waktu lagi mau nyerok gak sengaja jarinya ini jaraknya terlalu dekat sama ikannya
+60	Dokter Amel waktu lagi mau nyerok gak sengaja jarinya ini jaraknya terlalu dekat sama ikannya
+61	Dokter Amel waktu lagi mau nyerok gak sengaja jarinya ini jaraknya terlalu dekat sama ikannya
+62	Dokter Amel waktu lagi mau nyerok gak sengaja jarinya ini jaraknya terlalu dekat sama ikannya Jadilah dicium deh dia sama ikan pari
+63	Dokter Amel waktu lagi mau nyerok gak sengaja jarinya ini jaraknya terlalu dekat sama ikannya Jadilah dicium deh dia sama ikan pari
+64	Jadilah dicium deh dia sama ikan pari
+65	Jadilah dicium deh dia sama ikan pari
+66	Jadilah dicium deh dia sama ikan pari
+67	Jadilah dicium deh dia sama ikan pari Tapi karena memang ikan pari ini gak high venom
+68	Jadilah dicium deh dia sama ikan pari Tapi karena memang ikan pari ini gak high venom
+69	Tapi karena memang ikan pari ini gak high venom
+70	Tapi karena memang ikan pari ini gak high venom
+71	Tapi karena memang ikan pari ini gak high venom
+72	Tapi karena memang ikan pari ini gak high venom Efeknya gak akan sehebat seperti kalau kita kesengat ikan pari yang air laut
+73	Tapi karena memang ikan pari ini gak high venom Efeknya gak akan sehebat seperti kalau kita kesengat ikan pari yang air laut
+74	Efeknya gak akan sehebat seperti kalau kita kesengat ikan pari yang air laut
+75	Efeknya gak akan sehebat seperti kalau kita kesengat ikan pari yang air laut
+76	Efeknya gak akan sehebat seperti kalau kita kesengat ikan pari yang air laut
+77	Efeknya gak akan sehebat seperti kalau kita kesengat ikan pari yang air laut
+78	Efeknya gak akan sehebat seperti kalau kita kesengat ikan pari yang air laut
+79	Efeknya gak akan sehebat seperti kalau kita kesengat ikan pari yang air laut
+80	Efeknya gak akan sehebat seperti kalau kita kesengat ikan pari yang air laut
+81	Efeknya gak akan sehebat seperti kalau kita kesengat ikan pari yang air laut
+82	Efeknya gak akan sehebat seperti kalau kita kesengat ikan pari yang air laut Katanya sih bakal demam 3 hari
+83	Efeknya gak akan sehebat seperti kalau kita kesengat ikan pari yang air laut Katanya sih bakal demam 3 hari
+84	Katanya sih bakal demam 3 hari
+85	Katanya sih bakal demam 3 hari
+86	Katanya sih bakal demam 3 hari Aku sempet panik banget awalnya
+87	Katanya sih bakal demam 3 hari Aku sempet panik banget awalnya
+88	Aku sempet panik banget awalnya
+89	Aku sempet panik banget awalnya
+90	Aku sempet panik banget awalnya Soalnya dokter Amel sempet ngerasa mati rasa di bagian jempolnya
+91	Aku sempet panik banget awalnya Soalnya dokter Amel sempet ngerasa mati rasa di bagian jempolnya
+92	Soalnya dokter Amel sempet ngerasa mati rasa di bagian jempolnya
+93	Soalnya dokter Amel sempet ngerasa mati rasa di bagian jempolnya
+94	Soalnya dokter Amel sempet ngerasa mati rasa di bagian jempolnya
+95	Soalnya dokter Amel sempet ngerasa mati rasa di bagian jempolnya
+96	Soalnya dokter Amel sempet ngerasa mati rasa di bagian jempolnya Tapi sekarang dia baik-baik aja kok
+97	Soalnya dokter Amel sempet ngerasa mati rasa di bagian jempolnya Tapi sekarang dia baik-baik aja kok
+98	Tapi sekarang dia baik-baik aja kok
+99	Tapi sekarang dia baik-baik aja kok Yah, mungkin ini yang namanya resiko pekerjaan
+100	Tapi sekarang dia baik-baik aja kok Yah, mungkin ini yang namanya resiko pekerjaan
+101	Yah, mungkin ini yang namanya resiko pekerjaan
+102	Yah, mungkin ini yang namanya resiko pekerjaan
+103	Yah, mungkin ini yang namanya resiko pekerjaan
+104	Yah, mungkin ini yang namanya resiko pekerjaan
+105	Yah, mungkin ini yang namanya resiko pekerjaan
+106	[NO_SPEECH]
+107	[NO_SPEECH]

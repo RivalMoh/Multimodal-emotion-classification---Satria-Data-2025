@@ -1,0 +1,469 @@
+0	speed 1, 2, 3 itu sama aja
+1	speed 1, 2, 3 itu sama aja
+2	speed 1, 2, 3 itu sama aja Om Mobi sudah tes langsung
+3	speed 1, 2, 3 itu sama aja Om Mobi sudah tes langsung
+4	Om Mobi sudah tes langsung
+5	Om Mobi sudah tes langsung tunggu real segerikutnya
+6	Om Mobi sudah tes langsung tunggu real segerikutnya
+7	tunggu real segerikutnya
+8	tunggu real segerikutnya
+9	tunggu real segerikutnya
+10	nonton sampai habis, karena sekarang kami akan tes
+11	nonton sampai habis, karena sekarang kami akan tes
+12	nonton sampai habis, karena sekarang kami akan tes
+13	nonton sampai habis, karena sekarang kami akan tes
+14	nonton sampai habis, karena sekarang kami akan tes
+15	nonton sampai habis, karena sekarang kami akan tes perbedaan literan speed 1, 2, dan 3 pada suatu SPBU
+16	nonton sampai habis, karena sekarang kami akan tes perbedaan literan speed 1, 2, dan 3 pada suatu SPBU
+17	perbedaan literan speed 1, 2, dan 3 pada suatu SPBU
+18	perbedaan literan speed 1, 2, dan 3 pada suatu SPBU
+19	perbedaan literan speed 1, 2, dan 3 pada suatu SPBU
+20	perbedaan literan speed 1, 2, dan 3 pada suatu SPBU
+21	perbedaan literan speed 1, 2, dan 3 pada suatu SPBU
+22	perbedaan literan speed 1, 2, dan 3 pada suatu SPBU
+23	perbedaan literan speed 1, 2, dan 3 pada suatu SPBU
+24	perbedaan literan speed 1, 2, dan 3 pada suatu SPBU
+25	perbedaan literan speed 1, 2, dan 3 pada suatu SPBU
+26	perbedaan literan speed 1, 2, dan 3 pada suatu SPBU
+27	perbedaan literan speed 1, 2, dan 3 pada suatu SPBU nah di SPBU itu selalu gun nya, ini nozzle nya ada 3 settingan kecepatan biasanya
+28	perbedaan literan speed 1, 2, dan 3 pada suatu SPBU nah di SPBU itu selalu gun nya, ini nozzle nya ada 3 settingan kecepatan biasanya
+29	nah di SPBU itu selalu gun nya, ini nozzle nya ada 3 settingan kecepatan biasanya
+30	nah di SPBU itu selalu gun nya, ini nozzle nya ada 3 settingan kecepatan biasanya
+31	nah di SPBU itu selalu gun nya, ini nozzle nya ada 3 settingan kecepatan biasanya
+32	nah di SPBU itu selalu gun nya, ini nozzle nya ada 3 settingan kecepatan biasanya
+33	nah di SPBU itu selalu gun nya, ini nozzle nya ada 3 settingan kecepatan biasanya
+34	nah di SPBU itu selalu gun nya, ini nozzle nya ada 3 settingan kecepatan biasanya
+35	nah di SPBU itu selalu gun nya, ini nozzle nya ada 3 settingan kecepatan biasanya
+36	nah di SPBU itu selalu gun nya, ini nozzle nya ada 3 settingan kecepatan biasanya
+37	nah di SPBU itu selalu gun nya, ini nozzle nya ada 3 settingan kecepatan biasanya
+38	nah di SPBU itu selalu gun nya, ini nozzle nya ada 3 settingan kecepatan biasanya
+39	nah di SPBU itu selalu gun nya, ini nozzle nya ada 3 settingan kecepatan biasanya
+40	nah di SPBU itu selalu gun nya, ini nozzle nya ada 3 settingan kecepatan biasanya
+41	nah di SPBU itu selalu gun nya, ini nozzle nya ada 3 settingan kecepatan biasanya hmm, apakah masing-masing kecepatan itu literannya beda-beda?
+42	nah di SPBU itu selalu gun nya, ini nozzle nya ada 3 settingan kecepatan biasanya hmm, apakah masing-masing kecepatan itu literannya beda-beda?
+43	hmm, apakah masing-masing kecepatan itu literannya beda-beda?
+44	hmm, apakah masing-masing kecepatan itu literannya beda-beda?
+45	hmm, apakah masing-masing kecepatan itu literannya beda-beda?
+46	hmm, apakah masing-masing kecepatan itu literannya beda-beda?
+47	hmm, apakah masing-masing kecepatan itu literannya beda-beda?
+48	hmm, apakah masing-masing kecepatan itu literannya beda-beda?
+49	hmm, apakah masing-masing kecepatan itu literannya beda-beda?
+50	hmm, apakah masing-masing kecepatan itu literannya beda-beda? kita tes sekarang
+51	hmm, apakah masing-masing kecepatan itu literannya beda-beda? kita tes sekarang sampai jumpa dengan Pak Hikmat dari Badan Meteorologi
+52	kita tes sekarang sampai jumpa dengan Pak Hikmat dari Badan Meteorologi
+53	sampai jumpa dengan Pak Hikmat dari Badan Meteorologi
+54	sampai jumpa dengan Pak Hikmat dari Badan Meteorologi
+55	sampai jumpa dengan Pak Hikmat dari Badan Meteorologi Pak Hikmat
+56	sampai jumpa dengan Pak Hikmat dari Badan Meteorologi Pak Hikmat
+57	Pak Hikmat
+58	Pak Hikmat ini kita lagi tes apa nih Pak?
+59	ini kita lagi tes apa nih Pak?
+60	ini kita lagi tes apa nih Pak?
+61	ini kita lagi tes apa nih Pak? ini kita lagi melaksanakan Tera Pompat Ukur BBM
+62	ini kita lagi tes apa nih Pak? ini kita lagi melaksanakan Tera Pompat Ukur BBM
+63	ini kita lagi melaksanakan Tera Pompat Ukur BBM
+64	ini kita lagi melaksanakan Tera Pompat Ukur BBM
+65	ini kita lagi melaksanakan Tera Pompat Ukur BBM
+66	ini kita lagi melaksanakan Tera Pompat Ukur BBM
+67	ini kita lagi melaksanakan Tera Pompat Ukur BBM
+68	ini kita lagi melaksanakan Tera Pompat Ukur BBM jadi kita mengukur berapa liter yang keluar?
+69	ini kita lagi melaksanakan Tera Pompat Ukur BBM jadi kita mengukur berapa liter yang keluar?
+70	jadi kita mengukur berapa liter yang keluar?
+71	jadi kita mengukur berapa liter yang keluar?
+72	jadi kita mengukur berapa liter yang keluar?
+73	jadi kita mengukur berapa liter yang keluar?
+74	jadi kita mengukur berapa liter yang keluar? betul betul
+75	betul betul
+76	betul ini bejana berapa liter Pak?
+77	betul ini bejana berapa liter Pak?
+78	ini bejana berapa liter Pak?
+79	ini bejana berapa liter Pak? ini kita menggunakan bejana 20 liter
+80	ini bejana berapa liter Pak? ini kita menggunakan bejana 20 liter
+81	ini kita menggunakan bejana 20 liter
+82	ini kita menggunakan bejana 20 liter
+83	ini kita menggunakan bejana 20 liter 20 liter
+84	ini kita menggunakan bejana 20 liter 20 liter
+85	20 liter kenapa tidak pakai 1 liter saja Pak?
+86	20 liter kenapa tidak pakai 1 liter saja Pak?
+87	kenapa tidak pakai 1 liter saja Pak?
+88	kenapa tidak pakai 1 liter saja Pak?
+89	kenapa tidak pakai 1 liter saja Pak? jadi begini, dari spek dari dispensernya sendiri
+90	kenapa tidak pakai 1 liter saja Pak? jadi begini, dari spek dari dispensernya sendiri
+91	jadi begini, dari spek dari dispensernya sendiri
+92	jadi begini, dari spek dari dispensernya sendiri
+93	jadi begini, dari spek dari dispensernya sendiri
+94	jadi begini, dari spek dari dispensernya sendiri
+95	jadi begini, dari spek dari dispensernya sendiri
+96	jadi begini, dari spek dari dispensernya sendiri
+97	jadi begini, dari spek dari dispensernya sendiri itu ada namanya MMQ
+98	jadi begini, dari spek dari dispensernya sendiri itu ada namanya MMQ
+99	itu ada namanya MMQ
+100	itu ada namanya MMQ
+101	itu ada namanya MMQ Minimum Measurement Quantity
+102	itu ada namanya MMQ Minimum Measurement Quantity
+103	Minimum Measurement Quantity
+104	Minimum Measurement Quantity jadi kita menggunakan bejana yang bisa memenuhi MMQ tersebut
+105	Minimum Measurement Quantity jadi kita menggunakan bejana yang bisa memenuhi MMQ tersebut
+106	jadi kita menggunakan bejana yang bisa memenuhi MMQ tersebut
+107	jadi kita menggunakan bejana yang bisa memenuhi MMQ tersebut
+108	jadi kita menggunakan bejana yang bisa memenuhi MMQ tersebut
+109	jadi kita menggunakan bejana yang bisa memenuhi MMQ tersebut
+110	jadi kita menggunakan bejana yang bisa memenuhi MMQ tersebut
+111	jadi kita menggunakan bejana yang bisa memenuhi MMQ tersebut
+112	jadi kita menggunakan bejana yang bisa memenuhi MMQ tersebut kita tidak boleh mengukur kurang dari nilai tersebut
+113	jadi kita menggunakan bejana yang bisa memenuhi MMQ tersebut kita tidak boleh mengukur kurang dari nilai tersebut
+114	kita tidak boleh mengukur kurang dari nilai tersebut
+115	kita tidak boleh mengukur kurang dari nilai tersebut
+116	kita tidak boleh mengukur kurang dari nilai tersebut
+117	kita tidak boleh mengukur kurang dari nilai tersebut betul
+118	kita tidak boleh mengukur kurang dari nilai tersebut betul betul karena semakin kecil jumlah pengukuran, pasti semakin besar deviasinya
+119	betul betul karena semakin kecil jumlah pengukuran, pasti semakin besar deviasinya
+120	karena semakin kecil jumlah pengukuran, pasti semakin besar deviasinya
+121	karena semakin kecil jumlah pengukuran, pasti semakin besar deviasinya
+122	karena semakin kecil jumlah pengukuran, pasti semakin besar deviasinya
+123	karena semakin kecil jumlah pengukuran, pasti semakin besar deviasinya
+124	karena semakin kecil jumlah pengukuran, pasti semakin besar deviasinya
+125	karena semakin kecil jumlah pengukuran, pasti semakin besar deviasinya
+126	karena semakin kecil jumlah pengukuran, pasti semakin besar deviasinya
+127	karena semakin kecil jumlah pengukuran, pasti semakin besar deviasinya betul
+128	karena semakin kecil jumlah pengukuran, pasti semakin besar deviasinya betul oke, kita mulai sekarang
+129	betul oke, kita mulai sekarang
+130	oke, kita mulai sekarang
+131	oke, kita mulai sekarang
+132	oke, kita mulai sekarang
+133	oke, kita mulai sekarang
+134	oke, kita mulai sekarang speed 1, mas tolong di set
+135	oke, kita mulai sekarang speed 1, mas tolong di set
+136	speed 1, mas tolong di set
+137	speed 1, mas tolong di set
+138	speed 1, mas tolong di set
+139	speed 1, mas tolong di set
+140	speed 1, mas tolong di set
+141	[NO_SPEECH]
+142	20 liter
+143	20 liter
+144	20 liter
+145	20 liter start
+146	20 liter start
+147	start
+148	start
+149	start
+150	[NO_SPEECH]
+151	[NO_SPEECH]
+152	speed 1
+153	speed 1
+154	speed 1
+155	speed 1
+156	speed 1
+157	[NO_SPEECH]
+158	[NO_SPEECH]
+159	[NO_SPEECH]
+160	[NO_SPEECH]
+161	ya
+162	ya
+163	ya
+164	ya
+165	[NO_SPEECH]
+166	[NO_SPEECH]
+167	ini akan lama sekali kalau ditungguin
+168	ini akan lama sekali kalau ditungguin
+169	ini akan lama sekali kalau ditungguin
+170	ini akan lama sekali kalau ditungguin
+171	ini akan lama sekali kalau ditungguin
+172	ini akan lama sekali kalau ditungguin bayangin, kalau kita mengisi bensin
+173	ini akan lama sekali kalau ditungguin bayangin, kalau kita mengisi bensin
+174	bayangin, kalau kita mengisi bensin
+175	bayangin, kalau kita mengisi bensin isinya 50 liter
+176	bayangin, kalau kita mengisi bensin isinya 50 liter
+177	isinya 50 liter
+178	isinya 50 liter pakai speed 1, tidak selesai-selesai
+179	isinya 50 liter pakai speed 1, tidak selesai-selesai
+180	pakai speed 1, tidak selesai-selesai
+181	pakai speed 1, tidak selesai-selesai
+182	pakai speed 1, tidak selesai-selesai
+183	pakai speed 1, tidak selesai-selesai diantri orang, dimarahin orang
+184	pakai speed 1, tidak selesai-selesai diantri orang, dimarahin orang
+185	diantri orang, dimarahin orang
+186	diantri orang, dimarahin orang
+187	tuh, lambat banget
+188	tuh, lambat banget
+189	tuh, lambat banget
+190	tuh, lambat banget
+191	[NO_SPEECH]
+192	[NO_SPEECH]
+193	[NO_SPEECH]
+194	[NO_SPEECH]
+195	[NO_SPEECH]
+196	[NO_SPEECH]
+197	[NO_SPEECH]
+198	[NO_SPEECH]
+199	[NO_SPEECH]
+200	[NO_SPEECH]
+201	[NO_SPEECH]
+202	[NO_SPEECH]
+203	[NO_SPEECH]
+204	ya, 20
+205	ya, 20
+206	ya, 20 sip, sip
+207	ya, 20 sip, sip
+208	sip, sip angkat, angkat
+209	sip, sip angkat, angkat
+210	angkat, angkat angkat
+211	angkat, angkat angkat
+212	ya, plus 0
+213	ya, plus 0
+214	ya, plus 0 0
+215	ya, plus 0 0
+216	0
+217	0
+218	[NO_SPEECH]
+219	[NO_SPEECH]
+220	[NO_SPEECH]
+221	[NO_SPEECH]
+222	[NO_SPEECH]
+223	[NO_SPEECH]
+224	[NO_SPEECH]
+225	[NO_SPEECH]
+226	[NO_SPEECH]
+227	[NO_SPEECH]
+228	[NO_SPEECH]
+229	nah, ini kita sudah input 20 liter lagi
+230	nah, ini kita sudah input 20 liter lagi
+231	nah, ini kita sudah input 20 liter lagi
+232	nah, ini kita sudah input 20 liter lagi
+233	nah, ini kita sudah input 20 liter lagi
+234	nah, ini kita sudah input 20 liter lagi sekarang kita speed 2
+235	nah, ini kita sudah input 20 liter lagi sekarang kita speed 2
+236	sekarang kita speed 2
+237	sekarang kita speed 2 speed 2 itu di
+238	sekarang kita speed 2 speed 2 itu di
+239	speed 2 itu di
+240	speed 2 itu di yang di tengah ya
+241	speed 2 itu di yang di tengah ya
+242	yang di tengah ya ini trade yang kedua
+243	yang di tengah ya ini trade yang kedua
+244	ini trade yang kedua
+245	ini trade yang kedua
+246	ini trade yang kedua
+247	ini trade yang kedua oke
+248	oke
+249	oke
+250	[NO_SPEECH]
+251	oke, ini dari dekat jalannya nih
+252	oke, ini dari dekat jalannya nih
+253	oke, ini dari dekat jalannya nih
+254	oke, ini dari dekat jalannya nih
+255	oke, ini dari dekat jalannya nih
+256	oke, ini dari dekat jalannya nih
+257	[NO_SPEECH]
+258	[NO_SPEECH]
+259	[NO_SPEECH]
+260	1, 2, ya, yang kedua
+261	1, 2, ya, yang kedua
+262	1, 2, ya, yang kedua
+263	1, 2, ya, yang kedua
+264	1, 2, ya, yang kedua
+265	1, 2, ya, yang kedua
+266	1, 2, ya, yang kedua
+267	1, 2, ya, yang kedua
+268	[NO_SPEECH]
+269	[NO_SPEECH]
+270	lebih cepat daripada speed 1
+271	lebih cepat daripada speed 1
+272	lebih cepat daripada speed 1
+273	lebih cepat daripada speed 1
+274	lebih cepat daripada speed 1
+275	lebih cepat daripada speed 1 speed 1
+276	speed 1
+277	speed 1
+278	[NO_SPEECH]
+279	[NO_SPEECH]
+280	[NO_SPEECH]
+281	[NO_SPEECH]
+282	[NO_SPEECH]
+283	speed 2
+284	speed 2
+285	speed 2
+286	speed 2 speed 3
+287	speed 2 speed 3
+288	speed 3
+289	speed 3
+290	speed 3
+291	speed 3
+292	speed 3
+293	speed 3 speed 30
+294	speed 3 speed 30 speed 3
+295	speed 30 speed 3
+296	speed 3
+297	speed 3
+298	speed 3
+299	[NO_SPEECH]
+300	[NO_SPEECH]
+301	[NO_SPEECH]
+302	[NO_SPEECH]
+303	[NO_SPEECH]
+304	[NO_SPEECH]
+305	[NO_SPEECH]
+306	speed 4
+307	speed 4
+308	speed 4
+309	speed 4
+310	speed 4
+311	speed 4
+312	speed 4
+313	speed 4
+314	[NO_SPEECH]
+315	[NO_SPEECH]
+316	[NO_SPEECH]
+317	[NO_SPEECH]
+318	[NO_SPEECH]
+319	[NO_SPEECH]
+320	[NO_SPEECH]
+321	[NO_SPEECH]
+322	[NO_SPEECH]
+323	[NO_SPEECH]
+324	speed 5
+325	speed 5
+326	speed 5
+327	speed 5
+328	speed 5
+329	speed 5
+330	speed 5 speed 6
+331	speed 5 speed 6
+332	[NO_SPEECH]
+333	[NO_SPEECH]
+334	[NO_SPEECH]
+335	[NO_SPEECH]
+336	speed 8
+337	speed 8
+338	speed 8
+339	speed 8 speed 11
+340	speed 8 speed 11
+341	speed 11 oke, nya sulit
+342	speed 11 oke, nya sulit
+343	speed 11 oke, nya sulit
+344	oke, nya sulit
+345	oke, nya sulit
+346	oke, nya sulit
+347	oke, nya sulit
+348	oke, nya sulit
+349	oke, nya sulit
+350	oke, nya sulit
+351	oke, nya sulit
+352	oke, nya sulit
+353	oke, nya sulit
+354	oke, nya sulit
+355	oke, nya sulit
+356	oke, nya sulit
+357	oke, nya sulit                   gasmol, speed 3
+358	oke, nya sulit                   gasmol, speed 3
+359	gasmol, speed 3
+360	gasmol, speed 3
+361	[NO_SPEECH]
+362	[NO_SPEECH]
+363	[NO_SPEECH]
+364	[NO_SPEECH]
+365	[NO_SPEECH]
+366	[NO_SPEECH]
+367	[NO_SPEECH]
+368	[NO_SPEECH]
+369	[NO_SPEECH]
+370	[NO_SPEECH]
+371	[NO_SPEECH]
+372	[NO_SPEECH]
+373	[NO_SPEECH]
+374	[NO_SPEECH]
+375	[NO_SPEECH]
+376	[NO_SPEECH]
+377	[NO_SPEECH]
+378	[NO_SPEECH]
+379	[NO_SPEECH]
+380	cepet
+381	cepet
+382	cepet
+383	[NO_SPEECH]
+384	kalau gini antrian FBW itu makin pendek
+385	kalau gini antrian FBW itu makin pendek
+386	kalau gini antrian FBW itu makin pendek
+387	kalau gini antrian FBW itu makin pendek
+388	kalau gini antrian FBW itu makin pendek
+389	kalau gini antrian FBW itu makin pendek atau mungkin nggak ngantri kalau semua orang speed 3 kali
+390	kalau gini antrian FBW itu makin pendek atau mungkin nggak ngantri kalau semua orang speed 3 kali
+391	atau mungkin nggak ngantri kalau semua orang speed 3 kali
+392	atau mungkin nggak ngantri kalau semua orang speed 3 kali
+393	atau mungkin nggak ngantri kalau semua orang speed 3 kali
+394	atau mungkin nggak ngantri kalau semua orang speed 3 kali
+395	atau mungkin nggak ngantri kalau semua orang speed 3 kali
+396	[NO_SPEECH]
+397	[NO_SPEECH]
+398	[NO_SPEECH]
+399	[NO_SPEECH]
+400	[NO_SPEECH]
+401	[NO_SPEECH]
+402	[NO_SPEECH]
+403	[NO_SPEECH]
+404	[NO_SPEECH]
+405	[NO_SPEECH]
+406	[NO_SPEECH]
+407	[NO_SPEECH]
+408	[NO_SPEECH]
+409	[NO_SPEECH]
+410	[NO_SPEECH]
+411	[NO_SPEECH]
+412	[NO_SPEECH]
+413	[NO_SPEECH]
+414	oke, speed 3, berapa hasilnya?
+415	oke, speed 3, berapa hasilnya?
+416	oke, speed 3, berapa hasilnya?
+417	oke, speed 3, berapa hasilnya?
+418	oke, speed 3, berapa hasilnya?
+419	oke, speed 3, berapa hasilnya?
+420	oke, speed 3, berapa hasilnya?
+421	oke, speed 3, berapa hasilnya?
+422	oke, speed 3, berapa hasilnya? 0
+423	0
+424	0
+425	0
+426	[NO_SPEECH]
+427	[NO_SPEECH]
+428	[NO_SPEECH]
+429	[NO_SPEECH]
+430	nah, mudah-mudahan pengetesan ini bisa
+431	nah, mudah-mudahan pengetesan ini bisa
+432	nah, mudah-mudahan pengetesan ini bisa
+433	nah, mudah-mudahan pengetesan ini bisa
+434	nah, mudah-mudahan pengetesan ini bisa
+435	nah, mudah-mudahan pengetesan ini bisa
+436	nah, mudah-mudahan pengetesan ini bisa
+437	nah, mudah-mudahan pengetesan ini bisa
+438	nah, mudah-mudahan pengetesan ini bisa
+439	[NO_SPEECH]
+440	mengedukasi kita bahwa
+441	mengedukasi kita bahwa
+442	mengedukasi kita bahwa
+443	mengedukasi kita bahwa
+444	mengedukasi kita bahwa speed 1, 2, 3
+445	mengedukasi kita bahwa speed 1, 2, 3
+446	speed 1, 2, 3
+447	speed 1, 2, 3 pada no slice FBW itu
+448	speed 1, 2, 3 pada no slice FBW itu
+449	pada no slice FBW itu
+450	pada no slice FBW itu
+451	pada no slice FBW itu keluarnya
+452	pada no slice FBW itu keluarnya
+453	keluarnya sama
+454	keluarnya sama
+455	sama
+456	[NO_SPEECH]
+457	makasih pak hikmat
+458	makasih pak hikmat
+459	makasih pak hikmat sama-sama
+460	makasih pak hikmat sama-sama
+461	sama-sama
+462	[NO_SPEECH]
+463	[NO_SPEECH]
+464	[NO_SPEECH]
+465	[NO_SPEECH]
+466	[NO_SPEECH]
+467	[NO_SPEECH]
+468	[NO_SPEECH]

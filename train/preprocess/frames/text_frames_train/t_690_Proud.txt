@@ -1,0 +1,78 @@
+0	Emang ada di sini yang di rumah juga pakai sunscreen?
+1	Emang ada di sini yang di rumah juga pakai sunscreen?
+2	Emang ada di sini yang di rumah juga pakai sunscreen?
+3	Emang ada di sini yang di rumah juga pakai sunscreen?
+4	Emang ada di sini yang di rumah juga pakai sunscreen?
+5	Atau lagi masak pakai sunscreen?
+6	Atau lagi masak pakai sunscreen?
+7	Atau lagi masak pakai sunscreen?
+8	Atau lagi masak pakai sunscreen?
+9	Atau lagi masak pakai sunscreen? Nggak ngaruh.
+10	Nggak ngaruh.
+11	Nggak ngaruh. Yang pertama, di rumah itu nggak pakai sunscreen itu nggak masalah banget ya.
+12	Nggak ngaruh. Yang pertama, di rumah itu nggak pakai sunscreen itu nggak masalah banget ya.
+13	Yang pertama, di rumah itu nggak pakai sunscreen itu nggak masalah banget ya.
+14	Yang pertama, di rumah itu nggak pakai sunscreen itu nggak masalah banget ya.
+15	Yang pertama, di rumah itu nggak pakai sunscreen itu nggak masalah banget ya.
+16	Yang pertama, di rumah itu nggak pakai sunscreen itu nggak masalah banget ya.
+17	Yang pertama, di rumah itu nggak pakai sunscreen itu nggak masalah banget ya.
+18	Yang pertama, di rumah itu nggak pakai sunscreen itu nggak masalah banget ya. Apalagi kalau kalian tuh susah banget nyari sunscreen yang cocok di muka kalian, nggak usah.
+19	Yang pertama, di rumah itu nggak pakai sunscreen itu nggak masalah banget ya. Apalagi kalau kalian tuh susah banget nyari sunscreen yang cocok di muka kalian, nggak usah.
+20	Apalagi kalau kalian tuh susah banget nyari sunscreen yang cocok di muka kalian, nggak usah.
+21	Apalagi kalau kalian tuh susah banget nyari sunscreen yang cocok di muka kalian, nggak usah.
+22	Apalagi kalau kalian tuh susah banget nyari sunscreen yang cocok di muka kalian, nggak usah.
+23	Apalagi kalau kalian tuh susah banget nyari sunscreen yang cocok di muka kalian, nggak usah.
+24	Apalagi kalau kalian tuh susah banget nyari sunscreen yang cocok di muka kalian, nggak usah.
+25	Apalagi kalau kalian tuh susah banget nyari sunscreen yang cocok di muka kalian, nggak usah.
+26	Apalagi kalau kalian tuh susah banget nyari sunscreen yang cocok di muka kalian, nggak usah.
+27	Apalagi kalau kalian tuh susah banget nyari sunscreen yang cocok di muka kalian, nggak usah. Tapi kalau kalian mau kelihatan fresh aja ya nggak masalah lah ya pakai sunscreen.
+28	Apalagi kalau kalian tuh susah banget nyari sunscreen yang cocok di muka kalian, nggak usah. Tapi kalau kalian mau kelihatan fresh aja ya nggak masalah lah ya pakai sunscreen.
+29	Tapi kalau kalian mau kelihatan fresh aja ya nggak masalah lah ya pakai sunscreen.
+30	Tapi kalau kalian mau kelihatan fresh aja ya nggak masalah lah ya pakai sunscreen.
+31	Tapi kalau kalian mau kelihatan fresh aja ya nggak masalah lah ya pakai sunscreen.
+32	Tapi kalau kalian mau kelihatan fresh aja ya nggak masalah lah ya pakai sunscreen.
+33	Tapi kalau kalian mau kelihatan fresh aja ya nggak masalah lah ya pakai sunscreen. Tapi itu nggak fungsi juga.
+34	Tapi kalau kalian mau kelihatan fresh aja ya nggak masalah lah ya pakai sunscreen. Tapi itu nggak fungsi juga.
+35	Tapi itu nggak fungsi juga.
+36	Tapi itu nggak fungsi juga.
+37	Tapi itu nggak fungsi juga.
+38	Tapi itu nggak fungsi juga. Satu lagi, kalian masak pakai sunscreen buat apa?
+39	Satu lagi, kalian masak pakai sunscreen buat apa?
+40	Satu lagi, kalian masak pakai sunscreen buat apa?
+41	Satu lagi, kalian masak pakai sunscreen buat apa?
+42	Satu lagi, kalian masak pakai sunscreen buat apa?
+43	Satu lagi, kalian masak pakai sunscreen buat apa?
+44	Satu lagi, kalian masak pakai sunscreen buat apa? Biar flagnya nggak muncul, itu juga nggak ngaruh.
+45	Biar flagnya nggak muncul, itu juga nggak ngaruh.
+46	Biar flagnya nggak muncul, itu juga nggak ngaruh.
+47	Biar flagnya nggak muncul, itu juga nggak ngaruh.
+48	Biar flagnya nggak muncul, itu juga nggak ngaruh.
+49	Biar flagnya nggak muncul, itu juga nggak ngaruh. Kalian harus pakai masker supaya nahan panasnya itu.
+50	Kalian harus pakai masker supaya nahan panasnya itu.
+51	Kalian harus pakai masker supaya nahan panasnya itu.
+52	Kalian harus pakai masker supaya nahan panasnya itu.
+53	Kalian harus pakai masker supaya nahan panasnya itu.
+54	Kalian harus pakai masker supaya nahan panasnya itu.
+55	Kalian harus pakai masker supaya nahan panasnya itu. Kalau misalnya sunscreen doang tetap aja panasnya kena muka kan.
+56	Kalian harus pakai masker supaya nahan panasnya itu. Kalau misalnya sunscreen doang tetap aja panasnya kena muka kan.
+57	Kalau misalnya sunscreen doang tetap aja panasnya kena muka kan.
+58	Kalau misalnya sunscreen doang tetap aja panasnya kena muka kan.
+59	Kalau misalnya sunscreen doang tetap aja panasnya kena muka kan.
+60	Kalau misalnya sunscreen doang tetap aja panasnya kena muka kan.
+61	Kalau misalnya sunscreen doang tetap aja panasnya kena muka kan.
+62	Kalau misalnya sunscreen doang tetap aja panasnya kena muka kan. Jadi tetap aja memicu flagnya muncul lagi atau melasma kalian muncul lagi.
+63	Kalau misalnya sunscreen doang tetap aja panasnya kena muka kan. Jadi tetap aja memicu flagnya muncul lagi atau melasma kalian muncul lagi.
+64	Jadi tetap aja memicu flagnya muncul lagi atau melasma kalian muncul lagi.
+65	Jadi tetap aja memicu flagnya muncul lagi atau melasma kalian muncul lagi.
+66	Jadi tetap aja memicu flagnya muncul lagi atau melasma kalian muncul lagi.
+67	Jadi tetap aja memicu flagnya muncul lagi atau melasma kalian muncul lagi.
+68	Jadi tetap aja memicu flagnya muncul lagi atau melasma kalian muncul lagi.
+69	Jadi tetap aja memicu flagnya muncul lagi atau melasma kalian muncul lagi.
+70	Jadi tetap aja memicu flagnya muncul lagi atau melasma kalian muncul lagi. Jadi pakai masker ketika masak ya.
+71	Jadi tetap aja memicu flagnya muncul lagi atau melasma kalian muncul lagi. Jadi pakai masker ketika masak ya.
+72	Jadi pakai masker ketika masak ya.
+73	Jadi pakai masker ketika masak ya.
+74	Jadi pakai masker ketika masak ya.
+75	Jadi pakai masker ketika masak ya.
+76	Jadi pakai masker ketika masak ya.
+77	[NO_SPEECH]

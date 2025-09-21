@@ -1,0 +1,166 @@
+0	Kenalin pasien aku kali ini namanya Russell.
+1	Kenalin pasien aku kali ini namanya Russell.
+2	Kenalin pasien aku kali ini namanya Russell.
+3	Kenalin pasien aku kali ini namanya Russell.
+4	Kenalin pasien aku kali ini namanya Russell. Russell termasuk ikan jenis tamasaba sudah lama bernangnya terbalik.
+5	Kenalin pasien aku kali ini namanya Russell. Russell termasuk ikan jenis tamasaba sudah lama bernangnya terbalik.
+6	Russell termasuk ikan jenis tamasaba sudah lama bernangnya terbalik.
+7	Russell termasuk ikan jenis tamasaba sudah lama bernangnya terbalik.
+8	Russell termasuk ikan jenis tamasaba sudah lama bernangnya terbalik.
+9	Russell termasuk ikan jenis tamasaba sudah lama bernangnya terbalik.
+10	Russell termasuk ikan jenis tamasaba sudah lama bernangnya terbalik.
+11	Russell termasuk ikan jenis tamasaba sudah lama bernangnya terbalik. Sang owner sengaja beli dalam kondisi terbalik dengan maksud berusaha untuk menolong.
+12	Russell termasuk ikan jenis tamasaba sudah lama bernangnya terbalik. Sang owner sengaja beli dalam kondisi terbalik dengan maksud berusaha untuk menolong.
+13	Sang owner sengaja beli dalam kondisi terbalik dengan maksud berusaha untuk menolong.
+14	Sang owner sengaja beli dalam kondisi terbalik dengan maksud berusaha untuk menolong.
+15	Sang owner sengaja beli dalam kondisi terbalik dengan maksud berusaha untuk menolong.
+16	Sang owner sengaja beli dalam kondisi terbalik dengan maksud berusaha untuk menolong.
+17	Sang owner sengaja beli dalam kondisi terbalik dengan maksud berusaha untuk menolong.
+18	Sang owner sengaja beli dalam kondisi terbalik dengan maksud berusaha untuk menolong.
+19	Sang owner sengaja beli dalam kondisi terbalik dengan maksud berusaha untuk menolong.
+20	Sang owner sengaja beli dalam kondisi terbalik dengan maksud berusaha untuk menolong. Ternyata penyebab dia bernang kebalik karena memang lemak visceralnya ini banyak banget
+21	Sang owner sengaja beli dalam kondisi terbalik dengan maksud berusaha untuk menolong. Ternyata penyebab dia bernang kebalik karena memang lemak visceralnya ini banyak banget
+22	Ternyata penyebab dia bernang kebalik karena memang lemak visceralnya ini banyak banget
+23	Ternyata penyebab dia bernang kebalik karena memang lemak visceralnya ini banyak banget
+24	Ternyata penyebab dia bernang kebalik karena memang lemak visceralnya ini banyak banget
+25	Ternyata penyebab dia bernang kebalik karena memang lemak visceralnya ini banyak banget
+26	Ternyata penyebab dia bernang kebalik karena memang lemak visceralnya ini banyak banget
+27	Ternyata penyebab dia bernang kebalik karena memang lemak visceralnya ini banyak banget
+28	Ternyata penyebab dia bernang kebalik karena memang lemak visceralnya ini banyak banget
+29	Ternyata penyebab dia bernang kebalik karena memang lemak visceralnya ini banyak banget dan gelembung berenangnya yang ukurannya sangat besar.
+30	Ternyata penyebab dia bernang kebalik karena memang lemak visceralnya ini banyak banget dan gelembung berenangnya yang ukurannya sangat besar.
+31	dan gelembung berenangnya yang ukurannya sangat besar.
+32	dan gelembung berenangnya yang ukurannya sangat besar.
+33	dan gelembung berenangnya yang ukurannya sangat besar.
+34	dan gelembung berenangnya yang ukurannya sangat besar. Hal ini sering terjadi pada ikan jenis tamasaba dan goldfish
+35	Hal ini sering terjadi pada ikan jenis tamasaba dan goldfish
+36	Hal ini sering terjadi pada ikan jenis tamasaba dan goldfish
+37	Hal ini sering terjadi pada ikan jenis tamasaba dan goldfish
+38	Hal ini sering terjadi pada ikan jenis tamasaba dan goldfish
+39	Hal ini sering terjadi pada ikan jenis tamasaba dan goldfish
+40	Hal ini sering terjadi pada ikan jenis tamasaba dan goldfish
+41	Hal ini sering terjadi pada ikan jenis tamasaba dan goldfish karena memang bentuk tubuh mereka yang short body.
+42	Hal ini sering terjadi pada ikan jenis tamasaba dan goldfish karena memang bentuk tubuh mereka yang short body.
+43	karena memang bentuk tubuh mereka yang short body.
+44	karena memang bentuk tubuh mereka yang short body.
+45	karena memang bentuk tubuh mereka yang short body.
+46	karena memang bentuk tubuh mereka yang short body. Lemak visceralnya ini sangat tidak memungkinkan kita ambil.
+47	karena memang bentuk tubuh mereka yang short body. Lemak visceralnya ini sangat tidak memungkinkan kita ambil.
+48	Lemak visceralnya ini sangat tidak memungkinkan kita ambil.
+49	Lemak visceralnya ini sangat tidak memungkinkan kita ambil.
+50	Lemak visceralnya ini sangat tidak memungkinkan kita ambil.
+51	Lemak visceralnya ini sangat tidak memungkinkan kita ambil.
+52	Lemak visceralnya ini sangat tidak memungkinkan kita ambil. Sehingga yang kita lakukan adalah memotong usus Russell
+53	Lemak visceralnya ini sangat tidak memungkinkan kita ambil. Sehingga yang kita lakukan adalah memotong usus Russell
+54	Sehingga yang kita lakukan adalah memotong usus Russell
+55	Sehingga yang kita lakukan adalah memotong usus Russell
+56	Sehingga yang kita lakukan adalah memotong usus Russell
+57	Sehingga yang kita lakukan adalah memotong usus Russell
+58	Sehingga yang kita lakukan adalah memotong usus Russell jadi Russell bisa diet.
+59	Sehingga yang kita lakukan adalah memotong usus Russell jadi Russell bisa diet.
+60	jadi Russell bisa diet.
+61	jadi Russell bisa diet. Berhubung ukuran ikannya kecil jadi ukuran ususnya kecil banget.
+62	jadi Russell bisa diet. Berhubung ukuran ikannya kecil jadi ukuran ususnya kecil banget.
+63	Berhubung ukuran ikannya kecil jadi ukuran ususnya kecil banget.
+64	Berhubung ukuran ikannya kecil jadi ukuran ususnya kecil banget.
+65	Berhubung ukuran ikannya kecil jadi ukuran ususnya kecil banget.
+66	Berhubung ukuran ikannya kecil jadi ukuran ususnya kecil banget.
+67	Berhubung ukuran ikannya kecil jadi ukuran ususnya kecil banget.
+68	Berhubung ukuran ikannya kecil jadi ukuran ususnya kecil banget. Kayaknya ini usus terkecil yang pernah aku operasi deh.
+69	Berhubung ukuran ikannya kecil jadi ukuran ususnya kecil banget. Kayaknya ini usus terkecil yang pernah aku operasi deh.
+70	Kayaknya ini usus terkecil yang pernah aku operasi deh.
+71	Kayaknya ini usus terkecil yang pernah aku operasi deh.
+72	Kayaknya ini usus terkecil yang pernah aku operasi deh.
+73	Kayaknya ini usus terkecil yang pernah aku operasi deh.
+74	Kayaknya ini usus terkecil yang pernah aku operasi deh. Operasi berlangsung lumayan lama sekitar 2 jam karena memang harus detail banget.
+75	Kayaknya ini usus terkecil yang pernah aku operasi deh. Operasi berlangsung lumayan lama sekitar 2 jam karena memang harus detail banget.
+76	Operasi berlangsung lumayan lama sekitar 2 jam karena memang harus detail banget.
+77	Operasi berlangsung lumayan lama sekitar 2 jam karena memang harus detail banget.
+78	Operasi berlangsung lumayan lama sekitar 2 jam karena memang harus detail banget.
+79	Operasi berlangsung lumayan lama sekitar 2 jam karena memang harus detail banget.
+80	Operasi berlangsung lumayan lama sekitar 2 jam karena memang harus detail banget.
+81	Operasi berlangsung lumayan lama sekitar 2 jam karena memang harus detail banget.
+82	Operasi berlangsung lumayan lama sekitar 2 jam karena memang harus detail banget. Gara-gara ngoperasi Russell aku jadi baik searching-searching tentang tamasaba.
+83	Operasi berlangsung lumayan lama sekitar 2 jam karena memang harus detail banget. Gara-gara ngoperasi Russell aku jadi baik searching-searching tentang tamasaba.
+84	Gara-gara ngoperasi Russell aku jadi baik searching-searching tentang tamasaba.
+85	Gara-gara ngoperasi Russell aku jadi baik searching-searching tentang tamasaba.
+86	Gara-gara ngoperasi Russell aku jadi baik searching-searching tentang tamasaba.
+87	Gara-gara ngoperasi Russell aku jadi baik searching-searching tentang tamasaba.
+88	Gara-gara ngoperasi Russell aku jadi baik searching-searching tentang tamasaba.
+89	Gara-gara ngoperasi Russell aku jadi baik searching-searching tentang tamasaba.
+90	Gara-gara ngoperasi Russell aku jadi baik searching-searching tentang tamasaba. Ikan tamasaba ini asalnya dari Jepang
+91	Ikan tamasaba ini asalnya dari Jepang
+92	Ikan tamasaba ini asalnya dari Jepang
+93	Ikan tamasaba ini asalnya dari Jepang
+94	Ikan tamasaba ini asalnya dari Jepang tapi ternyata di Indonesia juga udah banyak yang jual loh asli dari Blitar.
+95	Ikan tamasaba ini asalnya dari Jepang tapi ternyata di Indonesia juga udah banyak yang jual loh asli dari Blitar.
+96	tapi ternyata di Indonesia juga udah banyak yang jual loh asli dari Blitar.
+97	tapi ternyata di Indonesia juga udah banyak yang jual loh asli dari Blitar.
+98	tapi ternyata di Indonesia juga udah banyak yang jual loh asli dari Blitar.
+99	tapi ternyata di Indonesia juga udah banyak yang jual loh asli dari Blitar.
+100	tapi ternyata di Indonesia juga udah banyak yang jual loh asli dari Blitar.
+101	tapi ternyata di Indonesia juga udah banyak yang jual loh asli dari Blitar.
+102	tapi ternyata di Indonesia juga udah banyak yang jual loh asli dari Blitar. Bentuknya tuh mirip sama goldfish jenis Ryukin tapi ekornya tunggal.
+103	Bentuknya tuh mirip sama goldfish jenis Ryukin tapi ekornya tunggal.
+104	Bentuknya tuh mirip sama goldfish jenis Ryukin tapi ekornya tunggal.
+105	Bentuknya tuh mirip sama goldfish jenis Ryukin tapi ekornya tunggal.
+106	Bentuknya tuh mirip sama goldfish jenis Ryukin tapi ekornya tunggal.
+107	Bentuknya tuh mirip sama goldfish jenis Ryukin tapi ekornya tunggal.
+108	Bentuknya tuh mirip sama goldfish jenis Ryukin tapi ekornya tunggal.
+109	Bentuknya tuh mirip sama goldfish jenis Ryukin tapi ekornya tunggal.
+110	Bentuknya tuh mirip sama goldfish jenis Ryukin tapi ekornya tunggal. Aku agak kurang paham gimana sejarahnya
+111	Bentuknya tuh mirip sama goldfish jenis Ryukin tapi ekornya tunggal. Aku agak kurang paham gimana sejarahnya
+112	Aku agak kurang paham gimana sejarahnya
+113	Aku agak kurang paham gimana sejarahnya
+114	Aku agak kurang paham gimana sejarahnya
+115	Aku agak kurang paham gimana sejarahnya tapi yang jelas setelah banyak peminatnya akhirnya diperbanyak sama Jepang
+116	Aku agak kurang paham gimana sejarahnya tapi yang jelas setelah banyak peminatnya akhirnya diperbanyak sama Jepang
+117	tapi yang jelas setelah banyak peminatnya akhirnya diperbanyak sama Jepang
+118	tapi yang jelas setelah banyak peminatnya akhirnya diperbanyak sama Jepang
+119	tapi yang jelas setelah banyak peminatnya akhirnya diperbanyak sama Jepang
+120	tapi yang jelas setelah banyak peminatnya akhirnya diperbanyak sama Jepang
+121	tapi yang jelas setelah banyak peminatnya akhirnya diperbanyak sama Jepang
+122	tapi yang jelas setelah banyak peminatnya akhirnya diperbanyak sama Jepang
+123	tapi yang jelas setelah banyak peminatnya akhirnya diperbanyak sama Jepang
+124	tapi yang jelas setelah banyak peminatnya akhirnya diperbanyak sama Jepang lalu diimpor ke Indonesia.
+125	tapi yang jelas setelah banyak peminatnya akhirnya diperbanyak sama Jepang lalu diimpor ke Indonesia.
+126	lalu diimpor ke Indonesia.
+127	lalu diimpor ke Indonesia. Harganya menurut aku masih relatif terjangkau.
+128	lalu diimpor ke Indonesia. Harganya menurut aku masih relatif terjangkau.
+129	Harganya menurut aku masih relatif terjangkau.
+130	Harganya menurut aku masih relatif terjangkau.
+131	Harganya menurut aku masih relatif terjangkau.
+132	Harganya menurut aku masih relatif terjangkau. Aku cek di aplikasi Master Koi Boat, bidnya masih di angka 100 ribu.
+133	Harganya menurut aku masih relatif terjangkau. Aku cek di aplikasi Master Koi Boat, bidnya masih di angka 100 ribu.
+134	Aku cek di aplikasi Master Koi Boat, bidnya masih di angka 100 ribu.
+135	Aku cek di aplikasi Master Koi Boat, bidnya masih di angka 100 ribu.
+136	Aku cek di aplikasi Master Koi Boat, bidnya masih di angka 100 ribu.
+137	Aku cek di aplikasi Master Koi Boat, bidnya masih di angka 100 ribu.
+138	Aku cek di aplikasi Master Koi Boat, bidnya masih di angka 100 ribu.
+139	Aku cek di aplikasi Master Koi Boat, bidnya masih di angka 100 ribu.
+140	Aku cek di aplikasi Master Koi Boat, bidnya masih di angka 100 ribu. Menurut aku ikan tamasaba ini cocok banget untuk kalian para pemula yang mau pihara ikan.
+141	Aku cek di aplikasi Master Koi Boat, bidnya masih di angka 100 ribu. Menurut aku ikan tamasaba ini cocok banget untuk kalian para pemula yang mau pihara ikan.
+142	Menurut aku ikan tamasaba ini cocok banget untuk kalian para pemula yang mau pihara ikan.
+143	Menurut aku ikan tamasaba ini cocok banget untuk kalian para pemula yang mau pihara ikan.
+144	Menurut aku ikan tamasaba ini cocok banget untuk kalian para pemula yang mau pihara ikan.
+145	Menurut aku ikan tamasaba ini cocok banget untuk kalian para pemula yang mau pihara ikan.
+146	Menurut aku ikan tamasaba ini cocok banget untuk kalian para pemula yang mau pihara ikan.
+147	Menurut aku ikan tamasaba ini cocok banget untuk kalian para pemula yang mau pihara ikan.
+148	Menurut aku ikan tamasaba ini cocok banget untuk kalian para pemula yang mau pihara ikan.
+149	Menurut aku ikan tamasaba ini cocok banget untuk kalian para pemula yang mau pihara ikan.
+150	Menurut aku ikan tamasaba ini cocok banget untuk kalian para pemula yang mau pihara ikan. Sayangnya Russell memang belum bertahan hari kelima pas ke operasi.
+151	Menurut aku ikan tamasaba ini cocok banget untuk kalian para pemula yang mau pihara ikan. Sayangnya Russell memang belum bertahan hari kelima pas ke operasi.
+152	Sayangnya Russell memang belum bertahan hari kelima pas ke operasi.
+153	Sayangnya Russell memang belum bertahan hari kelima pas ke operasi.
+154	Sayangnya Russell memang belum bertahan hari kelima pas ke operasi.
+155	Sayangnya Russell memang belum bertahan hari kelima pas ke operasi.
+156	Sayangnya Russell memang belum bertahan hari kelima pas ke operasi.
+157	Sayangnya Russell memang belum bertahan hari kelima pas ke operasi.
+158	Sayangnya Russell memang belum bertahan hari kelima pas ke operasi. Maafin aku Russell, swimming peace ya.
+159	Sayangnya Russell memang belum bertahan hari kelima pas ke operasi. Maafin aku Russell, swimming peace ya.
+160	Maafin aku Russell, swimming peace ya.
+161	Maafin aku Russell, swimming peace ya.
+162	Maafin aku Russell, swimming peace ya.
+163	Maafin aku Russell, swimming peace ya.
+164	[NO_SPEECH]
+165	[NO_SPEECH]

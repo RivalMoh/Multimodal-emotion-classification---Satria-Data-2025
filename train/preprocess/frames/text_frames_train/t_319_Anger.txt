@@ -1,0 +1,167 @@
+0	Bang, mending layar QLED atau UHD ya?
+1	Bang, mending layar QLED atau UHD ya?
+2	Bang, mending layar QLED atau UHD ya?
+3	Bang, mending layar QLED atau UHD ya? Layar buat dipake PC sama Xbox.
+4	Bang, mending layar QLED atau UHD ya? Layar buat dipake PC sama Xbox.
+5	Layar buat dipake PC sama Xbox.
+6	Layar buat dipake PC sama Xbox.
+7	Layar buat dipake PC sama Xbox.
+8	Layar buat dipake PC sama Xbox. Hmm, yang tanya agak mabuk kayaknya.
+9	Hmm, yang tanya agak mabuk kayaknya.
+10	Hmm, yang tanya agak mabuk kayaknya.
+11	Hmm, yang tanya agak mabuk kayaknya.
+12	Hmm, yang tanya agak mabuk kayaknya. Kalo lu tanya antara A atau B,
+13	Hmm, yang tanya agak mabuk kayaknya. Kalo lu tanya antara A atau B,
+14	Kalo lu tanya antara A atau B,
+15	Kalo lu tanya antara A atau B,
+16	Kalo lu tanya antara A atau B,
+17	Kalo lu tanya antara A atau B, pastiin keduanya itu bisa dibandingin.
+18	pastiin keduanya itu bisa dibandingin.
+19	pastiin keduanya itu bisa dibandingin.
+20	pastiin keduanya itu bisa dibandingin. QLED dan UHD itu bukan sesuatu perbandingan.
+21	pastiin keduanya itu bisa dibandingin. QLED dan UHD itu bukan sesuatu perbandingan.
+22	QLED dan UHD itu bukan sesuatu perbandingan.
+23	QLED dan UHD itu bukan sesuatu perbandingan.
+24	QLED dan UHD itu bukan sesuatu perbandingan.
+25	QLED dan UHD itu bukan sesuatu perbandingan.
+26	QLED dan UHD itu bukan sesuatu perbandingan.
+27	QLED dan UHD itu bukan sesuatu perbandingan. QLED sendiri gue cari dikenalin sama Sony di 2013,
+28	QLED sendiri gue cari dikenalin sama Sony di 2013,
+29	QLED sendiri gue cari dikenalin sama Sony di 2013,
+30	QLED sendiri gue cari dikenalin sama Sony di 2013,
+31	QLED sendiri gue cari dikenalin sama Sony di 2013,
+32	QLED sendiri gue cari dikenalin sama Sony di 2013, dan dipopulerin sama Samsung sampe hari ini.
+33	QLED sendiri gue cari dikenalin sama Sony di 2013, dan dipopulerin sama Samsung sampe hari ini.
+34	dan dipopulerin sama Samsung sampe hari ini.
+35	dan dipopulerin sama Samsung sampe hari ini.
+36	dan dipopulerin sama Samsung sampe hari ini.
+37	dan dipopulerin sama Samsung sampe hari ini.
+38	dan dipopulerin sama Samsung sampe hari ini. Gue liatnya QLED ini tuh gimmick marketing
+39	dan dipopulerin sama Samsung sampe hari ini. Gue liatnya QLED ini tuh gimmick marketing
+40	Gue liatnya QLED ini tuh gimmick marketing
+41	Gue liatnya QLED ini tuh gimmick marketing
+42	Gue liatnya QLED ini tuh gimmick marketing
+43	Gue liatnya QLED ini tuh gimmick marketing yang dipake hampir semua brand buat kecoh lu dari OLED.
+44	Gue liatnya QLED ini tuh gimmick marketing yang dipake hampir semua brand buat kecoh lu dari OLED.
+45	yang dipake hampir semua brand buat kecoh lu dari OLED.
+46	yang dipake hampir semua brand buat kecoh lu dari OLED.
+47	yang dipake hampir semua brand buat kecoh lu dari OLED.
+48	yang dipake hampir semua brand buat kecoh lu dari OLED.
+49	yang dipake hampir semua brand buat kecoh lu dari OLED.
+50	yang dipake hampir semua brand buat kecoh lu dari OLED.
+51	yang dipake hampir semua brand buat kecoh lu dari OLED. Ya lu liat, QO mirip.
+52	yang dipake hampir semua brand buat kecoh lu dari OLED. Ya lu liat, QO mirip.
+53	Ya lu liat, QO mirip.
+54	Ya lu liat, QO mirip.
+55	Ya lu liat, QO mirip. QLED itu gak ada bedanya sama LCD biasa,
+56	Ya lu liat, QO mirip. QLED itu gak ada bedanya sama LCD biasa,
+57	QLED itu gak ada bedanya sama LCD biasa,
+58	QLED itu gak ada bedanya sama LCD biasa, cuma di-enhance sedikit aja pake yang disebut Quantum Dot.
+59	QLED itu gak ada bedanya sama LCD biasa, cuma di-enhance sedikit aja pake yang disebut Quantum Dot.
+60	cuma di-enhance sedikit aja pake yang disebut Quantum Dot.
+61	cuma di-enhance sedikit aja pake yang disebut Quantum Dot.
+62	cuma di-enhance sedikit aja pake yang disebut Quantum Dot.
+63	cuma di-enhance sedikit aja pake yang disebut Quantum Dot.
+64	cuma di-enhance sedikit aja pake yang disebut Quantum Dot.
+65	cuma di-enhance sedikit aja pake yang disebut Quantum Dot. Sedangkan OLED itu teknologi yang lebih superior di atas QLED.
+66	cuma di-enhance sedikit aja pake yang disebut Quantum Dot. Sedangkan OLED itu teknologi yang lebih superior di atas QLED.
+67	Sedangkan OLED itu teknologi yang lebih superior di atas QLED.
+68	Sedangkan OLED itu teknologi yang lebih superior di atas QLED.
+69	Sedangkan OLED itu teknologi yang lebih superior di atas QLED.
+70	Sedangkan OLED itu teknologi yang lebih superior di atas QLED.
+71	Sedangkan OLED itu teknologi yang lebih superior di atas QLED.
+72	Sedangkan OLED itu teknologi yang lebih superior di atas QLED.
+73	Sedangkan OLED itu teknologi yang lebih superior di atas QLED. Jangan sampe lah lu kekecoh sama gimmick marketing Q atau O gitu.
+74	Sedangkan OLED itu teknologi yang lebih superior di atas QLED. Jangan sampe lah lu kekecoh sama gimmick marketing Q atau O gitu.
+75	Jangan sampe lah lu kekecoh sama gimmick marketing Q atau O gitu.
+76	Jangan sampe lah lu kekecoh sama gimmick marketing Q atau O gitu.
+77	Jangan sampe lah lu kekecoh sama gimmick marketing Q atau O gitu.
+78	Jangan sampe lah lu kekecoh sama gimmick marketing Q atau O gitu.
+79	Jangan sampe lah lu kekecoh sama gimmick marketing Q atau O gitu.
+80	Jangan sampe lah lu kekecoh sama gimmick marketing Q atau O gitu.
+81	Jangan sampe lah lu kekecoh sama gimmick marketing Q atau O gitu.
+82	Jangan sampe lah lu kekecoh sama gimmick marketing Q atau O gitu. Kocak buat UHD sendiri,
+83	Kocak buat UHD sendiri,
+84	Kocak buat UHD sendiri,
+85	Kocak buat UHD sendiri, itu gak lebih dari sebutan lain buat 4K.
+86	Kocak buat UHD sendiri, itu gak lebih dari sebutan lain buat 4K.
+87	itu gak lebih dari sebutan lain buat 4K.
+88	itu gak lebih dari sebutan lain buat 4K.
+89	itu gak lebih dari sebutan lain buat 4K.
+90	itu gak lebih dari sebutan lain buat 4K. Gak ada yang spesialnya dari 4K TV di 2024 ini.
+91	itu gak lebih dari sebutan lain buat 4K. Gak ada yang spesialnya dari 4K TV di 2024 ini.
+92	Gak ada yang spesialnya dari 4K TV di 2024 ini.
+93	Gak ada yang spesialnya dari 4K TV di 2024 ini.
+94	Gak ada yang spesialnya dari 4K TV di 2024 ini.
+95	Gak ada yang spesialnya dari 4K TV di 2024 ini.
+96	Gak ada yang spesialnya dari 4K TV di 2024 ini.
+97	Gak ada yang spesialnya dari 4K TV di 2024 ini. Dan lu gak bisa bandingin antara UHD atau QLED.
+98	Gak ada yang spesialnya dari 4K TV di 2024 ini. Dan lu gak bisa bandingin antara UHD atau QLED.
+99	Dan lu gak bisa bandingin antara UHD atau QLED.
+100	Dan lu gak bisa bandingin antara UHD atau QLED.
+101	Dan lu gak bisa bandingin antara UHD atau QLED.
+102	Dan lu gak bisa bandingin antara UHD atau QLED.
+103	Dan lu gak bisa bandingin antara UHD atau QLED.
+104	Dan lu gak bisa bandingin antara UHD atau QLED.
+105	Dan lu gak bisa bandingin antara UHD atau QLED. Karena keduanya bisa ada di satu TV.
+106	Dan lu gak bisa bandingin antara UHD atau QLED. Karena keduanya bisa ada di satu TV.
+107	Karena keduanya bisa ada di satu TV.
+108	Karena keduanya bisa ada di satu TV.
+109	Karena keduanya bisa ada di satu TV.
+110	Karena keduanya bisa ada di satu TV. Misalnya 65 inch UHD atau 4K QLED.
+111	Karena keduanya bisa ada di satu TV. Misalnya 65 inch UHD atau 4K QLED.
+112	Misalnya 65 inch UHD atau 4K QLED.
+113	Misalnya 65 inch UHD atau 4K QLED.
+114	Misalnya 65 inch UHD atau 4K QLED.
+115	Misalnya 65 inch UHD atau 4K QLED.
+116	Misalnya 65 inch UHD atau 4K QLED. Ya bisa-bisa aja.
+117	Misalnya 65 inch UHD atau 4K QLED. Ya bisa-bisa aja. Intinya, mau UHD kek, mau QLED kek,
+118	Ya bisa-bisa aja. Intinya, mau UHD kek, mau QLED kek,
+119	Intinya, mau UHD kek, mau QLED kek,
+120	Intinya, mau UHD kek, mau QLED kek,
+121	Intinya, mau UHD kek, mau QLED kek,
+122	Intinya, mau UHD kek, mau QLED kek,
+123	Intinya, mau UHD kek, mau QLED kek,
+124	Intinya, mau UHD kek, mau QLED kek, kalo tuning dari brand yang konyol,
+125	Intinya, mau UHD kek, mau QLED kek, kalo tuning dari brand yang konyol,
+126	kalo tuning dari brand yang konyol,
+127	kalo tuning dari brand yang konyol,
+128	kalo tuning dari brand yang konyol, TV akan sama juga kayak monitor yang konyol tuningnya.
+129	kalo tuning dari brand yang konyol, TV akan sama juga kayak monitor yang konyol tuningnya.
+130	TV akan sama juga kayak monitor yang konyol tuningnya.
+131	TV akan sama juga kayak monitor yang konyol tuningnya.
+132	TV akan sama juga kayak monitor yang konyol tuningnya.
+133	TV akan sama juga kayak monitor yang konyol tuningnya.
+134	TV akan sama juga kayak monitor yang konyol tuningnya. Salju bukan jadi putih, tapi bisa warna aneh-aneh.
+135	TV akan sama juga kayak monitor yang konyol tuningnya. Salju bukan jadi putih, tapi bisa warna aneh-aneh.
+136	Salju bukan jadi putih, tapi bisa warna aneh-aneh.
+137	Salju bukan jadi putih, tapi bisa warna aneh-aneh.
+138	Salju bukan jadi putih, tapi bisa warna aneh-aneh.
+139	Salju bukan jadi putih, tapi bisa warna aneh-aneh. Kalo merah kek, ijo kek, kuning kek, biru juga bisa aja.
+140	Salju bukan jadi putih, tapi bisa warna aneh-aneh. Kalo merah kek, ijo kek, kuning kek, biru juga bisa aja.
+141	Kalo merah kek, ijo kek, kuning kek, biru juga bisa aja.
+142	Kalo merah kek, ijo kek, kuning kek, biru juga bisa aja.
+143	Kalo merah kek, ijo kek, kuning kek, biru juga bisa aja.
+144	Kalo merah kek, ijo kek, kuning kek, biru juga bisa aja.
+145	Kalo merah kek, ijo kek, kuning kek, biru juga bisa aja.
+146	Kalo merah kek, ijo kek, kuning kek, biru juga bisa aja. Pastiin lu jadi orang yang gak gampang kemakan gimmick marketing.
+147	Kalo merah kek, ijo kek, kuning kek, biru juga bisa aja. Pastiin lu jadi orang yang gak gampang kemakan gimmick marketing.
+148	Pastiin lu jadi orang yang gak gampang kemakan gimmick marketing.
+149	Pastiin lu jadi orang yang gak gampang kemakan gimmick marketing.
+150	Pastiin lu jadi orang yang gak gampang kemakan gimmick marketing.
+151	Pastiin lu jadi orang yang gak gampang kemakan gimmick marketing.
+152	Pastiin lu jadi orang yang gak gampang kemakan gimmick marketing.
+153	Pastiin lu jadi orang yang gak gampang kemakan gimmick marketing. Terutama marketing-marketing buskin,
+154	Pastiin lu jadi orang yang gak gampang kemakan gimmick marketing. Terutama marketing-marketing buskin,
+155	Terutama marketing-marketing buskin,
+156	Terutama marketing-marketing buskin, yang ditempel brand di dus produk-produknya.
+157	Terutama marketing-marketing buskin, yang ditempel brand di dus produk-produknya.
+158	yang ditempel brand di dus produk-produknya.
+159	yang ditempel brand di dus produk-produknya.
+160	yang ditempel brand di dus produk-produknya.
+161	yang ditempel brand di dus produk-produknya.
+162	yang ditempel brand di dus produk-produknya. Jadilah smart buyer, bos.
+163	yang ditempel brand di dus produk-produknya. Jadilah smart buyer, bos.
+164	Jadilah smart buyer, bos.
+165	Jadilah smart buyer, bos.
+166	[NO_SPEECH]

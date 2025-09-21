@@ -1,0 +1,79 @@
+0	Banyak yang bilang kalau sunscreen warna kuning yang dulu tuh bikin kulit jadi kusum parah.
+1	Banyak yang bilang kalau sunscreen warna kuning yang dulu tuh bikin kulit jadi kusum parah.
+2	Banyak yang bilang kalau sunscreen warna kuning yang dulu tuh bikin kulit jadi kusum parah.
+3	Banyak yang bilang kalau sunscreen warna kuning yang dulu tuh bikin kulit jadi kusum parah.
+4	Banyak yang bilang kalau sunscreen warna kuning yang dulu tuh bikin kulit jadi kusum parah.
+5	Banyak yang bilang kalau sunscreen warna kuning yang dulu tuh bikin kulit jadi kusum parah.
+6	Banyak yang bilang kalau sunscreen warna kuning yang dulu tuh bikin kulit jadi kusum parah. Sampai akhirnya direformulasi dan emang jadi lebih enak sih.
+7	Banyak yang bilang kalau sunscreen warna kuning yang dulu tuh bikin kulit jadi kusum parah. Sampai akhirnya direformulasi dan emang jadi lebih enak sih.
+8	Sampai akhirnya direformulasi dan emang jadi lebih enak sih.
+9	Sampai akhirnya direformulasi dan emang jadi lebih enak sih.
+10	Sampai akhirnya direformulasi dan emang jadi lebih enak sih.
+11	Sampai akhirnya direformulasi dan emang jadi lebih enak sih. Terus baru-baru ini, sunscreen ini direformulasi sekali lagi.
+12	Sampai akhirnya direformulasi dan emang jadi lebih enak sih. Terus baru-baru ini, sunscreen ini direformulasi sekali lagi.
+13	Terus baru-baru ini, sunscreen ini direformulasi sekali lagi.
+14	Terus baru-baru ini, sunscreen ini direformulasi sekali lagi.
+15	Terus baru-baru ini, sunscreen ini direformulasi sekali lagi.
+16	Terus baru-baru ini, sunscreen ini direformulasi sekali lagi.
+17	Terus baru-baru ini, sunscreen ini direformulasi sekali lagi. Dan aku bisa bilang yang baru ini jauh lebih enak dari dua versi sebelumnya.
+18	Terus baru-baru ini, sunscreen ini direformulasi sekali lagi. Dan aku bisa bilang yang baru ini jauh lebih enak dari dua versi sebelumnya.
+19	Dan aku bisa bilang yang baru ini jauh lebih enak dari dua versi sebelumnya.
+20	Dan aku bisa bilang yang baru ini jauh lebih enak dari dua versi sebelumnya.
+21	Dan aku bisa bilang yang baru ini jauh lebih enak dari dua versi sebelumnya.
+22	Dan aku bisa bilang yang baru ini jauh lebih enak dari dua versi sebelumnya.
+23	Dan aku bisa bilang yang baru ini jauh lebih enak dari dua versi sebelumnya.
+24	Dan aku bisa bilang yang baru ini jauh lebih enak dari dua versi sebelumnya.
+25	Dan aku bisa bilang yang baru ini jauh lebih enak dari dua versi sebelumnya. Nah, yang versi terbaru ini udah pake sebuah teknologi yang namanya Ultra Thin Veil Technology.
+26	Nah, yang versi terbaru ini udah pake sebuah teknologi yang namanya Ultra Thin Veil Technology.
+27	Nah, yang versi terbaru ini udah pake sebuah teknologi yang namanya Ultra Thin Veil Technology.
+28	Nah, yang versi terbaru ini udah pake sebuah teknologi yang namanya Ultra Thin Veil Technology.
+29	Nah, yang versi terbaru ini udah pake sebuah teknologi yang namanya Ultra Thin Veil Technology.
+30	Nah, yang versi terbaru ini udah pake sebuah teknologi yang namanya Ultra Thin Veil Technology.
+31	Nah, yang versi terbaru ini udah pake sebuah teknologi yang namanya Ultra Thin Veil Technology.
+32	Nah, yang versi terbaru ini udah pake sebuah teknologi yang namanya Ultra Thin Veil Technology.
+33	Nah, yang versi terbaru ini udah pake sebuah teknologi yang namanya Ultra Thin Veil Technology. Yang bikin tekstur dari sunscreen ini tuh rasanya jadi super duper ringan.
+34	Nah, yang versi terbaru ini udah pake sebuah teknologi yang namanya Ultra Thin Veil Technology. Yang bikin tekstur dari sunscreen ini tuh rasanya jadi super duper ringan.
+35	Yang bikin tekstur dari sunscreen ini tuh rasanya jadi super duper ringan.
+36	Yang bikin tekstur dari sunscreen ini tuh rasanya jadi super duper ringan.
+37	Yang bikin tekstur dari sunscreen ini tuh rasanya jadi super duper ringan.
+38	Yang bikin tekstur dari sunscreen ini tuh rasanya jadi super duper ringan.
+39	Yang bikin tekstur dari sunscreen ini tuh rasanya jadi super duper ringan.
+40	Yang bikin tekstur dari sunscreen ini tuh rasanya jadi super duper ringan. Saking ringan ya, pasti pake rasanya tuh bener-bener gak berasa kayak lagi pake sunscreen.
+41	Yang bikin tekstur dari sunscreen ini tuh rasanya jadi super duper ringan. Saking ringan ya, pasti pake rasanya tuh bener-bener gak berasa kayak lagi pake sunscreen.
+42	Saking ringan ya, pasti pake rasanya tuh bener-bener gak berasa kayak lagi pake sunscreen.
+43	Saking ringan ya, pasti pake rasanya tuh bener-bener gak berasa kayak lagi pake sunscreen.
+44	Saking ringan ya, pasti pake rasanya tuh bener-bener gak berasa kayak lagi pake sunscreen.
+45	Saking ringan ya, pasti pake rasanya tuh bener-bener gak berasa kayak lagi pake sunscreen.
+46	Saking ringan ya, pasti pake rasanya tuh bener-bener gak berasa kayak lagi pake sunscreen.
+47	Saking ringan ya, pasti pake rasanya tuh bener-bener gak berasa kayak lagi pake sunscreen.
+48	Saking ringan ya, pasti pake rasanya tuh bener-bener gak berasa kayak lagi pake sunscreen. Terus sunscreen ini juga gak bikin kulit jadi kusum.
+49	Terus sunscreen ini juga gak bikin kulit jadi kusum.
+50	Terus sunscreen ini juga gak bikin kulit jadi kusum.
+51	Terus sunscreen ini juga gak bikin kulit jadi kusum.
+52	Terus sunscreen ini juga gak bikin kulit jadi kusum. Karena udah dilengkapi dengan kombo kandungan vitamin C, niacinamide, dan luminescence juga.
+53	Terus sunscreen ini juga gak bikin kulit jadi kusum. Karena udah dilengkapi dengan kombo kandungan vitamin C, niacinamide, dan luminescence juga.
+54	Karena udah dilengkapi dengan kombo kandungan vitamin C, niacinamide, dan luminescence juga.
+55	Karena udah dilengkapi dengan kombo kandungan vitamin C, niacinamide, dan luminescence juga.
+56	Karena udah dilengkapi dengan kombo kandungan vitamin C, niacinamide, dan luminescence juga.
+57	Karena udah dilengkapi dengan kombo kandungan vitamin C, niacinamide, dan luminescence juga.
+58	Karena udah dilengkapi dengan kombo kandungan vitamin C, niacinamide, dan luminescence juga.
+59	Karena udah dilengkapi dengan kombo kandungan vitamin C, niacinamide, dan luminescence juga.
+60	Karena udah dilengkapi dengan kombo kandungan vitamin C, niacinamide, dan luminescence juga. Jadi kesimpulannya, sunscreen warna kuning yang baru ini bener-bener worth untuk dicoba.
+61	Karena udah dilengkapi dengan kombo kandungan vitamin C, niacinamide, dan luminescence juga. Jadi kesimpulannya, sunscreen warna kuning yang baru ini bener-bener worth untuk dicoba.
+62	Jadi kesimpulannya, sunscreen warna kuning yang baru ini bener-bener worth untuk dicoba.
+63	Jadi kesimpulannya, sunscreen warna kuning yang baru ini bener-bener worth untuk dicoba.
+64	Jadi kesimpulannya, sunscreen warna kuning yang baru ini bener-bener worth untuk dicoba.
+65	Jadi kesimpulannya, sunscreen warna kuning yang baru ini bener-bener worth untuk dicoba.
+66	Jadi kesimpulannya, sunscreen warna kuning yang baru ini bener-bener worth untuk dicoba.
+67	Jadi kesimpulannya, sunscreen warna kuning yang baru ini bener-bener worth untuk dicoba.
+68	Jadi kesimpulannya, sunscreen warna kuning yang baru ini bener-bener worth untuk dicoba. Walaupun packaging dan formulasinya di-upgrade, tapi harganya masih tetep murah meriah.
+69	Jadi kesimpulannya, sunscreen warna kuning yang baru ini bener-bener worth untuk dicoba. Walaupun packaging dan formulasinya di-upgrade, tapi harganya masih tetep murah meriah.
+70	Walaupun packaging dan formulasinya di-upgrade, tapi harganya masih tetep murah meriah.
+71	Walaupun packaging dan formulasinya di-upgrade, tapi harganya masih tetep murah meriah.
+72	Walaupun packaging dan formulasinya di-upgrade, tapi harganya masih tetep murah meriah.
+73	Walaupun packaging dan formulasinya di-upgrade, tapi harganya masih tetep murah meriah.
+74	Walaupun packaging dan formulasinya di-upgrade, tapi harganya masih tetep murah meriah.
+75	Walaupun packaging dan formulasinya di-upgrade, tapi harganya masih tetep murah meriah.
+76	Walaupun packaging dan formulasinya di-upgrade, tapi harganya masih tetep murah meriah.
+77	[NO_SPEECH]
+78	[NO_SPEECH]

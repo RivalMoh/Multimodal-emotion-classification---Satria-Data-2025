@@ -1,0 +1,38 @@
+0	Rating alasan beli lipis, baru gajian.
+1	Rating alasan beli lipis, baru gajian.
+2	Rating alasan beli lipis, baru gajian.
+3	Rating alasan beli lipis, baru gajian. Suka finish glossinya, finishnya matte, packagingnya lucu, dapet kesein.
+4	Rating alasan beli lipis, baru gajian. Suka finish glossinya, finishnya matte, packagingnya lucu, dapet kesein.
+5	Suka finish glossinya, finishnya matte, packagingnya lucu, dapet kesein.
+6	Suka finish glossinya, finishnya matte, packagingnya lucu, dapet kesein.
+7	Suka finish glossinya, finishnya matte, packagingnya lucu, dapet kesein.
+8	Suka finish glossinya, finishnya matte, packagingnya lucu, dapet kesein.
+9	Suka finish glossinya, finishnya matte, packagingnya lucu, dapet kesein.
+10	Suka finish glossinya, finishnya matte, packagingnya lucu, dapet kesein.
+11	Suka finish glossinya, finishnya matte, packagingnya lucu, dapet kesein.
+12	Suka finish glossinya, finishnya matte, packagingnya lucu, dapet kesein.
+13	Suka finish glossinya, finishnya matte, packagingnya lucu, dapet kesein. Pomo aja, kena racun temen, karena diskon, sledsnya cakep.
+14	Suka finish glossinya, finishnya matte, packagingnya lucu, dapet kesein. Pomo aja, kena racun temen, karena diskon, sledsnya cakep.
+15	Pomo aja, kena racun temen, karena diskon, sledsnya cakep.
+16	Pomo aja, kena racun temen, karena diskon, sledsnya cakep.
+17	Pomo aja, kena racun temen, karena diskon, sledsnya cakep.
+18	Pomo aja, kena racun temen, karena diskon, sledsnya cakep.
+19	Pomo aja, kena racun temen, karena diskon, sledsnya cakep.
+20	Pomo aja, kena racun temen, karena diskon, sledsnya cakep.
+21	Pomo aja, kena racun temen, karena diskon, sledsnya cakep.
+22	Pomo aja, kena racun temen, karena diskon, sledsnya cakep.
+23	Pomo aja, kena racun temen, karena diskon, sledsnya cakep.
+24	Pomo aja, kena racun temen, karena diskon, sledsnya cakep.
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]

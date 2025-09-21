@@ -1,0 +1,360 @@
+0	Saya berharap bahwa semoga ini yang terakhir.
+1	Saya berharap bahwa semoga ini yang terakhir.
+2	Saya berharap bahwa semoga ini yang terakhir.
+3	Saya berharap bahwa semoga ini yang terakhir. Mungkin ini bukan proses naturalisasi yang terakhir,
+4	Saya berharap bahwa semoga ini yang terakhir. Mungkin ini bukan proses naturalisasi yang terakhir,
+5	Mungkin ini bukan proses naturalisasi yang terakhir,
+6	Mungkin ini bukan proses naturalisasi yang terakhir,
+7	Mungkin ini bukan proses naturalisasi yang terakhir,
+8	Mungkin ini bukan proses naturalisasi yang terakhir,
+9	Mungkin ini bukan proses naturalisasi yang terakhir,
+10	Mungkin ini bukan proses naturalisasi yang terakhir, dan pastinya ke depan mungkin akan ada proses-proses naturalisasi yang lainnya,
+11	Mungkin ini bukan proses naturalisasi yang terakhir, dan pastinya ke depan mungkin akan ada proses-proses naturalisasi yang lainnya,
+12	dan pastinya ke depan mungkin akan ada proses-proses naturalisasi yang lainnya,
+13	dan pastinya ke depan mungkin akan ada proses-proses naturalisasi yang lainnya,
+14	dan pastinya ke depan mungkin akan ada proses-proses naturalisasi yang lainnya,
+15	dan pastinya ke depan mungkin akan ada proses-proses naturalisasi yang lainnya,
+16	dan pastinya ke depan mungkin akan ada proses-proses naturalisasi yang lainnya,
+17	dan pastinya ke depan mungkin akan ada proses-proses naturalisasi yang lainnya,
+18	dan pastinya ke depan mungkin akan ada proses-proses naturalisasi yang lainnya, dan dicabang-cabang olahraga lainnya.
+19	dan pastinya ke depan mungkin akan ada proses-proses naturalisasi yang lainnya, dan dicabang-cabang olahraga lainnya.
+20	dan dicabang-cabang olahraga lainnya.
+21	dan dicabang-cabang olahraga lainnya.
+22	dan dicabang-cabang olahraga lainnya. Takutnya kalau nggak disampaikan nanti kaget.
+23	dan dicabang-cabang olahraga lainnya. Takutnya kalau nggak disampaikan nanti kaget.
+24	Takutnya kalau nggak disampaikan nanti kaget.
+25	Takutnya kalau nggak disampaikan nanti kaget.
+26	Takutnya kalau nggak disampaikan nanti kaget.
+27	Takutnya kalau nggak disampaikan nanti kaget.
+28	Takutnya kalau nggak disampaikan nanti kaget. Kami ingin berpesan kepada Mas Menteri,
+29	Kami ingin berpesan kepada Mas Menteri,
+30	Kami ingin berpesan kepada Mas Menteri,
+31	Kami ingin berpesan kepada Mas Menteri,
+32	Kami ingin berpesan kepada Mas Menteri, agar tetap melakukan pembinaan.
+33	Kami ingin berpesan kepada Mas Menteri, agar tetap melakukan pembinaan.
+34	agar tetap melakukan pembinaan.
+35	agar tetap melakukan pembinaan.
+36	agar tetap melakukan pembinaan.
+37	agar tetap melakukan pembinaan.
+38	agar tetap melakukan pembinaan. Bagaimana dengan upaya dari Kemenpora
+39	agar tetap melakukan pembinaan. Bagaimana dengan upaya dari Kemenpora
+40	Bagaimana dengan upaya dari Kemenpora
+41	Bagaimana dengan upaya dari Kemenpora
+42	Bagaimana dengan upaya dari Kemenpora
+43	Bagaimana dengan upaya dari Kemenpora
+44	Bagaimana dengan upaya dari Kemenpora untuk bagaimana pelatih-pelatih kita ini di Indonesia?
+45	Bagaimana dengan upaya dari Kemenpora untuk bagaimana pelatih-pelatih kita ini di Indonesia?
+46	untuk bagaimana pelatih-pelatih kita ini di Indonesia?
+47	untuk bagaimana pelatih-pelatih kita ini di Indonesia?
+48	untuk bagaimana pelatih-pelatih kita ini di Indonesia?
+49	untuk bagaimana pelatih-pelatih kita ini di Indonesia?
+50	untuk bagaimana pelatih-pelatih kita ini di Indonesia? Kenapa PSSI usia 17-21 karirnya itu melesat?
+51	untuk bagaimana pelatih-pelatih kita ini di Indonesia? Kenapa PSSI usia 17-21 karirnya itu melesat?
+52	Kenapa PSSI usia 17-21 karirnya itu melesat?
+53	Kenapa PSSI usia 17-21 karirnya itu melesat?
+54	Kenapa PSSI usia 17-21 karirnya itu melesat?
+55	Kenapa PSSI usia 17-21 karirnya itu melesat?
+56	Kenapa PSSI usia 17-21 karirnya itu melesat?
+57	Kenapa PSSI usia 17-21 karirnya itu melesat?
+58	Kenapa PSSI usia 17-21 karirnya itu melesat?
+59	Kenapa PSSI usia 17-21 karirnya itu melesat?
+60	Kenapa PSSI usia 17-21 karirnya itu melesat?
+61	Kenapa PSSI usia 17-21 karirnya itu melesat?
+62	Kenapa PSSI usia 17-21 karirnya itu melesat?
+63	Kenapa PSSI usia 17-21 karirnya itu melesat? Tetapi begitu memasuki 22-23-24,
+64	Kenapa PSSI usia 17-21 karirnya itu melesat? Tetapi begitu memasuki 22-23-24,
+65	Tetapi begitu memasuki 22-23-24,
+66	Tetapi begitu memasuki 22-23-24,
+67	Tetapi begitu memasuki 22-23-24,
+68	Tetapi begitu memasuki 22-23-24,
+69	Tetapi begitu memasuki 22-23-24,
+70	Tetapi begitu memasuki 22-23-24,
+71	Tetapi begitu memasuki 22-23-24, mulai terjadi penurunan.
+72	Tetapi begitu memasuki 22-23-24, mulai terjadi penurunan.
+73	mulai terjadi penurunan.
+74	mulai terjadi penurunan.
+75	mulai terjadi penurunan. Saya mewakili pemerintah mengucapkan terima kasih,
+76	Saya mewakili pemerintah mengucapkan terima kasih,
+77	Saya mewakili pemerintah mengucapkan terima kasih,
+78	Saya mewakili pemerintah mengucapkan terima kasih,
+79	Saya mewakili pemerintah mengucapkan terima kasih,
+80	Saya mewakili pemerintah mengucapkan terima kasih, karena seluruh fraksi sudah menyetujui
+81	Saya mewakili pemerintah mengucapkan terima kasih, karena seluruh fraksi sudah menyetujui
+82	karena seluruh fraksi sudah menyetujui
+83	karena seluruh fraksi sudah menyetujui
+84	karena seluruh fraksi sudah menyetujui
+85	karena seluruh fraksi sudah menyetujui
+86	karena seluruh fraksi sudah menyetujui terkait dengan proses pemberian kewarganegaraan.
+87	karena seluruh fraksi sudah menyetujui terkait dengan proses pemberian kewarganegaraan.
+88	terkait dengan proses pemberian kewarganegaraan.
+89	terkait dengan proses pemberian kewarganegaraan.
+90	terkait dengan proses pemberian kewarganegaraan.
+91	terkait dengan proses pemberian kewarganegaraan. Prinsipnya proses naturalisasi ini
+92	terkait dengan proses pemberian kewarganegaraan. Prinsipnya proses naturalisasi ini
+93	Prinsipnya proses naturalisasi ini
+94	Prinsipnya proses naturalisasi ini
+95	Prinsipnya proses naturalisasi ini merupakan salah satu strategi jangka pendek menengah.
+96	Prinsipnya proses naturalisasi ini merupakan salah satu strategi jangka pendek menengah.
+97	merupakan salah satu strategi jangka pendek menengah.
+98	merupakan salah satu strategi jangka pendek menengah.
+99	merupakan salah satu strategi jangka pendek menengah.
+100	merupakan salah satu strategi jangka pendek menengah.
+101	merupakan salah satu strategi jangka pendek menengah.
+102	merupakan salah satu strategi jangka pendek menengah.
+103	merupakan salah satu strategi jangka pendek menengah.
+104	merupakan salah satu strategi jangka pendek menengah. Dan saya tekankan kembali,
+105	merupakan salah satu strategi jangka pendek menengah. Dan saya tekankan kembali,
+106	Dan saya tekankan kembali,
+107	Dan saya tekankan kembali,
+108	Dan saya tekankan kembali, seluruh atlet yang dinaturalisasi
+109	Dan saya tekankan kembali, seluruh atlet yang dinaturalisasi
+110	seluruh atlet yang dinaturalisasi
+111	seluruh atlet yang dinaturalisasi
+112	seluruh atlet yang dinaturalisasi
+113	seluruh atlet yang dinaturalisasi merupakan atlet yang darah asli dari Indonesia.
+114	seluruh atlet yang dinaturalisasi merupakan atlet yang darah asli dari Indonesia.
+115	merupakan atlet yang darah asli dari Indonesia.
+116	merupakan atlet yang darah asli dari Indonesia.
+117	merupakan atlet yang darah asli dari Indonesia.
+118	merupakan atlet yang darah asli dari Indonesia.
+119	merupakan atlet yang darah asli dari Indonesia.
+120	merupakan atlet yang darah asli dari Indonesia.
+121	merupakan atlet yang darah asli dari Indonesia.
+122	merupakan atlet yang darah asli dari Indonesia. Hanya berbeda tempat lahir saja.
+123	Hanya berbeda tempat lahir saja.
+124	Hanya berbeda tempat lahir saja.
+125	Hanya berbeda tempat lahir saja.
+126	Hanya berbeda tempat lahir saja.
+127	Hanya berbeda tempat lahir saja. Saya pun menjadi saksi bagaimana
+128	Hanya berbeda tempat lahir saja. Saya pun menjadi saksi bagaimana
+129	Saya pun menjadi saksi bagaimana
+130	Saya pun menjadi saksi bagaimana
+131	Saya pun menjadi saksi bagaimana Coach Indra Safri dan Coach Nova
+132	Saya pun menjadi saksi bagaimana Coach Indra Safri dan Coach Nova
+133	Coach Indra Safri dan Coach Nova
+134	Coach Indra Safri dan Coach Nova
+135	Coach Indra Safri dan Coach Nova
+136	Coach Indra Safri dan Coach Nova itu melakukan scouting sampai ke daerah-daerah pelosok.
+137	Coach Indra Safri dan Coach Nova itu melakukan scouting sampai ke daerah-daerah pelosok.
+138	itu melakukan scouting sampai ke daerah-daerah pelosok.
+139	itu melakukan scouting sampai ke daerah-daerah pelosok.
+140	itu melakukan scouting sampai ke daerah-daerah pelosok.
+141	itu melakukan scouting sampai ke daerah-daerah pelosok.
+142	itu melakukan scouting sampai ke daerah-daerah pelosok.
+143	itu melakukan scouting sampai ke daerah-daerah pelosok.
+144	itu melakukan scouting sampai ke daerah-daerah pelosok.
+145	itu melakukan scouting sampai ke daerah-daerah pelosok.
+146	itu melakukan scouting sampai ke daerah-daerah pelosok.
+147	itu melakukan scouting sampai ke daerah-daerah pelosok. Dan setiap kita melakukan acara seleksi,
+148	Dan setiap kita melakukan acara seleksi,
+149	Dan setiap kita melakukan acara seleksi,
+150	Dan setiap kita melakukan acara seleksi,
+151	Dan setiap kita melakukan acara seleksi,
+152	Dan setiap kita melakukan acara seleksi,
+153	Dan setiap kita melakukan acara seleksi,
+154	Dan setiap kita melakukan acara seleksi, pendaftarnya sampai 2.000-3.000 peserta.
+155	Dan setiap kita melakukan acara seleksi, pendaftarnya sampai 2.000-3.000 peserta.
+156	pendaftarnya sampai 2.000-3.000 peserta.
+157	pendaftarnya sampai 2.000-3.000 peserta.
+158	pendaftarnya sampai 2.000-3.000 peserta.
+159	pendaftarnya sampai 2.000-3.000 peserta.
+160	pendaftarnya sampai 2.000-3.000 peserta. Dan ini terjadi di setiap daerah.
+161	pendaftarnya sampai 2.000-3.000 peserta. Dan ini terjadi di setiap daerah.
+162	Dan ini terjadi di setiap daerah.
+163	Dan ini terjadi di setiap daerah.
+164	Dan ini terjadi di setiap daerah.
+165	Dan ini terjadi di setiap daerah. Strategi paralel yang kami lakukan
+166	Dan ini terjadi di setiap daerah. Strategi paralel yang kami lakukan
+167	Strategi paralel yang kami lakukan
+168	Strategi paralel yang kami lakukan tidak hanya di sepak bola,
+169	Strategi paralel yang kami lakukan tidak hanya di sepak bola,
+170	tidak hanya di sepak bola,
+171	tidak hanya di sepak bola,
+172	tidak hanya di sepak bola, bagaimana saat ini kita menguatkan
+173	bagaimana saat ini kita menguatkan
+174	bagaimana saat ini kita menguatkan
+175	bagaimana saat ini kita menguatkan
+176	bagaimana saat ini kita menguatkan proses sistem dan fondasi ke depannya.
+177	bagaimana saat ini kita menguatkan proses sistem dan fondasi ke depannya.
+178	proses sistem dan fondasi ke depannya.
+179	proses sistem dan fondasi ke depannya.
+180	proses sistem dan fondasi ke depannya.
+181	proses sistem dan fondasi ke depannya.
+182	proses sistem dan fondasi ke depannya. Dan sudah menjadi suatu komitmen
+183	proses sistem dan fondasi ke depannya. Dan sudah menjadi suatu komitmen
+184	Dan sudah menjadi suatu komitmen
+185	Dan sudah menjadi suatu komitmen FIFA untuk membuka kantor di Indonesia
+186	Dan sudah menjadi suatu komitmen FIFA untuk membuka kantor di Indonesia
+187	FIFA untuk membuka kantor di Indonesia
+188	FIFA untuk membuka kantor di Indonesia
+189	FIFA untuk membuka kantor di Indonesia
+190	FIFA untuk membuka kantor di Indonesia
+191	FIFA untuk membuka kantor di Indonesia dan salah satu program utamanya adalah bagaimana
+192	FIFA untuk membuka kantor di Indonesia dan salah satu program utamanya adalah bagaimana
+193	dan salah satu program utamanya adalah bagaimana
+194	dan salah satu program utamanya adalah bagaimana
+195	dan salah satu program utamanya adalah bagaimana
+196	dan salah satu program utamanya adalah bagaimana
+197	dan salah satu program utamanya adalah bagaimana Trainer of Train.
+198	dan salah satu program utamanya adalah bagaimana Trainer of Train.
+199	Trainer of Train.
+200	Trainer of Train. Jadi melatih-pelatih di Indonesia
+201	Jadi melatih-pelatih di Indonesia
+202	Jadi melatih-pelatih di Indonesia
+203	Jadi melatih-pelatih di Indonesia
+204	Jadi melatih-pelatih di Indonesia oleh SDM FIFA.
+205	Jadi melatih-pelatih di Indonesia oleh SDM FIFA.
+206	oleh SDM FIFA.
+207	oleh SDM FIFA.
+208	oleh SDM FIFA. Dan juga selain persiapan scouting,
+209	Dan juga selain persiapan scouting,
+210	Dan juga selain persiapan scouting,
+211	Dan juga selain persiapan scouting,
+212	Dan juga selain persiapan scouting,
+213	Dan juga selain persiapan scouting,
+214	Dan juga selain persiapan scouting, kejuaraan daerah,
+215	kejuaraan daerah,
+216	kejuaraan daerah, kejuaraan dari U7 sampai junior,
+217	kejuaraan daerah, kejuaraan dari U7 sampai junior,
+218	kejuaraan dari U7 sampai junior,
+219	kejuaraan dari U7 sampai junior,
+220	kejuaraan dari U7 sampai junior,
+221	kejuaraan dari U7 sampai junior,
+222	kejuaraan dari U7 sampai junior,
+223	kejuaraan dari U7 sampai junior, saat ini juga,
+224	saat ini juga, fasilitas untuk pembinaan atlet
+225	saat ini juga, fasilitas untuk pembinaan atlet
+226	saat ini juga, fasilitas untuk pembinaan atlet
+227	fasilitas untuk pembinaan atlet
+228	fasilitas untuk pembinaan atlet
+229	fasilitas untuk pembinaan atlet
+230	fasilitas untuk pembinaan atlet juga sedang kami siapkan.
+231	fasilitas untuk pembinaan atlet juga sedang kami siapkan.
+232	juga sedang kami siapkan.
+233	juga sedang kami siapkan.
+234	juga sedang kami siapkan. Contohnya untuk sembilan cabang olahraga,
+235	Contohnya untuk sembilan cabang olahraga,
+236	Contohnya untuk sembilan cabang olahraga,
+237	Contohnya untuk sembilan cabang olahraga,
+238	Contohnya untuk sembilan cabang olahraga,
+239	Contohnya untuk sembilan cabang olahraga,
+240	Contohnya untuk sembilan cabang olahraga, salah satunya termasuk sepak bola
+241	Contohnya untuk sembilan cabang olahraga, salah satunya termasuk sepak bola
+242	salah satunya termasuk sepak bola
+243	salah satunya termasuk sepak bola
+244	salah satunya termasuk sepak bola di Cibubur, Desember ini sudah jadi.
+245	salah satunya termasuk sepak bola di Cibubur, Desember ini sudah jadi.
+246	di Cibubur, Desember ini sudah jadi.
+247	di Cibubur, Desember ini sudah jadi.
+248	di Cibubur, Desember ini sudah jadi.
+249	di Cibubur, Desember ini sudah jadi. Tingkat dunia itu ada sepak bola,
+250	di Cibubur, Desember ini sudah jadi. Tingkat dunia itu ada sepak bola,
+251	Tingkat dunia itu ada sepak bola,
+252	Tingkat dunia itu ada sepak bola,
+253	Tingkat dunia itu ada sepak bola,
+254	Tingkat dunia itu ada sepak bola, ada atletik, panahan, badminton.
+255	Tingkat dunia itu ada sepak bola, ada atletik, panahan, badminton.
+256	ada atletik, panahan, badminton.
+257	ada atletik, panahan, badminton.
+258	ada atletik, panahan, badminton.
+259	ada atletik, panahan, badminton. Dan khusus untuk atletik,
+260	Dan khusus untuk atletik,
+261	Dan khusus untuk atletik,
+262	Dan khusus untuk atletik,
+263	Dan khusus untuk atletik, ada di Pengalengan juga baru saja,
+264	Dan khusus untuk atletik, ada di Pengalengan juga baru saja,
+265	ada di Pengalengan juga baru saja,
+266	ada di Pengalengan juga baru saja,
+267	ada di Pengalengan juga baru saja,
+268	ada di Pengalengan juga baru saja, minggu terakhir, KRIOD 2019-2024,
+269	minggu terakhir, KRIOD 2019-2024,
+270	minggu terakhir, KRIOD 2019-2024,
+271	minggu terakhir, KRIOD 2019-2024,
+272	minggu terakhir, KRIOD 2019-2024, itu kami resmikan.
+273	minggu terakhir, KRIOD 2019-2024, itu kami resmikan.
+274	itu kami resmikan. Dan nantinya juga di IKN,
+275	itu kami resmikan. Dan nantinya juga di IKN,
+276	Dan nantinya juga di IKN,
+277	Dan nantinya juga di IKN,
+278	Dan nantinya juga di IKN,
+279	Dan nantinya juga di IKN,
+280	Dan nantinya juga di IKN,
+281	Dan nantinya juga di IKN, Training Center Sepak Bola, FIFA,
+282	Training Center Sepak Bola, FIFA,
+283	Training Center Sepak Bola, FIFA,
+284	Training Center Sepak Bola, FIFA, juga sudah jadi.
+285	Training Center Sepak Bola, FIFA, juga sudah jadi.
+286	juga sudah jadi.
+287	juga sudah jadi. Tinggal nunggu diresmikan oleh Presiden dan Presiden FIFA.
+288	juga sudah jadi. Tinggal nunggu diresmikan oleh Presiden dan Presiden FIFA.
+289	Tinggal nunggu diresmikan oleh Presiden dan Presiden FIFA.
+290	Tinggal nunggu diresmikan oleh Presiden dan Presiden FIFA.
+291	Tinggal nunggu diresmikan oleh Presiden dan Presiden FIFA.
+292	Tinggal nunggu diresmikan oleh Presiden dan Presiden FIFA.
+293	Tinggal nunggu diresmikan oleh Presiden dan Presiden FIFA.
+294	Tinggal nunggu diresmikan oleh Presiden dan Presiden FIFA. Atlet Indonesia ini biasanya mulai
+295	Atlet Indonesia ini biasanya mulai
+296	Atlet Indonesia ini biasanya mulai
+297	Atlet Indonesia ini biasanya mulai
+298	Atlet Indonesia ini biasanya mulai
+299	Atlet Indonesia ini biasanya mulai tanda kutip kempes ini setelah usia 20 tahun.
+300	Atlet Indonesia ini biasanya mulai tanda kutip kempes ini setelah usia 20 tahun.
+301	tanda kutip kempes ini setelah usia 20 tahun.
+302	tanda kutip kempes ini setelah usia 20 tahun.
+303	tanda kutip kempes ini setelah usia 20 tahun.
+304	tanda kutip kempes ini setelah usia 20 tahun.
+305	tanda kutip kempes ini setelah usia 20 tahun.
+306	tanda kutip kempes ini setelah usia 20 tahun.
+307	tanda kutip kempes ini setelah usia 20 tahun. Karena setelah usia 20 tahun,
+308	Karena setelah usia 20 tahun,
+309	Karena setelah usia 20 tahun,
+310	Karena setelah usia 20 tahun,
+311	Karena setelah usia 20 tahun, biasanya kita sebagai warga negara Indonesia ini
+312	biasanya kita sebagai warga negara Indonesia ini
+313	biasanya kita sebagai warga negara Indonesia ini
+314	biasanya kita sebagai warga negara Indonesia ini
+315	biasanya kita sebagai warga negara Indonesia ini sudah dihadapkan pilihan yang harus memilih dalam hidup.
+316	biasanya kita sebagai warga negara Indonesia ini sudah dihadapkan pilihan yang harus memilih dalam hidup.
+317	sudah dihadapkan pilihan yang harus memilih dalam hidup.
+318	sudah dihadapkan pilihan yang harus memilih dalam hidup.
+319	sudah dihadapkan pilihan yang harus memilih dalam hidup.
+320	sudah dihadapkan pilihan yang harus memilih dalam hidup.
+321	sudah dihadapkan pilihan yang harus memilih dalam hidup. Nah itulah yang harus kita perkuat,
+322	sudah dihadapkan pilihan yang harus memilih dalam hidup. Nah itulah yang harus kita perkuat,
+323	Nah itulah yang harus kita perkuat,
+324	Nah itulah yang harus kita perkuat,
+325	Nah itulah yang harus kita perkuat, bagaimana olahraga memiliki fungsi industri dan ekonominya
+326	Nah itulah yang harus kita perkuat, bagaimana olahraga memiliki fungsi industri dan ekonominya
+327	bagaimana olahraga memiliki fungsi industri dan ekonominya
+328	bagaimana olahraga memiliki fungsi industri dan ekonominya
+329	bagaimana olahraga memiliki fungsi industri dan ekonominya
+330	bagaimana olahraga memiliki fungsi industri dan ekonominya
+331	bagaimana olahraga memiliki fungsi industri dan ekonominya
+332	bagaimana olahraga memiliki fungsi industri dan ekonominya
+333	bagaimana olahraga memiliki fungsi industri dan ekonominya
+334	bagaimana olahraga memiliki fungsi industri dan ekonominya
+335	bagaimana olahraga memiliki fungsi industri dan ekonominya yang bisa menjamin kesejahteraan, kehidupan para tenaganya
+336	bagaimana olahraga memiliki fungsi industri dan ekonominya yang bisa menjamin kesejahteraan, kehidupan para tenaganya
+337	yang bisa menjamin kesejahteraan, kehidupan para tenaganya
+338	yang bisa menjamin kesejahteraan, kehidupan para tenaganya
+339	yang bisa menjamin kesejahteraan, kehidupan para tenaganya
+340	yang bisa menjamin kesejahteraan, kehidupan para tenaganya
+341	yang bisa menjamin kesejahteraan, kehidupan para tenaganya
+342	yang bisa menjamin kesejahteraan, kehidupan para tenaganya
+343	yang bisa menjamin kesejahteraan, kehidupan para tenaganya yang ada di dalam ekosistemnya.
+344	yang bisa menjamin kesejahteraan, kehidupan para tenaganya yang ada di dalam ekosistemnya.
+345	yang ada di dalam ekosistemnya.
+346	yang ada di dalam ekosistemnya. Jadi dari segi infrastruktur, pelatihan,
+347	yang ada di dalam ekosistemnya. Jadi dari segi infrastruktur, pelatihan,
+348	Jadi dari segi infrastruktur, pelatihan,
+349	Jadi dari segi infrastruktur, pelatihan,
+350	Jadi dari segi infrastruktur, pelatihan,
+351	Jadi dari segi infrastruktur, pelatihan,
+352	Jadi dari segi infrastruktur, pelatihan, dan di hilirnya adalah industri.
+353	Jadi dari segi infrastruktur, pelatihan, dan di hilirnya adalah industri.
+354	dan di hilirnya adalah industri.
+355	dan di hilirnya adalah industri.
+356	dan di hilirnya adalah industri. Jadi dari hulu sampai...
+357	dan di hilirnya adalah industri. Jadi dari hulu sampai...
+358	Jadi dari hulu sampai...
+359	Jadi dari hulu sampai...

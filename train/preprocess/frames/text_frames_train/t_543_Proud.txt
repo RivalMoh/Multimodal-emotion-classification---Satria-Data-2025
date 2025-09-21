@@ -1,0 +1,196 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	Tapi pada saat itu di kepala saya adalah kalau saya nggak jadi atlet, nggak jadi juara,
+5	Tapi pada saat itu di kepala saya adalah kalau saya nggak jadi atlet, nggak jadi juara,
+6	Tapi pada saat itu di kepala saya adalah kalau saya nggak jadi atlet, nggak jadi juara,
+7	Tapi pada saat itu di kepala saya adalah kalau saya nggak jadi atlet, nggak jadi juara,
+8	Tapi pada saat itu di kepala saya adalah kalau saya nggak jadi atlet, nggak jadi juara,
+9	Tapi pada saat itu di kepala saya adalah kalau saya nggak jadi atlet, nggak jadi juara,
+10	Tapi pada saat itu di kepala saya adalah kalau saya nggak jadi atlet, nggak jadi juara,
+11	Tapi pada saat itu di kepala saya adalah kalau saya nggak jadi atlet, nggak jadi juara,
+12	Tapi pada saat itu di kepala saya adalah kalau saya nggak jadi atlet, nggak jadi juara,
+13	Tapi pada saat itu di kepala saya adalah kalau saya nggak jadi atlet, nggak jadi juara,
+14	Tapi pada saat itu di kepala saya adalah kalau saya nggak jadi atlet, nggak jadi juara, terus saya mau jadi apa? Kan tanggung jawab di hidup kita adalah di diri kita. So we have to
+15	Tapi pada saat itu di kepala saya adalah kalau saya nggak jadi atlet, nggak jadi juara, terus saya mau jadi apa? Kan tanggung jawab di hidup kita adalah di diri kita. So we have to
+16	terus saya mau jadi apa? Kan tanggung jawab di hidup kita adalah di diri kita. So we have to
+17	terus saya mau jadi apa? Kan tanggung jawab di hidup kita adalah di diri kita. So we have to
+18	terus saya mau jadi apa? Kan tanggung jawab di hidup kita adalah di diri kita. So we have to
+19	terus saya mau jadi apa? Kan tanggung jawab di hidup kita adalah di diri kita. So we have to
+20	terus saya mau jadi apa? Kan tanggung jawab di hidup kita adalah di diri kita. So we have to
+21	terus saya mau jadi apa? Kan tanggung jawab di hidup kita adalah di diri kita. So we have to
+22	terus saya mau jadi apa? Kan tanggung jawab di hidup kita adalah di diri kita. So we have to
+23	terus saya mau jadi apa? Kan tanggung jawab di hidup kita adalah di diri kita. So we have to
+24	terus saya mau jadi apa? Kan tanggung jawab di hidup kita adalah di diri kita. So we have to rest in ourself. Jadi itu yang pada akhirnya jadi pemikiran besar gitu dalam kehidupan saya.
+25	terus saya mau jadi apa? Kan tanggung jawab di hidup kita adalah di diri kita. So we have to rest in ourself. Jadi itu yang pada akhirnya jadi pemikiran besar gitu dalam kehidupan saya.
+26	rest in ourself. Jadi itu yang pada akhirnya jadi pemikiran besar gitu dalam kehidupan saya.
+27	rest in ourself. Jadi itu yang pada akhirnya jadi pemikiran besar gitu dalam kehidupan saya.
+28	rest in ourself. Jadi itu yang pada akhirnya jadi pemikiran besar gitu dalam kehidupan saya.
+29	rest in ourself. Jadi itu yang pada akhirnya jadi pemikiran besar gitu dalam kehidupan saya.
+30	rest in ourself. Jadi itu yang pada akhirnya jadi pemikiran besar gitu dalam kehidupan saya.
+31	rest in ourself. Jadi itu yang pada akhirnya jadi pemikiran besar gitu dalam kehidupan saya.
+32	rest in ourself. Jadi itu yang pada akhirnya jadi pemikiran besar gitu dalam kehidupan saya.
+33	rest in ourself. Jadi itu yang pada akhirnya jadi pemikiran besar gitu dalam kehidupan saya.
+34	rest in ourself. Jadi itu yang pada akhirnya jadi pemikiran besar gitu dalam kehidupan saya.
+35	rest in ourself. Jadi itu yang pada akhirnya jadi pemikiran besar gitu dalam kehidupan saya.
+36	rest in ourself. Jadi itu yang pada akhirnya jadi pemikiran besar gitu dalam kehidupan saya.
+37	rest in ourself. Jadi itu yang pada akhirnya jadi pemikiran besar gitu dalam kehidupan saya. Saya harus tetap sekolah walaupun saya tetap jadi atlet. Jadi atlet yang nggak selamanya jadi tapi
+38	rest in ourself. Jadi itu yang pada akhirnya jadi pemikiran besar gitu dalam kehidupan saya. Saya harus tetap sekolah walaupun saya tetap jadi atlet. Jadi atlet yang nggak selamanya jadi tapi
+39	Saya harus tetap sekolah walaupun saya tetap jadi atlet. Jadi atlet yang nggak selamanya jadi tapi
+40	Saya harus tetap sekolah walaupun saya tetap jadi atlet. Jadi atlet yang nggak selamanya jadi tapi
+41	Saya harus tetap sekolah walaupun saya tetap jadi atlet. Jadi atlet yang nggak selamanya jadi tapi
+42	Saya harus tetap sekolah walaupun saya tetap jadi atlet. Jadi atlet yang nggak selamanya jadi tapi
+43	Saya harus tetap sekolah walaupun saya tetap jadi atlet. Jadi atlet yang nggak selamanya jadi tapi
+44	Saya harus tetap sekolah walaupun saya tetap jadi atlet. Jadi atlet yang nggak selamanya jadi tapi
+45	Saya harus tetap sekolah walaupun saya tetap jadi atlet. Jadi atlet yang nggak selamanya jadi tapi
+46	Saya harus tetap sekolah walaupun saya tetap jadi atlet. Jadi atlet yang nggak selamanya jadi tapi
+47	Saya harus tetap sekolah walaupun saya tetap jadi atlet. Jadi atlet yang nggak selamanya jadi tapi
+48	Saya harus tetap sekolah walaupun saya tetap jadi atlet. Jadi atlet yang nggak selamanya jadi tapi nggak di edukasi itu selamanya gitu sampai kita bawa sampai kehidupan selanjutnya. Orang tua saya,
+49	Saya harus tetap sekolah walaupun saya tetap jadi atlet. Jadi atlet yang nggak selamanya jadi tapi nggak di edukasi itu selamanya gitu sampai kita bawa sampai kehidupan selanjutnya. Orang tua saya,
+50	nggak di edukasi itu selamanya gitu sampai kita bawa sampai kehidupan selanjutnya. Orang tua saya,
+51	nggak di edukasi itu selamanya gitu sampai kita bawa sampai kehidupan selanjutnya. Orang tua saya,
+52	nggak di edukasi itu selamanya gitu sampai kita bawa sampai kehidupan selanjutnya. Orang tua saya,
+53	nggak di edukasi itu selamanya gitu sampai kita bawa sampai kehidupan selanjutnya. Orang tua saya,
+54	nggak di edukasi itu selamanya gitu sampai kita bawa sampai kehidupan selanjutnya. Orang tua saya,
+55	nggak di edukasi itu selamanya gitu sampai kita bawa sampai kehidupan selanjutnya. Orang tua saya,
+56	nggak di edukasi itu selamanya gitu sampai kita bawa sampai kehidupan selanjutnya. Orang tua saya,
+57	nggak di edukasi itu selamanya gitu sampai kita bawa sampai kehidupan selanjutnya. Orang tua saya,
+58	nggak di edukasi itu selamanya gitu sampai kita bawa sampai kehidupan selanjutnya. Orang tua saya,
+59	nggak di edukasi itu selamanya gitu sampai kita bawa sampai kehidupan selanjutnya. Orang tua saya,
+60	nggak di edukasi itu selamanya gitu sampai kita bawa sampai kehidupan selanjutnya. Orang tua saya,
+61	nggak di edukasi itu selamanya gitu sampai kita bawa sampai kehidupan selanjutnya. Orang tua saya,
+62	nggak di edukasi itu selamanya gitu sampai kita bawa sampai kehidupan selanjutnya. Orang tua saya, kakak saya itu memang bilang kalau mau jadi atlet kamu harus sekolah. Cari klub bulu tangkis yang
+63	nggak di edukasi itu selamanya gitu sampai kita bawa sampai kehidupan selanjutnya. Orang tua saya, kakak saya itu memang bilang kalau mau jadi atlet kamu harus sekolah. Cari klub bulu tangkis yang
+64	kakak saya itu memang bilang kalau mau jadi atlet kamu harus sekolah. Cari klub bulu tangkis yang
+65	kakak saya itu memang bilang kalau mau jadi atlet kamu harus sekolah. Cari klub bulu tangkis yang
+66	kakak saya itu memang bilang kalau mau jadi atlet kamu harus sekolah. Cari klub bulu tangkis yang
+67	kakak saya itu memang bilang kalau mau jadi atlet kamu harus sekolah. Cari klub bulu tangkis yang
+68	kakak saya itu memang bilang kalau mau jadi atlet kamu harus sekolah. Cari klub bulu tangkis yang
+69	kakak saya itu memang bilang kalau mau jadi atlet kamu harus sekolah. Cari klub bulu tangkis yang
+70	kakak saya itu memang bilang kalau mau jadi atlet kamu harus sekolah. Cari klub bulu tangkis yang
+71	kakak saya itu memang bilang kalau mau jadi atlet kamu harus sekolah. Cari klub bulu tangkis yang
+72	kakak saya itu memang bilang kalau mau jadi atlet kamu harus sekolah. Cari klub bulu tangkis yang
+73	kakak saya itu memang bilang kalau mau jadi atlet kamu harus sekolah. Cari klub bulu tangkis yang
+74	kakak saya itu memang bilang kalau mau jadi atlet kamu harus sekolah. Cari klub bulu tangkis yang
+75	kakak saya itu memang bilang kalau mau jadi atlet kamu harus sekolah. Cari klub bulu tangkis yang punya sekolah. Setelah lulus SD kami di Ceraya kami di Raguna. Latihan jam 5 pagi sampai jam 7,
+76	kakak saya itu memang bilang kalau mau jadi atlet kamu harus sekolah. Cari klub bulu tangkis yang punya sekolah. Setelah lulus SD kami di Ceraya kami di Raguna. Latihan jam 5 pagi sampai jam 7,
+77	punya sekolah. Setelah lulus SD kami di Ceraya kami di Raguna. Latihan jam 5 pagi sampai jam 7,
+78	punya sekolah. Setelah lulus SD kami di Ceraya kami di Raguna. Latihan jam 5 pagi sampai jam 7,
+79	punya sekolah. Setelah lulus SD kami di Ceraya kami di Raguna. Latihan jam 5 pagi sampai jam 7,
+80	punya sekolah. Setelah lulus SD kami di Ceraya kami di Raguna. Latihan jam 5 pagi sampai jam 7,
+81	punya sekolah. Setelah lulus SD kami di Ceraya kami di Raguna. Latihan jam 5 pagi sampai jam 7,
+82	punya sekolah. Setelah lulus SD kami di Ceraya kami di Raguna. Latihan jam 5 pagi sampai jam 7,
+83	punya sekolah. Setelah lulus SD kami di Ceraya kami di Raguna. Latihan jam 5 pagi sampai jam 7,
+84	punya sekolah. Setelah lulus SD kami di Ceraya kami di Raguna. Latihan jam 5 pagi sampai jam 7,
+85	punya sekolah. Setelah lulus SD kami di Ceraya kami di Raguna. Latihan jam 5 pagi sampai jam 7,
+86	punya sekolah. Setelah lulus SD kami di Ceraya kami di Raguna. Latihan jam 5 pagi sampai jam 7,
+87	punya sekolah. Setelah lulus SD kami di Ceraya kami di Raguna. Latihan jam 5 pagi sampai jam 7,
+88	punya sekolah. Setelah lulus SD kami di Ceraya kami di Raguna. Latihan jam 5 pagi sampai jam 7,
+89	punya sekolah. Setelah lulus SD kami di Ceraya kami di Raguna. Latihan jam 5 pagi sampai jam 7,
+90	punya sekolah. Setelah lulus SD kami di Ceraya kami di Raguna. Latihan jam 5 pagi sampai jam 7,
+91	punya sekolah. Setelah lulus SD kami di Ceraya kami di Raguna. Latihan jam 5 pagi sampai jam 7,
+92	punya sekolah. Setelah lulus SD kami di Ceraya kami di Raguna. Latihan jam 5 pagi sampai jam 7, sekolah jam 7.30 sampai jam 1. Kami latihan jam 2 jam 3 terus menerus sampai jam 6 sampai 7 malam
+93	punya sekolah. Setelah lulus SD kami di Ceraya kami di Raguna. Latihan jam 5 pagi sampai jam 7, sekolah jam 7.30 sampai jam 1. Kami latihan jam 2 jam 3 terus menerus sampai jam 6 sampai 7 malam
+94	sekolah jam 7.30 sampai jam 1. Kami latihan jam 2 jam 3 terus menerus sampai jam 6 sampai 7 malam
+95	sekolah jam 7.30 sampai jam 1. Kami latihan jam 2 jam 3 terus menerus sampai jam 6 sampai 7 malam
+96	sekolah jam 7.30 sampai jam 1. Kami latihan jam 2 jam 3 terus menerus sampai jam 6 sampai 7 malam
+97	sekolah jam 7.30 sampai jam 1. Kami latihan jam 2 jam 3 terus menerus sampai jam 6 sampai 7 malam
+98	sekolah jam 7.30 sampai jam 1. Kami latihan jam 2 jam 3 terus menerus sampai jam 6 sampai 7 malam
+99	sekolah jam 7.30 sampai jam 1. Kami latihan jam 2 jam 3 terus menerus sampai jam 6 sampai 7 malam
+100	sekolah jam 7.30 sampai jam 1. Kami latihan jam 2 jam 3 terus menerus sampai jam 6 sampai 7 malam
+101	sekolah jam 7.30 sampai jam 1. Kami latihan jam 2 jam 3 terus menerus sampai jam 6 sampai 7 malam
+102	sekolah jam 7.30 sampai jam 1. Kami latihan jam 2 jam 3 terus menerus sampai jam 6 sampai 7 malam
+103	sekolah jam 7.30 sampai jam 1. Kami latihan jam 2 jam 3 terus menerus sampai jam 6 sampai 7 malam
+104	sekolah jam 7.30 sampai jam 1. Kami latihan jam 2 jam 3 terus menerus sampai jam 6 sampai 7 malam
+105	sekolah jam 7.30 sampai jam 1. Kami latihan jam 2 jam 3 terus menerus sampai jam 6 sampai 7 malam
+106	sekolah jam 7.30 sampai jam 1. Kami latihan jam 2 jam 3 terus menerus sampai jam 6 sampai 7 malam
+107	sekolah jam 7.30 sampai jam 1. Kami latihan jam 2 jam 3 terus menerus sampai jam 6 sampai 7 malam makan.
+108	sekolah jam 7.30 sampai jam 1. Kami latihan jam 2 jam 3 terus menerus sampai jam 6 sampai 7 malam makan. Karena kurang mata pelajarannya yang harus diisi kami sekolah lagi malamnya jam 8 sampai jam 9.30
+109	Karena kurang mata pelajarannya yang harus diisi kami sekolah lagi malamnya jam 8 sampai jam 9.30
+110	Karena kurang mata pelajarannya yang harus diisi kami sekolah lagi malamnya jam 8 sampai jam 9.30
+111	Karena kurang mata pelajarannya yang harus diisi kami sekolah lagi malamnya jam 8 sampai jam 9.30
+112	Karena kurang mata pelajarannya yang harus diisi kami sekolah lagi malamnya jam 8 sampai jam 9.30
+113	Karena kurang mata pelajarannya yang harus diisi kami sekolah lagi malamnya jam 8 sampai jam 9.30
+114	Karena kurang mata pelajarannya yang harus diisi kami sekolah lagi malamnya jam 8 sampai jam 9.30
+115	Karena kurang mata pelajarannya yang harus diisi kami sekolah lagi malamnya jam 8 sampai jam 9.30
+116	Karena kurang mata pelajarannya yang harus diisi kami sekolah lagi malamnya jam 8 sampai jam 9.30
+117	Karena kurang mata pelajarannya yang harus diisi kami sekolah lagi malamnya jam 8 sampai jam 9.30
+118	Karena kurang mata pelajarannya yang harus diisi kami sekolah lagi malamnya jam 8 sampai jam 9.30
+119	Karena kurang mata pelajarannya yang harus diisi kami sekolah lagi malamnya jam 8 sampai jam 9.30 malam. Full day banget. Full day tapi kan itu kan demi untuk komposisinya seimbang. Sebagai seorang
+120	Karena kurang mata pelajarannya yang harus diisi kami sekolah lagi malamnya jam 8 sampai jam 9.30 malam. Full day banget. Full day tapi kan itu kan demi untuk komposisinya seimbang. Sebagai seorang
+121	malam. Full day banget. Full day tapi kan itu kan demi untuk komposisinya seimbang. Sebagai seorang
+122	malam. Full day banget. Full day tapi kan itu kan demi untuk komposisinya seimbang. Sebagai seorang
+123	malam. Full day banget. Full day tapi kan itu kan demi untuk komposisinya seimbang. Sebagai seorang
+124	malam. Full day banget. Full day tapi kan itu kan demi untuk komposisinya seimbang. Sebagai seorang
+125	malam. Full day banget. Full day tapi kan itu kan demi untuk komposisinya seimbang. Sebagai seorang
+126	malam. Full day banget. Full day tapi kan itu kan demi untuk komposisinya seimbang. Sebagai seorang
+127	malam. Full day banget. Full day tapi kan itu kan demi untuk komposisinya seimbang. Sebagai seorang
+128	malam. Full day banget. Full day tapi kan itu kan demi untuk komposisinya seimbang. Sebagai seorang
+129	malam. Full day banget. Full day tapi kan itu kan demi untuk komposisinya seimbang. Sebagai seorang
+130	malam. Full day banget. Full day tapi kan itu kan demi untuk komposisinya seimbang. Sebagai seorang
+131	malam. Full day banget. Full day tapi kan itu kan demi untuk komposisinya seimbang. Sebagai seorang
+132	malam. Full day banget. Full day tapi kan itu kan demi untuk komposisinya seimbang. Sebagai seorang atlet kami fokus di atlet tapi tidak ketinggalan sekolahnya SMP dan SMA ini. Nah itu kan SKO dari
+133	malam. Full day banget. Full day tapi kan itu kan demi untuk komposisinya seimbang. Sebagai seorang atlet kami fokus di atlet tapi tidak ketinggalan sekolahnya SMP dan SMA ini. Nah itu kan SKO dari
+134	atlet kami fokus di atlet tapi tidak ketinggalan sekolahnya SMP dan SMA ini. Nah itu kan SKO dari
+135	atlet kami fokus di atlet tapi tidak ketinggalan sekolahnya SMP dan SMA ini. Nah itu kan SKO dari
+136	atlet kami fokus di atlet tapi tidak ketinggalan sekolahnya SMP dan SMA ini. Nah itu kan SKO dari
+137	atlet kami fokus di atlet tapi tidak ketinggalan sekolahnya SMP dan SMA ini. Nah itu kan SKO dari
+138	atlet kami fokus di atlet tapi tidak ketinggalan sekolahnya SMP dan SMA ini. Nah itu kan SKO dari
+139	atlet kami fokus di atlet tapi tidak ketinggalan sekolahnya SMP dan SMA ini. Nah itu kan SKO dari
+140	atlet kami fokus di atlet tapi tidak ketinggalan sekolahnya SMP dan SMA ini. Nah itu kan SKO dari
+141	atlet kami fokus di atlet tapi tidak ketinggalan sekolahnya SMP dan SMA ini. Nah itu kan SKO dari
+142	atlet kami fokus di atlet tapi tidak ketinggalan sekolahnya SMP dan SMA ini. Nah itu kan SKO dari
+143	atlet kami fokus di atlet tapi tidak ketinggalan sekolahnya SMP dan SMA ini. Nah itu kan SKO dari
+144	atlet kami fokus di atlet tapi tidak ketinggalan sekolahnya SMP dan SMA ini. Nah itu kan SKO dari
+145	atlet kami fokus di atlet tapi tidak ketinggalan sekolahnya SMP dan SMA ini. Nah itu kan SKO dari DKI dan juga memang waktu itu ada bekerja sama dengan JRaya. Nah bagaimana pemerintahan ini
+146	atlet kami fokus di atlet tapi tidak ketinggalan sekolahnya SMP dan SMA ini. Nah itu kan SKO dari DKI dan juga memang waktu itu ada bekerja sama dengan JRaya. Nah bagaimana pemerintahan ini
+147	DKI dan juga memang waktu itu ada bekerja sama dengan JRaya. Nah bagaimana pemerintahan ini
+148	DKI dan juga memang waktu itu ada bekerja sama dengan JRaya. Nah bagaimana pemerintahan ini
+149	DKI dan juga memang waktu itu ada bekerja sama dengan JRaya. Nah bagaimana pemerintahan ini
+150	DKI dan juga memang waktu itu ada bekerja sama dengan JRaya. Nah bagaimana pemerintahan ini
+151	DKI dan juga memang waktu itu ada bekerja sama dengan JRaya. Nah bagaimana pemerintahan ini
+152	DKI dan juga memang waktu itu ada bekerja sama dengan JRaya. Nah bagaimana pemerintahan ini
+153	DKI dan juga memang waktu itu ada bekerja sama dengan JRaya. Nah bagaimana pemerintahan ini
+154	DKI dan juga memang waktu itu ada bekerja sama dengan JRaya. Nah bagaimana pemerintahan ini
+155	DKI dan juga memang waktu itu ada bekerja sama dengan JRaya. Nah bagaimana pemerintahan ini
+156	DKI dan juga memang waktu itu ada bekerja sama dengan JRaya. Nah bagaimana pemerintahan ini mempunyai sistema yang sama mungkin kalau ada komunikasi dua arah tiga arah.
+157	DKI dan juga memang waktu itu ada bekerja sama dengan JRaya. Nah bagaimana pemerintahan ini mempunyai sistema yang sama mungkin kalau ada komunikasi dua arah tiga arah.
+158	mempunyai sistema yang sama mungkin kalau ada komunikasi dua arah tiga arah.
+159	mempunyai sistema yang sama mungkin kalau ada komunikasi dua arah tiga arah.
+160	mempunyai sistema yang sama mungkin kalau ada komunikasi dua arah tiga arah.
+161	mempunyai sistema yang sama mungkin kalau ada komunikasi dua arah tiga arah.
+162	mempunyai sistema yang sama mungkin kalau ada komunikasi dua arah tiga arah.
+163	mempunyai sistema yang sama mungkin kalau ada komunikasi dua arah tiga arah.
+164	mempunyai sistema yang sama mungkin kalau ada komunikasi dua arah tiga arah.
+165	mempunyai sistema yang sama mungkin kalau ada komunikasi dua arah tiga arah.
+166	mempunyai sistema yang sama mungkin kalau ada komunikasi dua arah tiga arah.
+167	mempunyai sistema yang sama mungkin kalau ada komunikasi dua arah tiga arah. Sesama pasti bisa ada solusinya gitu mau dimanapun kita ditempatkan.
+168	mempunyai sistema yang sama mungkin kalau ada komunikasi dua arah tiga arah. Sesama pasti bisa ada solusinya gitu mau dimanapun kita ditempatkan.
+169	Sesama pasti bisa ada solusinya gitu mau dimanapun kita ditempatkan.
+170	Sesama pasti bisa ada solusinya gitu mau dimanapun kita ditempatkan.
+171	Sesama pasti bisa ada solusinya gitu mau dimanapun kita ditempatkan.
+172	Sesama pasti bisa ada solusinya gitu mau dimanapun kita ditempatkan.
+173	Sesama pasti bisa ada solusinya gitu mau dimanapun kita ditempatkan.
+174	Sesama pasti bisa ada solusinya gitu mau dimanapun kita ditempatkan.
+175	Sesama pasti bisa ada solusinya gitu mau dimanapun kita ditempatkan.
+176	Sesama pasti bisa ada solusinya gitu mau dimanapun kita ditempatkan.
+177	Sesama pasti bisa ada solusinya gitu mau dimanapun kita ditempatkan.
+178	Sesama pasti bisa ada solusinya gitu mau dimanapun kita ditempatkan.
+179	Sesama pasti bisa ada solusinya gitu mau dimanapun kita ditempatkan. Salam olahraga, Jaya, Erosi Indonesia, paling keren selunia.
+180	Sesama pasti bisa ada solusinya gitu mau dimanapun kita ditempatkan. Salam olahraga, Jaya, Erosi Indonesia, paling keren selunia.
+181	Salam olahraga, Jaya, Erosi Indonesia, paling keren selunia.
+182	Salam olahraga, Jaya, Erosi Indonesia, paling keren selunia.
+183	Salam olahraga, Jaya, Erosi Indonesia, paling keren selunia.
+184	Salam olahraga, Jaya, Erosi Indonesia, paling keren selunia.
+185	Salam olahraga, Jaya, Erosi Indonesia, paling keren selunia.
+186	Salam olahraga, Jaya, Erosi Indonesia, paling keren selunia.
+187	Salam olahraga, Jaya, Erosi Indonesia, paling keren selunia.
+188	Salam olahraga, Jaya, Erosi Indonesia, paling keren selunia.
+189	Salam olahraga, Jaya, Erosi Indonesia, paling keren selunia.
+190	Salam olahraga, Jaya, Erosi Indonesia, paling keren selunia.
+191	Salam olahraga, Jaya, Erosi Indonesia, paling keren selunia.
+192	Salam olahraga, Jaya, Erosi Indonesia, paling keren selunia.
+193	[NO_SPEECH]
+194	[NO_SPEECH]
+195	[NO_SPEECH]

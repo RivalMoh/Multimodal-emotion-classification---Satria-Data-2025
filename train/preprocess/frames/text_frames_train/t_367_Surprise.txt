@@ -1,0 +1,226 @@
+0	ada motor baru nih
+1	ada motor baru nih
+2	ada motor baru nih tapi bukan dapet helm, bukan dapet jaket, tapi dapetnya
+3	tapi bukan dapet helm, bukan dapet jaket, tapi dapetnya
+4	tapi bukan dapet helm, bukan dapet jaket, tapi dapetnya
+5	tapi bukan dapet helm, bukan dapet jaket, tapi dapetnya
+6	tapi bukan dapet helm, bukan dapet jaket, tapi dapetnya
+7	tapi bukan dapet helm, bukan dapet jaket, tapi dapetnya
+8	tapi bukan dapet helm, bukan dapet jaket, tapi dapetnya
+9	tapi bukan dapet helm, bukan dapet jaket, tapi dapetnya
+10	[NO_SPEECH]
+11	2 baterai
+12	2 baterai
+13	2 baterai 2 baterai ya
+14	2 baterai 2 baterai ya
+15	2 baterai ya
+16	2 baterai ya
+17	2 baterai ya
+18	[NO_SPEECH]
+19	mana? aduh
+20	mana? aduh
+21	mana? aduh ini baterainya, bungkusan loh
+22	mana? aduh ini baterainya, bungkusan loh
+23	ini baterainya, bungkusan loh
+24	ini baterainya, bungkusan loh
+25	ini baterainya, bungkusan loh
+26	bungkusan gini loh
+27	bungkusan gini loh
+28	bungkusan gini loh tuh
+29	bungkusan gini loh tuh
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	baterai
+36	baterai nah ini yang unik nih yang gede banget nih
+37	baterai nah ini yang unik nih yang gede banget nih
+38	nah ini yang unik nih yang gede banget nih
+39	nah ini yang unik nih yang gede banget nih
+40	nah ini yang unik nih yang gede banget nih
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	charger juga
+49	charger juga charging dock, busetnya
+50	charger juga charging dock, busetnya
+51	charging dock, busetnya
+52	charging dock, busetnya
+53	charging dock, busetnya karena cuma 1 charger docknya
+54	charging dock, busetnya karena cuma 1 charger docknya
+55	karena cuma 1 charger docknya
+56	karena cuma 1 charger docknya
+57	karena cuma 1 charger docknya
+58	karena cuma 1 charger docknya tapi baterainya ada 2
+59	karena cuma 1 charger docknya tapi baterainya ada 2
+60	tapi baterainya ada 2 ini ga bisa nih, tas barengan nih
+61	tapi baterainya ada 2 ini ga bisa nih, tas barengan nih
+62	ini ga bisa nih, tas barengan nih
+63	ini ga bisa nih, tas barengan nih tas baterainya harus satu-satu
+64	ini ga bisa nih, tas barengan nih tas baterainya harus satu-satu
+65	tas baterainya harus satu-satu
+66	tas baterainya harus satu-satu honda cuve
+67	tas baterainya harus satu-satu honda cuve
+68	tas baterainya harus satu-satu honda cuve
+69	honda cuve
+70	honda cuve
+71	honda cuve
+72	[NO_SPEECH]
+73	[NO_SPEECH]
+74	[NO_SPEECH]
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	ini kuat banget loh
+82	ini kuat banget loh
+83	ini kuat banget loh
+84	ini kuat banget loh
+85	ini kuat banget loh
+86	ini kuat banget loh
+87	ini ada penjepitnya lagi gini
+88	ini ada penjepitnya lagi gini
+89	ini ada penjepitnya lagi gini
+90	ini ada penjepitnya lagi gini karet nih
+91	ini ada penjepitnya lagi gini karet nih
+92	karet nih
+93	karet nih
+94	karet nih
+95	[NO_SPEECH]
+96	[NO_SPEECH]
+97	coba nyalain kak
+98	coba nyalain kak
+99	coba nyalain kak
+100	coba nyalain kak
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	[NO_SPEECH]
+104	[NO_SPEECH]
+105	[NO_SPEECH]
+106	udah di charging ya disini
+107	udah di charging ya disini
+108	udah di charging ya disini
+109	udah di charging ya disini
+110	udah di charging ya disini tuh
+111	udah di charging ya disini tuh
+112	tuh
+113	tuh media 1721
+114	media 1721
+115	media 1721
+116	media 1721
+117	oh syukurlah 100%
+118	oh syukurlah 100%
+119	oh syukurlah 100%
+120	oh syukurlah 100% masih baru banget
+121	oh syukurlah 100% masih baru banget
+122	masih baru banget
+123	masih baru banget
+124	masih baru banget
+125	ordonya baru 5 kilo
+126	ordonya baru 5 kilo ngerayain motor
+127	ordonya baru 5 kilo ngerayain motor
+128	ngerayain motor
+129	ngerayain motor
+130	ngerayain motor
+131	[NO_SPEECH]
+132	[NO_SPEECH]
+133	[NO_SPEECH]
+134	cakep ya
+135	cakep ya
+136	cakep ya cuma 76 kilo tapi 2 baterai pun
+137	cakep ya cuma 76 kilo tapi 2 baterai pun
+138	cuma 76 kilo tapi 2 baterai pun
+139	cuma 76 kilo tapi 2 baterai pun
+140	cuma 76 kilo tapi 2 baterai pun 2 baterai keren, iya ya
+141	cuma 76 kilo tapi 2 baterai pun 2 baterai keren, iya ya
+142	2 baterai keren, iya ya
+143	2 baterai keren, iya ya itu pake standar loh padahal
+144	2 baterai keren, iya ya itu pake standar loh padahal
+145	itu pake standar loh padahal
+146	itu pake standar loh padahal iya, belum yang sport ya
+147	itu pake standar loh padahal iya, belum yang sport ya
+148	iya, belum yang sport ya
+149	iya, belum yang sport ya kalo pake sport
+150	iya, belum yang sport ya kalo pake sport
+151	kalo pake sport
+152	itu sama reaksinya
+153	itu sama reaksinya
+154	itu sama reaksinya oh berarti nanti mungkin akan berkurang ketika dipake jalan kali ya
+155	itu sama reaksinya oh berarti nanti mungkin akan berkurang ketika dipake jalan kali ya
+156	oh berarti nanti mungkin akan berkurang ketika dipake jalan kali ya
+157	oh berarti nanti mungkin akan berkurang ketika dipake jalan kali ya
+158	oh berarti nanti mungkin akan berkurang ketika dipake jalan kali ya
+159	oh berarti nanti mungkin akan berkurang ketika dipake jalan kali ya
+160	oh berarti nanti mungkin akan berkurang ketika dipake jalan kali ya
+161	oh berarti nanti mungkin akan berkurang ketika dipake jalan kali ya lebih cepet turunnya
+162	oh berarti nanti mungkin akan berkurang ketika dipake jalan kali ya lebih cepet turunnya
+163	lebih cepet turunnya
+164	[NO_SPEECH]
+165	biar nyampe rumah pake ikon deh
+166	biar nyampe rumah pake ikon deh
+167	biar nyampe rumah pake ikon deh
+168	biar nyampe rumah pake ikon deh
+169	biar nyampe rumah pake ikon deh
+170	[NO_SPEECH]
+171	[NO_SPEECH]
+172	[NO_SPEECH]
+173	ayo An
+174	ayo An
+175	ayo An
+176	[NO_SPEECH]
+177	iya
+178	iya
+179	asik
+180	asik
+181	asik
+182	asik
+183	[NO_SPEECH]
+184	ada putri kan malam ini nih
+185	ada putri kan malam ini nih
+186	ada putri kan malam ini nih
+187	ada putri kan malam ini nih
+188	ada putri kan malam ini nih
+189	ada putri kan malam ini nih iya
+190	ada putri kan malam ini nih iya
+191	iya
+192	iya
+193	[NO_SPEECH]
+194	iya
+195	iya
+196	iya
+197	iya
+198	[NO_SPEECH]
+199	[NO_SPEECH]
+200	[NO_SPEECH]
+201	[NO_SPEECH]
+202	[NO_SPEECH]
+203	[NO_SPEECH]
+204	[NO_SPEECH]
+205	iya
+206	iya
+207	iya iya iya iya
+208	iya iya iya iya
+209	iya
+210	[NO_SPEECH]
+211	iya
+212	iya
+213	iya iya   iya
+214	iya iya   iya
+215	iya  iya
+216	iya  iya iya
+217	iya iya iya
+218	iya iya 
+219	iya 
+220	[NO_SPEECH]
+221	[NO_SPEECH]
+222	[NO_SPEECH]
+223	[NO_SPEECH]
+224	[NO_SPEECH]
+225	[NO_SPEECH]

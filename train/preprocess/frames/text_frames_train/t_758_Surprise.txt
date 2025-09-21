@@ -1,0 +1,191 @@
+0	Is it true that Hitler died in Garut?
+1	Is it true that Hitler died in Garut?
+2	Is it true that Hitler died in Garut?
+3	Is it true that Hitler died in Garut?
+4	Is it true that Hitler died in Garut? Let's settle this once and for all.
+5	Is it true that Hitler died in Garut? Let's settle this once and for all.
+6	Let's settle this once and for all.
+7	Let's settle this once and for all.
+8	Let's settle this once and for all. Let's settle this once and for all.
+9	Let's settle this once and for all.
+10	Let's settle this once and for all.
+11	Let's settle this once and for all.
+12	Let's settle this once and for all.
+13	Let's settle this once and for all. There's so many Hitler in Garut stories.
+14	Let's settle this once and for all. There's so many Hitler in Garut stories.
+15	There's so many Hitler in Garut stories.
+16	There's so many Hitler in Garut stories.
+17	There's so many Hitler in Garut stories.
+18	There's so many Hitler in Garut stories. It's killing me.
+19	It's killing me.
+20	It's killing me.
+21	It's killing me. Yeah, this is one of the most famous, I think.
+22	It's killing me. Yeah, this is one of the most famous, I think.
+23	Yeah, this is one of the most famous, I think.
+24	Yeah, this is one of the most famous, I think.
+25	Yeah, this is one of the most famous, I think. The most famous.
+26	The most famous.
+27	The most famous.
+28	The most famous. After Sunda Empire.
+29	After Sunda Empire.
+30	After Sunda Empire. After Sunda Empire, Hitler died in Garut.
+31	After Sunda Empire, Hitler died in Garut.
+32	After Sunda Empire, Hitler died in Garut.
+33	After Sunda Empire, Hitler died in Garut.
+34	After Sunda Empire, Hitler died in Garut. Hitler died in Garut.
+35	After Sunda Empire, Hitler died in Garut. Hitler died in Garut.
+36	Hitler died in Garut. So what is your official take?
+37	Hitler died in Garut. So what is your official take?
+38	So what is your official take?
+39	So what is your official take?
+40	So what is your official take? Well, my official take is that, yes, I mean, there was a connection between Japan and Nazi Germany.
+41	So what is your official take? Well, my official take is that, yes, I mean, there was a connection between Japan and Nazi Germany.
+42	Well, my official take is that, yes, I mean, there was a connection between Japan and Nazi Germany.
+43	Well, my official take is that, yes, I mean, there was a connection between Japan and Nazi Germany.
+44	Well, my official take is that, yes, I mean, there was a connection between Japan and Nazi Germany.
+45	Well, my official take is that, yes, I mean, there was a connection between Japan and Nazi Germany.
+46	Well, my official take is that, yes, I mean, there was a connection between Japan and Nazi Germany.
+47	Well, my official take is that, yes, I mean, there was a connection between Japan and Nazi Germany.
+48	Well, my official take is that, yes, I mean, there was a connection between Japan and Nazi Germany.
+49	Well, my official take is that, yes, I mean, there was a connection between Japan and Nazi Germany.
+50	Well, my official take is that, yes, I mean, there was a connection between Japan and Nazi Germany.
+51	Well, my official take is that, yes, I mean, there was a connection between Japan and Nazi Germany.
+52	Well, my official take is that, yes, I mean, there was a connection between Japan and Nazi Germany.
+53	Well, my official take is that, yes, I mean, there was a connection between Japan and Nazi Germany.
+54	Well, my official take is that, yes, I mean, there was a connection between Japan and Nazi Germany.
+55	Well, my official take is that, yes, I mean, there was a connection between Japan and Nazi Germany. Germany and lots of Nazi officers from, you know, the Admiral Röder's fleet came here.
+56	Well, my official take is that, yes, I mean, there was a connection between Japan and Nazi Germany. Germany and lots of Nazi officers from, you know, the Admiral Röder's fleet came here.
+57	Germany and lots of Nazi officers from, you know, the Admiral Röder's fleet came here.
+58	Germany and lots of Nazi officers from, you know, the Admiral Röder's fleet came here.
+59	Germany and lots of Nazi officers from, you know, the Admiral Röder's fleet came here.
+60	Germany and lots of Nazi officers from, you know, the Admiral Röder's fleet came here.
+61	Germany and lots of Nazi officers from, you know, the Admiral Röder's fleet came here.
+62	Germany and lots of Nazi officers from, you know, the Admiral Röder's fleet came here.
+63	Germany and lots of Nazi officers from, you know, the Admiral Röder's fleet came here.
+64	Germany and lots of Nazi officers from, you know, the Admiral Röder's fleet came here.
+65	Germany and lots of Nazi officers from, you know, the Admiral Röder's fleet came here.
+66	Germany and lots of Nazi officers from, you know, the Admiral Röder's fleet came here.
+67	Germany and lots of Nazi officers from, you know, the Admiral Röder's fleet came here.
+68	Germany and lots of Nazi officers from, you know, the Admiral Röder's fleet came here.
+69	Germany and lots of Nazi officers from, you know, the Admiral Röder's fleet came here.
+70	Germany and lots of Nazi officers from, you know, the Admiral Röder's fleet came here.
+71	Germany and lots of Nazi officers from, you know, the Admiral Röder's fleet came here.
+72	Germany and lots of Nazi officers from, you know, the Admiral Röder's fleet came here.
+73	Germany and lots of Nazi officers from, you know, the Admiral Röder's fleet came here.
+74	Surabaya was a major naval asset.
+75	Surabaya was a major naval asset.
+76	Surabaya was a major naval asset.
+77	Surabaya was a major naval asset.
+78	Surabaya was a major naval asset.
+79	Surabaya was a major naval asset.
+80	Surabaya was a major naval asset.
+81	Surabaya was a major naval asset.
+82	Surabaya was a major naval asset.
+83	Surabaya was a major naval asset. And we have diaries of German officers who were seconded here.
+84	And we have diaries of German officers who were seconded here.
+85	And we have diaries of German officers who were seconded here.
+86	And we have diaries of German officers who were seconded here.
+87	And we have diaries of German officers who were seconded here.
+88	And we have diaries of German officers who were seconded here.
+89	And we have diaries of German officers who were seconded here.
+90	And we have diaries of German officers who were seconded here.
+91	And we have diaries of German officers who were seconded here.
+92	And we have diaries of German officers who were seconded here.
+93	And we have diaries of German officers who were seconded here. They got not a terribly warm welcome from the Japanese, but they did come here.
+94	And we have diaries of German officers who were seconded here. They got not a terribly warm welcome from the Japanese, but they did come here.
+95	They got not a terribly warm welcome from the Japanese, but they did come here.
+96	They got not a terribly warm welcome from the Japanese, but they did come here.
+97	They got not a terribly warm welcome from the Japanese, but they did come here.
+98	They got not a terribly warm welcome from the Japanese, but they did come here.
+99	They got not a terribly warm welcome from the Japanese, but they did come here.
+100	They got not a terribly warm welcome from the Japanese, but they did come here.
+101	They got not a terribly warm welcome from the Japanese, but they did come here.
+102	They got not a terribly warm welcome from the Japanese, but they did come here.
+103	They got not a terribly warm welcome from the Japanese, but they did come here.
+104	They got not a terribly warm welcome from the Japanese, but they did come here. They had, this was like Portugal.
+105	They got not a terribly warm welcome from the Japanese, but they did come here. They had, this was like Portugal.
+106	They had, this was like Portugal.
+107	They had, this was like Portugal.
+108	They had, this was like Portugal.
+109	They had, this was like Portugal. It was a place where you could.
+110	They had, this was like Portugal. It was a place where you could.
+111	It was a place where you could.
+112	It was a place where you could.
+113	It was a place where you could.
+114	[NO_SPEECH]
+115	Refit.
+116	Refit. You could disguise, you know, under U-boats.
+117	Refit. You could disguise, you know, under U-boats.
+118	You could disguise, you know, under U-boats.
+119	You could disguise, you know, under U-boats.
+120	You could disguise, you know, under U-boats.
+121	You could disguise, you know, under U-boats.
+122	You could disguise, you know, under U-boats.
+123	You could disguise, you know, under U-boats.
+124	You could disguise, you know, under U-boats.
+125	You could disguise, you know, under U-boats.
+126	You could disguise, you know, under U-boats.
+127	You could disguise, you know, under U-boats.
+128	You could disguise, you know, under U-boats.
+129	You could disguise, you know, under U-boats.
+130	You could disguise, you know, under U-boats.
+131	You could disguise, you know, under U-boats. Right.
+132	You could disguise, you know, under U-boats. Right.
+133	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+134	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+135	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+136	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+137	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+138	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+139	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+140	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+141	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+142	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+143	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+144	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+145	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+146	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+147	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+148	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+149	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+150	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+151	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+152	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+153	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy,
+154	And, yeah, there were key figures within the Abwehr and within the, particularly the Navy, the Kreuzmarine, which were here in visiting.
+155	the Kreuzmarine, which were here in visiting.
+156	the Kreuzmarine, which were here in visiting.
+157	the Kreuzmarine, which were here in visiting.
+158	the Kreuzmarine, which were here in visiting.
+159	the Kreuzmarine, which were here in visiting.
+160	the Kreuzmarine, which were here in visiting.
+161	the Kreuzmarine, which were here in visiting.
+162	the Kreuzmarine, which were here in visiting.
+163	the Kreuzmarine, which were here in visiting.
+164	the Kreuzmarine, which were here in visiting.
+165	the Kreuzmarine, which were here in visiting.
+166	the Kreuzmarine, which were here in visiting.
+167	Okay.
+168	Okay.
+169	Hitler did not die in Garut.
+170	Hitler did not die in Garut.
+171	Hitler did not die in Garut.
+172	Hitler did not die in Garut.
+173	Hitler did not die in Garut. Oh, God.
+174	Oh, God.
+175	Oh, God. Oh, my God.
+176	Oh, God. Oh, my God.
+177	Oh, my God. I was like, oh, my gosh.
+178	Oh, my God. I was like, oh, my gosh.
+179	I was like, oh, my gosh.
+180	I was like, oh, my gosh.
+181	I was like, oh, my gosh.
+182	I was like, oh, my gosh.
+183	I was like, oh, my gosh.
+184	I was like, oh, my gosh. Thank you.
+185	I was like, oh, my gosh. Thank you.
+186	Thank you.
+187	[NO_SPEECH]
+188	[NO_SPEECH]
+189	[NO_SPEECH]
+190	[NO_SPEECH]

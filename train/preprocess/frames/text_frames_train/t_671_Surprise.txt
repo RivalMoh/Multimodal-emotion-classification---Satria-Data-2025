@@ -1,0 +1,93 @@
+0	Hati-hati!
+1	Hati-hati!
+2	[NO_SPEECH]
+3	Gen Z bisa terkena kanker lho.
+4	Gen Z bisa terkena kanker lho.
+5	Gen Z bisa terkena kanker lho.
+6	Gen Z bisa terkena kanker lho. Kok bisa?
+7	Kok bisa?
+8	Kok bisa?
+9	Iya bisa.
+10	Iya bisa.
+11	Iya bisa. Jenis kankernya disebut kanker kolorektal.
+12	Jenis kankernya disebut kanker kolorektal.
+13	Jenis kankernya disebut kanker kolorektal.
+14	Jenis kankernya disebut kanker kolorektal.
+15	Jenis kankernya disebut kanker kolorektal.
+16	Jenis kankernya disebut kanker kolorektal.
+17	Jenis kankernya disebut kanker kolorektal.
+18	Jenis kankernya disebut kanker kolorektal.
+19	Jenis kankernya disebut kanker kolorektal. Merupakan kanker yang berasal dari usus besar,
+20	Merupakan kanker yang berasal dari usus besar,
+21	Merupakan kanker yang berasal dari usus besar,
+22	Merupakan kanker yang berasal dari usus besar,
+23	Merupakan kanker yang berasal dari usus besar,
+24	Merupakan kanker yang berasal dari usus besar, kemudian bisa menyebar ke dalam rektum, dan sebaliknya.
+25	kemudian bisa menyebar ke dalam rektum, dan sebaliknya.
+26	kemudian bisa menyebar ke dalam rektum, dan sebaliknya.
+27	kemudian bisa menyebar ke dalam rektum, dan sebaliknya.
+28	kemudian bisa menyebar ke dalam rektum, dan sebaliknya.
+29	kemudian bisa menyebar ke dalam rektum, dan sebaliknya.
+30	kemudian bisa menyebar ke dalam rektum, dan sebaliknya. Bukan hanya golongan usia tua,
+31	kemudian bisa menyebar ke dalam rektum, dan sebaliknya. Bukan hanya golongan usia tua,
+32	Bukan hanya golongan usia tua,
+33	Bukan hanya golongan usia tua,
+34	Bukan hanya golongan usia tua,
+35	Bukan hanya golongan usia tua, jenis kanker ini bisa menyerang usia muda juga nih.
+36	jenis kanker ini bisa menyerang usia muda juga nih.
+37	jenis kanker ini bisa menyerang usia muda juga nih.
+38	jenis kanker ini bisa menyerang usia muda juga nih.
+39	jenis kanker ini bisa menyerang usia muda juga nih.
+40	jenis kanker ini bisa menyerang usia muda juga nih.
+41	jenis kanker ini bisa menyerang usia muda juga nih.
+42	Mayoritas penyebabnya pun karena gaya hidup tidak sehat,
+43	Mayoritas penyebabnya pun karena gaya hidup tidak sehat,
+44	Mayoritas penyebabnya pun karena gaya hidup tidak sehat,
+45	Mayoritas penyebabnya pun karena gaya hidup tidak sehat,
+46	Mayoritas penyebabnya pun karena gaya hidup tidak sehat,
+47	Mayoritas penyebabnya pun karena gaya hidup tidak sehat,
+48	Mayoritas penyebabnya pun karena gaya hidup tidak sehat,
+49	Mayoritas penyebabnya pun karena gaya hidup tidak sehat, kurang aktivitas fisik dan pola makan tidak seimbang.
+50	kurang aktivitas fisik dan pola makan tidak seimbang.
+51	kurang aktivitas fisik dan pola makan tidak seimbang.
+52	kurang aktivitas fisik dan pola makan tidak seimbang.
+53	kurang aktivitas fisik dan pola makan tidak seimbang.
+54	kurang aktivitas fisik dan pola makan tidak seimbang.
+55	kurang aktivitas fisik dan pola makan tidak seimbang.
+56	kurang aktivitas fisik dan pola makan tidak seimbang. Gejala kanker ini ditandai dengan perubahan pola buang air besar,
+57	Gejala kanker ini ditandai dengan perubahan pola buang air besar,
+58	Gejala kanker ini ditandai dengan perubahan pola buang air besar,
+59	Gejala kanker ini ditandai dengan perubahan pola buang air besar,
+60	Gejala kanker ini ditandai dengan perubahan pola buang air besar,
+61	Gejala kanker ini ditandai dengan perubahan pola buang air besar,
+62	Gejala kanker ini ditandai dengan perubahan pola buang air besar,
+63	Gejala kanker ini ditandai dengan perubahan pola buang air besar,
+64	Gejala kanker ini ditandai dengan perubahan pola buang air besar, darah dalam fesis, berat badan turun dan perut begah, serta nyeri.
+65	Gejala kanker ini ditandai dengan perubahan pola buang air besar, darah dalam fesis, berat badan turun dan perut begah, serta nyeri.
+66	darah dalam fesis, berat badan turun dan perut begah, serta nyeri.
+67	darah dalam fesis, berat badan turun dan perut begah, serta nyeri.
+68	darah dalam fesis, berat badan turun dan perut begah, serta nyeri.
+69	darah dalam fesis, berat badan turun dan perut begah, serta nyeri.
+70	darah dalam fesis, berat badan turun dan perut begah, serta nyeri.
+71	darah dalam fesis, berat badan turun dan perut begah, serta nyeri.
+72	darah dalam fesis, berat badan turun dan perut begah, serta nyeri.
+73	darah dalam fesis, berat badan turun dan perut begah, serta nyeri. Masih muda nggak mau terkena kanker kan?
+74	Masih muda nggak mau terkena kanker kan?
+75	Masih muda nggak mau terkena kanker kan?
+76	Masih muda nggak mau terkena kanker kan?
+77	Masih muda nggak mau terkena kanker kan?
+78	Masih muda nggak mau terkena kanker kan? Makanya yuk, ubah pola makan dan hidup kamu lebih sehat ya!
+79	Makanya yuk, ubah pola makan dan hidup kamu lebih sehat ya!
+80	Makanya yuk, ubah pola makan dan hidup kamu lebih sehat ya!
+81	Makanya yuk, ubah pola makan dan hidup kamu lebih sehat ya!
+82	Makanya yuk, ubah pola makan dan hidup kamu lebih sehat ya!
+83	Makanya yuk, ubah pola makan dan hidup kamu lebih sehat ya!
+84	Makanya yuk, ubah pola makan dan hidup kamu lebih sehat ya!
+85	Makanya yuk, ubah pola makan dan hidup kamu lebih sehat ya!
+86	Makanya yuk, ubah pola makan dan hidup kamu lebih sehat ya!
+87	[NO_SPEECH]
+88	[NO_SPEECH]
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	[NO_SPEECH]

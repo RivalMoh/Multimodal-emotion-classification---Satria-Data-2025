@@ -1,0 +1,339 @@
+0	[NO_SPEECH]
+1	.
+2	.
+3	.
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	Jakarta rebut perak senam aerobik.
+27	Jakarta rebut perak senam aerobik.
+28	Jakarta rebut perak senam aerobik.
+29	Jakarta rebut perak senam aerobik.
+30	Jakarta rebut perak senam aerobik.
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	DKI Jakarta memperoleh medali perak senam aerobik PON Aceh Sumatera Utara.
+38	DKI Jakarta memperoleh medali perak senam aerobik PON Aceh Sumatera Utara.
+39	DKI Jakarta memperoleh medali perak senam aerobik PON Aceh Sumatera Utara.
+40	DKI Jakarta memperoleh medali perak senam aerobik PON Aceh Sumatera Utara.
+41	DKI Jakarta memperoleh medali perak senam aerobik PON Aceh Sumatera Utara.
+42	DKI Jakarta memperoleh medali perak senam aerobik PON Aceh Sumatera Utara.
+43	DKI Jakarta memperoleh medali perak senam aerobik PON Aceh Sumatera Utara.
+44	DKI Jakarta memperoleh medali perak senam aerobik PON Aceh Sumatera Utara.
+45	DKI Jakarta memperoleh medali perak senam aerobik PON Aceh Sumatera Utara.
+46	DKI Jakarta memperoleh medali perak senam aerobik PON Aceh Sumatera Utara.
+47	DKI Jakarta memperoleh medali perak senam aerobik PON Aceh Sumatera Utara.
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	Berlangsung di gedung serbaguna di Sporasu, Jalan Pancing,
+52	Berlangsung di gedung serbaguna di Sporasu, Jalan Pancing,
+53	Berlangsung di gedung serbaguna di Sporasu, Jalan Pancing,
+54	Berlangsung di gedung serbaguna di Sporasu, Jalan Pancing,
+55	Berlangsung di gedung serbaguna di Sporasu, Jalan Pancing,
+56	Berlangsung di gedung serbaguna di Sporasu, Jalan Pancing,
+57	Berlangsung di gedung serbaguna di Sporasu, Jalan Pancing,
+58	Berlangsung di gedung serbaguna di Sporasu, Jalan Pancing, Deliserdeng, Minggu, 8 September 2024.
+59	Berlangsung di gedung serbaguna di Sporasu, Jalan Pancing, Deliserdeng, Minggu, 8 September 2024.
+60	Deliserdeng, Minggu, 8 September 2024.
+61	Deliserdeng, Minggu, 8 September 2024.
+62	Deliserdeng, Minggu, 8 September 2024.
+63	Deliserdeng, Minggu, 8 September 2024.
+64	Deliserdeng, Minggu, 8 September 2024.
+65	Deliserdeng, Minggu, 8 September 2024.
+66	Deliserdeng, Minggu, 8 September 2024.
+67	Medali perak DKI Jakarta melalui trio Wulan Septiani,
+68	Medali perak DKI Jakarta melalui trio Wulan Septiani,
+69	Medali perak DKI Jakarta melalui trio Wulan Septiani,
+70	Medali perak DKI Jakarta melalui trio Wulan Septiani,
+71	Medali perak DKI Jakarta melalui trio Wulan Septiani,
+72	Medali perak DKI Jakarta melalui trio Wulan Septiani,
+73	Medali perak DKI Jakarta melalui trio Wulan Septiani, Gregorius Agung Iswarabawa, Budi Kirong.
+74	Medali perak DKI Jakarta melalui trio Wulan Septiani, Gregorius Agung Iswarabawa, Budi Kirong.
+75	Gregorius Agung Iswarabawa, Budi Kirong.
+76	Gregorius Agung Iswarabawa, Budi Kirong.
+77	Gregorius Agung Iswarabawa, Budi Kirong.
+78	Gregorius Agung Iswarabawa, Budi Kirong.
+79	Gregorius Agung Iswarabawa, Budi Kirong.
+80	Gregorius Agung Iswarabawa, Budi Kirong.
+81	Menurut aku sih pertandingan ini sangat luar biasa ya,
+82	Menurut aku sih pertandingan ini sangat luar biasa ya,
+83	Menurut aku sih pertandingan ini sangat luar biasa ya,
+84	Menurut aku sih pertandingan ini sangat luar biasa ya,
+85	Menurut aku sih pertandingan ini sangat luar biasa ya,
+86	Menurut aku sih pertandingan ini sangat luar biasa ya,
+87	Menurut aku sih pertandingan ini sangat luar biasa ya,
+88	Menurut aku sih pertandingan ini sangat luar biasa ya,
+89	Menurut aku sih pertandingan ini sangat luar biasa ya, karena semua orang sudah berlatih lama dari 3 tahun sebelumnya,
+90	karena semua orang sudah berlatih lama dari 3 tahun sebelumnya,
+91	karena semua orang sudah berlatih lama dari 3 tahun sebelumnya,
+92	karena semua orang sudah berlatih lama dari 3 tahun sebelumnya,
+93	karena semua orang sudah berlatih lama dari 3 tahun sebelumnya,
+94	karena semua orang sudah berlatih lama dari 3 tahun sebelumnya,
+95	karena semua orang sudah berlatih lama dari 3 tahun sebelumnya,
+96	karena semua orang sudah berlatih lama dari 3 tahun sebelumnya,
+97	karena semua orang sudah berlatih lama dari 3 tahun sebelumnya,
+98	karena semua orang sudah berlatih lama dari 3 tahun sebelumnya, sudah berjuang, dan di hari ini kita harus semua mengeluarkan
+99	karena semua orang sudah berlatih lama dari 3 tahun sebelumnya, sudah berjuang, dan di hari ini kita harus semua mengeluarkan
+100	sudah berjuang, dan di hari ini kita harus semua mengeluarkan
+101	sudah berjuang, dan di hari ini kita harus semua mengeluarkan
+102	sudah berjuang, dan di hari ini kita harus semua mengeluarkan
+103	sudah berjuang, dan di hari ini kita harus semua mengeluarkan
+104	sudah berjuang, dan di hari ini kita harus semua mengeluarkan
+105	sudah berjuang, dan di hari ini kita harus semua mengeluarkan
+106	sudah berjuang, dan di hari ini kita harus semua mengeluarkan
+107	sudah berjuang, dan di hari ini kita harus semua mengeluarkan
+108	sudah berjuang, dan di hari ini kita harus semua mengeluarkan semaksimal mungkin untuk bisa mendapatkan hasil yang terbaik.
+109	sudah berjuang, dan di hari ini kita harus semua mengeluarkan semaksimal mungkin untuk bisa mendapatkan hasil yang terbaik.
+110	semaksimal mungkin untuk bisa mendapatkan hasil yang terbaik.
+111	semaksimal mungkin untuk bisa mendapatkan hasil yang terbaik.
+112	semaksimal mungkin untuk bisa mendapatkan hasil yang terbaik.
+113	semaksimal mungkin untuk bisa mendapatkan hasil yang terbaik.
+114	semaksimal mungkin untuk bisa mendapatkan hasil yang terbaik.
+115	semaksimal mungkin untuk bisa mendapatkan hasil yang terbaik.
+116	[NO_SPEECH]
+117	Oke, terima kasih untuk pertandingan hari ini, untuk kategori putranya.
+118	Oke, terima kasih untuk pertandingan hari ini, untuk kategori putranya.
+119	Oke, terima kasih untuk pertandingan hari ini, untuk kategori putranya.
+120	Oke, terima kasih untuk pertandingan hari ini, untuk kategori putranya.
+121	Oke, terima kasih untuk pertandingan hari ini, untuk kategori putranya.
+122	Oke, terima kasih untuk pertandingan hari ini, untuk kategori putranya.
+123	Oke, terima kasih untuk pertandingan hari ini, untuk kategori putranya.
+124	Oke, terima kasih untuk pertandingan hari ini, untuk kategori putranya.
+125	Oke, terima kasih untuk pertandingan hari ini, untuk kategori putranya.
+126	Oke, terima kasih untuk pertandingan hari ini, untuk kategori putranya.
+127	Oke, terima kasih untuk pertandingan hari ini, untuk kategori putranya.
+128	Oke, terima kasih untuk pertandingan hari ini, untuk kategori putranya.
+129	Saya menebarkan perak, terima kasih atas semua.
+130	Saya menebarkan perak, terima kasih atas semua.
+131	Saya menebarkan perak, terima kasih atas semua.
+132	Saya menebarkan perak, terima kasih atas semua.
+133	Saya menebarkan perak, terima kasih atas semua. Ini kerja keras dari kita bertiga sama-sama, dan juga para pelatih yang telah menemani kita 3 tahun ini,
+134	Saya menebarkan perak, terima kasih atas semua. Ini kerja keras dari kita bertiga sama-sama, dan juga para pelatih yang telah menemani kita 3 tahun ini,
+135	Ini kerja keras dari kita bertiga sama-sama, dan juga para pelatih yang telah menemani kita 3 tahun ini,
+136	Ini kerja keras dari kita bertiga sama-sama, dan juga para pelatih yang telah menemani kita 3 tahun ini,
+137	Ini kerja keras dari kita bertiga sama-sama, dan juga para pelatih yang telah menemani kita 3 tahun ini,
+138	Ini kerja keras dari kita bertiga sama-sama, dan juga para pelatih yang telah menemani kita 3 tahun ini,
+139	Ini kerja keras dari kita bertiga sama-sama, dan juga para pelatih yang telah menemani kita 3 tahun ini,
+140	Ini kerja keras dari kita bertiga sama-sama, dan juga para pelatih yang telah menemani kita 3 tahun ini,
+141	Ini kerja keras dari kita bertiga sama-sama, dan juga para pelatih yang telah menemani kita 3 tahun ini,
+142	Ini kerja keras dari kita bertiga sama-sama, dan juga para pelatih yang telah menemani kita 3 tahun ini,
+143	Ini kerja keras dari kita bertiga sama-sama, dan juga para pelatih yang telah menemani kita 3 tahun ini,
+144	Ini kerja keras dari kita bertiga sama-sama, dan juga para pelatih yang telah menemani kita 3 tahun ini,
+145	Ini kerja keras dari kita bertiga sama-sama, dan juga para pelatih yang telah menemani kita 3 tahun ini, dan juga pembinaan dari KONI DKI Jakarta. Terima kasih.
+146	Ini kerja keras dari kita bertiga sama-sama, dan juga para pelatih yang telah menemani kita 3 tahun ini, dan juga pembinaan dari KONI DKI Jakarta. Terima kasih.
+147	dan juga pembinaan dari KONI DKI Jakarta. Terima kasih.
+148	dan juga pembinaan dari KONI DKI Jakarta. Terima kasih.
+149	dan juga pembinaan dari KONI DKI Jakarta. Terima kasih.
+150	dan juga pembinaan dari KONI DKI Jakarta. Terima kasih.
+151	dan juga pembinaan dari KONI DKI Jakarta. Terima kasih.
+152	dan juga pembinaan dari KONI DKI Jakarta. Terima kasih.
+153	dan juga pembinaan dari KONI DKI Jakarta. Terima kasih.
+154	dan juga pembinaan dari KONI DKI Jakarta. Terima kasih.
+155	[NO_SPEECH]
+156	Dari saya sendiri, alhamdulillah, syukur alhamdulillah, sampai titik ini,
+157	Dari saya sendiri, alhamdulillah, syukur alhamdulillah, sampai titik ini,
+158	Dari saya sendiri, alhamdulillah, syukur alhamdulillah, sampai titik ini,
+159	Dari saya sendiri, alhamdulillah, syukur alhamdulillah, sampai titik ini,
+160	Dari saya sendiri, alhamdulillah, syukur alhamdulillah, sampai titik ini,
+161	Dari saya sendiri, alhamdulillah, syukur alhamdulillah, sampai titik ini,
+162	Dari saya sendiri, alhamdulillah, syukur alhamdulillah, sampai titik ini,
+163	Dari saya sendiri, alhamdulillah, syukur alhamdulillah, sampai titik ini,
+164	Dari saya sendiri, alhamdulillah, syukur alhamdulillah, sampai titik ini,
+165	Dari saya sendiri, alhamdulillah, syukur alhamdulillah, sampai titik ini,
+166	Dari saya sendiri, alhamdulillah, syukur alhamdulillah, sampai titik ini, karena ini perjalanan yang cukup panjang, 3 tahun.
+167	Dari saya sendiri, alhamdulillah, syukur alhamdulillah, sampai titik ini, karena ini perjalanan yang cukup panjang, 3 tahun.
+168	karena ini perjalanan yang cukup panjang, 3 tahun.
+169	karena ini perjalanan yang cukup panjang, 3 tahun.
+170	karena ini perjalanan yang cukup panjang, 3 tahun.
+171	karena ini perjalanan yang cukup panjang, 3 tahun.
+172	karena ini perjalanan yang cukup panjang, 3 tahun.
+173	karena ini perjalanan yang cukup panjang, 3 tahun.
+174	Di mana kita dibina, dilatih sama pelatih yang memang luar biasa,
+175	Di mana kita dibina, dilatih sama pelatih yang memang luar biasa,
+176	Di mana kita dibina, dilatih sama pelatih yang memang luar biasa,
+177	Di mana kita dibina, dilatih sama pelatih yang memang luar biasa,
+178	Di mana kita dibina, dilatih sama pelatih yang memang luar biasa,
+179	Di mana kita dibina, dilatih sama pelatih yang memang luar biasa,
+180	Di mana kita dibina, dilatih sama pelatih yang memang luar biasa, dan alhamdulillah kita bisa mendapatkan perak di trio,
+181	dan alhamdulillah kita bisa mendapatkan perak di trio,
+182	dan alhamdulillah kita bisa mendapatkan perak di trio,
+183	dan alhamdulillah kita bisa mendapatkan perak di trio,
+184	dan alhamdulillah kita bisa mendapatkan perak di trio,
+185	dan alhamdulillah kita bisa mendapatkan perak di trio,
+186	dan alhamdulillah kita bisa mendapatkan perak di trio, dan mudah-mudahan ini bisa memicu, memacu buat teman-teman kita di klub.
+187	dan alhamdulillah kita bisa mendapatkan perak di trio, dan mudah-mudahan ini bisa memicu, memacu buat teman-teman kita di klub.
+188	dan mudah-mudahan ini bisa memicu, memacu buat teman-teman kita di klub.
+189	dan mudah-mudahan ini bisa memicu, memacu buat teman-teman kita di klub.
+190	dan mudah-mudahan ini bisa memicu, memacu buat teman-teman kita di klub.
+191	dan mudah-mudahan ini bisa memicu, memacu buat teman-teman kita di klub.
+192	dan mudah-mudahan ini bisa memicu, memacu buat teman-teman kita di klub.
+193	dan mudah-mudahan ini bisa memicu, memacu buat teman-teman kita di klub.
+194	dan mudah-mudahan ini bisa memicu, memacu buat teman-teman kita di klub.
+195	dan mudah-mudahan ini bisa memicu, memacu buat teman-teman kita di klub.
+196	dan mudah-mudahan ini bisa memicu, memacu buat teman-teman kita di klub.
+197	dan mudah-mudahan ini bisa memicu, memacu buat teman-teman kita di klub.
+198	dan mudah-mudahan ini bisa memicu, memacu buat teman-teman kita di klub.
+199	dan mudah-mudahan ini bisa memicu, memacu buat teman-teman kita di klub. Terima kasih.
+200	Terima kasih.
+201	Terima kasih.
+202	[NO_SPEECH]
+203	Terima kasih untuk para pelatih dan teman-teman semua yang sudah dukung kami.
+204	Terima kasih untuk para pelatih dan teman-teman semua yang sudah dukung kami.
+205	Terima kasih untuk para pelatih dan teman-teman semua yang sudah dukung kami.
+206	Terima kasih untuk para pelatih dan teman-teman semua yang sudah dukung kami.
+207	Terima kasih untuk para pelatih dan teman-teman semua yang sudah dukung kami.
+208	Terima kasih untuk para pelatih dan teman-teman semua yang sudah dukung kami.
+209	Terima kasih untuk para pelatih dan teman-teman semua yang sudah dukung kami.
+210	Terima kasih untuk para pelatih dan teman-teman semua yang sudah dukung kami. Terima kasih.
+211	Terima kasih. Terima kasih.
+212	Terima kasih. Terima kasih.
+213	Terima kasih.
+214	[NO_SPEECH]
+215	[NO_SPEECH]
+216	[NO_SPEECH]
+217	[NO_SPEECH]
+218	[NO_SPEECH]
+219	[NO_SPEECH]
+220	[NO_SPEECH]
+221	[NO_SPEECH]
+222	[NO_SPEECH]
+223	[NO_SPEECH]
+224	[NO_SPEECH]
+225	Pertandingan final Minggu Pagi disaksikan sekitar 200 penonton,
+226	Pertandingan final Minggu Pagi disaksikan sekitar 200 penonton,
+227	Pertandingan final Minggu Pagi disaksikan sekitar 200 penonton,
+228	Pertandingan final Minggu Pagi disaksikan sekitar 200 penonton,
+229	Pertandingan final Minggu Pagi disaksikan sekitar 200 penonton,
+230	Pertandingan final Minggu Pagi disaksikan sekitar 200 penonton,
+231	Pertandingan final Minggu Pagi disaksikan sekitar 200 penonton,
+232	Pertandingan final Minggu Pagi disaksikan sekitar 200 penonton, termasuk rombongan dari KONI DKI Jakarta seperti Alwin Trahadian,
+233	Pertandingan final Minggu Pagi disaksikan sekitar 200 penonton, termasuk rombongan dari KONI DKI Jakarta seperti Alwin Trahadian,
+234	termasuk rombongan dari KONI DKI Jakarta seperti Alwin Trahadian,
+235	termasuk rombongan dari KONI DKI Jakarta seperti Alwin Trahadian,
+236	termasuk rombongan dari KONI DKI Jakarta seperti Alwin Trahadian,
+237	termasuk rombongan dari KONI DKI Jakarta seperti Alwin Trahadian,
+238	termasuk rombongan dari KONI DKI Jakarta seperti Alwin Trahadian,
+239	termasuk rombongan dari KONI DKI Jakarta seperti Alwin Trahadian,
+240	termasuk rombongan dari KONI DKI Jakarta seperti Alwin Trahadian, Henki Silatang, Bayu Krisna, Yusran Arif, Hadameon Aritonang, dan staff lain.
+241	termasuk rombongan dari KONI DKI Jakarta seperti Alwin Trahadian, Henki Silatang, Bayu Krisna, Yusran Arif, Hadameon Aritonang, dan staff lain.
+242	Henki Silatang, Bayu Krisna, Yusran Arif, Hadameon Aritonang, dan staff lain.
+243	Henki Silatang, Bayu Krisna, Yusran Arif, Hadameon Aritonang, dan staff lain.
+244	Henki Silatang, Bayu Krisna, Yusran Arif, Hadameon Aritonang, dan staff lain.
+245	Henki Silatang, Bayu Krisna, Yusran Arif, Hadameon Aritonang, dan staff lain.
+246	Henki Silatang, Bayu Krisna, Yusran Arif, Hadameon Aritonang, dan staff lain.
+247	Henki Silatang, Bayu Krisna, Yusran Arif, Hadameon Aritonang, dan staff lain.
+248	Henki Silatang, Bayu Krisna, Yusran Arif, Hadameon Aritonang, dan staff lain.
+249	Henki Silatang, Bayu Krisna, Yusran Arif, Hadameon Aritonang, dan staff lain.
+250	Henki Silatang, Bayu Krisna, Yusran Arif, Hadameon Aritonang, dan staff lain.
+251	Henki Silatang, Bayu Krisna, Yusran Arif, Hadameon Aritonang, dan staff lain.
+252	Henki Silatang, Bayu Krisna, Yusran Arif, Hadameon Aritonang, dan staff lain.
+253	Henki Silatang, Bayu Krisna, Yusran Arif, Hadameon Aritonang, dan staff lain.
+254	[NO_SPEECH]
+255	[NO_SPEECH]
+256	[NO_SPEECH]
+257	[NO_SPEECH]
+258	[NO_SPEECH]
+259	[NO_SPEECH]
+260	[NO_SPEECH]
+261	[NO_SPEECH]
+262	[NO_SPEECH]
+263	[NO_SPEECH]
+264	[NO_SPEECH]
+265	[NO_SPEECH]
+266	[NO_SPEECH]
+267	[NO_SPEECH]
+268	[NO_SPEECH]
+269	[NO_SPEECH]
+270	[NO_SPEECH]
+271	[NO_SPEECH]
+272	[NO_SPEECH]
+273	Untuk nomor perorangan putra, medali perak diraih atlet DKI Jakarta Gregorius Agung Iswarabawa,
+274	Untuk nomor perorangan putra, medali perak diraih atlet DKI Jakarta Gregorius Agung Iswarabawa,
+275	Untuk nomor perorangan putra, medali perak diraih atlet DKI Jakarta Gregorius Agung Iswarabawa,
+276	Untuk nomor perorangan putra, medali perak diraih atlet DKI Jakarta Gregorius Agung Iswarabawa,
+277	Untuk nomor perorangan putra, medali perak diraih atlet DKI Jakarta Gregorius Agung Iswarabawa,
+278	Untuk nomor perorangan putra, medali perak diraih atlet DKI Jakarta Gregorius Agung Iswarabawa,
+279	Untuk nomor perorangan putra, medali perak diraih atlet DKI Jakarta Gregorius Agung Iswarabawa,
+280	Untuk nomor perorangan putra, medali perak diraih atlet DKI Jakarta Gregorius Agung Iswarabawa,
+281	Untuk nomor perorangan putra, medali perak diraih atlet DKI Jakarta Gregorius Agung Iswarabawa,
+282	Untuk nomor perorangan putra, medali perak diraih atlet DKI Jakarta Gregorius Agung Iswarabawa,
+283	Untuk nomor perorangan putra, medali perak diraih atlet DKI Jakarta Gregorius Agung Iswarabawa,
+284	Untuk nomor perorangan putra, medali perak diraih atlet DKI Jakarta Gregorius Agung Iswarabawa,
+285	Untuk nomor perorangan putra, medali perak diraih atlet DKI Jakarta Gregorius Agung Iswarabawa,
+286	Untuk nomor perorangan putra, medali perak diraih atlet DKI Jakarta Gregorius Agung Iswarabawa, diikuti atlet asal Jambi Aprilian Anggara yang menggunakan,
+287	Untuk nomor perorangan putra, medali perak diraih atlet DKI Jakarta Gregorius Agung Iswarabawa, diikuti atlet asal Jambi Aprilian Anggara yang menggunakan,
+288	diikuti atlet asal Jambi Aprilian Anggara yang menggunakan,
+289	diikuti atlet asal Jambi Aprilian Anggara yang menggunakan,
+290	diikuti atlet asal Jambi Aprilian Anggara yang menggunakan,
+291	diikuti atlet asal Jambi Aprilian Anggara yang menggunakan,
+292	diikuti atlet asal Jambi Aprilian Anggara yang menggunakan, mengunci medali perumbu.
+293	diikuti atlet asal Jambi Aprilian Anggara yang menggunakan, mengunci medali perumbu.
+294	mengunci medali perumbu.
+295	mengunci medali perumbu.
+296	mengunci medali perumbu. .
+297	. 
+298	. 
+299	[NO_SPEECH]
+300	[NO_SPEECH]
+301	[NO_SPEECH]
+302	[NO_SPEECH]
+303	[NO_SPEECH]
+304	[NO_SPEECH]
+305	[NO_SPEECH]
+306	[NO_SPEECH]
+307	[NO_SPEECH]
+308	.
+309	.
+310	. . .
+311	. . . .
+312	. . . . . .
+313	. . . . .
+314	[NO_SPEECH]
+315	[NO_SPEECH]
+316	.
+317	.
+318	.
+319	.
+320	.
+321	.
+322	[NO_SPEECH]
+323	[NO_SPEECH]
+324	[NO_SPEECH]
+325	[NO_SPEECH]
+326	[NO_SPEECH]
+327	[NO_SPEECH]
+328	[NO_SPEECH]
+329	[NO_SPEECH]
+330	[NO_SPEECH]
+331	[NO_SPEECH]
+332	[NO_SPEECH]
+333	[NO_SPEECH]
+334	[NO_SPEECH]
+335	[NO_SPEECH]
+336	[NO_SPEECH]
+337	[NO_SPEECH]
+338	[NO_SPEECH]

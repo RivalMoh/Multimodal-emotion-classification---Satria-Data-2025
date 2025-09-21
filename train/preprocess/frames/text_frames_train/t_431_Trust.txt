@@ -1,0 +1,96 @@
+0	Jangan nafas pas lagi workout ya
+1	Jangan nafas pas lagi workout ya
+2	Jangan nafas pas lagi workout ya
+3	Jangan nafas pas lagi workout ya
+4	Atau kebulak balik napasnya
+5	Atau kebulak balik napasnya
+6	Atau kebulak balik napasnya
+7	Atau kebulak balik napasnya
+8	Atau kebulak balik napasnya Karena itu bahaya buat badan kita dan bisa mengganggu proses serta progres workoutnya
+9	Atau kebulak balik napasnya Karena itu bahaya buat badan kita dan bisa mengganggu proses serta progres workoutnya
+10	Karena itu bahaya buat badan kita dan bisa mengganggu proses serta progres workoutnya
+11	Karena itu bahaya buat badan kita dan bisa mengganggu proses serta progres workoutnya
+12	Karena itu bahaya buat badan kita dan bisa mengganggu proses serta progres workoutnya
+13	Karena itu bahaya buat badan kita dan bisa mengganggu proses serta progres workoutnya
+14	Karena itu bahaya buat badan kita dan bisa mengganggu proses serta progres workoutnya
+15	Karena itu bahaya buat badan kita dan bisa mengganggu proses serta progres workoutnya
+16	Karena itu bahaya buat badan kita dan bisa mengganggu proses serta progres workoutnya Biar gak bingung, catat prinsip simple ini nih
+17	Karena itu bahaya buat badan kita dan bisa mengganggu proses serta progres workoutnya Biar gak bingung, catat prinsip simple ini nih
+18	Biar gak bingung, catat prinsip simple ini nih
+19	Biar gak bingung, catat prinsip simple ini nih
+20	Biar gak bingung, catat prinsip simple ini nih Ringan tarik napas
+21	Biar gak bingung, catat prinsip simple ini nih Ringan tarik napas
+22	Ringan tarik napas
+23	Ringan tarik napas
+24	Berat buang napas
+25	Berat buang napas
+26	Berat buang napas
+27	Berat buang napas Ringan tarik napas
+28	Berat buang napas Ringan tarik napas
+29	Ringan tarik napas
+30	Ringan tarik napas
+31	Ringan tarik napas Buang napas
+32	Ringan tarik napas Buang napas
+33	Buang napas
+34	Buang napas
+35	Buang napas
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	Kalau gerakan isometri kayak pelan gini gimana bang?
+41	Kalau gerakan isometri kayak pelan gini gimana bang?
+42	Kalau gerakan isometri kayak pelan gini gimana bang?
+43	Kalau gerakan isometri kayak pelan gini gimana bang?
+44	Kalau gerakan isometri kayak pelan gini gimana bang?
+45	Kalau gerakan isometri kayak pelan gini gimana bang? Nah, tenang aja
+46	Kalau gerakan isometri kayak pelan gini gimana bang? Nah, tenang aja
+47	Nah, tenang aja Kalian bisa tetep atur napas
+48	Nah, tenang aja Kalian bisa tetep atur napas
+49	Kalian bisa tetep atur napas
+50	Kalian bisa tetep atur napas
+51	Kalian bisa tetep atur napas Kayak gini nih
+52	Kalian bisa tetep atur napas Kayak gini nih
+53	Kayak gini nih
+54	Kayak gini nih
+55	[NO_SPEECH]
+56	Santai aja, senyaman kali ya
+57	Santai aja, senyaman kali ya
+58	Santai aja, senyaman kali ya
+59	Santai aja, senyaman kali ya Yang penting jangan ditahan ya
+60	Santai aja, senyaman kali ya Yang penting jangan ditahan ya
+61	Yang penting jangan ditahan ya Jangan gitu, tapi
+62	Yang penting jangan ditahan ya Jangan gitu, tapi
+63	Jangan gitu, tapi
+64	Jangan gitu, tapi
+65	Jangan gitu, tapi
+66	[NO_SPEECH]
+67	Gimana? Gampang kan?
+68	Gimana? Gampang kan?
+69	Gimana? Gampang kan?
+70	Gimana? Gampang kan? Siapa yang masih suka nafas atau kebulak balik napasnya pas lagi workout?
+71	Gimana? Gampang kan? Siapa yang masih suka nafas atau kebulak balik napasnya pas lagi workout?
+72	Siapa yang masih suka nafas atau kebulak balik napasnya pas lagi workout?
+73	Siapa yang masih suka nafas atau kebulak balik napasnya pas lagi workout?
+74	Siapa yang masih suka nafas atau kebulak balik napasnya pas lagi workout?
+75	Siapa yang masih suka nafas atau kebulak balik napasnya pas lagi workout?
+76	Siapa yang masih suka nafas atau kebulak balik napasnya pas lagi workout?
+77	Siapa yang masih suka nafas atau kebulak balik napasnya pas lagi workout? Coba komen di bawah ya
+78	Coba komen di bawah ya Tapi gak apa, santai aja
+79	Coba komen di bawah ya Tapi gak apa, santai aja
+80	Coba komen di bawah ya Tapi gak apa, santai aja
+81	Tapi gak apa, santai aja Yuk, mulai latihan diri sekarang
+82	Tapi gak apa, santai aja Yuk, mulai latihan diri sekarang
+83	Yuk, mulai latihan diri sekarang Biar napasnya gak ditahan atau kebulak balik gitu ya
+84	Yuk, mulai latihan diri sekarang Biar napasnya gak ditahan atau kebulak balik gitu ya
+85	Biar napasnya gak ditahan atau kebulak balik gitu ya
+86	Biar napasnya gak ditahan atau kebulak balik gitu ya
+87	Biar napasnya gak ditahan atau kebulak balik gitu ya
+88	Biar napasnya gak ditahan atau kebulak balik gitu ya Share video ini kalau bermanfaat
+89	Biar napasnya gak ditahan atau kebulak balik gitu ya Share video ini kalau bermanfaat
+90	Share video ini kalau bermanfaat Tetap semangat workoutnya
+91	Share video ini kalau bermanfaat Tetap semangat workoutnya
+92	Tetap semangat workoutnya Dan stay hard
+93	Tetap semangat workoutnya Dan stay hard
+94	Dan stay hard
+95	Dan stay hard

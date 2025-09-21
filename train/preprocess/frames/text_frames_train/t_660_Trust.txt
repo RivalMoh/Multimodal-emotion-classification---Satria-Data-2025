@@ -1,0 +1,115 @@
+0	Tomat itu buah?
+1	Tomat itu buah? Iya
+2	Tomat itu buah? Iya Tomat itu bukan sayur?
+3	Iya Tomat itu bukan sayur?
+4	Tomat itu bukan sayur?
+5	Tomat itu bukan sayur?
+6	Tomat itu bukan sayur? Nggak
+7	Tomat itu bukan sayur? Nggak Nah, terus yang bener apa dong?
+8	Nggak Nah, terus yang bener apa dong?
+9	Nah, terus yang bener apa dong?
+10	Nah, terus yang bener apa dong?
+11	Nah, terus yang bener apa dong?
+12	Nah, terus yang bener apa dong?
+13	Nah, terus yang bener apa dong?
+14	Nah, terus yang bener apa dong?
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	Yang bener, tomat itu termasuk buah dalam ilmu botani ya
+19	Yang bener, tomat itu termasuk buah dalam ilmu botani ya
+20	Yang bener, tomat itu termasuk buah dalam ilmu botani ya
+21	Yang bener, tomat itu termasuk buah dalam ilmu botani ya
+22	Yang bener, tomat itu termasuk buah dalam ilmu botani ya
+23	Yang bener, tomat itu termasuk buah dalam ilmu botani ya
+24	Yang bener, tomat itu termasuk buah dalam ilmu botani ya
+25	Yang bener, tomat itu termasuk buah dalam ilmu botani ya Karena tomat berasal dari bunga pohon tomat yang memiliki biji di dalamnya
+26	Yang bener, tomat itu termasuk buah dalam ilmu botani ya Karena tomat berasal dari bunga pohon tomat yang memiliki biji di dalamnya
+27	Karena tomat berasal dari bunga pohon tomat yang memiliki biji di dalamnya
+28	Karena tomat berasal dari bunga pohon tomat yang memiliki biji di dalamnya
+29	Karena tomat berasal dari bunga pohon tomat yang memiliki biji di dalamnya
+30	Karena tomat berasal dari bunga pohon tomat yang memiliki biji di dalamnya
+31	Karena tomat berasal dari bunga pohon tomat yang memiliki biji di dalamnya
+32	Karena tomat berasal dari bunga pohon tomat yang memiliki biji di dalamnya
+33	Karena tomat berasal dari bunga pohon tomat yang memiliki biji di dalamnya
+34	Karena tomat berasal dari bunga pohon tomat yang memiliki biji di dalamnya Sama seperti semangka, ceri, timun, yang juga termasuk buah karena ada biji di dalamnya
+35	Karena tomat berasal dari bunga pohon tomat yang memiliki biji di dalamnya Sama seperti semangka, ceri, timun, yang juga termasuk buah karena ada biji di dalamnya
+36	Sama seperti semangka, ceri, timun, yang juga termasuk buah karena ada biji di dalamnya
+37	Sama seperti semangka, ceri, timun, yang juga termasuk buah karena ada biji di dalamnya
+38	Sama seperti semangka, ceri, timun, yang juga termasuk buah karena ada biji di dalamnya
+39	Sama seperti semangka, ceri, timun, yang juga termasuk buah karena ada biji di dalamnya
+40	Sama seperti semangka, ceri, timun, yang juga termasuk buah karena ada biji di dalamnya
+41	Sama seperti semangka, ceri, timun, yang juga termasuk buah karena ada biji di dalamnya
+42	Sama seperti semangka, ceri, timun, yang juga termasuk buah karena ada biji di dalamnya
+43	Sama seperti semangka, ceri, timun, yang juga termasuk buah karena ada biji di dalamnya
+44	Sama seperti semangka, ceri, timun, yang juga termasuk buah karena ada biji di dalamnya
+45	Sama seperti semangka, ceri, timun, yang juga termasuk buah karena ada biji di dalamnya
+46	Sama seperti semangka, ceri, timun, yang juga termasuk buah karena ada biji di dalamnya Eh, tapi tomat juga bisa dianggap sayur dalam dunia kuliner loh
+47	Sama seperti semangka, ceri, timun, yang juga termasuk buah karena ada biji di dalamnya Eh, tapi tomat juga bisa dianggap sayur dalam dunia kuliner loh
+48	Eh, tapi tomat juga bisa dianggap sayur dalam dunia kuliner loh
+49	Eh, tapi tomat juga bisa dianggap sayur dalam dunia kuliner loh
+50	Eh, tapi tomat juga bisa dianggap sayur dalam dunia kuliner loh
+51	Eh, tapi tomat juga bisa dianggap sayur dalam dunia kuliner loh
+52	Eh, tapi tomat juga bisa dianggap sayur dalam dunia kuliner loh
+53	Eh, tapi tomat juga bisa dianggap sayur dalam dunia kuliner loh Karena tomat cenderung asam, mengandung banyak air, dan tidak semanis buah lainnya
+54	Eh, tapi tomat juga bisa dianggap sayur dalam dunia kuliner loh Karena tomat cenderung asam, mengandung banyak air, dan tidak semanis buah lainnya
+55	Karena tomat cenderung asam, mengandung banyak air, dan tidak semanis buah lainnya
+56	Karena tomat cenderung asam, mengandung banyak air, dan tidak semanis buah lainnya
+57	Karena tomat cenderung asam, mengandung banyak air, dan tidak semanis buah lainnya
+58	Karena tomat cenderung asam, mengandung banyak air, dan tidak semanis buah lainnya
+59	Karena tomat cenderung asam, mengandung banyak air, dan tidak semanis buah lainnya
+60	Karena tomat cenderung asam, mengandung banyak air, dan tidak semanis buah lainnya
+61	Karena tomat cenderung asam, mengandung banyak air, dan tidak semanis buah lainnya
+62	Karena tomat cenderung asam, mengandung banyak air, dan tidak semanis buah lainnya
+63	Karena tomat cenderung asam, mengandung banyak air, dan tidak semanis buah lainnya Makanya tomat sering dipadukan dengan bahan masakan
+64	Karena tomat cenderung asam, mengandung banyak air, dan tidak semanis buah lainnya Makanya tomat sering dipadukan dengan bahan masakan
+65	Makanya tomat sering dipadukan dengan bahan masakan
+66	Makanya tomat sering dipadukan dengan bahan masakan
+67	Makanya tomat sering dipadukan dengan bahan masakan
+68	Makanya tomat sering dipadukan dengan bahan masakan
+69	Makanya tomat sering dipadukan dengan bahan masakan Sama seperti buah lain yang dikategorikan sayur, ada labu atau timun
+70	Makanya tomat sering dipadukan dengan bahan masakan Sama seperti buah lain yang dikategorikan sayur, ada labu atau timun
+71	Sama seperti buah lain yang dikategorikan sayur, ada labu atau timun
+72	Sama seperti buah lain yang dikategorikan sayur, ada labu atau timun
+73	Sama seperti buah lain yang dikategorikan sayur, ada labu atau timun
+74	Sama seperti buah lain yang dikategorikan sayur, ada labu atau timun
+75	Sama seperti buah lain yang dikategorikan sayur, ada labu atau timun
+76	Sama seperti buah lain yang dikategorikan sayur, ada labu atau timun
+77	Sama seperti buah lain yang dikategorikan sayur, ada labu atau timun Nah, jadi kesimpulannya, secara ilmiah, tomat itu termasuk buah dan bukan sayur-sayuran ya
+78	Sama seperti buah lain yang dikategorikan sayur, ada labu atau timun Nah, jadi kesimpulannya, secara ilmiah, tomat itu termasuk buah dan bukan sayur-sayuran ya
+79	Sama seperti buah lain yang dikategorikan sayur, ada labu atau timun Nah, jadi kesimpulannya, secara ilmiah, tomat itu termasuk buah dan bukan sayur-sayuran ya
+80	Nah, jadi kesimpulannya, secara ilmiah, tomat itu termasuk buah dan bukan sayur-sayuran ya
+81	Nah, jadi kesimpulannya, secara ilmiah, tomat itu termasuk buah dan bukan sayur-sayuran ya
+82	Nah, jadi kesimpulannya, secara ilmiah, tomat itu termasuk buah dan bukan sayur-sayuran ya
+83	Nah, jadi kesimpulannya, secara ilmiah, tomat itu termasuk buah dan bukan sayur-sayuran ya
+84	Nah, jadi kesimpulannya, secara ilmiah, tomat itu termasuk buah dan bukan sayur-sayuran ya
+85	Nah, jadi kesimpulannya, secara ilmiah, tomat itu termasuk buah dan bukan sayur-sayuran ya
+86	Nah, jadi kesimpulannya, secara ilmiah, tomat itu termasuk buah dan bukan sayur-sayuran ya
+87	Nah, jadi kesimpulannya, secara ilmiah, tomat itu termasuk buah dan bukan sayur-sayuran ya
+88	Nah, jadi kesimpulannya, secara ilmiah, tomat itu termasuk buah dan bukan sayur-sayuran ya
+89	Nah, jadi kesimpulannya, secara ilmiah, tomat itu termasuk buah dan bukan sayur-sayuran ya Walaupun tomat krisis identitas, justru buah ini bernutrisi banget loh
+90	Nah, jadi kesimpulannya, secara ilmiah, tomat itu termasuk buah dan bukan sayur-sayuran ya Walaupun tomat krisis identitas, justru buah ini bernutrisi banget loh
+91	Walaupun tomat krisis identitas, justru buah ini bernutrisi banget loh
+92	Walaupun tomat krisis identitas, justru buah ini bernutrisi banget loh
+93	Walaupun tomat krisis identitas, justru buah ini bernutrisi banget loh
+94	Walaupun tomat krisis identitas, justru buah ini bernutrisi banget loh
+95	Walaupun tomat krisis identitas, justru buah ini bernutrisi banget loh
+96	Walaupun tomat krisis identitas, justru buah ini bernutrisi banget loh
+97	Walaupun tomat krisis identitas, justru buah ini bernutrisi banget loh
+98	Walaupun tomat krisis identitas, justru buah ini bernutrisi banget loh Apalagi buat kulit dan imun tubuh
+99	Walaupun tomat krisis identitas, justru buah ini bernutrisi banget loh Apalagi buat kulit dan imun tubuh
+100	Apalagi buat kulit dan imun tubuh
+101	Apalagi buat kulit dan imun tubuh
+102	Apalagi buat kulit dan imun tubuh Kalau menurut sobat sehat gimana?
+103	Apalagi buat kulit dan imun tubuh Kalau menurut sobat sehat gimana?
+104	Kalau menurut sobat sehat gimana?
+105	Kalau menurut sobat sehat gimana?
+106	Kalau menurut sobat sehat gimana?
+107	Kalau menurut sobat sehat gimana?
+108	Kalau menurut sobat sehat gimana?
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	[NO_SPEECH]
+113	[NO_SPEECH]
+114	[NO_SPEECH]

@@ -1,0 +1,104 @@
+0	Ini adalah bagasinya Honda CVE yang mana dijadikan tempat untuk baterai sebagai sumber tenaganya.
+1	Ini adalah bagasinya Honda CVE yang mana dijadikan tempat untuk baterai sebagai sumber tenaganya.
+2	Ini adalah bagasinya Honda CVE yang mana dijadikan tempat untuk baterai sebagai sumber tenaganya.
+3	Ini adalah bagasinya Honda CVE yang mana dijadikan tempat untuk baterai sebagai sumber tenaganya.
+4	Ini adalah bagasinya Honda CVE yang mana dijadikan tempat untuk baterai sebagai sumber tenaganya.
+5	Ini adalah bagasinya Honda CVE yang mana dijadikan tempat untuk baterai sebagai sumber tenaganya.
+6	Ini adalah bagasinya Honda CVE yang mana dijadikan tempat untuk baterai sebagai sumber tenaganya.
+7	Ini adalah bagasinya Honda CVE yang mana dijadikan tempat untuk baterai sebagai sumber tenaganya.
+8	Ini adalah bagasinya Honda CVE yang mana dijadikan tempat untuk baterai sebagai sumber tenaganya.
+9	Ini adalah bagasinya Honda CVE yang mana dijadikan tempat untuk baterai sebagai sumber tenaganya.
+10	Ini adalah bagasinya Honda CVE yang mana dijadikan tempat untuk baterai sebagai sumber tenaganya.
+11	Ini adalah bagasinya Honda CVE yang mana dijadikan tempat untuk baterai sebagai sumber tenaganya. Nah yang menarik adalah slotnya kan ada dua ya, ini yang baterainya posisi pasang.
+12	Ini adalah bagasinya Honda CVE yang mana dijadikan tempat untuk baterai sebagai sumber tenaganya. Nah yang menarik adalah slotnya kan ada dua ya, ini yang baterainya posisi pasang.
+13	Nah yang menarik adalah slotnya kan ada dua ya, ini yang baterainya posisi pasang.
+14	Nah yang menarik adalah slotnya kan ada dua ya, ini yang baterainya posisi pasang.
+15	Nah yang menarik adalah slotnya kan ada dua ya, ini yang baterainya posisi pasang.
+16	Nah yang menarik adalah slotnya kan ada dua ya, ini yang baterainya posisi pasang.
+17	Nah yang menarik adalah slotnya kan ada dua ya, ini yang baterainya posisi pasang.
+18	Nah yang menarik adalah slotnya kan ada dua ya, ini yang baterainya posisi pasang.
+19	Nah yang menarik adalah slotnya kan ada dua ya, ini yang baterainya posisi pasang. Ini segera saya copot kasih lihat, ini nih saya mau kasih lihat sini.
+20	Nah yang menarik adalah slotnya kan ada dua ya, ini yang baterainya posisi pasang. Ini segera saya copot kasih lihat, ini nih saya mau kasih lihat sini.
+21	Ini segera saya copot kasih lihat, ini nih saya mau kasih lihat sini.
+22	Ini segera saya copot kasih lihat, ini nih saya mau kasih lihat sini.
+23	Ini segera saya copot kasih lihat, ini nih saya mau kasih lihat sini.
+24	Ini segera saya copot kasih lihat, ini nih saya mau kasih lihat sini.
+25	Ini segera saya copot kasih lihat, ini nih saya mau kasih lihat sini.
+26	Ini segera saya copot kasih lihat, ini nih saya mau kasih lihat sini.
+27	Ini segera saya copot kasih lihat, ini nih saya mau kasih lihat sini.
+28	Ini segera saya copot kasih lihat, ini nih saya mau kasih lihat sini.
+29	Ini segera saya copot kasih lihat, ini nih saya mau kasih lihat sini. Ternyata mekanisme ini ada penguncinya ya ini buat jepit baterainya kayak gini.
+30	Ternyata mekanisme ini ada penguncinya ya ini buat jepit baterainya kayak gini.
+31	Ternyata mekanisme ini ada penguncinya ya ini buat jepit baterainya kayak gini.
+32	Ternyata mekanisme ini ada penguncinya ya ini buat jepit baterainya kayak gini.
+33	Ternyata mekanisme ini ada penguncinya ya ini buat jepit baterainya kayak gini.
+34	Ternyata mekanisme ini ada penguncinya ya ini buat jepit baterainya kayak gini.
+35	Ternyata mekanisme ini ada penguncinya ya ini buat jepit baterainya kayak gini.
+36	Ternyata mekanisme ini ada penguncinya ya ini buat jepit baterainya kayak gini.
+37	Ternyata mekanisme ini ada penguncinya ya ini buat jepit baterainya kayak gini. Tapi di dalamnya yang menarik adalah yang buat konektornya ya.
+38	Tapi di dalamnya yang menarik adalah yang buat konektornya ya.
+39	Tapi di dalamnya yang menarik adalah yang buat konektornya ya.
+40	Tapi di dalamnya yang menarik adalah yang buat konektornya ya.
+41	Tapi di dalamnya yang menarik adalah yang buat konektornya ya.
+42	Tapi di dalamnya yang menarik adalah yang buat konektornya ya.
+43	Tapi di dalamnya yang menarik adalah yang buat konektornya ya.
+44	Tapi di dalamnya yang menarik adalah yang buat konektornya ya.
+45	Tapi di dalamnya yang menarik adalah yang buat konektornya ya. Terus ternyata ketika kita kunci gini dia akan naik.
+46	Tapi di dalamnya yang menarik adalah yang buat konektornya ya. Terus ternyata ketika kita kunci gini dia akan naik.
+47	Terus ternyata ketika kita kunci gini dia akan naik.
+48	Terus ternyata ketika kita kunci gini dia akan naik.
+49	Terus ternyata ketika kita kunci gini dia akan naik.
+50	Terus ternyata ketika kita kunci gini dia akan naik.
+51	Terus ternyata ketika kita kunci gini dia akan naik.
+52	Terus ternyata ketika kita kunci gini dia akan naik.
+53	[NO_SPEECH]
+54	Jadi pas mau dicopot dia turun ke bawah, lalu pas ditekan dia naik.
+55	Jadi pas mau dicopot dia turun ke bawah, lalu pas ditekan dia naik.
+56	Jadi pas mau dicopot dia turun ke bawah, lalu pas ditekan dia naik.
+57	Jadi pas mau dicopot dia turun ke bawah, lalu pas ditekan dia naik.
+58	Jadi pas mau dicopot dia turun ke bawah, lalu pas ditekan dia naik.
+59	Jadi pas mau dicopot dia turun ke bawah, lalu pas ditekan dia naik.
+60	Jadi pas mau dicopot dia turun ke bawah, lalu pas ditekan dia naik.
+61	Jadi pas mau dicopot dia turun ke bawah, lalu pas ditekan dia naik.
+62	Jadi pas mau dicopot dia turun ke bawah, lalu pas ditekan dia naik.
+63	Jadi pas mau dicopot dia turun ke bawah, lalu pas ditekan dia naik.
+64	Jadi pas mau dicopot dia turun ke bawah, lalu pas ditekan dia naik.
+65	Jadi pas mau dicopot dia turun ke bawah, lalu pas ditekan dia naik. Ini bagian sini nih.
+66	Jadi pas mau dicopot dia turun ke bawah, lalu pas ditekan dia naik. Ini bagian sini nih.
+67	Ini bagian sini nih.
+68	Ini bagian sini nih.
+69	Ini bagian sini nih.
+70	Ini bagian sini nih. Terus sini kanan kirinya ada slotnya gitu untuk memastikan bahwa baterainya itu pas.
+71	Terus sini kanan kirinya ada slotnya gitu untuk memastikan bahwa baterainya itu pas.
+72	Terus sini kanan kirinya ada slotnya gitu untuk memastikan bahwa baterainya itu pas.
+73	Terus sini kanan kirinya ada slotnya gitu untuk memastikan bahwa baterainya itu pas.
+74	Terus sini kanan kirinya ada slotnya gitu untuk memastikan bahwa baterainya itu pas.
+75	Terus sini kanan kirinya ada slotnya gitu untuk memastikan bahwa baterainya itu pas.
+76	Terus sini kanan kirinya ada slotnya gitu untuk memastikan bahwa baterainya itu pas.
+77	Terus sini kanan kirinya ada slotnya gitu untuk memastikan bahwa baterainya itu pas.
+78	Terus sini kanan kirinya ada slotnya gitu untuk memastikan bahwa baterainya itu pas.
+79	Terus sini kanan kirinya ada slotnya gitu untuk memastikan bahwa baterainya itu pas.
+80	Nah ini menambahkan bagian bawah baterainya.
+81	Nah ini menambahkan bagian bawah baterainya.
+82	Nah ini menambahkan bagian bawah baterainya.
+83	Nah ini menambahkan bagian bawah baterainya.
+84	Nah ini menambahkan bagian bawah baterainya.
+85	Nah ini menambahkan bagian bawah baterainya. Ini ya tuh yang buat tempat masuk slot konektornya dan ini yang buat memastikan posisinya pas.
+86	Nah ini menambahkan bagian bawah baterainya. Ini ya tuh yang buat tempat masuk slot konektornya dan ini yang buat memastikan posisinya pas.
+87	Ini ya tuh yang buat tempat masuk slot konektornya dan ini yang buat memastikan posisinya pas.
+88	Ini ya tuh yang buat tempat masuk slot konektornya dan ini yang buat memastikan posisinya pas.
+89	Ini ya tuh yang buat tempat masuk slot konektornya dan ini yang buat memastikan posisinya pas.
+90	Ini ya tuh yang buat tempat masuk slot konektornya dan ini yang buat memastikan posisinya pas.
+91	Ini ya tuh yang buat tempat masuk slot konektornya dan ini yang buat memastikan posisinya pas.
+92	Ini ya tuh yang buat tempat masuk slot konektornya dan ini yang buat memastikan posisinya pas.
+93	Ini ya tuh yang buat tempat masuk slot konektornya dan ini yang buat memastikan posisinya pas.
+94	Ini ya tuh yang buat tempat masuk slot konektornya dan ini yang buat memastikan posisinya pas.
+95	Ini ya tuh yang buat tempat masuk slot konektornya dan ini yang buat memastikan posisinya pas.
+96	Ini ya tuh yang buat tempat masuk slot konektornya dan ini yang buat memastikan posisinya pas.
+97	Ini ya tuh yang buat tempat masuk slot konektornya dan ini yang buat memastikan posisinya pas.
+98	Ini ya tuh yang buat tempat masuk slot konektornya dan ini yang buat memastikan posisinya pas.
+99	Ini ya tuh yang buat tempat masuk slot konektornya dan ini yang buat memastikan posisinya pas.
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	[NO_SPEECH]

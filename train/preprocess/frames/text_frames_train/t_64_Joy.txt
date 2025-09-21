@@ -1,0 +1,125 @@
+0	Suzuki France
+1	Suzuki France Sebelumnya kami sudah membahas tentang eksteriornya dan interiornya
+2	Suzuki France Sebelumnya kami sudah membahas tentang eksteriornya dan interiornya
+3	Sebelumnya kami sudah membahas tentang eksteriornya dan interiornya
+4	Sebelumnya kami sudah membahas tentang eksteriornya dan interiornya
+5	Sebelumnya kami sudah membahas tentang eksteriornya dan interiornya
+6	Sebelumnya kami sudah membahas tentang eksteriornya dan interiornya
+7	Sebelumnya kami sudah membahas tentang eksteriornya dan interiornya
+8	Sebelumnya kami sudah membahas tentang eksteriornya dan interiornya Sekarang giliran mesinnya
+9	Sebelumnya kami sudah membahas tentang eksteriornya dan interiornya Sekarang giliran mesinnya
+10	Sekarang giliran mesinnya
+11	Sekarang giliran mesinnya Mesin yang didapatkan adalah K15C
+12	Sekarang giliran mesinnya Mesin yang didapatkan adalah K15C
+13	Mesin yang didapatkan adalah K15C
+14	Mesin yang didapatkan adalah K15C
+15	Mesin yang didapatkan adalah K15C
+16	Mesin yang didapatkan adalah K15C Untuk tipe GX dan SGX
+17	Mesin yang didapatkan adalah K15C Untuk tipe GX dan SGX
+18	Untuk tipe GX dan SGX
+19	Untuk tipe GX dan SGX
+20	Untuk tipe GX dan SGX Ini menghasilkan tenaga 100,6 PS dan 135 Nm torsinya
+21	Untuk tipe GX dan SGX Ini menghasilkan tenaga 100,6 PS dan 135 Nm torsinya
+22	Ini menghasilkan tenaga 100,6 PS dan 135 Nm torsinya
+23	Ini menghasilkan tenaga 100,6 PS dan 135 Nm torsinya
+24	Ini menghasilkan tenaga 100,6 PS dan 135 Nm torsinya
+25	Ini menghasilkan tenaga 100,6 PS dan 135 Nm torsinya
+26	Ini menghasilkan tenaga 100,6 PS dan 135 Nm torsinya
+27	Ini menghasilkan tenaga 100,6 PS dan 135 Nm torsinya
+28	Ini menghasilkan tenaga 100,6 PS dan 135 Nm torsinya
+29	Ini menghasilkan tenaga 100,6 PS dan 135 Nm torsinya
+30	Ini menghasilkan tenaga 100,6 PS dan 135 Nm torsinya Memakai Smart Hybrid
+31	Ini menghasilkan tenaga 100,6 PS dan 135 Nm torsinya Memakai Smart Hybrid
+32	Ini menghasilkan tenaga 100,6 PS dan 135 Nm torsinya Memakai Smart Hybrid
+33	Memakai Smart Hybrid
+34	Memakai Smart Hybrid Dan ini mesin hemat sekali
+35	Memakai Smart Hybrid Dan ini mesin hemat sekali
+36	Dan ini mesin hemat sekali
+37	Dan ini mesin hemat sekali
+38	Dan ini mesin hemat sekali
+39	Dan ini mesin hemat sekali Terbukti hemat, luar biasa
+40	Dan ini mesin hemat sekali Terbukti hemat, luar biasa
+41	Terbukti hemat, luar biasa
+42	Terbukti hemat, luar biasa
+43	Terbukti hemat, luar biasa Sekarang saatnya kita coba
+44	Terbukti hemat, luar biasa Sekarang saatnya kita coba
+45	Sekarang saatnya kita coba
+46	Sekarang saatnya kita coba
+47	Sekarang saatnya kita coba
+48	Sekarang saatnya kita coba
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	[NO_SPEECH]
+59	Suzuki France ini luar biasa kenyamanan suspensinya
+60	Suzuki France ini luar biasa kenyamanan suspensinya
+61	Suzuki France ini luar biasa kenyamanan suspensinya
+62	Suzuki France ini luar biasa kenyamanan suspensinya
+63	Suzuki France ini luar biasa kenyamanan suspensinya
+64	Suzuki France ini luar biasa kenyamanan suspensinya
+65	Suzuki France ini luar biasa kenyamanan suspensinya
+66	Suzuki France ini luar biasa kenyamanan suspensinya Dan ternyata handlingnya juga mantap
+67	Suzuki France ini luar biasa kenyamanan suspensinya Dan ternyata handlingnya juga mantap
+68	Dan ternyata handlingnya juga mantap
+69	Dan ternyata handlingnya juga mantap
+70	Dan ternyata handlingnya juga mantap
+71	Dan ternyata handlingnya juga mantap
+72	Dan ternyata handlingnya juga mantap Muter balik naik mobil ini hemat jalanan
+73	Dan ternyata handlingnya juga mantap Muter balik naik mobil ini hemat jalanan
+74	Muter balik naik mobil ini hemat jalanan
+75	Muter balik naik mobil ini hemat jalanan
+76	Muter balik naik mobil ini hemat jalanan
+77	Muter balik naik mobil ini hemat jalanan Karena radius putarnya kecil
+78	Muter balik naik mobil ini hemat jalanan Karena radius putarnya kecil
+79	Karena radius putarnya kecil
+80	Karena radius putarnya kecil Tidak makanin banyak jalanan
+81	Karena radius putarnya kecil Tidak makanin banyak jalanan
+82	Tidak makanin banyak jalanan
+83	Tidak makanin banyak jalanan Mobil ini gesit sekali
+84	Tidak makanin banyak jalanan Mobil ini gesit sekali
+85	Mobil ini gesit sekali
+86	Mobil ini gesit sekali Membuat momen berkendara terasa marvelous
+87	Mobil ini gesit sekali Membuat momen berkendara terasa marvelous
+88	Membuat momen berkendara terasa marvelous
+89	Membuat momen berkendara terasa marvelous
+90	Membuat momen berkendara terasa marvelous
+91	Membuat momen berkendara terasa marvelous
+92	Membuat momen berkendara terasa marvelous
+93	Membuat momen berkendara terasa marvelous Memang ini Suzuki France ini luar biasa
+94	Membuat momen berkendara terasa marvelous Memang ini Suzuki France ini luar biasa
+95	Memang ini Suzuki France ini luar biasa
+96	Memang ini Suzuki France ini luar biasa
+97	Memang ini Suzuki France ini luar biasa
+98	Memang ini Suzuki France ini luar biasa
+99	Memang ini Suzuki France ini luar biasa
+100	Memang ini Suzuki France ini luar biasa Suspensinya enak, mesinnya super hemat
+101	Memang ini Suzuki France ini luar biasa Suspensinya enak, mesinnya super hemat
+102	Suspensinya enak, mesinnya super hemat
+103	Suspensinya enak, mesinnya super hemat
+104	Suspensinya enak, mesinnya super hemat
+105	Suspensinya enak, mesinnya super hemat
+106	Suspensinya enak, mesinnya super hemat Nyetirnya pas duduknya
+107	Suspensinya enak, mesinnya super hemat Nyetirnya pas duduknya
+108	Suspensinya enak, mesinnya super hemat Nyetirnya pas duduknya
+109	Nyetirnya pas duduknya
+110	Nyetirnya pas duduknya Hmm, jalan-jalan kemana ya naik ini?
+111	Nyetirnya pas duduknya Hmm, jalan-jalan kemana ya naik ini?
+112	Nyetirnya pas duduknya Hmm, jalan-jalan kemana ya naik ini?
+113	Hmm, jalan-jalan kemana ya naik ini?
+114	Hmm, jalan-jalan kemana ya naik ini?
+115	Hmm, jalan-jalan kemana ya naik ini?
+116	Hmm, jalan-jalan kemana ya naik ini? Dan sama siapa?
+117	Hmm, jalan-jalan kemana ya naik ini? Dan sama siapa?
+118	Dan sama siapa? Ayo komentar di bawah
+119	Dan sama siapa? Ayo komentar di bawah
+120	Ayo komentar di bawah
+121	Ayo komentar di bawah
+122	Ayo komentar di bawah
+123	[NO_SPEECH]
+124	[NO_SPEECH]

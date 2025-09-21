@@ -1,0 +1,66 @@
+0	Tau kenapa saya nggak suka mobil ini?
+1	Tau kenapa saya nggak suka mobil ini?
+2	Tau kenapa saya nggak suka mobil ini?
+3	Tau kenapa saya nggak suka mobil ini?
+4	Harganya berapa?
+5	Harganya berapa?
+6	Harganya berapa? Berapa?
+7	Harganya berapa? Berapa?
+8	Berapa? Harganya berapa?
+9	Harganya berapa? Untuk yang manual atau Matic?
+10	Harganya berapa? Untuk yang manual atau Matic?
+11	Untuk yang manual atau Matic?
+12	Untuk yang manual atau Matic? Yang Matic yang paling tinggi
+13	Yang Matic yang paling tinggi
+14	Yang Matic yang paling tinggi Yang di Matic itu Rp530.000
+15	Yang Matic yang paling tinggi Yang di Matic itu Rp530.000
+16	Yang di Matic itu Rp530.000
+17	Yang di Matic itu Rp530.000
+18	Yang di Matic itu Rp530.000
+19	Yang di Matic itu Rp530.000
+20	Yang di Matic itu Rp530.000
+21	Rp470.000 kan mustinya
+22	Rp470.000 kan mustinya
+23	Rp470.000 kan mustinya
+24	Rp470.000 kan mustinya Oh iya
+25	Rp470.000 kan mustinya Oh iya
+26	Oh iya
+27	[NO_SPEECH]
+28	Rp478.000
+29	Rp478.000
+30	Rp478.000 Rp470.000
+31	Rp478.000 Rp470.000
+32	Rp470.000 Rp530.000 itu apa?
+33	Rp470.000 Rp530.000 itu apa?
+34	Rp530.000 itu apa? Enggak
+35	Enggak Salah harga
+36	Enggak Salah harga
+37	Salah harga Iya, salah harga
+38	Salah harga Iya, salah harga
+39	Iya, salah harga Salah harga
+40	Iya, salah harga Salah harga Oke, sebentar
+41	Salah harga Oke, sebentar
+42	Oke, sebentar Saya kalau mau beli ini langsung dapat unitnya?
+43	Oke, sebentar Saya kalau mau beli ini langsung dapat unitnya?
+44	Saya kalau mau beli ini langsung dapat unitnya?
+45	Saya kalau mau beli ini langsung dapat unitnya?
+46	Saya kalau mau beli ini langsung dapat unitnya?
+47	Saya kalau mau beli ini langsung dapat unitnya? Bisa langsung dapat nggak?
+48	Saya kalau mau beli ini langsung dapat unitnya? Bisa langsung dapat nggak?
+49	Bisa langsung dapat nggak? Bisa
+50	Bisa langsung dapat nggak? Bisa Tapi Rp530.000 itu?
+51	Bisa Tapi Rp530.000 itu?
+52	Tapi Rp530.000 itu?
+53	Tapi Rp530.000 itu?
+54	Tapi Rp530.000 itu? Iya
+55	Tapi Rp530.000 itu? Iya Iya, iya
+56	Iya Iya, iya Terima kasih
+57	Iya, iya Terima kasih
+58	Terima kasih
+59	Terima kasih Itu alasannya
+60	Terima kasih Itu alasannya
+61	Itu alasannya
+62	Itu alasannya
+63	Itu alasannya
+64	Itu alasannya
+65	Itu alasannya

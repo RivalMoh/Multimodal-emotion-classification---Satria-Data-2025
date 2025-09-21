@@ -1,0 +1,119 @@
+0	Jadi gimana ya mas, biar mobil saya menyetel?
+1	Jadi gimana ya mas, biar mobil saya menyetel?
+2	Jadi gimana ya mas, biar mobil saya menyetel?
+3	Jadi gimana ya mas, biar mobil saya menyetel? Nggak, pangkok itu velg kritisis, body kit, part number, kaca film yang kebiruan atau kejauhan, terus...
+4	Jadi gimana ya mas, biar mobil saya menyetel? Nggak, pangkok itu velg kritisis, body kit, part number, kaca film yang kebiruan atau kejauhan, terus...
+5	Nggak, pangkok itu velg kritisis, body kit, part number, kaca film yang kebiruan atau kejauhan, terus...
+6	Nggak, pangkok itu velg kritisis, body kit, part number, kaca film yang kebiruan atau kejauhan, terus...
+7	Nggak, pangkok itu velg kritisis, body kit, part number, kaca film yang kebiruan atau kejauhan, terus...
+8	Nggak, pangkok itu velg kritisis, body kit, part number, kaca film yang kebiruan atau kejauhan, terus...
+9	Nggak, pangkok itu velg kritisis, body kit, part number, kaca film yang kebiruan atau kejauhan, terus...
+10	Nggak, pangkok itu velg kritisis, body kit, part number, kaca film yang kebiruan atau kejauhan, terus...
+11	Nggak, pangkok itu velg kritisis, body kit, part number, kaca film yang kebiruan atau kejauhan, terus...
+12	Nggak, pangkok itu velg kritisis, body kit, part number, kaca film yang kebiruan atau kejauhan, terus...
+13	Nggak, pangkok itu velg kritisis, body kit, part number, kaca film yang kebiruan atau kejauhan, terus...
+14	Nggak, pangkok itu velg kritisis, body kit, part number, kaca film yang kebiruan atau kejauhan, terus...
+15	Nggak, pangkok itu velg kritisis, body kit, part number, kaca film yang kebiruan atau kejauhan, terus...
+16	Nggak, pangkok itu velg kritisis, body kit, part number, kaca film yang kebiruan atau kejauhan, terus...
+17	Nggak, pangkok itu velg kritisis, body kit, part number, kaca film yang kebiruan atau kejauhan, terus... Mas ngomong kayak buang air besar keluarnya dingin tau nggak?
+18	Nggak, pangkok itu velg kritisis, body kit, part number, kaca film yang kebiruan atau kejauhan, terus... Mas ngomong kayak buang air besar keluarnya dingin tau nggak?
+19	Mas ngomong kayak buang air besar keluarnya dingin tau nggak?
+20	Mas ngomong kayak buang air besar keluarnya dingin tau nggak?
+21	Mas ngomong kayak buang air besar keluarnya dingin tau nggak?
+22	Mas ngomong kayak buang air besar keluarnya dingin tau nggak?
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	Bintung banget bukongnya.
+26	Bintung banget bukongnya.
+27	Bintung banget bukongnya. Modif mobil itu kayak menyelesaikan soal matematika.
+28	Bintung banget bukongnya. Modif mobil itu kayak menyelesaikan soal matematika.
+29	Modif mobil itu kayak menyelesaikan soal matematika.
+30	Modif mobil itu kayak menyelesaikan soal matematika.
+31	Modif mobil itu kayak menyelesaikan soal matematika.
+32	Modif mobil itu kayak menyelesaikan soal matematika.
+33	Modif mobil itu kayak menyelesaikan soal matematika. Maksudnya?
+34	Modif mobil itu kayak menyelesaikan soal matematika. Maksudnya? Dimulai dari yang mudah-mudah aja.
+35	Maksudnya? Dimulai dari yang mudah-mudah aja.
+36	Dimulai dari yang mudah-mudah aja.
+37	Dimulai dari yang mudah-mudah aja.
+38	Dimulai dari yang mudah-mudah aja.
+39	Dimulai dari yang mudah-mudah aja. Velg, body kit, kaca film yang paling mudah...
+40	Dimulai dari yang mudah-mudah aja. Velg, body kit, kaca film yang paling mudah...
+41	Velg, body kit, kaca film yang paling mudah...
+42	Velg, body kit, kaca film yang paling mudah...
+43	Velg, body kit, kaca film yang paling mudah...
+44	Velg, body kit, kaca film yang paling mudah...
+45	Velg, body kit, kaca film yang paling mudah... KACA FILM!
+46	KACA FILM!
+47	KACA FILM! You film!
+48	KACA FILM! You film!
+49	You film!
+50	You film!
+51	Tunjukkan!
+52	Tunjukkan!
+53	Tunjukkan!
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	[NO_SPEECH]
+59	[NO_SPEECH]
+60	Bentar...
+61	Bentar... Mahal nggak?
+62	Bentar... Mahal nggak?
+63	Mahal nggak?
+64	Mahal nggak? Kaca film 1,7 dengan penolong panas IRR 97% mahal.
+65	Kaca film 1,7 dengan penolong panas IRR 97% mahal.
+66	Kaca film 1,7 dengan penolong panas IRR 97% mahal.
+67	Kaca film 1,7 dengan penolong panas IRR 97% mahal.
+68	Kaca film 1,7 dengan penolong panas IRR 97% mahal.
+69	Kaca film 1,7 dengan penolong panas IRR 97% mahal.
+70	Kaca film 1,7 dengan penolong panas IRR 97% mahal.
+71	Kaca film 1,7 dengan penolong panas IRR 97% mahal.
+72	Kaca film 1,7 dengan penolong panas IRR 97% mahal.
+73	Kaca film 1,7 dengan penolong panas IRR 97% mahal. Pas!
+74	Kaca film 1,7 dengan penolong panas IRR 97% mahal. Pas! Lanjut!
+75	Pas! Lanjut!
+76	Lanjut! You film punya tiket visibilitas 20%, 40%, 60%, dan 80%.
+77	Lanjut! You film punya tiket visibilitas 20%, 40%, 60%, dan 80%.
+78	You film punya tiket visibilitas 20%, 40%, 60%, dan 80%.
+79	You film punya tiket visibilitas 20%, 40%, 60%, dan 80%.
+80	You film punya tiket visibilitas 20%, 40%, 60%, dan 80%.
+81	You film punya tiket visibilitas 20%, 40%, 60%, dan 80%.
+82	You film punya tiket visibilitas 20%, 40%, 60%, dan 80%.
+83	You film punya tiket visibilitas 20%, 40%, 60%, dan 80%.
+84	You film punya tiket visibilitas 20%, 40%, 60%, dan 80%.
+85	You film punya tiket visibilitas 20%, 40%, 60%, dan 80%.
+86	You film punya tiket visibilitas 20%, 40%, 60%, dan 80%.
+87	You film punya tiket visibilitas 20%, 40%, 60%, dan 80%.
+88	You film punya tiket visibilitas 20%, 40%, 60%, dan 80%. Oke, saya mau yang 20%.
+89	You film punya tiket visibilitas 20%, 40%, 60%, dan 80%. Oke, saya mau yang 20%.
+90	Oke, saya mau yang 20%.
+91	Oke, saya mau yang 20%. Interiormu masih musuk, udah 40% aja.
+92	Oke, saya mau yang 20%. Interiormu masih musuk, udah 40% aja.
+93	Interiormu masih musuk, udah 40% aja.
+94	Interiormu masih musuk, udah 40% aja.
+95	Interiormu masih musuk, udah 40% aja.
+96	Interiormu masih musuk, udah 40% aja. Mabuk kok.
+97	Interiormu masih musuk, udah 40% aja. Mabuk kok.
+98	Mabuk kok. Yang punya mobil siapa sih?
+99	Mabuk kok. Yang punya mobil siapa sih?
+100	Yang punya mobil siapa sih?
+101	Yang punya mobil siapa sih?
+102	Yang punya mobil siapa sih? Yang punya mobil siapa sih?
+103	Yang punya mobil siapa sih?
+104	Yang punya mobil siapa sih?  Walaupun 80% visibilitas, tapi kalau malem masih jernih kok.
+105	Yang punya mobil siapa sih?  Walaupun 80% visibilitas, tapi kalau malem masih jernih kok.
+106	Walaupun 80% visibilitas, tapi kalau malem masih jernih kok.
+107	Walaupun 80% visibilitas, tapi kalau malem masih jernih kok.
+108	Walaupun 80% visibilitas, tapi kalau malem masih jernih kok.
+109	Walaupun 80% visibilitas, tapi kalau malem masih jernih kok.
+110	Walaupun 80% visibilitas, tapi kalau malem masih jernih kok.
+111	Walaupun 80% visibilitas, tapi kalau malem masih jernih kok. Ini film terbaik.
+112	Walaupun 80% visibilitas, tapi kalau malem masih jernih kok. Ini film terbaik.
+113	Ini film terbaik. Adem nggak harus mahal.
+114	Ini film terbaik. Adem nggak harus mahal.
+115	Adem nggak harus mahal.
+116	Adem nggak harus mahal. Harus mahal.
+117	Adem nggak harus mahal. Harus mahal.
+118	Harus mahal.

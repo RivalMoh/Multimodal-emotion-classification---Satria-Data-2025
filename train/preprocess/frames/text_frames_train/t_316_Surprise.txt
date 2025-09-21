@@ -1,0 +1,172 @@
+0	di Shopee sih ini gila ya barangnya
+1	di Shopee sih ini gila ya barangnya
+2	di Shopee sih ini gila ya barangnya reviewnya Rp 29.000 plus plus
+3	di Shopee sih ini gila ya barangnya reviewnya Rp 29.000 plus plus
+4	reviewnya Rp 29.000 plus plus
+5	reviewnya Rp 29.000 plus plus terjual Rp 10.000 plus plus
+6	reviewnya Rp 29.000 plus plus terjual Rp 10.000 plus plus
+7	terjual Rp 10.000 plus plus
+8	terjual Rp 10.000 plus plus
+9	terjual Rp 10.000 plus plus pas gue pegang
+10	terjual Rp 10.000 plus plus pas gue pegang
+11	pas gue pegang ini udah kasih kesan
+12	pas gue pegang ini udah kasih kesan
+13	ini udah kasih kesan
+14	ini udah kasih kesan walah buat barang Rp 200.000
+15	ini udah kasih kesan walah buat barang Rp 200.000
+16	walah buat barang Rp 200.000
+17	walah buat barang Rp 200.000
+18	walah buat barang Rp 200.000 tali jamnya punya bahan yang oke
+19	walah buat barang Rp 200.000 tali jamnya punya bahan yang oke
+20	tali jamnya punya bahan yang oke polis plastik bodinya
+21	tali jamnya punya bahan yang oke polis plastik bodinya
+22	tali jamnya punya bahan yang oke polis plastik bodinya
+23	polis plastik bodinya jadi gold juga keliatan mewah ya
+24	polis plastik bodinya jadi gold juga keliatan mewah ya
+25	jadi gold juga keliatan mewah ya
+26	jadi gold juga keliatan mewah ya
+27	jadi gold juga keliatan mewah ya
+28	jadi gold juga keliatan mewah ya tapi kalau lo perhatiin bener-bener
+29	jadi gold juga keliatan mewah ya tapi kalau lo perhatiin bener-bener
+30	tapi kalau lo perhatiin bener-bener ada sedikit lecet warna kecil lah
+31	tapi kalau lo perhatiin bener-bener ada sedikit lecet warna kecil lah
+32	ada sedikit lecet warna kecil lah
+33	ada sedikit lecet warna kecil lah
+34	ada sedikit lecet warna kecil lah
+35	ada sedikit lecet warna kecil lah di bagian kiri sama atas ya
+36	ada sedikit lecet warna kecil lah di bagian kiri sama atas ya
+37	di bagian kiri sama atas ya
+38	di bagian kiri sama atas ya coating layarnya juga gampang banget kotor
+39	di bagian kiri sama atas ya coating layarnya juga gampang banget kotor
+40	coating layarnya juga gampang banget kotor
+41	coating layarnya juga gampang banget kotor
+42	coating layarnya juga gampang banget kotor lo pegang aja langsung jeplak
+43	coating layarnya juga gampang banget kotor lo pegang aja langsung jeplak
+44	lo pegang aja langsung jeplak
+45	lo pegang aja langsung jeplak panel IPS yang dipake juga
+46	lo pegang aja langsung jeplak panel IPS yang dipake juga
+47	panel IPS yang dipake juga
+48	panel IPS yang dipake juga pas kena lampu keliatan banget abu-abunya
+49	panel IPS yang dipake juga pas kena lampu keliatan banget abu-abunya
+50	pas kena lampu keliatan banget abu-abunya
+51	pas kena lampu keliatan banget abu-abunya
+52	pas kena lampu keliatan banget abu-abunya langsung beda sama bezel hitamnya
+53	pas kena lampu keliatan banget abu-abunya langsung beda sama bezel hitamnya
+54	langsung beda sama bezel hitamnya
+55	langsung beda sama bezel hitamnya
+56	langsung beda sama bezel hitamnya yaa..
+57	langsung beda sama bezel hitamnya yaa..
+58	yaa.. gue ga bisa komplain lah ya harga segini bos
+59	yaa.. gue ga bisa komplain lah ya harga segini bos
+60	gue ga bisa komplain lah ya harga segini bos
+61	gue ga bisa komplain lah ya harga segini bos
+62	gue ga bisa komplain lah ya harga segini bos menarik ya pas dipake touch layarnya
+63	gue ga bisa komplain lah ya harga segini bos menarik ya pas dipake touch layarnya
+64	menarik ya pas dipake touch layarnya
+65	menarik ya pas dipake touch layarnya
+66	menarik ya pas dipake touch layarnya
+67	menarik ya pas dipake touch layarnya ini lumayan sensitif
+68	menarik ya pas dipake touch layarnya ini lumayan sensitif
+69	ini lumayan sensitif walaupun efek transisinya ga bisa bohong ya
+70	ini lumayan sensitif walaupun efek transisinya ga bisa bohong ya
+71	ini lumayan sensitif walaupun efek transisinya ga bisa bohong ya
+72	walaupun efek transisinya ga bisa bohong ya
+73	walaupun efek transisinya ga bisa bohong ya di harga segini
+74	walaupun efek transisinya ga bisa bohong ya di harga segini hertznya udah pasti cukup rendah
+75	di harga segini hertznya udah pasti cukup rendah
+76	hertznya udah pasti cukup rendah
+77	hertznya udah pasti cukup rendah
+78	hertznya udah pasti cukup rendah ga smooth smooth banget
+79	hertznya udah pasti cukup rendah ga smooth smooth banget
+80	ga smooth smooth banget
+81	ga smooth smooth banget layarnya lumayan terang
+82	ga smooth smooth banget layarnya lumayan terang
+83	layarnya lumayan terang fitur mukanya jaman lo bisa pilih suka lo
+84	layarnya lumayan terang fitur mukanya jaman lo bisa pilih suka lo
+85	fitur mukanya jaman lo bisa pilih suka lo
+86	fitur mukanya jaman lo bisa pilih suka lo
+87	fitur mukanya jaman lo bisa pilih suka lo klaimnya IP68 waterproof
+88	fitur mukanya jaman lo bisa pilih suka lo klaimnya IP68 waterproof
+89	klaimnya IP68 waterproof
+90	klaimnya IP68 waterproof gue coba guyur air lap dikit
+91	klaimnya IP68 waterproof gue coba guyur air lap dikit
+92	gue coba guyur air lap dikit
+93	gue coba guyur air lap dikit
+94	gue coba guyur air lap dikit langsung bisa dipake lagi
+95	gue coba guyur air lap dikit langsung bisa dipake lagi
+96	langsung bisa dipake lagi dan yang paling penting ya
+97	langsung bisa dipake lagi dan yang paling penting ya
+98	dan yang paling penting ya notif whatsapp masuk
+99	dan yang paling penting ya notif whatsapp masuk
+100	notif whatsapp masuk bisa langsung dibaca
+101	notif whatsapp masuk bisa langsung dibaca
+102	bisa langsung dibaca geternya juga berhasil
+103	bisa langsung dibaca geternya juga berhasil
+104	geternya juga berhasil
+105	geternya juga berhasil udah amazing lah Rp 200.000
+106	geternya juga berhasil udah amazing lah Rp 200.000
+107	udah amazing lah Rp 200.000
+108	udah amazing lah Rp 200.000 apa lagi yang lo minta
+109	udah amazing lah Rp 200.000 apa lagi yang lo minta
+110	apa lagi yang lo minta fitur lainnya kayak sensor jantung
+111	apa lagi yang lo minta fitur lainnya kayak sensor jantung
+112	fitur lainnya kayak sensor jantung
+113	fitur lainnya kayak sensor jantung sport, sensor oksigen
+114	fitur lainnya kayak sensor jantung sport, sensor oksigen
+115	sport, sensor oksigen
+116	sport, sensor oksigen ya lo bisa mainnya sendiri lah
+117	sport, sensor oksigen ya lo bisa mainnya sendiri lah
+118	ya lo bisa mainnya sendiri lah gue ga terlalu berharap banyak sama akurasi sensor sensor ngituan ya
+119	ya lo bisa mainnya sendiri lah gue ga terlalu berharap banyak sama akurasi sensor sensor ngituan ya
+120	gue ga terlalu berharap banyak sama akurasi sensor sensor ngituan ya
+121	gue ga terlalu berharap banyak sama akurasi sensor sensor ngituan ya
+122	gue ga terlalu berharap banyak sama akurasi sensor sensor ngituan ya
+123	gue ga terlalu berharap banyak sama akurasi sensor sensor ngituan ya
+124	gue ga terlalu berharap banyak sama akurasi sensor sensor ngituan ya di jam semurah ini nice to have aja
+125	gue ga terlalu berharap banyak sama akurasi sensor sensor ngituan ya di jam semurah ini nice to have aja
+126	di jam semurah ini nice to have aja
+127	di jam semurah ini nice to have aja
+128	di jam semurah ini nice to have aja
+129	di jam semurah ini nice to have aja Rp 200.000 bisa punya fitur sebanyak itu
+130	di jam semurah ini nice to have aja Rp 200.000 bisa punya fitur sebanyak itu
+131	Rp 200.000 bisa punya fitur sebanyak itu
+132	Rp 200.000 bisa punya fitur sebanyak itu
+133	Rp 200.000 bisa punya fitur sebanyak itu
+134	Rp 200.000 bisa punya fitur sebanyak itu
+135	Rp 200.000 bisa punya fitur sebanyak itu
+136	Rp 200.000 bisa punya fitur sebanyak itu dan udah pasti dus belakangnya tertulis
+137	Rp 200.000 bisa punya fitur sebanyak itu dan udah pasti dus belakangnya tertulis
+138	dan udah pasti dus belakangnya tertulis
+139	dan udah pasti dus belakangnya tertulis
+140	dan udah pasti dus belakangnya tertulis
+141	dan udah pasti dus belakangnya tertulis tulisannya udah jelas tuh
+142	dan udah pasti dus belakangnya tertulis tulisannya udah jelas tuh
+143	tulisannya udah jelas tuh sancen
+144	tulisannya udah jelas tuh sancen
+145	sancen emang dari mana lagi lo pikir
+146	sancen emang dari mana lagi lo pikir
+147	emang dari mana lagi lo pikir
+148	emang dari mana lagi lo pikir
+149	emang dari mana lagi lo pikir kalo bukan dari China produk gini ya
+150	emang dari mana lagi lo pikir kalo bukan dari China produk gini ya
+151	kalo bukan dari China produk gini ya
+152	kalo bukan dari China produk gini ya
+153	kalo bukan dari China produk gini ya awlon awlon
+154	kalo bukan dari China produk gini ya awlon awlon
+155	awlon awlon
+156	awlon awlon komen aja awlon
+157	awlon awlon komen aja awlon
+158	komen aja awlon gue kirimin lagi
+159	komen aja awlon gue kirimin lagi inget top up game
+160	gue kirimin lagi inget top up game
+161	inget top up game inget di Dari Top Up
+162	inget top up game inget di Dari Top Up
+163	inget di Dari Top Up
+164	inget di Dari Top Up
+165	inget di Dari Top Up
+166	[NO_SPEECH]
+167	[NO_SPEECH]
+168	[NO_SPEECH]
+169	[NO_SPEECH]
+170	[NO_SPEECH]
+171	[NO_SPEECH]

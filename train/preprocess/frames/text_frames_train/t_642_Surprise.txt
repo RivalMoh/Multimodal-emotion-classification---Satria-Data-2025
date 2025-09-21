@@ -1,0 +1,122 @@
+0	Banyak banget yang nanya sama aku, kalau dokter hewan waktu kuliah kita koas gak ya?
+1	Banyak banget yang nanya sama aku, kalau dokter hewan waktu kuliah kita koas gak ya?
+2	Banyak banget yang nanya sama aku, kalau dokter hewan waktu kuliah kita koas gak ya?
+3	Banyak banget yang nanya sama aku, kalau dokter hewan waktu kuliah kita koas gak ya?
+4	Banyak banget yang nanya sama aku, kalau dokter hewan waktu kuliah kita koas gak ya?
+5	Banyak banget yang nanya sama aku, kalau dokter hewan waktu kuliah kita koas gak ya?
+6	Banyak banget yang nanya sama aku, kalau dokter hewan waktu kuliah kita koas gak ya?
+7	Banyak banget yang nanya sama aku, kalau dokter hewan waktu kuliah kita koas gak ya?
+8	Banyak banget yang nanya sama aku, kalau dokter hewan waktu kuliah kita koas gak ya? Nah, sama seperti jurusan kedokteran lainnya, kita koas juga ya.
+9	Banyak banget yang nanya sama aku, kalau dokter hewan waktu kuliah kita koas gak ya? Nah, sama seperti jurusan kedokteran lainnya, kita koas juga ya.
+10	Nah, sama seperti jurusan kedokteran lainnya, kita koas juga ya.
+11	Nah, sama seperti jurusan kedokteran lainnya, kita koas juga ya.
+12	Nah, sama seperti jurusan kedokteran lainnya, kita koas juga ya.
+13	Nah, sama seperti jurusan kedokteran lainnya, kita koas juga ya.
+14	Nah, sama seperti jurusan kedokteran lainnya, kita koas juga ya.
+15	Nah, sama seperti jurusan kedokteran lainnya, kita koas juga ya. Setelah kita lulus S1 atau sarjana kedokteran hewan, kita ambil koasistensi selama 1,5 sampai dengan 2 tahun.
+16	Nah, sama seperti jurusan kedokteran lainnya, kita koas juga ya. Setelah kita lulus S1 atau sarjana kedokteran hewan, kita ambil koasistensi selama 1,5 sampai dengan 2 tahun.
+17	Setelah kita lulus S1 atau sarjana kedokteran hewan, kita ambil koasistensi selama 1,5 sampai dengan 2 tahun.
+18	Setelah kita lulus S1 atau sarjana kedokteran hewan, kita ambil koasistensi selama 1,5 sampai dengan 2 tahun.
+19	Setelah kita lulus S1 atau sarjana kedokteran hewan, kita ambil koasistensi selama 1,5 sampai dengan 2 tahun.
+20	Setelah kita lulus S1 atau sarjana kedokteran hewan, kita ambil koasistensi selama 1,5 sampai dengan 2 tahun.
+21	Setelah kita lulus S1 atau sarjana kedokteran hewan, kita ambil koasistensi selama 1,5 sampai dengan 2 tahun.
+22	Setelah kita lulus S1 atau sarjana kedokteran hewan, kita ambil koasistensi selama 1,5 sampai dengan 2 tahun.
+23	Setelah kita lulus S1 atau sarjana kedokteran hewan, kita ambil koasistensi selama 1,5 sampai dengan 2 tahun.
+24	Setelah kita lulus S1 atau sarjana kedokteran hewan, kita ambil koasistensi selama 1,5 sampai dengan 2 tahun.
+25	Setelah kita lulus S1 atau sarjana kedokteran hewan, kita ambil koasistensi selama 1,5 sampai dengan 2 tahun.
+26	Setelah kita lulus S1 atau sarjana kedokteran hewan, kita ambil koasistensi selama 1,5 sampai dengan 2 tahun.
+27	Setelah kita lulus S1 atau sarjana kedokteran hewan, kita ambil koasistensi selama 1,5 sampai dengan 2 tahun.
+28	Setelah kita lulus S1 atau sarjana kedokteran hewan, kita ambil koasistensi selama 1,5 sampai dengan 2 tahun. Pada saat koasistensi, kita lebih banyak terjun ke lapangan dan mempraktekkan ilmu-ilmu yang sudah diajarkan pada saat S1.
+29	Setelah kita lulus S1 atau sarjana kedokteran hewan, kita ambil koasistensi selama 1,5 sampai dengan 2 tahun. Pada saat koasistensi, kita lebih banyak terjun ke lapangan dan mempraktekkan ilmu-ilmu yang sudah diajarkan pada saat S1.
+30	Pada saat koasistensi, kita lebih banyak terjun ke lapangan dan mempraktekkan ilmu-ilmu yang sudah diajarkan pada saat S1.
+31	Pada saat koasistensi, kita lebih banyak terjun ke lapangan dan mempraktekkan ilmu-ilmu yang sudah diajarkan pada saat S1.
+32	Pada saat koasistensi, kita lebih banyak terjun ke lapangan dan mempraktekkan ilmu-ilmu yang sudah diajarkan pada saat S1.
+33	Pada saat koasistensi, kita lebih banyak terjun ke lapangan dan mempraktekkan ilmu-ilmu yang sudah diajarkan pada saat S1.
+34	Pada saat koasistensi, kita lebih banyak terjun ke lapangan dan mempraktekkan ilmu-ilmu yang sudah diajarkan pada saat S1.
+35	Pada saat koasistensi, kita lebih banyak terjun ke lapangan dan mempraktekkan ilmu-ilmu yang sudah diajarkan pada saat S1.
+36	Pada saat koasistensi, kita lebih banyak terjun ke lapangan dan mempraktekkan ilmu-ilmu yang sudah diajarkan pada saat S1.
+37	Pada saat koasistensi, kita lebih banyak terjun ke lapangan dan mempraktekkan ilmu-ilmu yang sudah diajarkan pada saat S1.
+38	Pada saat koasistensi, kita lebih banyak terjun ke lapangan dan mempraktekkan ilmu-ilmu yang sudah diajarkan pada saat S1.
+39	Pada saat koasistensi, kita lebih banyak terjun ke lapangan dan mempraktekkan ilmu-ilmu yang sudah diajarkan pada saat S1.
+40	Pada saat koasistensi, kita lebih banyak terjun ke lapangan dan mempraktekkan ilmu-ilmu yang sudah diajarkan pada saat S1.
+41	Pada saat koasistensi, kita lebih banyak terjun ke lapangan dan mempraktekkan ilmu-ilmu yang sudah diajarkan pada saat S1. Pada saat koasistensi, memang akan ada rotasi.
+42	Pada saat koasistensi, memang akan ada rotasi.
+43	Pada saat koasistensi, memang akan ada rotasi.
+44	Pada saat koasistensi, memang akan ada rotasi.
+45	Pada saat koasistensi, memang akan ada rotasi. Misalnya, 2 bulan kita belajar unggas, lalu 2 bulan berikutnya kita belajar anjing kucing,
+46	Pada saat koasistensi, memang akan ada rotasi. Misalnya, 2 bulan kita belajar unggas, lalu 2 bulan berikutnya kita belajar anjing kucing,
+47	Misalnya, 2 bulan kita belajar unggas, lalu 2 bulan berikutnya kita belajar anjing kucing,
+48	Misalnya, 2 bulan kita belajar unggas, lalu 2 bulan berikutnya kita belajar anjing kucing,
+49	Misalnya, 2 bulan kita belajar unggas, lalu 2 bulan berikutnya kita belajar anjing kucing,
+50	Misalnya, 2 bulan kita belajar unggas, lalu 2 bulan berikutnya kita belajar anjing kucing,
+51	Misalnya, 2 bulan kita belajar unggas, lalu 2 bulan berikutnya kita belajar anjing kucing,
+52	Misalnya, 2 bulan kita belajar unggas, lalu 2 bulan berikutnya kita belajar anjing kucing,
+53	Misalnya, 2 bulan kita belajar unggas, lalu 2 bulan berikutnya kita belajar anjing kucing,
+54	Misalnya, 2 bulan kita belajar unggas, lalu 2 bulan berikutnya kita belajar anjing kucing,
+55	Misalnya, 2 bulan kita belajar unggas, lalu 2 bulan berikutnya kita belajar anjing kucing, kemudian 2 bulan berikutnya kita belajar kuda, semua akan tergantung dengan peraturan universitas masing-masing.
+56	Misalnya, 2 bulan kita belajar unggas, lalu 2 bulan berikutnya kita belajar anjing kucing, kemudian 2 bulan berikutnya kita belajar kuda, semua akan tergantung dengan peraturan universitas masing-masing.
+57	kemudian 2 bulan berikutnya kita belajar kuda, semua akan tergantung dengan peraturan universitas masing-masing.
+58	kemudian 2 bulan berikutnya kita belajar kuda, semua akan tergantung dengan peraturan universitas masing-masing.
+59	kemudian 2 bulan berikutnya kita belajar kuda, semua akan tergantung dengan peraturan universitas masing-masing.
+60	kemudian 2 bulan berikutnya kita belajar kuda, semua akan tergantung dengan peraturan universitas masing-masing.
+61	kemudian 2 bulan berikutnya kita belajar kuda, semua akan tergantung dengan peraturan universitas masing-masing.
+62	kemudian 2 bulan berikutnya kita belajar kuda, semua akan tergantung dengan peraturan universitas masing-masing.
+63	kemudian 2 bulan berikutnya kita belajar kuda, semua akan tergantung dengan peraturan universitas masing-masing.
+64	kemudian 2 bulan berikutnya kita belajar kuda, semua akan tergantung dengan peraturan universitas masing-masing.
+65	kemudian 2 bulan berikutnya kita belajar kuda, semua akan tergantung dengan peraturan universitas masing-masing.
+66	kemudian 2 bulan berikutnya kita belajar kuda, semua akan tergantung dengan peraturan universitas masing-masing.
+67	kemudian 2 bulan berikutnya kita belajar kuda, semua akan tergantung dengan peraturan universitas masing-masing. Pada saat koas, itu pressure banget ya, karena kita dituntut untuk bisa menyelesaikan kasus mandiri dalam jangka waktu yang singkat.
+68	kemudian 2 bulan berikutnya kita belajar kuda, semua akan tergantung dengan peraturan universitas masing-masing. Pada saat koas, itu pressure banget ya, karena kita dituntut untuk bisa menyelesaikan kasus mandiri dalam jangka waktu yang singkat.
+69	Pada saat koas, itu pressure banget ya, karena kita dituntut untuk bisa menyelesaikan kasus mandiri dalam jangka waktu yang singkat.
+70	Pada saat koas, itu pressure banget ya, karena kita dituntut untuk bisa menyelesaikan kasus mandiri dalam jangka waktu yang singkat.
+71	Pada saat koas, itu pressure banget ya, karena kita dituntut untuk bisa menyelesaikan kasus mandiri dalam jangka waktu yang singkat.
+72	Pada saat koas, itu pressure banget ya, karena kita dituntut untuk bisa menyelesaikan kasus mandiri dalam jangka waktu yang singkat.
+73	Pada saat koas, itu pressure banget ya, karena kita dituntut untuk bisa menyelesaikan kasus mandiri dalam jangka waktu yang singkat.
+74	Pada saat koas, itu pressure banget ya, karena kita dituntut untuk bisa menyelesaikan kasus mandiri dalam jangka waktu yang singkat.
+75	Pada saat koas, itu pressure banget ya, karena kita dituntut untuk bisa menyelesaikan kasus mandiri dalam jangka waktu yang singkat.
+76	Pada saat koas, itu pressure banget ya, karena kita dituntut untuk bisa menyelesaikan kasus mandiri dalam jangka waktu yang singkat.
+77	Pada saat koas, itu pressure banget ya, karena kita dituntut untuk bisa menyelesaikan kasus mandiri dalam jangka waktu yang singkat.
+78	Pada saat koas, itu pressure banget ya, karena kita dituntut untuk bisa menyelesaikan kasus mandiri dalam jangka waktu yang singkat.
+79	Pada saat koas, itu pressure banget ya, karena kita dituntut untuk bisa menyelesaikan kasus mandiri dalam jangka waktu yang singkat.
+80	Pada saat koas, itu pressure banget ya, karena kita dituntut untuk bisa menyelesaikan kasus mandiri dalam jangka waktu yang singkat. Ini contohnya, kemarin ada 2 mahasiswa koasistensi dari Unibrow yang ikut kegiatan dokter-dokter di Dokter Ikan Indonesia.
+81	Pada saat koas, itu pressure banget ya, karena kita dituntut untuk bisa menyelesaikan kasus mandiri dalam jangka waktu yang singkat. Ini contohnya, kemarin ada 2 mahasiswa koasistensi dari Unibrow yang ikut kegiatan dokter-dokter di Dokter Ikan Indonesia.
+82	Ini contohnya, kemarin ada 2 mahasiswa koasistensi dari Unibrow yang ikut kegiatan dokter-dokter di Dokter Ikan Indonesia.
+83	Ini contohnya, kemarin ada 2 mahasiswa koasistensi dari Unibrow yang ikut kegiatan dokter-dokter di Dokter Ikan Indonesia.
+84	Ini contohnya, kemarin ada 2 mahasiswa koasistensi dari Unibrow yang ikut kegiatan dokter-dokter di Dokter Ikan Indonesia.
+85	Ini contohnya, kemarin ada 2 mahasiswa koasistensi dari Unibrow yang ikut kegiatan dokter-dokter di Dokter Ikan Indonesia.
+86	Ini contohnya, kemarin ada 2 mahasiswa koasistensi dari Unibrow yang ikut kegiatan dokter-dokter di Dokter Ikan Indonesia.
+87	Ini contohnya, kemarin ada 2 mahasiswa koasistensi dari Unibrow yang ikut kegiatan dokter-dokter di Dokter Ikan Indonesia.
+88	Ini contohnya, kemarin ada 2 mahasiswa koasistensi dari Unibrow yang ikut kegiatan dokter-dokter di Dokter Ikan Indonesia.
+89	Ini contohnya, kemarin ada 2 mahasiswa koasistensi dari Unibrow yang ikut kegiatan dokter-dokter di Dokter Ikan Indonesia.
+90	Ini contohnya, kemarin ada 2 mahasiswa koasistensi dari Unibrow yang ikut kegiatan dokter-dokter di Dokter Ikan Indonesia.
+91	Ini contohnya, kemarin ada 2 mahasiswa koasistensi dari Unibrow yang ikut kegiatan dokter-dokter di Dokter Ikan Indonesia.
+92	Ini contohnya, kemarin ada 2 mahasiswa koasistensi dari Unibrow yang ikut kegiatan dokter-dokter di Dokter Ikan Indonesia.
+93	Ini contohnya, kemarin ada 2 mahasiswa koasistensi dari Unibrow yang ikut kegiatan dokter-dokter di Dokter Ikan Indonesia. Di sini, mereka akan kita ajarin semua, dimulai dari handling sampai mereka mencoba operasi ikan mas.
+94	Ini contohnya, kemarin ada 2 mahasiswa koasistensi dari Unibrow yang ikut kegiatan dokter-dokter di Dokter Ikan Indonesia. Di sini, mereka akan kita ajarin semua, dimulai dari handling sampai mereka mencoba operasi ikan mas.
+95	Di sini, mereka akan kita ajarin semua, dimulai dari handling sampai mereka mencoba operasi ikan mas.
+96	Di sini, mereka akan kita ajarin semua, dimulai dari handling sampai mereka mencoba operasi ikan mas.
+97	Di sini, mereka akan kita ajarin semua, dimulai dari handling sampai mereka mencoba operasi ikan mas.
+98	Di sini, mereka akan kita ajarin semua, dimulai dari handling sampai mereka mencoba operasi ikan mas.
+99	Di sini, mereka akan kita ajarin semua, dimulai dari handling sampai mereka mencoba operasi ikan mas.
+100	Di sini, mereka akan kita ajarin semua, dimulai dari handling sampai mereka mencoba operasi ikan mas.
+101	Di sini, mereka akan kita ajarin semua, dimulai dari handling sampai mereka mencoba operasi ikan mas.
+102	Di sini, mereka akan kita ajarin semua, dimulai dari handling sampai mereka mencoba operasi ikan mas.
+103	Di sini, mereka akan kita ajarin semua, dimulai dari handling sampai mereka mencoba operasi ikan mas.
+104	Di sini, mereka akan kita ajarin semua, dimulai dari handling sampai mereka mencoba operasi ikan mas.
+105	Di sini, mereka akan kita ajarin semua, dimulai dari handling sampai mereka mencoba operasi ikan mas. Kita berusaha banget untuk kasih bekal ilmu yang cukup buat mereka.
+106	Di sini, mereka akan kita ajarin semua, dimulai dari handling sampai mereka mencoba operasi ikan mas. Kita berusaha banget untuk kasih bekal ilmu yang cukup buat mereka.
+107	Kita berusaha banget untuk kasih bekal ilmu yang cukup buat mereka.
+108	Kita berusaha banget untuk kasih bekal ilmu yang cukup buat mereka.
+109	Kita berusaha banget untuk kasih bekal ilmu yang cukup buat mereka.
+110	Kita berusaha banget untuk kasih bekal ilmu yang cukup buat mereka.
+111	Kita berusaha banget untuk kasih bekal ilmu yang cukup buat mereka. Ada yang mau koas di tempat aku?
+112	Kita berusaha banget untuk kasih bekal ilmu yang cukup buat mereka. Ada yang mau koas di tempat aku?
+113	Ada yang mau koas di tempat aku?
+114	Ada yang mau koas di tempat aku?
+115	Ada yang mau koas di tempat aku?
+116	Ada yang mau koas di tempat aku?
+117	[NO_SPEECH]
+118	PEMBICARA 1
+119	PEMBICARA 1
+120	PEMBICARA 1
+121	PEMBICARA 1

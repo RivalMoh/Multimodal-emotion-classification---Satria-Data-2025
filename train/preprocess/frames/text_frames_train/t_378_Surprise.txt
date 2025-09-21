@@ -1,0 +1,160 @@
+0	Pengen punya Smart TV 4K layar besar 75 inci?
+1	Pengen punya Smart TV 4K layar besar 75 inci?
+2	Pengen punya Smart TV 4K layar besar 75 inci?
+3	Pengen punya Smart TV 4K layar besar 75 inci? Fitur kekinian sekali tapi harganya terjangkau.
+4	Pengen punya Smart TV 4K layar besar 75 inci? Fitur kekinian sekali tapi harganya terjangkau.
+5	Fitur kekinian sekali tapi harganya terjangkau.
+6	Fitur kekinian sekali tapi harganya terjangkau.
+7	Fitur kekinian sekali tapi harganya terjangkau.
+8	Fitur kekinian sekali tapi harganya terjangkau. Ada nih, Changhong M75QN9.
+9	Fitur kekinian sekali tapi harganya terjangkau. Ada nih, Changhong M75QN9.
+10	Ada nih, Changhong M75QN9.
+11	Ada nih, Changhong M75QN9.
+12	Ada nih, Changhong M75QN9.
+13	Ada nih, Changhong M75QN9.
+14	Ada nih, Changhong M75QN9.
+15	Ada nih, Changhong M75QN9. Di sini ada QLED Pro.
+16	Di sini ada QLED Pro.
+17	Di sini ada QLED Pro. Ini mendukung kualitas tampilan Smart TV yang satu ini ya.
+18	Di sini ada QLED Pro. Ini mendukung kualitas tampilan Smart TV yang satu ini ya.
+19	Ini mendukung kualitas tampilan Smart TV yang satu ini ya.
+20	Ini mendukung kualitas tampilan Smart TV yang satu ini ya.
+21	Ini mendukung kualitas tampilan Smart TV yang satu ini ya. Buktinya ada white color gamut dengan janji 93% DCI-P3.
+22	Ini mendukung kualitas tampilan Smart TV yang satu ini ya. Buktinya ada white color gamut dengan janji 93% DCI-P3.
+23	Buktinya ada white color gamut dengan janji 93% DCI-P3.
+24	Buktinya ada white color gamut dengan janji 93% DCI-P3.
+25	Buktinya ada white color gamut dengan janji 93% DCI-P3.
+26	Buktinya ada white color gamut dengan janji 93% DCI-P3.
+27	Buktinya ada white color gamut dengan janji 93% DCI-P3.
+28	Buktinya ada white color gamut dengan janji 93% DCI-P3.
+29	Buktinya ada white color gamut dengan janji 93% DCI-P3. Sudah madai banget ini buat nonton berbagai macam konten.
+30	Sudah madai banget ini buat nonton berbagai macam konten.
+31	Sudah madai banget ini buat nonton berbagai macam konten.
+32	Sudah madai banget ini buat nonton berbagai macam konten.
+33	Sudah madai banget ini buat nonton berbagai macam konten.
+34	Sudah madai banget ini buat nonton berbagai macam konten.
+35	Sudah madai banget ini buat nonton berbagai macam konten. Backlight-nya udah pake mini LED lengkap dengan fitur local dimming.
+36	Sudah madai banget ini buat nonton berbagai macam konten. Backlight-nya udah pake mini LED lengkap dengan fitur local dimming.
+37	Backlight-nya udah pake mini LED lengkap dengan fitur local dimming.
+38	Backlight-nya udah pake mini LED lengkap dengan fitur local dimming.
+39	Backlight-nya udah pake mini LED lengkap dengan fitur local dimming.
+40	Backlight-nya udah pake mini LED lengkap dengan fitur local dimming.
+41	Backlight-nya udah pake mini LED lengkap dengan fitur local dimming.
+42	Backlight-nya udah pake mini LED lengkap dengan fitur local dimming. Jadi, bagian yang gelap tuh tampilnya bener-bener gelap.
+43	Backlight-nya udah pake mini LED lengkap dengan fitur local dimming. Jadi, bagian yang gelap tuh tampilnya bener-bener gelap.
+44	Jadi, bagian yang gelap tuh tampilnya bener-bener gelap.
+45	Jadi, bagian yang gelap tuh tampilnya bener-bener gelap.
+46	Jadi, bagian yang gelap tuh tampilnya bener-bener gelap.
+47	Jadi, bagian yang gelap tuh tampilnya bener-bener gelap.
+48	Jadi, bagian yang gelap tuh tampilnya bener-bener gelap. Membuat kontas TV ini terasa sangat tinggi.
+49	Jadi, bagian yang gelap tuh tampilnya bener-bener gelap. Membuat kontas TV ini terasa sangat tinggi.
+50	Membuat kontas TV ini terasa sangat tinggi.
+51	Membuat kontas TV ini terasa sangat tinggi.
+52	Membuat kontas TV ini terasa sangat tinggi.
+53	Membuat kontas TV ini terasa sangat tinggi. Viewing angle dijanjikan 128 derajat.
+54	Viewing angle dijanjikan 128 derajat.
+55	Viewing angle dijanjikan 128 derajat.
+56	Viewing angle dijanjikan 128 derajat. Mau pake TV ini buat nonton rame-rame? Bisa!
+57	Viewing angle dijanjikan 128 derajat. Mau pake TV ini buat nonton rame-rame? Bisa!
+58	Mau pake TV ini buat nonton rame-rame? Bisa!
+59	Mau pake TV ini buat nonton rame-rame? Bisa!
+60	Mau pake TV ini buat nonton rame-rame? Bisa! Nah, untuk audionya, ada dukungan Dolby Audio dan DBX TV dalam TV ini ya.
+61	Mau pake TV ini buat nonton rame-rame? Bisa! Nah, untuk audionya, ada dukungan Dolby Audio dan DBX TV dalam TV ini ya.
+62	Nah, untuk audionya, ada dukungan Dolby Audio dan DBX TV dalam TV ini ya.
+63	Nah, untuk audionya, ada dukungan Dolby Audio dan DBX TV dalam TV ini ya.
+64	Nah, untuk audionya, ada dukungan Dolby Audio dan DBX TV dalam TV ini ya.
+65	Nah, untuk audionya, ada dukungan Dolby Audio dan DBX TV dalam TV ini ya.
+66	Nah, untuk audionya, ada dukungan Dolby Audio dan DBX TV dalam TV ini ya.
+67	Nah, untuk audionya, ada dukungan Dolby Audio dan DBX TV dalam TV ini ya.
+68	Nah, untuk audionya, ada dukungan Dolby Audio dan DBX TV dalam TV ini ya.
+69	Nah, untuk audionya, ada dukungan Dolby Audio dan DBX TV dalam TV ini ya. Jadi, kalau diaktifkan, keduanya bisa tingkatkan kualitas audio dari dual speaker di Smart TV ini.
+70	Jadi, kalau diaktifkan, keduanya bisa tingkatkan kualitas audio dari dual speaker di Smart TV ini.
+71	Jadi, kalau diaktifkan, keduanya bisa tingkatkan kualitas audio dari dual speaker di Smart TV ini.
+72	Jadi, kalau diaktifkan, keduanya bisa tingkatkan kualitas audio dari dual speaker di Smart TV ini.
+73	Jadi, kalau diaktifkan, keduanya bisa tingkatkan kualitas audio dari dual speaker di Smart TV ini.
+74	Jadi, kalau diaktifkan, keduanya bisa tingkatkan kualitas audio dari dual speaker di Smart TV ini.
+75	Jadi, kalau diaktifkan, keduanya bisa tingkatkan kualitas audio dari dual speaker di Smart TV ini.
+76	Jadi, kalau diaktifkan, keduanya bisa tingkatkan kualitas audio dari dual speaker di Smart TV ini.
+77	Jadi, kalau diaktifkan, keduanya bisa tingkatkan kualitas audio dari dual speaker di Smart TV ini.
+78	Jadi, kalau diaktifkan, keduanya bisa tingkatkan kualitas audio dari dual speaker di Smart TV ini. Untuk fitur gaming, ada DLG yang bikin TV ini bisa menawarkan refresh rate sampai 120Hz.
+79	Jadi, kalau diaktifkan, keduanya bisa tingkatkan kualitas audio dari dual speaker di Smart TV ini. Untuk fitur gaming, ada DLG yang bikin TV ini bisa menawarkan refresh rate sampai 120Hz.
+80	Untuk fitur gaming, ada DLG yang bikin TV ini bisa menawarkan refresh rate sampai 120Hz.
+81	Untuk fitur gaming, ada DLG yang bikin TV ini bisa menawarkan refresh rate sampai 120Hz.
+82	Untuk fitur gaming, ada DLG yang bikin TV ini bisa menawarkan refresh rate sampai 120Hz.
+83	Untuk fitur gaming, ada DLG yang bikin TV ini bisa menawarkan refresh rate sampai 120Hz.
+84	Untuk fitur gaming, ada DLG yang bikin TV ini bisa menawarkan refresh rate sampai 120Hz.
+85	Untuk fitur gaming, ada DLG yang bikin TV ini bisa menawarkan refresh rate sampai 120Hz.
+86	Untuk fitur gaming, ada DLG yang bikin TV ini bisa menawarkan refresh rate sampai 120Hz.
+87	Untuk fitur gaming, ada DLG yang bikin TV ini bisa menawarkan refresh rate sampai 120Hz.
+88	Untuk fitur gaming, ada DLG yang bikin TV ini bisa menawarkan refresh rate sampai 120Hz. Ada ALLM juga, ada Game Mode juga di sini ya.
+89	Ada ALLM juga, ada Game Mode juga di sini ya.
+90	Ada ALLM juga, ada Game Mode juga di sini ya.
+91	Ada ALLM juga, ada Game Mode juga di sini ya.
+92	Ada ALLM juga, ada Game Mode juga di sini ya.
+93	Ada ALLM juga, ada Game Mode juga di sini ya. Bikin kita bisa main game di layar yang lega ini tanpa gangguan input lag.
+94	Ada ALLM juga, ada Game Mode juga di sini ya. Bikin kita bisa main game di layar yang lega ini tanpa gangguan input lag.
+95	Bikin kita bisa main game di layar yang lega ini tanpa gangguan input lag.
+96	Bikin kita bisa main game di layar yang lega ini tanpa gangguan input lag.
+97	Bikin kita bisa main game di layar yang lega ini tanpa gangguan input lag.
+98	Bikin kita bisa main game di layar yang lega ini tanpa gangguan input lag.
+99	Bikin kita bisa main game di layar yang lega ini tanpa gangguan input lag.
+100	Bikin kita bisa main game di layar yang lega ini tanpa gangguan input lag.
+101	Bikin kita bisa main game di layar yang lega ini tanpa gangguan input lag. Soal fitur smartnya, OS-nya pake Google TV nih.
+102	Soal fitur smartnya, OS-nya pake Google TV nih.
+103	Soal fitur smartnya, OS-nya pake Google TV nih.
+104	Soal fitur smartnya, OS-nya pake Google TV nih.
+105	Soal fitur smartnya, OS-nya pake Google TV nih.
+106	Soal fitur smartnya, OS-nya pake Google TV nih. Fitur seperti Chromecast Built-in, Google Assistant, dan dukungan app yang melimpah ada di sini.
+107	Soal fitur smartnya, OS-nya pake Google TV nih. Fitur seperti Chromecast Built-in, Google Assistant, dan dukungan app yang melimpah ada di sini.
+108	Fitur seperti Chromecast Built-in, Google Assistant, dan dukungan app yang melimpah ada di sini.
+109	Fitur seperti Chromecast Built-in, Google Assistant, dan dukungan app yang melimpah ada di sini.
+110	Fitur seperti Chromecast Built-in, Google Assistant, dan dukungan app yang melimpah ada di sini.
+111	Fitur seperti Chromecast Built-in, Google Assistant, dan dukungan app yang melimpah ada di sini.
+112	Fitur seperti Chromecast Built-in, Google Assistant, dan dukungan app yang melimpah ada di sini.
+113	Fitur seperti Chromecast Built-in, Google Assistant, dan dukungan app yang melimpah ada di sini.
+114	Fitur seperti Chromecast Built-in, Google Assistant, dan dukungan app yang melimpah ada di sini.
+115	Fitur seperti Chromecast Built-in, Google Assistant, dan dukungan app yang melimpah ada di sini.
+116	Fitur seperti Chromecast Built-in, Google Assistant, dan dukungan app yang melimpah ada di sini. Jadi mantep ya fitur-fiturnya.
+117	Fitur seperti Chromecast Built-in, Google Assistant, dan dukungan app yang melimpah ada di sini. Jadi mantep ya fitur-fiturnya.
+118	Jadi mantep ya fitur-fiturnya. Eh, tapi apa bener harganya terjangkau?
+119	Jadi mantep ya fitur-fiturnya. Eh, tapi apa bener harganya terjangkau?
+120	Eh, tapi apa bener harganya terjangkau?
+121	Eh, tapi apa bener harganya terjangkau?
+122	Eh, tapi apa bener harganya terjangkau? Nah, buat yang 75 inci ini harganya di Rp13.999.000.
+123	Eh, tapi apa bener harganya terjangkau? Nah, buat yang 75 inci ini harganya di Rp13.999.000.
+124	Nah, buat yang 75 inci ini harganya di Rp13.999.000.
+125	Nah, buat yang 75 inci ini harganya di Rp13.999.000.
+126	Nah, buat yang 75 inci ini harganya di Rp13.999.000.
+127	Nah, buat yang 75 inci ini harganya di Rp13.999.000.
+128	Nah, buat yang 75 inci ini harganya di Rp13.999.000. Ada juga yang 65 inci harganya di Rp9.999.000.
+129	Nah, buat yang 75 inci ini harganya di Rp13.999.000. Ada juga yang 65 inci harganya di Rp9.999.000.
+130	Ada juga yang 65 inci harganya di Rp9.999.000.
+131	Ada juga yang 65 inci harganya di Rp9.999.000.
+132	Ada juga yang 65 inci harganya di Rp9.999.000.
+133	Ada juga yang 65 inci harganya di Rp9.999.000.
+134	Ada juga yang 65 inci harganya di Rp9.999.000. Ada yang 55 inci yang harganya di Rp6.999.000.
+135	Ada juga yang 65 inci harganya di Rp9.999.000. Ada yang 55 inci yang harganya di Rp6.999.000.
+136	Ada yang 55 inci yang harganya di Rp6.999.000.
+137	Ada yang 55 inci yang harganya di Rp6.999.000.
+138	Ada yang 55 inci yang harganya di Rp6.999.000.
+139	Ada yang 55 inci yang harganya di Rp6.999.000.
+140	Ada yang 55 inci yang harganya di Rp6.999.000.
+141	Ada yang 55 inci yang harganya di Rp6.999.000. Bener kan? Terjangkau kan?
+142	Ada yang 55 inci yang harganya di Rp6.999.000. Bener kan? Terjangkau kan?
+143	Bener kan? Terjangkau kan? Ya, Smart TV ini sudah tersedia di e-commerce seperti Tokopedia, TikTok Shop, Shopee, Lazada, Aku Laku, dan juga di toko offline Changhong.
+144	Bener kan? Terjangkau kan? Ya, Smart TV ini sudah tersedia di e-commerce seperti Tokopedia, TikTok Shop, Shopee, Lazada, Aku Laku, dan juga di toko offline Changhong.
+145	Ya, Smart TV ini sudah tersedia di e-commerce seperti Tokopedia, TikTok Shop, Shopee, Lazada, Aku Laku, dan juga di toko offline Changhong.
+146	Ya, Smart TV ini sudah tersedia di e-commerce seperti Tokopedia, TikTok Shop, Shopee, Lazada, Aku Laku, dan juga di toko offline Changhong.
+147	Ya, Smart TV ini sudah tersedia di e-commerce seperti Tokopedia, TikTok Shop, Shopee, Lazada, Aku Laku, dan juga di toko offline Changhong.
+148	Ya, Smart TV ini sudah tersedia di e-commerce seperti Tokopedia, TikTok Shop, Shopee, Lazada, Aku Laku, dan juga di toko offline Changhong.
+149	Ya, Smart TV ini sudah tersedia di e-commerce seperti Tokopedia, TikTok Shop, Shopee, Lazada, Aku Laku, dan juga di toko offline Changhong.
+150	Ya, Smart TV ini sudah tersedia di e-commerce seperti Tokopedia, TikTok Shop, Shopee, Lazada, Aku Laku, dan juga di toko offline Changhong.
+151	Ya, Smart TV ini sudah tersedia di e-commerce seperti Tokopedia, TikTok Shop, Shopee, Lazada, Aku Laku, dan juga di toko offline Changhong.
+152	Ya, Smart TV ini sudah tersedia di e-commerce seperti Tokopedia, TikTok Shop, Shopee, Lazada, Aku Laku, dan juga di toko offline Changhong.
+153	Ya, Smart TV ini sudah tersedia di e-commerce seperti Tokopedia, TikTok Shop, Shopee, Lazada, Aku Laku, dan juga di toko offline Changhong.
+154	Ya, Smart TV ini sudah tersedia di e-commerce seperti Tokopedia, TikTok Shop, Shopee, Lazada, Aku Laku, dan juga di toko offline Changhong.
+155	Ya, Smart TV ini sudah tersedia di e-commerce seperti Tokopedia, TikTok Shop, Shopee, Lazada, Aku Laku, dan juga di toko offline Changhong.
+156	Ya, Smart TV ini sudah tersedia di e-commerce seperti Tokopedia, TikTok Shop, Shopee, Lazada, Aku Laku, dan juga di toko offline Changhong. Jadi, Changhong...
+157	Ya, Smart TV ini sudah tersedia di e-commerce seperti Tokopedia, TikTok Shop, Shopee, Lazada, Aku Laku, dan juga di toko offline Changhong. Jadi, Changhong...
+158	Jadi, Changhong...
+159	Jadi, Changhong...

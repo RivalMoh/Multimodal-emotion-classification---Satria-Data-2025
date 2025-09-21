@@ -1,0 +1,78 @@
+0	Yang kita angkat jadi brand owner sebenarnya,
+1	Yang kita angkat jadi brand owner sebenarnya, kalau lu ngomong orang pintar banget juga enggak.
+2	Yang kita angkat jadi brand owner sebenarnya, kalau lu ngomong orang pintar banget juga enggak.
+3	Yang kita angkat jadi brand owner sebenarnya, kalau lu ngomong orang pintar banget juga enggak.
+4	kalau lu ngomong orang pintar banget juga enggak.
+5	kalau lu ngomong orang pintar banget juga enggak. Tapi yang benar-benar bisa ngadepin masalah,
+6	kalau lu ngomong orang pintar banget juga enggak. Tapi yang benar-benar bisa ngadepin masalah,
+7	Tapi yang benar-benar bisa ngadepin masalah,
+8	Tapi yang benar-benar bisa ngadepin masalah,
+9	Tapi yang benar-benar bisa ngadepin masalah, nggak gampang stres,
+10	Tapi yang benar-benar bisa ngadepin masalah, nggak gampang stres,
+11	nggak gampang stres,
+12	nggak gampang stres, terus dikasih inputan tuh didengerin,
+13	nggak gampang stres, terus dikasih inputan tuh didengerin,
+14	terus dikasih inputan tuh didengerin,
+15	terus dikasih inputan tuh didengerin,
+16	terus dikasih inputan tuh didengerin, customer begitu ada komplain apa segala macem,
+17	terus dikasih inputan tuh didengerin, customer begitu ada komplain apa segala macem,
+18	customer begitu ada komplain apa segala macem,
+19	customer begitu ada komplain apa segala macem,
+20	customer begitu ada komplain apa segala macem, responnya tuh bagus.
+21	customer begitu ada komplain apa segala macem, responnya tuh bagus.
+22	responnya tuh bagus.
+23	responnya tuh bagus. Apakah ada benang merahnya dari segi background?
+24	Apakah ada benang merahnya dari segi background?
+25	Apakah ada benang merahnya dari segi background?
+26	Apakah ada benang merahnya dari segi background?
+27	Apakah ada benang merahnya dari segi background? Misalnya, oh ini rata-rata sekolahnya top schools,
+28	Apakah ada benang merahnya dari segi background? Misalnya, oh ini rata-rata sekolahnya top schools,
+29	Misalnya, oh ini rata-rata sekolahnya top schools,
+30	Misalnya, oh ini rata-rata sekolahnya top schools,
+31	Misalnya, oh ini rata-rata sekolahnya top schools,
+32	Misalnya, oh ini rata-rata sekolahnya top schools, atau nggak, oh ini rata-rata IPK-nya tinggi.
+33	Misalnya, oh ini rata-rata sekolahnya top schools, atau nggak, oh ini rata-rata IPK-nya tinggi.
+34	atau nggak, oh ini rata-rata IPK-nya tinggi.
+35	atau nggak, oh ini rata-rata IPK-nya tinggi.
+36	atau nggak, oh ini rata-rata IPK-nya tinggi.
+37	atau nggak, oh ini rata-rata IPK-nya tinggi. Tahan terhadap tekanan, itu benang merahnya.
+38	Tahan terhadap tekanan, itu benang merahnya.
+39	Tahan terhadap tekanan, itu benang merahnya.
+40	Tahan terhadap tekanan, itu benang merahnya. Nggak gampang stres.
+41	Tahan terhadap tekanan, itu benang merahnya. Nggak gampang stres.
+42	Nggak gampang stres. Skill set yang kita butuhin adalah menemukan solusi dari masalah.
+43	Nggak gampang stres. Skill set yang kita butuhin adalah menemukan solusi dari masalah.
+44	Skill set yang kita butuhin adalah menemukan solusi dari masalah.
+45	Skill set yang kita butuhin adalah menemukan solusi dari masalah.
+46	Skill set yang kita butuhin adalah menemukan solusi dari masalah.
+47	Skill set yang kita butuhin adalah menemukan solusi dari masalah.
+48	Skill set yang kita butuhin adalah menemukan solusi dari masalah. Setiap hari kan ada masalah.
+49	Skill set yang kita butuhin adalah menemukan solusi dari masalah. Setiap hari kan ada masalah.
+50	Setiap hari kan ada masalah.
+51	Setiap hari kan ada masalah. Semua bisnis kan pasti ada masalah.
+52	Semua bisnis kan pasti ada masalah.
+53	Semua bisnis kan pasti ada masalah. Nah, dia bisa mencari solusinya, bukan stres.
+54	Semua bisnis kan pasti ada masalah. Nah, dia bisa mencari solusinya, bukan stres.
+55	Nah, dia bisa mencari solusinya, bukan stres.
+56	Nah, dia bisa mencari solusinya, bukan stres.
+57	Nah, dia bisa mencari solusinya, bukan stres. Ada kan orang yang terima masalah,
+58	Nah, dia bisa mencari solusinya, bukan stres. Ada kan orang yang terima masalah,
+59	Ada kan orang yang terima masalah,
+60	Ada kan orang yang terima masalah, wah, gue stres nggak sanggup, wah, gue stres nggak sanggup.
+61	Ada kan orang yang terima masalah, wah, gue stres nggak sanggup, wah, gue stres nggak sanggup.
+62	wah, gue stres nggak sanggup, wah, gue stres nggak sanggup.
+63	wah, gue stres nggak sanggup, wah, gue stres nggak sanggup.
+64	wah, gue stres nggak sanggup, wah, gue stres nggak sanggup. Nah, itu udah pasti nggak mungkin bisa.
+65	wah, gue stres nggak sanggup, wah, gue stres nggak sanggup. Nah, itu udah pasti nggak mungkin bisa.
+66	Nah, itu udah pasti nggak mungkin bisa.
+67	Nah, itu udah pasti nggak mungkin bisa. Jadi bukan orang pintar,
+68	Nah, itu udah pasti nggak mungkin bisa. Jadi bukan orang pintar, tapi orang yang tahan terhadap masalah.
+69	Jadi bukan orang pintar, tapi orang yang tahan terhadap masalah.
+70	tapi orang yang tahan terhadap masalah.
+71	tapi orang yang tahan terhadap masalah.
+72	tapi orang yang tahan terhadap masalah.
+73	tapi orang yang tahan terhadap masalah.
+74	[NO_SPEECH]
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]

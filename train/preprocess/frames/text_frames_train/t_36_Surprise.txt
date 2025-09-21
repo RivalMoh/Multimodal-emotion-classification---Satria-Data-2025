@@ -1,0 +1,304 @@
+0	Kok bisa ada HP 3 jutaan secakep ini?
+1	Kok bisa ada HP 3 jutaan secakep ini?
+2	Kok bisa ada HP 3 jutaan secakep ini?
+3	Kok bisa ada HP 3 jutaan secakep ini?
+4	Kok bisa ada HP 3 jutaan secakep ini?
+5	Kok bisa ada HP 3 jutaan secakep ini?
+6	Kok bisa ada HP 3 jutaan secakep ini? Kok bisa?
+7	Kok bisa ada HP 3 jutaan secakep ini? Kok bisa?
+8	Kok bisa?
+9	Kok bisa? Kamera HP 3 jutaan sebening ini bahkan di malam hari.
+10	Kamera HP 3 jutaan sebening ini bahkan di malam hari.
+11	Kamera HP 3 jutaan sebening ini bahkan di malam hari.
+12	Kamera HP 3 jutaan sebening ini bahkan di malam hari.
+13	Kamera HP 3 jutaan sebening ini bahkan di malam hari.
+14	Kamera HP 3 jutaan sebening ini bahkan di malam hari.
+15	Kamera HP 3 jutaan sebening ini bahkan di malam hari.
+16	Kamera HP 3 jutaan sebening ini bahkan di malam hari.
+17	Kamera HP 3 jutaan sebening ini bahkan di malam hari. Kok HP 3 jutaan bisa masuk ke daftar HP dengan kamera terbaik versi di XOMark?
+18	Kok HP 3 jutaan bisa masuk ke daftar HP dengan kamera terbaik versi di XOMark?
+19	Kok HP 3 jutaan bisa masuk ke daftar HP dengan kamera terbaik versi di XOMark?
+20	Kok HP 3 jutaan bisa masuk ke daftar HP dengan kamera terbaik versi di XOMark?
+21	Kok HP 3 jutaan bisa masuk ke daftar HP dengan kamera terbaik versi di XOMark?
+22	Kok HP 3 jutaan bisa masuk ke daftar HP dengan kamera terbaik versi di XOMark?
+23	Kok HP 3 jutaan bisa masuk ke daftar HP dengan kamera terbaik versi di XOMark?
+24	Kok HP 3 jutaan bisa masuk ke daftar HP dengan kamera terbaik versi di XOMark?
+25	Kok HP 3 jutaan bisa masuk ke daftar HP dengan kamera terbaik versi di XOMark?
+26	Kok HP 3 jutaan bisa masuk ke daftar HP dengan kamera terbaik versi di XOMark?
+27	Kok HP 3 jutaan bisa masuk ke daftar HP dengan kamera terbaik versi di XOMark?
+28	Kok HP 3 jutaan bisa masuk ke daftar HP dengan kamera terbaik versi di XOMark?
+29	Kok HP 3 jutaan bisa masuk ke daftar HP dengan kamera terbaik versi di XOMark? Nyelip di antara HP-HP flagship belasan juta loh.
+30	Nyelip di antara HP-HP flagship belasan juta loh.
+31	Nyelip di antara HP-HP flagship belasan juta loh.
+32	Nyelip di antara HP-HP flagship belasan juta loh.
+33	Nyelip di antara HP-HP flagship belasan juta loh.
+34	Nyelip di antara HP-HP flagship belasan juta loh.
+35	Nyelip di antara HP-HP flagship belasan juta loh.
+36	Nyelip di antara HP-HP flagship belasan juta loh. Damn!
+37	Damn! Transient selalu berulah ya.
+38	Transient selalu berulah ya.
+39	Transient selalu berulah ya.
+40	Transient selalu berulah ya.
+41	Transient selalu berulah ya. Kali ini lewat Tecno Camon 40 Pro 5G.
+42	Transient selalu berulah ya. Kali ini lewat Tecno Camon 40 Pro 5G.
+43	Kali ini lewat Tecno Camon 40 Pro 5G.
+44	Kali ini lewat Tecno Camon 40 Pro 5G.
+45	Kali ini lewat Tecno Camon 40 Pro 5G.
+46	Kali ini lewat Tecno Camon 40 Pro 5G.
+47	Kali ini lewat Tecno Camon 40 Pro 5G. Kemarin varian 4G-nya jadi pilihan di rekomendasi kelas 2 juta.
+48	Kali ini lewat Tecno Camon 40 Pro 5G. Kemarin varian 4G-nya jadi pilihan di rekomendasi kelas 2 juta.
+49	Kemarin varian 4G-nya jadi pilihan di rekomendasi kelas 2 juta.
+50	Kemarin varian 4G-nya jadi pilihan di rekomendasi kelas 2 juta.
+51	Kemarin varian 4G-nya jadi pilihan di rekomendasi kelas 2 juta.
+52	Kemarin varian 4G-nya jadi pilihan di rekomendasi kelas 2 juta.
+53	Kemarin varian 4G-nya jadi pilihan di rekomendasi kelas 2 juta.
+54	Kemarin varian 4G-nya jadi pilihan di rekomendasi kelas 2 juta.
+55	Kemarin varian 4G-nya jadi pilihan di rekomendasi kelas 2 juta. Karena kameranya luar biasa.
+56	Kemarin varian 4G-nya jadi pilihan di rekomendasi kelas 2 juta. Karena kameranya luar biasa.
+57	Karena kameranya luar biasa.
+58	Karena kameranya luar biasa.
+59	Karena kameranya luar biasa. Sekarang ada versi Pro 5G-nya di harga 3 jutaan.
+60	Karena kameranya luar biasa. Sekarang ada versi Pro 5G-nya di harga 3 jutaan.
+61	Sekarang ada versi Pro 5G-nya di harga 3 jutaan.
+62	Sekarang ada versi Pro 5G-nya di harga 3 jutaan.
+63	Sekarang ada versi Pro 5G-nya di harga 3 jutaan.
+64	Sekarang ada versi Pro 5G-nya di harga 3 jutaan.
+65	Sekarang ada versi Pro 5G-nya di harga 3 jutaan.
+66	Sekarang ada versi Pro 5G-nya di harga 3 jutaan. Upgrade-nya lebih-lebih lagi.
+67	Sekarang ada versi Pro 5G-nya di harga 3 jutaan. Upgrade-nya lebih-lebih lagi.
+68	Upgrade-nya lebih-lebih lagi.
+69	Upgrade-nya lebih-lebih lagi.
+70	Upgrade-nya lebih-lebih lagi. Kamera tetap jadi andalan ya.
+71	Upgrade-nya lebih-lebih lagi. Kamera tetap jadi andalan ya.
+72	Kamera tetap jadi andalan ya.
+73	Kamera tetap jadi andalan ya. Kualitas top di kelasnya.
+74	Kamera tetap jadi andalan ya. Kualitas top di kelasnya.
+75	Kualitas top di kelasnya.
+76	Kualitas top di kelasnya.
+77	Kualitas top di kelasnya. Mau dipake buat foto terang, foto malem, indoor, bening.
+78	Mau dipake buat foto terang, foto malem, indoor, bening.
+79	Mau dipake buat foto terang, foto malem, indoor, bening.
+80	Mau dipake buat foto terang, foto malem, indoor, bening.
+81	Mau dipake buat foto terang, foto malem, indoor, bening.
+82	Mau dipake buat foto terang, foto malem, indoor, bening.
+83	Mau dipake buat foto terang, foto malem, indoor, bening. Silahkan dilihat bentar nih beberapa foto.
+84	Mau dipake buat foto terang, foto malem, indoor, bening. Silahkan dilihat bentar nih beberapa foto.
+85	Silahkan dilihat bentar nih beberapa foto.
+86	Silahkan dilihat bentar nih beberapa foto.
+87	Silahkan dilihat bentar nih beberapa foto. Kalau mau yang lebih banyak termasuk versus sama HP flagship ada di Youtube.
+88	Silahkan dilihat bentar nih beberapa foto. Kalau mau yang lebih banyak termasuk versus sama HP flagship ada di Youtube.
+89	Kalau mau yang lebih banyak termasuk versus sama HP flagship ada di Youtube.
+90	Kalau mau yang lebih banyak termasuk versus sama HP flagship ada di Youtube.
+91	Kalau mau yang lebih banyak termasuk versus sama HP flagship ada di Youtube.
+92	Kalau mau yang lebih banyak termasuk versus sama HP flagship ada di Youtube.
+93	Kalau mau yang lebih banyak termasuk versus sama HP flagship ada di Youtube.
+94	Kalau mau yang lebih banyak termasuk versus sama HP flagship ada di Youtube.
+95	Kalau mau yang lebih banyak termasuk versus sama HP flagship ada di Youtube. Silahkan ditonton.
+96	Kalau mau yang lebih banyak termasuk versus sama HP flagship ada di Youtube. Silahkan ditonton.
+97	Silahkan ditonton. Foto yang gerakannya kenceng tetap aman.
+98	Silahkan ditonton. Foto yang gerakannya kenceng tetap aman.
+99	Foto yang gerakannya kenceng tetap aman.
+100	Foto yang gerakannya kenceng tetap aman.
+101	Foto yang gerakannya kenceng tetap aman. Nggak mudah blur, nggak mudah goyang.
+102	Foto yang gerakannya kenceng tetap aman. Nggak mudah blur, nggak mudah goyang.
+103	Nggak mudah blur, nggak mudah goyang.
+104	Nggak mudah blur, nggak mudah goyang.
+105	Nggak mudah blur, nggak mudah goyang. Di versi Pro 5G-nya ini HP-nya juga ready buat diajak foto basah-basahan.
+106	Nggak mudah blur, nggak mudah goyang. Di versi Pro 5G-nya ini HP-nya juga ready buat diajak foto basah-basahan.
+107	Di versi Pro 5G-nya ini HP-nya juga ready buat diajak foto basah-basahan.
+108	Di versi Pro 5G-nya ini HP-nya juga ready buat diajak foto basah-basahan.
+109	Di versi Pro 5G-nya ini HP-nya juga ready buat diajak foto basah-basahan.
+110	Di versi Pro 5G-nya ini HP-nya juga ready buat diajak foto basah-basahan.
+111	Di versi Pro 5G-nya ini HP-nya juga ready buat diajak foto basah-basahan.
+112	Di versi Pro 5G-nya ini HP-nya juga ready buat diajak foto basah-basahan.
+113	Di versi Pro 5G-nya ini HP-nya juga ready buat diajak foto basah-basahan.
+114	Di versi Pro 5G-nya ini HP-nya juga ready buat diajak foto basah-basahan.
+115	Di versi Pro 5G-nya ini HP-nya juga ready buat diajak foto basah-basahan. Underwater siap.
+116	Underwater siap.
+117	Underwater siap. HP-nya udah tahan air.
+118	Underwater siap. HP-nya udah tahan air.
+119	HP-nya udah tahan air.
+120	HP-nya udah tahan air. Yang Pro 5G ini udah IP68, IP69.
+121	HP-nya udah tahan air. Yang Pro 5G ini udah IP68, IP69.
+122	Yang Pro 5G ini udah IP68, IP69.
+123	Yang Pro 5G ini udah IP68, IP69.
+124	Yang Pro 5G ini udah IP68, IP69.
+125	Yang Pro 5G ini udah IP68, IP69.
+126	Yang Pro 5G ini udah IP68, IP69. Ada tombol one tap flash snap juga buat akses instan.
+127	Ada tombol one tap flash snap juga buat akses instan.
+128	Ada tombol one tap flash snap juga buat akses instan.
+129	Ada tombol one tap flash snap juga buat akses instan.
+130	Ada tombol one tap flash snap juga buat akses instan.
+131	Ada tombol one tap flash snap juga buat akses instan.
+132	Ada tombol one tap flash snap juga buat akses instan. Langsung buka kamera atau aplikasi lain kalau di setting.
+133	Ada tombol one tap flash snap juga buat akses instan. Langsung buka kamera atau aplikasi lain kalau di setting.
+134	Langsung buka kamera atau aplikasi lain kalau di setting.
+135	Langsung buka kamera atau aplikasi lain kalau di setting.
+136	Langsung buka kamera atau aplikasi lain kalau di setting.
+137	Langsung buka kamera atau aplikasi lain kalau di setting.
+138	Langsung buka kamera atau aplikasi lain kalau di setting. Kamera 3 jutaan yang selalu bikin tenang.
+139	Langsung buka kamera atau aplikasi lain kalau di setting. Kamera 3 jutaan yang selalu bikin tenang.
+140	Kamera 3 jutaan yang selalu bikin tenang.
+141	Kamera 3 jutaan yang selalu bikin tenang.
+142	Kamera 3 jutaan yang selalu bikin tenang.
+143	Kamera 3 jutaan yang selalu bikin tenang.
+144	Kamera 3 jutaan yang selalu bikin tenang. Gokil.
+145	Kamera 3 jutaan yang selalu bikin tenang. Gokil.
+146	Gokil. Kalau kita ada salah-salah komposisi foto pun bisa pake AI buat bantu benerin.
+147	Gokil. Kalau kita ada salah-salah komposisi foto pun bisa pake AI buat bantu benerin.
+148	Kalau kita ada salah-salah komposisi foto pun bisa pake AI buat bantu benerin.
+149	Kalau kita ada salah-salah komposisi foto pun bisa pake AI buat bantu benerin.
+150	Kalau kita ada salah-salah komposisi foto pun bisa pake AI buat bantu benerin.
+151	Kalau kita ada salah-salah komposisi foto pun bisa pake AI buat bantu benerin.
+152	Kalau kita ada salah-salah komposisi foto pun bisa pake AI buat bantu benerin.
+153	Kalau kita ada salah-salah komposisi foto pun bisa pake AI buat bantu benerin.
+154	Kalau kita ada salah-salah komposisi foto pun bisa pake AI buat bantu benerin.
+155	Kalau kita ada salah-salah komposisi foto pun bisa pake AI buat bantu benerin. Bisa crop sana-sini.
+156	Kalau kita ada salah-salah komposisi foto pun bisa pake AI buat bantu benerin. Bisa crop sana-sini.
+157	Bisa crop sana-sini.
+158	Bisa crop sana-sini. Terus minta dia luasin gambar pake AI image extender.
+159	Terus minta dia luasin gambar pake AI image extender.
+160	Terus minta dia luasin gambar pake AI image extender.
+161	Terus minta dia luasin gambar pake AI image extender.
+162	Terus minta dia luasin gambar pake AI image extender.
+163	Terus minta dia luasin gambar pake AI image extender.
+164	Terus minta dia luasin gambar pake AI image extender.
+165	Terus minta dia luasin gambar pake AI image extender. Kalau ada objek yang ganggu bisa pake AI eraser.
+166	Kalau ada objek yang ganggu bisa pake AI eraser.
+167	Kalau ada objek yang ganggu bisa pake AI eraser.
+168	Kalau ada objek yang ganggu bisa pake AI eraser.
+169	Kalau ada objek yang ganggu bisa pake AI eraser.
+170	Kalau ada objek yang ganggu bisa pake AI eraser. Hasilnya rapi.
+171	Hasilnya rapi.
+172	Hasilnya rapi. Desainnya juga elegan.
+173	Hasilnya rapi. Desainnya juga elegan.
+174	Desainnya juga elegan.
+175	Desainnya juga elegan. Banyak lengkungan.
+176	Desainnya juga elegan. Banyak lengkungan.
+177	Banyak lengkungan. Nggak kaku kayak saudaranya.
+178	Banyak lengkungan. Nggak kaku kayak saudaranya.
+179	Nggak kaku kayak saudaranya.
+180	Nggak kaku kayak saudaranya. Layarnya tipe curve punya.
+181	Nggak kaku kayak saudaranya. Layarnya tipe curve punya.
+182	Layarnya tipe curve punya.
+183	Layarnya tipe curve punya.
+184	Layarnya tipe curve punya. Alus kalau swipe dari tepian.
+185	Layarnya tipe curve punya. Alus kalau swipe dari tepian.
+186	Alus kalau swipe dari tepian.
+187	Alus kalau swipe dari tepian.
+188	Alus kalau swipe dari tepian. Speknya juga jagoan.
+189	Speknya juga jagoan.
+190	Speknya juga jagoan. Panel AMOLED ukuran 6,78 inci.
+191	Speknya juga jagoan. Panel AMOLED ukuran 6,78 inci.
+192	Panel AMOLED ukuran 6,78 inci.
+193	Panel AMOLED ukuran 6,78 inci.
+194	Panel AMOLED ukuran 6,78 inci.
+195	Panel AMOLED ukuran 6,78 inci. Refresh rate 144Hz.
+196	Panel AMOLED ukuran 6,78 inci. Refresh rate 144Hz.
+197	Refresh rate 144Hz.
+198	Refresh rate 144Hz.
+199	Refresh rate 144Hz. Kaca Corning Gorilla Glass 7i.
+200	Refresh rate 144Hz. Kaca Corning Gorilla Glass 7i.
+201	Kaca Corning Gorilla Glass 7i.
+202	Kaca Corning Gorilla Glass 7i.
+203	Kaca Corning Gorilla Glass 7i. Brightness-nya juga tinggi lagi.
+204	Kaca Corning Gorilla Glass 7i. Brightness-nya juga tinggi lagi.
+205	Brightness-nya juga tinggi lagi.
+206	Brightness-nya juga tinggi lagi.
+207	Brightness-nya juga tinggi lagi. Di bawah sinar matahari outdoor juga masih jelas.
+208	Di bawah sinar matahari outdoor juga masih jelas.
+209	Di bawah sinar matahari outdoor juga masih jelas.
+210	Di bawah sinar matahari outdoor juga masih jelas.
+211	Di bawah sinar matahari outdoor juga masih jelas.
+212	Di bawah sinar matahari outdoor juga masih jelas. Di belakang desainnya pun cakep.
+213	Di belakang desainnya pun cakep.
+214	Di belakang desainnya pun cakep.
+215	Di belakang desainnya pun cakep. Rapi.
+216	Di belakang desainnya pun cakep. Rapi. Nggak keliatan ngebet mau pamer kamera.
+217	Rapi. Nggak keliatan ngebet mau pamer kamera.
+218	Nggak keliatan ngebet mau pamer kamera.
+219	Nggak keliatan ngebet mau pamer kamera.
+220	Nggak keliatan ngebet mau pamer kamera. Padahal kualitasnya ya gitu.
+221	Nggak keliatan ngebet mau pamer kamera. Padahal kualitasnya ya gitu.
+222	Padahal kualitasnya ya gitu.
+223	Padahal kualitasnya ya gitu.
+224	Padahal kualitasnya ya gitu. Dimensinya tipis 7,3mm doang.
+225	Dimensinya tipis 7,3mm doang.
+226	Dimensinya tipis 7,3mm doang.
+227	Dimensinya tipis 7,3mm doang.
+228	Dimensinya tipis 7,3mm doang.
+229	Dimensinya tipis 7,3mm doang. Bobotnya juga enteng di 179 gram.
+230	Dimensinya tipis 7,3mm doang. Bobotnya juga enteng di 179 gram.
+231	Bobotnya juga enteng di 179 gram.
+232	Bobotnya juga enteng di 179 gram.
+233	Bobotnya juga enteng di 179 gram.
+234	Bobotnya juga enteng di 179 gram.
+235	Bobotnya juga enteng di 179 gram. Tambah casing bawaan pun masih nyaman.
+236	Bobotnya juga enteng di 179 gram. Tambah casing bawaan pun masih nyaman.
+237	Tambah casing bawaan pun masih nyaman.
+238	Tambah casing bawaan pun masih nyaman.
+239	Tambah casing bawaan pun masih nyaman. Baterainya tetep gede di 5200 mAh.
+240	Tambah casing bawaan pun masih nyaman. Baterainya tetep gede di 5200 mAh.
+241	Baterainya tetep gede di 5200 mAh.
+242	Baterainya tetep gede di 5200 mAh.
+243	Baterainya tetep gede di 5200 mAh.
+244	Baterainya tetep gede di 5200 mAh.
+245	Baterainya tetep gede di 5200 mAh. Chargingnya juga kenceng 45W.
+246	Baterainya tetep gede di 5200 mAh. Chargingnya juga kenceng 45W.
+247	Chargingnya juga kenceng 45W.
+248	Chargingnya juga kenceng 45W.
+249	Chargingnya juga kenceng 45W.
+250	Chargingnya juga kenceng 45W.
+251	Chargingnya juga kenceng 45W. Dan mesinnya.
+252	Dan mesinnya.
+253	Dan mesinnya. Tecno Camon 40 Pro 5G.
+254	Dan mesinnya. Tecno Camon 40 Pro 5G.
+255	Tecno Camon 40 Pro 5G.
+256	Tecno Camon 40 Pro 5G. Pake Dimensity 7300.
+257	Tecno Camon 40 Pro 5G. Pake Dimensity 7300.
+258	Pake Dimensity 7300.
+259	Pake Dimensity 7300.
+260	Pake Dimensity 7300. RAM-nya 8GB dan storage 256GB.
+261	RAM-nya 8GB dan storage 256GB.
+262	RAM-nya 8GB dan storage 256GB.
+263	RAM-nya 8GB dan storage 256GB.
+264	RAM-nya 8GB dan storage 256GB.
+265	RAM-nya 8GB dan storage 256GB.
+266	RAM-nya 8GB dan storage 256GB.
+267	RAM-nya 8GB dan storage 256GB. Buat main game enteng aman.
+268	Buat main game enteng aman.
+269	Buat main game enteng aman.
+270	Buat main game enteng aman. MLBB bisa 90fps.
+271	Buat main game enteng aman. MLBB bisa 90fps.
+272	MLBB bisa 90fps.
+273	MLBB bisa 90fps.
+274	MLBB bisa 90fps. Buat Genshin bisa rata-rata 40-an fps.
+275	MLBB bisa 90fps. Buat Genshin bisa rata-rata 40-an fps.
+276	Buat Genshin bisa rata-rata 40-an fps.
+277	Buat Genshin bisa rata-rata 40-an fps.
+278	Buat Genshin bisa rata-rata 40-an fps.
+279	Buat Genshin bisa rata-rata 40-an fps.
+280	Buat Genshin bisa rata-rata 40-an fps. HP 3 jutaan bisa kayak gini ya.
+281	HP 3 jutaan bisa kayak gini ya.
+282	HP 3 jutaan bisa kayak gini ya.
+283	HP 3 jutaan bisa kayak gini ya.
+284	HP 3 jutaan bisa kayak gini ya.
+285	HP 3 jutaan bisa kayak gini ya.
+286	HP 3 jutaan bisa kayak gini ya.
+287	Transient lagi-lagi ngerusak pasar.
+288	Transient lagi-lagi ngerusak pasar.
+289	Transient lagi-lagi ngerusak pasar.
+290	Transient lagi-lagi ngerusak pasar. Lewat Camon 40 Pro 5G.
+291	Transient lagi-lagi ngerusak pasar. Lewat Camon 40 Pro 5G.
+292	Lewat Camon 40 Pro 5G.
+293	Lewat Camon 40 Pro 5G.
+294	Lewat Camon 40 Pro 5G.
+295	Lewat Camon 40 Pro 5G. Kameranya...
+296	Lewat Camon 40 Pro 5G. Kameranya...
+297	Kameranya...
+298	Kameranya...
+299	Sekali lagi... Huuu...
+300	Sekali lagi... Huuu... Ngeri.
+301	Huuu... Ngeri.
+302	Ngeri.
+303	[NO_SPEECH]

@@ -1,0 +1,109 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	kita menuju GPK John
+3	kita menuju GPK John
+4	kita menuju GPK John
+5	kita menuju GPK John
+6	kita menuju GPK John masih jam 5
+7	kita menuju GPK John masih jam 5
+8	masih jam 5
+9	masih jam 5
+10	masih jam 5
+11	masih jam 5
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	berapa-berapa Indonesia?
+19	berapa-berapa Indonesia?
+20	berapa-berapa Indonesia?
+21	berapa-berapa Indonesia? 31, 2-0
+22	berapa-berapa Indonesia? 31, 2-0
+23	31, 2-0
+24	31, 2-0
+25	31, 2-0 kalian pasti lagi ngomongin timnas ya
+26	31, 2-0 kalian pasti lagi ngomongin timnas ya
+27	kalian pasti lagi ngomongin timnas ya
+28	kalian pasti lagi ngomongin timnas ya
+29	kalian pasti lagi ngomongin timnas ya
+30	kalian pasti lagi ngomongin timnas ya iya timnas
+31	kalian pasti lagi ngomongin timnas ya iya timnas
+32	iya timnas
+33	iya timnas jadi berapa-berapa nih Indonesia lawan Cina
+34	iya timnas jadi berapa-berapa nih Indonesia lawan Cina
+35	jadi berapa-berapa nih Indonesia lawan Cina
+36	jadi berapa-berapa nih Indonesia lawan Cina
+37	jadi berapa-berapa nih Indonesia lawan Cina
+38	jadi berapa-berapa nih Indonesia lawan Cina saya 1-0 tetap
+39	jadi berapa-berapa nih Indonesia lawan Cina saya 1-0 tetap
+40	saya 1-0 tetap
+41	saya 1-0 tetap untuk?
+42	saya 1-0 tetap untuk?
+43	untuk?
+44	untuk?
+45	1 Indonesia
+46	1 Indonesia
+47	1 Indonesia aku Indonesia 2
+48	1 Indonesia aku Indonesia 2
+49	aku Indonesia 2
+50	aku Indonesia 2
+51	aku Indonesia 2 aku Indonesia 3
+52	aku Indonesia 2 aku Indonesia 3
+53	aku Indonesia 3
+54	aku Indonesia 3
+55	aku Indonesia 3 aku 31
+56	aku Indonesia 3 aku 31
+57	aku 31
+58	aku 31
+59	aku 31
+60	[NO_SPEECH]
+61	[NO_SPEECH]
+62	tadi prediksi
+63	tadi prediksi
+64	tadi prediksi
+65	tadi prediksi tebakan skor dari temen-temen
+66	tadi prediksi tebakan skor dari temen-temen
+67	tebakan skor dari temen-temen
+68	tebakan skor dari temen-temen
+69	tebakan skor dari temen-temen nah kalau menurut kalian
+70	tebakan skor dari temen-temen nah kalau menurut kalian
+71	nah kalau menurut kalian
+72	nah kalau menurut kalian
+73	nah kalau menurut kalian skornya nanti berapa-berapa nih
+74	nah kalau menurut kalian skornya nanti berapa-berapa nih
+75	skornya nanti berapa-berapa nih
+76	skornya nanti berapa-berapa nih
+77	skornya nanti berapa-berapa nih Indonesia lawan Cina
+78	skornya nanti berapa-berapa nih Indonesia lawan Cina
+79	Indonesia lawan Cina kalau gue kayaknya Indonesia bisa
+80	Indonesia lawan Cina kalau gue kayaknya Indonesia bisa
+81	kalau gue kayaknya Indonesia bisa
+82	kalau gue kayaknya Indonesia bisa
+83	kalau gue kayaknya Indonesia bisa
+84	kalau gue kayaknya Indonesia bisa
+85	kalau gue kayaknya Indonesia bisa skornya 2-0
+86	kalau gue kayaknya Indonesia bisa skornya 2-0
+87	skornya 2-0
+88	skornya 2-0
+89	kalau menurut kalian singkat John
+90	kalau menurut kalian singkat John
+91	kalau menurut kalian singkat John
+92	kalau menurut kalian singkat John
+93	kalau menurut kalian singkat John Jamilus Jurjin Ribun is back
+94	kalau menurut kalian singkat John Jamilus Jurjin Ribun is back
+95	Jamilus Jurjin Ribun is back
+96	Jamilus Jurjin Ribun is back
+97	Jamilus Jurjin Ribun is back sebentar lagi
+98	Jamilus Jurjin Ribun is back sebentar lagi
+99	sebentar lagi
+100	sebentar lagi Indonesia lawan Cina
+101	sebentar lagi Indonesia lawan Cina
+102	Indonesia lawan Cina
+103	Indonesia lawan Cina
+104	Indonesia lawan Cina glory glory
+105	Indonesia lawan Cina glory glory
+106	glory glory
+107	glory glory
+108	[NO_SPEECH]

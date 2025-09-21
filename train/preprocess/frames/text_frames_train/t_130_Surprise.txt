@@ -1,0 +1,83 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	Mereka bilang saya masih terlalu muda, belum waktunya main di laga besar.
+8	Mereka bilang saya masih terlalu muda, belum waktunya main di laga besar.
+9	Mereka bilang saya masih terlalu muda, belum waktunya main di laga besar.
+10	Mereka bilang saya masih terlalu muda, belum waktunya main di laga besar.
+11	Mereka bilang saya masih terlalu muda, belum waktunya main di laga besar.
+12	Mereka bilang saya masih terlalu muda, belum waktunya main di laga besar.
+13	Mereka bilang saya masih terlalu muda, belum waktunya main di laga besar.
+14	Mereka bilang saya masih terlalu muda, belum waktunya main di laga besar.
+15	Mereka bilang saya masih terlalu muda, belum waktunya main di laga besar.
+16	Mereka bilang saya masih terlalu muda, belum waktunya main di laga besar.
+17	Dibilang masih anak jagung, dibilang badannya kecil, karena mungkin main di erok.
+18	Dibilang masih anak jagung, dibilang badannya kecil, karena mungkin main di erok.
+19	Dibilang masih anak jagung, dibilang badannya kecil, karena mungkin main di erok.
+20	Dibilang masih anak jagung, dibilang badannya kecil, karena mungkin main di erok.
+21	Dibilang masih anak jagung, dibilang badannya kecil, karena mungkin main di erok.
+22	Dibilang masih anak jagung, dibilang badannya kecil, karena mungkin main di erok.
+23	Dibilang masih anak jagung, dibilang badannya kecil, karena mungkin main di erok.
+24	Dibilang masih anak jagung, dibilang badannya kecil, karena mungkin main di erok.
+25	Dibilang masih anak jagung, dibilang badannya kecil, karena mungkin main di erok.
+26	Dibilang masih anak jagung, dibilang badannya kecil, karena mungkin main di erok.
+27	Dibilang masih anak jagung, dibilang badannya kecil, karena mungkin main di erok.
+28	Dibilang masih anak jagung, dibilang badannya kecil, karena mungkin main di erok. Belum punya mental yang kuat, tapi saya gak nyerah.
+29	Belum punya mental yang kuat, tapi saya gak nyerah.
+30	Belum punya mental yang kuat, tapi saya gak nyerah.
+31	Belum punya mental yang kuat, tapi saya gak nyerah.
+32	Belum punya mental yang kuat, tapi saya gak nyerah.
+33	Belum punya mental yang kuat, tapi saya gak nyerah.
+34	Belum punya mental yang kuat, tapi saya gak nyerah. Terus berproses sampai akhirnya 2 gol ke gawang Arab menjadi pembukian.
+35	Belum punya mental yang kuat, tapi saya gak nyerah. Terus berproses sampai akhirnya 2 gol ke gawang Arab menjadi pembukian.
+36	Terus berproses sampai akhirnya 2 gol ke gawang Arab menjadi pembukian.
+37	Terus berproses sampai akhirnya 2 gol ke gawang Arab menjadi pembukian.
+38	Terus berproses sampai akhirnya 2 gol ke gawang Arab menjadi pembukian.
+39	Terus berproses sampai akhirnya 2 gol ke gawang Arab menjadi pembukian.
+40	Terus berproses sampai akhirnya 2 gol ke gawang Arab menjadi pembukian.
+41	Terus berproses sampai akhirnya 2 gol ke gawang Arab menjadi pembukian.
+42	Terus berproses sampai akhirnya 2 gol ke gawang Arab menjadi pembukian.
+43	Terus berproses sampai akhirnya 2 gol ke gawang Arab menjadi pembukian. Kunci supaya unseakable harus jaga semuanya dari dalam.
+44	Kunci supaya unseakable harus jaga semuanya dari dalam.
+45	Kunci supaya unseakable harus jaga semuanya dari dalam.
+46	Kunci supaya unseakable harus jaga semuanya dari dalam.
+47	Kunci supaya unseakable harus jaga semuanya dari dalam.
+48	Kunci supaya unseakable harus jaga semuanya dari dalam.
+49	Kunci supaya unseakable harus jaga semuanya dari dalam. Saya clear punya 10 kali niacinamide yang kuatin barier kulit kepala.
+50	Kunci supaya unseakable harus jaga semuanya dari dalam. Saya clear punya 10 kali niacinamide yang kuatin barier kulit kepala.
+51	Saya clear punya 10 kali niacinamide yang kuatin barier kulit kepala.
+52	Saya clear punya 10 kali niacinamide yang kuatin barier kulit kepala.
+53	Saya clear punya 10 kali niacinamide yang kuatin barier kulit kepala.
+54	Saya clear punya 10 kali niacinamide yang kuatin barier kulit kepala.
+55	Saya clear punya 10 kali niacinamide yang kuatin barier kulit kepala.
+56	Saya clear punya 10 kali niacinamide yang kuatin barier kulit kepala.
+57	Saya clear punya 10 kali niacinamide yang kuatin barier kulit kepala.
+58	Saya clear punya 10 kali niacinamide yang kuatin barier kulit kepala.
+59	Saya clear punya 10 kali niacinamide yang kuatin barier kulit kepala. Karena kalau barier saya kuat, fokus saya jadi gak ada yang bisa gampang.
+60	Saya clear punya 10 kali niacinamide yang kuatin barier kulit kepala. Karena kalau barier saya kuat, fokus saya jadi gak ada yang bisa gampang.
+61	Karena kalau barier saya kuat, fokus saya jadi gak ada yang bisa gampang.
+62	Karena kalau barier saya kuat, fokus saya jadi gak ada yang bisa gampang.
+63	Karena kalau barier saya kuat, fokus saya jadi gak ada yang bisa gampang.
+64	Karena kalau barier saya kuat, fokus saya jadi gak ada yang bisa gampang.
+65	Karena kalau barier saya kuat, fokus saya jadi gak ada yang bisa gampang.
+66	Karena kalau barier saya kuat, fokus saya jadi gak ada yang bisa gampang.
+67	Karena kalau barier saya kuat, fokus saya jadi gak ada yang bisa gampang.
+68	Karena kalau barier saya kuat, fokus saya jadi gak ada yang bisa gampang.
+69	Jadi gak cuma kulit kepala aja yang tahan bantuan, tapi saya juga.
+70	Jadi gak cuma kulit kepala aja yang tahan bantuan, tapi saya juga.
+71	Jadi gak cuma kulit kepala aja yang tahan bantuan, tapi saya juga.
+72	Jadi gak cuma kulit kepala aja yang tahan bantuan, tapi saya juga.
+73	Jadi gak cuma kulit kepala aja yang tahan bantuan, tapi saya juga.
+74	Jadi gak cuma kulit kepala aja yang tahan bantuan, tapi saya juga.
+75	Jadi gak cuma kulit kepala aja yang tahan bantuan, tapi saya juga.
+76	Jadi gak cuma kulit kepala aja yang tahan bantuan, tapi saya juga. Karena saya clearly tahan bantuan.
+77	Jadi gak cuma kulit kepala aja yang tahan bantuan, tapi saya juga. Karena saya clearly tahan bantuan.
+78	Karena saya clearly tahan bantuan.
+79	Karena saya clearly tahan bantuan.
+80	Karena saya clearly tahan bantuan.
+81	Karena saya clearly tahan bantuan.
+82	[NO_SPEECH]

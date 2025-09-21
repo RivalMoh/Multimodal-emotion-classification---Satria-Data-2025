@@ -1,0 +1,401 @@
+0	[NO_SPEECH]
+1	.
+2	.
+3	.
+4	.
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	Pekan olahraga provinsi, PORPROF, DKI Jakarta 2025 resmi dimulai,
+18	Pekan olahraga provinsi, PORPROF, DKI Jakarta 2025 resmi dimulai,
+19	Pekan olahraga provinsi, PORPROF, DKI Jakarta 2025 resmi dimulai,
+20	Pekan olahraga provinsi, PORPROF, DKI Jakarta 2025 resmi dimulai,
+21	Pekan olahraga provinsi, PORPROF, DKI Jakarta 2025 resmi dimulai,
+22	Pekan olahraga provinsi, PORPROF, DKI Jakarta 2025 resmi dimulai,
+23	Pekan olahraga provinsi, PORPROF, DKI Jakarta 2025 resmi dimulai,
+24	Pekan olahraga provinsi, PORPROF, DKI Jakarta 2025 resmi dimulai,
+25	Pekan olahraga provinsi, PORPROF, DKI Jakarta 2025 resmi dimulai,
+26	Pekan olahraga provinsi, PORPROF, DKI Jakarta 2025 resmi dimulai,
+27	Pekan olahraga provinsi, PORPROF, DKI Jakarta 2025 resmi dimulai,
+28	Pekan olahraga provinsi, PORPROF, DKI Jakarta 2025 resmi dimulai, melibatkan 5 wilayah kota dan kabupaten Kepulauan Seribu.
+29	Pekan olahraga provinsi, PORPROF, DKI Jakarta 2025 resmi dimulai, melibatkan 5 wilayah kota dan kabupaten Kepulauan Seribu.
+30	melibatkan 5 wilayah kota dan kabupaten Kepulauan Seribu.
+31	melibatkan 5 wilayah kota dan kabupaten Kepulauan Seribu.
+32	melibatkan 5 wilayah kota dan kabupaten Kepulauan Seribu.
+33	melibatkan 5 wilayah kota dan kabupaten Kepulauan Seribu.
+34	melibatkan 5 wilayah kota dan kabupaten Kepulauan Seribu.
+35	melibatkan 5 wilayah kota dan kabupaten Kepulauan Seribu.
+36	melibatkan 5 wilayah kota dan kabupaten Kepulauan Seribu.
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	Ajang olahraga terbesar di ibu kota ini akan menjadi panggung
+42	Ajang olahraga terbesar di ibu kota ini akan menjadi panggung
+43	Ajang olahraga terbesar di ibu kota ini akan menjadi panggung
+44	Ajang olahraga terbesar di ibu kota ini akan menjadi panggung
+45	Ajang olahraga terbesar di ibu kota ini akan menjadi panggung
+46	Ajang olahraga terbesar di ibu kota ini akan menjadi panggung
+47	Ajang olahraga terbesar di ibu kota ini akan menjadi panggung bagi para atlet terbaik Jakarta untuk menunjukkan kemampuan mereka.
+48	Ajang olahraga terbesar di ibu kota ini akan menjadi panggung bagi para atlet terbaik Jakarta untuk menunjukkan kemampuan mereka.
+49	bagi para atlet terbaik Jakarta untuk menunjukkan kemampuan mereka.
+50	bagi para atlet terbaik Jakarta untuk menunjukkan kemampuan mereka.
+51	bagi para atlet terbaik Jakarta untuk menunjukkan kemampuan mereka.
+52	bagi para atlet terbaik Jakarta untuk menunjukkan kemampuan mereka.
+53	bagi para atlet terbaik Jakarta untuk menunjukkan kemampuan mereka.
+54	bagi para atlet terbaik Jakarta untuk menunjukkan kemampuan mereka. Salah satu cabang olahraga yang telah memulai pertandingan adalah panahan
+55	Salah satu cabang olahraga yang telah memulai pertandingan adalah panahan
+56	Salah satu cabang olahraga yang telah memulai pertandingan adalah panahan
+57	Salah satu cabang olahraga yang telah memulai pertandingan adalah panahan
+58	Salah satu cabang olahraga yang telah memulai pertandingan adalah panahan
+59	Salah satu cabang olahraga yang telah memulai pertandingan adalah panahan
+60	Salah satu cabang olahraga yang telah memulai pertandingan adalah panahan
+61	Salah satu cabang olahraga yang telah memulai pertandingan adalah panahan yang digelar di gelanggang olahraga Gor, Ciracas, Jakarta Timur sejak 4 Agustus.
+62	Salah satu cabang olahraga yang telah memulai pertandingan adalah panahan yang digelar di gelanggang olahraga Gor, Ciracas, Jakarta Timur sejak 4 Agustus.
+63	yang digelar di gelanggang olahraga Gor, Ciracas, Jakarta Timur sejak 4 Agustus.
+64	yang digelar di gelanggang olahraga Gor, Ciracas, Jakarta Timur sejak 4 Agustus.
+65	yang digelar di gelanggang olahraga Gor, Ciracas, Jakarta Timur sejak 4 Agustus.
+66	yang digelar di gelanggang olahraga Gor, Ciracas, Jakarta Timur sejak 4 Agustus.
+67	yang digelar di gelanggang olahraga Gor, Ciracas, Jakarta Timur sejak 4 Agustus.
+68	yang digelar di gelanggang olahraga Gor, Ciracas, Jakarta Timur sejak 4 Agustus.
+69	yang digelar di gelanggang olahraga Gor, Ciracas, Jakarta Timur sejak 4 Agustus.
+70	yang digelar di gelanggang olahraga Gor, Ciracas, Jakarta Timur sejak 4 Agustus.
+71	yang digelar di gelanggang olahraga Gor, Ciracas, Jakarta Timur sejak 4 Agustus.
+72	yang digelar di gelanggang olahraga Gor, Ciracas, Jakarta Timur sejak 4 Agustus.
+73	yang digelar di gelanggang olahraga Gor, Ciracas, Jakarta Timur sejak 4 Agustus.
+74	yang digelar di gelanggang olahraga Gor, Ciracas, Jakarta Timur sejak 4 Agustus.
+75	yang digelar di gelanggang olahraga Gor, Ciracas, Jakarta Timur sejak 4 Agustus.
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	Namun, pelaksanaan di hari pertama sempat terganggu.
+81	Namun, pelaksanaan di hari pertama sempat terganggu.
+82	Namun, pelaksanaan di hari pertama sempat terganggu.
+83	Namun, pelaksanaan di hari pertama sempat terganggu.
+84	Namun, pelaksanaan di hari pertama sempat terganggu.
+85	Namun, pelaksanaan di hari pertama sempat terganggu.
+86	Namun, pelaksanaan di hari pertama sempat terganggu.
+87	Namun, pelaksanaan di hari pertama sempat terganggu. Hujan deras yang tiba-tiba mengguyur pada siang hari
+88	Hujan deras yang tiba-tiba mengguyur pada siang hari
+89	Hujan deras yang tiba-tiba mengguyur pada siang hari
+90	Hujan deras yang tiba-tiba mengguyur pada siang hari
+91	Hujan deras yang tiba-tiba mengguyur pada siang hari
+92	Hujan deras yang tiba-tiba mengguyur pada siang hari membuat pertandingan harus dihentikan dan dilanjutkan di esok hari.
+93	Hujan deras yang tiba-tiba mengguyur pada siang hari membuat pertandingan harus dihentikan dan dilanjutkan di esok hari.
+94	membuat pertandingan harus dihentikan dan dilanjutkan di esok hari.
+95	membuat pertandingan harus dihentikan dan dilanjutkan di esok hari.
+96	membuat pertandingan harus dihentikan dan dilanjutkan di esok hari.
+97	membuat pertandingan harus dihentikan dan dilanjutkan di esok hari.
+98	membuat pertandingan harus dihentikan dan dilanjutkan di esok hari.
+99	membuat pertandingan harus dihentikan dan dilanjutkan di esok hari.
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	[NO_SPEECH]
+104	[NO_SPEECH]
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	Tadi aku main dari pagi, kita main kualifikasi.
+108	Tadi aku main dari pagi, kita main kualifikasi.
+109	Tadi aku main dari pagi, kita main kualifikasi.
+110	Tadi aku main dari pagi, kita main kualifikasi.
+111	Tadi aku main dari pagi, kita main kualifikasi.
+112	Tadi aku main dari pagi, kita main kualifikasi.
+113	Tadi aku main dari pagi, kita main kualifikasi. Kualifikasi aku dapat peringkat kedua dengan skor sesi pertama 317 dan skor sesi kedua 323.
+114	Tadi aku main dari pagi, kita main kualifikasi. Kualifikasi aku dapat peringkat kedua dengan skor sesi pertama 317 dan skor sesi kedua 323.
+115	Kualifikasi aku dapat peringkat kedua dengan skor sesi pertama 317 dan skor sesi kedua 323.
+116	Kualifikasi aku dapat peringkat kedua dengan skor sesi pertama 317 dan skor sesi kedua 323.
+117	Kualifikasi aku dapat peringkat kedua dengan skor sesi pertama 317 dan skor sesi kedua 323.
+118	Kualifikasi aku dapat peringkat kedua dengan skor sesi pertama 317 dan skor sesi kedua 323.
+119	Kualifikasi aku dapat peringkat kedua dengan skor sesi pertama 317 dan skor sesi kedua 323.
+120	Kualifikasi aku dapat peringkat kedua dengan skor sesi pertama 317 dan skor sesi kedua 323.
+121	Kualifikasi aku dapat peringkat kedua dengan skor sesi pertama 317 dan skor sesi kedua 323.
+122	Kualifikasi aku dapat peringkat kedua dengan skor sesi pertama 317 dan skor sesi kedua 323.
+123	Kualifikasi aku dapat peringkat kedua dengan skor sesi pertama 317 dan skor sesi kedua 323.
+124	Kualifikasi aku dapat peringkat kedua dengan skor sesi pertama 317 dan skor sesi kedua 323.
+125	Kualifikasi aku dapat peringkat kedua dengan skor sesi pertama 317 dan skor sesi kedua 323.
+126	Kualifikasi aku dapat peringkat kedua dengan skor sesi pertama 317 dan skor sesi kedua 323.
+127	Kualifikasi aku dapat peringkat kedua dengan skor sesi pertama 317 dan skor sesi kedua 323.
+128	Kualifikasi aku dapat peringkat kedua dengan skor sesi pertama 317 dan skor sesi kedua 323.
+129	Kualifikasi aku dapat peringkat kedua dengan skor sesi pertama 317 dan skor sesi kedua 323. Lalu tadi ada babak eliminasi di babak 16 besar, aku menang dengan skor 60.
+130	Kualifikasi aku dapat peringkat kedua dengan skor sesi pertama 317 dan skor sesi kedua 323. Lalu tadi ada babak eliminasi di babak 16 besar, aku menang dengan skor 60.
+131	Lalu tadi ada babak eliminasi di babak 16 besar, aku menang dengan skor 60.
+132	Lalu tadi ada babak eliminasi di babak 16 besar, aku menang dengan skor 60.
+133	Lalu tadi ada babak eliminasi di babak 16 besar, aku menang dengan skor 60.
+134	Lalu tadi ada babak eliminasi di babak 16 besar, aku menang dengan skor 60.
+135	Lalu tadi ada babak eliminasi di babak 16 besar, aku menang dengan skor 60.
+136	Lalu tadi ada babak eliminasi di babak 16 besar, aku menang dengan skor 60.
+137	Lalu tadi ada babak eliminasi di babak 16 besar, aku menang dengan skor 60.
+138	Lalu tadi ada babak eliminasi di babak 16 besar, aku menang dengan skor 60.
+139	Lalu tadi ada babak eliminasi di babak 16 besar, aku menang dengan skor 60.
+140	Lalu tadi ada babak eliminasi di babak 16 besar, aku menang dengan skor 60.
+141	Lalu tadi ada babak eliminasi di babak 16 besar, aku menang dengan skor 60.
+142	Lalu tadi ada babak eliminasi di babak 16 besar, aku menang dengan skor 60. Selanjutnya tadi baru 8 besar melawan Raseta Dayon dari Jakarta Selatan,
+143	Lalu tadi ada babak eliminasi di babak 16 besar, aku menang dengan skor 60. Selanjutnya tadi baru 8 besar melawan Raseta Dayon dari Jakarta Selatan,
+144	Selanjutnya tadi baru 8 besar melawan Raseta Dayon dari Jakarta Selatan,
+145	Selanjutnya tadi baru 8 besar melawan Raseta Dayon dari Jakarta Selatan,
+146	Selanjutnya tadi baru 8 besar melawan Raseta Dayon dari Jakarta Selatan,
+147	Selanjutnya tadi baru 8 besar melawan Raseta Dayon dari Jakarta Selatan,
+148	Selanjutnya tadi baru 8 besar melawan Raseta Dayon dari Jakarta Selatan,
+149	Selanjutnya tadi baru 8 besar melawan Raseta Dayon dari Jakarta Selatan,
+150	Selanjutnya tadi baru 8 besar melawan Raseta Dayon dari Jakarta Selatan,
+151	Selanjutnya tadi baru 8 besar melawan Raseta Dayon dari Jakarta Selatan,
+152	Selanjutnya tadi baru 8 besar melawan Raseta Dayon dari Jakarta Selatan,
+153	Selanjutnya tadi baru 8 besar melawan Raseta Dayon dari Jakarta Selatan, aku menang dengan shoot-off tadi dengan skor 65.
+154	Selanjutnya tadi baru 8 besar melawan Raseta Dayon dari Jakarta Selatan, aku menang dengan shoot-off tadi dengan skor 65.
+155	aku menang dengan shoot-off tadi dengan skor 65.
+156	aku menang dengan shoot-off tadi dengan skor 65.
+157	aku menang dengan shoot-off tadi dengan skor 65.
+158	aku menang dengan shoot-off tadi dengan skor 65. Emang dari dulu mulai panahan tertariknya sama kelas komponnya.
+159	aku menang dengan shoot-off tadi dengan skor 65. Emang dari dulu mulai panahan tertariknya sama kelas komponnya.
+160	Emang dari dulu mulai panahan tertariknya sama kelas komponnya.
+161	Emang dari dulu mulai panahan tertariknya sama kelas komponnya.
+162	Emang dari dulu mulai panahan tertariknya sama kelas komponnya.
+163	Emang dari dulu mulai panahan tertariknya sama kelas komponnya.
+164	Emang dari dulu mulai panahan tertariknya sama kelas komponnya.
+165	Emang dari dulu mulai panahan tertariknya sama kelas komponnya.
+166	Emang dari dulu mulai panahan tertariknya sama kelas komponnya.
+167	Emang dari dulu mulai panahan tertariknya sama kelas komponnya.
+168	Emang dari dulu mulai panahan tertariknya sama kelas komponnya. Jadi sampai sekarang.
+169	Emang dari dulu mulai panahan tertariknya sama kelas komponnya. Jadi sampai sekarang.
+170	Jadi sampai sekarang.
+171	Jadi sampai sekarang.
+172	Jadi sampai sekarang.
+173	Jadi sampai sekarang. Barunya bakal kompon.
+174	Barunya bakal kompon.
+175	Barunya bakal kompon. Lawan terberat sebenarnya semua lawan terberat saya ya.
+176	Barunya bakal kompon. Lawan terberat sebenarnya semua lawan terberat saya ya.
+177	Lawan terberat sebenarnya semua lawan terberat saya ya.
+178	Lawan terberat sebenarnya semua lawan terberat saya ya.
+179	Lawan terberat sebenarnya semua lawan terberat saya ya.
+180	Lawan terberat sebenarnya semua lawan terberat saya ya.
+181	Lawan terberat sebenarnya semua lawan terberat saya ya. Tapi sebenarnya lawan terberat saya itu adalah diri saya sendiri.
+182	Lawan terberat sebenarnya semua lawan terberat saya ya. Tapi sebenarnya lawan terberat saya itu adalah diri saya sendiri.
+183	Tapi sebenarnya lawan terberat saya itu adalah diri saya sendiri.
+184	Tapi sebenarnya lawan terberat saya itu adalah diri saya sendiri.
+185	Tapi sebenarnya lawan terberat saya itu adalah diri saya sendiri.
+186	Tapi sebenarnya lawan terberat saya itu adalah diri saya sendiri.
+187	Tapi sebenarnya lawan terberat saya itu adalah diri saya sendiri.
+188	Tapi sebenarnya lawan terberat saya itu adalah diri saya sendiri. Ke depannya semoga bisa lebih maju di cabang olahraga panahan,
+189	Ke depannya semoga bisa lebih maju di cabang olahraga panahan,
+190	Ke depannya semoga bisa lebih maju di cabang olahraga panahan,
+191	Ke depannya semoga bisa lebih maju di cabang olahraga panahan,
+192	Ke depannya semoga bisa lebih maju di cabang olahraga panahan,
+193	Ke depannya semoga bisa lebih maju di cabang olahraga panahan,
+194	Ke depannya semoga bisa lebih maju di cabang olahraga panahan,
+195	Ke depannya semoga bisa lebih maju di cabang olahraga panahan,
+196	Ke depannya semoga bisa lebih maju di cabang olahraga panahan,
+197	Ke depannya semoga bisa lebih maju di cabang olahraga panahan, bisa ikut POPNA, SPON, dan mungkin sampai bawa nama Indonesia ya untuk panahan ini.
+198	Ke depannya semoga bisa lebih maju di cabang olahraga panahan, bisa ikut POPNA, SPON, dan mungkin sampai bawa nama Indonesia ya untuk panahan ini.
+199	bisa ikut POPNA, SPON, dan mungkin sampai bawa nama Indonesia ya untuk panahan ini.
+200	bisa ikut POPNA, SPON, dan mungkin sampai bawa nama Indonesia ya untuk panahan ini.
+201	bisa ikut POPNA, SPON, dan mungkin sampai bawa nama Indonesia ya untuk panahan ini.
+202	bisa ikut POPNA, SPON, dan mungkin sampai bawa nama Indonesia ya untuk panahan ini.
+203	bisa ikut POPNA, SPON, dan mungkin sampai bawa nama Indonesia ya untuk panahan ini.
+204	bisa ikut POPNA, SPON, dan mungkin sampai bawa nama Indonesia ya untuk panahan ini.
+205	bisa ikut POPNA, SPON, dan mungkin sampai bawa nama Indonesia ya untuk panahan ini.
+206	bisa ikut POPNA, SPON, dan mungkin sampai bawa nama Indonesia ya untuk panahan ini.
+207	bisa ikut POPNA, SPON, dan mungkin sampai bawa nama Indonesia ya untuk panahan ini.
+208	bisa ikut POPNA, SPON, dan mungkin sampai bawa nama Indonesia ya untuk panahan ini.
+209	bisa ikut POPNA, SPON, dan mungkin sampai bawa nama Indonesia ya untuk panahan ini.
+210	bisa ikut POPNA, SPON, dan mungkin sampai bawa nama Indonesia ya untuk panahan ini. Sebenarnya dari sekolah dulu, eskul, kemudian kita bergabung dengan klub.
+211	bisa ikut POPNA, SPON, dan mungkin sampai bawa nama Indonesia ya untuk panahan ini. Sebenarnya dari sekolah dulu, eskul, kemudian kita bergabung dengan klub.
+212	Sebenarnya dari sekolah dulu, eskul, kemudian kita bergabung dengan klub.
+213	Sebenarnya dari sekolah dulu, eskul, kemudian kita bergabung dengan klub.
+214	Sebenarnya dari sekolah dulu, eskul, kemudian kita bergabung dengan klub.
+215	Sebenarnya dari sekolah dulu, eskul, kemudian kita bergabung dengan klub.
+216	Sebenarnya dari sekolah dulu, eskul, kemudian kita bergabung dengan klub.
+217	Sebenarnya dari sekolah dulu, eskul, kemudian kita bergabung dengan klub.
+218	Sebenarnya dari sekolah dulu, eskul, kemudian kita bergabung dengan klub.
+219	Sebenarnya dari sekolah dulu, eskul, kemudian kita bergabung dengan klub.
+220	Sebenarnya dari sekolah dulu, eskul, kemudian kita bergabung dengan klub. Dari SD kelas 1 sampai sekarang masih bergabung di klub.
+221	Dari SD kelas 1 sampai sekarang masih bergabung di klub.
+222	Dari SD kelas 1 sampai sekarang masih bergabung di klub.
+223	Dari SD kelas 1 sampai sekarang masih bergabung di klub.
+224	Dari SD kelas 1 sampai sekarang masih bergabung di klub.
+225	Dari SD kelas 1 sampai sekarang masih bergabung di klub.
+226	Dari SD kelas 1 sampai sekarang masih bergabung di klub.
+227	Dari SD kelas 1 sampai sekarang masih bergabung di klub. Harapan ke depannya tentu lebih baik dari sekarang.
+228	Dari SD kelas 1 sampai sekarang masih bergabung di klub. Harapan ke depannya tentu lebih baik dari sekarang.
+229	Harapan ke depannya tentu lebih baik dari sekarang.
+230	Harapan ke depannya tentu lebih baik dari sekarang.
+231	Harapan ke depannya tentu lebih baik dari sekarang.
+232	Harapan ke depannya tentu lebih baik dari sekarang.
+233	Harapan ke depannya tentu lebih baik dari sekarang. Dia bisa ikut ke event yang lebih besar.
+234	Dia bisa ikut ke event yang lebih besar.
+235	Dia bisa ikut ke event yang lebih besar.
+236	Dia bisa ikut ke event yang lebih besar.
+237	Dia bisa ikut ke event yang lebih besar. Yang terdekat kan mungkin ikut bisa masuk ke dalam muladda, ikut PON,
+238	Dia bisa ikut ke event yang lebih besar. Yang terdekat kan mungkin ikut bisa masuk ke dalam muladda, ikut PON,
+239	Yang terdekat kan mungkin ikut bisa masuk ke dalam muladda, ikut PON,
+240	Yang terdekat kan mungkin ikut bisa masuk ke dalam muladda, ikut PON,
+241	Yang terdekat kan mungkin ikut bisa masuk ke dalam muladda, ikut PON,
+242	Yang terdekat kan mungkin ikut bisa masuk ke dalam muladda, ikut PON,
+243	Yang terdekat kan mungkin ikut bisa masuk ke dalam muladda, ikut PON,
+244	Yang terdekat kan mungkin ikut bisa masuk ke dalam muladda, ikut PON,
+245	Yang terdekat kan mungkin ikut bisa masuk ke dalam muladda, ikut PON,
+246	Yang terdekat kan mungkin ikut bisa masuk ke dalam muladda, ikut PON, mungkin bisa membawa nama Indonesia ke luar negeri, bisa ikut olimpiade.
+247	Yang terdekat kan mungkin ikut bisa masuk ke dalam muladda, ikut PON, mungkin bisa membawa nama Indonesia ke luar negeri, bisa ikut olimpiade.
+248	mungkin bisa membawa nama Indonesia ke luar negeri, bisa ikut olimpiade.
+249	mungkin bisa membawa nama Indonesia ke luar negeri, bisa ikut olimpiade.
+250	mungkin bisa membawa nama Indonesia ke luar negeri, bisa ikut olimpiade.
+251	mungkin bisa membawa nama Indonesia ke luar negeri, bisa ikut olimpiade.
+252	mungkin bisa membawa nama Indonesia ke luar negeri, bisa ikut olimpiade.
+253	mungkin bisa membawa nama Indonesia ke luar negeri, bisa ikut olimpiade.
+254	mungkin bisa membawa nama Indonesia ke luar negeri, bisa ikut olimpiade.
+255	[NO_SPEECH]
+256	[NO_SPEECH]
+257	[NO_SPEECH]
+258	[NO_SPEECH]
+259	[NO_SPEECH]
+260	[NO_SPEECH]
+261	[NO_SPEECH]
+262	[NO_SPEECH]
+263	[NO_SPEECH]
+264	Memasuki hari kedua, panitia pelaksana memutuskan untuk memajukan jadwal pertandingan.
+265	Memasuki hari kedua, panitia pelaksana memutuskan untuk memajukan jadwal pertandingan.
+266	Memasuki hari kedua, panitia pelaksana memutuskan untuk memajukan jadwal pertandingan.
+267	Memasuki hari kedua, panitia pelaksana memutuskan untuk memajukan jadwal pertandingan.
+268	Memasuki hari kedua, panitia pelaksana memutuskan untuk memajukan jadwal pertandingan.
+269	Memasuki hari kedua, panitia pelaksana memutuskan untuk memajukan jadwal pertandingan.
+270	Memasuki hari kedua, panitia pelaksana memutuskan untuk memajukan jadwal pertandingan.
+271	Memasuki hari kedua, panitia pelaksana memutuskan untuk memajukan jadwal pertandingan.
+272	Memasuki hari kedua, panitia pelaksana memutuskan untuk memajukan jadwal pertandingan.
+273	Memasuki hari kedua, panitia pelaksana memutuskan untuk memajukan jadwal pertandingan.
+274	Memasuki hari kedua, panitia pelaksana memutuskan untuk memajukan jadwal pertandingan.
+275	Memasuki hari kedua, panitia pelaksana memutuskan untuk memajukan jadwal pertandingan.
+276	Pertandingan panahan dilaksanakan hanya setengah hari karena perakiraan cuaca yang kembali tidak menentu.
+277	Pertandingan panahan dilaksanakan hanya setengah hari karena perakiraan cuaca yang kembali tidak menentu.
+278	Pertandingan panahan dilaksanakan hanya setengah hari karena perakiraan cuaca yang kembali tidak menentu.
+279	Pertandingan panahan dilaksanakan hanya setengah hari karena perakiraan cuaca yang kembali tidak menentu.
+280	Pertandingan panahan dilaksanakan hanya setengah hari karena perakiraan cuaca yang kembali tidak menentu.
+281	Pertandingan panahan dilaksanakan hanya setengah hari karena perakiraan cuaca yang kembali tidak menentu.
+282	Pertandingan panahan dilaksanakan hanya setengah hari karena perakiraan cuaca yang kembali tidak menentu.
+283	Pertandingan panahan dilaksanakan hanya setengah hari karena perakiraan cuaca yang kembali tidak menentu.
+284	Pertandingan panahan dilaksanakan hanya setengah hari karena perakiraan cuaca yang kembali tidak menentu.
+285	Pertandingan panahan dilaksanakan hanya setengah hari karena perakiraan cuaca yang kembali tidak menentu.
+286	Pertandingan panahan dilaksanakan hanya setengah hari karena perakiraan cuaca yang kembali tidak menentu. Langkah ini diambil untuk mengantisipasi potensi hujan yang dipengaruhi.
+287	Langkah ini diambil untuk mengantisipasi potensi hujan yang dipengaruhi.
+288	Langkah ini diambil untuk mengantisipasi potensi hujan yang dipengaruhi.
+289	Langkah ini diambil untuk mengantisipasi potensi hujan yang dipengaruhi.
+290	Langkah ini diambil untuk mengantisipasi potensi hujan yang dipengaruhi.
+291	Langkah ini diambil untuk mengantisipasi potensi hujan yang dipengaruhi.
+292	Langkah ini diambil untuk mengantisipasi potensi hujan yang dipengaruhi.
+293	Langkah ini diambil untuk mengantisipasi potensi hujan yang dipengaruhi. Pertandingan panahan diperkirakan akan turun kembali,
+294	Langkah ini diambil untuk mengantisipasi potensi hujan yang dipengaruhi. Pertandingan panahan diperkirakan akan turun kembali,
+295	Pertandingan panahan diperkirakan akan turun kembali,
+296	Pertandingan panahan diperkirakan akan turun kembali,
+297	sehingga seluruh pertandingan bisa diselesaikan tepat waktu tanpa ada penundaan lebih lanjut.
+298	sehingga seluruh pertandingan bisa diselesaikan tepat waktu tanpa ada penundaan lebih lanjut.
+299	sehingga seluruh pertandingan bisa diselesaikan tepat waktu tanpa ada penundaan lebih lanjut.
+300	sehingga seluruh pertandingan bisa diselesaikan tepat waktu tanpa ada penundaan lebih lanjut.
+301	sehingga seluruh pertandingan bisa diselesaikan tepat waktu tanpa ada penundaan lebih lanjut.
+302	sehingga seluruh pertandingan bisa diselesaikan tepat waktu tanpa ada penundaan lebih lanjut.
+303	sehingga seluruh pertandingan bisa diselesaikan tepat waktu tanpa ada penundaan lebih lanjut.
+304	sehingga seluruh pertandingan bisa diselesaikan tepat waktu tanpa ada penundaan lebih lanjut.
+305	sehingga seluruh pertandingan bisa diselesaikan tepat waktu tanpa ada penundaan lebih lanjut.
+306	sehingga seluruh pertandingan bisa diselesaikan tepat waktu tanpa ada penundaan lebih lanjut. Hingga saat ini, persaingan di cabang panahan masih berlangsung ketat.
+307	Hingga saat ini, persaingan di cabang panahan masih berlangsung ketat.
+308	Hingga saat ini, persaingan di cabang panahan masih berlangsung ketat.
+309	Hingga saat ini, persaingan di cabang panahan masih berlangsung ketat.
+310	Hingga saat ini, persaingan di cabang panahan masih berlangsung ketat.
+311	Hingga saat ini, persaingan di cabang panahan masih berlangsung ketat.
+312	Hingga saat ini, persaingan di cabang panahan masih berlangsung ketat.
+313	Hingga saat ini, persaingan di cabang panahan masih berlangsung ketat.
+314	Hingga saat ini, persaingan di cabang panahan masih berlangsung ketat.
+315	Hingga saat ini, persaingan di cabang panahan masih berlangsung ketat. Seluruh kontingen dari lima wilayah kota dan kabupaten kepulauan seribu bertekad untuk meraih medali emas bagi daerahnya masing-masing.
+316	Seluruh kontingen dari lima wilayah kota dan kabupaten kepulauan seribu bertekad untuk meraih medali emas bagi daerahnya masing-masing.
+317	Seluruh kontingen dari lima wilayah kota dan kabupaten kepulauan seribu bertekad untuk meraih medali emas bagi daerahnya masing-masing.
+318	Seluruh kontingen dari lima wilayah kota dan kabupaten kepulauan seribu bertekad untuk meraih medali emas bagi daerahnya masing-masing.
+319	Seluruh kontingen dari lima wilayah kota dan kabupaten kepulauan seribu bertekad untuk meraih medali emas bagi daerahnya masing-masing.
+320	Seluruh kontingen dari lima wilayah kota dan kabupaten kepulauan seribu bertekad untuk meraih medali emas bagi daerahnya masing-masing.
+321	Seluruh kontingen dari lima wilayah kota dan kabupaten kepulauan seribu bertekad untuk meraih medali emas bagi daerahnya masing-masing.
+322	Seluruh kontingen dari lima wilayah kota dan kabupaten kepulauan seribu bertekad untuk meraih medali emas bagi daerahnya masing-masing.
+323	Seluruh kontingen dari lima wilayah kota dan kabupaten kepulauan seribu bertekad untuk meraih medali emas bagi daerahnya masing-masing.
+324	Seluruh kontingen dari lima wilayah kota dan kabupaten kepulauan seribu bertekad untuk meraih medali emas bagi daerahnya masing-masing.
+325	Seluruh kontingen dari lima wilayah kota dan kabupaten kepulauan seribu bertekad untuk meraih medali emas bagi daerahnya masing-masing.
+326	Seluruh kontingen dari lima wilayah kota dan kabupaten kepulauan seribu bertekad untuk meraih medali emas bagi daerahnya masing-masing.
+327	Seluruh kontingen dari lima wilayah kota dan kabupaten kepulauan seribu bertekad untuk meraih medali emas bagi daerahnya masing-masing.
+328	Seluruh kontingen dari lima wilayah kota dan kabupaten kepulauan seribu bertekad untuk meraih medali emas bagi daerahnya masing-masing.
+329	[NO_SPEECH]
+330	[NO_SPEECH]
+331	[NO_SPEECH]
+332	[NO_SPEECH]
+333	[NO_SPEECH]
+334	[NO_SPEECH]
+335	[NO_SPEECH]
+336	[NO_SPEECH]
+337	[NO_SPEECH]
+338	[NO_SPEECH]
+339	[NO_SPEECH]
+340	[NO_SPEECH]
+341	[NO_SPEECH]
+342	[NO_SPEECH]
+343	[NO_SPEECH]
+344	[NO_SPEECH]
+345	[NO_SPEECH]
+346	[NO_SPEECH]
+347	[NO_SPEECH]
+348	[NO_SPEECH]
+349	[NO_SPEECH]
+350	[NO_SPEECH]
+351	[NO_SPEECH]
+352	[NO_SPEECH]
+353	[NO_SPEECH]
+354	[NO_SPEECH]
+355	[NO_SPEECH]
+356	[NO_SPEECH]
+357	[NO_SPEECH]
+358	[NO_SPEECH]
+359	[NO_SPEECH]
+360	[NO_SPEECH]
+361	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan,
+362	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan,
+363	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan,
+364	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan,
+365	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan,
+366	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan,
+367	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan,
+368	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan,
+369	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan,
+370	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan,
+371	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan,
+372	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan,
+373	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan,
+374	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan,
+375	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan,
+376	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan,
+377	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan,
+378	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan,
+379	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan,
+380	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan,
+381	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan, ibu bernama
+382	Gerologistsrenge terkena tijdungan around megunakan 7.000 tujuan rupiahs yang teratuh lebih dari principles permukaan, ibu bernama
+383	ibu bernama
+384	ibu bernama
+385	ibu bernama Beim ACC m rekansades
+386	ibu bernama Beim ACC m rekansades
+387	ibu bernama Beim ACC m rekansades
+388	Beim ACC m rekansades
+389	Beim ACC m rekansades
+390	Beim ACC m rekansades
+391	Beim ACC m rekansades
+392	Beim ACC m rekansades
+393	Beim ACC m rekansades Dani Roby, anggar
+394	Beim ACC m rekansades Dani Roby, anggar
+395	Dani Roby, anggar  Dani Radzian coast
+396	Dani Roby, anggar  Dani Radzian coast
+397	Dani Radzian coast Darjn
+398	Dani Radzian coast Darjn  Leoral
+399	Darjn  Leoral
+400	Leoral

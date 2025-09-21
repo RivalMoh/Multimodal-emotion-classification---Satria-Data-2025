@@ -1,0 +1,86 @@
+0	Kalian tau gak sih kalau satu mangkok smoothies ini tuh udah mengandung sekitar 30an gram protein
+1	Kalian tau gak sih kalau satu mangkok smoothies ini tuh udah mengandung sekitar 30an gram protein
+2	Kalian tau gak sih kalau satu mangkok smoothies ini tuh udah mengandung sekitar 30an gram protein
+3	Kalian tau gak sih kalau satu mangkok smoothies ini tuh udah mengandung sekitar 30an gram protein
+4	Kalian tau gak sih kalau satu mangkok smoothies ini tuh udah mengandung sekitar 30an gram protein
+5	Kalian tau gak sih kalau satu mangkok smoothies ini tuh udah mengandung sekitar 30an gram protein
+6	Kalian tau gak sih kalau satu mangkok smoothies ini tuh udah mengandung sekitar 30an gram protein
+7	Kalian tau gak sih kalau satu mangkok smoothies ini tuh udah mengandung sekitar 30an gram protein
+8	Kalian tau gak sih kalau satu mangkok smoothies ini tuh udah mengandung sekitar 30an gram protein Dan rasanya ini tuh enak banget
+9	Kalian tau gak sih kalau satu mangkok smoothies ini tuh udah mengandung sekitar 30an gram protein Dan rasanya ini tuh enak banget
+10	Dan rasanya ini tuh enak banget
+11	Dan rasanya ini tuh enak banget
+12	Dan rasanya ini tuh enak banget
+13	Dan rasanya ini tuh enak banget Yuk langsung aja kita bikin, let's go!
+14	Dan rasanya ini tuh enak banget Yuk langsung aja kita bikin, let's go!
+15	Yuk langsung aja kita bikin, let's go!
+16	Yuk langsung aja kita bikin, let's go!
+17	Yuk langsung aja kita bikin, let's go! Masukin 1-2 buah pisang beku
+18	Yuk langsung aja kita bikin, let's go! Masukin 1-2 buah pisang beku
+19	Masukin 1-2 buah pisang beku
+20	Masukin 1-2 buah pisang beku Tambah 1 scoop WPC dari puro rasa vanila
+21	Masukin 1-2 buah pisang beku Tambah 1 scoop WPC dari puro rasa vanila
+22	Masukin 1-2 buah pisang beku Tambah 1 scoop WPC dari puro rasa vanila
+23	Tambah 1 scoop WPC dari puro rasa vanila
+24	Tambah 1 scoop WPC dari puro rasa vanila
+25	Tambah 1 scoop WPC dari puro rasa vanila Yang bisa kalian beli dengan kode PURORAMBE
+26	Tambah 1 scoop WPC dari puro rasa vanila Yang bisa kalian beli dengan kode PURORAMBE
+27	Tambah 1 scoop WPC dari puro rasa vanila Yang bisa kalian beli dengan kode PURORAMBE
+28	Yang bisa kalian beli dengan kode PURORAMBE
+29	Yang bisa kalian beli dengan kode PURORAMBE Terus tambah 1 sendok makan bubuk coklat
+30	Yang bisa kalian beli dengan kode PURORAMBE Terus tambah 1 sendok makan bubuk coklat
+31	Terus tambah 1 sendok makan bubuk coklat
+32	Terus tambah 1 sendok makan bubuk coklat
+33	Terus tambah 1 sendok makan bubuk coklat 1 sendok makan selai kacang bubuk
+34	Terus tambah 1 sendok makan bubuk coklat 1 sendok makan selai kacang bubuk
+35	1 sendok makan selai kacang bubuk
+36	1 sendok makan selai kacang bubuk
+37	1 sendok makan selai kacang bubuk Es secukupnya
+38	1 sendok makan selai kacang bubuk Es secukupnya Kasih ekstrak vanila
+39	Es secukupnya Kasih ekstrak vanila
+40	Kasih ekstrak vanila Dan 1.4 gelas susu
+41	Kasih ekstrak vanila Dan 1.4 gelas susu
+42	Kasih ekstrak vanila Dan 1.4 gelas susu
+43	Dan 1.4 gelas susu Terus tinggal di blender
+44	Dan 1.4 gelas susu Terus tinggal di blender
+45	Terus tinggal di blender Dan jadi deh
+46	Terus tinggal di blender Dan jadi deh
+47	Dan jadi deh Gimana? Gampang banget kan bikinnya?
+48	Dan jadi deh Gimana? Gampang banget kan bikinnya?
+49	Gimana? Gampang banget kan bikinnya?
+50	Gimana? Gampang banget kan bikinnya? Tinggal ceplong-ceplong-ceplong
+51	Gimana? Gampang banget kan bikinnya? Tinggal ceplong-ceplong-ceplong
+52	Tinggal ceplong-ceplong-ceplong
+53	Tinggal ceplong-ceplong-ceplong
+54	Tinggal ceplong-ceplong-ceplong Coba kalian tertarik gak remake smoothies ini nih?
+55	Coba kalian tertarik gak remake smoothies ini nih?
+56	Coba kalian tertarik gak remake smoothies ini nih?
+57	Coba kalian tertarik gak remake smoothies ini nih?
+58	Coba kalian tertarik gak remake smoothies ini nih?
+59	Coba kalian tertarik gak remake smoothies ini nih? Kalau iya coba komen di bawah ya
+60	Coba kalian tertarik gak remake smoothies ini nih? Kalau iya coba komen di bawah ya
+61	Kalau iya coba komen di bawah ya
+62	Kalau iya coba komen di bawah ya Atau kalau kalian ada snack favorit lain
+63	Kalau iya coba komen di bawah ya Atau kalau kalian ada snack favorit lain
+64	Atau kalau kalian ada snack favorit lain
+65	Atau kalau kalian ada snack favorit lain Atau kalian pengen request apa gitu juga
+66	Atau kalau kalian ada snack favorit lain Atau kalian pengen request apa gitu juga
+67	Atau kalian pengen request apa gitu juga
+68	Atau kalian pengen request apa gitu juga
+69	Atau kalian pengen request apa gitu juga Gapapa coba komen di bawah juga ya
+70	Atau kalian pengen request apa gitu juga Gapapa coba komen di bawah juga ya
+71	Gapapa coba komen di bawah juga ya
+72	Gapapa coba komen di bawah juga ya Share video ini kalau bermanfaat
+73	Gapapa coba komen di bawah juga ya Share video ini kalau bermanfaat
+74	Share video ini kalau bermanfaat Tetap semangat
+75	Share video ini kalau bermanfaat Tetap semangat
+76	Tetap semangat Dan stay hard
+77	Tetap semangat Dan stay hard
+78	Dan stay hard
+79	Dan stay hard
+80	Pantup bro
+81	Pantup bro
+82	Pantup bro
+83	[NO_SPEECH]
+84	[NO_SPEECH]
+85	[NO_SPEECH]

@@ -1,0 +1,52 @@
+0	Kalo dulu love at first sight, ini love at first run.
+1	Kalo dulu love at first sight, ini love at first run.
+2	Kalo dulu love at first sight, ini love at first run.
+3	Kalo dulu love at first sight, ini love at first run.
+4	Kalo dulu love at first sight, ini love at first run.
+5	Kalo dulu love at first sight, ini love at first run. Gue baru pake ini pertama kali aja, udah kelepek-kelepek dan udah pake ini untuk beberapa kali.
+6	Kalo dulu love at first sight, ini love at first run. Gue baru pake ini pertama kali aja, udah kelepek-kelepek dan udah pake ini untuk beberapa kali.
+7	Gue baru pake ini pertama kali aja, udah kelepek-kelepek dan udah pake ini untuk beberapa kali.
+8	Gue baru pake ini pertama kali aja, udah kelepek-kelepek dan udah pake ini untuk beberapa kali.
+9	Gue baru pake ini pertama kali aja, udah kelepek-kelepek dan udah pake ini untuk beberapa kali.
+10	Gue baru pake ini pertama kali aja, udah kelepek-kelepek dan udah pake ini untuk beberapa kali.
+11	Gue baru pake ini pertama kali aja, udah kelepek-kelepek dan udah pake ini untuk beberapa kali.
+12	Gue baru pake ini pertama kali aja, udah kelepek-kelepek dan udah pake ini untuk beberapa kali.
+13	Gue baru pake ini pertama kali aja, udah kelepek-kelepek dan udah pake ini untuk beberapa kali.
+14	Gue baru pake ini pertama kali aja, udah kelepek-kelepek dan udah pake ini untuk beberapa kali.
+15	Gue baru pake ini pertama kali aja, udah kelepek-kelepek dan udah pake ini untuk beberapa kali.
+16	Gue baru pake ini pertama kali aja, udah kelepek-kelepek dan udah pake ini untuk beberapa kali. Gue udah pernah pake untuk race juga dan gue dapet PB.
+17	Gue baru pake ini pertama kali aja, udah kelepek-kelepek dan udah pake ini untuk beberapa kali. Gue udah pernah pake untuk race juga dan gue dapet PB.
+18	Gue udah pernah pake untuk race juga dan gue dapet PB.
+19	Gue udah pernah pake untuk race juga dan gue dapet PB.
+20	Gue udah pernah pake untuk race juga dan gue dapet PB.
+21	Gue udah pernah pake untuk race juga dan gue dapet PB.
+22	Gue udah pernah pake untuk race juga dan gue dapet PB. Tapi apakah memang bener dia se-worth it itu?
+23	Gue udah pernah pake untuk race juga dan gue dapet PB. Tapi apakah memang bener dia se-worth it itu?
+24	Tapi apakah memang bener dia se-worth it itu?
+25	Tapi apakah memang bener dia se-worth it itu?
+26	Tapi apakah memang bener dia se-worth it itu?
+27	Tapi apakah memang bener dia se-worth it itu?
+28	Tapi apakah memang bener dia se-worth it itu?
+29	Tapi apakah memang bener dia se-worth it itu? Atau ternyata ada kekurangan yang dia tutupin tapi gue belum tau?
+30	Tapi apakah memang bener dia se-worth it itu? Atau ternyata ada kekurangan yang dia tutupin tapi gue belum tau?
+31	Atau ternyata ada kekurangan yang dia tutupin tapi gue belum tau?
+32	Atau ternyata ada kekurangan yang dia tutupin tapi gue belum tau?
+33	Atau ternyata ada kekurangan yang dia tutupin tapi gue belum tau?
+34	Atau ternyata ada kekurangan yang dia tutupin tapi gue belum tau?
+35	Atau ternyata ada kekurangan yang dia tutupin tapi gue belum tau?
+36	Atau ternyata ada kekurangan yang dia tutupin tapi gue belum tau? Tonton selengkapnya di Youtube Runhood!
+37	Atau ternyata ada kekurangan yang dia tutupin tapi gue belum tau? Tonton selengkapnya di Youtube Runhood!
+38	Tonton selengkapnya di Youtube Runhood!
+39	Tonton selengkapnya di Youtube Runhood!
+40	Tonton selengkapnya di Youtube Runhood!
+41	Tonton selengkapnya di Youtube Runhood!
+42	Tonton selengkapnya di Youtube Runhood!
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]

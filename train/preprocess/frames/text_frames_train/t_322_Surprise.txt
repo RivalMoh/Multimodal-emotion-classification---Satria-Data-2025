@@ -1,0 +1,120 @@
+0	iPhone resmi Indonesia itu bisa kena blokir atau nggak?
+1	iPhone resmi Indonesia itu bisa kena blokir atau nggak?
+2	iPhone resmi Indonesia itu bisa kena blokir atau nggak?
+3	iPhone resmi Indonesia itu bisa kena blokir atau nggak?
+4	iPhone resmi Indonesia itu bisa kena blokir atau nggak? Jadi di komentar video saya kemarin, beberapa mengeluhkan iPhone resmi Indo mereka terblokir IMEI-nya atau hilang sinyal.
+5	iPhone resmi Indonesia itu bisa kena blokir atau nggak? Jadi di komentar video saya kemarin, beberapa mengeluhkan iPhone resmi Indo mereka terblokir IMEI-nya atau hilang sinyal.
+6	Jadi di komentar video saya kemarin, beberapa mengeluhkan iPhone resmi Indo mereka terblokir IMEI-nya atau hilang sinyal.
+7	Jadi di komentar video saya kemarin, beberapa mengeluhkan iPhone resmi Indo mereka terblokir IMEI-nya atau hilang sinyal.
+8	Jadi di komentar video saya kemarin, beberapa mengeluhkan iPhone resmi Indo mereka terblokir IMEI-nya atau hilang sinyal.
+9	Jadi di komentar video saya kemarin, beberapa mengeluhkan iPhone resmi Indo mereka terblokir IMEI-nya atau hilang sinyal.
+10	Jadi di komentar video saya kemarin, beberapa mengeluhkan iPhone resmi Indo mereka terblokir IMEI-nya atau hilang sinyal.
+11	Jadi di komentar video saya kemarin, beberapa mengeluhkan iPhone resmi Indo mereka terblokir IMEI-nya atau hilang sinyal.
+12	Jadi di komentar video saya kemarin, beberapa mengeluhkan iPhone resmi Indo mereka terblokir IMEI-nya atau hilang sinyal.
+13	Jadi di komentar video saya kemarin, beberapa mengeluhkan iPhone resmi Indo mereka terblokir IMEI-nya atau hilang sinyal.
+14	Jadi di komentar video saya kemarin, beberapa mengeluhkan iPhone resmi Indo mereka terblokir IMEI-nya atau hilang sinyal.
+15	Jadi di komentar video saya kemarin, beberapa mengeluhkan iPhone resmi Indo mereka terblokir IMEI-nya atau hilang sinyal. Ada beberapa kemungkinan terkait hal ini.
+16	Jadi di komentar video saya kemarin, beberapa mengeluhkan iPhone resmi Indo mereka terblokir IMEI-nya atau hilang sinyal. Ada beberapa kemungkinan terkait hal ini.
+17	Ada beberapa kemungkinan terkait hal ini.
+18	Ada beberapa kemungkinan terkait hal ini.
+19	Ada beberapa kemungkinan terkait hal ini.
+20	Ada beberapa kemungkinan terkait hal ini. Yang pertama, IC Baseband-nya rusak.
+21	Yang pertama, IC Baseband-nya rusak.
+22	Yang pertama, IC Baseband-nya rusak.
+23	Yang pertama, IC Baseband-nya rusak.
+24	Yang pertama, IC Baseband-nya rusak. IC Baseband merupakan microchip network interface yang berfungsi mengatur keseluruhan fungsi penerima sinyal atau radio.
+25	Yang pertama, IC Baseband-nya rusak. IC Baseband merupakan microchip network interface yang berfungsi mengatur keseluruhan fungsi penerima sinyal atau radio.
+26	IC Baseband merupakan microchip network interface yang berfungsi mengatur keseluruhan fungsi penerima sinyal atau radio.
+27	IC Baseband merupakan microchip network interface yang berfungsi mengatur keseluruhan fungsi penerima sinyal atau radio.
+28	IC Baseband merupakan microchip network interface yang berfungsi mengatur keseluruhan fungsi penerima sinyal atau radio.
+29	IC Baseband merupakan microchip network interface yang berfungsi mengatur keseluruhan fungsi penerima sinyal atau radio.
+30	IC Baseband merupakan microchip network interface yang berfungsi mengatur keseluruhan fungsi penerima sinyal atau radio.
+31	IC Baseband merupakan microchip network interface yang berfungsi mengatur keseluruhan fungsi penerima sinyal atau radio.
+32	IC Baseband merupakan microchip network interface yang berfungsi mengatur keseluruhan fungsi penerima sinyal atau radio.
+33	IC Baseband merupakan microchip network interface yang berfungsi mengatur keseluruhan fungsi penerima sinyal atau radio.
+34	IC Baseband merupakan microchip network interface yang berfungsi mengatur keseluruhan fungsi penerima sinyal atau radio.
+35	IC Baseband merupakan microchip network interface yang berfungsi mengatur keseluruhan fungsi penerima sinyal atau radio.
+36	IC Baseband merupakan microchip network interface yang berfungsi mengatur keseluruhan fungsi penerima sinyal atau radio.
+37	IC Baseband merupakan microchip network interface yang berfungsi mengatur keseluruhan fungsi penerima sinyal atau radio. Kalau chip ini rusak, otomatis iPhone kamu nggak bisa nerima sinyal lagi.
+38	Kalau chip ini rusak, otomatis iPhone kamu nggak bisa nerima sinyal lagi.
+39	Kalau chip ini rusak, otomatis iPhone kamu nggak bisa nerima sinyal lagi.
+40	Kalau chip ini rusak, otomatis iPhone kamu nggak bisa nerima sinyal lagi.
+41	Kalau chip ini rusak, otomatis iPhone kamu nggak bisa nerima sinyal lagi.
+42	Kalau chip ini rusak, otomatis iPhone kamu nggak bisa nerima sinyal lagi.
+43	Kalau chip ini rusak, otomatis iPhone kamu nggak bisa nerima sinyal lagi.
+44	Kalau chip ini rusak, otomatis iPhone kamu nggak bisa nerima sinyal lagi. Untuk mengecek IC Baseband kamu masih normal, cek di Settings, General, About, lalu lihat bagian modem firmware.
+45	Kalau chip ini rusak, otomatis iPhone kamu nggak bisa nerima sinyal lagi. Untuk mengecek IC Baseband kamu masih normal, cek di Settings, General, About, lalu lihat bagian modem firmware.
+46	Untuk mengecek IC Baseband kamu masih normal, cek di Settings, General, About, lalu lihat bagian modem firmware.
+47	Untuk mengecek IC Baseband kamu masih normal, cek di Settings, General, About, lalu lihat bagian modem firmware.
+48	Untuk mengecek IC Baseband kamu masih normal, cek di Settings, General, About, lalu lihat bagian modem firmware.
+49	Untuk mengecek IC Baseband kamu masih normal, cek di Settings, General, About, lalu lihat bagian modem firmware.
+50	Untuk mengecek IC Baseband kamu masih normal, cek di Settings, General, About, lalu lihat bagian modem firmware.
+51	Untuk mengecek IC Baseband kamu masih normal, cek di Settings, General, About, lalu lihat bagian modem firmware.
+52	Untuk mengecek IC Baseband kamu masih normal, cek di Settings, General, About, lalu lihat bagian modem firmware.
+53	Untuk mengecek IC Baseband kamu masih normal, cek di Settings, General, About, lalu lihat bagian modem firmware.
+54	Untuk mengecek IC Baseband kamu masih normal, cek di Settings, General, About, lalu lihat bagian modem firmware.
+55	Untuk mengecek IC Baseband kamu masih normal, cek di Settings, General, About, lalu lihat bagian modem firmware.
+56	Untuk mengecek IC Baseband kamu masih normal, cek di Settings, General, About, lalu lihat bagian modem firmware. Kalau tidak muncul seri firmware-nya seperti ini, berarti fix, IC Baseband-nya sudah rusak.
+57	Untuk mengecek IC Baseband kamu masih normal, cek di Settings, General, About, lalu lihat bagian modem firmware. Kalau tidak muncul seri firmware-nya seperti ini, berarti fix, IC Baseband-nya sudah rusak.
+58	Kalau tidak muncul seri firmware-nya seperti ini, berarti fix, IC Baseband-nya sudah rusak.
+59	Kalau tidak muncul seri firmware-nya seperti ini, berarti fix, IC Baseband-nya sudah rusak.
+60	Kalau tidak muncul seri firmware-nya seperti ini, berarti fix, IC Baseband-nya sudah rusak.
+61	Kalau tidak muncul seri firmware-nya seperti ini, berarti fix, IC Baseband-nya sudah rusak.
+62	Kalau tidak muncul seri firmware-nya seperti ini, berarti fix, IC Baseband-nya sudah rusak.
+63	Kalau tidak muncul seri firmware-nya seperti ini, berarti fix, IC Baseband-nya sudah rusak.
+64	Kalau tidak muncul seri firmware-nya seperti ini, berarti fix, IC Baseband-nya sudah rusak.
+65	Kalau tidak muncul seri firmware-nya seperti ini, berarti fix, IC Baseband-nya sudah rusak.
+66	Kalau tidak muncul seri firmware-nya seperti ini, berarti fix, IC Baseband-nya sudah rusak.
+67	Kalau tidak muncul seri firmware-nya seperti ini, berarti fix, IC Baseband-nya sudah rusak. Yang kedua, kalau iPhone kamu bekas, ada kemungkinan untuk mod seri regen iPhone kamu yang aslinya dari luar negeri,
+68	Kalau tidak muncul seri firmware-nya seperti ini, berarti fix, IC Baseband-nya sudah rusak. Yang kedua, kalau iPhone kamu bekas, ada kemungkinan untuk mod seri regen iPhone kamu yang aslinya dari luar negeri,
+69	Yang kedua, kalau iPhone kamu bekas, ada kemungkinan untuk mod seri regen iPhone kamu yang aslinya dari luar negeri,
+70	Yang kedua, kalau iPhone kamu bekas, ada kemungkinan untuk mod seri regen iPhone kamu yang aslinya dari luar negeri,
+71	Yang kedua, kalau iPhone kamu bekas, ada kemungkinan untuk mod seri regen iPhone kamu yang aslinya dari luar negeri,
+72	Yang kedua, kalau iPhone kamu bekas, ada kemungkinan untuk mod seri regen iPhone kamu yang aslinya dari luar negeri,
+73	Yang kedua, kalau iPhone kamu bekas, ada kemungkinan untuk mod seri regen iPhone kamu yang aslinya dari luar negeri,
+74	Yang kedua, kalau iPhone kamu bekas, ada kemungkinan untuk mod seri regen iPhone kamu yang aslinya dari luar negeri,
+75	Yang kedua, kalau iPhone kamu bekas, ada kemungkinan untuk mod seri regen iPhone kamu yang aslinya dari luar negeri,
+76	Yang kedua, kalau iPhone kamu bekas, ada kemungkinan untuk mod seri regen iPhone kamu yang aslinya dari luar negeri,
+77	Yang kedua, kalau iPhone kamu bekas, ada kemungkinan untuk mod seri regen iPhone kamu yang aslinya dari luar negeri,
+78	Yang kedua, kalau iPhone kamu bekas, ada kemungkinan untuk mod seri regen iPhone kamu yang aslinya dari luar negeri, lalu diubah kodenya seolah seri Indonesia.
+79	Yang kedua, kalau iPhone kamu bekas, ada kemungkinan untuk mod seri regen iPhone kamu yang aslinya dari luar negeri, lalu diubah kodenya seolah seri Indonesia.
+80	lalu diubah kodenya seolah seri Indonesia.
+81	lalu diubah kodenya seolah seri Indonesia.
+82	lalu diubah kodenya seolah seri Indonesia.
+83	lalu diubah kodenya seolah seri Indonesia. Dan yang terakhir adalah IMEI kamu dipakai atau diinjek ke device lain.
+84	Dan yang terakhir adalah IMEI kamu dipakai atau diinjek ke device lain.
+85	Dan yang terakhir adalah IMEI kamu dipakai atau diinjek ke device lain.
+86	Dan yang terakhir adalah IMEI kamu dipakai atau diinjek ke device lain.
+87	Dan yang terakhir adalah IMEI kamu dipakai atau diinjek ke device lain.
+88	Dan yang terakhir adalah IMEI kamu dipakai atau diinjek ke device lain.
+89	Dan yang terakhir adalah IMEI kamu dipakai atau diinjek ke device lain. Ini kenapa penting untuk jaga data privasi kamu, termasuk IMEI, karena bisa saja data kamu disalahgunakan oleh orang lain.
+90	Dan yang terakhir adalah IMEI kamu dipakai atau diinjek ke device lain. Ini kenapa penting untuk jaga data privasi kamu, termasuk IMEI, karena bisa saja data kamu disalahgunakan oleh orang lain.
+91	Ini kenapa penting untuk jaga data privasi kamu, termasuk IMEI, karena bisa saja data kamu disalahgunakan oleh orang lain.
+92	Ini kenapa penting untuk jaga data privasi kamu, termasuk IMEI, karena bisa saja data kamu disalahgunakan oleh orang lain.
+93	Ini kenapa penting untuk jaga data privasi kamu, termasuk IMEI, karena bisa saja data kamu disalahgunakan oleh orang lain.
+94	Ini kenapa penting untuk jaga data privasi kamu, termasuk IMEI, karena bisa saja data kamu disalahgunakan oleh orang lain.
+95	Ini kenapa penting untuk jaga data privasi kamu, termasuk IMEI, karena bisa saja data kamu disalahgunakan oleh orang lain.
+96	Ini kenapa penting untuk jaga data privasi kamu, termasuk IMEI, karena bisa saja data kamu disalahgunakan oleh orang lain.
+97	Ini kenapa penting untuk jaga data privasi kamu, termasuk IMEI, karena bisa saja data kamu disalahgunakan oleh orang lain.
+98	Ini kenapa penting untuk jaga data privasi kamu, termasuk IMEI, karena bisa saja data kamu disalahgunakan oleh orang lain.
+99	Ini kenapa penting untuk jaga data privasi kamu, termasuk IMEI, karena bisa saja data kamu disalahgunakan oleh orang lain.
+100	Ini kenapa penting untuk jaga data privasi kamu, termasuk IMEI, karena bisa saja data kamu disalahgunakan oleh orang lain.
+101	Ini kenapa penting untuk jaga data privasi kamu, termasuk IMEI, karena bisa saja data kamu disalahgunakan oleh orang lain.
+102	Ini kenapa penting untuk jaga data privasi kamu, termasuk IMEI, karena bisa saja data kamu disalahgunakan oleh orang lain. Di luar hal tadi, iPhone resmi Indo jelas aman dari blokir IMEI.
+103	Ini kenapa penting untuk jaga data privasi kamu, termasuk IMEI, karena bisa saja data kamu disalahgunakan oleh orang lain. Di luar hal tadi, iPhone resmi Indo jelas aman dari blokir IMEI.
+104	Di luar hal tadi, iPhone resmi Indo jelas aman dari blokir IMEI.
+105	Di luar hal tadi, iPhone resmi Indo jelas aman dari blokir IMEI.
+106	Di luar hal tadi, iPhone resmi Indo jelas aman dari blokir IMEI.
+107	Di luar hal tadi, iPhone resmi Indo jelas aman dari blokir IMEI.
+108	Di luar hal tadi, iPhone resmi Indo jelas aman dari blokir IMEI.
+109	Di luar hal tadi, iPhone resmi Indo jelas aman dari blokir IMEI.
+110	Di luar hal tadi, iPhone resmi Indo jelas aman dari blokir IMEI. So, nggak usah takut ya.
+111	Di luar hal tadi, iPhone resmi Indo jelas aman dari blokir IMEI. So, nggak usah takut ya.
+112	So, nggak usah takut ya.
+113	So, nggak usah takut ya. Silahkan follow Berto Informasi.
+114	So, nggak usah takut ya. Silahkan follow Berto Informasi.
+115	Silahkan follow Berto Informasi.
+116	Silahkan follow Berto Informasi. Lebih seperti...
+117	Silahkan follow Berto Informasi. Lebih seperti...
+118	Lebih seperti...
+119	Lebih seperti...

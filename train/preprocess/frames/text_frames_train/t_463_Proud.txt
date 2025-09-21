@@ -1,0 +1,156 @@
+0	Ini jadwal latihan full body workout di rumah, Unitoris.
+1	Ini jadwal latihan full body workout di rumah, Unitoris.
+2	Ini jadwal latihan full body workout di rumah, Unitoris.
+3	Ini jadwal latihan full body workout di rumah, Unitoris.
+4	Ini jadwal latihan full body workout di rumah, Unitoris.
+5	Ini jadwal latihan full body workout di rumah, Unitoris. Untuk workout ini kita hanya butuh 2 botol air dan 1 handuk.
+6	Ini jadwal latihan full body workout di rumah, Unitoris. Untuk workout ini kita hanya butuh 2 botol air dan 1 handuk.
+7	Untuk workout ini kita hanya butuh 2 botol air dan 1 handuk.
+8	Untuk workout ini kita hanya butuh 2 botol air dan 1 handuk.
+9	Untuk workout ini kita hanya butuh 2 botol air dan 1 handuk.
+10	Untuk workout ini kita hanya butuh 2 botol air dan 1 handuk.
+11	Untuk workout ini kita hanya butuh 2 botol air dan 1 handuk.
+12	Untuk workout ini kita hanya butuh 2 botol air dan 1 handuk. Hari pertama dimulai dengan gerakan squats yang fokus ke tubuh banyang bawah,
+13	Untuk workout ini kita hanya butuh 2 botol air dan 1 handuk. Hari pertama dimulai dengan gerakan squats yang fokus ke tubuh banyang bawah,
+14	Hari pertama dimulai dengan gerakan squats yang fokus ke tubuh banyang bawah,
+15	Hari pertama dimulai dengan gerakan squats yang fokus ke tubuh banyang bawah,
+16	Hari pertama dimulai dengan gerakan squats yang fokus ke tubuh banyang bawah,
+17	Hari pertama dimulai dengan gerakan squats yang fokus ke tubuh banyang bawah,
+18	Hari pertama dimulai dengan gerakan squats yang fokus ke tubuh banyang bawah,
+19	Hari pertama dimulai dengan gerakan squats yang fokus ke tubuh banyang bawah, lalu push up untuk otot dada, bahu, dan triceps.
+20	Hari pertama dimulai dengan gerakan squats yang fokus ke tubuh banyang bawah, lalu push up untuk otot dada, bahu, dan triceps.
+21	Hari pertama dimulai dengan gerakan squats yang fokus ke tubuh banyang bawah, lalu push up untuk otot dada, bahu, dan triceps.
+22	lalu push up untuk otot dada, bahu, dan triceps.
+23	lalu push up untuk otot dada, bahu, dan triceps.
+24	lalu push up untuk otot dada, bahu, dan triceps.
+25	lalu push up untuk otot dada, bahu, dan triceps. Next, superman dengan handuk yang targetkan otot back,
+26	lalu push up untuk otot dada, bahu, dan triceps. Next, superman dengan handuk yang targetkan otot back,
+27	Next, superman dengan handuk yang targetkan otot back,
+28	Next, superman dengan handuk yang targetkan otot back,
+29	Next, superman dengan handuk yang targetkan otot back,
+30	Next, superman dengan handuk yang targetkan otot back,
+31	Next, superman dengan handuk yang targetkan otot back, selanjutnya side raises untuk isolasi bahu bagian samping,
+32	Next, superman dengan handuk yang targetkan otot back, selanjutnya side raises untuk isolasi bahu bagian samping,
+33	selanjutnya side raises untuk isolasi bahu bagian samping,
+34	selanjutnya side raises untuk isolasi bahu bagian samping,
+35	selanjutnya side raises untuk isolasi bahu bagian samping,
+36	selanjutnya side raises untuk isolasi bahu bagian samping,
+37	selanjutnya side raises untuk isolasi bahu bagian samping,
+38	selanjutnya side raises untuk isolasi bahu bagian samping, lalu gerakan curls untuk otot biceps,
+39	selanjutnya side raises untuk isolasi bahu bagian samping, lalu gerakan curls untuk otot biceps,
+40	lalu gerakan curls untuk otot biceps,
+41	lalu gerakan curls untuk otot biceps,
+42	lalu gerakan curls untuk otot biceps,
+43	lalu gerakan curls untuk otot biceps, dan hari pertama ditutup dengan knee raises untuk menguatkan otot put.
+44	lalu gerakan curls untuk otot biceps, dan hari pertama ditutup dengan knee raises untuk menguatkan otot put.
+45	dan hari pertama ditutup dengan knee raises untuk menguatkan otot put.
+46	dan hari pertama ditutup dengan knee raises untuk menguatkan otot put.
+47	dan hari pertama ditutup dengan knee raises untuk menguatkan otot put.
+48	dan hari pertama ditutup dengan knee raises untuk menguatkan otot put.
+49	dan hari pertama ditutup dengan knee raises untuk menguatkan otot put.
+50	dan hari pertama ditutup dengan knee raises untuk menguatkan otot put.
+51	dan hari pertama ditutup dengan knee raises untuk menguatkan otot put. Hari kedua dimulai dengan gerakan lunges yang melatih otot kaki,
+52	Hari kedua dimulai dengan gerakan lunges yang melatih otot kaki,
+53	Hari kedua dimulai dengan gerakan lunges yang melatih otot kaki,
+54	Hari kedua dimulai dengan gerakan lunges yang melatih otot kaki,
+55	Hari kedua dimulai dengan gerakan lunges yang melatih otot kaki,
+56	Hari kedua dimulai dengan gerakan lunges yang melatih otot kaki,
+57	Hari kedua dimulai dengan gerakan lunges yang melatih otot kaki,
+58	Hari kedua dimulai dengan gerakan lunges yang melatih otot kaki,
+59	Hari kedua dimulai dengan gerakan lunges yang melatih otot kaki,
+60	[NO_SPEECH]
+61	next, closed grip push up yang lebih dominant di otot triceps,
+62	next, closed grip push up yang lebih dominant di otot triceps,
+63	next, closed grip push up yang lebih dominant di otot triceps,
+64	next, closed grip push up yang lebih dominant di otot triceps,
+65	next, closed grip push up yang lebih dominant di otot triceps,
+66	next, closed grip push up yang lebih dominant di otot triceps,
+67	next, closed grip push up yang lebih dominant di otot triceps,
+68	next, closed grip push up yang lebih dominant di otot triceps,
+69	next, closed grip push up yang lebih dominant di otot triceps, lalu single reverse flyes untuk bahu bagian belakang,
+70	next, closed grip push up yang lebih dominant di otot triceps, lalu single reverse flyes untuk bahu bagian belakang,
+71	lalu single reverse flyes untuk bahu bagian belakang,
+72	lalu single reverse flyes untuk bahu bagian belakang,
+73	lalu single reverse flyes untuk bahu bagian belakang,
+74	lalu single reverse flyes untuk bahu bagian belakang,
+75	lalu single reverse flyes untuk bahu bagian belakang,
+76	lalu single reverse flyes untuk bahu bagian belakang,
+77	wide squats untuk otot kaki dan glutes,
+78	wide squats untuk otot kaki dan glutes,
+79	wide squats untuk otot kaki dan glutes,
+80	wide squats untuk otot kaki dan glutes,
+81	wide squats untuk otot kaki dan glutes,
+82	wide squats untuk otot kaki dan glutes,
+83	wide squats untuk otot kaki dan glutes,
+84	[NO_SPEECH]
+85	[NO_SPEECH]
+86	selanjutnya triceps overhead extension yang melatih otot triceps,
+87	selanjutnya triceps overhead extension yang melatih otot triceps,
+88	selanjutnya triceps overhead extension yang melatih otot triceps,
+89	selanjutnya triceps overhead extension yang melatih otot triceps,
+90	selanjutnya triceps overhead extension yang melatih otot triceps,
+91	selanjutnya triceps overhead extension yang melatih otot triceps,
+92	selanjutnya triceps overhead extension yang melatih otot triceps,
+93	selanjutnya triceps overhead extension yang melatih otot triceps,
+94	selanjutnya triceps overhead extension yang melatih otot triceps, dan hari kedua ditutup dengan plank.
+95	selanjutnya triceps overhead extension yang melatih otot triceps, dan hari kedua ditutup dengan plank.
+96	dan hari kedua ditutup dengan plank.
+97	dan hari kedua ditutup dengan plank.
+98	dan hari kedua ditutup dengan plank.
+99	dan hari kedua ditutup dengan plank.
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	Hari ketiga dimulai dengan side lunges yang fokus ke otot kaki,
+103	Hari ketiga dimulai dengan side lunges yang fokus ke otot kaki,
+104	Hari ketiga dimulai dengan side lunges yang fokus ke otot kaki,
+105	Hari ketiga dimulai dengan side lunges yang fokus ke otot kaki,
+106	Hari ketiga dimulai dengan side lunges yang fokus ke otot kaki,
+107	Hari ketiga dimulai dengan side lunges yang fokus ke otot kaki,
+108	Hari ketiga dimulai dengan side lunges yang fokus ke otot kaki,
+109	Hari ketiga dimulai dengan side lunges yang fokus ke otot kaki,
+110	[NO_SPEECH]
+111	next, wide grip push up yang lebih dominant di otot dada,
+112	next, wide grip push up yang lebih dominant di otot dada,
+113	next, wide grip push up yang lebih dominant di otot dada,
+114	next, wide grip push up yang lebih dominant di otot dada,
+115	next, wide grip push up yang lebih dominant di otot dada,
+116	next, wide grip push up yang lebih dominant di otot dada,
+117	next, wide grip push up yang lebih dominant di otot dada,
+118	next, wide grip push up yang lebih dominant di otot dada, behind the neck superman untuk otot back,
+119	behind the neck superman untuk otot back,
+120	behind the neck superman untuk otot back,
+121	behind the neck superman untuk otot back,
+122	behind the neck superman untuk otot back,
+123	behind the neck superman untuk otot back,
+124	behind the neck superman untuk otot back, shoulder press untuk bahu bagian depan,
+125	shoulder press untuk bahu bagian depan,
+126	shoulder press untuk bahu bagian depan,
+127	shoulder press untuk bahu bagian depan,
+128	shoulder press untuk bahu bagian depan,
+129	shoulder press untuk bahu bagian depan,
+130	shoulder press untuk bahu bagian depan,
+131	reverse flyes yang targetkan bahu bagian belakang,
+132	reverse flyes yang targetkan bahu bagian belakang,
+133	reverse flyes yang targetkan bahu bagian belakang,
+134	reverse flyes yang targetkan bahu bagian belakang,
+135	reverse flyes yang targetkan bahu bagian belakang,
+136	reverse flyes yang targetkan bahu bagian belakang,
+137	reverse flyes yang targetkan bahu bagian belakang, dan hari ketiga ditutup dengan reverse lunges untuk otot kaki.
+138	reverse flyes yang targetkan bahu bagian belakang, dan hari ketiga ditutup dengan reverse lunges untuk otot kaki.
+139	dan hari ketiga ditutup dengan reverse lunges untuk otot kaki.
+140	dan hari ketiga ditutup dengan reverse lunges untuk otot kaki.
+141	dan hari ketiga ditutup dengan reverse lunges untuk otot kaki.
+142	dan hari ketiga ditutup dengan reverse lunges untuk otot kaki.
+143	dan hari ketiga ditutup dengan reverse lunges untuk otot kaki.
+144	dan hari ketiga ditutup dengan reverse lunges untuk otot kaki. Jadwal latihan lengkap ada di caption, so check it out.
+145	dan hari ketiga ditutup dengan reverse lunges untuk otot kaki. Jadwal latihan lengkap ada di caption, so check it out.
+146	Jadwal latihan lengkap ada di caption, so check it out.
+147	Jadwal latihan lengkap ada di caption, so check it out.
+148	Jadwal latihan lengkap ada di caption, so check it out.
+149	Jadwal latihan lengkap ada di caption, so check it out.
+150	Jadwal latihan lengkap ada di caption, so check it out.
+151	Terima kasih.
+152	Terima kasih. Terima kasih.
+153	Terima kasih. Terima kasih. Terima kasih.
+154	Terima kasih. Terima kasih.
+155	Terima kasih.

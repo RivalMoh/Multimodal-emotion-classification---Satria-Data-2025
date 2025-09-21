@@ -1,0 +1,137 @@
+0	Ini dia, Polytron G3 Series.
+1	Ini dia, Polytron G3 Series.
+2	Ini dia, Polytron G3 Series. Kalau yang ini sih, varian G3 Plus ya.
+3	Ini dia, Polytron G3 Series. Kalau yang ini sih, varian G3 Plus ya.
+4	Kalau yang ini sih, varian G3 Plus ya.
+5	Kalau yang ini sih, varian G3 Plus ya.
+6	Kalau yang ini sih, varian G3 Plus ya.
+7	Kalau yang ini sih, varian G3 Plus ya. Mobil listrik pertama dari Polytron.
+8	Mobil listrik pertama dari Polytron.
+9	Mobil listrik pertama dari Polytron.
+10	Mobil listrik pertama dari Polytron.
+11	Mobil listrik pertama dari Polytron.
+12	Mobil listrik pertama dari Polytron. Atau ini mobil listrik Indonesia yang pertama?
+13	Atau ini mobil listrik Indonesia yang pertama?
+14	Atau ini mobil listrik Indonesia yang pertama?
+15	Atau ini mobil listrik Indonesia yang pertama?
+16	Atau ini mobil listrik Indonesia yang pertama?
+17	Atau ini mobil listrik Indonesia yang pertama?
+18	Atau ini mobil listrik Indonesia yang pertama? Yaudah lah, yang jelas mobil ini canggih banget.
+19	Yaudah lah, yang jelas mobil ini canggih banget.
+20	Yaudah lah, yang jelas mobil ini canggih banget.
+21	Yaudah lah, yang jelas mobil ini canggih banget.
+22	Yaudah lah, yang jelas mobil ini canggih banget.
+23	Yaudah lah, yang jelas mobil ini canggih banget. Fungsi ADAS-nya ada 21.
+24	Yaudah lah, yang jelas mobil ini canggih banget. Fungsi ADAS-nya ada 21.
+25	Fungsi ADAS-nya ada 21.
+26	Fungsi ADAS-nya ada 21.
+27	Fungsi ADAS-nya ada 21.
+28	Fungsi ADAS-nya ada 21. Banyak banget, ini udah level 2 ya.
+29	Banyak banget, ini udah level 2 ya.
+30	Banyak banget, ini udah level 2 ya.
+31	Banyak banget, ini udah level 2 ya.
+32	Banyak banget, ini udah level 2 ya. Bahkan mobil ini sudah bisa parkir sendiri.
+33	Banyak banget, ini udah level 2 ya. Bahkan mobil ini sudah bisa parkir sendiri.
+34	Bahkan mobil ini sudah bisa parkir sendiri.
+35	Bahkan mobil ini sudah bisa parkir sendiri.
+36	Bahkan mobil ini sudah bisa parkir sendiri.
+37	Bahkan mobil ini sudah bisa parkir sendiri. Untuk keamanan, airbag-nya ada 6.
+38	Bahkan mobil ini sudah bisa parkir sendiri. Untuk keamanan, airbag-nya ada 6.
+39	Untuk keamanan, airbag-nya ada 6.
+40	Untuk keamanan, airbag-nya ada 6.
+41	Untuk keamanan, airbag-nya ada 6.
+42	Untuk keamanan, airbag-nya ada 6. Mobil ini bisa di-remote dari jarak jauh.
+43	Untuk keamanan, airbag-nya ada 6. Mobil ini bisa di-remote dari jarak jauh.
+44	Mobil ini bisa di-remote dari jarak jauh.
+45	Mobil ini bisa di-remote dari jarak jauh.
+46	Mobil ini bisa di-remote dari jarak jauh. Tentunya, compatible dengan Android Auto dan Apple CarPlay secara wireless.
+47	Mobil ini bisa di-remote dari jarak jauh. Tentunya, compatible dengan Android Auto dan Apple CarPlay secara wireless.
+48	Tentunya, compatible dengan Android Auto dan Apple CarPlay secara wireless.
+49	Tentunya, compatible dengan Android Auto dan Apple CarPlay secara wireless.
+50	Tentunya, compatible dengan Android Auto dan Apple CarPlay secara wireless.
+51	Tentunya, compatible dengan Android Auto dan Apple CarPlay secara wireless.
+52	Tentunya, compatible dengan Android Auto dan Apple CarPlay secara wireless.
+53	Tentunya, compatible dengan Android Auto dan Apple CarPlay secara wireless.
+54	Tentunya, compatible dengan Android Auto dan Apple CarPlay secara wireless. Kalau kamera 360, pasti ada di mobil ini.
+55	Tentunya, compatible dengan Android Auto dan Apple CarPlay secara wireless. Kalau kamera 360, pasti ada di mobil ini.
+56	Kalau kamera 360, pasti ada di mobil ini.
+57	Kalau kamera 360, pasti ada di mobil ini.
+58	Kalau kamera 360, pasti ada di mobil ini.
+59	Kalau kamera 360, pasti ada di mobil ini. Butuh charging, nggak perlu nyari USB atau colokan lighter.
+60	Kalau kamera 360, pasti ada di mobil ini. Butuh charging, nggak perlu nyari USB atau colokan lighter.
+61	Butuh charging, nggak perlu nyari USB atau colokan lighter.
+62	Butuh charging, nggak perlu nyari USB atau colokan lighter.
+63	Butuh charging, nggak perlu nyari USB atau colokan lighter.
+64	Butuh charging, nggak perlu nyari USB atau colokan lighter. Colokan listrik seperti di rumah pun ada di sini.
+65	Butuh charging, nggak perlu nyari USB atau colokan lighter. Colokan listrik seperti di rumah pun ada di sini.
+66	Colokan listrik seperti di rumah pun ada di sini.
+67	Colokan listrik seperti di rumah pun ada di sini.
+68	Colokan listrik seperti di rumah pun ada di sini.
+69	Colokan listrik seperti di rumah pun ada di sini. Mungkin mau pasang setrika atau masak dengan rice cooker?
+70	Colokan listrik seperti di rumah pun ada di sini. Mungkin mau pasang setrika atau masak dengan rice cooker?
+71	Mungkin mau pasang setrika atau masak dengan rice cooker?
+72	Mungkin mau pasang setrika atau masak dengan rice cooker?
+73	Mungkin mau pasang setrika atau masak dengan rice cooker?
+74	Mungkin mau pasang setrika atau masak dengan rice cooker? Mobil 5-seater ini juga berpenampilan keren.
+75	Mobil 5-seater ini juga berpenampilan keren.
+76	Mobil 5-seater ini juga berpenampilan keren.
+77	Mobil 5-seater ini juga berpenampilan keren.
+78	Mobil 5-seater ini juga berpenampilan keren.
+79	Mobil 5-seater ini juga berpenampilan keren.
+80	Mobil 5-seater ini juga berpenampilan keren. Lekukannya modern.
+81	Mobil 5-seater ini juga berpenampilan keren. Lekukannya modern.
+82	Lekukannya modern.
+83	Lekukannya modern. Lampu-lampunya hampir semua LED.
+84	Lampu-lampunya hampir semua LED.
+85	Lampu-lampunya hampir semua LED.
+86	Lampu-lampunya hampir semua LED.
+87	Lampu-lampunya hampir semua LED.
+88	Lampu-lampunya hampir semua LED. Velg-nya ada 20 inci untuk varian G3 Plus.
+89	Velg-nya ada 20 inci untuk varian G3 Plus.
+90	Velg-nya ada 20 inci untuk varian G3 Plus.
+91	Velg-nya ada 20 inci untuk varian G3 Plus.
+92	Velg-nya ada 20 inci untuk varian G3 Plus. Sementara yang G3, tetap besar velg-nya, 19 inci.
+93	Velg-nya ada 20 inci untuk varian G3 Plus. Sementara yang G3, tetap besar velg-nya, 19 inci.
+94	Sementara yang G3, tetap besar velg-nya, 19 inci.
+95	Sementara yang G3, tetap besar velg-nya, 19 inci.
+96	Sementara yang G3, tetap besar velg-nya, 19 inci.
+97	Sementara yang G3, tetap besar velg-nya, 19 inci.
+98	Sementara yang G3, tetap besar velg-nya, 19 inci.
+99	Sementara yang G3, tetap besar velg-nya, 19 inci. Sunroof juga pakai yang panoramik untuk varian G3 Plus.
+100	Sementara yang G3, tetap besar velg-nya, 19 inci. Sunroof juga pakai yang panoramik untuk varian G3 Plus.
+101	Sunroof juga pakai yang panoramik untuk varian G3 Plus.
+102	Sunroof juga pakai yang panoramik untuk varian G3 Plus.
+103	Sunroof juga pakai yang panoramik untuk varian G3 Plus.
+104	Sunroof juga pakai yang panoramik untuk varian G3 Plus.
+105	Sunroof juga pakai yang panoramik untuk varian G3 Plus. Motor power 150 kW, jarak tempuh sekali charge sampai 402 km.
+106	Sunroof juga pakai yang panoramik untuk varian G3 Plus. Motor power 150 kW, jarak tempuh sekali charge sampai 402 km.
+107	Motor power 150 kW, jarak tempuh sekali charge sampai 402 km.
+108	Motor power 150 kW, jarak tempuh sekali charge sampai 402 km.
+109	Motor power 150 kW, jarak tempuh sekali charge sampai 402 km.
+110	Motor power 150 kW, jarak tempuh sekali charge sampai 402 km.
+111	Motor power 150 kW, jarak tempuh sekali charge sampai 402 km.
+112	Motor power 150 kW, jarak tempuh sekali charge sampai 402 km.
+113	Motor power 150 kW, jarak tempuh sekali charge sampai 402 km.
+114	Motor power 150 kW, jarak tempuh sekali charge sampai 402 km. Untuk harganya, varian G3 dijual mulai dari Rp 299 juta.
+115	Untuk harganya, varian G3 dijual mulai dari Rp 299 juta.
+116	Untuk harganya, varian G3 dijual mulai dari Rp 299 juta.
+117	Untuk harganya, varian G3 dijual mulai dari Rp 299 juta.
+118	Untuk harganya, varian G3 dijual mulai dari Rp 299 juta.
+119	Untuk harganya, varian G3 dijual mulai dari Rp 299 juta.
+120	Untuk harganya, varian G3 dijual mulai dari Rp 299 juta.
+121	Untuk harganya, varian G3 dijual mulai dari Rp 299 juta.
+122	Untuk harganya, varian G3 dijual mulai dari Rp 299 juta.
+123	Untuk harganya, varian G3 dijual mulai dari Rp 299 juta. Sampai ada jaminan pembelian kembali sebelum 3 tahun.
+124	Sampai ada jaminan pembelian kembali sebelum 3 tahun.
+125	Sampai ada jaminan pembelian kembali sebelum 3 tahun.
+126	Sampai ada jaminan pembelian kembali sebelum 3 tahun.
+127	Sampai ada jaminan pembelian kembali sebelum 3 tahun.
+128	Sampai ada jaminan pembelian kembali sebelum 3 tahun. 70% dari harga baru.
+129	Sampai ada jaminan pembelian kembali sebelum 3 tahun. 70% dari harga baru.
+130	70% dari harga baru.
+131	70% dari harga baru.
+132	70% dari harga baru.
+133	70% dari harga baru. Jadi,
+134	70% dari harga baru. Jadi, BABAK 3 SELESAI
+135	Jadi, BABAK 3 SELESAI
+136	BABAK 3 SELESAI

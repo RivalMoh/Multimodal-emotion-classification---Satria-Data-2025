@@ -1,0 +1,111 @@
+0	Bang kenapa ya monitor tanpa di packing kayu itu 11 kilo dihitung
+1	Bang kenapa ya monitor tanpa di packing kayu itu 11 kilo dihitung
+2	Bang kenapa ya monitor tanpa di packing kayu itu 11 kilo dihitung
+3	Bang kenapa ya monitor tanpa di packing kayu itu 11 kilo dihitung
+4	Bang kenapa ya monitor tanpa di packing kayu itu 11 kilo dihitung
+5	Bang kenapa ya monitor tanpa di packing kayu itu 11 kilo dihitung
+6	Bang kenapa ya monitor tanpa di packing kayu itu 11 kilo dihitung Tapi pas packing kayu dihitungnya jadi 30 kilo
+7	Bang kenapa ya monitor tanpa di packing kayu itu 11 kilo dihitung Tapi pas packing kayu dihitungnya jadi 30 kilo
+8	Tapi pas packing kayu dihitungnya jadi 30 kilo
+9	Tapi pas packing kayu dihitungnya jadi 30 kilo
+10	Tapi pas packing kayu dihitungnya jadi 30 kilo
+11	Tapi pas packing kayu dihitungnya jadi 30 kilo Hmm lu harus tau beli monitor di online itu selalu dihitungnya volume
+12	Tapi pas packing kayu dihitungnya jadi 30 kilo Hmm lu harus tau beli monitor di online itu selalu dihitungnya volume
+13	Hmm lu harus tau beli monitor di online itu selalu dihitungnya volume
+14	Hmm lu harus tau beli monitor di online itu selalu dihitungnya volume
+15	Hmm lu harus tau beli monitor di online itu selalu dihitungnya volume
+16	Hmm lu harus tau beli monitor di online itu selalu dihitungnya volume
+17	Hmm lu harus tau beli monitor di online itu selalu dihitungnya volume
+18	Hmm lu harus tau beli monitor di online itu selalu dihitungnya volume
+19	Hmm lu harus tau beli monitor di online itu selalu dihitungnya volume
+20	Hmm lu harus tau beli monitor di online itu selalu dihitungnya volume Gak pernah berat monitore sendiri
+21	Hmm lu harus tau beli monitor di online itu selalu dihitungnya volume Gak pernah berat monitore sendiri
+22	Gak pernah berat monitore sendiri
+23	Gak pernah berat monitore sendiri
+24	Gak pernah berat monitore sendiri Ya karena berat volumenya kebanyakan selalu lebih besar dibanding berat monitor aslinya
+25	Gak pernah berat monitore sendiri Ya karena berat volumenya kebanyakan selalu lebih besar dibanding berat monitor aslinya
+26	Ya karena berat volumenya kebanyakan selalu lebih besar dibanding berat monitor aslinya
+27	Ya karena berat volumenya kebanyakan selalu lebih besar dibanding berat monitor aslinya
+28	Ya karena berat volumenya kebanyakan selalu lebih besar dibanding berat monitor aslinya
+29	Ya karena berat volumenya kebanyakan selalu lebih besar dibanding berat monitor aslinya
+30	Ya karena berat volumenya kebanyakan selalu lebih besar dibanding berat monitor aslinya
+31	Ya karena berat volumenya kebanyakan selalu lebih besar dibanding berat monitor aslinya
+32	Ya karena berat volumenya kebanyakan selalu lebih besar dibanding berat monitor aslinya
+33	Ya karena berat volumenya kebanyakan selalu lebih besar dibanding berat monitor aslinya
+34	Ya karena berat volumenya kebanyakan selalu lebih besar dibanding berat monitor aslinya
+35	Ya karena berat volumenya kebanyakan selalu lebih besar dibanding berat monitor aslinya
+36	Ya karena berat volumenya kebanyakan selalu lebih besar dibanding berat monitor aslinya
+37	Ya karena berat volumenya kebanyakan selalu lebih besar dibanding berat monitor aslinya
+38	Ya karena berat volumenya kebanyakan selalu lebih besar dibanding berat monitor aslinya Ya ekspedisi gak mau rugi
+39	Ya karena berat volumenya kebanyakan selalu lebih besar dibanding berat monitor aslinya Ya ekspedisi gak mau rugi
+40	Ya ekspedisi gak mau rugi Pasti hitung volume
+41	Ya ekspedisi gak mau rugi Pasti hitung volume
+42	Pasti hitung volume Biasa perhitungan volume itu P x L x T dibagi 6 ribu hasilnya dapet lah kilogramnya
+43	Pasti hitung volume Biasa perhitungan volume itu P x L x T dibagi 6 ribu hasilnya dapet lah kilogramnya
+44	Biasa perhitungan volume itu P x L x T dibagi 6 ribu hasilnya dapet lah kilogramnya
+45	Biasa perhitungan volume itu P x L x T dibagi 6 ribu hasilnya dapet lah kilogramnya
+46	Biasa perhitungan volume itu P x L x T dibagi 6 ribu hasilnya dapet lah kilogramnya
+47	Biasa perhitungan volume itu P x L x T dibagi 6 ribu hasilnya dapet lah kilogramnya
+48	Biasa perhitungan volume itu P x L x T dibagi 6 ribu hasilnya dapet lah kilogramnya
+49	Biasa perhitungan volume itu P x L x T dibagi 6 ribu hasilnya dapet lah kilogramnya
+50	Biasa perhitungan volume itu P x L x T dibagi 6 ribu hasilnya dapet lah kilogramnya
+51	Biasa perhitungan volume itu P x L x T dibagi 6 ribu hasilnya dapet lah kilogramnya
+52	Biasa perhitungan volume itu P x L x T dibagi 6 ribu hasilnya dapet lah kilogramnya
+53	Biasa perhitungan volume itu P x L x T dibagi 6 ribu hasilnya dapet lah kilogramnya
+54	Biasa perhitungan volume itu P x L x T dibagi 6 ribu hasilnya dapet lah kilogramnya Gue kasih contohnya disini
+55	Biasa perhitungan volume itu P x L x T dibagi 6 ribu hasilnya dapet lah kilogramnya Gue kasih contohnya disini
+56	Gue kasih contohnya disini Buat packing kayu sendiri yang gue tau sih dari JNE ya
+57	Gue kasih contohnya disini Buat packing kayu sendiri yang gue tau sih dari JNE ya
+58	Buat packing kayu sendiri yang gue tau sih dari JNE ya
+59	Buat packing kayu sendiri yang gue tau sih dari JNE ya
+60	Buat packing kayu sendiri yang gue tau sih dari JNE ya
+61	Buat packing kayu sendiri yang gue tau sih dari JNE ya
+62	Buat packing kayu sendiri yang gue tau sih dari JNE ya Hitungan JNE itu perkalian PLT nya tetep sama cuma ada tambahan ukuran
+63	Buat packing kayu sendiri yang gue tau sih dari JNE ya Hitungan JNE itu perkalian PLT nya tetep sama cuma ada tambahan ukuran
+64	Hitungan JNE itu perkalian PLT nya tetep sama cuma ada tambahan ukuran
+65	Hitungan JNE itu perkalian PLT nya tetep sama cuma ada tambahan ukuran
+66	Hitungan JNE itu perkalian PLT nya tetep sama cuma ada tambahan ukuran
+67	Hitungan JNE itu perkalian PLT nya tetep sama cuma ada tambahan ukuran
+68	Hitungan JNE itu perkalian PLT nya tetep sama cuma ada tambahan ukuran
+69	Hitungan JNE itu perkalian PLT nya tetep sama cuma ada tambahan ukuran
+70	Hitungan JNE itu perkalian PLT nya tetep sama cuma ada tambahan ukuran
+71	Hitungan JNE itu perkalian PLT nya tetep sama cuma ada tambahan ukuran
+72	Hitungan JNE itu perkalian PLT nya tetep sama cuma ada tambahan ukuran Panjang tambah 13 cm, lebar tambah 5 cm, tinggi tambah 5 cm
+73	Hitungan JNE itu perkalian PLT nya tetep sama cuma ada tambahan ukuran Panjang tambah 13 cm, lebar tambah 5 cm, tinggi tambah 5 cm
+74	Panjang tambah 13 cm, lebar tambah 5 cm, tinggi tambah 5 cm
+75	Panjang tambah 13 cm, lebar tambah 5 cm, tinggi tambah 5 cm
+76	Panjang tambah 13 cm, lebar tambah 5 cm, tinggi tambah 5 cm
+77	Panjang tambah 13 cm, lebar tambah 5 cm, tinggi tambah 5 cm
+78	Panjang tambah 13 cm, lebar tambah 5 cm, tinggi tambah 5 cm
+79	Panjang tambah 13 cm, lebar tambah 5 cm, tinggi tambah 5 cm
+80	Panjang tambah 13 cm, lebar tambah 5 cm, tinggi tambah 5 cm
+81	Panjang tambah 13 cm, lebar tambah 5 cm, tinggi tambah 5 cm Dikaliin ketiganya barulah lu bagi 6 ribu
+82	Panjang tambah 13 cm, lebar tambah 5 cm, tinggi tambah 5 cm Dikaliin ketiganya barulah lu bagi 6 ribu
+83	Dikaliin ketiganya barulah lu bagi 6 ribu
+84	Dikaliin ketiganya barulah lu bagi 6 ribu
+85	Dikaliin ketiganya barulah lu bagi 6 ribu
+86	Dikaliin ketiganya barulah lu bagi 6 ribu
+87	Dikaliin ketiganya barulah lu bagi 6 ribu Dan dengan tau hitungan kayak gitu lu bisa tau toko tempat lu beli monitor mainin beratnya atau enggak
+88	Dikaliin ketiganya barulah lu bagi 6 ribu Dan dengan tau hitungan kayak gitu lu bisa tau toko tempat lu beli monitor mainin beratnya atau enggak
+89	Dan dengan tau hitungan kayak gitu lu bisa tau toko tempat lu beli monitor mainin beratnya atau enggak
+90	Dan dengan tau hitungan kayak gitu lu bisa tau toko tempat lu beli monitor mainin beratnya atau enggak
+91	Dan dengan tau hitungan kayak gitu lu bisa tau toko tempat lu beli monitor mainin beratnya atau enggak
+92	Dan dengan tau hitungan kayak gitu lu bisa tau toko tempat lu beli monitor mainin beratnya atau enggak
+93	Dan dengan tau hitungan kayak gitu lu bisa tau toko tempat lu beli monitor mainin beratnya atau enggak
+94	Dan dengan tau hitungan kayak gitu lu bisa tau toko tempat lu beli monitor mainin beratnya atau enggak
+95	Dan dengan tau hitungan kayak gitu lu bisa tau toko tempat lu beli monitor mainin beratnya atau enggak
+96	Dan dengan tau hitungan kayak gitu lu bisa tau toko tempat lu beli monitor mainin beratnya atau enggak
+97	Dan dengan tau hitungan kayak gitu lu bisa tau toko tempat lu beli monitor mainin beratnya atau enggak
+98	Dan dengan tau hitungan kayak gitu lu bisa tau toko tempat lu beli monitor mainin beratnya atau enggak
+99	Dan dengan tau hitungan kayak gitu lu bisa tau toko tempat lu beli monitor mainin beratnya atau enggak
+100	Dan dengan tau hitungan kayak gitu lu bisa tau toko tempat lu beli monitor mainin beratnya atau enggak Dan lu bisa top up game kesukaan lu di GT Day Top Up
+101	Dan dengan tau hitungan kayak gitu lu bisa tau toko tempat lu beli monitor mainin beratnya atau enggak Dan lu bisa top up game kesukaan lu di GT Day Top Up
+102	Dan lu bisa top up game kesukaan lu di GT Day Top Up
+103	Dan lu bisa top up game kesukaan lu di GT Day Top Up
+104	Dan lu bisa top up game kesukaan lu di GT Day Top Up
+105	Dan lu bisa top up game kesukaan lu di GT Day Top Up
+106	Dan lu bisa top up game kesukaan lu di GT Day Top Up
+107	Dan lu bisa top up game kesukaan lu di GT Day Top Up
+108	Dan lu bisa top up game kesukaan lu di GT Day Top Up
+109	[NO_SPEECH]
+110	[NO_SPEECH]

@@ -1,0 +1,253 @@
+0	Udah sekitar 2 bulan ini, sampah organik di rumah kita olah pake ini.
+1	Udah sekitar 2 bulan ini, sampah organik di rumah kita olah pake ini.
+2	Udah sekitar 2 bulan ini, sampah organik di rumah kita olah pake ini.
+3	Udah sekitar 2 bulan ini, sampah organik di rumah kita olah pake ini.
+4	Udah sekitar 2 bulan ini, sampah organik di rumah kita olah pake ini.
+5	Udah sekitar 2 bulan ini, sampah organik di rumah kita olah pake ini.
+6	Udah sekitar 2 bulan ini, sampah organik di rumah kita olah pake ini.
+7	Udah sekitar 2 bulan ini, sampah organik di rumah kita olah pake ini.
+8	Udah sekitar 2 bulan ini, sampah organik di rumah kita olah pake ini. Ini namanya Compost It.
+9	Udah sekitar 2 bulan ini, sampah organik di rumah kita olah pake ini. Ini namanya Compost It.
+10	Ini namanya Compost It.
+11	Ini namanya Compost It.
+12	Ini namanya Compost It. Jadi dia adalah alat penggiling sampah organik.
+13	Ini namanya Compost It. Jadi dia adalah alat penggiling sampah organik.
+14	Jadi dia adalah alat penggiling sampah organik.
+15	Jadi dia adalah alat penggiling sampah organik.
+16	Jadi dia adalah alat penggiling sampah organik.
+17	Jadi dia adalah alat penggiling sampah organik.
+18	Jadi dia adalah alat penggiling sampah organik. Dan nanti hasilnya jadi kering.
+19	Jadi dia adalah alat penggiling sampah organik. Dan nanti hasilnya jadi kering.
+20	Dan nanti hasilnya jadi kering.
+21	Dan nanti hasilnya jadi kering.
+22	Dan nanti hasilnya jadi kering. Bekas buah, bekas nasi, even sampe tulang-tulang ya.
+23	Dan nanti hasilnya jadi kering. Bekas buah, bekas nasi, even sampe tulang-tulang ya.
+24	Bekas buah, bekas nasi, even sampe tulang-tulang ya.
+25	Bekas buah, bekas nasi, even sampe tulang-tulang ya.
+26	Bekas buah, bekas nasi, even sampe tulang-tulang ya.
+27	Bekas buah, bekas nasi, even sampe tulang-tulang ya.
+28	Bekas buah, bekas nasi, even sampe tulang-tulang ya.
+29	Bekas buah, bekas nasi, even sampe tulang-tulang ya.
+30	Bekas buah, bekas nasi, even sampe tulang-tulang ya. Tapi kalo tulang yang gede masih dipecahin dulu.
+31	Bekas buah, bekas nasi, even sampe tulang-tulang ya. Tapi kalo tulang yang gede masih dipecahin dulu.
+32	Tapi kalo tulang yang gede masih dipecahin dulu.
+33	Tapi kalo tulang yang gede masih dipecahin dulu.
+34	Tapi kalo tulang yang gede masih dipecahin dulu.
+35	Tapi kalo tulang yang gede masih dipecahin dulu. Terus nanti disini akan digiling, kemudian nanti akan dikeringkan.
+36	Terus nanti disini akan digiling, kemudian nanti akan dikeringkan.
+37	Terus nanti disini akan digiling, kemudian nanti akan dikeringkan.
+38	Terus nanti disini akan digiling, kemudian nanti akan dikeringkan.
+39	Terus nanti disini akan digiling, kemudian nanti akan dikeringkan.
+40	Terus nanti disini akan digiling, kemudian nanti akan dikeringkan.
+41	Terus nanti disini akan digiling, kemudian nanti akan dikeringkan.
+42	Terus nanti disini akan digiling, kemudian nanti akan dikeringkan.
+43	Terus nanti disini akan digiling, kemudian nanti akan dikeringkan. Dan hasilnya itu gak ada bau dan gak mengundang lalat atau serangga dan macem-macem ya.
+44	Terus nanti disini akan digiling, kemudian nanti akan dikeringkan. Dan hasilnya itu gak ada bau dan gak mengundang lalat atau serangga dan macem-macem ya.
+45	Dan hasilnya itu gak ada bau dan gak mengundang lalat atau serangga dan macem-macem ya.
+46	Dan hasilnya itu gak ada bau dan gak mengundang lalat atau serangga dan macem-macem ya.
+47	Dan hasilnya itu gak ada bau dan gak mengundang lalat atau serangga dan macem-macem ya.
+48	Dan hasilnya itu gak ada bau dan gak mengundang lalat atau serangga dan macem-macem ya.
+49	Dan hasilnya itu gak ada bau dan gak mengundang lalat atau serangga dan macem-macem ya.
+50	Dan hasilnya itu gak ada bau dan gak mengundang lalat atau serangga dan macem-macem ya.
+51	Dan hasilnya itu gak ada bau dan gak mengundang lalat atau serangga dan macem-macem ya.
+52	Dan hasilnya itu gak ada bau dan gak mengundang lalat atau serangga dan macem-macem ya. Bisa dijadikan rumput kompos atau media tanam secara instan.
+53	Dan hasilnya itu gak ada bau dan gak mengundang lalat atau serangga dan macem-macem ya. Bisa dijadikan rumput kompos atau media tanam secara instan.
+54	Bisa dijadikan rumput kompos atau media tanam secara instan.
+55	Bisa dijadikan rumput kompos atau media tanam secara instan.
+56	Bisa dijadikan rumput kompos atau media tanam secara instan.
+57	Bisa dijadikan rumput kompos atau media tanam secara instan.
+58	Bisa dijadikan rumput kompos atau media tanam secara instan.
+59	Bisa dijadikan rumput kompos atau media tanam secara instan. Gak perlu ditunggu lama pembusukan dan kawan-kawan apalagi dimasukin jadi biopori.
+60	Bisa dijadikan rumput kompos atau media tanam secara instan. Gak perlu ditunggu lama pembusukan dan kawan-kawan apalagi dimasukin jadi biopori.
+61	Gak perlu ditunggu lama pembusukan dan kawan-kawan apalagi dimasukin jadi biopori.
+62	Gak perlu ditunggu lama pembusukan dan kawan-kawan apalagi dimasukin jadi biopori.
+63	Gak perlu ditunggu lama pembusukan dan kawan-kawan apalagi dimasukin jadi biopori.
+64	Gak perlu ditunggu lama pembusukan dan kawan-kawan apalagi dimasukin jadi biopori.
+65	Gak perlu ditunggu lama pembusukan dan kawan-kawan apalagi dimasukin jadi biopori.
+66	Gak perlu ditunggu lama pembusukan dan kawan-kawan apalagi dimasukin jadi biopori.
+67	Gak perlu ditunggu lama pembusukan dan kawan-kawan apalagi dimasukin jadi biopori.
+68	Gak perlu ditunggu lama pembusukan dan kawan-kawan apalagi dimasukin jadi biopori. Ini bener-bener instan.
+69	Gak perlu ditunggu lama pembusukan dan kawan-kawan apalagi dimasukin jadi biopori. Ini bener-bener instan.
+70	Ini bener-bener instan.
+71	Ini bener-bener instan.
+72	Ini bener-bener instan. Caranya gampang banget.
+73	Ini bener-bener instan. Caranya gampang banget.
+74	Caranya gampang banget. Kalo kita punya sampah, langsung aja dimasukin kesini.
+75	Caranya gampang banget. Kalo kita punya sampah, langsung aja dimasukin kesini.
+76	Kalo kita punya sampah, langsung aja dimasukin kesini.
+77	Kalo kita punya sampah, langsung aja dimasukin kesini.
+78	Kalo kita punya sampah, langsung aja dimasukin kesini.
+79	Kalo kita punya sampah, langsung aja dimasukin kesini. Nih kita tunjukin caranya.
+80	Kalo kita punya sampah, langsung aja dimasukin kesini. Nih kita tunjukin caranya.
+81	Nih kita tunjukin caranya.
+82	Nih kita tunjukin caranya. Ini pertama ada sampah sisa tulang ayam.
+83	Nih kita tunjukin caranya. Ini pertama ada sampah sisa tulang ayam.
+84	Ini pertama ada sampah sisa tulang ayam.
+85	Ini pertama ada sampah sisa tulang ayam.
+86	Ini pertama ada sampah sisa tulang ayam.
+87	Ini pertama ada sampah sisa tulang ayam.
+88	Ini pertama ada sampah sisa tulang ayam.
+89	Ini pertama ada sampah sisa tulang ayam. Eh, bau.
+90	Eh, bau.
+91	Eh, bau.
+92	Eh, bau. Kemudian ada sisa bekas bikin jus pake slow juicer ya.
+93	Kemudian ada sisa bekas bikin jus pake slow juicer ya.
+94	Kemudian ada sisa bekas bikin jus pake slow juicer ya.
+95	Kemudian ada sisa bekas bikin jus pake slow juicer ya.
+96	Kemudian ada sisa bekas bikin jus pake slow juicer ya.
+97	Kemudian ada sisa bekas bikin jus pake slow juicer ya.
+98	Kemudian ada sisa bekas bikin jus pake slow juicer ya.
+99	Kemudian ada sisa bekas bikin jus pake slow juicer ya.
+100	Kemudian ada sisa bekas bikin jus pake slow juicer ya. Ini ada kulit jeruk, sisa bekas matoa, bekas anggur.
+101	Kemudian ada sisa bekas bikin jus pake slow juicer ya. Ini ada kulit jeruk, sisa bekas matoa, bekas anggur.
+102	Ini ada kulit jeruk, sisa bekas matoa, bekas anggur.
+103	Ini ada kulit jeruk, sisa bekas matoa, bekas anggur.
+104	Ini ada kulit jeruk, sisa bekas matoa, bekas anggur.
+105	Ini ada kulit jeruk, sisa bekas matoa, bekas anggur.
+106	Ini ada kulit jeruk, sisa bekas matoa, bekas anggur.
+107	Ini ada kulit jeruk, sisa bekas matoa, bekas anggur.
+108	Ini ada kulit jeruk, sisa bekas matoa, bekas anggur.
+109	Ini ada kulit jeruk, sisa bekas matoa, bekas anggur. Wow.
+110	Ini ada kulit jeruk, sisa bekas matoa, bekas anggur. Wow. Wow. Langsung kita masukin saja.
+111	Wow. Wow. Langsung kita masukin saja.
+112	Langsung kita masukin saja.
+113	Langsung kita masukin saja.
+114	Langsung kita masukin saja.
+115	[NO_SPEECH]
+116	[NO_SPEECH]
+117	[NO_SPEECH]
+118	[NO_SPEECH]
+119	[NO_SPEECH]
+120	Sekarang kita langsung tutup aja.
+121	Sekarang kita langsung tutup aja.
+122	Sekarang kita langsung tutup aja.
+123	Sekarang kita langsung tutup aja. Set.
+124	Sekarang kita langsung tutup aja. Set.
+125	Set. Wah, langsung otomatis nyala.
+126	Wah, langsung otomatis nyala.
+127	Wah, langsung otomatis nyala.
+128	Wah, langsung otomatis nyala. Oke, kita pencet aja on off-nya.
+129	Oke, kita pencet aja on off-nya.
+130	Oke, kita pencet aja on off-nya.
+131	Oke, kita pencet aja on off-nya. Dia akan langsung ngegiling.
+132	Oke, kita pencet aja on off-nya. Dia akan langsung ngegiling.
+133	Dia akan langsung ngegiling.
+134	Dia akan langsung ngegiling.
+135	Dia akan langsung ngegiling.
+136	[NO_SPEECH]
+137	[NO_SPEECH]
+138	Nah, sekarang udah jadi di hari berikutnya.
+139	Nah, sekarang udah jadi di hari berikutnya.
+140	Nah, sekarang udah jadi di hari berikutnya.
+141	Nah, sekarang udah jadi di hari berikutnya.
+142	Nah, sekarang udah jadi di hari berikutnya.
+143	Nah, sekarang udah jadi di hari berikutnya.
+144	Nah, sekarang udah jadi di hari berikutnya.
+145	Nah, sekarang udah jadi di hari berikutnya. Ini dia hasilnya jadi kayak gini.
+146	Ini dia hasilnya jadi kayak gini.
+147	Ini dia hasilnya jadi kayak gini.
+148	Ini dia hasilnya jadi kayak gini.
+149	Ini dia hasilnya jadi kayak gini. Jadi dia tuh hasilnya kering, gak berbau, dan baunya pun juga bau kayak jerami ya.
+150	Ini dia hasilnya jadi kayak gini. Jadi dia tuh hasilnya kering, gak berbau, dan baunya pun juga bau kayak jerami ya.
+151	Jadi dia tuh hasilnya kering, gak berbau, dan baunya pun juga bau kayak jerami ya.
+152	Jadi dia tuh hasilnya kering, gak berbau, dan baunya pun juga bau kayak jerami ya.
+153	Jadi dia tuh hasilnya kering, gak berbau, dan baunya pun juga bau kayak jerami ya.
+154	Jadi dia tuh hasilnya kering, gak berbau, dan baunya pun juga bau kayak jerami ya.
+155	Jadi dia tuh hasilnya kering, gak berbau, dan baunya pun juga bau kayak jerami ya.
+156	Jadi dia tuh hasilnya kering, gak berbau, dan baunya pun juga bau kayak jerami ya.
+157	Jadi dia tuh hasilnya kering, gak berbau, dan baunya pun juga bau kayak jerami ya.
+158	Jadi dia tuh hasilnya kering, gak berbau, dan baunya pun juga bau kayak jerami ya.
+159	Jadi dia tuh hasilnya kering, gak berbau, dan baunya pun juga bau kayak jerami ya.
+160	Jadi dia tuh hasilnya kering, gak berbau, dan baunya pun juga bau kayak jerami ya.
+161	Jadi dia tuh hasilnya kering, gak berbau, dan baunya pun juga bau kayak jerami ya. Kita bisa langsung pake ini buat media tanam, buat pupuk kompos.
+162	Jadi dia tuh hasilnya kering, gak berbau, dan baunya pun juga bau kayak jerami ya. Kita bisa langsung pake ini buat media tanam, buat pupuk kompos.
+163	Kita bisa langsung pake ini buat media tanam, buat pupuk kompos.
+164	Kita bisa langsung pake ini buat media tanam, buat pupuk kompos.
+165	Kita bisa langsung pake ini buat media tanam, buat pupuk kompos.
+166	Kita bisa langsung pake ini buat media tanam, buat pupuk kompos.
+167	Kita bisa langsung pake ini buat media tanam, buat pupuk kompos.
+168	Kita bisa langsung pake ini buat media tanam, buat pupuk kompos.
+169	Kita bisa langsung pake ini buat media tanam, buat pupuk kompos.
+170	Kita bisa langsung pake ini buat media tanam, buat pupuk kompos. Tanpa bau, dan yang paling penting adalah kalau kita sebar di tanah,
+171	Tanpa bau, dan yang paling penting adalah kalau kita sebar di tanah,
+172	Tanpa bau, dan yang paling penting adalah kalau kita sebar di tanah,
+173	Tanpa bau, dan yang paling penting adalah kalau kita sebar di tanah,
+174	Tanpa bau, dan yang paling penting adalah kalau kita sebar di tanah,
+175	Tanpa bau, dan yang paling penting adalah kalau kita sebar di tanah,
+176	Tanpa bau, dan yang paling penting adalah kalau kita sebar di tanah,
+177	Tanpa bau, dan yang paling penting adalah kalau kita sebar di tanah, dia tuh gak bikin lalet, apalagi sampai ada belatungnya.
+178	Tanpa bau, dan yang paling penting adalah kalau kita sebar di tanah, dia tuh gak bikin lalet, apalagi sampai ada belatungnya.
+179	dia tuh gak bikin lalet, apalagi sampai ada belatungnya.
+180	dia tuh gak bikin lalet, apalagi sampai ada belatungnya.
+181	dia tuh gak bikin lalet, apalagi sampai ada belatungnya.
+182	dia tuh gak bikin lalet, apalagi sampai ada belatungnya.
+183	dia tuh gak bikin lalet, apalagi sampai ada belatungnya.
+184	dia tuh gak bikin lalet, apalagi sampai ada belatungnya.
+185	dia tuh gak bikin lalet, apalagi sampai ada belatungnya. Kalau gue biasanya dijadiin pupuk buat pohon, buat tanaman, sama buat kandang ayam.
+186	dia tuh gak bikin lalet, apalagi sampai ada belatungnya. Kalau gue biasanya dijadiin pupuk buat pohon, buat tanaman, sama buat kandang ayam.
+187	Kalau gue biasanya dijadiin pupuk buat pohon, buat tanaman, sama buat kandang ayam.
+188	Kalau gue biasanya dijadiin pupuk buat pohon, buat tanaman, sama buat kandang ayam.
+189	Kalau gue biasanya dijadiin pupuk buat pohon, buat tanaman, sama buat kandang ayam.
+190	Kalau gue biasanya dijadiin pupuk buat pohon, buat tanaman, sama buat kandang ayam.
+191	Kalau gue biasanya dijadiin pupuk buat pohon, buat tanaman, sama buat kandang ayam.
+192	Kalau gue biasanya dijadiin pupuk buat pohon, buat tanaman, sama buat kandang ayam.
+193	Kalau gue biasanya dijadiin pupuk buat pohon, buat tanaman, sama buat kandang ayam.
+194	Kalau gue biasanya dijadiin pupuk buat pohon, buat tanaman, sama buat kandang ayam.
+195	Kalau gue biasanya dijadiin pupuk buat pohon, buat tanaman, sama buat kandang ayam.
+196	Kalau gue biasanya dijadiin pupuk buat pohon, buat tanaman, sama buat kandang ayam. Biar dia ada cakaran-cakarannya di bagian bawah.
+197	Kalau gue biasanya dijadiin pupuk buat pohon, buat tanaman, sama buat kandang ayam. Biar dia ada cakaran-cakarannya di bagian bawah.
+198	Biar dia ada cakaran-cakarannya di bagian bawah.
+199	Biar dia ada cakaran-cakarannya di bagian bawah.
+200	Biar dia ada cakaran-cakarannya di bagian bawah.
+201	Biar dia ada cakaran-cakarannya di bagian bawah. Jadi mudah kan?
+202	Biar dia ada cakaran-cakarannya di bagian bawah. Jadi mudah kan?
+203	Jadi mudah kan? Buat temen-temen yang punya sampah organik di rumah, pengen diolah sendiri,
+204	Jadi mudah kan? Buat temen-temen yang punya sampah organik di rumah, pengen diolah sendiri,
+205	Buat temen-temen yang punya sampah organik di rumah, pengen diolah sendiri,
+206	Buat temen-temen yang punya sampah organik di rumah, pengen diolah sendiri,
+207	Buat temen-temen yang punya sampah organik di rumah, pengen diolah sendiri,
+208	Buat temen-temen yang punya sampah organik di rumah, pengen diolah sendiri,
+209	Buat temen-temen yang punya sampah organik di rumah, pengen diolah sendiri,
+210	Buat temen-temen yang punya sampah organik di rumah, pengen diolah sendiri,
+211	Buat temen-temen yang punya sampah organik di rumah, pengen diolah sendiri,
+212	bisa dapet nilai tambah dari pupuk organik atau media tanamnya,
+213	bisa dapet nilai tambah dari pupuk organik atau media tanamnya,
+214	bisa dapet nilai tambah dari pupuk organik atau media tanamnya,
+215	bisa dapet nilai tambah dari pupuk organik atau media tanamnya,
+216	bisa dapet nilai tambah dari pupuk organik atau media tanamnya,
+217	bisa dapet nilai tambah dari pupuk organik atau media tanamnya,
+218	bisa dapet nilai tambah dari pupuk organik atau media tanamnya,
+219	bisa dapet nilai tambah dari pupuk organik atau media tanamnya, bisa langsung beli komposit aja.
+220	bisa dapet nilai tambah dari pupuk organik atau media tanamnya, bisa langsung beli komposit aja.
+221	bisa langsung beli komposit aja.
+222	bisa langsung beli komposit aja.
+223	bisa langsung beli komposit aja. Buat temen-temen yang pengen coba juga,
+224	bisa langsung beli komposit aja. Buat temen-temen yang pengen coba juga,
+225	Buat temen-temen yang pengen coba juga,
+226	Buat temen-temen yang pengen coba juga,
+227	Buat temen-temen yang pengen coba juga, bisa langsung beli komposit aja.
+228	Buat temen-temen yang pengen coba juga, bisa langsung beli komposit aja.
+229	bisa langsung beli komposit aja.
+230	bisa langsung beli komposit aja.
+231	bisa langsung beli komposit aja. Jadi sampah organik dari rumah kalian, itu gak langsung dibuang.
+232	Jadi sampah organik dari rumah kalian, itu gak langsung dibuang.
+233	Jadi sampah organik dari rumah kalian, itu gak langsung dibuang.
+234	Jadi sampah organik dari rumah kalian, itu gak langsung dibuang.
+235	Jadi sampah organik dari rumah kalian, itu gak langsung dibuang.
+236	Jadi sampah organik dari rumah kalian, itu gak langsung dibuang.
+237	Jadi sampah organik dari rumah kalian, itu gak langsung dibuang.
+238	Jadi sampah organik dari rumah kalian, itu gak langsung dibuang. Kita olah lagi, biar bisa lebih bermanfaat, dan tentunya saja ramah lingkungan.
+239	Jadi sampah organik dari rumah kalian, itu gak langsung dibuang. Kita olah lagi, biar bisa lebih bermanfaat, dan tentunya saja ramah lingkungan.
+240	Kita olah lagi, biar bisa lebih bermanfaat, dan tentunya saja ramah lingkungan.
+241	Kita olah lagi, biar bisa lebih bermanfaat, dan tentunya saja ramah lingkungan.
+242	Kita olah lagi, biar bisa lebih bermanfaat, dan tentunya saja ramah lingkungan.
+243	Kita olah lagi, biar bisa lebih bermanfaat, dan tentunya saja ramah lingkungan.
+244	Kita olah lagi, biar bisa lebih bermanfaat, dan tentunya saja ramah lingkungan.
+245	Kita olah lagi, biar bisa lebih bermanfaat, dan tentunya saja ramah lingkungan.
+246	Kita olah lagi, biar bisa lebih bermanfaat, dan tentunya saja ramah lingkungan.
+247	Kita olah lagi, biar bisa lebih bermanfaat, dan tentunya saja ramah lingkungan.
+248	Kita olah lagi, biar bisa lebih bermanfaat, dan tentunya saja ramah lingkungan.
+249	Kita olah lagi, biar bisa lebih bermanfaat, dan tentunya saja ramah lingkungan. Gas!
+250	Kita olah lagi, biar bisa lebih bermanfaat, dan tentunya saja ramah lingkungan. Gas!
+251	Gas!
+252	[NO_SPEECH]

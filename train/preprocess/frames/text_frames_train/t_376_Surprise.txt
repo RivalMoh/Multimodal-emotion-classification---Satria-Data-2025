@@ -1,0 +1,149 @@
+0	Pengen liburan pake mobil listrik?
+1	Pengen liburan pake mobil listrik?
+2	Pengen liburan pake mobil listrik? Pastiin 3 hal ini ada di mobil kalian.
+3	Pengen liburan pake mobil listrik? Pastiin 3 hal ini ada di mobil kalian.
+4	Pastiin 3 hal ini ada di mobil kalian.
+5	Pastiin 3 hal ini ada di mobil kalian.
+6	Pastiin 3 hal ini ada di mobil kalian.
+7	Pastiin 3 hal ini ada di mobil kalian. Aish, konten mulu. Ayo jalan.
+8	Pastiin 3 hal ini ada di mobil kalian. Aish, konten mulu. Ayo jalan.
+9	Aish, konten mulu. Ayo jalan.
+10	Aish, konten mulu. Ayo jalan.
+11	Aish, konten mulu. Ayo jalan.
+12	Aish, konten mulu. Ayo jalan.
+13	Pertama, pastiin mobil kalian punya adas dan harus komplit.
+14	Pertama, pastiin mobil kalian punya adas dan harus komplit.
+15	Pertama, pastiin mobil kalian punya adas dan harus komplit.
+16	Pertama, pastiin mobil kalian punya adas dan harus komplit.
+17	Pertama, pastiin mobil kalian punya adas dan harus komplit.
+18	Pertama, pastiin mobil kalian punya adas dan harus komplit.
+19	Pertama, pastiin mobil kalian punya adas dan harus komplit.
+20	Pertama, pastiin mobil kalian punya adas dan harus komplit. Buat apa?
+21	Pertama, pastiin mobil kalian punya adas dan harus komplit. Buat apa?
+22	Buat apa? Buat nemenin kalian biar terus aman di jalan.
+23	Buat apa? Buat nemenin kalian biar terus aman di jalan.
+24	Buat nemenin kalian biar terus aman di jalan.
+25	Buat nemenin kalian biar terus aman di jalan.
+26	Buat nemenin kalian biar terus aman di jalan.
+27	Buat nemenin kalian biar terus aman di jalan.
+28	Buat nemenin kalian biar terus aman di jalan. Terutama kalau temen seperjalanan kalian gak tau diri kayak begini.
+29	Buat nemenin kalian biar terus aman di jalan. Terutama kalau temen seperjalanan kalian gak tau diri kayak begini.
+30	Terutama kalau temen seperjalanan kalian gak tau diri kayak begini.
+31	Terutama kalau temen seperjalanan kalian gak tau diri kayak begini.
+32	Terutama kalau temen seperjalanan kalian gak tau diri kayak begini.
+33	Terutama kalau temen seperjalanan kalian gak tau diri kayak begini.
+34	Terutama kalau temen seperjalanan kalian gak tau diri kayak begini.
+35	Terutama kalau temen seperjalanan kalian gak tau diri kayak begini.
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	Kedua, fitur entertainmentnya harus komplit.
+39	Kedua, fitur entertainmentnya harus komplit.
+40	Kedua, fitur entertainmentnya harus komplit.
+41	Kedua, fitur entertainmentnya harus komplit.
+42	Kedua, fitur entertainmentnya harus komplit.
+43	Kedua, fitur entertainmentnya harus komplit.
+44	Kedua, fitur entertainmentnya harus komplit. Layar gede, ada wireless charger, dan konektivitas Android Auto, Apple CarPlay, dan masih banyak lagi.
+45	Layar gede, ada wireless charger, dan konektivitas Android Auto, Apple CarPlay, dan masih banyak lagi.
+46	Layar gede, ada wireless charger, dan konektivitas Android Auto, Apple CarPlay, dan masih banyak lagi.
+47	Layar gede, ada wireless charger, dan konektivitas Android Auto, Apple CarPlay, dan masih banyak lagi.
+48	Layar gede, ada wireless charger, dan konektivitas Android Auto, Apple CarPlay, dan masih banyak lagi.
+49	Layar gede, ada wireless charger, dan konektivitas Android Auto, Apple CarPlay, dan masih banyak lagi.
+50	Layar gede, ada wireless charger, dan konektivitas Android Auto, Apple CarPlay, dan masih banyak lagi.
+51	Layar gede, ada wireless charger, dan konektivitas Android Auto, Apple CarPlay, dan masih banyak lagi.
+52	Layar gede, ada wireless charger, dan konektivitas Android Auto, Apple CarPlay, dan masih banyak lagi.
+53	Layar gede, ada wireless charger, dan konektivitas Android Auto, Apple CarPlay, dan masih banyak lagi.
+54	Layar gede, ada wireless charger, dan konektivitas Android Auto, Apple CarPlay, dan masih banyak lagi.
+55	Layar gede, ada wireless charger, dan konektivitas Android Auto, Apple CarPlay, dan masih banyak lagi. Buat apa?
+56	Layar gede, ada wireless charger, dan konektivitas Android Auto, Apple CarPlay, dan masih banyak lagi. Buat apa?
+57	Buat apa? Buat ngalahin perhatian kalau temen kalian bos senang.
+58	Buat apa? Buat ngalahin perhatian kalau temen kalian bos senang.
+59	Buat ngalahin perhatian kalau temen kalian bos senang.
+60	Buat ngalahin perhatian kalau temen kalian bos senang.
+61	Buat ngalahin perhatian kalau temen kalian bos senang.
+62	Buat ngalahin perhatian kalau temen kalian bos senang.
+63	Buat ngalahin perhatian kalau temen kalian bos senang.
+64	Buat ngalahin perhatian kalau temen kalian bos senang.
+65	Buat ngalahin perhatian kalau temen kalian bos senang.
+66	[NO_SPEECH]
+67	[NO_SPEECH]
+68	[NO_SPEECH]
+69	[NO_SPEECH]
+70	[NO_SPEECH]
+71	[NO_SPEECH]
+72	[NO_SPEECH]
+73	[NO_SPEECH]
+74	[NO_SPEECH]
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	[NO_SPEECH]
+83	[NO_SPEECH]
+84	[NO_SPEECH]
+85	[NO_SPEECH]
+86	[NO_SPEECH]
+87	[NO_SPEECH]
+88	[NO_SPEECH]
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	Yang ketiga, jarang tempunya harus jauh, port universal, dan bisa fast charging.
+95	Yang ketiga, jarang tempunya harus jauh, port universal, dan bisa fast charging.
+96	Yang ketiga, jarang tempunya harus jauh, port universal, dan bisa fast charging.
+97	Yang ketiga, jarang tempunya harus jauh, port universal, dan bisa fast charging.
+98	Yang ketiga, jarang tempunya harus jauh, port universal, dan bisa fast charging.
+99	Yang ketiga, jarang tempunya harus jauh, port universal, dan bisa fast charging.
+100	Yang ketiga, jarang tempunya harus jauh, port universal, dan bisa fast charging.
+101	Yang ketiga, jarang tempunya harus jauh, port universal, dan bisa fast charging.
+102	Yang ketiga, jarang tempunya harus jauh, port universal, dan bisa fast charging.
+103	Yang ketiga, jarang tempunya harus jauh, port universal, dan bisa fast charging.
+104	Yang ketiga, jarang tempunya harus jauh, port universal, dan bisa fast charging. Biar apa?
+105	Yang ketiga, jarang tempunya harus jauh, port universal, dan bisa fast charging. Biar apa?
+106	Biar apa? Biar kita bisa pergi jauh cepet-cepet.
+107	Biar kita bisa pergi jauh cepet-cepet.
+108	Biar kita bisa pergi jauh cepet-cepet.
+109	Biar kita bisa pergi jauh cepet-cepet.
+110	Biar kita bisa pergi jauh cepet-cepet.
+111	Biar kita bisa pergi jauh cepet-cepet. Terutama kalau kita pengen ninggalin temen yang kayak tadi.
+112	Terutama kalau kita pengen ninggalin temen yang kayak tadi.
+113	Terutama kalau kita pengen ninggalin temen yang kayak tadi.
+114	Terutama kalau kita pengen ninggalin temen yang kayak tadi.
+115	Terutama kalau kita pengen ninggalin temen yang kayak tadi.
+116	Terutama kalau kita pengen ninggalin temen yang kayak tadi.
+117	Cabut yuk!
+118	Cabut yuk!
+119	Cabut yuk!
+120	Cabut yuk!
+121	[NO_SPEECH]
+122	[NO_SPEECH]
+123	Eh, julusan mana?
+124	Eh, julusan mana?
+125	Eh, julusan mana?
+126	Eh, julusan mana?
+127	Bukannya ngecas mobil listrik?
+128	Bukannya ngecas mobil listrik?
+129	Bukannya ngecas mobil listrik? Lama ya?
+130	Bukannya ngecas mobil listrik? Lama ya?
+131	Lama ya? Ya elah perkara dah.
+132	Lama ya? Ya elah perkara dah.
+133	Ya elah perkara dah.
+134	Ya elah perkara dah.
+135	Ya elah perkara dah.
+136	[NO_SPEECH]
+137	[NO_SPEECH]
+138	[NO_SPEECH]
+139	[NO_SPEECH]
+140	[NO_SPEECH]
+141	[NO_SPEECH]
+142	[NO_SPEECH]
+143	[NO_SPEECH]
+144	[NO_SPEECH]
+145	[NO_SPEECH]
+146	[NO_SPEECH]
+147	[NO_SPEECH]
+148	[NO_SPEECH]

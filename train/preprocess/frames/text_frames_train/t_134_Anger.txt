@@ -1,0 +1,151 @@
+0	Dapet? Jadi dia 4 piala? Iya, tapi kan ini semua udah dapet.
+1	Dapet? Jadi dia 4 piala? Iya, tapi kan ini semua udah dapet.
+2	Iya, tapi kan ini semua udah dapet.
+3	Iya, tapi kan ini semua udah dapet.
+4	Iya, tapi kan ini semua udah dapet.
+5	Iya, tapi kan ini semua udah dapet. Maksudnya?
+6	Maksudnya? Ya kalau begitu si Xtobel juga muda.
+7	Maksudnya? Ya kalau begitu si Xtobel juga muda.
+8	Ya kalau begitu si Xtobel juga muda.
+9	Ya kalau begitu si Xtobel juga muda.
+10	Ya kalau begitu si Xtobel juga muda.
+11	Kok muda gila kau ya?
+12	Kok muda gila kau ya?
+13	Kok muda gila kau ya?
+14	Kok muda gila kau ya?
+15	Kok muda gila kau ya?
+16	Kok muda gila kau ya?
+17	Basi!
+18	Basi! Lo kok basi?
+19	Lo kok basi?
+20	Lo kok basi?
+21	Lo kok basi?
+22	Tim kau tuh pernah ke seri B loh.
+23	Tim kau tuh pernah ke seri B loh.
+24	Tim kau tuh pernah ke seri B loh.
+25	Tim kau tuh pernah ke seri B loh.
+26	Tim kau tuh pernah ke seri B loh. Ini tuh 2011-2012.
+27	Ini tuh 2011-2012.
+28	Ini tuh 2011-2012.
+29	Ini tuh 2011-2012.
+30	Ini tuh 2011-2012.
+31	Ini tuh 2011-2012. Ini yang dia ke seri B tahun berapa?
+32	Ini tuh 2011-2012. Ini yang dia ke seri B tahun berapa?
+33	Ini yang dia ke seri B tahun berapa?
+34	Ini yang dia ke seri B tahun berapa?
+35	Ini yang dia ke seri B tahun berapa?
+36	Ini yang dia ke seri B tahun berapa?
+37	Ini yang dia ke seri B tahun berapa? Oke.
+38	Ini yang dia ke seri B tahun berapa? Oke. Emang Milan gak dipotong poin?
+39	Oke. Emang Milan gak dipotong poin?
+40	Emang Milan gak dipotong poin?
+41	Emang Milan gak dipotong poin? Ya tapi gak sampai ke seri B.
+42	Emang Milan gak dipotong poin? Ya tapi gak sampai ke seri B.
+43	Ya tapi gak sampai ke seri B.
+44	Ya tapi gak sampai ke seri B.
+45	Ya tapi gak sampai ke seri B. Terpuruk dalam waktu yang lama.
+46	Terpuruk dalam waktu yang lama.
+47	Terpuruk dalam waktu yang lama.
+48	Terpuruk dalam waktu yang lama. Tapi cuma ada satu tim yang terpuruknya gak lama.
+49	Terpuruk dalam waktu yang lama. Tapi cuma ada satu tim yang terpuruknya gak lama.
+50	Tapi cuma ada satu tim yang terpuruknya gak lama.
+51	Tapi cuma ada satu tim yang terpuruknya gak lama.
+52	Tapi cuma ada satu tim yang terpuruknya gak lama.
+53	Tapi cuma ada satu tim yang terpuruknya gak lama.
+54	Tapi cuma ada satu tim yang terpuruknya gak lama. Dia bisa kembali comeback.
+55	Tapi cuma ada satu tim yang terpuruknya gak lama. Dia bisa kembali comeback.
+56	Dia bisa kembali comeback.
+57	Dia bisa kembali comeback. Yaitu cuma Real Madrid.
+58	Dia bisa kembali comeback. Yaitu cuma Real Madrid.
+59	Yaitu cuma Real Madrid.
+60	Yaitu cuma Real Madrid. Setuju gak?
+61	Setuju gak? Itu betul kata Ogi.
+62	Setuju gak? Itu betul kata Ogi.
+63	Itu betul kata Ogi.
+64	Itu betul kata Ogi.
+65	Itu betul kata Ogi. Saya tidak ada masalah dengan pendapat dia.
+66	Itu betul kata Ogi. Saya tidak ada masalah dengan pendapat dia.
+67	Saya tidak ada masalah dengan pendapat dia.
+68	Saya tidak ada masalah dengan pendapat dia.
+69	Saya tidak ada masalah dengan pendapat dia.
+70	Saya tidak ada masalah dengan pendapat dia. Saya masalah.
+71	Saya masalah.
+72	Saya masalah. Hari ini saya juga tidak ada masalah dengan personal dia.
+73	Saya masalah. Hari ini saya juga tidak ada masalah dengan personal dia.
+74	Hari ini saya juga tidak ada masalah dengan personal dia.
+75	Hari ini saya juga tidak ada masalah dengan personal dia.
+76	Hari ini saya juga tidak ada masalah dengan personal dia.
+77	Hari ini saya juga tidak ada masalah dengan personal dia.
+78	Hari ini saya juga tidak ada masalah dengan personal dia. Saya masalah dengan jersey dia.
+79	Saya masalah dengan jersey dia.
+80	Saya masalah dengan jersey dia.
+81	Saya masalah dengan jersey dia.
+82	Saya masalah dengan jersey dia.
+83	[NO_SPEECH]
+84	Hampir gak lolos 16 Peser Champion loh dia.
+85	Hampir gak lolos 16 Peser Champion loh dia.
+86	Hampir gak lolos 16 Peser Champion loh dia.
+87	Hampir gak lolos 16 Peser Champion loh dia.
+88	Hampir gak lolos 16 Peser Champion loh dia.
+89	Hampir gak lolos 16 Peser Champion loh dia. Nah ini kita bicara hasil di ujung.
+90	Hampir gak lolos 16 Peser Champion loh dia. Nah ini kita bicara hasil di ujung.
+91	Nah ini kita bicara hasil di ujung.
+92	Nah ini kita bicara hasil di ujung.
+93	Nah ini kita bicara hasil di ujung. Kok ini bicara konsisten.
+94	Nah ini kita bicara hasil di ujung. Kok ini bicara konsisten.
+95	Kok ini bicara konsisten.
+96	Kok ini bicara konsisten.
+97	Kok ini bicara konsisten. Kalau konsisten dari awal sampai akhir gak bisa hasil di ujung.
+98	Kok ini bicara konsisten. Kalau konsisten dari awal sampai akhir gak bisa hasil di ujung.
+99	Kalau konsisten dari awal sampai akhir gak bisa hasil di ujung.
+100	Kalau konsisten dari awal sampai akhir gak bisa hasil di ujung.
+101	Kalau konsisten dari awal sampai akhir gak bisa hasil di ujung.
+102	Kalau konsisten dari awal sampai akhir gak bisa hasil di ujung. Yang treble winner itu sulit.
+103	Kalau konsisten dari awal sampai akhir gak bisa hasil di ujung. Yang treble winner itu sulit.
+104	Yang treble winner itu sulit.
+105	Yang treble winner itu sulit. Ini yang treble gak pernah ada yang unbeaten.
+106	Yang treble winner itu sulit. Ini yang treble gak pernah ada yang unbeaten.
+107	Ini yang treble gak pernah ada yang unbeaten.
+108	Ini yang treble gak pernah ada yang unbeaten.
+109	Ini yang treble gak pernah ada yang unbeaten.
+110	Ini yang treble gak pernah ada yang unbeaten.
+111	Ini yang treble gak pernah ada yang unbeaten.
+112	Ini yang treble gak pernah ada yang unbeaten.
+113	Ini yang treble gak pernah ada yang unbeaten.
+114	Ini yang treble gak pernah ada yang unbeaten. Semuanya...
+115	Semuanya...
+116	Semuanya...
+117	Kalah.
+118	Kalah. Iya pernah ada kalah.
+119	Kalah. Iya pernah ada kalah.
+120	Iya pernah ada kalah. Pernah ada kalahnya.
+121	Iya pernah ada kalah. Pernah ada kalahnya.
+122	Pernah ada kalahnya. Nah.
+123	Nah. Nah apa?
+124	Nah. Nah apa?
+125	Nah apa? Nah ini.
+126	Nah apa? Nah ini. Lebih sulit unbeaten.
+127	Nah ini. Lebih sulit unbeaten.
+128	Lebih sulit unbeaten.
+129	Lebih sulit unbeaten.
+130	Lebih sulit unbeaten.
+131	[NO_SPEECH]
+132	[NO_SPEECH]
+133	[NO_SPEECH]
+134	[NO_SPEECH]
+135	[NO_SPEECH]
+136	[NO_SPEECH]
+137	[NO_SPEECH]
+138	Subtitle by MariaPardosi
+139	Subtitle by MariaPardosi
+140	Subtitle by MariaPardosi
+141	Subtitle by MariaPardosi
+142	Subtitle by MariaPardosi
+143	Subtitle by MariaPardosi
+144	Subtitle by MariaPardosi
+145	Subtitle by MariaPardosi
+146	Subtitle by MariaPardosi
+147	[NO_SPEECH]
+148	[NO_SPEECH]
+149	[NO_SPEECH]
+150	[NO_SPEECH]

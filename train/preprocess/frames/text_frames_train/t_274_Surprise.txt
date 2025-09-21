@@ -1,0 +1,101 @@
+0	Percaya nggak? Cuma dengan tahu satu hal ini, penampilanmu bisa naik level 10 kali lipat.
+1	Percaya nggak? Cuma dengan tahu satu hal ini, penampilanmu bisa naik level 10 kali lipat.
+2	Percaya nggak? Cuma dengan tahu satu hal ini, penampilanmu bisa naik level 10 kali lipat.
+3	Percaya nggak? Cuma dengan tahu satu hal ini, penampilanmu bisa naik level 10 kali lipat.
+4	Percaya nggak? Cuma dengan tahu satu hal ini, penampilanmu bisa naik level 10 kali lipat.
+5	Percaya nggak? Cuma dengan tahu satu hal ini, penampilanmu bisa naik level 10 kali lipat.
+6	Percaya nggak? Cuma dengan tahu satu hal ini, penampilanmu bisa naik level 10 kali lipat.
+7	Percaya nggak? Cuma dengan tahu satu hal ini, penampilanmu bisa naik level 10 kali lipat.
+8	Percaya nggak? Cuma dengan tahu satu hal ini, penampilanmu bisa naik level 10 kali lipat. Selama ini, aku penasaran banget apakah makeup dan outfit yang aku pakai sudah sesuai dengan personal color aku apa belum ya.
+9	Percaya nggak? Cuma dengan tahu satu hal ini, penampilanmu bisa naik level 10 kali lipat. Selama ini, aku penasaran banget apakah makeup dan outfit yang aku pakai sudah sesuai dengan personal color aku apa belum ya.
+10	Selama ini, aku penasaran banget apakah makeup dan outfit yang aku pakai sudah sesuai dengan personal color aku apa belum ya.
+11	Selama ini, aku penasaran banget apakah makeup dan outfit yang aku pakai sudah sesuai dengan personal color aku apa belum ya.
+12	Selama ini, aku penasaran banget apakah makeup dan outfit yang aku pakai sudah sesuai dengan personal color aku apa belum ya.
+13	Selama ini, aku penasaran banget apakah makeup dan outfit yang aku pakai sudah sesuai dengan personal color aku apa belum ya.
+14	Selama ini, aku penasaran banget apakah makeup dan outfit yang aku pakai sudah sesuai dengan personal color aku apa belum ya.
+15	Selama ini, aku penasaran banget apakah makeup dan outfit yang aku pakai sudah sesuai dengan personal color aku apa belum ya.
+16	Selama ini, aku penasaran banget apakah makeup dan outfit yang aku pakai sudah sesuai dengan personal color aku apa belum ya.
+17	Selama ini, aku penasaran banget apakah makeup dan outfit yang aku pakai sudah sesuai dengan personal color aku apa belum ya.
+18	Selama ini, aku penasaran banget apakah makeup dan outfit yang aku pakai sudah sesuai dengan personal color aku apa belum ya.
+19	Selama ini, aku penasaran banget apakah makeup dan outfit yang aku pakai sudah sesuai dengan personal color aku apa belum ya.
+20	Selama ini, aku penasaran banget apakah makeup dan outfit yang aku pakai sudah sesuai dengan personal color aku apa belum ya.
+21	Selama ini, aku penasaran banget apakah makeup dan outfit yang aku pakai sudah sesuai dengan personal color aku apa belum ya. Akhirnya, aku cobain personal color analysis test dari Wardah yang kebetulan ada di Bandung.
+22	Selama ini, aku penasaran banget apakah makeup dan outfit yang aku pakai sudah sesuai dengan personal color aku apa belum ya. Akhirnya, aku cobain personal color analysis test dari Wardah yang kebetulan ada di Bandung.
+23	Akhirnya, aku cobain personal color analysis test dari Wardah yang kebetulan ada di Bandung.
+24	Akhirnya, aku cobain personal color analysis test dari Wardah yang kebetulan ada di Bandung.
+25	Akhirnya, aku cobain personal color analysis test dari Wardah yang kebetulan ada di Bandung.
+26	Akhirnya, aku cobain personal color analysis test dari Wardah yang kebetulan ada di Bandung.
+27	Akhirnya, aku cobain personal color analysis test dari Wardah yang kebetulan ada di Bandung.
+28	Akhirnya, aku cobain personal color analysis test dari Wardah yang kebetulan ada di Bandung.
+29	Akhirnya, aku cobain personal color analysis test dari Wardah yang kebetulan ada di Bandung.
+30	Akhirnya, aku cobain personal color analysis test dari Wardah yang kebetulan ada di Bandung.
+31	Akhirnya, aku cobain personal color analysis test dari Wardah yang kebetulan ada di Bandung.
+32	Akhirnya, aku cobain personal color analysis test dari Wardah yang kebetulan ada di Bandung. Tahap pertama adalah mencari tahu apakah aku punya warm atau cool undertone.
+33	Akhirnya, aku cobain personal color analysis test dari Wardah yang kebetulan ada di Bandung. Tahap pertama adalah mencari tahu apakah aku punya warm atau cool undertone.
+34	Tahap pertama adalah mencari tahu apakah aku punya warm atau cool undertone.
+35	Tahap pertama adalah mencari tahu apakah aku punya warm atau cool undertone.
+36	Tahap pertama adalah mencari tahu apakah aku punya warm atau cool undertone.
+37	Tahap pertama adalah mencari tahu apakah aku punya warm atau cool undertone.
+38	Tahap pertama adalah mencari tahu apakah aku punya warm atau cool undertone.
+39	Tahap pertama adalah mencari tahu apakah aku punya warm atau cool undertone.
+40	Tahap pertama adalah mencari tahu apakah aku punya warm atau cool undertone.
+41	Tahap pertama adalah mencari tahu apakah aku punya warm atau cool undertone. Karena ternyata, kalau kita pakai outfit atau makeup yang nggak sesuai sama personal color kita,
+42	Tahap pertama adalah mencari tahu apakah aku punya warm atau cool undertone. Karena ternyata, kalau kita pakai outfit atau makeup yang nggak sesuai sama personal color kita,
+43	Karena ternyata, kalau kita pakai outfit atau makeup yang nggak sesuai sama personal color kita,
+44	Karena ternyata, kalau kita pakai outfit atau makeup yang nggak sesuai sama personal color kita,
+45	Karena ternyata, kalau kita pakai outfit atau makeup yang nggak sesuai sama personal color kita,
+46	Karena ternyata, kalau kita pakai outfit atau makeup yang nggak sesuai sama personal color kita,
+47	Karena ternyata, kalau kita pakai outfit atau makeup yang nggak sesuai sama personal color kita,
+48	Karena ternyata, kalau kita pakai outfit atau makeup yang nggak sesuai sama personal color kita,
+49	Karena ternyata, kalau kita pakai outfit atau makeup yang nggak sesuai sama personal color kita,
+50	Karena ternyata, kalau kita pakai outfit atau makeup yang nggak sesuai sama personal color kita,
+51	Karena ternyata, kalau kita pakai outfit atau makeup yang nggak sesuai sama personal color kita, itu bisa bikin kita kelihatan lebih tua dan imperfection di wajah,
+52	Karena ternyata, kalau kita pakai outfit atau makeup yang nggak sesuai sama personal color kita, itu bisa bikin kita kelihatan lebih tua dan imperfection di wajah,
+53	itu bisa bikin kita kelihatan lebih tua dan imperfection di wajah,
+54	itu bisa bikin kita kelihatan lebih tua dan imperfection di wajah,
+55	itu bisa bikin kita kelihatan lebih tua dan imperfection di wajah,
+56	itu bisa bikin kita kelihatan lebih tua dan imperfection di wajah,
+57	itu bisa bikin kita kelihatan lebih tua dan imperfection di wajah,
+58	itu bisa bikin kita kelihatan lebih tua dan imperfection di wajah,
+59	itu bisa bikin kita kelihatan lebih tua dan imperfection di wajah, seperti bekas jerawat atau kantung mata jadi lebih kelihatan jelas.
+60	itu bisa bikin kita kelihatan lebih tua dan imperfection di wajah, seperti bekas jerawat atau kantung mata jadi lebih kelihatan jelas.
+61	seperti bekas jerawat atau kantung mata jadi lebih kelihatan jelas.
+62	seperti bekas jerawat atau kantung mata jadi lebih kelihatan jelas.
+63	seperti bekas jerawat atau kantung mata jadi lebih kelihatan jelas.
+64	seperti bekas jerawat atau kantung mata jadi lebih kelihatan jelas.
+65	seperti bekas jerawat atau kantung mata jadi lebih kelihatan jelas.
+66	seperti bekas jerawat atau kantung mata jadi lebih kelihatan jelas. Dan taraaa, ternyata aku adalah seorang warm spring.
+67	seperti bekas jerawat atau kantung mata jadi lebih kelihatan jelas. Dan taraaa, ternyata aku adalah seorang warm spring.
+68	Dan taraaa, ternyata aku adalah seorang warm spring.
+69	Dan taraaa, ternyata aku adalah seorang warm spring.
+70	Dan taraaa, ternyata aku adalah seorang warm spring.
+71	Dan taraaa, ternyata aku adalah seorang warm spring.
+72	Dan taraaa, ternyata aku adalah seorang warm spring.
+73	Dan taraaa, ternyata aku adalah seorang warm spring. Selanjutnya, kita nentuin warna makeup yang cocok, mulai dari lipstick, eyeshadow, sampai blush on.
+74	Dan taraaa, ternyata aku adalah seorang warm spring. Selanjutnya, kita nentuin warna makeup yang cocok, mulai dari lipstick, eyeshadow, sampai blush on.
+75	Selanjutnya, kita nentuin warna makeup yang cocok, mulai dari lipstick, eyeshadow, sampai blush on.
+76	Selanjutnya, kita nentuin warna makeup yang cocok, mulai dari lipstick, eyeshadow, sampai blush on.
+77	Selanjutnya, kita nentuin warna makeup yang cocok, mulai dari lipstick, eyeshadow, sampai blush on.
+78	Selanjutnya, kita nentuin warna makeup yang cocok, mulai dari lipstick, eyeshadow, sampai blush on.
+79	Selanjutnya, kita nentuin warna makeup yang cocok, mulai dari lipstick, eyeshadow, sampai blush on.
+80	Selanjutnya, kita nentuin warna makeup yang cocok, mulai dari lipstick, eyeshadow, sampai blush on.
+81	Selanjutnya, kita nentuin warna makeup yang cocok, mulai dari lipstick, eyeshadow, sampai blush on.
+82	Selanjutnya, kita nentuin warna makeup yang cocok, mulai dari lipstick, eyeshadow, sampai blush on.
+83	Selanjutnya, kita nentuin warna makeup yang cocok, mulai dari lipstick, eyeshadow, sampai blush on.
+84	Selanjutnya, kita nentuin warna makeup yang cocok, mulai dari lipstick, eyeshadow, sampai blush on. Kakaknya jelasin semuanya secara detail dan rekomendasiin restate makeup yang cocok di personal color aku.
+85	Kakaknya jelasin semuanya secara detail dan rekomendasiin restate makeup yang cocok di personal color aku.
+86	Kakaknya jelasin semuanya secara detail dan rekomendasiin restate makeup yang cocok di personal color aku.
+87	Kakaknya jelasin semuanya secara detail dan rekomendasiin restate makeup yang cocok di personal color aku.
+88	Kakaknya jelasin semuanya secara detail dan rekomendasiin restate makeup yang cocok di personal color aku.
+89	Kakaknya jelasin semuanya secara detail dan rekomendasiin restate makeup yang cocok di personal color aku.
+90	Kakaknya jelasin semuanya secara detail dan rekomendasiin restate makeup yang cocok di personal color aku.
+91	Kakaknya jelasin semuanya secara detail dan rekomendasiin restate makeup yang cocok di personal color aku.
+92	Kakaknya jelasin semuanya secara detail dan rekomendasiin restate makeup yang cocok di personal color aku.
+93	Kakaknya jelasin semuanya secara detail dan rekomendasiin restate makeup yang cocok di personal color aku.
+94	Kakaknya jelasin semuanya secara detail dan rekomendasiin restate makeup yang cocok di personal color aku.
+95	Kakaknya jelasin semuanya secara detail dan rekomendasiin restate makeup yang cocok di personal color aku.
+96	Kakaknya jelasin semuanya secara detail dan rekomendasiin restate makeup yang cocok di personal color aku. Seru banget kegiatannya.
+97	Seru banget kegiatannya.
+98	Seru banget kegiatannya.
+99	Seru banget kegiatannya.
+100	[NO_SPEECH]

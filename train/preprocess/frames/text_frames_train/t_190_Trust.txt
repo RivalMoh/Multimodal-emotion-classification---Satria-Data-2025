@@ -1,0 +1,820 @@
+0	Semakin banyaknya mobil elektrik, membuat pabrikan ban juga membuat ban khusus EV.
+1	Semakin banyaknya mobil elektrik, membuat pabrikan ban juga membuat ban khusus EV.
+2	Semakin banyaknya mobil elektrik, membuat pabrikan ban juga membuat ban khusus EV.
+3	Semakin banyaknya mobil elektrik, membuat pabrikan ban juga membuat ban khusus EV.
+4	Semakin banyaknya mobil elektrik, membuat pabrikan ban juga membuat ban khusus EV.
+5	Semakin banyaknya mobil elektrik, membuat pabrikan ban juga membuat ban khusus EV.
+6	Semakin banyaknya mobil elektrik, membuat pabrikan ban juga membuat ban khusus EV.
+7	Semakin banyaknya mobil elektrik, membuat pabrikan ban juga membuat ban khusus EV. Tapi saat ini, kebanyakan ban khusus EV itu diimport langsung, sehingga harganya lumayan mahal.
+8	Semakin banyaknya mobil elektrik, membuat pabrikan ban juga membuat ban khusus EV. Tapi saat ini, kebanyakan ban khusus EV itu diimport langsung, sehingga harganya lumayan mahal.
+9	Tapi saat ini, kebanyakan ban khusus EV itu diimport langsung, sehingga harganya lumayan mahal.
+10	Tapi saat ini, kebanyakan ban khusus EV itu diimport langsung, sehingga harganya lumayan mahal.
+11	Tapi saat ini, kebanyakan ban khusus EV itu diimport langsung, sehingga harganya lumayan mahal.
+12	Tapi saat ini, kebanyakan ban khusus EV itu diimport langsung, sehingga harganya lumayan mahal.
+13	Tapi saat ini, kebanyakan ban khusus EV itu diimport langsung, sehingga harganya lumayan mahal.
+14	Tapi saat ini, kebanyakan ban khusus EV itu diimport langsung, sehingga harganya lumayan mahal.
+15	Tapi saat ini, kebanyakan ban khusus EV itu diimport langsung, sehingga harganya lumayan mahal.
+16	Tapi saat ini, kebanyakan ban khusus EV itu diimport langsung, sehingga harganya lumayan mahal.
+17	Tapi saat ini, kebanyakan ban khusus EV itu diimport langsung, sehingga harganya lumayan mahal.
+18	Tapi saat ini, kebanyakan ban khusus EV itu diimport langsung, sehingga harganya lumayan mahal.
+19	Tapi saat ini, kebanyakan ban khusus EV itu diimport langsung, sehingga harganya lumayan mahal.
+20	Tapi saat ini, kebanyakan ban khusus EV itu diimport langsung, sehingga harganya lumayan mahal.
+21	Tapi saat ini, kebanyakan ban khusus EV itu diimport langsung, sehingga harganya lumayan mahal. Tapi ternyata Dunlop sedang meriset apakah ban yang mereka produksi di dalam negeri
+22	Tapi ternyata Dunlop sedang meriset apakah ban yang mereka produksi di dalam negeri
+23	Tapi ternyata Dunlop sedang meriset apakah ban yang mereka produksi di dalam negeri
+24	Tapi ternyata Dunlop sedang meriset apakah ban yang mereka produksi di dalam negeri
+25	Tapi ternyata Dunlop sedang meriset apakah ban yang mereka produksi di dalam negeri
+26	Tapi ternyata Dunlop sedang meriset apakah ban yang mereka produksi di dalam negeri
+27	Tapi ternyata Dunlop sedang meriset apakah ban yang mereka produksi di dalam negeri
+28	Tapi ternyata Dunlop sedang meriset apakah ban yang mereka produksi di dalam negeri
+29	Tapi ternyata Dunlop sedang meriset apakah ban yang mereka produksi di dalam negeri
+30	Tapi ternyata Dunlop sedang meriset apakah ban yang mereka produksi di dalam negeri cocok untuk digunakan oleh sebuah elektrik vehicle.
+31	Tapi ternyata Dunlop sedang meriset apakah ban yang mereka produksi di dalam negeri cocok untuk digunakan oleh sebuah elektrik vehicle.
+32	cocok untuk digunakan oleh sebuah elektrik vehicle.
+33	cocok untuk digunakan oleh sebuah elektrik vehicle.
+34	cocok untuk digunakan oleh sebuah elektrik vehicle.
+35	cocok untuk digunakan oleh sebuah elektrik vehicle.
+36	cocok untuk digunakan oleh sebuah elektrik vehicle.
+37	cocok untuk digunakan oleh sebuah elektrik vehicle.
+38	cocok untuk digunakan oleh sebuah elektrik vehicle. Kalau ini berhasil, kita akan punya alternatif lebih terjangkau lagi untuk mengganti ban mobil listrik kita.
+39	Kalau ini berhasil, kita akan punya alternatif lebih terjangkau lagi untuk mengganti ban mobil listrik kita.
+40	Kalau ini berhasil, kita akan punya alternatif lebih terjangkau lagi untuk mengganti ban mobil listrik kita.
+41	Kalau ini berhasil, kita akan punya alternatif lebih terjangkau lagi untuk mengganti ban mobil listrik kita.
+42	Kalau ini berhasil, kita akan punya alternatif lebih terjangkau lagi untuk mengganti ban mobil listrik kita.
+43	Kalau ini berhasil, kita akan punya alternatif lebih terjangkau lagi untuk mengganti ban mobil listrik kita.
+44	Kalau ini berhasil, kita akan punya alternatif lebih terjangkau lagi untuk mengganti ban mobil listrik kita.
+45	Kalau ini berhasil, kita akan punya alternatif lebih terjangkau lagi untuk mengganti ban mobil listrik kita.
+46	Kalau ini berhasil, kita akan punya alternatif lebih terjangkau lagi untuk mengganti ban mobil listrik kita.
+47	Kalau ini berhasil, kita akan punya alternatif lebih terjangkau lagi untuk mengganti ban mobil listrik kita.
+48	Kalau ini berhasil, kita akan punya alternatif lebih terjangkau lagi untuk mengganti ban mobil listrik kita.
+49	Kalau ini berhasil, kita akan punya alternatif lebih terjangkau lagi untuk mengganti ban mobil listrik kita.
+50	Kalau ini berhasil, kita akan punya alternatif lebih terjangkau lagi untuk mengganti ban mobil listrik kita. Nah, saya diberikan kesempatan eksklusif untuk ikut tes bersama mereka.
+51	Nah, saya diberikan kesempatan eksklusif untuk ikut tes bersama mereka.
+52	Nah, saya diberikan kesempatan eksklusif untuk ikut tes bersama mereka.
+53	Nah, saya diberikan kesempatan eksklusif untuk ikut tes bersama mereka.
+54	Nah, saya diberikan kesempatan eksklusif untuk ikut tes bersama mereka.
+55	Nah, saya diberikan kesempatan eksklusif untuk ikut tes bersama mereka.
+56	Nah, saya diberikan kesempatan eksklusif untuk ikut tes bersama mereka.
+57	Nah, saya diberikan kesempatan eksklusif untuk ikut tes bersama mereka. Nah, sekarang sedang dilakukan pengecekan dan mobil yang digunakan adalah Hyundai Ioniq 5.
+58	Nah, saya diberikan kesempatan eksklusif untuk ikut tes bersama mereka. Nah, sekarang sedang dilakukan pengecekan dan mobil yang digunakan adalah Hyundai Ioniq 5.
+59	Nah, sekarang sedang dilakukan pengecekan dan mobil yang digunakan adalah Hyundai Ioniq 5.
+60	Nah, sekarang sedang dilakukan pengecekan dan mobil yang digunakan adalah Hyundai Ioniq 5.
+61	Nah, sekarang sedang dilakukan pengecekan dan mobil yang digunakan adalah Hyundai Ioniq 5.
+62	Nah, sekarang sedang dilakukan pengecekan dan mobil yang digunakan adalah Hyundai Ioniq 5.
+63	Nah, sekarang sedang dilakukan pengecekan dan mobil yang digunakan adalah Hyundai Ioniq 5.
+64	Nah, sekarang sedang dilakukan pengecekan dan mobil yang digunakan adalah Hyundai Ioniq 5.
+65	Nah, sekarang sedang dilakukan pengecekan dan mobil yang digunakan adalah Hyundai Ioniq 5. Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+66	Nah, sekarang sedang dilakukan pengecekan dan mobil yang digunakan adalah Hyundai Ioniq 5. Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+67	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+68	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+69	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+70	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+71	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+72	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+73	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+74	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+75	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+76	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+77	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+78	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+79	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+80	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+81	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+82	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+83	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+84	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+85	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+86	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+87	Dan yang dites adalah ban Dunlop Espace Sport LM705 dibandingkan dengan ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini. Dan pengetesannya akan lebih dari 20.000 km.
+88	Dan pengetesannya akan lebih dari 20.000 km.
+89	Dan pengetesannya akan lebih dari 20.000 km.
+90	Dan pengetesannya akan lebih dari 20.000 km.
+91	Dan pengetesannya akan lebih dari 20.000 km.
+92	Dan pengetesannya akan lebih dari 20.000 km.
+93	Dan pengetesannya akan lebih dari 20.000 km.
+94	Dan pengetesannya akan lebih dari 20.000 km.
+95	Dan pengetesannya akan lebih dari 20.000 km. Sekarang sudah 11.000 km dan kita akan melanjutkan perjalanan ke arah timur.
+96	Dan pengetesannya akan lebih dari 20.000 km. Sekarang sudah 11.000 km dan kita akan melanjutkan perjalanan ke arah timur.
+97	Sekarang sudah 11.000 km dan kita akan melanjutkan perjalanan ke arah timur.
+98	Sekarang sudah 11.000 km dan kita akan melanjutkan perjalanan ke arah timur.
+99	Sekarang sudah 11.000 km dan kita akan melanjutkan perjalanan ke arah timur.
+100	Sekarang sudah 11.000 km dan kita akan melanjutkan perjalanan ke arah timur.
+101	Sekarang sudah 11.000 km dan kita akan melanjutkan perjalanan ke arah timur.
+102	Sekarang sudah 11.000 km dan kita akan melanjutkan perjalanan ke arah timur.
+103	Sekarang sudah 11.000 km dan kita akan melanjutkan perjalanan ke arah timur.
+104	Sekarang sudah 11.000 km dan kita akan melanjutkan perjalanan ke arah timur.
+105	Sekarang sudah 11.000 km dan kita akan melanjutkan perjalanan ke arah timur.
+106	Sekarang sudah 11.000 km dan kita akan melanjutkan perjalanan ke arah timur.
+107	Sekarang sudah 11.000 km dan kita akan melanjutkan perjalanan ke arah timur.
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	[NO_SPEECH]
+113	[NO_SPEECH]
+114	[NO_SPEECH]
+115	[NO_SPEECH]
+116	[NO_SPEECH]
+117	[NO_SPEECH]
+118	[NO_SPEECH]
+119	[NO_SPEECH]
+120	[NO_SPEECH]
+121	[NO_SPEECH]
+122	[NO_SPEECH]
+123	[NO_SPEECH]
+124	[NO_SPEECH]
+125	[NO_SPEECH]
+126	[NO_SPEECH]
+127	[NO_SPEECH]
+128	[NO_SPEECH]
+129	[NO_SPEECH]
+130	[NO_SPEECH]
+131	[NO_SPEECH]
+132	[NO_SPEECH]
+133	[NO_SPEECH]
+134	[NO_SPEECH]
+135	[NO_SPEECH]
+136	[NO_SPEECH]
+137	[NO_SPEECH]
+138	[NO_SPEECH]
+139	[NO_SPEECH]
+140	[NO_SPEECH]
+141	[NO_SPEECH]
+142	[NO_SPEECH]
+143	[NO_SPEECH]
+144	[NO_SPEECH]
+145	[NO_SPEECH]
+146	[NO_SPEECH]
+147	[NO_SPEECH]
+148	[NO_SPEECH]
+149	[NO_SPEECH]
+150	[NO_SPEECH]
+151	[NO_SPEECH]
+152	[NO_SPEECH]
+153	[NO_SPEECH]
+154	[NO_SPEECH]
+155	[NO_SPEECH]
+156	[NO_SPEECH]
+157	[NO_SPEECH]
+158	[NO_SPEECH]
+159	[NO_SPEECH]
+160	[NO_SPEECH]
+161	[NO_SPEECH]
+162	[NO_SPEECH]
+163	[NO_SPEECH]
+164	[NO_SPEECH]
+165	Pengecekan dan mobil listrik ini akan berlangsung selama 30 hari dengan target 20.000 km lebih.
+166	Pengecekan dan mobil listrik ini akan berlangsung selama 30 hari dengan target 20.000 km lebih.
+167	Pengecekan dan mobil listrik ini akan berlangsung selama 30 hari dengan target 20.000 km lebih.
+168	Pengecekan dan mobil listrik ini akan berlangsung selama 30 hari dengan target 20.000 km lebih.
+169	Pengecekan dan mobil listrik ini akan berlangsung selama 30 hari dengan target 20.000 km lebih.
+170	Pengecekan dan mobil listrik ini akan berlangsung selama 30 hari dengan target 20.000 km lebih.
+171	Pengecekan dan mobil listrik ini akan berlangsung selama 30 hari dengan target 20.000 km lebih.
+172	Pengecekan dan mobil listrik ini akan berlangsung selama 30 hari dengan target 20.000 km lebih.
+173	Pengecekan dan mobil listrik ini akan berlangsung selama 30 hari dengan target 20.000 km lebih. Nah, sekarang saya di hari ke-8.
+174	Pengecekan dan mobil listrik ini akan berlangsung selama 30 hari dengan target 20.000 km lebih. Nah, sekarang saya di hari ke-8.
+175	Nah, sekarang saya di hari ke-8.
+176	Nah, sekarang saya di hari ke-8. Pengecekan dan mobil listrik ini akan berlangsung selama 30 hari dengan target 20.000 km lebih.
+177	Nah, sekarang saya di hari ke-8. Pengecekan dan mobil listrik ini akan berlangsung selama 30 hari dengan target 20.000 km lebih. Dan ada beberapa tahap pengujian.
+178	Pengecekan dan mobil listrik ini akan berlangsung selama 30 hari dengan target 20.000 km lebih. Dan ada beberapa tahap pengujian.
+179	Dan ada beberapa tahap pengujian.
+180	Dan ada beberapa tahap pengujian. Tapi tahap yang saya lalui ini adalah pengukuran tingkat keausan ban.
+181	Dan ada beberapa tahap pengujian. Tapi tahap yang saya lalui ini adalah pengukuran tingkat keausan ban.
+182	Tapi tahap yang saya lalui ini adalah pengukuran tingkat keausan ban.
+183	Tapi tahap yang saya lalui ini adalah pengukuran tingkat keausan ban.
+184	Tapi tahap yang saya lalui ini adalah pengukuran tingkat keausan ban.
+185	Tapi tahap yang saya lalui ini adalah pengukuran tingkat keausan ban.
+186	Tapi tahap yang saya lalui ini adalah pengukuran tingkat keausan ban.
+187	Tapi tahap yang saya lalui ini adalah pengukuran tingkat keausan ban. Jadi ini bannya belang.
+188	Tapi tahap yang saya lalui ini adalah pengukuran tingkat keausan ban. Jadi ini bannya belang.
+189	Jadi ini bannya belang.
+190	Jadi ini bannya belang.
+191	Ban kiri depan dan kanan belakang itu adalah Dunlop Espace Sport LM705.
+192	Ban kiri depan dan kanan belakang itu adalah Dunlop Espace Sport LM705.
+193	Ban kiri depan dan kanan belakang itu adalah Dunlop Espace Sport LM705.
+194	Ban kiri depan dan kanan belakang itu adalah Dunlop Espace Sport LM705.
+195	Ban kiri depan dan kanan belakang itu adalah Dunlop Espace Sport LM705.
+196	Ban kiri depan dan kanan belakang itu adalah Dunlop Espace Sport LM705.
+197	Ban kiri depan dan kanan belakang itu adalah Dunlop Espace Sport LM705.
+198	Ban kiri depan dan kanan belakang itu adalah Dunlop Espace Sport LM705.
+199	Ban kiri depan dan kanan belakang itu adalah Dunlop Espace Sport LM705.
+200	Ban kiri depan dan kanan belakang itu adalah Dunlop Espace Sport LM705.
+201	Ban kiri depan dan kanan belakang itu adalah Dunlop Espace Sport LM705.
+202	Ban kiri depan dan kanan belakang itu adalah Dunlop Espace Sport LM705. Sedangkan di kanan depan dan kiri belakang itu adalah ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+203	Sedangkan di kanan depan dan kiri belakang itu adalah ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+204	Sedangkan di kanan depan dan kiri belakang itu adalah ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+205	Sedangkan di kanan depan dan kiri belakang itu adalah ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+206	Sedangkan di kanan depan dan kiri belakang itu adalah ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+207	Sedangkan di kanan depan dan kiri belakang itu adalah ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+208	Sedangkan di kanan depan dan kiri belakang itu adalah ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+209	Sedangkan di kanan depan dan kiri belakang itu adalah ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+210	Sedangkan di kanan depan dan kiri belakang itu adalah ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+211	Sedangkan di kanan depan dan kiri belakang itu adalah ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+212	Sedangkan di kanan depan dan kiri belakang itu adalah ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+213	Sedangkan di kanan depan dan kiri belakang itu adalah ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+214	Sedangkan di kanan depan dan kiri belakang itu adalah ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini.
+215	Sedangkan di kanan depan dan kiri belakang itu adalah ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini. Setiap 10.000 km itu diprotasi.
+216	Sedangkan di kanan depan dan kiri belakang itu adalah ban kompetitor yang merupakan OEM dari Hyundai Ioniq 5 ini. Setiap 10.000 km itu diprotasi.
+217	Setiap 10.000 km itu diprotasi.
+218	Setiap 10.000 km itu diprotasi.
+219	Setiap 10.000 km itu diprotasi.
+220	Setiap 10.000 km itu diprotasi.
+221	Setiap 10.000 km itu diprotasi. Dan setelah 20.000 km akan dilihat tingkat keausan mana yang lebih besar.
+222	Setiap 10.000 km itu diprotasi. Dan setelah 20.000 km akan dilihat tingkat keausan mana yang lebih besar.
+223	Dan setelah 20.000 km akan dilihat tingkat keausan mana yang lebih besar.
+224	Dan setelah 20.000 km akan dilihat tingkat keausan mana yang lebih besar.
+225	Dan setelah 20.000 km akan dilihat tingkat keausan mana yang lebih besar.
+226	Dan setelah 20.000 km akan dilihat tingkat keausan mana yang lebih besar.
+227	Dan setelah 20.000 km akan dilihat tingkat keausan mana yang lebih besar.
+228	Dan setelah 20.000 km akan dilihat tingkat keausan mana yang lebih besar.
+229	Dan setelah 20.000 km akan dilihat tingkat keausan mana yang lebih besar.
+230	Dan setelah 20.000 km akan dilihat tingkat keausan mana yang lebih besar.
+231	Dan setelah 20.000 km akan dilihat tingkat keausan mana yang lebih besar.
+232	Dan setelah 20.000 km akan dilihat tingkat keausan mana yang lebih besar.
+233	Dan setelah 20.000 km akan dilihat tingkat keausan mana yang lebih besar.
+234	Dan setelah 20.000 km akan dilihat tingkat keausan mana yang lebih besar.
+235	Dan setelah 20.000 km akan dilihat tingkat keausan mana yang lebih besar.
+236	[NO_SPEECH]
+237	Sekarang saya sedang bersama dengan tim Dunlop.
+238	Sekarang saya sedang bersama dengan tim Dunlop.
+239	Sekarang saya sedang bersama dengan tim Dunlop.
+240	Sekarang saya sedang bersama dengan tim Dunlop.
+241	Sekarang saya sedang bersama dengan tim Dunlop. Dan di sebelah saya ada Pak Darius dari Product Development Dunlop yang juga merupakan ketua penyelenggara kegiatan ini.
+242	Sekarang saya sedang bersama dengan tim Dunlop. Dan di sebelah saya ada Pak Darius dari Product Development Dunlop yang juga merupakan ketua penyelenggara kegiatan ini.
+243	Dan di sebelah saya ada Pak Darius dari Product Development Dunlop yang juga merupakan ketua penyelenggara kegiatan ini.
+244	Dan di sebelah saya ada Pak Darius dari Product Development Dunlop yang juga merupakan ketua penyelenggara kegiatan ini.
+245	Dan di sebelah saya ada Pak Darius dari Product Development Dunlop yang juga merupakan ketua penyelenggara kegiatan ini.
+246	Dan di sebelah saya ada Pak Darius dari Product Development Dunlop yang juga merupakan ketua penyelenggara kegiatan ini.
+247	Dan di sebelah saya ada Pak Darius dari Product Development Dunlop yang juga merupakan ketua penyelenggara kegiatan ini.
+248	Dan di sebelah saya ada Pak Darius dari Product Development Dunlop yang juga merupakan ketua penyelenggara kegiatan ini.
+249	Dan di sebelah saya ada Pak Darius dari Product Development Dunlop yang juga merupakan ketua penyelenggara kegiatan ini.
+250	Dan di sebelah saya ada Pak Darius dari Product Development Dunlop yang juga merupakan ketua penyelenggara kegiatan ini.
+251	Dan di sebelah saya ada Pak Darius dari Product Development Dunlop yang juga merupakan ketua penyelenggara kegiatan ini.
+252	Dan di sebelah saya ada Pak Darius dari Product Development Dunlop yang juga merupakan ketua penyelenggara kegiatan ini.
+253	Dan di sebelah saya ada Pak Darius dari Product Development Dunlop yang juga merupakan ketua penyelenggara kegiatan ini. Pak, ini testernya hanya 3 orang ini?
+254	Dan di sebelah saya ada Pak Darius dari Product Development Dunlop yang juga merupakan ketua penyelenggara kegiatan ini. Pak, ini testernya hanya 3 orang ini?
+255	Pak, ini testernya hanya 3 orang ini?
+256	Pak, ini testernya hanya 3 orang ini?
+257	Pak, ini testernya hanya 3 orang ini?
+258	Pak, ini testernya hanya 3 orang ini?
+259	Pak, ini testernya hanya 3 orang ini?
+260	Pak, ini testernya hanya 3 orang ini? Ya, artinya sekali ini kita bergantian ya.
+261	Ya, artinya sekali ini kita bergantian ya.
+262	Ya, artinya sekali ini kita bergantian ya.
+263	Ya, artinya sekali ini kita bergantian ya.
+264	Ya, artinya sekali ini kita bergantian ya. Itu kita tahu sekitar 52 orang.
+265	Ya, artinya sekali ini kita bergantian ya. Itu kita tahu sekitar 52 orang.
+266	Itu kita tahu sekitar 52 orang.
+267	Itu kita tahu sekitar 52 orang.
+268	Itu kita tahu sekitar 52 orang. Oh, 52 orang bergantian tiap hari.
+269	Itu kita tahu sekitar 52 orang. Oh, 52 orang bergantian tiap hari.
+270	Oh, 52 orang bergantian tiap hari.
+271	Oh, 52 orang bergantian tiap hari.
+272	Oh, 52 orang bergantian tiap hari.
+273	Oh, 52 orang bergantian tiap hari.
+274	Oh, 52 orang bergantian tiap hari.
+275	[NO_SPEECH]
+276	Tujuan dari pengetesan ini apa Pak?
+277	Tujuan dari pengetesan ini apa Pak?
+278	Tujuan dari pengetesan ini apa Pak?
+279	Tujuan dari pengetesan ini apa Pak?
+280	Tujuan dari pengetesan ini apa Pak? Ya, ini kita ingin mencoba atau merasakan langsung produk Dunlop jika dipakai di mobil EV.
+281	Tujuan dari pengetesan ini apa Pak? Ya, ini kita ingin mencoba atau merasakan langsung produk Dunlop jika dipakai di mobil EV.
+282	Ya, ini kita ingin mencoba atau merasakan langsung produk Dunlop jika dipakai di mobil EV.
+283	Ya, ini kita ingin mencoba atau merasakan langsung produk Dunlop jika dipakai di mobil EV.
+284	Ya, ini kita ingin mencoba atau merasakan langsung produk Dunlop jika dipakai di mobil EV.
+285	Ya, ini kita ingin mencoba atau merasakan langsung produk Dunlop jika dipakai di mobil EV.
+286	Ya, ini kita ingin mencoba atau merasakan langsung produk Dunlop jika dipakai di mobil EV.
+287	Ya, ini kita ingin mencoba atau merasakan langsung produk Dunlop jika dipakai di mobil EV.
+288	Ya, ini kita ingin mencoba atau merasakan langsung produk Dunlop jika dipakai di mobil EV.
+289	Ya, ini kita ingin mencoba atau merasakan langsung produk Dunlop jika dipakai di mobil EV.
+290	Ya, ini kita ingin mencoba atau merasakan langsung produk Dunlop jika dipakai di mobil EV.
+291	Ya, ini kita ingin mencoba atau merasakan langsung produk Dunlop jika dipakai di mobil EV.
+292	Ya, ini kita ingin mencoba atau merasakan langsung produk Dunlop jika dipakai di mobil EV.
+293	Ya, ini kita ingin mencoba atau merasakan langsung produk Dunlop jika dipakai di mobil EV. Target dari Dunlop sendiri?
+294	Target dari Dunlop sendiri?
+295	Target dari Dunlop sendiri?
+296	Target dari Dunlop sendiri? Target dari Dunlop sendiri untuk pengetesan ini apa Pak?
+297	Target dari Dunlop sendiri? Target dari Dunlop sendiri untuk pengetesan ini apa Pak?
+298	Target dari Dunlop sendiri untuk pengetesan ini apa Pak?
+299	Target dari Dunlop sendiri untuk pengetesan ini apa Pak? Ya, ini ada 2 target. Yang pertama adalah target terhadap pengemudi.
+300	Target dari Dunlop sendiri untuk pengetesan ini apa Pak? Ya, ini ada 2 target. Yang pertama adalah target terhadap pengemudi.
+301	Ya, ini ada 2 target. Yang pertama adalah target terhadap pengemudi.
+302	Ya, ini ada 2 target. Yang pertama adalah target terhadap pengemudi.
+303	Ya, ini ada 2 target. Yang pertama adalah target terhadap pengemudi.
+304	Ya, ini ada 2 target. Yang pertama adalah target terhadap pengemudi.
+305	Ya, ini ada 2 target. Yang pertama adalah target terhadap pengemudi.
+306	Ya, ini ada 2 target. Yang pertama adalah target terhadap pengemudi.
+307	Ya, ini ada 2 target. Yang pertama adalah target terhadap pengemudi. Dan yang kedua adalah target secara produk.
+308	Dan yang kedua adalah target secara produk.
+309	Dan yang kedua adalah target secara produk.
+310	Dan yang kedua adalah target secara produk.
+311	Dan yang kedua adalah target secara produk. Nah, tentu target pengemudi mereka mencoba langsung daya cengkram ban Dunlop jika dipakai di mobil EV.
+312	Dan yang kedua adalah target secara produk. Nah, tentu target pengemudi mereka mencoba langsung daya cengkram ban Dunlop jika dipakai di mobil EV.
+313	Nah, tentu target pengemudi mereka mencoba langsung daya cengkram ban Dunlop jika dipakai di mobil EV.
+314	Nah, tentu target pengemudi mereka mencoba langsung daya cengkram ban Dunlop jika dipakai di mobil EV.
+315	Nah, tentu target pengemudi mereka mencoba langsung daya cengkram ban Dunlop jika dipakai di mobil EV.
+316	Nah, tentu target pengemudi mereka mencoba langsung daya cengkram ban Dunlop jika dipakai di mobil EV.
+317	Nah, tentu target pengemudi mereka mencoba langsung daya cengkram ban Dunlop jika dipakai di mobil EV.
+318	Nah, tentu target pengemudi mereka mencoba langsung daya cengkram ban Dunlop jika dipakai di mobil EV.
+319	Nah, tentu target pengemudi mereka mencoba langsung daya cengkram ban Dunlop jika dipakai di mobil EV.
+320	Nah, tentu target pengemudi mereka mencoba langsung daya cengkram ban Dunlop jika dipakai di mobil EV.
+321	Nah, tentu target pengemudi mereka mencoba langsung daya cengkram ban Dunlop jika dipakai di mobil EV.
+322	Nah, tentu target pengemudi mereka mencoba langsung daya cengkram ban Dunlop jika dipakai di mobil EV.
+323	Nah, tentu target pengemudi mereka mencoba langsung daya cengkram ban Dunlop jika dipakai di mobil EV.
+324	Nah, tentu target pengemudi mereka mencoba langsung daya cengkram ban Dunlop jika dipakai di mobil EV. Dan untuk target produk sendiri, di akhir rotes di sini kita juga akan mengecek tingkat keausan ban Dunlop jika dipakai di mobil EV.
+325	Nah, tentu target pengemudi mereka mencoba langsung daya cengkram ban Dunlop jika dipakai di mobil EV. Dan untuk target produk sendiri, di akhir rotes di sini kita juga akan mengecek tingkat keausan ban Dunlop jika dipakai di mobil EV.
+326	Dan untuk target produk sendiri, di akhir rotes di sini kita juga akan mengecek tingkat keausan ban Dunlop jika dipakai di mobil EV.
+327	Dan untuk target produk sendiri, di akhir rotes di sini kita juga akan mengecek tingkat keausan ban Dunlop jika dipakai di mobil EV.
+328	Dan untuk target produk sendiri, di akhir rotes di sini kita juga akan mengecek tingkat keausan ban Dunlop jika dipakai di mobil EV.
+329	Dan untuk target produk sendiri, di akhir rotes di sini kita juga akan mengecek tingkat keausan ban Dunlop jika dipakai di mobil EV.
+330	Dan untuk target produk sendiri, di akhir rotes di sini kita juga akan mengecek tingkat keausan ban Dunlop jika dipakai di mobil EV.
+331	Dan untuk target produk sendiri, di akhir rotes di sini kita juga akan mengecek tingkat keausan ban Dunlop jika dipakai di mobil EV.
+332	Dan untuk target produk sendiri, di akhir rotes di sini kita juga akan mengecek tingkat keausan ban Dunlop jika dipakai di mobil EV.
+333	Dan untuk target produk sendiri, di akhir rotes di sini kita juga akan mengecek tingkat keausan ban Dunlop jika dipakai di mobil EV.
+334	Dan untuk target produk sendiri, di akhir rotes di sini kita juga akan mengecek tingkat keausan ban Dunlop jika dipakai di mobil EV.
+335	Dan untuk target produk sendiri, di akhir rotes di sini kita juga akan mengecek tingkat keausan ban Dunlop jika dipakai di mobil EV.
+336	Dan untuk target produk sendiri, di akhir rotes di sini kita juga akan mengecek tingkat keausan ban Dunlop jika dipakai di mobil EV.
+337	Dan untuk target produk sendiri, di akhir rotes di sini kita juga akan mengecek tingkat keausan ban Dunlop jika dipakai di mobil EV.
+338	Dan untuk target produk sendiri, di akhir rotes di sini kita juga akan mengecek tingkat keausan ban Dunlop jika dipakai di mobil EV.
+339	Dan untuk target produk sendiri, di akhir rotes di sini kita juga akan mengecek tingkat keausan ban Dunlop jika dipakai di mobil EV. Seperti itu.
+340	Dan untuk target produk sendiri, di akhir rotes di sini kita juga akan mengecek tingkat keausan ban Dunlop jika dipakai di mobil EV. Seperti itu.
+341	Seperti itu. Rutanya kemana saja Pak?
+342	Rutanya kemana saja Pak?
+343	Rutanya kemana saja Pak?
+344	Rutanya kemana saja Pak? Ya, rute rotes kali ini kita cukup panjang ini, Bung Fitra.
+345	Ya, rute rotes kali ini kita cukup panjang ini, Bung Fitra.
+346	Ya, rute rotes kali ini kita cukup panjang ini, Bung Fitra.
+347	Ya, rute rotes kali ini kita cukup panjang ini, Bung Fitra.
+348	Ya, rute rotes kali ini kita cukup panjang ini, Bung Fitra.
+349	Ya, rute rotes kali ini kita cukup panjang ini, Bung Fitra.
+350	Ya, rute rotes kali ini kita cukup panjang ini, Bung Fitra.
+351	Ya, rute rotes kali ini kita cukup panjang ini, Bung Fitra. Ya, kita mengambil rute dari Jakarta sampai di...
+352	Ya, rute rotes kali ini kita cukup panjang ini, Bung Fitra. Ya, kita mengambil rute dari Jakarta sampai di...
+353	Ya, kita mengambil rute dari Jakarta sampai di...
+354	Ya, kita mengambil rute dari Jakarta sampai di...
+355	Ya, kita mengambil rute dari Jakarta sampai di...
+356	Ya, kita mengambil rute dari Jakarta sampai di... Semarang.
+357	Ya, kita mengambil rute dari Jakarta sampai di... Semarang.
+358	Semarang. Kalau kita lihat, total dari jarak tembuh dari Jakarta-Semarang kemudian kembali dari Semarang ke Jakarta kira-kira 800 km.
+359	Kalau kita lihat, total dari jarak tembuh dari Jakarta-Semarang kemudian kembali dari Semarang ke Jakarta kira-kira 800 km.
+360	Kalau kita lihat, total dari jarak tembuh dari Jakarta-Semarang kemudian kembali dari Semarang ke Jakarta kira-kira 800 km.
+361	Kalau kita lihat, total dari jarak tembuh dari Jakarta-Semarang kemudian kembali dari Semarang ke Jakarta kira-kira 800 km.
+362	Kalau kita lihat, total dari jarak tembuh dari Jakarta-Semarang kemudian kembali dari Semarang ke Jakarta kira-kira 800 km.
+363	Kalau kita lihat, total dari jarak tembuh dari Jakarta-Semarang kemudian kembali dari Semarang ke Jakarta kira-kira 800 km.
+364	Kalau kita lihat, total dari jarak tembuh dari Jakarta-Semarang kemudian kembali dari Semarang ke Jakarta kira-kira 800 km.
+365	Kalau kita lihat, total dari jarak tembuh dari Jakarta-Semarang kemudian kembali dari Semarang ke Jakarta kira-kira 800 km.
+366	Kalau kita lihat, total dari jarak tembuh dari Jakarta-Semarang kemudian kembali dari Semarang ke Jakarta kira-kira 800 km.
+367	Kalau kita lihat, total dari jarak tembuh dari Jakarta-Semarang kemudian kembali dari Semarang ke Jakarta kira-kira 800 km.
+368	Kalau kita lihat, total dari jarak tembuh dari Jakarta-Semarang kemudian kembali dari Semarang ke Jakarta kira-kira 800 km.
+369	Kalau kita lihat, total dari jarak tembuh dari Jakarta-Semarang kemudian kembali dari Semarang ke Jakarta kira-kira 800 km.
+370	Kalau kita lihat, total dari jarak tembuh dari Jakarta-Semarang kemudian kembali dari Semarang ke Jakarta kira-kira 800 km.
+371	Kalau kita lihat, total dari jarak tembuh dari Jakarta-Semarang kemudian kembali dari Semarang ke Jakarta kira-kira 800 km.
+372	Kalau kita lihat, total dari jarak tembuh dari Jakarta-Semarang kemudian kembali dari Semarang ke Jakarta kira-kira 800 km.
+373	Kalau kita lihat, total dari jarak tembuh dari Jakarta-Semarang kemudian kembali dari Semarang ke Jakarta kira-kira 800 km. Dan kita tembus selama 30 hari.
+374	Kalau kita lihat, total dari jarak tembuh dari Jakarta-Semarang kemudian kembali dari Semarang ke Jakarta kira-kira 800 km. Dan kita tembus selama 30 hari.
+375	Dan kita tembus selama 30 hari.
+376	Dan kita tembus selama 30 hari.
+377	Dan kita tembus selama 30 hari. Setiap hari Jakarta-Semarang?
+378	Setiap hari Jakarta-Semarang?
+379	Setiap hari Jakarta-Semarang?
+380	Setiap hari Jakarta-Semarang? Ya, betul. Begitu, Fitra.
+381	Setiap hari Jakarta-Semarang? Ya, betul. Begitu, Fitra.
+382	Ya, betul. Begitu, Fitra.
+383	Ya, betul. Begitu, Fitra.
+384	Ya, betul. Begitu, Fitra. Dunlop sendiri, apakah ada produknya yang sudah dipakai sebagai OEM dari mobil EV, Pak?
+385	Dunlop sendiri, apakah ada produknya yang sudah dipakai sebagai OEM dari mobil EV, Pak?
+386	Dunlop sendiri, apakah ada produknya yang sudah dipakai sebagai OEM dari mobil EV, Pak?
+387	Dunlop sendiri, apakah ada produknya yang sudah dipakai sebagai OEM dari mobil EV, Pak?
+388	Dunlop sendiri, apakah ada produknya yang sudah dipakai sebagai OEM dari mobil EV, Pak?
+389	Dunlop sendiri, apakah ada produknya yang sudah dipakai sebagai OEM dari mobil EV, Pak?
+390	Dunlop sendiri, apakah ada produknya yang sudah dipakai sebagai OEM dari mobil EV, Pak?
+391	Dunlop sendiri, apakah ada produknya yang sudah dipakai sebagai OEM dari mobil EV, Pak?
+392	Dunlop sendiri, apakah ada produknya yang sudah dipakai sebagai OEM dari mobil EV, Pak?
+393	Dunlop sendiri, apakah ada produknya yang sudah dipakai sebagai OEM dari mobil EV, Pak? Ya, untuk publikan Dunlop, seperti komitmennya untuk menjaga ramah lingkungan, kita sudah mempunyai OEM yang langsung dipakai di mobil EV.
+394	Ya, untuk publikan Dunlop, seperti komitmennya untuk menjaga ramah lingkungan, kita sudah mempunyai OEM yang langsung dipakai di mobil EV.
+395	Ya, untuk publikan Dunlop, seperti komitmennya untuk menjaga ramah lingkungan, kita sudah mempunyai OEM yang langsung dipakai di mobil EV.
+396	Ya, untuk publikan Dunlop, seperti komitmennya untuk menjaga ramah lingkungan, kita sudah mempunyai OEM yang langsung dipakai di mobil EV.
+397	Ya, untuk publikan Dunlop, seperti komitmennya untuk menjaga ramah lingkungan, kita sudah mempunyai OEM yang langsung dipakai di mobil EV.
+398	Ya, untuk publikan Dunlop, seperti komitmennya untuk menjaga ramah lingkungan, kita sudah mempunyai OEM yang langsung dipakai di mobil EV.
+399	Ya, untuk publikan Dunlop, seperti komitmennya untuk menjaga ramah lingkungan, kita sudah mempunyai OEM yang langsung dipakai di mobil EV.
+400	Ya, untuk publikan Dunlop, seperti komitmennya untuk menjaga ramah lingkungan, kita sudah mempunyai OEM yang langsung dipakai di mobil EV.
+401	Ya, untuk publikan Dunlop, seperti komitmennya untuk menjaga ramah lingkungan, kita sudah mempunyai OEM yang langsung dipakai di mobil EV.
+402	Ya, untuk publikan Dunlop, seperti komitmennya untuk menjaga ramah lingkungan, kita sudah mempunyai OEM yang langsung dipakai di mobil EV.
+403	Ya, untuk publikan Dunlop, seperti komitmennya untuk menjaga ramah lingkungan, kita sudah mempunyai OEM yang langsung dipakai di mobil EV.
+404	Ya, untuk publikan Dunlop, seperti komitmennya untuk menjaga ramah lingkungan, kita sudah mempunyai OEM yang langsung dipakai di mobil EV.
+405	Ya, untuk publikan Dunlop, seperti komitmennya untuk menjaga ramah lingkungan, kita sudah mempunyai OEM yang langsung dipakai di mobil EV.
+406	Ya, untuk publikan Dunlop, seperti komitmennya untuk menjaga ramah lingkungan, kita sudah mempunyai OEM yang langsung dipakai di mobil EV.
+407	Ya, untuk publikan Dunlop, seperti komitmennya untuk menjaga ramah lingkungan, kita sudah mempunyai OEM yang langsung dipakai di mobil EV.
+408	Ya, untuk publikan Dunlop, seperti komitmennya untuk menjaga ramah lingkungan, kita sudah mempunyai OEM yang langsung dipakai di mobil EV. Saat ini Dunlop sudah dipakai di mobil Nissan Leaf.
+409	Saat ini Dunlop sudah dipakai di mobil Nissan Leaf.
+410	Saat ini Dunlop sudah dipakai di mobil Nissan Leaf.
+411	Saat ini Dunlop sudah dipakai di mobil Nissan Leaf.
+412	Saat ini Dunlop sudah dipakai di mobil Nissan Leaf.
+413	Saat ini Dunlop sudah dipakai di mobil Nissan Leaf.
+414	Saat ini Dunlop sudah dipakai di mobil Nissan Leaf. Oh iya, Nissan Leaf ya?
+415	Saat ini Dunlop sudah dipakai di mobil Nissan Leaf. Oh iya, Nissan Leaf ya?
+416	Oh iya, Nissan Leaf ya? Betul. Betul ya.
+417	Oh iya, Nissan Leaf ya? Betul. Betul ya. Pengujian ini tidak terbatas hanya tingkat kausan, tapi juga akan dilanjutkan sampai menjangkau ke daya cengkram, kemudian rolling resistance, sampai keheningannya.
+418	Betul ya. Pengujian ini tidak terbatas hanya tingkat kausan, tapi juga akan dilanjutkan sampai menjangkau ke daya cengkram, kemudian rolling resistance, sampai keheningannya.
+419	Pengujian ini tidak terbatas hanya tingkat kausan, tapi juga akan dilanjutkan sampai menjangkau ke daya cengkram, kemudian rolling resistance, sampai keheningannya.
+420	Pengujian ini tidak terbatas hanya tingkat kausan, tapi juga akan dilanjutkan sampai menjangkau ke daya cengkram, kemudian rolling resistance, sampai keheningannya.
+421	Pengujian ini tidak terbatas hanya tingkat kausan, tapi juga akan dilanjutkan sampai menjangkau ke daya cengkram, kemudian rolling resistance, sampai keheningannya.
+422	Pengujian ini tidak terbatas hanya tingkat kausan, tapi juga akan dilanjutkan sampai menjangkau ke daya cengkram, kemudian rolling resistance, sampai keheningannya.
+423	Pengujian ini tidak terbatas hanya tingkat kausan, tapi juga akan dilanjutkan sampai menjangkau ke daya cengkram, kemudian rolling resistance, sampai keheningannya.
+424	Pengujian ini tidak terbatas hanya tingkat kausan, tapi juga akan dilanjutkan sampai menjangkau ke daya cengkram, kemudian rolling resistance, sampai keheningannya.
+425	Pengujian ini tidak terbatas hanya tingkat kausan, tapi juga akan dilanjutkan sampai menjangkau ke daya cengkram, kemudian rolling resistance, sampai keheningannya.
+426	Pengujian ini tidak terbatas hanya tingkat kausan, tapi juga akan dilanjutkan sampai menjangkau ke daya cengkram, kemudian rolling resistance, sampai keheningannya.
+427	Pengujian ini tidak terbatas hanya tingkat kausan, tapi juga akan dilanjutkan sampai menjangkau ke daya cengkram, kemudian rolling resistance, sampai keheningannya.
+428	Pengujian ini tidak terbatas hanya tingkat kausan, tapi juga akan dilanjutkan sampai menjangkau ke daya cengkram, kemudian rolling resistance, sampai keheningannya.
+429	Pengujian ini tidak terbatas hanya tingkat kausan, tapi juga akan dilanjutkan sampai menjangkau ke daya cengkram, kemudian rolling resistance, sampai keheningannya.
+430	Pengujian ini tidak terbatas hanya tingkat kausan, tapi juga akan dilanjutkan sampai menjangkau ke daya cengkram, kemudian rolling resistance, sampai keheningannya.
+431	Pengujian ini tidak terbatas hanya tingkat kausan, tapi juga akan dilanjutkan sampai menjangkau ke daya cengkram, kemudian rolling resistance, sampai keheningannya.
+432	Pengujian ini tidak terbatas hanya tingkat kausan, tapi juga akan dilanjutkan sampai menjangkau ke daya cengkram, kemudian rolling resistance, sampai keheningannya.
+433	Pengujian ini tidak terbatas hanya tingkat kausan, tapi juga akan dilanjutkan sampai menjangkau ke daya cengkram, kemudian rolling resistance, sampai keheningannya.
+434	Pengujian ini tidak terbatas hanya tingkat kausan, tapi juga akan dilanjutkan sampai menjangkau ke daya cengkram, kemudian rolling resistance, sampai keheningannya.
+435	Pengujian ini tidak terbatas hanya tingkat kausan, tapi juga akan dilanjutkan sampai menjangkau ke daya cengkram, kemudian rolling resistance, sampai keheningannya. Karena di EV semua itu penting.
+436	Pengujian ini tidak terbatas hanya tingkat kausan, tapi juga akan dilanjutkan sampai menjangkau ke daya cengkram, kemudian rolling resistance, sampai keheningannya. Karena di EV semua itu penting.
+437	Karena di EV semua itu penting.
+438	Karena di EV semua itu penting.
+439	Karena di EV semua itu penting. EV kita tahu, dia sangat hening, tidak ada suara dan getaran dari penggeraknya.
+440	Karena di EV semua itu penting. EV kita tahu, dia sangat hening, tidak ada suara dan getaran dari penggeraknya.
+441	EV kita tahu, dia sangat hening, tidak ada suara dan getaran dari penggeraknya.
+442	EV kita tahu, dia sangat hening, tidak ada suara dan getaran dari penggeraknya.
+443	EV kita tahu, dia sangat hening, tidak ada suara dan getaran dari penggeraknya.
+444	EV kita tahu, dia sangat hening, tidak ada suara dan getaran dari penggeraknya.
+445	EV kita tahu, dia sangat hening, tidak ada suara dan getaran dari penggeraknya.
+446	EV kita tahu, dia sangat hening, tidak ada suara dan getaran dari penggeraknya.
+447	EV kita tahu, dia sangat hening, tidak ada suara dan getaran dari penggeraknya. Jadi suara ban akan terdengar lebih jelas kalau misalnya bannya berisik.
+448	EV kita tahu, dia sangat hening, tidak ada suara dan getaran dari penggeraknya. Jadi suara ban akan terdengar lebih jelas kalau misalnya bannya berisik.
+449	Jadi suara ban akan terdengar lebih jelas kalau misalnya bannya berisik.
+450	Jadi suara ban akan terdengar lebih jelas kalau misalnya bannya berisik.
+451	Jadi suara ban akan terdengar lebih jelas kalau misalnya bannya berisik.
+452	Jadi suara ban akan terdengar lebih jelas kalau misalnya bannya berisik.
+453	Jadi suara ban akan terdengar lebih jelas kalau misalnya bannya berisik.
+454	Jadi suara ban akan terdengar lebih jelas kalau misalnya bannya berisik.
+455	Jadi suara ban akan terdengar lebih jelas kalau misalnya bannya berisik. Makanya ban EV itu harus hening.
+456	Jadi suara ban akan terdengar lebih jelas kalau misalnya bannya berisik. Makanya ban EV itu harus hening.
+457	Makanya ban EV itu harus hening.
+458	Makanya ban EV itu harus hening.
+459	Makanya ban EV itu harus hening.
+460	Makanya ban EV itu harus hening.
+461	Makanya ban EV itu harus hening. Kemudian, karena EV itu memiliki tenaga dan torsi yang instan, makanya dibutuhkan juga daya cengkram.
+462	Kemudian, karena EV itu memiliki tenaga dan torsi yang instan, makanya dibutuhkan juga daya cengkram.
+463	Kemudian, karena EV itu memiliki tenaga dan torsi yang instan, makanya dibutuhkan juga daya cengkram.
+464	Kemudian, karena EV itu memiliki tenaga dan torsi yang instan, makanya dibutuhkan juga daya cengkram.
+465	Kemudian, karena EV itu memiliki tenaga dan torsi yang instan, makanya dibutuhkan juga daya cengkram.
+466	Kemudian, karena EV itu memiliki tenaga dan torsi yang instan, makanya dibutuhkan juga daya cengkram.
+467	Kemudian, karena EV itu memiliki tenaga dan torsi yang instan, makanya dibutuhkan juga daya cengkram.
+468	Kemudian, karena EV itu memiliki tenaga dan torsi yang instan, makanya dibutuhkan juga daya cengkram.
+469	Kemudian, karena EV itu memiliki tenaga dan torsi yang instan, makanya dibutuhkan juga daya cengkram.
+470	Kemudian, karena EV itu memiliki tenaga dan torsi yang instan, makanya dibutuhkan juga daya cengkram.
+471	Kemudian, karena EV itu memiliki tenaga dan torsi yang instan, makanya dibutuhkan juga daya cengkram.
+472	Kemudian, karena EV itu memiliki tenaga dan torsi yang instan, makanya dibutuhkan juga daya cengkram.
+473	Kemudian, karena EV itu memiliki tenaga dan torsi yang instan, makanya dibutuhkan juga daya cengkram.
+474	Kemudian, karena EV itu memiliki tenaga dan torsi yang instan, makanya dibutuhkan juga daya cengkram.
+475	Kemudian, karena EV itu memiliki tenaga dan torsi yang instan, makanya dibutuhkan juga daya cengkram.
+476	Kemudian, karena EV itu memiliki tenaga dan torsi yang instan, makanya dibutuhkan juga daya cengkram. Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+477	Kemudian, karena EV itu memiliki tenaga dan torsi yang instan, makanya dibutuhkan juga daya cengkram. Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+478	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+479	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+480	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+481	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+482	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+483	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+484	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+485	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+486	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+487	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+488	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+489	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+490	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+491	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+492	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan. Dan satu lagi, rolling resistance alias hambatan gelinding.
+493	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan. Dan satu lagi, rolling resistance alias hambatan gelinding.
+494	Dan satu lagi, rolling resistance alias hambatan gelinding.
+495	Dan satu lagi, rolling resistance alias hambatan gelinding.
+496	Dan satu lagi, rolling resistance alias hambatan gelinding.
+497	Dan satu lagi, rolling resistance alias hambatan gelinding.
+498	Dan satu lagi, rolling resistance alias hambatan gelinding.
+499	Dan satu lagi, rolling resistance alias hambatan gelinding.
+500	Dan satu lagi, rolling resistance alias hambatan gelinding. Itu akan mempengaruhi jarak tempuh total dari sebuah mobil listrik.
+501	Dan satu lagi, rolling resistance alias hambatan gelinding. Itu akan mempengaruhi jarak tempuh total dari sebuah mobil listrik.
+502	Itu akan mempengaruhi jarak tempuh total dari sebuah mobil listrik.
+503	Itu akan mempengaruhi jarak tempuh total dari sebuah mobil listrik.
+504	Itu akan mempengaruhi jarak tempuh total dari sebuah mobil listrik.
+505	Itu akan mempengaruhi jarak tempuh total dari sebuah mobil listrik.
+506	Itu akan mempengaruhi jarak tempuh total dari sebuah mobil listrik.
+507	Itu akan mempengaruhi jarak tempuh total dari sebuah mobil listrik.
+508	Itu akan mempengaruhi jarak tempuh total dari sebuah mobil listrik.
+509	Itu akan mempengaruhi jarak tempuh total dari sebuah mobil listrik.
+510	Itu akan mempengaruhi jarak tempuh total dari sebuah mobil listrik. Dan itu semua akan diuji dalam pengetesan.
+511	Itu akan mempengaruhi jarak tempuh total dari sebuah mobil listrik. Dan itu semua akan diuji dalam pengetesan.
+512	Dan itu semua akan diuji dalam pengetesan.
+513	Dan itu semua akan diuji dalam pengetesan.
+514	Dan itu semua akan diuji dalam pengetesan.
+515	Dan itu semua akan diuji dalam pengetesan.
+516	Dan itu semua akan diuji dalam pengetesan.
+517	[NO_SPEECH]
+518	[NO_SPEECH]
+519	[NO_SPEECH]
+520	[NO_SPEECH]
+521	[NO_SPEECH]
+522	[NO_SPEECH]
+523	[NO_SPEECH]
+524	[NO_SPEECH]
+525	[NO_SPEECH]
+526	[NO_SPEECH]
+527	[NO_SPEECH]
+528	[NO_SPEECH]
+529	[NO_SPEECH]
+530	[NO_SPEECH]
+531	[NO_SPEECH]
+532	[NO_SPEECH]
+533	[NO_SPEECH]
+534	[NO_SPEECH]
+535	[NO_SPEECH]
+536	[NO_SPEECH]
+537	[NO_SPEECH]
+538	[NO_SPEECH]
+539	[NO_SPEECH]
+540	[NO_SPEECH]
+541	[NO_SPEECH]
+542	[NO_SPEECH]
+543	[NO_SPEECH]
+544	[NO_SPEECH]
+545	[NO_SPEECH]
+546	[NO_SPEECH]
+547	[NO_SPEECH]
+548	[NO_SPEECH]
+549	[NO_SPEECH]
+550	[NO_SPEECH]
+551	[NO_SPEECH]
+552	[NO_SPEECH]
+553	[NO_SPEECH]
+554	[NO_SPEECH]
+555	[NO_SPEECH]
+556	[NO_SPEECH]
+557	[NO_SPEECH]
+558	[NO_SPEECH]
+559	[NO_SPEECH]
+560	[NO_SPEECH]
+561	[NO_SPEECH]
+562	[NO_SPEECH]
+563	[NO_SPEECH]
+564	[NO_SPEECH]
+565	[NO_SPEECH]
+566	[NO_SPEECH]
+567	[NO_SPEECH]
+568	[NO_SPEECH]
+569	[NO_SPEECH]
+570	[NO_SPEECH]
+571	[NO_SPEECH]
+572	[NO_SPEECH]
+573	[NO_SPEECH]
+574	[NO_SPEECH]
+575	[NO_SPEECH]
+576	[NO_SPEECH]
+577	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+578	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+579	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+580	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+581	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan.
+582	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan. Nah, beginilah keseharian dari tim Dunlop.
+583	Kekram yang kuat dari ban, supaya bisa menyalurkan daya dan torsi yang instan tersebut secara efektif ke jalan. Nah, beginilah keseharian dari tim Dunlop.
+584	Nah, beginilah keseharian dari tim Dunlop.
+585	Nah, beginilah keseharian dari tim Dunlop.
+586	Nah, beginilah keseharian dari tim Dunlop.
+587	Nah, beginilah keseharian dari tim Dunlop.
+588	Nah, beginilah keseharian dari tim Dunlop.
+589	Nah, beginilah keseharian dari tim Dunlop. Jadi setiap kali mereka istirahat, untuk sholat, untuk minum,
+590	Jadi setiap kali mereka istirahat, untuk sholat, untuk minum,
+591	Jadi setiap kali mereka istirahat, untuk sholat, untuk minum,
+592	Jadi setiap kali mereka istirahat, untuk sholat, untuk minum,
+593	Jadi setiap kali mereka istirahat, untuk sholat, untuk minum,
+594	Jadi setiap kali mereka istirahat, untuk sholat, untuk minum,
+595	Jadi setiap kali mereka istirahat, untuk sholat, untuk minum,
+596	Jadi setiap kali mereka istirahat, untuk sholat, untuk minum, untuk makan, itu mobil langsung di charge di DC Fast Charging.
+597	Jadi setiap kali mereka istirahat, untuk sholat, untuk minum, untuk makan, itu mobil langsung di charge di DC Fast Charging.
+598	untuk makan, itu mobil langsung di charge di DC Fast Charging.
+599	untuk makan, itu mobil langsung di charge di DC Fast Charging.
+600	untuk makan, itu mobil langsung di charge di DC Fast Charging.
+601	untuk makan, itu mobil langsung di charge di DC Fast Charging.
+602	untuk makan, itu mobil langsung di charge di DC Fast Charging.
+603	untuk makan, itu mobil langsung di charge di DC Fast Charging.
+604	untuk makan, itu mobil langsung di charge di DC Fast Charging. Itulah kenapa mereka bisa setiap hari pulang pergi Jakarta, Semarang selama 30 hari berturut-turut.
+605	untuk makan, itu mobil langsung di charge di DC Fast Charging. Itulah kenapa mereka bisa setiap hari pulang pergi Jakarta, Semarang selama 30 hari berturut-turut.
+606	Itulah kenapa mereka bisa setiap hari pulang pergi Jakarta, Semarang selama 30 hari berturut-turut.
+607	Itulah kenapa mereka bisa setiap hari pulang pergi Jakarta, Semarang selama 30 hari berturut-turut.
+608	Itulah kenapa mereka bisa setiap hari pulang pergi Jakarta, Semarang selama 30 hari berturut-turut.
+609	Itulah kenapa mereka bisa setiap hari pulang pergi Jakarta, Semarang selama 30 hari berturut-turut.
+610	Itulah kenapa mereka bisa setiap hari pulang pergi Jakarta, Semarang selama 30 hari berturut-turut.
+611	Itulah kenapa mereka bisa setiap hari pulang pergi Jakarta, Semarang selama 30 hari berturut-turut.
+612	Itulah kenapa mereka bisa setiap hari pulang pergi Jakarta, Semarang selama 30 hari berturut-turut.
+613	Itulah kenapa mereka bisa setiap hari pulang pergi Jakarta, Semarang selama 30 hari berturut-turut.
+614	Itulah kenapa mereka bisa setiap hari pulang pergi Jakarta, Semarang selama 30 hari berturut-turut.
+615	Itulah kenapa mereka bisa setiap hari pulang pergi Jakarta, Semarang selama 30 hari berturut-turut.
+616	Itulah kenapa mereka bisa setiap hari pulang pergi Jakarta, Semarang selama 30 hari berturut-turut.
+617	Itulah kenapa mereka bisa setiap hari pulang pergi Jakarta, Semarang selama 30 hari berturut-turut.
+618	Itulah kenapa mereka bisa setiap hari pulang pergi Jakarta, Semarang selama 30 hari berturut-turut. Pak Darius, so far bagaimana hasil pengetesannya?
+619	Itulah kenapa mereka bisa setiap hari pulang pergi Jakarta, Semarang selama 30 hari berturut-turut. Pak Darius, so far bagaimana hasil pengetesannya?
+620	Pak Darius, so far bagaimana hasil pengetesannya?
+621	Pak Darius, so far bagaimana hasil pengetesannya?
+622	Pak Darius, so far bagaimana hasil pengetesannya?
+623	Pak Darius, so far bagaimana hasil pengetesannya?
+624	Pak Darius, so far bagaimana hasil pengetesannya?
+625	Pak Darius, so far bagaimana hasil pengetesannya? Ya, so far sampai sejauh ini, tingkat kawasan Dunlop S-Sport LM705 lebih kecil dibandingkan dengan kompetitor.
+626	Pak Darius, so far bagaimana hasil pengetesannya? Ya, so far sampai sejauh ini, tingkat kawasan Dunlop S-Sport LM705 lebih kecil dibandingkan dengan kompetitor.
+627	Ya, so far sampai sejauh ini, tingkat kawasan Dunlop S-Sport LM705 lebih kecil dibandingkan dengan kompetitor.
+628	Ya, so far sampai sejauh ini, tingkat kawasan Dunlop S-Sport LM705 lebih kecil dibandingkan dengan kompetitor.
+629	Ya, so far sampai sejauh ini, tingkat kawasan Dunlop S-Sport LM705 lebih kecil dibandingkan dengan kompetitor.
+630	Ya, so far sampai sejauh ini, tingkat kawasan Dunlop S-Sport LM705 lebih kecil dibandingkan dengan kompetitor.
+631	Ya, so far sampai sejauh ini, tingkat kawasan Dunlop S-Sport LM705 lebih kecil dibandingkan dengan kompetitor.
+632	Ya, so far sampai sejauh ini, tingkat kawasan Dunlop S-Sport LM705 lebih kecil dibandingkan dengan kompetitor.
+633	Ya, so far sampai sejauh ini, tingkat kawasan Dunlop S-Sport LM705 lebih kecil dibandingkan dengan kompetitor.
+634	Ya, so far sampai sejauh ini, tingkat kawasan Dunlop S-Sport LM705 lebih kecil dibandingkan dengan kompetitor.
+635	Ya, so far sampai sejauh ini, tingkat kawasan Dunlop S-Sport LM705 lebih kecil dibandingkan dengan kompetitor.
+636	Ya, so far sampai sejauh ini, tingkat kawasan Dunlop S-Sport LM705 lebih kecil dibandingkan dengan kompetitor.
+637	Ya, so far sampai sejauh ini, tingkat kawasan Dunlop S-Sport LM705 lebih kecil dibandingkan dengan kompetitor.
+638	Ya, so far sampai sejauh ini, tingkat kawasan Dunlop S-Sport LM705 lebih kecil dibandingkan dengan kompetitor.
+639	Ya, so far sampai sejauh ini, tingkat kawasan Dunlop S-Sport LM705 lebih kecil dibandingkan dengan kompetitor.
+640	Ya, so far sampai sejauh ini, tingkat kawasan Dunlop S-Sport LM705 lebih kecil dibandingkan dengan kompetitor.
+641	Ya, so far sampai sejauh ini, tingkat kawasan Dunlop S-Sport LM705 lebih kecil dibandingkan dengan kompetitor. Wah, mantap!
+642	Ya, so far sampai sejauh ini, tingkat kawasan Dunlop S-Sport LM705 lebih kecil dibandingkan dengan kompetitor. Wah, mantap!
+643	Wah, mantap!
+644	Wah, mantap! Dan pengujian juga masih akan berlanjut, karena setelah ini, setelah selesai uji tingkat kawasan,
+645	Dan pengujian juga masih akan berlanjut, karena setelah ini, setelah selesai uji tingkat kawasan,
+646	Dan pengujian juga masih akan berlanjut, karena setelah ini, setelah selesai uji tingkat kawasan,
+647	Dan pengujian juga masih akan berlanjut, karena setelah ini, setelah selesai uji tingkat kawasan,
+648	Dan pengujian juga masih akan berlanjut, karena setelah ini, setelah selesai uji tingkat kawasan,
+649	Dan pengujian juga masih akan berlanjut, karena setelah ini, setelah selesai uji tingkat kawasan,
+650	Dan pengujian juga masih akan berlanjut, karena setelah ini, setelah selesai uji tingkat kawasan,
+651	Dan pengujian juga masih akan berlanjut, karena setelah ini, setelah selesai uji tingkat kawasan,
+652	Dan pengujian juga masih akan berlanjut, karena setelah ini, setelah selesai uji tingkat kawasan,
+653	Dan pengujian juga masih akan berlanjut, karena setelah ini, setelah selesai uji tingkat kawasan,
+654	Dan pengujian juga masih akan berlanjut, karena setelah ini, setelah selesai uji tingkat kawasan, akan juga diuji bagaimana noise-nya, bagaimana rolling resistance-nya, dan bagaimana grip-nya atau daya cengkramnya.
+655	Dan pengujian juga masih akan berlanjut, karena setelah ini, setelah selesai uji tingkat kawasan, akan juga diuji bagaimana noise-nya, bagaimana rolling resistance-nya, dan bagaimana grip-nya atau daya cengkramnya.
+656	akan juga diuji bagaimana noise-nya, bagaimana rolling resistance-nya, dan bagaimana grip-nya atau daya cengkramnya.
+657	akan juga diuji bagaimana noise-nya, bagaimana rolling resistance-nya, dan bagaimana grip-nya atau daya cengkramnya.
+658	akan juga diuji bagaimana noise-nya, bagaimana rolling resistance-nya, dan bagaimana grip-nya atau daya cengkramnya.
+659	akan juga diuji bagaimana noise-nya, bagaimana rolling resistance-nya, dan bagaimana grip-nya atau daya cengkramnya.
+660	akan juga diuji bagaimana noise-nya, bagaimana rolling resistance-nya, dan bagaimana grip-nya atau daya cengkramnya.
+661	akan juga diuji bagaimana noise-nya, bagaimana rolling resistance-nya, dan bagaimana grip-nya atau daya cengkramnya.
+662	akan juga diuji bagaimana noise-nya, bagaimana rolling resistance-nya, dan bagaimana grip-nya atau daya cengkramnya.
+663	akan juga diuji bagaimana noise-nya, bagaimana rolling resistance-nya, dan bagaimana grip-nya atau daya cengkramnya.
+664	akan juga diuji bagaimana noise-nya, bagaimana rolling resistance-nya, dan bagaimana grip-nya atau daya cengkramnya.
+665	akan juga diuji bagaimana noise-nya, bagaimana rolling resistance-nya, dan bagaimana grip-nya atau daya cengkramnya.
+666	akan juga diuji bagaimana noise-nya, bagaimana rolling resistance-nya, dan bagaimana grip-nya atau daya cengkramnya.
+667	akan juga diuji bagaimana noise-nya, bagaimana rolling resistance-nya, dan bagaimana grip-nya atau daya cengkramnya. Tapi saya, selaku pengguna Dunlop S-Sport LM705, udah beberapa mobil saya pak, pakai itu,
+668	akan juga diuji bagaimana noise-nya, bagaimana rolling resistance-nya, dan bagaimana grip-nya atau daya cengkramnya. Tapi saya, selaku pengguna Dunlop S-Sport LM705, udah beberapa mobil saya pak, pakai itu,
+669	Tapi saya, selaku pengguna Dunlop S-Sport LM705, udah beberapa mobil saya pak, pakai itu,
+670	Tapi saya, selaku pengguna Dunlop S-Sport LM705, udah beberapa mobil saya pak, pakai itu,
+671	Tapi saya, selaku pengguna Dunlop S-Sport LM705, udah beberapa mobil saya pak, pakai itu,
+672	Tapi saya, selaku pengguna Dunlop S-Sport LM705, udah beberapa mobil saya pak, pakai itu,
+673	Tapi saya, selaku pengguna Dunlop S-Sport LM705, udah beberapa mobil saya pak, pakai itu,
+674	Tapi saya, selaku pengguna Dunlop S-Sport LM705, udah beberapa mobil saya pak, pakai itu,
+675	Tapi saya, selaku pengguna Dunlop S-Sport LM705, udah beberapa mobil saya pak, pakai itu,
+676	Tapi saya, selaku pengguna Dunlop S-Sport LM705, udah beberapa mobil saya pak, pakai itu,
+677	Tapi saya, selaku pengguna Dunlop S-Sport LM705, udah beberapa mobil saya pak, pakai itu,
+678	Tapi saya, selaku pengguna Dunlop S-Sport LM705, udah beberapa mobil saya pak, pakai itu,
+679	Tapi saya, selaku pengguna Dunlop S-Sport LM705, udah beberapa mobil saya pak, pakai itu, saya tahu sekali bagaimana bagusnya grip-nya dan rolling resistance-nya juga rendah,
+680	Tapi saya, selaku pengguna Dunlop S-Sport LM705, udah beberapa mobil saya pak, pakai itu, saya tahu sekali bagaimana bagusnya grip-nya dan rolling resistance-nya juga rendah,
+681	saya tahu sekali bagaimana bagusnya grip-nya dan rolling resistance-nya juga rendah,
+682	saya tahu sekali bagaimana bagusnya grip-nya dan rolling resistance-nya juga rendah,
+683	saya tahu sekali bagaimana bagusnya grip-nya dan rolling resistance-nya juga rendah,
+684	saya tahu sekali bagaimana bagusnya grip-nya dan rolling resistance-nya juga rendah,
+685	saya tahu sekali bagaimana bagusnya grip-nya dan rolling resistance-nya juga rendah,
+686	saya tahu sekali bagaimana bagusnya grip-nya dan rolling resistance-nya juga rendah,
+687	saya tahu sekali bagaimana bagusnya grip-nya dan rolling resistance-nya juga rendah,
+688	saya tahu sekali bagaimana bagusnya grip-nya dan rolling resistance-nya juga rendah, serta noise-nya yang luar biasa, sangat minim dari Dunlop S-Sport LM705.
+689	saya tahu sekali bagaimana bagusnya grip-nya dan rolling resistance-nya juga rendah, serta noise-nya yang luar biasa, sangat minim dari Dunlop S-Sport LM705.
+690	serta noise-nya yang luar biasa, sangat minim dari Dunlop S-Sport LM705.
+691	serta noise-nya yang luar biasa, sangat minim dari Dunlop S-Sport LM705.
+692	serta noise-nya yang luar biasa, sangat minim dari Dunlop S-Sport LM705.
+693	serta noise-nya yang luar biasa, sangat minim dari Dunlop S-Sport LM705.
+694	serta noise-nya yang luar biasa, sangat minim dari Dunlop S-Sport LM705.
+695	serta noise-nya yang luar biasa, sangat minim dari Dunlop S-Sport LM705.
+696	serta noise-nya yang luar biasa, sangat minim dari Dunlop S-Sport LM705.
+697	serta noise-nya yang luar biasa, sangat minim dari Dunlop S-Sport LM705.
+698	serta noise-nya yang luar biasa, sangat minim dari Dunlop S-Sport LM705. Bahkan, saya berencana untuk mengganti ban standar dari Wuling Bingo EV saya ini ke Dunlop S-Sport LM705.
+699	serta noise-nya yang luar biasa, sangat minim dari Dunlop S-Sport LM705. Bahkan, saya berencana untuk mengganti ban standar dari Wuling Bingo EV saya ini ke Dunlop S-Sport LM705.
+700	Bahkan, saya berencana untuk mengganti ban standar dari Wuling Bingo EV saya ini ke Dunlop S-Sport LM705.
+701	Bahkan, saya berencana untuk mengganti ban standar dari Wuling Bingo EV saya ini ke Dunlop S-Sport LM705.
+702	Bahkan, saya berencana untuk mengganti ban standar dari Wuling Bingo EV saya ini ke Dunlop S-Sport LM705.
+703	Bahkan, saya berencana untuk mengganti ban standar dari Wuling Bingo EV saya ini ke Dunlop S-Sport LM705.
+704	Bahkan, saya berencana untuk mengganti ban standar dari Wuling Bingo EV saya ini ke Dunlop S-Sport LM705.
+705	Bahkan, saya berencana untuk mengganti ban standar dari Wuling Bingo EV saya ini ke Dunlop S-Sport LM705.
+706	Bahkan, saya berencana untuk mengganti ban standar dari Wuling Bingo EV saya ini ke Dunlop S-Sport LM705.
+707	Bahkan, saya berencana untuk mengganti ban standar dari Wuling Bingo EV saya ini ke Dunlop S-Sport LM705.
+708	Bahkan, saya berencana untuk mengganti ban standar dari Wuling Bingo EV saya ini ke Dunlop S-Sport LM705.
+709	Bahkan, saya berencana untuk mengganti ban standar dari Wuling Bingo EV saya ini ke Dunlop S-Sport LM705.
+710	Bahkan, saya berencana untuk mengganti ban standar dari Wuling Bingo EV saya ini ke Dunlop S-Sport LM705.
+711	Bahkan, saya berencana untuk mengganti ban standar dari Wuling Bingo EV saya ini ke Dunlop S-Sport LM705.
+712	Bahkan, saya berencana untuk mengganti ban standar dari Wuling Bingo EV saya ini ke Dunlop S-Sport LM705.
+713	Bahkan, saya berencana untuk mengganti ban standar dari Wuling Bingo EV saya ini ke Dunlop S-Sport LM705.
+714	Bahkan, saya berencana untuk mengganti ban standar dari Wuling Bingo EV saya ini ke Dunlop S-Sport LM705. Ada kan ya pak, ukurannya ya?
+715	Bahkan, saya berencana untuk mengganti ban standar dari Wuling Bingo EV saya ini ke Dunlop S-Sport LM705. Ada kan ya pak, ukurannya ya?
+716	Ada kan ya pak, ukurannya ya?
+717	Ada kan ya pak, ukurannya ya?
+718	Ada kan ya pak, ukurannya ya? Ya, untuk ukuran ini ada.
+719	Ya, untuk ukuran ini ada. Ada ya?
+720	Ya, untuk ukuran ini ada. Ada ya?
+721	Ada ya? Ya.
+722	Ada ya? Ya. Oke, jadi sekarang tim akan melanjutkan lagi ke Semarang.
+723	Oke, jadi sekarang tim akan melanjutkan lagi ke Semarang.
+724	Oke, jadi sekarang tim akan melanjutkan lagi ke Semarang.
+725	Oke, jadi sekarang tim akan melanjutkan lagi ke Semarang.
+726	Oke, jadi sekarang tim akan melanjutkan lagi ke Semarang.
+727	Oke, jadi sekarang tim akan melanjutkan lagi ke Semarang.
+728	Oke, jadi sekarang tim akan melanjutkan lagi ke Semarang.
+729	Oke, jadi sekarang tim akan melanjutkan lagi ke Semarang.
+730	Oke, jadi sekarang tim akan melanjutkan lagi ke Semarang.
+731	Oke, jadi sekarang tim akan melanjutkan lagi ke Semarang. Oke, terima kasih.
+732	Oke, jadi sekarang tim akan melanjutkan lagi ke Semarang. Oke, terima kasih.
+733	Oke, terima kasih. Dan balik lagi ke Jakarta hari ini juga.
+734	Oke, terima kasih. Dan balik lagi ke Jakarta hari ini juga.
+735	Dan balik lagi ke Jakarta hari ini juga.
+736	Dan balik lagi ke Jakarta hari ini juga.
+737	Dan balik lagi ke Jakarta hari ini juga.
+738	Dan balik lagi ke Jakarta hari ini juga.
+739	Dan balik lagi ke Jakarta hari ini juga.
+740	Dan balik lagi ke Jakarta hari ini juga. Betul, betul.
+741	Dan balik lagi ke Jakarta hari ini juga. Betul, betul. Besok akan seperti itu juga.
+742	Betul, betul. Besok akan seperti itu juga.
+743	Besok akan seperti itu juga.
+744	Besok akan seperti itu juga. Iya. Nah, kita sama-sama tunggu hasilnya.
+745	Iya. Nah, kita sama-sama tunggu hasilnya.
+746	Nah, kita sama-sama tunggu hasilnya.
+747	Nah, kita sama-sama tunggu hasilnya.
+748	Nah, kita sama-sama tunggu hasilnya. Hasilnya nanti setelah ada akan dipublish di website dan social media dari Dunlop.
+749	Nah, kita sama-sama tunggu hasilnya. Hasilnya nanti setelah ada akan dipublish di website dan social media dari Dunlop.
+750	Hasilnya nanti setelah ada akan dipublish di website dan social media dari Dunlop.
+751	Hasilnya nanti setelah ada akan dipublish di website dan social media dari Dunlop.
+752	Hasilnya nanti setelah ada akan dipublish di website dan social media dari Dunlop.
+753	Hasilnya nanti setelah ada akan dipublish di website dan social media dari Dunlop.
+754	Hasilnya nanti setelah ada akan dipublish di website dan social media dari Dunlop.
+755	Hasilnya nanti setelah ada akan dipublish di website dan social media dari Dunlop.
+756	Hasilnya nanti setelah ada akan dipublish di website dan social media dari Dunlop.
+757	Hasilnya nanti setelah ada akan dipublish di website dan social media dari Dunlop.
+758	Hasilnya nanti setelah ada akan dipublish di website dan social media dari Dunlop. Semoga hasilnya sesuai dengan harapan pak.
+759	Hasilnya nanti setelah ada akan dipublish di website dan social media dari Dunlop. Semoga hasilnya sesuai dengan harapan pak.
+760	Semoga hasilnya sesuai dengan harapan pak.
+761	Semoga hasilnya sesuai dengan harapan pak.
+762	Semoga hasilnya sesuai dengan harapan pak.
+763	Semoga hasilnya sesuai dengan harapan pak.
+764	Semoga hasilnya sesuai dengan harapan pak. Ya, semoga.
+765	Semoga hasilnya sesuai dengan harapan pak. Ya, semoga.
+766	Ya, semoga. Dan ingat, ayo kita selalu dukung produk buatan Dunlop.
+767	Dan ingat, ayo kita selalu dukung produk buatan Dunlop.
+768	Dan ingat, ayo kita selalu dukung produk buatan Dunlop.
+769	Dan ingat, ayo kita selalu dukung produk buatan Dunlop.
+770	Dan ingat, ayo kita selalu dukung produk buatan Dunlop.
+771	Dan ingat, ayo kita selalu dukung produk buatan Dunlop.
+772	Dan ingat, ayo kita selalu dukung produk buatan Dunlop.
+773	Dan ingat, ayo kita selalu dukung produk buatan Dunlop.
+774	Dan ingat, ayo kita selalu dukung produk buatan Dunlop. Dalam negeri.
+775	Dan ingat, ayo kita selalu dukung produk buatan Dunlop. Dalam negeri.
+776	Dalam negeri. Selamat melanjutkan perjalanan pak.
+777	Selamat melanjutkan perjalanan pak.
+778	Selamat melanjutkan perjalanan pak.
+779	Selamat melanjutkan perjalanan pak. Oke, terima kasih.
+780	Selamat melanjutkan perjalanan pak. Oke, terima kasih.
+781	Oke, terima kasih.
+782	[NO_SPEECH]
+783	[NO_SPEECH]
+784	[NO_SPEECH]
+785	[NO_SPEECH]
+786	[NO_SPEECH]
+787	[NO_SPEECH]
+788	[NO_SPEECH]
+789	[NO_SPEECH]
+790	[NO_SPEECH]
+791	[NO_SPEECH]
+792	[NO_SPEECH]
+793	[NO_SPEECH]
+794	[NO_SPEECH]
+795	[NO_SPEECH]
+796	[NO_SPEECH]
+797	[NO_SPEECH]
+798	[NO_SPEECH]
+799	[NO_SPEECH]
+800	[NO_SPEECH]
+801	[NO_SPEECH]
+802	[NO_SPEECH]
+803	[NO_SPEECH]
+804	[NO_SPEECH]
+805	[NO_SPEECH]
+806	[NO_SPEECH]
+807	[NO_SPEECH]
+808	[NO_SPEECH]
+809	[NO_SPEECH]
+810	[NO_SPEECH]
+811	[NO_SPEECH]
+812	[NO_SPEECH]
+813	[NO_SPEECH]
+814	[NO_SPEECH]
+815	[NO_SPEECH]
+816	[NO_SPEECH]
+817	[NO_SPEECH]
+818	[NO_SPEECH]
+819	[NO_SPEECH]

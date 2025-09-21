@@ -1,0 +1,149 @@
+0	Sekarang tidak pernah ada mengukur kecerdasan guru, mengukur kompetensi guru dari lulusannya.
+1	Sekarang tidak pernah ada mengukur kecerdasan guru, mengukur kompetensi guru dari lulusannya.
+2	Sekarang tidak pernah ada mengukur kecerdasan guru, mengukur kompetensi guru dari lulusannya.
+3	Sekarang tidak pernah ada mengukur kecerdasan guru, mengukur kompetensi guru dari lulusannya.
+4	Sekarang tidak pernah ada mengukur kecerdasan guru, mengukur kompetensi guru dari lulusannya.
+5	Sekarang tidak pernah ada mengukur kecerdasan guru, mengukur kompetensi guru dari lulusannya.
+6	Sekarang tidak pernah ada mengukur kecerdasan guru, mengukur kompetensi guru dari lulusannya.
+7	Sekarang tidak pernah ada mengukur kecerdasan guru, mengukur kompetensi guru dari lulusannya.
+8	Sekarang tidak pernah ada mengukur kecerdasan guru, mengukur kompetensi guru dari lulusannya.
+9	Sekarang tidak pernah ada mengukur kecerdasan guru, mengukur kompetensi guru dari lulusannya.
+10	Sekarang tidak pernah ada mengukur kecerdasan guru, mengukur kompetensi guru dari lulusannya. Di uji kompetensinya dari apanya?
+11	Sekarang tidak pernah ada mengukur kecerdasan guru, mengukur kompetensi guru dari lulusannya. Di uji kompetensinya dari apanya?
+12	Di uji kompetensinya dari apanya?
+13	Di uji kompetensinya dari apanya?
+14	Di uji kompetensinya dari apanya? Dari administrasinya, nulis absennya benar atau tidak.
+15	Di uji kompetensinya dari apanya? Dari administrasinya, nulis absennya benar atau tidak.
+16	Dari administrasinya, nulis absennya benar atau tidak.
+17	Dari administrasinya, nulis absennya benar atau tidak.
+18	Dari administrasinya, nulis absennya benar atau tidak.
+19	Dari administrasinya, nulis absennya benar atau tidak.
+20	Dari administrasinya, nulis absennya benar atau tidak.
+21	Dari administrasinya, nulis absennya benar atau tidak. Nggak ada tes.
+22	Nggak ada tes.
+23	Nggak ada tes.
+24	Nggak ada tes. Ada, tapi tesnya ngaco.
+25	Ada, tapi tesnya ngaco.
+26	Ada, tapi tesnya ngaco. Soal untuk mengetes guru tidak berkompetensi, orang soalnya masih ada.
+27	Ada, tapi tesnya ngaco. Soal untuk mengetes guru tidak berkompetensi, orang soalnya masih ada.
+28	Soal untuk mengetes guru tidak berkompetensi, orang soalnya masih ada.
+29	Soal untuk mengetes guru tidak berkompetensi, orang soalnya masih ada.
+30	Soal untuk mengetes guru tidak berkompetensi, orang soalnya masih ada.
+31	Soal untuk mengetes guru tidak berkompetensi, orang soalnya masih ada.
+32	Soal untuk mengetes guru tidak berkompetensi, orang soalnya masih ada.
+33	Soal untuk mengetes guru tidak berkompetensi, orang soalnya masih ada. Pangeran dipenuh guru meninggal pada tahun...
+34	Pangeran dipenuh guru meninggal pada tahun...
+35	Pangeran dipenuh guru meninggal pada tahun...
+36	Pangeran dipenuh guru meninggal pada tahun...
+37	Pangeran dipenuh guru meninggal pada tahun...
+38	Pangeran dipenuh guru meninggal pada tahun...
+39	Dan guru di Bimbel selalu lebih baik daripada guru di sekolah.
+40	Dan guru di Bimbel selalu lebih baik daripada guru di sekolah.
+41	Dan guru di Bimbel selalu lebih baik daripada guru di sekolah.
+42	Dan guru di Bimbel selalu lebih baik daripada guru di sekolah.
+43	Dan guru di Bimbel selalu lebih baik daripada guru di sekolah.
+44	Dan guru di Bimbel selalu lebih baik daripada guru di sekolah.
+45	Dan guru di Bimbel selalu lebih baik daripada guru di sekolah. Apa karena itu mereka emang lebih sejahtera juga ya?
+46	Apa karena itu mereka emang lebih sejahtera juga ya?
+47	Apa karena itu mereka emang lebih sejahtera juga ya?
+48	Apa karena itu mereka emang lebih sejahtera juga ya?
+49	Apa karena itu mereka emang lebih sejahtera juga ya? Karena guru di Bimbel dipaksa untuk mengajar.
+50	Apa karena itu mereka emang lebih sejahtera juga ya? Karena guru di Bimbel dipaksa untuk mengajar.
+51	Karena guru di Bimbel dipaksa untuk mengajar.
+52	Karena guru di Bimbel dipaksa untuk mengajar.
+53	Karena guru di Bimbel dipaksa untuk mengajar.
+54	Karena guru di Bimbel dipaksa untuk mengajar.
+55	Karena guru di Bimbel dipaksa untuk mengajar. Sedangkan guru di sekolah dipaksa jadi tata usaha.
+56	Karena guru di Bimbel dipaksa untuk mengajar. Sedangkan guru di sekolah dipaksa jadi tata usaha.
+57	Sedangkan guru di sekolah dipaksa jadi tata usaha.
+58	Sedangkan guru di sekolah dipaksa jadi tata usaha.
+59	Sedangkan guru di sekolah dipaksa jadi tata usaha.
+60	Sedangkan guru di sekolah dipaksa jadi tata usaha.
+61	Sedangkan guru di sekolah dipaksa jadi tata usaha. Teman saya, guru nggak pernah masuk kelas karena sibuk untuk ngurusin administrasi.
+62	Sedangkan guru di sekolah dipaksa jadi tata usaha. Teman saya, guru nggak pernah masuk kelas karena sibuk untuk ngurusin administrasi.
+63	Teman saya, guru nggak pernah masuk kelas karena sibuk untuk ngurusin administrasi.
+64	Teman saya, guru nggak pernah masuk kelas karena sibuk untuk ngurusin administrasi.
+65	Teman saya, guru nggak pernah masuk kelas karena sibuk untuk ngurusin administrasi.
+66	Teman saya, guru nggak pernah masuk kelas karena sibuk untuk ngurusin administrasi.
+67	Teman saya, guru nggak pernah masuk kelas karena sibuk untuk ngurusin administrasi.
+68	Teman saya, guru nggak pernah masuk kelas karena sibuk untuk ngurusin administrasi.
+69	Teman saya, guru nggak pernah masuk kelas karena sibuk untuk ngurusin administrasi.
+70	Teman saya, guru nggak pernah masuk kelas karena sibuk untuk ngurusin administrasi. Dan dia karena administrasinya lengkap, dia dinobatkan guru paling favorit dan guru terbaik di sekolah.
+71	Teman saya, guru nggak pernah masuk kelas karena sibuk untuk ngurusin administrasi. Dan dia karena administrasinya lengkap, dia dinobatkan guru paling favorit dan guru terbaik di sekolah.
+72	Dan dia karena administrasinya lengkap, dia dinobatkan guru paling favorit dan guru terbaik di sekolah.
+73	Dan dia karena administrasinya lengkap, dia dinobatkan guru paling favorit dan guru terbaik di sekolah.
+74	Dan dia karena administrasinya lengkap, dia dinobatkan guru paling favorit dan guru terbaik di sekolah.
+75	Dan dia karena administrasinya lengkap, dia dinobatkan guru paling favorit dan guru terbaik di sekolah.
+76	Dan dia karena administrasinya lengkap, dia dinobatkan guru paling favorit dan guru terbaik di sekolah.
+77	Dan dia karena administrasinya lengkap, dia dinobatkan guru paling favorit dan guru terbaik di sekolah.
+78	Dan dia karena administrasinya lengkap, dia dinobatkan guru paling favorit dan guru terbaik di sekolah.
+79	Dan dia karena administrasinya lengkap, dia dinobatkan guru paling favorit dan guru terbaik di sekolah.
+80	Dan dia karena administrasinya lengkap, dia dinobatkan guru paling favorit dan guru terbaik di sekolah.
+81	Dan dia karena administrasinya lengkap, dia dinobatkan guru paling favorit dan guru terbaik di sekolah.
+82	Dan dia karena administrasinya lengkap, dia dinobatkan guru paling favorit dan guru terbaik di sekolah.
+83	Dan dia karena administrasinya lengkap, dia dinobatkan guru paling favorit dan guru terbaik di sekolah.
+84	Dan dia karena administrasinya lengkap, dia dinobatkan guru paling favorit dan guru terbaik di sekolah.
+85	Fakta.
+86	Fakta.
+87	Fakta.
+88	Gini nih, pendidikan itu bukan untuk kerja.
+89	Gini nih, pendidikan itu bukan untuk kerja.
+90	Gini nih, pendidikan itu bukan untuk kerja.
+91	Gini nih, pendidikan itu bukan untuk kerja. Pendidikan itu untuk meningkatkan kualitas diri sampai kita layak untuk orang-orang maksa kita bekerja sama dengan mereka.
+92	Gini nih, pendidikan itu bukan untuk kerja. Pendidikan itu untuk meningkatkan kualitas diri sampai kita layak untuk orang-orang maksa kita bekerja sama dengan mereka.
+93	Pendidikan itu untuk meningkatkan kualitas diri sampai kita layak untuk orang-orang maksa kita bekerja sama dengan mereka.
+94	Pendidikan itu untuk meningkatkan kualitas diri sampai kita layak untuk orang-orang maksa kita bekerja sama dengan mereka.
+95	Pendidikan itu untuk meningkatkan kualitas diri sampai kita layak untuk orang-orang maksa kita bekerja sama dengan mereka.
+96	Pendidikan itu untuk meningkatkan kualitas diri sampai kita layak untuk orang-orang maksa kita bekerja sama dengan mereka.
+97	Pendidikan itu untuk meningkatkan kualitas diri sampai kita layak untuk orang-orang maksa kita bekerja sama dengan mereka.
+98	Pendidikan itu untuk meningkatkan kualitas diri sampai kita layak untuk orang-orang maksa kita bekerja sama dengan mereka.
+99	Pendidikan itu untuk meningkatkan kualitas diri sampai kita layak untuk orang-orang maksa kita bekerja sama dengan mereka.
+100	Pendidikan itu untuk meningkatkan kualitas diri sampai kita layak untuk orang-orang maksa kita bekerja sama dengan mereka.
+101	Pendidikan itu untuk meningkatkan kualitas diri sampai kita layak untuk orang-orang maksa kita bekerja sama dengan mereka.
+102	Pendidikan itu untuk meningkatkan kualitas diri sampai kita layak untuk orang-orang maksa kita bekerja sama dengan mereka.
+103	Pendidikan itu untuk meningkatkan kualitas diri sampai kita layak untuk orang-orang maksa kita bekerja sama dengan mereka.
+104	Pendidikan itu untuk meningkatkan kualitas diri sampai kita layak untuk orang-orang maksa kita bekerja sama dengan mereka.
+105	Pendidikan itu untuk meningkatkan kualitas diri sampai kita layak untuk orang-orang maksa kita bekerja sama dengan mereka. Setuju sih soal itu.
+106	Pendidikan itu untuk meningkatkan kualitas diri sampai kita layak untuk orang-orang maksa kita bekerja sama dengan mereka. Setuju sih soal itu.
+107	Setuju sih soal itu.
+108	Setuju sih soal itu. Misalnya dikasih power dan juga bisa ngerubah.
+109	Misalnya dikasih power dan juga bisa ngerubah.
+110	Misalnya dikasih power dan juga bisa ngerubah.
+111	Misalnya dikasih power dan juga bisa ngerubah.
+112	Misalnya dikasih power dan juga bisa ngerubah.
+113	Misalnya dikasih power dan juga bisa ngerubah.
+114	Misalnya dikasih power dan juga bisa ngerubah. Ya, perdagangan hukum ataupun sistem pendidikan di Indonesia.
+115	Misalnya dikasih power dan juga bisa ngerubah. Ya, perdagangan hukum ataupun sistem pendidikan di Indonesia.
+116	Ya, perdagangan hukum ataupun sistem pendidikan di Indonesia.
+117	Ya, perdagangan hukum ataupun sistem pendidikan di Indonesia.
+118	Ya, perdagangan hukum ataupun sistem pendidikan di Indonesia.
+119	Ya, perdagangan hukum ataupun sistem pendidikan di Indonesia.
+120	Ya, perdagangan hukum ataupun sistem pendidikan di Indonesia.
+121	Ya, perdagangan hukum ataupun sistem pendidikan di Indonesia. Hal pertama yang bakal dilakuin itu apa?
+122	Ya, perdagangan hukum ataupun sistem pendidikan di Indonesia. Hal pertama yang bakal dilakuin itu apa?
+123	Hal pertama yang bakal dilakuin itu apa?
+124	Hal pertama yang bakal dilakuin itu apa?
+125	Hal pertama yang bakal dilakuin itu apa? Bikin ormas.
+126	Hal pertama yang bakal dilakuin itu apa? Bikin ormas.
+127	Bikin ormas.
+128	[NO_SPEECH]
+129	[NO_SPEECH]
+130	[NO_SPEECH]
+131	[NO_SPEECH]
+132	[NO_SPEECH]
+133	[NO_SPEECH]
+134	[NO_SPEECH]
+135	[NO_SPEECH]
+136	[NO_SPEECH]
+137	[NO_SPEECH]
+138	[NO_SPEECH]
+139	[NO_SPEECH]
+140	[NO_SPEECH]
+141	[NO_SPEECH]
+142	[NO_SPEECH]
+143	[NO_SPEECH]
+144	[NO_SPEECH]
+145	[NO_SPEECH]
+146	[NO_SPEECH]
+147	[NO_SPEECH]
+148	[NO_SPEECH]

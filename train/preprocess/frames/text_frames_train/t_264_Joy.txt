@@ -1,0 +1,352 @@
+0	Hai
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	semuanya aku Nazifa dari Kota Bandung dari Jelar oh aku dari Bekasi dan aku
+25	semuanya aku Nazifa dari Kota Bandung dari Jelar oh aku dari Bekasi dan aku
+26	semuanya aku Nazifa dari Kota Bandung dari Jelar oh aku dari Bekasi dan aku
+27	semuanya aku Nazifa dari Kota Bandung dari Jelar oh aku dari Bekasi dan aku
+28	semuanya aku Nazifa dari Kota Bandung dari Jelar oh aku dari Bekasi dan aku
+29	semuanya aku Nazifa dari Kota Bandung dari Jelar oh aku dari Bekasi dan aku
+30	semuanya aku Nazifa dari Kota Bandung dari Jelar oh aku dari Bekasi dan aku
+31	semuanya aku Nazifa dari Kota Bandung dari Jelar oh aku dari Bekasi dan aku
+32	semuanya aku Nazifa dari Kota Bandung dari Jelar oh aku dari Bekasi dan aku
+33	semuanya aku Nazifa dari Kota Bandung dari Jelar oh aku dari Bekasi dan aku
+34	semuanya aku Nazifa dari Kota Bandung dari Jelar oh aku dari Bekasi dan aku
+35	semuanya aku Nazifa dari Kota Bandung dari Jelar oh aku dari Bekasi dan aku
+36	semuanya aku Nazifa dari Kota Bandung dari Jelar oh aku dari Bekasi dan aku
+37	semuanya aku Nazifa dari Kota Bandung dari Jelar oh aku dari Bekasi dan aku
+38	semuanya aku Nazifa dari Kota Bandung dari Jelar oh aku dari Bekasi dan aku
+39	semuanya aku Nazifa dari Kota Bandung dari Jelar oh aku dari Bekasi dan aku
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	aku juga pakai bedak taburnya dari warga ya
+48	aku juga pakai bedak taburnya dari warga ya
+49	aku juga pakai bedak taburnya dari warga ya
+50	aku juga pakai bedak taburnya dari warga ya
+51	aku juga pakai bedak taburnya dari warga ya
+52	aku juga pakai bedak taburnya dari warga ya
+53	aku juga pakai bedak taburnya dari warga ya
+54	aku juga pakai bedak taburnya dari warga ya
+55	aku juga pakai bedak taburnya dari warga ya
+56	aku juga pakai bedak taburnya dari warga ya
+57	aku juga pakai bedak taburnya dari warga ya
+58	aku juga pakai bedak taburnya dari warga ya
+59	aku juga pakai bedak taburnya dari warga ya
+60	aku juga pakai bedak taburnya dari warga ya
+61	aku juga pakai bedak taburnya dari warga ya
+62	aku juga pakai bedak taburnya dari warga ya
+63	aku juga pakai bedak taburnya dari warga ya
+64	aku juga pakai bedak taburnya dari warga ya
+65	aku juga pakai bedak taburnya dari warga ya
+66	aku juga pakai bedak taburnya dari warga ya
+67	aku juga pakai bedak taburnya dari warga ya
+68	aku juga pakai bedak taburnya dari warga ya
+69	aku juga pakai bedak taburnya dari warga ya
+70	aku juga pakai bedak taburnya dari warga ya
+71	aku juga pakai bedak taburnya dari warga ya
+72	aku juga pakai bedak taburnya dari warga ya
+73	aku juga pakai bedak taburnya dari warga ya pakai lipstick dari
+74	aku juga pakai bedak taburnya dari warga ya pakai lipstick dari
+75	pakai lipstick dari
+76	pakai lipstick dari
+77	pakai lipstick dari
+78	pakai lipstick dari
+79	pakai lipstick dari
+80	pakai lipstick dari
+81	pakai lipstick dari
+82	pakai lipstick dari
+83	pakai lipstick dari
+84	pakai lipstick dari
+85	pakai lipstick dari
+86	pakai lipstick dari
+87	pakai lipstick dari
+88	pakai lipstick dari
+89	pakai lipstick dari
+90	pakai lipstick dari dari bedaknya dari lipstiknya pakai
+91	pakai lipstick dari dari bedaknya dari lipstiknya pakai
+92	dari bedaknya dari lipstiknya pakai
+93	dari bedaknya dari lipstiknya pakai
+94	dari bedaknya dari lipstiknya pakai
+95	dari bedaknya dari lipstiknya pakai
+96	dari bedaknya dari lipstiknya pakai
+97	dari bedaknya dari lipstiknya pakai
+98	dari bedaknya dari lipstiknya pakai
+99	dari bedaknya dari lipstiknya pakai
+100	dari bedaknya dari lipstiknya pakai
+101	dari bedaknya dari lipstiknya pakai
+102	dari bedaknya dari lipstiknya pakai
+103	dari bedaknya dari lipstiknya pakai happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+104	dari bedaknya dari lipstiknya pakai happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+105	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+106	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+107	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+108	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+109	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+110	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+111	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+112	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+113	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+114	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+115	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+116	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+117	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+118	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+119	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+120	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+121	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+122	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+123	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+124	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+125	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih
+126	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih kepercayaan diri aku terus aku juga bisa dapat banyak pelajaran dari para narasumber yang
+127	happy-happy banget super happy dan sangat berkesan untuk aku sendiri bisa melatih kepercayaan diri aku terus aku juga bisa dapat banyak pelajaran dari para narasumber yang
+128	kepercayaan diri aku terus aku juga bisa dapat banyak pelajaran dari para narasumber yang
+129	kepercayaan diri aku terus aku juga bisa dapat banyak pelajaran dari para narasumber yang
+130	kepercayaan diri aku terus aku juga bisa dapat banyak pelajaran dari para narasumber yang
+131	kepercayaan diri aku terus aku juga bisa dapat banyak pelajaran dari para narasumber yang
+132	kepercayaan diri aku terus aku juga bisa dapat banyak pelajaran dari para narasumber yang
+133	kepercayaan diri aku terus aku juga bisa dapat banyak pelajaran dari para narasumber yang
+134	kepercayaan diri aku terus aku juga bisa dapat banyak pelajaran dari para narasumber yang
+135	kepercayaan diri aku terus aku juga bisa dapat banyak pelajaran dari para narasumber yang hadir hari ini dan juga pastinya aku bisa dapat teman baru yang aku baru kenal
+136	kepercayaan diri aku terus aku juga bisa dapat banyak pelajaran dari para narasumber yang hadir hari ini dan juga pastinya aku bisa dapat teman baru yang aku baru kenal
+137	hadir hari ini dan juga pastinya aku bisa dapat teman baru yang aku baru kenal
+138	hadir hari ini dan juga pastinya aku bisa dapat teman baru yang aku baru kenal
+139	hadir hari ini dan juga pastinya aku bisa dapat teman baru yang aku baru kenal
+140	hadir hari ini dan juga pastinya aku bisa dapat teman baru yang aku baru kenal
+141	hadir hari ini dan juga pastinya aku bisa dapat teman baru yang aku baru kenal
+142	hadir hari ini dan juga pastinya aku bisa dapat teman baru yang aku baru kenal
+143	hadir hari ini dan juga pastinya aku bisa dapat teman baru yang aku baru kenal
+144	hadir hari ini dan juga pastinya aku bisa dapat teman baru yang aku baru kenal
+145	[NO_SPEECH]
+146	[NO_SPEECH]
+147	[NO_SPEECH]
+148	[NO_SPEECH]
+149	[NO_SPEECH]
+150	[NO_SPEECH]
+151	aku paling suka sesnya tentunya kaputri karena kaputri one of my role model dan
+152	aku paling suka sesnya tentunya kaputri karena kaputri one of my role model dan
+153	aku paling suka sesnya tentunya kaputri karena kaputri one of my role model dan
+154	aku paling suka sesnya tentunya kaputri karena kaputri one of my role model dan
+155	aku paling suka sesnya tentunya kaputri karena kaputri one of my role model dan
+156	aku paling suka sesnya tentunya kaputri karena kaputri one of my role model dan
+157	aku paling suka sesnya tentunya kaputri karena kaputri one of my role model dan
+158	aku paling suka sesnya tentunya kaputri karena kaputri one of my role model dan
+159	aku paling suka sesnya tentunya kaputri karena kaputri one of my role model dan
+160	aku paling suka sesnya tentunya kaputri karena kaputri one of my role model dan
+161	aku paling suka sesnya tentunya kaputri karena kaputri one of my role model dan
+162	aku paling suka sesnya tentunya kaputri karena kaputri one of my role model dan
+163	aku paling suka sesnya tentunya kaputri karena kaputri one of my role model dan seri banget bisa dapat insight yang banyak dari kaputri hari ini ses yang
+164	aku paling suka sesnya tentunya kaputri karena kaputri one of my role model dan seri banget bisa dapat insight yang banyak dari kaputri hari ini ses yang
+165	seri banget bisa dapat insight yang banyak dari kaputri hari ini ses yang
+166	seri banget bisa dapat insight yang banyak dari kaputri hari ini ses yang
+167	seri banget bisa dapat insight yang banyak dari kaputri hari ini ses yang
+168	seri banget bisa dapat insight yang banyak dari kaputri hari ini ses yang
+169	seri banget bisa dapat insight yang banyak dari kaputri hari ini ses yang
+170	seri banget bisa dapat insight yang banyak dari kaputri hari ini ses yang
+171	seri banget bisa dapat insight yang banyak dari kaputri hari ini ses yang
+172	seri banget bisa dapat insight yang banyak dari kaputri hari ini ses yang banyak aku suka itu saat talkshow karena bintang tamunya memberikan insight yang sangat bagus
+173	seri banget bisa dapat insight yang banyak dari kaputri hari ini ses yang banyak aku suka itu saat talkshow karena bintang tamunya memberikan insight yang sangat bagus
+174	banyak aku suka itu saat talkshow karena bintang tamunya memberikan insight yang sangat bagus
+175	banyak aku suka itu saat talkshow karena bintang tamunya memberikan insight yang sangat bagus
+176	banyak aku suka itu saat talkshow karena bintang tamunya memberikan insight yang sangat bagus
+177	banyak aku suka itu saat talkshow karena bintang tamunya memberikan insight yang sangat bagus
+178	banyak aku suka itu saat talkshow karena bintang tamunya memberikan insight yang sangat bagus
+179	banyak aku suka itu saat talkshow karena bintang tamunya memberikan insight yang sangat bagus
+180	banyak aku suka itu saat talkshow karena bintang tamunya memberikan insight yang sangat bagus
+181	banyak aku suka itu saat talkshow karena bintang tamunya memberikan insight yang sangat bagus
+182	banyak aku suka itu saat talkshow karena bintang tamunya memberikan insight yang sangat bagus
+183	banyak aku suka itu saat talkshow karena bintang tamunya memberikan insight yang sangat bagus
+184	[NO_SPEECH]
+185	[NO_SPEECH]
+186	[NO_SPEECH]
+187	[NO_SPEECH]
+188	guys jadi aku tadi habis ke booth DIY charm dan aku bikin charm untuk glasting liquid lip aku dan
+189	guys jadi aku tadi habis ke booth DIY charm dan aku bikin charm untuk glasting liquid lip aku dan
+190	guys jadi aku tadi habis ke booth DIY charm dan aku bikin charm untuk glasting liquid lip aku dan
+191	guys jadi aku tadi habis ke booth DIY charm dan aku bikin charm untuk glasting liquid lip aku dan
+192	guys jadi aku tadi habis ke booth DIY charm dan aku bikin charm untuk glasting liquid lip aku dan
+193	guys jadi aku tadi habis ke booth DIY charm dan aku bikin charm untuk glasting liquid lip aku dan
+194	guys jadi aku tadi habis ke booth DIY charm dan aku bikin charm untuk glasting liquid lip aku dan
+195	guys jadi aku tadi habis ke booth DIY charm dan aku bikin charm untuk glasting liquid lip aku dan
+196	guys jadi aku tadi habis ke booth DIY charm dan aku bikin charm untuk glasting liquid lip aku dan
+197	guys jadi aku tadi habis ke booth DIY charm dan aku bikin charm untuk glasting liquid lip aku dan
+198	guys jadi aku tadi habis ke booth DIY charm dan aku bikin charm untuk glasting liquid lip aku dan
+199	guys jadi aku tadi habis ke booth DIY charm dan aku bikin charm untuk glasting liquid lip aku dan
+200	guys jadi aku tadi habis ke booth DIY charm dan aku bikin charm untuk glasting liquid lip aku dan aku juga ke booth makeup
+201	guys jadi aku tadi habis ke booth DIY charm dan aku bikin charm untuk glasting liquid lip aku dan aku juga ke booth makeup
+202	aku juga ke booth makeup
+203	aku juga ke booth makeup dan ini hasilnya aku suka banget sama hasilnya aku udah nyobain
+204	aku juga ke booth makeup dan ini hasilnya aku suka banget sama hasilnya aku udah nyobain
+205	dan ini hasilnya aku suka banget sama hasilnya aku udah nyobain
+206	dan ini hasilnya aku suka banget sama hasilnya aku udah nyobain
+207	dan ini hasilnya aku suka banget sama hasilnya aku udah nyobain
+208	dan ini hasilnya aku suka banget sama hasilnya aku udah nyobain
+209	dan ini hasilnya aku suka banget sama hasilnya aku udah nyobain
+210	dan ini hasilnya aku suka banget sama hasilnya aku udah nyobain nah tadi aku ke beberapa booth nah untuk booth pertama aku ke booth yang
+211	dan ini hasilnya aku suka banget sama hasilnya aku udah nyobain nah tadi aku ke beberapa booth nah untuk booth pertama aku ke booth yang
+212	nah tadi aku ke beberapa booth nah untuk booth pertama aku ke booth yang
+213	nah tadi aku ke beberapa booth nah untuk booth pertama aku ke booth yang
+214	nah tadi aku ke beberapa booth nah untuk booth pertama aku ke booth yang
+215	nah tadi aku ke beberapa booth nah untuk booth pertama aku ke booth yang
+216	nah tadi aku ke beberapa booth nah untuk booth pertama aku ke booth yang
+217	nah tadi aku ke beberapa booth nah untuk booth pertama aku ke booth yang
+218	nah tadi aku ke beberapa booth nah untuk booth pertama aku ke booth yang
+219	nah tadi aku ke beberapa booth nah untuk booth pertama aku ke booth yang
+220	nah tadi aku ke beberapa booth nah untuk booth pertama aku ke booth yang
+221	nah tadi aku ke beberapa booth nah untuk booth pertama aku ke booth yang
+222	nah tadi aku ke beberapa booth nah untuk booth pertama aku ke booth yang merangkai manik-manik ini lucu banget dikasih nama custom gitu bagus banget
+223	nah tadi aku ke beberapa booth nah untuk booth pertama aku ke booth yang merangkai manik-manik ini lucu banget dikasih nama custom gitu bagus banget
+224	merangkai manik-manik ini lucu banget dikasih nama custom gitu bagus banget
+225	merangkai manik-manik ini lucu banget dikasih nama custom gitu bagus banget
+226	merangkai manik-manik ini lucu banget dikasih nama custom gitu bagus banget
+227	merangkai manik-manik ini lucu banget dikasih nama custom gitu bagus banget
+228	merangkai manik-manik ini lucu banget dikasih nama custom gitu bagus banget
+229	merangkai manik-manik ini lucu banget dikasih nama custom gitu bagus banget
+230	merangkai manik-manik ini lucu banget dikasih nama custom gitu bagus banget
+231	merangkai manik-manik ini lucu banget dikasih nama custom gitu bagus banget experience yang aku coba di wadah ambasador ini adalah DIY charm untuk glasting lipnya
+232	merangkai manik-manik ini lucu banget dikasih nama custom gitu bagus banget experience yang aku coba di wadah ambasador ini adalah DIY charm untuk glasting lipnya
+233	experience yang aku coba di wadah ambasador ini adalah DIY charm untuk glasting lipnya
+234	experience yang aku coba di wadah ambasador ini adalah DIY charm untuk glasting lipnya
+235	experience yang aku coba di wadah ambasador ini adalah DIY charm untuk glasting lipnya
+236	experience yang aku coba di wadah ambasador ini adalah DIY charm untuk glasting lipnya
+237	experience yang aku coba di wadah ambasador ini adalah DIY charm untuk glasting lipnya
+238	experience yang aku coba di wadah ambasador ini adalah DIY charm untuk glasting lipnya
+239	experience yang aku coba di wadah ambasador ini adalah DIY charm untuk glasting lipnya
+240	experience yang aku coba di wadah ambasador ini adalah DIY charm untuk glasting lipnya
+241	experience yang aku coba di wadah ambasador ini adalah DIY charm untuk glasting lipnya
+242	experience yang aku coba di wadah ambasador ini adalah DIY charm untuk glasting lipnya
+243	experience yang aku coba di wadah ambasador ini adalah DIY charm untuk glasting lipnya
+244	experience yang aku coba di wadah ambasador ini adalah DIY charm untuk glasting lipnya
+245	experience yang aku coba di wadah ambasador ini adalah DIY charm untuk glasting lipnya
+246	experience yang aku coba di wadah ambasador ini adalah DIY charm untuk glasting lipnya warna dan itu lucu banget karena manik-maniknya bervariasi terus aku juga bisa kayak susun manik-maniknya
+247	experience yang aku coba di wadah ambasador ini adalah DIY charm untuk glasting lipnya warna dan itu lucu banget karena manik-maniknya bervariasi terus aku juga bisa kayak susun manik-maniknya
+248	warna dan itu lucu banget karena manik-maniknya bervariasi terus aku juga bisa kayak susun manik-maniknya
+249	warna dan itu lucu banget karena manik-maniknya bervariasi terus aku juga bisa kayak susun manik-maniknya
+250	warna dan itu lucu banget karena manik-maniknya bervariasi terus aku juga bisa kayak susun manik-maniknya
+251	warna dan itu lucu banget karena manik-maniknya bervariasi terus aku juga bisa kayak susun manik-maniknya
+252	warna dan itu lucu banget karena manik-maniknya bervariasi terus aku juga bisa kayak susun manik-maniknya
+253	warna dan itu lucu banget karena manik-maniknya bervariasi terus aku juga bisa kayak susun manik-maniknya
+254	warna dan itu lucu banget karena manik-maniknya bervariasi terus aku juga bisa kayak susun manik-maniknya
+255	warna dan itu lucu banget karena manik-maniknya bervariasi terus aku juga bisa kayak susun manik-maniknya
+256	warna dan itu lucu banget karena manik-maniknya bervariasi terus aku juga bisa kayak susun manik-maniknya
+257	warna dan itu lucu banget karena manik-maniknya bervariasi terus aku juga bisa kayak susun manik-maniknya
+258	warna dan itu lucu banget karena manik-maniknya bervariasi terus aku juga bisa kayak susun manik-maniknya
+259	warna dan itu lucu banget karena manik-maniknya bervariasi terus aku juga bisa kayak susun manik-maniknya bisa nama aku
+260	warna dan itu lucu banget karena manik-maniknya bervariasi terus aku juga bisa kayak susun manik-maniknya bisa nama aku
+261	bisa nama aku
+262	[NO_SPEECH]
+263	[NO_SPEECH]
+264	[NO_SPEECH]
+265	[NO_SPEECH]
+266	[NO_SPEECH]
+267	[NO_SPEECH]
+268	[NO_SPEECH]
+269	ingin aku mengucapkan terima kasih buat Warda sudah memberikan sebuah wadah untuk kita anak muda
+270	ingin aku mengucapkan terima kasih buat Warda sudah memberikan sebuah wadah untuk kita anak muda
+271	ingin aku mengucapkan terima kasih buat Warda sudah memberikan sebuah wadah untuk kita anak muda
+272	ingin aku mengucapkan terima kasih buat Warda sudah memberikan sebuah wadah untuk kita anak muda
+273	ingin aku mengucapkan terima kasih buat Warda sudah memberikan sebuah wadah untuk kita anak muda
+274	ingin aku mengucapkan terima kasih buat Warda sudah memberikan sebuah wadah untuk kita anak muda
+275	ingin aku mengucapkan terima kasih buat Warda sudah memberikan sebuah wadah untuk kita anak muda
+276	ingin aku mengucapkan terima kasih buat Warda sudah memberikan sebuah wadah untuk kita anak muda
+277	ingin aku mengucapkan terima kasih buat Warda sudah memberikan sebuah wadah untuk kita anak muda
+278	ingin aku mengucapkan terima kasih buat Warda sudah memberikan sebuah wadah untuk kita anak muda
+279	ingin aku mengucapkan terima kasih buat Warda sudah memberikan sebuah wadah untuk kita anak muda
+280	ingin aku mengucapkan terima kasih buat Warda sudah memberikan sebuah wadah untuk kita anak muda
+281	ingin aku mengucapkan terima kasih buat Warda sudah memberikan sebuah wadah untuk kita anak muda ucapan thank you untuk Warda Makasih Bange wadah udah siapin wadah aku disini juga bisa banyak
+282	ingin aku mengucapkan terima kasih buat Warda sudah memberikan sebuah wadah untuk kita anak muda ucapan thank you untuk Warda Makasih Bange wadah udah siapin wadah aku disini juga bisa banyak
+283	ucapan thank you untuk Warda Makasih Bange wadah udah siapin wadah aku disini juga bisa banyak
+284	ucapan thank you untuk Warda Makasih Bange wadah udah siapin wadah aku disini juga bisa banyak
+285	ucapan thank you untuk Warda Makasih Bange wadah udah siapin wadah aku disini juga bisa banyak
+286	ucapan thank you untuk Warda Makasih Bange wadah udah siapin wadah aku disini juga bisa banyak
+287	ucapan thank you untuk Warda Makasih Bange wadah udah siapin wadah aku disini juga bisa banyak
+288	ucapan thank you untuk Warda Makasih Bange wadah udah siapin wadah aku disini juga bisa banyak
+289	ucapan thank you untuk Warda Makasih Bange wadah udah siapin wadah aku disini juga bisa banyak
+290	ucapan thank you untuk Warda Makasih Bange wadah udah siapin wadah aku disini juga bisa banyak
+291	ucapan thank you untuk Warda Makasih Bange wadah udah siapin wadah aku disini juga bisa banyak
+292	ucapan thank you untuk Warda Makasih Bange wadah udah siapin wadah aku disini juga bisa banyak
+293	ucapan thank you untuk Warda Makasih Bange wadah udah siapin wadah aku disini juga bisa banyak belajar apalagi aku juga pengen jadi kontrol Kreator selain juga aku juga dapat banyak teman
+294	ucapan thank you untuk Warda Makasih Bange wadah udah siapin wadah aku disini juga bisa banyak belajar apalagi aku juga pengen jadi kontrol Kreator selain juga aku juga dapat banyak teman
+295	belajar apalagi aku juga pengen jadi kontrol Kreator selain juga aku juga dapat banyak teman
+296	belajar apalagi aku juga pengen jadi kontrol Kreator selain juga aku juga dapat banyak teman
+297	belajar apalagi aku juga pengen jadi kontrol Kreator selain juga aku juga dapat banyak teman
+298	belajar apalagi aku juga pengen jadi kontrol Kreator selain juga aku juga dapat banyak teman
+299	belajar apalagi aku juga pengen jadi kontrol Kreator selain juga aku juga dapat banyak teman
+300	belajar apalagi aku juga pengen jadi kontrol Kreator selain juga aku juga dapat banyak teman
+301	belajar apalagi aku juga pengen jadi kontrol Kreator selain juga aku juga dapat banyak teman
+302	belajar apalagi aku juga pengen jadi kontrol Kreator selain juga aku juga dapat banyak teman baru experience W простitue aku bilang makasih banget buat tim Warda karena udah bikin komunitas
+303	belajar apalagi aku juga pengen jadi kontrol Kreator selain juga aku juga dapat banyak teman baru experience W простitue aku bilang makasih banget buat tim Warda karena udah bikin komunitas
+304	baru experience W простitue aku bilang makasih banget buat tim Warda karena udah bikin komunitas
+305	baru experience W простitue aku bilang makasih banget buat tim Warda karena udah bikin komunitas
+306	baru experience W простitue aku bilang makasih banget buat tim Warda karena udah bikin komunitas
+307	baru experience W простitue aku bilang makasih banget buat tim Warda karena udah bikin komunitas
+308	baru experience W простitue aku bilang makasih banget buat tim Warda karena udah bikin komunitas
+309	baru experience W простitue aku bilang makasih banget buat tim Warda karena udah bikin komunitas
+310	baru experience W простitue aku bilang makasih banget buat tim Warda karena udah bikin komunitas
+311	baru experience W простitue aku bilang makasih banget buat tim Warda karena udah bikin komunitas
+312	baru experience W простitue aku bilang makasih banget buat tim Warda karena udah bikin komunitas
+313	baru experience W простitue aku bilang makasih banget buat tim Warda karena udah bikin komunitas
+314	baru experience W простitue aku bilang makasih banget buat tim Warda karena udah bikin komunitas
+315	baru experience W простitue aku bilang makasih banget buat tim Warda karena udah bikin komunitas ini pocket Makasih banyak buat Wardah karena udah ng갓-ng dai-in empresa yang kayaknya banyak banyak
+316	baru experience W простitue aku bilang makasih banget buat tim Warda karena udah bikin komunitas ini pocket Makasih banyak buat Wardah karena udah ng갓-ng dai-in empresa yang kayaknya banyak banyak
+317	ini pocket Makasih banyak buat Wardah karena udah ng갓-ng dai-in empresa yang kayaknya banyak banyak
+318	ini pocket Makasih banyak buat Wardah karena udah ng갓-ng dai-in empresa yang kayaknya banyak banyak
+319	ini pocket Makasih banyak buat Wardah karena udah ng갓-ng dai-in empresa yang kayaknya banyak banyak
+320	ini pocket Makasih banyak buat Wardah karena udah ng갓-ng dai-in empresa yang kayaknya banyak banyak
+321	ini pocket Makasih banyak buat Wardah karena udah ng갓-ng dai-in empresa yang kayaknya banyak banyak
+322	ini pocket Makasih banyak buat Wardah karena udah ng갓-ng dai-in empresa yang kayaknya banyak banyak
+323	ini pocket Makasih banyak buat Wardah karena udah ng갓-ng dai-in empresa yang kayaknya banyak banyak acara hari ini yang super happy, super bermanfaat.
+324	ini pocket Makasih banyak buat Wardah karena udah ng갓-ng dai-in empresa yang kayaknya banyak banyak acara hari ini yang super happy, super bermanfaat.
+325	acara hari ini yang super happy, super bermanfaat.
+326	acara hari ini yang super happy, super bermanfaat.
+327	acara hari ini yang super happy, super bermanfaat.
+328	acara hari ini yang super happy, super bermanfaat. Terima kasih, Manda.
+329	acara hari ini yang super happy, super bermanfaat. Terima kasih, Manda.
+330	Terima kasih, Manda.
+331	Terima kasih, Manda.
+332	[NO_SPEECH]
+333	[NO_SPEECH]
+334	[NO_SPEECH]
+335	[NO_SPEECH]
+336	[NO_SPEECH]
+337	[NO_SPEECH]
+338	[NO_SPEECH]
+339	[NO_SPEECH]
+340	[NO_SPEECH]
+341	[NO_SPEECH]
+342	[NO_SPEECH]
+343	[NO_SPEECH]
+344	[NO_SPEECH]
+345	[NO_SPEECH]
+346	[NO_SPEECH]
+347	[NO_SPEECH]
+348	[NO_SPEECH]
+349	[NO_SPEECH]
+350	[NO_SPEECH]
+351	[NO_SPEECH]

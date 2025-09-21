@@ -1,0 +1,96 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	Tapi orang-orang tidak bisa
+16	Tapi orang-orang tidak bisa
+17	Tapi orang-orang tidak bisa
+18	Tapi orang-orang tidak bisa
+19	Tapi orang-orang tidak bisa
+20	Tapi orang-orang tidak bisa
+21	Tapi orang-orang tidak bisa
+22	Tapi orang-orang tidak bisa
+23	Tapi orang-orang tidak bisa
+24	Tapi orang-orang tidak bisa
+25	Tapi orang-orang tidak bisa
+26	Tapi orang-orang tidak bisa
+27	Tapi orang-orang tidak bisa
+28	Tapi orang-orang tidak bisa
+29	Tapi orang-orang tidak bisa
+30	Tapi orang-orang tidak bisa
+31	Tapi orang-orang tidak bisa
+32	Tapi orang-orang tidak bisa
+33	Tapi orang-orang tidak bisa
+34	Tapi orang-orang tidak bisa
+35	Tapi orang-orang tidak bisa
+36	Tapi orang-orang tidak bisa
+37	Tapi orang-orang tidak bisa
+38	Tapi orang-orang tidak bisa
+39	Tapi orang-orang tidak bisa
+40	Tapi orang-orang tidak bisa
+41	Tapi orang-orang tidak bisa
+42	Tapi orang-orang tidak bisa
+43	Tapi orang-orang tidak bisa
+44	Tapi orang-orang tidak bisa
+45	Tapi orang-orang tidak bisa
+46	Tapi orang-orang tidak bisa
+47	Tapi orang-orang tidak bisa
+48	Tapi orang-orang tidak bisa
+49	Tapi orang-orang tidak bisa
+50	Tapi orang-orang tidak bisa
+51	Tapi orang-orang tidak bisa
+52	Tapi orang-orang tidak bisa
+53	Tapi orang-orang tidak bisa
+54	Tapi orang-orang tidak bisa
+55	Tapi orang-orang tidak bisa
+56	Tapi orang-orang tidak bisa
+57	Tapi orang-orang tidak bisa
+58	Tapi orang-orang tidak bisa karena
+59	Tapi orang-orang tidak bisa karena
+60	karena jadi kakiku gini guys
+61	jadi kakiku gini guys
+62	jadi kakiku gini guys
+63	jadi kakiku gini guys gini nih
+64	gini nih
+65	gini nih nah kalau kakinya 90 derajat gini
+66	gini nih nah kalau kakinya 90 derajat gini
+67	kalau kakinya 90 derajat gini
+68	kalau kakinya 90 derajat gini
+69	kalau kakinya 90 derajat gini
+70	kalau kakinya 90 derajat gini
+71	biasanya cowok nggak bisa
+72	biasanya cowok nggak bisa
+73	biasanya cowok nggak bisa gini nih
+74	biasanya cowok nggak bisa gini nih
+75	gini nih
+76	gini nih
+77	nah coba
+78	nah coba kalian bisa nggak?
+79	nah coba kalian bisa nggak?
+80	kalian bisa nggak? komen di bawah ya
+81	kalian bisa nggak? komen di bawah ya
+82	komen di bawah ya share video ini ke temen-temen kalian
+83	komen di bawah ya share video ini ke temen-temen kalian
+84	share video ini ke temen-temen kalian biar pada nyobain juga
+85	share video ini ke temen-temen kalian biar pada nyobain juga
+86	biar pada nyobain juga balance challenge ini
+87	biar pada nyobain juga balance challenge ini
+88	balance challenge ini pada bisa atau nggak
+89	balance challenge ini pada bisa atau nggak tetap semangat
+90	pada bisa atau nggak tetap semangat
+91	tetap semangat
+92	tetap semangat dan stay hard
+93	tetap semangat dan stay hard
+94	stay hard
+95	stay hard

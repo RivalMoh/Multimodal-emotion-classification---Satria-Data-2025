@@ -1,0 +1,139 @@
+0	Kalo pas kita butuh listrik, belutnya lagi mut
+1	Kalo pas kita butuh listrik, belutnya lagi mut
+2	Kalo pas kita butuh listrik, belutnya lagi mut
+3	Kalo pas kita butuh listrik, belutnya lagi mut Kalo belutnya lagi gak mut, gimana ngeluarin listrik?
+4	Kalo pas kita butuh listrik, belutnya lagi mut Kalo belutnya lagi gak mut, gimana ngeluarin listrik?
+5	Kalo belutnya lagi gak mut, gimana ngeluarin listrik?
+6	Kalo belutnya lagi gak mut, gimana ngeluarin listrik?
+7	Kalo belutnya lagi gak mut, gimana ngeluarin listrik?
+8	Kalo belutnya lagi gak mut, gimana ngeluarin listrik?
+9	Kalo belutnya lagi gak mut, gimana ngeluarin listrik? Lah, lebih parah mana nungguin petir?
+10	Kalo belutnya lagi gak mut, gimana ngeluarin listrik? Lah, lebih parah mana nungguin petir?
+11	Lah, lebih parah mana nungguin petir?
+12	Lah, lebih parah mana nungguin petir?
+13	Lah, lebih parah mana nungguin petir?
+14	Lah, lebih parah mana nungguin petir? Coba
+15	Coba
+16	Coba
+17	Lebih lama mana nungguin petir?
+18	Lebih lama mana nungguin petir?
+19	Lebih lama mana nungguin petir?
+20	Lebih lama mana nungguin petir? Petir itu sebulan dapat listrik, beberapa kali ada
+21	Lebih lama mana nungguin petir? Petir itu sebulan dapat listrik, beberapa kali ada
+22	Petir itu sebulan dapat listrik, beberapa kali ada
+23	Petir itu sebulan dapat listrik, beberapa kali ada
+24	Petir itu sebulan dapat listrik, beberapa kali ada
+25	Petir itu sebulan dapat listrik, beberapa kali ada
+26	Petir itu sebulan dapat listrik, beberapa kali ada Belut juga dikelitik-kelitikin juga kesel, Dio
+27	Petir itu sebulan dapat listrik, beberapa kali ada Belut juga dikelitik-kelitikin juga kesel, Dio
+28	Belut juga dikelitik-kelitikin juga kesel, Dio
+29	Belut juga dikelitik-kelitikin juga kesel, Dio
+30	Belut juga dikelitik-kelitikin juga kesel, Dio
+31	Belut juga dikelitik-kelitikin juga kesel, Dio
+32	Belut juga dikelitik-kelitikin juga kesel, Dio Ini kenapa pemangkit listriknya kok melakukan pengurangan karyawan?
+33	Belut juga dikelitik-kelitikin juga kesel, Dio Ini kenapa pemangkit listriknya kok melakukan pengurangan karyawan?
+34	Ini kenapa pemangkit listriknya kok melakukan pengurangan karyawan?
+35	Ini kenapa pemangkit listriknya kok melakukan pengurangan karyawan?
+36	Ini kenapa pemangkit listriknya kok melakukan pengurangan karyawan?
+37	Ini kenapa pemangkit listriknya kok melakukan pengurangan karyawan?
+38	Ini kenapa pemangkit listriknya kok melakukan pengurangan karyawan? Ya udah dua bulan gak ada petir
+39	Ini kenapa pemangkit listriknya kok melakukan pengurangan karyawan? Ya udah dua bulan gak ada petir
+40	Ya udah dua bulan gak ada petir
+41	Ya udah dua bulan gak ada petir
+42	Ya udah dua bulan gak ada petir
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	Aduh, keren banget padahal
+47	Aduh, keren banget padahal
+48	Aduh, keren banget padahal
+49	Aduh, keren banget padahal
+50	Aduh, keren banget padahal
+51	[NO_SPEECH]
+52	Yeay!
+53	Yeay!
+54	Yeay! Yeay! Seminggu listriknya lah
+55	Yeay! Seminggu listriknya lah
+56	Yeay! Seminggu listriknya lah
+57	Yeay! Seminggu listriknya lah
+58	Yeay! Seminggu listriknya lah
+59	Yeay! Seminggu listriknya lah
+60	[NO_SPEECH]
+61	[NO_SPEECH]
+62	[NO_SPEECH]
+63	Tapi gak bisa om, listrik itu kan konsentrasi listrik yang sangat tinggi
+64	Tapi gak bisa om, listrik itu kan konsentrasi listrik yang sangat tinggi
+65	Tapi gak bisa om, listrik itu kan konsentrasi listrik yang sangat tinggi
+66	Tapi gak bisa om, listrik itu kan konsentrasi listrik yang sangat tinggi
+67	Tapi gak bisa om, listrik itu kan konsentrasi listrik yang sangat tinggi
+68	Tapi gak bisa om, listrik itu kan konsentrasi listrik yang sangat tinggi
+69	Tapi gak bisa om, listrik itu kan konsentrasi listrik yang sangat tinggi
+70	Tapi gak bisa om, listrik itu kan konsentrasi listrik yang sangat tinggi
+71	Tapi gak bisa om, listrik itu kan konsentrasi listrik yang sangat tinggi
+72	Tapi gak bisa om, listrik itu kan konsentrasi listrik yang sangat tinggi
+73	Tapi gak bisa om, listrik itu kan konsentrasi listrik yang sangat tinggi Petir?
+74	Tapi gak bisa om, listrik itu kan konsentrasi listrik yang sangat tinggi Petir?
+75	Petir? Iya, petir itu konsentrasi muatan listrik yang sangat tinggi dalam waktu yang sangat singkat kan
+76	Petir? Iya, petir itu konsentrasi muatan listrik yang sangat tinggi dalam waktu yang sangat singkat kan
+77	Iya, petir itu konsentrasi muatan listrik yang sangat tinggi dalam waktu yang sangat singkat kan
+78	Iya, petir itu konsentrasi muatan listrik yang sangat tinggi dalam waktu yang sangat singkat kan
+79	Iya, petir itu konsentrasi muatan listrik yang sangat tinggi dalam waktu yang sangat singkat kan
+80	Iya, petir itu konsentrasi muatan listrik yang sangat tinggi dalam waktu yang sangat singkat kan
+81	Iya, petir itu konsentrasi muatan listrik yang sangat tinggi dalam waktu yang sangat singkat kan
+82	Iya, petir itu konsentrasi muatan listrik yang sangat tinggi dalam waktu yang sangat singkat kan
+83	Iya, petir itu konsentrasi muatan listrik yang sangat tinggi dalam waktu yang sangat singkat kan
+84	Iya, petir itu konsentrasi muatan listrik yang sangat tinggi dalam waktu yang sangat singkat kan
+85	Iya, petir itu konsentrasi muatan listrik yang sangat tinggi dalam waktu yang sangat singkat kan
+86	Iya, petir itu konsentrasi muatan listrik yang sangat tinggi dalam waktu yang sangat singkat kan
+87	Iya, petir itu konsentrasi muatan listrik yang sangat tinggi dalam waktu yang sangat singkat kan Nangkepnya gimana om?
+88	Iya, petir itu konsentrasi muatan listrik yang sangat tinggi dalam waktu yang sangat singkat kan Nangkepnya gimana om?
+89	Nangkepnya gimana om? Bukan, satu nangkepnya bisa
+90	Nangkepnya gimana om? Bukan, satu nangkepnya bisa
+91	Bukan, satu nangkepnya bisa
+92	Bukan, satu nangkepnya bisa
+93	Bukan, satu nangkepnya bisa Nangkepnya bisa om, kayak penangkap petir
+94	Bukan, satu nangkepnya bisa Nangkepnya bisa om, kayak penangkap petir
+95	Nangkepnya bisa om, kayak penangkap petir Menyimpan segitu banyak energi dalam waktu singkat, itu yang belum bisa om
+96	Nangkepnya bisa om, kayak penangkap petir Menyimpan segitu banyak energi dalam waktu singkat, itu yang belum bisa om
+97	Menyimpan segitu banyak energi dalam waktu singkat, itu yang belum bisa om
+98	Menyimpan segitu banyak energi dalam waktu singkat, itu yang belum bisa om
+99	Menyimpan segitu banyak energi dalam waktu singkat, itu yang belum bisa om
+100	Menyimpan segitu banyak energi dalam waktu singkat, itu yang belum bisa om
+101	Menyimpan segitu banyak energi dalam waktu singkat, itu yang belum bisa om
+102	Menyimpan segitu banyak energi dalam waktu singkat, itu yang belum bisa om
+103	Menyimpan segitu banyak energi dalam waktu singkat, itu yang belum bisa om Iya, makanya itu kan nanti mungkin ada development baterai yang bisa menyimpan
+104	Menyimpan segitu banyak energi dalam waktu singkat, itu yang belum bisa om Iya, makanya itu kan nanti mungkin ada development baterai yang bisa menyimpan
+105	Iya, makanya itu kan nanti mungkin ada development baterai yang bisa menyimpan
+106	Iya, makanya itu kan nanti mungkin ada development baterai yang bisa menyimpan
+107	Iya, makanya itu kan nanti mungkin ada development baterai yang bisa menyimpan
+108	Iya, makanya itu kan nanti mungkin ada development baterai yang bisa menyimpan
+109	Iya, makanya itu kan nanti mungkin ada development baterai yang bisa menyimpan
+110	Iya, makanya itu kan nanti mungkin ada development baterai yang bisa menyimpan
+111	Iya, makanya itu kan nanti mungkin ada development baterai yang bisa menyimpan Baterai penuh
+112	Iya, makanya itu kan nanti mungkin ada development baterai yang bisa menyimpan Baterai penuh
+113	Baterai penuh Ya itu makanya, maksudnya nangkep baterai
+114	Baterai penuh Ya itu makanya, maksudnya nangkep baterai
+115	Ya itu makanya, maksudnya nangkep baterai
+116	Ya itu makanya, maksudnya nangkep baterai
+117	Ya itu makanya, maksudnya nangkep baterai
+118	Ya itu makanya, maksudnya nangkep baterai Baterai yang nyimpan nya itu
+119	Ya itu makanya, maksudnya nangkep baterai Baterai yang nyimpan nya itu Jadi karyawan udah males malesan, gak ada kerja, diam, gak mau kek, begitu ada petir
+120	Baterai yang nyimpan nya itu Jadi karyawan udah males malesan, gak ada kerja, diam, gak mau kek, begitu ada petir
+121	Jadi karyawan udah males malesan, gak ada kerja, diam, gak mau kek, begitu ada petir
+122	Jadi karyawan udah males malesan, gak ada kerja, diam, gak mau kek, begitu ada petir
+123	Jadi karyawan udah males malesan, gak ada kerja, diam, gak mau kek, begitu ada petir
+124	Jadi karyawan udah males malesan, gak ada kerja, diam, gak mau kek, begitu ada petir
+125	Jadi karyawan udah males malesan, gak ada kerja, diam, gak mau kek, begitu ada petir
+126	Jadi karyawan udah males malesan, gak ada kerja, diam, gak mau kek, begitu ada petir
+127	Jadi karyawan udah males malesan, gak ada kerja, diam, gak mau kek, begitu ada petir
+128	Jadi karyawan udah males malesan, gak ada kerja, diam, gak mau kek, begitu ada petir
+129	Jadi karyawan udah males malesan, gak ada kerja, diam, gak mau kek, begitu ada petir
+130	Jadi karyawan udah males malesan, gak ada kerja, diam, gak mau kek, begitu ada petir DAT!
+131	Jadi karyawan udah males malesan, gak ada kerja, diam, gak mau kek, begitu ada petir DAT! Oke kerja kerja kerja
+132	DAT! Oke kerja kerja kerja
+133	Oke kerja kerja kerja
+134	Oke kerja kerja kerja Baru terus dia olah listriknya
+135	Oke kerja kerja kerja Baru terus dia olah listriknya
+136	Baru terus dia olah listriknya
+137	Baru terus dia olah listriknya
+138	Baru terus dia olah listriknya

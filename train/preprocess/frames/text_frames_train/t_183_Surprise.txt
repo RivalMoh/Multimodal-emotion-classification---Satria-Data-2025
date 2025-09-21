@@ -1,0 +1,108 @@
+0	Ini adalah bike BJ80, SUV yang siap off-road dari Tiongkok.
+1	Ini adalah bike BJ80, SUV yang siap off-road dari Tiongkok.
+2	Ini adalah bike BJ80, SUV yang siap off-road dari Tiongkok.
+3	Ini adalah bike BJ80, SUV yang siap off-road dari Tiongkok.
+4	Ini adalah bike BJ80, SUV yang siap off-road dari Tiongkok.
+5	Ini adalah bike BJ80, SUV yang siap off-road dari Tiongkok.
+6	Ini adalah bike BJ80, SUV yang siap off-road dari Tiongkok.
+7	Ini adalah bike BJ80, SUV yang siap off-road dari Tiongkok.
+8	Ini adalah bike BJ80, SUV yang siap off-road dari Tiongkok.
+9	Ini adalah bike BJ80, SUV yang siap off-road dari Tiongkok.
+10	Ini adalah bike BJ80, SUV yang siap off-road dari Tiongkok.
+11	Ini adalah bike BJ80, SUV yang siap off-road dari Tiongkok.
+12	Ini adalah bike BJ80, SUV yang siap off-road dari Tiongkok. Dan kalau Anda berpikir, bentuknya mirip sekali dengan G-Class.
+13	Ini adalah bike BJ80, SUV yang siap off-road dari Tiongkok. Dan kalau Anda berpikir, bentuknya mirip sekali dengan G-Class.
+14	Dan kalau Anda berpikir, bentuknya mirip sekali dengan G-Class.
+15	Dan kalau Anda berpikir, bentuknya mirip sekali dengan G-Class.
+16	Dan kalau Anda berpikir, bentuknya mirip sekali dengan G-Class.
+17	Dan kalau Anda berpikir, bentuknya mirip sekali dengan G-Class.
+18	Dan kalau Anda berpikir, bentuknya mirip sekali dengan G-Class.
+19	Dan kalau Anda berpikir, bentuknya mirip sekali dengan G-Class.
+20	Dan kalau Anda berpikir, bentuknya mirip sekali dengan G-Class.
+21	Dan kalau Anda berpikir, bentuknya mirip sekali dengan G-Class.
+22	[NO_SPEECH]
+23	Ada fakta menarik, bike memiliki 9,98% saham dari Mercedes-Benz.
+24	Ada fakta menarik, bike memiliki 9,98% saham dari Mercedes-Benz.
+25	Ada fakta menarik, bike memiliki 9,98% saham dari Mercedes-Benz.
+26	Ada fakta menarik, bike memiliki 9,98% saham dari Mercedes-Benz.
+27	Ada fakta menarik, bike memiliki 9,98% saham dari Mercedes-Benz.
+28	Ada fakta menarik, bike memiliki 9,98% saham dari Mercedes-Benz.
+29	Ada fakta menarik, bike memiliki 9,98% saham dari Mercedes-Benz.
+30	Ada fakta menarik, bike memiliki 9,98% saham dari Mercedes-Benz.
+31	Ada fakta menarik, bike memiliki 9,98% saham dari Mercedes-Benz.
+32	Ada fakta menarik, bike memiliki 9,98% saham dari Mercedes-Benz.
+33	Ada fakta menarik, bike memiliki 9,98% saham dari Mercedes-Benz.
+34	Ada fakta menarik, bike memiliki 9,98% saham dari Mercedes-Benz.
+35	Ada fakta menarik, bike memiliki 9,98% saham dari Mercedes-Benz.
+36	Ada fakta menarik, bike memiliki 9,98% saham dari Mercedes-Benz.
+37	Ada fakta menarik, bike memiliki 9,98% saham dari Mercedes-Benz.
+38	Ada fakta menarik, bike memiliki 9,98% saham dari Mercedes-Benz.
+39	Ada fakta menarik, bike memiliki 9,98% saham dari Mercedes-Benz.
+40	[NO_SPEECH]
+41	Yang saya penasaran dari mobil ini adalah bagaimana suara buka tutup pintunya.
+42	Yang saya penasaran dari mobil ini adalah bagaimana suara buka tutup pintunya.
+43	Yang saya penasaran dari mobil ini adalah bagaimana suara buka tutup pintunya.
+44	Yang saya penasaran dari mobil ini adalah bagaimana suara buka tutup pintunya.
+45	Yang saya penasaran dari mobil ini adalah bagaimana suara buka tutup pintunya.
+46	Yang saya penasaran dari mobil ini adalah bagaimana suara buka tutup pintunya.
+47	Yang saya penasaran dari mobil ini adalah bagaimana suara buka tutup pintunya.
+48	Yang saya penasaran dari mobil ini adalah bagaimana suara buka tutup pintunya.
+49	Yang saya penasaran dari mobil ini adalah bagaimana suara buka tutup pintunya.
+50	Yang saya penasaran dari mobil ini adalah bagaimana suara buka tutup pintunya.
+51	Yang saya penasaran dari mobil ini adalah bagaimana suara buka tutup pintunya. Karena Anda bisa lihat, ini XL-nya di luar mirip seperti G-Class.
+52	Yang saya penasaran dari mobil ini adalah bagaimana suara buka tutup pintunya. Karena Anda bisa lihat, ini XL-nya di luar mirip seperti G-Class.
+53	Karena Anda bisa lihat, ini XL-nya di luar mirip seperti G-Class.
+54	Karena Anda bisa lihat, ini XL-nya di luar mirip seperti G-Class.
+55	Karena Anda bisa lihat, ini XL-nya di luar mirip seperti G-Class.
+56	Karena Anda bisa lihat, ini XL-nya di luar mirip seperti G-Class.
+57	Karena Anda bisa lihat, ini XL-nya di luar mirip seperti G-Class.
+58	Karena Anda bisa lihat, ini XL-nya di luar mirip seperti G-Class.
+59	Karena Anda bisa lihat, ini XL-nya di luar mirip seperti G-Class.
+60	Karena Anda bisa lihat, ini XL-nya di luar mirip seperti G-Class.
+61	Karena Anda bisa lihat, ini XL-nya di luar mirip seperti G-Class. Apakah suaranya juga mirip?
+62	Karena Anda bisa lihat, ini XL-nya di luar mirip seperti G-Class. Apakah suaranya juga mirip?
+63	Apakah suaranya juga mirip?
+64	Apakah suaranya juga mirip?
+65	Apakah suaranya juga mirip?
+66	[NO_SPEECH]
+67	[NO_SPEECH]
+68	[NO_SPEECH]
+69	[NO_SPEECH]
+70	[NO_SPEECH]
+71	Ini XL-nya.
+72	Ini XL-nya.
+73	Ini XL-nya.
+74	Ini XL-nya.
+75	Ini XL-nya.
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	[NO_SPEECH]
+83	[NO_SPEECH]
+84	[NO_SPEECH]
+85	[NO_SPEECH]
+86	[NO_SPEECH]
+87	[NO_SPEECH]
+88	[NO_SPEECH]
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	[NO_SPEECH]
+95	[NO_SPEECH]
+96	[NO_SPEECH]
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	Gimana menurut Anda?
+103	Gimana menurut Anda?
+104	Gimana menurut Anda?
+105	Gimana menurut Anda?
+106	[NO_SPEECH]
+107	[NO_SPEECH]

@@ -1,0 +1,123 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	Di platform konsol, ketiga atlet ini seperti biasa sudah cukup siap.
+3	Di platform konsol, ketiga atlet ini seperti biasa sudah cukup siap.
+4	Di platform konsol, ketiga atlet ini seperti biasa sudah cukup siap.
+5	Di platform konsol, ketiga atlet ini seperti biasa sudah cukup siap.
+6	Di platform konsol, ketiga atlet ini seperti biasa sudah cukup siap.
+7	Di platform konsol, ketiga atlet ini seperti biasa sudah cukup siap.
+8	Di platform konsol, ketiga atlet ini seperti biasa sudah cukup siap.
+9	Di platform konsol, ketiga atlet ini seperti biasa sudah cukup siap.
+10	Di platform konsol, ketiga atlet ini seperti biasa sudah cukup siap.
+11	Di platform konsol, ketiga atlet ini seperti biasa sudah cukup siap.
+12	Di platform konsol, ketiga atlet ini seperti biasa sudah cukup siap. Dari kemarin kita mencoba melakukan simulasi dengan melakukan scrim terhadap negara-negara yang akan kita temukan di group stage.
+13	Di platform konsol, ketiga atlet ini seperti biasa sudah cukup siap. Dari kemarin kita mencoba melakukan simulasi dengan melakukan scrim terhadap negara-negara yang akan kita temukan di group stage.
+14	Dari kemarin kita mencoba melakukan simulasi dengan melakukan scrim terhadap negara-negara yang akan kita temukan di group stage.
+15	Dari kemarin kita mencoba melakukan simulasi dengan melakukan scrim terhadap negara-negara yang akan kita temukan di group stage.
+16	Dari kemarin kita mencoba melakukan simulasi dengan melakukan scrim terhadap negara-negara yang akan kita temukan di group stage.
+17	Dari kemarin kita mencoba melakukan simulasi dengan melakukan scrim terhadap negara-negara yang akan kita temukan di group stage.
+18	Dari kemarin kita mencoba melakukan simulasi dengan melakukan scrim terhadap negara-negara yang akan kita temukan di group stage.
+19	Dari kemarin kita mencoba melakukan simulasi dengan melakukan scrim terhadap negara-negara yang akan kita temukan di group stage.
+20	Dari kemarin kita mencoba melakukan simulasi dengan melakukan scrim terhadap negara-negara yang akan kita temukan di group stage.
+21	Dari kemarin kita mencoba melakukan simulasi dengan melakukan scrim terhadap negara-negara yang akan kita temukan di group stage.
+22	Dari kemarin kita mencoba melakukan simulasi dengan melakukan scrim terhadap negara-negara yang akan kita temukan di group stage.
+23	Dari kemarin kita mencoba melakukan simulasi dengan melakukan scrim terhadap negara-negara yang akan kita temukan di group stage.
+24	Dari kemarin kita mencoba melakukan simulasi dengan melakukan scrim terhadap negara-negara yang akan kita temukan di group stage. Kita juga coba beberapa skenario dengan menggunakan beberapa formasi.
+25	Dari kemarin kita mencoba melakukan simulasi dengan melakukan scrim terhadap negara-negara yang akan kita temukan di group stage. Kita juga coba beberapa skenario dengan menggunakan beberapa formasi.
+26	Kita juga coba beberapa skenario dengan menggunakan beberapa formasi.
+27	Kita juga coba beberapa skenario dengan menggunakan beberapa formasi.
+28	Kita juga coba beberapa skenario dengan menggunakan beberapa formasi.
+29	Kita juga coba beberapa skenario dengan menggunakan beberapa formasi.
+30	Kita juga coba beberapa skenario dengan menggunakan beberapa formasi.
+31	Kita juga coba beberapa skenario dengan menggunakan beberapa formasi.
+32	Kita juga coba beberapa skenario dengan menggunakan beberapa formasi. Dari PSSC, di sini sudah menyiapkan beberapa komponen, karena ini PC yang lumayan panjang, persiapan yang panjang.
+33	Dari PSSC, di sini sudah menyiapkan beberapa komponen, karena ini PC yang lumayan panjang, persiapan yang panjang.
+34	Dari PSSC, di sini sudah menyiapkan beberapa komponen, karena ini PC yang lumayan panjang, persiapan yang panjang.
+35	Dari PSSC, di sini sudah menyiapkan beberapa komponen, karena ini PC yang lumayan panjang, persiapan yang panjang.
+36	Dari PSSC, di sini sudah menyiapkan beberapa komponen, karena ini PC yang lumayan panjang, persiapan yang panjang.
+37	Dari PSSC, di sini sudah menyiapkan beberapa komponen, karena ini PC yang lumayan panjang, persiapan yang panjang.
+38	Dari PSSC, di sini sudah menyiapkan beberapa komponen, karena ini PC yang lumayan panjang, persiapan yang panjang.
+39	Dari PSSC, di sini sudah menyiapkan beberapa komponen, karena ini PC yang lumayan panjang, persiapan yang panjang.
+40	Dari PSSC, di sini sudah menyiapkan beberapa komponen, karena ini PC yang lumayan panjang, persiapan yang panjang.
+41	Dari PSSC, di sini sudah menyiapkan beberapa komponen, karena ini PC yang lumayan panjang, persiapan yang panjang.
+42	Dari PSSC, di sini sudah menyiapkan beberapa komponen, karena ini PC yang lumayan panjang, persiapan yang panjang.
+43	Dari PSSC, di sini sudah menyiapkan beberapa komponen, karena ini PC yang lumayan panjang, persiapan yang panjang.
+44	Dari PSSC, di sini sudah menyiapkan beberapa komponen, karena ini PC yang lumayan panjang, persiapan yang panjang.
+45	Dari PSSC, di sini sudah menyiapkan beberapa komponen, karena ini PC yang lumayan panjang, persiapan yang panjang.
+46	Dari PSSC, di sini sudah menyiapkan beberapa komponen, karena ini PC yang lumayan panjang, persiapan yang panjang. Dan juga nantinya akan ada coaching clinic dengan salah satu pemain dari Spanyol, mantan pemain dari Spanyol, Alexandro.
+47	Dari PSSC, di sini sudah menyiapkan beberapa komponen, karena ini PC yang lumayan panjang, persiapan yang panjang. Dan juga nantinya akan ada coaching clinic dengan salah satu pemain dari Spanyol, mantan pemain dari Spanyol, Alexandro.
+48	Dan juga nantinya akan ada coaching clinic dengan salah satu pemain dari Spanyol, mantan pemain dari Spanyol, Alexandro.
+49	Dan juga nantinya akan ada coaching clinic dengan salah satu pemain dari Spanyol, mantan pemain dari Spanyol, Alexandro.
+50	Dan juga nantinya akan ada coaching clinic dengan salah satu pemain dari Spanyol, mantan pemain dari Spanyol, Alexandro.
+51	Dan juga nantinya akan ada coaching clinic dengan salah satu pemain dari Spanyol, mantan pemain dari Spanyol, Alexandro.
+52	Dan juga nantinya akan ada coaching clinic dengan salah satu pemain dari Spanyol, mantan pemain dari Spanyol, Alexandro.
+53	Dan juga nantinya akan ada coaching clinic dengan salah satu pemain dari Spanyol, mantan pemain dari Spanyol, Alexandro.
+54	Dan juga nantinya akan ada coaching clinic dengan salah satu pemain dari Spanyol, mantan pemain dari Spanyol, Alexandro.
+55	Dan juga nantinya akan ada coaching clinic dengan salah satu pemain dari Spanyol, mantan pemain dari Spanyol, Alexandro.
+56	Dan juga nantinya akan ada coaching clinic dengan salah satu pemain dari Spanyol, mantan pemain dari Spanyol, Alexandro.
+57	Dan juga nantinya akan ada coaching clinic dengan salah satu pemain dari Spanyol, mantan pemain dari Spanyol, Alexandro.
+58	Dan juga nantinya akan ada coaching clinic dengan salah satu pemain dari Spanyol, mantan pemain dari Spanyol, Alexandro.
+59	Dan juga nantinya akan ada coaching clinic dengan salah satu pemain dari Spanyol, mantan pemain dari Spanyol, Alexandro. Yang sudah banyak pengalamannya dia, yang nantinya akan membantu tim nasional ini menjadi lebih baik dan lebih siap dalam menghadapi turnamen Piala Dunia FIFA 8.
+60	Yang sudah banyak pengalamannya dia, yang nantinya akan membantu tim nasional ini menjadi lebih baik dan lebih siap dalam menghadapi turnamen Piala Dunia FIFA 8.
+61	Yang sudah banyak pengalamannya dia, yang nantinya akan membantu tim nasional ini menjadi lebih baik dan lebih siap dalam menghadapi turnamen Piala Dunia FIFA 8.
+62	Yang sudah banyak pengalamannya dia, yang nantinya akan membantu tim nasional ini menjadi lebih baik dan lebih siap dalam menghadapi turnamen Piala Dunia FIFA 8.
+63	Yang sudah banyak pengalamannya dia, yang nantinya akan membantu tim nasional ini menjadi lebih baik dan lebih siap dalam menghadapi turnamen Piala Dunia FIFA 8.
+64	Yang sudah banyak pengalamannya dia, yang nantinya akan membantu tim nasional ini menjadi lebih baik dan lebih siap dalam menghadapi turnamen Piala Dunia FIFA 8.
+65	Yang sudah banyak pengalamannya dia, yang nantinya akan membantu tim nasional ini menjadi lebih baik dan lebih siap dalam menghadapi turnamen Piala Dunia FIFA 8.
+66	Yang sudah banyak pengalamannya dia, yang nantinya akan membantu tim nasional ini menjadi lebih baik dan lebih siap dalam menghadapi turnamen Piala Dunia FIFA 8.
+67	Yang sudah banyak pengalamannya dia, yang nantinya akan membantu tim nasional ini menjadi lebih baik dan lebih siap dalam menghadapi turnamen Piala Dunia FIFA 8.
+68	Yang sudah banyak pengalamannya dia, yang nantinya akan membantu tim nasional ini menjadi lebih baik dan lebih siap dalam menghadapi turnamen Piala Dunia FIFA 8.
+69	Yang sudah banyak pengalamannya dia, yang nantinya akan membantu tim nasional ini menjadi lebih baik dan lebih siap dalam menghadapi turnamen Piala Dunia FIFA 8.
+70	Yang sudah banyak pengalamannya dia, yang nantinya akan membantu tim nasional ini menjadi lebih baik dan lebih siap dalam menghadapi turnamen Piala Dunia FIFA 8.
+71	Yang sudah banyak pengalamannya dia, yang nantinya akan membantu tim nasional ini menjadi lebih baik dan lebih siap dalam menghadapi turnamen Piala Dunia FIFA 8.
+72	Yang sudah banyak pengalamannya dia, yang nantinya akan membantu tim nasional ini menjadi lebih baik dan lebih siap dalam menghadapi turnamen Piala Dunia FIFA 8.
+73	Yang sudah banyak pengalamannya dia, yang nantinya akan membantu tim nasional ini menjadi lebih baik dan lebih siap dalam menghadapi turnamen Piala Dunia FIFA 8.
+74	Yang sudah banyak pengalamannya dia, yang nantinya akan membantu tim nasional ini menjadi lebih baik dan lebih siap dalam menghadapi turnamen Piala Dunia FIFA 8.
+75	Yang sudah banyak pengalamannya dia, yang nantinya akan membantu tim nasional ini menjadi lebih baik dan lebih siap dalam menghadapi turnamen Piala Dunia FIFA 8. Saya sangat bangga melihat pemain ini mewakili tim nasional Indonesia.
+76	Yang sudah banyak pengalamannya dia, yang nantinya akan membantu tim nasional ini menjadi lebih baik dan lebih siap dalam menghadapi turnamen Piala Dunia FIFA 8. Saya sangat bangga melihat pemain ini mewakili tim nasional Indonesia.
+77	Saya sangat bangga melihat pemain ini mewakili tim nasional Indonesia.
+78	Saya sangat bangga melihat pemain ini mewakili tim nasional Indonesia.
+79	Saya sangat bangga melihat pemain ini mewakili tim nasional Indonesia.
+80	Saya sangat bangga melihat pemain ini mewakili tim nasional Indonesia.
+81	Saya sangat bangga melihat pemain ini mewakili tim nasional Indonesia.
+82	Saya sangat bangga melihat pemain ini mewakili tim nasional Indonesia.
+83	Saya sangat bangga melihat pemain ini mewakili tim nasional Indonesia.
+84	Saya sangat bangga melihat pemain ini mewakili tim nasional Indonesia. Di konsol mereka sangat bagus, di sisi lain mereka tidak lebih baik, tapi banyak kesempatan untuk mencoba dirinya di stage terbesar,
+85	Di konsol mereka sangat bagus, di sisi lain mereka tidak lebih baik, tapi banyak kesempatan untuk mencoba dirinya di stage terbesar,
+86	Di konsol mereka sangat bagus, di sisi lain mereka tidak lebih baik, tapi banyak kesempatan untuk mencoba dirinya di stage terbesar,
+87	Di konsol mereka sangat bagus, di sisi lain mereka tidak lebih baik, tapi banyak kesempatan untuk mencoba dirinya di stage terbesar,
+88	Di konsol mereka sangat bagus, di sisi lain mereka tidak lebih baik, tapi banyak kesempatan untuk mencoba dirinya di stage terbesar,
+89	Di konsol mereka sangat bagus, di sisi lain mereka tidak lebih baik, tapi banyak kesempatan untuk mencoba dirinya di stage terbesar,
+90	Di konsol mereka sangat bagus, di sisi lain mereka tidak lebih baik, tapi banyak kesempatan untuk mencoba dirinya di stage terbesar,
+91	Di konsol mereka sangat bagus, di sisi lain mereka tidak lebih baik, tapi banyak kesempatan untuk mencoba dirinya di stage terbesar,
+92	Di konsol mereka sangat bagus, di sisi lain mereka tidak lebih baik, tapi banyak kesempatan untuk mencoba dirinya di stage terbesar,
+93	Di konsol mereka sangat bagus, di sisi lain mereka tidak lebih baik, tapi banyak kesempatan untuk mencoba dirinya di stage terbesar,
+94	Di konsol mereka sangat bagus, di sisi lain mereka tidak lebih baik, tapi banyak kesempatan untuk mencoba dirinya di stage terbesar,
+95	Di konsol mereka sangat bagus, di sisi lain mereka tidak lebih baik, tapi banyak kesempatan untuk mencoba dirinya di stage terbesar,
+96	Di konsol mereka sangat bagus, di sisi lain mereka tidak lebih baik, tapi banyak kesempatan untuk mencoba dirinya di stage terbesar,
+97	Di konsol mereka sangat bagus, di sisi lain mereka tidak lebih baik, tapi banyak kesempatan untuk mencoba dirinya di stage terbesar, seperti World Cup, dan saya yakin dia akan mengejutkan banyak orang.
+98	Di konsol mereka sangat bagus, di sisi lain mereka tidak lebih baik, tapi banyak kesempatan untuk mencoba dirinya di stage terbesar, seperti World Cup, dan saya yakin dia akan mengejutkan banyak orang.
+99	seperti World Cup, dan saya yakin dia akan mengejutkan banyak orang.
+100	seperti World Cup, dan saya yakin dia akan mengejutkan banyak orang.
+101	seperti World Cup, dan saya yakin dia akan mengejutkan banyak orang.
+102	seperti World Cup, dan saya yakin dia akan mengejutkan banyak orang.
+103	seperti World Cup, dan saya yakin dia akan mengejutkan banyak orang.
+104	seperti World Cup, dan saya yakin dia akan mengejutkan banyak orang.
+105	seperti World Cup, dan saya yakin dia akan mengejutkan banyak orang.
+106	seperti World Cup, dan saya yakin dia akan mengejutkan banyak orang. Terima kasih.
+107	seperti World Cup, dan saya yakin dia akan mengejutkan banyak orang. Terima kasih.
+108	Terima kasih.
+109	Terima kasih.
+110	Terima kasih.
+111	[NO_SPEECH]
+112	[NO_SPEECH]
+113	[NO_SPEECH]
+114	[NO_SPEECH]
+115	[NO_SPEECH]
+116	[NO_SPEECH]
+117	[NO_SPEECH]
+118	[NO_SPEECH]
+119	[NO_SPEECH]
+120	[NO_SPEECH]
+121	[NO_SPEECH]
+122	[NO_SPEECH]

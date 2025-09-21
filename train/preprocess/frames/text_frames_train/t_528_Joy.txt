@@ -1,0 +1,87 @@
+0	Bersama kita tak lukan
+1	Bersama kita tak lukan
+2	Bersama kita tak lukan
+3	Bersama kita tak lukan
+4	Bersama kita tak lukan
+5	Bersama kita tak lukan Kepada seluruh atlet-atlet, porprof dan popprof DKI Jakarta
+6	Bersama kita tak lukan Kepada seluruh atlet-atlet, porprof dan popprof DKI Jakarta
+7	Kepada seluruh atlet-atlet, porprof dan popprof DKI Jakarta
+8	Kepada seluruh atlet-atlet, porprof dan popprof DKI Jakarta
+9	Kepada seluruh atlet-atlet, porprof dan popprof DKI Jakarta
+10	Kepada seluruh atlet-atlet, porprof dan popprof DKI Jakarta
+11	Kepada seluruh atlet-atlet, porprof dan popprof DKI Jakarta
+12	Kepada seluruh atlet-atlet, porprof dan popprof DKI Jakarta
+13	Kepada seluruh atlet-atlet, porprof dan popprof DKI Jakarta
+14	Kepada seluruh atlet-atlet, porprof dan popprof DKI Jakarta
+15	Kepada seluruh atlet-atlet, porprof dan popprof DKI Jakarta
+16	Kepada seluruh atlet-atlet, porprof dan popprof DKI Jakarta Selamat bertanding, bertanding dengan penuh sportivitas, penuh semangat
+17	Kepada seluruh atlet-atlet, porprof dan popprof DKI Jakarta Selamat bertanding, bertanding dengan penuh sportivitas, penuh semangat
+18	Selamat bertanding, bertanding dengan penuh sportivitas, penuh semangat
+19	Selamat bertanding, bertanding dengan penuh sportivitas, penuh semangat
+20	Selamat bertanding, bertanding dengan penuh sportivitas, penuh semangat
+21	Selamat bertanding, bertanding dengan penuh sportivitas, penuh semangat
+22	Selamat bertanding, bertanding dengan penuh sportivitas, penuh semangat
+23	Selamat bertanding, bertanding dengan penuh sportivitas, penuh semangat
+24	Selamat bertanding, bertanding dengan penuh sportivitas, penuh semangat
+25	Selamat bertanding, bertanding dengan penuh sportivitas, penuh semangat
+26	Selamat bertanding, bertanding dengan penuh sportivitas, penuh semangat
+27	Selamat bertanding, bertanding dengan penuh sportivitas, penuh semangat
+28	Selamat bertanding, bertanding dengan penuh sportivitas, penuh semangat Insya Allah kalian nanti akan menjadi atlet-atlet yang berprestasi
+29	Selamat bertanding, bertanding dengan penuh sportivitas, penuh semangat Insya Allah kalian nanti akan menjadi atlet-atlet yang berprestasi
+30	Insya Allah kalian nanti akan menjadi atlet-atlet yang berprestasi
+31	Insya Allah kalian nanti akan menjadi atlet-atlet yang berprestasi
+32	Insya Allah kalian nanti akan menjadi atlet-atlet yang berprestasi
+33	Insya Allah kalian nanti akan menjadi atlet-atlet yang berprestasi
+34	Insya Allah kalian nanti akan menjadi atlet-atlet yang berprestasi
+35	Insya Allah kalian nanti akan menjadi atlet-atlet yang berprestasi
+36	Insya Allah kalian nanti akan menjadi atlet-atlet yang berprestasi
+37	Insya Allah kalian nanti akan menjadi atlet-atlet yang berprestasi
+38	Insya Allah kalian nanti akan menjadi atlet-atlet yang berprestasi Yang bisa membawa nama baik wilayahnya, membawa nama baik Jakarta
+39	Insya Allah kalian nanti akan menjadi atlet-atlet yang berprestasi Yang bisa membawa nama baik wilayahnya, membawa nama baik Jakarta
+40	Yang bisa membawa nama baik wilayahnya, membawa nama baik Jakarta
+41	Yang bisa membawa nama baik wilayahnya, membawa nama baik Jakarta
+42	Yang bisa membawa nama baik wilayahnya, membawa nama baik Jakarta
+43	Yang bisa membawa nama baik wilayahnya, membawa nama baik Jakarta
+44	Yang bisa membawa nama baik wilayahnya, membawa nama baik Jakarta
+45	Yang bisa membawa nama baik wilayahnya, membawa nama baik Jakarta
+46	Yang bisa membawa nama baik wilayahnya, membawa nama baik Jakarta
+47	Yang bisa membawa nama baik wilayahnya, membawa nama baik Jakarta
+48	Yang bisa membawa nama baik wilayahnya, membawa nama baik Jakarta
+49	Yang bisa membawa nama baik wilayahnya, membawa nama baik Jakarta Dan yang lebih penting lagi, membawa nama baik bangsa Indonesia di tingkat internasional
+50	Yang bisa membawa nama baik wilayahnya, membawa nama baik Jakarta Dan yang lebih penting lagi, membawa nama baik bangsa Indonesia di tingkat internasional
+51	Dan yang lebih penting lagi, membawa nama baik bangsa Indonesia di tingkat internasional
+52	Dan yang lebih penting lagi, membawa nama baik bangsa Indonesia di tingkat internasional
+53	Dan yang lebih penting lagi, membawa nama baik bangsa Indonesia di tingkat internasional
+54	Dan yang lebih penting lagi, membawa nama baik bangsa Indonesia di tingkat internasional
+55	Dan yang lebih penting lagi, membawa nama baik bangsa Indonesia di tingkat internasional
+56	Dan yang lebih penting lagi, membawa nama baik bangsa Indonesia di tingkat internasional
+57	Dan yang lebih penting lagi, membawa nama baik bangsa Indonesia di tingkat internasional
+58	Dan yang lebih penting lagi, membawa nama baik bangsa Indonesia di tingkat internasional
+59	Dan yang lebih penting lagi, membawa nama baik bangsa Indonesia di tingkat internasional
+60	Dan yang lebih penting lagi, membawa nama baik bangsa Indonesia di tingkat internasional
+61	Dan yang lebih penting lagi, membawa nama baik bangsa Indonesia di tingkat internasional
+62	Dan yang lebih penting lagi, membawa nama baik bangsa Indonesia di tingkat internasional Saya lagi selamat, sudah selalu
+63	Saya lagi selamat, sudah selalu
+64	Saya lagi selamat, sudah selalu
+65	Saya lagi selamat, sudah selalu Wassalamualaikum Wr. Wb
+66	Saya lagi selamat, sudah selalu Wassalamualaikum Wr. Wb
+67	Wassalamualaikum Wr. Wb
+68	Wassalamualaikum Wr. Wb
+69	Wassalamualaikum Wr. Wb
+70	Wassalamualaikum Wr. Wb
+71	[NO_SPEECH]
+72	[NO_SPEECH]
+73	[NO_SPEECH]
+74	[NO_SPEECH]
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	[NO_SPEECH]
+83	[NO_SPEECH]
+84	[NO_SPEECH]
+85	[NO_SPEECH]
+86	[NO_SPEECH]

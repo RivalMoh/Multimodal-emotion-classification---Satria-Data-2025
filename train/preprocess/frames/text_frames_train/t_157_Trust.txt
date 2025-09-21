@@ -1,0 +1,103 @@
+0	Insiden nubruk pantat truk yang berujung maut bukan sekali atau dua kali kejadian.
+1	Insiden nubruk pantat truk yang berujung maut bukan sekali atau dua kali kejadian.
+2	Insiden nubruk pantat truk yang berujung maut bukan sekali atau dua kali kejadian.
+3	Insiden nubruk pantat truk yang berujung maut bukan sekali atau dua kali kejadian.
+4	Insiden nubruk pantat truk yang berujung maut bukan sekali atau dua kali kejadian.
+5	Insiden nubruk pantat truk yang berujung maut bukan sekali atau dua kali kejadian.
+6	Insiden nubruk pantat truk yang berujung maut bukan sekali atau dua kali kejadian.
+7	Insiden nubruk pantat truk yang berujung maut bukan sekali atau dua kali kejadian. Terlepas dari siapa yang lalai, peranti rear underarm protection di kendaraan besar kelihatannya penting juga ya, Cing.
+8	Insiden nubruk pantat truk yang berujung maut bukan sekali atau dua kali kejadian. Terlepas dari siapa yang lalai, peranti rear underarm protection di kendaraan besar kelihatannya penting juga ya, Cing.
+9	Terlepas dari siapa yang lalai, peranti rear underarm protection di kendaraan besar kelihatannya penting juga ya, Cing.
+10	Terlepas dari siapa yang lalai, peranti rear underarm protection di kendaraan besar kelihatannya penting juga ya, Cing.
+11	Terlepas dari siapa yang lalai, peranti rear underarm protection di kendaraan besar kelihatannya penting juga ya, Cing.
+12	Terlepas dari siapa yang lalai, peranti rear underarm protection di kendaraan besar kelihatannya penting juga ya, Cing.
+13	Terlepas dari siapa yang lalai, peranti rear underarm protection di kendaraan besar kelihatannya penting juga ya, Cing.
+14	Terlepas dari siapa yang lalai, peranti rear underarm protection di kendaraan besar kelihatannya penting juga ya, Cing.
+15	Terlepas dari siapa yang lalai, peranti rear underarm protection di kendaraan besar kelihatannya penting juga ya, Cing.
+16	Terlepas dari siapa yang lalai, peranti rear underarm protection di kendaraan besar kelihatannya penting juga ya, Cing.
+17	Terlepas dari siapa yang lalai, peranti rear underarm protection di kendaraan besar kelihatannya penting juga ya, Cing.
+18	Terlepas dari siapa yang lalai, peranti rear underarm protection di kendaraan besar kelihatannya penting juga ya, Cing. Sederhananya sih, ini bumper belakang truk, ditujukan supaya mobil-mobil lebih kecil nggak langsung ngolong ketika terjadi kecelakaan.
+19	Sederhananya sih, ini bumper belakang truk, ditujukan supaya mobil-mobil lebih kecil nggak langsung ngolong ketika terjadi kecelakaan.
+20	Sederhananya sih, ini bumper belakang truk, ditujukan supaya mobil-mobil lebih kecil nggak langsung ngolong ketika terjadi kecelakaan.
+21	Sederhananya sih, ini bumper belakang truk, ditujukan supaya mobil-mobil lebih kecil nggak langsung ngolong ketika terjadi kecelakaan.
+22	Sederhananya sih, ini bumper belakang truk, ditujukan supaya mobil-mobil lebih kecil nggak langsung ngolong ketika terjadi kecelakaan.
+23	Sederhananya sih, ini bumper belakang truk, ditujukan supaya mobil-mobil lebih kecil nggak langsung ngolong ketika terjadi kecelakaan.
+24	Sederhananya sih, ini bumper belakang truk, ditujukan supaya mobil-mobil lebih kecil nggak langsung ngolong ketika terjadi kecelakaan.
+25	Sederhananya sih, ini bumper belakang truk, ditujukan supaya mobil-mobil lebih kecil nggak langsung ngolong ketika terjadi kecelakaan.
+26	Sederhananya sih, ini bumper belakang truk, ditujukan supaya mobil-mobil lebih kecil nggak langsung ngolong ketika terjadi kecelakaan.
+27	Sederhananya sih, ini bumper belakang truk, ditujukan supaya mobil-mobil lebih kecil nggak langsung ngolong ketika terjadi kecelakaan.
+28	Sederhananya sih, ini bumper belakang truk, ditujukan supaya mobil-mobil lebih kecil nggak langsung ngolong ketika terjadi kecelakaan.
+29	Sederhananya sih, ini bumper belakang truk, ditujukan supaya mobil-mobil lebih kecil nggak langsung ngolong ketika terjadi kecelakaan.
+30	Sederhananya sih, ini bumper belakang truk, ditujukan supaya mobil-mobil lebih kecil nggak langsung ngolong ketika terjadi kecelakaan. Soalnya, postur bokong yang tinggi bakal ketemu langsung sama pilar mobil penumpang.
+31	Sederhananya sih, ini bumper belakang truk, ditujukan supaya mobil-mobil lebih kecil nggak langsung ngolong ketika terjadi kecelakaan. Soalnya, postur bokong yang tinggi bakal ketemu langsung sama pilar mobil penumpang.
+32	Soalnya, postur bokong yang tinggi bakal ketemu langsung sama pilar mobil penumpang.
+33	Soalnya, postur bokong yang tinggi bakal ketemu langsung sama pilar mobil penumpang.
+34	Soalnya, postur bokong yang tinggi bakal ketemu langsung sama pilar mobil penumpang.
+35	Soalnya, postur bokong yang tinggi bakal ketemu langsung sama pilar mobil penumpang.
+36	Soalnya, postur bokong yang tinggi bakal ketemu langsung sama pilar mobil penumpang.
+37	Soalnya, postur bokong yang tinggi bakal ketemu langsung sama pilar mobil penumpang.
+38	Soalnya, postur bokong yang tinggi bakal ketemu langsung sama pilar mobil penumpang. Ngeri, apalagi bicara truk-truk dan trailer besar.
+39	Soalnya, postur bokong yang tinggi bakal ketemu langsung sama pilar mobil penumpang. Ngeri, apalagi bicara truk-truk dan trailer besar.
+40	Ngeri, apalagi bicara truk-truk dan trailer besar.
+41	Ngeri, apalagi bicara truk-truk dan trailer besar.
+42	Ngeri, apalagi bicara truk-truk dan trailer besar.
+43	Ngeri, apalagi bicara truk-truk dan trailer besar.
+44	Ngeri, apalagi bicara truk-truk dan trailer besar. Nah, dari tes IHS di Amrik, seenggaknya nunjukin dengan desain yang tepat bisa mencegah terjadinya kecelakaan fatal.
+45	Nah, dari tes IHS di Amrik, seenggaknya nunjukin dengan desain yang tepat bisa mencegah terjadinya kecelakaan fatal.
+46	Nah, dari tes IHS di Amrik, seenggaknya nunjukin dengan desain yang tepat bisa mencegah terjadinya kecelakaan fatal.
+47	Nah, dari tes IHS di Amrik, seenggaknya nunjukin dengan desain yang tepat bisa mencegah terjadinya kecelakaan fatal.
+48	Nah, dari tes IHS di Amrik, seenggaknya nunjukin dengan desain yang tepat bisa mencegah terjadinya kecelakaan fatal.
+49	Nah, dari tes IHS di Amrik, seenggaknya nunjukin dengan desain yang tepat bisa mencegah terjadinya kecelakaan fatal.
+50	Nah, dari tes IHS di Amrik, seenggaknya nunjukin dengan desain yang tepat bisa mencegah terjadinya kecelakaan fatal.
+51	Nah, dari tes IHS di Amrik, seenggaknya nunjukin dengan desain yang tepat bisa mencegah terjadinya kecelakaan fatal.
+52	Nah, dari tes IHS di Amrik, seenggaknya nunjukin dengan desain yang tepat bisa mencegah terjadinya kecelakaan fatal.
+53	Nah, dari tes IHS di Amrik, seenggaknya nunjukin dengan desain yang tepat bisa mencegah terjadinya kecelakaan fatal.
+54	Nah, dari tes IHS di Amrik, seenggaknya nunjukin dengan desain yang tepat bisa mencegah terjadinya kecelakaan fatal. Mau itu full frontal atau overlap samping.
+55	Nah, dari tes IHS di Amrik, seenggaknya nunjukin dengan desain yang tepat bisa mencegah terjadinya kecelakaan fatal. Mau itu full frontal atau overlap samping.
+56	Nah, dari tes IHS di Amrik, seenggaknya nunjukin dengan desain yang tepat bisa mencegah terjadinya kecelakaan fatal. Mau itu full frontal atau overlap samping.
+57	Mau itu full frontal atau overlap samping.
+58	Mau itu full frontal atau overlap samping.
+59	Mau itu full frontal atau overlap samping.
+60	Mau itu full frontal atau overlap samping. Well, di kita juga udah ada aturannya kok, cuma mungkin perlu diperketat lagi soal rancangan dan kewajiban pasangnya.
+61	Mau itu full frontal atau overlap samping. Well, di kita juga udah ada aturannya kok, cuma mungkin perlu diperketat lagi soal rancangan dan kewajiban pasangnya.
+62	Well, di kita juga udah ada aturannya kok, cuma mungkin perlu diperketat lagi soal rancangan dan kewajiban pasangnya.
+63	Well, di kita juga udah ada aturannya kok, cuma mungkin perlu diperketat lagi soal rancangan dan kewajiban pasangnya.
+64	Well, di kita juga udah ada aturannya kok, cuma mungkin perlu diperketat lagi soal rancangan dan kewajiban pasangnya.
+65	Well, di kita juga udah ada aturannya kok, cuma mungkin perlu diperketat lagi soal rancangan dan kewajiban pasangnya.
+66	Well, di kita juga udah ada aturannya kok, cuma mungkin perlu diperketat lagi soal rancangan dan kewajiban pasangnya.
+67	Well, di kita juga udah ada aturannya kok, cuma mungkin perlu diperketat lagi soal rancangan dan kewajiban pasangnya.
+68	Well, di kita juga udah ada aturannya kok, cuma mungkin perlu diperketat lagi soal rancangan dan kewajiban pasangnya.
+69	Well, di kita juga udah ada aturannya kok, cuma mungkin perlu diperketat lagi soal rancangan dan kewajiban pasangnya.
+70	Well, di kita juga udah ada aturannya kok, cuma mungkin perlu diperketat lagi soal rancangan dan kewajiban pasangnya. Biar yang pasang nggak sebatas formalitas asal ada.
+71	Well, di kita juga udah ada aturannya kok, cuma mungkin perlu diperketat lagi soal rancangan dan kewajiban pasangnya. Biar yang pasang nggak sebatas formalitas asal ada.
+72	Biar yang pasang nggak sebatas formalitas asal ada.
+73	Biar yang pasang nggak sebatas formalitas asal ada.
+74	Biar yang pasang nggak sebatas formalitas asal ada.
+75	Biar yang pasang nggak sebatas formalitas asal ada.
+76	Biar yang pasang nggak sebatas formalitas asal ada. Tapi yang jelas, di sini paling penting adalah awareness semua pengguna jalan.
+77	Tapi yang jelas, di sini paling penting adalah awareness semua pengguna jalan.
+78	Tapi yang jelas, di sini paling penting adalah awareness semua pengguna jalan.
+79	Tapi yang jelas, di sini paling penting adalah awareness semua pengguna jalan.
+80	Tapi yang jelas, di sini paling penting adalah awareness semua pengguna jalan.
+81	Tapi yang jelas, di sini paling penting adalah awareness semua pengguna jalan.
+82	Tapi yang jelas, di sini paling penting adalah awareness semua pengguna jalan.
+83	Tapi yang jelas, di sini paling penting adalah awareness semua pengguna jalan.
+84	Tapi yang jelas, di sini paling penting adalah awareness semua pengguna jalan. Tetap kudu tau diri, tau aturan, dan hati-hati.
+85	Tapi yang jelas, di sini paling penting adalah awareness semua pengguna jalan. Tetap kudu tau diri, tau aturan, dan hati-hati.
+86	Tetap kudu tau diri, tau aturan, dan hati-hati.
+87	Tetap kudu tau diri, tau aturan, dan hati-hati.
+88	Tetap kudu tau diri, tau aturan, dan hati-hati. Soalnya, safety bukan cuma buat diri sendiri.
+89	Tetap kudu tau diri, tau aturan, dan hati-hati. Soalnya, safety bukan cuma buat diri sendiri.
+90	Soalnya, safety bukan cuma buat diri sendiri.
+91	Soalnya, safety bukan cuma buat diri sendiri.
+92	Soalnya, safety bukan cuma buat diri sendiri.
+93	Soalnya, safety bukan cuma buat diri sendiri. Di sini ada yang pernah ngalamin ngolong ke pantat truk.
+94	Di sini ada yang pernah ngalamin ngolong ke pantat truk.
+95	Di sini ada yang pernah ngalamin ngolong ke pantat truk.
+96	Di sini ada yang pernah ngalamin ngolong ke pantat truk.
+97	Di sini ada yang pernah ngalamin ngolong ke pantat truk.
+98	Di sini ada yang pernah ngalamin ngolong ke pantat truk. Jangan sampai deh ya.
+99	Di sini ada yang pernah ngalamin ngolong ke pantat truk. Jangan sampai deh ya.
+100	Jangan sampai deh ya.
+101	Jangan sampai deh ya.
+102	[NO_SPEECH]

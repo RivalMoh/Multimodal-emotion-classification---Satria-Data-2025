@@ -1,0 +1,150 @@
+0	Mau upgrade VGA PC Desktop, perlu ganti PSU juga nggak sih?
+1	Mau upgrade VGA PC Desktop, perlu ganti PSU juga nggak sih?
+2	Mau upgrade VGA PC Desktop, perlu ganti PSU juga nggak sih?
+3	Mau upgrade VGA PC Desktop, perlu ganti PSU juga nggak sih?
+4	Mau upgrade VGA PC Desktop, perlu ganti PSU juga nggak sih?
+5	Mau upgrade VGA PC Desktop, perlu ganti PSU juga nggak sih? Nah, kalau upgrade-nya ke VGA keluaran baru, sebaiknya ganti PSU juga yang udah support standar-standar terbaru.
+6	Mau upgrade VGA PC Desktop, perlu ganti PSU juga nggak sih? Nah, kalau upgrade-nya ke VGA keluaran baru, sebaiknya ganti PSU juga yang udah support standar-standar terbaru.
+7	Nah, kalau upgrade-nya ke VGA keluaran baru, sebaiknya ganti PSU juga yang udah support standar-standar terbaru.
+8	Nah, kalau upgrade-nya ke VGA keluaran baru, sebaiknya ganti PSU juga yang udah support standar-standar terbaru.
+9	Nah, kalau upgrade-nya ke VGA keluaran baru, sebaiknya ganti PSU juga yang udah support standar-standar terbaru.
+10	Nah, kalau upgrade-nya ke VGA keluaran baru, sebaiknya ganti PSU juga yang udah support standar-standar terbaru.
+11	Nah, kalau upgrade-nya ke VGA keluaran baru, sebaiknya ganti PSU juga yang udah support standar-standar terbaru.
+12	Nah, kalau upgrade-nya ke VGA keluaran baru, sebaiknya ganti PSU juga yang udah support standar-standar terbaru.
+13	Nah, kalau upgrade-nya ke VGA keluaran baru, sebaiknya ganti PSU juga yang udah support standar-standar terbaru.
+14	Nah, kalau upgrade-nya ke VGA keluaran baru, sebaiknya ganti PSU juga yang udah support standar-standar terbaru.
+15	Nah, kalau upgrade-nya ke VGA keluaran baru, sebaiknya ganti PSU juga yang udah support standar-standar terbaru.
+16	Nah, kalau upgrade-nya ke VGA keluaran baru, sebaiknya ganti PSU juga yang udah support standar-standar terbaru.
+17	Nah, kalau upgrade-nya ke VGA keluaran baru, sebaiknya ganti PSU juga yang udah support standar-standar terbaru.
+18	Nah, kalau upgrade-nya ke VGA keluaran baru, sebaiknya ganti PSU juga yang udah support standar-standar terbaru.
+19	Nah, kalau upgrade-nya ke VGA keluaran baru, sebaiknya ganti PSU juga yang udah support standar-standar terbaru.
+20	Nah, kalau upgrade-nya ke VGA keluaran baru, sebaiknya ganti PSU juga yang udah support standar-standar terbaru. Ini memastikan pasokan daya ke komponen PC terjamin dan sesuai dengan standar yang dibutuhkan.
+21	Nah, kalau upgrade-nya ke VGA keluaran baru, sebaiknya ganti PSU juga yang udah support standar-standar terbaru. Ini memastikan pasokan daya ke komponen PC terjamin dan sesuai dengan standar yang dibutuhkan.
+22	Ini memastikan pasokan daya ke komponen PC terjamin dan sesuai dengan standar yang dibutuhkan.
+23	Ini memastikan pasokan daya ke komponen PC terjamin dan sesuai dengan standar yang dibutuhkan.
+24	Ini memastikan pasokan daya ke komponen PC terjamin dan sesuai dengan standar yang dibutuhkan.
+25	Ini memastikan pasokan daya ke komponen PC terjamin dan sesuai dengan standar yang dibutuhkan.
+26	Ini memastikan pasokan daya ke komponen PC terjamin dan sesuai dengan standar yang dibutuhkan.
+27	Ini memastikan pasokan daya ke komponen PC terjamin dan sesuai dengan standar yang dibutuhkan.
+28	Ini memastikan pasokan daya ke komponen PC terjamin dan sesuai dengan standar yang dibutuhkan. Misalnya pakai MSI MAG A850 GLS PCIe 5, PSU ini sudah punya native 12V 2x6 connector.
+29	Ini memastikan pasokan daya ke komponen PC terjamin dan sesuai dengan standar yang dibutuhkan. Misalnya pakai MSI MAG A850 GLS PCIe 5, PSU ini sudah punya native 12V 2x6 connector.
+30	Misalnya pakai MSI MAG A850 GLS PCIe 5, PSU ini sudah punya native 12V 2x6 connector.
+31	Misalnya pakai MSI MAG A850 GLS PCIe 5, PSU ini sudah punya native 12V 2x6 connector.
+32	Misalnya pakai MSI MAG A850 GLS PCIe 5, PSU ini sudah punya native 12V 2x6 connector.
+33	Misalnya pakai MSI MAG A850 GLS PCIe 5, PSU ini sudah punya native 12V 2x6 connector.
+34	Misalnya pakai MSI MAG A850 GLS PCIe 5, PSU ini sudah punya native 12V 2x6 connector.
+35	Misalnya pakai MSI MAG A850 GLS PCIe 5, PSU ini sudah punya native 12V 2x6 connector.
+36	Misalnya pakai MSI MAG A850 GLS PCIe 5, PSU ini sudah punya native 12V 2x6 connector.
+37	Misalnya pakai MSI MAG A850 GLS PCIe 5, PSU ini sudah punya native 12V 2x6 connector.
+38	Misalnya pakai MSI MAG A850 GLS PCIe 5, PSU ini sudah punya native 12V 2x6 connector.
+39	Misalnya pakai MSI MAG A850 GLS PCIe 5, PSU ini sudah punya native 12V 2x6 connector.
+40	Misalnya pakai MSI MAG A850 GLS PCIe 5, PSU ini sudah punya native 12V 2x6 connector.
+41	Misalnya pakai MSI MAG A850 GLS PCIe 5, PSU ini sudah punya native 12V 2x6 connector.
+42	Misalnya pakai MSI MAG A850 GLS PCIe 5, PSU ini sudah punya native 12V 2x6 connector.
+43	Misalnya pakai MSI MAG A850 GLS PCIe 5, PSU ini sudah punya native 12V 2x6 connector.
+44	Misalnya pakai MSI MAG A850 GLS PCIe 5, PSU ini sudah punya native 12V 2x6 connector. Cocok nih kalau mau pakai GeForce RTX 50 series, bisa untuk RTX 5060, RTX 5060 Ti, RTX 5070, RTX 5070 Ti, sampai RTX 5080.
+45	Misalnya pakai MSI MAG A850 GLS PCIe 5, PSU ini sudah punya native 12V 2x6 connector. Cocok nih kalau mau pakai GeForce RTX 50 series, bisa untuk RTX 5060, RTX 5060 Ti, RTX 5070, RTX 5070 Ti, sampai RTX 5080.
+46	Cocok nih kalau mau pakai GeForce RTX 50 series, bisa untuk RTX 5060, RTX 5060 Ti, RTX 5070, RTX 5070 Ti, sampai RTX 5080.
+47	Cocok nih kalau mau pakai GeForce RTX 50 series, bisa untuk RTX 5060, RTX 5060 Ti, RTX 5070, RTX 5070 Ti, sampai RTX 5080.
+48	Cocok nih kalau mau pakai GeForce RTX 50 series, bisa untuk RTX 5060, RTX 5060 Ti, RTX 5070, RTX 5070 Ti, sampai RTX 5080.
+49	Cocok nih kalau mau pakai GeForce RTX 50 series, bisa untuk RTX 5060, RTX 5060 Ti, RTX 5070, RTX 5070 Ti, sampai RTX 5080.
+50	Cocok nih kalau mau pakai GeForce RTX 50 series, bisa untuk RTX 5060, RTX 5060 Ti, RTX 5070, RTX 5070 Ti, sampai RTX 5080.
+51	Cocok nih kalau mau pakai GeForce RTX 50 series, bisa untuk RTX 5060, RTX 5060 Ti, RTX 5070, RTX 5070 Ti, sampai RTX 5080.
+52	Cocok nih kalau mau pakai GeForce RTX 50 series, bisa untuk RTX 5060, RTX 5060 Ti, RTX 5070, RTX 5070 Ti, sampai RTX 5080.
+53	Cocok nih kalau mau pakai GeForce RTX 50 series, bisa untuk RTX 5060, RTX 5060 Ti, RTX 5070, RTX 5070 Ti, sampai RTX 5080.
+54	Cocok nih kalau mau pakai GeForce RTX 50 series, bisa untuk RTX 5060, RTX 5060 Ti, RTX 5070, RTX 5070 Ti, sampai RTX 5080.
+55	Cocok nih kalau mau pakai GeForce RTX 50 series, bisa untuk RTX 5060, RTX 5060 Ti, RTX 5070, RTX 5070 Ti, sampai RTX 5080.
+56	Cocok nih kalau mau pakai GeForce RTX 50 series, bisa untuk RTX 5060, RTX 5060 Ti, RTX 5070, RTX 5070 Ti, sampai RTX 5080.
+57	Cocok nih kalau mau pakai GeForce RTX 50 series, bisa untuk RTX 5060, RTX 5060 Ti, RTX 5070, RTX 5070 Ti, sampai RTX 5080.
+58	Cocok nih kalau mau pakai GeForce RTX 50 series, bisa untuk RTX 5060, RTX 5060 Ti, RTX 5070, RTX 5070 Ti, sampai RTX 5080.
+59	Cocok nih kalau mau pakai GeForce RTX 50 series, bisa untuk RTX 5060, RTX 5060 Ti, RTX 5070, RTX 5070 Ti, sampai RTX 5080.
+60	Cocok nih kalau mau pakai GeForce RTX 50 series, bisa untuk RTX 5060, RTX 5060 Ti, RTX 5070, RTX 5070 Ti, sampai RTX 5080.
+61	Cocok nih kalau mau pakai GeForce RTX 50 series, bisa untuk RTX 5060, RTX 5060 Ti, RTX 5070, RTX 5070 Ti, sampai RTX 5080.
+62	Cocok nih kalau mau pakai GeForce RTX 50 series, bisa untuk RTX 5060, RTX 5060 Ti, RTX 5070, RTX 5070 Ti, sampai RTX 5080.
+63	Cocok nih kalau mau pakai GeForce RTX 50 series, bisa untuk RTX 5060, RTX 5060 Ti, RTX 5070, RTX 5070 Ti, sampai RTX 5080. Pakai dual color cable juga.
+64	Pakai dual color cable juga.
+65	Pakai dual color cable juga.
+66	Pakai dual color cable juga.
+67	Pakai dual color cable juga.
+68	Pakai dual color cable juga. Bikin kita lebih mudah tahu apakah kabel sudah terpasang dengan baik.
+69	Bikin kita lebih mudah tahu apakah kabel sudah terpasang dengan baik.
+70	Bikin kita lebih mudah tahu apakah kabel sudah terpasang dengan baik.
+71	Bikin kita lebih mudah tahu apakah kabel sudah terpasang dengan baik.
+72	Bikin kita lebih mudah tahu apakah kabel sudah terpasang dengan baik.
+73	Bikin kita lebih mudah tahu apakah kabel sudah terpasang dengan baik.
+74	Bikin kita lebih mudah tahu apakah kabel sudah terpasang dengan baik.
+75	Bikin kita lebih mudah tahu apakah kabel sudah terpasang dengan baik. Mau pakai VGA yang pakai 3x8 pin PCIe juga bisa.
+76	Mau pakai VGA yang pakai 3x8 pin PCIe juga bisa.
+77	Mau pakai VGA yang pakai 3x8 pin PCIe juga bisa.
+78	Mau pakai VGA yang pakai 3x8 pin PCIe juga bisa.
+79	Mau pakai VGA yang pakai 3x8 pin PCIe juga bisa.
+80	Mau pakai VGA yang pakai 3x8 pin PCIe juga bisa.
+81	Mau pakai VGA yang pakai 3x8 pin PCIe juga bisa.
+82	Mau pakai VGA yang pakai 3x8 pin PCIe juga bisa. PSU modular ini konektornya melimpah.
+83	PSU modular ini konektornya melimpah.
+84	PSU modular ini konektornya melimpah.
+85	PSU modular ini konektornya melimpah.
+86	PSU modular ini konektornya melimpah.
+87	PSU modular ini konektornya melimpah. Kapasitas dayanya juga besar, sampai 850W.
+88	PSU modular ini konektornya melimpah. Kapasitas dayanya juga besar, sampai 850W.
+89	Kapasitas dayanya juga besar, sampai 850W.
+90	Kapasitas dayanya juga besar, sampai 850W.
+91	Kapasitas dayanya juga besar, sampai 850W.
+92	Kapasitas dayanya juga besar, sampai 850W. Udah standar ATX 3.1, cocok buat komponen PC sampai beberapa tahun ke depan.
+93	Kapasitas dayanya juga besar, sampai 850W. Udah standar ATX 3.1, cocok buat komponen PC sampai beberapa tahun ke depan.
+94	Udah standar ATX 3.1, cocok buat komponen PC sampai beberapa tahun ke depan.
+95	Udah standar ATX 3.1, cocok buat komponen PC sampai beberapa tahun ke depan.
+96	Udah standar ATX 3.1, cocok buat komponen PC sampai beberapa tahun ke depan.
+97	Udah standar ATX 3.1, cocok buat komponen PC sampai beberapa tahun ke depan.
+98	Udah standar ATX 3.1, cocok buat komponen PC sampai beberapa tahun ke depan.
+99	Udah standar ATX 3.1, cocok buat komponen PC sampai beberapa tahun ke depan.
+100	Udah standar ATX 3.1, cocok buat komponen PC sampai beberapa tahun ke depan.
+101	Udah standar ATX 3.1, cocok buat komponen PC sampai beberapa tahun ke depan.
+102	Udah standar ATX 3.1, cocok buat komponen PC sampai beberapa tahun ke depan. Dan dia menawarkan GX.
+103	Udah standar ATX 3.1, cocok buat komponen PC sampai beberapa tahun ke depan. Dan dia menawarkan GX.
+104	Dan dia menawarkan GX. Gold Efficiency.
+105	Dan dia menawarkan GX. Gold Efficiency.
+106	Gold Efficiency. Bikin pemakaian listrik jadi lebih efisien.
+107	Bikin pemakaian listrik jadi lebih efisien.
+108	Bikin pemakaian listrik jadi lebih efisien.
+109	Bikin pemakaian listrik jadi lebih efisien.
+110	Bikin pemakaian listrik jadi lebih efisien. Durabilitasnya dijamin tinggi.
+111	Bikin pemakaian listrik jadi lebih efisien. Durabilitasnya dijamin tinggi.
+112	Durabilitasnya dijamin tinggi.
+113	Durabilitasnya dijamin tinggi. Fitur perlindungannya juga lengkap.
+114	Durabilitasnya dijamin tinggi. Fitur perlindungannya juga lengkap.
+115	Fitur perlindungannya juga lengkap.
+116	Fitur perlindungannya juga lengkap. Desktop PC kita aman dari bahaya akibat listrik yang tidak stabil.
+117	Fitur perlindungannya juga lengkap. Desktop PC kita aman dari bahaya akibat listrik yang tidak stabil.
+118	Desktop PC kita aman dari bahaya akibat listrik yang tidak stabil.
+119	Desktop PC kita aman dari bahaya akibat listrik yang tidak stabil.
+120	Desktop PC kita aman dari bahaya akibat listrik yang tidak stabil.
+121	Desktop PC kita aman dari bahaya akibat listrik yang tidak stabil.
+122	Desktop PC kita aman dari bahaya akibat listrik yang tidak stabil.
+123	Desktop PC kita aman dari bahaya akibat listrik yang tidak stabil. Karasinya panjang, sampai 7 tahun.
+124	Desktop PC kita aman dari bahaya akibat listrik yang tidak stabil. Karasinya panjang, sampai 7 tahun.
+125	Karasinya panjang, sampai 7 tahun.
+126	Karasinya panjang, sampai 7 tahun. Nah, PSU modern ini juga sudah siap buat desktop AI PC.
+127	Karasinya panjang, sampai 7 tahun. Nah, PSU modern ini juga sudah siap buat desktop AI PC.
+128	Nah, PSU modern ini juga sudah siap buat desktop AI PC.
+129	Nah, PSU modern ini juga sudah siap buat desktop AI PC.
+130	Nah, PSU modern ini juga sudah siap buat desktop AI PC.
+131	Nah, PSU modern ini juga sudah siap buat desktop AI PC.
+132	Nah, PSU modern ini juga sudah siap buat desktop AI PC.
+133	Nah, PSU modern ini juga sudah siap buat desktop AI PC. Canggih, mumpuni, stabil, efisien, dan cocok untuk PC high performance masa kini.
+134	Canggih, mumpuni, stabil, efisien, dan cocok untuk PC high performance masa kini.
+135	Canggih, mumpuni, stabil, efisien, dan cocok untuk PC high performance masa kini.
+136	Canggih, mumpuni, stabil, efisien, dan cocok untuk PC high performance masa kini.
+137	Canggih, mumpuni, stabil, efisien, dan cocok untuk PC high performance masa kini.
+138	Canggih, mumpuni, stabil, efisien, dan cocok untuk PC high performance masa kini.
+139	Canggih, mumpuni, stabil, efisien, dan cocok untuk PC high performance masa kini.
+140	Canggih, mumpuni, stabil, efisien, dan cocok untuk PC high performance masa kini.
+141	Canggih, mumpuni, stabil, efisien, dan cocok untuk PC high performance masa kini.
+142	Canggih, mumpuni, stabil, efisien, dan cocok untuk PC high performance masa kini. Bisa untuk PC gaming maupun PC untuk cari duit.
+143	Canggih, mumpuni, stabil, efisien, dan cocok untuk PC high performance masa kini. Bisa untuk PC gaming maupun PC untuk cari duit.
+144	Bisa untuk PC gaming maupun PC untuk cari duit.
+145	Bisa untuk PC gaming maupun PC untuk cari duit.
+146	Bisa untuk PC gaming maupun PC untuk cari duit.
+147	Bisa untuk PC gaming maupun PC untuk cari duit. Jadi...
+148	Bisa untuk PC gaming maupun PC untuk cari duit. Jadi...
+149	Jadi...

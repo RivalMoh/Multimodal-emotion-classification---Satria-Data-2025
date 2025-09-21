@@ -1,0 +1,180 @@
+0	Jadi lagi makan di Sentul waktu itu.
+1	Jadi lagi makan di Sentul waktu itu.
+2	Jadi lagi makan di Sentul waktu itu.
+3	Jadi lagi makan di Sentul waktu itu.
+4	Jadi lagi makan di Sentul waktu itu. Coba-coba orang-orang rame.
+5	Coba-coba orang-orang rame.
+6	Coba-coba orang-orang rame. Jadi ada mobil box mundur.
+7	Coba-coba orang-orang rame. Jadi ada mobil box mundur.
+8	Jadi ada mobil box mundur.
+9	Jadi ada mobil box mundur.
+10	Jadi ada mobil box mundur.
+11	Jadi ada mobil box mundur.
+12	[NO_SPEECH]
+13	Terus nabrak.
+14	Terus nabrak.
+15	Terus nabrak.
+16	Terus nabrak. Supir mobil box.
+17	Supir mobil box.
+18	Supir mobil box.
+19	Supir mobil box.
+20	Supir mobil box yang gue tau lah pasti untuk ngeganti ini.
+21	Supir mobil box yang gue tau lah pasti untuk ngeganti ini.
+22	Supir mobil box yang gue tau lah pasti untuk ngeganti ini.
+23	Supir mobil box yang gue tau lah pasti untuk ngeganti ini.
+24	Supir mobil box yang gue tau lah pasti untuk ngeganti ini.
+25	Supir mobil box yang gue tau lah pasti untuk ngeganti ini.
+26	Supir mobil box yang gue tau lah pasti untuk ngeganti ini. Ini kan gak bisa dicet.
+27	Supir mobil box yang gue tau lah pasti untuk ngeganti ini. Ini kan gak bisa dicet.
+28	Ini kan gak bisa dicet. Jadi kan harus ganti panel.
+29	Ini kan gak bisa dicet. Jadi kan harus ganti panel.
+30	Jadi kan harus ganti panel.
+31	Jadi kan harus ganti panel.
+32	Jadi kan harus ganti panel.
+33	Jadi kan harus ganti panel. Nah ini kira-kira ganti dua ini tuh 3 juta.
+34	Nah ini kira-kira ganti dua ini tuh 3 juta.
+35	Nah ini kira-kira ganti dua ini tuh 3 juta.
+36	Nah ini kira-kira ganti dua ini tuh 3 juta.
+37	Nah ini kira-kira ganti dua ini tuh 3 juta.
+38	Nah ini kira-kira ganti dua ini tuh 3 juta.
+39	Nah ini kira-kira ganti dua ini tuh 3 juta. Gue tau itu mungkin orang pasti agak susah untuk ngeganti itu.
+40	Gue tau itu mungkin orang pasti agak susah untuk ngeganti itu.
+41	Gue tau itu mungkin orang pasti agak susah untuk ngeganti itu.
+42	Gue tau itu mungkin orang pasti agak susah untuk ngeganti itu.
+43	Gue tau itu mungkin orang pasti agak susah untuk ngeganti itu.
+44	Gue tau itu mungkin orang pasti agak susah untuk ngeganti itu.
+45	Gue tau itu mungkin orang pasti agak susah untuk ngeganti itu.
+46	Gue tau itu mungkin orang pasti agak susah untuk ngeganti itu.
+47	Gue tau itu mungkin orang pasti agak susah untuk ngeganti itu. Tapi gue pengen lihat tanggung jawabnya.
+48	Gue tau itu mungkin orang pasti agak susah untuk ngeganti itu. Tapi gue pengen lihat tanggung jawabnya.
+49	Tapi gue pengen lihat tanggung jawabnya.
+50	Tapi gue pengen lihat tanggung jawabnya.
+51	Tapi gue pengen lihat tanggung jawabnya. Gue pengen lihat tanggung jawabnya.
+52	Gue pengen lihat tanggung jawabnya.
+53	Gue pengen lihat tanggung jawabnya.
+54	Gue pengen lihat tanggung jawabnya.
+55	Gue pengen lihat tanggung jawabnya. Terus dia bilang.
+56	Gue pengen lihat tanggung jawabnya. Terus dia bilang.
+57	Terus dia bilang.
+58	Terus dia bilang. Pak saya tanggung jawab.
+59	Pak saya tanggung jawab.
+60	Pak saya tanggung jawab.
+61	Pak saya tanggung jawab. Oke ini orang bagus nih tanggung jawab.
+62	Pak saya tanggung jawab. Oke ini orang bagus nih tanggung jawab.
+63	Oke ini orang bagus nih tanggung jawab.
+64	Oke ini orang bagus nih tanggung jawab. Oke saya minta KTP-nya semua.
+65	Oke ini orang bagus nih tanggung jawab. Oke saya minta KTP-nya semua.
+66	Oke saya minta KTP-nya semua.
+67	Oke saya minta KTP-nya semua.
+68	[NO_SPEECH]
+69	Terus saya tanya ya ke Cherry nanti berapa perbaikannya.
+70	Terus saya tanya ya ke Cherry nanti berapa perbaikannya.
+71	Terus saya tanya ya ke Cherry nanti berapa perbaikannya.
+72	Terus saya tanya ya ke Cherry nanti berapa perbaikannya.
+73	Terus saya tanya ya ke Cherry nanti berapa perbaikannya.
+74	Terus saya tanya ya ke Cherry nanti berapa perbaikannya.
+75	Terus saya tanya ya ke Cherry nanti berapa perbaikannya. Ternyata ini dan ini tuh sekitar 3 jutaan lebih lah.
+76	Terus saya tanya ya ke Cherry nanti berapa perbaikannya. Ternyata ini dan ini tuh sekitar 3 jutaan lebih lah.
+77	Ternyata ini dan ini tuh sekitar 3 jutaan lebih lah.
+78	Ternyata ini dan ini tuh sekitar 3 jutaan lebih lah.
+79	Ternyata ini dan ini tuh sekitar 3 jutaan lebih lah.
+80	Ternyata ini dan ini tuh sekitar 3 jutaan lebih lah.
+81	Ternyata ini dan ini tuh sekitar 3 jutaan lebih lah.
+82	Ternyata ini dan ini tuh sekitar 3 jutaan lebih lah. 3 juta hampir 4 juta gitu.
+83	Ternyata ini dan ini tuh sekitar 3 jutaan lebih lah. 3 juta hampir 4 juta gitu.
+84	3 juta hampir 4 juta gitu.
+85	3 juta hampir 4 juta gitu.
+86	3 juta hampir 4 juta gitu. Terus dia bilang aduh pak saya gak sanggup kalau segitu gitu kan.
+87	Terus dia bilang aduh pak saya gak sanggup kalau segitu gitu kan.
+88	Terus dia bilang aduh pak saya gak sanggup kalau segitu gitu kan.
+89	Terus dia bilang aduh pak saya gak sanggup kalau segitu gitu kan.
+90	Terus dia bilang aduh pak saya gak sanggup kalau segitu gitu kan.
+91	Terus dia bilang aduh pak saya gak sanggup kalau segitu gitu kan.
+92	Terus dia bilang aduh pak saya gak sanggup kalau segitu gitu kan.
+93	Terus dia bilang aduh pak saya gak sanggup kalau segitu gitu kan. Terus saya tanya sanggupnya berapa.
+94	Terus dia bilang aduh pak saya gak sanggup kalau segitu gitu kan. Terus saya tanya sanggupnya berapa.
+95	Terus saya tanya sanggupnya berapa.
+96	Terus saya tanya sanggupnya berapa.
+97	Terus saya tanya sanggupnya berapa.
+98	Dari situ kan kelihatan besar tanggung jawabnya dia kan.
+99	Dari situ kan kelihatan besar tanggung jawabnya dia kan.
+100	Dari situ kan kelihatan besar tanggung jawabnya dia kan.
+101	Dari situ kan kelihatan besar tanggung jawabnya dia kan.
+102	Dari situ kan kelihatan besar tanggung jawabnya dia kan.
+103	Dari situ kan kelihatan besar tanggung jawabnya dia kan.
+104	Dari situ kan kelihatan besar tanggung jawabnya dia kan. Terus dia bilang dia sanggupnya 1 juta.
+105	Terus dia bilang dia sanggupnya 1 juta.
+106	Terus dia bilang dia sanggupnya 1 juta.
+107	Terus dia bilang dia sanggupnya 1 juta.
+108	Terus dia bilang dia sanggupnya 1 juta.
+109	Terus dia bilang dia sanggupnya 1 juta. Wah saya pikir gede juga loh.
+110	Terus dia bilang dia sanggupnya 1 juta. Wah saya pikir gede juga loh.
+111	Wah saya pikir gede juga loh.
+112	Wah saya pikir gede juga loh.
+113	Wah saya pikir gede juga loh. Maksudnya dia.
+114	Wah saya pikir gede juga loh. Maksudnya dia.
+115	Maksudnya dia. Dia orang kecil mungkin gaji UMR tapi mau 1 juta gitu.
+116	Dia orang kecil mungkin gaji UMR tapi mau 1 juta gitu.
+117	Dia orang kecil mungkin gaji UMR tapi mau 1 juta gitu.
+118	Dia orang kecil mungkin gaji UMR tapi mau 1 juta gitu.
+119	Dia orang kecil mungkin gaji UMR tapi mau 1 juta gitu.
+120	Dia orang kecil mungkin gaji UMR tapi mau 1 juta gitu.
+121	Dia orang kecil mungkin gaji UMR tapi mau 1 juta gitu.
+122	Dia orang kecil mungkin gaji UMR tapi mau 1 juta gitu. Oh yaudah terus saya kasih nomor rekening saya.
+123	Dia orang kecil mungkin gaji UMR tapi mau 1 juta gitu. Oh yaudah terus saya kasih nomor rekening saya.
+124	Oh yaudah terus saya kasih nomor rekening saya.
+125	Oh yaudah terus saya kasih nomor rekening saya.
+126	Oh yaudah terus saya kasih nomor rekening saya.
+127	Oh yaudah terus saya kasih nomor rekening saya. Beneran diterangkul 1 juta.
+128	Beneran diterangkul 1 juta.
+129	Beneran diterangkul 1 juta.
+130	Beneran diterangkul 1 juta. Beneran diterangkul 1 juta.
+131	Beneran diterangkul 1 juta. Beneran diterangkul 1 juta.
+132	Beneran diterangkul 1 juta.
+133	Beneran diterangkul 1 juta.
+134	Beneran diterangkul 1 juta. Saya senang lihat tanggung jawabnya.
+135	Beneran diterangkul 1 juta. Saya senang lihat tanggung jawabnya.
+136	Saya senang lihat tanggung jawabnya.
+137	Saya senang lihat tanggung jawabnya. Terus abis itu saya balikin lagi uangnya.
+138	Saya senang lihat tanggung jawabnya. Terus abis itu saya balikin lagi uangnya.
+139	Terus abis itu saya balikin lagi uangnya.
+140	Terus abis itu saya balikin lagi uangnya.
+141	Terus abis itu saya balikin lagi uangnya. Gue balikin lagi karena oke lah.
+142	Terus abis itu saya balikin lagi uangnya. Gue balikin lagi karena oke lah.
+143	Gue balikin lagi karena oke lah.
+144	Gue balikin lagi karena oke lah.
+145	Gue balikin lagi karena oke lah.
+146	Gue balikin lagi karena oke lah. Buat dia itu sangat berarti.
+147	Buat dia itu sangat berarti.
+148	Buat dia itu sangat berarti.
+149	Buat dia itu sangat berarti.
+150	Buat dia itu sangat berarti. Tapi yang gue hargain adalah tanggung jawabnya dia.
+151	Buat dia itu sangat berarti. Tapi yang gue hargain adalah tanggung jawabnya dia.
+152	Tapi yang gue hargain adalah tanggung jawabnya dia.
+153	Tapi yang gue hargain adalah tanggung jawabnya dia.
+154	Tapi yang gue hargain adalah tanggung jawabnya dia.
+155	Tapi yang gue hargain adalah tanggung jawabnya dia.
+156	Tapi yang gue hargain adalah tanggung jawabnya dia.
+157	Tapi gue gak ngasih tau bahwa gue emang niat untuk balikin uang itu.
+158	Tapi gue gak ngasih tau bahwa gue emang niat untuk balikin uang itu.
+159	Tapi gue gak ngasih tau bahwa gue emang niat untuk balikin uang itu.
+160	Tapi gue gak ngasih tau bahwa gue emang niat untuk balikin uang itu.
+161	Tapi gue gak ngasih tau bahwa gue emang niat untuk balikin uang itu.
+162	Tapi gue gak ngasih tau bahwa gue emang niat untuk balikin uang itu.
+163	Tapi gue gak ngasih tau bahwa gue emang niat untuk balikin uang itu. Asal dia tanggung jawab.
+164	Tapi gue gak ngasih tau bahwa gue emang niat untuk balikin uang itu. Asal dia tanggung jawab.
+165	Asal dia tanggung jawab. Pengen ngeliat dulu tanggung jawabnya.
+166	Asal dia tanggung jawab. Pengen ngeliat dulu tanggung jawabnya.
+167	Pengen ngeliat dulu tanggung jawabnya.
+168	Pengen ngeliat dulu tanggung jawabnya.
+169	Pengen ngeliat dulu tanggung jawabnya.
+170	Pengen ngeliat dulu tanggung jawabnya. Ataupun jangan ngepremem.
+171	Ataupun jangan ngepremem.
+172	Ataupun jangan ngepremem. Oh udah ini.
+173	Ataupun jangan ngepremem. Oh udah ini.
+174	Oh udah ini.
+175	Oh udah ini. Malah kesel ya om kali gitu ini ya.
+176	Malah kesel ya om kali gitu ini ya.
+177	Malah kesel ya om kali gitu ini ya.
+178	Malah kesel ya om kali gitu ini ya.
+179	Malah kesel ya om kali gitu ini ya.

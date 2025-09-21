@@ -1,0 +1,39 @@
+0	di boothnya Wuling kita mau iseng tanya sama salesnya
+1	di boothnya Wuling kita mau iseng tanya sama salesnya
+2	di boothnya Wuling kita mau iseng tanya sama salesnya
+3	di boothnya Wuling kita mau iseng tanya sama salesnya
+4	di boothnya Wuling kita mau iseng tanya sama salesnya
+5	di boothnya Wuling kita mau iseng tanya sama salesnya
+6	di boothnya Wuling kita mau iseng tanya sama salesnya
+7	di boothnya Wuling kita mau iseng tanya sama salesnya
+8	[NO_SPEECH]
+9	Wuling RIV diskonnya berapa?
+10	Wuling RIV diskonnya berapa?
+11	Wuling RIV diskonnya berapa?
+12	Wuling RIV diskonnya berapa?
+13	Wuling RIV diskonnya berapa?
+14	Wuling RIV diskonnya berapa?
+15	Wuling RIV diskonnya berapa?
+16	Wuling RIV diskonnya berapa?
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	Wuling Bingo IV diskonnya berapa?
+23	Wuling Bingo IV diskonnya berapa?
+24	Wuling Bingo IV diskonnya berapa?
+25	Wuling Bingo IV diskonnya berapa?
+26	Wuling Bingo IV diskonnya berapa?
+27	Wuling Bingo IV diskonnya berapa?
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	oke, untuk yang melakukan SPK juga
+33	oke, untuk yang melakukan SPK juga
+34	oke, untuk yang melakukan SPK juga
+35	oke, untuk yang melakukan SPK juga
+36	oke, untuk yang melakukan SPK juga
+37	oke, untuk yang melakukan SPK juga
+38	oke, untuk yang melakukan SPK juga

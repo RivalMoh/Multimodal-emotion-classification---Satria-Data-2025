@@ -1,0 +1,120 @@
+0	Akhirnya ada juga mobil SUV 7-seater yang nyaris sempurna.
+1	Akhirnya ada juga mobil SUV 7-seater yang nyaris sempurna.
+2	Akhirnya ada juga mobil SUV 7-seater yang nyaris sempurna.
+3	Akhirnya ada juga mobil SUV 7-seater yang nyaris sempurna.
+4	Akhirnya ada juga mobil SUV 7-seater yang nyaris sempurna.
+5	Akhirnya ada juga mobil SUV 7-seater yang nyaris sempurna.
+6	Akhirnya ada juga mobil SUV 7-seater yang nyaris sempurna. Nyaris sempurna ya, kekurangannya ada.
+7	Akhirnya ada juga mobil SUV 7-seater yang nyaris sempurna. Nyaris sempurna ya, kekurangannya ada.
+8	Nyaris sempurna ya, kekurangannya ada.
+9	Nyaris sempurna ya, kekurangannya ada.
+10	Nyaris sempurna ya, kekurangannya ada.
+11	Nyaris sempurna ya, kekurangannya ada. Performa mesin hybridnya nggak main-main.
+12	Performa mesin hybridnya nggak main-main.
+13	Performa mesin hybridnya nggak main-main.
+14	Performa mesin hybridnya nggak main-main.
+15	Performa mesin hybridnya nggak main-main.
+16	Performa mesin hybridnya nggak main-main. Akselerasinya sudah cukup untuk bersaing dengan rivalnya yang pakai mesin diesel.
+17	Akselerasinya sudah cukup untuk bersaing dengan rivalnya yang pakai mesin diesel.
+18	Akselerasinya sudah cukup untuk bersaing dengan rivalnya yang pakai mesin diesel.
+19	Akselerasinya sudah cukup untuk bersaing dengan rivalnya yang pakai mesin diesel.
+20	Akselerasinya sudah cukup untuk bersaing dengan rivalnya yang pakai mesin diesel.
+21	Akselerasinya sudah cukup untuk bersaing dengan rivalnya yang pakai mesin diesel.
+22	Akselerasinya sudah cukup untuk bersaing dengan rivalnya yang pakai mesin diesel.
+23	Akselerasinya sudah cukup untuk bersaing dengan rivalnya yang pakai mesin diesel.
+24	Akselerasinya sudah cukup untuk bersaing dengan rivalnya yang pakai mesin diesel.
+25	Apalagi konsumsi BBM-nya bisa dibilang irit untuk mobil sebesar ini.
+26	Apalagi konsumsi BBM-nya bisa dibilang irit untuk mobil sebesar ini.
+27	Apalagi konsumsi BBM-nya bisa dibilang irit untuk mobil sebesar ini.
+28	Apalagi konsumsi BBM-nya bisa dibilang irit untuk mobil sebesar ini.
+29	Apalagi konsumsi BBM-nya bisa dibilang irit untuk mobil sebesar ini.
+30	Apalagi konsumsi BBM-nya bisa dibilang irit untuk mobil sebesar ini.
+31	Apalagi konsumsi BBM-nya bisa dibilang irit untuk mobil sebesar ini.
+32	Apalagi konsumsi BBM-nya bisa dibilang irit untuk mobil sebesar ini. Konsisten berada di atas 15 km per liter setelah menauti berbagai kondisi dan berbagai medan tentunya.
+33	Apalagi konsumsi BBM-nya bisa dibilang irit untuk mobil sebesar ini. Konsisten berada di atas 15 km per liter setelah menauti berbagai kondisi dan berbagai medan tentunya.
+34	Konsisten berada di atas 15 km per liter setelah menauti berbagai kondisi dan berbagai medan tentunya.
+35	Konsisten berada di atas 15 km per liter setelah menauti berbagai kondisi dan berbagai medan tentunya.
+36	Konsisten berada di atas 15 km per liter setelah menauti berbagai kondisi dan berbagai medan tentunya.
+37	Konsisten berada di atas 15 km per liter setelah menauti berbagai kondisi dan berbagai medan tentunya.
+38	Konsisten berada di atas 15 km per liter setelah menauti berbagai kondisi dan berbagai medan tentunya.
+39	Konsisten berada di atas 15 km per liter setelah menauti berbagai kondisi dan berbagai medan tentunya.
+40	Konsisten berada di atas 15 km per liter setelah menauti berbagai kondisi dan berbagai medan tentunya.
+41	Konsisten berada di atas 15 km per liter setelah menauti berbagai kondisi dan berbagai medan tentunya.
+42	Konsisten berada di atas 15 km per liter setelah menauti berbagai kondisi dan berbagai medan tentunya.
+43	Keperatasannya luar biasa.
+44	Keperatasannya luar biasa.
+45	Keperatasannya luar biasa.
+46	Keperatasannya luar biasa. Mobil ini punya cup holder dan kompartemen penyimpanan yang terbuka dan tertutup banyak banget.
+47	Keperatasannya luar biasa. Mobil ini punya cup holder dan kompartemen penyimpanan yang terbuka dan tertutup banyak banget.
+48	Mobil ini punya cup holder dan kompartemen penyimpanan yang terbuka dan tertutup banyak banget.
+49	Mobil ini punya cup holder dan kompartemen penyimpanan yang terbuka dan tertutup banyak banget.
+50	Mobil ini punya cup holder dan kompartemen penyimpanan yang terbuka dan tertutup banyak banget.
+51	Mobil ini punya cup holder dan kompartemen penyimpanan yang terbuka dan tertutup banyak banget.
+52	Mobil ini punya cup holder dan kompartemen penyimpanan yang terbuka dan tertutup banyak banget.
+53	Mobil ini punya cup holder dan kompartemen penyimpanan yang terbuka dan tertutup banyak banget.
+54	Mobil ini punya cup holder dan kompartemen penyimpanan yang terbuka dan tertutup banyak banget.
+55	Mobil ini punya cup holder dan kompartemen penyimpanan yang terbuka dan tertutup banyak banget.
+56	[NO_SPEECH]
+57	Akses masuk baris ketiga tinggal pencet.
+58	Akses masuk baris ketiga tinggal pencet.
+59	Akses masuk baris ketiga tinggal pencet.
+60	Akses masuk baris ketiga tinggal pencet.
+61	Akses masuk baris ketiga tinggal pencet.
+62	Akses masuk baris ketiga tinggal pencet.
+63	[NO_SPEECH]
+64	[NO_SPEECH]
+65	[NO_SPEECH]
+66	Mau buka bagasi tinggal pencet.
+67	Mau buka bagasi tinggal pencet.
+68	Mau buka bagasi tinggal pencet.
+69	Mau buka bagasi tinggal pencet.
+70	Mau buka bagasi tinggal pencet.
+71	[NO_SPEECH]
+72	[NO_SPEECH]
+73	[NO_SPEECH]
+74	[NO_SPEECH]
+75	Butuh ruang lebih? Kelipat baris kedua tinggal pencet juga.
+76	Butuh ruang lebih? Kelipat baris kedua tinggal pencet juga.
+77	Butuh ruang lebih? Kelipat baris kedua tinggal pencet juga.
+78	Butuh ruang lebih? Kelipat baris kedua tinggal pencet juga.
+79	Butuh ruang lebih? Kelipat baris kedua tinggal pencet juga.
+80	Butuh ruang lebih? Kelipat baris kedua tinggal pencet juga.
+81	Butuh ruang lebih? Kelipat baris kedua tinggal pencet juga.
+82	[NO_SPEECH]
+83	Tapi ada satu masalah.
+84	Tapi ada satu masalah.
+85	Tapi ada satu masalah. Toner cover ini tidak bisa disimpan di bagian belakang.
+86	Tapi ada satu masalah. Toner cover ini tidak bisa disimpan di bagian belakang.
+87	Toner cover ini tidak bisa disimpan di bagian belakang.
+88	Toner cover ini tidak bisa disimpan di bagian belakang.
+89	Toner cover ini tidak bisa disimpan di bagian belakang.
+90	Toner cover ini tidak bisa disimpan di bagian belakang.
+91	Toner cover ini tidak bisa disimpan di bagian belakang. Apalagi ketika Anda ingin mengaktifkan baris ketiga.
+92	Toner cover ini tidak bisa disimpan di bagian belakang. Apalagi ketika Anda ingin mengaktifkan baris ketiga.
+93	Apalagi ketika Anda ingin mengaktifkan baris ketiga.
+94	Apalagi ketika Anda ingin mengaktifkan baris ketiga.
+95	Apalagi ketika Anda ingin mengaktifkan baris ketiga. Karena di bagian bawah sini tempat toner covernya ini diinvasi oleh toolkit.
+96	Apalagi ketika Anda ingin mengaktifkan baris ketiga. Karena di bagian bawah sini tempat toner covernya ini diinvasi oleh toolkit.
+97	Karena di bagian bawah sini tempat toner covernya ini diinvasi oleh toolkit.
+98	Karena di bagian bawah sini tempat toner covernya ini diinvasi oleh toolkit.
+99	Karena di bagian bawah sini tempat toner covernya ini diinvasi oleh toolkit.
+100	Karena di bagian bawah sini tempat toner covernya ini diinvasi oleh toolkit.
+101	Karena di bagian bawah sini tempat toner covernya ini diinvasi oleh toolkit.
+102	Karena di bagian bawah sini tempat toner covernya ini diinvasi oleh toolkit.
+103	Karena di bagian bawah sini tempat toner covernya ini diinvasi oleh toolkit.
+104	Karena di bagian bawah sini tempat toner covernya ini diinvasi oleh toolkit.
+105	Karena di bagian bawah sini tempat toner covernya ini diinvasi oleh toolkit.
+106	Karena di bagian bawah sini tempat toner covernya ini diinvasi oleh toolkit. Jadi mau nggak mau toner cover ini harus menginvasi ruang kabin.
+107	Karena di bagian bawah sini tempat toner covernya ini diinvasi oleh toolkit. Jadi mau nggak mau toner cover ini harus menginvasi ruang kabin.
+108	Jadi mau nggak mau toner cover ini harus menginvasi ruang kabin.
+109	Jadi mau nggak mau toner cover ini harus menginvasi ruang kabin.
+110	Jadi mau nggak mau toner cover ini harus menginvasi ruang kabin.
+111	Jadi mau nggak mau toner cover ini harus menginvasi ruang kabin.
+112	Jadi mau nggak mau toner cover ini harus menginvasi ruang kabin.
+113	Jadi mau nggak mau toner cover ini harus menginvasi ruang kabin.
+114	Atau ditinggal di rumah.
+115	Atau ditinggal di rumah.
+116	Atau ditinggal di rumah.
+117	Atau ditinggal di rumah.
+118	[NO_SPEECH]
+119	[NO_SPEECH]

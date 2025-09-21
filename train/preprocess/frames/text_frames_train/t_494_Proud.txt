@@ -1,0 +1,43 @@
+0	Momen pilih saling, nyemangatin para inorgan.
+1	Momen pilih saling, nyemangatin para inorgan.
+2	Momen pilih saling, nyemangatin para inorgan.
+3	Momen pilih saling, nyemangatin para inorgan.
+4	Momen pilih saling, nyemangatin para inorgan.
+5	Momen pilih saling, nyemangatin para inorgan. Apa nih buat Pornas malam ini?
+6	Momen pilih saling, nyemangatin para inorgan. Apa nih buat Pornas malam ini?
+7	Apa nih buat Pornas malam ini?
+8	Apa nih buat Pornas malam ini?
+9	Apa nih buat Pornas malam ini? Pokoknya jaya, semangat selalu. Kita lihat pertandingannya, kalah, menang, semua senang.
+10	Apa nih buat Pornas malam ini? Pokoknya jaya, semangat selalu. Kita lihat pertandingannya, kalah, menang, semua senang.
+11	Pokoknya jaya, semangat selalu. Kita lihat pertandingannya, kalah, menang, semua senang.
+12	Pokoknya jaya, semangat selalu. Kita lihat pertandingannya, kalah, menang, semua senang.
+13	Pokoknya jaya, semangat selalu. Kita lihat pertandingannya, kalah, menang, semua senang.
+14	Pokoknya jaya, semangat selalu. Kita lihat pertandingannya, kalah, menang, semua senang.
+15	Pokoknya jaya, semangat selalu. Kita lihat pertandingannya, kalah, menang, semua senang.
+16	Pokoknya jaya, semangat selalu. Kita lihat pertandingannya, kalah, menang, semua senang.
+17	Pokoknya jaya, semangat selalu. Kita lihat pertandingannya, kalah, menang, semua senang.
+18	Pokoknya jaya, semangat selalu. Kita lihat pertandingannya, kalah, menang, semua senang.
+19	Pokoknya jaya, semangat selalu. Kita lihat pertandingannya, kalah, menang, semua senang.
+20	Pokoknya jaya, semangat selalu. Kita lihat pertandingannya, kalah, menang, semua senang.
+21	Pokoknya jaya, semangat selalu. Kita lihat pertandingannya, kalah, menang, semua senang.
+22	Intro
+23	Intro
+24	Intro
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]

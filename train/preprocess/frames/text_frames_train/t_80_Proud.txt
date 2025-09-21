@@ -1,0 +1,66 @@
+0	Hai teman-teman, saya baru saja mendapatkan hadiah dari Button Scarves dan saya tidak sabar untuk mengunbox ini dengan kalian.
+1	Hai teman-teman, saya baru saja mendapatkan hadiah dari Button Scarves dan saya tidak sabar untuk mengunbox ini dengan kalian.
+2	Hai teman-teman, saya baru saja mendapatkan hadiah dari Button Scarves dan saya tidak sabar untuk mengunbox ini dengan kalian.
+3	Hai teman-teman, saya baru saja mendapatkan hadiah dari Button Scarves dan saya tidak sabar untuk mengunbox ini dengan kalian.
+4	Hai teman-teman, saya baru saja mendapatkan hadiah dari Button Scarves dan saya tidak sabar untuk mengunbox ini dengan kalian.
+5	Hai teman-teman, saya baru saja mendapatkan hadiah dari Button Scarves dan saya tidak sabar untuk mengunbox ini dengan kalian.
+6	Hai teman-teman, saya baru saja mendapatkan hadiah dari Button Scarves dan saya tidak sabar untuk mengunbox ini dengan kalian. Pertama sekali, pakejannya sangat spesial dan terasa sangat eksklusif.
+7	Hai teman-teman, saya baru saja mendapatkan hadiah dari Button Scarves dan saya tidak sabar untuk mengunbox ini dengan kalian. Pertama sekali, pakejannya sangat spesial dan terasa sangat eksklusif.
+8	Pertama sekali, pakejannya sangat spesial dan terasa sangat eksklusif.
+9	Pertama sekali, pakejannya sangat spesial dan terasa sangat eksklusif.
+10	Pertama sekali, pakejannya sangat spesial dan terasa sangat eksklusif.
+11	Pertama sekali, pakejannya sangat spesial dan terasa sangat eksklusif.
+12	Pertama sekali, pakejannya sangat spesial dan terasa sangat eksklusif. Oke, saatnya kita lihat isinya apa. Saya sangat teruja untuk melihat apa yang ada di dalamnya.
+13	Pertama sekali, pakejannya sangat spesial dan terasa sangat eksklusif. Oke, saatnya kita lihat isinya apa. Saya sangat teruja untuk melihat apa yang ada di dalamnya.
+14	Oke, saatnya kita lihat isinya apa. Saya sangat teruja untuk melihat apa yang ada di dalamnya.
+15	Oke, saatnya kita lihat isinya apa. Saya sangat teruja untuk melihat apa yang ada di dalamnya.
+16	Oke, saatnya kita lihat isinya apa. Saya sangat teruja untuk melihat apa yang ada di dalamnya.
+17	Oke, saatnya kita lihat isinya apa. Saya sangat teruja untuk melihat apa yang ada di dalamnya.
+18	Oke, saatnya kita lihat isinya apa. Saya sangat teruja untuk melihat apa yang ada di dalamnya.
+19	Oke, saatnya kita lihat isinya apa. Saya sangat teruja untuk melihat apa yang ada di dalamnya.
+20	Oke, saatnya kita lihat isinya apa. Saya sangat teruja untuk melihat apa yang ada di dalamnya.
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	Ah, lihat ini, ini sangat keren. Saya suka. Ini sangat keren. Ada beberapa batu yang dilukis dengan tangan.
+25	Ah, lihat ini, ini sangat keren. Saya suka. Ini sangat keren. Ada beberapa batu yang dilukis dengan tangan.
+26	Ah, lihat ini, ini sangat keren. Saya suka. Ini sangat keren. Ada beberapa batu yang dilukis dengan tangan.
+27	Ah, lihat ini, ini sangat keren. Saya suka. Ini sangat keren. Ada beberapa batu yang dilukis dengan tangan.
+28	Ah, lihat ini, ini sangat keren. Saya suka. Ini sangat keren. Ada beberapa batu yang dilukis dengan tangan.
+29	Ah, lihat ini, ini sangat keren. Saya suka. Ini sangat keren. Ada beberapa batu yang dilukis dengan tangan.
+30	Ah, lihat ini, ini sangat keren. Saya suka. Ini sangat keren. Ada beberapa batu yang dilukis dengan tangan.
+31	Ah, lihat ini, ini sangat keren. Saya suka. Ini sangat keren. Ada beberapa batu yang dilukis dengan tangan.
+32	Ah, lihat ini, ini sangat keren. Saya suka. Ini sangat keren. Ada beberapa batu yang dilukis dengan tangan.
+33	Ah, lihat ini, ini sangat keren. Saya suka. Ini sangat keren. Ada beberapa batu yang dilukis dengan tangan.
+34	Ah, lihat ini, ini sangat keren. Saya suka. Ini sangat keren. Ada beberapa batu yang dilukis dengan tangan.
+35	Ah, lihat ini, ini sangat keren. Saya suka. Ini sangat keren. Ada beberapa batu yang dilukis dengan tangan.
+36	Ah, lihat ini, ini sangat keren. Saya suka. Ini sangat keren. Ada beberapa batu yang dilukis dengan tangan. Dan ini dilukis tangan lo. Desainnya lucu banget. Ini sangat me. Saya juga sangat suka warna-warna ini karena aku suka banget pakai warna-warna yang neutral.
+37	Ah, lihat ini, ini sangat keren. Saya suka. Ini sangat keren. Ada beberapa batu yang dilukis dengan tangan. Dan ini dilukis tangan lo. Desainnya lucu banget. Ini sangat me. Saya juga sangat suka warna-warna ini karena aku suka banget pakai warna-warna yang neutral.
+38	Dan ini dilukis tangan lo. Desainnya lucu banget. Ini sangat me. Saya juga sangat suka warna-warna ini karena aku suka banget pakai warna-warna yang neutral.
+39	Dan ini dilukis tangan lo. Desainnya lucu banget. Ini sangat me. Saya juga sangat suka warna-warna ini karena aku suka banget pakai warna-warna yang neutral.
+40	Dan ini dilukis tangan lo. Desainnya lucu banget. Ini sangat me. Saya juga sangat suka warna-warna ini karena aku suka banget pakai warna-warna yang neutral.
+41	Dan ini dilukis tangan lo. Desainnya lucu banget. Ini sangat me. Saya juga sangat suka warna-warna ini karena aku suka banget pakai warna-warna yang neutral.
+42	Dan ini dilukis tangan lo. Desainnya lucu banget. Ini sangat me. Saya juga sangat suka warna-warna ini karena aku suka banget pakai warna-warna yang neutral.
+43	Dan ini dilukis tangan lo. Desainnya lucu banget. Ini sangat me. Saya juga sangat suka warna-warna ini karena aku suka banget pakai warna-warna yang neutral.
+44	Dan ini dilukis tangan lo. Desainnya lucu banget. Ini sangat me. Saya juga sangat suka warna-warna ini karena aku suka banget pakai warna-warna yang neutral.
+45	Dan ini dilukis tangan lo. Desainnya lucu banget. Ini sangat me. Saya juga sangat suka warna-warna ini karena aku suka banget pakai warna-warna yang neutral.
+46	Dan ini dilukis tangan lo. Desainnya lucu banget. Ini sangat me. Saya juga sangat suka warna-warna ini karena aku suka banget pakai warna-warna yang neutral.
+47	Dan ini dilukis tangan lo. Desainnya lucu banget. Ini sangat me. Saya juga sangat suka warna-warna ini karena aku suka banget pakai warna-warna yang neutral.
+48	Dan ini dilukis tangan lo. Desainnya lucu banget. Ini sangat me. Saya juga sangat suka warna-warna ini karena aku suka banget pakai warna-warna yang neutral.
+49	Dan ini dilukis tangan lo. Desainnya lucu banget. Ini sangat me. Saya juga sangat suka warna-warna ini karena aku suka banget pakai warna-warna yang neutral.
+50	Dan ini dilukis tangan lo. Desainnya lucu banget. Ini sangat me. Saya juga sangat suka warna-warna ini karena aku suka banget pakai warna-warna yang neutral.
+51	Dan ini dilukis tangan lo. Desainnya lucu banget. Ini sangat me. Saya juga sangat suka warna-warna ini karena aku suka banget pakai warna-warna yang neutral.
+52	Dan ini dilukis tangan lo. Desainnya lucu banget. Ini sangat me. Saya juga sangat suka warna-warna ini karena aku suka banget pakai warna-warna yang neutral. Maksud saya, siapa yang tidak mau punya tas lucu ini? Terima kasih banyak Button Scarves untuk hadiah. Saya suka.
+53	Dan ini dilukis tangan lo. Desainnya lucu banget. Ini sangat me. Saya juga sangat suka warna-warna ini karena aku suka banget pakai warna-warna yang neutral. Maksud saya, siapa yang tidak mau punya tas lucu ini? Terima kasih banyak Button Scarves untuk hadiah. Saya suka.
+54	Maksud saya, siapa yang tidak mau punya tas lucu ini? Terima kasih banyak Button Scarves untuk hadiah. Saya suka.
+55	Maksud saya, siapa yang tidak mau punya tas lucu ini? Terima kasih banyak Button Scarves untuk hadiah. Saya suka.
+56	Maksud saya, siapa yang tidak mau punya tas lucu ini? Terima kasih banyak Button Scarves untuk hadiah. Saya suka.
+57	Maksud saya, siapa yang tidak mau punya tas lucu ini? Terima kasih banyak Button Scarves untuk hadiah. Saya suka.
+58	Maksud saya, siapa yang tidak mau punya tas lucu ini? Terima kasih banyak Button Scarves untuk hadiah. Saya suka.
+59	Maksud saya, siapa yang tidak mau punya tas lucu ini? Terima kasih banyak Button Scarves untuk hadiah. Saya suka.
+60	Maksud saya, siapa yang tidak mau punya tas lucu ini? Terima kasih banyak Button Scarves untuk hadiah. Saya suka.
+61	Maksud saya, siapa yang tidak mau punya tas lucu ini? Terima kasih banyak Button Scarves untuk hadiah. Saya suka.
+62	Maksud saya, siapa yang tidak mau punya tas lucu ini? Terima kasih banyak Button Scarves untuk hadiah. Saya suka.
+63	Maksud saya, siapa yang tidak mau punya tas lucu ini? Terima kasih banyak Button Scarves untuk hadiah. Saya suka.
+64	[NO_SPEECH]
+65	[NO_SPEECH]

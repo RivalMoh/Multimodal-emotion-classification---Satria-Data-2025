@@ -1,0 +1,391 @@
+0	Kalau lo ada pergi ke Shenzhen dan jalan-jalan seharian ke Huaqiangpei,
+1	Kalau lo ada pergi ke Shenzhen dan jalan-jalan seharian ke Huaqiangpei,
+2	Kalau lo ada pergi ke Shenzhen dan jalan-jalan seharian ke Huaqiangpei,
+3	Kalau lo ada pergi ke Shenzhen dan jalan-jalan seharian ke Huaqiangpei,
+4	Kalau lo ada pergi ke Shenzhen dan jalan-jalan seharian ke Huaqiangpei,
+5	Kalau lo ada pergi ke Shenzhen dan jalan-jalan seharian ke Huaqiangpei,
+6	Kalau lo ada pergi ke Shenzhen dan jalan-jalan seharian ke Huaqiangpei, mata lo tuh akan kebuka seberapa hebatnya China itu bikin produk rebrand
+7	Kalau lo ada pergi ke Shenzhen dan jalan-jalan seharian ke Huaqiangpei, mata lo tuh akan kebuka seberapa hebatnya China itu bikin produk rebrand
+8	mata lo tuh akan kebuka seberapa hebatnya China itu bikin produk rebrand
+9	mata lo tuh akan kebuka seberapa hebatnya China itu bikin produk rebrand
+10	mata lo tuh akan kebuka seberapa hebatnya China itu bikin produk rebrand
+11	mata lo tuh akan kebuka seberapa hebatnya China itu bikin produk rebrand
+12	mata lo tuh akan kebuka seberapa hebatnya China itu bikin produk rebrand
+13	mata lo tuh akan kebuka seberapa hebatnya China itu bikin produk rebrand
+14	mata lo tuh akan kebuka seberapa hebatnya China itu bikin produk rebrand
+15	mata lo tuh akan kebuka seberapa hebatnya China itu bikin produk rebrand
+16	mata lo tuh akan kebuka seberapa hebatnya China itu bikin produk rebrand buat siapa aja yang mau beli.
+17	mata lo tuh akan kebuka seberapa hebatnya China itu bikin produk rebrand buat siapa aja yang mau beli.
+18	mata lo tuh akan kebuka seberapa hebatnya China itu bikin produk rebrand buat siapa aja yang mau beli.
+19	buat siapa aja yang mau beli.
+20	buat siapa aja yang mau beli.
+21	buat siapa aja yang mau beli.
+22	buat siapa aja yang mau beli. Dan lo jadi ngerti gimana caranya kerjanya brand-brand ODM di Indonesia
+23	buat siapa aja yang mau beli. Dan lo jadi ngerti gimana caranya kerjanya brand-brand ODM di Indonesia
+24	Dan lo jadi ngerti gimana caranya kerjanya brand-brand ODM di Indonesia
+25	Dan lo jadi ngerti gimana caranya kerjanya brand-brand ODM di Indonesia
+26	Dan lo jadi ngerti gimana caranya kerjanya brand-brand ODM di Indonesia
+27	Dan lo jadi ngerti gimana caranya kerjanya brand-brand ODM di Indonesia
+28	Dan lo jadi ngerti gimana caranya kerjanya brand-brand ODM di Indonesia
+29	Dan lo jadi ngerti gimana caranya kerjanya brand-brand ODM di Indonesia
+30	Dan lo jadi ngerti gimana caranya kerjanya brand-brand ODM di Indonesia yang cuma ganti merek doang.
+31	Dan lo jadi ngerti gimana caranya kerjanya brand-brand ODM di Indonesia yang cuma ganti merek doang.
+32	yang cuma ganti merek doang.
+33	yang cuma ganti merek doang.
+34	yang cuma ganti merek doang. Yang cuma rebrand lah dari produk China.
+35	yang cuma ganti merek doang. Yang cuma rebrand lah dari produk China.
+36	Yang cuma rebrand lah dari produk China.
+37	Yang cuma rebrand lah dari produk China.
+38	Yang cuma rebrand lah dari produk China.
+39	Yang cuma rebrand lah dari produk China. Ya, kalau aksesoris nggak ada hubungan sama teknologi atau keamanan sih,
+40	Yang cuma rebrand lah dari produk China. Ya, kalau aksesoris nggak ada hubungan sama teknologi atau keamanan sih,
+41	Ya, kalau aksesoris nggak ada hubungan sama teknologi atau keamanan sih,
+42	Ya, kalau aksesoris nggak ada hubungan sama teknologi atau keamanan sih,
+43	Ya, kalau aksesoris nggak ada hubungan sama teknologi atau keamanan sih,
+44	Ya, kalau aksesoris nggak ada hubungan sama teknologi atau keamanan sih,
+45	Ya, kalau aksesoris nggak ada hubungan sama teknologi atau keamanan sih,
+46	Ya, kalau aksesoris nggak ada hubungan sama teknologi atau keamanan sih,
+47	Ya, kalau aksesoris nggak ada hubungan sama teknologi atau keamanan sih,
+48	Ya, kalau aksesoris nggak ada hubungan sama teknologi atau keamanan sih, ya harusnya fine-fine aja.
+49	Ya, kalau aksesoris nggak ada hubungan sama teknologi atau keamanan sih, ya harusnya fine-fine aja.
+50	ya harusnya fine-fine aja.
+51	ya harusnya fine-fine aja. Tapi kalau sampai kayak powerbank gini,
+52	ya harusnya fine-fine aja. Tapi kalau sampai kayak powerbank gini,
+53	Tapi kalau sampai kayak powerbank gini,
+54	Tapi kalau sampai kayak powerbank gini,
+55	Tapi kalau sampai kayak powerbank gini, pasti lo beli brand yang udah bener-bener trusted.
+56	Tapi kalau sampai kayak powerbank gini, pasti lo beli brand yang udah bener-bener trusted.
+57	pasti lo beli brand yang udah bener-bener trusted.
+58	pasti lo beli brand yang udah bener-bener trusted.
+59	pasti lo beli brand yang udah bener-bener trusted.
+60	pasti lo beli brand yang udah bener-bener trusted.
+61	pasti lo beli brand yang udah bener-bener trusted. Hindari ODM yang cuma ganti-ganti merek doang.
+62	Hindari ODM yang cuma ganti-ganti merek doang.
+63	Hindari ODM yang cuma ganti-ganti merek doang.
+64	Hindari ODM yang cuma ganti-ganti merek doang.
+65	Hindari ODM yang cuma ganti-ganti merek doang.
+66	Hindari ODM yang cuma ganti-ganti merek doang.
+67	Hindari ODM yang cuma ganti-ganti merek doang. Apalagi kalau powerbanknya itu udah klaim-klaim keselamatan buat tipe pesawat terbang.
+68	Hindari ODM yang cuma ganti-ganti merek doang. Apalagi kalau powerbanknya itu udah klaim-klaim keselamatan buat tipe pesawat terbang.
+69	Apalagi kalau powerbanknya itu udah klaim-klaim keselamatan buat tipe pesawat terbang.
+70	Apalagi kalau powerbanknya itu udah klaim-klaim keselamatan buat tipe pesawat terbang.
+71	Apalagi kalau powerbanknya itu udah klaim-klaim keselamatan buat tipe pesawat terbang.
+72	Apalagi kalau powerbanknya itu udah klaim-klaim keselamatan buat tipe pesawat terbang.
+73	Apalagi kalau powerbanknya itu udah klaim-klaim keselamatan buat tipe pesawat terbang.
+74	Apalagi kalau powerbanknya itu udah klaim-klaim keselamatan buat tipe pesawat terbang.
+75	Apalagi kalau powerbanknya itu udah klaim-klaim keselamatan buat tipe pesawat terbang.
+76	Apalagi kalau powerbanknya itu udah klaim-klaim keselamatan buat tipe pesawat terbang.
+77	Apalagi kalau powerbanknya itu udah klaim-klaim keselamatan buat tipe pesawat terbang. Keamanannya soalnya bukan hanya lo dan baterai dari device yang lo pake,
+78	Apalagi kalau powerbanknya itu udah klaim-klaim keselamatan buat tipe pesawat terbang. Keamanannya soalnya bukan hanya lo dan baterai dari device yang lo pake,
+79	Keamanannya soalnya bukan hanya lo dan baterai dari device yang lo pake,
+80	Keamanannya soalnya bukan hanya lo dan baterai dari device yang lo pake,
+81	Keamanannya soalnya bukan hanya lo dan baterai dari device yang lo pake,
+82	Keamanannya soalnya bukan hanya lo dan baterai dari device yang lo pake,
+83	Keamanannya soalnya bukan hanya lo dan baterai dari device yang lo pake,
+84	Keamanannya soalnya bukan hanya lo dan baterai dari device yang lo pake, tapi keamanan penumpang lainnya juga bergantung dari baterai ginian.
+85	Keamanannya soalnya bukan hanya lo dan baterai dari device yang lo pake, tapi keamanan penumpang lainnya juga bergantung dari baterai ginian.
+86	tapi keamanan penumpang lainnya juga bergantung dari baterai ginian.
+87	tapi keamanan penumpang lainnya juga bergantung dari baterai ginian.
+88	tapi keamanan penumpang lainnya juga bergantung dari baterai ginian.
+89	tapi keamanan penumpang lainnya juga bergantung dari baterai ginian.
+90	tapi keamanan penumpang lainnya juga bergantung dari baterai ginian.
+91	tapi keamanan penumpang lainnya juga bergantung dari baterai ginian.
+92	tapi keamanan penumpang lainnya juga bergantung dari baterai ginian.
+93	tapi keamanan penumpang lainnya juga bergantung dari baterai ginian.
+94	tapi keamanan penumpang lainnya juga bergantung dari baterai ginian. Buat pilih brand yang aman, simple nih,
+95	Buat pilih brand yang aman, simple nih,
+96	Buat pilih brand yang aman, simple nih,
+97	Buat pilih brand yang aman, simple nih, gue selalu lihat JD.com yang emang ngejaga produk-produk yang dijual di website-nya.
+98	Buat pilih brand yang aman, simple nih, gue selalu lihat JD.com yang emang ngejaga produk-produk yang dijual di website-nya.
+99	gue selalu lihat JD.com yang emang ngejaga produk-produk yang dijual di website-nya.
+100	gue selalu lihat JD.com yang emang ngejaga produk-produk yang dijual di website-nya.
+101	gue selalu lihat JD.com yang emang ngejaga produk-produk yang dijual di website-nya.
+102	gue selalu lihat JD.com yang emang ngejaga produk-produk yang dijual di website-nya.
+103	gue selalu lihat JD.com yang emang ngejaga produk-produk yang dijual di website-nya.
+104	gue selalu lihat JD.com yang emang ngejaga produk-produk yang dijual di website-nya.
+105	gue selalu lihat JD.com yang emang ngejaga produk-produk yang dijual di website-nya.
+106	gue selalu lihat JD.com yang emang ngejaga produk-produk yang dijual di website-nya.
+107	gue selalu lihat JD.com yang emang ngejaga produk-produk yang dijual di website-nya. Lo ketik powerbank, cuktek itu top 5 jualan powerbank terbang.
+108	gue selalu lihat JD.com yang emang ngejaga produk-produk yang dijual di website-nya. Lo ketik powerbank, cuktek itu top 5 jualan powerbank terbang.
+109	Lo ketik powerbank, cuktek itu top 5 jualan powerbank terbang.
+110	Lo ketik powerbank, cuktek itu top 5 jualan powerbank terbang.
+111	Lo ketik powerbank, cuktek itu top 5 jualan powerbank terbang.
+112	Lo ketik powerbank, cuktek itu top 5 jualan powerbank terbang.
+113	Lo ketik powerbank, cuktek itu top 5 jualan powerbank terbang.
+114	Lo ketik powerbank, cuktek itu top 5 jualan powerbank terbang.
+115	Lo ketik powerbank, cuktek itu top 5 jualan powerbank terbang. Banyak di JD.com.
+116	Lo ketik powerbank, cuktek itu top 5 jualan powerbank terbang. Banyak di JD.com.
+117	Banyak di JD.com.
+118	Banyak di JD.com. Dan kalau lo lihat, brandnya ini memang fokus jual macem-macem bentuk powerbank.
+119	Banyak di JD.com. Dan kalau lo lihat, brandnya ini memang fokus jual macem-macem bentuk powerbank.
+120	Dan kalau lo lihat, brandnya ini memang fokus jual macem-macem bentuk powerbank.
+121	Dan kalau lo lihat, brandnya ini memang fokus jual macem-macem bentuk powerbank.
+122	Dan kalau lo lihat, brandnya ini memang fokus jual macem-macem bentuk powerbank.
+123	Dan kalau lo lihat, brandnya ini memang fokus jual macem-macem bentuk powerbank.
+124	Dan kalau lo lihat, brandnya ini memang fokus jual macem-macem bentuk powerbank.
+125	Dan kalau lo lihat, brandnya ini memang fokus jual macem-macem bentuk powerbank.
+126	Dan kalau lo lihat, brandnya ini memang fokus jual macem-macem bentuk powerbank.
+127	Dan kalau lo lihat, brandnya ini memang fokus jual macem-macem bentuk powerbank.
+128	Dan kalau lo lihat, brandnya ini memang fokus jual macem-macem bentuk powerbank. Dan lo juga bisa lihat, nggak main-main jumlah terjualnya.
+129	Dan kalau lo lihat, brandnya ini memang fokus jual macem-macem bentuk powerbank. Dan lo juga bisa lihat, nggak main-main jumlah terjualnya.
+130	Dan lo juga bisa lihat, nggak main-main jumlah terjualnya.
+131	Dan lo juga bisa lihat, nggak main-main jumlah terjualnya.
+132	Dan lo juga bisa lihat, nggak main-main jumlah terjualnya.
+133	Dan lo juga bisa lihat, nggak main-main jumlah terjualnya.
+134	Dan lo juga bisa lihat, nggak main-main jumlah terjualnya.
+135	Dan lo juga bisa lihat, nggak main-main jumlah terjualnya. Cuktek kirimin gue P-seriesnya yang 90Wh.
+136	Dan lo juga bisa lihat, nggak main-main jumlah terjualnya. Cuktek kirimin gue P-seriesnya yang 90Wh.
+137	Cuktek kirimin gue P-seriesnya yang 90Wh.
+138	Cuktek kirimin gue P-seriesnya yang 90Wh.
+139	Cuktek kirimin gue P-seriesnya yang 90Wh.
+140	Cuktek kirimin gue P-seriesnya yang 90Wh. Dan diklaim ini airline safe atau aman dibawa ke pesawat.
+141	Cuktek kirimin gue P-seriesnya yang 90Wh. Dan diklaim ini airline safe atau aman dibawa ke pesawat.
+142	Dan diklaim ini airline safe atau aman dibawa ke pesawat.
+143	Dan diklaim ini airline safe atau aman dibawa ke pesawat.
+144	Dan diklaim ini airline safe atau aman dibawa ke pesawat.
+145	Dan diklaim ini airline safe atau aman dibawa ke pesawat.
+146	Dan diklaim ini airline safe atau aman dibawa ke pesawat.
+147	Dan diklaim ini airline safe atau aman dibawa ke pesawat.
+148	Dan diklaim ini airline safe atau aman dibawa ke pesawat.
+149	Dan diklaim ini airline safe atau aman dibawa ke pesawat. Konteks buat lo, regulasi powerbank yang boleh dibawa ke pesawat itu maksimum 100Wh.
+150	Dan diklaim ini airline safe atau aman dibawa ke pesawat. Konteks buat lo, regulasi powerbank yang boleh dibawa ke pesawat itu maksimum 100Wh.
+151	Konteks buat lo, regulasi powerbank yang boleh dibawa ke pesawat itu maksimum 100Wh.
+152	Konteks buat lo, regulasi powerbank yang boleh dibawa ke pesawat itu maksimum 100Wh.
+153	Konteks buat lo, regulasi powerbank yang boleh dibawa ke pesawat itu maksimum 100Wh.
+154	Konteks buat lo, regulasi powerbank yang boleh dibawa ke pesawat itu maksimum 100Wh.
+155	Konteks buat lo, regulasi powerbank yang boleh dibawa ke pesawat itu maksimum 100Wh.
+156	Konteks buat lo, regulasi powerbank yang boleh dibawa ke pesawat itu maksimum 100Wh.
+157	Konteks buat lo, regulasi powerbank yang boleh dibawa ke pesawat itu maksimum 100Wh.
+158	Konteks buat lo, regulasi powerbank yang boleh dibawa ke pesawat itu maksimum 100Wh.
+159	Konteks buat lo, regulasi powerbank yang boleh dibawa ke pesawat itu maksimum 100Wh. Alasannya karena kalau amit-amit kejadian sesuatu sama powerbanknya,
+160	Konteks buat lo, regulasi powerbank yang boleh dibawa ke pesawat itu maksimum 100Wh. Alasannya karena kalau amit-amit kejadian sesuatu sama powerbanknya,
+161	Alasannya karena kalau amit-amit kejadian sesuatu sama powerbanknya,
+162	Alasannya karena kalau amit-amit kejadian sesuatu sama powerbanknya,
+163	Alasannya karena kalau amit-amit kejadian sesuatu sama powerbanknya,
+164	Alasannya karena kalau amit-amit kejadian sesuatu sama powerbanknya,
+165	Alasannya karena kalau amit-amit kejadian sesuatu sama powerbanknya,
+166	Alasannya karena kalau amit-amit kejadian sesuatu sama powerbanknya, pas pesawat lagi ada di langit, masih bisa ditanganin dengan aman.
+167	Alasannya karena kalau amit-amit kejadian sesuatu sama powerbanknya, pas pesawat lagi ada di langit, masih bisa ditanganin dengan aman.
+168	pas pesawat lagi ada di langit, masih bisa ditanganin dengan aman.
+169	pas pesawat lagi ada di langit, masih bisa ditanganin dengan aman.
+170	pas pesawat lagi ada di langit, masih bisa ditanganin dengan aman.
+171	pas pesawat lagi ada di langit, masih bisa ditanganin dengan aman.
+172	pas pesawat lagi ada di langit, masih bisa ditanganin dengan aman.
+173	pas pesawat lagi ada di langit, masih bisa ditanganin dengan aman.
+174	pas pesawat lagi ada di langit, masih bisa ditanganin dengan aman. Cuktek.
+175	pas pesawat lagi ada di langit, masih bisa ditanganin dengan aman. Cuktek. P-series ini ditulis 25.000MAh.
+176	Cuktek. P-series ini ditulis 25.000MAh.
+177	P-series ini ditulis 25.000MAh.
+178	P-series ini ditulis 25.000MAh.
+179	P-series ini ditulis 25.000MAh. Kalau pakai hitung-hitungan sederhana,
+180	P-series ini ditulis 25.000MAh. Kalau pakai hitung-hitungan sederhana,
+181	Kalau pakai hitung-hitungan sederhana,
+182	Kalau pakai hitung-hitungan sederhana,
+183	Kalau pakai hitung-hitungan sederhana, WH-nya itu sekitar 92,5WH.
+184	Kalau pakai hitung-hitungan sederhana, WH-nya itu sekitar 92,5WH.
+185	WH-nya itu sekitar 92,5WH.
+186	WH-nya itu sekitar 92,5WH.
+187	WH-nya itu sekitar 92,5WH.
+188	WH-nya itu sekitar 92,5WH.
+189	WH-nya itu sekitar 92,5WH. Jadi aman.
+190	Jadi aman. Penulisan speknya gue suka banget.
+191	Jadi aman. Penulisan speknya gue suka banget.
+192	Penulisan speknya gue suka banget.
+193	Penulisan speknya gue suka banget. Lengkap di bagian belakangnya.
+194	Penulisan speknya gue suka banget. Lengkap di bagian belakangnya.
+195	Lengkap di bagian belakangnya.
+196	Lengkap di bagian belakangnya.
+197	Lengkap di bagian belakangnya.
+198	Lengkap di bagian belakangnya. Maximum output dan single port maximum output-nya detail banget.
+199	Maximum output dan single port maximum output-nya detail banget.
+200	Maximum output dan single port maximum output-nya detail banget.
+201	Maximum output dan single port maximum output-nya detail banget.
+202	Maximum output dan single port maximum output-nya detail banget.
+203	Maximum output dan single port maximum output-nya detail banget.
+204	Maximum output dan single port maximum output-nya detail banget.
+205	Maximum output dan single port maximum output-nya detail banget.
+206	Maximum output dan single port maximum output-nya detail banget. Ditulis semua.
+207	Maximum output dan single port maximum output-nya detail banget. Ditulis semua.
+208	Ditulis semua. Dan rated capacity-nya juga tercantum dengan jelas.
+209	Dan rated capacity-nya juga tercantum dengan jelas.
+210	Dan rated capacity-nya juga tercantum dengan jelas.
+211	Dan rated capacity-nya juga tercantum dengan jelas.
+212	Dan rated capacity-nya juga tercantum dengan jelas.
+213	Dan rated capacity-nya juga tercantum dengan jelas.
+214	Dan rated capacity-nya juga tercantum dengan jelas. Dan spek-spek lainnya juga sangat lengkap.
+215	Dan rated capacity-nya juga tercantum dengan jelas. Dan spek-spek lainnya juga sangat lengkap.
+216	Dan spek-spek lainnya juga sangat lengkap.
+217	Dan spek-spek lainnya juga sangat lengkap.
+218	Dan spek-spek lainnya juga sangat lengkap.
+219	Dan spek-spek lainnya juga sangat lengkap.
+220	Dan spek-spek lainnya juga sangat lengkap. Dan kalau gue tes MAH-nya pakai metode kayak gini,
+221	Dan spek-spek lainnya juga sangat lengkap. Dan kalau gue tes MAH-nya pakai metode kayak gini,
+222	Dan kalau gue tes MAH-nya pakai metode kayak gini,
+223	Dan kalau gue tes MAH-nya pakai metode kayak gini,
+224	Dan kalau gue tes MAH-nya pakai metode kayak gini,
+225	Dan kalau gue tes MAH-nya pakai metode kayak gini,
+226	Dan kalau gue tes MAH-nya pakai metode kayak gini, gue dapetin sekitar 19.000MAH.
+227	gue dapetin sekitar 19.000MAH.
+228	gue dapetin sekitar 19.000MAH.
+229	gue dapetin sekitar 19.000MAH.
+230	gue dapetin sekitar 19.000MAH.
+231	gue dapetin sekitar 19.000MAH. Sangat-sangat make sense.
+232	gue dapetin sekitar 19.000MAH. Sangat-sangat make sense.
+233	Sangat-sangat make sense.
+234	Sangat-sangat make sense. Beda 20-25% dibanding yang diklaim Cuktek.
+235	Sangat-sangat make sense. Beda 20-25% dibanding yang diklaim Cuktek.
+236	Beda 20-25% dibanding yang diklaim Cuktek.
+237	Beda 20-25% dibanding yang diklaim Cuktek.
+238	Beda 20-25% dibanding yang diklaim Cuktek.
+239	Beda 20-25% dibanding yang diklaim Cuktek.
+240	Beda 20-25% dibanding yang diklaim Cuktek.
+241	Beda 20-25% dibanding yang diklaim Cuktek. Dari segala margin of error, efisiensi baterai,
+242	Dari segala margin of error, efisiensi baterai,
+243	Dari segala margin of error, efisiensi baterai,
+244	Dari segala margin of error, efisiensi baterai,
+245	Dari segala margin of error, efisiensi baterai,
+246	Dari segala margin of error, efisiensi baterai, energi yang kebuang kepanas,
+247	Dari segala margin of error, efisiensi baterai, energi yang kebuang kepanas,
+248	energi yang kebuang kepanas,
+249	energi yang kebuang kepanas,
+250	energi yang kebuang kepanas, ada juga energi yang kelayarnya Cuktek.
+251	energi yang kebuang kepanas, ada juga energi yang kelayarnya Cuktek.
+252	ada juga energi yang kelayarnya Cuktek.
+253	ada juga energi yang kelayarnya Cuktek.
+254	ada juga energi yang kelayarnya Cuktek. Nice.
+255	ada juga energi yang kelayarnya Cuktek. Nice. Ini bedanya.
+256	Nice. Ini bedanya.
+257	Ini bedanya. Dan kalau gue hitung lagi WH-nya,
+258	Ini bedanya. Dan kalau gue hitung lagi WH-nya,
+259	Dan kalau gue hitung lagi WH-nya,
+260	Dan kalau gue hitung lagi WH-nya, dari MAH yang gue dapet, itu sekisaran 71WH.
+261	Dan kalau gue hitung lagi WH-nya, dari MAH yang gue dapet, itu sekisaran 71WH.
+262	dari MAH yang gue dapet, itu sekisaran 71WH.
+263	dari MAH yang gue dapet, itu sekisaran 71WH.
+264	dari MAH yang gue dapet, itu sekisaran 71WH.
+265	dari MAH yang gue dapet, itu sekisaran 71WH.
+266	dari MAH yang gue dapet, itu sekisaran 71WH.
+267	dari MAH yang gue dapet, itu sekisaran 71WH. Dan yang gue nggak nyangka,
+268	dari MAH yang gue dapet, itu sekisaran 71WH. Dan yang gue nggak nyangka,
+269	Dan yang gue nggak nyangka,
+270	Dan yang gue nggak nyangka,
+271	Dan yang gue nggak nyangka, produk ini udah dapetin review 10.000++ di China.
+272	Dan yang gue nggak nyangka, produk ini udah dapetin review 10.000++ di China.
+273	produk ini udah dapetin review 10.000++ di China.
+274	produk ini udah dapetin review 10.000++ di China.
+275	produk ini udah dapetin review 10.000++ di China.
+276	produk ini udah dapetin review 10.000++ di China.
+277	produk ini udah dapetin review 10.000++ di China.
+278	produk ini udah dapetin review 10.000++ di China.
+279	produk ini udah dapetin review 10.000++ di China.
+280	produk ini udah dapetin review 10.000++ di China. Ternyata banyak juga ya orang yang butuh powerbank segede ini buat dibawa-bawa.
+281	Ternyata banyak juga ya orang yang butuh powerbank segede ini buat dibawa-bawa.
+282	Ternyata banyak juga ya orang yang butuh powerbank segede ini buat dibawa-bawa.
+283	Ternyata banyak juga ya orang yang butuh powerbank segede ini buat dibawa-bawa.
+284	Ternyata banyak juga ya orang yang butuh powerbank segede ini buat dibawa-bawa.
+285	Ternyata banyak juga ya orang yang butuh powerbank segede ini buat dibawa-bawa.
+286	Ternyata banyak juga ya orang yang butuh powerbank segede ini buat dibawa-bawa.
+287	Ternyata banyak juga ya orang yang butuh powerbank segede ini buat dibawa-bawa.
+288	Ternyata banyak juga ya orang yang butuh powerbank segede ini buat dibawa-bawa. Dan terakhir, gue ada tes suhu bedain sama dicolok
+289	Ternyata banyak juga ya orang yang butuh powerbank segede ini buat dibawa-bawa. Dan terakhir, gue ada tes suhu bedain sama dicolok
+290	Dan terakhir, gue ada tes suhu bedain sama dicolok
+291	Dan terakhir, gue ada tes suhu bedain sama dicolok
+292	Dan terakhir, gue ada tes suhu bedain sama dicolok
+293	Dan terakhir, gue ada tes suhu bedain sama dicolok pakai powerbank.
+294	Dan terakhir, gue ada tes suhu bedain sama dicolok pakai powerbank. Kayak cat di tembok, ada beda sekitar 3 derajat
+295	pakai powerbank. Kayak cat di tembok, ada beda sekitar 3 derajat
+296	Kayak cat di tembok, ada beda sekitar 3 derajat
+297	Kayak cat di tembok, ada beda sekitar 3 derajat
+298	Kayak cat di tembok, ada beda sekitar 3 derajat
+299	Kayak cat di tembok, ada beda sekitar 3 derajat pas dicas sekitar 30 menit.
+300	Kayak cat di tembok, ada beda sekitar 3 derajat pas dicas sekitar 30 menit.
+301	pas dicas sekitar 30 menit.
+302	pas dicas sekitar 30 menit.
+303	pas dicas sekitar 30 menit. Masuk akal dan harusnya ini masih nice,
+304	pas dicas sekitar 30 menit. Masuk akal dan harusnya ini masih nice,
+305	Masuk akal dan harusnya ini masih nice,
+306	Masuk akal dan harusnya ini masih nice,
+307	Masuk akal dan harusnya ini masih nice, karena kalau dari research gue,
+308	Masuk akal dan harusnya ini masih nice, karena kalau dari research gue,
+309	karena kalau dari research gue,
+310	karena kalau dari research gue, maksimum suhu device itu yang dicas pakai powerbank,
+311	karena kalau dari research gue, maksimum suhu device itu yang dicas pakai powerbank,
+312	maksimum suhu device itu yang dicas pakai powerbank,
+313	maksimum suhu device itu yang dicas pakai powerbank,
+314	maksimum suhu device itu yang dicas pakai powerbank,
+315	maksimum suhu device itu yang dicas pakai powerbank,
+316	maksimum suhu device itu yang dicas pakai powerbank,
+317	maksimum suhu device itu yang dicas pakai powerbank, 45 derajat paling tingginya.
+318	maksimum suhu device itu yang dicas pakai powerbank, 45 derajat paling tingginya.
+319	45 derajat paling tingginya.
+320	45 derajat paling tingginya.
+321	45 derajat paling tingginya.
+322	45 derajat paling tingginya. Kalau udah mepetin 50 derajat,
+323	45 derajat paling tingginya. Kalau udah mepetin 50 derajat,
+324	Kalau udah mepetin 50 derajat,
+325	Kalau udah mepetin 50 derajat, itu udah sangat bahaya buat baterai device-nya.
+326	Kalau udah mepetin 50 derajat, itu udah sangat bahaya buat baterai device-nya.
+327	itu udah sangat bahaya buat baterai device-nya.
+328	itu udah sangat bahaya buat baterai device-nya.
+329	itu udah sangat bahaya buat baterai device-nya.
+330	itu udah sangat bahaya buat baterai device-nya.
+331	itu udah sangat bahaya buat baterai device-nya.
+332	itu udah sangat bahaya buat baterai device-nya. Ya di suhu tinggi gitu, lo pegang device-nya juga udah sakit tangan nih.
+333	itu udah sangat bahaya buat baterai device-nya. Ya di suhu tinggi gitu, lo pegang device-nya juga udah sakit tangan nih.
+334	Ya di suhu tinggi gitu, lo pegang device-nya juga udah sakit tangan nih.
+335	Ya di suhu tinggi gitu, lo pegang device-nya juga udah sakit tangan nih.
+336	Ya di suhu tinggi gitu, lo pegang device-nya juga udah sakit tangan nih.
+337	Ya di suhu tinggi gitu, lo pegang device-nya juga udah sakit tangan nih.
+338	Ya di suhu tinggi gitu, lo pegang device-nya juga udah sakit tangan nih. Makanya selalu ingat,
+339	Ya di suhu tinggi gitu, lo pegang device-nya juga udah sakit tangan nih. Makanya selalu ingat,
+340	Makanya selalu ingat,
+341	Makanya selalu ingat, kalau ada hubungan sama teknologi dan keamanan,
+342	Makanya selalu ingat, kalau ada hubungan sama teknologi dan keamanan,
+343	kalau ada hubungan sama teknologi dan keamanan,
+344	kalau ada hubungan sama teknologi dan keamanan,
+345	kalau ada hubungan sama teknologi dan keamanan, hindari ODM ganti-ganti merek doang,
+346	kalau ada hubungan sama teknologi dan keamanan, hindari ODM ganti-ganti merek doang,
+347	hindari ODM ganti-ganti merek doang,
+348	hindari ODM ganti-ganti merek doang,
+349	hindari ODM ganti-ganti merek doang,
+350	hindari ODM ganti-ganti merek doang, dan beli yang pasti-pasti aja.
+351	hindari ODM ganti-ganti merek doang, dan beli yang pasti-pasti aja.
+352	dan beli yang pasti-pasti aja.
+353	dan beli yang pasti-pasti aja.
+354	dan beli yang pasti-pasti aja. Linknya cuk tek di deskripsi.
+355	Linknya cuk tek di deskripsi.
+356	Linknya cuk tek di deskripsi.
+357	Linknya cuk tek di deskripsi.
+358	Linknya cuk tek di deskripsi.
+359	[NO_SPEECH]
+360	[NO_SPEECH]
+361	[NO_SPEECH]
+362	[NO_SPEECH]
+363	[NO_SPEECH]
+364	[NO_SPEECH]
+365	[NO_SPEECH]
+366	[NO_SPEECH]
+367	[NO_SPEECH]
+368	[NO_SPEECH]
+369	[NO_SPEECH]
+370	[NO_SPEECH]
+371	[NO_SPEECH]
+372	[NO_SPEECH]
+373	[NO_SPEECH]
+374	[NO_SPEECH]
+375	[NO_SPEECH]
+376	[NO_SPEECH]
+377	[NO_SPEECH]
+378	[NO_SPEECH]
+379	[NO_SPEECH]
+380	[NO_SPEECH]
+381	[NO_SPEECH]
+382	[NO_SPEECH]
+383	[NO_SPEECH]
+384	[NO_SPEECH]
+385	[NO_SPEECH]
+386	[NO_SPEECH]
+387	[NO_SPEECH]
+388	[NO_SPEECH]
+389	[NO_SPEECH]
+390	[NO_SPEECH]

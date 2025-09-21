@@ -1,0 +1,95 @@
+0	
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	Guys, ini adalah cerita aku a few weeks ago.
+7	Guys, ini adalah cerita aku a few weeks ago.
+8	Guys, ini adalah cerita aku a few weeks ago.
+9	Guys, ini adalah cerita aku a few weeks ago.
+10	Guys, ini adalah cerita aku a few weeks ago.
+11	Guys, ini adalah cerita aku a few weeks ago. Kalian wajib tau karena this is amazing.
+12	Guys, ini adalah cerita aku a few weeks ago. Kalian wajib tau karena this is amazing.
+13	Kalian wajib tau karena this is amazing.
+14	Kalian wajib tau karena this is amazing.
+15	Kalian wajib tau karena this is amazing.
+16	Kalian wajib tau karena this is amazing. Jadi, di awal Ramadan ini, aku dapet surprise Ramadan calendar dari Pons.
+17	Jadi, di awal Ramadan ini, aku dapet surprise Ramadan calendar dari Pons.
+18	Jadi, di awal Ramadan ini, aku dapet surprise Ramadan calendar dari Pons.
+19	Jadi, di awal Ramadan ini, aku dapet surprise Ramadan calendar dari Pons.
+20	Jadi, di awal Ramadan ini, aku dapet surprise Ramadan calendar dari Pons.
+21	Jadi, di awal Ramadan ini, aku dapet surprise Ramadan calendar dari Pons.
+22	Jadi, di awal Ramadan ini, aku dapet surprise Ramadan calendar dari Pons.
+23	Jadi, di awal Ramadan ini, aku dapet surprise Ramadan calendar dari Pons.
+24	Jadi, di awal Ramadan ini, aku dapet surprise Ramadan calendar dari Pons. Lagi puasa gini, kulit tetep butuh hidrasi.
+25	Jadi, di awal Ramadan ini, aku dapet surprise Ramadan calendar dari Pons. Lagi puasa gini, kulit tetep butuh hidrasi.
+26	Lagi puasa gini, kulit tetep butuh hidrasi.
+27	Lagi puasa gini, kulit tetep butuh hidrasi.
+28	Lagi puasa gini, kulit tetep butuh hidrasi.
+29	Lagi puasa gini, kulit tetep butuh hidrasi. Nah, ini dia pemeran utamanya.
+30	Lagi puasa gini, kulit tetep butuh hidrasi. Nah, ini dia pemeran utamanya.
+31	Nah, ini dia pemeran utamanya.
+32	Nah, ini dia pemeran utamanya.
+33	Nah, ini dia pemeran utamanya. Pons Bright Miracle Serum.
+34	Pons Bright Miracle Serum.
+35	Pons Bright Miracle Serum. Dengan kandungan niacinol yang lebih ampu dari niacinamide dan retinol,
+36	Pons Bright Miracle Serum. Dengan kandungan niacinol yang lebih ampu dari niacinamide dan retinol,
+37	Dengan kandungan niacinol yang lebih ampu dari niacinamide dan retinol,
+38	Dengan kandungan niacinol yang lebih ampu dari niacinamide dan retinol,
+39	Dengan kandungan niacinol yang lebih ampu dari niacinamide dan retinol,
+40	Dengan kandungan niacinol yang lebih ampu dari niacinamide dan retinol,
+41	Dengan kandungan niacinol yang lebih ampu dari niacinamide dan retinol,
+42	Dengan kandungan niacinol yang lebih ampu dari niacinamide dan retinol,
+43	Dengan kandungan niacinol yang lebih ampu dari niacinamide dan retinol, kulit mulai keliatan lebih glowing dalam 7 hari.
+44	Dengan kandungan niacinol yang lebih ampu dari niacinamide dan retinol, kulit mulai keliatan lebih glowing dalam 7 hari.
+45	kulit mulai keliatan lebih glowing dalam 7 hari.
+46	kulit mulai keliatan lebih glowing dalam 7 hari.
+47	kulit mulai keliatan lebih glowing dalam 7 hari.
+48	kulit mulai keliatan lebih glowing dalam 7 hari. Is it true? Let's try it out for a few days.
+49	Is it true? Let's try it out for a few days.
+50	Is it true? Let's try it out for a few days.
+51	Is it true? Let's try it out for a few days.
+52	Is it true? Let's try it out for a few days. Dengan segala aktivitasku selama bulan Ramadan ini,
+53	Is it true? Let's try it out for a few days. Dengan segala aktivitasku selama bulan Ramadan ini,
+54	Dengan segala aktivitasku selama bulan Ramadan ini,
+55	Dengan segala aktivitasku selama bulan Ramadan ini,
+56	Dengan segala aktivitasku selama bulan Ramadan ini,
+57	Dengan segala aktivitasku selama bulan Ramadan ini, kulitku kadang naik turun.
+58	Dengan segala aktivitasku selama bulan Ramadan ini, kulitku kadang naik turun.
+59	kulitku kadang naik turun.
+60	kulitku kadang naik turun. But that's fine, karena aku pake Pons Bright Miracle Serum.
+61	kulitku kadang naik turun. But that's fine, karena aku pake Pons Bright Miracle Serum.
+62	But that's fine, karena aku pake Pons Bright Miracle Serum.
+63	But that's fine, karena aku pake Pons Bright Miracle Serum.
+64	But that's fine, karena aku pake Pons Bright Miracle Serum.
+65	But that's fine, karena aku pake Pons Bright Miracle Serum.
+66	But that's fine, karena aku pake Pons Bright Miracle Serum. And, miracles happen!
+67	But that's fine, karena aku pake Pons Bright Miracle Serum. And, miracles happen!
+68	And, miracles happen!
+69	And, miracles happen! This is my skin after 7 days using Pons Bright Miracle Serum.
+70	This is my skin after 7 days using Pons Bright Miracle Serum.
+71	This is my skin after 7 days using Pons Bright Miracle Serum.
+72	This is my skin after 7 days using Pons Bright Miracle Serum.
+73	This is my skin after 7 days using Pons Bright Miracle Serum.
+74	This is my skin after 7 days using Pons Bright Miracle Serum.
+75	This is my skin after 7 days using Pons Bright Miracle Serum. Terbukti kalau Pons Bright Miracle Serum selain bisa bikin kulit glowing,
+76	This is my skin after 7 days using Pons Bright Miracle Serum. Terbukti kalau Pons Bright Miracle Serum selain bisa bikin kulit glowing,
+77	Terbukti kalau Pons Bright Miracle Serum selain bisa bikin kulit glowing,
+78	Terbukti kalau Pons Bright Miracle Serum selain bisa bikin kulit glowing,
+79	Terbukti kalau Pons Bright Miracle Serum selain bisa bikin kulit glowing,
+80	Terbukti kalau Pons Bright Miracle Serum selain bisa bikin kulit glowing,
+81	Terbukti kalau Pons Bright Miracle Serum selain bisa bikin kulit glowing,
+82	Terbukti kalau Pons Bright Miracle Serum selain bisa bikin kulit glowing, juga menghidrasi dan buat kulitku lebih plumpy.
+83	juga menghidrasi dan buat kulitku lebih plumpy.
+84	juga menghidrasi dan buat kulitku lebih plumpy.
+85	juga menghidrasi dan buat kulitku lebih plumpy.
+86	juga menghidrasi dan buat kulitku lebih plumpy.
+87	juga menghidrasi dan buat kulitku lebih plumpy. Now, I am ready to glow in hari raya.
+88	Now, I am ready to glow in hari raya.
+89	Now, I am ready to glow in hari raya.
+90	Now, I am ready to glow in hari raya.
+91	Now, I am ready to glow in hari raya. Thank you, Pons!
+92	Now, I am ready to glow in hari raya. Thank you, Pons!
+93	Thank you, Pons!
+94	[NO_SPEECH]

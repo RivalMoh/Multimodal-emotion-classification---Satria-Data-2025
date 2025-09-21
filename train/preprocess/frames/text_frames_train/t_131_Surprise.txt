@@ -1,0 +1,54 @@
+0	John!
+1	hahahaha
+2	hahahaha
+3	hahahaha ini orang, dua orang bodoh
+4	hahahaha ini orang, dua orang bodoh
+5	ini orang, dua orang bodoh
+6	ini orang, dua orang bodoh
+7	ini orang, dua orang bodoh
+8	ini orang, dua orang bodoh
+9	ini orang, dua orang bodoh
+10	ini orang, dua orang bodoh mau kemana sih John?
+11	mau kemana sih John?
+12	mau kemana sih John?
+13	mau kemana sih John? kita mau ke tempat yang menyakitkan kita
+14	mau kemana sih John? kita mau ke tempat yang menyakitkan kita
+15	kita mau ke tempat yang menyakitkan kita
+16	kita mau ke tempat yang menyakitkan kita
+17	kita mau ke tempat yang menyakitkan kita
+18	kita mau ke tempat yang menyakitkan kita hari ini kita menuju kesana kita samperin dia
+19	kita mau ke tempat yang menyakitkan kita hari ini kita menuju kesana kita samperin dia
+20	hari ini kita menuju kesana kita samperin dia
+21	hari ini kita menuju kesana kita samperin dia
+22	hari ini kita menuju kesana kita samperin dia
+23	hari ini kita menuju kesana kita samperin dia
+24	hari ini kita menuju kesana kita samperin dia setia itu ternyata mahal ya bayarannya
+25	hari ini kita menuju kesana kita samperin dia setia itu ternyata mahal ya bayarannya
+26	setia itu ternyata mahal ya bayarannya
+27	setia itu ternyata mahal ya bayarannya
+28	setia itu ternyata mahal ya bayarannya wah abis disakiti ternyata kita malah nyamperin
+29	setia itu ternyata mahal ya bayarannya wah abis disakiti ternyata kita malah nyamperin
+30	abis disakiti ternyata kita malah nyamperin
+31	abis disakiti ternyata kita malah nyamperin
+32	abis disakiti ternyata kita malah nyamperin
+33	abis disakiti ternyata kita malah nyamperin
+34	abis disakiti ternyata kita malah nyamperin
+35	abis disakiti ternyata kita malah nyamperin ya itu terkadang yang namanya bego sama cinta tipis lah
+36	abis disakiti ternyata kita malah nyamperin ya itu terkadang yang namanya bego sama cinta tipis lah
+37	ya itu terkadang yang namanya bego sama cinta tipis lah
+38	ya itu terkadang yang namanya bego sama cinta tipis lah
+39	ya itu terkadang yang namanya bego sama cinta tipis lah
+40	ya itu terkadang yang namanya bego sama cinta tipis lah
+41	ya itu terkadang yang namanya bego sama cinta tipis lah
+42	ya itu terkadang yang namanya bego sama cinta tipis lah tipis yaudah lanjut yuk
+43	ya itu terkadang yang namanya bego sama cinta tipis lah tipis yaudah lanjut yuk
+44	tipis yaudah lanjut yuk
+45	tipis yaudah lanjut yuk
+46	tipis yaudah lanjut yuk lanjut
+47	tipis yaudah lanjut yuk lanjut
+48	lanjut
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]

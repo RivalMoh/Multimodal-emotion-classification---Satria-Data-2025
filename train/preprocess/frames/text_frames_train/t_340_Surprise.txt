@@ -1,0 +1,57 @@
+0	Bola di tengah harusnya siapa yang ambil ya?
+1	Bola di tengah harusnya siapa yang ambil ya?
+2	Bola di tengah harusnya siapa yang ambil ya?
+3	Bola di tengah harusnya siapa yang ambil ya?
+4	Bola di tengah harusnya siapa yang ambil ya?
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	Dalam permainan ganda, sebaiknya saling menjaga dan menutupi area yang kosong.
+12	Dalam permainan ganda, sebaiknya saling menjaga dan menutupi area yang kosong.
+13	Dalam permainan ganda, sebaiknya saling menjaga dan menutupi area yang kosong.
+14	Dalam permainan ganda, sebaiknya saling menjaga dan menutupi area yang kosong.
+15	Dalam permainan ganda, sebaiknya saling menjaga dan menutupi area yang kosong.
+16	Dalam permainan ganda, sebaiknya saling menjaga dan menutupi area yang kosong.
+17	Dalam permainan ganda, sebaiknya saling menjaga dan menutupi area yang kosong.
+18	Dalam permainan ganda, sebaiknya saling menjaga dan menutupi area yang kosong.
+19	Dalam permainan ganda, sebaiknya saling menjaga dan menutupi area yang kosong. Jadi ketika teman kita berada di posisi yang kurang tepat untuk defend,
+20	Dalam permainan ganda, sebaiknya saling menjaga dan menutupi area yang kosong. Jadi ketika teman kita berada di posisi yang kurang tepat untuk defend,
+21	Jadi ketika teman kita berada di posisi yang kurang tepat untuk defend,
+22	Jadi ketika teman kita berada di posisi yang kurang tepat untuk defend,
+23	Jadi ketika teman kita berada di posisi yang kurang tepat untuk defend,
+24	Jadi ketika teman kita berada di posisi yang kurang tepat untuk defend,
+25	Jadi ketika teman kita berada di posisi yang kurang tepat untuk defend,
+26	Jadi ketika teman kita berada di posisi yang kurang tepat untuk defend, sebisa mungkin kita saling menjaga area pertahanan.
+27	sebisa mungkin kita saling menjaga area pertahanan.
+28	sebisa mungkin kita saling menjaga area pertahanan.
+29	sebisa mungkin kita saling menjaga area pertahanan.
+30	sebisa mungkin kita saling menjaga area pertahanan. Jadi gak usah nyalahin temen ya, yang penting main fun dan olahraga bareng.
+31	sebisa mungkin kita saling menjaga area pertahanan. Jadi gak usah nyalahin temen ya, yang penting main fun dan olahraga bareng.
+32	Jadi gak usah nyalahin temen ya, yang penting main fun dan olahraga bareng.
+33	Jadi gak usah nyalahin temen ya, yang penting main fun dan olahraga bareng.
+34	Jadi gak usah nyalahin temen ya, yang penting main fun dan olahraga bareng.
+35	Jadi gak usah nyalahin temen ya, yang penting main fun dan olahraga bareng.
+36	Jadi gak usah nyalahin temen ya, yang penting main fun dan olahraga bareng.
+37	Jadi gak usah nyalahin temen ya, yang penting main fun dan olahraga bareng.
+38	Jadi gak usah nyalahin temen ya, yang penting main fun dan olahraga bareng. Menurut kalian gimana? Siapa yang harus ambil? Coba komen di bawah.
+39	Jadi gak usah nyalahin temen ya, yang penting main fun dan olahraga bareng. Menurut kalian gimana? Siapa yang harus ambil? Coba komen di bawah.
+40	Menurut kalian gimana? Siapa yang harus ambil? Coba komen di bawah.
+41	Menurut kalian gimana? Siapa yang harus ambil? Coba komen di bawah.
+42	Menurut kalian gimana? Siapa yang harus ambil? Coba komen di bawah.
+43	Menurut kalian gimana? Siapa yang harus ambil? Coba komen di bawah.
+44	Menurut kalian gimana? Siapa yang harus ambil? Coba komen di bawah.
+45	Menurut kalian gimana? Siapa yang harus ambil? Coba komen di bawah.
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]

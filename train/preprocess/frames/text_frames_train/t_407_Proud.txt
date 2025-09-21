@@ -1,0 +1,79 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	Mau nge-geng tapi takut gerakan salah karena diliatin orang
+5	Mau nge-geng tapi takut gerakan salah karena diliatin orang
+6	Mau nge-geng tapi takut gerakan salah karena diliatin orang
+7	Mau nge-geng tapi takut gerakan salah karena diliatin orang
+8	Mau nge-geng tapi takut gerakan salah karena diliatin orang
+9	Mau nge-geng tapi takut gerakan salah karena diliatin orang
+10	Mau nge-geng tapi takut gerakan salah karena diliatin orang
+11	Mau nge-geng tapi takut gerakan salah karena diliatin orang
+12	Mau nge-geng tapi takut gerakan salah karena diliatin orang
+13	Satu kata yang mungkin sering kita pikirkan tapi susah untuk diakuin
+14	Satu kata yang mungkin sering kita pikirkan tapi susah untuk diakuin
+15	Satu kata yang mungkin sering kita pikirkan tapi susah untuk diakuin
+16	Satu kata yang mungkin sering kita pikirkan tapi susah untuk diakuin
+17	Satu kata yang mungkin sering kita pikirkan tapi susah untuk diakuin
+18	Satu kata yang mungkin sering kita pikirkan tapi susah untuk diakuin
+19	Satu kata yang mungkin sering kita pikirkan tapi susah untuk diakuin
+20	Satu kata yang mungkin sering kita pikirkan tapi susah untuk diakuin
+21	Satu kata yang mungkin sering kita pikirkan tapi susah untuk diakuin
+22	Satu kata yang mungkin sering kita pikirkan tapi susah untuk diakuin
+23	Satu kata yang mungkin sering kita pikirkan tapi susah untuk diakuin
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	Mulai aja dulu
+32	Mulai aja dulu
+33	Mulai aja dulu
+34	Mulai aja dulu
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	Karena kalau lo gak mulai dari sekarang dan gak pernah nyoba
+42	Karena kalau lo gak mulai dari sekarang dan gak pernah nyoba
+43	Karena kalau lo gak mulai dari sekarang dan gak pernah nyoba
+44	Karena kalau lo gak mulai dari sekarang dan gak pernah nyoba
+45	Karena kalau lo gak mulai dari sekarang dan gak pernah nyoba
+46	Karena kalau lo gak mulai dari sekarang dan gak pernah nyoba
+47	Karena kalau lo gak mulai dari sekarang dan gak pernah nyoba
+48	Karena kalau lo gak mulai dari sekarang dan gak pernah nyoba
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	Gimana kita tahu hasilnya?
+53	Gimana kita tahu hasilnya?
+54	Gimana kita tahu hasilnya?
+55	Gimana kita tahu hasilnya? Tapi satu hal yang aku yakin adalah
+56	Gimana kita tahu hasilnya? Tapi satu hal yang aku yakin adalah
+57	Tapi satu hal yang aku yakin adalah
+58	Tapi satu hal yang aku yakin adalah
+59	Tapi satu hal yang aku yakin adalah
+60	Tapi satu hal yang aku yakin adalah
+61	Usaha tidak akan pernah mengkhianati hasil
+62	Usaha tidak akan pernah mengkhianati hasil
+63	Usaha tidak akan pernah mengkhianati hasil
+64	Usaha tidak akan pernah mengkhianati hasil
+65	Usaha tidak akan pernah mengkhianati hasil
+66	Usaha tidak akan pernah mengkhianati hasil
+67	Usaha tidak akan pernah mengkhianati hasil
+68	[NO_SPEECH]
+69	[NO_SPEECH]
+70	[NO_SPEECH]
+71	[NO_SPEECH]
+72	[NO_SPEECH]
+73	[NO_SPEECH]
+74	[NO_SPEECH]
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]

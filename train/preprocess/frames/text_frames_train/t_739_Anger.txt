@@ -1,0 +1,56 @@
+0	Makanya orang yang gak pernah di pemerintahan itu gak usah banyak omong.
+1	Makanya orang yang gak pernah di pemerintahan itu gak usah banyak omong.
+2	Makanya orang yang gak pernah di pemerintahan itu gak usah banyak omong.
+3	Makanya orang yang gak pernah di pemerintahan itu gak usah banyak omong.
+4	Makanya orang yang gak pernah di pemerintahan itu gak usah banyak omong.
+5	Makanya orang yang gak pernah di pemerintahan itu gak usah banyak omong.
+6	Makanya orang yang gak pernah di pemerintahan itu gak usah banyak omong.
+7	Makanya orang yang gak pernah di pemerintahan itu gak usah banyak omong.
+8	Tidak gampang mengerjakan. Anda kan sudah merasakan sebagai bupati sama gubernur.
+9	Tidak gampang mengerjakan. Anda kan sudah merasakan sebagai bupati sama gubernur.
+10	Tidak gampang mengerjakan. Anda kan sudah merasakan sebagai bupati sama gubernur.
+11	Tidak gampang mengerjakan. Anda kan sudah merasakan sebagai bupati sama gubernur.
+12	Tidak gampang mengerjakan. Anda kan sudah merasakan sebagai bupati sama gubernur.
+13	Tidak gampang mengerjakan. Anda kan sudah merasakan sebagai bupati sama gubernur.
+14	Tidak gampang mengerjakan. Anda kan sudah merasakan sebagai bupati sama gubernur.
+15	Tidak gampang mengerjakan. Anda kan sudah merasakan sebagai bupati sama gubernur.
+16	Tidak gampang mengerjakan. Anda kan sudah merasakan sebagai bupati sama gubernur.
+17	Tidak gampang mengerjakan. Anda kan sudah merasakan sebagai bupati sama gubernur.
+18	Tidak gampang mengerjakan. Anda kan sudah merasakan sebagai bupati sama gubernur.
+19	Ngomong, kritik, gampang aja. Lu masuk di dalam baru tau loh.
+20	Ngomong, kritik, gampang aja. Lu masuk di dalam baru tau loh.
+21	Ngomong, kritik, gampang aja. Lu masuk di dalam baru tau loh.
+22	Ngomong, kritik, gampang aja. Lu masuk di dalam baru tau loh.
+23	Ngomong, kritik, gampang aja. Lu masuk di dalam baru tau loh.
+24	Ngomong, kritik, gampang aja. Lu masuk di dalam baru tau loh.
+25	Ngomong, kritik, gampang aja. Lu masuk di dalam baru tau loh.
+26	Ngomong, kritik, gampang aja. Lu masuk di dalam baru tau loh.
+27	[NO_SPEECH]
+28	Kalau lu kerja main-main ya ketangkepan, OTT itu.
+29	Kalau lu kerja main-main ya ketangkepan, OTT itu.
+30	Kalau lu kerja main-main ya ketangkepan, OTT itu.
+31	Kalau lu kerja main-main ya ketangkepan, OTT itu.
+32	Kalau lu kerja main-main ya ketangkepan, OTT itu.
+33	Kalau lu kerja main-main ya ketangkepan, OTT itu.
+34	Kalau lu kerja main-main ya ketangkepan, OTT itu. Jadi ini saya sampaikan gak usah banyak ngomong lah.
+35	Kalau lu kerja main-main ya ketangkepan, OTT itu. Jadi ini saya sampaikan gak usah banyak ngomong lah.
+36	Jadi ini saya sampaikan gak usah banyak ngomong lah.
+37	Jadi ini saya sampaikan gak usah banyak ngomong lah.
+38	Jadi ini saya sampaikan gak usah banyak ngomong lah.
+39	Jadi ini saya sampaikan gak usah banyak ngomong lah.
+40	Jadi ini saya sampaikan gak usah banyak ngomong lah. Dia pikir gampang emang.
+41	Dia pikir gampang emang.
+42	Dia pikir gampang emang.
+43	Dia pikir gampang emang.
+44	Dia pikir gampang emang.
+45	Kalau dia pernah menjabat di pemerintahan dulu kita tanya apa yang kau buat selama kau menjabat itu.
+46	Kalau dia pernah menjabat di pemerintahan dulu kita tanya apa yang kau buat selama kau menjabat itu.
+47	Kalau dia pernah menjabat di pemerintahan dulu kita tanya apa yang kau buat selama kau menjabat itu.
+48	Kalau dia pernah menjabat di pemerintahan dulu kita tanya apa yang kau buat selama kau menjabat itu.
+49	Kalau dia pernah menjabat di pemerintahan dulu kita tanya apa yang kau buat selama kau menjabat itu.
+50	Kalau dia pernah menjabat di pemerintahan dulu kita tanya apa yang kau buat selama kau menjabat itu.
+51	Kalau dia pernah menjabat di pemerintahan dulu kita tanya apa yang kau buat selama kau menjabat itu.
+52	Kalau dia pernah menjabat di pemerintahan dulu kita tanya apa yang kau buat selama kau menjabat itu.
+53	Kalau dia pernah menjabat di pemerintahan dulu kita tanya apa yang kau buat selama kau menjabat itu.
+54	Kalau dia pernah menjabat di pemerintahan dulu kita tanya apa yang kau buat selama kau menjabat itu.
+55	[NO_SPEECH]

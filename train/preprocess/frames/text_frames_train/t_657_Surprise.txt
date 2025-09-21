@@ -1,0 +1,135 @@
+0	Produk dengan kandungan vitamin B6 terkenal dari Australia,
+1	Produk dengan kandungan vitamin B6 terkenal dari Australia,
+2	Produk dengan kandungan vitamin B6 terkenal dari Australia,
+3	Produk dengan kandungan vitamin B6 terkenal dari Australia,
+4	Produk dengan kandungan vitamin B6 terkenal dari Australia,
+5	Produk dengan kandungan vitamin B6 terkenal dari Australia, lagi digugat serius lho.
+6	lagi digugat serius lho.
+7	lagi digugat serius lho.
+8	lagi digugat serius lho.
+9	lagi digugat serius lho.
+10	Eits, tapi tenang dulu.
+11	Eits, tapi tenang dulu.
+12	Eits, tapi tenang dulu.
+13	Eits, tapi tenang dulu.
+14	[NO_SPEECH]
+15	Sobat sehat, udah tau belum?
+16	Sobat sehat, udah tau belum?
+17	Sobat sehat, udah tau belum?
+18	Sobat sehat, udah tau belum?
+19	Sobat sehat, udah tau belum? Salah satu brand suplemen di Australia sedang diinvestigasi
+20	Salah satu brand suplemen di Australia sedang diinvestigasi
+21	Salah satu brand suplemen di Australia sedang diinvestigasi
+22	Salah satu brand suplemen di Australia sedang diinvestigasi
+23	Salah satu brand suplemen di Australia sedang diinvestigasi
+24	Salah satu brand suplemen di Australia sedang diinvestigasi
+25	Salah satu brand suplemen di Australia sedang diinvestigasi
+26	Salah satu brand suplemen di Australia sedang diinvestigasi karena diduga salah satu kandungannya bikin konsumennya keracunan
+27	Salah satu brand suplemen di Australia sedang diinvestigasi karena diduga salah satu kandungannya bikin konsumennya keracunan
+28	karena diduga salah satu kandungannya bikin konsumennya keracunan
+29	karena diduga salah satu kandungannya bikin konsumennya keracunan
+30	karena diduga salah satu kandungannya bikin konsumennya keracunan
+31	karena diduga salah satu kandungannya bikin konsumennya keracunan
+32	karena diduga salah satu kandungannya bikin konsumennya keracunan dan mengalami masalah kesehatan serius.
+33	karena diduga salah satu kandungannya bikin konsumennya keracunan dan mengalami masalah kesehatan serius.
+34	dan mengalami masalah kesehatan serius.
+35	dan mengalami masalah kesehatan serius.
+36	dan mengalami masalah kesehatan serius.
+37	dan mengalami masalah kesehatan serius. Loh, kok bisa?
+38	Loh, kok bisa?
+39	Loh, kok bisa?
+40	Loh, kok bisa?
+41	Loh, kok bisa?
+42	Hal ini disebabkan ternyata dosis vitamin B6 di produk tersebut berlebihan
+43	Hal ini disebabkan ternyata dosis vitamin B6 di produk tersebut berlebihan
+44	Hal ini disebabkan ternyata dosis vitamin B6 di produk tersebut berlebihan
+45	Hal ini disebabkan ternyata dosis vitamin B6 di produk tersebut berlebihan
+46	Hal ini disebabkan ternyata dosis vitamin B6 di produk tersebut berlebihan
+47	Hal ini disebabkan ternyata dosis vitamin B6 di produk tersebut berlebihan
+48	Hal ini disebabkan ternyata dosis vitamin B6 di produk tersebut berlebihan
+49	Hal ini disebabkan ternyata dosis vitamin B6 di produk tersebut berlebihan dan melebihi batas aman.
+50	Hal ini disebabkan ternyata dosis vitamin B6 di produk tersebut berlebihan dan melebihi batas aman.
+51	dan melebihi batas aman.
+52	dan melebihi batas aman. Batas aman untuk dikonsumsi per hari adalah 1,8 mg berdasarkan angka
+53	dan melebihi batas aman. Batas aman untuk dikonsumsi per hari adalah 1,8 mg berdasarkan angka
+54	Batas aman untuk dikonsumsi per hari adalah 1,8 mg berdasarkan angka
+55	Batas aman untuk dikonsumsi per hari adalah 1,8 mg berdasarkan angka
+56	Batas aman untuk dikonsumsi per hari adalah 1,8 mg berdasarkan angka
+57	Batas aman untuk dikonsumsi per hari adalah 1,8 mg berdasarkan angka
+58	Batas aman untuk dikonsumsi per hari adalah 1,8 mg berdasarkan angka
+59	Batas aman untuk dikonsumsi per hari adalah 1,8 mg berdasarkan angka
+60	Batas aman untuk dikonsumsi per hari adalah 1,8 mg berdasarkan angka
+61	Batas aman untuk dikonsumsi per hari adalah 1,8 mg berdasarkan angka
+62	Batas aman untuk dikonsumsi per hari adalah 1,8 mg berdasarkan angka kecukupan gizi atau AKG yang dikeluarkan oleh Kementerian Kesehatan RI.
+63	Batas aman untuk dikonsumsi per hari adalah 1,8 mg berdasarkan angka kecukupan gizi atau AKG yang dikeluarkan oleh Kementerian Kesehatan RI.
+64	kecukupan gizi atau AKG yang dikeluarkan oleh Kementerian Kesehatan RI.
+65	kecukupan gizi atau AKG yang dikeluarkan oleh Kementerian Kesehatan RI.
+66	kecukupan gizi atau AKG yang dikeluarkan oleh Kementerian Kesehatan RI.
+67	kecukupan gizi atau AKG yang dikeluarkan oleh Kementerian Kesehatan RI.
+68	kecukupan gizi atau AKG yang dikeluarkan oleh Kementerian Kesehatan RI.
+69	kecukupan gizi atau AKG yang dikeluarkan oleh Kementerian Kesehatan RI.
+70	kecukupan gizi atau AKG yang dikeluarkan oleh Kementerian Kesehatan RI.
+71	kecukupan gizi atau AKG yang dikeluarkan oleh Kementerian Kesehatan RI. Padahal, vitamin B6 punya manfaat penting untuk menjaga kesehatan otak dan sistem saraf lho.
+72	Padahal, vitamin B6 punya manfaat penting untuk menjaga kesehatan otak dan sistem saraf lho.
+73	Padahal, vitamin B6 punya manfaat penting untuk menjaga kesehatan otak dan sistem saraf lho.
+74	Padahal, vitamin B6 punya manfaat penting untuk menjaga kesehatan otak dan sistem saraf lho.
+75	Padahal, vitamin B6 punya manfaat penting untuk menjaga kesehatan otak dan sistem saraf lho.
+76	Padahal, vitamin B6 punya manfaat penting untuk menjaga kesehatan otak dan sistem saraf lho.
+77	Padahal, vitamin B6 punya manfaat penting untuk menjaga kesehatan otak dan sistem saraf lho.
+78	Padahal, vitamin B6 punya manfaat penting untuk menjaga kesehatan otak dan sistem saraf lho.
+79	Padahal, vitamin B6 punya manfaat penting untuk menjaga kesehatan otak dan sistem saraf lho.
+80	Padahal, vitamin B6 punya manfaat penting untuk menjaga kesehatan otak dan sistem saraf lho.
+81	Padahal, vitamin B6 punya manfaat penting untuk menjaga kesehatan otak dan sistem saraf lho.
+82	Padahal, vitamin B6 punya manfaat penting untuk menjaga kesehatan otak dan sistem saraf lho. Jadi, ingat jangan berlebihan konsumsinya ya.
+83	Jadi, ingat jangan berlebihan konsumsinya ya.
+84	Jadi, ingat jangan berlebihan konsumsinya ya.
+85	Jadi, ingat jangan berlebihan konsumsinya ya.
+86	Jadi, ingat jangan berlebihan konsumsinya ya.
+87	Jadi, ingat jangan berlebihan konsumsinya ya.
+88	Jadi, ingat jangan berlebihan konsumsinya ya. Karena jika berlebih konsumsinya,
+89	Jadi, ingat jangan berlebihan konsumsinya ya. Karena jika berlebih konsumsinya,
+90	Karena jika berlebih konsumsinya,
+91	Karena jika berlebih konsumsinya,
+92	Karena jika berlebih konsumsinya, dalam jangka waktu lama dapat menyebabkan kerusakan saraf yang dikenal sebagai neuropati.
+93	Karena jika berlebih konsumsinya, dalam jangka waktu lama dapat menyebabkan kerusakan saraf yang dikenal sebagai neuropati.
+94	dalam jangka waktu lama dapat menyebabkan kerusakan saraf yang dikenal sebagai neuropati.
+95	dalam jangka waktu lama dapat menyebabkan kerusakan saraf yang dikenal sebagai neuropati.
+96	dalam jangka waktu lama dapat menyebabkan kerusakan saraf yang dikenal sebagai neuropati.
+97	dalam jangka waktu lama dapat menyebabkan kerusakan saraf yang dikenal sebagai neuropati.
+98	dalam jangka waktu lama dapat menyebabkan kerusakan saraf yang dikenal sebagai neuropati.
+99	dalam jangka waktu lama dapat menyebabkan kerusakan saraf yang dikenal sebagai neuropati.
+100	dalam jangka waktu lama dapat menyebabkan kerusakan saraf yang dikenal sebagai neuropati.
+101	dalam jangka waktu lama dapat menyebabkan kerusakan saraf yang dikenal sebagai neuropati. Biasanya ditandai dengan rasa sakit, mati rasa,
+102	Biasanya ditandai dengan rasa sakit, mati rasa,
+103	Biasanya ditandai dengan rasa sakit, mati rasa,
+104	Biasanya ditandai dengan rasa sakit, mati rasa,
+105	Biasanya ditandai dengan rasa sakit, mati rasa,
+106	Biasanya ditandai dengan rasa sakit, mati rasa,
+107	Biasanya ditandai dengan rasa sakit, mati rasa, dan kesemutan pada tangan dan kaki,
+108	dan kesemutan pada tangan dan kaki,
+109	dan kesemutan pada tangan dan kaki,
+110	dan kesemutan pada tangan dan kaki,
+111	dan kesemutan pada tangan dan kaki, hingga masalah kesehatan serius lainnya.
+112	dan kesemutan pada tangan dan kaki, hingga masalah kesehatan serius lainnya.
+113	hingga masalah kesehatan serius lainnya.
+114	hingga masalah kesehatan serius lainnya.
+115	hingga masalah kesehatan serius lainnya.
+116	hingga masalah kesehatan serius lainnya.
+117	Jadi, sebelum membeli,
+118	Jadi, sebelum membeli,
+119	Jadi, sebelum membeli, yang paling penting pastikan produk yang kamu konsumsi legal dan terdaftar di BPOM ya.
+120	Jadi, sebelum membeli, yang paling penting pastikan produk yang kamu konsumsi legal dan terdaftar di BPOM ya.
+121	yang paling penting pastikan produk yang kamu konsumsi legal dan terdaftar di BPOM ya.
+122	yang paling penting pastikan produk yang kamu konsumsi legal dan terdaftar di BPOM ya.
+123	yang paling penting pastikan produk yang kamu konsumsi legal dan terdaftar di BPOM ya.
+124	yang paling penting pastikan produk yang kamu konsumsi legal dan terdaftar di BPOM ya.
+125	yang paling penting pastikan produk yang kamu konsumsi legal dan terdaftar di BPOM ya.
+126	yang paling penting pastikan produk yang kamu konsumsi legal dan terdaftar di BPOM ya.
+127	yang paling penting pastikan produk yang kamu konsumsi legal dan terdaftar di BPOM ya.
+128	yang paling penting pastikan produk yang kamu konsumsi legal dan terdaftar di BPOM ya.
+129	[NO_SPEECH]
+130	[NO_SPEECH]
+131	[NO_SPEECH]
+132	[NO_SPEECH]
+133	[NO_SPEECH]
+134	[NO_SPEECH]

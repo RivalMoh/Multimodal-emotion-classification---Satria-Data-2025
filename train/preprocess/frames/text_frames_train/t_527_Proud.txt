@@ -1,0 +1,164 @@
+0	Bersama kita tak lukan
+1	Bersama kita tak lukan
+2	Bersama kita tak lukan
+3	Bersama kita tak lukan
+4	Bersama kita tak lukan
+5	Bersama kita tak lukan
+6	Bersama kita tak lukan
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	Saya ingin tahu siapa tahu di akar rumput di kelurahan-kelurahan kecamatan-kecamatan itu ada atlet bagus
+59	Saya ingin tahu siapa tahu di akar rumput di kelurahan-kelurahan kecamatan-kecamatan itu ada atlet bagus
+60	Saya ingin tahu siapa tahu di akar rumput di kelurahan-kelurahan kecamatan-kecamatan itu ada atlet bagus
+61	Saya ingin tahu siapa tahu di akar rumput di kelurahan-kelurahan kecamatan-kecamatan itu ada atlet bagus
+62	Saya ingin tahu siapa tahu di akar rumput di kelurahan-kelurahan kecamatan-kecamatan itu ada atlet bagus
+63	Saya ingin tahu siapa tahu di akar rumput di kelurahan-kelurahan kecamatan-kecamatan itu ada atlet bagus
+64	Saya ingin tahu siapa tahu di akar rumput di kelurahan-kelurahan kecamatan-kecamatan itu ada atlet bagus
+65	Saya ingin tahu siapa tahu di akar rumput di kelurahan-kelurahan kecamatan-kecamatan itu ada atlet bagus
+66	Saya ingin tahu siapa tahu di akar rumput di kelurahan-kelurahan kecamatan-kecamatan itu ada atlet bagus
+67	Saya ingin tahu siapa tahu di akar rumput di kelurahan-kelurahan kecamatan-kecamatan itu ada atlet bagus
+68	Saya ingin tahu siapa tahu di akar rumput di kelurahan-kelurahan kecamatan-kecamatan itu ada atlet bagus
+69	Saya ingin tahu siapa tahu di akar rumput di kelurahan-kelurahan kecamatan-kecamatan itu ada atlet bagus
+70	Saya ingin tahu siapa tahu di akar rumput di kelurahan-kelurahan kecamatan-kecamatan itu ada atlet bagus
+71	Saya ingin tahu siapa tahu di akar rumput di kelurahan-kelurahan kecamatan-kecamatan itu ada atlet bagus yang belum terdeteksi oleh radarnya pengurus provinsi bisa kelihatan sekarang
+72	Saya ingin tahu siapa tahu di akar rumput di kelurahan-kelurahan kecamatan-kecamatan itu ada atlet bagus yang belum terdeteksi oleh radarnya pengurus provinsi bisa kelihatan sekarang
+73	yang belum terdeteksi oleh radarnya pengurus provinsi bisa kelihatan sekarang
+74	yang belum terdeteksi oleh radarnya pengurus provinsi bisa kelihatan sekarang
+75	yang belum terdeteksi oleh radarnya pengurus provinsi bisa kelihatan sekarang
+76	yang belum terdeteksi oleh radarnya pengurus provinsi bisa kelihatan sekarang
+77	yang belum terdeteksi oleh radarnya pengurus provinsi bisa kelihatan sekarang
+78	yang belum terdeteksi oleh radarnya pengurus provinsi bisa kelihatan sekarang
+79	yang belum terdeteksi oleh radarnya pengurus provinsi bisa kelihatan sekarang
+80	yang belum terdeteksi oleh radarnya pengurus provinsi bisa kelihatan sekarang
+81	yang belum terdeteksi oleh radarnya pengurus provinsi bisa kelihatan sekarang
+82	yang belum terdeteksi oleh radarnya pengurus provinsi bisa kelihatan sekarang
+83	yang belum terdeteksi oleh radarnya pengurus provinsi bisa kelihatan sekarang Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+84	yang belum terdeteksi oleh radarnya pengurus provinsi bisa kelihatan sekarang Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+85	yang belum terdeteksi oleh radarnya pengurus provinsi bisa kelihatan sekarang Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+86	Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+87	Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+88	Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+89	Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+90	Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+91	Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+92	Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+93	Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+94	Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+95	Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+96	Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+97	Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+98	Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+99	Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+100	Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+101	Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+102	Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+103	Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti
+104	Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti Di PON tidak menutup kemungkinan dari event ini sudah ada yang ikut PON di tahun 2028
+105	Jadi harapannya tentunya event ini adalah untuk mendapatkan atlet yang terbaik di DKI yang akan turun di POPNAS nanti Di PON tidak menutup kemungkinan dari event ini sudah ada yang ikut PON di tahun 2028
+106	Di PON tidak menutup kemungkinan dari event ini sudah ada yang ikut PON di tahun 2028
+107	Di PON tidak menutup kemungkinan dari event ini sudah ada yang ikut PON di tahun 2028
+108	Di PON tidak menutup kemungkinan dari event ini sudah ada yang ikut PON di tahun 2028
+109	Di PON tidak menutup kemungkinan dari event ini sudah ada yang ikut PON di tahun 2028
+110	Di PON tidak menutup kemungkinan dari event ini sudah ada yang ikut PON di tahun 2028
+111	Di PON tidak menutup kemungkinan dari event ini sudah ada yang ikut PON di tahun 2028
+112	Di PON tidak menutup kemungkinan dari event ini sudah ada yang ikut PON di tahun 2028
+113	Di PON tidak menutup kemungkinan dari event ini sudah ada yang ikut PON di tahun 2028
+114	Di PON tidak menutup kemungkinan dari event ini sudah ada yang ikut PON di tahun 2028
+115	Di PON tidak menutup kemungkinan dari event ini sudah ada yang ikut PON di tahun 2028 Biasanya itu terjadi
+116	Di PON tidak menutup kemungkinan dari event ini sudah ada yang ikut PON di tahun 2028 Biasanya itu terjadi
+117	Biasanya itu terjadi
+118	Biasanya itu terjadi Untuk kali pertama ini kita fokus ke persiapan POPNAS
+119	Biasanya itu terjadi Untuk kali pertama ini kita fokus ke persiapan POPNAS
+120	Untuk kali pertama ini kita fokus ke persiapan POPNAS
+121	Untuk kali pertama ini kita fokus ke persiapan POPNAS
+122	Untuk kali pertama ini kita fokus ke persiapan POPNAS
+123	Untuk kali pertama ini kita fokus ke persiapan POPNAS
+124	Untuk kali pertama ini kita fokus ke persiapan POPNAS
+125	Untuk kali pertama ini kita fokus ke persiapan POPNAS
+126	Untuk kali pertama ini kita fokus ke persiapan POPNAS
+127	Untuk kali pertama ini kita fokus ke persiapan POPNAS Jadi cabang-cabang olahraga yang dipertandingkan di POPNAS itu yang kita prioritaskan di POPOB sekarang ini
+128	Untuk kali pertama ini kita fokus ke persiapan POPNAS Jadi cabang-cabang olahraga yang dipertandingkan di POPNAS itu yang kita prioritaskan di POPOB sekarang ini
+129	Jadi cabang-cabang olahraga yang dipertandingkan di POPNAS itu yang kita prioritaskan di POPOB sekarang ini
+130	Jadi cabang-cabang olahraga yang dipertandingkan di POPNAS itu yang kita prioritaskan di POPOB sekarang ini
+131	Jadi cabang-cabang olahraga yang dipertandingkan di POPNAS itu yang kita prioritaskan di POPOB sekarang ini
+132	Jadi cabang-cabang olahraga yang dipertandingkan di POPNAS itu yang kita prioritaskan di POPOB sekarang ini
+133	Jadi cabang-cabang olahraga yang dipertandingkan di POPNAS itu yang kita prioritaskan di POPOB sekarang ini
+134	Jadi cabang-cabang olahraga yang dipertandingkan di POPNAS itu yang kita prioritaskan di POPOB sekarang ini
+135	Jadi cabang-cabang olahraga yang dipertandingkan di POPNAS itu yang kita prioritaskan di POPOB sekarang ini
+136	Jadi cabang-cabang olahraga yang dipertandingkan di POPNAS itu yang kita prioritaskan di POPOB sekarang ini
+137	Jadi cabang-cabang olahraga yang dipertandingkan di POPNAS itu yang kita prioritaskan di POPOB sekarang ini
+138	Jadi cabang-cabang olahraga yang dipertandingkan di POPNAS itu yang kita prioritaskan di POPOB sekarang ini
+139	Jadi cabang-cabang olahraga yang dipertandingkan di POPNAS itu yang kita prioritaskan di POPOB sekarang ini Kedepan tahun insya Allah POPOB akan berkembang dengan cabang-cabang olahraga yang lain
+140	Jadi cabang-cabang olahraga yang dipertandingkan di POPNAS itu yang kita prioritaskan di POPOB sekarang ini Kedepan tahun insya Allah POPOB akan berkembang dengan cabang-cabang olahraga yang lain
+141	Kedepan tahun insya Allah POPOB akan berkembang dengan cabang-cabang olahraga yang lain
+142	Kedepan tahun insya Allah POPOB akan berkembang dengan cabang-cabang olahraga yang lain
+143	Kedepan tahun insya Allah POPOB akan berkembang dengan cabang-cabang olahraga yang lain
+144	Kedepan tahun insya Allah POPOB akan berkembang dengan cabang-cabang olahraga yang lain
+145	Kedepan tahun insya Allah POPOB akan berkembang dengan cabang-cabang olahraga yang lain
+146	Kedepan tahun insya Allah POPOB akan berkembang dengan cabang-cabang olahraga yang lain
+147	Kedepan tahun insya Allah POPOB akan berkembang dengan cabang-cabang olahraga yang lain
+148	Kedepan tahun insya Allah POPOB akan berkembang dengan cabang-cabang olahraga yang lain
+149	Kedepan tahun insya Allah POPOB akan berkembang dengan cabang-cabang olahraga yang lain
+150	Kedepan tahun insya Allah POPOB akan berkembang dengan cabang-cabang olahraga yang lain
+151	Kedepan tahun insya Allah POPOB akan berkembang dengan cabang-cabang olahraga yang lain
+152	[NO_SPEECH]
+153	[NO_SPEECH]
+154	[NO_SPEECH]
+155	[NO_SPEECH]
+156	[NO_SPEECH]
+157	[NO_SPEECH]
+158	[NO_SPEECH]
+159	[NO_SPEECH]
+160	[NO_SPEECH]
+161	[NO_SPEECH]
+162	[NO_SPEECH]
+163	[NO_SPEECH]

@@ -1,0 +1,325 @@
+0	Before, after.
+1	Before, after.
+2	Before, after.
+3	Before, after. Tim mascara super extra bold,
+4	Tim mascara super extra bold,
+5	Tim mascara super extra bold,
+6	Tim mascara super extra bold,
+7	Tim mascara super extra bold, polimizing, lengthening kayak gini.
+8	Tim mascara super extra bold, polimizing, lengthening kayak gini.
+9	polimizing, lengthening kayak gini.
+10	polimizing, lengthening kayak gini.
+11	polimizing, lengthening kayak gini. Atau tim mascara natural,
+12	polimizing, lengthening kayak gini. Atau tim mascara natural,
+13	Atau tim mascara natural,
+14	Atau tim mascara natural,
+15	Atau tim mascara natural, tapi tetap polimizing and lengthening juga.
+16	Atau tim mascara natural, tapi tetap polimizing and lengthening juga.
+17	tapi tetap polimizing and lengthening juga.
+18	tapi tetap polimizing and lengthening juga.
+19	tapi tetap polimizing and lengthening juga.
+20	tapi tetap polimizing and lengthening juga.
+21	tapi tetap polimizing and lengthening juga. Gak usah pake tim-timan.
+22	Gak usah pake tim-timan.
+23	Gak usah pake tim-timan.
+24	Gak usah pake tim-timan. Ini aku cuma pake satu mascara yang sama,
+25	Gak usah pake tim-timan. Ini aku cuma pake satu mascara yang sama,
+26	Ini aku cuma pake satu mascara yang sama,
+27	Ini aku cuma pake satu mascara yang sama,
+28	Ini aku cuma pake satu mascara yang sama,
+29	Ini aku cuma pake satu mascara yang sama, tapi bisa mendapatkan dua hasil yang berbeda seperti ini.
+30	tapi bisa mendapatkan dua hasil yang berbeda seperti ini.
+31	tapi bisa mendapatkan dua hasil yang berbeda seperti ini.
+32	tapi bisa mendapatkan dua hasil yang berbeda seperti ini.
+33	tapi bisa mendapatkan dua hasil yang berbeda seperti ini.
+34	tapi bisa mendapatkan dua hasil yang berbeda seperti ini.
+35	tapi bisa mendapatkan dua hasil yang berbeda seperti ini. Aduh!
+36	tapi bisa mendapatkan dua hasil yang berbeda seperti ini. Aduh!
+37	Aduh!
+38	Aku tetap kagetan ini.
+39	Aku tetap kagetan ini.
+40	Aku tetap kagetan ini.
+41	Aku tetap kagetan ini.
+42	Aku tetap kagetan ini. Sebenernya aku menangis.
+43	Aku tetap kagetan ini. Sebenernya aku menangis.
+44	Sebenernya aku menangis.
+45	Sebenernya aku menangis. Taraaa!
+46	Sebenernya aku menangis. Taraaa!
+47	Taraaa!
+48	Gak ada yang transfer sama sekali, temen-temen.
+49	Gak ada yang transfer sama sekali, temen-temen.
+50	Gak ada yang transfer sama sekali, temen-temen.
+51	Gak ada yang transfer sama sekali, temen-temen.
+52	Gak ada yang transfer sama sekali, temen-temen.
+53	Gak ada yang transfer sama sekali, temen-temen.
+54	Gak ada yang transfer sama sekali, temen-temen. Torture test adalah kewajiban aku pada brand satu ini.
+55	Gak ada yang transfer sama sekali, temen-temen. Torture test adalah kewajiban aku pada brand satu ini.
+56	Torture test adalah kewajiban aku pada brand satu ini.
+57	Torture test adalah kewajiban aku pada brand satu ini.
+58	Torture test adalah kewajiban aku pada brand satu ini.
+59	Torture test adalah kewajiban aku pada brand satu ini.
+60	Torture test adalah kewajiban aku pada brand satu ini.
+61	Torture test adalah kewajiban aku pada brand satu ini.
+62	Torture test adalah kewajiban aku pada brand satu ini.
+63	Torture test adalah kewajiban aku pada brand satu ini. My little girl!
+64	Torture test adalah kewajiban aku pada brand satu ini. My little girl!
+65	My little girl!
+66	My little girl!
+67	[NO_SPEECH]
+68	Mascara!
+69	Mascara!
+70	Mascara!
+71	Setiap aku pake, pasti semua yang nanya,
+72	Setiap aku pake, pasti semua yang nanya,
+73	Setiap aku pake, pasti semua yang nanya,
+74	Setiap aku pake, pasti semua yang nanya,
+75	Setiap aku pake, pasti semua yang nanya,
+76	Setiap aku pake, pasti semua yang nanya,
+77	Setiap aku pake, pasti semua yang nanya, aku pake mascara apa?
+78	Setiap aku pake, pasti semua yang nanya, aku pake mascara apa?
+79	aku pake mascara apa?
+80	aku pake mascara apa? Mascara.
+81	Mascara. Kalian bisa dapetin hasil yang natural
+82	Mascara. Kalian bisa dapetin hasil yang natural
+83	Kalian bisa dapetin hasil yang natural
+84	Kalian bisa dapetin hasil yang natural
+85	Kalian bisa dapetin hasil yang natural
+86	Kalian bisa dapetin hasil yang natural kalau kalian penggunaannya satu layer.
+87	Kalian bisa dapetin hasil yang natural kalau kalian penggunaannya satu layer.
+88	kalau kalian penggunaannya satu layer.
+89	kalau kalian penggunaannya satu layer.
+90	kalau kalian penggunaannya satu layer. Bentuknya itu ada area yang lebih pendek,
+91	kalau kalian penggunaannya satu layer. Bentuknya itu ada area yang lebih pendek,
+92	Bentuknya itu ada area yang lebih pendek,
+93	Bentuknya itu ada area yang lebih pendek,
+94	Bentuknya itu ada area yang lebih pendek,
+95	Bentuknya itu ada area yang lebih pendek,
+96	Bentuknya itu ada area yang lebih pendek, ada area yang lebih panjang.
+97	Bentuknya itu ada area yang lebih pendek, ada area yang lebih panjang.
+98	ada area yang lebih panjang.
+99	ada area yang lebih panjang. Untuk mencakup semua area bulu mata kalian,
+100	ada area yang lebih panjang. Untuk mencakup semua area bulu mata kalian,
+101	Untuk mencakup semua area bulu mata kalian,
+102	Untuk mencakup semua area bulu mata kalian,
+103	Untuk mencakup semua area bulu mata kalian,
+104	Untuk mencakup semua area bulu mata kalian,
+105	Untuk mencakup semua area bulu mata kalian,
+106	Untuk mencakup semua area bulu mata kalian, dia tuh kayak sedikit banget melengkung.
+107	dia tuh kayak sedikit banget melengkung.
+108	dia tuh kayak sedikit banget melengkung.
+109	dia tuh kayak sedikit banget melengkung.
+110	dia tuh kayak sedikit banget melengkung. Karena kalau terlalu melengkung,
+111	dia tuh kayak sedikit banget melengkung. Karena kalau terlalu melengkung,
+112	Karena kalau terlalu melengkung, itu tuh reaksinya.
+113	Karena kalau terlalu melengkung, itu tuh reaksinya.
+114	itu tuh reaksinya. Resiko kotor di kelopak mata.
+115	itu tuh reaksinya. Resiko kotor di kelopak mata.
+116	Resiko kotor di kelopak mata.
+117	Resiko kotor di kelopak mata.
+118	Resiko kotor di kelopak mata. Mau natural finish, pake satu layer aja.
+119	Mau natural finish, pake satu layer aja.
+120	Mau natural finish, pake satu layer aja.
+121	Mau natural finish, pake satu layer aja.
+122	Mau natural finish, pake satu layer aja. Lihat betapa gampangnya aku
+123	Mau natural finish, pake satu layer aja. Lihat betapa gampangnya aku
+124	Lihat betapa gampangnya aku
+125	Lihat betapa gampangnya aku mencakup semua area
+126	Lihat betapa gampangnya aku mencakup semua area
+127	mencakup semua area
+128	mencakup semua area
+129	mencakup semua area sampai ke ujung bulu mata aku, temen-temen.
+130	mencakup semua area sampai ke ujung bulu mata aku, temen-temen.
+131	sampai ke ujung bulu mata aku, temen-temen.
+132	sampai ke ujung bulu mata aku, temen-temen.
+133	sampai ke ujung bulu mata aku, temen-temen.
+134	sampai ke ujung bulu mata aku, temen-temen. Before,
+135	sampai ke ujung bulu mata aku, temen-temen. Before,
+136	Before,
+137	Before, after one layer only.
+138	after one layer only.
+139	after one layer only.
+140	after one layer only.
+141	after one layer only.
+142	after one layer only.
+143	after one layer only. Terasa banget ada volume-nya,
+144	Terasa banget ada volume-nya,
+145	Terasa banget ada volume-nya,
+146	Terasa banget ada volume-nya,
+147	Terasa banget ada volume-nya, ada length-nya,
+148	ada length-nya,
+149	ada length-nya, dan tetap terlihat natural.
+150	ada length-nya, dan tetap terlihat natural.
+151	dan tetap terlihat natural.
+152	dan tetap terlihat natural.
+153	dan tetap terlihat natural. Tidak ada yang kayak kelampi-kelampi,
+154	Tidak ada yang kayak kelampi-kelampi,
+155	Tidak ada yang kayak kelampi-kelampi,
+156	Tidak ada yang kayak kelampi-kelampi,
+157	Tidak ada yang kayak kelampi-kelampi, terpisah dengan indah.
+158	Tidak ada yang kayak kelampi-kelampi, terpisah dengan indah.
+159	terpisah dengan indah. Ini juga hitam, tapi gak yang hitam menyeramkan gitu.
+160	terpisah dengan indah. Ini juga hitam, tapi gak yang hitam menyeramkan gitu.
+161	Ini juga hitam, tapi gak yang hitam menyeramkan gitu.
+162	Ini juga hitam, tapi gak yang hitam menyeramkan gitu.
+163	Ini juga hitam, tapi gak yang hitam menyeramkan gitu.
+164	Ini juga hitam, tapi gak yang hitam menyeramkan gitu.
+165	Ini juga hitam, tapi gak yang hitam menyeramkan gitu.
+166	Ini juga hitam, tapi gak yang hitam menyeramkan gitu. Kita lanjutin ke layer kedua.
+167	Ini juga hitam, tapi gak yang hitam menyeramkan gitu. Kita lanjutin ke layer kedua.
+168	Kita lanjutin ke layer kedua.
+169	Kita lanjutin ke layer kedua.
+170	Kita lanjutin ke layer kedua. Gang!
+171	Kita lanjutin ke layer kedua. Gang! Belum spidery dan gak kelampi,
+172	Gang! Belum spidery dan gak kelampi,
+173	Belum spidery dan gak kelampi,
+174	Belum spidery dan gak kelampi,
+175	Belum spidery dan gak kelampi,
+176	Belum spidery dan gak kelampi,
+177	Belum spidery dan gak kelampi, masih tetap terpisah-pisah.
+178	Belum spidery dan gak kelampi, masih tetap terpisah-pisah.
+179	masih tetap terpisah-pisah.
+180	masih tetap terpisah-pisah. Tapi dia udah mulai menyentuh alis aku.
+181	masih tetap terpisah-pisah. Tapi dia udah mulai menyentuh alis aku.
+182	Tapi dia udah mulai menyentuh alis aku.
+183	Tapi dia udah mulai menyentuh alis aku.
+184	Tapi dia udah mulai menyentuh alis aku.
+185	Tapi dia udah mulai menyentuh alis aku. Gampang banget di-layer.
+186	Gampang banget di-layer.
+187	Gampang banget di-layer. Karena dia bukan tipe mascara dengan formula yang
+188	Gampang banget di-layer. Karena dia bukan tipe mascara dengan formula yang
+189	Karena dia bukan tipe mascara dengan formula yang
+190	Karena dia bukan tipe mascara dengan formula yang
+191	Karena dia bukan tipe mascara dengan formula yang
+192	Karena dia bukan tipe mascara dengan formula yang terlalu keras gitu, kering.
+193	Karena dia bukan tipe mascara dengan formula yang terlalu keras gitu, kering.
+194	terlalu keras gitu, kering.
+195	terlalu keras gitu, kering.
+196	terlalu keras gitu, kering. Tapi juga gak terlalu lembek, jadi gak lengket.
+197	Tapi juga gak terlalu lembek, jadi gak lengket.
+198	Tapi juga gak terlalu lembek, jadi gak lengket.
+199	Tapi juga gak terlalu lembek, jadi gak lengket.
+200	Tapi juga gak terlalu lembek, jadi gak lengket.
+201	Tapi juga gak terlalu lembek, jadi gak lengket. Gue tuh layer ketiga.
+202	Gue tuh layer ketiga.
+203	Gue tuh layer ketiga.
+204	Gue tuh layer ketiga. Karena dia, aku tuh suka mascara yang bisa di-layer
+205	Gue tuh layer ketiga. Karena dia, aku tuh suka mascara yang bisa di-layer
+206	Karena dia, aku tuh suka mascara yang bisa di-layer
+207	Karena dia, aku tuh suka mascara yang bisa di-layer
+208	Karena dia, aku tuh suka mascara yang bisa di-layer
+209	Karena dia, aku tuh suka mascara yang bisa di-layer
+210	Karena dia, aku tuh suka mascara yang bisa di-layer
+211	Karena dia, aku tuh suka mascara yang bisa di-layer sesuka hati kita secara
+212	Karena dia, aku tuh suka mascara yang bisa di-layer sesuka hati kita secara
+213	sesuka hati kita secara
+214	sesuka hati kita secara terus manarus.
+215	sesuka hati kita secara terus manarus.
+216	terus manarus.
+217	terus manarus.
+218	terus manarus.
+219	terus manarus.
+220	terus manarus.
+221	Ngerti gak seshock apa?
+222	Ngerti gak seshock apa?
+223	Ngerti gak seshock apa?
+224	Ngerti gak seshock apa?
+225	Ngerti gak seshock apa?
+226	Ngerti gak seshock apa? Before, after.
+227	Before, after.
+228	Before, after.
+229	Before, after.
+230	Before, after. Sekarang kita lanjutin ke layer kedua.
+231	Sekarang kita lanjutin ke layer kedua. Sekarang kita akan selesain bulu mata bawahnya, oke?
+232	Sekarang kita lanjutin ke layer kedua. Sekarang kita akan selesain bulu mata bawahnya, oke?
+233	Sekarang kita akan selesain bulu mata bawahnya, oke?
+234	Sekarang kita akan selesain bulu mata bawahnya, oke?
+235	Sekarang kita akan selesain bulu mata bawahnya, oke?
+236	Sekarang kita akan selesain bulu mata bawahnya, oke? Oh my God!
+237	Sekarang kita akan selesain bulu mata bawahnya, oke? Oh my God!
+238	Oh my God!
+239	Oh my God!
+240	Oh my God! Bener-bener shock!
+241	Oh my God! Bener-bener shock!
+242	Bener-bener shock!
+243	Bener-bener shock! Aku adalah orang yang selalu mencoba mascara.
+244	Aku adalah orang yang selalu mencoba mascara.
+245	Aku adalah orang yang selalu mencoba mascara.
+246	Aku adalah orang yang selalu mencoba mascara.
+247	Aku adalah orang yang selalu mencoba mascara.
+248	Aku adalah orang yang selalu mencoba mascara. Lebih dari ribuan mascara yang aku coba.
+249	Aku adalah orang yang selalu mencoba mascara. Lebih dari ribuan mascara yang aku coba.
+250	Lebih dari ribuan mascara yang aku coba.
+251	Lebih dari ribuan mascara yang aku coba.
+252	Lebih dari ribuan mascara yang aku coba.
+253	Lebih dari ribuan mascara yang aku coba.
+254	Lebih dari ribuan mascara yang aku coba. Jadi aku bisa
+255	Jadi aku bisa sempurnakan formula
+256	Jadi aku bisa sempurnakan formula
+257	sempurnakan formula
+258	sempurnakan formula
+259	sempurnakan formula tersempurna menurut aku adalah
+260	tersempurna menurut aku adalah
+261	tersempurna menurut aku adalah
+262	tersempurna menurut aku adalah
+263	tersempurna menurut aku adalah mascara dari Mother of Pearl.
+264	mascara dari Mother of Pearl.
+265	mascara dari Mother of Pearl.
+266	mascara dari Mother of Pearl.
+267	mascara dari Mother of Pearl. Aku akan kasih lihat perbedaannya ke kalian.
+268	mascara dari Mother of Pearl. Aku akan kasih lihat perbedaannya ke kalian.
+269	Aku akan kasih lihat perbedaannya ke kalian.
+270	Aku akan kasih lihat perbedaannya ke kalian.
+271	Aku akan kasih lihat perbedaannya ke kalian. Kalau dipake satu layer, dia bener-bener super cantik.
+272	Kalau dipake satu layer, dia bener-bener super cantik.
+273	Kalau dipake satu layer, dia bener-bener super cantik.
+274	Kalau dipake satu layer, dia bener-bener super cantik.
+275	Kalau dipake satu layer, dia bener-bener super cantik.
+276	Kalau dipake satu layer, dia bener-bener super cantik. Lengthening, volumizing, tapi natural.
+277	Kalau dipake satu layer, dia bener-bener super cantik. Lengthening, volumizing, tapi natural.
+278	Lengthening, volumizing, tapi natural.
+279	Lengthening, volumizing, tapi natural.
+280	Lengthening, volumizing, tapi natural.
+281	Lengthening, volumizing, tapi natural. Sesuai request banyak orang.
+282	Sesuai request banyak orang.
+283	Sesuai request banyak orang.
+284	Sesuai request banyak orang. Ini juga sesuai request banyak orang.
+285	Sesuai request banyak orang. Ini juga sesuai request banyak orang.
+286	Ini juga sesuai request banyak orang.
+287	Ini juga sesuai request banyak orang.
+288	Ini juga sesuai request banyak orang. Kalau kalian mau yang sangat extra,
+289	Ini juga sesuai request banyak orang. Kalau kalian mau yang sangat extra,
+290	Kalau kalian mau yang sangat extra,
+291	Kalau kalian mau yang sangat extra, seperti pake false lashes,
+292	Kalau kalian mau yang sangat extra, seperti pake false lashes,
+293	seperti pake false lashes,
+294	seperti pake false lashes, kalian bisa build up sampai up to you guys.
+295	seperti pake false lashes, kalian bisa build up sampai up to you guys.
+296	kalian bisa build up sampai up to you guys.
+297	kalian bisa build up sampai up to you guys.
+298	kalian bisa build up sampai up to you guys.
+299	kalian bisa build up sampai up to you guys. Tapi kalau aku rekomendasiin,
+300	kalian bisa build up sampai up to you guys. Tapi kalau aku rekomendasiin,
+301	Tapi kalau aku rekomendasiin,
+302	Tapi kalau aku rekomendasiin, 3 layer aja udah cukup banget.
+303	Tapi kalau aku rekomendasiin, 3 layer aja udah cukup banget.
+304	3 layer aja udah cukup banget.
+305	3 layer aja udah cukup banget.
+306	3 layer aja udah cukup banget. Ini emang lebih cocok kalau buat lagi natural makeup.
+307	Ini emang lebih cocok kalau buat lagi natural makeup.
+308	Ini emang lebih cocok kalau buat lagi natural makeup.
+309	Ini emang lebih cocok kalau buat lagi natural makeup.
+310	Ini emang lebih cocok kalau buat lagi natural makeup. Tapi kalau lagi bold makeup, bisa sampai jadi kayak gini.
+311	Ini emang lebih cocok kalau buat lagi natural makeup. Tapi kalau lagi bold makeup, bisa sampai jadi kayak gini.
+312	Tapi kalau lagi bold makeup, bisa sampai jadi kayak gini.
+313	Tapi kalau lagi bold makeup, bisa sampai jadi kayak gini.
+314	Tapi kalau lagi bold makeup, bisa sampai jadi kayak gini.
+315	Tapi kalau lagi bold makeup, bisa sampai jadi kayak gini.
+316	Tapi kalau lagi bold makeup, bisa sampai jadi kayak gini. Sekarang saatnya kita
+317	Tapi kalau lagi bold makeup, bisa sampai jadi kayak gini. Sekarang saatnya kita
+318	Sekarang saatnya kita torture test, lanjut part 2.
+319	Sekarang saatnya kita torture test, lanjut part 2.
+320	torture test, lanjut part 2.
+321	torture test, lanjut part 2.
+322	torture test, lanjut part 2.
+323	torture test, lanjut part 2. Taduh!
+324	torture test, lanjut part 2. Taduh!

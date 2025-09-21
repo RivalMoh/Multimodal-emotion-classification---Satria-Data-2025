@@ -1,0 +1,87 @@
+0	Selama ini aku kemana aja
+1	Selama ini aku kemana aja
+2	Selama ini aku kemana aja Dari nemu hidden gel face wash lokal yang bikin cerah instan
+3	Selama ini aku kemana aja Dari nemu hidden gel face wash lokal yang bikin cerah instan
+4	Dari nemu hidden gel face wash lokal yang bikin cerah instan
+5	Dari nemu hidden gel face wash lokal yang bikin cerah instan
+6	Dari nemu hidden gel face wash lokal yang bikin cerah instan
+7	Dari nemu hidden gel face wash lokal yang bikin cerah instan
+8	Dari nemu hidden gel face wash lokal yang bikin cerah instan
+9	Dari nemu hidden gel face wash lokal yang bikin cerah instan
+10	Dari nemu hidden gel face wash lokal yang bikin cerah instan Tiap hari aku tuh kena debu dan polusi
+11	Dari nemu hidden gel face wash lokal yang bikin cerah instan Tiap hari aku tuh kena debu dan polusi
+12	Tiap hari aku tuh kena debu dan polusi
+13	Tiap hari aku tuh kena debu dan polusi
+14	Tiap hari aku tuh kena debu dan polusi
+15	Tiap hari aku tuh kena debu dan polusi Kulit jadi makin kusam dan berminyak
+16	Tiap hari aku tuh kena debu dan polusi Kulit jadi makin kusam dan berminyak
+17	Kulit jadi makin kusam dan berminyak
+18	Kulit jadi makin kusam dan berminyak Jujur aku tuh butuh face wash yang bukan cuman bersihin
+19	Kulit jadi makin kusam dan berminyak Jujur aku tuh butuh face wash yang bukan cuman bersihin
+20	Jujur aku tuh butuh face wash yang bukan cuman bersihin
+21	Jujur aku tuh butuh face wash yang bukan cuman bersihin
+22	Jujur aku tuh butuh face wash yang bukan cuman bersihin
+23	Jujur aku tuh butuh face wash yang bukan cuman bersihin
+24	Jujur aku tuh butuh face wash yang bukan cuman bersihin Tapi juga ngelindungin dan biasanya aku pake brand luar
+25	Jujur aku tuh butuh face wash yang bukan cuman bersihin Tapi juga ngelindungin dan biasanya aku pake brand luar
+26	Tapi juga ngelindungin dan biasanya aku pake brand luar
+27	Tapi juga ngelindungin dan biasanya aku pake brand luar
+28	Tapi juga ngelindungin dan biasanya aku pake brand luar
+29	Tapi juga ngelindungin dan biasanya aku pake brand luar Tapi pas nemu brand lokal ini
+30	Tapi juga ngelindungin dan biasanya aku pake brand luar Tapi pas nemu brand lokal ini
+31	Tapi pas nemu brand lokal ini
+32	Tapi pas nemu brand lokal ini Gak bercanda beda banget sih hasilnya
+33	Tapi pas nemu brand lokal ini Gak bercanda beda banget sih hasilnya
+34	Gak bercanda beda banget sih hasilnya
+35	Gak bercanda beda banget sih hasilnya
+36	Gak bercanda beda banget sih hasilnya
+37	Gak bercanda beda banget sih hasilnya Nih aku tunjukin
+38	Gak bercanda beda banget sih hasilnya Nih aku tunjukin
+39	Nih aku tunjukin Aku mau pake dulu ya
+40	Nih aku tunjukin Aku mau pake dulu ya
+41	Aku mau pake dulu ya Biwardah C Defense Vitamin C plus Panthenol
+42	Aku mau pake dulu ya Biwardah C Defense Vitamin C plus Panthenol
+43	Biwardah C Defense Vitamin C plus Panthenol
+44	Biwardah C Defense Vitamin C plus Panthenol
+45	Biwardah C Defense Vitamin C plus Panthenol
+46	Biwardah C Defense Vitamin C plus Panthenol
+47	Biwardah C Defense Vitamin C plus Panthenol Dia ini gentle creamy wash
+48	Biwardah C Defense Vitamin C plus Panthenol Dia ini gentle creamy wash
+49	Dia ini gentle creamy wash
+50	Dia ini gentle creamy wash Yang bisa ngelindungi kulit dari polusi plus cerahin kulit
+51	Dia ini gentle creamy wash Yang bisa ngelindungi kulit dari polusi plus cerahin kulit
+52	Yang bisa ngelindungi kulit dari polusi plus cerahin kulit
+53	Yang bisa ngelindungi kulit dari polusi plus cerahin kulit
+54	Yang bisa ngelindungi kulit dari polusi plus cerahin kulit
+55	Yang bisa ngelindungi kulit dari polusi plus cerahin kulit
+56	Yang bisa ngelindungi kulit dari polusi plus cerahin kulit Gak ada sesuai kebutuhan aku
+57	Yang bisa ngelindungi kulit dari polusi plus cerahin kulit Gak ada sesuai kebutuhan aku
+58	Gak ada sesuai kebutuhan aku
+59	Gak ada sesuai kebutuhan aku
+60	Gak ada sesuai kebutuhan aku Nah ini udah aku bilas
+61	Gak ada sesuai kebutuhan aku Nah ini udah aku bilas
+62	Nah ini udah aku bilas
+63	Nah ini udah aku bilas Liat deh
+64	Nah ini udah aku bilas Liat deh Gak cuman deep purifying
+65	Liat deh Gak cuman deep purifying
+66	Gak cuman deep purifying Tapi langsung kerasa segar dan lembab
+67	Gak cuman deep purifying Tapi langsung kerasa segar dan lembab
+68	Tapi langsung kerasa segar dan lembab
+69	Tapi langsung kerasa segar dan lembab
+70	Tapi langsung kerasa segar dan lembab Dan yes ini gak bikin kulit kering ketarik
+71	Tapi langsung kerasa segar dan lembab Dan yes ini gak bikin kulit kering ketarik
+72	Dan yes ini gak bikin kulit kering ketarik
+73	Dan yes ini gak bikin kulit kering ketarik
+74	Dan yes ini gak bikin kulit kering ketarik
+75	Dan yes ini gak bikin kulit kering ketarik Buat kamu yang lagi struggle sama kulit kusam
+76	Dan yes ini gak bikin kulit kering ketarik Buat kamu yang lagi struggle sama kulit kusam
+77	Buat kamu yang lagi struggle sama kulit kusam
+78	Buat kamu yang lagi struggle sama kulit kusam
+79	Buat kamu yang lagi struggle sama kulit kusam This is your sign
+80	Buat kamu yang lagi struggle sama kulit kusam This is your sign
+81	This is your sign Upgrade face wash kamu
+82	This is your sign Upgrade face wash kamu
+83	Upgrade face wash kamu
+84	Upgrade face wash kamu
+85	Upgrade face wash kamu
+86	[NO_SPEECH]

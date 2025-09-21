@@ -1,0 +1,53 @@
+0	Hah? Ini skincare dikasih es batu?
+1	Hah? Ini skincare dikasih es batu?
+2	Hah? Ini skincare dikasih es batu? Es batunya mah bohongan.
+3	Hah? Ini skincare dikasih es batu? Es batunya mah bohongan.
+4	Hah? Ini skincare dikasih es batu? Es batunya mah bohongan.
+5	Es batunya mah bohongan. Tapi Wardah Simradians 399 beneran bisa bikin dingin kulit kamu.
+6	Es batunya mah bohongan. Tapi Wardah Simradians 399 beneran bisa bikin dingin kulit kamu.
+7	Tapi Wardah Simradians 399 beneran bisa bikin dingin kulit kamu.
+8	Tapi Wardah Simradians 399 beneran bisa bikin dingin kulit kamu.
+9	Tapi Wardah Simradians 399 beneran bisa bikin dingin kulit kamu.
+10	Tapi Wardah Simradians 399 beneran bisa bikin dingin kulit kamu.
+11	Tapi Wardah Simradians 399 beneran bisa bikin dingin kulit kamu.
+12	Tapi Wardah Simradians 399 beneran bisa bikin dingin kulit kamu.
+13	Tapi Wardah Simradians 399 beneran bisa bikin dingin kulit kamu.
+14	Tapi Wardah Simradians 399 beneran bisa bikin dingin kulit kamu. Main deh sini ke Jakarta X Beauty tanggal 3-6 Juli.
+15	Tapi Wardah Simradians 399 beneran bisa bikin dingin kulit kamu. Main deh sini ke Jakarta X Beauty tanggal 3-6 Juli.
+16	Main deh sini ke Jakarta X Beauty tanggal 3-6 Juli.
+17	Main deh sini ke Jakarta X Beauty tanggal 3-6 Juli.
+18	Main deh sini ke Jakarta X Beauty tanggal 3-6 Juli.
+19	Main deh sini ke Jakarta X Beauty tanggal 3-6 Juli.
+20	Main deh sini ke Jakarta X Beauty tanggal 3-6 Juli.
+21	Main deh sini ke Jakarta X Beauty tanggal 3-6 Juli. Karena pastinya ada good deal dari Wardah kayak yang satu ini nih.
+22	Main deh sini ke Jakarta X Beauty tanggal 3-6 Juli. Karena pastinya ada good deal dari Wardah kayak yang satu ini nih.
+23	Karena pastinya ada good deal dari Wardah kayak yang satu ini nih.
+24	Karena pastinya ada good deal dari Wardah kayak yang satu ini nih.
+25	Karena pastinya ada good deal dari Wardah kayak yang satu ini nih.
+26	Karena pastinya ada good deal dari Wardah kayak yang satu ini nih. Cuma 100 ribuan dapet 4 micellar water viral.
+27	Karena pastinya ada good deal dari Wardah kayak yang satu ini nih. Cuma 100 ribuan dapet 4 micellar water viral.
+28	Cuma 100 ribuan dapet 4 micellar water viral.
+29	Cuma 100 ribuan dapet 4 micellar water viral.
+30	Cuma 100 ribuan dapet 4 micellar water viral.
+31	Cuma 100 ribuan dapet 4 micellar water viral.
+32	Cuma 100 ribuan dapet 4 micellar water viral. Dan ini nih skincare dingin yang aku maksud, aku juga bawa pulang.
+33	Dan ini nih skincare dingin yang aku maksud, aku juga bawa pulang.
+34	Dan ini nih skincare dingin yang aku maksud, aku juga bawa pulang.
+35	Dan ini nih skincare dingin yang aku maksud, aku juga bawa pulang.
+36	Dan ini nih skincare dingin yang aku maksud, aku juga bawa pulang.
+37	Dan ini nih skincare dingin yang aku maksud, aku juga bawa pulang.
+38	Dan ini nih skincare dingin yang aku maksud, aku juga bawa pulang.
+39	Dan ini nih skincare dingin yang aku maksud, aku juga bawa pulang. Kalau kamu ke JXB, jangan lupa mampir ke sini.
+40	Dan ini nih skincare dingin yang aku maksud, aku juga bawa pulang. Kalau kamu ke JXB, jangan lupa mampir ke sini.
+41	Kalau kamu ke JXB, jangan lupa mampir ke sini.
+42	Kalau kamu ke JXB, jangan lupa mampir ke sini.
+43	Kalau kamu ke JXB, jangan lupa mampir ke sini. Karena setiap pembelian produk Simradians, kamu bisa dapet free photo booth.
+44	Kalau kamu ke JXB, jangan lupa mampir ke sini. Karena setiap pembelian produk Simradians, kamu bisa dapet free photo booth.
+45	Karena setiap pembelian produk Simradians, kamu bisa dapet free photo booth.
+46	Karena setiap pembelian produk Simradians, kamu bisa dapet free photo booth.
+47	Karena setiap pembelian produk Simradians, kamu bisa dapet free photo booth.
+48	Karena setiap pembelian produk Simradians, kamu bisa dapet free photo booth.
+49	Karena setiap pembelian produk Simradians, kamu bisa dapet free photo booth.
+50	Karena setiap pembelian produk Simradians, kamu bisa dapet free photo booth.
+51	Karena setiap pembelian produk Simradians, kamu bisa dapet free photo booth.
+52	[NO_SPEECH]

@@ -1,0 +1,70 @@
+0	Jadi menurut gua asing ini juga agak sedikit tukang nge-fear sama tukang pom-pom menurut gua.
+1	Jadi menurut gua asing ini juga agak sedikit tukang nge-fear sama tukang pom-pom menurut gua.
+2	Jadi menurut gua asing ini juga agak sedikit tukang nge-fear sama tukang pom-pom menurut gua.
+3	Jadi menurut gua asing ini juga agak sedikit tukang nge-fear sama tukang pom-pom menurut gua.
+4	Jadi menurut gua asing ini juga agak sedikit tukang nge-fear sama tukang pom-pom menurut gua.
+5	Jadi menurut gua asing ini juga agak sedikit tukang nge-fear sama tukang pom-pom menurut gua.
+6	Jadi menurut gua asing ini juga agak sedikit tukang nge-fear sama tukang pom-pom menurut gua.
+7	Jadi menurut gua asing ini juga agak sedikit tukang nge-fear sama tukang pom-pom menurut gua.
+8	Jadi menurut gua asing ini juga agak sedikit tukang nge-fear sama tukang pom-pom menurut gua.
+9	Jadi menurut gua asing ini juga agak sedikit tukang nge-fear sama tukang pom-pom menurut gua. Kalo dia lagi jelek gitu dia bilang, ini jelek semua crash.
+10	Jadi menurut gua asing ini juga agak sedikit tukang nge-fear sama tukang pom-pom menurut gua. Kalo dia lagi jelek gitu dia bilang, ini jelek semua crash.
+11	Kalo dia lagi jelek gitu dia bilang, ini jelek semua crash.
+12	Kalo dia lagi jelek gitu dia bilang, ini jelek semua crash.
+13	Kalo dia lagi jelek gitu dia bilang, ini jelek semua crash.
+14	Kalo dia lagi jelek gitu dia bilang, ini jelek semua crash.
+15	Kalo dia lagi jelek gitu dia bilang, ini jelek semua crash. Terus dia bisa beli lagi terus dia bilang bagus.
+16	Kalo dia lagi jelek gitu dia bilang, ini jelek semua crash. Terus dia bisa beli lagi terus dia bilang bagus.
+17	Terus dia bisa beli lagi terus dia bilang bagus.
+18	Terus dia bisa beli lagi terus dia bilang bagus.
+19	Terus dia bisa beli lagi terus dia bilang bagus.
+20	Terus dia bisa beli lagi terus dia bilang bagus. Dia belum bakal, gua pernah lakukan studinya.
+21	Dia belum bakal, gua pernah lakukan studinya.
+22	Dia belum bakal, gua pernah lakukan studinya.
+23	Dia belum bakal, gua pernah lakukan studinya. Gua ngedata yang dari semuanya lah.
+24	Dia belum bakal, gua pernah lakukan studinya. Gua ngedata yang dari semuanya lah.
+25	Gua ngedata yang dari semuanya lah.
+26	Gua ngedata yang dari semuanya lah.
+27	Gua ngedata yang dari semuanya lah. JP Morgan, Barclays lah, Bank of America, Wells Fargo segala macem ya.
+28	Gua ngedata yang dari semuanya lah. JP Morgan, Barclays lah, Bank of America, Wells Fargo segala macem ya.
+29	JP Morgan, Barclays lah, Bank of America, Wells Fargo segala macem ya.
+30	JP Morgan, Barclays lah, Bank of America, Wells Fargo segala macem ya.
+31	JP Morgan, Barclays lah, Bank of America, Wells Fargo segala macem ya.
+32	JP Morgan, Barclays lah, Bank of America, Wells Fargo segala macem ya.
+33	JP Morgan, Barclays lah, Bank of America, Wells Fargo segala macem ya.
+34	JP Morgan, Barclays lah, Bank of America, Wells Fargo segala macem ya.
+35	JP Morgan, Barclays lah, Bank of America, Wells Fargo segala macem ya. Mereka bilang akan jadi resesi atau apa.
+36	Mereka bilang akan jadi resesi atau apa.
+37	Mereka bilang akan jadi resesi atau apa.
+38	Mereka bilang akan jadi resesi atau apa.
+39	Mereka bilang akan jadi resesi atau apa.
+40	Mereka bilang akan jadi resesi atau apa. Itu gak kejadian.
+41	Mereka bilang akan jadi resesi atau apa. Itu gak kejadian.
+42	Itu gak kejadian. 80% itu salah.
+43	Itu gak kejadian. 80% itu salah.
+44	80% itu salah. Iya.
+45	80% itu salah. Iya. Jadi dia butuh nge-fear buat dapet barang.
+46	Iya. Jadi dia butuh nge-fear buat dapet barang.
+47	Jadi dia butuh nge-fear buat dapet barang.
+48	Jadi dia butuh nge-fear buat dapet barang.
+49	Jadi dia butuh nge-fear buat dapet barang.
+50	Jadi dia butuh nge-fear buat dapet barang. Lalu dia butuh kasih euforia buat naik.
+51	Jadi dia butuh nge-fear buat dapet barang. Lalu dia butuh kasih euforia buat naik.
+52	Lalu dia butuh kasih euforia buat naik.
+53	Lalu dia butuh kasih euforia buat naik.
+54	Lalu dia butuh kasih euforia buat naik.
+55	Lalu dia butuh kasih euforia buat naik. Dia jadi benefit.
+56	Lalu dia butuh kasih euforia buat naik. Dia jadi benefit.
+57	Dia jadi benefit. Nah itu baru influencer sejati bro.
+58	Dia jadi benefit. Nah itu baru influencer sejati bro.
+59	Nah itu baru influencer sejati bro.
+60	Nah itu baru influencer sejati bro.
+61	Nah itu baru influencer sejati bro.
+62	Nah itu baru influencer sejati bro.
+63	[NO_SPEECH]
+64	[NO_SPEECH]
+65	[NO_SPEECH]
+66	[NO_SPEECH]
+67	[NO_SPEECH]
+68	[NO_SPEECH]
+69	[NO_SPEECH]

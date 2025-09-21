@@ -1,0 +1,121 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	kita harus menghiasi Iya yang mana nih yang mana nih kita rasain apa nih
+7	kita harus menghiasi Iya yang mana nih yang mana nih kita rasain apa nih
+8	kita harus menghiasi Iya yang mana nih yang mana nih kita rasain apa nih
+9	kita harus menghiasi Iya yang mana nih yang mana nih kita rasain apa nih
+10	kita harus menghiasi Iya yang mana nih yang mana nih kita rasain apa nih
+11	kita harus menghiasi Iya yang mana nih yang mana nih kita rasain apa nih
+12	kita harus menghiasi Iya yang mana nih yang mana nih kita rasain apa nih
+13	kita harus menghiasi Iya yang mana nih yang mana nih kita rasain apa nih
+14	kita harus menghiasi Iya yang mana nih yang mana nih kita rasain apa nih
+15	kita harus menghiasi Iya yang mana nih yang mana nih kita rasain apa nih
+16	kita harus menghiasi Iya yang mana nih yang mana nih kita rasain apa nih
+17	kita harus menghiasi Iya yang mana nih yang mana nih kita rasain apa nih kak by the way apakah membawa produk dari Wardah
+18	kita harus menghiasi Iya yang mana nih yang mana nih kita rasain apa nih kak by the way apakah membawa produk dari Wardah
+19	kak by the way apakah membawa produk dari Wardah
+20	kak by the way apakah membawa produk dari Wardah
+21	kak by the way apakah membawa produk dari Wardah
+22	kak by the way apakah membawa produk dari Wardah
+23	kak by the way apakah membawa produk dari Wardah
+24	kak by the way apakah membawa produk dari Wardah
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	karena kakaknya udah bawa lip produk dari Wardah
+34	karena kakaknya udah bawa lip produk dari Wardah
+35	karena kakaknya udah bawa lip produk dari Wardah
+36	karena kakaknya udah bawa lip produk dari Wardah
+37	karena kakaknya udah bawa lip produk dari Wardah
+38	karena kakaknya udah bawa lip produk dari Wardah
+39	karena kakaknya udah bawa lip produk dari Wardah
+40	karena kakaknya udah bawa lip produk dari Wardah
+41	karena kakaknya udah bawa lip produk dari Wardah betul pengen coba kita harus nyari mangsanya cantik-cantik biasanya
+42	karena kakaknya udah bawa lip produk dari Wardah betul pengen coba kita harus nyari mangsanya cantik-cantik biasanya
+43	betul pengen coba kita harus nyari mangsanya cantik-cantik biasanya
+44	betul pengen coba kita harus nyari mangsanya cantik-cantik biasanya
+45	betul pengen coba kita harus nyari mangsanya cantik-cantik biasanya
+46	betul pengen coba kita harus nyari mangsanya cantik-cantik biasanya
+47	betul pengen coba kita harus nyari mangsanya cantik-cantik biasanya
+48	betul pengen coba kita harus nyari mangsanya cantik-cantik biasanya
+49	betul pengen coba kita harus nyari mangsanya cantik-cantik biasanya
+50	betul pengen coba kita harus nyari mangsanya cantik-cantik biasanya
+51	betul pengen coba kita harus nyari mangsanya cantik-cantik biasanya
+52	betul pengen coba kita harus nyari mangsanya cantik-cantik biasanya
+53	betul pengen coba kita harus nyari mangsanya cantik-cantik biasanya
+54	betul pengen coba kita harus nyari mangsanya cantik-cantik biasanya bawa lagi Razia
+55	betul pengen coba kita harus nyari mangsanya cantik-cantik biasanya bawa lagi Razia
+56	bawa lagi Razia
+57	bawa lagi Razia
+58	bawa lagi Razia
+59	bawa lagi Razia
+60	bawa lagi Razia
+61	bawa lagi Razia
+62	bawa lagi Razia
+63	bawa lagi Razia
+64	bawa lagi Razia
+65	bawa lagi Razia
+66	bawa lagi Razia
+67	bawa lagi Razia
+68	[NO_SPEECH]
+69	[NO_SPEECH]
+70	[NO_SPEECH]
+71	[NO_SPEECH]
+72	kamu kedepan-depan bisa-bisanya enggak bawa Wardah ya ini muka-muka orang yang ketilang
+73	kamu kedepan-depan bisa-bisanya enggak bawa Wardah ya ini muka-muka orang yang ketilang
+74	kamu kedepan-depan bisa-bisanya enggak bawa Wardah ya ini muka-muka orang yang ketilang
+75	kamu kedepan-depan bisa-bisanya enggak bawa Wardah ya ini muka-muka orang yang ketilang
+76	kamu kedepan-depan bisa-bisanya enggak bawa Wardah ya ini muka-muka orang yang ketilang
+77	kamu kedepan-depan bisa-bisanya enggak bawa Wardah ya ini muka-muka orang yang ketilang
+78	kamu kedepan-depan bisa-bisanya enggak bawa Wardah ya ini muka-muka orang yang ketilang
+79	kamu kedepan-depan bisa-bisanya enggak bawa Wardah ya ini muka-muka orang yang ketilang
+80	kamu kedepan-depan bisa-bisanya enggak bawa Wardah ya ini muka-muka orang yang ketilang
+81	kamu kedepan-depan bisa-bisanya enggak bawa Wardah ya ini muka-muka orang yang ketilang
+82	kamu kedepan-depan bisa-bisanya enggak bawa Wardah ya ini muka-muka orang yang ketilang
+83	kamu kedepan-depan bisa-bisanya enggak bawa Wardah ya ini muka-muka orang yang ketilang
+84	kamu kedepan-depan bisa-bisanya enggak bawa Wardah ya ini muka-muka orang yang ketilang
+85	kamu kedepan-depan bisa-bisanya enggak bawa Wardah ya ini muka-muka orang yang ketilang
+86	kamu kedepan-depan bisa-bisanya enggak bawa Wardah ya ini muka-muka orang yang ketilang
+87	kamu kedepan-depan bisa-bisanya enggak bawa Wardah ya ini muka-muka orang yang ketilang kita ya sudah kecantikan hidup produk lipstick dari Wardah sambil kegiatan terlihat muka-muka
+88	kamu kedepan-depan bisa-bisanya enggak bawa Wardah ya ini muka-muka orang yang ketilang kita ya sudah kecantikan hidup produk lipstick dari Wardah sambil kegiatan terlihat muka-muka
+89	kita ya sudah kecantikan hidup produk lipstick dari Wardah sambil kegiatan terlihat muka-muka
+90	kita ya sudah kecantikan hidup produk lipstick dari Wardah sambil kegiatan terlihat muka-muka
+91	kita ya sudah kecantikan hidup produk lipstick dari Wardah sambil kegiatan terlihat muka-muka
+92	kita ya sudah kecantikan hidup produk lipstick dari Wardah sambil kegiatan terlihat muka-muka
+93	kita ya sudah kecantikan hidup produk lipstick dari Wardah sambil kegiatan terlihat muka-muka
+94	kita ya sudah kecantikan hidup produk lipstick dari Wardah sambil kegiatan terlihat muka-muka
+95	kita ya sudah kecantikan hidup produk lipstick dari Wardah sambil kegiatan terlihat muka-muka
+96	kita ya sudah kecantikan hidup produk lipstick dari Wardah sambil kegiatan terlihat muka-muka
+97	kita ya sudah kecantikan hidup produk lipstick dari Wardah sambil kegiatan terlihat muka-muka
+98	kita ya sudah kecantikan hidup produk lipstick dari Wardah sambil kegiatan terlihat muka-muka
+99	kita ya sudah kecantikan hidup produk lipstick dari Wardah sambil kegiatan terlihat muka-muka menyesal
+100	kita ya sudah kecantikan hidup produk lipstick dari Wardah sambil kegiatan terlihat muka-muka menyesal
+101	menyesal sih sekian Razia kita hari ini tapi kalian harus tetap war pada jangan lupa
+102	menyesal sih sekian Razia kita hari ini tapi kalian harus tetap war pada jangan lupa
+103	sih sekian Razia kita hari ini tapi kalian harus tetap war pada jangan lupa
+104	sih sekian Razia kita hari ini tapi kalian harus tetap war pada jangan lupa
+105	sih sekian Razia kita hari ini tapi kalian harus tetap war pada jangan lupa
+106	sih sekian Razia kita hari ini tapi kalian harus tetap war pada jangan lupa
+107	sih sekian Razia kita hari ini tapi kalian harus tetap war pada jangan lupa
+108	sih sekian Razia kita hari ini tapi kalian harus tetap war pada jangan lupa
+109	sih sekian Razia kita hari ini tapi kalian harus tetap war pada jangan lupa
+110	sih sekian Razia kita hari ini tapi kalian harus tetap war pada jangan lupa
+111	sih sekian Razia kita hari ini tapi kalian harus tetap war pada jangan lupa bahwa lipisnya Wardah kita bakal empat roli mendadak siapkan Wardah kalian
+112	sih sekian Razia kita hari ini tapi kalian harus tetap war pada jangan lupa bahwa lipisnya Wardah kita bakal empat roli mendadak siapkan Wardah kalian
+113	bahwa lipisnya Wardah kita bakal empat roli mendadak siapkan Wardah kalian
+114	bahwa lipisnya Wardah kita bakal empat roli mendadak siapkan Wardah kalian
+115	bahwa lipisnya Wardah kita bakal empat roli mendadak siapkan Wardah kalian
+116	bahwa lipisnya Wardah kita bakal empat roli mendadak siapkan Wardah kalian
+117	bahwa lipisnya Wardah kita bakal empat roli mendadak siapkan Wardah kalian
+118	bahwa lipisnya Wardah kita bakal empat roli mendadak siapkan Wardah kalian
+119	bahwa lipisnya Wardah kita bakal empat roli mendadak siapkan Wardah kalian
+120	[NO_SPEECH]

@@ -1,0 +1,184 @@
+0	Ini adalah smartphone paling tipis di dunia
+1	Ini adalah smartphone paling tipis di dunia
+2	Ini adalah smartphone paling tipis di dunia
+3	Ini adalah smartphone paling tipis di dunia Datang dari OPPO
+4	Ini adalah smartphone paling tipis di dunia Datang dari OPPO
+5	Datang dari OPPO Ini adalah OPPO Find N5
+6	Datang dari OPPO Ini adalah OPPO Find N5
+7	Ini adalah OPPO Find N5
+8	Ini adalah OPPO Find N5 Pas pertama pegang aja, gue udah penasaran sih sebetulnya
+9	Ini adalah OPPO Find N5 Pas pertama pegang aja, gue udah penasaran sih sebetulnya
+10	Pas pertama pegang aja, gue udah penasaran sih sebetulnya
+11	Pas pertama pegang aja, gue udah penasaran sih sebetulnya
+12	Pas pertama pegang aja, gue udah penasaran sih sebetulnya
+13	Pas pertama pegang aja, gue udah penasaran sih sebetulnya Kok bisa setipis ini ya?
+14	Pas pertama pegang aja, gue udah penasaran sih sebetulnya Kok bisa setipis ini ya?
+15	Kok bisa setipis ini ya?
+16	Kok bisa setipis ini ya?
+17	Kok bisa setipis ini ya? Dalemannya kayak gimana ya?
+18	Dalemannya kayak gimana ya?
+19	Dalemannya kayak gimana ya? Kali ini saya tertarik untuk mengunjungi OPPO Experience Store
+20	Dalemannya kayak gimana ya? Kali ini saya tertarik untuk mengunjungi OPPO Experience Store
+21	Kali ini saya tertarik untuk mengunjungi OPPO Experience Store
+22	Kali ini saya tertarik untuk mengunjungi OPPO Experience Store
+23	Kali ini saya tertarik untuk mengunjungi OPPO Experience Store
+24	Kali ini saya tertarik untuk mengunjungi OPPO Experience Store
+25	Kali ini saya tertarik untuk mengunjungi OPPO Experience Store Buat menyaksikan langsung proses teardown perdana
+26	Kali ini saya tertarik untuk mengunjungi OPPO Experience Store Buat menyaksikan langsung proses teardown perdana
+27	Buat menyaksikan langsung proses teardown perdana
+28	Buat menyaksikan langsung proses teardown perdana
+29	Buat menyaksikan langsung proses teardown perdana
+30	Buat menyaksikan langsung proses teardown perdana OPPO Find N5 di Indonesia
+31	Buat menyaksikan langsung proses teardown perdana OPPO Find N5 di Indonesia
+32	OPPO Find N5 di Indonesia
+33	OPPO Find N5 di Indonesia
+34	OPPO Find N5 di Indonesia Lokasinya di Margonda City Mall
+35	OPPO Find N5 di Indonesia Lokasinya di Margonda City Mall
+36	Lokasinya di Margonda City Mall
+37	Lokasinya di Margonda City Mall
+38	Lokasinya di Margonda City Mall Disini ada service center-nya OPPO yang ada di dalam store-nya mereka
+39	Lokasinya di Margonda City Mall Disini ada service center-nya OPPO yang ada di dalam store-nya mereka
+40	Disini ada service center-nya OPPO yang ada di dalam store-nya mereka
+41	Disini ada service center-nya OPPO yang ada di dalam store-nya mereka
+42	Disini ada service center-nya OPPO yang ada di dalam store-nya mereka
+43	Disini ada service center-nya OPPO yang ada di dalam store-nya mereka
+44	Disini ada service center-nya OPPO yang ada di dalam store-nya mereka Tempatnya juga nyaman dan saya juga disambut dengan staff-staffnya yang profesional
+45	Disini ada service center-nya OPPO yang ada di dalam store-nya mereka Tempatnya juga nyaman dan saya juga disambut dengan staff-staffnya yang profesional
+46	Tempatnya juga nyaman dan saya juga disambut dengan staff-staffnya yang profesional
+47	Tempatnya juga nyaman dan saya juga disambut dengan staff-staffnya yang profesional
+48	Tempatnya juga nyaman dan saya juga disambut dengan staff-staffnya yang profesional
+49	Tempatnya juga nyaman dan saya juga disambut dengan staff-staffnya yang profesional
+50	Tempatnya juga nyaman dan saya juga disambut dengan staff-staffnya yang profesional
+51	Tempatnya juga nyaman dan saya juga disambut dengan staff-staffnya yang profesional Nah, langsung aja kita lihat teardown-nya
+52	Tempatnya juga nyaman dan saya juga disambut dengan staff-staffnya yang profesional Nah, langsung aja kita lihat teardown-nya
+53	Nah, langsung aja kita lihat teardown-nya
+54	Nah, langsung aja kita lihat teardown-nya
+55	Nah, langsung aja kita lihat teardown-nya Kelihatan sih, engine-nya OPPO ini udah lancar banget bongkarnya
+56	Nah, langsung aja kita lihat teardown-nya Kelihatan sih, engine-nya OPPO ini udah lancar banget bongkarnya
+57	Kelihatan sih, engine-nya OPPO ini udah lancar banget bongkarnya
+58	Kelihatan sih, engine-nya OPPO ini udah lancar banget bongkarnya
+59	Kelihatan sih, engine-nya OPPO ini udah lancar banget bongkarnya Skill khusus ini loh
+60	Kelihatan sih, engine-nya OPPO ini udah lancar banget bongkarnya Skill khusus ini loh
+61	Skill khusus ini loh Kalau nggak di-training dengan bener, sulit bongkar beginian tanpa ada kerusakan
+62	Skill khusus ini loh Kalau nggak di-training dengan bener, sulit bongkar beginian tanpa ada kerusakan
+63	Kalau nggak di-training dengan bener, sulit bongkar beginian tanpa ada kerusakan
+64	Kalau nggak di-training dengan bener, sulit bongkar beginian tanpa ada kerusakan
+65	Kalau nggak di-training dengan bener, sulit bongkar beginian tanpa ada kerusakan
+66	Kalau nggak di-training dengan bener, sulit bongkar beginian tanpa ada kerusakan
+67	Kalau nggak di-training dengan bener, sulit bongkar beginian tanpa ada kerusakan
+68	Kalau nggak di-training dengan bener, sulit bongkar beginian tanpa ada kerusakan Wah, ternyata seru juga ya
+69	Kalau nggak di-training dengan bener, sulit bongkar beginian tanpa ada kerusakan Wah, ternyata seru juga ya
+70	Wah, ternyata seru juga ya
+71	Wah, ternyata seru juga ya Bisa lihat daleman teknologi yang canggih seperti ini
+72	Wah, ternyata seru juga ya Bisa lihat daleman teknologi yang canggih seperti ini
+73	Bisa lihat daleman teknologi yang canggih seperti ini
+74	Bisa lihat daleman teknologi yang canggih seperti ini
+75	Bisa lihat daleman teknologi yang canggih seperti ini Selain bisa lihat langsung isi dalam OPPO Find N5
+76	Bisa lihat daleman teknologi yang canggih seperti ini Selain bisa lihat langsung isi dalam OPPO Find N5
+77	Selain bisa lihat langsung isi dalam OPPO Find N5
+78	Selain bisa lihat langsung isi dalam OPPO Find N5
+79	Selain bisa lihat langsung isi dalam OPPO Find N5
+80	Selain bisa lihat langsung isi dalam OPPO Find N5
+81	Selain bisa lihat langsung isi dalam OPPO Find N5 Saya juga dapat minuman gratis, screen protector gratis, dan bahkan sedikit hadiah
+82	Selain bisa lihat langsung isi dalam OPPO Find N5 Saya juga dapat minuman gratis, screen protector gratis, dan bahkan sedikit hadiah
+83	Saya juga dapat minuman gratis, screen protector gratis, dan bahkan sedikit hadiah
+84	Saya juga dapat minuman gratis, screen protector gratis, dan bahkan sedikit hadiah
+85	Saya juga dapat minuman gratis, screen protector gratis, dan bahkan sedikit hadiah
+86	Saya juga dapat minuman gratis, screen protector gratis, dan bahkan sedikit hadiah
+87	Saya juga dapat minuman gratis, screen protector gratis, dan bahkan sedikit hadiah
+88	Saya juga dapat minuman gratis, screen protector gratis, dan bahkan sedikit hadiah
+89	Saya juga dapat minuman gratis, screen protector gratis, dan bahkan sedikit hadiah Sebagai pengguna OPPO Find N5
+90	Saya juga dapat minuman gratis, screen protector gratis, dan bahkan sedikit hadiah Sebagai pengguna OPPO Find N5
+91	Sebagai pengguna OPPO Find N5
+92	Sebagai pengguna OPPO Find N5
+93	Sebagai pengguna OPPO Find N5 Kita bisa dapetin service dan benefit khusus di service center OPPO ini
+94	Sebagai pengguna OPPO Find N5 Kita bisa dapetin service dan benefit khusus di service center OPPO ini
+95	Kita bisa dapetin service dan benefit khusus di service center OPPO ini
+96	Kita bisa dapetin service dan benefit khusus di service center OPPO ini
+97	Kita bisa dapetin service dan benefit khusus di service center OPPO ini
+98	Kita bisa dapetin service dan benefit khusus di service center OPPO ini
+99	Kita bisa dapetin service dan benefit khusus di service center OPPO ini Misalnya, OPPO Care
+100	Kita bisa dapetin service dan benefit khusus di service center OPPO ini Misalnya, OPPO Care
+101	Misalnya, OPPO Care
+102	Misalnya, OPPO Care Kita jadi bisa ganti layar gratis kalau misalnya rusak
+103	Misalnya, OPPO Care Kita jadi bisa ganti layar gratis kalau misalnya rusak
+104	Kita jadi bisa ganti layar gratis kalau misalnya rusak
+105	Kita jadi bisa ganti layar gratis kalau misalnya rusak
+106	Kita jadi bisa ganti layar gratis kalau misalnya rusak
+107	Kita jadi bisa ganti layar gratis kalau misalnya rusak Door-to-door service
+108	Kita jadi bisa ganti layar gratis kalau misalnya rusak Door-to-door service Jadi kalau misalnya kita sibuk, nggak sempat mampir ke service center
+109	Door-to-door service Jadi kalau misalnya kita sibuk, nggak sempat mampir ke service center
+110	Jadi kalau misalnya kita sibuk, nggak sempat mampir ke service center
+111	Jadi kalau misalnya kita sibuk, nggak sempat mampir ke service center
+112	Jadi kalau misalnya kita sibuk, nggak sempat mampir ke service center
+113	Jadi kalau misalnya kita sibuk, nggak sempat mampir ke service center
+114	Jadi kalau misalnya kita sibuk, nggak sempat mampir ke service center Bisa dijemput barangnya
+115	Jadi kalau misalnya kita sibuk, nggak sempat mampir ke service center Bisa dijemput barangnya
+116	Bisa dijemput barangnya Dan service center OPPO juga sudah ter-cover sebanyak 95% provinsi di Indonesia
+117	Bisa dijemput barangnya Dan service center OPPO juga sudah ter-cover sebanyak 95% provinsi di Indonesia
+118	Dan service center OPPO juga sudah ter-cover sebanyak 95% provinsi di Indonesia
+119	Dan service center OPPO juga sudah ter-cover sebanyak 95% provinsi di Indonesia
+120	Dan service center OPPO juga sudah ter-cover sebanyak 95% provinsi di Indonesia
+121	Dan service center OPPO juga sudah ter-cover sebanyak 95% provinsi di Indonesia
+122	Dan service center OPPO juga sudah ter-cover sebanyak 95% provinsi di Indonesia
+123	Dan service center OPPO juga sudah ter-cover sebanyak 95% provinsi di Indonesia
+124	Dan service center OPPO juga sudah ter-cover sebanyak 95% provinsi di Indonesia Jadi kurang lebih begini ya
+125	Dan service center OPPO juga sudah ter-cover sebanyak 95% provinsi di Indonesia Jadi kurang lebih begini ya
+126	Jadi kurang lebih begini ya
+127	Jadi kurang lebih begini ya Isi dalamannya OPPO Find N5
+128	Jadi kurang lebih begini ya Isi dalamannya OPPO Find N5
+129	Isi dalamannya OPPO Find N5
+130	Isi dalamannya OPPO Find N5 Sudah di-pretell-i semua
+131	Isi dalamannya OPPO Find N5 Sudah di-pretell-i semua
+132	Sudah di-pretell-i semua
+133	Sudah di-pretell-i semua Yang menurut saya impresif sih ada di baterainya
+134	Sudah di-pretell-i semua Yang menurut saya impresif sih ada di baterainya
+135	Yang menurut saya impresif sih ada di baterainya
+136	Yang menurut saya impresif sih ada di baterainya
+137	Yang menurut saya impresif sih ada di baterainya
+138	Yang menurut saya impresif sih ada di baterainya Setipis ini, tapi kapasitasnya bisa gede banget
+139	Yang menurut saya impresif sih ada di baterainya Setipis ini, tapi kapasitasnya bisa gede banget
+140	Setipis ini, tapi kapasitasnya bisa gede banget
+141	Setipis ini, tapi kapasitasnya bisa gede banget
+142	Setipis ini, tapi kapasitasnya bisa gede banget
+143	Setipis ini, tapi kapasitasnya bisa gede banget Saya sih salut ya sama engineer-engineer yang terlibat di R&D produk ini
+144	Setipis ini, tapi kapasitasnya bisa gede banget Saya sih salut ya sama engineer-engineer yang terlibat di R&D produk ini
+145	Saya sih salut ya sama engineer-engineer yang terlibat di R&D produk ini
+146	Saya sih salut ya sama engineer-engineer yang terlibat di R&D produk ini
+147	Saya sih salut ya sama engineer-engineer yang terlibat di R&D produk ini
+148	Saya sih salut ya sama engineer-engineer yang terlibat di R&D produk ini
+149	Saya sih salut ya sama engineer-engineer yang terlibat di R&D produk ini Dikombo dengan komitmen OPPO yang cukup tinggi dalam urusan service
+150	Saya sih salut ya sama engineer-engineer yang terlibat di R&D produk ini Dikombo dengan komitmen OPPO yang cukup tinggi dalam urusan service
+151	Saya sih salut ya sama engineer-engineer yang terlibat di R&D produk ini Dikombo dengan komitmen OPPO yang cukup tinggi dalam urusan service
+152	Dikombo dengan komitmen OPPO yang cukup tinggi dalam urusan service
+153	Dikombo dengan komitmen OPPO yang cukup tinggi dalam urusan service
+154	Dikombo dengan komitmen OPPO yang cukup tinggi dalam urusan service
+155	Dikombo dengan komitmen OPPO yang cukup tinggi dalam urusan service Yang beli OPPO Find N5
+156	Dikombo dengan komitmen OPPO yang cukup tinggi dalam urusan service Yang beli OPPO Find N5
+157	Yang beli OPPO Find N5
+158	Yang beli OPPO Find N5 Jadi nggak perlu khawatir kalau HP-nya kenapa-napa
+159	Yang beli OPPO Find N5 Jadi nggak perlu khawatir kalau HP-nya kenapa-napa
+160	Jadi nggak perlu khawatir kalau HP-nya kenapa-napa
+161	Jadi nggak perlu khawatir kalau HP-nya kenapa-napa
+162	Jadi nggak perlu khawatir kalau HP-nya kenapa-napa Sejauh ini, menurut saya sih pengalaman after sales OPPO cukup memuaskan
+163	Jadi nggak perlu khawatir kalau HP-nya kenapa-napa Sejauh ini, menurut saya sih pengalaman after sales OPPO cukup memuaskan
+164	Sejauh ini, menurut saya sih pengalaman after sales OPPO cukup memuaskan
+165	Sejauh ini, menurut saya sih pengalaman after sales OPPO cukup memuaskan
+166	Sejauh ini, menurut saya sih pengalaman after sales OPPO cukup memuaskan
+167	Sejauh ini, menurut saya sih pengalaman after sales OPPO cukup memuaskan
+168	Sejauh ini, menurut saya sih pengalaman after sales OPPO cukup memuaskan
+169	Sejauh ini, menurut saya sih pengalaman after sales OPPO cukup memuaskan Nyaman dan bisa diandalkan
+170	Sejauh ini, menurut saya sih pengalaman after sales OPPO cukup memuaskan Nyaman dan bisa diandalkan
+171	Nyaman dan bisa diandalkan Nah, kalau kalian gimana?
+172	Nyaman dan bisa diandalkan Nah, kalau kalian gimana?
+173	Nah, kalau kalian gimana?
+174	Nah, kalau kalian gimana? Punya pengalaman dengan after sales OPPO juga nggak?
+175	Punya pengalaman dengan after sales OPPO juga nggak?
+176	Punya pengalaman dengan after sales OPPO juga nggak?
+177	Punya pengalaman dengan after sales OPPO juga nggak? Kalau punya, langsung share aja di kolom komentar ya
+178	Punya pengalaman dengan after sales OPPO juga nggak? Kalau punya, langsung share aja di kolom komentar ya
+179	Kalau punya, langsung share aja di kolom komentar ya
+180	Kalau punya, langsung share aja di kolom komentar ya
+181	Kalau punya, langsung share aja di kolom komentar ya
+182	Kalau punya, langsung share aja di kolom komentar ya
+183	[NO_SPEECH]

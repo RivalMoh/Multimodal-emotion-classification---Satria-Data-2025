@@ -1,0 +1,61 @@
+0	Halo warga DKI Jakarta, saya Jelani Noraini dari cabang olahraga Atetik.
+1	Halo warga DKI Jakarta, saya Jelani Noraini dari cabang olahraga Atetik.
+2	Halo warga DKI Jakarta, saya Jelani Noraini dari cabang olahraga Atetik.
+3	Halo warga DKI Jakarta, saya Jelani Noraini dari cabang olahraga Atetik.
+4	Halo warga DKI Jakarta, saya Jelani Noraini dari cabang olahraga Atetik.
+5	Halo warga DKI Jakarta, saya Jelani Noraini dari cabang olahraga Atetik.
+6	Halo warga DKI Jakarta, saya Jelani Noraini dari cabang olahraga Atetik.
+7	Halo warga DKI Jakarta, saya Jelani Noraini dari cabang olahraga Atetik. Saya Patan dari cabang olahraga Squash.
+8	Halo warga DKI Jakarta, saya Jelani Noraini dari cabang olahraga Atetik. Saya Patan dari cabang olahraga Squash.
+9	Saya Patan dari cabang olahraga Squash.
+10	Saya Patan dari cabang olahraga Squash.
+11	Saya Patan dari cabang olahraga Squash.
+12	Saya Patan dari cabang olahraga Squash.
+13	Saya Patan dari cabang olahraga Squash. Saya Bianca dari cabang olahraga Spatroda.
+14	Saya Patan dari cabang olahraga Squash. Saya Bianca dari cabang olahraga Spatroda.
+15	Saya Bianca dari cabang olahraga Spatroda.
+16	Saya Bianca dari cabang olahraga Spatroda.
+17	Saya Bianca dari cabang olahraga Spatroda.
+18	Saya Bianca dari cabang olahraga Spatroda.
+19	Saya Bianca dari cabang olahraga Spatroda.
+20	Saya Bianca dari cabang olahraga Spatroda.
+21	Saya Bianca dari cabang olahraga Spatroda. Kami dari cabang olahraga bola tangan putra.
+22	Saya Bianca dari cabang olahraga Spatroda. Kami dari cabang olahraga bola tangan putra.
+23	Kami dari cabang olahraga bola tangan putra.
+24	Kami dari cabang olahraga bola tangan putra.
+25	Kami dari cabang olahraga bola tangan putra.
+26	Kami dari cabang olahraga bola tangan putra. Jangan lupa dukung kami di...
+27	Kami dari cabang olahraga bola tangan putra. Jangan lupa dukung kami di...
+28	Jangan lupa dukung kami di...
+29	Jangan lupa dukung kami di...
+30	Jangan lupa dukung kami di... Pola-pola olahraga Atetik.
+31	Jangan lupa dukung kami di... Pola-pola olahraga Atetik.
+32	Pola-pola olahraga Atetik.
+33	Pola-pola olahraga Atetik.
+34	Pola-pola olahraga Atetik. Tahun berakhir, pola-pola berakhir.
+35	Tahun berakhir, pola-pola berakhir.
+36	Tahun berakhir, pola-pola berakhir.
+37	Tahun berakhir, pola-pola berakhir.
+38	Tahun berakhir, pola-pola berakhir.
+39	Tahun berakhir, pola-pola berakhir. DKI Jakarta, Jakarta datang.
+40	Tahun berakhir, pola-pola berakhir. DKI Jakarta, Jakarta datang.
+41	DKI Jakarta, Jakarta datang.
+42	DKI Jakarta, Jakarta datang.
+43	DKI Jakarta, Jakarta datang. Jakarta menang.
+44	DKI Jakarta, Jakarta datang. Jakarta menang.
+45	Jakarta menang. Sukses Jakarta untuk Indonesia.
+46	Jakarta menang. Sukses Jakarta untuk Indonesia.
+47	Sukses Jakarta untuk Indonesia.
+48	Sukses Jakarta untuk Indonesia.
+49	Sukses Jakarta untuk Indonesia.
+50	Sukses Jakarta untuk Indonesia.
+51	Sukses Jakarta untuk Indonesia.
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	Terima kasih.
+59	Terima kasih.
+60	Terima kasih.

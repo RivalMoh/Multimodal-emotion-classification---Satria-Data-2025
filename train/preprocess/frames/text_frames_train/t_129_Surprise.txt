@@ -1,0 +1,170 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	Tantangan terbesarnya menjaga performa tetap stabil dan pertandingan besar juga butuh effort.
+13	Tantangan terbesarnya menjaga performa tetap stabil dan pertandingan besar juga butuh effort.
+14	Tantangan terbesarnya menjaga performa tetap stabil dan pertandingan besar juga butuh effort.
+15	Tantangan terbesarnya menjaga performa tetap stabil dan pertandingan besar juga butuh effort.
+16	Tantangan terbesarnya menjaga performa tetap stabil dan pertandingan besar juga butuh effort.
+17	Tantangan terbesarnya menjaga performa tetap stabil dan pertandingan besar juga butuh effort.
+18	Tantangan terbesarnya menjaga performa tetap stabil dan pertandingan besar juga butuh effort.
+19	Tantangan terbesarnya menjaga performa tetap stabil dan pertandingan besar juga butuh effort.
+20	Tantangan terbesarnya menjaga performa tetap stabil dan pertandingan besar juga butuh effort.
+21	Tantangan terbesarnya menjaga performa tetap stabil dan pertandingan besar juga butuh effort.
+22	Tantangan terbesarnya menjaga performa tetap stabil dan pertandingan besar juga butuh effort.
+23	Tantangan terbesarnya menjaga performa tetap stabil dan pertandingan besar juga butuh effort.
+24	Tantangan terbesarnya menjaga performa tetap stabil dan pertandingan besar juga butuh effort.
+25	Tantangan terbesarnya menjaga performa tetap stabil dan pertandingan besar juga butuh effort.
+26	Tantangan terbesarnya menjaga performa tetap stabil dan pertandingan besar juga butuh effort.
+27	[NO_SPEECH]
+28	Dua pertandingan melawan Jepang dan Saudi. Yang pertama kita memakai 343, beda level dengan Jepang, kita harus akui.
+29	Dua pertandingan melawan Jepang dan Saudi. Yang pertama kita memakai 343, beda level dengan Jepang, kita harus akui.
+30	Dua pertandingan melawan Jepang dan Saudi. Yang pertama kita memakai 343, beda level dengan Jepang, kita harus akui.
+31	Dua pertandingan melawan Jepang dan Saudi. Yang pertama kita memakai 343, beda level dengan Jepang, kita harus akui.
+32	Dua pertandingan melawan Jepang dan Saudi. Yang pertama kita memakai 343, beda level dengan Jepang, kita harus akui.
+33	Dua pertandingan melawan Jepang dan Saudi. Yang pertama kita memakai 343, beda level dengan Jepang, kita harus akui.
+34	Dua pertandingan melawan Jepang dan Saudi. Yang pertama kita memakai 343, beda level dengan Jepang, kita harus akui.
+35	Dua pertandingan melawan Jepang dan Saudi. Yang pertama kita memakai 343, beda level dengan Jepang, kita harus akui.
+36	Dua pertandingan melawan Jepang dan Saudi. Yang pertama kita memakai 343, beda level dengan Jepang, kita harus akui.
+37	Dua pertandingan melawan Jepang dan Saudi. Yang pertama kita memakai 343, beda level dengan Jepang, kita harus akui.
+38	Dua pertandingan melawan Jepang dan Saudi. Yang pertama kita memakai 343, beda level dengan Jepang, kita harus akui.
+39	Dua pertandingan melawan Jepang dan Saudi. Yang pertama kita memakai 343, beda level dengan Jepang, kita harus akui.
+40	Dua pertandingan melawan Jepang dan Saudi. Yang pertama kita memakai 343, beda level dengan Jepang, kita harus akui.
+41	Dua pertandingan melawan Jepang dan Saudi. Yang pertama kita memakai 343, beda level dengan Jepang, kita harus akui.
+42	Dua pertandingan melawan Jepang dan Saudi. Yang pertama kita memakai 343, beda level dengan Jepang, kita harus akui.
+43	Dua pertandingan melawan Jepang dan Saudi. Yang pertama kita memakai 343, beda level dengan Jepang, kita harus akui.
+44	Dua pertandingan melawan Jepang dan Saudi. Yang pertama kita memakai 343, beda level dengan Jepang, kita harus akui.
+45	Dua pertandingan melawan Jepang dan Saudi. Yang pertama kita memakai 343, beda level dengan Jepang, kita harus akui.
+46	Dua pertandingan melawan Jepang dan Saudi. Yang pertama kita memakai 343, beda level dengan Jepang, kita harus akui. Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+47	Dua pertandingan melawan Jepang dan Saudi. Yang pertama kita memakai 343, beda level dengan Jepang, kita harus akui. Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+48	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+49	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+50	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+51	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+52	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+53	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+54	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+55	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+56	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+57	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+58	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+59	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+60	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+61	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+62	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+63	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+64	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+65	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+66	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352.
+67	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352. Dan saya juga bersyukur bisa mencetak 2 gol.
+68	Tapi kita mengavaluasi pertandingan sebelumnya, kita bertanding melawan Arab dengan baik, sangat-sangat kompak di bagian pertahanan dan kita merubah formasi menjadi 352. Dan saya juga bersyukur bisa mencetak 2 gol.
+69	Dan saya juga bersyukur bisa mencetak 2 gol.
+70	Dan saya juga bersyukur bisa mencetak 2 gol.
+71	Dan saya juga bersyukur bisa mencetak 2 gol.
+72	Dan saya juga bersyukur bisa mencetak 2 gol.
+73	[NO_SPEECH]
+74	[NO_SPEECH]
+75	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+76	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+77	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+78	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+79	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+80	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+81	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+82	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+83	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+84	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+85	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+86	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+87	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+88	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+89	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+90	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+91	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+92	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+93	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+94	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+95	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+96	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan.
+97	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan. Dan selain itu saya juga minum lem mineral supaya kebutuhan mineralnya.
+98	Ya kalau dari saya, sama aja, nggak ada yang berbeda. Ada sesi gym, recovery, dan ke swimming pool untuk recovery badan. Dan selain itu saya juga minum lem mineral supaya kebutuhan mineralnya.
+99	Dan selain itu saya juga minum lem mineral supaya kebutuhan mineralnya.
+100	Dan selain itu saya juga minum lem mineral supaya kebutuhan mineralnya.
+101	Dan selain itu saya juga minum lem mineral supaya kebutuhan mineralnya.
+102	Dan selain itu saya juga minum lem mineral supaya kebutuhan mineralnya.
+103	Dan selain itu saya juga minum lem mineral supaya kebutuhan mineralnya.
+104	Dan selain itu saya juga minum lem mineral supaya kebutuhan mineralnya.
+105	Dan selain itu saya juga minum lem mineral supaya kebutuhan mineralnya.
+106	Dan selain itu saya juga minum lem mineral supaya kebutuhan mineralnya. Dan sekarang saya terpenuhi.
+107	Dan selain itu saya juga minum lem mineral supaya kebutuhan mineralnya. Dan sekarang saya terpenuhi.
+108	Dan sekarang saya terpenuhi.
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	Karena jadwal pertandingan yang berdekatan, ini mengharuskan saya untuk ikut latihan intens.
+112	Karena jadwal pertandingan yang berdekatan, ini mengharuskan saya untuk ikut latihan intens.
+113	Karena jadwal pertandingan yang berdekatan, ini mengharuskan saya untuk ikut latihan intens.
+114	Karena jadwal pertandingan yang berdekatan, ini mengharuskan saya untuk ikut latihan intens.
+115	Karena jadwal pertandingan yang berdekatan, ini mengharuskan saya untuk ikut latihan intens.
+116	Karena jadwal pertandingan yang berdekatan, ini mengharuskan saya untuk ikut latihan intens.
+117	Karena jadwal pertandingan yang berdekatan, ini mengharuskan saya untuk ikut latihan intens.
+118	Karena jadwal pertandingan yang berdekatan, ini mengharuskan saya untuk ikut latihan intens.
+119	Karena jadwal pertandingan yang berdekatan, ini mengharuskan saya untuk ikut latihan intens. Air minum yang punya mineral esensial berkualitas seperti lem mineral yang penting banget bantu ganti mineral di dalam tubuh.
+120	Karena jadwal pertandingan yang berdekatan, ini mengharuskan saya untuk ikut latihan intens. Air minum yang punya mineral esensial berkualitas seperti lem mineral yang penting banget bantu ganti mineral di dalam tubuh.
+121	Air minum yang punya mineral esensial berkualitas seperti lem mineral yang penting banget bantu ganti mineral di dalam tubuh.
+122	Air minum yang punya mineral esensial berkualitas seperti lem mineral yang penting banget bantu ganti mineral di dalam tubuh.
+123	Air minum yang punya mineral esensial berkualitas seperti lem mineral yang penting banget bantu ganti mineral di dalam tubuh.
+124	Air minum yang punya mineral esensial berkualitas seperti lem mineral yang penting banget bantu ganti mineral di dalam tubuh.
+125	Air minum yang punya mineral esensial berkualitas seperti lem mineral yang penting banget bantu ganti mineral di dalam tubuh.
+126	Air minum yang punya mineral esensial berkualitas seperti lem mineral yang penting banget bantu ganti mineral di dalam tubuh.
+127	Air minum yang punya mineral esensial berkualitas seperti lem mineral yang penting banget bantu ganti mineral di dalam tubuh.
+128	Air minum yang punya mineral esensial berkualitas seperti lem mineral yang penting banget bantu ganti mineral di dalam tubuh.
+129	Air minum yang punya mineral esensial berkualitas seperti lem mineral yang penting banget bantu ganti mineral di dalam tubuh.
+130	Air minum yang punya mineral esensial berkualitas seperti lem mineral yang penting banget bantu ganti mineral di dalam tubuh.
+131	Air minum yang punya mineral esensial berkualitas seperti lem mineral yang penting banget bantu ganti mineral di dalam tubuh.
+132	Air minum yang punya mineral esensial berkualitas seperti lem mineral yang penting banget bantu ganti mineral di dalam tubuh. Airnya seger banget dan ada manis-manisnya.
+133	Air minum yang punya mineral esensial berkualitas seperti lem mineral yang penting banget bantu ganti mineral di dalam tubuh. Airnya seger banget dan ada manis-manisnya.
+134	Airnya seger banget dan ada manis-manisnya.
+135	Airnya seger banget dan ada manis-manisnya.
+136	Airnya seger banget dan ada manis-manisnya.
+137	Airnya seger banget dan ada manis-manisnya. Karena mengandung mineral esensial, saya membuat badan enteng dan bugar selalu.
+138	Airnya seger banget dan ada manis-manisnya. Karena mengandung mineral esensial, saya membuat badan enteng dan bugar selalu.
+139	Karena mengandung mineral esensial, saya membuat badan enteng dan bugar selalu.
+140	Karena mengandung mineral esensial, saya membuat badan enteng dan bugar selalu.
+141	Karena mengandung mineral esensial, saya membuat badan enteng dan bugar selalu.
+142	Karena mengandung mineral esensial, saya membuat badan enteng dan bugar selalu.
+143	Karena mengandung mineral esensial, saya membuat badan enteng dan bugar selalu.
+144	Karena mengandung mineral esensial, saya membuat badan enteng dan bugar selalu.
+145	Karena mengandung mineral esensial, saya membuat badan enteng dan bugar selalu.
+146	Karena mengandung mineral esensial, saya membuat badan enteng dan bugar selalu.
+147	[NO_SPEECH]
+148	Amazing feeling.
+149	Amazing feeling.
+150	Amazing feeling.
+151	Amazing feeling. Kesan-kesannya buat supporter Indonesia tetap dukung kita.
+152	Kesan-kesannya buat supporter Indonesia tetap dukung kita.
+153	Kesan-kesannya buat supporter Indonesia tetap dukung kita.
+154	Kesan-kesannya buat supporter Indonesia tetap dukung kita.
+155	Kesan-kesannya buat supporter Indonesia tetap dukung kita.
+156	Kesan-kesannya buat supporter Indonesia tetap dukung kita. Karena kita masih ada 5 pertandingan.
+157	Karena kita masih ada 5 pertandingan.
+158	Karena kita masih ada 5 pertandingan.
+159	Karena kita masih ada 5 pertandingan.
+160	Karena kita masih ada 5 pertandingan.
+161	Karena kita masih ada 5 pertandingan.
+162	Karena kita masih ada 5 pertandingan. Doakan kita dan...
+163	Karena kita masih ada 5 pertandingan. Doakan kita dan...
+164	Doakan kita dan...
+165	Doakan kita dan...
+166	Doakan kita dan... Sampai jumpa di stadion.
+167	Sampai jumpa di stadion.
+168	Sampai jumpa di stadion.
+169	Sampai jumpa di stadion.

@@ -1,0 +1,153 @@
+0	Umur 40 tahun ke atas jangan nge-gym ya
+1	Umur 40 tahun ke atas jangan nge-gym ya
+2	Umur 40 tahun ke atas jangan nge-gym ya Bahaya, nanti malah cedera
+3	Umur 40 tahun ke atas jangan nge-gym ya Bahaya, nanti malah cedera
+4	Bahaya, nanti malah cedera
+5	Bahaya, nanti malah cedera
+6	Bahaya, nanti malah cedera Latihan di rumah aja
+7	Bahaya, nanti malah cedera Latihan di rumah aja
+8	Latihan di rumah aja Loh kok gitu?
+9	Latihan di rumah aja Loh kok gitu?
+10	Loh kok gitu? Sini aku kasih pencerahan
+11	Loh kok gitu? Sini aku kasih pencerahan
+12	Sini aku kasih pencerahan
+13	Sini aku kasih pencerahan Aku lagi di FitHub Cabang Puri Indah
+14	Sini aku kasih pencerahan Aku lagi di FitHub Cabang Puri Indah
+15	Aku lagi di FitHub Cabang Puri Indah
+16	Aku lagi di FitHub Cabang Puri Indah
+17	Aku lagi di FitHub Cabang Puri Indah Dan kebetulan ada Tante Suryani dan Tante Mina nih
+18	Aku lagi di FitHub Cabang Puri Indah Dan kebetulan ada Tante Suryani dan Tante Mina nih
+19	Dan kebetulan ada Tante Suryani dan Tante Mina nih
+20	Dan kebetulan ada Tante Suryani dan Tante Mina nih
+21	Dan kebetulan ada Tante Suryani dan Tante Mina nih Yang umurnya di atas 40
+22	Dan kebetulan ada Tante Suryani dan Tante Mina nih Yang umurnya di atas 40
+23	Yang umurnya di atas 40
+24	Yang umurnya di atas 40 Coba kita tanya ya
+25	Yang umurnya di atas 40 Coba kita tanya ya
+26	Coba kita tanya ya Tante Mina udah berapa lama latihan di gym?
+27	Coba kita tanya ya Tante Mina udah berapa lama latihan di gym?
+28	Tante Mina udah berapa lama latihan di gym?
+29	Tante Mina udah berapa lama latihan di gym?
+30	Tante Mina udah berapa lama latihan di gym? Setahun
+31	Tante Mina udah berapa lama latihan di gym? Setahun Pernah cedera nggak kalau di gym?
+32	Setahun Pernah cedera nggak kalau di gym?
+33	Pernah cedera nggak kalau di gym?
+34	Pernah cedera nggak kalau di gym? Kalau cedera belum pernah
+35	Pernah cedera nggak kalau di gym? Kalau cedera belum pernah
+36	Kalau cedera belum pernah
+37	Kalau cedera belum pernah Justru malah dulu lutut suka sakit
+38	Kalau cedera belum pernah Justru malah dulu lutut suka sakit
+39	Justru malah dulu lutut suka sakit
+40	Justru malah dulu lutut suka sakit
+41	Justru malah dulu lutut suka sakit
+42	Justru malah dulu lutut suka sakit Sejak rutin latihan beban
+43	Justru malah dulu lutut suka sakit Sejak rutin latihan beban
+44	Sejak rutin latihan beban
+45	Sejak rutin latihan beban Sekarang lutut udah nggak pernah sakit-sakit lagi
+46	Sejak rutin latihan beban Sekarang lutut udah nggak pernah sakit-sakit lagi
+47	Sekarang lutut udah nggak pernah sakit-sakit lagi
+48	Sekarang lutut udah nggak pernah sakit-sakit lagi Terus berat badan stabil
+49	Sekarang lutut udah nggak pernah sakit-sakit lagi Terus berat badan stabil
+50	Terus berat badan stabil Selain itu saya dapet bonus
+51	Terus berat badan stabil Selain itu saya dapet bonus
+52	Selain itu saya dapet bonus
+53	Selain itu saya dapet bonus Saya ngangkat-ngangkat koper sendiri kalau lagi jalan-jalan
+54	Selain itu saya dapet bonus Saya ngangkat-ngangkat koper sendiri kalau lagi jalan-jalan
+55	Saya ngangkat-ngangkat koper sendiri kalau lagi jalan-jalan
+56	Saya ngangkat-ngangkat koper sendiri kalau lagi jalan-jalan
+57	Saya ngangkat-ngangkat koper sendiri kalau lagi jalan-jalan
+58	Saya ngangkat-ngangkat koper sendiri kalau lagi jalan-jalan Plus ngangkat galon juga kuat
+59	Saya ngangkat-ngangkat koper sendiri kalau lagi jalan-jalan Plus ngangkat galon juga kuat
+60	Plus ngangkat galon juga kuat
+61	Plus ngangkat galon juga kuat
+62	Plus ngangkat galon juga kuat Tante latihan di gym gini nggak takut cedera Tante?
+63	Plus ngangkat galon juga kuat Tante latihan di gym gini nggak takut cedera Tante?
+64	Tante latihan di gym gini nggak takut cedera Tante?
+65	Tante latihan di gym gini nggak takut cedera Tante? Nggak dong
+66	Tante latihan di gym gini nggak takut cedera Tante? Nggak dong Kan di FitHub ini ada trainer
+67	Nggak dong Kan di FitHub ini ada trainer
+68	Kan di FitHub ini ada trainer
+69	Kan di FitHub ini ada trainer
+70	Kan di FitHub ini ada trainer Yang kasih tau pake alatnya gimana
+71	Kan di FitHub ini ada trainer Yang kasih tau pake alatnya gimana
+72	Yang kasih tau pake alatnya gimana
+73	Yang kasih tau pake alatnya gimana Nah bener banget
+74	Yang kasih tau pake alatnya gimana Nah bener banget
+75	Nah bener banget Kalau bingung cara pake alat gym
+76	Nah bener banget Kalau bingung cara pake alat gym
+77	Kalau bingung cara pake alat gym
+78	Kalau bingung cara pake alat gym Langsung tanya aja ke personal trainernya
+79	Kalau bingung cara pake alat gym Langsung tanya aja ke personal trainernya
+80	Langsung tanya aja ke personal trainernya
+81	Langsung tanya aja ke personal trainernya
+82	Langsung tanya aja ke personal trainernya Kalau di FitHub
+83	Langsung tanya aja ke personal trainernya Kalau di FitHub Personal trainernya udah pasti profesional dan bersertifikat ya
+84	Kalau di FitHub Personal trainernya udah pasti profesional dan bersertifikat ya
+85	Personal trainernya udah pasti profesional dan bersertifikat ya
+86	Personal trainernya udah pasti profesional dan bersertifikat ya
+87	Personal trainernya udah pasti profesional dan bersertifikat ya
+88	Personal trainernya udah pasti profesional dan bersertifikat ya
+89	Personal trainernya udah pasti profesional dan bersertifikat ya Dan kan harus tau fasilitas di FitHub itu lengkap
+90	Personal trainernya udah pasti profesional dan bersertifikat ya Dan kan harus tau fasilitas di FitHub itu lengkap
+91	Dan kan harus tau fasilitas di FitHub itu lengkap
+92	Dan kan harus tau fasilitas di FitHub itu lengkap
+93	Dan kan harus tau fasilitas di FitHub itu lengkap Selain latihan beban kan juga bisa ikut kelas kardio
+94	Dan kan harus tau fasilitas di FitHub itu lengkap Selain latihan beban kan juga bisa ikut kelas kardio
+95	Selain latihan beban kan juga bisa ikut kelas kardio
+96	Selain latihan beban kan juga bisa ikut kelas kardio
+97	Selain latihan beban kan juga bisa ikut kelas kardio
+98	Selain latihan beban kan juga bisa ikut kelas kardio Pilates, yoga, banyak udah tinggal pilih
+99	Selain latihan beban kan juga bisa ikut kelas kardio Pilates, yoga, banyak udah tinggal pilih
+100	Pilates, yoga, banyak udah tinggal pilih
+101	Pilates, yoga, banyak udah tinggal pilih
+102	Pilates, yoga, banyak udah tinggal pilih
+103	Pilates, yoga, banyak udah tinggal pilih Untuk yang umurnya 40 tahun ke atas
+104	Pilates, yoga, banyak udah tinggal pilih Untuk yang umurnya 40 tahun ke atas
+105	Untuk yang umurnya 40 tahun ke atas
+106	Untuk yang umurnya 40 tahun ke atas Justru wajib latihan beban
+107	Untuk yang umurnya 40 tahun ke atas Justru wajib latihan beban
+108	Justru wajib latihan beban
+109	Justru wajib latihan beban Supaya tulang dan sendinya sehat
+110	Justru wajib latihan beban Supaya tulang dan sendinya sehat
+111	Supaya tulang dan sendinya sehat
+112	Supaya tulang dan sendinya sehat
+113	Supaya tulang dan sendinya sehat Otot wajib kuat
+114	Supaya tulang dan sendinya sehat Otot wajib kuat
+115	Otot wajib kuat
+116	Otot wajib kuat Kan bisa
+117	Otot wajib kuat Kan bisa Mulai dari gerakan sederhana dan beban yang ringan dulu
+118	Kan bisa Mulai dari gerakan sederhana dan beban yang ringan dulu
+119	Mulai dari gerakan sederhana dan beban yang ringan dulu
+120	Mulai dari gerakan sederhana dan beban yang ringan dulu
+121	Mulai dari gerakan sederhana dan beban yang ringan dulu
+122	Mulai dari gerakan sederhana dan beban yang ringan dulu Nggak langsung ngujuk-ngujuk berat
+123	Mulai dari gerakan sederhana dan beban yang ringan dulu Nggak langsung ngujuk-ngujuk berat
+124	Nggak langsung ngujuk-ngujuk berat
+125	Nggak langsung ngujuk-ngujuk berat Kalau mau mulai latihan langsung aja klik link di bio
+126	Nggak langsung ngujuk-ngujuk berat Kalau mau mulai latihan langsung aja klik link di bio
+127	Kalau mau mulai latihan langsung aja klik link di bio
+128	Kalau mau mulai latihan langsung aja klik link di bio
+129	Kalau mau mulai latihan langsung aja klik link di bio FitHub underscore ID ya
+130	Kalau mau mulai latihan langsung aja klik link di bio FitHub underscore ID ya
+131	FitHub underscore ID ya
+132	FitHub underscore ID ya FitHub ini cabangnya banyak
+133	FitHub underscore ID ya FitHub ini cabangnya banyak
+134	FitHub ini cabangnya banyak
+135	FitHub ini cabangnya banyak Cari aja yang deket rumah atau deket kantor
+136	FitHub ini cabangnya banyak Cari aja yang deket rumah atau deket kantor
+137	Cari aja yang deket rumah atau deket kantor
+138	Cari aja yang deket rumah atau deket kantor
+139	Cari aja yang deket rumah atau deket kantor
+140	Cari aja yang deket rumah atau deket kantor Udah pasti affordable dan cocok untuk pemula
+141	Cari aja yang deket rumah atau deket kantor Udah pasti affordable dan cocok untuk pemula
+142	Udah pasti affordable dan cocok untuk pemula
+143	Udah pasti affordable dan cocok untuk pemula
+144	Udah pasti affordable dan cocok untuk pemula Semoga ini bermanfaat
+145	Udah pasti affordable dan cocok untuk pemula Semoga ini bermanfaat
+146	Semoga ini bermanfaat
+147	Semoga ini bermanfaat Salam sehat
+148	Semoga ini bermanfaat Salam sehat
+149	Salam sehat
+150	[NO_SPEECH]
+151	[NO_SPEECH]
+152	[NO_SPEECH]

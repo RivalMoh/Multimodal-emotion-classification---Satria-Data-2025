@@ -1,0 +1,93 @@
+0	3 gerakan basic dalam pedal
+1	3 gerakan basic dalam pedal
+2	3 gerakan basic dalam pedal
+3	3 gerakan basic dalam pedal
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	Pertama, forehand. Pukulan yang dilakukan dengan sisi dominan pemain.
+8	Pertama, forehand. Pukulan yang dilakukan dengan sisi dominan pemain.
+9	Pertama, forehand. Pukulan yang dilakukan dengan sisi dominan pemain.
+10	Pertama, forehand. Pukulan yang dilakukan dengan sisi dominan pemain.
+11	Pertama, forehand. Pukulan yang dilakukan dengan sisi dominan pemain.
+12	Pertama, forehand. Pukulan yang dilakukan dengan sisi dominan pemain.
+13	Pertama, forehand. Pukulan yang dilakukan dengan sisi dominan pemain.
+14	Pertama, forehand. Pukulan yang dilakukan dengan sisi dominan pemain.
+15	Pertama, forehand. Pukulan yang dilakukan dengan sisi dominan pemain. Merupakan pukulan yang paling kuat yang digunakan untuk menyerang lawan.
+16	Pertama, forehand. Pukulan yang dilakukan dengan sisi dominan pemain. Merupakan pukulan yang paling kuat yang digunakan untuk menyerang lawan.
+17	Merupakan pukulan yang paling kuat yang digunakan untuk menyerang lawan.
+18	Merupakan pukulan yang paling kuat yang digunakan untuk menyerang lawan.
+19	Merupakan pukulan yang paling kuat yang digunakan untuk menyerang lawan.
+20	Merupakan pukulan yang paling kuat yang digunakan untuk menyerang lawan.
+21	Merupakan pukulan yang paling kuat yang digunakan untuk menyerang lawan.
+22	Merupakan pukulan yang paling kuat yang digunakan untuk menyerang lawan.
+23	Merupakan pukulan yang paling kuat yang digunakan untuk menyerang lawan. Kedua, backhand. Pukulan yang dilakukan dengan sisi tidak dominan pemain.
+24	Merupakan pukulan yang paling kuat yang digunakan untuk menyerang lawan. Kedua, backhand. Pukulan yang dilakukan dengan sisi tidak dominan pemain.
+25	Kedua, backhand. Pukulan yang dilakukan dengan sisi tidak dominan pemain.
+26	Kedua, backhand. Pukulan yang dilakukan dengan sisi tidak dominan pemain.
+27	Kedua, backhand. Pukulan yang dilakukan dengan sisi tidak dominan pemain.
+28	Kedua, backhand. Pukulan yang dilakukan dengan sisi tidak dominan pemain.
+29	Kedua, backhand. Pukulan yang dilakukan dengan sisi tidak dominan pemain.
+30	Kedua, backhand. Pukulan yang dilakukan dengan sisi tidak dominan pemain.
+31	Kedua, backhand. Pukulan yang dilakukan dengan sisi tidak dominan pemain.
+32	Kedua, backhand. Pukulan yang dilakukan dengan sisi tidak dominan pemain.
+33	Kedua, backhand. Pukulan yang dilakukan dengan sisi tidak dominan pemain. Digunakan untuk mengembalikan bola yang tidak bisa dijangkau oleh forehand.
+34	Digunakan untuk mengembalikan bola yang tidak bisa dijangkau oleh forehand.
+35	Digunakan untuk mengembalikan bola yang tidak bisa dijangkau oleh forehand.
+36	Digunakan untuk mengembalikan bola yang tidak bisa dijangkau oleh forehand.
+37	Digunakan untuk mengembalikan bola yang tidak bisa dijangkau oleh forehand.
+38	Digunakan untuk mengembalikan bola yang tidak bisa dijangkau oleh forehand.
+39	Digunakan untuk mengembalikan bola yang tidak bisa dijangkau oleh forehand.
+40	Digunakan untuk mengembalikan bola yang tidak bisa dijangkau oleh forehand.
+41	Digunakan untuk mengembalikan bola yang tidak bisa dijangkau oleh forehand.
+42	Digunakan untuk mengembalikan bola yang tidak bisa dijangkau oleh forehand.
+43	Ketiga, volley. Pukulan yang dilakukan sebelum bola memantul ke tanah.
+44	Ketiga, volley. Pukulan yang dilakukan sebelum bola memantul ke tanah.
+45	Ketiga, volley. Pukulan yang dilakukan sebelum bola memantul ke tanah.
+46	Ketiga, volley. Pukulan yang dilakukan sebelum bola memantul ke tanah.
+47	Ketiga, volley. Pukulan yang dilakukan sebelum bola memantul ke tanah.
+48	Ketiga, volley. Pukulan yang dilakukan sebelum bola memantul ke tanah.
+49	Ketiga, volley. Pukulan yang dilakukan sebelum bola memantul ke tanah.
+50	Ketiga, volley. Pukulan yang dilakukan sebelum bola memantul ke tanah.
+51	Ketiga, volley. Pukulan yang dilakukan sebelum bola memantul ke tanah.
+52	Ketiga, volley. Pukulan yang dilakukan sebelum bola memantul ke tanah. Pukulan yang dilakukan sebelum bola digunakan untuk menyerang dan memanfaatkan sisi dekat jaring.
+53	Ketiga, volley. Pukulan yang dilakukan sebelum bola memantul ke tanah. Pukulan yang dilakukan sebelum bola digunakan untuk menyerang dan memanfaatkan sisi dekat jaring.
+54	Pukulan yang dilakukan sebelum bola digunakan untuk menyerang dan memanfaatkan sisi dekat jaring.
+55	Pukulan yang dilakukan sebelum bola digunakan untuk menyerang dan memanfaatkan sisi dekat jaring.
+56	Pukulan yang dilakukan sebelum bola digunakan untuk menyerang dan memanfaatkan sisi dekat jaring.
+57	Pukulan yang dilakukan sebelum bola digunakan untuk menyerang dan memanfaatkan sisi dekat jaring.
+58	Pukulan yang dilakukan sebelum bola digunakan untuk menyerang dan memanfaatkan sisi dekat jaring.
+59	Pukulan yang dilakukan sebelum bola digunakan untuk menyerang dan memanfaatkan sisi dekat jaring.
+60	Pukulan yang dilakukan sebelum bola digunakan untuk menyerang dan memanfaatkan sisi dekat jaring.
+61	Setelah belajar basic pedal, kita juga harus back to basic dengan mandi pakai ProGuard Daily Cleansing.
+62	Setelah belajar basic pedal, kita juga harus back to basic dengan mandi pakai ProGuard Daily Cleansing.
+63	Setelah belajar basic pedal, kita juga harus back to basic dengan mandi pakai ProGuard Daily Cleansing.
+64	Setelah belajar basic pedal, kita juga harus back to basic dengan mandi pakai ProGuard Daily Cleansing.
+65	Setelah belajar basic pedal, kita juga harus back to basic dengan mandi pakai ProGuard Daily Cleansing.
+66	Setelah belajar basic pedal, kita juga harus back to basic dengan mandi pakai ProGuard Daily Cleansing.
+67	Setelah belajar basic pedal, kita juga harus back to basic dengan mandi pakai ProGuard Daily Cleansing.
+68	Setelah belajar basic pedal, kita juga harus back to basic dengan mandi pakai ProGuard Daily Cleansing.
+69	Setelah belajar basic pedal, kita juga harus back to basic dengan mandi pakai ProGuard Daily Cleansing.
+70	Setelah belajar basic pedal, kita juga harus back to basic dengan mandi pakai ProGuard Daily Cleansing.
+71	Setelah belajar basic pedal, kita juga harus back to basic dengan mandi pakai ProGuard Daily Cleansing.
+72	Setelah belajar basic pedal, kita juga harus back to basic dengan mandi pakai ProGuard Daily Cleansing. Yang mengandung e-paliptos dan CHG antibakterial untuk mengembalikan kesegaran dan kebersihan tubuh.
+73	Setelah belajar basic pedal, kita juga harus back to basic dengan mandi pakai ProGuard Daily Cleansing. Yang mengandung e-paliptos dan CHG antibakterial untuk mengembalikan kesegaran dan kebersihan tubuh.
+74	Yang mengandung e-paliptos dan CHG antibakterial untuk mengembalikan kesegaran dan kebersihan tubuh.
+75	Yang mengandung e-paliptos dan CHG antibakterial untuk mengembalikan kesegaran dan kebersihan tubuh.
+76	Yang mengandung e-paliptos dan CHG antibakterial untuk mengembalikan kesegaran dan kebersihan tubuh.
+77	Yang mengandung e-paliptos dan CHG antibakterial untuk mengembalikan kesegaran dan kebersihan tubuh.
+78	Yang mengandung e-paliptos dan CHG antibakterial untuk mengembalikan kesegaran dan kebersihan tubuh.
+79	Yang mengandung e-paliptos dan CHG antibakterial untuk mengembalikan kesegaran dan kebersihan tubuh.
+80	Yang mengandung e-paliptos dan CHG antibakterial untuk mengembalikan kesegaran dan kebersihan tubuh.
+81	Yang mengandung e-paliptos dan CHG antibakterial untuk mengembalikan kesegaran dan kebersihan tubuh.
+82	Yang mengandung e-paliptos dan CHG antibakterial untuk mengembalikan kesegaran dan kebersihan tubuh.
+83	Yang mengandung e-paliptos dan CHG antibakterial untuk mengembalikan kesegaran dan kebersihan tubuh.
+84	Yang mengandung e-paliptos dan CHG antibakterial untuk mengembalikan kesegaran dan kebersihan tubuh.
+85	Yang mengandung e-paliptos dan CHG antibakterial untuk mengembalikan kesegaran dan kebersihan tubuh.
+86	[NO_SPEECH]
+87	[NO_SPEECH]
+88	[NO_SPEECH]
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	[NO_SPEECH]

@@ -1,0 +1,106 @@
+0	Kami juga pengen menampilkan yang terbaik di sana.
+1	Kami juga pengen menampilkan yang terbaik di sana.
+2	Kami juga pengen menampilkan yang terbaik di sana.
+3	Kami juga pengen menampilkan yang terbaik di sana.
+4	Kami juga pengen menampilkan yang terbaik di sana.
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	Yang paling terakhir ya di Olimpiade Tokyo ya,
+9	Yang paling terakhir ya di Olimpiade Tokyo ya,
+10	Yang paling terakhir ya di Olimpiade Tokyo ya,
+11	Yang paling terakhir ya di Olimpiade Tokyo ya,
+12	Yang paling terakhir ya di Olimpiade Tokyo ya,
+13	Yang paling terakhir ya di Olimpiade Tokyo ya, melihat Ganda Putri, Grecia Poli, dan Apriani berhasil menjadi juara di Olimpiade,
+14	Yang paling terakhir ya di Olimpiade Tokyo ya, melihat Ganda Putri, Grecia Poli, dan Apriani berhasil menjadi juara di Olimpiade,
+15	melihat Ganda Putri, Grecia Poli, dan Apriani berhasil menjadi juara di Olimpiade,
+16	melihat Ganda Putri, Grecia Poli, dan Apriani berhasil menjadi juara di Olimpiade,
+17	melihat Ganda Putri, Grecia Poli, dan Apriani berhasil menjadi juara di Olimpiade,
+18	melihat Ganda Putri, Grecia Poli, dan Apriani berhasil menjadi juara di Olimpiade,
+19	melihat Ganda Putri, Grecia Poli, dan Apriani berhasil menjadi juara di Olimpiade,
+20	melihat Ganda Putri, Grecia Poli, dan Apriani berhasil menjadi juara di Olimpiade,
+21	melihat Ganda Putri, Grecia Poli, dan Apriani berhasil menjadi juara di Olimpiade,
+22	melihat Ganda Putri, Grecia Poli, dan Apriani berhasil menjadi juara di Olimpiade,
+23	melihat Ganda Putri, Grecia Poli, dan Apriani berhasil menjadi juara di Olimpiade,
+24	melihat Ganda Putri, Grecia Poli, dan Apriani berhasil menjadi juara di Olimpiade, mendapatkan medali emas.
+25	melihat Ganda Putri, Grecia Poli, dan Apriani berhasil menjadi juara di Olimpiade, mendapatkan medali emas.
+26	mendapatkan medali emas.
+27	mendapatkan medali emas. Itu menambah motivasi kita ya di Olimpiade kali ini.
+28	mendapatkan medali emas. Itu menambah motivasi kita ya di Olimpiade kali ini.
+29	Itu menambah motivasi kita ya di Olimpiade kali ini.
+30	Itu menambah motivasi kita ya di Olimpiade kali ini.
+31	Itu menambah motivasi kita ya di Olimpiade kali ini.
+32	Itu menambah motivasi kita ya di Olimpiade kali ini.
+33	Itu menambah motivasi kita ya di Olimpiade kali ini. Olimpiade pertama kami berdua dan antusias kami untuk berlaga di Olimpiade.
+34	Itu menambah motivasi kita ya di Olimpiade kali ini. Olimpiade pertama kami berdua dan antusias kami untuk berlaga di Olimpiade.
+35	Olimpiade pertama kami berdua dan antusias kami untuk berlaga di Olimpiade.
+36	Olimpiade pertama kami berdua dan antusias kami untuk berlaga di Olimpiade.
+37	Olimpiade pertama kami berdua dan antusias kami untuk berlaga di Olimpiade.
+38	Olimpiade pertama kami berdua dan antusias kami untuk berlaga di Olimpiade.
+39	Olimpiade pertama kami berdua dan antusias kami untuk berlaga di Olimpiade.
+40	Olimpiade pertama kami berdua dan antusias kami untuk berlaga di Olimpiade.
+41	Olimpiade pertama kami berdua dan antusias kami untuk berlaga di Olimpiade.
+42	Olimpiade pertama kami berdua dan antusias kami untuk berlaga di Olimpiade.
+43	Olimpiade pertama kami berdua dan antusias kami untuk berlaga di Olimpiade.
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	Perasaannya pasti senang, bangga, karena bisa berlaga juga di Olimpiade,
+47	Perasaannya pasti senang, bangga, karena bisa berlaga juga di Olimpiade,
+48	Perasaannya pasti senang, bangga, karena bisa berlaga juga di Olimpiade,
+49	Perasaannya pasti senang, bangga, karena bisa berlaga juga di Olimpiade,
+50	Perasaannya pasti senang, bangga, karena bisa berlaga juga di Olimpiade,
+51	Perasaannya pasti senang, bangga, karena bisa berlaga juga di Olimpiade,
+52	Perasaannya pasti senang, bangga, karena bisa berlaga juga di Olimpiade,
+53	Perasaannya pasti senang, bangga, karena bisa berlaga juga di Olimpiade,
+54	Perasaannya pasti senang, bangga, karena bisa berlaga juga di Olimpiade, dan juga melihat atmosfer Olimpiade yang sangat luar biasa.
+55	Perasaannya pasti senang, bangga, karena bisa berlaga juga di Olimpiade, dan juga melihat atmosfer Olimpiade yang sangat luar biasa.
+56	dan juga melihat atmosfer Olimpiade yang sangat luar biasa.
+57	dan juga melihat atmosfer Olimpiade yang sangat luar biasa.
+58	dan juga melihat atmosfer Olimpiade yang sangat luar biasa.
+59	dan juga melihat atmosfer Olimpiade yang sangat luar biasa.
+60	dan juga melihat atmosfer Olimpiade yang sangat luar biasa.
+61	dan juga melihat atmosfer Olimpiade yang sangat luar biasa. Dan tadi juga ini adalah pesta terbaik, pesta olahraga terbaik ini.
+62	Dan tadi juga ini adalah pesta terbaik, pesta olahraga terbaik ini.
+63	Dan tadi juga ini adalah pesta terbaik, pesta olahraga terbaik ini.
+64	Dan tadi juga ini adalah pesta terbaik, pesta olahraga terbaik ini.
+65	Dan tadi juga ini adalah pesta terbaik, pesta olahraga terbaik ini.
+66	Dan tadi juga ini adalah pesta terbaik, pesta olahraga terbaik ini.
+67	Dan tadi juga ini adalah pesta terbaik, pesta olahraga terbaik ini. Pastinya ya bangga juga ya.
+68	Dan tadi juga ini adalah pesta terbaik, pesta olahraga terbaik ini. Pastinya ya bangga juga ya.
+69	Pastinya ya bangga juga ya.
+70	Pastinya ya bangga juga ya.
+71	Pastinya ya bangga juga ya. Tidak mudah, pastinya bisa bermain di Olimpiade.
+72	Pastinya ya bangga juga ya. Tidak mudah, pastinya bisa bermain di Olimpiade.
+73	Tidak mudah, pastinya bisa bermain di Olimpiade.
+74	Tidak mudah, pastinya bisa bermain di Olimpiade.
+75	Tidak mudah, pastinya bisa bermain di Olimpiade.
+76	Tidak mudah, pastinya bisa bermain di Olimpiade. Kita sudah mencoba di 4 tahun lalu, tapi belum berhasil.
+77	Tidak mudah, pastinya bisa bermain di Olimpiade. Kita sudah mencoba di 4 tahun lalu, tapi belum berhasil.
+78	Kita sudah mencoba di 4 tahun lalu, tapi belum berhasil.
+79	Kita sudah mencoba di 4 tahun lalu, tapi belum berhasil.
+80	Kita sudah mencoba di 4 tahun lalu, tapi belum berhasil.
+81	Kita sudah mencoba di 4 tahun lalu, tapi belum berhasil.
+82	Kita sudah mencoba di 4 tahun lalu, tapi belum berhasil.
+83	Kita sudah mencoba di 4 tahun lalu, tapi belum berhasil. Dan saat kita bisa bermain di Olimpiade Paris tahun ini,
+84	Kita sudah mencoba di 4 tahun lalu, tapi belum berhasil. Dan saat kita bisa bermain di Olimpiade Paris tahun ini,
+85	Dan saat kita bisa bermain di Olimpiade Paris tahun ini,
+86	Dan saat kita bisa bermain di Olimpiade Paris tahun ini,
+87	Dan saat kita bisa bermain di Olimpiade Paris tahun ini,
+88	Dan saat kita bisa bermain di Olimpiade Paris tahun ini,
+89	Dan saat kita bisa bermain di Olimpiade Paris tahun ini,
+90	Dan saat kita bisa bermain di Olimpiade Paris tahun ini,
+91	Dan saat kita bisa bermain di Olimpiade Paris tahun ini, ya semoga kita bisa memberikan nyata.
+92	Dan saat kita bisa bermain di Olimpiade Paris tahun ini, ya semoga kita bisa memberikan nyata.
+93	ya semoga kita bisa memberikan nyata.
+94	ya semoga kita bisa memberikan nyata.
+95	ya semoga kita bisa memberikan nyata.
+96	ya semoga kita bisa memberikan nyata.
+97	ya semoga kita bisa memberikan nyata.
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	[NO_SPEECH]
+104	[NO_SPEECH]
+105	[NO_SPEECH]

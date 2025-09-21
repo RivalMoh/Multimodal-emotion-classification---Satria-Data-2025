@@ -1,0 +1,39 @@
+0	Bang, kalau monitornya pakai tombol, gimana cara mati ini?
+1	Bang, kalau monitornya pakai tombol, gimana cara mati ini?
+2	Bang, kalau monitornya pakai tombol, gimana cara mati ini?
+3	Bang, kalau monitornya pakai tombol, gimana cara mati ini?
+4	Bang, kalau monitornya pakai tombol, gimana cara mati ini?
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	Ingat top up game, ingat di daily low up
+28	Ingat top up game, ingat di daily low up
+29	Ingat top up game, ingat di daily low up
+30	Ingat top up game, ingat di daily low up
+31	Ingat top up game, ingat di daily low up
+32	Ingat top up game, ingat di daily low up
+33	Ingat top up game, ingat di daily low up
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]

@@ -1,0 +1,159 @@
+0	Saya mulainya gym dengan 73 kg, lalu setelah 12 tahun, ini badan saya dengan 79 kg.
+1	Saya mulainya gym dengan 73 kg, lalu setelah 12 tahun, ini badan saya dengan 79 kg.
+2	Saya mulainya gym dengan 73 kg, lalu setelah 12 tahun, ini badan saya dengan 79 kg.
+3	Saya mulainya gym dengan 73 kg, lalu setelah 12 tahun, ini badan saya dengan 79 kg.
+4	Saya mulainya gym dengan 73 kg, lalu setelah 12 tahun, ini badan saya dengan 79 kg.
+5	Saya mulainya gym dengan 73 kg, lalu setelah 12 tahun, ini badan saya dengan 79 kg.
+6	Saya mulainya gym dengan 73 kg, lalu setelah 12 tahun, ini badan saya dengan 79 kg.
+7	Saya mulainya gym dengan 73 kg, lalu setelah 12 tahun, ini badan saya dengan 79 kg.
+8	Saya mulainya gym dengan 73 kg, lalu setelah 12 tahun, ini badan saya dengan 79 kg.
+9	Saya mulainya gym dengan 73 kg, lalu setelah 12 tahun, ini badan saya dengan 79 kg.
+10	Saya mulainya gym dengan 73 kg, lalu setelah 12 tahun, ini badan saya dengan 79 kg. Hah? Hanya 6 kg dalam 12 tahun? Artinya biking gagal banget.
+11	Saya mulainya gym dengan 73 kg, lalu setelah 12 tahun, ini badan saya dengan 79 kg. Hah? Hanya 6 kg dalam 12 tahun? Artinya biking gagal banget.
+12	Hah? Hanya 6 kg dalam 12 tahun? Artinya biking gagal banget.
+13	Hah? Hanya 6 kg dalam 12 tahun? Artinya biking gagal banget.
+14	Hah? Hanya 6 kg dalam 12 tahun? Artinya biking gagal banget.
+15	Hah? Hanya 6 kg dalam 12 tahun? Artinya biking gagal banget.
+16	Hah? Hanya 6 kg dalam 12 tahun? Artinya biking gagal banget.
+17	Hah? Hanya 6 kg dalam 12 tahun? Artinya biking gagal banget.
+18	Hah? Hanya 6 kg dalam 12 tahun? Artinya biking gagal banget.
+19	Hah? Hanya 6 kg dalam 12 tahun? Artinya biking gagal banget.
+20	Hah? Hanya 6 kg dalam 12 tahun? Artinya biking gagal banget.
+21	Hah? Hanya 6 kg dalam 12 tahun? Artinya biking gagal banget.
+22	Hah? Hanya 6 kg dalam 12 tahun? Artinya biking gagal banget. Walaupun berat badan tidak beda jauh, badan ini kelihatan beda banget dengan badan ini karena masa otot yang lebih banyak dan kadar lemak tubuh yang lebih rendah.
+23	Hah? Hanya 6 kg dalam 12 tahun? Artinya biking gagal banget. Walaupun berat badan tidak beda jauh, badan ini kelihatan beda banget dengan badan ini karena masa otot yang lebih banyak dan kadar lemak tubuh yang lebih rendah.
+24	Walaupun berat badan tidak beda jauh, badan ini kelihatan beda banget dengan badan ini karena masa otot yang lebih banyak dan kadar lemak tubuh yang lebih rendah.
+25	Walaupun berat badan tidak beda jauh, badan ini kelihatan beda banget dengan badan ini karena masa otot yang lebih banyak dan kadar lemak tubuh yang lebih rendah.
+26	Walaupun berat badan tidak beda jauh, badan ini kelihatan beda banget dengan badan ini karena masa otot yang lebih banyak dan kadar lemak tubuh yang lebih rendah.
+27	Walaupun berat badan tidak beda jauh, badan ini kelihatan beda banget dengan badan ini karena masa otot yang lebih banyak dan kadar lemak tubuh yang lebih rendah.
+28	Walaupun berat badan tidak beda jauh, badan ini kelihatan beda banget dengan badan ini karena masa otot yang lebih banyak dan kadar lemak tubuh yang lebih rendah.
+29	Walaupun berat badan tidak beda jauh, badan ini kelihatan beda banget dengan badan ini karena masa otot yang lebih banyak dan kadar lemak tubuh yang lebih rendah.
+30	Walaupun berat badan tidak beda jauh, badan ini kelihatan beda banget dengan badan ini karena masa otot yang lebih banyak dan kadar lemak tubuh yang lebih rendah.
+31	Walaupun berat badan tidak beda jauh, badan ini kelihatan beda banget dengan badan ini karena masa otot yang lebih banyak dan kadar lemak tubuh yang lebih rendah.
+32	Walaupun berat badan tidak beda jauh, badan ini kelihatan beda banget dengan badan ini karena masa otot yang lebih banyak dan kadar lemak tubuh yang lebih rendah.
+33	Walaupun berat badan tidak beda jauh, badan ini kelihatan beda banget dengan badan ini karena masa otot yang lebih banyak dan kadar lemak tubuh yang lebih rendah.
+34	Walaupun berat badan tidak beda jauh, badan ini kelihatan beda banget dengan badan ini karena masa otot yang lebih banyak dan kadar lemak tubuh yang lebih rendah.
+35	Walaupun berat badan tidak beda jauh, badan ini kelihatan beda banget dengan badan ini karena masa otot yang lebih banyak dan kadar lemak tubuh yang lebih rendah.
+36	Walaupun berat badan tidak beda jauh, badan ini kelihatan beda banget dengan badan ini karena masa otot yang lebih banyak dan kadar lemak tubuh yang lebih rendah.
+37	Walaupun berat badan tidak beda jauh, badan ini kelihatan beda banget dengan badan ini karena masa otot yang lebih banyak dan kadar lemak tubuh yang lebih rendah.
+38	Walaupun berat badan tidak beda jauh, badan ini kelihatan beda banget dengan badan ini karena masa otot yang lebih banyak dan kadar lemak tubuh yang lebih rendah. Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini.
+39	Walaupun berat badan tidak beda jauh, badan ini kelihatan beda banget dengan badan ini karena masa otot yang lebih banyak dan kadar lemak tubuh yang lebih rendah. Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini.
+40	Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini.
+41	Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini.
+42	Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini.
+43	Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini.
+44	Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini.
+45	Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini.
+46	Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini.
+47	Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini.
+48	Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini.
+49	Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini.
+50	Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini.
+51	Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini.
+52	Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini.
+53	Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini.
+54	Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini.
+55	Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini.
+56	Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini.
+57	Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini.
+58	Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini. Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+59	Saya juga pernah sampai sekitar 100 kg di tahun 2023, tapi karena kadar lemak tubuh yang lumayan tinggi, saya harus cutting selama kurang lebih setahun untuk mendapatkan badan seling ini. Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+60	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+61	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+62	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+63	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+64	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+65	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+66	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+67	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+68	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+69	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+70	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+71	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+72	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+73	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+74	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+75	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+76	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+77	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+78	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+79	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+80	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+81	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+82	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+83	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+84	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+85	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+86	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+87	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis.
+88	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis. Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+89	Poin yang saya mau share di video ini terutama buat kalian yang baru mulai ini gym yang saya sering lihat di comment section bahwa banyak dari kalian merasa progres kalian kurang cepat karena kalian hanya naik 1-2 kg sebulan, tapi problemnya kalian punya ekspektasi yang tidak realistis. Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+90	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+91	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+92	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+93	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+94	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+95	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+96	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+97	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+98	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+99	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+100	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+101	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+102	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+103	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+104	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+105	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+106	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+107	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+108	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+109	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+110	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja.
+111	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja. Intinya selama 12 tahun di mana saya latihan rutin minimalis.
+112	Karena banyak dari kalian lihat progres orang yang pakai steroid yang bisa mengalami perubahan yang signifikan banget dalam berapa bulan atau satu tahun yang tidak mungkin kamu bisa capek dengan latihan dan minum suplemen saja. Intinya selama 12 tahun di mana saya latihan rutin minimalis.
+113	Intinya selama 12 tahun di mana saya latihan rutin minimalis.
+114	Intinya selama 12 tahun di mana saya latihan rutin minimalis.
+115	Intinya selama 12 tahun di mana saya latihan rutin minimalis.
+116	Intinya selama 12 tahun di mana saya latihan rutin minimalis.
+117	Intinya selama 12 tahun di mana saya latihan rutin minimalis.
+118	Intinya selama 12 tahun di mana saya latihan rutin minimalis. 5 kali seminggu dan jaga pola makan setiap hari, saya menambah hanya sekitar 1 kg pure muscle dalam setahun.
+119	Intinya selama 12 tahun di mana saya latihan rutin minimalis. 5 kali seminggu dan jaga pola makan setiap hari, saya menambah hanya sekitar 1 kg pure muscle dalam setahun.
+120	5 kali seminggu dan jaga pola makan setiap hari, saya menambah hanya sekitar 1 kg pure muscle dalam setahun.
+121	5 kali seminggu dan jaga pola makan setiap hari, saya menambah hanya sekitar 1 kg pure muscle dalam setahun.
+122	5 kali seminggu dan jaga pola makan setiap hari, saya menambah hanya sekitar 1 kg pure muscle dalam setahun.
+123	5 kali seminggu dan jaga pola makan setiap hari, saya menambah hanya sekitar 1 kg pure muscle dalam setahun.
+124	5 kali seminggu dan jaga pola makan setiap hari, saya menambah hanya sekitar 1 kg pure muscle dalam setahun.
+125	5 kali seminggu dan jaga pola makan setiap hari, saya menambah hanya sekitar 1 kg pure muscle dalam setahun.
+126	5 kali seminggu dan jaga pola makan setiap hari, saya menambah hanya sekitar 1 kg pure muscle dalam setahun.
+127	5 kali seminggu dan jaga pola makan setiap hari, saya menambah hanya sekitar 1 kg pure muscle dalam setahun.
+128	5 kali seminggu dan jaga pola makan setiap hari, saya menambah hanya sekitar 1 kg pure muscle dalam setahun.
+129	5 kali seminggu dan jaga pola makan setiap hari, saya menambah hanya sekitar 1 kg pure muscle dalam setahun.
+130	5 kali seminggu dan jaga pola makan setiap hari, saya menambah hanya sekitar 1 kg pure muscle dalam setahun.
+131	5 kali seminggu dan jaga pola makan setiap hari, saya menambah hanya sekitar 1 kg pure muscle dalam setahun. Saya tidak mau membuat kamu kurang semangat, tapi faktanya adalah membentuk otot membutuhkan waktu yang lumayan lama.
+132	5 kali seminggu dan jaga pola makan setiap hari, saya menambah hanya sekitar 1 kg pure muscle dalam setahun. Saya tidak mau membuat kamu kurang semangat, tapi faktanya adalah membentuk otot membutuhkan waktu yang lumayan lama.
+133	Saya tidak mau membuat kamu kurang semangat, tapi faktanya adalah membentuk otot membutuhkan waktu yang lumayan lama.
+134	Saya tidak mau membuat kamu kurang semangat, tapi faktanya adalah membentuk otot membutuhkan waktu yang lumayan lama.
+135	Saya tidak mau membuat kamu kurang semangat, tapi faktanya adalah membentuk otot membutuhkan waktu yang lumayan lama.
+136	Saya tidak mau membuat kamu kurang semangat, tapi faktanya adalah membentuk otot membutuhkan waktu yang lumayan lama.
+137	Saya tidak mau membuat kamu kurang semangat, tapi faktanya adalah membentuk otot membutuhkan waktu yang lumayan lama.
+138	Saya tidak mau membuat kamu kurang semangat, tapi faktanya adalah membentuk otot membutuhkan waktu yang lumayan lama.
+139	Saya tidak mau membuat kamu kurang semangat, tapi faktanya adalah membentuk otot membutuhkan waktu yang lumayan lama.
+140	Saya tidak mau membuat kamu kurang semangat, tapi faktanya adalah membentuk otot membutuhkan waktu yang lumayan lama.
+141	Saya tidak mau membuat kamu kurang semangat, tapi faktanya adalah membentuk otot membutuhkan waktu yang lumayan lama.
+142	Saya tidak mau membuat kamu kurang semangat, tapi faktanya adalah membentuk otot membutuhkan waktu yang lumayan lama.
+143	Saya tidak mau membuat kamu kurang semangat, tapi faktanya adalah membentuk otot membutuhkan waktu yang lumayan lama.
+144	Saya tidak mau membuat kamu kurang semangat, tapi faktanya adalah membentuk otot membutuhkan waktu yang lumayan lama. Tapi ini sangat worth it karena membentuk badanmu secara natural adalah investasi dalam kesehatanmu.
+145	Tapi ini sangat worth it karena membentuk badanmu secara natural adalah investasi dalam kesehatanmu.
+146	Tapi ini sangat worth it karena membentuk badanmu secara natural adalah investasi dalam kesehatanmu.
+147	Tapi ini sangat worth it karena membentuk badanmu secara natural adalah investasi dalam kesehatanmu.
+148	Tapi ini sangat worth it karena membentuk badanmu secara natural adalah investasi dalam kesehatanmu.
+149	Tapi ini sangat worth it karena membentuk badanmu secara natural adalah investasi dalam kesehatanmu.
+150	Tapi ini sangat worth it karena membentuk badanmu secara natural adalah investasi dalam kesehatanmu.
+151	Tapi ini sangat worth it karena membentuk badanmu secara natural adalah investasi dalam kesehatanmu.
+152	Tapi ini sangat worth it karena membentuk badanmu secara natural adalah investasi dalam kesehatanmu.
+153	Tapi ini sangat worth it karena membentuk badanmu secara natural adalah investasi dalam kesehatanmu.
+154	Tapi ini sangat worth it karena membentuk badanmu secara natural adalah investasi dalam kesehatanmu.
+155	Tapi ini sangat worth it karena membentuk badanmu secara natural adalah investasi dalam kesehatanmu.
+156	Tapi ini sangat worth it karena membentuk badanmu secara natural adalah investasi dalam kesehatanmu.
+157	Tapi ini sangat worth it karena membentuk badanmu secara natural adalah investasi dalam kesehatanmu.
+158	[NO_SPEECH]

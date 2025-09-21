@@ -1,0 +1,182 @@
+0	Erika Karlina bikin parfum.
+1	Erika Karlina bikin parfum.
+2	Erika Karlina bikin parfum.
+3	Erika Karlina bikin parfum.
+4	Erika Karlina bikin parfum.
+5	Erika Karlina bikin parfum.
+6	Mari kita review ya.
+7	Mari kita review ya.
+8	Mari kita review ya.
+9	Mari kita review ya. Ini kolaborasi bersama krusita.
+10	Mari kita review ya. Ini kolaborasi bersama krusita.
+11	Ini kolaborasi bersama krusita.
+12	Ini kolaborasi bersama krusita.
+13	Ini kolaborasi bersama krusita.
+14	Ini kolaborasi bersama krusita.
+15	Ini kolaborasi bersama krusita. Pertama disini adalah comfort zone.
+16	Ini kolaborasi bersama krusita. Pertama disini adalah comfort zone.
+17	Pertama disini adalah comfort zone.
+18	Pertama disini adalah comfort zone.
+19	Pertama disini adalah comfort zone.
+20	Pertama disini adalah comfort zone. Ini wanginya lebih pagi-pagi, santai.
+21	Ini wanginya lebih pagi-pagi, santai.
+22	Ini wanginya lebih pagi-pagi, santai.
+23	Ini wanginya lebih pagi-pagi, santai.
+24	Ini wanginya lebih pagi-pagi, santai.
+25	Ini wanginya lebih pagi-pagi, santai.
+26	Ini wanginya lebih pagi-pagi, santai.
+27	Ini wanginya lebih pagi-pagi, santai. Jadi disini notes-notesnya itu ada bergamot, ada aldehyde.
+28	Jadi disini notes-notesnya itu ada bergamot, ada aldehyde.
+29	Jadi disini notes-notesnya itu ada bergamot, ada aldehyde.
+30	Jadi disini notes-notesnya itu ada bergamot, ada aldehyde.
+31	Jadi disini notes-notesnya itu ada bergamot, ada aldehyde.
+32	Jadi disini notes-notesnya itu ada bergamot, ada aldehyde.
+33	Jadi disini notes-notesnya itu ada bergamot, ada aldehyde.
+34	Jadi disini notes-notesnya itu ada bergamot, ada aldehyde. Habis itu di middlenya itu ada rose.
+35	Jadi disini notes-notesnya itu ada bergamot, ada aldehyde. Habis itu di middlenya itu ada rose.
+36	Habis itu di middlenya itu ada rose.
+37	Habis itu di middlenya itu ada rose.
+38	Habis itu di middlenya itu ada rose. Dan di base note-nya itu ada sandalwood and white moss.
+39	Dan di base note-nya itu ada sandalwood and white moss.
+40	Dan di base note-nya itu ada sandalwood and white moss.
+41	Dan di base note-nya itu ada sandalwood and white moss.
+42	Dan di base note-nya itu ada sandalwood and white moss.
+43	Dan di base note-nya itu ada sandalwood and white moss.
+44	Dan di base note-nya itu ada sandalwood and white moss.
+45	Dan di base note-nya itu ada sandalwood and white moss. Tapi semua notes-nya itu ter-cover oleh si white moss-nya yang super strong.
+46	Tapi semua notes-nya itu ter-cover oleh si white moss-nya yang super strong.
+47	Tapi semua notes-nya itu ter-cover oleh si white moss-nya yang super strong.
+48	Tapi semua notes-nya itu ter-cover oleh si white moss-nya yang super strong.
+49	Tapi semua notes-nya itu ter-cover oleh si white moss-nya yang super strong.
+50	Tapi semua notes-nya itu ter-cover oleh si white moss-nya yang super strong.
+51	Tapi semua notes-nya itu ter-cover oleh si white moss-nya yang super strong.
+52	Tapi semua notes-nya itu ter-cover oleh si white moss-nya yang super strong.
+53	Tapi semua notes-nya itu ter-cover oleh si white moss-nya yang super strong.
+54	Tapi semua notes-nya itu ter-cover oleh si white moss-nya yang super strong.
+55	Tapi semua notes-nya itu ter-cover oleh si white moss-nya yang super strong.
+56	Tapi semua notes-nya itu ter-cover oleh si white moss-nya yang super strong.
+57	Tapi semua notes-nya itu ter-cover oleh si white moss-nya yang super strong. Not my kind of sand, tapi aku tau banyak orang yang suka.
+58	Tapi semua notes-nya itu ter-cover oleh si white moss-nya yang super strong. Not my kind of sand, tapi aku tau banyak orang yang suka.
+59	Not my kind of sand, tapi aku tau banyak orang yang suka.
+60	Not my kind of sand, tapi aku tau banyak orang yang suka.
+61	Not my kind of sand, tapi aku tau banyak orang yang suka.
+62	Not my kind of sand, tapi aku tau banyak orang yang suka.
+63	Not my kind of sand, tapi aku tau banyak orang yang suka.
+64	Not my kind of sand, tapi aku tau banyak orang yang suka. Aku kasih skornya ini 6,8.
+65	Aku kasih skornya ini 6,8.
+66	Aku kasih skornya ini 6,8.
+67	Aku kasih skornya ini 6,8.
+68	Aku kasih skornya ini 6,8.
+69	Aku kasih skornya ini 6,8. About last night.
+70	About last night.
+71	About last night.
+72	About last night. Ini untuk mengingat party semalam.
+73	About last night. Ini untuk mengingat party semalam.
+74	Ini untuk mengingat party semalam.
+75	Ini untuk mengingat party semalam.
+76	Ini untuk mengingat party semalam.
+77	Ini untuk mengingat party semalam. Wih, keren gak tuh gue?
+78	Wih, keren gak tuh gue?
+79	Wih, keren gak tuh gue? Disini top notes-nya itu bergamot dan pink pepper.
+80	Wih, keren gak tuh gue? Disini top notes-nya itu bergamot dan pink pepper.
+81	Disini top notes-nya itu bergamot dan pink pepper.
+82	Disini top notes-nya itu bergamot dan pink pepper.
+83	Disini top notes-nya itu bergamot dan pink pepper.
+84	Disini top notes-nya itu bergamot dan pink pepper.
+85	Disini top notes-nya itu bergamot dan pink pepper. Di middle notes-nya ada orange blossom, jasmine, and vanilla.
+86	Disini top notes-nya itu bergamot dan pink pepper. Di middle notes-nya ada orange blossom, jasmine, and vanilla.
+87	Di middle notes-nya ada orange blossom, jasmine, and vanilla.
+88	Di middle notes-nya ada orange blossom, jasmine, and vanilla.
+89	Di middle notes-nya ada orange blossom, jasmine, and vanilla.
+90	Di middle notes-nya ada orange blossom, jasmine, and vanilla.
+91	Di middle notes-nya ada orange blossom, jasmine, and vanilla.
+92	Di middle notes-nya ada orange blossom, jasmine, and vanilla. Di base notes-nya itu ada seda wood, cafe, and patchouli.
+93	Di base notes-nya itu ada seda wood, cafe, and patchouli.
+94	Di base notes-nya itu ada seda wood, cafe, and patchouli.
+95	Di base notes-nya itu ada seda wood, cafe, and patchouli.
+96	Di base notes-nya itu ada seda wood, cafe, and patchouli.
+97	Di base notes-nya itu ada seda wood, cafe, and patchouli.
+98	Di base notes-nya itu ada seda wood, cafe, and patchouli.
+99	Di base notes-nya itu ada seda wood, cafe, and patchouli. Emang yang paling tercium adalah vanilanya.
+100	Di base notes-nya itu ada seda wood, cafe, and patchouli. Emang yang paling tercium adalah vanilanya.
+101	Emang yang paling tercium adalah vanilanya.
+102	Emang yang paling tercium adalah vanilanya.
+103	Emang yang paling tercium adalah vanilanya.
+104	Emang yang paling tercium adalah vanilanya. Mungkin ini lebih ke arah black opium.
+105	Mungkin ini lebih ke arah black opium.
+106	Mungkin ini lebih ke arah black opium.
+107	Mungkin ini lebih ke arah black opium.
+108	Mungkin ini lebih ke arah black opium. Tapi gak mirip sama black opium, tapi kayak satu family sama black opium.
+109	Mungkin ini lebih ke arah black opium. Tapi gak mirip sama black opium, tapi kayak satu family sama black opium.
+110	Tapi gak mirip sama black opium, tapi kayak satu family sama black opium.
+111	Tapi gak mirip sama black opium, tapi kayak satu family sama black opium.
+112	Tapi gak mirip sama black opium, tapi kayak satu family sama black opium.
+113	Tapi gak mirip sama black opium, tapi kayak satu family sama black opium.
+114	Tapi gak mirip sama black opium, tapi kayak satu family sama black opium.
+115	Tapi gak mirip sama black opium, tapi kayak satu family sama black opium. Last but not least.
+116	Tapi gak mirip sama black opium, tapi kayak satu family sama black opium. Last but not least.
+117	Last but not least.
+118	Last but not least. This is my favorite one.
+119	Last but not least. This is my favorite one.
+120	This is my favorite one.
+121	This is my favorite one. Stuck with you.
+122	This is my favorite one. Stuck with you.
+123	Stuck with you.
+124	Stuck with you. Wanginya indah banget.
+125	Wanginya indah banget. Dan ini mengingatkan aku sama wangi serjof yang air bapura.
+126	Wanginya indah banget. Dan ini mengingatkan aku sama wangi serjof yang air bapura.
+127	Dan ini mengingatkan aku sama wangi serjof yang air bapura.
+128	Dan ini mengingatkan aku sama wangi serjof yang air bapura.
+129	Dan ini mengingatkan aku sama wangi serjof yang air bapura.
+130	Dan ini mengingatkan aku sama wangi serjof yang air bapura.
+131	Dan ini mengingatkan aku sama wangi serjof yang air bapura.
+132	Dan ini mengingatkan aku sama wangi serjof yang air bapura.
+133	Dan ini mengingatkan aku sama wangi serjof yang air bapura.
+134	Dan ini mengingatkan aku sama wangi serjof yang air bapura. Dan notes-notesnya yang ada disini adalah bergamot, lemon orange.
+135	Dan ini mengingatkan aku sama wangi serjof yang air bapura. Dan notes-notesnya yang ada disini adalah bergamot, lemon orange.
+136	Dan notes-notesnya yang ada disini adalah bergamot, lemon orange.
+137	Dan notes-notesnya yang ada disini adalah bergamot, lemon orange.
+138	Dan notes-notesnya yang ada disini adalah bergamot, lemon orange.
+139	Dan notes-notesnya yang ada disini adalah bergamot, lemon orange.
+140	Dan notes-notesnya yang ada disini adalah bergamot, lemon orange. Tapi wanginya gak orange-y atau citrus-y gitu ya.
+141	Dan notes-notesnya yang ada disini adalah bergamot, lemon orange. Tapi wanginya gak orange-y atau citrus-y gitu ya.
+142	Tapi wanginya gak orange-y atau citrus-y gitu ya.
+143	Tapi wanginya gak orange-y atau citrus-y gitu ya.
+144	Tapi wanginya gak orange-y atau citrus-y gitu ya.
+145	Tapi wanginya gak orange-y atau citrus-y gitu ya.
+146	Tapi wanginya gak orange-y atau citrus-y gitu ya.
+147	Tapi wanginya gak orange-y atau citrus-y gitu ya.
+148	Tapi wanginya gak orange-y atau citrus-y gitu ya. Di middle notes-nya, fruity.
+149	Tapi wanginya gak orange-y atau citrus-y gitu ya. Di middle notes-nya, fruity.
+150	Di middle notes-nya, fruity.
+151	Di middle notes-nya, fruity. Dan di base notes-nya, ambery, moss, and vanilla.
+152	Di middle notes-nya, fruity. Dan di base notes-nya, ambery, moss, and vanilla.
+153	Dan di base notes-nya, ambery, moss, and vanilla.
+154	Dan di base notes-nya, ambery, moss, and vanilla.
+155	Dan di base notes-nya, ambery, moss, and vanilla.
+156	Dan di base notes-nya, ambery, moss, and vanilla.
+157	Dan di base notes-nya, ambery, moss, and vanilla.
+158	Dan di base notes-nya, ambery, moss, and vanilla. Tadi yang about last night ini aku kasih skor 7,5.
+159	Tadi yang about last night ini aku kasih skor 7,5.
+160	Tadi yang about last night ini aku kasih skor 7,5.
+161	Tadi yang about last night ini aku kasih skor 7,5.
+162	Tadi yang about last night ini aku kasih skor 7,5.
+163	Tadi yang about last night ini aku kasih skor 7,5.
+164	Tadi yang about last night ini aku kasih skor 7,5.
+165	Tadi yang about last night ini aku kasih skor 7,5. Stuck with you ini aku kasih skor 9, teman-teman.
+166	Tadi yang about last night ini aku kasih skor 7,5. Stuck with you ini aku kasih skor 9, teman-teman.
+167	Stuck with you ini aku kasih skor 9, teman-teman.
+168	Stuck with you ini aku kasih skor 9, teman-teman.
+169	Stuck with you ini aku kasih skor 9, teman-teman.
+170	Stuck with you ini aku kasih skor 9, teman-teman.
+171	Stuck with you ini aku kasih skor 9, teman-teman.
+172	Stuck with you ini aku kasih skor 9, teman-teman. Parfum apa lagi yang harus aku review?
+173	Stuck with you ini aku kasih skor 9, teman-teman. Parfum apa lagi yang harus aku review?
+174	Parfum apa lagi yang harus aku review?
+175	Parfum apa lagi yang harus aku review? Silahkan komen di bawah.
+176	Parfum apa lagi yang harus aku review? Silahkan komen di bawah.
+177	Silahkan komen di bawah.
+178	Silahkan komen di bawah. Ini adalah pemenangnya.
+179	Silahkan komen di bawah. Ini adalah pemenangnya.
+180	Ini adalah pemenangnya.
+181	Ini adalah pemenangnya.

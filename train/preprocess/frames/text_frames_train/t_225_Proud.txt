@@ -1,0 +1,161 @@
+0	Ada liptint yang klaimnya 18 jam
+1	Ada liptint yang klaimnya 18 jam
+2	Ada liptint yang klaimnya 18 jam
+3	Ada liptint yang klaimnya 18 jam
+4	Ada liptint yang klaimnya 18 jam Selamat datang di sehari hidupku!
+5	Ada liptint yang klaimnya 18 jam Selamat datang di sehari hidupku!
+6	Selamat datang di sehari hidupku!
+7	Selamat datang di sehari hidupku!
+8	Selamat datang di sehari hidupku!
+9	Selamat datang di sehari hidupku!
+10	Selamat datang di sehari hidupku!
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	Aku hari ini akan full seharian dan aku akan pake liptint dari Saviosa
+19	Aku hari ini akan full seharian dan aku akan pake liptint dari Saviosa
+20	Aku hari ini akan full seharian dan aku akan pake liptint dari Saviosa
+21	Aku hari ini akan full seharian dan aku akan pake liptint dari Saviosa
+22	Aku hari ini akan full seharian dan aku akan pake liptint dari Saviosa
+23	Aku hari ini akan full seharian dan aku akan pake liptint dari Saviosa
+24	Aku hari ini akan full seharian dan aku akan pake liptint dari Saviosa Peach please!
+25	Aku hari ini akan full seharian dan aku akan pake liptint dari Saviosa Peach please!
+26	Peach please!
+27	Peach please! Sekarang saatnya ganti baju
+28	Sekarang saatnya ganti baju
+29	Sekarang saatnya ganti baju
+30	Sekarang saatnya ganti baju
+31	Taraaa! Aku udah ganti baju dan liptintnya udah menyerap
+32	Taraaa! Aku udah ganti baju dan liptintnya udah menyerap
+33	Taraaa! Aku udah ganti baju dan liptintnya udah menyerap
+34	Taraaa! Aku udah ganti baju dan liptintnya udah menyerap
+35	Taraaa! Aku udah ganti baju dan liptintnya udah menyerap
+36	Taraaa! Aku udah ganti baju dan liptintnya udah menyerap Udah transfer proof, sekarang itu jam 08.48, let's go!
+37	Taraaa! Aku udah ganti baju dan liptintnya udah menyerap Udah transfer proof, sekarang itu jam 08.48, let's go!
+38	Udah transfer proof, sekarang itu jam 08.48, let's go!
+39	Udah transfer proof, sekarang itu jam 08.48, let's go!
+40	Udah transfer proof, sekarang itu jam 08.48, let's go!
+41	Udah transfer proof, sekarang itu jam 08.48, let's go!
+42	Udah transfer proof, sekarang itu jam 08.48, let's go!
+43	Udah transfer proof, sekarang itu jam 08.48, let's go!
+44	Udah transfer proof, sekarang itu jam 08.48, let's go!
+45	Udah transfer proof, sekarang itu jam 08.48, let's go!
+46	Udah transfer proof, sekarang itu jam 08.48, let's go!
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	Sekarang kita lagi di jalan mau meeting, aku lagi minum obat-obatan aku
+56	Sekarang kita lagi di jalan mau meeting, aku lagi minum obat-obatan aku
+57	Sekarang kita lagi di jalan mau meeting, aku lagi minum obat-obatan aku
+58	Sekarang kita lagi di jalan mau meeting, aku lagi minum obat-obatan aku
+59	Sekarang kita lagi di jalan mau meeting, aku lagi minum obat-obatan aku
+60	Sekarang kita lagi di jalan mau meeting, aku lagi minum obat-obatan aku
+61	Sekarang kita lagi di jalan mau meeting, aku lagi minum obat-obatan aku
+62	Sekarang kita lagi di jalan mau meeting, aku lagi minum obat-obatan aku
+63	Sekarang kita lagi di jalan mau meeting, aku lagi minum obat-obatan aku Gak ada yang transfer
+64	Sekarang kita lagi di jalan mau meeting, aku lagi minum obat-obatan aku Gak ada yang transfer
+65	Gak ada yang transfer Sekarang udah jam 08.30, my lips masih ada banget, looking good
+66	Gak ada yang transfer Sekarang udah jam 08.30, my lips masih ada banget, looking good
+67	Sekarang udah jam 08.30, my lips masih ada banget, looking good
+68	Sekarang udah jam 08.30, my lips masih ada banget, looking good
+69	Sekarang udah jam 08.30, my lips masih ada banget, looking good
+70	Sekarang udah jam 08.30, my lips masih ada banget, looking good
+71	Sekarang udah jam 08.30, my lips masih ada banget, looking good
+72	Sekarang udah jam 08.30, my lips masih ada banget, looking good
+73	Sekarang udah jam 08.30, my lips masih ada banget, looking good
+74	Sekarang udah jam 08.30, my lips masih ada banget, looking good
+75	Sekarang udah jam 08.30, my lips masih ada banget, looking good
+76	Sekarang udah jam 08.30, my lips masih ada banget, looking good
+77	[NO_SPEECH]
+78	Kita tes
+79	Kita tes
+80	Kita tes
+81	Kita tes
+82	[NO_SPEECH]
+83	[NO_SPEECH]
+84	[NO_SPEECH]
+85	[NO_SPEECH]
+86	[NO_SPEECH]
+87	[NO_SPEECH]
+88	[NO_SPEECH]
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	Setengah dua dan aku belum touch up liptint, aku sama sekali
+95	Setengah dua dan aku belum touch up liptint, aku sama sekali
+96	Setengah dua dan aku belum touch up liptint, aku sama sekali
+97	Setengah dua dan aku belum touch up liptint, aku sama sekali
+98	Setengah dua dan aku belum touch up liptint, aku sama sekali
+99	Setengah dua dan aku belum touch up liptint, aku sama sekali
+100	Setengah dua dan aku belum touch up liptint, aku sama sekali
+101	Setengah dua dan aku belum touch up liptint, aku sama sekali Dan kita akan lanjut ke meeting
+102	Setengah dua dan aku belum touch up liptint, aku sama sekali Dan kita akan lanjut ke meeting
+103	Dan kita akan lanjut ke meeting
+104	Dan kita akan lanjut ke meeting Kita lanjut ke meeting
+105	Dan kita akan lanjut ke meeting Kita lanjut ke meeting Kedua kita
+106	Kita lanjut ke meeting Kedua kita Sekarang udah jam 04.00
+107	Kedua kita Sekarang udah jam 04.00
+108	Sekarang udah jam 04.00
+109	Sekarang udah jam 04.00
+110	Sekarang udah jam 04.00
+111	Sekarang udah jam 04.00 Udah 7 jam
+112	Sekarang udah jam 04.00 Udah 7 jam
+113	Udah 7 jam
+114	Udah 7 jam
+115	Udah 7 jam Kita akan lanjut ke meeting terakhir, oh my god
+116	Udah 7 jam Kita akan lanjut ke meeting terakhir, oh my god
+117	Kita akan lanjut ke meeting terakhir, oh my god
+118	Kita akan lanjut ke meeting terakhir, oh my god
+119	Kita akan lanjut ke meeting terakhir, oh my god
+120	Kita akan lanjut ke meeting terakhir, oh my god
+121	Kita akan lanjut ke meeting terakhir, oh my god
+122	[NO_SPEECH]
+123	[NO_SPEECH]
+124	[NO_SPEECH]
+125	[NO_SPEECH]
+126	[NO_SPEECH]
+127	[NO_SPEECH]
+128	Udah jam 06.00 dan aku habis makan barbar banget
+129	Udah jam 06.00 dan aku habis makan barbar banget
+130	Udah jam 06.00 dan aku habis makan barbar banget
+131	Udah jam 06.00 dan aku habis makan barbar banget
+132	Udah jam 06.00 dan aku habis makan barbar banget
+133	Udah jam 06.00 dan aku habis makan barbar banget
+134	Udah jam 06.00 dan aku habis makan barbar banget
+135	Udah jam 06.00 dan aku habis makan barbar banget Udah saatnya untuk touch up
+136	Udah jam 06.00 dan aku habis makan barbar banget Udah saatnya untuk touch up
+137	Udah saatnya untuk touch up
+138	Udah saatnya untuk touch up
+139	Udah saatnya untuk touch up
+140	Udah saatnya untuk touch up Tahan dari jam 08.00 pagian sampe jam 06.00
+141	Udah saatnya untuk touch up Tahan dari jam 08.00 pagian sampe jam 06.00
+142	Tahan dari jam 08.00 pagian sampe jam 06.00
+143	Tahan dari jam 08.00 pagian sampe jam 06.00
+144	Tahan dari jam 08.00 pagian sampe jam 06.00
+145	Tahan dari jam 08.00 pagian sampe jam 06.00
+146	Tahan dari jam 08.00 pagian sampe jam 06.00
+147	Tahan dari jam 08.00 pagian sampe jam 06.00
+148	Tahan dari jam 08.00 pagian sampe jam 06.00
+149	Tahan dari jam 08.00 pagian sampe jam 06.00
+150	Tahan dari jam 08.00 pagian sampe jam 06.00 Dengan makan yang barbar, keren banget Saviosa
+151	Tahan dari jam 08.00 pagian sampe jam 06.00 Dengan makan yang barbar, keren banget Saviosa
+152	Dengan makan yang barbar, keren banget Saviosa
+153	Dengan makan yang barbar, keren banget Saviosa
+154	Dengan makan yang barbar, keren banget Saviosa
+155	Dengan makan yang barbar, keren banget Saviosa
+156	Dengan makan yang barbar, keren banget Saviosa Mantap
+157	Dengan makan yang barbar, keren banget Saviosa Mantap
+158	Mantap
+159	Mantap
+160	[NO_SPEECH]

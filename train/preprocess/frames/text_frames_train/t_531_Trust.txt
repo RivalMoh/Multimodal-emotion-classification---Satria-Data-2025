@@ -1,0 +1,288 @@
+0	Halo, nama saya Paulo M. Hernandez dari Provinsi DKI Jakarta.
+1	Halo, nama saya Paulo M. Hernandez dari Provinsi DKI Jakarta.
+2	Halo, nama saya Paulo M. Hernandez dari Provinsi DKI Jakarta.
+3	Halo, nama saya Paulo M. Hernandez dari Provinsi DKI Jakarta.
+4	Halo, nama saya Paulo M. Hernandez dari Provinsi DKI Jakarta.
+5	Halo, nama saya Paulo M. Hernandez dari Provinsi DKI Jakarta. Saya sekarang umur 24, mengikuti kategori U25 Putra.
+6	Halo, nama saya Paulo M. Hernandez dari Provinsi DKI Jakarta. Saya sekarang umur 24, mengikuti kategori U25 Putra.
+7	Saya sekarang umur 24, mengikuti kategori U25 Putra.
+8	Saya sekarang umur 24, mengikuti kategori U25 Putra.
+9	Saya sekarang umur 24, mengikuti kategori U25 Putra.
+10	Saya sekarang umur 24, mengikuti kategori U25 Putra.
+11	Saya sekarang umur 24, mengikuti kategori U25 Putra.
+12	Saya sekarang umur 24, mengikuti kategori U25 Putra.
+13	Saya sekarang umur 24, mengikuti kategori U25 Putra.
+14	Saya sekarang umur 24, mengikuti kategori U25 Putra.
+15	Saya sekarang umur 24, mengikuti kategori U25 Putra.
+16	Saya sekarang umur 24, mengikuti kategori U25 Putra.
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	Selama mengikuti Kejurnas Junior tahun ini sih sangat seru ya.
+25	Selama mengikuti Kejurnas Junior tahun ini sih sangat seru ya.
+26	Selama mengikuti Kejurnas Junior tahun ini sih sangat seru ya.
+27	Selama mengikuti Kejurnas Junior tahun ini sih sangat seru ya.
+28	Selama mengikuti Kejurnas Junior tahun ini sih sangat seru ya.
+29	Selama mengikuti Kejurnas Junior tahun ini sih sangat seru ya.
+30	Selama mengikuti Kejurnas Junior tahun ini sih sangat seru ya.
+31	Selama mengikuti Kejurnas Junior tahun ini sih sangat seru ya.
+32	Selama mengikuti Kejurnas Junior tahun ini sih sangat seru ya.
+33	Selama mengikuti Kejurnas Junior tahun ini sih sangat seru ya.
+34	Selama mengikuti Kejurnas Junior tahun ini sih sangat seru ya. Apalagi melihat banyak-banyak provinsi, terutama ada 9 provinsi yang termasuk banyak buat bowling.
+35	Selama mengikuti Kejurnas Junior tahun ini sih sangat seru ya. Apalagi melihat banyak-banyak provinsi, terutama ada 9 provinsi yang termasuk banyak buat bowling.
+36	Apalagi melihat banyak-banyak provinsi, terutama ada 9 provinsi yang termasuk banyak buat bowling.
+37	Apalagi melihat banyak-banyak provinsi, terutama ada 9 provinsi yang termasuk banyak buat bowling.
+38	Apalagi melihat banyak-banyak provinsi, terutama ada 9 provinsi yang termasuk banyak buat bowling.
+39	Apalagi melihat banyak-banyak provinsi, terutama ada 9 provinsi yang termasuk banyak buat bowling.
+40	Apalagi melihat banyak-banyak provinsi, terutama ada 9 provinsi yang termasuk banyak buat bowling.
+41	Apalagi melihat banyak-banyak provinsi, terutama ada 9 provinsi yang termasuk banyak buat bowling.
+42	Apalagi melihat banyak-banyak provinsi, terutama ada 9 provinsi yang termasuk banyak buat bowling.
+43	Apalagi melihat banyak-banyak provinsi, terutama ada 9 provinsi yang termasuk banyak buat bowling.
+44	Apalagi melihat banyak-banyak provinsi, terutama ada 9 provinsi yang termasuk banyak buat bowling.
+45	Apalagi melihat banyak-banyak provinsi, terutama ada 9 provinsi yang termasuk banyak buat bowling.
+46	Apalagi melihat banyak-banyak provinsi, terutama ada 9 provinsi yang termasuk banyak buat bowling.
+47	Apalagi melihat banyak-banyak provinsi, terutama ada 9 provinsi yang termasuk banyak buat bowling. Melihat adik-adik dan teman-teman banyak sekali yang daya juangnya itu sangat tinggi.
+48	Apalagi melihat banyak-banyak provinsi, terutama ada 9 provinsi yang termasuk banyak buat bowling. Melihat adik-adik dan teman-teman banyak sekali yang daya juangnya itu sangat tinggi.
+49	Melihat adik-adik dan teman-teman banyak sekali yang daya juangnya itu sangat tinggi.
+50	Melihat adik-adik dan teman-teman banyak sekali yang daya juangnya itu sangat tinggi.
+51	Melihat adik-adik dan teman-teman banyak sekali yang daya juangnya itu sangat tinggi.
+52	Melihat adik-adik dan teman-teman banyak sekali yang daya juangnya itu sangat tinggi.
+53	Melihat adik-adik dan teman-teman banyak sekali yang daya juangnya itu sangat tinggi.
+54	Melihat adik-adik dan teman-teman banyak sekali yang daya juangnya itu sangat tinggi.
+55	Melihat adik-adik dan teman-teman banyak sekali yang daya juangnya itu sangat tinggi.
+56	Melihat adik-adik dan teman-teman banyak sekali yang daya juangnya itu sangat tinggi.
+57	Melihat adik-adik dan teman-teman banyak sekali yang daya juangnya itu sangat tinggi.
+58	Melihat adik-adik dan teman-teman banyak sekali yang daya juangnya itu sangat tinggi.
+59	Melihat adik-adik dan teman-teman banyak sekali yang daya juangnya itu sangat tinggi.
+60	Melihat adik-adik dan teman-teman banyak sekali yang daya juangnya itu sangat tinggi.
+61	Melihat adik-adik dan teman-teman banyak sekali yang daya juangnya itu sangat tinggi. Dan melihat teman-teman banyak yang sangat kompetitif, sangat senang sih.
+62	Melihat adik-adik dan teman-teman banyak sekali yang daya juangnya itu sangat tinggi. Dan melihat teman-teman banyak yang sangat kompetitif, sangat senang sih.
+63	Dan melihat teman-teman banyak yang sangat kompetitif, sangat senang sih.
+64	Dan melihat teman-teman banyak yang sangat kompetitif, sangat senang sih.
+65	Dan melihat teman-teman banyak yang sangat kompetitif, sangat senang sih.
+66	Dan melihat teman-teman banyak yang sangat kompetitif, sangat senang sih.
+67	Dan melihat teman-teman banyak yang sangat kompetitif, sangat senang sih.
+68	Dan melihat teman-teman banyak yang sangat kompetitif, sangat senang sih.
+69	Dan melihat teman-teman banyak yang sangat kompetitif, sangat senang sih.
+70	Dan melihat teman-teman banyak yang sangat kompetitif, sangat senang sih.
+71	Dan melihat teman-teman banyak yang sangat kompetitif, sangat senang sih.
+72	Dan melihat teman-teman banyak yang sangat kompetitif, sangat senang sih.
+73	Dan melihat teman-teman banyak yang sangat kompetitif, sangat senang sih.
+74	Dan melihat teman-teman banyak yang sangat kompetitif, sangat senang sih.
+75	Dan melihat teman-teman banyak yang sangat kompetitif, sangat senang sih.
+76	Dan melihat teman-teman banyak yang sangat kompetitif, sangat senang sih.
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	Selama ini di DKI ya terutama, kita sih banyak banget latihan-latihan maupun dari basic.
+83	Selama ini di DKI ya terutama, kita sih banyak banget latihan-latihan maupun dari basic.
+84	Selama ini di DKI ya terutama, kita sih banyak banget latihan-latihan maupun dari basic.
+85	Selama ini di DKI ya terutama, kita sih banyak banget latihan-latihan maupun dari basic.
+86	Selama ini di DKI ya terutama, kita sih banyak banget latihan-latihan maupun dari basic.
+87	Selama ini di DKI ya terutama, kita sih banyak banget latihan-latihan maupun dari basic.
+88	Selama ini di DKI ya terutama, kita sih banyak banget latihan-latihan maupun dari basic.
+89	Selama ini di DKI ya terutama, kita sih banyak banget latihan-latihan maupun dari basic.
+90	Selama ini di DKI ya terutama, kita sih banyak banget latihan-latihan maupun dari basic.
+91	Selama ini di DKI ya terutama, kita sih banyak banget latihan-latihan maupun dari basic.
+92	Selama ini di DKI ya terutama, kita sih banyak banget latihan-latihan maupun dari basic.
+93	Selama ini di DKI ya terutama, kita sih banyak banget latihan-latihan maupun dari basic.
+94	Selama ini di DKI ya terutama, kita sih banyak banget latihan-latihan maupun dari basic.
+95	Selama ini di DKI ya terutama, kita sih banyak banget latihan-latihan maupun dari basic. Kita nggak pernah lupa basic-basic skills atau teknik.
+96	Selama ini di DKI ya terutama, kita sih banyak banget latihan-latihan maupun dari basic. Kita nggak pernah lupa basic-basic skills atau teknik.
+97	Kita nggak pernah lupa basic-basic skills atau teknik.
+98	Kita nggak pernah lupa basic-basic skills atau teknik.
+99	Kita nggak pernah lupa basic-basic skills atau teknik.
+100	Kita nggak pernah lupa basic-basic skills atau teknik.
+101	Kita nggak pernah lupa basic-basic skills atau teknik.
+102	Kita nggak pernah lupa basic-basic skills atau teknik.
+103	Kita nggak pernah lupa basic-basic skills atau teknik.
+104	Kita nggak pernah lupa basic-basic skills atau teknik.
+105	Kita nggak pernah lupa basic-basic skills atau teknik.
+106	Kita nggak pernah lupa basic-basic skills atau teknik.
+107	Kita nggak pernah lupa basic-basic skills atau teknik. Untuk latihan biar kita bisa lebih mantep lagi, lebih memboleh skill-skill kita.
+108	Kita nggak pernah lupa basic-basic skills atau teknik. Untuk latihan biar kita bisa lebih mantep lagi, lebih memboleh skill-skill kita.
+109	Untuk latihan biar kita bisa lebih mantep lagi, lebih memboleh skill-skill kita.
+110	Untuk latihan biar kita bisa lebih mantep lagi, lebih memboleh skill-skill kita.
+111	Untuk latihan biar kita bisa lebih mantep lagi, lebih memboleh skill-skill kita.
+112	Untuk latihan biar kita bisa lebih mantep lagi, lebih memboleh skill-skill kita.
+113	Untuk latihan biar kita bisa lebih mantep lagi, lebih memboleh skill-skill kita.
+114	Untuk latihan biar kita bisa lebih mantep lagi, lebih memboleh skill-skill kita.
+115	Untuk latihan biar kita bisa lebih mantep lagi, lebih memboleh skill-skill kita.
+116	Untuk latihan biar kita bisa lebih mantep lagi, lebih memboleh skill-skill kita.
+117	Untuk latihan biar kita bisa lebih mantep lagi, lebih memboleh skill-skill kita.
+118	Untuk latihan biar kita bisa lebih mantep lagi, lebih memboleh skill-skill kita.
+119	Untuk latihan biar kita bisa lebih mantep lagi, lebih memboleh skill-skill kita.
+120	Terus juga kita ada juga latihan fisik di pagi hari,
+121	Terus juga kita ada juga latihan fisik di pagi hari,
+122	Terus juga kita ada juga latihan fisik di pagi hari,
+123	Terus juga kita ada juga latihan fisik di pagi hari,
+124	Terus juga kita ada juga latihan fisik di pagi hari,
+125	Terus juga kita ada juga latihan fisik di pagi hari,
+126	Terus juga kita ada juga latihan fisik di pagi hari,
+127	Terus juga kita ada juga latihan fisik di pagi hari,
+128	Terus juga kita ada juga latihan fisik di pagi hari,
+129	Terus juga kita ada juga latihan fisik di pagi hari, di mana ngetes mengembang stamina kita sih yang sangat membantu kita bertanding selama 3 hari ini.
+130	Terus juga kita ada juga latihan fisik di pagi hari, di mana ngetes mengembang stamina kita sih yang sangat membantu kita bertanding selama 3 hari ini.
+131	di mana ngetes mengembang stamina kita sih yang sangat membantu kita bertanding selama 3 hari ini.
+132	di mana ngetes mengembang stamina kita sih yang sangat membantu kita bertanding selama 3 hari ini.
+133	di mana ngetes mengembang stamina kita sih yang sangat membantu kita bertanding selama 3 hari ini.
+134	di mana ngetes mengembang stamina kita sih yang sangat membantu kita bertanding selama 3 hari ini.
+135	di mana ngetes mengembang stamina kita sih yang sangat membantu kita bertanding selama 3 hari ini.
+136	di mana ngetes mengembang stamina kita sih yang sangat membantu kita bertanding selama 3 hari ini.
+137	di mana ngetes mengembang stamina kita sih yang sangat membantu kita bertanding selama 3 hari ini.
+138	di mana ngetes mengembang stamina kita sih yang sangat membantu kita bertanding selama 3 hari ini.
+139	di mana ngetes mengembang stamina kita sih yang sangat membantu kita bertanding selama 3 hari ini.
+140	di mana ngetes mengembang stamina kita sih yang sangat membantu kita bertanding selama 3 hari ini.
+141	di mana ngetes mengembang stamina kita sih yang sangat membantu kita bertanding selama 3 hari ini.
+142	di mana ngetes mengembang stamina kita sih yang sangat membantu kita bertanding selama 3 hari ini.
+143	di mana ngetes mengembang stamina kita sih yang sangat membantu kita bertanding selama 3 hari ini.
+144	di mana ngetes mengembang stamina kita sih yang sangat membantu kita bertanding selama 3 hari ini.
+145	di mana ngetes mengembang stamina kita sih yang sangat membantu kita bertanding selama 3 hari ini.
+146	di mana ngetes mengembang stamina kita sih yang sangat membantu kita bertanding selama 3 hari ini.
+147	di mana ngetes mengembang stamina kita sih yang sangat membantu kita bertanding selama 3 hari ini.
+148	[NO_SPEECH]
+149	[NO_SPEECH]
+150	[NO_SPEECH]
+151	[NO_SPEECH]
+152	Tanggapan saya terhadap Kejurnas Junior tahun ini sih sangat hebat ya.
+153	Tanggapan saya terhadap Kejurnas Junior tahun ini sih sangat hebat ya.
+154	Tanggapan saya terhadap Kejurnas Junior tahun ini sih sangat hebat ya.
+155	Tanggapan saya terhadap Kejurnas Junior tahun ini sih sangat hebat ya.
+156	Tanggapan saya terhadap Kejurnas Junior tahun ini sih sangat hebat ya.
+157	Tanggapan saya terhadap Kejurnas Junior tahun ini sih sangat hebat ya.
+158	Tanggapan saya terhadap Kejurnas Junior tahun ini sih sangat hebat ya.
+159	Tanggapan saya terhadap Kejurnas Junior tahun ini sih sangat hebat ya.
+160	Tanggapan saya terhadap Kejurnas Junior tahun ini sih sangat hebat ya.
+161	Tanggapan saya terhadap Kejurnas Junior tahun ini sih sangat hebat ya.
+162	Tanggapan saya terhadap Kejurnas Junior tahun ini sih sangat hebat ya.
+163	Tanggapan saya terhadap Kejurnas Junior tahun ini sih sangat hebat ya.
+164	Tanggapan saya terhadap Kejurnas Junior tahun ini sih sangat hebat ya.
+165	Tanggapan saya terhadap Kejurnas Junior tahun ini sih sangat hebat ya.
+166	Tanggapan saya terhadap Kejurnas Junior tahun ini sih sangat hebat ya. Apalagi saya nggak nyangka ternyata balik lagi beberapa provinsi-provinsi yang dulunya ada sekarang nggak ada terus ada lagi.
+167	Tanggapan saya terhadap Kejurnas Junior tahun ini sih sangat hebat ya. Apalagi saya nggak nyangka ternyata balik lagi beberapa provinsi-provinsi yang dulunya ada sekarang nggak ada terus ada lagi.
+168	Apalagi saya nggak nyangka ternyata balik lagi beberapa provinsi-provinsi yang dulunya ada sekarang nggak ada terus ada lagi.
+169	Apalagi saya nggak nyangka ternyata balik lagi beberapa provinsi-provinsi yang dulunya ada sekarang nggak ada terus ada lagi.
+170	Apalagi saya nggak nyangka ternyata balik lagi beberapa provinsi-provinsi yang dulunya ada sekarang nggak ada terus ada lagi.
+171	Apalagi saya nggak nyangka ternyata balik lagi beberapa provinsi-provinsi yang dulunya ada sekarang nggak ada terus ada lagi.
+172	Apalagi saya nggak nyangka ternyata balik lagi beberapa provinsi-provinsi yang dulunya ada sekarang nggak ada terus ada lagi.
+173	Apalagi saya nggak nyangka ternyata balik lagi beberapa provinsi-provinsi yang dulunya ada sekarang nggak ada terus ada lagi.
+174	Apalagi saya nggak nyangka ternyata balik lagi beberapa provinsi-provinsi yang dulunya ada sekarang nggak ada terus ada lagi.
+175	Apalagi saya nggak nyangka ternyata balik lagi beberapa provinsi-provinsi yang dulunya ada sekarang nggak ada terus ada lagi.
+176	Apalagi saya nggak nyangka ternyata balik lagi beberapa provinsi-provinsi yang dulunya ada sekarang nggak ada terus ada lagi.
+177	Apalagi saya nggak nyangka ternyata balik lagi beberapa provinsi-provinsi yang dulunya ada sekarang nggak ada terus ada lagi.
+178	Apalagi saya nggak nyangka ternyata balik lagi beberapa provinsi-provinsi yang dulunya ada sekarang nggak ada terus ada lagi.
+179	Apalagi saya nggak nyangka ternyata balik lagi beberapa provinsi-provinsi yang dulunya ada sekarang nggak ada terus ada lagi.
+180	Apalagi saya nggak nyangka ternyata balik lagi beberapa provinsi-provinsi yang dulunya ada sekarang nggak ada terus ada lagi.
+181	Apalagi saya nggak nyangka ternyata balik lagi beberapa provinsi-provinsi yang dulunya ada sekarang nggak ada terus ada lagi.
+182	Apalagi saya nggak nyangka ternyata balik lagi beberapa provinsi-provinsi yang dulunya ada sekarang nggak ada terus ada lagi.
+183	Apalagi saya nggak nyangka ternyata balik lagi beberapa provinsi-provinsi yang dulunya ada sekarang nggak ada terus ada lagi.
+184	Apalagi saya nggak nyangka ternyata balik lagi beberapa provinsi-provinsi yang dulunya ada sekarang nggak ada terus ada lagi.
+185	Apalagi saya nggak nyangka ternyata balik lagi beberapa provinsi-provinsi yang dulunya ada sekarang nggak ada terus ada lagi.
+186	[NO_SPEECH]
+187	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+188	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+189	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+190	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+191	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+192	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+193	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+194	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+195	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+196	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+197	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+198	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+199	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+200	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+201	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+202	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+203	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+204	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+205	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+206	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+207	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+208	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+209	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior.
+210	Melihat Kejurnas Junior kali ini yang sangat rame, sangat senang sih melihat banyak adik-adik yang bisa melanjutkan bowling di Indonesia, terutama dari junior. Dan karena ini juga pertandingan junior terakhir saya, saya sangat senang dan puas dengan Kejurnas Junior 2025 ini sih.
+211	Dan karena ini juga pertandingan junior terakhir saya, saya sangat senang dan puas dengan Kejurnas Junior 2025 ini sih.
+212	Dan karena ini juga pertandingan junior terakhir saya, saya sangat senang dan puas dengan Kejurnas Junior 2025 ini sih.
+213	Dan karena ini juga pertandingan junior terakhir saya, saya sangat senang dan puas dengan Kejurnas Junior 2025 ini sih.
+214	Dan karena ini juga pertandingan junior terakhir saya, saya sangat senang dan puas dengan Kejurnas Junior 2025 ini sih.
+215	Dan karena ini juga pertandingan junior terakhir saya, saya sangat senang dan puas dengan Kejurnas Junior 2025 ini sih.
+216	Dan karena ini juga pertandingan junior terakhir saya, saya sangat senang dan puas dengan Kejurnas Junior 2025 ini sih.
+217	Dan karena ini juga pertandingan junior terakhir saya, saya sangat senang dan puas dengan Kejurnas Junior 2025 ini sih.
+218	Dan karena ini juga pertandingan junior terakhir saya, saya sangat senang dan puas dengan Kejurnas Junior 2025 ini sih.
+219	Dan karena ini juga pertandingan junior terakhir saya, saya sangat senang dan puas dengan Kejurnas Junior 2025 ini sih.
+220	Dan karena ini juga pertandingan junior terakhir saya, saya sangat senang dan puas dengan Kejurnas Junior 2025 ini sih.
+221	Dan karena ini juga pertandingan junior terakhir saya, saya sangat senang dan puas dengan Kejurnas Junior 2025 ini sih.
+222	Dan karena ini juga pertandingan junior terakhir saya, saya sangat senang dan puas dengan Kejurnas Junior 2025 ini sih.
+223	Dan karena ini juga pertandingan junior terakhir saya, saya sangat senang dan puas dengan Kejurnas Junior 2025 ini sih.
+224	Dan karena ini juga pertandingan junior terakhir saya, saya sangat senang dan puas dengan Kejurnas Junior 2025 ini sih.
+225	Dan karena ini juga pertandingan junior terakhir saya, saya sangat senang dan puas dengan Kejurnas Junior 2025 ini sih.
+226	Dan karena ini juga pertandingan junior terakhir saya, saya sangat senang dan puas dengan Kejurnas Junior 2025 ini sih.
+227	[NO_SPEECH]
+228	[NO_SPEECH]
+229	[NO_SPEECH]
+230	[NO_SPEECH]
+231	[NO_SPEECH]
+232	Harapan saya terhadap pertandingan Kejurnas Junior ke depan-depannya ataupun pertandingan junior ke depan-depannya,
+233	Harapan saya terhadap pertandingan Kejurnas Junior ke depan-depannya ataupun pertandingan junior ke depan-depannya,
+234	Harapan saya terhadap pertandingan Kejurnas Junior ke depan-depannya ataupun pertandingan junior ke depan-depannya,
+235	Harapan saya terhadap pertandingan Kejurnas Junior ke depan-depannya ataupun pertandingan junior ke depan-depannya,
+236	Harapan saya terhadap pertandingan Kejurnas Junior ke depan-depannya ataupun pertandingan junior ke depan-depannya,
+237	Harapan saya terhadap pertandingan Kejurnas Junior ke depan-depannya ataupun pertandingan junior ke depan-depannya,
+238	Harapan saya terhadap pertandingan Kejurnas Junior ke depan-depannya ataupun pertandingan junior ke depan-depannya,
+239	Harapan saya terhadap pertandingan Kejurnas Junior ke depan-depannya ataupun pertandingan junior ke depan-depannya,
+240	Harapan saya terhadap pertandingan Kejurnas Junior ke depan-depannya ataupun pertandingan junior ke depan-depannya,
+241	Harapan saya terhadap pertandingan Kejurnas Junior ke depan-depannya ataupun pertandingan junior ke depan-depannya,
+242	Harapan saya terhadap pertandingan Kejurnas Junior ke depan-depannya ataupun pertandingan junior ke depan-depannya,
+243	Harapan saya terhadap pertandingan Kejurnas Junior ke depan-depannya ataupun pertandingan junior ke depan-depannya,
+244	Harapan saya terhadap pertandingan Kejurnas Junior ke depan-depannya ataupun pertandingan junior ke depan-depannya,
+245	Harapan saya terhadap pertandingan Kejurnas Junior ke depan-depannya ataupun pertandingan junior ke depan-depannya,
+246	Harapan saya terhadap pertandingan Kejurnas Junior ke depan-depannya ataupun pertandingan junior ke depan-depannya,
+247	Harapan saya terhadap pertandingan Kejurnas Junior ke depan-depannya ataupun pertandingan junior ke depan-depannya,
+248	Harapan saya terhadap pertandingan Kejurnas Junior ke depan-depannya ataupun pertandingan junior ke depan-depannya, banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+249	Harapan saya terhadap pertandingan Kejurnas Junior ke depan-depannya ataupun pertandingan junior ke depan-depannya, banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+250	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+251	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+252	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+253	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+254	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+255	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+256	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+257	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+258	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+259	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+260	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+261	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+262	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+263	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+264	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+265	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+266	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+267	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+268	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+269	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+270	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+271	banyak bibit-bibit yang sungguh-sungguh, banyak regenerasi dan semoga bisa mengharumkan nama Indonesia.
+272	Dan mengikuti jejak-jejak abang-abangnya, kakak-kakaknya, senior-seniornya.
+273	Dan mengikuti jejak-jejak abang-abangnya, kakak-kakaknya, senior-seniornya.
+274	Dan mengikuti jejak-jejak abang-abangnya, kakak-kakaknya, senior-seniornya.
+275	Dan mengikuti jejak-jejak abang-abangnya, kakak-kakaknya, senior-seniornya.
+276	Dan mengikuti jejak-jejak abang-abangnya, kakak-kakaknya, senior-seniornya.
+277	Dan mengikuti jejak-jejak abang-abangnya, kakak-kakaknya, senior-seniornya.
+278	Dan mengikuti jejak-jejak abang-abangnya, kakak-kakaknya, senior-seniornya.
+279	Dan mengikuti jejak-jejak abang-abangnya, kakak-kakaknya, senior-seniornya.
+280	Dan mengikuti jejak-jejak abang-abangnya, kakak-kakaknya, senior-seniornya.
+281	Salam warahmatullahi wabarakatuh.
+282	Salam warahmatullahi wabarakatuh.
+283	Salam warahmatullahi wabarakatuh.
+284	Salam warahmatullahi wabarakatuh.
+285	[NO_SPEECH]
+286	Terima kasih.
+287	Terima kasih.

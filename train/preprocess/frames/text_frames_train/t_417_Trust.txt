@@ -1,0 +1,158 @@
+0	Berenang adalah olahraga yang paling menyenangkan dan sangat efektif.
+1	Berenang adalah olahraga yang paling menyenangkan dan sangat efektif.
+2	Berenang adalah olahraga yang paling menyenangkan dan sangat efektif.
+3	Berenang adalah olahraga yang paling menyenangkan dan sangat efektif.
+4	Berenang adalah olahraga yang paling menyenangkan dan sangat efektif.
+5	Berenang adalah olahraga yang paling menyenangkan dan sangat efektif. Sebelum kita belajar tentang beberapa gaya dalam berenang,
+6	Berenang adalah olahraga yang paling menyenangkan dan sangat efektif. Sebelum kita belajar tentang beberapa gaya dalam berenang,
+7	Sebelum kita belajar tentang beberapa gaya dalam berenang,
+8	Sebelum kita belajar tentang beberapa gaya dalam berenang,
+9	Sebelum kita belajar tentang beberapa gaya dalam berenang,
+10	Sebelum kita belajar tentang beberapa gaya dalam berenang,
+11	Sebelum kita belajar tentang beberapa gaya dalam berenang,
+12	Sebelum kita belajar tentang beberapa gaya dalam berenang, angka baiknya kita belajar tentang teknik dasar dalam berenang.
+13	Sebelum kita belajar tentang beberapa gaya dalam berenang, angka baiknya kita belajar tentang teknik dasar dalam berenang.
+14	angka baiknya kita belajar tentang teknik dasar dalam berenang.
+15	angka baiknya kita belajar tentang teknik dasar dalam berenang.
+16	angka baiknya kita belajar tentang teknik dasar dalam berenang.
+17	angka baiknya kita belajar tentang teknik dasar dalam berenang.
+18	angka baiknya kita belajar tentang teknik dasar dalam berenang.
+19	angka baiknya kita belajar tentang teknik dasar dalam berenang. Berikut ada beberapa step untuk belajar tentang teknik dasar berenang.
+20	angka baiknya kita belajar tentang teknik dasar dalam berenang. Berikut ada beberapa step untuk belajar tentang teknik dasar berenang.
+21	Berikut ada beberapa step untuk belajar tentang teknik dasar berenang.
+22	Berikut ada beberapa step untuk belajar tentang teknik dasar berenang.
+23	Berikut ada beberapa step untuk belajar tentang teknik dasar berenang.
+24	Berikut ada beberapa step untuk belajar tentang teknik dasar berenang.
+25	Berikut ada beberapa step untuk belajar tentang teknik dasar berenang.
+26	Berikut ada beberapa step untuk belajar tentang teknik dasar berenang.
+27	Berikut ada beberapa step untuk belajar tentang teknik dasar berenang.
+28	Berikut ada beberapa step untuk belajar tentang teknik dasar berenang.
+29	Berikut ada beberapa step untuk belajar tentang teknik dasar berenang.
+30	Teknik pertama adalah teknik bernafas.
+31	Teknik pertama adalah teknik bernafas.
+32	Teknik pertama adalah teknik bernafas.
+33	Teknik pertama adalah teknik bernafas.
+34	Teknik pertama adalah teknik bernafas. Teknik bernafas ini bisa disebut dengan bubble.
+35	Teknik pertama adalah teknik bernafas. Teknik bernafas ini bisa disebut dengan bubble.
+36	Teknik bernafas ini bisa disebut dengan bubble.
+37	Teknik bernafas ini bisa disebut dengan bubble.
+38	Teknik bernafas ini bisa disebut dengan bubble.
+39	Teknik bernafas ini bisa disebut dengan bubble.
+40	Teknik bernafas ini bisa disebut dengan bubble.
+41	Teknik bernafas ini bisa disebut dengan bubble. Teknik bernafas bisa dilakukan dengan tarik nafas dari mulut,
+42	Teknik bernafas bisa dilakukan dengan tarik nafas dari mulut,
+43	Teknik bernafas bisa dilakukan dengan tarik nafas dari mulut,
+44	Teknik bernafas bisa dilakukan dengan tarik nafas dari mulut,
+45	Teknik bernafas bisa dilakukan dengan tarik nafas dari mulut,
+46	Teknik bernafas bisa dilakukan dengan tarik nafas dari mulut,
+47	Teknik bernafas bisa dilakukan dengan tarik nafas dari mulut,
+48	Teknik bernafas bisa dilakukan dengan tarik nafas dari mulut, jadi di dalam air bisa dibuang lewat hidung.
+49	Teknik bernafas bisa dilakukan dengan tarik nafas dari mulut, jadi di dalam air bisa dibuang lewat hidung.
+50	jadi di dalam air bisa dibuang lewat hidung.
+51	jadi di dalam air bisa dibuang lewat hidung.
+52	jadi di dalam air bisa dibuang lewat hidung.
+53	jadi di dalam air bisa dibuang lewat hidung. Yang kedua teknik meluncur.
+54	jadi di dalam air bisa dibuang lewat hidung. Yang kedua teknik meluncur.
+55	Yang kedua teknik meluncur.
+56	Yang kedua teknik meluncur.
+57	Yang kedua teknik meluncur. Teknik meluncur bisa dilakukan dengan posisi tangan streamline,
+58	Yang kedua teknik meluncur. Teknik meluncur bisa dilakukan dengan posisi tangan streamline,
+59	Yang kedua teknik meluncur. Teknik meluncur bisa dilakukan dengan posisi tangan streamline,
+60	Teknik meluncur bisa dilakukan dengan posisi tangan streamline,
+61	Teknik meluncur bisa dilakukan dengan posisi tangan streamline,
+62	Teknik meluncur bisa dilakukan dengan posisi tangan streamline,
+63	Teknik meluncur bisa dilakukan dengan posisi tangan streamline,
+64	Teknik meluncur bisa dilakukan dengan posisi tangan streamline,
+65	Teknik meluncur bisa dilakukan dengan posisi tangan streamline,
+66	Teknik meluncur bisa dilakukan dengan posisi tangan streamline, kemudian kaki menendang ke dinding kolam,
+67	kemudian kaki menendang ke dinding kolam,
+68	kemudian kaki menendang ke dinding kolam,
+69	kemudian kaki menendang ke dinding kolam,
+70	kemudian kaki menendang ke dinding kolam,
+71	kemudian kaki menendang ke dinding kolam,
+72	kemudian kaki menendang ke dinding kolam,
+73	kemudian kaki menendang ke dinding kolam, lakukan gerakan untuk meluncur ke depan.
+74	lakukan gerakan untuk meluncur ke depan.
+75	lakukan gerakan untuk meluncur ke depan.
+76	lakukan gerakan untuk meluncur ke depan.
+77	lakukan gerakan untuk meluncur ke depan.
+78	lakukan gerakan untuk meluncur ke depan. Yang ketiga teknik kaki.
+79	lakukan gerakan untuk meluncur ke depan. Yang ketiga teknik kaki.
+80	Yang ketiga teknik kaki.
+81	Yang ketiga teknik kaki.
+82	Yang ketiga teknik kaki. Teknik kaki ini bisa kalian lakukan untuk pemula,
+83	Yang ketiga teknik kaki. Teknik kaki ini bisa kalian lakukan untuk pemula,
+84	Teknik kaki ini bisa kalian lakukan untuk pemula,
+85	Teknik kaki ini bisa kalian lakukan untuk pemula,
+86	Teknik kaki ini bisa kalian lakukan untuk pemula,
+87	Teknik kaki ini bisa kalian lakukan untuk pemula,
+88	Teknik kaki ini bisa kalian lakukan untuk pemula,
+89	Teknik kaki ini bisa kalian lakukan untuk pemula, belajar tentang kaki gaya bebas,
+90	Teknik kaki ini bisa kalian lakukan untuk pemula, belajar tentang kaki gaya bebas,
+91	belajar tentang kaki gaya bebas,
+92	belajar tentang kaki gaya bebas,
+93	belajar tentang kaki gaya bebas, ataupun bagaimana kalian melakukan tentang kaki gaya dada.
+94	belajar tentang kaki gaya bebas, ataupun bagaimana kalian melakukan tentang kaki gaya dada.
+95	ataupun bagaimana kalian melakukan tentang kaki gaya dada.
+96	ataupun bagaimana kalian melakukan tentang kaki gaya dada.
+97	ataupun bagaimana kalian melakukan tentang kaki gaya dada.
+98	ataupun bagaimana kalian melakukan tentang kaki gaya dada.
+99	ataupun bagaimana kalian melakukan tentang kaki gaya dada.
+100	ataupun bagaimana kalian melakukan tentang kaki gaya dada. Teknik dasar yang keempat adalah teknik tangan.
+101	Teknik dasar yang keempat adalah teknik tangan.
+102	Teknik dasar yang keempat adalah teknik tangan.
+103	Teknik dasar yang keempat adalah teknik tangan.
+104	Teknik dasar yang keempat adalah teknik tangan.
+105	Teknik dasar yang keempat adalah teknik tangan. Teknik tangan untuk pemula,
+106	Teknik dasar yang keempat adalah teknik tangan. Teknik tangan untuk pemula,
+107	Teknik tangan untuk pemula,
+108	Teknik tangan untuk pemula,
+109	Teknik tangan untuk pemula, kalian bisa belajar terlebih dahulu,
+110	Teknik tangan untuk pemula, kalian bisa belajar terlebih dahulu,
+111	kalian bisa belajar terlebih dahulu,
+112	kalian bisa belajar terlebih dahulu,
+113	kalian bisa belajar terlebih dahulu, dengan melakukan gaya tangan gaya bebas,
+114	kalian bisa belajar terlebih dahulu, dengan melakukan gaya tangan gaya bebas,
+115	dengan melakukan gaya tangan gaya bebas,
+116	dengan melakukan gaya tangan gaya bebas,
+117	dengan melakukan gaya tangan gaya bebas,
+118	dengan melakukan gaya tangan gaya bebas,
+119	dengan melakukan gaya tangan gaya bebas,
+120	dengan melakukan gaya tangan gaya bebas, ataupun dengan tangan gaya dada.
+121	dengan melakukan gaya tangan gaya bebas, ataupun dengan tangan gaya dada.
+122	ataupun dengan tangan gaya dada.
+123	ataupun dengan tangan gaya dada.
+124	ataupun dengan tangan gaya dada.
+125	ataupun dengan tangan gaya dada. Buat kalian yang mau tahu lebih lanjut,
+126	Buat kalian yang mau tahu lebih lanjut,
+127	Buat kalian yang mau tahu lebih lanjut,
+128	Buat kalian yang mau tahu lebih lanjut,
+129	Buat kalian yang mau tahu lebih lanjut,
+130	Buat kalian yang mau tahu lebih lanjut, atau mau belajar renang untuk pemula ataupun yang baru,
+131	Buat kalian yang mau tahu lebih lanjut, atau mau belajar renang untuk pemula ataupun yang baru,
+132	atau mau belajar renang untuk pemula ataupun yang baru,
+133	atau mau belajar renang untuk pemula ataupun yang baru,
+134	atau mau belajar renang untuk pemula ataupun yang baru,
+135	atau mau belajar renang untuk pemula ataupun yang baru,
+136	atau mau belajar renang untuk pemula ataupun yang baru,
+137	atau mau belajar renang untuk pemula ataupun yang baru,
+138	atau mau belajar renang untuk pemula ataupun yang baru, bisa bergabung di Bina Renang Tangkas Potsatel.
+139	atau mau belajar renang untuk pemula ataupun yang baru, bisa bergabung di Bina Renang Tangkas Potsatel.
+140	bisa bergabung di Bina Renang Tangkas Potsatel.
+141	bisa bergabung di Bina Renang Tangkas Potsatel.
+142	bisa bergabung di Bina Renang Tangkas Potsatel.
+143	bisa bergabung di Bina Renang Tangkas Potsatel.
+144	bisa bergabung di Bina Renang Tangkas Potsatel.
+145	[NO_SPEECH]
+146	[NO_SPEECH]
+147	[NO_SPEECH]
+148	[NO_SPEECH]
+149	[NO_SPEECH]
+150	[NO_SPEECH]
+151	[NO_SPEECH]
+152	[NO_SPEECH]
+153	[NO_SPEECH]
+154	[NO_SPEECH]
+155	[NO_SPEECH]
+156	[NO_SPEECH]
+157	[NO_SPEECH]

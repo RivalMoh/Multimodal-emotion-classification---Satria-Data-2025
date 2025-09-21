@@ -1,0 +1,167 @@
+0	Menjelaskan bahwa teori-teori konspirasi itu menjadi laku di masyarakat
+1	Menjelaskan bahwa teori-teori konspirasi itu menjadi laku di masyarakat
+2	Menjelaskan bahwa teori-teori konspirasi itu menjadi laku di masyarakat
+3	Menjelaskan bahwa teori-teori konspirasi itu menjadi laku di masyarakat
+4	Menjelaskan bahwa teori-teori konspirasi itu menjadi laku di masyarakat
+5	Menjelaskan bahwa teori-teori konspirasi itu menjadi laku di masyarakat
+6	Menjelaskan bahwa teori-teori konspirasi itu menjadi laku di masyarakat
+7	Menjelaskan bahwa teori-teori konspirasi itu menjadi laku di masyarakat Menjadi akrab di masyarakat
+8	Menjelaskan bahwa teori-teori konspirasi itu menjadi laku di masyarakat Menjadi akrab di masyarakat
+9	Menjadi akrab di masyarakat
+10	Menjadi akrab di masyarakat Itu bukan karena
+11	Menjadi akrab di masyarakat Itu bukan karena
+12	Itu bukan karena
+13	Itu bukan karena
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	Bukan karena teori itu terpercaya
+17	Bukan karena teori itu terpercaya
+18	Bukan karena teori itu terpercaya
+19	Bukan karena teori itu terpercaya
+20	Bukan karena teori itu terpercaya
+21	Bukan karena teori itu terpercaya
+22	Bukan karena teori itu terpercaya
+23	Tapi karena orang yang menyimaknya memang membutuhkan itu untuk menenangkan jiwanya
+24	Tapi karena orang yang menyimaknya memang membutuhkan itu untuk menenangkan jiwanya
+25	Tapi karena orang yang menyimaknya memang membutuhkan itu untuk menenangkan jiwanya
+26	Tapi karena orang yang menyimaknya memang membutuhkan itu untuk menenangkan jiwanya
+27	Tapi karena orang yang menyimaknya memang membutuhkan itu untuk menenangkan jiwanya
+28	Tapi karena orang yang menyimaknya memang membutuhkan itu untuk menenangkan jiwanya
+29	Tapi karena orang yang menyimaknya memang membutuhkan itu untuk menenangkan jiwanya
+30	Tapi karena orang yang menyimaknya memang membutuhkan itu untuk menenangkan jiwanya
+31	Tapi karena orang yang menyimaknya memang membutuhkan itu untuk menenangkan jiwanya
+32	Tapi karena orang yang menyimaknya memang membutuhkan itu untuk menenangkan jiwanya
+33	Tapi karena orang yang menyimaknya memang membutuhkan itu untuk menenangkan jiwanya Atau yang menjelaskan memang jago bercerita
+34	Tapi karena orang yang menyimaknya memang membutuhkan itu untuk menenangkan jiwanya Atau yang menjelaskan memang jago bercerita
+35	Atau yang menjelaskan memang jago bercerita
+36	Atau yang menjelaskan memang jago bercerita
+37	Atau yang menjelaskan memang jago bercerita
+38	Atau yang menjelaskan memang jago bercerita Bukan-bukan maksudnya gini
+39	Atau yang menjelaskan memang jago bercerita Bukan-bukan maksudnya gini
+40	Bukan-bukan maksudnya gini
+41	Bukan-bukan maksudnya gini Teori konspirasi itu
+42	Bukan-bukan maksudnya gini Teori konspirasi itu
+43	Teori konspirasi itu
+44	Teori konspirasi itu
+45	Teori konspirasi itu Ya kalau itu tentu saja
+46	Teori konspirasi itu Ya kalau itu tentu saja
+47	Ya kalau itu tentu saja
+48	Ya kalau itu tentu saja Jadi teori konspirasi itu
+49	Ya kalau itu tentu saja Jadi teori konspirasi itu
+50	Jadi teori konspirasi itu
+51	Jadi teori konspirasi itu
+52	Jadi teori konspirasi itu
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	Penjelasannya itu memang sangat luar biasa
+56	Penjelasannya itu memang sangat luar biasa
+57	Penjelasannya itu memang sangat luar biasa
+58	Penjelasannya itu memang sangat luar biasa
+59	Penjelasannya itu memang sangat luar biasa Sangat bagus
+60	Penjelasannya itu memang sangat luar biasa Sangat bagus Sehingga menarik perhatian banyak orang gitu
+61	Sangat bagus Sehingga menarik perhatian banyak orang gitu
+62	Sehingga menarik perhatian banyak orang gitu
+63	Sehingga menarik perhatian banyak orang gitu
+64	Sehingga menarik perhatian banyak orang gitu Ya memang
+65	Sehingga menarik perhatian banyak orang gitu Ya memang
+66	Ya memang Cuman maksudnya gini
+67	Ya memang Cuman maksudnya gini Teori konspirasi bisa diterima oleh banyak orang
+68	Cuman maksudnya gini Teori konspirasi bisa diterima oleh banyak orang
+69	Teori konspirasi bisa diterima oleh banyak orang
+70	Teori konspirasi bisa diterima oleh banyak orang
+71	Teori konspirasi bisa diterima oleh banyak orang
+72	Teori konspirasi bisa diterima oleh banyak orang
+73	Teori konspirasi bisa diterima oleh banyak orang Karena orang-orang yang dikalahkan itu butuh
+74	Teori konspirasi bisa diterima oleh banyak orang Karena orang-orang yang dikalahkan itu butuh
+75	Karena orang-orang yang dikalahkan itu butuh
+76	Karena orang-orang yang dikalahkan itu butuh
+77	Karena orang-orang yang dikalahkan itu butuh
+78	Karena orang-orang yang dikalahkan itu butuh
+79	Karena orang-orang yang dikalahkan itu butuh
+80	Karena orang-orang yang dikalahkan itu butuh Butuh morfin
+81	Karena orang-orang yang dikalahkan itu butuh Butuh morfin
+82	Butuh morfin
+83	Butuh morfin Atau apa namanya
+84	Butuh morfin Atau apa namanya
+85	Butuh morfin Atau apa namanya
+86	Atau apa namanya Butuh kebenaran dalam pikirannya gitu ya
+87	Atau apa namanya Butuh kebenaran dalam pikirannya gitu ya
+88	Atau apa namanya Butuh kebenaran dalam pikirannya gitu ya
+89	Butuh kebenaran dalam pikirannya gitu ya
+90	Butuh kebenaran dalam pikirannya gitu ya Yang menenangkan kekalahannya gitu
+91	Butuh kebenaran dalam pikirannya gitu ya Yang menenangkan kekalahannya gitu
+92	Yang menenangkan kekalahannya gitu
+93	Yang menenangkan kekalahannya gitu
+94	Yang menenangkan kekalahannya gitu Jadi sering diungkapkan misalkan
+95	Yang menenangkan kekalahannya gitu Jadi sering diungkapkan misalkan
+96	Jadi sering diungkapkan misalkan
+97	Jadi sering diungkapkan misalkan
+98	Jadi sering diungkapkan misalkan
+99	Jadi sering diungkapkan misalkan
+100	Jadi sering diungkapkan misalkan
+101	Waduh kenapa kaum muslimin sekarang kalah
+102	Waduh kenapa kaum muslimin sekarang kalah
+103	Waduh kenapa kaum muslimin sekarang kalah
+104	Waduh kenapa kaum muslimin sekarang kalah
+105	Waduh kenapa kaum muslimin sekarang kalah
+106	Waduh kenapa kaum muslimin sekarang kalah Oh ini konspirasi Yahudi
+107	Waduh kenapa kaum muslimin sekarang kalah Oh ini konspirasi Yahudi
+108	Oh ini konspirasi Yahudi Wah
+109	Oh ini konspirasi Yahudi Wah
+110	Wah Kenapa sih Indonesia gak maju-maju
+111	Wah Kenapa sih Indonesia gak maju-maju
+112	Kenapa sih Indonesia gak maju-maju
+113	Kenapa sih Indonesia gak maju-maju
+114	Kenapa sih Indonesia gak maju-maju Ya karena negara-negara barat berusaha untuk menghancurkan ekonomi Indonesia
+115	Kenapa sih Indonesia gak maju-maju Ya karena negara-negara barat berusaha untuk menghancurkan ekonomi Indonesia
+116	Ya karena negara-negara barat berusaha untuk menghancurkan ekonomi Indonesia
+117	Ya karena negara-negara barat berusaha untuk menghancurkan ekonomi Indonesia
+118	Ya karena negara-negara barat berusaha untuk menghancurkan ekonomi Indonesia
+119	Ya karena negara-negara barat berusaha untuk menghancurkan ekonomi Indonesia
+120	Ya karena negara-negara barat berusaha untuk menghancurkan ekonomi Indonesia
+121	Ya karena negara-negara barat berusaha untuk menghancurkan ekonomi Indonesia
+122	Ya karena negara-negara barat berusaha untuk menghancurkan ekonomi Indonesia Dan lain sebagainya
+123	Ya karena negara-negara barat berusaha untuk menghancurkan ekonomi Indonesia Dan lain sebagainya
+124	Dan lain sebagainya Nah jadi
+125	Dan lain sebagainya Nah jadi
+126	Nah jadi
+127	Nah jadi Teori-teori itu akan membuat kita tuh
+128	Teori-teori itu akan membuat kita tuh
+129	Teori-teori itu akan membuat kita tuh
+130	Teori-teori itu akan membuat kita tuh
+131	Teori-teori itu akan membuat kita tuh
+132	Teori-teori itu akan membuat kita tuh
+133	Teori-teori itu akan membuat kita tuh
+134	Tenang gitu
+135	Tenang gitu
+136	Tenang gitu Jadi kita tuh tidak lagi resah
+137	Tenang gitu Jadi kita tuh tidak lagi resah
+138	Jadi kita tuh tidak lagi resah
+139	Jadi kita tuh tidak lagi resah
+140	Jadi kita tuh tidak lagi resah Ternyata selama ini kita dibohongin oleh para ilmuwan
+141	Jadi kita tuh tidak lagi resah Ternyata selama ini kita dibohongin oleh para ilmuwan
+142	Ternyata selama ini kita dibohongin oleh para ilmuwan
+143	Ternyata selama ini kita dibohongin oleh para ilmuwan
+144	Ternyata selama ini kita dibohongin oleh para ilmuwan
+145	Ternyata selama ini kita dibohongin oleh para ilmuwan
+146	Ternyata selama ini kita dibohongin oleh para ilmuwan
+147	Ternyata selama ini kita dibohongin oleh para ilmuwan Bahwa bumi itu sebenarnya datar dan sebagainya
+148	Ternyata selama ini kita dibohongin oleh para ilmuwan Bahwa bumi itu sebenarnya datar dan sebagainya
+149	Bahwa bumi itu sebenarnya datar dan sebagainya
+150	Bahwa bumi itu sebenarnya datar dan sebagainya
+151	Bahwa bumi itu sebenarnya datar dan sebagainya
+152	Bahwa bumi itu sebenarnya datar dan sebagainya Ini kan bagi kelompok-kelompok yang tidak diterima secara akademik
+153	Bahwa bumi itu sebenarnya datar dan sebagainya Ini kan bagi kelompok-kelompok yang tidak diterima secara akademik
+154	Ini kan bagi kelompok-kelompok yang tidak diterima secara akademik
+155	Ini kan bagi kelompok-kelompok yang tidak diterima secara akademik
+156	Ini kan bagi kelompok-kelompok yang tidak diterima secara akademik
+157	Ini kan bagi kelompok-kelompok yang tidak diterima secara akademik
+158	Ini kan bagi kelompok-kelompok yang tidak diterima secara akademik
+159	Ini kan bagi kelompok-kelompok yang tidak diterima secara akademik
+160	[NO_SPEECH]
+161	[NO_SPEECH]
+162	[NO_SPEECH]
+163	[NO_SPEECH]
+164	[NO_SPEECH]
+165	[NO_SPEECH]
+166	[NO_SPEECH]

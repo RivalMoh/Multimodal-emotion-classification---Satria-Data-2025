@@ -1,0 +1,156 @@
+0	Ini aku udah selesai makeup aku, sekarang aku mau set all the makeup.
+1	Ini aku udah selesai makeup aku, sekarang aku mau set all the makeup.
+2	Ini aku udah selesai makeup aku, sekarang aku mau set all the makeup.
+3	Ini aku udah selesai makeup aku, sekarang aku mau set all the makeup.
+4	Ini aku udah selesai makeup aku, sekarang aku mau set all the makeup.
+5	Ini aku udah selesai makeup aku, sekarang aku mau set all the makeup.
+6	Ini aku udah selesai makeup aku, sekarang aku mau set all the makeup.
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	Ini gue kasar banget sama muka gue.
+11	Ini gue kasar banget sama muka gue.
+12	Ini gue kasar banget sama muka gue.
+13	Ini gue kasar banget sama muka gue.
+14	Ini gue kasar banget sama muka gue.
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	Nggak, ini tuh sulap.
+18	Nggak, ini tuh sulap.
+19	Nggak, ini tuh sulap.
+20	Nggak, ini tuh sulap. Aku menemukan hairspray untuk muka.
+21	Nggak, ini tuh sulap. Aku menemukan hairspray untuk muka.
+22	Aku menemukan hairspray untuk muka.
+23	Aku menemukan hairspray untuk muka.
+24	Aku menemukan hairspray untuk muka. Iya, hairspray untuk muka.
+25	Aku menemukan hairspray untuk muka. Iya, hairspray untuk muka.
+26	Iya, hairspray untuk muka.
+27	Iya, hairspray untuk muka. Aku pertama-tama produk ini karena ngatal sama Opie, dan aku langsung kayak, I need to try that.
+28	Iya, hairspray untuk muka. Aku pertama-tama produk ini karena ngatal sama Opie, dan aku langsung kayak, I need to try that.
+29	Aku pertama-tama produk ini karena ngatal sama Opie, dan aku langsung kayak, I need to try that.
+30	Aku pertama-tama produk ini karena ngatal sama Opie, dan aku langsung kayak, I need to try that.
+31	Aku pertama-tama produk ini karena ngatal sama Opie, dan aku langsung kayak, I need to try that.
+32	Aku pertama-tama produk ini karena ngatal sama Opie, dan aku langsung kayak, I need to try that.
+33	Aku pertama-tama produk ini karena ngatal sama Opie, dan aku langsung kayak, I need to try that.
+34	Aku pertama-tama produk ini karena ngatal sama Opie, dan aku langsung kayak, I need to try that.
+35	Aku pertama-tama produk ini karena ngatal sama Opie, dan aku langsung kayak, I need to try that. Aku bilang ini hairspray buat muka, karena ini nggak main-main.
+36	Aku pertama-tama produk ini karena ngatal sama Opie, dan aku langsung kayak, I need to try that. Aku bilang ini hairspray buat muka, karena ini nggak main-main.
+37	Aku bilang ini hairspray buat muka, karena ini nggak main-main.
+38	Aku bilang ini hairspray buat muka, karena ini nggak main-main.
+39	Aku bilang ini hairspray buat muka, karena ini nggak main-main. Ini bener-bener setting spray, tertahan banting.
+40	Aku bilang ini hairspray buat muka, karena ini nggak main-main. Ini bener-bener setting spray, tertahan banting.
+41	Ini bener-bener setting spray, tertahan banting.
+42	Ini bener-bener setting spray, tertahan banting.
+43	Ini bener-bener setting spray, tertahan banting.
+44	Ini bener-bener setting spray, tertahan banting.
+45	Ini bener-bener setting spray, tertahan banting. Aku nggak bisa describe selain ini tuh hairspray untuk muka.
+46	Ini bener-bener setting spray, tertahan banting. Aku nggak bisa describe selain ini tuh hairspray untuk muka.
+47	Aku nggak bisa describe selain ini tuh hairspray untuk muka.
+48	Aku nggak bisa describe selain ini tuh hairspray untuk muka.
+49	Aku nggak bisa describe selain ini tuh hairspray untuk muka.
+50	Aku nggak bisa describe selain ini tuh hairspray untuk muka.
+51	Aku nggak bisa describe selain ini tuh hairspray untuk muka.
+52	Aku nggak bisa describe selain ini tuh hairspray untuk muka. Sampai tadi pas aku sempot, poni aku tuh ikutan stay gitu loh.
+53	Aku nggak bisa describe selain ini tuh hairspray untuk muka. Sampai tadi pas aku sempot, poni aku tuh ikutan stay gitu loh.
+54	Sampai tadi pas aku sempot, poni aku tuh ikutan stay gitu loh.
+55	Sampai tadi pas aku sempot, poni aku tuh ikutan stay gitu loh.
+56	Sampai tadi pas aku sempot, poni aku tuh ikutan stay gitu loh.
+57	Sampai tadi pas aku sempot, poni aku tuh ikutan stay gitu loh.
+58	Sampai tadi pas aku sempot, poni aku tuh ikutan stay gitu loh.
+59	Sampai tadi pas aku sempot, poni aku tuh ikutan stay gitu loh. Aku sampai kayak, apakah impulsif?
+60	Sampai tadi pas aku sempot, poni aku tuh ikutan stay gitu loh. Aku sampai kayak, apakah impulsif?
+61	Aku sampai kayak, apakah impulsif?
+62	Aku sampai kayak, apakah impulsif?
+63	Aku sampai kayak, apakah impulsif?
+64	Aku sampai kayak, apakah impulsif? I'm not poni aku.
+65	Aku sampai kayak, apakah impulsif? I'm not poni aku.
+66	I'm not poni aku.
+67	I'm not poni aku. Anyway, ini adalah L'Oreal Infallible 3 Second Setting Mist.
+68	Anyway, ini adalah L'Oreal Infallible 3 Second Setting Mist.
+69	Anyway, ini adalah L'Oreal Infallible 3 Second Setting Mist.
+70	Anyway, ini adalah L'Oreal Infallible 3 Second Setting Mist.
+71	Anyway, ini adalah L'Oreal Infallible 3 Second Setting Mist.
+72	Anyway, ini adalah L'Oreal Infallible 3 Second Setting Mist.
+73	Anyway, ini adalah L'Oreal Infallible 3 Second Setting Mist.
+74	Anyway, ini adalah L'Oreal Infallible 3 Second Setting Mist.
+75	Anyway, ini adalah L'Oreal Infallible 3 Second Setting Mist. Di bilang 3 second, karena ini 3 detik kering.
+76	Di bilang 3 second, karena ini 3 detik kering.
+77	Di bilang 3 second, karena ini 3 detik kering.
+78	Di bilang 3 second, karena ini 3 detik kering.
+79	Di bilang 3 second, karena ini 3 detik kering. Aku belum sempot muka sebelah kanan aku.
+80	Di bilang 3 second, karena ini 3 detik kering. Aku belum sempot muka sebelah kanan aku.
+81	Aku belum sempot muka sebelah kanan aku.
+82	Aku belum sempot muka sebelah kanan aku.
+83	Aku belum sempot muka sebelah kanan aku.
+84	[NO_SPEECH]
+85	[NO_SPEECH]
+86	[NO_SPEECH]
+87	Walaupun dia bener-bener hairspray buat muka dan tahan banting, dia tetap glowy finish-nya.
+88	Walaupun dia bener-bener hairspray buat muka dan tahan banting, dia tetap glowy finish-nya.
+89	Walaupun dia bener-bener hairspray buat muka dan tahan banting, dia tetap glowy finish-nya.
+90	Walaupun dia bener-bener hairspray buat muka dan tahan banting, dia tetap glowy finish-nya.
+91	Walaupun dia bener-bener hairspray buat muka dan tahan banting, dia tetap glowy finish-nya.
+92	Walaupun dia bener-bener hairspray buat muka dan tahan banting, dia tetap glowy finish-nya.
+93	Walaupun dia bener-bener hairspray buat muka dan tahan banting, dia tetap glowy finish-nya.
+94	Walaupun dia bener-bener hairspray buat muka dan tahan banting, dia tetap glowy finish-nya.
+95	Walaupun dia bener-bener hairspray buat muka dan tahan banting, dia tetap glowy finish-nya.
+96	Walaupun dia bener-bener hairspray buat muka dan tahan banting, dia tetap glowy finish-nya.
+97	Walaupun dia bener-bener hairspray buat muka dan tahan banting, dia tetap glowy finish-nya. Zoom in on the skin, you see how it's very luminous and natural glow.
+98	Zoom in on the skin, you see how it's very luminous and natural glow.
+99	Zoom in on the skin, you see how it's very luminous and natural glow.
+100	Zoom in on the skin, you see how it's very luminous and natural glow.
+101	Zoom in on the skin, you see how it's very luminous and natural glow.
+102	Zoom in on the skin, you see how it's very luminous and natural glow.
+103	Zoom in on the skin, you see how it's very luminous and natural glow.
+104	Zoom in on the skin, you see how it's very luminous and natural glow.
+105	Zoom in on the skin, you see how it's very luminous and natural glow. Tapi kalau dipegang ke ini bener-bener kering, dia tuh nggak basah.
+106	Tapi kalau dipegang ke ini bener-bener kering, dia tuh nggak basah.
+107	Tapi kalau dipegang ke ini bener-bener kering, dia tuh nggak basah.
+108	Tapi kalau dipegang ke ini bener-bener kering, dia tuh nggak basah.
+109	Tapi kalau dipegang ke ini bener-bener kering, dia tuh nggak basah.
+110	Tapi kalau dipegang ke ini bener-bener kering, dia tuh nggak basah.
+111	Tapi kalau dipegang ke ini bener-bener kering, dia tuh nggak basah. Gitu loh.
+112	Tapi kalau dipegang ke ini bener-bener kering, dia tuh nggak basah. Gitu loh. Dan juga ini mist-nya perfect banget.
+113	Gitu loh. Dan juga ini mist-nya perfect banget.
+114	Dan juga ini mist-nya perfect banget.
+115	Dan juga ini mist-nya perfect banget.
+116	Dan juga ini mist-nya perfect banget.
+117	Dan juga ini mist-nya perfect banget.
+118	[NO_SPEECH]
+119	[NO_SPEECH]
+120	[NO_SPEECH]
+121	[NO_SPEECH]
+122	[NO_SPEECH]
+123	[NO_SPEECH]
+124	[NO_SPEECH]
+125	[NO_SPEECH]
+126	[NO_SPEECH]
+127	[NO_SPEECH]
+128	[NO_SPEECH]
+129	[NO_SPEECH]
+130	Sekarang udah launch di Indonesia, jadi nggak perlu just-it-just-it ribet-ribet lagi.
+131	Sekarang udah launch di Indonesia, jadi nggak perlu just-it-just-it ribet-ribet lagi.
+132	Sekarang udah launch di Indonesia, jadi nggak perlu just-it-just-it ribet-ribet lagi.
+133	Sekarang udah launch di Indonesia, jadi nggak perlu just-it-just-it ribet-ribet lagi.
+134	Sekarang udah launch di Indonesia, jadi nggak perlu just-it-just-it ribet-ribet lagi.
+135	Sekarang udah launch di Indonesia, jadi nggak perlu just-it-just-it ribet-ribet lagi.
+136	Sekarang udah launch di Indonesia, jadi nggak perlu just-it-just-it ribet-ribet lagi.
+137	Sekarang udah launch di Indonesia, jadi nggak perlu just-it-just-it ribet-ribet lagi.
+138	Sekarang udah launch di Indonesia, jadi nggak perlu just-it-just-it ribet-ribet lagi. Akhirnya udah available di sini.
+139	Sekarang udah launch di Indonesia, jadi nggak perlu just-it-just-it ribet-ribet lagi. Akhirnya udah available di sini.
+140	Akhirnya udah available di sini.
+141	Akhirnya udah available di sini.
+142	Akhirnya udah available di sini. Swipe-swipe di kulit aku yang kayak luminous ini.
+143	Swipe-swipe di kulit aku yang kayak luminous ini.
+144	Swipe-swipe di kulit aku yang kayak luminous ini.
+145	Swipe-swipe di kulit aku yang kayak luminous ini.
+146	Swipe-swipe di kulit aku yang kayak luminous ini.
+147	Swipe-swipe di kulit aku yang kayak luminous ini.
+148	Swipe-swipe di kulit aku yang kayak luminous ini.
+149	[NO_SPEECH]
+150	[NO_SPEECH]
+151	[NO_SPEECH]
+152	[NO_SPEECH]
+153	[NO_SPEECH]
+154	[NO_SPEECH]
+155	[NO_SPEECH]

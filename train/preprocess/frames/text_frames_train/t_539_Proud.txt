@@ -1,0 +1,207 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	.
+4	.
+5	.
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	Cabang olahraga layar DKI Jakarta,
+17	Cabang olahraga layar DKI Jakarta,
+18	Cabang olahraga layar DKI Jakarta,
+19	Cabang olahraga layar DKI Jakarta,
+20	Cabang olahraga layar DKI Jakarta,
+21	Cabang olahraga layar DKI Jakarta, berhasil menyumbang satu medali emas dan dua perunggu di PON 21 Aceh Sumut 2024
+22	Cabang olahraga layar DKI Jakarta, berhasil menyumbang satu medali emas dan dua perunggu di PON 21 Aceh Sumut 2024
+23	berhasil menyumbang satu medali emas dan dua perunggu di PON 21 Aceh Sumut 2024
+24	berhasil menyumbang satu medali emas dan dua perunggu di PON 21 Aceh Sumut 2024
+25	berhasil menyumbang satu medali emas dan dua perunggu di PON 21 Aceh Sumut 2024
+26	berhasil menyumbang satu medali emas dan dua perunggu di PON 21 Aceh Sumut 2024
+27	berhasil menyumbang satu medali emas dan dua perunggu di PON 21 Aceh Sumut 2024
+28	berhasil menyumbang satu medali emas dan dua perunggu di PON 21 Aceh Sumut 2024
+29	berhasil menyumbang satu medali emas dan dua perunggu di PON 21 Aceh Sumut 2024 yang berlangsung di Pantai Gampong Jawa, Banda Aceh.
+30	berhasil menyumbang satu medali emas dan dua perunggu di PON 21 Aceh Sumut 2024 yang berlangsung di Pantai Gampong Jawa, Banda Aceh.
+31	yang berlangsung di Pantai Gampong Jawa, Banda Aceh.
+32	yang berlangsung di Pantai Gampong Jawa, Banda Aceh.
+33	yang berlangsung di Pantai Gampong Jawa, Banda Aceh.
+34	yang berlangsung di Pantai Gampong Jawa, Banda Aceh.
+35	yang berlangsung di Pantai Gampong Jawa, Banda Aceh.
+36	yang berlangsung di Pantai Gampong Jawa, Banda Aceh.
+37	yang berlangsung di Pantai Gampong Jawa, Banda Aceh.
+38	Emas dirai oleh Afriza Ahmad Bagaskara di nomor pertandingan Tekno 293.
+39	Emas dirai oleh Afriza Ahmad Bagaskara di nomor pertandingan Tekno 293.
+40	Emas dirai oleh Afriza Ahmad Bagaskara di nomor pertandingan Tekno 293.
+41	Emas dirai oleh Afriza Ahmad Bagaskara di nomor pertandingan Tekno 293.
+42	Emas dirai oleh Afriza Ahmad Bagaskara di nomor pertandingan Tekno 293.
+43	Emas dirai oleh Afriza Ahmad Bagaskara di nomor pertandingan Tekno 293.
+44	Emas dirai oleh Afriza Ahmad Bagaskara di nomor pertandingan Tekno 293.
+45	Emas dirai oleh Afriza Ahmad Bagaskara di nomor pertandingan Tekno 293.
+46	Emas dirai oleh Afriza Ahmad Bagaskara di nomor pertandingan Tekno 293.
+47	Emas dirai oleh Afriza Ahmad Bagaskara di nomor pertandingan Tekno 293.
+48	Emas dirai oleh Afriza Ahmad Bagaskara di nomor pertandingan Tekno 293. Sedangkan, dua medali perunggu melalui Adesta Raya Ramdhani
+49	Sedangkan, dua medali perunggu melalui Adesta Raya Ramdhani
+50	Sedangkan, dua medali perunggu melalui Adesta Raya Ramdhani
+51	Sedangkan, dua medali perunggu melalui Adesta Raya Ramdhani
+52	Sedangkan, dua medali perunggu melalui Adesta Raya Ramdhani
+53	Sedangkan, dua medali perunggu melalui Adesta Raya Ramdhani
+54	Sedangkan, dua medali perunggu melalui Adesta Raya Ramdhani di nomor pertandingan IQ Voil dan Rasha Aditya Wargana di nomor ILC 4.
+55	Sedangkan, dua medali perunggu melalui Adesta Raya Ramdhani di nomor pertandingan IQ Voil dan Rasha Aditya Wargana di nomor ILC 4.
+56	di nomor pertandingan IQ Voil dan Rasha Aditya Wargana di nomor ILC 4.
+57	di nomor pertandingan IQ Voil dan Rasha Aditya Wargana di nomor ILC 4.
+58	di nomor pertandingan IQ Voil dan Rasha Aditya Wargana di nomor ILC 4.
+59	di nomor pertandingan IQ Voil dan Rasha Aditya Wargana di nomor ILC 4.
+60	di nomor pertandingan IQ Voil dan Rasha Aditya Wargana di nomor ILC 4.
+61	di nomor pertandingan IQ Voil dan Rasha Aditya Wargana di nomor ILC 4.
+62	di nomor pertandingan IQ Voil dan Rasha Aditya Wargana di nomor ILC 4.
+63	di nomor pertandingan IQ Voil dan Rasha Aditya Wargana di nomor ILC 4.
+64	di nomor pertandingan IQ Voil dan Rasha Aditya Wargana di nomor ILC 4. Sementara, pelatih utama Selancar Angin DKI, Ujang Supriyatna mengatakan,
+65	Sementara, pelatih utama Selancar Angin DKI, Ujang Supriyatna mengatakan,
+66	Sementara, pelatih utama Selancar Angin DKI, Ujang Supriyatna mengatakan,
+67	Sementara, pelatih utama Selancar Angin DKI, Ujang Supriyatna mengatakan,
+68	Sementara, pelatih utama Selancar Angin DKI, Ujang Supriyatna mengatakan,
+69	Sementara, pelatih utama Selancar Angin DKI, Ujang Supriyatna mengatakan,
+70	Sementara, pelatih utama Selancar Angin DKI, Ujang Supriyatna mengatakan,
+71	Sementara, pelatih utama Selancar Angin DKI, Ujang Supriyatna mengatakan,
+72	Sementara, pelatih utama Selancar Angin DKI, Ujang Supriyatna mengatakan,
+73	Sementara, pelatih utama Selancar Angin DKI, Ujang Supriyatna mengatakan, puas dengan hasil pertandingan yang dijalani anak asuhnya.
+74	Sementara, pelatih utama Selancar Angin DKI, Ujang Supriyatna mengatakan, puas dengan hasil pertandingan yang dijalani anak asuhnya.
+75	Sementara, pelatih utama Selancar Angin DKI, Ujang Supriyatna mengatakan, puas dengan hasil pertandingan yang dijalani anak asuhnya.
+76	puas dengan hasil pertandingan yang dijalani anak asuhnya.
+77	puas dengan hasil pertandingan yang dijalani anak asuhnya.
+78	puas dengan hasil pertandingan yang dijalani anak asuhnya.
+79	puas dengan hasil pertandingan yang dijalani anak asuhnya.
+80	puas dengan hasil pertandingan yang dijalani anak asuhnya.
+81	[NO_SPEECH]
+82	[NO_SPEECH]
+83	Hasil hari ini cukup bagus ya, cukup mengembirakan,
+84	Hasil hari ini cukup bagus ya, cukup mengembirakan,
+85	Hasil hari ini cukup bagus ya, cukup mengembirakan,
+86	Hasil hari ini cukup bagus ya, cukup mengembirakan,
+87	Hasil hari ini cukup bagus ya, cukup mengembirakan,
+88	Hasil hari ini cukup bagus ya, cukup mengembirakan,
+89	Hasil hari ini cukup bagus ya, cukup mengembirakan,
+90	Hasil hari ini cukup bagus ya, cukup mengembirakan,
+91	Hasil hari ini cukup bagus ya, cukup mengembirakan,
+92	Hasil hari ini cukup bagus ya, cukup mengembirakan,
+93	Hasil hari ini cukup bagus ya, cukup mengembirakan,
+94	Hasil hari ini cukup bagus ya, cukup mengembirakan, karena sesuai target.
+95	Hasil hari ini cukup bagus ya, cukup mengembirakan, karena sesuai target.
+96	karena sesuai target.
+97	karena sesuai target.
+98	karena sesuai target.
+99	karena sesuai target. Karena saya menargetkan satu medali emas dari tujuh nomor
+100	karena sesuai target. Karena saya menargetkan satu medali emas dari tujuh nomor
+101	Karena saya menargetkan satu medali emas dari tujuh nomor
+102	Karena saya menargetkan satu medali emas dari tujuh nomor
+103	Karena saya menargetkan satu medali emas dari tujuh nomor
+104	Karena saya menargetkan satu medali emas dari tujuh nomor
+105	Karena saya menargetkan satu medali emas dari tujuh nomor
+106	Karena saya menargetkan satu medali emas dari tujuh nomor
+107	Karena saya menargetkan satu medali emas dari tujuh nomor yang di pertandingan mencabut Selancar Angin.
+108	Karena saya menargetkan satu medali emas dari tujuh nomor yang di pertandingan mencabut Selancar Angin.
+109	yang di pertandingan mencabut Selancar Angin.
+110	yang di pertandingan mencabut Selancar Angin.
+111	yang di pertandingan mencabut Selancar Angin.
+112	yang di pertandingan mencabut Selancar Angin. Alhamdulillah hari ini satu emas sudah tercapai
+113	yang di pertandingan mencabut Selancar Angin. Alhamdulillah hari ini satu emas sudah tercapai
+114	Alhamdulillah hari ini satu emas sudah tercapai
+115	Alhamdulillah hari ini satu emas sudah tercapai
+116	Alhamdulillah hari ini satu emas sudah tercapai
+117	Alhamdulillah hari ini satu emas sudah tercapai
+118	Alhamdulillah hari ini satu emas sudah tercapai dan tambahan dari kelas yang lain itu kelas IQ Voil Putra itu satu perunggu.
+119	Alhamdulillah hari ini satu emas sudah tercapai dan tambahan dari kelas yang lain itu kelas IQ Voil Putra itu satu perunggu.
+120	dan tambahan dari kelas yang lain itu kelas IQ Voil Putra itu satu perunggu.
+121	dan tambahan dari kelas yang lain itu kelas IQ Voil Putra itu satu perunggu.
+122	dan tambahan dari kelas yang lain itu kelas IQ Voil Putra itu satu perunggu.
+123	dan tambahan dari kelas yang lain itu kelas IQ Voil Putra itu satu perunggu.
+124	dan tambahan dari kelas yang lain itu kelas IQ Voil Putra itu satu perunggu.
+125	dan tambahan dari kelas yang lain itu kelas IQ Voil Putra itu satu perunggu.
+126	dan tambahan dari kelas yang lain itu kelas IQ Voil Putra itu satu perunggu.
+127	dan tambahan dari kelas yang lain itu kelas IQ Voil Putra itu satu perunggu.
+128	dan tambahan dari kelas yang lain itu kelas IQ Voil Putra itu satu perunggu.
+129	dan tambahan dari kelas yang lain itu kelas IQ Voil Putra itu satu perunggu.
+130	dan tambahan dari kelas yang lain itu kelas IQ Voil Putra itu satu perunggu.
+131	Sementara, Afriza Ahmad Bagaskara yang masih duduk di kelas 9 itu
+132	Sementara, Afriza Ahmad Bagaskara yang masih duduk di kelas 9 itu
+133	Sementara, Afriza Ahmad Bagaskara yang masih duduk di kelas 9 itu
+134	Sementara, Afriza Ahmad Bagaskara yang masih duduk di kelas 9 itu
+135	Sementara, Afriza Ahmad Bagaskara yang masih duduk di kelas 9 itu
+136	Sementara, Afriza Ahmad Bagaskara yang masih duduk di kelas 9 itu
+137	Sementara, Afriza Ahmad Bagaskara yang masih duduk di kelas 9 itu
+138	Sementara, Afriza Ahmad Bagaskara yang masih duduk di kelas 9 itu tidak bisa menyembunyikan rasa gembira setelah memastikan medali emas untuk DKI Jakarta.
+139	Sementara, Afriza Ahmad Bagaskara yang masih duduk di kelas 9 itu tidak bisa menyembunyikan rasa gembira setelah memastikan medali emas untuk DKI Jakarta.
+140	tidak bisa menyembunyikan rasa gembira setelah memastikan medali emas untuk DKI Jakarta.
+141	tidak bisa menyembunyikan rasa gembira setelah memastikan medali emas untuk DKI Jakarta.
+142	tidak bisa menyembunyikan rasa gembira setelah memastikan medali emas untuk DKI Jakarta.
+143	tidak bisa menyembunyikan rasa gembira setelah memastikan medali emas untuk DKI Jakarta.
+144	tidak bisa menyembunyikan rasa gembira setelah memastikan medali emas untuk DKI Jakarta.
+145	tidak bisa menyembunyikan rasa gembira setelah memastikan medali emas untuk DKI Jakarta.
+146	tidak bisa menyembunyikan rasa gembira setelah memastikan medali emas untuk DKI Jakarta.
+147	tidak bisa menyembunyikan rasa gembira setelah memastikan medali emas untuk DKI Jakarta.
+148	tidak bisa menyembunyikan rasa gembira setelah memastikan medali emas untuk DKI Jakarta. Lumayan bagus sih, senang sekali.
+149	Lumayan bagus sih, senang sekali.
+150	Lumayan bagus sih, senang sekali.
+151	Lumayan bagus sih, senang sekali.
+152	Lumayan bagus sih, senang sekali.
+153	Lumayan bagus sih, senang sekali.
+154	Lumayan bagus sih, senang sekali.
+155	Lumayan bagus sih, senang sekali.
+156	Lumayan bagus sih, senang sekali.
+157	Lumayan bagus sih, senang sekali.
+158	Lumayan bagus sih, senang sekali.
+159	Tim layar DKI semakin optimis akan kembali menambah medali dari tim Putri
+160	Tim layar DKI semakin optimis akan kembali menambah medali dari tim Putri
+161	Tim layar DKI semakin optimis akan kembali menambah medali dari tim Putri
+162	Tim layar DKI semakin optimis akan kembali menambah medali dari tim Putri
+163	Tim layar DKI semakin optimis akan kembali menambah medali dari tim Putri
+164	Tim layar DKI semakin optimis akan kembali menambah medali dari tim Putri
+165	Tim layar DKI semakin optimis akan kembali menambah medali dari tim Putri
+166	Tim layar DKI semakin optimis akan kembali menambah medali dari tim Putri yang rencananya dipertandingkan.
+167	Tim layar DKI semakin optimis akan kembali menambah medali dari tim Putri yang rencananya dipertandingkan.
+168	yang rencananya dipertandingkan. Sabtu 14 September.
+169	yang rencananya dipertandingkan. Sabtu 14 September.
+170	Sabtu 14 September.
+171	Sabtu 14 September.
+172	Sabtu 14 September. 2024.
+173	2024.
+174	2024.
+175	[NO_SPEECH]
+176	[NO_SPEECH]
+177	[NO_SPEECH]
+178	[NO_SPEECH]
+179	[NO_SPEECH]
+180	[NO_SPEECH]
+181	[NO_SPEECH]
+182	[NO_SPEECH]
+183	[NO_SPEECH]
+184	[NO_SPEECH]
+185	[NO_SPEECH]
+186	[NO_SPEECH]
+187	[NO_SPEECH]
+188	[NO_SPEECH]
+189	[NO_SPEECH]
+190	[NO_SPEECH]
+191	[NO_SPEECH]
+192	[NO_SPEECH]
+193	[NO_SPEECH]
+194	[NO_SPEECH]
+195	[NO_SPEECH]
+196	[NO_SPEECH]
+197	[NO_SPEECH]
+198	[NO_SPEECH]
+199	[NO_SPEECH]
+200	[NO_SPEECH]
+201	[NO_SPEECH]
+202	[NO_SPEECH]
+203	[NO_SPEECH]
+204	[NO_SPEECH]
+205	[NO_SPEECH]
+206	[NO_SPEECH]

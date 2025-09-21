@@ -1,0 +1,174 @@
+0	Ini gue mau tunjukin seribet apa makanan gue sehari-hari
+1	Ini gue mau tunjukin seribet apa makanan gue sehari-hari
+2	Ini gue mau tunjukin seribet apa makanan gue sehari-hari
+3	Ini gue mau tunjukin seribet apa makanan gue sehari-hari
+4	Ini gue mau tunjukin seribet apa makanan gue sehari-hari
+5	Ini gue mau tunjukin seribet apa makanan gue sehari-hari Ini gue abis dari supermarket, kita lagi di Queenstown, New Zealand
+6	Ini gue mau tunjukin seribet apa makanan gue sehari-hari Ini gue abis dari supermarket, kita lagi di Queenstown, New Zealand
+7	Ini gue abis dari supermarket, kita lagi di Queenstown, New Zealand
+8	Ini gue abis dari supermarket, kita lagi di Queenstown, New Zealand
+9	Ini gue abis dari supermarket, kita lagi di Queenstown, New Zealand
+10	Ini gue abis dari supermarket, kita lagi di Queenstown, New Zealand
+11	Ini gue abis dari supermarket, kita lagi di Queenstown, New Zealand
+12	Ini gue abis dari supermarket, kita lagi di Queenstown, New Zealand
+13	Ini gue abis dari supermarket, kita lagi di Queenstown, New Zealand Kita bakalan snowboard 4 hari, gue sama anak gue
+14	Ini gue abis dari supermarket, kita lagi di Queenstown, New Zealand Kita bakalan snowboard 4 hari, gue sama anak gue
+15	Kita bakalan snowboard 4 hari, gue sama anak gue
+16	Kita bakalan snowboard 4 hari, gue sama anak gue
+17	Kita bakalan snowboard 4 hari, gue sama anak gue Jadi apa yang gue beli untuk persediaan makanan kita
+18	Kita bakalan snowboard 4 hari, gue sama anak gue Jadi apa yang gue beli untuk persediaan makanan kita
+19	Jadi apa yang gue beli untuk persediaan makanan kita
+20	Jadi apa yang gue beli untuk persediaan makanan kita
+21	Jadi apa yang gue beli untuk persediaan makanan kita
+22	Jadi apa yang gue beli untuk persediaan makanan kita
+23	Jadi apa yang gue beli untuk persediaan makanan kita
+24	Jadi apa yang gue beli untuk persediaan makanan kita
+25	Telur
+26	Telur
+27	Telur
+28	Telur
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	Oranges
+33	Oranges
+34	Oranges
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	Susu 100%
+39	Susu 100%
+40	Susu 100%
+41	Susu 100%
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	Avocado oil buat masak
+45	Avocado oil buat masak
+46	Avocado oil buat masak
+47	Avocado oil buat masak
+48	Avocado oil buat masak
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	Nasi untuk carbsnya
+52	Nasi untuk carbsnya
+53	Nasi untuk carbsnya
+54	Nasi untuk carbsnya
+55	Nasi untuk carbsnya
+56	Terus kita beli onions buat masak
+57	Terus kita beli onions buat masak
+58	Terus kita beli onions buat masak
+59	Terus kita beli onions buat masak
+60	Terus kita beli onions buat masak
+61	Terus kita beli onions buat masak Terus dagingnya gue beli beef
+62	Terus kita beli onions buat masak Terus dagingnya gue beli beef
+63	Terus dagingnya gue beli beef
+64	Terus dagingnya gue beli beef
+65	Terus dagingnya gue beli beef
+66	Terus dagingnya gue beli beef
+67	Terus dagingnya gue beli beef
+68	[NO_SPEECH]
+69	[NO_SPEECH]
+70	And chicken, chicken gue beli 3
+71	And chicken, chicken gue beli 3
+72	And chicken, chicken gue beli 3
+73	And chicken, chicken gue beli 3
+74	And chicken, chicken gue beli 3
+75	And chicken, chicken gue beli 3
+76	[NO_SPEECH]
+77	Terus karena kita di motel itu disediain garam, jadi gue ambil garam
+78	Terus karena kita di motel itu disediain garam, jadi gue ambil garam
+79	Terus karena kita di motel itu disediain garam, jadi gue ambil garam
+80	Terus karena kita di motel itu disediain garam, jadi gue ambil garam
+81	Terus karena kita di motel itu disediain garam, jadi gue ambil garam
+82	Terus karena kita di motel itu disediain garam, jadi gue ambil garam
+83	Terus karena kita di motel itu disediain garam, jadi gue ambil garam Terus kita beli cheese yang 100% cheese
+84	Terus karena kita di motel itu disediain garam, jadi gue ambil garam Terus kita beli cheese yang 100% cheese
+85	Terus kita beli cheese yang 100% cheese
+86	Terus kita beli cheese yang 100% cheese
+87	Terus kita beli cheese yang 100% cheese
+88	Terus kita beli cheese yang 100% cheese
+89	Terus kita beli cheese yang 100% cheese
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	Terus gue beli saus QP sedikit
+93	Terus gue beli saus QP sedikit
+94	Terus gue beli saus QP sedikit
+95	Terus gue beli saus QP sedikit
+96	Terus gue beli saus QP sedikit Saus-sausan gue masih toleransi, kenapa?
+97	Terus gue beli saus QP sedikit Saus-sausan gue masih toleransi, kenapa?
+98	Saus-sausan gue masih toleransi, kenapa?
+99	Saus-sausan gue masih toleransi, kenapa?
+100	Saus-sausan gue masih toleransi, kenapa? Karena gue pakainya sedikit
+101	Saus-sausan gue masih toleransi, kenapa? Karena gue pakainya sedikit Oke, gak mungkin kita habis 1 botol ini sekali makan kan
+102	Karena gue pakainya sedikit Oke, gak mungkin kita habis 1 botol ini sekali makan kan
+103	Karena gue pakainya sedikit Oke, gak mungkin kita habis 1 botol ini sekali makan kan
+104	Oke, gak mungkin kita habis 1 botol ini sekali makan kan
+105	Oke, gak mungkin kita habis 1 botol ini sekali makan kan Paling sedikit doang cuma untuk rasa
+106	Oke, gak mungkin kita habis 1 botol ini sekali makan kan Paling sedikit doang cuma untuk rasa
+107	Paling sedikit doang cuma untuk rasa
+108	Paling sedikit doang cuma untuk rasa
+109	Paling sedikit doang cuma untuk rasa
+110	Paling sedikit doang cuma untuk rasa
+111	Paling sedikit doang cuma untuk rasa
+112	Terus
+113	Terus Paling sedikit doang cuma untuk rasa
+114	Terus Paling sedikit doang cuma untuk rasa
+115	Paling sedikit doang cuma untuk rasa
+116	Paling sedikit doang cuma untuk rasa
+117	Paling sedikit doang cuma untuk rasa
+118	Paling sedikit doang cuma untuk rasa
+119	Paling sedikit doang cuma untuk rasa
+120	Paling sedikit doang cuma untuk rasa
+121	Paling sedikit doang cuma untuk rasa
+122	Paling sedikit doang cuma untuk rasa
+123	Paling sedikit doang cuma untuk rasa Paling sedikit doang cuma untuk rasa Jadi dengan makan model begini
+124	Paling sedikit doang cuma untuk rasa Paling sedikit doang cuma untuk rasa Jadi dengan makan model begini
+125	Jadi dengan makan model begini
+126	Jadi dengan makan model begini
+127	Jadi dengan makan model begini
+128	Jadi dengan makan model begini Gue sekarang udah umur 40 tahun ya
+129	Jadi dengan makan model begini Gue sekarang udah umur 40 tahun ya
+130	Gue sekarang udah umur 40 tahun ya
+131	Gue sekarang udah umur 40 tahun ya
+132	Gue sekarang udah umur 40 tahun ya Tapi gue belum pernah rasain yang namanya sakit mah
+133	Gue sekarang udah umur 40 tahun ya Tapi gue belum pernah rasain yang namanya sakit mah
+134	Tapi gue belum pernah rasain yang namanya sakit mah
+135	Tapi gue belum pernah rasain yang namanya sakit mah
+136	Tapi gue belum pernah rasain yang namanya sakit mah
+137	Tapi gue belum pernah rasain yang namanya sakit mah
+138	Tapi gue belum pernah rasain yang namanya sakit mah Gert
+139	Tapi gue belum pernah rasain yang namanya sakit mah Gert
+140	Gert Pencernaan gue bermasalah
+141	Gert Pencernaan gue bermasalah
+142	Pencernaan gue bermasalah
+143	Pencernaan gue bermasalah
+144	Pencernaan gue bermasalah BAB gue bermasalah
+145	Pencernaan gue bermasalah BAB gue bermasalah
+146	BAB gue bermasalah
+147	BAB gue bermasalah Gue wasiran, gue gak wasiran
+148	BAB gue bermasalah Gue wasiran, gue gak wasiran
+149	Gue wasiran, gue gak wasiran
+150	Gue wasiran, gue gak wasiran
+151	Gue wasiran, gue gak wasiran
+152	Gue wasiran, gue gak wasiran Everything is good
+153	Gue wasiran, gue gak wasiran Everything is good
+154	Everything is good
+155	Everything is good Kenapa? Karena gue makan itu 99%
+156	Everything is good Kenapa? Karena gue makan itu 99%
+157	Kenapa? Karena gue makan itu 99%
+158	Kenapa? Karena gue makan itu 99%
+159	Kenapa? Karena gue makan itu 99%
+160	Kenapa? Karena gue makan itu 99%
+161	Kenapa? Karena gue makan itu 99% Adalah makanan real food
+162	Kenapa? Karena gue makan itu 99% Adalah makanan real food
+163	Adalah makanan real food
+164	Adalah makanan real food
+165	Adalah makanan real food
+166	Adalah makanan real food
+167	[NO_SPEECH]
+168	[NO_SPEECH]
+169	[NO_SPEECH]
+170	[NO_SPEECH]
+171	[NO_SPEECH]
+172	[NO_SPEECH]
+173	[NO_SPEECH]

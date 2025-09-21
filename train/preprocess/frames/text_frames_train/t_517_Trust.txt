@@ -1,0 +1,132 @@
+0	Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian.
+1	Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian.
+2	Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian.
+3	Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian.
+4	Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian.
+5	Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian.
+6	Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian.
+7	Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian.
+8	Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian. Mengucapkan terima kasih.
+9	Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian. Mengucapkan terima kasih.
+10	Mengucapkan terima kasih.
+11	Mengucapkan terima kasih.
+12	Mengucapkan terima kasih.
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	Tepuk tangan buat pemain dan ofisial.
+29	Tepuk tangan buat pemain dan ofisial.
+30	Tepuk tangan buat pemain dan ofisial.
+31	Tepuk tangan buat pemain dan ofisial.
+32	Tepuk tangan buat pemain dan ofisial.
+33	Tepuk tangan buat pemain dan ofisial.
+34	Tepuk tangan untuk semua yang mendukung perjuangan kalian.
+35	Tepuk tangan untuk semua yang mendukung perjuangan kalian.
+36	Tepuk tangan untuk semua yang mendukung perjuangan kalian.
+37	Tepuk tangan untuk semua yang mendukung perjuangan kalian.
+38	Tepuk tangan untuk semua yang mendukung perjuangan kalian.
+39	Tepuk tangan untuk semua yang mendukung perjuangan kalian.
+40	Tepuk tangan untuk semua yang mendukung perjuangan kalian.
+41	Tepuk tangan untuk semua yang mendukung perjuangan kalian.
+42	Tepuk tangan untuk semua yang mendukung perjuangan kalian.
+43	Tepuk tangan untuk semua yang mendukung perjuangan kalian.
+44	Tepuk tangan untuk semua yang mendukung perjuangan kalian.
+45	Tepuk tangan untuk semua yang mendukung perjuangan kalian.
+46	Kita bisa buktikan bahwa sepak bola putri itu ada dan nyata.
+47	Kita bisa buktikan bahwa sepak bola putri itu ada dan nyata.
+48	Kita bisa buktikan bahwa sepak bola putri itu ada dan nyata.
+49	Kita bisa buktikan bahwa sepak bola putri itu ada dan nyata.
+50	Kita bisa buktikan bahwa sepak bola putri itu ada dan nyata.
+51	Kita bisa buktikan bahwa sepak bola putri itu ada dan nyata.
+52	Kita bisa buktikan bahwa sepak bola putri itu ada dan nyata.
+53	Kita bisa buktikan bahwa sepak bola putri itu ada dan nyata.
+54	Kita bisa buktikan bahwa sepak bola putri itu ada dan nyata.
+55	Kita bisa buktikan bahwa sepak bola putri itu ada dan nyata.
+56	Kita bisa buktikan bahwa sepak bola putri itu ada dan nyata.
+57	Kita bisa buktikan bahwa sepak bola putri itu ada dan nyata.
+58	Kita bisa buktikan bahwa sepak bola putri itu ada dan nyata.
+59	Kita bisa buktikan bahwa sepak bola putri itu ada dan nyata.
+60	Kita bisa buktikan bahwa sepak bola putri itu ada dan nyata.
+61	Kita bisa buktikan bahwa sepak bola putri itu ada dan nyata.
+62	Kita bisa buktikan bahwa sepak bola putri itu ada dan nyata. Betul?
+63	Kita bisa buktikan bahwa sepak bola putri itu ada dan nyata. Betul?
+64	Betul? Betul.
+65	Betul.
+66	Betul. Kita bisa kasih lihat juga kita tidak pernah menganaktirikan sepak bola putri.
+67	Kita bisa kasih lihat juga kita tidak pernah menganaktirikan sepak bola putri.
+68	Kita bisa kasih lihat juga kita tidak pernah menganaktirikan sepak bola putri.
+69	Kita bisa kasih lihat juga kita tidak pernah menganaktirikan sepak bola putri.
+70	Kita bisa kasih lihat juga kita tidak pernah menganaktirikan sepak bola putri.
+71	Kita bisa kasih lihat juga kita tidak pernah menganaktirikan sepak bola putri.
+72	Kita bisa kasih lihat juga kita tidak pernah menganaktirikan sepak bola putri.
+73	Kita bisa kasih lihat juga kita tidak pernah menganaktirikan sepak bola putri.
+74	Kita bisa kasih lihat juga kita tidak pernah menganaktirikan sepak bola putri.
+75	Kita bisa kasih lihat juga kita tidak pernah menganaktirikan sepak bola putri.
+76	Kita bisa kasih lihat juga kita tidak pernah menganaktirikan sepak bola putri.
+77	Kita bisa kasih lihat juga kita tidak pernah menganaktirikan sepak bola putri. Tapi jangan berpuas diri.
+78	Kita bisa kasih lihat juga kita tidak pernah menganaktirikan sepak bola putri. Tapi jangan berpuas diri.
+79	Tapi jangan berpuas diri.
+80	Tapi jangan berpuas diri.
+81	Tapi jangan berpuas diri.
+82	Tapi jangan berpuas diri. Karena perjalanan kita masih panjang.
+83	Karena perjalanan kita masih panjang.
+84	Karena perjalanan kita masih panjang.
+85	Karena perjalanan kita masih panjang.
+86	Karena perjalanan kita masih panjang.
+87	Karena perjalanan kita masih panjang. Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian.
+88	Karena perjalanan kita masih panjang. Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian.
+89	Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian.
+90	Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian.
+91	Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian.
+92	Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian.
+93	Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian.
+94	Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian.
+95	Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian.
+96	Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian.
+97	Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian. Saya mengucapkan terima kasih.
+98	Tadi juga saya diterima oleh Pak Prabowo, Pak Presiden, kirim salam buat kalian. Saya mengucapkan terima kasih.
+99	Saya mengucapkan terima kasih.
+100	Saya mengucapkan terima kasih. Kalian bawa bendera merah putri.
+101	Saya mengucapkan terima kasih. Kalian bawa bendera merah putri.
+102	Kalian bawa bendera merah putri.
+103	Kalian bawa bendera merah putri. Terima kasih.
+104	Kalian bawa bendera merah putri. Terima kasih. Terima kasih.
+105	Terima kasih. Terima kasih. Terima kasih.
+106	Terima kasih.
+107	Terima kasih.
+108	Terima kasih.
+109	Terima kasih. Kami juga bilang, kita tidak akan mencukupi ini.
+110	Kami juga bilang, kita tidak akan mencukupi ini.
+111	Kami juga bilang, kita tidak akan mencukupi ini.
+112	Kami juga bilang, kita tidak akan mencukupi ini.
+113	Kami juga bilang, kita tidak akan mencukupi ini. Kita akan mencari dunia.
+114	Kami juga bilang, kita tidak akan mencukupi ini. Kita akan mencari dunia.
+115	Kita akan mencari dunia.
+116	Kita akan mencari dunia. Kita akan mencari dunia!
+117	Kita akan mencari dunia. Kita akan mencari dunia!
+118	Kita akan mencari dunia! Kita akan mencari dunia!
+119	Kita akan mencari dunia! Kita akan mencari dunia!
+120	Kita akan mencari dunia! Kita akan mencari dunia!
+121	Kita akan mencari dunia!
+122	Kita akan mencari dunia!
+123	[NO_SPEECH]
+124	[NO_SPEECH]
+125	[NO_SPEECH]
+126	[NO_SPEECH]
+127	[NO_SPEECH]
+128	[NO_SPEECH]
+129	[NO_SPEECH]
+130	[NO_SPEECH]
+131	[NO_SPEECH]

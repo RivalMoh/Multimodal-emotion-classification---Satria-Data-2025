@@ -1,0 +1,108 @@
+0	Glory, glory, GBK people.
+1	Glory, glory, GBK people.
+2	Glory, glory, GBK people.
+3	Baru selesai ngerjain program latihan 10 kilo pagi ini.
+4	Baru selesai ngerjain program latihan 10 kilo pagi ini.
+5	Baru selesai ngerjain program latihan 10 kilo pagi ini.
+6	Baru selesai ngerjain program latihan 10 kilo pagi ini.
+7	Baru selesai ngerjain program latihan 10 kilo pagi ini.
+8	Baru selesai ngerjain program latihan 10 kilo pagi ini.
+9	Baru selesai ngerjain program latihan 10 kilo pagi ini.
+10	Baru selesai ngerjain program latihan 10 kilo pagi ini.
+11	Baru selesai ngerjain program latihan 10 kilo pagi ini. Enak banget meskipun cuma iziran.
+12	Enak banget meskipun cuma iziran.
+13	Enak banget meskipun cuma iziran.
+14	Enak banget meskipun cuma iziran.
+15	Enak banget meskipun cuma iziran.
+16	Enak banget meskipun cuma iziran. Gue yakin sih, banyak yang bilang, ya elah lari pagi-pagi.
+17	Gue yakin sih, banyak yang bilang, ya elah lari pagi-pagi.
+18	Gue yakin sih, banyak yang bilang, ya elah lari pagi-pagi.
+19	Gue yakin sih, banyak yang bilang, ya elah lari pagi-pagi.
+20	Gue yakin sih, banyak yang bilang, ya elah lari pagi-pagi.
+21	Gue yakin sih, banyak yang bilang, ya elah lari pagi-pagi.
+22	Gue yakin sih, banyak yang bilang, ya elah lari pagi-pagi.
+23	Gue yakin sih, banyak yang bilang, ya elah lari pagi-pagi.
+24	Lebih penting ngerjain yang lain.
+25	Lebih penting ngerjain yang lain.
+26	Lebih penting ngerjain yang lain.
+27	Lebih penting ngerjain yang lain.
+28	Lebih penting ngerjain yang lain. Mungkin lari itu nggak begitu penting buat sebagian orang.
+29	Mungkin lari itu nggak begitu penting buat sebagian orang.
+30	Mungkin lari itu nggak begitu penting buat sebagian orang.
+31	Mungkin lari itu nggak begitu penting buat sebagian orang.
+32	Mungkin lari itu nggak begitu penting buat sebagian orang.
+33	Mungkin lari itu nggak begitu penting buat sebagian orang.
+34	Mungkin lari itu nggak begitu penting buat sebagian orang. Tapi buat gue, analoginya adalah ketika hal kecil mampu lu bisa selesaikan di pagi hari.
+35	Tapi buat gue, analoginya adalah ketika hal kecil mampu lu bisa selesaikan di pagi hari.
+36	Tapi buat gue, analoginya adalah ketika hal kecil mampu lu bisa selesaikan di pagi hari.
+37	Tapi buat gue, analoginya adalah ketika hal kecil mampu lu bisa selesaikan di pagi hari.
+38	Tapi buat gue, analoginya adalah ketika hal kecil mampu lu bisa selesaikan di pagi hari.
+39	Tapi buat gue, analoginya adalah ketika hal kecil mampu lu bisa selesaikan di pagi hari.
+40	Tapi buat gue, analoginya adalah ketika hal kecil mampu lu bisa selesaikan di pagi hari.
+41	Tapi buat gue, analoginya adalah ketika hal kecil mampu lu bisa selesaikan di pagi hari.
+42	Tapi buat gue, analoginya adalah ketika hal kecil mampu lu bisa selesaikan di pagi hari.
+43	Tapi buat gue, analoginya adalah ketika hal kecil mampu lu bisa selesaikan di pagi hari.
+44	Tapi buat gue, analoginya adalah ketika hal kecil mampu lu bisa selesaikan di pagi hari.
+45	Tapi buat gue, analoginya adalah ketika hal kecil mampu lu bisa selesaikan di pagi hari.
+46	Tapi buat gue, analoginya adalah ketika hal kecil mampu lu bisa selesaikan di pagi hari.
+47	Tapi buat gue, analoginya adalah ketika hal kecil mampu lu bisa selesaikan di pagi hari. Artinya kesuksesan hari itu semakin besar terasa.
+48	Artinya kesuksesan hari itu semakin besar terasa.
+49	Artinya kesuksesan hari itu semakin besar terasa.
+50	Artinya kesuksesan hari itu semakin besar terasa.
+51	Artinya kesuksesan hari itu semakin besar terasa.
+52	Artinya kesuksesan hari itu semakin besar terasa.
+53	Artinya kesuksesan hari itu semakin besar terasa.
+54	Artinya kesuksesan hari itu semakin besar terasa. Beuh, gokil nggak tuh?
+55	Beuh, gokil nggak tuh?
+56	Beuh, gokil nggak tuh? Itu analogi yang amazing.
+57	Beuh, gokil nggak tuh? Itu analogi yang amazing.
+58	Itu analogi yang amazing.
+59	Itu analogi yang amazing.
+60	Itu analogi yang amazing.
+61	Itu analogi yang amazing.
+62	Itu analogi yang amazing.
+63	[NO_SPEECH]
+64	Sama halnya dengan MU nanti malam.
+65	Sama halnya dengan MU nanti malam.
+66	Sama halnya dengan MU nanti malam.
+67	Sama halnya dengan MU nanti malam.
+68	Sama halnya dengan MU nanti malam.
+69	Sama halnya dengan MU nanti malam.
+70	Sama halnya dengan MU nanti malam. Kalau hal kecil nggak mampu diselesaikan nanti malam,
+71	Kalau hal kecil nggak mampu diselesaikan nanti malam,
+72	Kalau hal kecil nggak mampu diselesaikan nanti malam,
+73	Kalau hal kecil nggak mampu diselesaikan nanti malam,
+74	Kalau hal kecil nggak mampu diselesaikan nanti malam,
+75	Kalau hal kecil nggak mampu diselesaikan nanti malam, jangan pernah berharap bicara Liga Champion season depan.
+76	Kalau hal kecil nggak mampu diselesaikan nanti malam, jangan pernah berharap bicara Liga Champion season depan.
+77	jangan pernah berharap bicara Liga Champion season depan.
+78	jangan pernah berharap bicara Liga Champion season depan.
+79	jangan pernah berharap bicara Liga Champion season depan.
+80	jangan pernah berharap bicara Liga Champion season depan.
+81	jangan pernah berharap bicara Liga Champion season depan.
+82	jangan pernah berharap bicara Liga Champion season depan.
+83	Bener nggak?
+84	Bener nggak? Iya lah.
+85	Bener nggak? Iya lah.
+86	Iya lah.
+87	Lawannya kan MU, hal kecil itu buat MU, John.
+88	Lawannya kan MU, hal kecil itu buat MU, John.
+89	Lawannya kan MU, hal kecil itu buat MU, John.
+90	Lawannya kan MU, hal kecil itu buat MU, John.
+91	Lawannya kan MU, hal kecil itu buat MU, John.
+92	Lawannya kan MU, hal kecil itu buat MU, John.
+93	Mas, mas, emang MU itu Liga Inggris posisi apa?
+94	Mas, mas, emang MU itu Liga Inggris posisi apa?
+95	Mas, mas, emang MU itu Liga Inggris posisi apa?
+96	Mas, mas, emang MU itu Liga Inggris posisi apa?
+97	Mas, mas, emang MU itu Liga Inggris posisi apa?
+98	Mas, mas, emang MU itu Liga Inggris posisi apa?
+99	Mas, mas, emang MU itu Liga Inggris posisi apa? Shh, jangan ngomongin posisi.
+100	Mas, mas, emang MU itu Liga Inggris posisi apa? Shh, jangan ngomongin posisi.
+101	Shh, jangan ngomongin posisi.
+102	Shh, jangan ngomongin posisi.
+103	Shh, jangan ngomongin posisi.
+104	Hah?
+105	Hah?
+106	Hah?
+107	[NO_SPEECH]

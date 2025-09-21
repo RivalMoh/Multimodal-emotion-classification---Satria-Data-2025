@@ -1,0 +1,142 @@
+0	Ini adalah bintang di booth Neta DigiS 2024, Neta X baru saja diluncurkan.
+1	Ini adalah bintang di booth Neta DigiS 2024, Neta X baru saja diluncurkan.
+2	Ini adalah bintang di booth Neta DigiS 2024, Neta X baru saja diluncurkan.
+3	Ini adalah bintang di booth Neta DigiS 2024, Neta X baru saja diluncurkan.
+4	Ini adalah bintang di booth Neta DigiS 2024, Neta X baru saja diluncurkan.
+5	Ini adalah bintang di booth Neta DigiS 2024, Neta X baru saja diluncurkan.
+6	Ini adalah bintang di booth Neta DigiS 2024, Neta X baru saja diluncurkan.
+7	Ini adalah bintang di booth Neta DigiS 2024, Neta X baru saja diluncurkan.
+8	Ini adalah bintang di booth Neta DigiS 2024, Neta X baru saja diluncurkan.
+9	Ini adalah bintang di booth Neta DigiS 2024, Neta X baru saja diluncurkan. Seperti apa speknya? Ini dia.
+10	Seperti apa speknya? Ini dia.
+11	Seperti apa speknya? Ini dia.
+12	Seperti apa speknya? Ini dia.
+13	Seperti apa speknya? Ini dia. Medium SUV ini full elektrik, baterainya 63,56 kWh.
+14	Medium SUV ini full elektrik, baterainya 63,56 kWh.
+15	Medium SUV ini full elektrik, baterainya 63,56 kWh.
+16	Medium SUV ini full elektrik, baterainya 63,56 kWh.
+17	Medium SUV ini full elektrik, baterainya 63,56 kWh.
+18	Medium SUV ini full elektrik, baterainya 63,56 kWh.
+19	Medium SUV ini full elektrik, baterainya 63,56 kWh.
+20	Medium SUV ini full elektrik, baterainya 63,56 kWh.
+21	Medium SUV ini full elektrik, baterainya 63,56 kWh. Yang bisa melajukan mobil ini standar NEDC, klaimnya dalam 480 km.
+22	Yang bisa melajukan mobil ini standar NEDC, klaimnya dalam 480 km.
+23	Yang bisa melajukan mobil ini standar NEDC, klaimnya dalam 480 km.
+24	Yang bisa melajukan mobil ini standar NEDC, klaimnya dalam 480 km.
+25	Yang bisa melajukan mobil ini standar NEDC, klaimnya dalam 480 km.
+26	Yang bisa melajukan mobil ini standar NEDC, klaimnya dalam 480 km.
+27	Yang bisa melajukan mobil ini standar NEDC, klaimnya dalam 480 km.
+28	Yang bisa melajukan mobil ini standar NEDC, klaimnya dalam 480 km.
+29	Yang bisa melajukan mobil ini standar NEDC, klaimnya dalam 480 km.
+30	Yang bisa melajukan mobil ini standar NEDC, klaimnya dalam 480 km. Tenaganya 161 HP dengan torsi 210 Nm.
+31	Tenaganya 161 HP dengan torsi 210 Nm.
+32	Tenaganya 161 HP dengan torsi 210 Nm.
+33	Tenaganya 161 HP dengan torsi 210 Nm.
+34	Tenaganya 161 HP dengan torsi 210 Nm.
+35	Tenaganya 161 HP dengan torsi 210 Nm.
+36	Tenaganya 161 HP dengan torsi 210 Nm.
+37	Tenaganya 161 HP dengan torsi 210 Nm.
+38	Tenaganya 161 HP dengan torsi 210 Nm. Yang bisa melajukan mobil ini 0-100 km per jam dalam 9,5 detik.
+39	Yang bisa melajukan mobil ini 0-100 km per jam dalam 9,5 detik.
+40	Yang bisa melajukan mobil ini 0-100 km per jam dalam 9,5 detik.
+41	Yang bisa melajukan mobil ini 0-100 km per jam dalam 9,5 detik.
+42	Yang bisa melajukan mobil ini 0-100 km per jam dalam 9,5 detik.
+43	Yang bisa melajukan mobil ini 0-100 km per jam dalam 9,5 detik.
+44	Yang bisa melajukan mobil ini 0-100 km per jam dalam 9,5 detik.
+45	Yang bisa melajukan mobil ini 0-100 km per jam dalam 9,5 detik.
+46	Yang bisa melajukan mobil ini 0-100 km per jam dalam 9,5 detik.
+47	Yang bisa melajukan mobil ini 0-100 km per jam dalam 9,5 detik.
+48	Yang bisa melajukan mobil ini 0-100 km per jam dalam 9,5 detik. Tampilannya khas, mobil elektrik, futuristis, velgnya 18 inci.
+49	Yang bisa melajukan mobil ini 0-100 km per jam dalam 9,5 detik. Tampilannya khas, mobil elektrik, futuristis, velgnya 18 inci.
+50	Tampilannya khas, mobil elektrik, futuristis, velgnya 18 inci.
+51	Tampilannya khas, mobil elektrik, futuristis, velgnya 18 inci.
+52	Tampilannya khas, mobil elektrik, futuristis, velgnya 18 inci.
+53	Tampilannya khas, mobil elektrik, futuristis, velgnya 18 inci.
+54	Tampilannya khas, mobil elektrik, futuristis, velgnya 18 inci.
+55	Tampilannya khas, mobil elektrik, futuristis, velgnya 18 inci. Mobil ini juga sudah dilengkapi dengan kamera 360 serta sistem ADAS, Advanced Driver Assistance System Level 2.
+56	Tampilannya khas, mobil elektrik, futuristis, velgnya 18 inci. Mobil ini juga sudah dilengkapi dengan kamera 360 serta sistem ADAS, Advanced Driver Assistance System Level 2.
+57	Mobil ini juga sudah dilengkapi dengan kamera 360 serta sistem ADAS, Advanced Driver Assistance System Level 2.
+58	Mobil ini juga sudah dilengkapi dengan kamera 360 serta sistem ADAS, Advanced Driver Assistance System Level 2.
+59	Mobil ini juga sudah dilengkapi dengan kamera 360 serta sistem ADAS, Advanced Driver Assistance System Level 2.
+60	Mobil ini juga sudah dilengkapi dengan kamera 360 serta sistem ADAS, Advanced Driver Assistance System Level 2.
+61	Mobil ini juga sudah dilengkapi dengan kamera 360 serta sistem ADAS, Advanced Driver Assistance System Level 2.
+62	Mobil ini juga sudah dilengkapi dengan kamera 360 serta sistem ADAS, Advanced Driver Assistance System Level 2.
+63	Mobil ini juga sudah dilengkapi dengan kamera 360 serta sistem ADAS, Advanced Driver Assistance System Level 2.
+64	Mobil ini juga sudah dilengkapi dengan kamera 360 serta sistem ADAS, Advanced Driver Assistance System Level 2.
+65	Mobil ini juga sudah dilengkapi dengan kamera 360 serta sistem ADAS, Advanced Driver Assistance System Level 2.
+66	Mobil ini juga sudah dilengkapi dengan kamera 360 serta sistem ADAS, Advanced Driver Assistance System Level 2.
+67	Mobil ini juga sudah dilengkapi dengan kamera 360 serta sistem ADAS, Advanced Driver Assistance System Level 2.
+68	Mobil ini juga sudah dilengkapi dengan kamera 360 serta sistem ADAS, Advanced Driver Assistance System Level 2.
+69	Mobil ini juga sudah dilengkapi dengan kamera 360 serta sistem ADAS, Advanced Driver Assistance System Level 2. Serta mobil ini memiliki 4 pilihan warna eksterior dan 2 pilihan warna interior.
+70	Serta mobil ini memiliki 4 pilihan warna eksterior dan 2 pilihan warna interior.
+71	Serta mobil ini memiliki 4 pilihan warna eksterior dan 2 pilihan warna interior.
+72	Serta mobil ini memiliki 4 pilihan warna eksterior dan 2 pilihan warna interior.
+73	Serta mobil ini memiliki 4 pilihan warna eksterior dan 2 pilihan warna interior.
+74	Serta mobil ini memiliki 4 pilihan warna eksterior dan 2 pilihan warna interior.
+75	Serta mobil ini memiliki 4 pilihan warna eksterior dan 2 pilihan warna interior.
+76	Serta mobil ini memiliki 4 pilihan warna eksterior dan 2 pilihan warna interior.
+77	Serta mobil ini memiliki 4 pilihan warna eksterior dan 2 pilihan warna interior.
+78	Serta mobil ini memiliki 4 pilihan warna eksterior dan 2 pilihan warna interior.
+79	Serta mobil ini memiliki 4 pilihan warna eksterior dan 2 pilihan warna interior. Desain kabinnya minimalis tapi futuristis dan materialnya mewah.
+80	Serta mobil ini memiliki 4 pilihan warna eksterior dan 2 pilihan warna interior. Desain kabinnya minimalis tapi futuristis dan materialnya mewah.
+81	Desain kabinnya minimalis tapi futuristis dan materialnya mewah.
+82	Desain kabinnya minimalis tapi futuristis dan materialnya mewah.
+83	Desain kabinnya minimalis tapi futuristis dan materialnya mewah.
+84	Desain kabinnya minimalis tapi futuristis dan materialnya mewah.
+85	Desain kabinnya minimalis tapi futuristis dan materialnya mewah.
+86	Desain kabinnya minimalis tapi futuristis dan materialnya mewah.
+87	Desain kabinnya minimalis tapi futuristis dan materialnya mewah.
+88	Desain kabinnya minimalis tapi futuristis dan materialnya mewah. Alcantara, soft panel, serta lega di depan maupun di belakang.
+89	Desain kabinnya minimalis tapi futuristis dan materialnya mewah. Alcantara, soft panel, serta lega di depan maupun di belakang.
+90	Alcantara, soft panel, serta lega di depan maupun di belakang.
+91	Alcantara, soft panel, serta lega di depan maupun di belakang.
+92	Alcantara, soft panel, serta lega di depan maupun di belakang.
+93	Alcantara, soft panel, serta lega di depan maupun di belakang.
+94	Alcantara, soft panel, serta lega di depan maupun di belakang.
+95	Alcantara, soft panel, serta lega di depan maupun di belakang.
+96	Alcantara, soft panel, serta lega di depan maupun di belakang.
+97	Alcantara, soft panel, serta lega di depan maupun di belakang. Kapasitas bagasinya bisa sampai 1.388 liter, bikin mobil ini cukup ideal untuk perjalanan jauh.
+98	Alcantara, soft panel, serta lega di depan maupun di belakang. Kapasitas bagasinya bisa sampai 1.388 liter, bikin mobil ini cukup ideal untuk perjalanan jauh.
+99	Kapasitas bagasinya bisa sampai 1.388 liter, bikin mobil ini cukup ideal untuk perjalanan jauh.
+100	Kapasitas bagasinya bisa sampai 1.388 liter, bikin mobil ini cukup ideal untuk perjalanan jauh.
+101	Kapasitas bagasinya bisa sampai 1.388 liter, bikin mobil ini cukup ideal untuk perjalanan jauh.
+102	Kapasitas bagasinya bisa sampai 1.388 liter, bikin mobil ini cukup ideal untuk perjalanan jauh.
+103	Kapasitas bagasinya bisa sampai 1.388 liter, bikin mobil ini cukup ideal untuk perjalanan jauh.
+104	Kapasitas bagasinya bisa sampai 1.388 liter, bikin mobil ini cukup ideal untuk perjalanan jauh.
+105	Kapasitas bagasinya bisa sampai 1.388 liter, bikin mobil ini cukup ideal untuk perjalanan jauh.
+106	Kapasitas bagasinya bisa sampai 1.388 liter, bikin mobil ini cukup ideal untuk perjalanan jauh.
+107	Kapasitas bagasinya bisa sampai 1.388 liter, bikin mobil ini cukup ideal untuk perjalanan jauh.
+108	Kapasitas bagasinya bisa sampai 1.388 liter, bikin mobil ini cukup ideal untuk perjalanan jauh. Mobil ini sudah mulai dijual di Gies dan apakah ada promonya?
+109	Kapasitas bagasinya bisa sampai 1.388 liter, bikin mobil ini cukup ideal untuk perjalanan jauh. Mobil ini sudah mulai dijual di Gies dan apakah ada promonya?
+110	Mobil ini sudah mulai dijual di Gies dan apakah ada promonya?
+111	Mobil ini sudah mulai dijual di Gies dan apakah ada promonya?
+112	Mobil ini sudah mulai dijual di Gies dan apakah ada promonya?
+113	Mobil ini sudah mulai dijual di Gies dan apakah ada promonya?
+114	Mobil ini sudah mulai dijual di Gies dan apakah ada promonya? Eh?
+115	Mobil ini sudah mulai dijual di Gies dan apakah ada promonya? Eh? Ternyata ada!
+116	Eh? Ternyata ada! Untuk pembelian di Gies, Anda bisa mendapatkan free wall charger plus instalasi.
+117	Ternyata ada! Untuk pembelian di Gies, Anda bisa mendapatkan free wall charger plus instalasi.
+118	Untuk pembelian di Gies, Anda bisa mendapatkan free wall charger plus instalasi.
+119	Untuk pembelian di Gies, Anda bisa mendapatkan free wall charger plus instalasi.
+120	Untuk pembelian di Gies, Anda bisa mendapatkan free wall charger plus instalasi.
+121	Untuk pembelian di Gies, Anda bisa mendapatkan free wall charger plus instalasi.
+122	Untuk pembelian di Gies, Anda bisa mendapatkan free wall charger plus instalasi.
+123	Untuk pembelian di Gies, Anda bisa mendapatkan free wall charger plus instalasi.
+124	Untuk pembelian di Gies, Anda bisa mendapatkan free wall charger plus instalasi.
+125	Untuk pembelian di Gies, Anda bisa mendapatkan free wall charger plus instalasi. Kemudian dapat saldo PLN 2,5 juta rupiah dan masih banyak lainnya.
+126	Kemudian dapat saldo PLN 2,5 juta rupiah dan masih banyak lainnya.
+127	Kemudian dapat saldo PLN 2,5 juta rupiah dan masih banyak lainnya.
+128	Kemudian dapat saldo PLN 2,5 juta rupiah dan masih banyak lainnya.
+129	Kemudian dapat saldo PLN 2,5 juta rupiah dan masih banyak lainnya.
+130	Kemudian dapat saldo PLN 2,5 juta rupiah dan masih banyak lainnya.
+131	Kemudian dapat saldo PLN 2,5 juta rupiah dan masih banyak lainnya.
+132	Kemudian dapat saldo PLN 2,5 juta rupiah dan masih banyak lainnya. Dan untuk keterangan lebih lanjut, Anda silakan cek di Instagram Neta Indonesia.
+133	Kemudian dapat saldo PLN 2,5 juta rupiah dan masih banyak lainnya. Dan untuk keterangan lebih lanjut, Anda silakan cek di Instagram Neta Indonesia.
+134	Dan untuk keterangan lebih lanjut, Anda silakan cek di Instagram Neta Indonesia.
+135	Dan untuk keterangan lebih lanjut, Anda silakan cek di Instagram Neta Indonesia.
+136	Dan untuk keterangan lebih lanjut, Anda silakan cek di Instagram Neta Indonesia.
+137	Dan untuk keterangan lebih lanjut, Anda silakan cek di Instagram Neta Indonesia.
+138	Dan untuk keterangan lebih lanjut, Anda silakan cek di Instagram Neta Indonesia.
+139	Dan untuk keterangan lebih lanjut, Anda silakan cek di Instagram Neta Indonesia.
+140	Dan untuk keterangan lebih lanjut, Anda silakan cek di Instagram Neta Indonesia.
+141	[NO_SPEECH]

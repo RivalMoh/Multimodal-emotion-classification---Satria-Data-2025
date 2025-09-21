@@ -1,0 +1,386 @@
+0	Randomly aku mau nge-review 2 produk ini
+1	Randomly aku mau nge-review 2 produk ini
+2	Randomly aku mau nge-review 2 produk ini
+3	Randomly aku mau nge-review 2 produk ini
+4	Randomly aku mau nge-review 2 produk ini
+5	Randomly aku mau nge-review 2 produk ini
+6	Randomly aku mau nge-review 2 produk ini Rose All Day dan ini adalah cushion terbarunya Tirtier
+7	Randomly aku mau nge-review 2 produk ini Rose All Day dan ini adalah cushion terbarunya Tirtier
+8	Rose All Day dan ini adalah cushion terbarunya Tirtier
+9	Rose All Day dan ini adalah cushion terbarunya Tirtier
+10	Rose All Day dan ini adalah cushion terbarunya Tirtier
+11	Rose All Day dan ini adalah cushion terbarunya Tirtier
+12	Rose All Day dan ini adalah cushion terbarunya Tirtier
+13	Rose All Day dan ini adalah cushion terbarunya Tirtier Ini bukan pertama kali aku pake
+14	Rose All Day dan ini adalah cushion terbarunya Tirtier Ini bukan pertama kali aku pake
+15	Ini bukan pertama kali aku pake
+16	Ini bukan pertama kali aku pake Tapi udah menjadi cushion Tirtier terfavorit aku
+17	Ini bukan pertama kali aku pake Tapi udah menjadi cushion Tirtier terfavorit aku
+18	Tapi udah menjadi cushion Tirtier terfavorit aku
+19	Tapi udah menjadi cushion Tirtier terfavorit aku
+20	Tapi udah menjadi cushion Tirtier terfavorit aku
+21	Tapi udah menjadi cushion Tirtier terfavorit aku
+22	Tapi udah menjadi cushion Tirtier terfavorit aku
+23	Tapi udah menjadi cushion Tirtier terfavorit aku
+24	Tapi udah menjadi cushion Tirtier terfavorit aku Waktu itu aku bilang yang warna merah
+25	Tapi udah menjadi cushion Tirtier terfavorit aku Waktu itu aku bilang yang warna merah
+26	Waktu itu aku bilang yang warna merah
+27	Waktu itu aku bilang yang warna merah Sekarang udah jadi yang ini lebih gong lagi
+28	Waktu itu aku bilang yang warna merah Sekarang udah jadi yang ini lebih gong lagi
+29	Sekarang udah jadi yang ini lebih gong lagi
+30	Sekarang udah jadi yang ini lebih gong lagi
+31	Sekarang udah jadi yang ini lebih gong lagi
+32	Sekarang udah jadi yang ini lebih gong lagi
+33	Sekarang udah jadi yang ini lebih gong lagi Ini tuh namanya Tirtier Masking AI Filter Cushion
+34	Sekarang udah jadi yang ini lebih gong lagi Ini tuh namanya Tirtier Masking AI Filter Cushion
+35	Ini tuh namanya Tirtier Masking AI Filter Cushion
+36	Ini tuh namanya Tirtier Masking AI Filter Cushion
+37	Ini tuh namanya Tirtier Masking AI Filter Cushion
+38	Ini tuh namanya Tirtier Masking AI Filter Cushion
+39	Ini tuh namanya Tirtier Masking AI Filter Cushion
+40	Ini tuh namanya Tirtier Masking AI Filter Cushion Tapi aku gak tau ini udah ada di Indonesia atau belum masalahnya
+41	Ini tuh namanya Tirtier Masking AI Filter Cushion Tapi aku gak tau ini udah ada di Indonesia atau belum masalahnya
+42	Tapi aku gak tau ini udah ada di Indonesia atau belum masalahnya
+43	Tapi aku gak tau ini udah ada di Indonesia atau belum masalahnya
+44	Tapi aku gak tau ini udah ada di Indonesia atau belum masalahnya
+45	Tapi aku gak tau ini udah ada di Indonesia atau belum masalahnya
+46	Tapi aku gak tau ini udah ada di Indonesia atau belum masalahnya
+47	Tapi aku gak tau ini udah ada di Indonesia atau belum masalahnya Waktu aku ke Korea, terus aku mampir ke store-nya Tirtier
+48	Tapi aku gak tau ini udah ada di Indonesia atau belum masalahnya Waktu aku ke Korea, terus aku mampir ke store-nya Tirtier
+49	Waktu aku ke Korea, terus aku mampir ke store-nya Tirtier
+50	Waktu aku ke Korea, terus aku mampir ke store-nya Tirtier
+51	Waktu aku ke Korea, terus aku mampir ke store-nya Tirtier
+52	Waktu aku ke Korea, terus aku mampir ke store-nya Tirtier
+53	Waktu aku ke Korea, terus aku mampir ke store-nya Tirtier
+54	Waktu aku ke Korea, terus aku mampir ke store-nya Tirtier Aku dikirimin semua shade
+55	Waktu aku ke Korea, terus aku mampir ke store-nya Tirtier Aku dikirimin semua shade
+56	Aku dikirimin semua shade
+57	Aku dikirimin semua shade Terus aku langsung coba
+58	Aku dikirimin semua shade Terus aku langsung coba
+59	Terus aku langsung coba
+60	Terus aku langsung coba
+61	Terus aku langsung coba Terus aku langsung jatuh cinta
+62	Terus aku langsung coba Terus aku langsung jatuh cinta
+63	Terus aku langsung jatuh cinta
+64	Terus aku langsung jatuh cinta
+65	Terus aku langsung jatuh cinta Lihat deh, bagus banget ya guys
+66	Terus aku langsung jatuh cinta Lihat deh, bagus banget ya guys
+67	Lihat deh, bagus banget ya guys
+68	Lihat deh, bagus banget ya guys Aku akan blend sebelah dulu ya
+69	Lihat deh, bagus banget ya guys Aku akan blend sebelah dulu ya
+70	Aku akan blend sebelah dulu ya
+71	Aku akan blend sebelah dulu ya Dan yang aku pake itu shade-nya adalah
+72	Aku akan blend sebelah dulu ya Dan yang aku pake itu shade-nya adalah
+73	Dan yang aku pake itu shade-nya adalah
+74	Dan yang aku pake itu shade-nya adalah
+75	Dan yang aku pake itu shade-nya adalah
+76	Dan yang aku pake itu shade-nya adalah
+77	Dan yang aku pake itu shade-nya adalah
+78	[NO_SPEECH]
+79	Ya!
+80	Ya! Nanti aku akan tulis disini
+81	Ya! Nanti aku akan tulis disini
+82	Nanti aku akan tulis disini
+83	Nanti aku akan tulis disini
+84	Nanti aku akan tulis disini
+85	Nanti aku akan tulis disini
+86	Puff-nya itu juga enak banget untuk nge-blend
+87	Puff-nya itu juga enak banget untuk nge-blend
+88	Puff-nya itu juga enak banget untuk nge-blend
+89	Puff-nya itu juga enak banget untuk nge-blend
+90	Puff-nya itu juga enak banget untuk nge-blend
+91	Puff-nya itu juga enak banget untuk nge-blend Maksudnya enak-enaknya puff
+92	Puff-nya itu juga enak banget untuk nge-blend Maksudnya enak-enaknya puff
+93	Maksudnya enak-enaknya puff
+94	Maksudnya enak-enaknya puff Aku tetep lebih enak pake sponge gitu
+95	Maksudnya enak-enaknya puff Aku tetep lebih enak pake sponge gitu
+96	Aku tetep lebih enak pake sponge gitu
+97	Aku tetep lebih enak pake sponge gitu
+98	Aku tetep lebih enak pake sponge gitu
+99	Aku tetep lebih enak pake sponge gitu Keunggulan utamanya itu adalah
+100	Aku tetep lebih enak pake sponge gitu Keunggulan utamanya itu adalah
+101	Keunggulan utamanya itu adalah
+102	Keunggulan utamanya itu adalah
+103	Keunggulan utamanya itu adalah Walaupun aku blend pake sponge
+104	Keunggulan utamanya itu adalah Walaupun aku blend pake sponge
+105	Walaupun aku blend pake sponge
+106	Walaupun aku blend pake sponge
+107	Walaupun aku blend pake sponge Dia coveragenya tuh kayak gak berkurang gitu
+108	Walaupun aku blend pake sponge Dia coveragenya tuh kayak gak berkurang gitu
+109	Dia coveragenya tuh kayak gak berkurang gitu
+110	Dia coveragenya tuh kayak gak berkurang gitu
+111	Dia coveragenya tuh kayak gak berkurang gitu Karena dia tuh bener-bener langsung nempel gitu
+112	Dia coveragenya tuh kayak gak berkurang gitu Karena dia tuh bener-bener langsung nempel gitu
+113	Karena dia tuh bener-bener langsung nempel gitu
+114	Karena dia tuh bener-bener langsung nempel gitu
+115	Karena dia tuh bener-bener langsung nempel gitu
+116	Karena dia tuh bener-bener langsung nempel gitu
+117	Karena dia tuh bener-bener langsung nempel gitu Di kulit
+118	Karena dia tuh bener-bener langsung nempel gitu Di kulit
+119	Di kulit Jadi kulit kita beneran kayak AI
+120	Di kulit Jadi kulit kita beneran kayak AI
+121	Jadi kulit kita beneran kayak AI
+122	Jadi kulit kita beneran kayak AI
+123	Jadi kulit kita beneran kayak AI
+124	Jadi kulit kita beneran kayak AI My skin but AI
+125	Jadi kulit kita beneran kayak AI My skin but AI
+126	My skin but AI
+127	My skin but AI
+128	My skin but AI
+129	My skin but AI Before
+130	Before
+131	Before
+132	After
+133	After
+134	After Ini dia hasilnya
+135	Ini dia hasilnya
+136	Ini dia hasilnya
+137	Ini dia hasilnya Bahkan waktu aku pake pertama kali itu aku gak set pake powder
+138	Ini dia hasilnya Bahkan waktu aku pake pertama kali itu aku gak set pake powder
+139	Bahkan waktu aku pake pertama kali itu aku gak set pake powder
+140	Bahkan waktu aku pake pertama kali itu aku gak set pake powder
+141	Bahkan waktu aku pake pertama kali itu aku gak set pake powder
+142	Bahkan waktu aku pake pertama kali itu aku gak set pake powder
+143	Bahkan waktu aku pake pertama kali itu aku gak set pake powder Karena udah indah
+144	Bahkan waktu aku pake pertama kali itu aku gak set pake powder Karena udah indah
+145	Karena udah indah
+146	Karena udah indah Pasti bakal launching gak sih di Indonesia?
+147	Karena udah indah Pasti bakal launching gak sih di Indonesia?
+148	Karena udah indah Pasti bakal launching gak sih di Indonesia?
+149	Pasti bakal launching gak sih di Indonesia?
+150	Pasti bakal launching gak sih di Indonesia?
+151	Pasti bakal launching gak sih di Indonesia? Kalau misalnya enggak, kalian mau just tip menurut aku ini worth it
+152	Pasti bakal launching gak sih di Indonesia? Kalau misalnya enggak, kalian mau just tip menurut aku ini worth it
+153	Kalau misalnya enggak, kalian mau just tip menurut aku ini worth it
+154	Kalau misalnya enggak, kalian mau just tip menurut aku ini worth it
+155	Kalau misalnya enggak, kalian mau just tip menurut aku ini worth it
+156	Kalau misalnya enggak, kalian mau just tip menurut aku ini worth it Next-nya aku juga penasaran banget sama liquid blush-nya Rose All Day
+157	Kalau misalnya enggak, kalian mau just tip menurut aku ini worth it Next-nya aku juga penasaran banget sama liquid blush-nya Rose All Day
+158	Next-nya aku juga penasaran banget sama liquid blush-nya Rose All Day
+159	Next-nya aku juga penasaran banget sama liquid blush-nya Rose All Day
+160	Next-nya aku juga penasaran banget sama liquid blush-nya Rose All Day
+161	Next-nya aku juga penasaran banget sama liquid blush-nya Rose All Day
+162	Next-nya aku juga penasaran banget sama liquid blush-nya Rose All Day
+163	Next-nya aku juga penasaran banget sama liquid blush-nya Rose All Day
+164	Next-nya aku juga penasaran banget sama liquid blush-nya Rose All Day
+165	Next-nya aku juga penasaran banget sama liquid blush-nya Rose All Day
+166	Next-nya aku juga penasaran banget sama liquid blush-nya Rose All Day Dan dikatakan baju aku lagi merah
+167	Next-nya aku juga penasaran banget sama liquid blush-nya Rose All Day Dan dikatakan baju aku lagi merah
+168	Dan dikatakan baju aku lagi merah
+169	Dan dikatakan baju aku lagi merah
+170	Dan dikatakan baju aku lagi merah Kita akan coba yang warna merah ya
+171	Dan dikatakan baju aku lagi merah Kita akan coba yang warna merah ya
+172	Kita akan coba yang warna merah ya
+173	Kita akan coba yang warna merah ya Ini namanya adalah
+174	Kita akan coba yang warna merah ya Ini namanya adalah
+175	Ini namanya adalah Ndasherry
+176	Ini namanya adalah Ndasherry
+177	Ndasherry
+178	Ndasherry Let's try it
+179	Let's try it
+180	Let's try it Oh dia aplikatornya silikon
+181	Let's try it Oh dia aplikatornya silikon
+182	Oh dia aplikatornya silikon
+183	Oh dia aplikatornya silikon
+184	Oh dia aplikatornya silikon Jujur aku biasanya agak kurang suka sama aplikator silikon
+185	Oh dia aplikatornya silikon Jujur aku biasanya agak kurang suka sama aplikator silikon
+186	Jujur aku biasanya agak kurang suka sama aplikator silikon
+187	Jujur aku biasanya agak kurang suka sama aplikator silikon
+188	Jujur aku biasanya agak kurang suka sama aplikator silikon
+189	Jujur aku biasanya agak kurang suka sama aplikator silikon
+190	Jujur aku biasanya agak kurang suka sama aplikator silikon
+191	Jujur aku biasanya agak kurang suka sama aplikator silikon
+192	Jujur aku biasanya agak kurang suka sama aplikator silikon
+193	Jujur aku biasanya agak kurang suka sama aplikator silikon Kayaknya gak terlalu ngaruh karena ini cream blush
+194	Jujur aku biasanya agak kurang suka sama aplikator silikon Kayaknya gak terlalu ngaruh karena ini cream blush
+195	Kayaknya gak terlalu ngaruh karena ini cream blush
+196	Kayaknya gak terlalu ngaruh karena ini cream blush
+197	Kayaknya gak terlalu ngaruh karena ini cream blush Aku gak sukanya itu aplikator silikon kalau buat bibir biasanya
+198	Kayaknya gak terlalu ngaruh karena ini cream blush Aku gak sukanya itu aplikator silikon kalau buat bibir biasanya
+199	Aku gak sukanya itu aplikator silikon kalau buat bibir biasanya
+200	Aku gak sukanya itu aplikator silikon kalau buat bibir biasanya
+201	Aku gak sukanya itu aplikator silikon kalau buat bibir biasanya
+202	Aku gak sukanya itu aplikator silikon kalau buat bibir biasanya
+203	Aku gak sukanya itu aplikator silikon kalau buat bibir biasanya
+204	Aku gak sukanya itu aplikator silikon kalau buat bibir biasanya
+205	Aku gak sukanya itu aplikator silikon kalau buat bibir biasanya
+206	Aku gak sukanya itu aplikator silikon kalau buat bibir biasanya Kita blend
+207	Aku gak sukanya itu aplikator silikon kalau buat bibir biasanya Kita blend
+208	Aku gak sukanya itu aplikator silikon kalau buat bibir biasanya Kita blend
+209	Kita blend Rose All Day tuh biasanya emang aiming for natural girl gitu kan
+210	Rose All Day tuh biasanya emang aiming for natural girl gitu kan
+211	Rose All Day tuh biasanya emang aiming for natural girl gitu kan
+212	Rose All Day tuh biasanya emang aiming for natural girl gitu kan
+213	Rose All Day tuh biasanya emang aiming for natural girl gitu kan
+214	Rose All Day tuh biasanya emang aiming for natural girl gitu kan
+215	Rose All Day tuh biasanya emang aiming for natural girl gitu kan
+216	Rose All Day tuh biasanya emang aiming for natural girl gitu kan
+217	Rose All Day tuh biasanya emang aiming for natural girl gitu kan
+218	Rose All Day tuh biasanya emang aiming for natural girl gitu kan
+219	Rose All Day tuh biasanya emang aiming for natural girl gitu kan Jadi gak kaget kalau pigmentasinya low seperti ini
+220	Rose All Day tuh biasanya emang aiming for natural girl gitu kan Jadi gak kaget kalau pigmentasinya low seperti ini
+221	Jadi gak kaget kalau pigmentasinya low seperti ini
+222	Jadi gak kaget kalau pigmentasinya low seperti ini
+223	Jadi gak kaget kalau pigmentasinya low seperti ini
+224	Jadi gak kaget kalau pigmentasinya low seperti ini
+225	Jadi gak kaget kalau pigmentasinya low seperti ini Walaupun warnanya tadi se-intense ini ya
+226	Jadi gak kaget kalau pigmentasinya low seperti ini Walaupun warnanya tadi se-intense ini ya
+227	Walaupun warnanya tadi se-intense ini ya
+228	Walaupun warnanya tadi se-intense ini ya
+229	Walaupun warnanya tadi se-intense ini ya
+230	Walaupun warnanya tadi se-intense ini ya Tapi pada saat di blend ternyata dia sangat soft ya
+231	Walaupun warnanya tadi se-intense ini ya Tapi pada saat di blend ternyata dia sangat soft ya
+232	Tapi pada saat di blend ternyata dia sangat soft ya
+233	Tapi pada saat di blend ternyata dia sangat soft ya
+234	Tapi pada saat di blend ternyata dia sangat soft ya
+235	Tapi pada saat di blend ternyata dia sangat soft ya Dan warnanya jadi kayak
+236	Tapi pada saat di blend ternyata dia sangat soft ya Dan warnanya jadi kayak
+237	Dan warnanya jadi kayak
+238	Dan warnanya jadi kayak Flushy pink
+239	Dan warnanya jadi kayak Flushy pink
+240	Flushy pink Dari warna kayak gini
+241	Flushy pink Dari warna kayak gini
+242	Dari warna kayak gini
+243	Dari warna kayak gini Begitu di blend
+244	Dari warna kayak gini Begitu di blend
+245	Begitu di blend
+246	Begitu di blend Kemana semua?
+247	Kemana semua?
+248	Kemana semua?
+249	Kemana semua? Jadinya flushy aja
+250	Jadinya flushy aja
+251	Jadinya flushy aja
+252	Jadinya flushy aja No worries
+253	Jadinya flushy aja No worries
+254	No worries Kalau ngambilnya agak banyak
+255	No worries Kalau ngambilnya agak banyak
+256	Kalau ngambilnya agak banyak
+257	Kalau ngambilnya agak banyak Kalau yang Rose All Day ini aku bener-bener first impression
+258	Kalau ngambilnya agak banyak Kalau yang Rose All Day ini aku bener-bener first impression
+259	Kalau yang Rose All Day ini aku bener-bener first impression
+260	Kalau yang Rose All Day ini aku bener-bener first impression
+261	Kalau yang Rose All Day ini aku bener-bener first impression
+262	Kalau yang Rose All Day ini aku bener-bener first impression
+263	Kalau yang Rose All Day ini aku bener-bener first impression
+264	Kalau yang Rose All Day ini aku bener-bener first impression
+265	So far so good
+266	So far so good
+267	So far so good Tapi aku yakin banget ini kalau kita set pakai powder
+268	So far so good Tapi aku yakin banget ini kalau kita set pakai powder
+269	Tapi aku yakin banget ini kalau kita set pakai powder
+270	Tapi aku yakin banget ini kalau kita set pakai powder
+271	Tapi aku yakin banget ini kalau kita set pakai powder
+272	Tapi aku yakin banget ini kalau kita set pakai powder
+273	Tapi aku yakin banget ini kalau kita set pakai powder Warna blush-nya pasti ilang
+274	Tapi aku yakin banget ini kalau kita set pakai powder Warna blush-nya pasti ilang
+275	Warna blush-nya pasti ilang
+276	Warna blush-nya pasti ilang Kalau sampe gak ilang
+277	Warna blush-nya pasti ilang Kalau sampe gak ilang
+278	Kalau sampe gak ilang Berarti cakep
+279	Kalau sampe gak ilang Berarti cakep
+280	Berarti cakep Kita akan pakai translucent loose powder-nya MOP
+281	Berarti cakep Kita akan pakai translucent loose powder-nya MOP
+282	Kita akan pakai translucent loose powder-nya MOP
+283	Kita akan pakai translucent loose powder-nya MOP
+284	Kita akan pakai translucent loose powder-nya MOP
+285	Kita akan pakai translucent loose powder-nya MOP Tipis aja
+286	Kita akan pakai translucent loose powder-nya MOP Tipis aja
+287	Tipis aja Dan gak ilang
+288	Tipis aja Dan gak ilang
+289	Dan gak ilang
+290	Dan gak ilang Alhamdulillah
+291	Dan gak ilang Alhamdulillah
+292	Alhamdulillah Ini adalah salam aku liquid blush-nya ini ya?
+293	Alhamdulillah Ini adalah salam aku liquid blush-nya ini ya?
+294	Ini adalah salam aku liquid blush-nya ini ya?
+295	Ini adalah salam aku liquid blush-nya ini ya? Blush yang cantik sekali menurut aku sih dari ini
+296	Ini adalah salam aku liquid blush-nya ini ya? Blush yang cantik sekali menurut aku sih dari ini
+297	Blush yang cantik sekali menurut aku sih dari ini
+298	Blush yang cantik sekali menurut aku sih dari ini
+299	Blush yang cantik sekali menurut aku sih dari ini
+300	Blush yang cantik sekali menurut aku sih dari ini
+301	Blush yang cantik sekali menurut aku sih dari ini Dan kulit aku udah semakin seperti
+302	Blush yang cantik sekali menurut aku sih dari ini Dan kulit aku udah semakin seperti
+303	Dan kulit aku udah semakin seperti
+304	Dan kulit aku udah semakin seperti Wow
+305	Dan kulit aku udah semakin seperti Wow
+306	Wow Gw
+307	Wow Gw Mana semua pori-pori
+308	Gw Mana semua pori-pori
+309	Mana semua pori-pori
+310	Mana semua pori-pori Mana semua tekstur
+311	Mana semua pori-pori Mana semua tekstur
+312	Mana semua tekstur
+313	Mana semua tekstur Kayak combo banget
+314	Mana semua tekstur Kayak combo banget
+315	Kayak combo banget Kayaknya aku hari ini mau bener-bener pakai lipstick merah gitu
+316	Kayak combo banget Kayaknya aku hari ini mau bener-bener pakai lipstick merah gitu
+317	Kayaknya aku hari ini mau bener-bener pakai lipstick merah gitu
+318	Kayaknya aku hari ini mau bener-bener pakai lipstick merah gitu
+319	Kayaknya aku hari ini mau bener-bener pakai lipstick merah gitu
+320	Kayaknya aku hari ini mau bener-bener pakai lipstick merah gitu
+321	Kayaknya aku hari ini mau bener-bener pakai lipstick merah gitu Dan menonjolkan kemerahan yang ada di sini gitu loh
+322	Kayaknya aku hari ini mau bener-bener pakai lipstick merah gitu Dan menonjolkan kemerahan yang ada di sini gitu loh
+323	Dan menonjolkan kemerahan yang ada di sini gitu loh
+324	Dan menonjolkan kemerahan yang ada di sini gitu loh
+325	Dan menonjolkan kemerahan yang ada di sini gitu loh
+326	Dan menonjolkan kemerahan yang ada di sini gitu loh
+327	Dan menonjolkan kemerahan yang ada di sini gitu loh
+328	Dan menonjolkan kemerahan yang ada di sini gitu loh
+329	Dan menonjolkan kemerahan yang ada di sini gitu loh Dari liquid blush, baju, dan juga lipstick
+330	Dan menonjolkan kemerahan yang ada di sini gitu loh Dari liquid blush, baju, dan juga lipstick
+331	Dari liquid blush, baju, dan juga lipstick
+332	Dari liquid blush, baju, dan juga lipstick
+333	Dari liquid blush, baju, dan juga lipstick
+334	Dari liquid blush, baju, dan juga lipstick Mari kita selesaikan makeupnya ya
+335	Dari liquid blush, baju, dan juga lipstick Mari kita selesaikan makeupnya ya
+336	Mari kita selesaikan makeupnya ya Tadaaa
+337	Mari kita selesaikan makeupnya ya Tadaaa
+338	Mari kita selesaikan makeupnya ya Tadaaa
+339	Tadaaa
+340	Here are the final look
+341	Here are the final look
+342	Here are the final look Dan aku tidak pakai setting spray
+343	Here are the final look Dan aku tidak pakai setting spray
+344	Dan aku tidak pakai setting spray
+345	Dan aku tidak pakai setting spray Super flawless skin
+346	Dan aku tidak pakai setting spray Super flawless skin
+347	Super flawless skin
+348	Super flawless skin
+349	Super flawless skin The hero product of this video
+350	Super flawless skin The hero product of this video
+351	The hero product of this video
+352	The hero product of this video
+353	The hero product of this video
+354	The hero product of this video
+355	The hero product of this video Adalah cushion-nya
+356	Adalah cushion-nya
+357	Adalah cushion-nya Tapi blush-nya Rosé L'Olé juga bagus sekali
+358	Adalah cushion-nya Tapi blush-nya Rosé L'Olé juga bagus sekali
+359	Tapi blush-nya Rosé L'Olé juga bagus sekali
+360	Tapi blush-nya Rosé L'Olé juga bagus sekali
+361	Tapi blush-nya Rosé L'Olé juga bagus sekali
+362	Tapi blush-nya Rosé L'Olé juga bagus sekali Cantik
+363	Tapi blush-nya Rosé L'Olé juga bagus sekali Cantik Dan makeupnya super simple aja
+364	Cantik Dan makeupnya super simple aja
+365	Cantik Dan makeupnya super simple aja
+366	Dan makeupnya super simple aja
+367	Dan makeupnya super simple aja Mengandalkan complexion dan lipstick
+368	Dan makeupnya super simple aja Mengandalkan complexion dan lipstick
+369	Mengandalkan complexion dan lipstick
+370	Mengandalkan complexion dan lipstick
+371	Mengandalkan complexion dan lipstick Merah merah
+372	Mengandalkan complexion dan lipstick Merah merah
+373	Merah merah
+374	Merah merah Membarat
+375	Merah merah Membarat
+376	Membarat
+377	Membarat Nextnya kita review produk apa lagi?
+378	Nextnya kita review produk apa lagi?
+379	Nextnya kita review produk apa lagi?
+380	Nextnya kita review produk apa lagi? Kalian komen di bawah oke?
+381	Nextnya kita review produk apa lagi? Kalian komen di bawah oke?
+382	Kalian komen di bawah oke?
+383	Kalian komen di bawah oke?
+384	Kalian komen di bawah oke?
+385	[NO_SPEECH]

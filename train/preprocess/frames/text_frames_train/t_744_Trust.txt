@@ -1,0 +1,145 @@
+0	Bagi teman-teman yang demen olahraga, tapi sering sekali cedera.
+1	Bagi teman-teman yang demen olahraga, tapi sering sekali cedera.
+2	Bagi teman-teman yang demen olahraga, tapi sering sekali cedera.
+3	Bagi teman-teman yang demen olahraga, tapi sering sekali cedera.
+4	Bagi teman-teman yang demen olahraga, tapi sering sekali cedera.
+5	Bagi teman-teman yang demen olahraga, tapi sering sekali cedera. Lu olahraga bola cedera, futsal cedera, basket cedera, badminton cedera, lari cedera.
+6	Bagi teman-teman yang demen olahraga, tapi sering sekali cedera. Lu olahraga bola cedera, futsal cedera, basket cedera, badminton cedera, lari cedera.
+7	Lu olahraga bola cedera, futsal cedera, basket cedera, badminton cedera, lari cedera.
+8	Lu olahraga bola cedera, futsal cedera, basket cedera, badminton cedera, lari cedera.
+9	Lu olahraga bola cedera, futsal cedera, basket cedera, badminton cedera, lari cedera.
+10	Lu olahraga bola cedera, futsal cedera, basket cedera, badminton cedera, lari cedera.
+11	Lu olahraga bola cedera, futsal cedera, basket cedera, badminton cedera, lari cedera.
+12	Lu olahraga bola cedera, futsal cedera, basket cedera, badminton cedera, lari cedera.
+13	Lu olahraga bola cedera, futsal cedera, basket cedera, badminton cedera, lari cedera.
+14	Lu olahraga bola cedera, futsal cedera, basket cedera, badminton cedera, lari cedera.
+15	Lu olahraga bola cedera, futsal cedera, basket cedera, badminton cedera, lari cedera.
+16	Lu olahraga bola cedera, futsal cedera, basket cedera, badminton cedera, lari cedera.
+17	Lu olahraga bola cedera, futsal cedera, basket cedera, badminton cedera, lari cedera. Salah satu alesannya adalah karena teman-teman itu tidak pernah olahraga yang goblok, yaitu ke gym.
+18	Salah satu alesannya adalah karena teman-teman itu tidak pernah olahraga yang goblok, yaitu ke gym.
+19	Salah satu alesannya adalah karena teman-teman itu tidak pernah olahraga yang goblok, yaitu ke gym.
+20	Salah satu alesannya adalah karena teman-teman itu tidak pernah olahraga yang goblok, yaitu ke gym.
+21	Salah satu alesannya adalah karena teman-teman itu tidak pernah olahraga yang goblok, yaitu ke gym.
+22	Salah satu alesannya adalah karena teman-teman itu tidak pernah olahraga yang goblok, yaitu ke gym.
+23	Salah satu alesannya adalah karena teman-teman itu tidak pernah olahraga yang goblok, yaitu ke gym.
+24	Salah satu alesannya adalah karena teman-teman itu tidak pernah olahraga yang goblok, yaitu ke gym.
+25	Salah satu alesannya adalah karena teman-teman itu tidak pernah olahraga yang goblok, yaitu ke gym.
+26	Salah satu alesannya adalah karena teman-teman itu tidak pernah olahraga yang goblok, yaitu ke gym.
+27	Salah satu alesannya adalah karena teman-teman itu tidak pernah olahraga yang goblok, yaitu ke gym.
+28	Salah satu alesannya adalah karena teman-teman itu tidak pernah olahraga yang goblok, yaitu ke gym.
+29	Salah satu alesannya adalah karena teman-teman itu tidak pernah olahraga yang goblok, yaitu ke gym.
+30	Salah satu alesannya adalah karena teman-teman itu tidak pernah olahraga yang goblok, yaitu ke gym. Ini gue mau share beberapa studi yang tunjukin ya, resistance training, yaitu kalau teman-teman ke gym angkat beban.
+31	Ini gue mau share beberapa studi yang tunjukin ya, resistance training, yaitu kalau teman-teman ke gym angkat beban.
+32	Ini gue mau share beberapa studi yang tunjukin ya, resistance training, yaitu kalau teman-teman ke gym angkat beban.
+33	Ini gue mau share beberapa studi yang tunjukin ya, resistance training, yaitu kalau teman-teman ke gym angkat beban.
+34	Ini gue mau share beberapa studi yang tunjukin ya, resistance training, yaitu kalau teman-teman ke gym angkat beban.
+35	Ini gue mau share beberapa studi yang tunjukin ya, resistance training, yaitu kalau teman-teman ke gym angkat beban.
+36	Ini gue mau share beberapa studi yang tunjukin ya, resistance training, yaitu kalau teman-teman ke gym angkat beban.
+37	Ini gue mau share beberapa studi yang tunjukin ya, resistance training, yaitu kalau teman-teman ke gym angkat beban.
+38	Ini gue mau share beberapa studi yang tunjukin ya, resistance training, yaitu kalau teman-teman ke gym angkat beban.
+39	Ini gue mau share beberapa studi yang tunjukin ya, resistance training, yaitu kalau teman-teman ke gym angkat beban.
+40	Ini gue mau share beberapa studi yang tunjukin ya, resistance training, yaitu kalau teman-teman ke gym angkat beban.
+41	Ini gue mau share beberapa studi yang tunjukin ya, resistance training, yaitu kalau teman-teman ke gym angkat beban.
+42	Ini gue mau share beberapa studi yang tunjukin ya, resistance training, yaitu kalau teman-teman ke gym angkat beban.
+43	Ini gue mau share beberapa studi yang tunjukin ya, resistance training, yaitu kalau teman-teman ke gym angkat beban.
+44	Ini gue mau share beberapa studi yang tunjukin ya, resistance training, yaitu kalau teman-teman ke gym angkat beban. Itu akan menurunkan resiko teman-teman cedera ada saat teman-teman ngerjain olahraga yang lain.
+45	Ini gue mau share beberapa studi yang tunjukin ya, resistance training, yaitu kalau teman-teman ke gym angkat beban. Itu akan menurunkan resiko teman-teman cedera ada saat teman-teman ngerjain olahraga yang lain.
+46	Itu akan menurunkan resiko teman-teman cedera ada saat teman-teman ngerjain olahraga yang lain.
+47	Itu akan menurunkan resiko teman-teman cedera ada saat teman-teman ngerjain olahraga yang lain.
+48	Itu akan menurunkan resiko teman-teman cedera ada saat teman-teman ngerjain olahraga yang lain.
+49	Itu akan menurunkan resiko teman-teman cedera ada saat teman-teman ngerjain olahraga yang lain.
+50	Itu akan menurunkan resiko teman-teman cedera ada saat teman-teman ngerjain olahraga yang lain.
+51	Itu akan menurunkan resiko teman-teman cedera ada saat teman-teman ngerjain olahraga yang lain.
+52	Itu akan menurunkan resiko teman-teman cedera ada saat teman-teman ngerjain olahraga yang lain.
+53	Itu akan menurunkan resiko teman-teman cedera ada saat teman-teman ngerjain olahraga yang lain.
+54	Itu akan menurunkan resiko teman-teman cedera ada saat teman-teman ngerjain olahraga yang lain.
+55	Itu akan menurunkan resiko teman-teman cedera ada saat teman-teman ngerjain olahraga yang lain. Gue sendiri pribadi demen sekali olahraga-olahraga yang dinamis.
+56	Itu akan menurunkan resiko teman-teman cedera ada saat teman-teman ngerjain olahraga yang lain. Gue sendiri pribadi demen sekali olahraga-olahraga yang dinamis.
+57	Gue sendiri pribadi demen sekali olahraga-olahraga yang dinamis.
+58	Gue sendiri pribadi demen sekali olahraga-olahraga yang dinamis.
+59	Gue sendiri pribadi demen sekali olahraga-olahraga yang dinamis.
+60	Gue sendiri pribadi demen sekali olahraga-olahraga yang dinamis.
+61	Gue sendiri pribadi demen sekali olahraga-olahraga yang dinamis.
+62	Gue sendiri pribadi demen sekali olahraga-olahraga yang dinamis.
+63	Gue sendiri pribadi demen sekali olahraga-olahraga yang dinamis. Gue demen, ya gue lagi coba belajar surfing, snowboarding gue udah lumayan.
+64	Gue sendiri pribadi demen sekali olahraga-olahraga yang dinamis. Gue demen, ya gue lagi coba belajar surfing, snowboarding gue udah lumayan.
+65	Gue demen, ya gue lagi coba belajar surfing, snowboarding gue udah lumayan.
+66	Gue demen, ya gue lagi coba belajar surfing, snowboarding gue udah lumayan.
+67	Gue demen, ya gue lagi coba belajar surfing, snowboarding gue udah lumayan.
+68	Gue demen, ya gue lagi coba belajar surfing, snowboarding gue udah lumayan.
+69	Gue demen, ya gue lagi coba belajar surfing, snowboarding gue udah lumayan.
+70	Gue demen, ya gue lagi coba belajar surfing, snowboarding gue udah lumayan.
+71	Gue demen, ya gue lagi coba belajar surfing, snowboarding gue udah lumayan.
+72	Gue demen, ya gue lagi coba belajar surfing, snowboarding gue udah lumayan. Jadi gue demen olahraga-olahraga yang seperti itu.
+73	Gue demen, ya gue lagi coba belajar surfing, snowboarding gue udah lumayan. Jadi gue demen olahraga-olahraga yang seperti itu.
+74	Jadi gue demen olahraga-olahraga yang seperti itu.
+75	Jadi gue demen olahraga-olahraga yang seperti itu.
+76	Jadi gue demen olahraga-olahraga yang seperti itu. Dan gue tau persis, karena udah gue ngeliat dengan mata kepala gue sendiri, terutama di snowboarding ya, di atas gunung itu.
+77	Jadi gue demen olahraga-olahraga yang seperti itu. Dan gue tau persis, karena udah gue ngeliat dengan mata kepala gue sendiri, terutama di snowboarding ya, di atas gunung itu.
+78	Dan gue tau persis, karena udah gue ngeliat dengan mata kepala gue sendiri, terutama di snowboarding ya, di atas gunung itu.
+79	Dan gue tau persis, karena udah gue ngeliat dengan mata kepala gue sendiri, terutama di snowboarding ya, di atas gunung itu.
+80	Dan gue tau persis, karena udah gue ngeliat dengan mata kepala gue sendiri, terutama di snowboarding ya, di atas gunung itu.
+81	Dan gue tau persis, karena udah gue ngeliat dengan mata kepala gue sendiri, terutama di snowboarding ya, di atas gunung itu.
+82	Dan gue tau persis, karena udah gue ngeliat dengan mata kepala gue sendiri, terutama di snowboarding ya, di atas gunung itu.
+83	Dan gue tau persis, karena udah gue ngeliat dengan mata kepala gue sendiri, terutama di snowboarding ya, di atas gunung itu.
+84	Dan gue tau persis, karena udah gue ngeliat dengan mata kepala gue sendiri, terutama di snowboarding ya, di atas gunung itu.
+85	Dan gue tau persis, karena udah gue ngeliat dengan mata kepala gue sendiri, terutama di snowboarding ya, di atas gunung itu.
+86	Dan gue tau persis, karena udah gue ngeliat dengan mata kepala gue sendiri, terutama di snowboarding ya, di atas gunung itu.
+87	Dan gue tau persis, karena udah gue ngeliat dengan mata kepala gue sendiri, terutama di snowboarding ya, di atas gunung itu.
+88	Dan gue tau persis, karena udah gue ngeliat dengan mata kepala gue sendiri, terutama di snowboarding ya, di atas gunung itu.
+89	Dan gue tau persis, karena udah gue ngeliat dengan mata kepala gue sendiri, terutama di snowboarding ya, di atas gunung itu. Berapa banyak orang itu cedera.
+90	Dan gue tau persis, karena udah gue ngeliat dengan mata kepala gue sendiri, terutama di snowboarding ya, di atas gunung itu. Berapa banyak orang itu cedera.
+91	Berapa banyak orang itu cedera.
+92	Berapa banyak orang itu cedera.
+93	Berapa banyak orang itu cedera.
+94	Berapa banyak orang itu cedera. Cedera ligamen, patah tulang, karena kan kecepatan dan lu dinamis ya.
+95	Cedera ligamen, patah tulang, karena kan kecepatan dan lu dinamis ya.
+96	Cedera ligamen, patah tulang, karena kan kecepatan dan lu dinamis ya.
+97	Cedera ligamen, patah tulang, karena kan kecepatan dan lu dinamis ya.
+98	Cedera ligamen, patah tulang, karena kan kecepatan dan lu dinamis ya.
+99	Cedera ligamen, patah tulang, karena kan kecepatan dan lu dinamis ya.
+100	Cedera ligamen, patah tulang, karena kan kecepatan dan lu dinamis ya.
+101	Cedera ligamen, patah tulang, karena kan kecepatan dan lu dinamis ya.
+102	Cedera ligamen, patah tulang, karena kan kecepatan dan lu dinamis ya.
+103	Cedera ligamen, patah tulang, karena kan kecepatan dan lu dinamis ya. Jadi kalau kita itu tidak memperkuat otot-otot dan tulang-tulangnya kita.
+104	Jadi kalau kita itu tidak memperkuat otot-otot dan tulang-tulangnya kita.
+105	Jadi kalau kita itu tidak memperkuat otot-otot dan tulang-tulangnya kita.
+106	Jadi kalau kita itu tidak memperkuat otot-otot dan tulang-tulangnya kita.
+107	Jadi kalau kita itu tidak memperkuat otot-otot dan tulang-tulangnya kita.
+108	Jadi kalau kita itu tidak memperkuat otot-otot dan tulang-tulangnya kita.
+109	Jadi kalau kita itu tidak memperkuat otot-otot dan tulang-tulangnya kita.
+110	Jadi kalau kita itu tidak memperkuat otot-otot dan tulang-tulangnya kita.
+111	Jadi kalau kita itu tidak memperkuat otot-otot dan tulang-tulangnya kita.
+112	Jadi kalau kita itu tidak memperkuat otot-otot dan tulang-tulangnya kita. Apalagi kalau teman-teman demen.
+113	Apalagi kalau teman-teman demen.
+114	Apalagi kalau teman-teman demen.
+115	Apalagi kalau teman-teman demen. Kalau kita olahraga yang dinamis, ya itu udah pasti rentan cedera.
+116	Apalagi kalau teman-teman demen. Kalau kita olahraga yang dinamis, ya itu udah pasti rentan cedera.
+117	Kalau kita olahraga yang dinamis, ya itu udah pasti rentan cedera.
+118	Kalau kita olahraga yang dinamis, ya itu udah pasti rentan cedera.
+119	Kalau kita olahraga yang dinamis, ya itu udah pasti rentan cedera.
+120	Kalau kita olahraga yang dinamis, ya itu udah pasti rentan cedera.
+121	Kalau kita olahraga yang dinamis, ya itu udah pasti rentan cedera. Jadi go hit the gym.
+122	Jadi go hit the gym.
+123	Jadi go hit the gym.
+124	Jadi go hit the gym.
+125	Jadi go hit the gym. Perkuat semua gerakan, perkuat overall body untuk ngelakuin olahraga-olahraga yang dinamis.
+126	Jadi go hit the gym. Perkuat semua gerakan, perkuat overall body untuk ngelakuin olahraga-olahraga yang dinamis.
+127	Perkuat semua gerakan, perkuat overall body untuk ngelakuin olahraga-olahraga yang dinamis.
+128	Perkuat semua gerakan, perkuat overall body untuk ngelakuin olahraga-olahraga yang dinamis.
+129	Perkuat semua gerakan, perkuat overall body untuk ngelakuin olahraga-olahraga yang dinamis.
+130	Perkuat semua gerakan, perkuat overall body untuk ngelakuin olahraga-olahraga yang dinamis.
+131	Perkuat semua gerakan, perkuat overall body untuk ngelakuin olahraga-olahraga yang dinamis.
+132	Perkuat semua gerakan, perkuat overall body untuk ngelakuin olahraga-olahraga yang dinamis.
+133	Perkuat semua gerakan, perkuat overall body untuk ngelakuin olahraga-olahraga yang dinamis.
+134	Perkuat semua gerakan, perkuat overall body untuk ngelakuin olahraga-olahraga yang dinamis.
+135	Perkuat semua gerakan, perkuat overall body untuk ngelakuin olahraga-olahraga yang dinamis.
+136	Perkuat semua gerakan, perkuat overall body untuk ngelakuin olahraga-olahraga yang dinamis.
+137	Perkuat semua gerakan, perkuat overall body untuk ngelakuin olahraga-olahraga yang dinamis.
+138	Perkuat semua gerakan, perkuat overall body untuk ngelakuin olahraga-olahraga yang dinamis.
+139	Perkuat semua gerakan, perkuat overall body untuk ngelakuin olahraga-olahraga yang dinamis. Semoga bermanfaat.
+140	Semoga bermanfaat.
+141	Semoga bermanfaat.
+142	Semoga bermanfaat.
+143	Semoga bermanfaat.
+144	[NO_SPEECH]

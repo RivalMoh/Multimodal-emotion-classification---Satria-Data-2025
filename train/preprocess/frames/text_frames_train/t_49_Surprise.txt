@@ -1,0 +1,83 @@
+0	ini adalah suatu kendaraan di Gias
+1	ini adalah suatu kendaraan di Gias
+2	ini adalah suatu kendaraan di Gias
+3	ini adalah suatu kendaraan di Gias
+4	ini adalah suatu kendaraan di Gias
+5	ini adalah suatu kendaraan di Gias yang joknya cukup keras dan gak bisa diatur
+6	ini adalah suatu kendaraan di Gias yang joknya cukup keras dan gak bisa diatur
+7	yang joknya cukup keras dan gak bisa diatur
+8	yang joknya cukup keras dan gak bisa diatur
+9	yang joknya cukup keras dan gak bisa diatur
+10	yang joknya cukup keras dan gak bisa diatur
+11	yang joknya cukup keras dan gak bisa diatur
+12	yang joknya cukup keras dan gak bisa diatur maju mundur, reclining
+13	yang joknya cukup keras dan gak bisa diatur maju mundur, reclining
+14	maju mundur, reclining
+15	maju mundur, reclining
+16	maju mundur, reclining sama sekali gak bisa
+17	maju mundur, reclining sama sekali gak bisa
+18	sama sekali gak bisa nah, tapi ada layar tengah
+19	sama sekali gak bisa nah, tapi ada layar tengah
+20	nah, tapi ada layar tengah
+21	nah, tapi ada layar tengah dan masing-masing kanan kiri dapat layar sendiri-sendiri
+22	nah, tapi ada layar tengah dan masing-masing kanan kiri dapat layar sendiri-sendiri
+23	dan masing-masing kanan kiri dapat layar sendiri-sendiri
+24	dan masing-masing kanan kiri dapat layar sendiri-sendiri
+25	dan masing-masing kanan kiri dapat layar sendiri-sendiri
+26	dan masing-masing kanan kiri dapat layar sendiri-sendiri
+27	dan masing-masing kanan kiri dapat layar sendiri-sendiri
+28	dan masing-masing kanan kiri dapat layar sendiri-sendiri ada switchesnya juga banyak
+29	dan masing-masing kanan kiri dapat layar sendiri-sendiri ada switchesnya juga banyak
+30	ada switchesnya juga banyak
+31	ada switchesnya juga banyak gak tau buat apaan
+32	ada switchesnya juga banyak gak tau buat apaan
+33	gak tau buat apaan bodinya karbon
+34	gak tau buat apaan bodinya karbon
+35	bodinya karbon
+36	bodinya karbon
+37	bodinya karbon ini namanya Xpeng S2 Sky Traveler
+38	bodinya karbon ini namanya Xpeng S2 Sky Traveler
+39	ini namanya Xpeng S2 Sky Traveler
+40	ini namanya Xpeng S2 Sky Traveler
+41	ini namanya Xpeng S2 Sky Traveler
+42	ini namanya Xpeng S2 Sky Traveler
+43	ini namanya Xpeng S2 Sky Traveler
+44	ini namanya Xpeng S2 Sky Traveler
+45	ini namanya Xpeng S2 Sky Traveler
+46	ini namanya Xpeng S2 Sky Traveler adalah suatu
+47	ini namanya Xpeng S2 Sky Traveler adalah suatu
+48	adalah suatu
+49	adalah suatu
+50	adalah suatu
+51	[NO_SPEECH]
+52	mobil yang terbang
+53	mobil yang terbang
+54	mobil yang terbang
+55	mobil yang terbang
+56	mobil yang terbang
+57	mobil yang terbang
+58	[NO_SPEECH]
+59	[NO_SPEECH]
+60	[NO_SPEECH]
+61	[NO_SPEECH]
+62	[NO_SPEECH]
+63	bukan mobil sih
+64	bukan mobil sih
+65	bukan mobil sih
+66	bukan mobil sih ini drone yang bisa ngangkut manusia
+67	bukan mobil sih ini drone yang bisa ngangkut manusia
+68	ini drone yang bisa ngangkut manusia
+69	ini drone yang bisa ngangkut manusia
+70	ini drone yang bisa ngangkut manusia lagi, lagi mundur lagi
+71	ini drone yang bisa ngangkut manusia lagi, lagi mundur lagi
+72	lagi, lagi mundur lagi
+73	lagi, lagi mundur lagi
+74	lagi, lagi mundur lagi
+75	[NO_SPEECH]
+76	[NO_SPEECH]
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	[NO_SPEECH]

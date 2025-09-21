@@ -1,0 +1,329 @@
+0	Nama saya Tritalia
+1	Nama saya Tritalia
+2	Nama saya Tritalia
+3	Nama saya Tritalia Nama saya Nadia Indah
+4	Nama saya Tritalia Nama saya Nadia Indah
+5	Nama saya Nadia Indah
+6	Nama saya Nadia Indah
+7	Nama saya Nadia Indah
+8	Untuk saya sendiri mendapatkan 2 emas dan 1 perak
+9	Untuk saya sendiri mendapatkan 2 emas dan 1 perak
+10	Untuk saya sendiri mendapatkan 2 emas dan 1 perak
+11	Untuk saya sendiri mendapatkan 2 emas dan 1 perak
+12	Untuk saya sendiri mendapatkan 2 emas dan 1 perak
+13	Untuk saya sendiri mendapatkan 2 emas dan 1 perak
+14	Untuk saya sendiri mendapatkan 2 emas dan 1 perak
+15	Untuk saya sendiri mendapatkan 2 emas dan 1 perak
+16	Untuk saya sendiri mendapatkan 2 emas dan 1 perak
+17	Untuk saya sendiri mendapatkan 2 emas dan 1 perak Emasnya ada di nomor berubu dan di nomor balok kesimbangan dan peraknya ada di nomor serbabisa
+18	Untuk saya sendiri mendapatkan 2 emas dan 1 perak Emasnya ada di nomor berubu dan di nomor balok kesimbangan dan peraknya ada di nomor serbabisa
+19	Emasnya ada di nomor berubu dan di nomor balok kesimbangan dan peraknya ada di nomor serbabisa
+20	Emasnya ada di nomor berubu dan di nomor balok kesimbangan dan peraknya ada di nomor serbabisa
+21	Emasnya ada di nomor berubu dan di nomor balok kesimbangan dan peraknya ada di nomor serbabisa
+22	Emasnya ada di nomor berubu dan di nomor balok kesimbangan dan peraknya ada di nomor serbabisa
+23	Emasnya ada di nomor berubu dan di nomor balok kesimbangan dan peraknya ada di nomor serbabisa
+24	Emasnya ada di nomor berubu dan di nomor balok kesimbangan dan peraknya ada di nomor serbabisa
+25	Emasnya ada di nomor berubu dan di nomor balok kesimbangan dan peraknya ada di nomor serbabisa
+26	Emasnya ada di nomor berubu dan di nomor balok kesimbangan dan peraknya ada di nomor serbabisa
+27	Emasnya ada di nomor berubu dan di nomor balok kesimbangan dan peraknya ada di nomor serbabisa
+28	Emasnya ada di nomor berubu dan di nomor balok kesimbangan dan peraknya ada di nomor serbabisa Untuk saya sendiri ada 2 emas, 1 perak, 1 perunggu, 1 emas yang berubu, 1 emas yang lagi all around
+29	Emasnya ada di nomor berubu dan di nomor balok kesimbangan dan peraknya ada di nomor serbabisa Untuk saya sendiri ada 2 emas, 1 perak, 1 perunggu, 1 emas yang berubu, 1 emas yang lagi all around
+30	Untuk saya sendiri ada 2 emas, 1 perak, 1 perunggu, 1 emas yang berubu, 1 emas yang lagi all around
+31	Untuk saya sendiri ada 2 emas, 1 perak, 1 perunggu, 1 emas yang berubu, 1 emas yang lagi all around
+32	Untuk saya sendiri ada 2 emas, 1 perak, 1 perunggu, 1 emas yang berubu, 1 emas yang lagi all around
+33	Untuk saya sendiri ada 2 emas, 1 perak, 1 perunggu, 1 emas yang berubu, 1 emas yang lagi all around
+34	Untuk saya sendiri ada 2 emas, 1 perak, 1 perunggu, 1 emas yang berubu, 1 emas yang lagi all around
+35	Untuk saya sendiri ada 2 emas, 1 perak, 1 perunggu, 1 emas yang berubu, 1 emas yang lagi all around
+36	Untuk saya sendiri ada 2 emas, 1 perak, 1 perunggu, 1 emas yang berubu, 1 emas yang lagi all around
+37	Untuk saya sendiri ada 2 emas, 1 perak, 1 perunggu, 1 emas yang berubu, 1 emas yang lagi all around
+38	Untuk saya sendiri ada 2 emas, 1 perak, 1 perunggu, 1 emas yang berubu, 1 emas yang lagi all around
+39	Untuk saya sendiri ada 2 emas, 1 perak, 1 perunggu, 1 emas yang berubu, 1 emas yang lagi all around
+40	Untuk saya sendiri ada 2 emas, 1 perak, 1 perunggu, 1 emas yang berubu, 1 emas yang lagi all around
+41	Untuk saya sendiri ada 2 emas, 1 perak, 1 perunggu, 1 emas yang berubu, 1 emas yang lagi all around
+42	Untuk saya sendiri ada 2 emas, 1 perak, 1 perunggu, 1 emas yang berubu, 1 emas yang lagi all around
+43	Untuk saya sendiri ada 2 emas, 1 perak, 1 perunggu, 1 emas yang berubu, 1 emas yang lagi all around
+44	Untuk saya sendiri ada 2 emas, 1 perak, 1 perunggu, 1 emas yang berubu, 1 emas yang lagi all around Sama peraknya di meja lompat, perunggunya di palang bertingkat
+45	Untuk saya sendiri ada 2 emas, 1 perak, 1 perunggu, 1 emas yang berubu, 1 emas yang lagi all around Sama peraknya di meja lompat, perunggunya di palang bertingkat
+46	Sama peraknya di meja lompat, perunggunya di palang bertingkat
+47	Sama peraknya di meja lompat, perunggunya di palang bertingkat
+48	Sama peraknya di meja lompat, perunggunya di palang bertingkat
+49	Sama peraknya di meja lompat, perunggunya di palang bertingkat
+50	Sama peraknya di meja lompat, perunggunya di palang bertingkat
+51	Sama peraknya di meja lompat, perunggunya di palang bertingkat
+52	Sama peraknya di meja lompat, perunggunya di palang bertingkat Buat teman-teman yang masih bertanding di sana, good luck, semangat, kalian bisa, all the best
+53	Sama peraknya di meja lompat, perunggunya di palang bertingkat Buat teman-teman yang masih bertanding di sana, good luck, semangat, kalian bisa, all the best
+54	Buat teman-teman yang masih bertanding di sana, good luck, semangat, kalian bisa, all the best
+55	Buat teman-teman yang masih bertanding di sana, good luck, semangat, kalian bisa, all the best
+56	Buat teman-teman yang masih bertanding di sana, good luck, semangat, kalian bisa, all the best
+57	Buat teman-teman yang masih bertanding di sana, good luck, semangat, kalian bisa, all the best
+58	Buat teman-teman yang masih bertanding di sana, good luck, semangat, kalian bisa, all the best
+59	Buat teman-teman yang masih bertanding di sana, good luck, semangat, kalian bisa, all the best
+60	Buat teman-teman yang masih bertanding di sana, good luck, semangat, kalian bisa, all the best
+61	Buat teman-teman yang masih bertanding di sana, good luck, semangat, kalian bisa, all the best
+62	Buat teman-teman yang masih bertanding di sana, good luck, semangat, kalian bisa, all the best
+63	Buat teman-teman yang masih bertanding di sana, good luck, semangat, kalian bisa, all the best
+64	Buat teman-teman yang masih bertanding di sana, good luck, semangat, kalian bisa, all the best Terima kasih untuk seluruh warga DKI Jakarta yang telah mensupport dan mendoakan kami
+65	Buat teman-teman yang masih bertanding di sana, good luck, semangat, kalian bisa, all the best Terima kasih untuk seluruh warga DKI Jakarta yang telah mensupport dan mendoakan kami
+66	Terima kasih untuk seluruh warga DKI Jakarta yang telah mensupport dan mendoakan kami
+67	Terima kasih untuk seluruh warga DKI Jakarta yang telah mensupport dan mendoakan kami
+68	Terima kasih untuk seluruh warga DKI Jakarta yang telah mensupport dan mendoakan kami
+69	Terima kasih untuk seluruh warga DKI Jakarta yang telah mensupport dan mendoakan kami
+70	Terima kasih untuk seluruh warga DKI Jakarta yang telah mensupport dan mendoakan kami
+71	Terima kasih untuk seluruh warga DKI Jakarta yang telah mensupport dan mendoakan kami
+72	Terima kasih untuk seluruh warga DKI Jakarta yang telah mensupport dan mendoakan kami
+73	Terima kasih untuk seluruh warga DKI Jakarta yang telah mensupport dan mendoakan kami
+74	Terima kasih untuk seluruh warga DKI Jakarta yang telah mensupport dan mendoakan kami Jakarta datang, Jakarta menang
+75	Terima kasih untuk seluruh warga DKI Jakarta yang telah mensupport dan mendoakan kami Jakarta datang, Jakarta menang
+76	Jakarta datang, Jakarta menang
+77	Jakarta datang, Jakarta menang
+78	Jakarta datang, Jakarta menang Sukses Jakarta untuk Indonesia
+79	Jakarta datang, Jakarta menang Sukses Jakarta untuk Indonesia
+80	Sukses Jakarta untuk Indonesia
+81	Sukses Jakarta untuk Indonesia Dadah
+82	Sukses Jakarta untuk Indonesia Dadah
+83	Dadah
+84	Dadah
+85	[NO_SPEECH]
+86	[NO_SPEECH]
+87	[NO_SPEECH]
+88	[NO_SPEECH]
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	[NO_SPEECH]
+95	[NO_SPEECH]
+96	[NO_SPEECH]
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	[NO_SPEECH]
+104	[NO_SPEECH]
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	[NO_SPEECH]
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	[NO_SPEECH]
+113	[NO_SPEECH]
+114	[NO_SPEECH]
+115	[NO_SPEECH]
+116	[NO_SPEECH]
+117	[NO_SPEECH]
+118	[NO_SPEECH]
+119	[NO_SPEECH]
+120	[NO_SPEECH]
+121	[NO_SPEECH]
+122	[NO_SPEECH]
+123	[NO_SPEECH]
+124	[NO_SPEECH]
+125	[NO_SPEECH]
+126	[NO_SPEECH]
+127	[NO_SPEECH]
+128	[NO_SPEECH]
+129	[NO_SPEECH]
+130	[NO_SPEECH]
+131	[NO_SPEECH]
+132	[NO_SPEECH]
+133	[NO_SPEECH]
+134	[NO_SPEECH]
+135	[NO_SPEECH]
+136	[NO_SPEECH]
+137	[NO_SPEECH]
+138	[NO_SPEECH]
+139	[NO_SPEECH]
+140	[NO_SPEECH]
+141	[NO_SPEECH]
+142	[NO_SPEECH]
+143	[NO_SPEECH]
+144	[NO_SPEECH]
+145	[NO_SPEECH]
+146	[NO_SPEECH]
+147	[NO_SPEECH]
+148	[NO_SPEECH]
+149	[NO_SPEECH]
+150	[NO_SPEECH]
+151	[NO_SPEECH]
+152	[NO_SPEECH]
+153	[NO_SPEECH]
+154	[NO_SPEECH]
+155	[NO_SPEECH]
+156	[NO_SPEECH]
+157	[NO_SPEECH]
+158	[NO_SPEECH]
+159	[NO_SPEECH]
+160	[NO_SPEECH]
+161	[NO_SPEECH]
+162	[NO_SPEECH]
+163	[NO_SPEECH]
+164	[NO_SPEECH]
+165	[NO_SPEECH]
+166	[NO_SPEECH]
+167	[NO_SPEECH]
+168	Sukses Jakarta
+169	Sukses Jakarta
+170	Sukses Jakarta
+171	Sukses Jakarta
+172	Sukses Jakarta Ini perolehan medali paling banyak, apa 1?
+173	Sukses Jakarta Ini perolehan medali paling banyak, apa 1?
+174	Ini perolehan medali paling banyak, apa 1?
+175	Ini perolehan medali paling banyak, apa 1?
+176	Ini perolehan medali paling banyak, apa 1?
+177	Ini perolehan medali paling banyak, apa 1?
+178	Ini perolehan medali paling banyak, apa 1?
+179	1 perubu
+180	1 perubu
+181	1 perubu Perubu, 2?
+182	1 perubu Perubu, 2?
+183	Perubu, 2?
+184	Perubu, 2?
+185	[NO_SPEECH]
+186	3?
+187	3?
+188	3?
+189	3?
+190	[NO_SPEECH]
+191	4?
+192	4?
+193	4?
+194	4?
+195	4?
+196	4?
+197	Nah, sip
+198	Nah, sip
+199	Nah, sip
+200	[NO_SPEECH]
+201	[NO_SPEECH]
+202	[NO_SPEECH]
+203	[NO_SPEECH]
+204	[NO_SPEECH]
+205	[NO_SPEECH]
+206	[NO_SPEECH]
+207	[NO_SPEECH]
+208	[NO_SPEECH]
+209	[NO_SPEECH]
+210	[NO_SPEECH]
+211	[NO_SPEECH]
+212	[NO_SPEECH]
+213	[NO_SPEECH]
+214	[NO_SPEECH]
+215	[NO_SPEECH]
+216	[NO_SPEECH]
+217	[NO_SPEECH]
+218	Kami atas nama pemerintah Provinsi DKI Jakarta mengucapkan terima kasih
+219	Kami atas nama pemerintah Provinsi DKI Jakarta mengucapkan terima kasih
+220	Kami atas nama pemerintah Provinsi DKI Jakarta mengucapkan terima kasih
+221	Kami atas nama pemerintah Provinsi DKI Jakarta mengucapkan terima kasih
+222	Kami atas nama pemerintah Provinsi DKI Jakarta mengucapkan terima kasih
+223	Kami atas nama pemerintah Provinsi DKI Jakarta mengucapkan terima kasih
+224	Kami atas nama pemerintah Provinsi DKI Jakarta mengucapkan terima kasih
+225	Kami atas nama pemerintah Provinsi DKI Jakarta mengucapkan terima kasih
+226	Kami atas nama pemerintah Provinsi DKI Jakarta mengucapkan terima kasih
+227	Kami atas nama pemerintah Provinsi DKI Jakarta mengucapkan terima kasih
+228	Kami atas nama pemerintah Provinsi DKI Jakarta mengucapkan terima kasih
+229	Kami atas nama pemerintah Provinsi DKI Jakarta mengucapkan terima kasih Yang pertama
+230	Kami atas nama pemerintah Provinsi DKI Jakarta mengucapkan terima kasih Yang pertama
+231	Yang pertama
+232	Yang pertama Yang pertama Yang pertama      Tentunya kepada atlet yang sudah berjuang dengan gigih
+233	Yang pertama Yang pertama Yang pertama      Tentunya kepada atlet yang sudah berjuang dengan gigih
+234	Tentunya kepada atlet yang sudah berjuang dengan gigih
+235	Tentunya kepada atlet yang sudah berjuang dengan gigih
+236	Tentunya kepada atlet yang sudah berjuang dengan gigih
+237	Tentunya kepada atlet yang sudah berjuang dengan gigih
+238	Tentunya kepada atlet yang sudah berjuang dengan gigih
+239	Tentunya kepada atlet yang sudah berjuang dengan gigih
+240	Tentunya kepada atlet yang sudah berjuang dengan gigih Sehingga bisa membawa nama baik DKI Jakarta
+241	Tentunya kepada atlet yang sudah berjuang dengan gigih Sehingga bisa membawa nama baik DKI Jakarta
+242	Sehingga bisa membawa nama baik DKI Jakarta
+243	Sehingga bisa membawa nama baik DKI Jakarta
+244	Sehingga bisa membawa nama baik DKI Jakarta
+245	Sehingga bisa membawa nama baik DKI Jakarta
+246	Sehingga bisa membawa nama baik DKI Jakarta
+247	Sehingga bisa membawa nama baik DKI Jakarta
+248	Sehingga bisa membawa nama baik DKI Jakarta
+249	Sehingga bisa membawa nama baik DKI Jakarta Insya Allah atlet-atlet yang berlaga di PON menjadi pintu gerbang
+250	Sehingga bisa membawa nama baik DKI Jakarta Insya Allah atlet-atlet yang berlaga di PON menjadi pintu gerbang
+251	Insya Allah atlet-atlet yang berlaga di PON menjadi pintu gerbang
+252	Insya Allah atlet-atlet yang berlaga di PON menjadi pintu gerbang
+253	Insya Allah atlet-atlet yang berlaga di PON menjadi pintu gerbang
+254	Insya Allah atlet-atlet yang berlaga di PON menjadi pintu gerbang
+255	Insya Allah atlet-atlet yang berlaga di PON menjadi pintu gerbang
+256	Insya Allah atlet-atlet yang berlaga di PON menjadi pintu gerbang
+257	Insya Allah atlet-atlet yang berlaga di PON menjadi pintu gerbang
+258	Insya Allah atlet-atlet yang berlaga di PON menjadi pintu gerbang
+259	Insya Allah atlet-atlet yang berlaga di PON menjadi pintu gerbang Untuk kesuksesan prestasi di berikutnya
+260	Insya Allah atlet-atlet yang berlaga di PON menjadi pintu gerbang Untuk kesuksesan prestasi di berikutnya
+261	Untuk kesuksesan prestasi di berikutnya
+262	Untuk kesuksesan prestasi di berikutnya
+263	Untuk kesuksesan prestasi di berikutnya
+264	Untuk kesuksesan prestasi di berikutnya
+265	Untuk kesuksesan prestasi di berikutnya
+266	Untuk kesuksesan prestasi di berikutnya
+267	Untuk kesuksesan prestasi di berikutnya UC Game, Asian Game, bahkan Olimpiade
+268	UC Game, Asian Game, bahkan Olimpiade
+269	UC Game, Asian Game, bahkan Olimpiade
+270	UC Game, Asian Game, bahkan Olimpiade
+271	UC Game, Asian Game, bahkan Olimpiade
+272	UC Game, Asian Game, bahkan Olimpiade
+273	UC Game, Asian Game, bahkan Olimpiade
+274	UC Game, Asian Game, bahkan Olimpiade Yang kedua, mengucapkan terima kasih kepada tim ofisial dari Senam
+275	UC Game, Asian Game, bahkan Olimpiade Yang kedua, mengucapkan terima kasih kepada tim ofisial dari Senam
+276	Yang kedua, mengucapkan terima kasih kepada tim ofisial dari Senam
+277	Yang kedua, mengucapkan terima kasih kepada tim ofisial dari Senam
+278	Yang kedua, mengucapkan terima kasih kepada tim ofisial dari Senam
+279	Yang kedua, mengucapkan terima kasih kepada tim ofisial dari Senam
+280	Yang kedua, mengucapkan terima kasih kepada tim ofisial dari Senam
+281	Yang kedua, mengucapkan terima kasih kepada tim ofisial dari Senam
+282	Yang kedua, mengucapkan terima kasih kepada tim ofisial dari Senam
+283	Yang kedua, mengucapkan terima kasih kepada tim ofisial dari Senam
+284	Yang kedua, mengucapkan terima kasih kepada tim ofisial dari Senam
+285	Yang kedua, mengucapkan terima kasih kepada tim ofisial dari Senam Yang sudah melakukan pelatihan
+286	Yang kedua, mengucapkan terima kasih kepada tim ofisial dari Senam Yang sudah melakukan pelatihan
+287	Yang sudah melakukan pelatihan
+288	Yang sudah melakukan pelatihan
+289	Yang sudah melakukan pelatihan
+290	Yang sudah melakukan pelatihan
+291	Yang sudah melakukan pelatihan Yang kedua, mengucapkan terima kasih kepada tim ofisial dari Senam
+292	Yang sudah melakukan pelatihan Yang kedua, mengucapkan terima kasih kepada tim ofisial dari Senam Yang kedua, mengucapkan terima kasih kepada tim ofisial dari Senam Pembimbingan, pembinaan
+293	Yang kedua, mengucapkan terima kasih kepada tim ofisial dari Senam Yang kedua, mengucapkan terima kasih kepada tim ofisial dari Senam Pembimbingan, pembinaan
+294	Yang kedua, mengucapkan terima kasih kepada tim ofisial dari Senam Pembimbingan, pembinaan
+295	Pembimbingan, pembinaan Sehingga menghasilkan atlet-atlet yang top yang dimiliki oleh Pemprov DKI Jakarta
+296	Pembimbingan, pembinaan Sehingga menghasilkan atlet-atlet yang top yang dimiliki oleh Pemprov DKI Jakarta
+297	Sehingga menghasilkan atlet-atlet yang top yang dimiliki oleh Pemprov DKI Jakarta
+298	Sehingga menghasilkan atlet-atlet yang top yang dimiliki oleh Pemprov DKI Jakarta
+299	Sehingga menghasilkan atlet-atlet yang top yang dimiliki oleh Pemprov DKI Jakarta
+300	Sehingga menghasilkan atlet-atlet yang top yang dimiliki oleh Pemprov DKI Jakarta
+301	Sehingga menghasilkan atlet-atlet yang top yang dimiliki oleh Pemprov DKI Jakarta
+302	Sehingga menghasilkan atlet-atlet yang top yang dimiliki oleh Pemprov DKI Jakarta
+303	Sehingga menghasilkan atlet-atlet yang top yang dimiliki oleh Pemprov DKI Jakarta
+304	Sehingga menghasilkan atlet-atlet yang top yang dimiliki oleh Pemprov DKI Jakarta
+305	Sehingga menghasilkan atlet-atlet yang top yang dimiliki oleh Pemprov DKI Jakarta
+306	Sehingga menghasilkan atlet-atlet yang top yang dimiliki oleh Pemprov DKI Jakarta Salam olahraga
+307	Sehingga menghasilkan atlet-atlet yang top yang dimiliki oleh Pemprov DKI Jakarta Salam olahraga
+308	Salam olahraga
+309	Salam olahraga
+310	Salam olahraga Jaya
+311	Salam olahraga Jaya
+312	Jaya DKI Jakarta datang
+313	Jaya DKI Jakarta datang
+314	DKI Jakarta datang
+315	DKI Jakarta datang
+316	DKI Jakarta datang Jakarta menang
+317	DKI Jakarta datang Jakarta menang
+318	Jakarta menang Sukses Jakarta untuk Indonesia
+319	Jakarta menang Sukses Jakarta untuk Indonesia
+320	Sukses Jakarta untuk Indonesia
+321	Sukses Jakarta untuk Indonesia
+322	Sukses Jakarta untuk Indonesia
+323	Sukses Jakarta untuk Indonesia Oke
+324	Sukses Jakarta untuk Indonesia Oke
+325	Oke
+326	Oke
+327	[NO_SPEECH]
+328	[NO_SPEECH]

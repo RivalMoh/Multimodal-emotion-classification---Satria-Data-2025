@@ -1,0 +1,132 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	Nah kemarin Rian sudah kasih tau
+12	Nah kemarin Rian sudah kasih tau
+13	Nah kemarin Rian sudah kasih tau
+14	Nah kemarin Rian sudah kasih tau
+15	Nah kemarin Rian sudah kasih tau
+16	Nah kemarin Rian sudah kasih tau Spiel trickshotnya
+17	Nah kemarin Rian sudah kasih tau Spiel trickshotnya Sekarang giliran gue kasih tau trickshot gue
+18	Spiel trickshotnya Sekarang giliran gue kasih tau trickshot gue
+19	Sekarang giliran gue kasih tau trickshot gue
+20	Sekarang giliran gue kasih tau trickshot gue
+21	Sekarang giliran gue kasih tau trickshot gue
+22	Sekarang giliran gue kasih tau trickshot gue
+23	Sekarang giliran gue kasih tau trickshot gue
+24	Sekarang giliran gue kasih tau trickshot gue
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	Nah ini namanya pukulan kolong
+30	Nah ini namanya pukulan kolong
+31	Nah ini namanya pukulan kolong
+32	Nah ini namanya pukulan kolong
+33	Nah ini namanya pukulan kolong
+34	Nah ini namanya pukulan kolong
+35	Nah ini namanya pukulan kolong
+36	Nah ini namanya pukulan kolong
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	Selain trickshot itu
+44	Selain trickshot itu
+45	Selain trickshot itu
+46	Selain trickshot itu Gue punya pukulan tipu-tipu
+47	Selain trickshot itu Gue punya pukulan tipu-tipu
+48	Gue punya pukulan tipu-tipu
+49	Gue punya pukulan tipu-tipu
+50	Gue punya pukulan tipu-tipu
+51	Gue punya pukulan tipu-tipu
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	[NO_SPEECH]
+59	[NO_SPEECH]
+60	[NO_SPEECH]
+61	[NO_SPEECH]
+62	Nah sekarang gue kepo
+63	Nah sekarang gue kepo
+64	Nah sekarang gue kepo
+65	Nah sekarang gue kepo
+66	Nah sekarang gue kepo Pengen tau trickshot ala kalian
+67	Nah sekarang gue kepo Pengen tau trickshot ala kalian
+68	Pengen tau trickshot ala kalian
+69	Pengen tau trickshot ala kalian
+70	Pengen tau trickshot ala kalian
+71	Posting dan tunjukin
+72	Posting dan tunjukin
+73	Posting dan tunjukin
+74	Posting dan tunjukin Trickshot keren ala lo
+75	Posting dan tunjukin Trickshot keren ala lo
+76	Trickshot keren ala lo
+77	Trickshot keren ala lo Dan kasih nama sekreatif mungkin
+78	Trickshot keren ala lo Dan kasih nama sekreatif mungkin
+79	Dan kasih nama sekreatif mungkin
+80	Dan kasih nama sekreatif mungkin
+81	Dan kasih nama sekreatif mungkin Tapi sebelum lo ikutan
+82	Dan kasih nama sekreatif mungkin Tapi sebelum lo ikutan
+83	Tapi sebelum lo ikutan
+84	Tapi sebelum lo ikutan
+85	Tapi sebelum lo ikutan Do more trickshot bareng Zing
+86	Tapi sebelum lo ikutan Do more trickshot bareng Zing
+87	Do more trickshot bareng Zing
+88	Do more trickshot bareng Zing Kalian harus beli dulu produk Zing Red Pressing Pool
+89	Do more trickshot bareng Zing Kalian harus beli dulu produk Zing Red Pressing Pool
+90	Kalian harus beli dulu produk Zing Red Pressing Pool
+91	Kalian harus beli dulu produk Zing Red Pressing Pool
+92	Kalian harus beli dulu produk Zing Red Pressing Pool
+93	Kalian harus beli dulu produk Zing Red Pressing Pool
+94	Kalian harus beli dulu produk Zing Red Pressing Pool Atau varian Zing tampo lain
+95	Kalian harus beli dulu produk Zing Red Pressing Pool Atau varian Zing tampo lain
+96	Atau varian Zing tampo lain
+97	Atau varian Zing tampo lain Di Alfamat atau Alfagi
+98	Atau varian Zing tampo lain Di Alfamat atau Alfagi
+99	Di Alfamat atau Alfagi
+100	Di Alfamat atau Alfagi
+101	Di Alfamat atau Alfagi Kirim struk atau bukti pembelian
+102	Di Alfamat atau Alfagi Kirim struk atau bukti pembelian
+103	Kirim struk atau bukti pembelian
+104	Kirim struk atau bukti pembelian
+105	Kirim struk atau bukti pembelian
+106	Kirim struk atau bukti pembelian Ke DM Zing underscore
+107	Kirim struk atau bukti pembelian Ke DM Zing underscore
+108	Ke DM Zing underscore
+109	Ke DM Zing underscore ID
+110	Ke DM Zing underscore ID Dan jangan dibuang sih
+111	ID Dan jangan dibuang sih
+112	Dan jangan dibuang sih
+113	Dan jangan dibuang sih
+114	Kalian boleh cek Instagram
+115	Kalian boleh cek Instagram
+116	Kalian boleh cek Instagram
+117	Kalian boleh cek Instagram At Zing underscore ID
+118	Kalian boleh cek Instagram At Zing underscore ID
+119	At Zing underscore ID
+120	At Zing underscore ID
+121	At Zing underscore ID Dan jangan lupa follow ya
+122	At Zing underscore ID Dan jangan lupa follow ya
+123	Dan jangan lupa follow ya Yuk do more sekarang
+124	Dan jangan lupa follow ya Yuk do more sekarang
+125	Yuk do more sekarang
+126	Yuk do more sekarang
+127	Yuk do more sekarang
+128	Yuk do more sekarang
+129	[NO_SPEECH]
+130	[NO_SPEECH]
+131	[NO_SPEECH]

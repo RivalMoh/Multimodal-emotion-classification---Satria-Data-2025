@@ -1,0 +1,32 @@
+0	Om
+1	Om
+2	Kok gak ada sih?
+3	Kok gak ada sih?
+4	Kok gak ada sih?
+5	Kok gak ada sih? Dimana dia?
+6	Dimana dia?
+7	Dimana dia?
+8	Dimana dia?
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	Eh iya gak kalian ini
+12	Eh iya gak kalian ini
+13	Eh iya gak kalian ini
+14	Eh iya gak kalian ini
+15	Lah?
+16	Lah? Mamang apa?
+17	Lah? Mamang apa?
+18	Mamang apa?
+19	Mamang apa? Bukan tadi di depan?
+20	Bukan tadi di depan?
+21	Bukan tadi di depan? Udah ya tutup lagi pergi
+22	Bukan tadi di depan? Udah ya tutup lagi pergi
+23	Udah ya tutup lagi pergi
+24	Udah ya tutup lagi pergi Enak banget
+25	Udah ya tutup lagi pergi Enak banget
+26	Enak banget Enak banget
+27	Enak banget Enak banget
+28	Enak banget
+29	Enak banget
+30	Enak banget
+31	Enak banget

@@ -1,0 +1,124 @@
+0	Halo guys, perkenalkan nama saya Malik
+1	Halo guys, perkenalkan nama saya Malik
+2	Halo guys, perkenalkan nama saya Malik
+3	Halo guys, perkenalkan nama saya Malik
+4	Halo guys, perkenalkan nama saya Malik
+5	Halo guys, perkenalkan nama saya Malik Perkenalkan nama saya Pina
+6	Halo guys, perkenalkan nama saya Malik Perkenalkan nama saya Pina
+7	Perkenalkan nama saya Pina
+8	Perkenalkan nama saya Pina
+9	Perkenalkan nama saya Pina Saya dari Bekasi
+10	Perkenalkan nama saya Pina Saya dari Bekasi
+11	Saya dari Bekasi
+12	Saya dari Bekasi Dari Cianjur
+13	Saya dari Bekasi Dari Cianjur
+14	Dari Cianjur Hari ini dukung Persib dong
+15	Dari Cianjur Hari ini dukung Persib dong
+16	Hari ini dukung Persib dong
+17	Hari ini dukung Persib dong Nonton pemain baru Persib nih lagi banyak nih
+18	Hari ini dukung Persib dong Nonton pemain baru Persib nih lagi banyak nih
+19	Nonton pemain baru Persib nih lagi banyak nih
+20	Nonton pemain baru Persib nih lagi banyak nih
+21	Nonton pemain baru Persib nih lagi banyak nih
+22	Nonton pemain baru Persib nih lagi banyak nih
+23	Nonton pemain baru Persib nih lagi banyak nih Sadil sadil
+24	Nonton pemain baru Persib nih lagi banyak nih Sadil sadil
+25	Sadil sadil 3-0 untuk Persib
+26	Sadil sadil 3-0 untuk Persib
+27	3-0 untuk Persib
+28	3-0 untuk Persib 2-0
+29	3-0 untuk Persib 2-0
+30	2-0 Yang golin William
+31	2-0 Yang golin William
+32	Yang golin William
+33	Yang golin William
+34	Yang golin William Saya Iwa dan Salma dari Bandung
+35	Yang golin William Saya Iwa dan Salma dari Bandung
+36	Saya Iwa dan Salma dari Bandung
+37	Saya Iwa dan Salma dari Bandung
+38	Saya Iwa dan Salma dari Bandung
+39	Saya Iwa dan Salma dari Bandung Hari ini saya mau nonton pertandingan Persib
+40	Saya Iwa dan Salma dari Bandung Hari ini saya mau nonton pertandingan Persib
+41	Hari ini saya mau nonton pertandingan Persib
+42	Hari ini saya mau nonton pertandingan Persib
+43	Hari ini saya mau nonton pertandingan Persib
+44	Hari ini saya mau nonton pertandingan Persib
+45	Hari ini saya mau nonton pertandingan Persib Secara pertandingan kami tidak berharap Persib menang ya
+46	Hari ini saya mau nonton pertandingan Persib Secara pertandingan kami tidak berharap Persib menang ya
+47	Secara pertandingan kami tidak berharap Persib menang ya
+48	Secara pertandingan kami tidak berharap Persib menang ya
+49	Secara pertandingan kami tidak berharap Persib menang ya
+50	Secara pertandingan kami tidak berharap Persib menang ya
+51	Secara pertandingan kami tidak berharap Persib menang ya
+52	Secara pertandingan kami tidak berharap Persib menang ya
+53	Secara pertandingan kami tidak berharap Persib menang ya Ini baru-baru musim
+54	Secara pertandingan kami tidak berharap Persib menang ya Ini baru-baru musim
+55	Ini baru-baru musim
+56	Ini baru-baru musim Jadi kesempatan buat Persib untuk memadukan strategi
+57	Ini baru-baru musim Jadi kesempatan buat Persib untuk memadukan strategi
+58	Jadi kesempatan buat Persib untuk memadukan strategi
+59	Jadi kesempatan buat Persib untuk memadukan strategi
+60	Jadi kesempatan buat Persib untuk memadukan strategi
+61	Jadi kesempatan buat Persib untuk memadukan strategi
+62	Jadi kesempatan buat Persib untuk memadukan strategi
+63	Jadi kesempatan buat Persib untuk memadukan strategi
+64	Jadi kesempatan buat Persib untuk memadukan strategi
+65	Jadi kesempatan buat Persib untuk memadukan strategi
+66	Jadi kesempatan buat Persib untuk memadukan strategi
+67	Jadi kesempatan buat Persib untuk memadukan strategi
+68	Jadi kesempatan buat Persib untuk memadukan strategi Serta permainan individu menjadi permainan tim
+69	Jadi kesempatan buat Persib untuk memadukan strategi Serta permainan individu menjadi permainan tim
+70	Serta permainan individu menjadi permainan tim
+71	Serta permainan individu menjadi permainan tim
+72	Serta permainan individu menjadi permainan tim
+73	Serta permainan individu menjadi permainan tim Prediksi skor kayaknya dua sama deh
+74	Serta permainan individu menjadi permainan tim Prediksi skor kayaknya dua sama deh
+75	Prediksi skor kayaknya dua sama deh
+76	Prediksi skor kayaknya dua sama deh
+77	Prediksi skor kayaknya dua sama deh
+78	Prediksi skor kayaknya dua sama deh
+79	Prediksi skor kayaknya dua sama deh
+80	Prediksi skor kayaknya dua sama deh
+81	Prediksi skor kayaknya dua sama deh Kita keluarga di Katapang
+82	Prediksi skor kayaknya dua sama deh Kita keluarga di Katapang
+83	Kita keluarga di Katapang
+84	Kita keluarga di Katapang
+85	Kita keluarga di Katapang
+86	Kita keluarga di Katapang Di saya dan kekuatan dan anak saya
+87	Kita keluarga di Katapang Di saya dan kekuatan dan anak saya
+88	Di saya dan kekuatan dan anak saya
+89	Di saya dan kekuatan dan anak saya Untuk pertandingan malam ini optimis menang
+90	Di saya dan kekuatan dan anak saya Untuk pertandingan malam ini optimis menang
+91	Untuk pertandingan malam ini optimis menang
+92	Untuk pertandingan malam ini optimis menang
+93	Untuk pertandingan malam ini optimis menang
+94	Untuk pertandingan malam ini optimis menang
+95	Untuk pertandingan malam ini optimis menang
+96	Untuk pertandingan malam ini optimis menang Walaupun pas gojan hendak lagi coba-coba pemain
+97	Untuk pertandingan malam ini optimis menang Walaupun pas gojan hendak lagi coba-coba pemain
+98	Walaupun pas gojan hendak lagi coba-coba pemain
+99	Walaupun pas gojan hendak lagi coba-coba pemain
+100	Walaupun pas gojan hendak lagi coba-coba pemain
+101	Walaupun pas gojan hendak lagi coba-coba pemain
+102	Walaupun pas gojan hendak lagi coba-coba pemain
+103	Walaupun pas gojan hendak lagi coba-coba pemain Salah tipis sih
+104	Walaupun pas gojan hendak lagi coba-coba pemain Salah tipis sih
+105	Salah tipis sih Wah satu
+106	Salah tipis sih Wah satu
+107	Wah satu Golin
+108	Wah satu Golin
+109	Golin
+110	Kayaknya pemain baru deh
+111	Kayaknya pemain baru deh
+112	Kayaknya pemain baru deh
+113	Kayaknya pemain baru deh
+114	Kayaknya pemain baru deh
+115	Kayaknya pemain baru deh
+116	Kayaknya pemain baru deh Terima kasih sudah menonton
+117	Terima kasih sudah menonton
+118	Terima kasih sudah menonton
+119	Terima kasih sudah menonton
+120	Terima kasih sudah menonton
+121	Terima kasih sudah menonton
+122	Terima kasih sudah menonton
+123	Terima kasih sudah menonton

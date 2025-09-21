@@ -1,0 +1,125 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	Saya Marcel Sian, mewakili pengurus daerah WUSU DKI Jakarta
+5	Saya Marcel Sian, mewakili pengurus daerah WUSU DKI Jakarta
+6	Saya Marcel Sian, mewakili pengurus daerah WUSU DKI Jakarta
+7	Saya Marcel Sian, mewakili pengurus daerah WUSU DKI Jakarta
+8	Saya Marcel Sian, mewakili pengurus daerah WUSU DKI Jakarta
+9	Saya Marcel Sian, mewakili pengurus daerah WUSU DKI Jakarta
+10	Saya Marcel Sian, mewakili pengurus daerah WUSU DKI Jakarta
+11	Saya Marcel Sian, mewakili pengurus daerah WUSU DKI Jakarta
+12	Saya Marcel Sian, mewakili pengurus daerah WUSU DKI Jakarta Acara ini berlangsung dengan sangat baik, sangat terukur, dan teratur sekali
+13	Saya Marcel Sian, mewakili pengurus daerah WUSU DKI Jakarta Acara ini berlangsung dengan sangat baik, sangat terukur, dan teratur sekali
+14	Acara ini berlangsung dengan sangat baik, sangat terukur, dan teratur sekali
+15	Acara ini berlangsung dengan sangat baik, sangat terukur, dan teratur sekali
+16	Acara ini berlangsung dengan sangat baik, sangat terukur, dan teratur sekali
+17	Acara ini berlangsung dengan sangat baik, sangat terukur, dan teratur sekali
+18	Acara ini berlangsung dengan sangat baik, sangat terukur, dan teratur sekali
+19	Acara ini berlangsung dengan sangat baik, sangat terukur, dan teratur sekali
+20	Acara ini berlangsung dengan sangat baik, sangat terukur, dan teratur sekali
+21	Acara ini berlangsung dengan sangat baik, sangat terukur, dan teratur sekali Terima kasih kepada Baywalk Mall, sebuah mall di Jakarta yang mendukung sekali semua sports community
+22	Acara ini berlangsung dengan sangat baik, sangat terukur, dan teratur sekali Terima kasih kepada Baywalk Mall, sebuah mall di Jakarta yang mendukung sekali semua sports community
+23	Terima kasih kepada Baywalk Mall, sebuah mall di Jakarta yang mendukung sekali semua sports community
+24	Terima kasih kepada Baywalk Mall, sebuah mall di Jakarta yang mendukung sekali semua sports community
+25	Terima kasih kepada Baywalk Mall, sebuah mall di Jakarta yang mendukung sekali semua sports community
+26	Terima kasih kepada Baywalk Mall, sebuah mall di Jakarta yang mendukung sekali semua sports community
+27	Terima kasih kepada Baywalk Mall, sebuah mall di Jakarta yang mendukung sekali semua sports community
+28	Terima kasih kepada Baywalk Mall, sebuah mall di Jakarta yang mendukung sekali semua sports community
+29	Terima kasih kepada Baywalk Mall, sebuah mall di Jakarta yang mendukung sekali semua sports community
+30	Terima kasih kepada Baywalk Mall, sebuah mall di Jakarta yang mendukung sekali semua sports community
+31	Terima kasih kepada Baywalk Mall, sebuah mall di Jakarta yang mendukung sekali semua sports community
+32	Terima kasih kepada Baywalk Mall, sebuah mall di Jakarta yang mendukung sekali semua sports community
+33	Terima kasih kepada Baywalk Mall, sebuah mall di Jakarta yang mendukung sekali semua sports community
+34	Terima kasih kepada Baywalk Mall, sebuah mall di Jakarta yang mendukung sekali semua sports community
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	Baywalk Mall yang telah memberi kesempatan kepada kita
+38	Baywalk Mall yang telah memberi kesempatan kepada kita
+39	Baywalk Mall yang telah memberi kesempatan kepada kita
+40	Baywalk Mall yang telah memberi kesempatan kepada kita
+41	Baywalk Mall yang telah memberi kesempatan kepada kita
+42	Baywalk Mall yang telah memberi kesempatan kepada kita
+43	Baywalk Mall yang telah memberi kesempatan kepada kita
+44	Baywalk Mall yang telah memberi kesempatan kepada kita
+45	Baywalk Mall yang telah memberi kesempatan kepada kita
+46	Baywalk Mall yang telah memberi kesempatan kepada kita Untuk menyelenggarakan event Jakarta Martial Arts Extravaganza
+47	Baywalk Mall yang telah memberi kesempatan kepada kita Untuk menyelenggarakan event Jakarta Martial Arts Extravaganza
+48	Untuk menyelenggarakan event Jakarta Martial Arts Extravaganza
+49	Untuk menyelenggarakan event Jakarta Martial Arts Extravaganza
+50	Untuk menyelenggarakan event Jakarta Martial Arts Extravaganza
+51	Untuk menyelenggarakan event Jakarta Martial Arts Extravaganza
+52	Untuk menyelenggarakan event Jakarta Martial Arts Extravaganza
+53	Untuk menyelenggarakan event Jakarta Martial Arts Extravaganza
+54	Untuk menyelenggarakan event Jakarta Martial Arts Extravaganza Tempat-tempat seperti ini sangat bagus untuk memasyarakatkan olahraga, untuk mensosialisasikan olahraga
+55	Untuk menyelenggarakan event Jakarta Martial Arts Extravaganza Tempat-tempat seperti ini sangat bagus untuk memasyarakatkan olahraga, untuk mensosialisasikan olahraga
+56	Tempat-tempat seperti ini sangat bagus untuk memasyarakatkan olahraga, untuk mensosialisasikan olahraga
+57	Tempat-tempat seperti ini sangat bagus untuk memasyarakatkan olahraga, untuk mensosialisasikan olahraga
+58	Tempat-tempat seperti ini sangat bagus untuk memasyarakatkan olahraga, untuk mensosialisasikan olahraga
+59	Tempat-tempat seperti ini sangat bagus untuk memasyarakatkan olahraga, untuk mensosialisasikan olahraga
+60	Tempat-tempat seperti ini sangat bagus untuk memasyarakatkan olahraga, untuk mensosialisasikan olahraga
+61	Tempat-tempat seperti ini sangat bagus untuk memasyarakatkan olahraga, untuk mensosialisasikan olahraga
+62	Tempat-tempat seperti ini sangat bagus untuk memasyarakatkan olahraga, untuk mensosialisasikan olahraga
+63	Tempat-tempat seperti ini sangat bagus untuk memasyarakatkan olahraga, untuk mensosialisasikan olahraga
+64	Tempat-tempat seperti ini sangat bagus untuk memasyarakatkan olahraga, untuk mensosialisasikan olahraga
+65	Tempat-tempat seperti ini sangat bagus untuk memasyarakatkan olahraga, untuk mensosialisasikan olahraga
+66	Tempat-tempat seperti ini sangat bagus untuk memasyarakatkan olahraga, untuk mensosialisasikan olahraga
+67	Tempat-tempat seperti ini sangat bagus untuk memasyarakatkan olahraga, untuk mensosialisasikan olahraga
+68	Tempat-tempat seperti ini sangat bagus untuk memasyarakatkan olahraga, untuk mensosialisasikan olahraga
+69	Tempat-tempat seperti ini sangat bagus untuk memasyarakatkan olahraga, untuk mensosialisasikan olahraga
+70	Tempat-tempat seperti ini sangat bagus untuk memasyarakatkan olahraga, untuk mensosialisasikan olahraga
+71	Tempat-tempat seperti ini sangat bagus untuk memasyarakatkan olahraga, untuk mensosialisasikan olahraga Mari kita jadikan gedung ini juga gedung yang berhati di dalam memberikan kontribusi
+72	Tempat-tempat seperti ini sangat bagus untuk memasyarakatkan olahraga, untuk mensosialisasikan olahraga Mari kita jadikan gedung ini juga gedung yang berhati di dalam memberikan kontribusi
+73	Mari kita jadikan gedung ini juga gedung yang berhati di dalam memberikan kontribusi
+74	Mari kita jadikan gedung ini juga gedung yang berhati di dalam memberikan kontribusi
+75	Mari kita jadikan gedung ini juga gedung yang berhati di dalam memberikan kontribusi
+76	Mari kita jadikan gedung ini juga gedung yang berhati di dalam memberikan kontribusi
+77	Mari kita jadikan gedung ini juga gedung yang berhati di dalam memberikan kontribusi
+78	Mari kita jadikan gedung ini juga gedung yang berhati di dalam memberikan kontribusi
+79	Mari kita jadikan gedung ini juga gedung yang berhati di dalam memberikan kontribusi
+80	Mari kita jadikan gedung ini juga gedung yang berhati di dalam memberikan kontribusi
+81	Mari kita jadikan gedung ini juga gedung yang berhati di dalam memberikan kontribusi
+82	Mari kita jadikan gedung ini juga gedung yang berhati di dalam memberikan kontribusi
+83	Mari kita jadikan gedung ini juga gedung yang berhati di dalam memberikan kontribusi
+84	Mari kita jadikan gedung ini juga gedung yang berhati di dalam memberikan kontribusi
+85	Mari kita jadikan gedung ini juga gedung yang berhati di dalam memberikan kontribusi
+86	Mari kita jadikan gedung ini juga gedung yang berhati di dalam memberikan kontribusi
+87	Mari kita jadikan gedung ini juga gedung yang berhati di dalam memberikan kontribusi
+88	Mari kita jadikan gedung ini juga gedung yang berhati di dalam memberikan kontribusi Melahirkan atlet-atlet yang telah akan menjadi andalan Indonesia
+89	Mari kita jadikan gedung ini juga gedung yang berhati di dalam memberikan kontribusi Melahirkan atlet-atlet yang telah akan menjadi andalan Indonesia
+90	Melahirkan atlet-atlet yang telah akan menjadi andalan Indonesia
+91	Melahirkan atlet-atlet yang telah akan menjadi andalan Indonesia
+92	Melahirkan atlet-atlet yang telah akan menjadi andalan Indonesia
+93	Melahirkan atlet-atlet yang telah akan menjadi andalan Indonesia
+94	Melahirkan atlet-atlet yang telah akan menjadi andalan Indonesia
+95	Melahirkan atlet-atlet yang telah akan menjadi andalan Indonesia
+96	Melahirkan atlet-atlet yang telah akan menjadi andalan Indonesia
+97	Melahirkan atlet-atlet yang telah akan menjadi andalan Indonesia
+98	Melahirkan atlet-atlet yang telah akan menjadi andalan Indonesia
+99	Melahirkan atlet-atlet yang telah akan menjadi andalan Indonesia Sebenarnya akan semakin banyak event di sini karena saya melihat tempat ini sangat ideal
+100	Melahirkan atlet-atlet yang telah akan menjadi andalan Indonesia Sebenarnya akan semakin banyak event di sini karena saya melihat tempat ini sangat ideal
+101	Sebenarnya akan semakin banyak event di sini karena saya melihat tempat ini sangat ideal
+102	Sebenarnya akan semakin banyak event di sini karena saya melihat tempat ini sangat ideal
+103	Sebenarnya akan semakin banyak event di sini karena saya melihat tempat ini sangat ideal
+104	Sebenarnya akan semakin banyak event di sini karena saya melihat tempat ini sangat ideal
+105	Sebenarnya akan semakin banyak event di sini karena saya melihat tempat ini sangat ideal
+106	Sebenarnya akan semakin banyak event di sini karena saya melihat tempat ini sangat ideal
+107	Sebenarnya akan semakin banyak event di sini karena saya melihat tempat ini sangat ideal
+108	Sebenarnya akan semakin banyak event di sini karena saya melihat tempat ini sangat ideal
+109	Sebenarnya akan semakin banyak event di sini karena saya melihat tempat ini sangat ideal
+110	Sebenarnya akan semakin banyak event di sini karena saya melihat tempat ini sangat ideal
+111	Sebenarnya akan semakin banyak event di sini karena saya melihat tempat ini sangat ideal
+112	Sebenarnya akan semakin banyak event di sini karena saya melihat tempat ini sangat ideal
+113	[NO_SPEECH]
+114	[NO_SPEECH]
+115	[NO_SPEECH]
+116	Terima kasih
+117	Terima kasih
+118	Terima kasih
+119	Terima kasih
+120	Terima kasih
+121	Terima kasih
+122	Terima kasih
+123	Terima kasih
+124	[NO_SPEECH]

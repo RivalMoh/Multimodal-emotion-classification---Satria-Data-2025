@@ -1,0 +1,188 @@
+0	Hai guys, kali ini Aden Malay sebagai dokter hewan spesialis ikan tapi udah punya 3 dokter.
+1	Hai guys, kali ini Aden Malay sebagai dokter hewan spesialis ikan tapi udah punya 3 dokter.
+2	Hai guys, kali ini Aden Malay sebagai dokter hewan spesialis ikan tapi udah punya 3 dokter.
+3	Hai guys, kali ini Aden Malay sebagai dokter hewan spesialis ikan tapi udah punya 3 dokter.
+4	Hai guys, kali ini Aden Malay sebagai dokter hewan spesialis ikan tapi udah punya 3 dokter.
+5	Hai guys, kali ini Aden Malay sebagai dokter hewan spesialis ikan tapi udah punya 3 dokter.
+6	Hai guys, kali ini Aden Malay sebagai dokter hewan spesialis ikan tapi udah punya 3 dokter.
+7	Hai guys, kali ini Aden Malay sebagai dokter hewan spesialis ikan tapi udah punya 3 dokter.
+8	Hai guys, kali ini Aden Malay sebagai dokter hewan spesialis ikan tapi udah punya 3 dokter.
+9	Hai guys, kali ini Aden Malay sebagai dokter hewan spesialis ikan tapi udah punya 3 dokter.
+10	Hai guys, kali ini Aden Malay sebagai dokter hewan spesialis ikan tapi udah punya 3 dokter.
+11	Hai guys, kali ini Aden Malay sebagai dokter hewan spesialis ikan tapi udah punya 3 dokter. Gak kerasa padahal 1 tahun yang lalu aku masih sendirian.
+12	Hai guys, kali ini Aden Malay sebagai dokter hewan spesialis ikan tapi udah punya 3 dokter. Gak kerasa padahal 1 tahun yang lalu aku masih sendirian.
+13	Gak kerasa padahal 1 tahun yang lalu aku masih sendirian.
+14	Gak kerasa padahal 1 tahun yang lalu aku masih sendirian.
+15	Gak kerasa padahal 1 tahun yang lalu aku masih sendirian.
+16	Gak kerasa padahal 1 tahun yang lalu aku masih sendirian.
+17	Gak kerasa padahal 1 tahun yang lalu aku masih sendirian.
+18	Gak kerasa padahal 1 tahun yang lalu aku masih sendirian. Pagi-pagi kita sambil ngobrol makan makaron yang dibuat sama dokter Amel.
+19	Gak kerasa padahal 1 tahun yang lalu aku masih sendirian. Pagi-pagi kita sambil ngobrol makan makaron yang dibuat sama dokter Amel.
+20	Pagi-pagi kita sambil ngobrol makan makaron yang dibuat sama dokter Amel.
+21	Pagi-pagi kita sambil ngobrol makan makaron yang dibuat sama dokter Amel.
+22	Pagi-pagi kita sambil ngobrol makan makaron yang dibuat sama dokter Amel.
+23	Pagi-pagi kita sambil ngobrol makan makaron yang dibuat sama dokter Amel.
+24	Pagi-pagi kita sambil ngobrol makan makaron yang dibuat sama dokter Amel.
+25	Pagi-pagi kita sambil ngobrol makan makaron yang dibuat sama dokter Amel. Kita diskusi juga untuk kasus-kasus yang akan kita hadapin hari ini.
+26	Pagi-pagi kita sambil ngobrol makan makaron yang dibuat sama dokter Amel. Kita diskusi juga untuk kasus-kasus yang akan kita hadapin hari ini.
+27	Kita diskusi juga untuk kasus-kasus yang akan kita hadapin hari ini.
+28	Kita diskusi juga untuk kasus-kasus yang akan kita hadapin hari ini.
+29	Kita diskusi juga untuk kasus-kasus yang akan kita hadapin hari ini.
+30	Kita diskusi juga untuk kasus-kasus yang akan kita hadapin hari ini.
+31	Kita diskusi juga untuk kasus-kasus yang akan kita hadapin hari ini.
+32	Kita diskusi juga untuk kasus-kasus yang akan kita hadapin hari ini.
+33	Kita diskusi juga untuk kasus-kasus yang akan kita hadapin hari ini. Dokter Amel akan kedua klien, dokter Dina ketiga klien, sedangkan aku dan dokter Hana kedua klien.
+34	Kita diskusi juga untuk kasus-kasus yang akan kita hadapin hari ini. Dokter Amel akan kedua klien, dokter Dina ketiga klien, sedangkan aku dan dokter Hana kedua klien.
+35	Dokter Amel akan kedua klien, dokter Dina ketiga klien, sedangkan aku dan dokter Hana kedua klien.
+36	Dokter Amel akan kedua klien, dokter Dina ketiga klien, sedangkan aku dan dokter Hana kedua klien.
+37	Dokter Amel akan kedua klien, dokter Dina ketiga klien, sedangkan aku dan dokter Hana kedua klien.
+38	Dokter Amel akan kedua klien, dokter Dina ketiga klien, sedangkan aku dan dokter Hana kedua klien.
+39	Dokter Amel akan kedua klien, dokter Dina ketiga klien, sedangkan aku dan dokter Hana kedua klien.
+40	Dokter Amel akan kedua klien, dokter Dina ketiga klien, sedangkan aku dan dokter Hana kedua klien.
+41	Dokter Amel akan kedua klien, dokter Dina ketiga klien, sedangkan aku dan dokter Hana kedua klien.
+42	Dokter Amel akan kedua klien, dokter Dina ketiga klien, sedangkan aku dan dokter Hana kedua klien.
+43	Dokter Amel akan kedua klien, dokter Dina ketiga klien, sedangkan aku dan dokter Hana kedua klien. Klien pertama aku lokasinya di BSD.
+44	Dokter Amel akan kedua klien, dokter Dina ketiga klien, sedangkan aku dan dokter Hana kedua klien. Klien pertama aku lokasinya di BSD.
+45	Klien pertama aku lokasinya di BSD.
+46	Klien pertama aku lokasinya di BSD.
+47	Klien pertama aku lokasinya di BSD.
+48	Klien pertama aku lokasinya di BSD. Klien aku mengeluhkan ikannya selalu tenggelam di bawah alias sinking.
+49	Klien aku mengeluhkan ikannya selalu tenggelam di bawah alias sinking.
+50	Klien aku mengeluhkan ikannya selalu tenggelam di bawah alias sinking.
+51	Klien aku mengeluhkan ikannya selalu tenggelam di bawah alias sinking.
+52	Klien aku mengeluhkan ikannya selalu tenggelam di bawah alias sinking.
+53	Klien aku mengeluhkan ikannya selalu tenggelam di bawah alias sinking.
+54	Klien aku mengeluhkan ikannya selalu tenggelam di bawah alias sinking.
+55	Klien aku mengeluhkan ikannya selalu tenggelam di bawah alias sinking. Kalau kalian perhatiin di rasa aku yang lain, kasus ini sering sekali terjadi ya.
+56	Klien aku mengeluhkan ikannya selalu tenggelam di bawah alias sinking. Kalau kalian perhatiin di rasa aku yang lain, kasus ini sering sekali terjadi ya.
+57	Kalau kalian perhatiin di rasa aku yang lain, kasus ini sering sekali terjadi ya.
+58	Kalau kalian perhatiin di rasa aku yang lain, kasus ini sering sekali terjadi ya.
+59	Kalau kalian perhatiin di rasa aku yang lain, kasus ini sering sekali terjadi ya.
+60	Kalau kalian perhatiin di rasa aku yang lain, kasus ini sering sekali terjadi ya.
+61	Kalau kalian perhatiin di rasa aku yang lain, kasus ini sering sekali terjadi ya.
+62	Kalau kalian perhatiin di rasa aku yang lain, kasus ini sering sekali terjadi ya.
+63	Kalau kalian perhatiin di rasa aku yang lain, kasus ini sering sekali terjadi ya. Dan problemnya gak selalu ada pada gelembung renang sebenarnya.
+64	Kalau kalian perhatiin di rasa aku yang lain, kasus ini sering sekali terjadi ya. Dan problemnya gak selalu ada pada gelembung renang sebenarnya.
+65	Dan problemnya gak selalu ada pada gelembung renang sebenarnya.
+66	Dan problemnya gak selalu ada pada gelembung renang sebenarnya.
+67	Dan problemnya gak selalu ada pada gelembung renang sebenarnya.
+68	Dan problemnya gak selalu ada pada gelembung renang sebenarnya.
+69	Dan problemnya gak selalu ada pada gelembung renang sebenarnya.
+70	Dan problemnya gak selalu ada pada gelembung renang sebenarnya. Makanya wajib kita X-ray.
+71	Dan problemnya gak selalu ada pada gelembung renang sebenarnya. Makanya wajib kita X-ray.
+72	Makanya wajib kita X-ray.
+73	Makanya wajib kita X-ray.
+74	Makanya wajib kita X-ray. Ya, tanpa basa-basi ikan langsung aku packing dan aku bawa.
+75	Makanya wajib kita X-ray. Ya, tanpa basa-basi ikan langsung aku packing dan aku bawa.
+76	Ya, tanpa basa-basi ikan langsung aku packing dan aku bawa.
+77	Ya, tanpa basa-basi ikan langsung aku packing dan aku bawa.
+78	Ya, tanpa basa-basi ikan langsung aku packing dan aku bawa.
+79	Ya, tanpa basa-basi ikan langsung aku packing dan aku bawa.
+80	Ya, tanpa basa-basi ikan langsung aku packing dan aku bawa. Di tempat ini aku sekali nengokin baby-baby ikan koi hasil dari induksi.
+81	Ya, tanpa basa-basi ikan langsung aku packing dan aku bawa. Di tempat ini aku sekali nengokin baby-baby ikan koi hasil dari induksi.
+82	Di tempat ini aku sekali nengokin baby-baby ikan koi hasil dari induksi.
+83	Di tempat ini aku sekali nengokin baby-baby ikan koi hasil dari induksi.
+84	Di tempat ini aku sekali nengokin baby-baby ikan koi hasil dari induksi.
+85	Di tempat ini aku sekali nengokin baby-baby ikan koi hasil dari induksi.
+86	Di tempat ini aku sekali nengokin baby-baby ikan koi hasil dari induksi.
+87	Di tempat ini aku sekali nengokin baby-baby ikan koi hasil dari induksi.
+88	Di tempat ini aku sekali nengokin baby-baby ikan koi hasil dari induksi.
+89	Di tempat ini aku sekali nengokin baby-baby ikan koi hasil dari induksi. Beberapa minggu lalu si ibu ikan gak keluar-keluar telurnya.
+90	Di tempat ini aku sekali nengokin baby-baby ikan koi hasil dari induksi. Beberapa minggu lalu si ibu ikan gak keluar-keluar telurnya.
+91	Beberapa minggu lalu si ibu ikan gak keluar-keluar telurnya.
+92	Beberapa minggu lalu si ibu ikan gak keluar-keluar telurnya.
+93	Beberapa minggu lalu si ibu ikan gak keluar-keluar telurnya.
+94	Beberapa minggu lalu si ibu ikan gak keluar-keluar telurnya.
+95	Beberapa minggu lalu si ibu ikan gak keluar-keluar telurnya. Jadi aku injeksi hormon deh.
+96	Beberapa minggu lalu si ibu ikan gak keluar-keluar telurnya. Jadi aku injeksi hormon deh.
+97	Jadi aku injeksi hormon deh.
+98	Jadi aku injeksi hormon deh.
+99	Jadi aku injeksi hormon deh. Klien aku selanjutnya lokasinya di Patawasenayan.
+100	Jadi aku injeksi hormon deh. Klien aku selanjutnya lokasinya di Patawasenayan.
+101	Klien aku selanjutnya lokasinya di Patawasenayan.
+102	Klien aku selanjutnya lokasinya di Patawasenayan.
+103	Klien aku selanjutnya lokasinya di Patawasenayan.
+104	Klien aku selanjutnya lokasinya di Patawasenayan. Ikannya di kolam bolak-balik sakit gak selesai-selesai kasusnya.
+105	Ikannya di kolam bolak-balik sakit gak selesai-selesai kasusnya.
+106	Ikannya di kolam bolak-balik sakit gak selesai-selesai kasusnya.
+107	Ikannya di kolam bolak-balik sakit gak selesai-selesai kasusnya.
+108	Ikannya di kolam bolak-balik sakit gak selesai-selesai kasusnya.
+109	Ikannya di kolam bolak-balik sakit gak selesai-selesai kasusnya.
+110	Ikannya di kolam bolak-balik sakit gak selesai-selesai kasusnya.
+111	Ikannya di kolam bolak-balik sakit gak selesai-selesai kasusnya. Ikan yang satu udah sembuh.
+112	Ikannya di kolam bolak-balik sakit gak selesai-selesai kasusnya. Ikan yang satu udah sembuh.
+113	Ikan yang satu udah sembuh.
+114	Ikan yang satu udah sembuh. Gantian ikan yang lain yang sakit.
+115	Ikan yang satu udah sembuh. Gantian ikan yang lain yang sakit.
+116	Gantian ikan yang lain yang sakit.
+117	Gantian ikan yang lain yang sakit. Aku curiga ada something wrong di airnya.
+118	Gantian ikan yang lain yang sakit. Aku curiga ada something wrong di airnya.
+119	Aku curiga ada something wrong di airnya.
+120	Aku curiga ada something wrong di airnya.
+121	Aku curiga ada something wrong di airnya.
+122	Aku curiga ada something wrong di airnya. Yang kejalanya paling parah kita coba angkat dan periksa.
+123	Aku curiga ada something wrong di airnya. Yang kejalanya paling parah kita coba angkat dan periksa.
+124	Yang kejalanya paling parah kita coba angkat dan periksa.
+125	Yang kejalanya paling parah kita coba angkat dan periksa.
+126	Yang kejalanya paling parah kita coba angkat dan periksa.
+127	Yang kejalanya paling parah kita coba angkat dan periksa.
+128	Yang kejalanya paling parah kita coba angkat dan periksa. Ternyata radanya udah parah banget.
+129	Ternyata radanya udah parah banget.
+130	Ternyata radanya udah parah banget.
+131	Ternyata radanya udah parah banget.
+132	Ternyata radanya udah parah banget. Dan setelah dicek, protozoanya juga banyak banget.
+133	Dan setelah dicek, protozoanya juga banyak banget.
+134	Dan setelah dicek, protozoanya juga banyak banget.
+135	Dan setelah dicek, protozoanya juga banyak banget.
+136	Dan setelah dicek, protozoanya juga banyak banget.
+137	Dan setelah dicek, protozoanya juga banyak banget. Akhirnya aku bawa ke rawat inap.
+138	Akhirnya aku bawa ke rawat inap.
+139	Akhirnya aku bawa ke rawat inap.
+140	Akhirnya aku bawa ke rawat inap.
+141	Akhirnya aku bawa ke rawat inap. Terus kita lanjut X-ray ikan klien aku yang tadi lokasinya di BSD.
+142	Terus kita lanjut X-ray ikan klien aku yang tadi lokasinya di BSD.
+143	Terus kita lanjut X-ray ikan klien aku yang tadi lokasinya di BSD.
+144	Terus kita lanjut X-ray ikan klien aku yang tadi lokasinya di BSD.
+145	Terus kita lanjut X-ray ikan klien aku yang tadi lokasinya di BSD.
+146	Terus kita lanjut X-ray ikan klien aku yang tadi lokasinya di BSD.
+147	Terus kita lanjut X-ray ikan klien aku yang tadi lokasinya di BSD.
+148	Terus kita lanjut X-ray ikan klien aku yang tadi lokasinya di BSD. Karena dokter Amel udah selesai sama urusannya,
+149	Terus kita lanjut X-ray ikan klien aku yang tadi lokasinya di BSD. Karena dokter Amel udah selesai sama urusannya,
+150	Karena dokter Amel udah selesai sama urusannya,
+151	Karena dokter Amel udah selesai sama urusannya,
+152	Karena dokter Amel udah selesai sama urusannya,
+153	Karena dokter Amel udah selesai sama urusannya, akhirnya aku suruh dia buat bantu X-ray.
+154	Karena dokter Amel udah selesai sama urusannya, akhirnya aku suruh dia buat bantu X-ray.
+155	akhirnya aku suruh dia buat bantu X-ray.
+156	akhirnya aku suruh dia buat bantu X-ray.
+157	akhirnya aku suruh dia buat bantu X-ray.
+158	akhirnya aku suruh dia buat bantu X-ray. Di sini dokter Amel aku minta buat nantolong dokter Hana
+159	Di sini dokter Amel aku minta buat nantolong dokter Hana
+160	Di sini dokter Amel aku minta buat nantolong dokter Hana
+161	Di sini dokter Amel aku minta buat nantolong dokter Hana
+162	Di sini dokter Amel aku minta buat nantolong dokter Hana
+163	Di sini dokter Amel aku minta buat nantolong dokter Hana
+164	Di sini dokter Amel aku minta buat nantolong dokter Hana supaya dokter Hana tau cara X-ray ikan yang baik dan benar.
+165	Di sini dokter Amel aku minta buat nantolong dokter Hana supaya dokter Hana tau cara X-ray ikan yang baik dan benar.
+166	supaya dokter Hana tau cara X-ray ikan yang baik dan benar.
+167	supaya dokter Hana tau cara X-ray ikan yang baik dan benar.
+168	supaya dokter Hana tau cara X-ray ikan yang baik dan benar.
+169	supaya dokter Hana tau cara X-ray ikan yang baik dan benar.
+170	supaya dokter Hana tau cara X-ray ikan yang baik dan benar. Setelah selesai X-ray,
+171	supaya dokter Hana tau cara X-ray ikan yang baik dan benar. Setelah selesai X-ray,
+172	Setelah selesai X-ray,
+173	Setelah selesai X-ray,
+174	aku bawa ke rawat inap dengan membawa pasien.
+175	aku bawa ke rawat inap dengan membawa pasien.
+176	aku bawa ke rawat inap dengan membawa pasien.
+177	aku bawa ke rawat inap dengan membawa pasien. Selanjutnya seharusnya dokter Dina sih yang bikin adain my life.
+178	Selanjutnya seharusnya dokter Dina sih yang bikin adain my life.
+179	Selanjutnya seharusnya dokter Dina sih yang bikin adain my life.
+180	Selanjutnya seharusnya dokter Dina sih yang bikin adain my life.
+181	Selanjutnya seharusnya dokter Dina sih yang bikin adain my life.
+182	Selanjutnya seharusnya dokter Dina sih yang bikin adain my life. Gimana? Pada setuju gak?
+183	Selanjutnya seharusnya dokter Dina sih yang bikin adain my life. Gimana? Pada setuju gak?
+184	Gimana? Pada setuju gak?
+185	Gimana? Pada setuju gak?
+186	Gimana? Pada setuju gak?
+187	[NO_SPEECH]

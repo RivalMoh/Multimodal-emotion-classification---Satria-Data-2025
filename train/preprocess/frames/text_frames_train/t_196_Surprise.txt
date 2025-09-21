@@ -1,0 +1,134 @@
+0	Ini adalah BYD Seal dan ada beberapa hal menarik di mobil ini.
+1	Ini adalah BYD Seal dan ada beberapa hal menarik di mobil ini.
+2	Ini adalah BYD Seal dan ada beberapa hal menarik di mobil ini.
+3	Ini adalah BYD Seal dan ada beberapa hal menarik di mobil ini.
+4	Ini adalah BYD Seal dan ada beberapa hal menarik di mobil ini.
+5	Ini adalah BYD Seal dan ada beberapa hal menarik di mobil ini.
+6	Ini adalah BYD Seal dan ada beberapa hal menarik di mobil ini.
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	Pada saat kita masuk dan kita starter, maka kita akan disambut dengan musik dan animasi.
+14	Pada saat kita masuk dan kita starter, maka kita akan disambut dengan musik dan animasi.
+15	Pada saat kita masuk dan kita starter, maka kita akan disambut dengan musik dan animasi.
+16	Pada saat kita masuk dan kita starter, maka kita akan disambut dengan musik dan animasi.
+17	Pada saat kita masuk dan kita starter, maka kita akan disambut dengan musik dan animasi.
+18	Pada saat kita masuk dan kita starter, maka kita akan disambut dengan musik dan animasi.
+19	Pada saat kita masuk dan kita starter, maka kita akan disambut dengan musik dan animasi.
+20	Pada saat kita masuk dan kita starter, maka kita akan disambut dengan musik dan animasi.
+21	Pada saat kita masuk dan kita starter, maka kita akan disambut dengan musik dan animasi.
+22	Pada saat kita masuk dan kita starter, maka kita akan disambut dengan musik dan animasi.
+23	Pada saat kita masuk dan kita starter, maka kita akan disambut dengan musik dan animasi.
+24	Pada saat kita masuk dan kita starter, maka kita akan disambut dengan musik dan animasi.
+25	Pada saat kita masuk dan kita starter, maka kita akan disambut dengan musik dan animasi.
+26	Pada saat kita masuk dan kita starter, maka kita akan disambut dengan musik dan animasi.
+27	Pada saat kita masuk dan kita starter, maka kita akan disambut dengan musik dan animasi.
+28	Pada saat kita masuk dan kita starter, maka kita akan disambut dengan musik dan animasi.
+29	Pada saat kita masuk dan kita starter, maka kita akan disambut dengan musik dan animasi.
+30	Pada saat kita masuk dan kita starter, maka kita akan disambut dengan musik dan animasi.
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	Layarnya bisa Anda rotate dengan tombol di setir atau tombol di layar seperti ini.
+45	Layarnya bisa Anda rotate dengan tombol di setir atau tombol di layar seperti ini.
+46	Layarnya bisa Anda rotate dengan tombol di setir atau tombol di layar seperti ini.
+47	Layarnya bisa Anda rotate dengan tombol di setir atau tombol di layar seperti ini.
+48	Layarnya bisa Anda rotate dengan tombol di setir atau tombol di layar seperti ini.
+49	Layarnya bisa Anda rotate dengan tombol di setir atau tombol di layar seperti ini.
+50	Layarnya bisa Anda rotate dengan tombol di setir atau tombol di layar seperti ini.
+51	Layarnya bisa Anda rotate dengan tombol di setir atau tombol di layar seperti ini.
+52	Layarnya bisa Anda rotate dengan tombol di setir atau tombol di layar seperti ini.
+53	Layarnya bisa Anda rotate dengan tombol di setir atau tombol di layar seperti ini.
+54	Layarnya bisa Anda rotate dengan tombol di setir atau tombol di layar seperti ini.
+55	Layarnya bisa Anda rotate dengan tombol di setir atau tombol di layar seperti ini.
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	[NO_SPEECH]
+59	Dan Anda bisa kembalikan lagi.
+60	Dan Anda bisa kembalikan lagi.
+61	Dan Anda bisa kembalikan lagi.
+62	Dan Anda bisa kembalikan lagi.
+63	Dan Anda bisa kembalikan lagi.
+64	Dan Anda bisa kembalikan lagi.
+65	[NO_SPEECH]
+66	[NO_SPEECH]
+67	[NO_SPEECH]
+68	[NO_SPEECH]
+69	[NO_SPEECH]
+70	[NO_SPEECH]
+71	[NO_SPEECH]
+72	[NO_SPEECH]
+73	Ventilasi AC tidak ada lagi pengaturan mekanikal, semua diatur lewat layar.
+74	Ventilasi AC tidak ada lagi pengaturan mekanikal, semua diatur lewat layar.
+75	Ventilasi AC tidak ada lagi pengaturan mekanikal, semua diatur lewat layar.
+76	Ventilasi AC tidak ada lagi pengaturan mekanikal, semua diatur lewat layar.
+77	Ventilasi AC tidak ada lagi pengaturan mekanikal, semua diatur lewat layar.
+78	Ventilasi AC tidak ada lagi pengaturan mekanikal, semua diatur lewat layar.
+79	Ventilasi AC tidak ada lagi pengaturan mekanikal, semua diatur lewat layar.
+80	Ventilasi AC tidak ada lagi pengaturan mekanikal, semua diatur lewat layar.
+81	Ventilasi AC tidak ada lagi pengaturan mekanikal, semua diatur lewat layar.
+82	Ventilasi AC tidak ada lagi pengaturan mekanikal, semua diatur lewat layar. Jadi Anda bisa pilih mau yang mana diatur, atas, bawah, kanan, kiri.
+83	Ventilasi AC tidak ada lagi pengaturan mekanikal, semua diatur lewat layar. Jadi Anda bisa pilih mau yang mana diatur, atas, bawah, kanan, kiri.
+84	Jadi Anda bisa pilih mau yang mana diatur, atas, bawah, kanan, kiri.
+85	Jadi Anda bisa pilih mau yang mana diatur, atas, bawah, kanan, kiri.
+86	Jadi Anda bisa pilih mau yang mana diatur, atas, bawah, kanan, kiri.
+87	Jadi Anda bisa pilih mau yang mana diatur, atas, bawah, kanan, kiri.
+88	Jadi Anda bisa pilih mau yang mana diatur, atas, bawah, kanan, kiri.
+89	Jadi Anda bisa pilih mau yang mana diatur, atas, bawah, kanan, kiri.
+90	Jadi Anda bisa pilih mau yang mana diatur, atas, bawah, kanan, kiri.
+91	Jadi Anda bisa pilih mau yang mana diatur, atas, bawah, kanan, kiri.
+92	Jadi Anda bisa pilih mau yang mana diatur, atas, bawah, kanan, kiri. Atau Anda bisa atur untuk menghindari Anda atau fokus ke Anda atau swing alias dia berputar-putar sendiri.
+93	Atau Anda bisa atur untuk menghindari Anda atau fokus ke Anda atau swing alias dia berputar-putar sendiri.
+94	Atau Anda bisa atur untuk menghindari Anda atau fokus ke Anda atau swing alias dia berputar-putar sendiri.
+95	Atau Anda bisa atur untuk menghindari Anda atau fokus ke Anda atau swing alias dia berputar-putar sendiri.
+96	Atau Anda bisa atur untuk menghindari Anda atau fokus ke Anda atau swing alias dia berputar-putar sendiri.
+97	Atau Anda bisa atur untuk menghindari Anda atau fokus ke Anda atau swing alias dia berputar-putar sendiri.
+98	Atau Anda bisa atur untuk menghindari Anda atau fokus ke Anda atau swing alias dia berputar-putar sendiri.
+99	Atau Anda bisa atur untuk menghindari Anda atau fokus ke Anda atau swing alias dia berputar-putar sendiri.
+100	Atau Anda bisa atur untuk menghindari Anda atau fokus ke Anda atau swing alias dia berputar-putar sendiri.
+101	Atau Anda bisa atur untuk menghindari Anda atau fokus ke Anda atau swing alias dia berputar-putar sendiri.
+102	Atau Anda bisa atur untuk menghindari Anda atau fokus ke Anda atau swing alias dia berputar-putar sendiri.
+103	Atau Anda bisa atur untuk menghindari Anda atau fokus ke Anda atau swing alias dia berputar-putar sendiri.
+104	Atau Anda bisa atur untuk menghindari Anda atau fokus ke Anda atau swing alias dia berputar-putar sendiri.
+105	Atau Anda bisa atur untuk menghindari Anda atau fokus ke Anda atau swing alias dia berputar-putar sendiri.
+106	Atau Anda bisa atur untuk menghindari Anda atau fokus ke Anda atau swing alias dia berputar-putar sendiri.
+107	Atau Anda bisa atur untuk menghindari Anda atau fokus ke Anda atau swing alias dia berputar-putar sendiri.
+108	Atau Anda bisa atur untuk menghindari Anda atau fokus ke Anda atau swing alias dia berputar-putar sendiri.
+109	[NO_SPEECH]
+110	Dan ketika kita matikan, kita juga akan diiringi oleh musik dari BYD.
+111	Dan ketika kita matikan, kita juga akan diiringi oleh musik dari BYD.
+112	Dan ketika kita matikan, kita juga akan diiringi oleh musik dari BYD.
+113	Dan ketika kita matikan, kita juga akan diiringi oleh musik dari BYD.
+114	Dan ketika kita matikan, kita juga akan diiringi oleh musik dari BYD.
+115	Dan ketika kita matikan, kita juga akan diiringi oleh musik dari BYD.
+116	Dan ketika kita matikan, kita juga akan diiringi oleh musik dari BYD.
+117	Dan ketika kita matikan, kita juga akan diiringi oleh musik dari BYD.
+118	Dan ketika kita matikan, kita juga akan diiringi oleh musik dari BYD.
+119	Dan ketika kita matikan, kita juga akan diiringi oleh musik dari BYD.
+120	[NO_SPEECH]
+121	[NO_SPEECH]
+122	[NO_SPEECH]
+123	[NO_SPEECH]
+124	[NO_SPEECH]
+125	[NO_SPEECH]
+126	[NO_SPEECH]
+127	[NO_SPEECH]
+128	[NO_SPEECH]
+129	BABY
+130	BABY
+131	BABY
+132	BABY
+133	BABY

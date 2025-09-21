@@ -1,0 +1,71 @@
+0	Ini adalah Adaptive Cruise Control yang tercanggih
+1	Ini adalah Adaptive Cruise Control yang tercanggih
+2	Ini adalah Adaptive Cruise Control yang tercanggih
+3	Ini adalah Adaptive Cruise Control yang tercanggih
+4	Ini adalah Adaptive Cruise Control yang tercanggih
+5	Ini adalah Adaptive Cruise Control yang tercanggih
+6	Ini adalah Adaptive Cruise Control yang tercanggih Yang pernah kami coba pada suatu mobil
+7	Ini adalah Adaptive Cruise Control yang tercanggih Yang pernah kami coba pada suatu mobil
+8	Yang pernah kami coba pada suatu mobil
+9	Yang pernah kami coba pada suatu mobil
+10	Yang pernah kami coba pada suatu mobil Jadi ini adalah Xpeng X9
+11	Yang pernah kami coba pada suatu mobil Jadi ini adalah Xpeng X9
+12	Jadi ini adalah Xpeng X9
+13	Jadi ini adalah Xpeng X9
+14	Jadi ini adalah Xpeng X9
+15	Jadi ini adalah Xpeng X9
+16	Jadi ini adalah Xpeng X9 Dia bisa juga Adaptive Cruise Control saat macet
+17	Jadi ini adalah Xpeng X9 Dia bisa juga Adaptive Cruise Control saat macet
+18	Dia bisa juga Adaptive Cruise Control saat macet
+19	Dia bisa juga Adaptive Cruise Control saat macet
+20	Dia bisa juga Adaptive Cruise Control saat macet
+21	Dia bisa juga Adaptive Cruise Control saat macet
+22	Dia bisa juga Adaptive Cruise Control saat macet Ya sudah banyak mobil yang bisa begitu juga
+23	Dia bisa juga Adaptive Cruise Control saat macet Ya sudah banyak mobil yang bisa begitu juga
+24	Ya sudah banyak mobil yang bisa begitu juga
+25	Ya sudah banyak mobil yang bisa begitu juga Tapi lihat nih mobil depan maju sedikit
+26	Ya sudah banyak mobil yang bisa begitu juga Tapi lihat nih mobil depan maju sedikit
+27	Tapi lihat nih mobil depan maju sedikit
+28	Tapi lihat nih mobil depan maju sedikit
+29	Tapi lihat nih mobil depan maju sedikit
+30	Tapi lihat nih mobil depan maju sedikit Mobilnya maju dengan jaraknya sangat dekat
+31	Tapi lihat nih mobil depan maju sedikit Mobilnya maju dengan jaraknya sangat dekat
+32	Mobilnya maju dengan jaraknya sangat dekat
+33	Mobilnya maju dengan jaraknya sangat dekat
+34	Mobilnya maju dengan jaraknya sangat dekat
+35	Mobilnya maju dengan jaraknya sangat dekat
+36	Mobilnya maju dengan jaraknya sangat dekat
+37	Mobilnya maju dengan jaraknya sangat dekat Kami tidak ngerem sama sekali dan berhentinya cukup dekat
+38	Mobilnya maju dengan jaraknya sangat dekat Kami tidak ngerem sama sekali dan berhentinya cukup dekat
+39	Kami tidak ngerem sama sekali dan berhentinya cukup dekat
+40	Kami tidak ngerem sama sekali dan berhentinya cukup dekat
+41	Kami tidak ngerem sama sekali dan berhentinya cukup dekat
+42	Kami tidak ngerem sama sekali dan berhentinya cukup dekat Sesuai sama kebiasaan orang Indonesia
+43	Kami tidak ngerem sama sekali dan berhentinya cukup dekat Sesuai sama kebiasaan orang Indonesia
+44	Sesuai sama kebiasaan orang Indonesia
+45	Sesuai sama kebiasaan orang Indonesia
+46	Sesuai sama kebiasaan orang Indonesia
+47	Sesuai sama kebiasaan orang Indonesia
+48	Sesuai sama kebiasaan orang Indonesia Sehingga tidak mudah dipotong
+49	Sesuai sama kebiasaan orang Indonesia Sehingga tidak mudah dipotong
+50	Sehingga tidak mudah dipotong
+51	Sehingga tidak mudah dipotong
+52	Sehingga tidak mudah dipotong
+53	Sehingga tidak mudah dipotong Apabila kita macet-macet pakai Adaptive Cruise Control Xpeng X9 ini
+54	Sehingga tidak mudah dipotong Apabila kita macet-macet pakai Adaptive Cruise Control Xpeng X9 ini
+55	Apabila kita macet-macet pakai Adaptive Cruise Control Xpeng X9 ini
+56	Apabila kita macet-macet pakai Adaptive Cruise Control Xpeng X9 ini
+57	Apabila kita macet-macet pakai Adaptive Cruise Control Xpeng X9 ini
+58	Apabila kita macet-macet pakai Adaptive Cruise Control Xpeng X9 ini
+59	Apabila kita macet-macet pakai Adaptive Cruise Control Xpeng X9 ini
+60	Apabila kita macet-macet pakai Adaptive Cruise Control Xpeng X9 ini
+61	Apabila kita macet-macet pakai Adaptive Cruise Control Xpeng X9 ini
+62	Apabila kita macet-macet pakai Adaptive Cruise Control Xpeng X9 ini
+63	Apabila kita macet-macet pakai Adaptive Cruise Control Xpeng X9 ini Luar biasa nih
+64	Apabila kita macet-macet pakai Adaptive Cruise Control Xpeng X9 ini Luar biasa nih
+65	Luar biasa nih
+66	Luar biasa nih
+67	Luar biasa nih
+68	[NO_SPEECH]
+69	[NO_SPEECH]
+70	[NO_SPEECH]

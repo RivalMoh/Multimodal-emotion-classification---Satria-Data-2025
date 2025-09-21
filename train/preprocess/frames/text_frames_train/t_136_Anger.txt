@@ -1,0 +1,114 @@
+0	Belanda kan sendiri kan, total football kan.
+1	Belanda kan sendiri kan, total football kan.
+2	Belanda kan sendiri kan, total football kan.
+3	Belanda kan sendiri kan, total football kan. Lawan Australia kita keteteran.
+4	Lawan Australia kita keteteran.
+5	Lawan Australia kita keteteran.
+6	Lawan Australia kita keteteran. Kita terlalu menyerang.
+7	Lawan Australia kita keteteran. Kita terlalu menyerang.
+8	Kita terlalu menyerang. Betul.
+9	Kita terlalu menyerang. Betul. Terlalu berani.
+10	Betul. Terlalu berani. Terlalu berani.
+11	Terlalu berani. Terlalu berani.
+12	Terlalu berani. Nah akhirnya, nah yang menarik bang, karena pemanggilan Lili Pali.
+13	Terlalu berani. Nah akhirnya, nah yang menarik bang, karena pemanggilan Lili Pali.
+14	Nah akhirnya, nah yang menarik bang, karena pemanggilan Lili Pali.
+15	Nah akhirnya, nah yang menarik bang, karena pemanggilan Lili Pali.
+16	Nah akhirnya, nah yang menarik bang, karena pemanggilan Lili Pali.
+17	Nah akhirnya, nah yang menarik bang, karena pemanggilan Lili Pali.
+18	Nah akhirnya, nah yang menarik bang, karena pemanggilan Lili Pali.
+19	Nah akhirnya, nah yang menarik bang, karena pemanggilan Lili Pali.
+20	Nah akhirnya, nah yang menarik bang, karena pemanggilan Lili Pali. Lili Pali.
+21	Nah akhirnya, nah yang menarik bang, karena pemanggilan Lili Pali. Lili Pali.
+22	Lili Pali.
+23	Lili Pali. Sebesar apa pengaruhnya kira-kira?
+24	Sebesar apa pengaruhnya kira-kira?
+25	Sebesar apa pengaruhnya kira-kira?
+26	Sebesar apa pengaruhnya kira-kira? Saya rasa Lili Pali.
+27	Sebesar apa pengaruhnya kira-kira? Saya rasa Lili Pali.
+28	Saya rasa Lili Pali.
+29	Saya rasa Lili Pali.
+30	Saya rasa Lili Pali. Yang harus ditekan kan bermain sabar sih.
+31	Yang harus ditekan kan bermain sabar sih.
+32	Yang harus ditekan kan bermain sabar sih.
+33	Yang harus ditekan kan bermain sabar sih.
+34	Yang harus ditekan kan bermain sabar sih. Kita itu sangat tidak sabar ketika lawan China pertama.
+35	Yang harus ditekan kan bermain sabar sih. Kita itu sangat tidak sabar ketika lawan China pertama.
+36	Kita itu sangat tidak sabar ketika lawan China pertama.
+37	Kita itu sangat tidak sabar ketika lawan China pertama.
+38	Kita itu sangat tidak sabar ketika lawan China pertama.
+39	Kita itu sangat tidak sabar ketika lawan China pertama.
+40	Berarti dengan kata lain, Mesh harus duduk dulu di bangku cadangan.
+41	Berarti dengan kata lain, Mesh harus duduk dulu di bangku cadangan.
+42	Berarti dengan kata lain, Mesh harus duduk dulu di bangku cadangan.
+43	Berarti dengan kata lain, Mesh harus duduk dulu di bangku cadangan.
+44	Berarti dengan kata lain, Mesh harus duduk dulu di bangku cadangan.
+45	Berarti dengan kata lain, Mesh harus duduk dulu di bangku cadangan.
+46	Berarti dengan kata lain, Mesh harus duduk dulu di bangku cadangan.
+47	Berarti dengan kata lain, Mesh harus duduk dulu di bangku cadangan.
+48	Berarti dengan kata lain, Mesh harus duduk dulu di bangku cadangan.
+49	Masalahnya ya.
+50	Masalahnya ya.
+51	Masalahnya ya. Kita butuh poin ini soalnya.
+52	Kita butuh poin ini soalnya.
+53	Kita butuh poin ini soalnya.
+54	Kita butuh poin ini soalnya.
+55	Kita butuh poin ini soalnya. Kita butuh poin.
+56	Kita butuh poin.
+57	Kita butuh poin.
+58	Kita butuh poin. Tapi satu sisi kita juga butuh pertahanan yang kuat.
+59	Kita butuh poin. Tapi satu sisi kita juga butuh pertahanan yang kuat.
+60	Tapi satu sisi kita juga butuh pertahanan yang kuat.
+61	Tapi satu sisi kita juga butuh pertahanan yang kuat.
+62	Tapi satu sisi kita juga butuh pertahanan yang kuat. Kalau saya, justru ini bagus juga buat Beckham di Jepang.
+63	Tapi satu sisi kita juga butuh pertahanan yang kuat. Kalau saya, justru ini bagus juga buat Beckham di Jepang.
+64	Kalau saya, justru ini bagus juga buat Beckham di Jepang.
+65	Kalau saya, justru ini bagus juga buat Beckham di Jepang.
+66	Kalau saya, justru ini bagus juga buat Beckham di Jepang.
+67	Kalau saya, justru ini bagus juga buat Beckham di Jepang.
+68	Kalau saya, justru ini bagus juga buat Beckham di Jepang.
+69	Kalau saya, justru ini bagus juga buat Beckham di Jepang. Tapi kita harus menang besok.
+70	Kalau saya, justru ini bagus juga buat Beckham di Jepang. Tapi kita harus menang besok.
+71	Tapi kita harus menang besok.
+72	Tapi kita harus menang besok.
+73	Tapi kita harus menang besok. Tapi kalau harus dipilih, siapa yang dipilih untuk jadi cadangannya Verdong.
+74	Tapi kalau harus dipilih, siapa yang dipilih untuk jadi cadangannya Verdong.
+75	Tapi kalau harus dipilih, siapa yang dipilih untuk jadi cadangannya Verdong.
+76	Tapi kalau harus dipilih, siapa yang dipilih untuk jadi cadangannya Verdong.
+77	Tapi kalau harus dipilih, siapa yang dipilih untuk jadi cadangannya Verdong.
+78	Tapi kalau harus dipilih, siapa yang dipilih untuk jadi cadangannya Verdong.
+79	Tapi kalau harus dipilih, siapa yang dipilih untuk jadi cadangannya Verdong.
+80	Tapi kalau harus dipilih, siapa yang dipilih untuk jadi cadangannya Verdong.
+81	Tapi kalau harus dipilih, siapa yang dipilih untuk jadi cadangannya Verdong. Verdong.
+82	Tapi kalau harus dipilih, siapa yang dipilih untuk jadi cadangannya Verdong. Verdong.
+83	Verdong. Saya pertama Arhan.
+84	Saya pertama Arhan.
+85	Saya pertama Arhan.
+86	Saya pertama Arhan. Arhan.
+87	Saya pertama Arhan. Arhan.
+88	Arhan. Arhan.
+89	Arhan. Kenapa?
+90	Kenapa? Dibandingkan saya empati nama.
+91	Kenapa? Dibandingkan saya empati nama.
+92	Dibandingkan saya empati nama.
+93	Dibandingkan saya empati nama.
+94	[NO_SPEECH]
+95	[NO_SPEECH]
+96	[NO_SPEECH]
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	[NO_SPEECH]
+104	[NO_SPEECH]
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	[NO_SPEECH]
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	[NO_SPEECH]
+113	[NO_SPEECH]

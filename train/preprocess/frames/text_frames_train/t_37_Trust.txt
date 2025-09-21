@@ -1,0 +1,251 @@
+0	Lagi cari TV bagus?
+1	Lagi cari TV bagus? Wajib tahu soal TV Mini LED dulu ya.
+2	Wajib tahu soal TV Mini LED dulu ya.
+3	Wajib tahu soal TV Mini LED dulu ya.
+4	Wajib tahu soal TV Mini LED dulu ya.
+5	Wajib tahu soal TV Mini LED dulu ya.
+6	Wajib tahu soal TV Mini LED dulu ya.
+7	Wajib tahu soal TV Mini LED dulu ya. Nilai plusnya banyak, minusnya minim.
+8	Wajib tahu soal TV Mini LED dulu ya. Nilai plusnya banyak, minusnya minim.
+9	Nilai plusnya banyak, minusnya minim.
+10	Nilai plusnya banyak, minusnya minim.
+11	Nilai plusnya banyak, minusnya minim.
+12	Nilai plusnya banyak, minusnya minim.
+13	Nilai plusnya banyak, minusnya minim. Kita pakai contoh Hisense Mini LED AITV U6Q.
+14	Kita pakai contoh Hisense Mini LED AITV U6Q.
+15	Kita pakai contoh Hisense Mini LED AITV U6Q.
+16	Kita pakai contoh Hisense Mini LED AITV U6Q.
+17	Kita pakai contoh Hisense Mini LED AITV U6Q.
+18	Kita pakai contoh Hisense Mini LED AITV U6Q.
+19	Kita pakai contoh Hisense Mini LED AITV U6Q.
+20	Kita pakai contoh Hisense Mini LED AITV U6Q. Seri TV Mini LED terbaru dari Hisense.
+21	Kita pakai contoh Hisense Mini LED AITV U6Q. Seri TV Mini LED terbaru dari Hisense.
+22	Seri TV Mini LED terbaru dari Hisense.
+23	Seri TV Mini LED terbaru dari Hisense.
+24	Seri TV Mini LED terbaru dari Hisense.
+25	Seri TV Mini LED terbaru dari Hisense.
+26	Seri TV Mini LED terbaru dari Hisense. Yang kontrasnya jauh lebih tinggi,
+27	Seri TV Mini LED terbaru dari Hisense. Yang kontrasnya jauh lebih tinggi,
+28	Yang kontrasnya jauh lebih tinggi,
+29	Yang kontrasnya jauh lebih tinggi,
+30	Yang kontrasnya jauh lebih tinggi,
+31	Yang kontrasnya jauh lebih tinggi, lebih presisi dari TV LED biasa.
+32	Yang kontrasnya jauh lebih tinggi, lebih presisi dari TV LED biasa.
+33	lebih presisi dari TV LED biasa.
+34	lebih presisi dari TV LED biasa.
+35	lebih presisi dari TV LED biasa.
+36	lebih presisi dari TV LED biasa.
+37	lebih presisi dari TV LED biasa. Gambar gelap berasa lebih pekat,
+38	Gambar gelap berasa lebih pekat,
+39	Gambar gelap berasa lebih pekat,
+40	Gambar gelap berasa lebih pekat,
+41	Gambar gelap berasa lebih pekat, gambar terang berasa lebih bersinar.
+42	gambar terang berasa lebih bersinar.
+43	gambar terang berasa lebih bersinar.
+44	gambar terang berasa lebih bersinar.
+45	gambar terang berasa lebih bersinar. Soalnya titik backlight di TV Mini LED
+46	gambar terang berasa lebih bersinar. Soalnya titik backlight di TV Mini LED
+47	Soalnya titik backlight di TV Mini LED
+48	Soalnya titik backlight di TV Mini LED
+49	Soalnya titik backlight di TV Mini LED
+50	Soalnya titik backlight di TV Mini LED jauh lebih banyak dari LED biasa.
+51	Soalnya titik backlight di TV Mini LED jauh lebih banyak dari LED biasa.
+52	jauh lebih banyak dari LED biasa.
+53	jauh lebih banyak dari LED biasa.
+54	jauh lebih banyak dari LED biasa.
+55	jauh lebih banyak dari LED biasa. Bisa dibilang Mini LED jaman sekarang udah
+56	jauh lebih banyak dari LED biasa. Bisa dibilang Mini LED jaman sekarang udah
+57	Bisa dibilang Mini LED jaman sekarang udah
+58	Bisa dibilang Mini LED jaman sekarang udah
+59	Bisa dibilang Mini LED jaman sekarang udah
+60	Bisa dibilang Mini LED jaman sekarang udah
+61	Bisa dibilang Mini LED jaman sekarang udah
+62	Bisa dibilang Mini LED jaman sekarang udah mepet ke OLED sih yang kelasnya lebih mahal.
+63	mepet ke OLED sih yang kelasnya lebih mahal.
+64	mepet ke OLED sih yang kelasnya lebih mahal.
+65	mepet ke OLED sih yang kelasnya lebih mahal.
+66	mepet ke OLED sih yang kelasnya lebih mahal.
+67	mepet ke OLED sih yang kelasnya lebih mahal. Tapi TV Mini LED bisa lebih terang dan bebas resiko burn-in.
+68	mepet ke OLED sih yang kelasnya lebih mahal. Tapi TV Mini LED bisa lebih terang dan bebas resiko burn-in.
+69	Tapi TV Mini LED bisa lebih terang dan bebas resiko burn-in.
+70	Tapi TV Mini LED bisa lebih terang dan bebas resiko burn-in.
+71	Tapi TV Mini LED bisa lebih terang dan bebas resiko burn-in.
+72	Tapi TV Mini LED bisa lebih terang dan bebas resiko burn-in.
+73	Tapi TV Mini LED bisa lebih terang dan bebas resiko burn-in.
+74	Tapi TV Mini LED bisa lebih terang dan bebas resiko burn-in.
+75	Tapi TV Mini LED bisa lebih terang dan bebas resiko burn-in. Mantap!
+76	Tapi TV Mini LED bisa lebih terang dan bebas resiko burn-in. Mantap! Warnanya juga lebih hidup ya.
+77	Mantap! Warnanya juga lebih hidup ya.
+78	Warnanya juga lebih hidup ya.
+79	Warnanya juga lebih hidup ya.
+80	Warnanya juga lebih hidup ya. Di Hisense U6Q udah pake lapisan Quantum Dot juga.
+81	Warnanya juga lebih hidup ya. Di Hisense U6Q udah pake lapisan Quantum Dot juga.
+82	Di Hisense U6Q udah pake lapisan Quantum Dot juga.
+83	Di Hisense U6Q udah pake lapisan Quantum Dot juga.
+84	Di Hisense U6Q udah pake lapisan Quantum Dot juga.
+85	Di Hisense U6Q udah pake lapisan Quantum Dot juga.
+86	Di Hisense U6Q udah pake lapisan Quantum Dot juga.
+87	Di Hisense U6Q udah pake lapisan Quantum Dot juga. Biar warnanya lebih cerah dan color gamutnya jadi luas
+88	Di Hisense U6Q udah pake lapisan Quantum Dot juga. Biar warnanya lebih cerah dan color gamutnya jadi luas
+89	Biar warnanya lebih cerah dan color gamutnya jadi luas
+90	Biar warnanya lebih cerah dan color gamutnya jadi luas
+91	Biar warnanya lebih cerah dan color gamutnya jadi luas
+92	Biar warnanya lebih cerah dan color gamutnya jadi luas
+93	Biar warnanya lebih cerah dan color gamutnya jadi luas
+94	Biar warnanya lebih cerah dan color gamutnya jadi luas
+95	Biar warnanya lebih cerah dan color gamutnya jadi luas di 100% sRGB dan 93% P3.
+96	Biar warnanya lebih cerah dan color gamutnya jadi luas di 100% sRGB dan 93% P3.
+97	di 100% sRGB dan 93% P3.
+98	di 100% sRGB dan 93% P3.
+99	di 100% sRGB dan 93% P3.
+100	di 100% sRGB dan 93% P3.
+101	di 100% sRGB dan 93% P3.
+102	di 100% sRGB dan 93% P3. Buat nonton film? Nikmat!
+103	Buat nonton film? Nikmat!
+104	Buat nonton film? Nikmat!
+105	Buat nonton film? Nikmat! Banyak fitur pendukung kayak Dolby Vision atau Filmmaker Mode
+106	Buat nonton film? Nikmat! Banyak fitur pendukung kayak Dolby Vision atau Filmmaker Mode
+107	Banyak fitur pendukung kayak Dolby Vision atau Filmmaker Mode
+108	Banyak fitur pendukung kayak Dolby Vision atau Filmmaker Mode
+109	Banyak fitur pendukung kayak Dolby Vision atau Filmmaker Mode
+110	Banyak fitur pendukung kayak Dolby Vision atau Filmmaker Mode
+111	Banyak fitur pendukung kayak Dolby Vision atau Filmmaker Mode
+112	Banyak fitur pendukung kayak Dolby Vision atau Filmmaker Mode biar warna filmnya tuh
+113	Banyak fitur pendukung kayak Dolby Vision atau Filmmaker Mode biar warna filmnya tuh
+114	biar warna filmnya tuh semirip mungkin kayak di bioskop.
+115	biar warna filmnya tuh semirip mungkin kayak di bioskop.
+116	semirip mungkin kayak di bioskop.
+117	semirip mungkin kayak di bioskop.
+118	semirip mungkin kayak di bioskop.
+119	semirip mungkin kayak di bioskop. TV-nya juga punya AI LED sensor
+120	TV-nya juga punya AI LED sensor
+121	TV-nya juga punya AI LED sensor
+122	TV-nya juga punya AI LED sensor
+123	TV-nya juga punya AI LED sensor yang bisa sesuaiin kecerahan gambar sama suasana sekitar.
+124	TV-nya juga punya AI LED sensor yang bisa sesuaiin kecerahan gambar sama suasana sekitar.
+125	yang bisa sesuaiin kecerahan gambar sama suasana sekitar.
+126	yang bisa sesuaiin kecerahan gambar sama suasana sekitar.
+127	yang bisa sesuaiin kecerahan gambar sama suasana sekitar.
+128	yang bisa sesuaiin kecerahan gambar sama suasana sekitar.
+129	yang bisa sesuaiin kecerahan gambar sama suasana sekitar.
+130	yang bisa sesuaiin kecerahan gambar sama suasana sekitar. Nih contohnya, langsung keliatan kan?
+131	yang bisa sesuaiin kecerahan gambar sama suasana sekitar. Nih contohnya, langsung keliatan kan?
+132	Nih contohnya, langsung keliatan kan?
+133	Nih contohnya, langsung keliatan kan?
+134	Nih contohnya, langsung keliatan kan?
+135	Nih contohnya, langsung keliatan kan? Pas lampunya dimatiin, TV-nya ikut ngeredup biar mata lebih nyaman.
+136	Nih contohnya, langsung keliatan kan? Pas lampunya dimatiin, TV-nya ikut ngeredup biar mata lebih nyaman.
+137	Pas lampunya dimatiin, TV-nya ikut ngeredup biar mata lebih nyaman.
+138	Pas lampunya dimatiin, TV-nya ikut ngeredup biar mata lebih nyaman.
+139	Pas lampunya dimatiin, TV-nya ikut ngeredup biar mata lebih nyaman.
+140	Pas lampunya dimatiin, TV-nya ikut ngeredup biar mata lebih nyaman.
+141	Pas lampunya dimatiin, TV-nya ikut ngeredup biar mata lebih nyaman.
+142	Pas lampunya dimatiin, TV-nya ikut ngeredup biar mata lebih nyaman.
+143	Pas lampunya dimatiin, TV-nya ikut ngeredup biar mata lebih nyaman. Dan sebaliknya, pas lampu dihidupin, TV-nya juga jadi lebih cerah.
+144	Pas lampunya dimatiin, TV-nya ikut ngeredup biar mata lebih nyaman. Dan sebaliknya, pas lampu dihidupin, TV-nya juga jadi lebih cerah.
+145	Dan sebaliknya, pas lampu dihidupin, TV-nya juga jadi lebih cerah.
+146	Dan sebaliknya, pas lampu dihidupin, TV-nya juga jadi lebih cerah.
+147	Dan sebaliknya, pas lampu dihidupin, TV-nya juga jadi lebih cerah.
+148	Dan sebaliknya, pas lampu dihidupin, TV-nya juga jadi lebih cerah.
+149	Dan sebaliknya, pas lampu dihidupin, TV-nya juga jadi lebih cerah.
+150	Dan sebaliknya, pas lampu dihidupin, TV-nya juga jadi lebih cerah.
+151	Dan sebaliknya, pas lampu dihidupin, TV-nya juga jadi lebih cerah. Ada juga built-in subwoofer yang desainnya gede gini di belakang,
+152	Dan sebaliknya, pas lampu dihidupin, TV-nya juga jadi lebih cerah. Ada juga built-in subwoofer yang desainnya gede gini di belakang,
+153	Ada juga built-in subwoofer yang desainnya gede gini di belakang,
+154	Ada juga built-in subwoofer yang desainnya gede gini di belakang,
+155	Ada juga built-in subwoofer yang desainnya gede gini di belakang,
+156	Ada juga built-in subwoofer yang desainnya gede gini di belakang,
+157	Ada juga built-in subwoofer yang desainnya gede gini di belakang,
+158	Ada juga built-in subwoofer yang desainnya gede gini di belakang, bikin sistem audio TV-nya jadi 2.1.
+159	Ada juga built-in subwoofer yang desainnya gede gini di belakang, bikin sistem audio TV-nya jadi 2.1.
+160	bikin sistem audio TV-nya jadi 2.1.
+161	bikin sistem audio TV-nya jadi 2.1.
+162	bikin sistem audio TV-nya jadi 2.1.
+163	bikin sistem audio TV-nya jadi 2.1. Support Dolby Atmos juga.
+164	bikin sistem audio TV-nya jadi 2.1. Support Dolby Atmos juga.
+165	Support Dolby Atmos juga.
+166	Support Dolby Atmos juga.
+167	Support Dolby Atmos juga. Dan kalau anda doyan nge-game di TV,
+168	Dan kalau anda doyan nge-game di TV,
+169	Dan kalau anda doyan nge-game di TV,
+170	Dan kalau anda doyan nge-game di TV,
+171	Dan kalau anda doyan nge-game di TV,
+172	Dan kalau anda doyan nge-game di TV,
+173	[NO_SPEECH]
+174	U6Q ini juga tinggi,
+175	U6Q ini juga tinggi,
+176	U6Q ini juga tinggi,
+177	U6Q ini juga tinggi, up to 4K 144Hz.
+178	U6Q ini juga tinggi, up to 4K 144Hz.
+179	up to 4K 144Hz.
+180	up to 4K 144Hz.
+181	up to 4K 144Hz.
+182	up to 4K 144Hz. Kalau PC anda kuat ya, bisa langsung gas tuh.
+183	up to 4K 144Hz. Kalau PC anda kuat ya, bisa langsung gas tuh.
+184	Kalau PC anda kuat ya, bisa langsung gas tuh.
+185	Kalau PC anda kuat ya, bisa langsung gas tuh.
+186	Kalau PC anda kuat ya, bisa langsung gas tuh.
+187	Kalau PC anda kuat ya, bisa langsung gas tuh.
+188	Kalau PC anda kuat ya, bisa langsung gas tuh. Atau kalau colok ke konsol, macem PS5,
+189	Kalau PC anda kuat ya, bisa langsung gas tuh. Atau kalau colok ke konsol, macem PS5,
+190	Atau kalau colok ke konsol, macem PS5,
+191	Atau kalau colok ke konsol, macem PS5,
+192	Atau kalau colok ke konsol, macem PS5,
+193	Atau kalau colok ke konsol, macem PS5, bisa support refresh rate sampe 120Hz juga.
+194	Atau kalau colok ke konsol, macem PS5, bisa support refresh rate sampe 120Hz juga.
+195	bisa support refresh rate sampe 120Hz juga.
+196	bisa support refresh rate sampe 120Hz juga.
+197	bisa support refresh rate sampe 120Hz juga.
+198	bisa support refresh rate sampe 120Hz juga.
+199	bisa support refresh rate sampe 120Hz juga. Ada fitur Game Bar buat ngasih info refresh rate,
+200	bisa support refresh rate sampe 120Hz juga. Ada fitur Game Bar buat ngasih info refresh rate,
+201	Ada fitur Game Bar buat ngasih info refresh rate,
+202	Ada fitur Game Bar buat ngasih info refresh rate,
+203	Ada fitur Game Bar buat ngasih info refresh rate,
+204	Ada fitur Game Bar buat ngasih info refresh rate,
+205	Ada fitur Game Bar buat ngasih info refresh rate, mode gambar, AMD FreeSync, mantep.
+206	Ada fitur Game Bar buat ngasih info refresh rate, mode gambar, AMD FreeSync, mantep.
+207	mode gambar, AMD FreeSync, mantep.
+208	mode gambar, AMD FreeSync, mantep.
+209	mode gambar, AMD FreeSync, mantep.
+210	mode gambar, AMD FreeSync, mantep. Ini TV loh.
+211	mode gambar, AMD FreeSync, mantep. Ini TV loh.
+212	Ini TV loh. Jadi kalau anda butuh TV yang panelnya bagus,
+213	Ini TV loh. Jadi kalau anda butuh TV yang panelnya bagus,
+214	Jadi kalau anda butuh TV yang panelnya bagus,
+215	Jadi kalau anda butuh TV yang panelnya bagus,
+216	Jadi kalau anda butuh TV yang panelnya bagus,
+217	Jadi kalau anda butuh TV yang panelnya bagus, di harga yang masuk akal,
+218	Jadi kalau anda butuh TV yang panelnya bagus, di harga yang masuk akal,
+219	di harga yang masuk akal,
+220	di harga yang masuk akal, fiturnya juga asik buat nonton sampai main game,
+221	di harga yang masuk akal, fiturnya juga asik buat nonton sampai main game,
+222	fiturnya juga asik buat nonton sampai main game,
+223	fiturnya juga asik buat nonton sampai main game,
+224	fiturnya juga asik buat nonton sampai main game,
+225	fiturnya juga asik buat nonton sampai main game,
+226	fiturnya juga asik buat nonton sampai main game,
+227	fiturnya juga asik buat nonton sampai main game, Hisense Mini LED AITV U6Q ini,
+228	fiturnya juga asik buat nonton sampai main game, Hisense Mini LED AITV U6Q ini,
+229	Hisense Mini LED AITV U6Q ini,
+230	Hisense Mini LED AITV U6Q ini,
+231	Hisense Mini LED AITV U6Q ini,
+232	Hisense Mini LED AITV U6Q ini,
+233	Hisense Mini LED AITV U6Q ini, salah satu yang rekomen.
+234	Hisense Mini LED AITV U6Q ini, salah satu yang rekomen.
+235	salah satu yang rekomen.
+236	salah satu yang rekomen. Ada ukuran 5-5 inci, 6-5 inci, 7-5,
+237	salah satu yang rekomen. Ada ukuran 5-5 inci, 6-5 inci, 7-5,
+238	Ada ukuran 5-5 inci, 6-5 inci, 7-5,
+239	Ada ukuran 5-5 inci, 6-5 inci, 7-5,
+240	Ada ukuran 5-5 inci, 6-5 inci, 7-5,
+241	Ada ukuran 5-5 inci, 6-5 inci, 7-5, atau 85 inci kayak yang kita bahas ini.
+242	Ada ukuran 5-5 inci, 6-5 inci, 7-5, atau 85 inci kayak yang kita bahas ini.
+243	atau 85 inci kayak yang kita bahas ini.
+244	atau 85 inci kayak yang kita bahas ini.
+245	atau 85 inci kayak yang kita bahas ini.
+246	atau 85 inci kayak yang kita bahas ini.
+247	atau 85 inci kayak yang kita bahas ini. Cakep.
+248	atau 85 inci kayak yang kita bahas ini. Cakep.
+249	Cakep.
+250	[NO_SPEECH]

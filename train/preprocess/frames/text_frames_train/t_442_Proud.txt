@@ -1,0 +1,118 @@
+0	ternyata gini caranya buat tahu berat badan kita itu udah ideal atau belum
+1	ternyata gini caranya buat tahu berat badan kita itu udah ideal atau belum
+2	ternyata gini caranya buat tahu berat badan kita itu udah ideal atau belum
+3	ternyata gini caranya buat tahu berat badan kita itu udah ideal atau belum
+4	ternyata gini caranya buat tahu berat badan kita itu udah ideal atau belum
+5	ternyata gini caranya buat tahu berat badan kita itu udah ideal atau belum kalau kalian mau tahu juga, tonton video ini abis itu nanti, cobain juga ya
+6	ternyata gini caranya buat tahu berat badan kita itu udah ideal atau belum kalau kalian mau tahu juga, tonton video ini abis itu nanti, cobain juga ya
+7	kalau kalian mau tahu juga, tonton video ini abis itu nanti, cobain juga ya
+8	kalau kalian mau tahu juga, tonton video ini abis itu nanti, cobain juga ya
+9	kalau kalian mau tahu juga, tonton video ini abis itu nanti, cobain juga ya
+10	kalau kalian mau tahu juga, tonton video ini abis itu nanti, cobain juga ya
+11	kalau kalian mau tahu juga, tonton video ini abis itu nanti, cobain juga ya pertama kalian bisa buka website tdicalculator.net
+12	kalau kalian mau tahu juga, tonton video ini abis itu nanti, cobain juga ya pertama kalian bisa buka website tdicalculator.net
+13	pertama kalian bisa buka website tdicalculator.net
+14	pertama kalian bisa buka website tdicalculator.net
+15	pertama kalian bisa buka website tdicalculator.net
+16	pertama kalian bisa buka website tdicalculator.net
+17	pertama kalian bisa buka website tdicalculator.net abis itu tinggal isi aja tuh data-datanya
+18	pertama kalian bisa buka website tdicalculator.net abis itu tinggal isi aja tuh data-datanya
+19	abis itu tinggal isi aja tuh data-datanya
+20	abis itu tinggal isi aja tuh data-datanya
+21	abis itu tinggal isi aja tuh data-datanya misal aku nih, usia 28 tahun
+22	abis itu tinggal isi aja tuh data-datanya misal aku nih, usia 28 tahun
+23	misal aku nih, usia 28 tahun
+24	misal aku nih, usia 28 tahun
+25	misal aku nih, usia 28 tahun terus berat badan 83 kg
+26	misal aku nih, usia 28 tahun terus berat badan 83 kg
+27	terus berat badan 83 kg
+28	terus berat badan 83 kg tinggi badanku 179 cm
+29	terus berat badan 83 kg tinggi badanku 179 cm
+30	tinggi badanku 179 cm
+31	tinggi badanku 179 cm
+32	tinggi badanku 179 cm dan activity-nya itu di moderate exercise
+33	tinggi badanku 179 cm dan activity-nya itu di moderate exercise
+34	dan activity-nya itu di moderate exercise
+35	dan activity-nya itu di moderate exercise
+36	dan activity-nya itu di moderate exercise
+37	dan activity-nya itu di moderate exercise nah buat body fat ini opsional, bisa diisi atau enggak
+38	dan activity-nya itu di moderate exercise nah buat body fat ini opsional, bisa diisi atau enggak
+39	nah buat body fat ini opsional, bisa diisi atau enggak
+40	nah buat body fat ini opsional, bisa diisi atau enggak
+41	nah buat body fat ini opsional, bisa diisi atau enggak tapi kalau kalian tahu, diisi aja ya
+42	nah buat body fat ini opsional, bisa diisi atau enggak tapi kalau kalian tahu, diisi aja ya
+43	tapi kalau kalian tahu, diisi aja ya
+44	tapi kalau kalian tahu, diisi aja ya terus tinggal pencet calculate di bawah ini nih
+45	tapi kalau kalian tahu, diisi aja ya terus tinggal pencet calculate di bawah ini nih
+46	terus tinggal pencet calculate di bawah ini nih
+47	terus tinggal pencet calculate di bawah ini nih
+48	terus tinggal pencet calculate di bawah ini nih dan boom, keluar tuh hasilnya
+49	terus tinggal pencet calculate di bawah ini nih dan boom, keluar tuh hasilnya
+50	dan boom, keluar tuh hasilnya
+51	dan boom, keluar tuh hasilnya nah di bagian ideal weight ini, kalian bisa tahu berat badan ideal kalian itu
+52	dan boom, keluar tuh hasilnya nah di bagian ideal weight ini, kalian bisa tahu berat badan ideal kalian itu
+53	nah di bagian ideal weight ini, kalian bisa tahu berat badan ideal kalian itu
+54	nah di bagian ideal weight ini, kalian bisa tahu berat badan ideal kalian itu
+55	nah di bagian ideal weight ini, kalian bisa tahu berat badan ideal kalian itu
+56	nah di bagian ideal weight ini, kalian bisa tahu berat badan ideal kalian itu
+57	nah di bagian ideal weight ini, kalian bisa tahu berat badan ideal kalian itu
+58	nah di bagian ideal weight ini, kalian bisa tahu berat badan ideal kalian itu kisarannya berapa
+59	nah di bagian ideal weight ini, kalian bisa tahu berat badan ideal kalian itu kisarannya berapa
+60	kisarannya berapa kalau di aku, berat badannya itu di 71-76 kg
+61	kisarannya berapa kalau di aku, berat badannya itu di 71-76 kg
+62	kalau di aku, berat badannya itu di 71-76 kg
+63	kalau di aku, berat badannya itu di 71-76 kg
+64	kalau di aku, berat badannya itu di 71-76 kg
+65	kalau di aku, berat badannya itu di 71-76 kg
+66	kalau di aku, berat badannya itu di 71-76 kg tapi kalau mau bentuk otot mendekati potensi maksimalnya
+67	kalau di aku, berat badannya itu di 71-76 kg tapi kalau mau bentuk otot mendekati potensi maksimalnya
+68	tapi kalau mau bentuk otot mendekati potensi maksimalnya
+69	tapi kalau mau bentuk otot mendekati potensi maksimalnya
+70	tapi kalau mau bentuk otot mendekati potensi maksimalnya
+71	tapi kalau mau bentuk otot mendekati potensi maksimalnya
+72	tapi kalau mau bentuk otot mendekati potensi maksimalnya berat badanku itu bisa di 79-87 kg
+73	tapi kalau mau bentuk otot mendekati potensi maksimalnya berat badanku itu bisa di 79-87 kg
+74	tapi kalau mau bentuk otot mendekati potensi maksimalnya berat badanku itu bisa di 79-87 kg
+75	berat badanku itu bisa di 79-87 kg
+76	berat badanku itu bisa di 79-87 kg
+77	berat badanku itu bisa di 79-87 kg
+78	berat badanku itu bisa di 79-87 kg tergantung body fat-nya mau berapa persen
+79	berat badanku itu bisa di 79-87 kg tergantung body fat-nya mau berapa persen
+80	tergantung body fat-nya mau berapa persen
+81	tergantung body fat-nya mau berapa persen
+82	tergantung body fat-nya mau berapa persen jadi yuk kalian buka website tdicalculator.net ini
+83	tergantung body fat-nya mau berapa persen jadi yuk kalian buka website tdicalculator.net ini
+84	tergantung body fat-nya mau berapa persen jadi yuk kalian buka website tdicalculator.net ini
+85	jadi yuk kalian buka website tdicalculator.net ini
+86	jadi yuk kalian buka website tdicalculator.net ini
+87	jadi yuk kalian buka website tdicalculator.net ini
+88	jadi yuk kalian buka website tdicalculator.net ini abis itu isi datanya dan komen di bawah ya
+89	jadi yuk kalian buka website tdicalculator.net ini abis itu isi datanya dan komen di bawah ya
+90	abis itu isi datanya dan komen di bawah ya
+91	abis itu isi datanya dan komen di bawah ya
+92	abis itu isi datanya dan komen di bawah ya berat badan kalian sekarang berapa dan idealnya itu ada di berapa
+93	abis itu isi datanya dan komen di bawah ya berat badan kalian sekarang berapa dan idealnya itu ada di berapa
+94	berat badan kalian sekarang berapa dan idealnya itu ada di berapa
+95	berat badan kalian sekarang berapa dan idealnya itu ada di berapa
+96	berat badan kalian sekarang berapa dan idealnya itu ada di berapa
+97	berat badan kalian sekarang berapa dan idealnya itu ada di berapa udah sampai ideal atau belum
+98	berat badan kalian sekarang berapa dan idealnya itu ada di berapa udah sampai ideal atau belum
+99	berat badan kalian sekarang berapa dan idealnya itu ada di berapa udah sampai ideal atau belum
+100	udah sampai ideal atau belum share juga ke temen, sodara, bapak, ibu, om, tante
+101	udah sampai ideal atau belum share juga ke temen, sodara, bapak, ibu, om, tante
+102	share juga ke temen, sodara, bapak, ibu, om, tante
+103	share juga ke temen, sodara, bapak, ibu, om, tante
+104	share juga ke temen, sodara, bapak, ibu, om, tante
+105	share juga ke temen, sodara, bapak, ibu, om, tante
+106	share juga ke temen, sodara, bapak, ibu, om, tante biar mereka juga cobain buka website ini
+107	share juga ke temen, sodara, bapak, ibu, om, tante biar mereka juga cobain buka website ini
+108	biar mereka juga cobain buka website ini
+109	biar mereka juga cobain buka website ini
+110	biar mereka juga cobain buka website ini dan bisa tahu berat badannya itu udah ideal atau belum ya
+111	biar mereka juga cobain buka website ini dan bisa tahu berat badannya itu udah ideal atau belum ya
+112	dan bisa tahu berat badannya itu udah ideal atau belum ya
+113	dan bisa tahu berat badannya itu udah ideal atau belum ya
+114	dan bisa tahu berat badannya itu udah ideal atau belum ya
+115	dan bisa tahu berat badannya itu udah ideal atau belum ya stay hard
+116	dan bisa tahu berat badannya itu udah ideal atau belum ya stay hard atau
+117	stay hard atau

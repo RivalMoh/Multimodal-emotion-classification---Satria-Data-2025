@@ -1,0 +1,143 @@
+0	Ini adalah retorik pebisnis dan pekerja profesional
+1	Ini adalah retorik pebisnis dan pekerja profesional
+2	Ini adalah retorik pebisnis dan pekerja profesional
+3	Ini adalah retorik pebisnis dan pekerja profesional Ya, ini adalah Lenovo Yoga Pro 7i Aura Edition
+4	Ini adalah retorik pebisnis dan pekerja profesional Ya, ini adalah Lenovo Yoga Pro 7i Aura Edition
+5	Ya, ini adalah Lenovo Yoga Pro 7i Aura Edition
+6	Ya, ini adalah Lenovo Yoga Pro 7i Aura Edition
+7	Ya, ini adalah Lenovo Yoga Pro 7i Aura Edition
+8	Ya, ini adalah Lenovo Yoga Pro 7i Aura Edition
+9	Ya, ini adalah Lenovo Yoga Pro 7i Aura Edition Yoga Pro ini dihadirkan untuk pengguna yang membutuhkan performa tinggi
+10	Ya, ini adalah Lenovo Yoga Pro 7i Aura Edition Yoga Pro ini dihadirkan untuk pengguna yang membutuhkan performa tinggi
+11	Ya, ini adalah Lenovo Yoga Pro 7i Aura Edition Yoga Pro ini dihadirkan untuk pengguna yang membutuhkan performa tinggi
+12	Yoga Pro ini dihadirkan untuk pengguna yang membutuhkan performa tinggi
+13	Yoga Pro ini dihadirkan untuk pengguna yang membutuhkan performa tinggi
+14	Yoga Pro ini dihadirkan untuk pengguna yang membutuhkan performa tinggi
+15	Yoga Pro ini dihadirkan untuk pengguna yang membutuhkan performa tinggi
+16	Yoga Pro ini dihadirkan untuk pengguna yang membutuhkan performa tinggi Dengan port yang banyak untuk produktivitasnya
+17	Yoga Pro ini dihadirkan untuk pengguna yang membutuhkan performa tinggi Dengan port yang banyak untuk produktivitasnya
+18	Dengan port yang banyak untuk produktivitasnya
+19	Dengan port yang banyak untuk produktivitasnya
+20	Dengan port yang banyak untuk produktivitasnya
+21	Dengan port yang banyak untuk produktivitasnya Performanya super kencang, pakai prosesor Intel Core Ultra 9285H
+22	Dengan port yang banyak untuk produktivitasnya Performanya super kencang, pakai prosesor Intel Core Ultra 9285H
+23	Performanya super kencang, pakai prosesor Intel Core Ultra 9285H
+24	Performanya super kencang, pakai prosesor Intel Core Ultra 9285H
+25	Performanya super kencang, pakai prosesor Intel Core Ultra 9285H
+26	Performanya super kencang, pakai prosesor Intel Core Ultra 9285H
+27	Performanya super kencang, pakai prosesor Intel Core Ultra 9285H
+28	Performanya super kencang, pakai prosesor Intel Core Ultra 9285H
+29	Performanya super kencang, pakai prosesor Intel Core Ultra 9285H Yang punya 16 core, jadi nyaman banget dipakai buat multitasking
+30	Performanya super kencang, pakai prosesor Intel Core Ultra 9285H Yang punya 16 core, jadi nyaman banget dipakai buat multitasking
+31	Yang punya 16 core, jadi nyaman banget dipakai buat multitasking
+32	Yang punya 16 core, jadi nyaman banget dipakai buat multitasking
+33	Yang punya 16 core, jadi nyaman banget dipakai buat multitasking
+34	Yang punya 16 core, jadi nyaman banget dipakai buat multitasking
+35	Yang punya 16 core, jadi nyaman banget dipakai buat multitasking RAM-nya langsung 32GB, storage 1TB, super lega
+36	Yang punya 16 core, jadi nyaman banget dipakai buat multitasking RAM-nya langsung 32GB, storage 1TB, super lega
+37	RAM-nya langsung 32GB, storage 1TB, super lega
+38	RAM-nya langsung 32GB, storage 1TB, super lega
+39	RAM-nya langsung 32GB, storage 1TB, super lega
+40	RAM-nya langsung 32GB, storage 1TB, super lega
+41	RAM-nya langsung 32GB, storage 1TB, super lega He, mau main game di sini? Wukong juga masih bisa nih
+42	RAM-nya langsung 32GB, storage 1TB, super lega He, mau main game di sini? Wukong juga masih bisa nih
+43	He, mau main game di sini? Wukong juga masih bisa nih
+44	He, mau main game di sini? Wukong juga masih bisa nih
+45	He, mau main game di sini? Wukong juga masih bisa nih
+46	He, mau main game di sini? Wukong juga masih bisa nih Editing foto dan video? Lancar, nggak ada masalah
+47	He, mau main game di sini? Wukong juga masih bisa nih Editing foto dan video? Lancar, nggak ada masalah
+48	Editing foto dan video? Lancar, nggak ada masalah
+49	Editing foto dan video? Lancar, nggak ada masalah
+50	Editing foto dan video? Lancar, nggak ada masalah
+51	Editing foto dan video? Lancar, nggak ada masalah Mau 3D rendering pakai Blender juga masih bisa di sini
+52	Editing foto dan video? Lancar, nggak ada masalah Mau 3D rendering pakai Blender juga masih bisa di sini
+53	Mau 3D rendering pakai Blender juga masih bisa di sini
+54	Mau 3D rendering pakai Blender juga masih bisa di sini
+55	Mau 3D rendering pakai Blender juga masih bisa di sini
+56	Mau 3D rendering pakai Blender juga masih bisa di sini
+57	Mau 3D rendering pakai Blender juga masih bisa di sini Layarnya juga cakep, karena udah pakai Lenovo PureSight Pro OLED
+58	Mau 3D rendering pakai Blender juga masih bisa di sini Layarnya juga cakep, karena udah pakai Lenovo PureSight Pro OLED
+59	Layarnya juga cakep, karena udah pakai Lenovo PureSight Pro OLED
+60	Layarnya juga cakep, karena udah pakai Lenovo PureSight Pro OLED
+61	Layarnya juga cakep, karena udah pakai Lenovo PureSight Pro OLED
+62	Layarnya juga cakep, karena udah pakai Lenovo PureSight Pro OLED Resolusi 3K, 120Hz, 100% DCI-P3, dan tingkat kecerahan hingga 1000 nits
+63	Layarnya juga cakep, karena udah pakai Lenovo PureSight Pro OLED Resolusi 3K, 120Hz, 100% DCI-P3, dan tingkat kecerahan hingga 1000 nits
+64	Resolusi 3K, 120Hz, 100% DCI-P3, dan tingkat kecerahan hingga 1000 nits
+65	Resolusi 3K, 120Hz, 100% DCI-P3, dan tingkat kecerahan hingga 1000 nits
+66	Resolusi 3K, 120Hz, 100% DCI-P3, dan tingkat kecerahan hingga 1000 nits
+67	Resolusi 3K, 120Hz, 100% DCI-P3, dan tingkat kecerahan hingga 1000 nits
+68	Resolusi 3K, 120Hz, 100% DCI-P3, dan tingkat kecerahan hingga 1000 nits
+69	Resolusi 3K, 120Hz, 100% DCI-P3, dan tingkat kecerahan hingga 1000 nits
+70	Resolusi 3K, 120Hz, 100% DCI-P3, dan tingkat kecerahan hingga 1000 nits
+71	Resolusi 3K, 120Hz, 100% DCI-P3, dan tingkat kecerahan hingga 1000 nits
+72	Resolusi 3K, 120Hz, 100% DCI-P3, dan tingkat kecerahan hingga 1000 nits
+73	Resolusi 3K, 120Hz, 100% DCI-P3, dan tingkat kecerahan hingga 1000 nits Masih kurang tenang, karena yang satu ini bisa pakai 3 layar tambahan
+74	Resolusi 3K, 120Hz, 100% DCI-P3, dan tingkat kecerahan hingga 1000 nits Masih kurang tenang, karena yang satu ini bisa pakai 3 layar tambahan
+75	Masih kurang tenang, karena yang satu ini bisa pakai 3 layar tambahan
+76	Masih kurang tenang, karena yang satu ini bisa pakai 3 layar tambahan
+77	Masih kurang tenang, karena yang satu ini bisa pakai 3 layar tambahan
+78	Masih kurang tenang, karena yang satu ini bisa pakai 3 layar tambahan
+79	Masih kurang tenang, karena yang satu ini bisa pakai 3 layar tambahan
+80	Masih kurang tenang, karena yang satu ini bisa pakai 3 layar tambahan Jadi total 4 layar, buat kerja dan multitasking jadi makin produktif
+81	Masih kurang tenang, karena yang satu ini bisa pakai 3 layar tambahan Jadi total 4 layar, buat kerja dan multitasking jadi makin produktif
+82	Jadi total 4 layar, buat kerja dan multitasking jadi makin produktif
+83	Jadi total 4 layar, buat kerja dan multitasking jadi makin produktif
+84	Jadi total 4 layar, buat kerja dan multitasking jadi makin produktif
+85	Jadi total 4 layar, buat kerja dan multitasking jadi makin produktif
+86	Jadi total 4 layar, buat kerja dan multitasking jadi makin produktif
+87	Jadi total 4 layar, buat kerja dan multitasking jadi makin produktif
+88	Jadi total 4 layar, buat kerja dan multitasking jadi makin produktif Speaker-nya juga keren banget, kelas premium dengan 4 buah speaker
+89	Jadi total 4 layar, buat kerja dan multitasking jadi makin produktif Speaker-nya juga keren banget, kelas premium dengan 4 buah speaker
+90	Speaker-nya juga keren banget, kelas premium dengan 4 buah speaker
+91	Speaker-nya juga keren banget, kelas premium dengan 4 buah speaker
+92	Speaker-nya juga keren banget, kelas premium dengan 4 buah speaker
+93	Speaker-nya juga keren banget, kelas premium dengan 4 buah speaker
+94	Speaker-nya juga keren banget, kelas premium dengan 4 buah speaker
+95	Speaker-nya juga keren banget, kelas premium dengan 4 buah speaker Baterainya udah 84Wh, dan punya fitur Rapid Charge di sini
+96	Speaker-nya juga keren banget, kelas premium dengan 4 buah speaker Baterainya udah 84Wh, dan punya fitur Rapid Charge di sini
+97	Baterainya udah 84Wh, dan punya fitur Rapid Charge di sini
+98	Baterainya udah 84Wh, dan punya fitur Rapid Charge di sini
+99	Baterainya udah 84Wh, dan punya fitur Rapid Charge di sini
+100	Baterainya udah 84Wh, dan punya fitur Rapid Charge di sini
+101	Baterainya udah 84Wh, dan punya fitur Rapid Charge di sini
+102	Baterainya udah 84Wh, dan punya fitur Rapid Charge di sini Lenovo bahkan ngasih langganan Adobe Creative Cloud gratis selama 2 bulan
+103	Baterainya udah 84Wh, dan punya fitur Rapid Charge di sini Lenovo bahkan ngasih langganan Adobe Creative Cloud gratis selama 2 bulan
+104	Lenovo bahkan ngasih langganan Adobe Creative Cloud gratis selama 2 bulan
+105	Lenovo bahkan ngasih langganan Adobe Creative Cloud gratis selama 2 bulan
+106	Lenovo bahkan ngasih langganan Adobe Creative Cloud gratis selama 2 bulan
+107	Lenovo bahkan ngasih langganan Adobe Creative Cloud gratis selama 2 bulan
+108	Lenovo bahkan ngasih langganan Adobe Creative Cloud gratis selama 2 bulan
+109	Lenovo bahkan ngasih langganan Adobe Creative Cloud gratis selama 2 bulan Sama seperti laptop Yoga lainnya
+110	Lenovo bahkan ngasih langganan Adobe Creative Cloud gratis selama 2 bulan Sama seperti laptop Yoga lainnya
+111	Sama seperti laptop Yoga lainnya
+112	Sama seperti laptop Yoga lainnya
+113	Sama seperti laptop Yoga lainnya
+114	Sama seperti laptop Yoga lainnya Garansi sampai 3 tahun, tapi ini juga bisa di-play
+115	Sama seperti laptop Yoga lainnya Garansi sampai 3 tahun, tapi ini juga bisa di-play
+116	Garansi sampai 3 tahun, tapi ini juga bisa di-play
+117	Garansi sampai 3 tahun, tapi ini juga bisa di-play Dengan ADP yang bisa di-clain berkali-kali
+118	Garansi sampai 3 tahun, tapi ini juga bisa di-play Dengan ADP yang bisa di-clain berkali-kali
+119	Dengan ADP yang bisa di-clain berkali-kali
+120	Dengan ADP yang bisa di-clain berkali-kali
+121	Dengan ADP yang bisa di-clain berkali-kali Laptop ini bisa dibeli di Lenovo Official dan Autorestore
+122	Dengan ADP yang bisa di-clain berkali-kali Laptop ini bisa dibeli di Lenovo Official dan Autorestore
+123	Laptop ini bisa dibeli di Lenovo Official dan Autorestore
+124	Laptop ini bisa dibeli di Lenovo Official dan Autorestore
+125	Laptop ini bisa dibeli di Lenovo Official dan Autorestore
+126	Laptop ini bisa dibeli di Lenovo Official dan Autorestore
+127	Laptop ini bisa dibeli di Lenovo Official dan Autorestore Melalui online marketplace atau langsung ke toko offline-nya di seluruh Indonesia
+128	Laptop ini bisa dibeli di Lenovo Official dan Autorestore Melalui online marketplace atau langsung ke toko offline-nya di seluruh Indonesia
+129	Melalui online marketplace atau langsung ke toko offline-nya di seluruh Indonesia
+130	Melalui online marketplace atau langsung ke toko offline-nya di seluruh Indonesia
+131	Melalui online marketplace atau langsung ke toko offline-nya di seluruh Indonesia
+132	Melalui online marketplace atau langsung ke toko offline-nya di seluruh Indonesia
+133	Melalui online marketplace atau langsung ke toko offline-nya di seluruh Indonesia
+134	Melalui online marketplace atau langsung ke toko offline-nya di seluruh Indonesia
+135	Melalui online marketplace atau langsung ke toko offline-nya di seluruh Indonesia
+136	[NO_SPEECH]
+137	[NO_SPEECH]
+138	[NO_SPEECH]
+139	[NO_SPEECH]
+140	[NO_SPEECH]
+141	[NO_SPEECH]
+142	[NO_SPEECH]

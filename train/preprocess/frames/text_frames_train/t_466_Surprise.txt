@@ -1,0 +1,122 @@
+0	Kamu di atas 30 tahun tapi belum latihan beban?
+1	Kamu di atas 30 tahun tapi belum latihan beban?
+2	Kamu di atas 30 tahun tapi belum latihan beban?
+3	Kamu di atas 30 tahun tapi belum latihan beban? You need to notice.
+4	Kamu di atas 30 tahun tapi belum latihan beban? You need to notice.
+5	You need to notice. Kehilangan pada masa otot adalah proses yang sangat normal
+6	You need to notice. Kehilangan pada masa otot adalah proses yang sangat normal
+7	Kehilangan pada masa otot adalah proses yang sangat normal
+8	Kehilangan pada masa otot adalah proses yang sangat normal
+9	Kehilangan pada masa otot adalah proses yang sangat normal
+10	Kehilangan pada masa otot adalah proses yang sangat normal dan biasanya dimulai di atas 30 tahun
+11	Kehilangan pada masa otot adalah proses yang sangat normal dan biasanya dimulai di atas 30 tahun
+12	dan biasanya dimulai di atas 30 tahun
+13	dan biasanya dimulai di atas 30 tahun
+14	dan biasanya dimulai di atas 30 tahun
+15	dan biasanya dimulai di atas 30 tahun dan sebesar 3-5% per tahun.
+16	dan biasanya dimulai di atas 30 tahun dan sebesar 3-5% per tahun.
+17	dan sebesar 3-5% per tahun.
+18	dan sebesar 3-5% per tahun.
+19	dan sebesar 3-5% per tahun.
+20	dan sebesar 3-5% per tahun.
+21	dan sebesar 3-5% per tahun. Terus, saya kan bukan binaraga,
+22	dan sebesar 3-5% per tahun. Terus, saya kan bukan binaraga,
+23	Terus, saya kan bukan binaraga,
+24	Terus, saya kan bukan binaraga,
+25	Terus, saya kan bukan binaraga, otot emang sepenting apa?
+26	Terus, saya kan bukan binaraga, otot emang sepenting apa?
+27	otot emang sepenting apa?
+28	otot emang sepenting apa? Masa ototmu adalah salah satu faktor utama
+29	otot emang sepenting apa? Masa ototmu adalah salah satu faktor utama
+30	Masa ototmu adalah salah satu faktor utama
+31	Masa ototmu adalah salah satu faktor utama
+32	Masa ototmu adalah salah satu faktor utama
+33	Masa ototmu adalah salah satu faktor utama untuk metabolism kamu.
+34	Masa ototmu adalah salah satu faktor utama untuk metabolism kamu.
+35	untuk metabolism kamu.
+36	untuk metabolism kamu. Kalau kita bayangkan ototmu sebagai botol
+37	untuk metabolism kamu. Kalau kita bayangkan ototmu sebagai botol
+38	Kalau kita bayangkan ototmu sebagai botol
+39	Kalau kita bayangkan ototmu sebagai botol
+40	Kalau kita bayangkan ototmu sebagai botol dan air di dalamnya sebagai kalori
+41	Kalau kita bayangkan ototmu sebagai botol dan air di dalamnya sebagai kalori
+42	dan air di dalamnya sebagai kalori
+43	dan air di dalamnya sebagai kalori
+44	dan air di dalamnya sebagai kalori
+45	dan air di dalamnya sebagai kalori atau makanan yang dikonsumsi,
+46	dan air di dalamnya sebagai kalori atau makanan yang dikonsumsi,
+47	atau makanan yang dikonsumsi, semakin banyak masa otot yang kamu punya,
+48	atau makanan yang dikonsumsi, semakin banyak masa otot yang kamu punya,
+49	semakin banyak masa otot yang kamu punya,
+50	semakin banyak masa otot yang kamu punya,
+51	semakin banyak masa otot yang kamu punya,
+52	semakin banyak masa otot yang kamu punya, semakin banyak kalori yang kamu akan bakar.
+53	semakin banyak masa otot yang kamu punya, semakin banyak kalori yang kamu akan bakar.
+54	semakin banyak kalori yang kamu akan bakar.
+55	semakin banyak kalori yang kamu akan bakar.
+56	semakin banyak kalori yang kamu akan bakar. That's why untuk kebanyakan orang yang tidak latihan beban,
+57	semakin banyak kalori yang kamu akan bakar. That's why untuk kebanyakan orang yang tidak latihan beban,
+58	semakin banyak kalori yang kamu akan bakar. That's why untuk kebanyakan orang yang tidak latihan beban,
+59	That's why untuk kebanyakan orang yang tidak latihan beban,
+60	That's why untuk kebanyakan orang yang tidak latihan beban,
+61	That's why untuk kebanyakan orang yang tidak latihan beban,
+62	That's why untuk kebanyakan orang yang tidak latihan beban, sangat susah untuk jaga berat badan di atas 30 tahun.
+63	That's why untuk kebanyakan orang yang tidak latihan beban, sangat susah untuk jaga berat badan di atas 30 tahun.
+64	sangat susah untuk jaga berat badan di atas 30 tahun.
+65	sangat susah untuk jaga berat badan di atas 30 tahun.
+66	sangat susah untuk jaga berat badan di atas 30 tahun.
+67	sangat susah untuk jaga berat badan di atas 30 tahun.
+68	sangat susah untuk jaga berat badan di atas 30 tahun. Selain dari itu, 2 dari 5 penduduk Indonesia
+69	sangat susah untuk jaga berat badan di atas 30 tahun. Selain dari itu, 2 dari 5 penduduk Indonesia
+70	Selain dari itu, 2 dari 5 penduduk Indonesia
+71	Selain dari itu, 2 dari 5 penduduk Indonesia
+72	Selain dari itu, 2 dari 5 penduduk Indonesia berisiko osteoporosis, terutama perempuan.
+73	Selain dari itu, 2 dari 5 penduduk Indonesia berisiko osteoporosis, terutama perempuan.
+74	Selain dari itu, 2 dari 5 penduduk Indonesia berisiko osteoporosis, terutama perempuan.
+75	berisiko osteoporosis, terutama perempuan.
+76	berisiko osteoporosis, terutama perempuan.
+77	berisiko osteoporosis, terutama perempuan.
+78	berisiko osteoporosis, terutama perempuan. Di sekeliling tulangmu ada otot
+79	berisiko osteoporosis, terutama perempuan. Di sekeliling tulangmu ada otot
+80	Di sekeliling tulangmu ada otot
+81	Di sekeliling tulangmu ada otot dan masa otot itu yang menjaga kesehatan tulang
+82	Di sekeliling tulangmu ada otot dan masa otot itu yang menjaga kesehatan tulang
+83	dan masa otot itu yang menjaga kesehatan tulang
+84	dan masa otot itu yang menjaga kesehatan tulang
+85	dan masa otot itu yang menjaga kesehatan tulang
+86	dan masa otot itu yang menjaga kesehatan tulang dan mencegah cedera dan kropos.
+87	dan masa otot itu yang menjaga kesehatan tulang dan mencegah cedera dan kropos.
+88	dan mencegah cedera dan kropos.
+89	dan mencegah cedera dan kropos.
+90	dan mencegah cedera dan kropos. Ini alasan kenapa semakin berumur,
+91	dan mencegah cedera dan kropos. Ini alasan kenapa semakin berumur,
+92	Ini alasan kenapa semakin berumur,
+93	Ini alasan kenapa semakin berumur,
+94	Ini alasan kenapa semakin berumur, semakin wajib untuk latihan beban.
+95	Ini alasan kenapa semakin berumur, semakin wajib untuk latihan beban.
+96	semakin wajib untuk latihan beban.
+97	semakin wajib untuk latihan beban.
+98	semakin wajib untuk latihan beban. Yang bisa dilakukan dengan dumbbell atau mesin,
+99	semakin wajib untuk latihan beban. Yang bisa dilakukan dengan dumbbell atau mesin,
+100	Yang bisa dilakukan dengan dumbbell atau mesin,
+101	Yang bisa dilakukan dengan dumbbell atau mesin,
+102	Yang bisa dilakukan dengan dumbbell atau mesin,
+103	Yang bisa dilakukan dengan dumbbell atau mesin, tapi juga bisa dilakukan di rumah
+104	Yang bisa dilakukan dengan dumbbell atau mesin, tapi juga bisa dilakukan di rumah
+105	tapi juga bisa dilakukan di rumah
+106	tapi juga bisa dilakukan di rumah dengan benda yang ada di rumah.
+107	tapi juga bisa dilakukan di rumah dengan benda yang ada di rumah.
+108	dengan benda yang ada di rumah.
+109	dengan benda yang ada di rumah.
+110	dengan benda yang ada di rumah. Intinya, ototmu adalah kunci untuk kesehatan kamu,
+111	dengan benda yang ada di rumah. Intinya, ototmu adalah kunci untuk kesehatan kamu,
+112	Intinya, ototmu adalah kunci untuk kesehatan kamu,
+113	Intinya, ototmu adalah kunci untuk kesehatan kamu,
+114	Intinya, ototmu adalah kunci untuk kesehatan kamu,
+115	Intinya, ototmu adalah kunci untuk kesehatan kamu, kamu bukan hanya sebatas badan yang bagus
+116	Intinya, ototmu adalah kunci untuk kesehatan kamu, kamu bukan hanya sebatas badan yang bagus
+117	kamu bukan hanya sebatas badan yang bagus
+118	kamu bukan hanya sebatas badan yang bagus
+119	kamu bukan hanya sebatas badan yang bagus dan
+120	kamu bukan hanya sebatas badan yang bagus dan
+121	dan

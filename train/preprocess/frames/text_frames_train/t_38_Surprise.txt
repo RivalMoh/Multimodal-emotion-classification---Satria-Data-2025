@@ -1,0 +1,203 @@
+0	Hehehe, iya om.
+1	Hehehe, iya om.
+2	Oh, maaf sebentar ada telepon.
+3	Oh, maaf sebentar ada telepon.
+4	Oh, maaf sebentar ada telepon.
+5	Oh, maaf sebentar ada telepon.
+6	Oh, maaf sebentar ada telepon.
+7	Oh, maaf sebentar ada telepon.
+8	Halo?
+9	Halo?
+10	Halo?
+11	Oh iya iya, oh bagus.
+12	Oh iya iya, oh bagus.
+13	Oh iya iya, oh bagus.
+14	Oh iya iya, oh bagus.
+15	Oh iya iya, oh bagus. Sip sip.
+16	Sip sip. Oh iya bentar, aku cek dulu.
+17	Sip sip. Oh iya bentar, aku cek dulu.
+18	Oh iya bentar, aku cek dulu.
+19	Oh iya bentar, aku cek dulu.
+20	Oh iya bentar, aku cek dulu. Ehm, cek sekali lagi ya kontraknya ya.
+21	Ehm, cek sekali lagi ya kontraknya ya.
+22	Ehm, cek sekali lagi ya kontraknya ya.
+23	Ehm, cek sekali lagi ya kontraknya ya. Oke oke oke.
+24	Ehm, cek sekali lagi ya kontraknya ya. Oke oke oke.
+25	Oke oke oke.
+26	Oke oke oke.
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	Wah, HP apa tuh?
+44	Wah, HP apa tuh?
+45	Wah, HP apa tuh?
+46	Wah, HP apa tuh?
+47	Wah, HP apa tuh? Oh ini, Huawei Mate XT om.
+48	Oh ini, Huawei Mate XT om.
+49	Oh ini, Huawei Mate XT om.
+50	Oh ini, Huawei Mate XT om.
+51	Oh ini, Huawei Mate XT om. Ini harganya 50 jutaan aja.
+52	Ini harganya 50 jutaan aja.
+53	Ini harganya 50 jutaan aja.
+54	Ini harganya 50 jutaan aja.
+55	Ini harganya 50 jutaan aja. Inovasi Huawei emang hebat sih.
+56	Ini harganya 50 jutaan aja. Inovasi Huawei emang hebat sih.
+57	Inovasi Huawei emang hebat sih.
+58	Inovasi Huawei emang hebat sih.
+59	Inovasi Huawei emang hebat sih.
+60	Inovasi Huawei emang hebat sih. Mereka berani bawa resmi ke Indonesia juga loh.
+61	Inovasi Huawei emang hebat sih. Mereka berani bawa resmi ke Indonesia juga loh.
+62	Mereka berani bawa resmi ke Indonesia juga loh.
+63	Mereka berani bawa resmi ke Indonesia juga loh.
+64	Mereka berani bawa resmi ke Indonesia juga loh.
+65	Mereka berani bawa resmi ke Indonesia juga loh. HP lipat 3 versi komersil pertama.
+66	HP lipat 3 versi komersil pertama.
+67	HP lipat 3 versi komersil pertama.
+68	HP lipat 3 versi komersil pertama.
+69	HP lipat 3 versi komersil pertama.
+70	HP lipat 3 versi komersil pertama. Ini paling tipis di dunia juga.
+71	Ini paling tipis di dunia juga.
+72	Ini paling tipis di dunia juga.
+73	Ini paling tipis di dunia juga.
+74	Ini paling tipis di dunia juga. Boleh lah buat coba-coba.
+75	Boleh lah buat coba-coba.
+76	Boleh lah buat coba-coba.
+77	Boleh lah buat coba-coba. Soalnya kemaren pake lipat 2 terus.
+78	Soalnya kemaren pake lipat 2 terus.
+79	Soalnya kemaren pake lipat 2 terus.
+80	Soalnya kemaren pake lipat 2 terus.
+81	Soalnya kemaren pake lipat 2 terus.
+82	Soalnya kemaren pake lipat 2 terus. Ini ada lipat 3.
+83	Ini ada lipat 3.
+84	Ini ada lipat 3. Lumayan.
+85	Ini ada lipat 3. Lumayan.
+86	Lumayan. Kalau mau pake kayak HP biasa,
+87	Kalau mau pake kayak HP biasa,
+88	Kalau mau pake kayak HP biasa,
+89	Kalau mau pake kayak HP biasa, kita bisa masuk ke mode single screen.
+90	Kalau mau pake kayak HP biasa, kita bisa masuk ke mode single screen.
+91	kita bisa masuk ke mode single screen.
+92	kita bisa masuk ke mode single screen.
+93	kita bisa masuk ke mode single screen. Kalau mau agak legaan kayak foldable,
+94	kita bisa masuk ke mode single screen. Kalau mau agak legaan kayak foldable,
+95	Kalau mau agak legaan kayak foldable,
+96	Kalau mau agak legaan kayak foldable,
+97	Kalau mau agak legaan kayak foldable, bisa pake mode dual screen.
+98	Kalau mau agak legaan kayak foldable, bisa pake mode dual screen.
+99	bisa pake mode dual screen.
+100	bisa pake mode dual screen. Kalau mau fill ala tablet,
+101	bisa pake mode dual screen. Kalau mau fill ala tablet,
+102	Kalau mau fill ala tablet,
+103	Kalau mau fill ala tablet, bisa buka total jadi mode triple screen.
+104	Kalau mau fill ala tablet, bisa buka total jadi mode triple screen.
+105	bisa buka total jadi mode triple screen.
+106	bisa buka total jadi mode triple screen.
+107	bisa buka total jadi mode triple screen.
+108	bisa buka total jadi mode triple screen. Nonton puas banget.
+109	bisa buka total jadi mode triple screen. Nonton puas banget.
+110	Nonton puas banget.
+111	Nonton puas banget. Mau Youtube, mau nonton TikTok,
+112	Mau Youtube, mau nonton TikTok,
+113	Mau Youtube, mau nonton TikTok,
+114	Mau Youtube, mau nonton TikTok, juga n-list.
+115	Mau Youtube, mau nonton TikTok, juga n-list. Enak om.
+116	juga n-list. Enak om. Enak buat kerja juga.
+117	Enak buat kerja juga.
+118	Enak buat kerja juga. Tinggal senderin, terus connect ke keyboard bluetooth.
+119	Enak buat kerja juga. Tinggal senderin, terus connect ke keyboard bluetooth.
+120	Tinggal senderin, terus connect ke keyboard bluetooth.
+121	Tinggal senderin, terus connect ke keyboard bluetooth.
+122	Tinggal senderin, terus connect ke keyboard bluetooth.
+123	Tinggal senderin, terus connect ke keyboard bluetooth. Keren banget om.
+124	Tinggal senderin, terus connect ke keyboard bluetooth. Keren banget om.
+125	Keren banget om. Ini lebih enteng dari tablet biasa loh.
+126	Keren banget om. Ini lebih enteng dari tablet biasa loh.
+127	Ini lebih enteng dari tablet biasa loh.
+128	Ini lebih enteng dari tablet biasa loh.
+129	Ini lebih enteng dari tablet biasa loh. Cobain deh.
+130	Ini lebih enteng dari tablet biasa loh. Cobain deh.
+131	Cobain deh.
+132	Bodinya juga tipis.
+133	Bodinya juga tipis.
+134	Bodinya juga tipis.
+135	Bodinya juga tipis. Masing-masing lipatannya cuma 4mm doang.
+136	Masing-masing lipatannya cuma 4mm doang.
+137	Masing-masing lipatannya cuma 4mm doang.
+138	Masing-masing lipatannya cuma 4mm doang.
+139	Masing-masing lipatannya cuma 4mm doang.
+140	Masing-masing lipatannya cuma 4mm doang. Warnanya juga mewah ya.
+141	Warnanya juga mewah ya.
+142	Warnanya juga mewah ya. Merah marun gitu.
+143	Warnanya juga mewah ya. Merah marun gitu.
+144	Merah marun gitu.
+145	Merah marun gitu. Teksturnya kulit, ada aksen emasnya.
+146	Teksturnya kulit, ada aksen emasnya.
+147	Teksturnya kulit, ada aksen emasnya.
+148	Teksturnya kulit, ada aksen emasnya.
+149	Teksturnya kulit, ada aksen emasnya.
+150	Teksturnya kulit, ada aksen emasnya. Desain cincin kamera ini namanya Ionic Curve.
+151	Desain cincin kamera ini namanya Ionic Curve.
+152	Desain cincin kamera ini namanya Ionic Curve.
+153	Desain cincin kamera ini namanya Ionic Curve.
+154	Desain cincin kamera ini namanya Ionic Curve.
+155	Desain cincin kamera ini namanya Ionic Curve. Rasanya eksklusif.
+156	Desain cincin kamera ini namanya Ionic Curve. Rasanya eksklusif.
+157	Rasanya eksklusif.
+158	Rasanya eksklusif. Nggak ada yang sama.
+159	Rasanya eksklusif. Nggak ada yang sama.
+160	Nggak ada yang sama. Engselnya juga solid banget.
+161	Nggak ada yang sama. Engselnya juga solid banget.
+162	Engselnya juga solid banget.
+163	Engselnya juga solid banget. Kameranya bagus.
+164	Engselnya juga solid banget. Kameranya bagus.
+165	Kameranya bagus. Total ada 4 kamera.
+166	Kameranya bagus. Total ada 4 kamera.
+167	Total ada 4 kamera.
+168	Total ada 4 kamera.
+169	Total ada 4 kamera. Kalau Huawei yang bikin, bisa tenang lah.
+170	Kalau Huawei yang bikin, bisa tenang lah.
+171	Kalau Huawei yang bikin, bisa tenang lah.
+172	Kalau Huawei yang bikin, bisa tenang lah. Fotonya pasti bagus-bagus.
+173	Kalau Huawei yang bikin, bisa tenang lah. Fotonya pasti bagus-bagus.
+174	Fotonya pasti bagus-bagus.
+175	Fotonya pasti bagus-bagus. Kalau udah hobi emang susah buat nahan beli sih.
+176	Fotonya pasti bagus-bagus. Kalau udah hobi emang susah buat nahan beli sih.
+177	Kalau udah hobi emang susah buat nahan beli sih.
+178	Kalau udah hobi emang susah buat nahan beli sih.
+179	Kalau udah hobi emang susah buat nahan beli sih.
+180	Kalau udah hobi emang susah buat nahan beli sih. Merek lain nggak ada yang berani jual sih.
+181	Kalau udah hobi emang susah buat nahan beli sih. Merek lain nggak ada yang berani jual sih.
+182	Merek lain nggak ada yang berani jual sih.
+183	Merek lain nggak ada yang berani jual sih.
+184	Merek lain nggak ada yang berani jual sih.
+185	Merek lain nggak ada yang berani jual sih. Di dunia cuma Huawei yang komersilin.
+186	Merek lain nggak ada yang berani jual sih. Di dunia cuma Huawei yang komersilin.
+187	Di dunia cuma Huawei yang komersilin.
+188	Di dunia cuma Huawei yang komersilin.
+189	Di dunia cuma Huawei yang komersilin.
+190	Di dunia cuma Huawei yang komersilin. Nggak kebayang susahnya segimana mau bikin HP lipat 3 gini.
+191	Di dunia cuma Huawei yang komersilin. Nggak kebayang susahnya segimana mau bikin HP lipat 3 gini.
+192	Nggak kebayang susahnya segimana mau bikin HP lipat 3 gini.
+193	Nggak kebayang susahnya segimana mau bikin HP lipat 3 gini.
+194	Nggak kebayang susahnya segimana mau bikin HP lipat 3 gini.
+195	Nggak kebayang susahnya segimana mau bikin HP lipat 3 gini.
+196	Nggak kebayang susahnya segimana mau bikin HP lipat 3 gini.
+197	Nggak kebayang susahnya segimana mau bikin HP lipat 3 gini.
+198	Nggak kebayang susahnya segimana mau bikin HP lipat 3 gini. Salud sih.
+199	Salud sih.
+200	Salud sih.
+201	[NO_SPEECH]
+202	[NO_SPEECH]

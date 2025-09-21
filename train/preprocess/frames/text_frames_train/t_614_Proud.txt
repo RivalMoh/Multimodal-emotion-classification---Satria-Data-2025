@@ -1,0 +1,73 @@
+0	Jujur, pilihan skincare di minimarket makin kesini tuh makin beragam ya
+1	Jujur, pilihan skincare di minimarket makin kesini tuh makin beragam ya
+2	Jujur, pilihan skincare di minimarket makin kesini tuh makin beragam ya
+3	Jujur, pilihan skincare di minimarket makin kesini tuh makin beragam ya
+4	Jujur, pilihan skincare di minimarket makin kesini tuh makin beragam ya
+5	Jujur, pilihan skincare di minimarket makin kesini tuh makin beragam ya Sekarang, masalah aku tuh nambah
+6	Jujur, pilihan skincare di minimarket makin kesini tuh makin beragam ya Sekarang, masalah aku tuh nambah
+7	Sekarang, masalah aku tuh nambah
+8	Sekarang, masalah aku tuh nambah
+9	Sekarang, masalah aku tuh nambah Nggak cuma bingung pilih minuman apa, tapi juga bingung pilih skincare apa
+10	Sekarang, masalah aku tuh nambah Nggak cuma bingung pilih minuman apa, tapi juga bingung pilih skincare apa
+11	Nggak cuma bingung pilih minuman apa, tapi juga bingung pilih skincare apa
+12	Nggak cuma bingung pilih minuman apa, tapi juga bingung pilih skincare apa
+13	Nggak cuma bingung pilih minuman apa, tapi juga bingung pilih skincare apa
+14	Nggak cuma bingung pilih minuman apa, tapi juga bingung pilih skincare apa
+15	Nggak cuma bingung pilih minuman apa, tapi juga bingung pilih skincare apa Nah, kali ini aku mau bahas satu produk yang menurut aku worth banget buat kamu cobain
+16	Nggak cuma bingung pilih minuman apa, tapi juga bingung pilih skincare apa Nah, kali ini aku mau bahas satu produk yang menurut aku worth banget buat kamu cobain
+17	Nah, kali ini aku mau bahas satu produk yang menurut aku worth banget buat kamu cobain
+18	Nah, kali ini aku mau bahas satu produk yang menurut aku worth banget buat kamu cobain
+19	Nah, kali ini aku mau bahas satu produk yang menurut aku worth banget buat kamu cobain
+20	Nah, kali ini aku mau bahas satu produk yang menurut aku worth banget buat kamu cobain
+21	Nah, kali ini aku mau bahas satu produk yang menurut aku worth banget buat kamu cobain
+22	Nah, kali ini aku mau bahas satu produk yang menurut aku worth banget buat kamu cobain
+23	Nah, kali ini aku mau bahas satu produk yang menurut aku worth banget buat kamu cobain
+24	Nah, kali ini aku mau bahas satu produk yang menurut aku worth banget buat kamu cobain Alias serum vitamin C yang harganya cuma 30 ribuan aja
+25	Nah, kali ini aku mau bahas satu produk yang menurut aku worth banget buat kamu cobain Alias serum vitamin C yang harganya cuma 30 ribuan aja
+26	Alias serum vitamin C yang harganya cuma 30 ribuan aja
+27	Alias serum vitamin C yang harganya cuma 30 ribuan aja
+28	Alias serum vitamin C yang harganya cuma 30 ribuan aja
+29	Alias serum vitamin C yang harganya cuma 30 ribuan aja
+30	Alias serum vitamin C yang harganya cuma 30 ribuan aja Yes, jadi ini adalah Garnier Bright Complete Booster Serum yang versi kecil
+31	Alias serum vitamin C yang harganya cuma 30 ribuan aja Yes, jadi ini adalah Garnier Bright Complete Booster Serum yang versi kecil
+32	Yes, jadi ini adalah Garnier Bright Complete Booster Serum yang versi kecil
+33	Yes, jadi ini adalah Garnier Bright Complete Booster Serum yang versi kecil
+34	Yes, jadi ini adalah Garnier Bright Complete Booster Serum yang versi kecil
+35	Yes, jadi ini adalah Garnier Bright Complete Booster Serum yang versi kecil
+36	Yes, jadi ini adalah Garnier Bright Complete Booster Serum yang versi kecil
+37	Yes, jadi ini adalah Garnier Bright Complete Booster Serum yang versi kecil Untuk kandungannya sama aja kayak yang gede
+38	Yes, jadi ini adalah Garnier Bright Complete Booster Serum yang versi kecil Untuk kandungannya sama aja kayak yang gede
+39	Untuk kandungannya sama aja kayak yang gede
+40	Untuk kandungannya sama aja kayak yang gede
+41	Untuk kandungannya sama aja kayak yang gede Ada vitamin C dan niacinamide sebagai whitening agent
+42	Untuk kandungannya sama aja kayak yang gede Ada vitamin C dan niacinamide sebagai whitening agent
+43	Ada vitamin C dan niacinamide sebagai whitening agent
+44	Ada vitamin C dan niacinamide sebagai whitening agent
+45	Ada vitamin C dan niacinamide sebagai whitening agent Ditambah lagi ada BHA yang bisa ngasih manfaat buat ngebesen jerawat kamu
+46	Ada vitamin C dan niacinamide sebagai whitening agent Ditambah lagi ada BHA yang bisa ngasih manfaat buat ngebesen jerawat kamu
+47	Ditambah lagi ada BHA yang bisa ngasih manfaat buat ngebesen jerawat kamu
+48	Ditambah lagi ada BHA yang bisa ngasih manfaat buat ngebesen jerawat kamu
+49	Ditambah lagi ada BHA yang bisa ngasih manfaat buat ngebesen jerawat kamu
+50	Ditambah lagi ada BHA yang bisa ngasih manfaat buat ngebesen jerawat kamu
+51	Ditambah lagi ada BHA yang bisa ngasih manfaat buat ngebesen jerawat kamu
+52	Ditambah lagi ada BHA yang bisa ngasih manfaat buat ngebesen jerawat kamu Teksturnya juga ringan, cepet nyerep, dan nggak lengket
+53	Ditambah lagi ada BHA yang bisa ngasih manfaat buat ngebesen jerawat kamu Teksturnya juga ringan, cepet nyerep, dan nggak lengket
+54	Teksturnya juga ringan, cepet nyerep, dan nggak lengket
+55	Teksturnya juga ringan, cepet nyerep, dan nggak lengket
+56	Teksturnya juga ringan, cepet nyerep, dan nggak lengket
+57	Teksturnya juga ringan, cepet nyerep, dan nggak lengket
+58	Teksturnya juga ringan, cepet nyerep, dan nggak lengket Efek whiteningnya tuh lumayan cepet keliatan
+59	Teksturnya juga ringan, cepet nyerep, dan nggak lengket Efek whiteningnya tuh lumayan cepet keliatan
+60	Efek whiteningnya tuh lumayan cepet keliatan
+61	Efek whiteningnya tuh lumayan cepet keliatan Nih, progres aku selama beberapa hari pake serum ini gimana?
+62	Efek whiteningnya tuh lumayan cepet keliatan Nih, progres aku selama beberapa hari pake serum ini gimana?
+63	Nih, progres aku selama beberapa hari pake serum ini gimana?
+64	Nih, progres aku selama beberapa hari pake serum ini gimana?
+65	Nih, progres aku selama beberapa hari pake serum ini gimana?
+66	Nih, progres aku selama beberapa hari pake serum ini gimana?
+67	Nih, progres aku selama beberapa hari pake serum ini gimana? Kita kepo cobain
+68	Nih, progres aku selama beberapa hari pake serum ini gimana? Kita kepo cobain
+69	Kita kepo cobain
+70	Kita kepo cobain
+71	[NO_SPEECH]
+72	[NO_SPEECH]

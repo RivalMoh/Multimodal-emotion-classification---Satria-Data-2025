@@ -1,0 +1,73 @@
+0	Tips dong berfilsafat, tapi tetap beragama.
+1	Tips dong berfilsafat, tapi tetap beragama.
+2	Tips dong berfilsafat, tapi tetap beragama.
+3	Tips dong berfilsafat, tapi tetap beragama.
+4	Tips dong berfilsafat, tapi tetap beragama. Udah gak bisa.
+5	Tips dong berfilsafat, tapi tetap beragama. Udah gak bisa.
+6	Udah gak bisa.
+7	Jadi ikutin aja ngalir nanti habis-habisannya disitu.
+8	Jadi ikutin aja ngalir nanti habis-habisannya disitu.
+9	Jadi ikutin aja ngalir nanti habis-habisannya disitu.
+10	Jadi ikutin aja ngalir nanti habis-habisannya disitu.
+11	Jadi ikutin aja ngalir nanti habis-habisannya disitu.
+12	Jadi ikutin aja ngalir nanti habis-habisannya disitu.
+13	Jadi ikutin aja ngalir nanti habis-habisannya disitu.
+14	Jadi ikutin aja ngalir nanti habis-habisannya disitu. Bener dan salahnya kejar aja terus.
+15	Jadi ikutin aja ngalir nanti habis-habisannya disitu. Bener dan salahnya kejar aja terus.
+16	Bener dan salahnya kejar aja terus.
+17	Bener dan salahnya kejar aja terus.
+18	Bener dan salahnya kejar aja terus.
+19	Berfilsafat itu ngejar aja terus.
+20	Berfilsafat itu ngejar aja terus.
+21	Berfilsafat itu ngejar aja terus.
+22	Berfilsafat itu ngejar aja terus. Dan gak ada penghalang bahwa nanti kamu tokot dosain.
+23	Berfilsafat itu ngejar aja terus. Dan gak ada penghalang bahwa nanti kamu tokot dosain.
+24	Dan gak ada penghalang bahwa nanti kamu tokot dosain.
+25	Dan gak ada penghalang bahwa nanti kamu tokot dosain.
+26	Dan gak ada penghalang bahwa nanti kamu tokot dosain.
+27	Dan gak ada penghalang bahwa nanti kamu tokot dosain.
+28	Dan gak ada penghalang bahwa nanti kamu tokot dosain.
+29	Dan gak ada penghalang bahwa nanti kamu tokot dosain. Makanya memang akhirnya banyak yang jadi ateis.
+30	Makanya memang akhirnya banyak yang jadi ateis.
+31	Makanya memang akhirnya banyak yang jadi ateis.
+32	Makanya memang akhirnya banyak yang jadi ateis.
+33	Makanya memang akhirnya banyak yang jadi ateis.
+34	Makanya memang akhirnya banyak yang jadi ateis.
+35	Makanya memang akhirnya banyak yang jadi ateis. Ada yang tetap beragama.
+36	Makanya memang akhirnya banyak yang jadi ateis. Ada yang tetap beragama.
+37	Ada yang tetap beragama.
+38	Ada yang tetap beragama. Ada yang tetap apa.
+39	Ada yang tetap beragama. Ada yang tetap apa.
+40	Ada yang tetap apa. Tapi kan itu adalah hasil dari pencarian dia habis-habisan.
+41	Ada yang tetap apa. Tapi kan itu adalah hasil dari pencarian dia habis-habisan.
+42	Tapi kan itu adalah hasil dari pencarian dia habis-habisan.
+43	Tapi kan itu adalah hasil dari pencarian dia habis-habisan.
+44	Tapi kan itu adalah hasil dari pencarian dia habis-habisan.
+45	Tapi kan itu adalah hasil dari pencarian dia habis-habisan.
+46	Tapi kan itu adalah hasil dari pencarian dia habis-habisan.
+47	Tapi kan itu adalah hasil dari pencarian dia habis-habisan.
+48	Tapi kan itu adalah hasil dari pencarian dia habis-habisan.
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	Dan filsafat jangan juga harus dikaitkan dengan Tuhan dan ateism.
+53	Dan filsafat jangan juga harus dikaitkan dengan Tuhan dan ateism.
+54	Dan filsafat jangan juga harus dikaitkan dengan Tuhan dan ateism.
+55	Dan filsafat jangan juga harus dikaitkan dengan Tuhan dan ateism.
+56	Dan filsafat jangan juga harus dikaitkan dengan Tuhan dan ateism.
+57	Dan filsafat jangan juga harus dikaitkan dengan Tuhan dan ateism.
+58	Dan filsafat jangan juga harus dikaitkan dengan Tuhan dan ateism.
+59	Dan filsafat jangan juga harus dikaitkan dengan Tuhan dan ateism.
+60	Dan filsafat jangan juga harus dikaitkan dengan Tuhan dan ateism. Kan filsafat juga...
+61	Dan filsafat jangan juga harus dikaitkan dengan Tuhan dan ateism. Kan filsafat juga...
+62	Kan filsafat juga...
+63	Kan filsafat juga...
+64	[NO_SPEECH]
+65	Skopnya gak itu doang.
+66	Skopnya gak itu doang.
+67	Skopnya gak itu doang.
+68	Skopnya gak itu doang. Iya, skopnya gak itu doang.
+69	Skopnya gak itu doang. Iya, skopnya gak itu doang.
+70	Iya, skopnya gak itu doang.
+71	Iya, skopnya gak itu doang.
+72	[NO_SPEECH]

@@ -1,0 +1,85 @@
+0	Lagi-lagi ada kasus LCD iPhone bergaris.
+1	Lagi-lagi ada kasus LCD iPhone bergaris.
+2	Lagi-lagi ada kasus LCD iPhone bergaris.
+3	Lagi-lagi ada kasus LCD iPhone bergaris.
+4	Lagi-lagi ada kasus LCD iPhone bergaris.
+5	Lagi-lagi ada kasus LCD iPhone bergaris. Kata pemiliknya, sempat kedudukan.
+6	Lagi-lagi ada kasus LCD iPhone bergaris. Kata pemiliknya, sempat kedudukan.
+7	Kata pemiliknya, sempat kedudukan.
+8	Kata pemiliknya, sempat kedudukan.
+9	Kata pemiliknya, sempat kedudukan.
+10	Kata pemiliknya, sempat kedudukan.
+11	Kata pemiliknya, sempat kedudukan. Ya udah apa lagi? Ini mah, pasti pecah dalamnya.
+12	Kata pemiliknya, sempat kedudukan. Ya udah apa lagi? Ini mah, pasti pecah dalamnya.
+13	Ya udah apa lagi? Ini mah, pasti pecah dalamnya.
+14	Ya udah apa lagi? Ini mah, pasti pecah dalamnya.
+15	Ya udah apa lagi? Ini mah, pasti pecah dalamnya.
+16	Ya udah apa lagi? Ini mah, pasti pecah dalamnya.
+17	Ya udah apa lagi? Ini mah, pasti pecah dalamnya.
+18	Ya udah apa lagi? Ini mah, pasti pecah dalamnya.
+19	Ya udah apa lagi? Ini mah, pasti pecah dalamnya. Kan gak paket lama.
+20	Ya udah apa lagi? Ini mah, pasti pecah dalamnya. Kan gak paket lama.
+21	Kan gak paket lama.
+22	Kan gak paket lama. Pemiliknya langsung minta diganti sama LCD yang baru untuk LCD iPhone Series 12.
+23	Kan gak paket lama. Pemiliknya langsung minta diganti sama LCD yang baru untuk LCD iPhone Series 12.
+24	Pemiliknya langsung minta diganti sama LCD yang baru untuk LCD iPhone Series 12.
+25	Pemiliknya langsung minta diganti sama LCD yang baru untuk LCD iPhone Series 12.
+26	Pemiliknya langsung minta diganti sama LCD yang baru untuk LCD iPhone Series 12.
+27	Pemiliknya langsung minta diganti sama LCD yang baru untuk LCD iPhone Series 12.
+28	Pemiliknya langsung minta diganti sama LCD yang baru untuk LCD iPhone Series 12.
+29	Pemiliknya langsung minta diganti sama LCD yang baru untuk LCD iPhone Series 12.
+30	Pemiliknya langsung minta diganti sama LCD yang baru untuk LCD iPhone Series 12.
+31	Pemiliknya langsung minta diganti sama LCD yang baru untuk LCD iPhone Series 12.
+32	Pemiliknya langsung minta diganti sama LCD yang baru untuk LCD iPhone Series 12.
+33	Pemiliknya langsung minta diganti sama LCD yang baru untuk LCD iPhone Series 12.
+34	Pemiliknya langsung minta diganti sama LCD yang baru untuk LCD iPhone Series 12.
+35	Pemiliknya langsung minta diganti sama LCD yang baru untuk LCD iPhone Series 12.
+36	Pemiliknya langsung minta diganti sama LCD yang baru untuk LCD iPhone Series 12.
+37	Pemiliknya langsung minta diganti sama LCD yang baru untuk LCD iPhone Series 12.
+38	Pemiliknya langsung minta diganti sama LCD yang baru untuk LCD iPhone Series 12.
+39	Pemiliknya langsung minta diganti sama LCD yang baru untuk LCD iPhone Series 12. Harga cuma 1 jutaan.
+40	Harga cuma 1 jutaan.
+41	Harga cuma 1 jutaan.
+42	Harga cuma 1 jutaan.
+43	Harga cuma 1 jutaan. Gasat set, langsung dikerjain.
+44	Harga cuma 1 jutaan. Gasat set, langsung dikerjain.
+45	Gasat set, langsung dikerjain.
+46	Gasat set, langsung dikerjain.
+47	Gasat set, langsung dikerjain.
+48	Gasat set, langsung dikerjain. Sama teknisi kita, selain harganya yang murah meriah,
+49	Gasat set, langsung dikerjain. Sama teknisi kita, selain harganya yang murah meriah,
+50	Sama teknisi kita, selain harganya yang murah meriah,
+51	Sama teknisi kita, selain harganya yang murah meriah,
+52	Sama teknisi kita, selain harganya yang murah meriah,
+53	Sama teknisi kita, selain harganya yang murah meriah,
+54	Sama teknisi kita, selain harganya yang murah meriah,
+55	Sama teknisi kita, selain harganya yang murah meriah,
+56	Sama teknisi kita, selain harganya yang murah meriah, ya, pengerjaannya juga bisa ditunggu.
+57	Sama teknisi kita, selain harganya yang murah meriah, ya, pengerjaannya juga bisa ditunggu.
+58	ya, pengerjaannya juga bisa ditunggu.
+59	ya, pengerjaannya juga bisa ditunggu.
+60	ya, pengerjaannya juga bisa ditunggu.
+61	ya, pengerjaannya juga bisa ditunggu.
+62	ya, pengerjaannya juga bisa ditunggu. Gak bakal nyesel deh servis iPhone kalian di Indo Gadget Service.
+63	ya, pengerjaannya juga bisa ditunggu. Gak bakal nyesel deh servis iPhone kalian di Indo Gadget Service.
+64	Gak bakal nyesel deh servis iPhone kalian di Indo Gadget Service.
+65	Gak bakal nyesel deh servis iPhone kalian di Indo Gadget Service.
+66	Gak bakal nyesel deh servis iPhone kalian di Indo Gadget Service.
+67	Gak bakal nyesel deh servis iPhone kalian di Indo Gadget Service.
+68	Gak bakal nyesel deh servis iPhone kalian di Indo Gadget Service.
+69	Gak bakal nyesel deh servis iPhone kalian di Indo Gadget Service.
+70	Gak bakal nyesel deh servis iPhone kalian di Indo Gadget Service.
+71	Gak bakal nyesel deh servis iPhone kalian di Indo Gadget Service.
+72	Gak bakal nyesel deh servis iPhone kalian di Indo Gadget Service.
+73	Gak bakal nyesel deh servis iPhone kalian di Indo Gadget Service.
+74	Kesburuan, langsung datang ke store kami.
+75	Kesburuan, langsung datang ke store kami.
+76	Kesburuan, langsung datang ke store kami.
+77	Kesburuan, langsung datang ke store kami.
+78	Kesburuan, langsung datang ke store kami.
+79	Kesburuan, langsung datang ke store kami.
+80	Kesburuan, langsung datang ke store kami.
+81	Kesburuan, langsung datang ke store kami. Terima kasih.
+82	Terima kasih.
+83	Terima kasih.
+84	[NO_SPEECH]

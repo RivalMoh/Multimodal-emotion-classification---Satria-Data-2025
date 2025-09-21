@@ -1,0 +1,144 @@
+0	Berapa sih harga Ferrari Second?
+1	Berapa sih harga Ferrari Second?
+2	Berapa sih harga Ferrari Second?
+3	Berapa sih harga Ferrari Second? Kebetulan saya lagi book-ber bersama Ferrari Jakarta
+4	Berapa sih harga Ferrari Second? Kebetulan saya lagi book-ber bersama Ferrari Jakarta
+5	Kebetulan saya lagi book-ber bersama Ferrari Jakarta
+6	Kebetulan saya lagi book-ber bersama Ferrari Jakarta
+7	Kebetulan saya lagi book-ber bersama Ferrari Jakarta
+8	Kebetulan saya lagi book-ber bersama Ferrari Jakarta
+9	Kebetulan saya lagi book-ber bersama Ferrari Jakarta Dan ditemani oleh dua mobil ini
+10	Kebetulan saya lagi book-ber bersama Ferrari Jakarta Dan ditemani oleh dua mobil ini
+11	Dan ditemani oleh dua mobil ini
+12	Dan ditemani oleh dua mobil ini
+13	Dan ditemani oleh dua mobil ini
+14	Dan ditemani oleh dua mobil ini
+15	Dan ditemani oleh dua mobil ini Ferrari F8 Tributo dan Ferrari SF90 Serada
+16	Dan ditemani oleh dua mobil ini Ferrari F8 Tributo dan Ferrari SF90 Serada
+17	Ferrari F8 Tributo dan Ferrari SF90 Serada
+18	Ferrari F8 Tributo dan Ferrari SF90 Serada
+19	Ferrari F8 Tributo dan Ferrari SF90 Serada
+20	Ferrari F8 Tributo dan Ferrari SF90 Serada
+21	Ferrari F8 Tributo dan Ferrari SF90 Serada
+22	Ferrari F8 Tributo dan Ferrari SF90 Serada
+23	Ferrari F8 Tributo dan Ferrari SF90 Serada Dua-duanya dalam keadaan second hand
+24	Ferrari F8 Tributo dan Ferrari SF90 Serada Dua-duanya dalam keadaan second hand
+25	Ferrari F8 Tributo dan Ferrari SF90 Serada Dua-duanya dalam keadaan second hand
+26	Dua-duanya dalam keadaan second hand
+27	Dua-duanya dalam keadaan second hand
+28	Dua-duanya dalam keadaan second hand
+29	Dua-duanya dalam keadaan second hand Nah ini Ferrari F8 Tributo V8 3900cc
+30	Dua-duanya dalam keadaan second hand Nah ini Ferrari F8 Tributo V8 3900cc
+31	Nah ini Ferrari F8 Tributo V8 3900cc
+32	Nah ini Ferrari F8 Tributo V8 3900cc
+33	Nah ini Ferrari F8 Tributo V8 3900cc
+34	Nah ini Ferrari F8 Tributo V8 3900cc
+35	Nah ini Ferrari F8 Tributo V8 3900cc
+36	Nah ini Ferrari F8 Tributo V8 3900cc
+37	Nah ini Ferrari F8 Tributo V8 3900cc
+38	Nah ini Ferrari F8 Tributo V8 3900cc 720 HP, 770 Nm torsinya
+39	Nah ini Ferrari F8 Tributo V8 3900cc 720 HP, 770 Nm torsinya
+40	720 HP, 770 Nm torsinya
+41	720 HP, 770 Nm torsinya
+42	720 HP, 770 Nm torsinya
+43	720 HP, 770 Nm torsinya
+44	720 HP, 770 Nm torsinya
+45	720 HP, 770 Nm torsinya
+46	720 HP, 770 Nm torsinya Ini tahun 2022, kilometernya 300
+47	720 HP, 770 Nm torsinya Ini tahun 2022, kilometernya 300
+48	Ini tahun 2022, kilometernya 300
+49	Ini tahun 2022, kilometernya 300
+50	Ini tahun 2022, kilometernya 300
+51	Ini tahun 2022, kilometernya 300 Ditawarkan seharga 12,5 miliar rupiah
+52	Ini tahun 2022, kilometernya 300 Ditawarkan seharga 12,5 miliar rupiah
+53	Ditawarkan seharga 12,5 miliar rupiah
+54	Ditawarkan seharga 12,5 miliar rupiah
+55	Ditawarkan seharga 12,5 miliar rupiah
+56	Ditawarkan seharga 12,5 miliar rupiah
+57	Ditawarkan seharga 12,5 miliar rupiah
+58	Ditawarkan seharga 12,5 miliar rupiah
+59	Ditawarkan seharga 12,5 miliar rupiah
+60	Ditawarkan seharga 12,5 miliar rupiah Bisa ditawar
+61	Ditawarkan seharga 12,5 miliar rupiah Bisa ditawar
+62	Bisa ditawar
+63	Bisa ditawar Dan kemungkinannya ini akan menjadi the last of Ferrari V8
+64	Bisa ditawar Dan kemungkinannya ini akan menjadi the last of Ferrari V8
+65	Dan kemungkinannya ini akan menjadi the last of Ferrari V8
+66	Dan kemungkinannya ini akan menjadi the last of Ferrari V8
+67	Dan kemungkinannya ini akan menjadi the last of Ferrari V8
+68	Dan kemungkinannya ini akan menjadi the last of Ferrari V8 Nah kalau yang ini Ferrari SF90 Serada tahun 2023
+69	Dan kemungkinannya ini akan menjadi the last of Ferrari V8 Nah kalau yang ini Ferrari SF90 Serada tahun 2023
+70	Nah kalau yang ini Ferrari SF90 Serada tahun 2023
+71	Nah kalau yang ini Ferrari SF90 Serada tahun 2023
+72	Nah kalau yang ini Ferrari SF90 Serada tahun 2023
+73	Nah kalau yang ini Ferrari SF90 Serada tahun 2023
+74	Nah kalau yang ini Ferrari SF90 Serada tahun 2023
+75	Nah kalau yang ini Ferrari SF90 Serada tahun 2023
+76	Nah kalau yang ini Ferrari SF90 Serada tahun 2023
+77	Nah kalau yang ini Ferrari SF90 Serada tahun 2023 Kilometer baru 68
+78	Nah kalau yang ini Ferrari SF90 Serada tahun 2023 Kilometer baru 68
+79	Nah kalau yang ini Ferrari SF90 Serada tahun 2023 Kilometer baru 68
+80	Kilometer baru 68
+81	Kilometer baru 68
+82	Kilometer baru 68
+83	Kilometer baru 68 1000 HP, 800 Nm
+84	Kilometer baru 68 1000 HP, 800 Nm
+85	1000 HP, 800 Nm
+86	1000 HP, 800 Nm
+87	1000 HP, 800 Nm
+88	1000 HP, 800 Nm
+89	1000 HP, 800 Nm Top speed 340 km per jam
+90	1000 HP, 800 Nm Top speed 340 km per jam
+91	Top speed 340 km per jam
+92	Top speed 340 km per jam
+93	Top speed 340 km per jam 0-100 km 2,5 detik
+94	Top speed 340 km per jam 0-100 km 2,5 detik
+95	0-100 km 2,5 detik
+96	0-100 km 2,5 detik Hybrid
+97	0-100 km 2,5 detik Hybrid
+98	Hybrid Dan ini salah satu Ferrari terkencang yang diproduksi sekarang
+99	Hybrid Dan ini salah satu Ferrari terkencang yang diproduksi sekarang
+100	Dan ini salah satu Ferrari terkencang yang diproduksi sekarang
+101	Dan ini salah satu Ferrari terkencang yang diproduksi sekarang
+102	Dan ini salah satu Ferrari terkencang yang diproduksi sekarang
+103	Dan ini salah satu Ferrari terkencang yang diproduksi sekarang
+104	Dan ini salah satu Ferrari terkencang yang diproduksi sekarang
+105	Dan ini salah satu Ferrari terkencang yang diproduksi sekarang
+106	Dan ini salah satu Ferrari terkencang yang diproduksi sekarang
+107	Dan ini salah satu Ferrari terkencang yang diproduksi sekarang Yang ini
+108	Dan ini salah satu Ferrari terkencang yang diproduksi sekarang Yang ini
+109	Yang ini Ditawarkan seharga
+110	Yang ini Ditawarkan seharga
+111	Ditawarkan seharga
+112	Ditawarkan seharga
+113	Ditawarkan seharga
+114	Ditawarkan seharga
+115	[NO_SPEECH]
+116	16,5 miliar rupiah
+117	16,5 miliar rupiah
+118	16,5 miliar rupiah
+119	16,5 miliar rupiah
+120	16,5 miliar rupiah
+121	16,5 miliar rupiah
+122	[NO_SPEECH]
+123	Kedua harga itu adalah harga off the road
+124	Kedua harga itu adalah harga off the road
+125	Kedua harga itu adalah harga off the road
+126	Kedua harga itu adalah harga off the road
+127	Kedua harga itu adalah harga off the road
+128	Kedua harga itu adalah harga off the road
+129	Kedua harga itu adalah harga off the road Jadi Anda harus mengeluarkan lagi kira-kira
+130	Kedua harga itu adalah harga off the road Jadi Anda harus mengeluarkan lagi kira-kira
+131	Jadi Anda harus mengeluarkan lagi kira-kira
+132	Jadi Anda harus mengeluarkan lagi kira-kira
+133	Jadi Anda harus mengeluarkan lagi kira-kira
+134	Jadi Anda harus mengeluarkan lagi kira-kira
+135	Jadi Anda harus mengeluarkan lagi kira-kira Ya 1-2 miliar rupiah buat on the roadnya
+136	Jadi Anda harus mengeluarkan lagi kira-kira Ya 1-2 miliar rupiah buat on the roadnya
+137	Ya 1-2 miliar rupiah buat on the roadnya
+138	Ya 1-2 miliar rupiah buat on the roadnya
+139	Ya 1-2 miliar rupiah buat on the roadnya
+140	Ya 1-2 miliar rupiah buat on the roadnya
+141	Ya 1-2 miliar rupiah buat on the roadnya
+142	Ya 1-2 miliar rupiah buat on the roadnya
+143	[NO_SPEECH]

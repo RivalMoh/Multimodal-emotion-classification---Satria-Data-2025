@@ -1,0 +1,152 @@
+0	Oh sama-sama udah 4?
+1	Oh sama-sama udah 4?
+2	Oh iya sama-sama 10 lah, udahlah.
+3	Oh iya sama-sama 10 lah, udahlah.
+4	Oh iya sama-sama 10 lah, udahlah.
+5	Oh iya sama-sama 10 lah, udahlah.
+6	Oh iya sama-sama 10 lah, udahlah.
+7	Oh iya sama-sama 10 lah, udahlah.
+8	Oh iya sama-sama 10 lah, udahlah.
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	Oh ini, yang juara?
+42	Oh ini, yang juara?
+43	Oh ini, yang juara?
+44	Oh ini, yang juara?
+45	Oh ini, yang juara? 3 pak.
+46	3 pak. 3 pak.
+47	3 pak.
+48	Kita push lagi, kita coba.
+49	Kita push lagi, kita coba.
+50	Kita push lagi, kita coba.
+51	Kita push lagi, kita coba.
+52	Kita push lagi, kita coba.
+53	Kita push lagi, kita coba.
+54	Kita push lagi, kita coba. 16 kan?
+55	16 kan?
+56	16 kan? Sekarang 24.
+57	16 kan? Sekarang 24. Sekarang 24.
+58	Sekarang 24. Sekarang 24.
+59	Sekarang 24.
+60	Sekarang 24.
+61	Di FIFA Ranking Lucia.
+62	Di FIFA Ranking Lucia.
+63	Di FIFA Ranking Lucia.
+64	Di FIFA Ranking Lucia.
+65	Di FIFA Ranking Lucia. Gimana sih ya?
+66	Di FIFA Ranking Lucia. Gimana sih ya?
+67	Gimana sih ya? Ya 5.
+68	Gimana sih ya? Ya 5.
+69	Ya 5. 1, 2, 3, 4 nih saya.
+70	Ya 5. 1, 2, 3, 4 nih saya.
+71	1, 2, 3, 4 nih saya.
+72	1, 2, 3, 4 nih saya.
+73	1, 2, 3, 4 nih saya.
+74	Coba aja, nanti saya balik lagi cuma lihat dulu.
+75	Coba aja, nanti saya balik lagi cuma lihat dulu.
+76	Coba aja, nanti saya balik lagi cuma lihat dulu.
+77	Coba aja, nanti saya balik lagi cuma lihat dulu.
+78	Coba aja, nanti saya balik lagi cuma lihat dulu.
+79	Coba aja, nanti saya balik lagi cuma lihat dulu.
+80	Selamat ya.
+81	Selamat ya.
+82	Selamat ya. Selamat ya.
+83	Selamat ya.
+84	Selamat ya. Nomor 1 Thailand.
+85	Nomor 1 Thailand.
+86	Nomor 1 Thailand.
+87	Nomor 1 Thailand. Oh bener.
+88	Oh bener.
+89	Oh bener.
+90	Oh bener. Karena ternyata Iran dan Jepang ini gak main-main pak.
+91	Karena ternyata Iran dan Jepang ini gak main-main pak.
+92	Karena ternyata Iran dan Jepang ini gak main-main pak.
+93	Karena ternyata Iran dan Jepang ini gak main-main pak.
+94	Karena ternyata Iran dan Jepang ini gak main-main pak.
+95	Karena ternyata Iran dan Jepang ini gak main-main pak.
+96	Karena ternyata Iran dan Jepang ini gak main-main pak. Jadi kalau Thailand dia main terus.
+97	Karena ternyata Iran dan Jepang ini gak main-main pak. Jadi kalau Thailand dia main terus.
+98	Jadi kalau Thailand dia main terus.
+99	Jadi kalau Thailand dia main terus. Kita juga bisa lah.
+100	Jadi kalau Thailand dia main terus. Kita juga bisa lah.
+101	Kita juga bisa lah.
+102	Kita juga bisa lah.
+103	Kita juga bisa lah.
+104	Kita juga bisa lah. Ya 10 lah targetnya ya.
+105	Ya 10 lah targetnya ya.
+106	Ya 10 lah targetnya ya.
+107	Ya 10 lah targetnya ya.
+108	Ya 10 lah targetnya ya. Ya 10 besar ya.
+109	Ya 10 lah targetnya ya. Ya 10 besar ya.
+110	Ya 10 besar ya.
+111	Ya 10 besar ya.
+112	24.
+113	24.
+114	24.
+115	[NO_SPEECH]
+116	[NO_SPEECH]
+117	4 pak.
+118	4 pak.
+119	4 pak. 4 pak.
+120	4 pak. 4 pak. 4 pak.
+121	4 pak. 4 pak. Oh sama-sama udah 4?
+122	4 pak. Oh sama-sama udah 4?
+123	Oh sama-sama udah 4? 
+124	 4 pak.
+125	4 pak. Oh iya sama-sama 10 lah, udahlah.
+126	4 pak. Oh iya sama-sama 10 lah, udahlah.
+127	Oh iya sama-sama 10 lah, udahlah.
+128	Oh iya sama-sama 10 lah, udahlah.
+129	Oh iya sama-sama 10 lah, udahlah. Hahaha.
+130	Oh iya sama-sama 10 lah, udahlah. Hahaha.
+131	Hahaha.
+132	[NO_SPEECH]
+133	[NO_SPEECH]
+134	Mau tanding sama tim Nas uji coba?
+135	Mau tanding sama tim Nas uji coba?
+136	Mau tanding sama tim Nas uji coba?
+137	Mau tanding sama tim Nas uji coba?
+138	Mau tanding sama tim Nas uji coba? Gede bener?
+139	Mau tanding sama tim Nas uji coba? Gede bener?
+140	Gede bener? Hahaha.
+141	Gede bener? Hahaha.
+142	Hahaha.
+143	[NO_SPEECH]
+144	[NO_SPEECH]
+145	[NO_SPEECH]
+146	[NO_SPEECH]
+147	[NO_SPEECH]
+148	[NO_SPEECH]
+149	[NO_SPEECH]
+150	[NO_SPEECH]
+151	[NO_SPEECH]

@@ -1,0 +1,106 @@
+0	Hebo pernyataan Menteri Kesehatan
+1	Hebo pernyataan Menteri Kesehatan
+2	Hebo pernyataan Menteri Kesehatan Yang dia bilang itu kalau ukuran jeans di atas 32-33
+3	Hebo pernyataan Menteri Kesehatan Yang dia bilang itu kalau ukuran jeans di atas 32-33
+4	Yang dia bilang itu kalau ukuran jeans di atas 32-33
+5	Yang dia bilang itu kalau ukuran jeans di atas 32-33
+6	Yang dia bilang itu kalau ukuran jeans di atas 32-33
+7	Yang dia bilang itu kalau ukuran jeans di atas 32-33
+8	Yang dia bilang itu kalau ukuran jeans di atas 32-33
+9	Yang dia bilang itu kalau ukuran jeans di atas 32-33 Bakal lebih cepet koid
+10	Yang dia bilang itu kalau ukuran jeans di atas 32-33 Bakal lebih cepet koid
+11	Bakal lebih cepet koid
+12	Bakal lebih cepet koid
+13	Bakal lebih cepet koid Gue mau paraphrase sedikit
+14	Bakal lebih cepet koid Gue mau paraphrase sedikit
+15	Gue mau paraphrase sedikit
+16	Gue mau paraphrase sedikit
+17	Gue mau paraphrase sedikit
+18	Gue mau paraphrase sedikit
+19	Gue mau paraphrase sedikit Kalau perut kita itu buntel, bleber, gembrot
+20	Gue mau paraphrase sedikit Kalau perut kita itu buntel, bleber, gembrot
+21	Kalau perut kita itu buntel, bleber, gembrot
+22	Kalau perut kita itu buntel, bleber, gembrot
+23	Kalau perut kita itu buntel, bleber, gembrot
+24	Kalau perut kita itu buntel, bleber, gembrot
+25	Kalau perut kita itu buntel, bleber, gembrot
+26	Kalau perut kita itu buntel, bleber, gembrot Kayak orang hamil tapi gak hamil
+27	Kalau perut kita itu buntel, bleber, gembrot Kayak orang hamil tapi gak hamil
+28	Kayak orang hamil tapi gak hamil
+29	Kayak orang hamil tapi gak hamil
+30	Kayak orang hamil tapi gak hamil Akan bikin kita itu lebih cepet koid
+31	Kayak orang hamil tapi gak hamil Akan bikin kita itu lebih cepet koid
+32	Akan bikin kita itu lebih cepet koid
+33	Akan bikin kita itu lebih cepet koid
+34	Akan bikin kita itu lebih cepet koid Gue mau share 3 research paper terbaru yang tunjukin asosiasi
+35	Akan bikin kita itu lebih cepet koid Gue mau share 3 research paper terbaru yang tunjukin asosiasi
+36	Gue mau share 3 research paper terbaru yang tunjukin asosiasi
+37	Gue mau share 3 research paper terbaru yang tunjukin asosiasi
+38	Gue mau share 3 research paper terbaru yang tunjukin asosiasi
+39	Gue mau share 3 research paper terbaru yang tunjukin asosiasi
+40	Gue mau share 3 research paper terbaru yang tunjukin asosiasi
+41	Gue mau share 3 research paper terbaru yang tunjukin asosiasi
+42	Gue mau share 3 research paper terbaru yang tunjukin asosiasi
+43	Gue mau share 3 research paper terbaru yang tunjukin asosiasi Kalau perut itu bleber-bleber, gembrot-gembrot
+44	Gue mau share 3 research paper terbaru yang tunjukin asosiasi Kalau perut itu bleber-bleber, gembrot-gembrot
+45	Kalau perut itu bleber-bleber, gembrot-gembrot
+46	Kalau perut itu bleber-bleber, gembrot-gembrot
+47	Kalau perut itu bleber-bleber, gembrot-gembrot
+48	Kalau perut itu bleber-bleber, gembrot-gembrot Kayak orang hamil tapi gak hamil
+49	Kalau perut itu bleber-bleber, gembrot-gembrot Kayak orang hamil tapi gak hamil
+50	Kayak orang hamil tapi gak hamil
+51	Kayak orang hamil tapi gak hamil Terasosiasi dengan kematian prematur
+52	Kayak orang hamil tapi gak hamil Terasosiasi dengan kematian prematur
+53	Terasosiasi dengan kematian prematur
+54	Terasosiasi dengan kematian prematur
+55	Terasosiasi dengan kematian prematur
+56	Terasosiasi dengan kematian prematur
+57	Terasosiasi dengan kematian prematur
+58	Yang berhubungan dengan semua penyakit metabolik
+59	Yang berhubungan dengan semua penyakit metabolik
+60	Yang berhubungan dengan semua penyakit metabolik
+61	Yang berhubungan dengan semua penyakit metabolik
+62	Yang berhubungan dengan semua penyakit metabolik
+63	Yang berhubungan dengan semua penyakit metabolik Contoh serangan jantung, strokla, dan segala macem
+64	Yang berhubungan dengan semua penyakit metabolik Contoh serangan jantung, strokla, dan segala macem
+65	Contoh serangan jantung, strokla, dan segala macem
+66	Contoh serangan jantung, strokla, dan segala macem
+67	Contoh serangan jantung, strokla, dan segala macem
+68	Contoh serangan jantung, strokla, dan segala macem
+69	Contoh serangan jantung, strokla, dan segala macem Gagal ginjal, liver, dan whatever
+70	Contoh serangan jantung, strokla, dan segala macem Gagal ginjal, liver, dan whatever
+71	Gagal ginjal, liver, dan whatever
+72	Gagal ginjal, liver, dan whatever Iya gue 1000% setuju dengan statement ini
+73	Gagal ginjal, liver, dan whatever Iya gue 1000% setuju dengan statement ini
+74	Iya gue 1000% setuju dengan statement ini
+75	Iya gue 1000% setuju dengan statement ini
+76	Iya gue 1000% setuju dengan statement ini
+77	Iya gue 1000% setuju dengan statement ini Jadi gue bingung apa yang harus diklarifikasi
+78	Iya gue 1000% setuju dengan statement ini Jadi gue bingung apa yang harus diklarifikasi
+79	Jadi gue bingung apa yang harus diklarifikasi
+80	Jadi gue bingung apa yang harus diklarifikasi
+81	Jadi gue bingung apa yang harus diklarifikasi Karena udah ada puluhan ribu sampai ratusan ribu data kali yang tunjukin kayak gitu
+82	Jadi gue bingung apa yang harus diklarifikasi Karena udah ada puluhan ribu sampai ratusan ribu data kali yang tunjukin kayak gitu
+83	Karena udah ada puluhan ribu sampai ratusan ribu data kali yang tunjukin kayak gitu
+84	Karena udah ada puluhan ribu sampai ratusan ribu data kali yang tunjukin kayak gitu
+85	Karena udah ada puluhan ribu sampai ratusan ribu data kali yang tunjukin kayak gitu
+86	Karena udah ada puluhan ribu sampai ratusan ribu data kali yang tunjukin kayak gitu
+87	Karena udah ada puluhan ribu sampai ratusan ribu data kali yang tunjukin kayak gitu
+88	Karena udah ada puluhan ribu sampai ratusan ribu data kali yang tunjukin kayak gitu
+89	Karena udah ada puluhan ribu sampai ratusan ribu data kali yang tunjukin kayak gitu Jadi bagi elu-elu yang perutnya itu buntel, bulet, bleber
+90	Karena udah ada puluhan ribu sampai ratusan ribu data kali yang tunjukin kayak gitu Jadi bagi elu-elu yang perutnya itu buntel, bulet, bleber
+91	Jadi bagi elu-elu yang perutnya itu buntel, bulet, bleber
+92	Jadi bagi elu-elu yang perutnya itu buntel, bulet, bleber
+93	Jadi bagi elu-elu yang perutnya itu buntel, bulet, bleber
+94	Jadi bagi elu-elu yang perutnya itu buntel, bulet, bleber
+95	Jadi bagi elu-elu yang perutnya itu buntel, bulet, bleber
+96	Jadi bagi elu-elu yang perutnya itu buntel, bulet, bleber
+97	Jadi bagi elu-elu yang perutnya itu buntel, bulet, bleber Kayak orang hamil tapi gak hamil
+98	Jadi bagi elu-elu yang perutnya itu buntel, bulet, bleber Kayak orang hamil tapi gak hamil
+99	Kayak orang hamil tapi gak hamil
+100	Kayak orang hamil tapi gak hamil Segera berubah
+101	Kayak orang hamil tapi gak hamil Segera berubah
+102	Segera berubah
+103	Segera berubah
+104	[NO_SPEECH]
+105	[NO_SPEECH]

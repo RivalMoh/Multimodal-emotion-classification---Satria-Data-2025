@@ -1,0 +1,22 @@
+0	kali ini off-roadnya seru banget
+1	kali ini off-roadnya seru banget
+2	kali ini off-roadnya seru banget
+3	kali ini off-roadnya seru banget
+4	kali ini off-roadnya seru banget seru sekali
+5	kali ini off-roadnya seru banget seru sekali kita sampai kuyuk
+6	seru sekali kita sampai kuyuk
+7	kita sampai kuyuk
+8	kita sampai kuyuk dan ada petir
+9	kita sampai kuyuk dan ada petir
+10	dan ada petir
+11	dan ada petir ayo
+12	dan ada petir ayo oke oke
+13	ayo oke oke
+14	oke oke
+15	oke oke
+16	oke oke
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]

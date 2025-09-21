@@ -1,0 +1,721 @@
+0	Ngapain sih orang-orang beli laptop gaming?
+1	Ngapain sih orang-orang beli laptop gaming?
+2	Ngapain sih orang-orang beli laptop gaming?
+3	Ngapain sih orang-orang beli laptop gaming?
+4	[NO_SPEECH]
+5	Bertahun-tahun itu bener-bener jadi pertanyaan yang gak pernah gue dapet jawaban memuaskannya dari orang-orang yang beli.
+6	Bertahun-tahun itu bener-bener jadi pertanyaan yang gak pernah gue dapet jawaban memuaskannya dari orang-orang yang beli.
+7	Bertahun-tahun itu bener-bener jadi pertanyaan yang gak pernah gue dapet jawaban memuaskannya dari orang-orang yang beli.
+8	Bertahun-tahun itu bener-bener jadi pertanyaan yang gak pernah gue dapet jawaban memuaskannya dari orang-orang yang beli.
+9	Bertahun-tahun itu bener-bener jadi pertanyaan yang gak pernah gue dapet jawaban memuaskannya dari orang-orang yang beli.
+10	Bertahun-tahun itu bener-bener jadi pertanyaan yang gak pernah gue dapet jawaban memuaskannya dari orang-orang yang beli.
+11	Bertahun-tahun itu bener-bener jadi pertanyaan yang gak pernah gue dapet jawaban memuaskannya dari orang-orang yang beli.
+12	Bertahun-tahun itu bener-bener jadi pertanyaan yang gak pernah gue dapet jawaban memuaskannya dari orang-orang yang beli.
+13	Bertahun-tahun itu bener-bener jadi pertanyaan yang gak pernah gue dapet jawaban memuaskannya dari orang-orang yang beli.
+14	Bertahun-tahun itu bener-bener jadi pertanyaan yang gak pernah gue dapet jawaban memuaskannya dari orang-orang yang beli.
+15	Bertahun-tahun itu bener-bener jadi pertanyaan yang gak pernah gue dapet jawaban memuaskannya dari orang-orang yang beli.
+16	Bertahun-tahun itu bener-bener jadi pertanyaan yang gak pernah gue dapet jawaban memuaskannya dari orang-orang yang beli.
+17	Bertahun-tahun itu bener-bener jadi pertanyaan yang gak pernah gue dapet jawaban memuaskannya dari orang-orang yang beli.
+18	Bertahun-tahun itu bener-bener jadi pertanyaan yang gak pernah gue dapet jawaban memuaskannya dari orang-orang yang beli. Pas gue tanya, ya aneh buat gue laptop gaming.
+19	Bertahun-tahun itu bener-bener jadi pertanyaan yang gak pernah gue dapet jawaban memuaskannya dari orang-orang yang beli. Pas gue tanya, ya aneh buat gue laptop gaming.
+20	Pas gue tanya, ya aneh buat gue laptop gaming.
+21	Pas gue tanya, ya aneh buat gue laptop gaming.
+22	Pas gue tanya, ya aneh buat gue laptop gaming.
+23	Pas gue tanya, ya aneh buat gue laptop gaming. Laptop gaming pada dasarnya punya 2 chip, CPU dan GPU.
+24	Laptop gaming pada dasarnya punya 2 chip, CPU dan GPU.
+25	Laptop gaming pada dasarnya punya 2 chip, CPU dan GPU.
+26	Laptop gaming pada dasarnya punya 2 chip, CPU dan GPU.
+27	Laptop gaming pada dasarnya punya 2 chip, CPU dan GPU.
+28	Laptop gaming pada dasarnya punya 2 chip, CPU dan GPU.
+29	Laptop gaming pada dasarnya punya 2 chip, CPU dan GPU.
+30	Laptop gaming pada dasarnya punya 2 chip, CPU dan GPU. Semakin budget laptop gamingnya, layarnya itu sering banget dikorbanin.
+31	Laptop gaming pada dasarnya punya 2 chip, CPU dan GPU. Semakin budget laptop gamingnya, layarnya itu sering banget dikorbanin.
+32	Semakin budget laptop gamingnya, layarnya itu sering banget dikorbanin.
+33	Semakin budget laptop gamingnya, layarnya itu sering banget dikorbanin.
+34	Semakin budget laptop gamingnya, layarnya itu sering banget dikorbanin.
+35	Semakin budget laptop gamingnya, layarnya itu sering banget dikorbanin.
+36	Semakin budget laptop gamingnya, layarnya itu sering banget dikorbanin.
+37	Semakin budget laptop gamingnya, layarnya itu sering banget dikorbanin.
+38	Semakin budget laptop gamingnya, layarnya itu sering banget dikorbanin.
+39	Semakin budget laptop gamingnya, layarnya itu sering banget dikorbanin.
+40	Semakin budget laptop gamingnya, layarnya itu sering banget dikorbanin. Bisa jadi warnanya butek, tuning warna dan tuning gamingnya bisa juga dikorbanin pula.
+41	Semakin budget laptop gamingnya, layarnya itu sering banget dikorbanin. Bisa jadi warnanya butek, tuning warna dan tuning gamingnya bisa juga dikorbanin pula.
+42	Bisa jadi warnanya butek, tuning warna dan tuning gamingnya bisa juga dikorbanin pula.
+43	Bisa jadi warnanya butek, tuning warna dan tuning gamingnya bisa juga dikorbanin pula.
+44	Bisa jadi warnanya butek, tuning warna dan tuning gamingnya bisa juga dikorbanin pula.
+45	Bisa jadi warnanya butek, tuning warna dan tuning gamingnya bisa juga dikorbanin pula.
+46	Bisa jadi warnanya butek, tuning warna dan tuning gamingnya bisa juga dikorbanin pula.
+47	Bisa jadi warnanya butek, tuning warna dan tuning gamingnya bisa juga dikorbanin pula.
+48	Bisa jadi warnanya butek, tuning warna dan tuning gamingnya bisa juga dikorbanin pula.
+49	Bisa jadi warnanya butek, tuning warna dan tuning gamingnya bisa juga dikorbanin pula.
+50	Bisa jadi warnanya butek, tuning warna dan tuning gamingnya bisa juga dikorbanin pula. Nge-blur lah gambar di panel itu buat gaming.
+51	Bisa jadi warnanya butek, tuning warna dan tuning gamingnya bisa juga dikorbanin pula. Nge-blur lah gambar di panel itu buat gaming.
+52	Nge-blur lah gambar di panel itu buat gaming.
+53	Nge-blur lah gambar di panel itu buat gaming.
+54	Nge-blur lah gambar di panel itu buat gaming.
+55	Nge-blur lah gambar di panel itu buat gaming. Belum lagi karena itu laptop gaming.
+56	Nge-blur lah gambar di panel itu buat gaming. Belum lagi karena itu laptop gaming.
+57	Belum lagi karena itu laptop gaming.
+58	Belum lagi karena itu laptop gaming.
+59	Belum lagi karena itu laptop gaming.
+60	Belum lagi karena itu laptop gaming. Kalau lo pake buat kompetitif game, sakit mata sama leher lo bos.
+61	Kalau lo pake buat kompetitif game, sakit mata sama leher lo bos.
+62	Kalau lo pake buat kompetitif game, sakit mata sama leher lo bos.
+63	Kalau lo pake buat kompetitif game, sakit mata sama leher lo bos.
+64	Kalau lo pake buat kompetitif game, sakit mata sama leher lo bos.
+65	Kalau lo pake buat kompetitif game, sakit mata sama leher lo bos.
+66	Kalau lo pake buat kompetitif game, sakit mata sama leher lo bos.
+67	Kalau lo pake buat kompetitif game, sakit mata sama leher lo bos.
+68	Kalau lo pake buat kompetitif game, sakit mata sama leher lo bos.
+69	Kalau lo pake buat kompetitif game, sakit mata sama leher lo bos.
+70	Kalau lo pake buat kompetitif game, sakit mata sama leher lo bos. Layarnya kecil, lo liatnya juga mesti nunduk.
+71	Kalau lo pake buat kompetitif game, sakit mata sama leher lo bos. Layarnya kecil, lo liatnya juga mesti nunduk.
+72	Layarnya kecil, lo liatnya juga mesti nunduk.
+73	Layarnya kecil, lo liatnya juga mesti nunduk.
+74	Layarnya kecil, lo liatnya juga mesti nunduk.
+75	Layarnya kecil, lo liatnya juga mesti nunduk.
+76	Layarnya kecil, lo liatnya juga mesti nunduk. Sebutannya boleh laptop gaming, tapi enak ya dipake gaming harus dicolok sama layar monitor eksternal yang lo mesti beli terpisah.
+77	Layarnya kecil, lo liatnya juga mesti nunduk. Sebutannya boleh laptop gaming, tapi enak ya dipake gaming harus dicolok sama layar monitor eksternal yang lo mesti beli terpisah.
+78	Sebutannya boleh laptop gaming, tapi enak ya dipake gaming harus dicolok sama layar monitor eksternal yang lo mesti beli terpisah.
+79	Sebutannya boleh laptop gaming, tapi enak ya dipake gaming harus dicolok sama layar monitor eksternal yang lo mesti beli terpisah.
+80	Sebutannya boleh laptop gaming, tapi enak ya dipake gaming harus dicolok sama layar monitor eksternal yang lo mesti beli terpisah.
+81	Sebutannya boleh laptop gaming, tapi enak ya dipake gaming harus dicolok sama layar monitor eksternal yang lo mesti beli terpisah.
+82	Sebutannya boleh laptop gaming, tapi enak ya dipake gaming harus dicolok sama layar monitor eksternal yang lo mesti beli terpisah.
+83	Sebutannya boleh laptop gaming, tapi enak ya dipake gaming harus dicolok sama layar monitor eksternal yang lo mesti beli terpisah.
+84	Sebutannya boleh laptop gaming, tapi enak ya dipake gaming harus dicolok sama layar monitor eksternal yang lo mesti beli terpisah.
+85	Sebutannya boleh laptop gaming, tapi enak ya dipake gaming harus dicolok sama layar monitor eksternal yang lo mesti beli terpisah.
+86	Sebutannya boleh laptop gaming, tapi enak ya dipake gaming harus dicolok sama layar monitor eksternal yang lo mesti beli terpisah.
+87	Sebutannya boleh laptop gaming, tapi enak ya dipake gaming harus dicolok sama layar monitor eksternal yang lo mesti beli terpisah.
+88	Sebutannya boleh laptop gaming, tapi enak ya dipake gaming harus dicolok sama layar monitor eksternal yang lo mesti beli terpisah.
+89	Sebutannya boleh laptop gaming, tapi enak ya dipake gaming harus dicolok sama layar monitor eksternal yang lo mesti beli terpisah.
+90	Sebutannya boleh laptop gaming, tapi enak ya dipake gaming harus dicolok sama layar monitor eksternal yang lo mesti beli terpisah.
+91	Sebutannya boleh laptop gaming, tapi enak ya dipake gaming harus dicolok sama layar monitor eksternal yang lo mesti beli terpisah.
+92	Sebutannya boleh laptop gaming, tapi enak ya dipake gaming harus dicolok sama layar monitor eksternal yang lo mesti beli terpisah.
+93	Sebutannya boleh laptop gaming, tapi enak ya dipake gaming harus dicolok sama layar monitor eksternal yang lo mesti beli terpisah. Dan ngomongin soal colok laptop gaming ke monitor, di laptop gaming lo bisa bingung.
+94	Dan ngomongin soal colok laptop gaming ke monitor, di laptop gaming lo bisa bingung.
+95	Dan ngomongin soal colok laptop gaming ke monitor, di laptop gaming lo bisa bingung.
+96	Dan ngomongin soal colok laptop gaming ke monitor, di laptop gaming lo bisa bingung.
+97	Dan ngomongin soal colok laptop gaming ke monitor, di laptop gaming lo bisa bingung.
+98	Dan ngomongin soal colok laptop gaming ke monitor, di laptop gaming lo bisa bingung.
+99	Dan ngomongin soal colok laptop gaming ke monitor, di laptop gaming lo bisa bingung.
+100	Dan ngomongin soal colok laptop gaming ke monitor, di laptop gaming lo bisa bingung.
+101	Dan ngomongin soal colok laptop gaming ke monitor, di laptop gaming lo bisa bingung.
+102	Dan ngomongin soal colok laptop gaming ke monitor, di laptop gaming lo bisa bingung.
+103	Dan ngomongin soal colok laptop gaming ke monitor, di laptop gaming lo bisa bingung.
+104	Dan ngomongin soal colok laptop gaming ke monitor, di laptop gaming lo bisa bingung. Ini port HDMI atau USB-C-nya connect ke GPU yang mana?
+105	Dan ngomongin soal colok laptop gaming ke monitor, di laptop gaming lo bisa bingung. Ini port HDMI atau USB-C-nya connect ke GPU yang mana?
+106	Ini port HDMI atau USB-C-nya connect ke GPU yang mana?
+107	Ini port HDMI atau USB-C-nya connect ke GPU yang mana?
+108	Ini port HDMI atau USB-C-nya connect ke GPU yang mana?
+109	Ini port HDMI atau USB-C-nya connect ke GPU yang mana?
+110	Ini port HDMI atau USB-C-nya connect ke GPU yang mana?
+111	Ini port HDMI atau USB-C-nya connect ke GPU yang mana?
+112	Ini port HDMI atau USB-C-nya connect ke GPU yang mana? Internal GPU?
+113	Ini port HDMI atau USB-C-nya connect ke GPU yang mana? Internal GPU?
+114	Internal GPU?
+115	Internal GPU? Yang ada di processor?
+116	Yang ada di processor?
+117	Yang ada di processor? Atau GPU dedicated yang dikasih?
+118	Atau GPU dedicated yang dikasih?
+119	Atau GPU dedicated yang dikasih?
+120	Atau GPU dedicated yang dikasih?
+121	Atau GPU dedicated yang dikasih? Pertanyaan berikut yang lo mesti jawab.
+122	Atau GPU dedicated yang dikasih? Pertanyaan berikut yang lo mesti jawab.
+123	Pertanyaan berikut yang lo mesti jawab.
+124	Pertanyaan berikut yang lo mesti jawab. Kalau port display-nya connect ke IGP laptopnya, IGP-nya support sesuai sama port yang dikasih nggak?
+125	Pertanyaan berikut yang lo mesti jawab. Kalau port display-nya connect ke IGP laptopnya, IGP-nya support sesuai sama port yang dikasih nggak?
+126	Kalau port display-nya connect ke IGP laptopnya, IGP-nya support sesuai sama port yang dikasih nggak?
+127	Kalau port display-nya connect ke IGP laptopnya, IGP-nya support sesuai sama port yang dikasih nggak?
+128	Kalau port display-nya connect ke IGP laptopnya, IGP-nya support sesuai sama port yang dikasih nggak?
+129	Kalau port display-nya connect ke IGP laptopnya, IGP-nya support sesuai sama port yang dikasih nggak?
+130	Kalau port display-nya connect ke IGP laptopnya, IGP-nya support sesuai sama port yang dikasih nggak?
+131	Kalau port display-nya connect ke IGP laptopnya, IGP-nya support sesuai sama port yang dikasih nggak?
+132	Kalau port display-nya connect ke IGP laptopnya, IGP-nya support sesuai sama port yang dikasih nggak?
+133	Kalau port display-nya connect ke IGP laptopnya, IGP-nya support sesuai sama port yang dikasih nggak?
+134	Kalau port display-nya connect ke IGP laptopnya, IGP-nya support sesuai sama port yang dikasih nggak?
+135	Kalau port display-nya connect ke IGP laptopnya, IGP-nya support sesuai sama port yang dikasih nggak?
+136	Kalau port display-nya connect ke IGP laptopnya, IGP-nya support sesuai sama port yang dikasih nggak?
+137	Kalau port display-nya connect ke IGP laptopnya, IGP-nya support sesuai sama port yang dikasih nggak?
+138	Kalau port display-nya connect ke IGP laptopnya, IGP-nya support sesuai sama port yang dikasih nggak?
+139	Kalau port display-nya connect ke IGP laptopnya, IGP-nya support sesuai sama port yang dikasih nggak? Misalnya nih, port yang dikasih HDMI 2.0 bisa support 4K 60Hz.
+140	Misalnya nih, port yang dikasih HDMI 2.0 bisa support 4K 60Hz.
+141	Misalnya nih, port yang dikasih HDMI 2.0 bisa support 4K 60Hz.
+142	Misalnya nih, port yang dikasih HDMI 2.0 bisa support 4K 60Hz.
+143	Misalnya nih, port yang dikasih HDMI 2.0 bisa support 4K 60Hz.
+144	Misalnya nih, port yang dikasih HDMI 2.0 bisa support 4K 60Hz.
+145	Misalnya nih, port yang dikasih HDMI 2.0 bisa support 4K 60Hz.
+146	Misalnya nih, port yang dikasih HDMI 2.0 bisa support 4K 60Hz. Eh, IGP-nya support cuma 4K 30Hz.
+147	Misalnya nih, port yang dikasih HDMI 2.0 bisa support 4K 60Hz. Eh, IGP-nya support cuma 4K 30Hz.
+148	Eh, IGP-nya support cuma 4K 30Hz.
+149	Eh, IGP-nya support cuma 4K 30Hz.
+150	Eh, IGP-nya support cuma 4K 30Hz.
+151	Eh, IGP-nya support cuma 4K 30Hz.
+152	Eh, IGP-nya support cuma 4K 30Hz. Kan konyol.
+153	Eh, IGP-nya support cuma 4K 30Hz. Kan konyol.
+154	Kan konyol. Masalahnya belum selesai.
+155	Masalahnya belum selesai.
+156	Masalahnya belum selesai. Sering kali laptop-laptop gaming nggak kasih tau lo juga nih sebelum beli laptopnya dia, itu support max switch-nya.
+157	Masalahnya belum selesai. Sering kali laptop-laptop gaming nggak kasih tau lo juga nih sebelum beli laptopnya dia, itu support max switch-nya.
+158	Sering kali laptop-laptop gaming nggak kasih tau lo juga nih sebelum beli laptopnya dia, itu support max switch-nya.
+159	Sering kali laptop-laptop gaming nggak kasih tau lo juga nih sebelum beli laptopnya dia, itu support max switch-nya.
+160	Sering kali laptop-laptop gaming nggak kasih tau lo juga nih sebelum beli laptopnya dia, itu support max switch-nya.
+161	Sering kali laptop-laptop gaming nggak kasih tau lo juga nih sebelum beli laptopnya dia, itu support max switch-nya.
+162	Sering kali laptop-laptop gaming nggak kasih tau lo juga nih sebelum beli laptopnya dia, itu support max switch-nya.
+163	Sering kali laptop-laptop gaming nggak kasih tau lo juga nih sebelum beli laptopnya dia, itu support max switch-nya.
+164	Sering kali laptop-laptop gaming nggak kasih tau lo juga nih sebelum beli laptopnya dia, itu support max switch-nya.
+165	Sering kali laptop-laptop gaming nggak kasih tau lo juga nih sebelum beli laptopnya dia, itu support max switch-nya.
+166	Sering kali laptop-laptop gaming nggak kasih tau lo juga nih sebelum beli laptopnya dia, itu support max switch-nya.
+167	Sering kali laptop-laptop gaming nggak kasih tau lo juga nih sebelum beli laptopnya dia, itu support max switch-nya.
+168	Sering kali laptop-laptop gaming nggak kasih tau lo juga nih sebelum beli laptopnya dia, itu support max switch-nya. Buat pindahin koneksi port display dari IGP.
+169	Sering kali laptop-laptop gaming nggak kasih tau lo juga nih sebelum beli laptopnya dia, itu support max switch-nya. Buat pindahin koneksi port display dari IGP.
+170	Buat pindahin koneksi port display dari IGP.
+171	Buat pindahin koneksi port display dari IGP.
+172	Buat pindahin koneksi port display dari IGP.
+173	Buat pindahin koneksi port display dari IGP.
+174	Buat pindahin koneksi port display dari IGP.
+175	Buat pindahin koneksi port display dari IGP. Ke GPU dedicated-nya.
+176	Buat pindahin koneksi port display dari IGP. Ke GPU dedicated-nya.
+177	Ke GPU dedicated-nya.
+178	Ke GPU dedicated-nya. Dan apa ada Nvidia Optimus nggak di dalamnya?
+179	Ke GPU dedicated-nya. Dan apa ada Nvidia Optimus nggak di dalamnya?
+180	Dan apa ada Nvidia Optimus nggak di dalamnya?
+181	Dan apa ada Nvidia Optimus nggak di dalamnya?
+182	Dan apa ada Nvidia Optimus nggak di dalamnya?
+183	Dan apa ada Nvidia Optimus nggak di dalamnya? Biar lo bisa ngerti cara kerja laptop gaming yang lo mau beli, sistem kerja IGP dan GPU-nya kerjasamanya kayak gimana.
+184	Dan apa ada Nvidia Optimus nggak di dalamnya? Biar lo bisa ngerti cara kerja laptop gaming yang lo mau beli, sistem kerja IGP dan GPU-nya kerjasamanya kayak gimana.
+185	Biar lo bisa ngerti cara kerja laptop gaming yang lo mau beli, sistem kerja IGP dan GPU-nya kerjasamanya kayak gimana.
+186	Biar lo bisa ngerti cara kerja laptop gaming yang lo mau beli, sistem kerja IGP dan GPU-nya kerjasamanya kayak gimana.
+187	Biar lo bisa ngerti cara kerja laptop gaming yang lo mau beli, sistem kerja IGP dan GPU-nya kerjasamanya kayak gimana.
+188	Biar lo bisa ngerti cara kerja laptop gaming yang lo mau beli, sistem kerja IGP dan GPU-nya kerjasamanya kayak gimana.
+189	Biar lo bisa ngerti cara kerja laptop gaming yang lo mau beli, sistem kerja IGP dan GPU-nya kerjasamanya kayak gimana.
+190	Biar lo bisa ngerti cara kerja laptop gaming yang lo mau beli, sistem kerja IGP dan GPU-nya kerjasamanya kayak gimana.
+191	Biar lo bisa ngerti cara kerja laptop gaming yang lo mau beli, sistem kerja IGP dan GPU-nya kerjasamanya kayak gimana.
+192	Biar lo bisa ngerti cara kerja laptop gaming yang lo mau beli, sistem kerja IGP dan GPU-nya kerjasamanya kayak gimana.
+193	Biar lo bisa ngerti cara kerja laptop gaming yang lo mau beli, sistem kerja IGP dan GPU-nya kerjasamanya kayak gimana.
+194	Biar lo bisa ngerti cara kerja laptop gaming yang lo mau beli, sistem kerja IGP dan GPU-nya kerjasamanya kayak gimana.
+195	Biar lo bisa ngerti cara kerja laptop gaming yang lo mau beli, sistem kerja IGP dan GPU-nya kerjasamanya kayak gimana. Begitu banyak pertanyaan ngebuat lo nggak bisa planning di awal mau beli laptop gaming combo sama monitor yang kayak gimana.
+196	Biar lo bisa ngerti cara kerja laptop gaming yang lo mau beli, sistem kerja IGP dan GPU-nya kerjasamanya kayak gimana. Begitu banyak pertanyaan ngebuat lo nggak bisa planning di awal mau beli laptop gaming combo sama monitor yang kayak gimana.
+197	Begitu banyak pertanyaan ngebuat lo nggak bisa planning di awal mau beli laptop gaming combo sama monitor yang kayak gimana.
+198	Begitu banyak pertanyaan ngebuat lo nggak bisa planning di awal mau beli laptop gaming combo sama monitor yang kayak gimana.
+199	Begitu banyak pertanyaan ngebuat lo nggak bisa planning di awal mau beli laptop gaming combo sama monitor yang kayak gimana.
+200	Begitu banyak pertanyaan ngebuat lo nggak bisa planning di awal mau beli laptop gaming combo sama monitor yang kayak gimana.
+201	Begitu banyak pertanyaan ngebuat lo nggak bisa planning di awal mau beli laptop gaming combo sama monitor yang kayak gimana.
+202	Begitu banyak pertanyaan ngebuat lo nggak bisa planning di awal mau beli laptop gaming combo sama monitor yang kayak gimana.
+203	Begitu banyak pertanyaan ngebuat lo nggak bisa planning di awal mau beli laptop gaming combo sama monitor yang kayak gimana.
+204	Begitu banyak pertanyaan ngebuat lo nggak bisa planning di awal mau beli laptop gaming combo sama monitor yang kayak gimana.
+205	Begitu banyak pertanyaan ngebuat lo nggak bisa planning di awal mau beli laptop gaming combo sama monitor yang kayak gimana.
+206	Begitu banyak pertanyaan ngebuat lo nggak bisa planning di awal mau beli laptop gaming combo sama monitor yang kayak gimana.
+207	Begitu banyak pertanyaan ngebuat lo nggak bisa planning di awal mau beli laptop gaming combo sama monitor yang kayak gimana.
+208	Begitu banyak pertanyaan ngebuat lo nggak bisa planning di awal mau beli laptop gaming combo sama monitor yang kayak gimana.
+209	Begitu banyak pertanyaan ngebuat lo nggak bisa planning di awal mau beli laptop gaming combo sama monitor yang kayak gimana.
+210	Begitu banyak pertanyaan ngebuat lo nggak bisa planning di awal mau beli laptop gaming combo sama monitor yang kayak gimana. Bikin mabok!
+211	Begitu banyak pertanyaan ngebuat lo nggak bisa planning di awal mau beli laptop gaming combo sama monitor yang kayak gimana. Bikin mabok!
+212	Bikin mabok! Lah, brand-nya aja nggak selalu tulis spek lengkap port display output-nya di website-nya mereka.
+213	Bikin mabok! Lah, brand-nya aja nggak selalu tulis spek lengkap port display output-nya di website-nya mereka.
+214	Lah, brand-nya aja nggak selalu tulis spek lengkap port display output-nya di website-nya mereka.
+215	Lah, brand-nya aja nggak selalu tulis spek lengkap port display output-nya di website-nya mereka.
+216	Lah, brand-nya aja nggak selalu tulis spek lengkap port display output-nya di website-nya mereka.
+217	Lah, brand-nya aja nggak selalu tulis spek lengkap port display output-nya di website-nya mereka.
+218	Lah, brand-nya aja nggak selalu tulis spek lengkap port display output-nya di website-nya mereka.
+219	Lah, brand-nya aja nggak selalu tulis spek lengkap port display output-nya di website-nya mereka.
+220	Lah, brand-nya aja nggak selalu tulis spek lengkap port display output-nya di website-nya mereka.
+221	Lah, brand-nya aja nggak selalu tulis spek lengkap port display output-nya di website-nya mereka.
+222	Lah, brand-nya aja nggak selalu tulis spek lengkap port display output-nya di website-nya mereka.
+223	Lah, brand-nya aja nggak selalu tulis spek lengkap port display output-nya di website-nya mereka. Masa lo mesti beli dulu laptopnya?
+224	Masa lo mesti beli dulu laptopnya?
+225	Masa lo mesti beli dulu laptopnya?
+226	Masa lo mesti beli dulu laptopnya?
+227	Masa lo mesti beli dulu laptopnya? Pelajarin port-nya sanggup berapa?
+228	Masa lo mesti beli dulu laptopnya? Pelajarin port-nya sanggup berapa?
+229	Pelajarin port-nya sanggup berapa?
+230	Pelajarin port-nya sanggup berapa?
+231	Pelajarin port-nya sanggup berapa? Tadinya lo mau beli monitor 2K 218GB.
+232	Pelajarin port-nya sanggup berapa? Tadinya lo mau beli monitor 2K 218GB.
+233	Tadinya lo mau beli monitor 2K 218GB.
+234	Tadinya lo mau beli monitor 2K 218GB.
+235	Tadinya lo mau beli monitor 2K 218GB. Tapi pas lo cek laptopnya cuma sanggup monitor 2K 180Hz.
+236	Tadinya lo mau beli monitor 2K 218GB. Tapi pas lo cek laptopnya cuma sanggup monitor 2K 180Hz.
+237	Tapi pas lo cek laptopnya cuma sanggup monitor 2K 180Hz.
+238	Tapi pas lo cek laptopnya cuma sanggup monitor 2K 180Hz.
+239	Tapi pas lo cek laptopnya cuma sanggup monitor 2K 180Hz.
+240	Tapi pas lo cek laptopnya cuma sanggup monitor 2K 180Hz.
+241	Tapi pas lo cek laptopnya cuma sanggup monitor 2K 180Hz.
+242	Tapi pas lo cek laptopnya cuma sanggup monitor 2K 180Hz. Terus lo mau balikin laptopnya?
+243	Tapi pas lo cek laptopnya cuma sanggup monitor 2K 180Hz. Terus lo mau balikin laptopnya?
+244	Terus lo mau balikin laptopnya?
+245	Terus lo mau balikin laptopnya? Minta duit balik?
+246	Terus lo mau balikin laptopnya? Minta duit balik?
+247	Minta duit balik? Ribet nggak?
+248	Minta duit balik? Ribet nggak?
+249	Ribet nggak? Atau lo beli monitor duluan?
+250	Atau lo beli monitor duluan?
+251	Atau lo beli monitor duluan?
+252	Atau lo beli monitor duluan? Bawa monitornya ke showroom laptop.
+253	Atau lo beli monitor duluan? Bawa monitornya ke showroom laptop.
+254	Bawa monitornya ke showroom laptop.
+255	Bawa monitornya ke showroom laptop. Terus colok ke laptopnya.
+256	Bawa monitornya ke showroom laptop. Terus colok ke laptopnya.
+257	Terus colok ke laptopnya.
+258	Terus colok ke laptopnya. Eh ternyata laptopnya nggak support sama monitornya.
+259	Terus colok ke laptopnya. Eh ternyata laptopnya nggak support sama monitornya.
+260	Eh ternyata laptopnya nggak support sama monitornya.
+261	Eh ternyata laptopnya nggak support sama monitornya.
+262	Eh ternyata laptopnya nggak support sama monitornya. Terus lo mikir, ini nggak support karena max switch-nya belum diganti di setting-nya.
+263	Eh ternyata laptopnya nggak support sama monitornya. Terus lo mikir, ini nggak support karena max switch-nya belum diganti di setting-nya.
+264	Terus lo mikir, ini nggak support karena max switch-nya belum diganti di setting-nya.
+265	Terus lo mikir, ini nggak support karena max switch-nya belum diganti di setting-nya.
+266	Terus lo mikir, ini nggak support karena max switch-nya belum diganti di setting-nya.
+267	Terus lo mikir, ini nggak support karena max switch-nya belum diganti di setting-nya.
+268	Terus lo mikir, ini nggak support karena max switch-nya belum diganti di setting-nya.
+269	Terus lo mikir, ini nggak support karena max switch-nya belum diganti di setting-nya.
+270	Terus lo mikir, ini nggak support karena max switch-nya belum diganti di setting-nya. Apa emang nggak support dari native-nya?
+271	Terus lo mikir, ini nggak support karena max switch-nya belum diganti di setting-nya. Apa emang nggak support dari native-nya?
+272	Apa emang nggak support dari native-nya?
+273	Apa emang nggak support dari native-nya?
+274	Apa emang nggak support dari native-nya?
+275	Apa emang nggak support dari native-nya? Dan kalau emang laptopnya nggak support, lo obok-obok di showroom itu cari laptop yang support 2K 240Hz.
+276	Dan kalau emang laptopnya nggak support, lo obok-obok di showroom itu cari laptop yang support 2K 240Hz.
+277	Dan kalau emang laptopnya nggak support, lo obok-obok di showroom itu cari laptop yang support 2K 240Hz.
+278	Dan kalau emang laptopnya nggak support, lo obok-obok di showroom itu cari laptop yang support 2K 240Hz.
+279	Dan kalau emang laptopnya nggak support, lo obok-obok di showroom itu cari laptop yang support 2K 240Hz.
+280	Dan kalau emang laptopnya nggak support, lo obok-obok di showroom itu cari laptop yang support 2K 240Hz.
+281	Dan kalau emang laptopnya nggak support, lo obok-obok di showroom itu cari laptop yang support 2K 240Hz.
+282	Dan kalau emang laptopnya nggak support, lo obok-obok di showroom itu cari laptop yang support 2K 240Hz.
+283	Dan kalau emang laptopnya nggak support, lo obok-obok di showroom itu cari laptop yang support 2K 240Hz.
+284	Dan kalau emang laptopnya nggak support, lo obok-obok di showroom itu cari laptop yang support 2K 240Hz.
+285	Dan kalau emang laptopnya nggak support, lo obok-obok di showroom itu cari laptop yang support 2K 240Hz. Atau lo balikin monitornya ke tempat lo beli monitor dan minta duit balik?
+286	Dan kalau emang laptopnya nggak support, lo obok-obok di showroom itu cari laptop yang support 2K 240Hz. Atau lo balikin monitornya ke tempat lo beli monitor dan minta duit balik?
+287	Atau lo balikin monitornya ke tempat lo beli monitor dan minta duit balik?
+288	Atau lo balikin monitornya ke tempat lo beli monitor dan minta duit balik?
+289	Atau lo balikin monitornya ke tempat lo beli monitor dan minta duit balik?
+290	Atau lo balikin monitornya ke tempat lo beli monitor dan minta duit balik?
+291	Atau lo balikin monitornya ke tempat lo beli monitor dan minta duit balik? Bisa nggak?
+292	Atau lo balikin monitornya ke tempat lo beli monitor dan minta duit balik? Bisa nggak?
+293	Bisa nggak? Mampus nggak lo repotnya?
+294	Mampus nggak lo repotnya?
+295	Mampus nggak lo repotnya? Jangan lupa kalau beli kabel display, Lindi brand-nya.
+296	Mampus nggak lo repotnya? Jangan lupa kalau beli kabel display, Lindi brand-nya.
+297	Jangan lupa kalau beli kabel display, Lindi brand-nya.
+298	Jangan lupa kalau beli kabel display, Lindi brand-nya.
+299	Jangan lupa kalau beli kabel display, Lindi brand-nya. Lindi Type-C to HDMI 2.1.
+300	Jangan lupa kalau beli kabel display, Lindi brand-nya. Lindi Type-C to HDMI 2.1.
+301	Lindi Type-C to HDMI 2.1.
+302	Lindi Type-C to HDMI 2.1.
+303	Lindi Type-C to HDMI 2.1. Panjangnya 2 meter.
+304	Lindi Type-C to HDMI 2.1. Panjangnya 2 meter.
+305	Panjangnya 2 meter. Support resolusi 8K 60Hz atau 4K 120Hz.
+306	Panjangnya 2 meter. Support resolusi 8K 60Hz atau 4K 120Hz.
+307	Support resolusi 8K 60Hz atau 4K 120Hz.
+308	Support resolusi 8K 60Hz atau 4K 120Hz.
+309	Support resolusi 8K 60Hz atau 4K 120Hz.
+310	Support resolusi 8K 60Hz atau 4K 120Hz.
+311	Support resolusi 8K 60Hz atau 4K 120Hz.
+312	Support resolusi 8K 60Hz atau 4K 120Hz.
+313	Support resolusi 8K 60Hz atau 4K 120Hz. Plus udah ada fitur HDR10.
+314	Support resolusi 8K 60Hz atau 4K 120Hz. Plus udah ada fitur HDR10.
+315	Plus udah ada fitur HDR10.
+316	Plus udah ada fitur HDR10.
+317	Plus udah ada fitur HDR10.
+318	Plus udah ada fitur HDR10. Jadi buat lo yang punya monitor HDR, bisa dipake.
+319	Plus udah ada fitur HDR10. Jadi buat lo yang punya monitor HDR, bisa dipake.
+320	Jadi buat lo yang punya monitor HDR, bisa dipake.
+321	Jadi buat lo yang punya monitor HDR, bisa dipake.
+322	Jadi buat lo yang punya monitor HDR, bisa dipake.
+323	Jadi buat lo yang punya monitor HDR, bisa dipake.
+324	Jadi buat lo yang punya monitor HDR, bisa dipake. Udah garansi 24 bulan Lindi.
+325	Jadi buat lo yang punya monitor HDR, bisa dipake. Udah garansi 24 bulan Lindi.
+326	Udah garansi 24 bulan Lindi.
+327	Udah garansi 24 bulan Lindi. Buat detail lengkapnya, cek deskripsi di bawah.
+328	Udah garansi 24 bulan Lindi. Buat detail lengkapnya, cek deskripsi di bawah.
+329	Buat detail lengkapnya, cek deskripsi di bawah.
+330	Buat detail lengkapnya, cek deskripsi di bawah.
+331	Buat detail lengkapnya, cek deskripsi di bawah.
+332	Buat detail lengkapnya, cek deskripsi di bawah.
+333	Buat detail lengkapnya, cek deskripsi di bawah.
+334	[NO_SPEECH]
+335	[NO_SPEECH]
+336	Dan lebih lagi, spesifikasi yang ditulis di laptop bisa jadi sama kayak PC tulisnya.
+337	Dan lebih lagi, spesifikasi yang ditulis di laptop bisa jadi sama kayak PC tulisnya.
+338	Dan lebih lagi, spesifikasi yang ditulis di laptop bisa jadi sama kayak PC tulisnya.
+339	Dan lebih lagi, spesifikasi yang ditulis di laptop bisa jadi sama kayak PC tulisnya.
+340	Dan lebih lagi, spesifikasi yang ditulis di laptop bisa jadi sama kayak PC tulisnya.
+341	Dan lebih lagi, spesifikasi yang ditulis di laptop bisa jadi sama kayak PC tulisnya.
+342	Dan lebih lagi, spesifikasi yang ditulis di laptop bisa jadi sama kayak PC tulisnya.
+343	Dan lebih lagi, spesifikasi yang ditulis di laptop bisa jadi sama kayak PC tulisnya.
+344	Dan lebih lagi, spesifikasi yang ditulis di laptop bisa jadi sama kayak PC tulisnya.
+345	Dan lebih lagi, spesifikasi yang ditulis di laptop bisa jadi sama kayak PC tulisnya.
+346	Dan lebih lagi, spesifikasi yang ditulis di laptop bisa jadi sama kayak PC tulisnya.
+347	Dan lebih lagi, spesifikasi yang ditulis di laptop bisa jadi sama kayak PC tulisnya. Misalnya lo liat laptop RTX 4060.
+348	Dan lebih lagi, spesifikasi yang ditulis di laptop bisa jadi sama kayak PC tulisnya. Misalnya lo liat laptop RTX 4060.
+349	Misalnya lo liat laptop RTX 4060.
+350	Misalnya lo liat laptop RTX 4060.
+351	Misalnya lo liat laptop RTX 4060.
+352	Misalnya lo liat laptop RTX 4060. Lo jangan sampai mikir.
+353	Lo jangan sampai mikir.
+354	Lo jangan sampai mikir.
+355	Lo jangan sampai mikir. Kalo kemampuannya sama kayak 4060-nya PC.
+356	Lo jangan sampai mikir. Kalo kemampuannya sama kayak 4060-nya PC.
+357	Kalo kemampuannya sama kayak 4060-nya PC.
+358	Kalo kemampuannya sama kayak 4060-nya PC.
+359	Kalo kemampuannya sama kayak 4060-nya PC.
+360	Kalo kemampuannya sama kayak 4060-nya PC.
+361	Kalo kemampuannya sama kayak 4060-nya PC.
+362	Kalo kemampuannya sama kayak 4060-nya PC. Lo harus cek listrik yang dibolehin makan sama RTX itu berapa.
+363	Lo harus cek listrik yang dibolehin makan sama RTX itu berapa.
+364	Lo harus cek listrik yang dibolehin makan sama RTX itu berapa.
+365	Lo harus cek listrik yang dibolehin makan sama RTX itu berapa.
+366	Lo harus cek listrik yang dibolehin makan sama RTX itu berapa.
+367	Lo harus cek listrik yang dibolehin makan sama RTX itu berapa.
+368	Lo harus cek listrik yang dibolehin makan sama RTX itu berapa. Itu pengaruh sama kemampuan GPU-nya.
+369	Lo harus cek listrik yang dibolehin makan sama RTX itu berapa. Itu pengaruh sama kemampuan GPU-nya.
+370	Itu pengaruh sama kemampuan GPU-nya.
+371	Itu pengaruh sama kemampuan GPU-nya.
+372	Itu pengaruh sama kemampuan GPU-nya.
+373	Itu pengaruh sama kemampuan GPU-nya. Dan lo juga harus cek laptop gaming itu jalan maksimal harus terus-terusan dicolokin listrik.
+374	Dan lo juga harus cek laptop gaming itu jalan maksimal harus terus-terusan dicolokin listrik.
+375	Dan lo juga harus cek laptop gaming itu jalan maksimal harus terus-terusan dicolokin listrik.
+376	Dan lo juga harus cek laptop gaming itu jalan maksimal harus terus-terusan dicolokin listrik.
+377	Dan lo juga harus cek laptop gaming itu jalan maksimal harus terus-terusan dicolokin listrik.
+378	Dan lo juga harus cek laptop gaming itu jalan maksimal harus terus-terusan dicolokin listrik.
+379	Dan lo juga harus cek laptop gaming itu jalan maksimal harus terus-terusan dicolokin listrik.
+380	Dan lo juga harus cek laptop gaming itu jalan maksimal harus terus-terusan dicolokin listrik.
+381	Dan lo juga harus cek laptop gaming itu jalan maksimal harus terus-terusan dicolokin listrik.
+382	Dan lo juga harus cek laptop gaming itu jalan maksimal harus terus-terusan dicolokin listrik. Dan pas nggak dicolokin listrik, seberapa jatuh performance-nya.
+383	Dan lo juga harus cek laptop gaming itu jalan maksimal harus terus-terusan dicolokin listrik. Dan pas nggak dicolokin listrik, seberapa jatuh performance-nya.
+384	Dan pas nggak dicolokin listrik, seberapa jatuh performance-nya.
+385	Dan pas nggak dicolokin listrik, seberapa jatuh performance-nya.
+386	Dan pas nggak dicolokin listrik, seberapa jatuh performance-nya.
+387	Dan pas nggak dicolokin listrik, seberapa jatuh performance-nya.
+388	Dan pas nggak dicolokin listrik, seberapa jatuh performance-nya. Lo mesti tahu.
+389	Dan pas nggak dicolokin listrik, seberapa jatuh performance-nya. Lo mesti tahu. Dan apakah tuning brand-nya bagus nggak di software-nya buat pisahin performance itu.
+390	Lo mesti tahu. Dan apakah tuning brand-nya bagus nggak di software-nya buat pisahin performance itu.
+391	Dan apakah tuning brand-nya bagus nggak di software-nya buat pisahin performance itu.
+392	Dan apakah tuning brand-nya bagus nggak di software-nya buat pisahin performance itu.
+393	Dan apakah tuning brand-nya bagus nggak di software-nya buat pisahin performance itu.
+394	Dan apakah tuning brand-nya bagus nggak di software-nya buat pisahin performance itu.
+395	Dan apakah tuning brand-nya bagus nggak di software-nya buat pisahin performance itu.
+396	Dan apakah tuning brand-nya bagus nggak di software-nya buat pisahin performance itu.
+397	Dan apakah tuning brand-nya bagus nggak di software-nya buat pisahin performance itu.
+398	Dan apakah tuning brand-nya bagus nggak di software-nya buat pisahin performance itu.
+399	Dan apakah tuning brand-nya bagus nggak di software-nya buat pisahin performance itu. Dan apa lo bisa terima performance yang dipotong itu ketika lo nggak colokin listriknya.
+400	Dan apa lo bisa terima performance yang dipotong itu ketika lo nggak colokin listriknya.
+401	Dan apa lo bisa terima performance yang dipotong itu ketika lo nggak colokin listriknya.
+402	Dan apa lo bisa terima performance yang dipotong itu ketika lo nggak colokin listriknya.
+403	Dan apa lo bisa terima performance yang dipotong itu ketika lo nggak colokin listriknya.
+404	Dan apa lo bisa terima performance yang dipotong itu ketika lo nggak colokin listriknya.
+405	Dan apa lo bisa terima performance yang dipotong itu ketika lo nggak colokin listriknya.
+406	Dan apa lo bisa terima performance yang dipotong itu ketika lo nggak colokin listriknya.
+407	Dan apa lo bisa terima performance yang dipotong itu ketika lo nggak colokin listriknya.
+408	Dan apa lo bisa terima performance yang dipotong itu ketika lo nggak colokin listriknya. Tambah lagi nih, lo juga harus cek review di YouTube.
+409	Dan apa lo bisa terima performance yang dipotong itu ketika lo nggak colokin listriknya. Tambah lagi nih, lo juga harus cek review di YouTube.
+410	Tambah lagi nih, lo juga harus cek review di YouTube.
+411	Tambah lagi nih, lo juga harus cek review di YouTube.
+412	Tambah lagi nih, lo juga harus cek review di YouTube.
+413	Tambah lagi nih, lo juga harus cek review di YouTube. Cooling dari laptop yang lo mau beli itu bagus nggak pas laptop gamingnya digeber.
+414	Tambah lagi nih, lo juga harus cek review di YouTube. Cooling dari laptop yang lo mau beli itu bagus nggak pas laptop gamingnya digeber.
+415	Cooling dari laptop yang lo mau beli itu bagus nggak pas laptop gamingnya digeber.
+416	Cooling dari laptop yang lo mau beli itu bagus nggak pas laptop gamingnya digeber.
+417	Cooling dari laptop yang lo mau beli itu bagus nggak pas laptop gamingnya digeber.
+418	Cooling dari laptop yang lo mau beli itu bagus nggak pas laptop gamingnya digeber.
+419	Cooling dari laptop yang lo mau beli itu bagus nggak pas laptop gamingnya digeber.
+420	Cooling dari laptop yang lo mau beli itu bagus nggak pas laptop gamingnya digeber.
+421	Cooling dari laptop yang lo mau beli itu bagus nggak pas laptop gamingnya digeber.
+422	Cooling dari laptop yang lo mau beli itu bagus nggak pas laptop gamingnya digeber. Buat dinginin 2 chip di laptop yang ada CPU dan GPU-nya.
+423	Cooling dari laptop yang lo mau beli itu bagus nggak pas laptop gamingnya digeber. Buat dinginin 2 chip di laptop yang ada CPU dan GPU-nya.
+424	Buat dinginin 2 chip di laptop yang ada CPU dan GPU-nya.
+425	Buat dinginin 2 chip di laptop yang ada CPU dan GPU-nya.
+426	Buat dinginin 2 chip di laptop yang ada CPU dan GPU-nya.
+427	Buat dinginin 2 chip di laptop yang ada CPU dan GPU-nya.
+428	Buat dinginin 2 chip di laptop yang ada CPU dan GPU-nya.
+429	Buat dinginin 2 chip di laptop yang ada CPU dan GPU-nya. Lah kalo tuning cooling-nya goblok dari brand-nya, ya lo mesti repot lagi cari laptop gaming lain.
+430	Buat dinginin 2 chip di laptop yang ada CPU dan GPU-nya. Lah kalo tuning cooling-nya goblok dari brand-nya, ya lo mesti repot lagi cari laptop gaming lain.
+431	Lah kalo tuning cooling-nya goblok dari brand-nya, ya lo mesti repot lagi cari laptop gaming lain.
+432	Lah kalo tuning cooling-nya goblok dari brand-nya, ya lo mesti repot lagi cari laptop gaming lain.
+433	Lah kalo tuning cooling-nya goblok dari brand-nya, ya lo mesti repot lagi cari laptop gaming lain.
+434	Lah kalo tuning cooling-nya goblok dari brand-nya, ya lo mesti repot lagi cari laptop gaming lain.
+435	Lah kalo tuning cooling-nya goblok dari brand-nya, ya lo mesti repot lagi cari laptop gaming lain.
+436	Lah kalo tuning cooling-nya goblok dari brand-nya, ya lo mesti repot lagi cari laptop gaming lain.
+437	Lah kalo tuning cooling-nya goblok dari brand-nya, ya lo mesti repot lagi cari laptop gaming lain.
+438	Lah kalo tuning cooling-nya goblok dari brand-nya, ya lo mesti repot lagi cari laptop gaming lain.
+439	Lah kalo tuning cooling-nya goblok dari brand-nya, ya lo mesti repot lagi cari laptop gaming lain.
+440	Lah kalo tuning cooling-nya goblok dari brand-nya, ya lo mesti repot lagi cari laptop gaming lain. Ya lo liat lagi review lo.
+441	Lah kalo tuning cooling-nya goblok dari brand-nya, ya lo mesti repot lagi cari laptop gaming lain. Ya lo liat lagi review lo.
+442	Ya lo liat lagi review lo.
+443	Ya lo liat lagi review lo. Pelajarin lagi ulang.
+444	Ya lo liat lagi review lo. Pelajarin lagi ulang.
+445	Pelajarin lagi ulang.
+446	Pelajarin lagi ulang. Sampai di ujung sana, ya lo cek review-nya di online.
+447	Sampai di ujung sana, ya lo cek review-nya di online.
+448	Sampai di ujung sana, ya lo cek review-nya di online.
+449	Sampai di ujung sana, ya lo cek review-nya di online.
+450	Sampai di ujung sana, ya lo cek review-nya di online.
+451	Sampai di ujung sana, ya lo cek review-nya di online.
+452	Sampai di ujung sana, ya lo cek review-nya di online. Cooling-nya udah oke nih.
+453	Cooling-nya udah oke nih. Bentukan laptopnya juga udah lo suka.
+454	Cooling-nya udah oke nih. Bentukan laptopnya juga udah lo suka.
+455	Bentukan laptopnya juga udah lo suka.
+456	Bentukan laptopnya juga udah lo suka.
+457	Bentukan laptopnya juga udah lo suka. Lo belilah laptop gaming itu.
+458	Bentukan laptopnya juga udah lo suka. Lo belilah laptop gaming itu.
+459	Lo belilah laptop gaming itu.
+460	Lo belilah laptop gaming itu. Nah laptop gamingnya kan ada 2 chip di dalamnya.
+461	Lo belilah laptop gaming itu. Nah laptop gamingnya kan ada 2 chip di dalamnya.
+462	Nah laptop gamingnya kan ada 2 chip di dalamnya.
+463	Nah laptop gamingnya kan ada 2 chip di dalamnya.
+464	Nah laptop gamingnya kan ada 2 chip di dalamnya.
+465	Nah laptop gamingnya kan ada 2 chip di dalamnya. CPU, GPU.
+466	CPU, GPU. Lo geber lah gaming tiap hari.
+467	CPU, GPU. Lo geber lah gaming tiap hari.
+468	Lo geber lah gaming tiap hari.
+469	Lo geber lah gaming tiap hari.
+470	Lo geber lah gaming tiap hari. Kembali, lo di akhir lo.
+471	Kembali, lo di akhir lo.
+472	Kembali, lo di akhir lo.
+473	Kembali, lo di akhir lo.  Lo juga mesti terima.
+474	Kembali, lo di akhir lo.  Lo juga mesti terima.
+475	Lo juga mesti terima. Dengan ada 2 chip di dalamnya.
+476	Lo juga mesti terima. Dengan ada 2 chip di dalamnya.
+477	Dengan ada 2 chip di dalamnya.
+478	Dengan ada 2 chip di dalamnya.
+479	Dengan ada 2 chip di dalamnya. Berarti resiko laptop gaming itu rusak 2 kali lipat lebih besar.
+480	Dengan ada 2 chip di dalamnya. Berarti resiko laptop gaming itu rusak 2 kali lipat lebih besar.
+481	Berarti resiko laptop gaming itu rusak 2 kali lipat lebih besar.
+482	Berarti resiko laptop gaming itu rusak 2 kali lipat lebih besar.
+483	Berarti resiko laptop gaming itu rusak 2 kali lipat lebih besar.
+484	Berarti resiko laptop gaming itu rusak 2 kali lipat lebih besar.
+485	Berarti resiko laptop gaming itu rusak 2 kali lipat lebih besar.
+486	Berarti resiko laptop gaming itu rusak 2 kali lipat lebih besar.
+487	Berarti resiko laptop gaming itu rusak 2 kali lipat lebih besar.
+488	Berarti resiko laptop gaming itu rusak 2 kali lipat lebih besar. Dibanding laptop yang cuma ada prosesor di dalamnya.
+489	Dibanding laptop yang cuma ada prosesor di dalamnya.
+490	Dibanding laptop yang cuma ada prosesor di dalamnya.
+491	Dibanding laptop yang cuma ada prosesor di dalamnya.
+492	Dibanding laptop yang cuma ada prosesor di dalamnya.
+493	Dibanding laptop yang cuma ada prosesor di dalamnya.
+494	Dibanding laptop yang cuma ada prosesor di dalamnya. Tanpa ada GPU dedicated-nya.
+495	Dibanding laptop yang cuma ada prosesor di dalamnya. Tanpa ada GPU dedicated-nya.
+496	Tanpa ada GPU dedicated-nya.
+497	Tanpa ada GPU dedicated-nya.
+498	Tanpa ada GPU dedicated-nya. Ya memang itu nggak selalu terjadi.
+499	Tanpa ada GPU dedicated-nya. Ya memang itu nggak selalu terjadi.
+500	Ya memang itu nggak selalu terjadi.
+501	Ya memang itu nggak selalu terjadi. Tapi kan ya, laptop gaming ada 2 chip di dalamnya.
+502	Ya memang itu nggak selalu terjadi. Tapi kan ya, laptop gaming ada 2 chip di dalamnya.
+503	Tapi kan ya, laptop gaming ada 2 chip di dalamnya.
+504	Tapi kan ya, laptop gaming ada 2 chip di dalamnya.
+505	Tapi kan ya, laptop gaming ada 2 chip di dalamnya.
+506	Tapi kan ya, laptop gaming ada 2 chip di dalamnya.
+507	Tapi kan ya, laptop gaming ada 2 chip di dalamnya. Laptop biasa, 1 chip doang prosesor lo.
+508	Laptop biasa, 1 chip doang prosesor lo.
+509	Laptop biasa, 1 chip doang prosesor lo.
+510	Laptop biasa, 1 chip doang prosesor lo. Dan terakhir, lo juga mesti terima.
+511	Laptop biasa, 1 chip doang prosesor lo. Dan terakhir, lo juga mesti terima.
+512	Dan terakhir, lo juga mesti terima.
+513	Dan terakhir, lo juga mesti terima. Laptop gaming pada umumnya biasanya lebih berat dibanding laptop kerja kayak gini.
+514	Dan terakhir, lo juga mesti terima. Laptop gaming pada umumnya biasanya lebih berat dibanding laptop kerja kayak gini.
+515	Laptop gaming pada umumnya biasanya lebih berat dibanding laptop kerja kayak gini.
+516	Laptop gaming pada umumnya biasanya lebih berat dibanding laptop kerja kayak gini.
+517	Laptop gaming pada umumnya biasanya lebih berat dibanding laptop kerja kayak gini.
+518	Laptop gaming pada umumnya biasanya lebih berat dibanding laptop kerja kayak gini.
+519	Laptop gaming pada umumnya biasanya lebih berat dibanding laptop kerja kayak gini.
+520	Laptop gaming pada umumnya biasanya lebih berat dibanding laptop kerja kayak gini.
+521	Laptop gaming pada umumnya biasanya lebih berat dibanding laptop kerja kayak gini.
+522	Laptop gaming pada umumnya biasanya lebih berat dibanding laptop kerja kayak gini.
+523	Laptop gaming pada umumnya biasanya lebih berat dibanding laptop kerja kayak gini.
+524	Laptop gaming pada umumnya biasanya lebih berat dibanding laptop kerja kayak gini.
+525	Laptop gaming pada umumnya biasanya lebih berat dibanding laptop kerja kayak gini. Elegan banget kan ini.
+526	Elegan banget kan ini.
+527	Elegan banget kan ini. Dan terakhir, gue pernah denger alasan dari orang yang beli laptop.
+528	Elegan banget kan ini. Dan terakhir, gue pernah denger alasan dari orang yang beli laptop.
+529	Dan terakhir, gue pernah denger alasan dari orang yang beli laptop.
+530	Dan terakhir, gue pernah denger alasan dari orang yang beli laptop.
+531	Dan terakhir, gue pernah denger alasan dari orang yang beli laptop.
+532	Dan terakhir, gue pernah denger alasan dari orang yang beli laptop.
+533	Dan terakhir, gue pernah denger alasan dari orang yang beli laptop. Dia bilang biar bisa gaming di mana aja.
+534	Dan terakhir, gue pernah denger alasan dari orang yang beli laptop. Dia bilang biar bisa gaming di mana aja.
+535	Dia bilang biar bisa gaming di mana aja.
+536	Dia bilang biar bisa gaming di mana aja.
+537	Dia bilang biar bisa gaming di mana aja.
+538	Dia bilang biar bisa gaming di mana aja.
+539	Dia bilang biar bisa gaming di mana aja.
+540	Dia bilang biar bisa gaming di mana aja.
+541	Dia bilang biar bisa gaming di mana aja. Ya gue bingung lah.
+542	Dia bilang biar bisa gaming di mana aja. Ya gue bingung lah.
+543	Ya gue bingung lah. Kapan terakhir kali lo liat orang pergi ke cafe shop buat gaming?
+544	Ya gue bingung lah. Kapan terakhir kali lo liat orang pergi ke cafe shop buat gaming?
+545	Kapan terakhir kali lo liat orang pergi ke cafe shop buat gaming?
+546	Kapan terakhir kali lo liat orang pergi ke cafe shop buat gaming?
+547	Kapan terakhir kali lo liat orang pergi ke cafe shop buat gaming?
+548	Kapan terakhir kali lo liat orang pergi ke cafe shop buat gaming?
+549	Kapan terakhir kali lo liat orang pergi ke cafe shop buat gaming?
+550	Kapan terakhir kali lo liat orang pergi ke cafe shop buat gaming?
+551	Kapan terakhir kali lo liat orang pergi ke cafe shop buat gaming?
+552	Kapan terakhir kali lo liat orang pergi ke cafe shop buat gaming? Dan lagian kalo gamingnya single player, lo mainnya ya di rumah aja bos.
+553	Dan lagian kalo gamingnya single player, lo mainnya ya di rumah aja bos.
+554	Dan lagian kalo gamingnya single player, lo mainnya ya di rumah aja bos.
+555	Dan lagian kalo gamingnya single player, lo mainnya ya di rumah aja bos.
+556	Dan lagian kalo gamingnya single player, lo mainnya ya di rumah aja bos.
+557	Dan lagian kalo gamingnya single player, lo mainnya ya di rumah aja bos.
+558	Dan lagian kalo gamingnya single player, lo mainnya ya di rumah aja bos.
+559	Dan lagian kalo gamingnya single player, lo mainnya ya di rumah aja bos. Bukan yang lebih nyaman dibanding lo gaming di cafe shop.
+560	Dan lagian kalo gamingnya single player, lo mainnya ya di rumah aja bos. Bukan yang lebih nyaman dibanding lo gaming di cafe shop.
+561	Bukan yang lebih nyaman dibanding lo gaming di cafe shop.
+562	Bukan yang lebih nyaman dibanding lo gaming di cafe shop.
+563	Bukan yang lebih nyaman dibanding lo gaming di cafe shop.
+564	Bukan yang lebih nyaman dibanding lo gaming di cafe shop.
+565	Bukan yang lebih nyaman dibanding lo gaming di cafe shop.
+566	Bukan yang lebih nyaman dibanding lo gaming di cafe shop.
+567	Bukan yang lebih nyaman dibanding lo gaming di cafe shop. Kalo game multiplayer, ya lo tinggal main online aja di rumah bos.
+568	Kalo game multiplayer, ya lo tinggal main online aja di rumah bos.
+569	Kalo game multiplayer, ya lo tinggal main online aja di rumah bos.
+570	Kalo game multiplayer, ya lo tinggal main online aja di rumah bos.
+571	Kalo game multiplayer, ya lo tinggal main online aja di rumah bos.
+572	Kalo game multiplayer, ya lo tinggal main online aja di rumah bos.
+573	Kalo game multiplayer, ya lo tinggal main online aja di rumah bos.
+574	Kalo game multiplayer, ya lo tinggal main online aja di rumah bos.
+575	Kalo game multiplayer, ya lo tinggal main online aja di rumah bos.
+576	Kalo game multiplayer, ya lo tinggal main online aja di rumah bos. Enak lagi.
+577	Enak lagi.
+578	Enak lagi. Pas lagi kebelet, ya lo tinggal berak aja di toilet rumah lo yang udah pasti lo nyaman.
+579	Enak lagi. Pas lagi kebelet, ya lo tinggal berak aja di toilet rumah lo yang udah pasti lo nyaman.
+580	Pas lagi kebelet, ya lo tinggal berak aja di toilet rumah lo yang udah pasti lo nyaman.
+581	Pas lagi kebelet, ya lo tinggal berak aja di toilet rumah lo yang udah pasti lo nyaman.
+582	Pas lagi kebelet, ya lo tinggal berak aja di toilet rumah lo yang udah pasti lo nyaman.
+583	Pas lagi kebelet, ya lo tinggal berak aja di toilet rumah lo yang udah pasti lo nyaman.
+584	Pas lagi kebelet, ya lo tinggal berak aja di toilet rumah lo yang udah pasti lo nyaman.
+585	Pas lagi kebelet, ya lo tinggal berak aja di toilet rumah lo yang udah pasti lo nyaman.
+586	Pas lagi kebelet, ya lo tinggal berak aja di toilet rumah lo yang udah pasti lo nyaman. Iya, iya.
+587	Pas lagi kebelet, ya lo tinggal berak aja di toilet rumah lo yang udah pasti lo nyaman. Iya, iya.
+588	Iya, iya. Laptop gaming pasti ada yang butuh.
+589	Iya, iya. Laptop gaming pasti ada yang butuh.
+590	Laptop gaming pasti ada yang butuh.
+591	Laptop gaming pasti ada yang butuh. Buat orang-orang yang mungkin kuliah di luar negeri,
+592	Laptop gaming pasti ada yang butuh. Buat orang-orang yang mungkin kuliah di luar negeri,
+593	Buat orang-orang yang mungkin kuliah di luar negeri,
+594	Buat orang-orang yang mungkin kuliah di luar negeri,
+595	Buat orang-orang yang mungkin kuliah di luar negeri,
+596	Buat orang-orang yang mungkin kuliah di luar negeri, dia mau sambil gaming di luar negeri, bisa buat kerja juga.
+597	Buat orang-orang yang mungkin kuliah di luar negeri, dia mau sambil gaming di luar negeri, bisa buat kerja juga.
+598	dia mau sambil gaming di luar negeri, bisa buat kerja juga.
+599	dia mau sambil gaming di luar negeri, bisa buat kerja juga.
+600	dia mau sambil gaming di luar negeri, bisa buat kerja juga.
+601	dia mau sambil gaming di luar negeri, bisa buat kerja juga.
+602	dia mau sambil gaming di luar negeri, bisa buat kerja juga. Dan karena performance laptop gaming lebih besar biasanya,
+603	dia mau sambil gaming di luar negeri, bisa buat kerja juga. Dan karena performance laptop gaming lebih besar biasanya,
+604	Dan karena performance laptop gaming lebih besar biasanya,
+605	Dan karena performance laptop gaming lebih besar biasanya,
+606	Dan karena performance laptop gaming lebih besar biasanya,
+607	Dan karena performance laptop gaming lebih besar biasanya,
+608	Dan karena performance laptop gaming lebih besar biasanya, seringkali memang dipake sama orang-orang kreatif yang mesti render cepet di luaran.
+609	Dan karena performance laptop gaming lebih besar biasanya, seringkali memang dipake sama orang-orang kreatif yang mesti render cepet di luaran.
+610	seringkali memang dipake sama orang-orang kreatif yang mesti render cepet di luaran.
+611	seringkali memang dipake sama orang-orang kreatif yang mesti render cepet di luaran.
+612	seringkali memang dipake sama orang-orang kreatif yang mesti render cepet di luaran.
+613	seringkali memang dipake sama orang-orang kreatif yang mesti render cepet di luaran.
+614	seringkali memang dipake sama orang-orang kreatif yang mesti render cepet di luaran.
+615	seringkali memang dipake sama orang-orang kreatif yang mesti render cepet di luaran.
+616	seringkali memang dipake sama orang-orang kreatif yang mesti render cepet di luaran.
+617	seringkali memang dipake sama orang-orang kreatif yang mesti render cepet di luaran.
+618	seringkali memang dipake sama orang-orang kreatif yang mesti render cepet di luaran. Di luar rumah gitu misalnya.
+619	seringkali memang dipake sama orang-orang kreatif yang mesti render cepet di luaran. Di luar rumah gitu misalnya.
+620	Di luar rumah gitu misalnya.
+621	Di luar rumah gitu misalnya. Contohnya, SMD Edit, orang-orang nikahan, atau pekerja kreatif lainnya yang 3D rendering.
+622	Di luar rumah gitu misalnya. Contohnya, SMD Edit, orang-orang nikahan, atau pekerja kreatif lainnya yang 3D rendering.
+623	Contohnya, SMD Edit, orang-orang nikahan, atau pekerja kreatif lainnya yang 3D rendering.
+624	Contohnya, SMD Edit, orang-orang nikahan, atau pekerja kreatif lainnya yang 3D rendering.
+625	Contohnya, SMD Edit, orang-orang nikahan, atau pekerja kreatif lainnya yang 3D rendering.
+626	Contohnya, SMD Edit, orang-orang nikahan, atau pekerja kreatif lainnya yang 3D rendering.
+627	Contohnya, SMD Edit, orang-orang nikahan, atau pekerja kreatif lainnya yang 3D rendering.
+628	Contohnya, SMD Edit, orang-orang nikahan, atau pekerja kreatif lainnya yang 3D rendering.
+629	Contohnya, SMD Edit, orang-orang nikahan, atau pekerja kreatif lainnya yang 3D rendering.
+630	Contohnya, SMD Edit, orang-orang nikahan, atau pekerja kreatif lainnya yang 3D rendering.
+631	Contohnya, SMD Edit, orang-orang nikahan, atau pekerja kreatif lainnya yang 3D rendering.
+632	Contohnya, SMD Edit, orang-orang nikahan, atau pekerja kreatif lainnya yang 3D rendering. Ya segala macem lah yang ada hubungannya sama render foto atau video yang mau cepet tapi di luar rumah.
+633	Ya segala macem lah yang ada hubungannya sama render foto atau video yang mau cepet tapi di luar rumah.
+634	Ya segala macem lah yang ada hubungannya sama render foto atau video yang mau cepet tapi di luar rumah.
+635	Ya segala macem lah yang ada hubungannya sama render foto atau video yang mau cepet tapi di luar rumah.
+636	Ya segala macem lah yang ada hubungannya sama render foto atau video yang mau cepet tapi di luar rumah.
+637	Ya segala macem lah yang ada hubungannya sama render foto atau video yang mau cepet tapi di luar rumah.
+638	Ya segala macem lah yang ada hubungannya sama render foto atau video yang mau cepet tapi di luar rumah.
+639	Ya segala macem lah yang ada hubungannya sama render foto atau video yang mau cepet tapi di luar rumah.
+640	Ya segala macem lah yang ada hubungannya sama render foto atau video yang mau cepet tapi di luar rumah.
+641	Ya segala macem lah yang ada hubungannya sama render foto atau video yang mau cepet tapi di luar rumah.
+642	Ya segala macem lah yang ada hubungannya sama render foto atau video yang mau cepet tapi di luar rumah. Tapi buat mayoritas orang, apakah guna beli laptop gaming?
+643	Tapi buat mayoritas orang, apakah guna beli laptop gaming?
+644	Tapi buat mayoritas orang, apakah guna beli laptop gaming?
+645	Tapi buat mayoritas orang, apakah guna beli laptop gaming?
+646	Tapi buat mayoritas orang, apakah guna beli laptop gaming?
+647	Tapi buat mayoritas orang, apakah guna beli laptop gaming?
+648	Tapi buat mayoritas orang, apakah guna beli laptop gaming?
+649	Tapi buat mayoritas orang, apakah guna beli laptop gaming?
+650	Tapi buat mayoritas orang, apakah guna beli laptop gaming?
+651	Tapi buat mayoritas orang, apakah guna beli laptop gaming? Di tengah dunia yang udah ada produknya masing-masing.
+652	Di tengah dunia yang udah ada produknya masing-masing.
+653	Di tengah dunia yang udah ada produknya masing-masing.
+654	Di tengah dunia yang udah ada produknya masing-masing.
+655	Di tengah dunia yang udah ada produknya masing-masing.
+656	Di tengah dunia yang udah ada produknya masing-masing. Lo sering kerja di luar, ada laptop biasa, ada Macbook juga.
+657	Di tengah dunia yang udah ada produknya masing-masing. Lo sering kerja di luar, ada laptop biasa, ada Macbook juga.
+658	Lo sering kerja di luar, ada laptop biasa, ada Macbook juga.
+659	Lo sering kerja di luar, ada laptop biasa, ada Macbook juga.
+660	Lo sering kerja di luar, ada laptop biasa, ada Macbook juga.
+661	Lo sering kerja di luar, ada laptop biasa, ada Macbook juga.
+662	Lo sering kerja di luar, ada laptop biasa, ada Macbook juga. Lo mau fokus gaming, ya lo bisa rakit PC.
+663	Lo sering kerja di luar, ada laptop biasa, ada Macbook juga. Lo mau fokus gaming, ya lo bisa rakit PC.
+664	Lo mau fokus gaming, ya lo bisa rakit PC.
+665	Lo mau fokus gaming, ya lo bisa rakit PC.
+666	Lo mau fokus gaming, ya lo bisa rakit PC. PC itu performance dan coolingnya udah pasti lebih baik dibanding laptop gaming.
+667	Lo mau fokus gaming, ya lo bisa rakit PC. PC itu performance dan coolingnya udah pasti lebih baik dibanding laptop gaming.
+668	PC itu performance dan coolingnya udah pasti lebih baik dibanding laptop gaming.
+669	PC itu performance dan coolingnya udah pasti lebih baik dibanding laptop gaming.
+670	PC itu performance dan coolingnya udah pasti lebih baik dibanding laptop gaming.
+671	PC itu performance dan coolingnya udah pasti lebih baik dibanding laptop gaming.
+672	PC itu performance dan coolingnya udah pasti lebih baik dibanding laptop gaming.
+673	PC itu performance dan coolingnya udah pasti lebih baik dibanding laptop gaming.
+674	PC itu performance dan coolingnya udah pasti lebih baik dibanding laptop gaming.
+675	PC itu performance dan coolingnya udah pasti lebih baik dibanding laptop gaming.
+676	PC itu performance dan coolingnya udah pasti lebih baik dibanding laptop gaming. Dan lagi, kalo lo bener-bener mau gaming bisa dimana aja,
+677	PC itu performance dan coolingnya udah pasti lebih baik dibanding laptop gaming. Dan lagi, kalo lo bener-bener mau gaming bisa dimana aja,
+678	Dan lagi, kalo lo bener-bener mau gaming bisa dimana aja,
+679	Dan lagi, kalo lo bener-bener mau gaming bisa dimana aja,
+680	Dan lagi, kalo lo bener-bener mau gaming bisa dimana aja,
+681	Dan lagi, kalo lo bener-bener mau gaming bisa dimana aja,
+682	Dan lagi, kalo lo bener-bener mau gaming bisa dimana aja, mulai ada segmen baru.
+683	Dan lagi, kalo lo bener-bener mau gaming bisa dimana aja, mulai ada segmen baru.
+684	mulai ada segmen baru.
+685	mulai ada segmen baru. Ya kayak Legend Go ini.
+686	mulai ada segmen baru. Ya kayak Legend Go ini.
+687	Ya kayak Legend Go ini.
+688	Ya kayak Legend Go ini.
+689	Ya kayak Legend Go ini. Yang Windows juga.
+690	Ya kayak Legend Go ini. Yang Windows juga.
+691	Yang Windows juga.
+692	Yang Windows juga. Aneh sih buat gua.
+693	Yang Windows juga. Aneh sih buat gua.
+694	Aneh sih buat gua.
+695	Aneh sih buat gua.
+696	Aneh sih buat gua. Laptop gaming dimananya masuk akal buat dibeli?
+697	Laptop gaming dimananya masuk akal buat dibeli?
+698	Laptop gaming dimananya masuk akal buat dibeli?
+699	Laptop gaming dimananya masuk akal buat dibeli?
+700	Laptop gaming dimananya masuk akal buat dibeli?
+701	Laptop gaming dimananya masuk akal buat dibeli? Apa lo setuju atau ga setuju sama argumen gua?
+702	Laptop gaming dimananya masuk akal buat dibeli? Apa lo setuju atau ga setuju sama argumen gua?
+703	Apa lo setuju atau ga setuju sama argumen gua?
+704	Apa lo setuju atau ga setuju sama argumen gua?
+705	Apa lo setuju atau ga setuju sama argumen gua? Lo bisa komen di bawah.
+706	Apa lo setuju atau ga setuju sama argumen gua? Lo bisa komen di bawah.
+707	Lo bisa komen di bawah.
+708	Lo bisa komen di bawah. Ingat, Top Up Games.
+709	Lo bisa komen di bawah. Ingat, Top Up Games.
+710	Ingat, Top Up Games.
+711	Ingat, Top Up Games. Ingat, Diri Loap.
+712	Ingat, Diri Loap.
+713	Ingat, Diri Loap.
+714	Ingat, Diri Loap.
+715	[NO_SPEECH]
+716	[NO_SPEECH]
+717	[NO_SPEECH]
+718	[NO_SPEECH]
+719	[NO_SPEECH]
+720	[NO_SPEECH]

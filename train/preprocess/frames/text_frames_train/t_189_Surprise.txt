@@ -1,0 +1,178 @@
+0	Ini adalah mobil yang sangat langka.
+1	Ini adalah mobil yang sangat langka.
+2	Ini adalah mobil yang sangat langka.
+3	Ini adalah mobil yang sangat langka. Di seluruh dunia hanya ada 15 unit dan sekarang ada di Indonesia di Evans Motor.
+4	Ini adalah mobil yang sangat langka. Di seluruh dunia hanya ada 15 unit dan sekarang ada di Indonesia di Evans Motor.
+5	Di seluruh dunia hanya ada 15 unit dan sekarang ada di Indonesia di Evans Motor.
+6	Di seluruh dunia hanya ada 15 unit dan sekarang ada di Indonesia di Evans Motor.
+7	Di seluruh dunia hanya ada 15 unit dan sekarang ada di Indonesia di Evans Motor.
+8	Di seluruh dunia hanya ada 15 unit dan sekarang ada di Indonesia di Evans Motor.
+9	Di seluruh dunia hanya ada 15 unit dan sekarang ada di Indonesia di Evans Motor.
+10	Di seluruh dunia hanya ada 15 unit dan sekarang ada di Indonesia di Evans Motor.
+11	Di seluruh dunia hanya ada 15 unit dan sekarang ada di Indonesia di Evans Motor.
+12	Di seluruh dunia hanya ada 15 unit dan sekarang ada di Indonesia di Evans Motor.
+13	Di seluruh dunia hanya ada 15 unit dan sekarang ada di Indonesia di Evans Motor.
+14	Di seluruh dunia hanya ada 15 unit dan sekarang ada di Indonesia di Evans Motor.
+15	Di seluruh dunia hanya ada 15 unit dan sekarang ada di Indonesia di Evans Motor.
+16	Ini adalah Audi R8 GT.
+17	Ini adalah Audi R8 GT.
+18	Ini adalah Audi R8 GT.
+19	Ini adalah Audi R8 GT.
+20	Ini adalah Audi R8 GT.
+21	Ini adalah Audi R8 GT. Edisi perpisahan dari Audi yang tidak lagi akan memproduksi Audi R8.
+22	Edisi perpisahan dari Audi yang tidak lagi akan memproduksi Audi R8.
+23	Edisi perpisahan dari Audi yang tidak lagi akan memproduksi Audi R8.
+24	Edisi perpisahan dari Audi yang tidak lagi akan memproduksi Audi R8.
+25	Edisi perpisahan dari Audi yang tidak lagi akan memproduksi Audi R8.
+26	Edisi perpisahan dari Audi yang tidak lagi akan memproduksi Audi R8.
+27	Edisi perpisahan dari Audi yang tidak lagi akan memproduksi Audi R8.
+28	Edisi perpisahan dari Audi yang tidak lagi akan memproduksi Audi R8.
+29	Edisi perpisahan dari Audi yang tidak lagi akan memproduksi Audi R8.
+30	Edisi perpisahan dari Audi yang tidak lagi akan memproduksi Audi R8.
+31	Edisi perpisahan dari Audi yang tidak lagi akan memproduksi Audi R8.
+32	Edisi perpisahan dari Audi yang tidak lagi akan memproduksi Audi R8.
+33	Edisi perpisahan dari Audi yang tidak lagi akan memproduksi Audi R8.
+34	Edisi perpisahan dari Audi yang tidak lagi akan memproduksi Audi R8.
+35	Edisi perpisahan dari Audi yang tidak lagi akan memproduksi Audi R8.
+36	[NO_SPEECH]
+37	Dan dia sangat spesial karena di seluruh dunia hanya diproduksi 333 unit.
+38	Dan dia sangat spesial karena di seluruh dunia hanya diproduksi 333 unit.
+39	Dan dia sangat spesial karena di seluruh dunia hanya diproduksi 333 unit.
+40	Dan dia sangat spesial karena di seluruh dunia hanya diproduksi 333 unit.
+41	Dan dia sangat spesial karena di seluruh dunia hanya diproduksi 333 unit.
+42	Dan dia sangat spesial karena di seluruh dunia hanya diproduksi 333 unit.
+43	Dan dia sangat spesial karena di seluruh dunia hanya diproduksi 333 unit.
+44	Dan dia sangat spesial karena di seluruh dunia hanya diproduksi 333 unit.
+45	Dan dia sangat spesial karena di seluruh dunia hanya diproduksi 333 unit.
+46	Dan dia sangat spesial karena di seluruh dunia hanya diproduksi 333 unit.
+47	Dan dia sangat spesial karena di seluruh dunia hanya diproduksi 333 unit.
+48	Dan dia sangat spesial karena di seluruh dunia hanya diproduksi 333 unit.
+49	Dan dia sangat spesial karena di seluruh dunia hanya diproduksi 333 unit. Tapi yang setir kanan dengar-dengar hanya ada 15 unit di dunia.
+50	Dan dia sangat spesial karena di seluruh dunia hanya diproduksi 333 unit. Tapi yang setir kanan dengar-dengar hanya ada 15 unit di dunia.
+51	Tapi yang setir kanan dengar-dengar hanya ada 15 unit di dunia.
+52	Tapi yang setir kanan dengar-dengar hanya ada 15 unit di dunia.
+53	Tapi yang setir kanan dengar-dengar hanya ada 15 unit di dunia.
+54	Tapi yang setir kanan dengar-dengar hanya ada 15 unit di dunia.
+55	Tapi yang setir kanan dengar-dengar hanya ada 15 unit di dunia.
+56	Tapi yang setir kanan dengar-dengar hanya ada 15 unit di dunia.
+57	Tapi yang setir kanan dengar-dengar hanya ada 15 unit di dunia.
+58	Tapi yang setir kanan dengar-dengar hanya ada 15 unit di dunia.
+59	Tapi yang setir kanan dengar-dengar hanya ada 15 unit di dunia.
+60	Tapi yang setir kanan dengar-dengar hanya ada 15 unit di dunia. Lebih istimewa lagi R8 GT ini bukan hanya dibuat untuk sekedar kosmetik saja.
+61	Lebih istimewa lagi R8 GT ini bukan hanya dibuat untuk sekedar kosmetik saja.
+62	Lebih istimewa lagi R8 GT ini bukan hanya dibuat untuk sekedar kosmetik saja.
+63	Lebih istimewa lagi R8 GT ini bukan hanya dibuat untuk sekedar kosmetik saja.
+64	Lebih istimewa lagi R8 GT ini bukan hanya dibuat untuk sekedar kosmetik saja.
+65	Lebih istimewa lagi R8 GT ini bukan hanya dibuat untuk sekedar kosmetik saja.
+66	Lebih istimewa lagi R8 GT ini bukan hanya dibuat untuk sekedar kosmetik saja.
+67	Lebih istimewa lagi R8 GT ini bukan hanya dibuat untuk sekedar kosmetik saja.
+68	Lebih istimewa lagi R8 GT ini bukan hanya dibuat untuk sekedar kosmetik saja.
+69	Lebih istimewa lagi R8 GT ini bukan hanya dibuat untuk sekedar kosmetik saja. Tapi memang dibuat untuk track performance yang lebih baik.
+70	Lebih istimewa lagi R8 GT ini bukan hanya dibuat untuk sekedar kosmetik saja. Tapi memang dibuat untuk track performance yang lebih baik.
+71	Tapi memang dibuat untuk track performance yang lebih baik.
+72	Tapi memang dibuat untuk track performance yang lebih baik.
+73	Tapi memang dibuat untuk track performance yang lebih baik.
+74	Tapi memang dibuat untuk track performance yang lebih baik.
+75	Tapi memang dibuat untuk track performance yang lebih baik. Makanya bobotnya lebih ringan 20 kg dibandingkan R8 standar dengan carbon fiber di mana-mana.
+76	Tapi memang dibuat untuk track performance yang lebih baik. Makanya bobotnya lebih ringan 20 kg dibandingkan R8 standar dengan carbon fiber di mana-mana.
+77	Makanya bobotnya lebih ringan 20 kg dibandingkan R8 standar dengan carbon fiber di mana-mana.
+78	Makanya bobotnya lebih ringan 20 kg dibandingkan R8 standar dengan carbon fiber di mana-mana.
+79	Makanya bobotnya lebih ringan 20 kg dibandingkan R8 standar dengan carbon fiber di mana-mana.
+80	Makanya bobotnya lebih ringan 20 kg dibandingkan R8 standar dengan carbon fiber di mana-mana.
+81	Makanya bobotnya lebih ringan 20 kg dibandingkan R8 standar dengan carbon fiber di mana-mana.
+82	Makanya bobotnya lebih ringan 20 kg dibandingkan R8 standar dengan carbon fiber di mana-mana.
+83	Makanya bobotnya lebih ringan 20 kg dibandingkan R8 standar dengan carbon fiber di mana-mana.
+84	Makanya bobotnya lebih ringan 20 kg dibandingkan R8 standar dengan carbon fiber di mana-mana.
+85	Makanya bobotnya lebih ringan 20 kg dibandingkan R8 standar dengan carbon fiber di mana-mana.
+86	Makanya bobotnya lebih ringan 20 kg dibandingkan R8 standar dengan carbon fiber di mana-mana. Spion, front spoiler, side skirt, rear spoiler, diffuser, bahkan di interiornya juga.
+87	Makanya bobotnya lebih ringan 20 kg dibandingkan R8 standar dengan carbon fiber di mana-mana. Spion, front spoiler, side skirt, rear spoiler, diffuser, bahkan di interiornya juga.
+88	Spion, front spoiler, side skirt, rear spoiler, diffuser, bahkan di interiornya juga.
+89	Spion, front spoiler, side skirt, rear spoiler, diffuser, bahkan di interiornya juga.
+90	Spion, front spoiler, side skirt, rear spoiler, diffuser, bahkan di interiornya juga.
+91	Spion, front spoiler, side skirt, rear spoiler, diffuser, bahkan di interiornya juga.
+92	Spion, front spoiler, side skirt, rear spoiler, diffuser, bahkan di interiornya juga.
+93	Spion, front spoiler, side skirt, rear spoiler, diffuser, bahkan di interiornya juga.
+94	Spion, front spoiler, side skirt, rear spoiler, diffuser, bahkan di interiornya juga.
+95	Spion, front spoiler, side skirt, rear spoiler, diffuser, bahkan di interiornya juga.
+96	Spion, front spoiler, side skirt, rear spoiler, diffuser, bahkan di interiornya juga.
+97	Spion, front spoiler, side skirt, rear spoiler, diffuser, bahkan di interiornya juga.
+98	Spion, front spoiler, side skirt, rear spoiler, diffuser, bahkan di interiornya juga.
+99	Spion, front spoiler, side skirt, rear spoiler, diffuser, bahkan di interiornya juga. Serta walaupun dia berpenggerak belakang yang biasanya tenagang.
+100	Serta walaupun dia berpenggerak belakang yang biasanya tenagang.
+101	Serta walaupun dia berpenggerak belakang yang biasanya tenagang.
+102	Serta walaupun dia berpenggerak belakang yang biasanya tenagang.
+103	Serta walaupun dia berpenggerak belakang yang biasanya tenagang.
+104	Serta walaupun dia berpenggerak belakang yang biasanya tenagang.
+105	Serta walaupun dia berpenggerak belakang yang biasanya tenagang.
+106	Serta walaupun dia berpenggerak belakang yang biasanya tenagang.
+107	Serta walaupun dia berpenggerak belakang yang biasanya tenagang.
+108	Serta walaupun dia berpenggerak belakang yang biasanya tenagang.
+109	Serta walaupun dia berpenggerak belakang yang biasanya tenagang. Tenaganya itu dikecilkan oleh Audi.
+110	Serta walaupun dia berpenggerak belakang yang biasanya tenagang. Tenaganya itu dikecilkan oleh Audi.
+111	Tenaganya itu dikecilkan oleh Audi.
+112	Tenaganya itu dikecilkan oleh Audi.
+113	Tenaganya itu dikecilkan oleh Audi. Tapi R8 GT ini memakai mesin yang paling bertenaga dari R8 yang biasanya hanya ada di varian all wheel drive.
+114	Tenaganya itu dikecilkan oleh Audi. Tapi R8 GT ini memakai mesin yang paling bertenaga dari R8 yang biasanya hanya ada di varian all wheel drive.
+115	Tapi R8 GT ini memakai mesin yang paling bertenaga dari R8 yang biasanya hanya ada di varian all wheel drive.
+116	Tapi R8 GT ini memakai mesin yang paling bertenaga dari R8 yang biasanya hanya ada di varian all wheel drive.
+117	Tapi R8 GT ini memakai mesin yang paling bertenaga dari R8 yang biasanya hanya ada di varian all wheel drive.
+118	Tapi R8 GT ini memakai mesin yang paling bertenaga dari R8 yang biasanya hanya ada di varian all wheel drive.
+119	Tapi R8 GT ini memakai mesin yang paling bertenaga dari R8 yang biasanya hanya ada di varian all wheel drive.
+120	Tapi R8 GT ini memakai mesin yang paling bertenaga dari R8 yang biasanya hanya ada di varian all wheel drive.
+121	Tapi R8 GT ini memakai mesin yang paling bertenaga dari R8 yang biasanya hanya ada di varian all wheel drive.
+122	Tapi R8 GT ini memakai mesin yang paling bertenaga dari R8 yang biasanya hanya ada di varian all wheel drive.
+123	Tapi R8 GT ini memakai mesin yang paling bertenaga dari R8 yang biasanya hanya ada di varian all wheel drive.
+124	Tapi R8 GT ini memakai mesin yang paling bertenaga dari R8 yang biasanya hanya ada di varian all wheel drive.
+125	Tapi R8 GT ini memakai mesin yang paling bertenaga dari R8 yang biasanya hanya ada di varian all wheel drive.
+126	Tapi R8 GT ini memakai mesin yang paling bertenaga dari R8 yang biasanya hanya ada di varian all wheel drive.
+127	Tapi R8 GT ini memakai mesin yang paling bertenaga dari R8 yang biasanya hanya ada di varian all wheel drive.
+128	Tapi R8 GT ini memakai mesin yang paling bertenaga dari R8 yang biasanya hanya ada di varian all wheel drive. Interiornya juga eksklusif dengan jog yang khusus dibuat untuk R8 GT dengan laburan Alcantara serta kulit.
+129	Interiornya juga eksklusif dengan jog yang khusus dibuat untuk R8 GT dengan laburan Alcantara serta kulit.
+130	Interiornya juga eksklusif dengan jog yang khusus dibuat untuk R8 GT dengan laburan Alcantara serta kulit.
+131	Interiornya juga eksklusif dengan jog yang khusus dibuat untuk R8 GT dengan laburan Alcantara serta kulit.
+132	Interiornya juga eksklusif dengan jog yang khusus dibuat untuk R8 GT dengan laburan Alcantara serta kulit.
+133	Interiornya juga eksklusif dengan jog yang khusus dibuat untuk R8 GT dengan laburan Alcantara serta kulit.
+134	Interiornya juga eksklusif dengan jog yang khusus dibuat untuk R8 GT dengan laburan Alcantara serta kulit.
+135	Interiornya juga eksklusif dengan jog yang khusus dibuat untuk R8 GT dengan laburan Alcantara serta kulit.
+136	Interiornya juga eksklusif dengan jog yang khusus dibuat untuk R8 GT dengan laburan Alcantara serta kulit.
+137	Interiornya juga eksklusif dengan jog yang khusus dibuat untuk R8 GT dengan laburan Alcantara serta kulit.
+138	Interiornya juga eksklusif dengan jog yang khusus dibuat untuk R8 GT dengan laburan Alcantara serta kulit.
+139	Interiornya juga eksklusif dengan jog yang khusus dibuat untuk R8 GT dengan laburan Alcantara serta kulit.
+140	Interiornya juga eksklusif dengan jog yang khusus dibuat untuk R8 GT dengan laburan Alcantara serta kulit.
+141	Interiornya juga eksklusif dengan jog yang khusus dibuat untuk R8 GT dengan laburan Alcantara serta kulit. Stir Alcantara, tuas transmisi Alcantara, carbon fiber di dalam.
+142	Interiornya juga eksklusif dengan jog yang khusus dibuat untuk R8 GT dengan laburan Alcantara serta kulit. Stir Alcantara, tuas transmisi Alcantara, carbon fiber di dalam.
+143	Stir Alcantara, tuas transmisi Alcantara, carbon fiber di dalam.
+144	Stir Alcantara, tuas transmisi Alcantara, carbon fiber di dalam.
+145	Stir Alcantara, tuas transmisi Alcantara, carbon fiber di dalam.
+146	Stir Alcantara, tuas transmisi Alcantara, carbon fiber di dalam.
+147	Stir Alcantara, tuas transmisi Alcantara, carbon fiber di dalam.
+148	Stir Alcantara, tuas transmisi Alcantara, carbon fiber di dalam.
+149	Stir Alcantara, tuas transmisi Alcantara, carbon fiber di dalam. Dan ini adalah varian yang sangat spesial untuk mengakhiri era dari Audi R8.
+150	Dan ini adalah varian yang sangat spesial untuk mengakhiri era dari Audi R8.
+151	Dan ini adalah varian yang sangat spesial untuk mengakhiri era dari Audi R8.
+152	Dan ini adalah varian yang sangat spesial untuk mengakhiri era dari Audi R8.
+153	Dan ini adalah varian yang sangat spesial untuk mengakhiri era dari Audi R8.
+154	Dan ini adalah varian yang sangat spesial untuk mengakhiri era dari Audi R8.
+155	Dan ini adalah varian yang sangat spesial untuk mengakhiri era dari Audi R8.
+156	Dan ini adalah varian yang sangat spesial untuk mengakhiri era dari Audi R8.
+157	Dan ini adalah varian yang sangat spesial untuk mengakhiri era dari Audi R8.
+158	Dan ini adalah varian yang sangat spesial untuk mengakhiri era dari Audi R8.
+159	Dan ini adalah varian yang sangat spesial untuk mengakhiri era dari Audi R8.
+160	Dan ini adalah varian yang sangat spesial untuk mengakhiri era dari Audi R8.
+161	Dan ini adalah varian yang sangat spesial untuk mengakhiri era dari Audi R8.
+162	Dan ini adalah varian yang sangat spesial untuk mengakhiri era dari Audi R8.
+163	Dan ini adalah varian yang sangat spesial untuk mengakhiri era dari Audi R8.
+164	Dan ini adalah varian yang sangat spesial untuk mengakhiri era dari Audi R8. Untuk keterangan lebih lanjut mengenai mobil ini.
+165	Dan ini adalah varian yang sangat spesial untuk mengakhiri era dari Audi R8. Untuk keterangan lebih lanjut mengenai mobil ini.
+166	Untuk keterangan lebih lanjut mengenai mobil ini.
+167	Untuk keterangan lebih lanjut mengenai mobil ini.
+168	Untuk keterangan lebih lanjut mengenai mobil ini.
+169	Untuk keterangan lebih lanjut mengenai mobil ini. Kan tonton videonya di channel Fitra Erik.
+170	Kan tonton videonya di channel Fitra Erik.
+171	Kan tonton videonya di channel Fitra Erik.
+172	Kan tonton videonya di channel Fitra Erik.
+173	Kan tonton videonya di channel Fitra Erik.
+174	Kan tonton videonya di channel Fitra Erik.
+175	Kan tonton videonya di channel Fitra Erik.
+176	[NO_SPEECH]
+177	[NO_SPEECH]

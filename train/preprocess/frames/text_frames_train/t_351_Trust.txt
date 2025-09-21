@@ -1,0 +1,107 @@
+0	5 latihan beban di rumah untuk lansia
+1	5 latihan beban di rumah untuk lansia
+2	5 latihan beban di rumah untuk lansia
+3	5 latihan beban di rumah untuk lansia Yang pertama, sit to stand
+4	5 latihan beban di rumah untuk lansia Yang pertama, sit to stand
+5	Yang pertama, sit to stand
+6	Yang pertama, sit to stand
+7	Yang pertama, sit to stand
+8	Yang pertama, sit to stand
+9	Yang pertama, sit to stand
+10	Yang pertama, sit to stand
+11	Gerak duduk berdiri dengan kursi dan bisa ditambah dengan pemberan
+12	Gerak duduk berdiri dengan kursi dan bisa ditambah dengan pemberan
+13	Gerak duduk berdiri dengan kursi dan bisa ditambah dengan pemberan
+14	Gerak duduk berdiri dengan kursi dan bisa ditambah dengan pemberan
+15	Gerak duduk berdiri dengan kursi dan bisa ditambah dengan pemberan
+16	Gerak duduk berdiri dengan kursi dan bisa ditambah dengan pemberan
+17	Gerak duduk berdiri dengan kursi dan bisa ditambah dengan pemberan
+18	Gerak duduk berdiri dengan kursi dan bisa ditambah dengan pemberan
+19	Gerak duduk berdiri dengan kursi dan bisa ditambah dengan pemberan
+20	Gerak duduk berdiri dengan kursi dan bisa ditambah dengan pemberan
+21	Gerak duduk berdiri dengan kursi dan bisa ditambah dengan pemberan
+22	Yang kedua, trunk extension
+23	Yang kedua, trunk extension
+24	Yang kedua, trunk extension
+25	Yang kedua, trunk extension
+26	Yang kedua, trunk extension
+27	Yang kedua, trunk extension
+28	Yang kedua, trunk extension
+29	Sambil tetap duduk, tekuk punggung ke depan lalu tegapkan kembali
+30	Sambil tetap duduk, tekuk punggung ke depan lalu tegapkan kembali
+31	Sambil tetap duduk, tekuk punggung ke depan lalu tegapkan kembali
+32	Sambil tetap duduk, tekuk punggung ke depan lalu tegapkan kembali
+33	Sambil tetap duduk, tekuk punggung ke depan lalu tegapkan kembali
+34	Sambil tetap duduk, tekuk punggung ke depan lalu tegapkan kembali
+35	Sambil tetap duduk, tekuk punggung ke depan lalu tegapkan kembali
+36	Sambil tetap duduk, tekuk punggung ke depan lalu tegapkan kembali
+37	Sambil tetap duduk, tekuk punggung ke depan lalu tegapkan kembali
+38	Sambil tetap duduk, tekuk punggung ke depan lalu tegapkan kembali
+39	Sambil tetap duduk, tekuk punggung ke depan lalu tegapkan kembali Bebannya disesuaikannya
+40	Sambil tetap duduk, tekuk punggung ke depan lalu tegapkan kembali Bebannya disesuaikannya
+41	Bebannya disesuaikannya
+42	Bebannya disesuaikannya Yang ketiga, inflane push up
+43	Bebannya disesuaikannya Yang ketiga, inflane push up
+44	Yang ketiga, inflane push up
+45	Yang ketiga, inflane push up
+46	Yang ketiga, inflane push up
+47	Yang ketiga, inflane push up Lakukan push up dengan menggunakan tembok
+48	Yang ketiga, inflane push up Lakukan push up dengan menggunakan tembok
+49	Lakukan push up dengan menggunakan tembok
+50	Lakukan push up dengan menggunakan tembok
+51	Lakukan push up dengan menggunakan tembok
+52	Lakukan push up dengan menggunakan tembok
+53	Lakukan push up dengan menggunakan tembok
+54	Yang keempat, seated overhead press
+55	Yang keempat, seated overhead press
+56	Yang keempat, seated overhead press
+57	Yang keempat, seated overhead press
+58	Yang keempat, seated overhead press
+59	Yang keempat, seated overhead press
+60	Yang keempat, seated overhead press
+61	Yang keempat, seated overhead press Sambil duduk, angkat botol ke atas atau bisa menggunakan dengan dumbbell
+62	Sambil duduk, angkat botol ke atas atau bisa menggunakan dengan dumbbell
+63	Sambil duduk, angkat botol ke atas atau bisa menggunakan dengan dumbbell
+64	Sambil duduk, angkat botol ke atas atau bisa menggunakan dengan dumbbell
+65	Sambil duduk, angkat botol ke atas atau bisa menggunakan dengan dumbbell
+66	Sambil duduk, angkat botol ke atas atau bisa menggunakan dengan dumbbell
+67	Sambil duduk, angkat botol ke atas atau bisa menggunakan dengan dumbbell
+68	Sambil duduk, angkat botol ke atas atau bisa menggunakan dengan dumbbell
+69	Sambil duduk, angkat botol ke atas atau bisa menggunakan dengan dumbbell
+70	Sambil duduk, angkat botol ke atas atau bisa menggunakan dengan dumbbell
+71	Sambil duduk, angkat botol ke atas atau bisa menggunakan dengan dumbbell Yang kelima, seated dumbbell row
+72	Sambil duduk, angkat botol ke atas atau bisa menggunakan dengan dumbbell Yang kelima, seated dumbbell row
+73	Sambil duduk, angkat botol ke atas atau bisa menggunakan dengan dumbbell Yang kelima, seated dumbbell row
+74	Yang kelima, seated dumbbell row
+75	Yang kelima, seated dumbbell row
+76	Yang kelima, seated dumbbell row
+77	Yang kelima, seated dumbbell row
+78	Yang kelima, seated dumbbell row Dengan posisi punggung maju ke depan, angkat siku ke atas sambil memegang beban
+79	Yang kelima, seated dumbbell row Dengan posisi punggung maju ke depan, angkat siku ke atas sambil memegang beban
+80	Dengan posisi punggung maju ke depan, angkat siku ke atas sambil memegang beban
+81	Dengan posisi punggung maju ke depan, angkat siku ke atas sambil memegang beban
+82	Dengan posisi punggung maju ke depan, angkat siku ke atas sambil memegang beban
+83	Dengan posisi punggung maju ke depan, angkat siku ke atas sambil memegang beban
+84	Dengan posisi punggung maju ke depan, angkat siku ke atas sambil memegang beban
+85	Dengan posisi punggung maju ke depan, angkat siku ke atas sambil memegang beban
+86	Dengan posisi punggung maju ke depan, angkat siku ke atas sambil memegang beban
+87	Dengan posisi punggung maju ke depan, angkat siku ke atas sambil memegang beban
+88	Dengan posisi punggung maju ke depan, angkat siku ke atas sambil memegang beban
+89	Dengan posisi punggung maju ke depan, angkat siku ke atas sambil memegang beban
+90	Dengan posisi punggung maju ke depan, angkat siku ke atas sambil memegang beban Lakukan ini 2-3 kali seminggu ya
+91	Dengan posisi punggung maju ke depan, angkat siku ke atas sambil memegang beban Lakukan ini 2-3 kali seminggu ya
+92	Lakukan ini 2-3 kali seminggu ya
+93	Lakukan ini 2-3 kali seminggu ya
+94	Lakukan ini 2-3 kali seminggu ya
+95	Lakukan ini 2-3 kali seminggu ya
+96	Lakukan ini 2-3 kali seminggu ya
+97	Lakukan ini 2-3 kali seminggu ya
+98	Lakukan ini 2-3 kali seminggu ya Follow aku untuk tips berikutnya
+99	Lakukan ini 2-3 kali seminggu ya Follow aku untuk tips berikutnya
+100	Follow aku untuk tips berikutnya
+101	Follow aku untuk tips berikutnya
+102	Follow aku untuk tips berikutnya
+103	Follow aku untuk tips berikutnya
+104	Follow aku untuk tips berikutnya
+105	[NO_SPEECH]
+106	[NO_SPEECH]

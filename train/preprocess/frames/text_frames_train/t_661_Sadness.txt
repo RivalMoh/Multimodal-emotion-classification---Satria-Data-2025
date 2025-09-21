@@ -1,0 +1,70 @@
+0	Tahu kak mam, anak rentan mengonsumsi minuman tinggi gula saat beraktivitas di luar rumah lho.
+1	Tahu kak mam, anak rentan mengonsumsi minuman tinggi gula saat beraktivitas di luar rumah lho.
+2	Tahu kak mam, anak rentan mengonsumsi minuman tinggi gula saat beraktivitas di luar rumah lho.
+3	Tahu kak mam, anak rentan mengonsumsi minuman tinggi gula saat beraktivitas di luar rumah lho.
+4	Tahu kak mam, anak rentan mengonsumsi minuman tinggi gula saat beraktivitas di luar rumah lho.
+5	Tahu kak mam, anak rentan mengonsumsi minuman tinggi gula saat beraktivitas di luar rumah lho.
+6	Tahu kak mam, anak rentan mengonsumsi minuman tinggi gula saat beraktivitas di luar rumah lho.
+7	Tahu kak mam, anak rentan mengonsumsi minuman tinggi gula saat beraktivitas di luar rumah lho.
+8	Tahu kak mam, anak rentan mengonsumsi minuman tinggi gula saat beraktivitas di luar rumah lho.
+9	Tahu kak mam, anak rentan mengonsumsi minuman tinggi gula saat beraktivitas di luar rumah lho.
+10	Tahu kak mam, anak rentan mengonsumsi minuman tinggi gula saat beraktivitas di luar rumah lho.
+11	Tahu kak mam, anak rentan mengonsumsi minuman tinggi gula saat beraktivitas di luar rumah lho.
+12	Tahu kak mam, anak rentan mengonsumsi minuman tinggi gula saat beraktivitas di luar rumah lho. Biasanya, kebiasaan ini rentan terjadi saat anak sedang sekolah, les, atau bermain.
+13	Biasanya, kebiasaan ini rentan terjadi saat anak sedang sekolah, les, atau bermain.
+14	Biasanya, kebiasaan ini rentan terjadi saat anak sedang sekolah, les, atau bermain.
+15	Biasanya, kebiasaan ini rentan terjadi saat anak sedang sekolah, les, atau bermain.
+16	Biasanya, kebiasaan ini rentan terjadi saat anak sedang sekolah, les, atau bermain.
+17	Biasanya, kebiasaan ini rentan terjadi saat anak sedang sekolah, les, atau bermain.
+18	Biasanya, kebiasaan ini rentan terjadi saat anak sedang sekolah, les, atau bermain.
+19	Biasanya, kebiasaan ini rentan terjadi saat anak sedang sekolah, les, atau bermain.
+20	Biasanya, kebiasaan ini rentan terjadi saat anak sedang sekolah, les, atau bermain.
+21	Biasanya, kebiasaan ini rentan terjadi saat anak sedang sekolah, les, atau bermain.
+22	Biasanya, kebiasaan ini rentan terjadi saat anak sedang sekolah, les, atau bermain.
+23	Biasanya, kebiasaan ini rentan terjadi saat anak sedang sekolah, les, atau bermain.
+24	Biasanya, kebiasaan ini rentan terjadi saat anak sedang sekolah, les, atau bermain.
+25	Biasanya, kebiasaan ini rentan terjadi saat anak sedang sekolah, les, atau bermain.
+26	Biasanya, kebiasaan ini rentan terjadi saat anak sedang sekolah, les, atau bermain.
+27	Padahal, konsumsi minuman tinggi gula bisa berdampak buruk bagi kesehatan anak.
+28	Padahal, konsumsi minuman tinggi gula bisa berdampak buruk bagi kesehatan anak.
+29	Padahal, konsumsi minuman tinggi gula bisa berdampak buruk bagi kesehatan anak.
+30	Padahal, konsumsi minuman tinggi gula bisa berdampak buruk bagi kesehatan anak.
+31	Padahal, konsumsi minuman tinggi gula bisa berdampak buruk bagi kesehatan anak.
+32	Padahal, konsumsi minuman tinggi gula bisa berdampak buruk bagi kesehatan anak.
+33	Padahal, konsumsi minuman tinggi gula bisa berdampak buruk bagi kesehatan anak.
+34	Padahal, konsumsi minuman tinggi gula bisa berdampak buruk bagi kesehatan anak.
+35	Padahal, konsumsi minuman tinggi gula bisa berdampak buruk bagi kesehatan anak.
+36	Padahal, konsumsi minuman tinggi gula bisa berdampak buruk bagi kesehatan anak.
+37	Padahal, konsumsi minuman tinggi gula bisa berdampak buruk bagi kesehatan anak.
+38	Padahal, konsumsi minuman tinggi gula bisa berdampak buruk bagi kesehatan anak.
+39	Padahal, konsumsi minuman tinggi gula bisa berdampak buruk bagi kesehatan anak. Lalu, gimana caranya memilih asupan minuman yang tepat untuk anak?
+40	Lalu, gimana caranya memilih asupan minuman yang tepat untuk anak?
+41	Lalu, gimana caranya memilih asupan minuman yang tepat untuk anak?
+42	Lalu, gimana caranya memilih asupan minuman yang tepat untuk anak?
+43	Lalu, gimana caranya memilih asupan minuman yang tepat untuk anak?
+44	Lalu, gimana caranya memilih asupan minuman yang tepat untuk anak?
+45	Lalu, gimana caranya memilih asupan minuman yang tepat untuk anak?
+46	Lalu, gimana caranya memilih asupan minuman yang tepat untuk anak?
+47	Lalu, gimana caranya memilih asupan minuman yang tepat untuk anak?
+48	Lalu, gimana caranya memilih asupan minuman yang tepat untuk anak?
+49	Lalu, gimana caranya memilih asupan minuman yang tepat untuk anak?
+50	Lalu, gimana caranya memilih asupan minuman yang tepat untuk anak?
+51	Lalu, gimana caranya memilih asupan minuman yang tepat untuk anak?
+52	Yuk, cek di sini untuk lebih lengkapnya.
+53	Yuk, cek di sini untuk lebih lengkapnya.
+54	Yuk, cek di sini untuk lebih lengkapnya.
+55	Yuk, cek di sini untuk lebih lengkapnya.
+56	Yuk, cek di sini untuk lebih lengkapnya.
+57	Yuk, cek di sini untuk lebih lengkapnya.
+58	Yuk, cek di sini untuk lebih lengkapnya. Terima kasih.
+59	Terima kasih.
+60	Terima kasih.
+61	Terima kasih.
+62	Terima kasih.
+63	Terima kasih.
+64	Terima kasih.
+65	[NO_SPEECH]
+66	[NO_SPEECH]
+67	[NO_SPEECH]
+68	[NO_SPEECH]
+69	[NO_SPEECH]

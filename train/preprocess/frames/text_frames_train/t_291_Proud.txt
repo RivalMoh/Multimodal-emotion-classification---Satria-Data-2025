@@ -1,0 +1,156 @@
+0	Standar kecantikan sekarang itu telah bergeser.
+1	Standar kecantikan sekarang itu telah bergeser.
+2	Standar kecantikan sekarang itu telah bergeser. Sekarang kita udah nggak jadi saman.
+3	Standar kecantikan sekarang itu telah bergeser. Sekarang kita udah nggak jadi saman.
+4	Sekarang kita udah nggak jadi saman.
+5	Sekarang kita udah nggak jadi saman.
+6	Sekarang kita udah nggak jadi saman.
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	Peran media sosial juga sangat penting sekali 10 tahun belakangan ini.
+13	Peran media sosial juga sangat penting sekali 10 tahun belakangan ini.
+14	Peran media sosial juga sangat penting sekali 10 tahun belakangan ini.
+15	Peran media sosial juga sangat penting sekali 10 tahun belakangan ini.
+16	Peran media sosial juga sangat penting sekali 10 tahun belakangan ini.
+17	Peran media sosial juga sangat penting sekali 10 tahun belakangan ini.
+18	Peran media sosial juga sangat penting sekali 10 tahun belakangan ini.
+19	Peran media sosial juga sangat penting sekali 10 tahun belakangan ini.
+20	Peran media sosial juga sangat penting sekali 10 tahun belakangan ini. Kita melihat dan menyadari bahwa bagaimana kita nyaman sama diri kita sendiri.
+21	Kita melihat dan menyadari bahwa bagaimana kita nyaman sama diri kita sendiri.
+22	Kita melihat dan menyadari bahwa bagaimana kita nyaman sama diri kita sendiri.
+23	Kita melihat dan menyadari bahwa bagaimana kita nyaman sama diri kita sendiri.
+24	Kita melihat dan menyadari bahwa bagaimana kita nyaman sama diri kita sendiri.
+25	Kita melihat dan menyadari bahwa bagaimana kita nyaman sama diri kita sendiri.
+26	Kita melihat dan menyadari bahwa bagaimana kita nyaman sama diri kita sendiri.
+27	Kita melihat dan menyadari bahwa bagaimana kita nyaman sama diri kita sendiri.
+28	Kita melihat dan menyadari bahwa bagaimana kita nyaman sama diri kita sendiri. Bagaimana kita merayakan keunikan kita sendiri.
+29	Bagaimana kita merayakan keunikan kita sendiri.
+30	Bagaimana kita merayakan keunikan kita sendiri.
+31	Bagaimana kita merayakan keunikan kita sendiri.
+32	Bagaimana kita merayakan keunikan kita sendiri. Mungkin kita bisa cakap, oh kecantikan itu jati diri, confidence.
+33	Bagaimana kita merayakan keunikan kita sendiri. Mungkin kita bisa cakap, oh kecantikan itu jati diri, confidence.
+34	Mungkin kita bisa cakap, oh kecantikan itu jati diri, confidence.
+35	Mungkin kita bisa cakap, oh kecantikan itu jati diri, confidence.
+36	Mungkin kita bisa cakap, oh kecantikan itu jati diri, confidence.
+37	Mungkin kita bisa cakap, oh kecantikan itu jati diri, confidence.
+38	Mungkin kita bisa cakap, oh kecantikan itu jati diri, confidence.
+39	Mungkin kita bisa cakap, oh kecantikan itu jati diri, confidence. Tapi nggak semua yang understand, ya apa confidence itu?
+40	Mungkin kita bisa cakap, oh kecantikan itu jati diri, confidence. Tapi nggak semua yang understand, ya apa confidence itu?
+41	Tapi nggak semua yang understand, ya apa confidence itu?
+42	Tapi nggak semua yang understand, ya apa confidence itu?
+43	Tapi nggak semua yang understand, ya apa confidence itu?
+44	Tapi nggak semua yang understand, ya apa confidence itu?
+45	Tapi nggak semua yang understand, ya apa confidence itu?
+46	Tapi nggak semua yang understand, ya apa confidence itu? So with the platform that we have, we can at least visualize.
+47	So with the platform that we have, we can at least visualize.
+48	So with the platform that we have, we can at least visualize.
+49	So with the platform that we have, we can at least visualize.
+50	So with the platform that we have, we can at least visualize.
+51	So with the platform that we have, we can at least visualize.
+52	So with the platform that we have, we can at least visualize.
+53	So with the platform that we have, we can at least visualize. Oh confidence itu bisa menunjukkan flaws, bisa menerima diri kita.
+54	So with the platform that we have, we can at least visualize. Oh confidence itu bisa menunjukkan flaws, bisa menerima diri kita.
+55	Oh confidence itu bisa menunjukkan flaws, bisa menerima diri kita.
+56	Oh confidence itu bisa menunjukkan flaws, bisa menerima diri kita.
+57	Oh confidence itu bisa menunjukkan flaws, bisa menerima diri kita.
+58	Oh confidence itu bisa menunjukkan flaws, bisa menerima diri kita.
+59	Oh confidence itu bisa menunjukkan flaws, bisa menerima diri kita.
+60	Oh confidence itu bisa menunjukkan flaws, bisa menerima diri kita.
+61	Oh confidence itu bisa menunjukkan flaws, bisa menerima diri kita.
+62	Oh confidence itu bisa menunjukkan flaws, bisa menerima diri kita.
+63	Oh confidence itu bisa menunjukkan flaws, bisa menerima diri kita.
+64	Oh confidence itu bisa menunjukkan flaws, bisa menerima diri kita.
+65	Oh confidence itu bisa menunjukkan flaws, bisa menerima diri kita.
+66	Oh confidence itu bisa menunjukkan flaws, bisa menerima diri kita. I think itu more important.
+67	I think itu more important.
+68	I think itu more important.
+69	I think itu more important.
+70	I think itu more important. Bagi saya, diri kita adalah tanggung jawab kita.
+71	Bagi saya, diri kita adalah tanggung jawab kita.
+72	Bagi saya, diri kita adalah tanggung jawab kita.
+73	Bagi saya, diri kita adalah tanggung jawab kita.
+74	Bagi saya, diri kita adalah tanggung jawab kita.
+75	Bagi saya, diri kita adalah tanggung jawab kita.
+76	Bagi saya, diri kita adalah tanggung jawab kita.
+77	Bagi saya, diri kita adalah tanggung jawab kita.
+78	Bagi saya, diri kita adalah tanggung jawab kita. So kita harus cari makna sendiri, how we define beauty.
+79	Bagi saya, diri kita adalah tanggung jawab kita. So kita harus cari makna sendiri, how we define beauty.
+80	So kita harus cari makna sendiri, how we define beauty.
+81	So kita harus cari makna sendiri, how we define beauty.
+82	So kita harus cari makna sendiri, how we define beauty.
+83	So kita harus cari makna sendiri, how we define beauty.
+84	So kita harus cari makna sendiri, how we define beauty.
+85	So kita harus cari makna sendiri, how we define beauty.
+86	So kita harus cari makna sendiri, how we define beauty.
+87	So kita harus cari makna sendiri, how we define beauty. Katanya, my beauty standard is being confident with my own skin problem and proud with my skin color.
+88	Katanya, my beauty standard is being confident with my own skin problem and proud with my skin color.
+89	Katanya, my beauty standard is being confident with my own skin problem and proud with my skin color.
+90	Katanya, my beauty standard is being confident with my own skin problem and proud with my skin color.
+91	Katanya, my beauty standard is being confident with my own skin problem and proud with my skin color.
+92	Katanya, my beauty standard is being confident with my own skin problem and proud with my skin color.
+93	Katanya, my beauty standard is being confident with my own skin problem and proud with my skin color.
+94	Katanya, my beauty standard is being confident with my own skin problem and proud with my skin color.
+95	Katanya, my beauty standard is being confident with my own skin problem and proud with my skin color.
+96	Katanya, my beauty standard is being confident with my own skin problem and proud with my skin color.
+97	Katanya, my beauty standard is being confident with my own skin problem and proud with my skin color.
+98	Katanya, my beauty standard is being confident with my own skin problem and proud with my skin color.
+99	Katanya, my beauty standard is being confident with my own skin problem and proud with my skin color.
+100	Katanya, my beauty standard is being confident with my own skin problem and proud with my skin color.
+101	Katanya, my beauty standard is being confident with my own skin problem and proud with my skin color. Standar kecantikan versi saya itu tidak ada ukuran.
+102	Katanya, my beauty standard is being confident with my own skin problem and proud with my skin color. Standar kecantikan versi saya itu tidak ada ukuran.
+103	Standar kecantikan versi saya itu tidak ada ukuran.
+104	Standar kecantikan versi saya itu tidak ada ukuran.
+105	Standar kecantikan versi saya itu tidak ada ukuran.
+106	Standar kecantikan versi saya itu tidak ada ukuran.
+107	Standar kecantikan versi saya itu tidak ada ukuran.
+108	Standar kecantikan versi saya itu tidak ada ukuran. Menjadi manusia yang bahagia dan berkecantikan.
+109	Menjadi manusia yang bahagia dan berkecantikan.
+110	Menjadi manusia yang bahagia dan berkecantikan.
+111	Menjadi manusia yang bahagia dan berkecantikan.
+112	Menjadi manusia yang bahagia dan berkecantikan.
+113	Menjadi manusia yang bahagia dan berkecantikan. Bermanfaat untuk orang lain, itu adalah titik cantik untuk saya.
+114	Menjadi manusia yang bahagia dan berkecantikan. Bermanfaat untuk orang lain, itu adalah titik cantik untuk saya.
+115	Bermanfaat untuk orang lain, itu adalah titik cantik untuk saya.
+116	Bermanfaat untuk orang lain, itu adalah titik cantik untuk saya.
+117	Bermanfaat untuk orang lain, itu adalah titik cantik untuk saya.
+118	Bermanfaat untuk orang lain, itu adalah titik cantik untuk saya.
+119	Bermanfaat untuk orang lain, itu adalah titik cantik untuk saya.
+120	Bermanfaat untuk orang lain, itu adalah titik cantik untuk saya.
+121	Bermanfaat untuk orang lain, itu adalah titik cantik untuk saya.
+122	Bermanfaat untuk orang lain, itu adalah titik cantik untuk saya. Jadi, teruslah bersinar luar dan dalam.
+123	Jadi, teruslah bersinar luar dan dalam.
+124	Jadi, teruslah bersinar luar dan dalam.
+125	Jadi, teruslah bersinar luar dan dalam.
+126	Jadi, teruslah bersinar luar dan dalam.
+127	Jadi, teruslah bersinar luar dan dalam.
+128	Jadi, teruslah bersinar luar dan dalam.
+129	Jadi, teruslah bersinar luar dan dalam.
+130	Jadi, teruslah bersinar luar dan dalam. Yakini diri bahwa kamu itu cantik.
+131	Yakini diri bahwa kamu itu cantik.
+132	Yakini diri bahwa kamu itu cantik.
+133	Yakini diri bahwa kamu itu cantik.
+134	Yakini diri bahwa kamu itu cantik.
+135	Yakini diri bahwa kamu itu cantik. Kita kasih tepuk tangannya untuk Mbak Dayah Bakar.
+136	Yakini diri bahwa kamu itu cantik. Kita kasih tepuk tangannya untuk Mbak Dayah Bakar.
+137	Kita kasih tepuk tangannya untuk Mbak Dayah Bakar.
+138	Kita kasih tepuk tangannya untuk Mbak Dayah Bakar.
+139	Kita kasih tepuk tangannya untuk Mbak Dayah Bakar.
+140	Kita kasih tepuk tangannya untuk Mbak Dayah Bakar.
+141	Kita kasih tepuk tangannya untuk Mbak Dayah Bakar.
+142	Kita kasih tepuk tangannya untuk Mbak Dayah Bakar.
+143	[NO_SPEECH]
+144	[NO_SPEECH]
+145	[NO_SPEECH]
+146	[NO_SPEECH]
+147	[NO_SPEECH]
+148	[NO_SPEECH]
+149	[NO_SPEECH]
+150	[NO_SPEECH]
+151	[NO_SPEECH]
+152	[NO_SPEECH]
+153	[NO_SPEECH]
+154	[NO_SPEECH]
+155	[NO_SPEECH]

@@ -1,0 +1,227 @@
+0	Bang, coba challenge 50.000 langkah sehari dong
+1	Bang, coba challenge 50.000 langkah sehari dong
+2	Bang, coba challenge 50.000 langkah sehari dong
+3	Bang, coba challenge 50.000 langkah sehari dong Hah, ngapain?
+4	Bang, coba challenge 50.000 langkah sehari dong Hah, ngapain?
+5	Hah, ngapain? Kayak kurang kerja
+6	Hah, ngapain? Kayak kurang kerja
+7	Kayak kurang kerja
+8	Kayak kurang kerja Oke, jadi 50.000 langkah sejauh 41 km ini
+9	Oke, jadi 50.000 langkah sejauh 41 km ini
+10	Oke, jadi 50.000 langkah sejauh 41 km ini
+11	Oke, jadi 50.000 langkah sejauh 41 km ini
+12	Oke, jadi 50.000 langkah sejauh 41 km ini
+13	Oke, jadi 50.000 langkah sejauh 41 km ini
+14	Oke, jadi 50.000 langkah sejauh 41 km ini
+15	Oke, jadi 50.000 langkah sejauh 41 km ini Aku dapetin dengan 2 hal
+16	Oke, jadi 50.000 langkah sejauh 41 km ini Aku dapetin dengan 2 hal
+17	Aku dapetin dengan 2 hal
+18	Aku dapetin dengan 2 hal Yaitu, lari pagi dulu sejauh 15 km di GBK
+19	Aku dapetin dengan 2 hal Yaitu, lari pagi dulu sejauh 15 km di GBK
+20	Yaitu, lari pagi dulu sejauh 15 km di GBK
+21	Yaitu, lari pagi dulu sejauh 15 km di GBK
+22	Yaitu, lari pagi dulu sejauh 15 km di GBK
+23	Yaitu, lari pagi dulu sejauh 15 km di GBK
+24	Yaitu, lari pagi dulu sejauh 15 km di GBK Yang ditemenin sama minuman elektronik dari Puro
+25	Yaitu, lari pagi dulu sejauh 15 km di GBK Yang ditemenin sama minuman elektronik dari Puro
+26	Yang ditemenin sama minuman elektronik dari Puro
+27	Yang ditemenin sama minuman elektronik dari Puro
+28	Yang ditemenin sama minuman elektronik dari Puro Namanya Light
+29	Yang ditemenin sama minuman elektronik dari Puro Namanya Light
+30	Namanya Light Kataku kalian harus coba sih
+31	Namanya Light Kataku kalian harus coba sih
+32	Kataku kalian harus coba sih Karena bantu hidrasiku banget ini selama lari
+33	Kataku kalian harus coba sih Karena bantu hidrasiku banget ini selama lari
+34	Karena bantu hidrasiku banget ini selama lari
+35	Karena bantu hidrasiku banget ini selama lari
+36	Karena bantu hidrasiku banget ini selama lari Dan lanjut jalan kaki dengan total 26 km
+37	Karena bantu hidrasiku banget ini selama lari Dan lanjut jalan kaki dengan total 26 km
+38	Dan lanjut jalan kaki dengan total 26 km
+39	Dan lanjut jalan kaki dengan total 26 km
+40	Dan lanjut jalan kaki dengan total 26 km
+41	Dan lanjut jalan kaki dengan total 26 km Buset, kemana aja itu bang jalan sejauh itu?
+42	Dan lanjut jalan kaki dengan total 26 km Buset, kemana aja itu bang jalan sejauh itu?
+43	Buset, kemana aja itu bang jalan sejauh itu?
+44	Buset, kemana aja itu bang jalan sejauh itu?
+45	Buset, kemana aja itu bang jalan sejauh itu?
+46	Buset, kemana aja itu bang jalan sejauh itu? Nah, ini menarik nih
+47	Buset, kemana aja itu bang jalan sejauh itu? Nah, ini menarik nih
+48	Nah, ini menarik nih Jadi aku berangkat naik MRT jam 5 pagi
+49	Nah, ini menarik nih Jadi aku berangkat naik MRT jam 5 pagi
+50	Jadi aku berangkat naik MRT jam 5 pagi
+51	Jadi aku berangkat naik MRT jam 5 pagi
+52	Jadi aku berangkat naik MRT jam 5 pagi
+53	Jadi aku berangkat naik MRT jam 5 pagi Dan jam 8.55 udah selesai jogging
+54	Jadi aku berangkat naik MRT jam 5 pagi Dan jam 8.55 udah selesai jogging
+55	Dan jam 8.55 udah selesai jogging
+56	Dan jam 8.55 udah selesai jogging Dan langkah aku sekarang 22.500
+57	Dan jam 8.55 udah selesai jogging Dan langkah aku sekarang 22.500
+58	Dan langkah aku sekarang 22.500
+59	Dan langkah aku sekarang 22.500 Let's go!
+60	Dan langkah aku sekarang 22.500 Let's go!
+61	Dan langkah aku sekarang 22.500 Let's go!
+62	Let's go! Jam 10-12, aku istirahat di kos
+63	Jam 10-12, aku istirahat di kos
+64	Jam 10-12, aku istirahat di kos
+65	Jam 10-12, aku istirahat di kos
+66	Jam 10-12, aku istirahat di kos Makan sama nge-charge HP
+67	Jam 10-12, aku istirahat di kos Makan sama nge-charge HP
+68	Makan sama nge-charge HP
+69	Makan sama nge-charge HP Jam 12.30, ini aku makan siang dulu buat isi energi
+70	Makan sama nge-charge HP Jam 12.30, ini aku makan siang dulu buat isi energi
+71	Jam 12.30, ini aku makan siang dulu buat isi energi
+72	Jam 12.30, ini aku makan siang dulu buat isi energi
+73	Jam 12.30, ini aku makan siang dulu buat isi energi
+74	Jam 12.30, ini aku makan siang dulu buat isi energi
+75	Jam 12.30, ini aku makan siang dulu buat isi energi Terus, lanjut naik angkot dan base Transjakarta
+76	Jam 12.30, ini aku makan siang dulu buat isi energi Terus, lanjut naik angkot dan base Transjakarta
+77	Terus, lanjut naik angkot dan base Transjakarta
+78	Terus, lanjut naik angkot dan base Transjakarta
+79	Terus, lanjut naik angkot dan base Transjakarta
+80	Terus, lanjut naik angkot dan base Transjakarta Buat ke daerah Cikajang
+81	Terus, lanjut naik angkot dan base Transjakarta Buat ke daerah Cikajang
+82	Buat ke daerah Cikajang
+83	Buat ke daerah Cikajang Pas nyampe sini, ini aku udah nyentuh 30.000 langkah
+84	Buat ke daerah Cikajang Pas nyampe sini, ini aku udah nyentuh 30.000 langkah
+85	Pas nyampe sini, ini aku udah nyentuh 30.000 langkah
+86	Pas nyampe sini, ini aku udah nyentuh 30.000 langkah
+87	Pas nyampe sini, ini aku udah nyentuh 30.000 langkah
+88	Pas nyampe sini, ini aku udah nyentuh 30.000 langkah Dari sini, aku jalan ke arah Jalan Tirta Yasa
+89	Pas nyampe sini, ini aku udah nyentuh 30.000 langkah Dari sini, aku jalan ke arah Jalan Tirta Yasa
+90	Dari sini, aku jalan ke arah Jalan Tirta Yasa
+91	Dari sini, aku jalan ke arah Jalan Tirta Yasa
+92	Dari sini, aku jalan ke arah Jalan Tirta Yasa
+93	Dari sini, aku jalan ke arah Jalan Tirta Yasa Terus ke daerah Blok M Square
+94	Dari sini, aku jalan ke arah Jalan Tirta Yasa Terus ke daerah Blok M Square
+95	Terus ke daerah Blok M Square
+96	Terus ke daerah Blok M Square Taman Literasi
+97	Terus ke daerah Blok M Square Taman Literasi
+98	Taman Literasi Taman Sambas Asri
+99	Taman Literasi Taman Sambas Asri
+100	Taman Sambas Asri Dan di jam 14.30
+101	Taman Sambas Asri Dan di jam 14.30
+102	Dan di jam 14.30
+103	Dan di jam 14.30 35.000
+104	Dan di jam 14.30 35.000
+105	35.000 Taman Kalisthenik Pangkol
+106	35.000 Taman Kalisthenik Pangkol
+107	Taman Kalisthenik Pangkol Disini aku efan benar dengan pull up
+108	Taman Kalisthenik Pangkol Disini aku efan benar dengan pull up
+109	Disini aku efan benar dengan pull up
+110	Disini aku efan benar dengan pull up
+111	Disini aku efan benar dengan pull up
+112	Disini aku efan benar dengan pull up Dips
+113	Disini aku efan benar dengan pull up Dips Sama mainan basket
+114	Dips Sama mainan basket
+115	Sama mainan basket Ini udah dapet sekitar 2.000 langkah
+116	Sama mainan basket Ini udah dapet sekitar 2.000 langkah
+117	Ini udah dapet sekitar 2.000 langkah
+118	Ini udah dapet sekitar 2.000 langkah
+119	Ini udah dapet sekitar 2.000 langkah
+120	Ini udah dapet sekitar 2.000 langkah Btw, kalian tertarik gak sih nyobain 5.000 langkah dalam sehari juga kayak aku nih?
+121	Ini udah dapet sekitar 2.000 langkah Btw, kalian tertarik gak sih nyobain 5.000 langkah dalam sehari juga kayak aku nih?
+122	Btw, kalian tertarik gak sih nyobain 5.000 langkah dalam sehari juga kayak aku nih?
+123	Btw, kalian tertarik gak sih nyobain 5.000 langkah dalam sehari juga kayak aku nih?
+124	Btw, kalian tertarik gak sih nyobain 5.000 langkah dalam sehari juga kayak aku nih?
+125	Btw, kalian tertarik gak sih nyobain 5.000 langkah dalam sehari juga kayak aku nih?
+126	Btw, kalian tertarik gak sih nyobain 5.000 langkah dalam sehari juga kayak aku nih?
+127	Btw, kalian tertarik gak sih nyobain 5.000 langkah dalam sehari juga kayak aku nih? Kalo iya, coba komen di bawah ya
+128	Kalo iya, coba komen di bawah ya
+129	Kalo iya, coba komen di bawah ya Jam 3 sore, aku jalan lagi ke stasiun MRT Blok A
+130	Kalo iya, coba komen di bawah ya Jam 3 sore, aku jalan lagi ke stasiun MRT Blok A
+131	Jam 3 sore, aku jalan lagi ke stasiun MRT Blok A
+132	Jam 3 sore, aku jalan lagi ke stasiun MRT Blok A
+133	Jam 3 sore, aku jalan lagi ke stasiun MRT Blok A
+134	Jam 3 sore, aku jalan lagi ke stasiun MRT Blok A
+135	Jam 3 sore, aku jalan lagi ke stasiun MRT Blok A Buat menuju ke stasiun MRT ASEAN
+136	Jam 3 sore, aku jalan lagi ke stasiun MRT Blok A Buat menuju ke stasiun MRT ASEAN
+137	Buat menuju ke stasiun MRT ASEAN
+138	Buat menuju ke stasiun MRT ASEAN
+139	Buat menuju ke stasiun MRT ASEAN Terus, lanjut jalan kaki lagi di sekitar Hang Tua
+140	Buat menuju ke stasiun MRT ASEAN Terus, lanjut jalan kaki lagi di sekitar Hang Tua
+141	Terus, lanjut jalan kaki lagi di sekitar Hang Tua
+142	Terus, lanjut jalan kaki lagi di sekitar Hang Tua
+143	Terus, lanjut jalan kaki lagi di sekitar Hang Tua Paku Buwono
+144	Terus, lanjut jalan kaki lagi di sekitar Hang Tua Paku Buwono Sampai ke Taman Puring
+145	Paku Buwono Sampai ke Taman Puring
+146	Sampai ke Taman Puring
+147	Sampai ke Taman Puring Dari sini, aku lanjut ke halte Pasar Mayestik
+148	Sampai ke Taman Puring Dari sini, aku lanjut ke halte Pasar Mayestik
+149	Dari sini, aku lanjut ke halte Pasar Mayestik
+150	Dari sini, aku lanjut ke halte Pasar Mayestik
+151	Dari sini, aku lanjut ke halte Pasar Mayestik
+152	Dari sini, aku lanjut ke halte Pasar Mayestik Buat naik bis ke stasiun MRT ASEAN lagi
+153	Dari sini, aku lanjut ke halte Pasar Mayestik Buat naik bis ke stasiun MRT ASEAN lagi
+154	Buat naik bis ke stasiun MRT ASEAN lagi
+155	Buat naik bis ke stasiun MRT ASEAN lagi
+156	Buat naik bis ke stasiun MRT ASEAN lagi Buat balik ke daerah Fatmawati
+157	Buat naik bis ke stasiun MRT ASEAN lagi Buat balik ke daerah Fatmawati
+158	Buat balik ke daerah Fatmawati
+159	Buat balik ke daerah Fatmawati
+160	Buat balik ke daerah Fatmawati Terus, aku mampir ke minimarket di daerah Cilanda
+161	Buat balik ke daerah Fatmawati Terus, aku mampir ke minimarket di daerah Cilanda
+162	Terus, aku mampir ke minimarket di daerah Cilanda
+163	Terus, aku mampir ke minimarket di daerah Cilanda
+164	Terus, aku mampir ke minimarket di daerah Cilanda
+165	Terus, aku mampir ke minimarket di daerah Cilanda Buat istirahat bentar
+166	Terus, aku mampir ke minimarket di daerah Cilanda Buat istirahat bentar
+167	Buat istirahat bentar Terus, lanjut jalan ngitarin Cibis Park
+168	Buat istirahat bentar Terus, lanjut jalan ngitarin Cibis Park
+169	Terus, lanjut jalan ngitarin Cibis Park
+170	Terus, lanjut jalan ngitarin Cibis Park
+171	Terus, lanjut jalan ngitarin Cibis Park Dan dapet 3.000 langkah disini
+172	Terus, lanjut jalan ngitarin Cibis Park Dan dapet 3.000 langkah disini
+173	Dan dapet 3.000 langkah disini
+174	Dan dapet 3.000 langkah disini 48.000 langkah
+175	Dan dapet 3.000 langkah disini 48.000 langkah
+176	48.000 langkah
+177	48.000 langkah Sekarang jam 18.52
+178	48.000 langkah Sekarang jam 18.52
+179	Sekarang jam 18.52
+180	Sekarang jam 18.52
+181	Sekarang jam 18.52 Di gang menuju kos
+182	Sekarang jam 18.52 Di gang menuju kos
+183	Di gang menuju kos
+184	Di gang menuju kos
+185	Di gang menuju kos
+186	Wah, kaki ku udah gila
+187	Wah, kaki ku udah gila
+188	Wah, kaki ku udah gila
+189	Wah, kaki ku udah gila
+190	Wah, kaki ku udah gila Capek banget
+191	Wah, kaki ku udah gila Capek banget
+192	Capek banget
+193	Sisa 1.500 langkah ini aku habisin di dalam kos abangku
+194	Sisa 1.500 langkah ini aku habisin di dalam kos abangku
+195	Sisa 1.500 langkah ini aku habisin di dalam kos abangku
+196	Sisa 1.500 langkah ini aku habisin di dalam kos abangku
+197	Sisa 1.500 langkah ini aku habisin di dalam kos abangku
+198	Sisa 1.500 langkah ini aku habisin di dalam kos abangku
+199	Sisa 1.500 langkah ini aku habisin di dalam kos abangku Karena udah capek banget
+200	Sisa 1.500 langkah ini aku habisin di dalam kos abangku Karena udah capek banget
+201	Karena udah capek banget Wah, gila akhirnya cita-cita 50.000 langkah dalam sehari ku tercapai
+202	Karena udah capek banget Wah, gila akhirnya cita-cita 50.000 langkah dalam sehari ku tercapai
+203	Wah, gila akhirnya cita-cita 50.000 langkah dalam sehari ku tercapai
+204	Wah, gila akhirnya cita-cita 50.000 langkah dalam sehari ku tercapai
+205	Wah, gila akhirnya cita-cita 50.000 langkah dalam sehari ku tercapai
+206	Wah, gila akhirnya cita-cita 50.000 langkah dalam sehari ku tercapai
+207	Wah, gila akhirnya cita-cita 50.000 langkah dalam sehari ku tercapai
+208	Wah, gila akhirnya cita-cita 50.000 langkah dalam sehari ku tercapai Setar jam 5 pagi, selesai jam 7 malam
+209	Wah, gila akhirnya cita-cita 50.000 langkah dalam sehari ku tercapai Setar jam 5 pagi, selesai jam 7 malam
+210	Setar jam 5 pagi, selesai jam 7 malam
+211	Setar jam 5 pagi, selesai jam 7 malam
+212	Setar jam 5 pagi, selesai jam 7 malam Terima kasih Puro buat supportnya ya
+213	Setar jam 5 pagi, selesai jam 7 malam Terima kasih Puro buat supportnya ya
+214	Terima kasih Puro buat supportnya ya
+215	Terima kasih Puro buat supportnya ya
+216	Terima kasih Puro buat supportnya ya Jadi bisa jalan sejauh ini
+217	Terima kasih Puro buat supportnya ya Jadi bisa jalan sejauh ini
+218	Jadi bisa jalan sejauh ini
+219	Jadi bisa jalan sejauh ini Abis ini jalan siapa lagi yang harus aku cobain?
+220	Jadi bisa jalan sejauh ini Abis ini jalan siapa lagi yang harus aku cobain?
+221	Abis ini jalan siapa lagi yang harus aku cobain?
+222	Abis ini jalan siapa lagi yang harus aku cobain? Coba komen di bawah ya
+223	Abis ini jalan siapa lagi yang harus aku cobain? Coba komen di bawah ya
+224	Coba komen di bawah ya
+225	Coba komen di bawah ya
+226	Coba komen di bawah ya

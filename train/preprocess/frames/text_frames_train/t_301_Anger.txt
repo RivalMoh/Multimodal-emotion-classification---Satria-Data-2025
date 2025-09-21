@@ -1,0 +1,266 @@
+0	Lu bandingin sama TV dah, dilepehin 11 inch ini mah.
+1	Lu bandingin sama TV dah, dilepehin 11 inch ini mah.
+2	Lu bandingin sama TV dah, dilepehin 11 inch ini mah.
+3	Lu bandingin sama TV dah, dilepehin 11 inch ini mah.
+4	Lu bandingin sama TV dah, dilepehin 11 inch ini mah.
+5	Lu bandingin sama TV dah, dilepehin 11 inch ini mah. Sebelumnya gue ada ngomong, OLED di smartphone memang bisa rusak standar mata.
+6	Lu bandingin sama TV dah, dilepehin 11 inch ini mah. Sebelumnya gue ada ngomong, OLED di smartphone memang bisa rusak standar mata.
+7	Sebelumnya gue ada ngomong, OLED di smartphone memang bisa rusak standar mata.
+8	Sebelumnya gue ada ngomong, OLED di smartphone memang bisa rusak standar mata.
+9	Sebelumnya gue ada ngomong, OLED di smartphone memang bisa rusak standar mata.
+10	Sebelumnya gue ada ngomong, OLED di smartphone memang bisa rusak standar mata.
+11	Sebelumnya gue ada ngomong, OLED di smartphone memang bisa rusak standar mata.
+12	Sebelumnya gue ada ngomong, OLED di smartphone memang bisa rusak standar mata.
+13	Sebelumnya gue ada ngomong, OLED di smartphone memang bisa rusak standar mata. Tapi tetep dibantai sama OLED TV karena layar HP terlalu kecil.
+14	Tapi tetep dibantai sama OLED TV karena layar HP terlalu kecil.
+15	Tapi tetep dibantai sama OLED TV karena layar HP terlalu kecil.
+16	Tapi tetep dibantai sama OLED TV karena layar HP terlalu kecil.
+17	Tapi tetep dibantai sama OLED TV karena layar HP terlalu kecil.
+18	Tapi tetep dibantai sama OLED TV karena layar HP terlalu kecil.
+19	Tapi tetep dibantai sama OLED TV karena layar HP terlalu kecil.
+20	Tapi tetep dibantai sama OLED TV karena layar HP terlalu kecil.
+21	Tapi tetep dibantai sama OLED TV karena layar HP terlalu kecil.
+22	Tapi tetep dibantai sama OLED TV karena layar HP terlalu kecil.
+23	Tapi tetep dibantai sama OLED TV karena layar HP terlalu kecil. Tapi gimana kalau OLED-nya di iPad?
+24	Tapi tetep dibantai sama OLED TV karena layar HP terlalu kecil. Tapi gimana kalau OLED-nya di iPad?
+25	Tapi gimana kalau OLED-nya di iPad?
+26	Tapi gimana kalau OLED-nya di iPad?
+27	Tapi gimana kalau OLED-nya di iPad?
+28	Tapi gimana kalau OLED-nya di iPad?
+29	Tapi gimana kalau OLED-nya di iPad? Undoxing Apple selalu rasanya mewah gitu ya.
+30	Undoxing Apple selalu rasanya mewah gitu ya.
+31	Undoxing Apple selalu rasanya mewah gitu ya.
+32	Undoxing Apple selalu rasanya mewah gitu ya.
+33	Undoxing Apple selalu rasanya mewah gitu ya.
+34	Undoxing Apple selalu rasanya mewah gitu ya.
+35	Undoxing Apple selalu rasanya mewah gitu ya.
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	Gila sih, tipis banget.
+46	Gila sih, tipis banget.
+47	Gila sih, tipis banget.
+48	Gila sih, tipis banget.
+49	Gila sih, tipis banget.
+50	Sekarang udah pake chip-nya baru, M4.
+51	Sekarang udah pake chip-nya baru, M4.
+52	Sekarang udah pake chip-nya baru, M4.
+53	Sekarang udah pake chip-nya baru, M4.
+54	Sekarang udah pake chip-nya baru, M4.
+55	Sekarang udah pake chip-nya baru, M4. Dan yang paling penting, layarnya.
+56	Sekarang udah pake chip-nya baru, M4. Dan yang paling penting, layarnya.
+57	Dan yang paling penting, layarnya.
+58	Dan yang paling penting, layarnya.
+59	Dan yang paling penting, layarnya.
+60	Dan yang paling penting, layarnya.
+61	Dan yang paling penting, layarnya.
+62	Dan yang paling penting, layarnya. Tandem OLED.
+63	Tandem OLED.
+64	Tandem OLED.
+65	Tandem OLED.
+66	Dua OLED di-stuck supaya bisa push brightness.
+67	Dua OLED di-stuck supaya bisa push brightness.
+68	Dua OLED di-stuck supaya bisa push brightness.
+69	Dua OLED di-stuck supaya bisa push brightness.
+70	Dua OLED di-stuck supaya bisa push brightness.
+71	Dua OLED di-stuck supaya bisa push brightness.
+72	Dua OLED di-stuck supaya bisa push brightness.
+73	Dua OLED di-stuck supaya bisa push brightness. Berarti iPad ini real HDR, bos.
+74	Berarti iPad ini real HDR, bos.
+75	Berarti iPad ini real HDR, bos.
+76	Berarti iPad ini real HDR, bos.
+77	Berarti iPad ini real HDR, bos.
+78	Berarti iPad ini real HDR, bos.
+79	Berarti iPad ini real HDR, bos.
+80	Berarti iPad ini real HDR, bos. Gilanya, panel itu mampu 1000 nits HDR di fullscreen.
+81	Gilanya, panel itu mampu 1000 nits HDR di fullscreen.
+82	Gilanya, panel itu mampu 1000 nits HDR di fullscreen.
+83	Gilanya, panel itu mampu 1000 nits HDR di fullscreen.
+84	Gilanya, panel itu mampu 1000 nits HDR di fullscreen.
+85	Gilanya, panel itu mampu 1000 nits HDR di fullscreen.
+86	Gilanya, panel itu mampu 1000 nits HDR di fullscreen.
+87	Gilanya, panel itu mampu 1000 nits HDR di fullscreen.
+88	Gilanya, panel itu mampu 1000 nits HDR di fullscreen.
+89	Gilanya, panel itu mampu 1000 nits HDR di fullscreen. Dimana rata-rata TV OLED pas lu hajar fullscreen full-wide, paling 200-250 nits.
+90	Dimana rata-rata TV OLED pas lu hajar fullscreen full-wide, paling 200-250 nits.
+91	Dimana rata-rata TV OLED pas lu hajar fullscreen full-wide, paling 200-250 nits.
+92	Dimana rata-rata TV OLED pas lu hajar fullscreen full-wide, paling 200-250 nits.
+93	Dimana rata-rata TV OLED pas lu hajar fullscreen full-wide, paling 200-250 nits.
+94	Dimana rata-rata TV OLED pas lu hajar fullscreen full-wide, paling 200-250 nits.
+95	Dimana rata-rata TV OLED pas lu hajar fullscreen full-wide, paling 200-250 nits.
+96	Dimana rata-rata TV OLED pas lu hajar fullscreen full-wide, paling 200-250 nits.
+97	Dimana rata-rata TV OLED pas lu hajar fullscreen full-wide, paling 200-250 nits.
+98	Dimana rata-rata TV OLED pas lu hajar fullscreen full-wide, paling 200-250 nits.
+99	Dimana rata-rata TV OLED pas lu hajar fullscreen full-wide, paling 200-250 nits. Ya ini kebantu, karena layar iPad yang gak segede TV cuma 11 inch doang.
+100	Dimana rata-rata TV OLED pas lu hajar fullscreen full-wide, paling 200-250 nits. Ya ini kebantu, karena layar iPad yang gak segede TV cuma 11 inch doang.
+101	Ya ini kebantu, karena layar iPad yang gak segede TV cuma 11 inch doang.
+102	Ya ini kebantu, karena layar iPad yang gak segede TV cuma 11 inch doang.
+103	Ya ini kebantu, karena layar iPad yang gak segede TV cuma 11 inch doang.
+104	Ya ini kebantu, karena layar iPad yang gak segede TV cuma 11 inch doang.
+105	Ya ini kebantu, karena layar iPad yang gak segede TV cuma 11 inch doang.
+106	Ya ini kebantu, karena layar iPad yang gak segede TV cuma 11 inch doang.
+107	Ya ini kebantu, karena layar iPad yang gak segede TV cuma 11 inch doang.
+108	Ya ini kebantu, karena layar iPad yang gak segede TV cuma 11 inch doang.
+109	Ya ini kebantu, karena layar iPad yang gak segede TV cuma 11 inch doang. Lu bandingin sama TV dah, dilepehin 11 inch.
+110	Lu bandingin sama TV dah, dilepehin 11 inch.
+111	Lu bandingin sama TV dah, dilepehin 11 inch.
+112	Lu bandingin sama TV dah, dilepehin 11 inch.
+113	Lu bandingin sama TV dah, dilepehin 11 inch.
+114	Lu bandingin sama TV dah, dilepehin 11 inch.
+115	Lu bandingin sama TV dah, dilepehin 11 inch. Pas kena lampu ruangan, hitamnya masih kerasa abu-abu dibanding bezel.
+116	Lu bandingin sama TV dah, dilepehin 11 inch. Pas kena lampu ruangan, hitamnya masih kerasa abu-abu dibanding bezel.
+117	Pas kena lampu ruangan, hitamnya masih kerasa abu-abu dibanding bezel.
+118	Pas kena lampu ruangan, hitamnya masih kerasa abu-abu dibanding bezel.
+119	Pas kena lampu ruangan, hitamnya masih kerasa abu-abu dibanding bezel.
+120	Pas kena lampu ruangan, hitamnya masih kerasa abu-abu dibanding bezel.
+121	Pas kena lampu ruangan, hitamnya masih kerasa abu-abu dibanding bezel.
+122	Pas kena lampu ruangan, hitamnya masih kerasa abu-abu dibanding bezel. Tapi di ruangan gelap, barulah hitam pekat OLED-nya itu keluar.
+123	Pas kena lampu ruangan, hitamnya masih kerasa abu-abu dibanding bezel. Tapi di ruangan gelap, barulah hitam pekat OLED-nya itu keluar.
+124	Tapi di ruangan gelap, barulah hitam pekat OLED-nya itu keluar.
+125	Tapi di ruangan gelap, barulah hitam pekat OLED-nya itu keluar.
+126	Tapi di ruangan gelap, barulah hitam pekat OLED-nya itu keluar.
+127	Tapi di ruangan gelap, barulah hitam pekat OLED-nya itu keluar.
+128	Tapi di ruangan gelap, barulah hitam pekat OLED-nya itu keluar.
+129	Tapi di ruangan gelap, barulah hitam pekat OLED-nya itu keluar. Bodinya tipis banget di tangan.
+130	Tapi di ruangan gelap, barulah hitam pekat OLED-nya itu keluar. Bodinya tipis banget di tangan.
+131	Bodinya tipis banget di tangan.
+132	Bodinya tipis banget di tangan.
+133	Bodinya tipis banget di tangan. Gila ini.
+134	Bodinya tipis banget di tangan. Gila ini.
+135	Gila ini. Dan speaker-nya ini 4 sisi.
+136	Gila ini. Dan speaker-nya ini 4 sisi.
+137	Dan speaker-nya ini 4 sisi.
+138	Dan speaker-nya ini 4 sisi. Badaaah, lu pake pribadi tuh nikmat banget sound-nya.
+139	Dan speaker-nya ini 4 sisi. Badaaah, lu pake pribadi tuh nikmat banget sound-nya.
+140	Badaaah, lu pake pribadi tuh nikmat banget sound-nya.
+141	Badaaah, lu pake pribadi tuh nikmat banget sound-nya.
+142	Badaaah, lu pake pribadi tuh nikmat banget sound-nya.
+143	Badaaah, lu pake pribadi tuh nikmat banget sound-nya.
+144	Badaaah, lu pake pribadi tuh nikmat banget sound-nya.
+145	Badaaah, lu pake pribadi tuh nikmat banget sound-nya.
+146	Badaaah, lu pake pribadi tuh nikmat banget sound-nya. Tapi ketika lu bandingin sama TV dalam hal kenikmatan nontonnya, masalah iPad muncul langsung.
+147	Badaaah, lu pake pribadi tuh nikmat banget sound-nya. Tapi ketika lu bandingin sama TV dalam hal kenikmatan nontonnya, masalah iPad muncul langsung.
+148	Tapi ketika lu bandingin sama TV dalam hal kenikmatan nontonnya, masalah iPad muncul langsung.
+149	Tapi ketika lu bandingin sama TV dalam hal kenikmatan nontonnya, masalah iPad muncul langsung.
+150	Tapi ketika lu bandingin sama TV dalam hal kenikmatan nontonnya, masalah iPad muncul langsung.
+151	Tapi ketika lu bandingin sama TV dalam hal kenikmatan nontonnya, masalah iPad muncul langsung.
+152	Tapi ketika lu bandingin sama TV dalam hal kenikmatan nontonnya, masalah iPad muncul langsung.
+153	Tapi ketika lu bandingin sama TV dalam hal kenikmatan nontonnya, masalah iPad muncul langsung.
+154	Tapi ketika lu bandingin sama TV dalam hal kenikmatan nontonnya, masalah iPad muncul langsung.
+155	Tapi ketika lu bandingin sama TV dalam hal kenikmatan nontonnya, masalah iPad muncul langsung.
+156	Tapi ketika lu bandingin sama TV dalam hal kenikmatan nontonnya, masalah iPad muncul langsung.
+157	Tapi ketika lu bandingin sama TV dalam hal kenikmatan nontonnya, masalah iPad muncul langsung.
+158	Tapi ketika lu bandingin sama TV dalam hal kenikmatan nontonnya, masalah iPad muncul langsung.
+159	Tapi ketika lu bandingin sama TV dalam hal kenikmatan nontonnya, masalah iPad muncul langsung. Masalah pertama karena resolusi iPad 11 inch ini cuma sekitaran 16-68p.
+160	Tapi ketika lu bandingin sama TV dalam hal kenikmatan nontonnya, masalah iPad muncul langsung. Masalah pertama karena resolusi iPad 11 inch ini cuma sekitaran 16-68p.
+161	Masalah pertama karena resolusi iPad 11 inch ini cuma sekitaran 16-68p.
+162	Masalah pertama karena resolusi iPad 11 inch ini cuma sekitaran 16-68p.
+163	Masalah pertama karena resolusi iPad 11 inch ini cuma sekitaran 16-68p.
+164	Masalah pertama karena resolusi iPad 11 inch ini cuma sekitaran 16-68p.
+165	Masalah pertama karena resolusi iPad 11 inch ini cuma sekitaran 16-68p.
+166	Masalah pertama karena resolusi iPad 11 inch ini cuma sekitaran 16-68p.
+167	Masalah pertama karena resolusi iPad 11 inch ini cuma sekitaran 16-68p. Disney Hotstar quality-nya jadi cuma mentok full HD.
+168	Masalah pertama karena resolusi iPad 11 inch ini cuma sekitaran 16-68p. Disney Hotstar quality-nya jadi cuma mentok full HD.
+169	Disney Hotstar quality-nya jadi cuma mentok full HD.
+170	Disney Hotstar quality-nya jadi cuma mentok full HD.
+171	Disney Hotstar quality-nya jadi cuma mentok full HD.
+172	Disney Hotstar quality-nya jadi cuma mentok full HD.
+173	Disney Hotstar quality-nya jadi cuma mentok full HD.
+174	Disney Hotstar quality-nya jadi cuma mentok full HD.
+175	HDR-nya emang kerasa, tapi ketajaman konten 4K gak bisa dikasih iPad ini.
+176	HDR-nya emang kerasa, tapi ketajaman konten 4K gak bisa dikasih iPad ini.
+177	HDR-nya emang kerasa, tapi ketajaman konten 4K gak bisa dikasih iPad ini.
+178	HDR-nya emang kerasa, tapi ketajaman konten 4K gak bisa dikasih iPad ini.
+179	HDR-nya emang kerasa, tapi ketajaman konten 4K gak bisa dikasih iPad ini.
+180	HDR-nya emang kerasa, tapi ketajaman konten 4K gak bisa dikasih iPad ini.
+181	HDR-nya emang kerasa, tapi ketajaman konten 4K gak bisa dikasih iPad ini.
+182	HDR-nya emang kerasa, tapi ketajaman konten 4K gak bisa dikasih iPad ini.
+183	HDR-nya emang kerasa, tapi ketajaman konten 4K gak bisa dikasih iPad ini.
+184	HDR-nya emang kerasa, tapi ketajaman konten 4K gak bisa dikasih iPad ini. Dan masalah kedua ada di permainan analog-nya.
+185	HDR-nya emang kerasa, tapi ketajaman konten 4K gak bisa dikasih iPad ini. Dan masalah kedua ada di permainan analog-nya.
+186	Dan masalah kedua ada di permainan analog-nya.
+187	Dan masalah kedua ada di permainan analog-nya.
+188	Dan masalah kedua ada di permainan analog-nya.
+189	Dan masalah kedua ada di permainan analog-nya.
+190	Dan masalah kedua ada di permainan analog-nya.
+191	Dan masalah kedua ada di permainan analog-nya. Di TV OLED easy, nih lu main 2 analog.
+192	Dan masalah kedua ada di permainan analog-nya. Di TV OLED easy, nih lu main 2 analog.
+193	Di TV OLED easy, nih lu main 2 analog.
+194	Di TV OLED easy, nih lu main 2 analog.
+195	Di TV OLED easy, nih lu main 2 analog.
+196	Di TV OLED easy, nih lu main 2 analog.
+197	Di TV OLED easy, nih lu main 2 analog. Di iPad repot, lu mesti pegang iPad-nya dan tangan satu lagi gak leluasa sama sekali.
+198	Di TV OLED easy, nih lu main 2 analog. Di iPad repot, lu mesti pegang iPad-nya dan tangan satu lagi gak leluasa sama sekali.
+199	Di iPad repot, lu mesti pegang iPad-nya dan tangan satu lagi gak leluasa sama sekali.
+200	Di iPad repot, lu mesti pegang iPad-nya dan tangan satu lagi gak leluasa sama sekali.
+201	Di iPad repot, lu mesti pegang iPad-nya dan tangan satu lagi gak leluasa sama sekali.
+202	Di iPad repot, lu mesti pegang iPad-nya dan tangan satu lagi gak leluasa sama sekali.
+203	Di iPad repot, lu mesti pegang iPad-nya dan tangan satu lagi gak leluasa sama sekali.
+204	Di iPad repot, lu mesti pegang iPad-nya dan tangan satu lagi gak leluasa sama sekali.
+205	Di iPad repot, lu mesti pegang iPad-nya dan tangan satu lagi gak leluasa sama sekali.
+206	Di iPad repot, lu mesti pegang iPad-nya dan tangan satu lagi gak leluasa sama sekali.
+207	Di iPad repot, lu mesti pegang iPad-nya dan tangan satu lagi gak leluasa sama sekali.
+208	Di iPad repot, lu mesti pegang iPad-nya dan tangan satu lagi gak leluasa sama sekali.
+209	Di iPad repot, lu mesti pegang iPad-nya dan tangan satu lagi gak leluasa sama sekali. Ah kayak gini mah, iPad dibantai habis sama TV.
+210	Ah kayak gini mah, iPad dibantai habis sama TV.
+211	Ah kayak gini mah, iPad dibantai habis sama TV.
+212	Ah kayak gini mah, iPad dibantai habis sama TV.
+213	Ah kayak gini mah, iPad dibantai habis sama TV.
+214	Ah kayak gini mah, iPad dibantai habis sama TV.
+215	Ah kayak gini mah, iPad dibantai habis sama TV.
+216	Ah kayak gini mah, iPad dibantai habis sama TV. Apalagi di harga iPad Pro ini 15 juta.
+217	Ah kayak gini mah, iPad dibantai habis sama TV. Apalagi di harga iPad Pro ini 15 juta.
+218	Apalagi di harga iPad Pro ini 15 juta.
+219	Apalagi di harga iPad Pro ini 15 juta.
+220	Apalagi di harga iPad Pro ini 15 juta. Jangan lupa beli iPad iPhone di studio ponsel.
+221	Apalagi di harga iPad Pro ini 15 juta. Jangan lupa beli iPad iPhone di studio ponsel.
+222	Jangan lupa beli iPad iPhone di studio ponsel.
+223	Jangan lupa beli iPad iPhone di studio ponsel.
+224	Jangan lupa beli iPad iPhone di studio ponsel. Masih lebih mahal dibanding TV Samsung OLED 55 inch.
+225	Jangan lupa beli iPad iPhone di studio ponsel. Masih lebih mahal dibanding TV Samsung OLED 55 inch.
+226	Masih lebih mahal dibanding TV Samsung OLED 55 inch.
+227	Masih lebih mahal dibanding TV Samsung OLED 55 inch.
+228	Masih lebih mahal dibanding TV Samsung OLED 55 inch.
+229	Masih lebih mahal dibanding TV Samsung OLED 55 inch.
+230	Masih lebih mahal dibanding TV Samsung OLED 55 inch.
+231	Masih lebih mahal dibanding TV Samsung OLED 55 inch.
+232	Masih lebih mahal dibanding TV Samsung OLED 55 inch.
+233	Masih lebih mahal dibanding TV Samsung OLED 55 inch. Ya. Tetep lah.
+234	Ya. Tetep lah.
+235	Ya. Tetep lah. Ketik panet di Violet itu gak bisa dikalahin sama sekali.
+236	Tetep lah. Ketik panet di Violet itu gak bisa dikalahin sama sekali.
+237	Ketik panet di Violet itu gak bisa dikalahin sama sekali.
+238	Ketik panet di Violet itu gak bisa dikalahin sama sekali.
+239	Ketik panet di Violet itu gak bisa dikalahin sama sekali.
+240	Ketik panet di Violet itu gak bisa dikalahin sama sekali.
+241	Ketik panet di Violet itu gak bisa dikalahin sama sekali. Yang paling enak lu punya dua-duanya.
+242	Yang paling enak lu punya dua-duanya.
+243	Yang paling enak lu punya dua-duanya.
+244	Yang paling enak lu punya dua-duanya.
+245	Yang paling enak lu punya dua-duanya.
+246	Yang paling enak lu punya dua-duanya. 30 juta.
+247	30 juta.
+248	30 juta. Komen aja analog.
+249	30 juta. Komen aja analog.
+250	Komen aja analog. Gua kirimin link-nya.
+251	Komen aja analog. Gua kirimin link-nya.
+252	Gua kirimin link-nya.
+253	Gua kirimin link-nya. Ingat top up game, inget di Dari Top Up.
+254	Ingat top up game, inget di Dari Top Up.
+255	Ingat top up game, inget di Dari Top Up.
+256	Ingat top up game, inget di Dari Top Up.
+257	Ingat top up game, inget di Dari Top Up.
+258	Ingat top up game, inget di Dari Top Up.
+259	Ingat top up game, inget di Dari Top Up.
+260	[NO_SPEECH]
+261	[NO_SPEECH]
+262	[NO_SPEECH]
+263	[NO_SPEECH]
+264	[NO_SPEECH]
+265	[NO_SPEECH]

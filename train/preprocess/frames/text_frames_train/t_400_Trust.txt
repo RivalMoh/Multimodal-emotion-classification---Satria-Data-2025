@@ -1,0 +1,102 @@
+0	Kamu suka rimet kalau latihan sendiri?
+1	Kamu suka rimet kalau latihan sendiri?
+2	Kamu suka rimet kalau latihan sendiri? Nah, ini dia nih, tips biar latihan kamu lebih efektif dan anti-drama.
+3	Kamu suka rimet kalau latihan sendiri? Nah, ini dia nih, tips biar latihan kamu lebih efektif dan anti-drama.
+4	Nah, ini dia nih, tips biar latihan kamu lebih efektif dan anti-drama.
+5	Nah, ini dia nih, tips biar latihan kamu lebih efektif dan anti-drama.
+6	Nah, ini dia nih, tips biar latihan kamu lebih efektif dan anti-drama.
+7	Nah, ini dia nih, tips biar latihan kamu lebih efektif dan anti-drama.
+8	Nah, ini dia nih, tips biar latihan kamu lebih efektif dan anti-drama.
+9	Nah, ini dia nih, tips biar latihan kamu lebih efektif dan anti-drama.
+10	Nah, ini dia nih, tips biar latihan kamu lebih efektif dan anti-drama.
+11	Nah, ini dia nih, tips biar latihan kamu lebih efektif dan anti-drama. Yang pertama, siapin giri kamu.
+12	Yang pertama, siapin giri kamu.
+13	Yang pertama, siapin giri kamu.
+14	Yang pertama, siapin giri kamu.
+15	Yang pertama, siapin giri kamu. Pakai outfit yang nyaman, sepatu yang pas, dan jangan lupa bawa tas yang bisa muat semua.
+16	Yang pertama, siapin giri kamu. Pakai outfit yang nyaman, sepatu yang pas, dan jangan lupa bawa tas yang bisa muat semua.
+17	Pakai outfit yang nyaman, sepatu yang pas, dan jangan lupa bawa tas yang bisa muat semua.
+18	Pakai outfit yang nyaman, sepatu yang pas, dan jangan lupa bawa tas yang bisa muat semua.
+19	Pakai outfit yang nyaman, sepatu yang pas, dan jangan lupa bawa tas yang bisa muat semua.
+20	Pakai outfit yang nyaman, sepatu yang pas, dan jangan lupa bawa tas yang bisa muat semua.
+21	Pakai outfit yang nyaman, sepatu yang pas, dan jangan lupa bawa tas yang bisa muat semua.
+22	Pakai outfit yang nyaman, sepatu yang pas, dan jangan lupa bawa tas yang bisa muat semua.
+23	Pakai outfit yang nyaman, sepatu yang pas, dan jangan lupa bawa tas yang bisa muat semua.
+24	Pakai outfit yang nyaman, sepatu yang pas, dan jangan lupa bawa tas yang bisa muat semua. Ya kayak yang gue pake nih, tas dari Loon.
+25	Ya kayak yang gue pake nih, tas dari Loon.
+26	Ya kayak yang gue pake nih, tas dari Loon.
+27	Ya kayak yang gue pake nih, tas dari Loon.
+28	Ya kayak yang gue pake nih, tas dari Loon.
+29	Ya kayak yang gue pake nih, tas dari Loon.
+30	[NO_SPEECH]
+31	Yang kedua, jangan skip pemanasan ya.
+32	Yang kedua, jangan skip pemanasan ya.
+33	Yang kedua, jangan skip pemanasan ya.
+34	Yang kedua, jangan skip pemanasan ya.
+35	Yang kedua, jangan skip pemanasan ya.
+36	Yang kedua, jangan skip pemanasan ya.
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	Lakukan pemanasan 5-10 menit untuk bantu otot siap tempur dan menghindari cedera.
+41	Lakukan pemanasan 5-10 menit untuk bantu otot siap tempur dan menghindari cedera.
+42	Lakukan pemanasan 5-10 menit untuk bantu otot siap tempur dan menghindari cedera.
+43	Lakukan pemanasan 5-10 menit untuk bantu otot siap tempur dan menghindari cedera.
+44	Lakukan pemanasan 5-10 menit untuk bantu otot siap tempur dan menghindari cedera.
+45	Lakukan pemanasan 5-10 menit untuk bantu otot siap tempur dan menghindari cedera.
+46	Lakukan pemanasan 5-10 menit untuk bantu otot siap tempur dan menghindari cedera.
+47	Lakukan pemanasan 5-10 menit untuk bantu otot siap tempur dan menghindari cedera.
+48	Lakukan pemanasan 5-10 menit untuk bantu otot siap tempur dan menghindari cedera.
+49	Lakukan pemanasan 5-10 menit untuk bantu otot siap tempur dan menghindari cedera.
+50	Lakukan pemanasan 5-10 menit untuk bantu otot siap tempur dan menghindari cedera.
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	Yang ketiga, utamakan teknik, bukan ego.
+55	Yang ketiga, utamakan teknik, bukan ego.
+56	Yang ketiga, utamakan teknik, bukan ego.
+57	Yang ketiga, utamakan teknik, bukan ego.
+58	Yang ketiga, utamakan teknik, bukan ego.
+59	Yang ketiga, utamakan teknik, bukan ego.
+60	Yang ketiga, utamakan teknik, bukan ego.
+61	[NO_SPEECH]
+62	Nggak usah buru-buru angkat lubang kalau form belum benar.
+63	Nggak usah buru-buru angkat lubang kalau form belum benar.
+64	Nggak usah buru-buru angkat lubang kalau form belum benar.
+65	Nggak usah buru-buru angkat lubang kalau form belum benar.
+66	Nggak usah buru-buru angkat lubang kalau form belum benar.
+67	Nggak usah buru-buru angkat lubang kalau form belum benar. Salah teknik bisa bikin otot tegang, dan latihan jadi nggak maksimal.
+68	Nggak usah buru-buru angkat lubang kalau form belum benar. Salah teknik bisa bikin otot tegang, dan latihan jadi nggak maksimal.
+69	Salah teknik bisa bikin otot tegang, dan latihan jadi nggak maksimal.
+70	Salah teknik bisa bikin otot tegang, dan latihan jadi nggak maksimal.
+71	Salah teknik bisa bikin otot tegang, dan latihan jadi nggak maksimal.
+72	Salah teknik bisa bikin otot tegang, dan latihan jadi nggak maksimal.
+73	Salah teknik bisa bikin otot tegang, dan latihan jadi nggak maksimal.
+74	Salah teknik bisa bikin otot tegang, dan latihan jadi nggak maksimal.
+75	Salah teknik bisa bikin otot tegang, dan latihan jadi nggak maksimal.
+76	[NO_SPEECH]
+77	Coba tips ini sekarang, biar latihan kamu nggak ribet dan tanpa drama.
+78	Coba tips ini sekarang, biar latihan kamu nggak ribet dan tanpa drama.
+79	Coba tips ini sekarang, biar latihan kamu nggak ribet dan tanpa drama.
+80	Coba tips ini sekarang, biar latihan kamu nggak ribet dan tanpa drama.
+81	Coba tips ini sekarang, biar latihan kamu nggak ribet dan tanpa drama.
+82	Coba tips ini sekarang, biar latihan kamu nggak ribet dan tanpa drama.
+83	Coba tips ini sekarang, biar latihan kamu nggak ribet dan tanpa drama.
+84	Coba tips ini sekarang, biar latihan kamu nggak ribet dan tanpa drama.
+85	Coba tips ini sekarang, biar latihan kamu nggak ribet dan tanpa drama.
+86	[NO_SPEECH]
+87	[NO_SPEECH]
+88	[NO_SPEECH]
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	[NO_SPEECH]
+95	[NO_SPEECH]
+96	[NO_SPEECH]
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]

@@ -1,0 +1,137 @@
+0	Saya udah lari, pedal, renang, pilates, udah gak perlu lagi dong latihan beban.
+1	Saya udah lari, pedal, renang, pilates, udah gak perlu lagi dong latihan beban.
+2	Saya udah lari, pedal, renang, pilates, udah gak perlu lagi dong latihan beban.
+3	Saya udah lari, pedal, renang, pilates, udah gak perlu lagi dong latihan beban.
+4	Saya udah lari, pedal, renang, pilates, udah gak perlu lagi dong latihan beban.
+5	Saya udah lari, pedal, renang, pilates, udah gak perlu lagi dong latihan beban.
+6	Saya udah lari, pedal, renang, pilates, udah gak perlu lagi dong latihan beban.
+7	Saya udah lari, pedal, renang, pilates, udah gak perlu lagi dong latihan beban.
+8	Saya udah lari, pedal, renang, pilates, udah gak perlu lagi dong latihan beban.
+9	Saya udah lari, pedal, renang, pilates, udah gak perlu lagi dong latihan beban.
+10	Saya udah lari, pedal, renang, pilates, udah gak perlu lagi dong latihan beban.
+11	Saya udah lari, pedal, renang, pilates, udah gak perlu lagi dong latihan beban.
+12	Saya udah lari, pedal, renang, pilates, udah gak perlu lagi dong latihan beban.
+13	Saya udah lari, pedal, renang, pilates, udah gak perlu lagi dong latihan beban. Atlet profesional aja masih latihan beban, lah lu siapa?
+14	Atlet profesional aja masih latihan beban, lah lu siapa?
+15	Atlet profesional aja masih latihan beban, lah lu siapa?
+16	Atlet profesional aja masih latihan beban, lah lu siapa?
+17	Atlet profesional aja masih latihan beban, lah lu siapa?
+18	Atlet profesional aja masih latihan beban, lah lu siapa?
+19	Atlet profesional aja masih latihan beban, lah lu siapa?
+20	Atlet profesional aja masih latihan beban, lah lu siapa?
+21	Atlet profesional aja masih latihan beban, lah lu siapa?
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	Banyak orang bilang, gue udah renang, udah pedal, udah lari, udah cukup lah buat gerakin otot.
+26	Banyak orang bilang, gue udah renang, udah pedal, udah lari, udah cukup lah buat gerakin otot.
+27	Banyak orang bilang, gue udah renang, udah pedal, udah lari, udah cukup lah buat gerakin otot.
+28	Banyak orang bilang, gue udah renang, udah pedal, udah lari, udah cukup lah buat gerakin otot.
+29	Banyak orang bilang, gue udah renang, udah pedal, udah lari, udah cukup lah buat gerakin otot.
+30	Banyak orang bilang, gue udah renang, udah pedal, udah lari, udah cukup lah buat gerakin otot.
+31	Banyak orang bilang, gue udah renang, udah pedal, udah lari, udah cukup lah buat gerakin otot.
+32	Banyak orang bilang, gue udah renang, udah pedal, udah lari, udah cukup lah buat gerakin otot.
+33	Banyak orang bilang, gue udah renang, udah pedal, udah lari, udah cukup lah buat gerakin otot.
+34	Banyak orang bilang, gue udah renang, udah pedal, udah lari, udah cukup lah buat gerakin otot.
+35	Banyak orang bilang, gue udah renang, udah pedal, udah lari, udah cukup lah buat gerakin otot. Barangkali ini bukan masalah cukup gerak atau enggak, ini masalah kekuatan otot lu itu beneran terjaga atau enggak.
+36	Banyak orang bilang, gue udah renang, udah pedal, udah lari, udah cukup lah buat gerakin otot. Barangkali ini bukan masalah cukup gerak atau enggak, ini masalah kekuatan otot lu itu beneran terjaga atau enggak.
+37	Barangkali ini bukan masalah cukup gerak atau enggak, ini masalah kekuatan otot lu itu beneran terjaga atau enggak.
+38	Barangkali ini bukan masalah cukup gerak atau enggak, ini masalah kekuatan otot lu itu beneran terjaga atau enggak.
+39	Barangkali ini bukan masalah cukup gerak atau enggak, ini masalah kekuatan otot lu itu beneran terjaga atau enggak.
+40	Barangkali ini bukan masalah cukup gerak atau enggak, ini masalah kekuatan otot lu itu beneran terjaga atau enggak.
+41	Barangkali ini bukan masalah cukup gerak atau enggak, ini masalah kekuatan otot lu itu beneran terjaga atau enggak.
+42	Barangkali ini bukan masalah cukup gerak atau enggak, ini masalah kekuatan otot lu itu beneran terjaga atau enggak.
+43	Barangkali ini bukan masalah cukup gerak atau enggak, ini masalah kekuatan otot lu itu beneran terjaga atau enggak.
+44	Barangkali ini bukan masalah cukup gerak atau enggak, ini masalah kekuatan otot lu itu beneran terjaga atau enggak.
+45	Barangkali ini bukan masalah cukup gerak atau enggak, ini masalah kekuatan otot lu itu beneran terjaga atau enggak.
+46	Barangkali ini bukan masalah cukup gerak atau enggak, ini masalah kekuatan otot lu itu beneran terjaga atau enggak.
+47	Barangkali ini bukan masalah cukup gerak atau enggak, ini masalah kekuatan otot lu itu beneran terjaga atau enggak.
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	Ini atlet badminton dunia Li Chongwei, latihan beban buat power, speed, dan biar gak gampang cedera.
+51	Ini atlet badminton dunia Li Chongwei, latihan beban buat power, speed, dan biar gak gampang cedera.
+52	Ini atlet badminton dunia Li Chongwei, latihan beban buat power, speed, dan biar gak gampang cedera.
+53	Ini atlet badminton dunia Li Chongwei, latihan beban buat power, speed, dan biar gak gampang cedera.
+54	Ini atlet badminton dunia Li Chongwei, latihan beban buat power, speed, dan biar gak gampang cedera.
+55	Ini atlet badminton dunia Li Chongwei, latihan beban buat power, speed, dan biar gak gampang cedera.
+56	Ini atlet badminton dunia Li Chongwei, latihan beban buat power, speed, dan biar gak gampang cedera.
+57	Ini atlet badminton dunia Li Chongwei, latihan beban buat power, speed, dan biar gak gampang cedera.
+58	Ini atlet badminton dunia Li Chongwei, latihan beban buat power, speed, dan biar gak gampang cedera.
+59	Ini atlet badminton dunia Li Chongwei, latihan beban buat power, speed, dan biar gak gampang cedera.
+60	Ini atlet badminton dunia Li Chongwei, latihan beban buat power, speed, dan biar gak gampang cedera.
+61	Ini atlet badminton dunia Li Chongwei, latihan beban buat power, speed, dan biar gak gampang cedera.
+62	Ini atlet badminton dunia Li Chongwei, latihan beban buat power, speed, dan biar gak gampang cedera. Cristiano Ronaldo, ngapain coba latihan tangan?
+63	Cristiano Ronaldo, ngapain coba latihan tangan?
+64	Cristiano Ronaldo, ngapain coba latihan tangan?
+65	Cristiano Ronaldo, ngapain coba latihan tangan?
+66	Cristiano Ronaldo, ngapain coba latihan tangan?
+67	Cristiano Ronaldo, ngapain coba latihan tangan?
+68	Cristiano Ronaldo, ngapain coba latihan tangan? Kan dia cuma butuh kaki buat renang bola.
+69	Cristiano Ronaldo, ngapain coba latihan tangan? Kan dia cuma butuh kaki buat renang bola.
+70	Kan dia cuma butuh kaki buat renang bola.
+71	Kan dia cuma butuh kaki buat renang bola.
+72	Kan dia cuma butuh kaki buat renang bola. Nah ini atlet renang Olimpiade 26 emas, bisa pull up 34 kali, squat ratusan kilo.
+73	Kan dia cuma butuh kaki buat renang bola. Nah ini atlet renang Olimpiade 26 emas, bisa pull up 34 kali, squat ratusan kilo.
+74	Nah ini atlet renang Olimpiade 26 emas, bisa pull up 34 kali, squat ratusan kilo.
+75	Nah ini atlet renang Olimpiade 26 emas, bisa pull up 34 kali, squat ratusan kilo.
+76	Nah ini atlet renang Olimpiade 26 emas, bisa pull up 34 kali, squat ratusan kilo.
+77	Nah ini atlet renang Olimpiade 26 emas, bisa pull up 34 kali, squat ratusan kilo.
+78	Nah ini atlet renang Olimpiade 26 emas, bisa pull up 34 kali, squat ratusan kilo.
+79	Nah ini atlet renang Olimpiade 26 emas, bisa pull up 34 kali, squat ratusan kilo.
+80	Nah ini atlet renang Olimpiade 26 emas, bisa pull up 34 kali, squat ratusan kilo.
+81	Nah ini atlet renang Olimpiade 26 emas, bisa pull up 34 kali, squat ratusan kilo.
+82	Nah ini atlet renang Olimpiade 26 emas, bisa pull up 34 kali, squat ratusan kilo.
+83	Nah ini atlet renang Olimpiade 26 emas, bisa pull up 34 kali, squat ratusan kilo.
+84	Nah ini atlet renang Olimpiade 26 emas, bisa pull up 34 kali, squat ratusan kilo. Kalau lu berapa kilo?
+85	Kalau lu berapa kilo?
+86	Kalau lu berapa kilo? Latihan beban itu bukan pengen bikin otot makin gede, tapi bikin otot makin kuat, sendinya sehat, gak gampang cedera, dan juga metabolisme gak turun.
+87	Kalau lu berapa kilo? Latihan beban itu bukan pengen bikin otot makin gede, tapi bikin otot makin kuat, sendinya sehat, gak gampang cedera, dan juga metabolisme gak turun.
+88	Latihan beban itu bukan pengen bikin otot makin gede, tapi bikin otot makin kuat, sendinya sehat, gak gampang cedera, dan juga metabolisme gak turun.
+89	Latihan beban itu bukan pengen bikin otot makin gede, tapi bikin otot makin kuat, sendinya sehat, gak gampang cedera, dan juga metabolisme gak turun.
+90	Latihan beban itu bukan pengen bikin otot makin gede, tapi bikin otot makin kuat, sendinya sehat, gak gampang cedera, dan juga metabolisme gak turun.
+91	Latihan beban itu bukan pengen bikin otot makin gede, tapi bikin otot makin kuat, sendinya sehat, gak gampang cedera, dan juga metabolisme gak turun.
+92	Latihan beban itu bukan pengen bikin otot makin gede, tapi bikin otot makin kuat, sendinya sehat, gak gampang cedera, dan juga metabolisme gak turun.
+93	Latihan beban itu bukan pengen bikin otot makin gede, tapi bikin otot makin kuat, sendinya sehat, gak gampang cedera, dan juga metabolisme gak turun.
+94	Latihan beban itu bukan pengen bikin otot makin gede, tapi bikin otot makin kuat, sendinya sehat, gak gampang cedera, dan juga metabolisme gak turun.
+95	Latihan beban itu bukan pengen bikin otot makin gede, tapi bikin otot makin kuat, sendinya sehat, gak gampang cedera, dan juga metabolisme gak turun.
+96	Latihan beban itu bukan pengen bikin otot makin gede, tapi bikin otot makin kuat, sendinya sehat, gak gampang cedera, dan juga metabolisme gak turun.
+97	Latihan beban itu bukan pengen bikin otot makin gede, tapi bikin otot makin kuat, sendinya sehat, gak gampang cedera, dan juga metabolisme gak turun.
+98	Latihan beban itu bukan pengen bikin otot makin gede, tapi bikin otot makin kuat, sendinya sehat, gak gampang cedera, dan juga metabolisme gak turun.
+99	Latihan beban itu bukan pengen bikin otot makin gede, tapi bikin otot makin kuat, sendinya sehat, gak gampang cedera, dan juga metabolisme gak turun.
+100	Latihan beban itu bukan pengen bikin otot makin gede, tapi bikin otot makin kuat, sendinya sehat, gak gampang cedera, dan juga metabolisme gak turun.
+101	Latihan beban itu bukan pengen bikin otot makin gede, tapi bikin otot makin kuat, sendinya sehat, gak gampang cedera, dan juga metabolisme gak turun.
+102	Latihan beban itu bukan pengen bikin otot makin gede, tapi bikin otot makin kuat, sendinya sehat, gak gampang cedera, dan juga metabolisme gak turun.
+103	Latihan beban itu bukan pengen bikin otot makin gede, tapi bikin otot makin kuat, sendinya sehat, gak gampang cedera, dan juga metabolisme gak turun.
+104	Latihan beban itu bukan pengen bikin otot makin gede, tapi bikin otot makin kuat, sendinya sehat, gak gampang cedera, dan juga metabolisme gak turun.
+105	Latihan beban itu bukan pengen bikin otot makin gede, tapi bikin otot makin kuat, sendinya sehat, gak gampang cedera, dan juga metabolisme gak turun.
+106	[NO_SPEECH]
+107	[NO_SPEECH]
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	[NO_SPEECH]
+113	[NO_SPEECH]
+114	[NO_SPEECH]
+115	Kalau atlet profesional aja wajib latihan beban.
+116	Kalau atlet profesional aja wajib latihan beban.
+117	Kalau atlet profesional aja wajib latihan beban.
+118	Kalau atlet profesional aja wajib latihan beban.
+119	Kalau atlet profesional aja wajib latihan beban.
+120	Kalau atlet profesional aja wajib latihan beban.
+121	Kalau atlet profesional aja wajib latihan beban. Masa kamu yang badannya masih kayak ubur-ubur, masih nge-real?
+122	Masa kamu yang badannya masih kayak ubur-ubur, masih nge-real?
+123	Masa kamu yang badannya masih kayak ubur-ubur, masih nge-real?
+124	Masa kamu yang badannya masih kayak ubur-ubur, masih nge-real?
+125	Masa kamu yang badannya masih kayak ubur-ubur, masih nge-real?
+126	Masa kamu yang badannya masih kayak ubur-ubur, masih nge-real?
+127	Masa kamu yang badannya masih kayak ubur-ubur, masih nge-real?
+128	Masa kamu yang badannya masih kayak ubur-ubur, masih nge-real?
+129	[NO_SPEECH]
+130	[NO_SPEECH]
+131	[NO_SPEECH]
+132	[NO_SPEECH]
+133	[NO_SPEECH]
+134	[NO_SPEECH]
+135	[NO_SPEECH]
+136	[NO_SPEECH]

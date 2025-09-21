@@ -1,0 +1,102 @@
+0	Bro, caranya pull up gimana?
+1	Bro, caranya pull up gimana?
+2	Bro, caranya pull up gimana?
+3	Bro, caranya pull up gimana? Ajari dong
+4	Bro, caranya pull up gimana? Ajari dong Oke siap, itu ada pull up bar tuh
+5	Ajari dong Oke siap, itu ada pull up bar tuh
+6	Oke siap, itu ada pull up bar tuh
+7	Oke siap, itu ada pull up bar tuh
+8	Oke siap, itu ada pull up bar tuh
+9	Oke siap, itu ada pull up bar tuh
+10	Oke siap, itu ada pull up bar tuh Let's go Pertama latihan gelantungan dulu sampai bisa 20an detik ya
+11	Oke siap, itu ada pull up bar tuh Let's go Pertama latihan gelantungan dulu sampai bisa 20an detik ya
+12	Pertama latihan gelantungan dulu sampai bisa 20an detik ya
+13	Pertama latihan gelantungan dulu sampai bisa 20an detik ya
+14	Pertama latihan gelantungan dulu sampai bisa 20an detik ya
+15	Pertama latihan gelantungan dulu sampai bisa 20an detik ya
+16	Pertama latihan gelantungan dulu sampai bisa 20an detik ya
+17	Pertama latihan gelantungan dulu sampai bisa 20an detik ya
+18	Pertama latihan gelantungan dulu sampai bisa 20an detik ya
+19	Terus latihan pull up shrug sampai bisa 10 kali
+20	Terus latihan pull up shrug sampai bisa 10 kali
+21	Terus latihan pull up shrug sampai bisa 10 kali
+22	Terus latihan pull up shrug sampai bisa 10 kali
+23	Terus latihan pull up shrug sampai bisa 10 kali
+24	Terus latihan pull up shrug sampai bisa 10 kali Buat ngelatih otot punggung atas atau otot trapezius
+25	Terus latihan pull up shrug sampai bisa 10 kali Buat ngelatih otot punggung atas atau otot trapezius
+26	Buat ngelatih otot punggung atas atau otot trapezius
+27	Buat ngelatih otot punggung atas atau otot trapezius
+28	Buat ngelatih otot punggung atas atau otot trapezius
+29	Buat ngelatih otot punggung atas atau otot trapezius
+30	Buat ngelatih otot punggung atas atau otot trapezius Terus latihan dulu gerakan namanya Australian pull up
+31	Terus latihan dulu gerakan namanya Australian pull up
+32	Terus latihan dulu gerakan namanya Australian pull up
+33	Terus latihan dulu gerakan namanya Australian pull up
+34	Terus latihan dulu gerakan namanya Australian pull up
+35	Terus latihan dulu gerakan namanya Australian pull up Sampai bisa 12 kali ya
+36	Terus latihan dulu gerakan namanya Australian pull up Sampai bisa 12 kali ya
+37	Sampai bisa 12 kali ya Nah terus bisa pake kursi ini buat gerakan negatif pull up
+38	Sampai bisa 12 kali ya Nah terus bisa pake kursi ini buat gerakan negatif pull up
+39	Nah terus bisa pake kursi ini buat gerakan negatif pull up
+40	Nah terus bisa pake kursi ini buat gerakan negatif pull up
+41	Nah terus bisa pake kursi ini buat gerakan negatif pull up
+42	Nah terus bisa pake kursi ini buat gerakan negatif pull up
+43	Nah terus bisa pake kursi ini buat gerakan negatif pull up
+44	Nah terus bisa pake kursi ini buat gerakan negatif pull up Nah kayak gitu tuh
+45	Nah terus bisa pake kursi ini buat gerakan negatif pull up Nah kayak gitu tuh
+46	Nah kayak gitu tuh
+47	Nah kayak gitu tuh
+48	Oke
+49	Oke Abis itu bisa pake resistance band
+50	Oke Abis itu bisa pake resistance band
+51	Abis itu bisa pake resistance band
+52	Abis itu bisa pake resistance band
+53	Abis itu bisa pake resistance band
+54	Abis itu bisa pake resistance band Biar waktu latihan pull up lebih enteng
+55	Abis itu bisa pake resistance band Biar waktu latihan pull up lebih enteng
+56	Biar waktu latihan pull up lebih enteng
+57	Biar waktu latihan pull up lebih enteng
+58	Biar waktu latihan pull up lebih enteng Coba incer 10-12 repetisi ya
+59	Biar waktu latihan pull up lebih enteng Coba incer 10-12 repetisi ya
+60	Coba incer 10-12 repetisi ya
+61	Coba incer 10-12 repetisi ya Dan selamat, kamu akan mendapatkan pull up pertamamu
+62	Coba incer 10-12 repetisi ya Dan selamat, kamu akan mendapatkan pull up pertamamu
+63	Dan selamat, kamu akan mendapatkan pull up pertamamu
+64	Dan selamat, kamu akan mendapatkan pull up pertamamu
+65	Dan selamat, kamu akan mendapatkan pull up pertamamu
+66	Dan selamat, kamu akan mendapatkan pull up pertamamu
+67	Dan selamat, kamu akan mendapatkan pull up pertamamu
+68	Dan selamat, kamu akan mendapatkan pull up pertamamu Kalo udah latihan itu semua
+69	Dan selamat, kamu akan mendapatkan pull up pertamamu Kalo udah latihan itu semua
+70	Kalo udah latihan itu semua
+71	Kalo udah latihan itu semua
+72	Gimana?
+73	Gimana? Ngerti kan?
+74	Ngerti kan? Cobain ya
+75	Ngerti kan? Cobain ya
+76	Cobain ya
+77	Oke oke, kita cobain ya
+78	Oke oke, kita cobain ya
+79	Oke oke, kita cobain ya
+80	Oke oke, kita cobain ya Let's go
+81	Oke oke, kita cobain ya Let's go Kita cobain ya
+82	Let's go Kita cobain ya
+83	Kita cobain ya
+84	Kita cobain ya
+85	Kita cobain ya
+86	[NO_SPEECH]
+87	Oh
+88	Oh
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	Oh Oh
+92	Oh Oh
+93	Oh Oh Oh
+94	Oh Oh
+95	Oh
+96	Oh Oh
+97	Oh Oh Oh  Oh Oh
+98	Oh Oh  Oh Oh Oh
+99	Oh Oh  Oh  Oh
+100	Oh Oh  Oh  Oh Oh Oh
+101	Oh Oh Oh

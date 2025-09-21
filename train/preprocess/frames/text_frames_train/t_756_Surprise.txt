@@ -1,0 +1,116 @@
+0	Kenapa orang-orang yang sering begadang dan kurang tidur lebih gampang jadi obesitas?
+1	Kenapa orang-orang yang sering begadang dan kurang tidur lebih gampang jadi obesitas?
+2	Kenapa orang-orang yang sering begadang dan kurang tidur lebih gampang jadi obesitas?
+3	Kenapa orang-orang yang sering begadang dan kurang tidur lebih gampang jadi obesitas?
+4	Kenapa orang-orang yang sering begadang dan kurang tidur lebih gampang jadi obesitas?
+5	Kenapa orang-orang yang sering begadang dan kurang tidur lebih gampang jadi obesitas?
+6	Kenapa orang-orang yang sering begadang dan kurang tidur lebih gampang jadi obesitas?
+7	Kenapa orang-orang yang sering begadang dan kurang tidur lebih gampang jadi obesitas?
+8	Kenapa orang-orang yang sering begadang dan kurang tidur lebih gampang jadi obesitas?
+9	Kenapa orang-orang yang sering begadang dan kurang tidur lebih gampang jadi obesitas?
+10	Ini gue mau share satu research paper yang tunjukin salah satu alasan.
+11	Ini gue mau share satu research paper yang tunjukin salah satu alasan.
+12	Ini gue mau share satu research paper yang tunjukin salah satu alasan.
+13	Ini gue mau share satu research paper yang tunjukin salah satu alasan.
+14	Ini gue mau share satu research paper yang tunjukin salah satu alasan.
+15	Ini gue mau share satu research paper yang tunjukin salah satu alasan.
+16	Ini gue mau share satu research paper yang tunjukin salah satu alasan.
+17	Ini gue mau share satu research paper yang tunjukin salah satu alasan. Ini mereka ngumpulin satu kelompok orang.
+18	Ini gue mau share satu research paper yang tunjukin salah satu alasan. Ini mereka ngumpulin satu kelompok orang.
+19	Ini mereka ngumpulin satu kelompok orang.
+20	Ini mereka ngumpulin satu kelompok orang.
+21	Ini mereka ngumpulin satu kelompok orang. Terus mereka disuruh begadang satu malam.
+22	Ini mereka ngumpulin satu kelompok orang. Terus mereka disuruh begadang satu malam.
+23	Terus mereka disuruh begadang satu malam.
+24	Terus mereka disuruh begadang satu malam.
+25	Terus mereka disuruh begadang satu malam.
+26	Terus mereka disuruh begadang satu malam.
+27	Terus mereka disuruh begadang satu malam.
+28	Terus mereka disuruh begadang satu malam. Dan mereka dicek apa konsekuensinya, terutama dari sisi hormon,
+29	Dan mereka dicek apa konsekuensinya, terutama dari sisi hormon,
+30	Dan mereka dicek apa konsekuensinya, terutama dari sisi hormon,
+31	Dan mereka dicek apa konsekuensinya, terutama dari sisi hormon,
+32	Dan mereka dicek apa konsekuensinya, terutama dari sisi hormon,
+33	Dan mereka dicek apa konsekuensinya, terutama dari sisi hormon,
+34	Dan mereka dicek apa konsekuensinya, terutama dari sisi hormon,
+35	Dan mereka dicek apa konsekuensinya, terutama dari sisi hormon,
+36	Dan mereka dicek apa konsekuensinya, terutama dari sisi hormon, kalau kita kurang tidur.
+37	Dan mereka dicek apa konsekuensinya, terutama dari sisi hormon, kalau kita kurang tidur.
+38	kalau kita kurang tidur.
+39	kalau kita kurang tidur.
+40	kalau kita kurang tidur.
+41	kalau kita kurang tidur.
+42	Cukup dengan satu malam aja lu kurang tidur,
+43	Cukup dengan satu malam aja lu kurang tidur,
+44	Cukup dengan satu malam aja lu kurang tidur,
+45	Cukup dengan satu malam aja lu kurang tidur,
+46	Cukup dengan satu malam aja lu kurang tidur,
+47	Cukup dengan satu malam aja lu kurang tidur,
+48	Cukup dengan satu malam aja lu kurang tidur, hormon yang mengatur rasa kenyang dan rasa lapar lu jadi kacau.
+49	Cukup dengan satu malam aja lu kurang tidur, hormon yang mengatur rasa kenyang dan rasa lapar lu jadi kacau.
+50	hormon yang mengatur rasa kenyang dan rasa lapar lu jadi kacau.
+51	hormon yang mengatur rasa kenyang dan rasa lapar lu jadi kacau.
+52	hormon yang mengatur rasa kenyang dan rasa lapar lu jadi kacau.
+53	hormon yang mengatur rasa kenyang dan rasa lapar lu jadi kacau.
+54	hormon yang mengatur rasa kenyang dan rasa lapar lu jadi kacau.
+55	hormon yang mengatur rasa kenyang dan rasa lapar lu jadi kacau.
+56	hormon yang mengatur rasa kenyang dan rasa lapar lu jadi kacau. Pada saat lu kurang tidur, hormon yang mengatur rasa lapar lu, terutama ghrelin namanya,
+57	hormon yang mengatur rasa kenyang dan rasa lapar lu jadi kacau. Pada saat lu kurang tidur, hormon yang mengatur rasa lapar lu, terutama ghrelin namanya,
+58	Pada saat lu kurang tidur, hormon yang mengatur rasa lapar lu, terutama ghrelin namanya,
+59	Pada saat lu kurang tidur, hormon yang mengatur rasa lapar lu, terutama ghrelin namanya,
+60	Pada saat lu kurang tidur, hormon yang mengatur rasa lapar lu, terutama ghrelin namanya,
+61	Pada saat lu kurang tidur, hormon yang mengatur rasa lapar lu, terutama ghrelin namanya,
+62	Pada saat lu kurang tidur, hormon yang mengatur rasa lapar lu, terutama ghrelin namanya,
+63	Pada saat lu kurang tidur, hormon yang mengatur rasa lapar lu, terutama ghrelin namanya,
+64	Pada saat lu kurang tidur, hormon yang mengatur rasa lapar lu, terutama ghrelin namanya,
+65	Pada saat lu kurang tidur, hormon yang mengatur rasa lapar lu, terutama ghrelin namanya,
+66	Pada saat lu kurang tidur, hormon yang mengatur rasa lapar lu, terutama ghrelin namanya, itu naik secara signifikan.
+67	Pada saat lu kurang tidur, hormon yang mengatur rasa lapar lu, terutama ghrelin namanya, itu naik secara signifikan.
+68	itu naik secara signifikan.
+69	itu naik secara signifikan. Jadi lu merasa lapar terus.
+70	itu naik secara signifikan. Jadi lu merasa lapar terus.
+71	Jadi lu merasa lapar terus.
+72	Jadi lu merasa lapar terus. Dan hormon yang mengatur rasa kenyang lu, yaitu leptin, itu turun.
+73	Jadi lu merasa lapar terus. Dan hormon yang mengatur rasa kenyang lu, yaitu leptin, itu turun.
+74	Dan hormon yang mengatur rasa kenyang lu, yaitu leptin, itu turun.
+75	Dan hormon yang mengatur rasa kenyang lu, yaitu leptin, itu turun.
+76	Dan hormon yang mengatur rasa kenyang lu, yaitu leptin, itu turun.
+77	Dan hormon yang mengatur rasa kenyang lu, yaitu leptin, itu turun.
+78	Dan hormon yang mengatur rasa kenyang lu, yaitu leptin, itu turun.
+79	Dan hormon yang mengatur rasa kenyang lu, yaitu leptin, itu turun.
+80	Dan hormon yang mengatur rasa kenyang lu, yaitu leptin, itu turun.
+81	Dan hormon yang mengatur rasa kenyang lu, yaitu leptin, itu turun.
+82	Dan hormon yang mengatur rasa kenyang lu, yaitu leptin, itu turun.
+83	Dan hormon yang mengatur rasa kenyang lu, yaitu leptin, itu turun. Tendensi kita adalah lu bakalan makan terus karena lu rasa laparnya tinggi.
+84	Tendensi kita adalah lu bakalan makan terus karena lu rasa laparnya tinggi.
+85	Tendensi kita adalah lu bakalan makan terus karena lu rasa laparnya tinggi.
+86	Tendensi kita adalah lu bakalan makan terus karena lu rasa laparnya tinggi.
+87	Tendensi kita adalah lu bakalan makan terus karena lu rasa laparnya tinggi.
+88	Tendensi kita adalah lu bakalan makan terus karena lu rasa laparnya tinggi.
+89	Tendensi kita adalah lu bakalan makan terus karena lu rasa laparnya tinggi.
+90	Tendensi kita adalah lu bakalan makan terus karena lu rasa laparnya tinggi.
+91	Tendensi kita adalah lu bakalan makan terus karena lu rasa laparnya tinggi. Dan ini cukup dengan satu malam aja ya lu kurang tidur.
+92	Tendensi kita adalah lu bakalan makan terus karena lu rasa laparnya tinggi. Dan ini cukup dengan satu malam aja ya lu kurang tidur.
+93	Dan ini cukup dengan satu malam aja ya lu kurang tidur.
+94	Dan ini cukup dengan satu malam aja ya lu kurang tidur.
+95	Dan ini cukup dengan satu malam aja ya lu kurang tidur.
+96	Dan ini cukup dengan satu malam aja ya lu kurang tidur.
+97	Dan ini cukup dengan satu malam aja ya lu kurang tidur.
+98	Dan ini cukup dengan satu malam aja ya lu kurang tidur.
+99	Dan ini cukup dengan satu malam aja ya lu kurang tidur. Apalagi coba teman-teman bayangin, kalau lu kumulatif,
+100	Dan ini cukup dengan satu malam aja ya lu kurang tidur. Apalagi coba teman-teman bayangin, kalau lu kumulatif,
+101	Apalagi coba teman-teman bayangin, kalau lu kumulatif,
+102	Apalagi coba teman-teman bayangin, kalau lu kumulatif,
+103	Apalagi coba teman-teman bayangin, kalau lu kumulatif,
+104	Apalagi coba teman-teman bayangin, kalau lu kumulatif, kalau selama keseharian lu kurang tidur, lu begadang terus, apa yang akan terjadi?
+105	Apalagi coba teman-teman bayangin, kalau lu kumulatif, kalau selama keseharian lu kurang tidur, lu begadang terus, apa yang akan terjadi?
+106	kalau selama keseharian lu kurang tidur, lu begadang terus, apa yang akan terjadi?
+107	kalau selama keseharian lu kurang tidur, lu begadang terus, apa yang akan terjadi?
+108	kalau selama keseharian lu kurang tidur, lu begadang terus, apa yang akan terjadi?
+109	kalau selama keseharian lu kurang tidur, lu begadang terus, apa yang akan terjadi?
+110	kalau selama keseharian lu kurang tidur, lu begadang terus, apa yang akan terjadi?
+111	kalau selama keseharian lu kurang tidur, lu begadang terus, apa yang akan terjadi?
+112	kalau selama keseharian lu kurang tidur, lu begadang terus, apa yang akan terjadi?
+113	kalau selama keseharian lu kurang tidur, lu begadang terus, apa yang akan terjadi?
+114	kalau selama keseharian lu kurang tidur, lu begadang terus, apa yang akan terjadi?
+115	[NO_SPEECH]

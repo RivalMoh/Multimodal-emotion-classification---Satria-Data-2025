@@ -1,0 +1,138 @@
+0	Kayaknya kasus aku kali ini salah satu kasus yang membuat aku menghela nafas panjang
+1	Kayaknya kasus aku kali ini salah satu kasus yang membuat aku menghela nafas panjang
+2	Kayaknya kasus aku kali ini salah satu kasus yang membuat aku menghela nafas panjang
+3	Kayaknya kasus aku kali ini salah satu kasus yang membuat aku menghela nafas panjang
+4	Kayaknya kasus aku kali ini salah satu kasus yang membuat aku menghela nafas panjang
+5	Kayaknya kasus aku kali ini salah satu kasus yang membuat aku menghela nafas panjang
+6	Kayaknya kasus aku kali ini salah satu kasus yang membuat aku menghela nafas panjang
+7	Kayaknya kasus aku kali ini salah satu kasus yang membuat aku menghela nafas panjang
+8	Kayaknya kasus aku kali ini salah satu kasus yang membuat aku menghela nafas panjang
+9	Kayaknya kasus aku kali ini salah satu kasus yang membuat aku menghela nafas panjang
+10	Kayaknya kasus aku kali ini salah satu kasus yang membuat aku menghela nafas panjang
+11	Kayaknya kasus aku kali ini salah satu kasus yang membuat aku menghela nafas panjang
+12	Gimana enggak kalian lihat sendiri gimana kondisi perutnya
+13	Gimana enggak kalian lihat sendiri gimana kondisi perutnya
+14	Gimana enggak kalian lihat sendiri gimana kondisi perutnya
+15	Gimana enggak kalian lihat sendiri gimana kondisi perutnya
+16	Gimana enggak kalian lihat sendiri gimana kondisi perutnya
+17	Gimana enggak kalian lihat sendiri gimana kondisi perutnya
+18	Gimana enggak kalian lihat sendiri gimana kondisi perutnya
+19	Gimana enggak kalian lihat sendiri gimana kondisi perutnya Perutnya ini sobek karena memang ada kista yang ukurannya sangat besar
+20	Gimana enggak kalian lihat sendiri gimana kondisi perutnya Perutnya ini sobek karena memang ada kista yang ukurannya sangat besar
+21	Perutnya ini sobek karena memang ada kista yang ukurannya sangat besar
+22	Perutnya ini sobek karena memang ada kista yang ukurannya sangat besar
+23	Perutnya ini sobek karena memang ada kista yang ukurannya sangat besar
+24	Perutnya ini sobek karena memang ada kista yang ukurannya sangat besar
+25	Perutnya ini sobek karena memang ada kista yang ukurannya sangat besar
+26	Perutnya ini sobek karena memang ada kista yang ukurannya sangat besar
+27	Perutnya ini sobek karena memang ada kista yang ukurannya sangat besar Selaput putih ini adalah dinding kista yang sudah pecah
+28	Perutnya ini sobek karena memang ada kista yang ukurannya sangat besar Selaput putih ini adalah dinding kista yang sudah pecah
+29	Selaput putih ini adalah dinding kista yang sudah pecah
+30	Selaput putih ini adalah dinding kista yang sudah pecah
+31	Selaput putih ini adalah dinding kista yang sudah pecah
+32	Selaput putih ini adalah dinding kista yang sudah pecah
+33	Selaput putih ini adalah dinding kista yang sudah pecah Kista adalah suatu kantung yang bisa tumbuh di dalam tubuh yang isinya bisa berupa udara, cairan, atau semisolid
+34	Selaput putih ini adalah dinding kista yang sudah pecah Kista adalah suatu kantung yang bisa tumbuh di dalam tubuh yang isinya bisa berupa udara, cairan, atau semisolid
+35	Kista adalah suatu kantung yang bisa tumbuh di dalam tubuh yang isinya bisa berupa udara, cairan, atau semisolid
+36	Kista adalah suatu kantung yang bisa tumbuh di dalam tubuh yang isinya bisa berupa udara, cairan, atau semisolid
+37	Kista adalah suatu kantung yang bisa tumbuh di dalam tubuh yang isinya bisa berupa udara, cairan, atau semisolid
+38	Kista adalah suatu kantung yang bisa tumbuh di dalam tubuh yang isinya bisa berupa udara, cairan, atau semisolid
+39	Kista adalah suatu kantung yang bisa tumbuh di dalam tubuh yang isinya bisa berupa udara, cairan, atau semisolid
+40	Kista adalah suatu kantung yang bisa tumbuh di dalam tubuh yang isinya bisa berupa udara, cairan, atau semisolid
+41	Kista adalah suatu kantung yang bisa tumbuh di dalam tubuh yang isinya bisa berupa udara, cairan, atau semisolid
+42	Kista adalah suatu kantung yang bisa tumbuh di dalam tubuh yang isinya bisa berupa udara, cairan, atau semisolid
+43	Kista adalah suatu kantung yang bisa tumbuh di dalam tubuh yang isinya bisa berupa udara, cairan, atau semisolid
+44	Kista adalah suatu kantung yang bisa tumbuh di dalam tubuh yang isinya bisa berupa udara, cairan, atau semisolid
+45	Kista adalah suatu kantung yang bisa tumbuh di dalam tubuh yang isinya bisa berupa udara, cairan, atau semisolid
+46	Kista adalah suatu kantung yang bisa tumbuh di dalam tubuh yang isinya bisa berupa udara, cairan, atau semisolid
+47	Kista adalah suatu kantung yang bisa tumbuh di dalam tubuh yang isinya bisa berupa udara, cairan, atau semisolid
+48	Kista adalah suatu kantung yang bisa tumbuh di dalam tubuh yang isinya bisa berupa udara, cairan, atau semisolid
+49	Kista adalah suatu kantung yang bisa tumbuh di dalam tubuh yang isinya bisa berupa udara, cairan, atau semisolid Fish owner kira ikan ini hanya gendong telur biasa
+50	Kista adalah suatu kantung yang bisa tumbuh di dalam tubuh yang isinya bisa berupa udara, cairan, atau semisolid Fish owner kira ikan ini hanya gendong telur biasa
+51	Fish owner kira ikan ini hanya gendong telur biasa
+52	Fish owner kira ikan ini hanya gendong telur biasa
+53	Fish owner kira ikan ini hanya gendong telur biasa
+54	Fish owner kira ikan ini hanya gendong telur biasa
+55	Fish owner kira ikan ini hanya gendong telur biasa Karena kondisinya memang sudah seperti ini mau enggak mau kistanya kita angkat dengan segala resiko yang ada
+56	Fish owner kira ikan ini hanya gendong telur biasa Karena kondisinya memang sudah seperti ini mau enggak mau kistanya kita angkat dengan segala resiko yang ada
+57	Karena kondisinya memang sudah seperti ini mau enggak mau kistanya kita angkat dengan segala resiko yang ada
+58	Karena kondisinya memang sudah seperti ini mau enggak mau kistanya kita angkat dengan segala resiko yang ada
+59	Karena kondisinya memang sudah seperti ini mau enggak mau kistanya kita angkat dengan segala resiko yang ada
+60	Karena kondisinya memang sudah seperti ini mau enggak mau kistanya kita angkat dengan segala resiko yang ada
+61	Karena kondisinya memang sudah seperti ini mau enggak mau kistanya kita angkat dengan segala resiko yang ada
+62	Karena kondisinya memang sudah seperti ini mau enggak mau kistanya kita angkat dengan segala resiko yang ada
+63	Karena kondisinya memang sudah seperti ini mau enggak mau kistanya kita angkat dengan segala resiko yang ada
+64	Karena kondisinya memang sudah seperti ini mau enggak mau kistanya kita angkat dengan segala resiko yang ada
+65	Karena kondisinya memang sudah seperti ini mau enggak mau kistanya kita angkat dengan segala resiko yang ada
+66	Karena kondisinya memang sudah seperti ini mau enggak mau kistanya kita angkat dengan segala resiko yang ada Aku lumayan kaget karena kistanya telah memenuhi hampir 100% dari rongga perut ikan ini
+67	Karena kondisinya memang sudah seperti ini mau enggak mau kistanya kita angkat dengan segala resiko yang ada Aku lumayan kaget karena kistanya telah memenuhi hampir 100% dari rongga perut ikan ini
+68	Aku lumayan kaget karena kistanya telah memenuhi hampir 100% dari rongga perut ikan ini
+69	Aku lumayan kaget karena kistanya telah memenuhi hampir 100% dari rongga perut ikan ini
+70	Aku lumayan kaget karena kistanya telah memenuhi hampir 100% dari rongga perut ikan ini
+71	Aku lumayan kaget karena kistanya telah memenuhi hampir 100% dari rongga perut ikan ini
+72	Aku lumayan kaget karena kistanya telah memenuhi hampir 100% dari rongga perut ikan ini
+73	Aku lumayan kaget karena kistanya telah memenuhi hampir 100% dari rongga perut ikan ini
+74	Aku lumayan kaget karena kistanya telah memenuhi hampir 100% dari rongga perut ikan ini
+75	Aku lumayan kaget karena kistanya telah memenuhi hampir 100% dari rongga perut ikan ini
+76	Aku lumayan kaget karena kistanya telah memenuhi hampir 100% dari rongga perut ikan ini
+77	Aku lumayan kaget karena kistanya telah memenuhi hampir 100% dari rongga perut ikan ini
+78	Aku lumayan kaget karena kistanya telah memenuhi hampir 100% dari rongga perut ikan ini Operasi berjalan selama 45 menit aku dibantu oleh tim aku ada dokter Amel dan dokter Dina
+79	Aku lumayan kaget karena kistanya telah memenuhi hampir 100% dari rongga perut ikan ini Operasi berjalan selama 45 menit aku dibantu oleh tim aku ada dokter Amel dan dokter Dina
+80	Operasi berjalan selama 45 menit aku dibantu oleh tim aku ada dokter Amel dan dokter Dina
+81	Operasi berjalan selama 45 menit aku dibantu oleh tim aku ada dokter Amel dan dokter Dina
+82	Operasi berjalan selama 45 menit aku dibantu oleh tim aku ada dokter Amel dan dokter Dina
+83	Operasi berjalan selama 45 menit aku dibantu oleh tim aku ada dokter Amel dan dokter Dina
+84	Operasi berjalan selama 45 menit aku dibantu oleh tim aku ada dokter Amel dan dokter Dina
+85	Operasi berjalan selama 45 menit aku dibantu oleh tim aku ada dokter Amel dan dokter Dina
+86	Operasi berjalan selama 45 menit aku dibantu oleh tim aku ada dokter Amel dan dokter Dina
+87	Operasi berjalan selama 45 menit aku dibantu oleh tim aku ada dokter Amel dan dokter Dina
+88	Operasi berjalan selama 45 menit aku dibantu oleh tim aku ada dokter Amel dan dokter Dina
+89	Operasi berjalan selama 45 menit aku dibantu oleh tim aku ada dokter Amel dan dokter Dina Kita harus bisa membedakan mana yang usus dan mana yang mesenterium
+90	Operasi berjalan selama 45 menit aku dibantu oleh tim aku ada dokter Amel dan dokter Dina Kita harus bisa membedakan mana yang usus dan mana yang mesenterium
+91	Kita harus bisa membedakan mana yang usus dan mana yang mesenterium
+92	Kita harus bisa membedakan mana yang usus dan mana yang mesenterium
+93	Kita harus bisa membedakan mana yang usus dan mana yang mesenterium
+94	Kita harus bisa membedakan mana yang usus dan mana yang mesenterium
+95	Kita harus bisa membedakan mana yang usus dan mana yang mesenterium
+96	Kita harus bisa membedakan mana yang usus dan mana yang mesenterium Maka dari itu kita pasang selang di anus sebagai guidance
+97	Kita harus bisa membedakan mana yang usus dan mana yang mesenterium Maka dari itu kita pasang selang di anus sebagai guidance
+98	Maka dari itu kita pasang selang di anus sebagai guidance
+99	Maka dari itu kita pasang selang di anus sebagai guidance
+100	Maka dari itu kita pasang selang di anus sebagai guidance
+101	Maka dari itu kita pasang selang di anus sebagai guidance
+102	Maka dari itu kita pasang selang di anus sebagai guidance Di akhir operasi penafasan ikan sempat melambat
+103	Maka dari itu kita pasang selang di anus sebagai guidance Di akhir operasi penafasan ikan sempat melambat
+104	Di akhir operasi penafasan ikan sempat melambat
+105	Di akhir operasi penafasan ikan sempat melambat
+106	Di akhir operasi penafasan ikan sempat melambat
+107	Di akhir operasi penafasan ikan sempat melambat
+108	Di akhir operasi penafasan ikan sempat melambat
+109	Di akhir operasi penafasan ikan sempat melambat Bohong kalau aku bilang aku enggak deg-degan
+110	Di akhir operasi penafasan ikan sempat melambat Bohong kalau aku bilang aku enggak deg-degan
+111	Bohong kalau aku bilang aku enggak deg-degan
+112	Bohong kalau aku bilang aku enggak deg-degan
+113	Bohong kalau aku bilang aku enggak deg-degan Karena memang sangat berpengalaman
+114	Bohong kalau aku bilang aku enggak deg-degan Karena memang sangat berpengalaman
+115	Karena memang sangat berpengalaman Aku pacu sama waktu
+116	Karena memang sangat berpengalaman Aku pacu sama waktu
+117	Aku pacu sama waktu Sampai detik ini ikan masih kritis dan belum stabil
+118	Aku pacu sama waktu Sampai detik ini ikan masih kritis dan belum stabil
+119	Sampai detik ini ikan masih kritis dan belum stabil
+120	Sampai detik ini ikan masih kritis dan belum stabil
+121	Sampai detik ini ikan masih kritis dan belum stabil
+122	Sampai detik ini ikan masih kritis dan belum stabil
+123	Sampai detik ini ikan masih kritis dan belum stabil Aku bere-bere berharap ada keajaiban Tuhan
+124	Sampai detik ini ikan masih kritis dan belum stabil Aku bere-bere berharap ada keajaiban Tuhan
+125	Aku bere-bere berharap ada keajaiban Tuhan
+126	Aku bere-bere berharap ada keajaiban Tuhan
+127	Aku bere-bere berharap ada keajaiban Tuhan
+128	Aku bere-bere berharap ada keajaiban Tuhan Karena aku bisa merasakan semangat hidup yang tinggi dari ikan ini
+129	Aku bere-bere berharap ada keajaiban Tuhan Karena aku bisa merasakan semangat hidup yang tinggi dari ikan ini
+130	Karena aku bisa merasakan semangat hidup yang tinggi dari ikan ini
+131	Karena aku bisa merasakan semangat hidup yang tinggi dari ikan ini
+132	Karena aku bisa merasakan semangat hidup yang tinggi dari ikan ini
+133	Karena aku bisa merasakan semangat hidup yang tinggi dari ikan ini
+134	Karena aku bisa merasakan semangat hidup yang tinggi dari ikan ini
+135	Karena aku bisa merasakan semangat hidup yang tinggi dari ikan ini
+136	Karena aku bisa merasakan semangat hidup yang tinggi dari ikan ini
+137	[NO_SPEECH]

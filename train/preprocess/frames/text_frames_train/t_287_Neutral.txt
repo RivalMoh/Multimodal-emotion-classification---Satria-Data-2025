@@ -1,0 +1,77 @@
+0	Aku cocok pake baju-baju pastel, aksesoris warna silver, dan makeup yang lebih ke pink.
+1	Aku cocok pake baju-baju pastel, aksesoris warna silver, dan makeup yang lebih ke pink.
+2	Aku cocok pake baju-baju pastel, aksesoris warna silver, dan makeup yang lebih ke pink.
+3	Aku cocok pake baju-baju pastel, aksesoris warna silver, dan makeup yang lebih ke pink.
+4	Aku cocok pake baju-baju pastel, aksesoris warna silver, dan makeup yang lebih ke pink.
+5	Aku cocok pake baju-baju pastel, aksesoris warna silver, dan makeup yang lebih ke pink.
+6	Aku cocok pake baju-baju pastel, aksesoris warna silver, dan makeup yang lebih ke pink.
+7	Aku cocok pake baju-baju pastel, aksesoris warna silver, dan makeup yang lebih ke pink.
+8	Aku cocok pake baju-baju pastel, aksesoris warna silver, dan makeup yang lebih ke pink. Tebak, hasil PCA aku apa?
+9	Aku cocok pake baju-baju pastel, aksesoris warna silver, dan makeup yang lebih ke pink. Tebak, hasil PCA aku apa?
+10	Tebak, hasil PCA aku apa?
+11	Tebak, hasil PCA aku apa? Wah, akhirnya bisa ikut personal color analysis yang diadakan oleh Wardah di Bandung.
+12	Tebak, hasil PCA aku apa? Wah, akhirnya bisa ikut personal color analysis yang diadakan oleh Wardah di Bandung.
+13	Wah, akhirnya bisa ikut personal color analysis yang diadakan oleh Wardah di Bandung.
+14	Wah, akhirnya bisa ikut personal color analysis yang diadakan oleh Wardah di Bandung.
+15	Wah, akhirnya bisa ikut personal color analysis yang diadakan oleh Wardah di Bandung.
+16	Wah, akhirnya bisa ikut personal color analysis yang diadakan oleh Wardah di Bandung.
+17	Wah, akhirnya bisa ikut personal color analysis yang diadakan oleh Wardah di Bandung.
+18	Wah, akhirnya bisa ikut personal color analysis yang diadakan oleh Wardah di Bandung. Step awal, dicek dulu apakah aku warm, netra, atau cool.
+19	Wah, akhirnya bisa ikut personal color analysis yang diadakan oleh Wardah di Bandung. Step awal, dicek dulu apakah aku warm, netra, atau cool.
+20	Step awal, dicek dulu apakah aku warm, netra, atau cool.
+21	Step awal, dicek dulu apakah aku warm, netra, atau cool.
+22	Step awal, dicek dulu apakah aku warm, netra, atau cool.
+23	Step awal, dicek dulu apakah aku warm, netra, atau cool.
+24	Step awal, dicek dulu apakah aku warm, netra, atau cool.
+25	Step awal, dicek dulu apakah aku warm, netra, atau cool. Aku diarahin buat fokus ke bagian under eye, dark spot, dan rahang.
+26	Step awal, dicek dulu apakah aku warm, netra, atau cool. Aku diarahin buat fokus ke bagian under eye, dark spot, dan rahang.
+27	Aku diarahin buat fokus ke bagian under eye, dark spot, dan rahang.
+28	Aku diarahin buat fokus ke bagian under eye, dark spot, dan rahang.
+29	Aku diarahin buat fokus ke bagian under eye, dark spot, dan rahang.
+30	Aku diarahin buat fokus ke bagian under eye, dark spot, dan rahang.
+31	Aku diarahin buat fokus ke bagian under eye, dark spot, dan rahang. Liat-liat, warna oranye ini bikin kulit aku jadi cerah.
+32	Aku diarahin buat fokus ke bagian under eye, dark spot, dan rahang. Liat-liat, warna oranye ini bikin kulit aku jadi cerah.
+33	Liat-liat, warna oranye ini bikin kulit aku jadi cerah.
+34	Liat-liat, warna oranye ini bikin kulit aku jadi cerah.
+35	Liat-liat, warna oranye ini bikin kulit aku jadi cerah.
+36	Liat-liat, warna oranye ini bikin kulit aku jadi cerah. Tapi, warna fuchsia ini lebih bikin cerah ke kulit aku dong.
+37	Tapi, warna fuchsia ini lebih bikin cerah ke kulit aku dong.
+38	Tapi, warna fuchsia ini lebih bikin cerah ke kulit aku dong.
+39	Tapi, warna fuchsia ini lebih bikin cerah ke kulit aku dong.
+40	Tapi, warna fuchsia ini lebih bikin cerah ke kulit aku dong.
+41	Tapi, warna fuchsia ini lebih bikin cerah ke kulit aku dong. Aksesoris warna silver juga lebih cocok di aku dibanding warna gold.
+42	Tapi, warna fuchsia ini lebih bikin cerah ke kulit aku dong. Aksesoris warna silver juga lebih cocok di aku dibanding warna gold.
+43	Aksesoris warna silver juga lebih cocok di aku dibanding warna gold.
+44	Aksesoris warna silver juga lebih cocok di aku dibanding warna gold.
+45	Aksesoris warna silver juga lebih cocok di aku dibanding warna gold.
+46	Aksesoris warna silver juga lebih cocok di aku dibanding warna gold.
+47	Aksesoris warna silver juga lebih cocok di aku dibanding warna gold. OMG, ternyata warna-warna orange tuh malah bikin kurang cocok di aku.
+48	Aksesoris warna silver juga lebih cocok di aku dibanding warna gold. OMG, ternyata warna-warna orange tuh malah bikin kurang cocok di aku.
+49	OMG, ternyata warna-warna orange tuh malah bikin kurang cocok di aku.
+50	OMG, ternyata warna-warna orange tuh malah bikin kurang cocok di aku.
+51	OMG, ternyata warna-warna orange tuh malah bikin kurang cocok di aku.
+52	OMG, ternyata warna-warna orange tuh malah bikin kurang cocok di aku.
+53	OMG, ternyata warna-warna orange tuh malah bikin kurang cocok di aku. Setelah itu, aku juga dicek warna outfit dan makeup yang sesuai.
+54	OMG, ternyata warna-warna orange tuh malah bikin kurang cocok di aku. Setelah itu, aku juga dicek warna outfit dan makeup yang sesuai.
+55	Setelah itu, aku juga dicek warna outfit dan makeup yang sesuai.
+56	Setelah itu, aku juga dicek warna outfit dan makeup yang sesuai.
+57	Setelah itu, aku juga dicek warna outfit dan makeup yang sesuai.
+58	Setelah itu, aku juga dicek warna outfit dan makeup yang sesuai. Dan jeng-jeng, aku seorang netra atau cool dengan color seasonnya summer.
+59	Setelah itu, aku juga dicek warna outfit dan makeup yang sesuai. Dan jeng-jeng, aku seorang netra atau cool dengan color seasonnya summer.
+60	Dan jeng-jeng, aku seorang netra atau cool dengan color seasonnya summer.
+61	Dan jeng-jeng, aku seorang netra atau cool dengan color seasonnya summer.
+62	Dan jeng-jeng, aku seorang netra atau cool dengan color seasonnya summer.
+63	Dan jeng-jeng, aku seorang netra atau cool dengan color seasonnya summer.
+64	Dan jeng-jeng, aku seorang netra atau cool dengan color seasonnya summer.
+65	Dan jeng-jeng, aku seorang netra atau cool dengan color seasonnya summer. Ah, seneng banget kalo udah tau undertone sendiri.
+66	Dan jeng-jeng, aku seorang netra atau cool dengan color seasonnya summer. Ah, seneng banget kalo udah tau undertone sendiri.
+67	Ah, seneng banget kalo udah tau undertone sendiri.
+68	Ah, seneng banget kalo udah tau undertone sendiri.
+69	Ah, seneng banget kalo udah tau undertone sendiri. Coba deh kalian PCA juga, siapa tau undertone kita sama.
+70	Ah, seneng banget kalo udah tau undertone sendiri. Coba deh kalian PCA juga, siapa tau undertone kita sama.
+71	Coba deh kalian PCA juga, siapa tau undertone kita sama.
+72	Coba deh kalian PCA juga, siapa tau undertone kita sama.
+73	Coba deh kalian PCA juga, siapa tau undertone kita sama.
+74	Coba deh kalian PCA juga, siapa tau undertone kita sama.
+75	Coba deh kalian PCA juga, siapa tau undertone kita sama.
+76	[NO_SPEECH]

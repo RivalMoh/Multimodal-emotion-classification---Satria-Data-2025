@@ -1,0 +1,114 @@
+0	Perut bulat, pasti hamil anak perempuan.
+1	Perut bulat, pasti hamil anak perempuan.
+2	Perut bulat, pasti hamil anak perempuan.
+3	Perut bulat, pasti hamil anak perempuan.
+4	Perut bulat, pasti hamil anak perempuan.
+5	Perut bulat, pasti hamil anak perempuan.
+6	Mitos atau fakta?
+7	Mitos atau fakta?
+8	Mitos atau fakta?
+9	Mitos atau fakta?
+10	Mitos atau fakta? Kamu tim percaya atau tim ah masa sini?
+11	Kamu tim percaya atau tim ah masa sini?
+12	Kamu tim percaya atau tim ah masa sini?
+13	Kamu tim percaya atau tim ah masa sini?
+14	Kamu tim percaya atau tim ah masa sini?
+15	Kamu tim percaya atau tim ah masa sini?
+16	Kamu tim percaya atau tim ah masa sini?
+17	Kamu tim percaya atau tim ah masa sini?
+18	Kamu tim percaya atau tim ah masa sini?
+19	Katanya, bentuk perut ibu hamil bisa nebak jenis kelamin bayi.
+20	Katanya, bentuk perut ibu hamil bisa nebak jenis kelamin bayi.
+21	Katanya, bentuk perut ibu hamil bisa nebak jenis kelamin bayi.
+22	Katanya, bentuk perut ibu hamil bisa nebak jenis kelamin bayi.
+23	Katanya, bentuk perut ibu hamil bisa nebak jenis kelamin bayi.
+24	Katanya, bentuk perut ibu hamil bisa nebak jenis kelamin bayi.
+25	Katanya, bentuk perut ibu hamil bisa nebak jenis kelamin bayi.
+26	Katanya, bentuk perut ibu hamil bisa nebak jenis kelamin bayi.
+27	Padahal, itu cuma mitos lho.
+28	Padahal, itu cuma mitos lho.
+29	Padahal, itu cuma mitos lho.
+30	Padahal, itu cuma mitos lho.
+31	Padahal, itu cuma mitos lho. Bentuk perut itu nggak ada hubungannya dengan jenis kelamin ya.
+32	Bentuk perut itu nggak ada hubungannya dengan jenis kelamin ya.
+33	Bentuk perut itu nggak ada hubungannya dengan jenis kelamin ya.
+34	Bentuk perut itu nggak ada hubungannya dengan jenis kelamin ya.
+35	Bentuk perut itu nggak ada hubungannya dengan jenis kelamin ya.
+36	Bentuk perut itu nggak ada hubungannya dengan jenis kelamin ya.
+37	Bentuk perut itu nggak ada hubungannya dengan jenis kelamin ya.
+38	Bentuk perut itu nggak ada hubungannya dengan jenis kelamin ya.
+39	Bentuk perut itu nggak ada hubungannya dengan jenis kelamin ya. Karena bentuk perut dipengaruhi otot perut, posisi, dan ukuran janin.
+40	Karena bentuk perut dipengaruhi otot perut, posisi, dan ukuran janin.
+41	Karena bentuk perut dipengaruhi otot perut, posisi, dan ukuran janin.
+42	Karena bentuk perut dipengaruhi otot perut, posisi, dan ukuran janin.
+43	Karena bentuk perut dipengaruhi otot perut, posisi, dan ukuran janin.
+44	Karena bentuk perut dipengaruhi otot perut, posisi, dan ukuran janin.
+45	Karena bentuk perut dipengaruhi otot perut, posisi, dan ukuran janin.
+46	Karena bentuk perut dipengaruhi otot perut, posisi, dan ukuran janin.
+47	Karena bentuk perut dipengaruhi otot perut, posisi, dan ukuran janin.
+48	Karena bentuk perut dipengaruhi otot perut, posisi, dan ukuran janin.
+49	Karena bentuk perut dipengaruhi otot perut, posisi, dan ukuran janin.
+50	Tapi, bisa nggak sih nebak jenis kelamin tanpa USG?
+51	Tapi, bisa nggak sih nebak jenis kelamin tanpa USG?
+52	Tapi, bisa nggak sih nebak jenis kelamin tanpa USG?
+53	Tapi, bisa nggak sih nebak jenis kelamin tanpa USG?
+54	Tapi, bisa nggak sih nebak jenis kelamin tanpa USG?
+55	Tapi, bisa nggak sih nebak jenis kelamin tanpa USG?
+56	Tapi, bisa nggak sih nebak jenis kelamin tanpa USG?
+57	Tapi, bisa nggak sih nebak jenis kelamin tanpa USG?
+58	Jawabannya, ternyata bisa aja.
+59	Jawabannya, ternyata bisa aja.
+60	Jawabannya, ternyata bisa aja.
+61	Jawabannya, ternyata bisa aja.
+62	Jawabannya, ternyata bisa aja.
+63	Penelitian dalam jurnal Brand, Behavior, and Immunity menemukan ibu hamil anak perempuan lebih sering alami morning sickness nih.
+64	Penelitian dalam jurnal Brand, Behavior, and Immunity menemukan ibu hamil anak perempuan lebih sering alami morning sickness nih.
+65	Penelitian dalam jurnal Brand, Behavior, and Immunity menemukan ibu hamil anak perempuan lebih sering alami morning sickness nih.
+66	Penelitian dalam jurnal Brand, Behavior, and Immunity menemukan ibu hamil anak perempuan lebih sering alami morning sickness nih.
+67	Penelitian dalam jurnal Brand, Behavior, and Immunity menemukan ibu hamil anak perempuan lebih sering alami morning sickness nih.
+68	Penelitian dalam jurnal Brand, Behavior, and Immunity menemukan ibu hamil anak perempuan lebih sering alami morning sickness nih.
+69	Penelitian dalam jurnal Brand, Behavior, and Immunity menemukan ibu hamil anak perempuan lebih sering alami morning sickness nih.
+70	Penelitian dalam jurnal Brand, Behavior, and Immunity menemukan ibu hamil anak perempuan lebih sering alami morning sickness nih.
+71	Penelitian dalam jurnal Brand, Behavior, and Immunity menemukan ibu hamil anak perempuan lebih sering alami morning sickness nih.
+72	Penelitian dalam jurnal Brand, Behavior, and Immunity menemukan ibu hamil anak perempuan lebih sering alami morning sickness nih.
+73	Penelitian dalam jurnal Brand, Behavior, and Immunity menemukan ibu hamil anak perempuan lebih sering alami morning sickness nih.
+74	Penelitian dalam jurnal Brand, Behavior, and Immunity menemukan ibu hamil anak perempuan lebih sering alami morning sickness nih.
+75	Penelitian dalam jurnal Brand, Behavior, and Immunity menemukan ibu hamil anak perempuan lebih sering alami morning sickness nih.
+76	Penelitian dalam jurnal Brand, Behavior, and Immunity menemukan ibu hamil anak perempuan lebih sering alami morning sickness nih.
+77	Nafsu makan juga bisa jadi pertanda lho.
+78	Nafsu makan juga bisa jadi pertanda lho.
+79	Nafsu makan juga bisa jadi pertanda lho.
+80	Nafsu makan juga bisa jadi pertanda lho.
+81	Nafsu makan juga bisa jadi pertanda lho. Ibu hamil anak laki-laki biasanya makan 10% lebih banyak kalori.
+82	Nafsu makan juga bisa jadi pertanda lho. Ibu hamil anak laki-laki biasanya makan 10% lebih banyak kalori.
+83	Ibu hamil anak laki-laki biasanya makan 10% lebih banyak kalori.
+84	Ibu hamil anak laki-laki biasanya makan 10% lebih banyak kalori.
+85	Ibu hamil anak laki-laki biasanya makan 10% lebih banyak kalori.
+86	Ibu hamil anak laki-laki biasanya makan 10% lebih banyak kalori.
+87	Ibu hamil anak laki-laki biasanya makan 10% lebih banyak kalori.
+88	Ibu hamil anak laki-laki biasanya makan 10% lebih banyak kalori.
+89	Nah, kalau kamu ngalamin yang mana nih? Cerita di komen ya.
+90	Nah, kalau kamu ngalamin yang mana nih? Cerita di komen ya.
+91	Nah, kalau kamu ngalamin yang mana nih? Cerita di komen ya.
+92	Nah, kalau kamu ngalamin yang mana nih? Cerita di komen ya.
+93	Nah, kalau kamu ngalamin yang mana nih? Cerita di komen ya.
+94	Nah, kalau kamu ngalamin yang mana nih? Cerita di komen ya.
+95	Nah, kalau kamu ngalamin yang mana nih? Cerita di komen ya.
+96	Nah, kalau kamu ngalamin yang mana nih? Cerita di komen ya.
+97	Nah, kalau kamu ngalamin yang mana nih? Cerita di komen ya.
+98	Yuk, follow dan save video ini untuk dapetin tips kehamilan lainnya.
+99	Yuk, follow dan save video ini untuk dapetin tips kehamilan lainnya.
+100	Yuk, follow dan save video ini untuk dapetin tips kehamilan lainnya.
+101	Yuk, follow dan save video ini untuk dapetin tips kehamilan lainnya.
+102	Yuk, follow dan save video ini untuk dapetin tips kehamilan lainnya.
+103	Yuk, follow dan save video ini untuk dapetin tips kehamilan lainnya.
+104	Yuk, follow dan save video ini untuk dapetin tips kehamilan lainnya.
+105	Yuk, follow dan save video ini untuk dapetin tips kehamilan lainnya.
+106	Yuk, follow dan save video ini untuk dapetin tips kehamilan lainnya.
+107	Yuk, follow dan save video ini untuk dapetin tips kehamilan lainnya.
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	[NO_SPEECH]
+113	[NO_SPEECH]

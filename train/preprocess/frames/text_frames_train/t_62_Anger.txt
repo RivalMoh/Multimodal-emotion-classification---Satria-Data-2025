@@ -1,0 +1,34 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	VW ID.1 itu ada jendela
+3	VW ID.1 itu ada jendela
+4	VW ID.1 itu ada jendela
+5	VW ID.1 itu ada jendela
+6	VW ID.1 itu ada jendela Bisa dibuka, tapi digeser
+7	VW ID.1 itu ada jendela Bisa dibuka, tapi digeser
+8	Bisa dibuka, tapi digeser
+9	Bisa dibuka, tapi digeser
+10	Bisa dibuka, tapi digeser
+11	Bisa dibuka, tapi digeser Dan gesernya bukan mekanical, tapi
+12	Bisa dibuka, tapi digeser Dan gesernya bukan mekanical, tapi
+13	Dan gesernya bukan mekanical, tapi
+14	Dan gesernya bukan mekanical, tapi
+15	Dan gesernya bukan mekanical, tapi
+16	Dan gesernya bukan mekanical, tapi
+17	Elektrik
+18	Elektrik
+19	Elektrik
+20	Bukanya ditekan, bukan ditarik
+21	Bukanya ditekan, bukan ditarik
+22	Bukanya ditekan, bukan ditarik
+23	Bukanya ditekan, bukan ditarik
+24	Bukanya ditekan, bukan ditarik
+25	Bukanya ditekan, bukan ditarik
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	Dan
+30	Dan
+31	Dan
+32	Dan
+33	Dan

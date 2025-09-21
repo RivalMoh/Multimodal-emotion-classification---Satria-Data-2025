@@ -1,0 +1,110 @@
+0	Begini jadinya kalau SUV monokok sama SUV leather frame diajak nih, Kung.
+1	Begini jadinya kalau SUV monokok sama SUV leather frame diajak nih, Kung.
+2	Begini jadinya kalau SUV monokok sama SUV leather frame diajak nih, Kung.
+3	Begini jadinya kalau SUV monokok sama SUV leather frame diajak nih, Kung.
+4	Begini jadinya kalau SUV monokok sama SUV leather frame diajak nih, Kung.
+5	Begini jadinya kalau SUV monokok sama SUV leather frame diajak nih, Kung.
+6	Begini jadinya kalau SUV monokok sama SUV leather frame diajak nih, Kung. Cek dulu, Cing.
+7	Begini jadinya kalau SUV monokok sama SUV leather frame diajak nih, Kung. Cek dulu, Cing.
+8	Cek dulu, Cing.
+9	Cek dulu, Cing. Pertama, kita ada Toyota Fortuner GR Sport yang suspensinya relatif kaku-kaku sporty.
+10	Pertama, kita ada Toyota Fortuner GR Sport yang suspensinya relatif kaku-kaku sporty.
+11	Pertama, kita ada Toyota Fortuner GR Sport yang suspensinya relatif kaku-kaku sporty.
+12	Pertama, kita ada Toyota Fortuner GR Sport yang suspensinya relatif kaku-kaku sporty.
+13	Pertama, kita ada Toyota Fortuner GR Sport yang suspensinya relatif kaku-kaku sporty.
+14	Pertama, kita ada Toyota Fortuner GR Sport yang suspensinya relatif kaku-kaku sporty.
+15	Pertama, kita ada Toyota Fortuner GR Sport yang suspensinya relatif kaku-kaku sporty.
+16	Pertama, kita ada Toyota Fortuner GR Sport yang suspensinya relatif kaku-kaku sporty.
+17	Pertama, kita ada Toyota Fortuner GR Sport yang suspensinya relatif kaku-kaku sporty.
+18	Pertama, kita ada Toyota Fortuner GR Sport yang suspensinya relatif kaku-kaku sporty. Ditekuk di kecepatan 35 km per jam.
+19	Ditekuk di kecepatan 35 km per jam.
+20	Ditekuk di kecepatan 35 km per jam.
+21	Ditekuk di kecepatan 35 km per jam.
+22	Ditekuk di kecepatan 35 km per jam.
+23	Ditekuk di kecepatan 35 km per jam. Namanya SUV jangkau kelihatan ya limbungnya.
+24	Ditekuk di kecepatan 35 km per jam. Namanya SUV jangkau kelihatan ya limbungnya.
+25	Namanya SUV jangkau kelihatan ya limbungnya.
+26	Namanya SUV jangkau kelihatan ya limbungnya.
+27	Namanya SUV jangkau kelihatan ya limbungnya. Apalagi Mitsubishi Pajero Sport yang punya karakter relatif lebih soft.
+28	Namanya SUV jangkau kelihatan ya limbungnya. Apalagi Mitsubishi Pajero Sport yang punya karakter relatif lebih soft.
+29	Apalagi Mitsubishi Pajero Sport yang punya karakter relatif lebih soft.
+30	Apalagi Mitsubishi Pajero Sport yang punya karakter relatif lebih soft.
+31	Apalagi Mitsubishi Pajero Sport yang punya karakter relatif lebih soft.
+32	Apalagi Mitsubishi Pajero Sport yang punya karakter relatif lebih soft.
+33	Apalagi Mitsubishi Pajero Sport yang punya karakter relatif lebih soft.
+34	Apalagi Mitsubishi Pajero Sport yang punya karakter relatif lebih soft. Yang jelas ini semua khas SUV basis pickup dari suara decitan ban sampai mabal-mabal understeernya.
+35	Apalagi Mitsubishi Pajero Sport yang punya karakter relatif lebih soft. Yang jelas ini semua khas SUV basis pickup dari suara decitan ban sampai mabal-mabal understeernya.
+36	Yang jelas ini semua khas SUV basis pickup dari suara decitan ban sampai mabal-mabal understeernya.
+37	Yang jelas ini semua khas SUV basis pickup dari suara decitan ban sampai mabal-mabal understeernya.
+38	Yang jelas ini semua khas SUV basis pickup dari suara decitan ban sampai mabal-mabal understeernya.
+39	Yang jelas ini semua khas SUV basis pickup dari suara decitan ban sampai mabal-mabal understeernya.
+40	Yang jelas ini semua khas SUV basis pickup dari suara decitan ban sampai mabal-mabal understeernya.
+41	Yang jelas ini semua khas SUV basis pickup dari suara decitan ban sampai mabal-mabal understeernya.
+42	Yang jelas ini semua khas SUV basis pickup dari suara decitan ban sampai mabal-mabal understeernya.
+43	Yang jelas ini semua khas SUV basis pickup dari suara decitan ban sampai mabal-mabal understeernya.
+44	Yang jelas ini semua khas SUV basis pickup dari suara decitan ban sampai mabal-mabal understeernya.
+45	Yang jelas ini semua khas SUV basis pickup dari suara decitan ban sampai mabal-mabal understeernya. Tapi lain cerita kalau tengok Santa Fe yang punya basis monokok.
+46	Tapi lain cerita kalau tengok Santa Fe yang punya basis monokok.
+47	Tapi lain cerita kalau tengok Santa Fe yang punya basis monokok.
+48	Tapi lain cerita kalau tengok Santa Fe yang punya basis monokok.
+49	Tapi lain cerita kalau tengok Santa Fe yang punya basis monokok.
+50	Tapi lain cerita kalau tengok Santa Fe yang punya basis monokok.
+51	Tapi lain cerita kalau tengok Santa Fe yang punya basis monokok.
+52	Tapi lain cerita kalau tengok Santa Fe yang punya basis monokok. Oke, namanya SUV pasti ada limbungnya.
+53	Tapi lain cerita kalau tengok Santa Fe yang punya basis monokok. Oke, namanya SUV pasti ada limbungnya.
+54	Oke, namanya SUV pasti ada limbungnya.
+55	Oke, namanya SUV pasti ada limbungnya.
+56	Oke, namanya SUV pasti ada limbungnya. Tapi tekukan doi bisa lebih rapet, sharp, dan gigit ke jalan.
+57	Oke, namanya SUV pasti ada limbungnya. Tapi tekukan doi bisa lebih rapet, sharp, dan gigit ke jalan.
+58	Tapi tekukan doi bisa lebih rapet, sharp, dan gigit ke jalan.
+59	Tapi tekukan doi bisa lebih rapet, sharp, dan gigit ke jalan.
+60	Tapi tekukan doi bisa lebih rapet, sharp, dan gigit ke jalan.
+61	Tapi tekukan doi bisa lebih rapet, sharp, dan gigit ke jalan.
+62	Tapi tekukan doi bisa lebih rapet, sharp, dan gigit ke jalan.
+63	Tapi tekukan doi bisa lebih rapet, sharp, dan gigit ke jalan. Bisa kalian notice juga dari suara decitan ban yang lebih kalem padahal speednya sama.
+64	Tapi tekukan doi bisa lebih rapet, sharp, dan gigit ke jalan. Bisa kalian notice juga dari suara decitan ban yang lebih kalem padahal speednya sama.
+65	Bisa kalian notice juga dari suara decitan ban yang lebih kalem padahal speednya sama.
+66	Bisa kalian notice juga dari suara decitan ban yang lebih kalem padahal speednya sama.
+67	Bisa kalian notice juga dari suara decitan ban yang lebih kalem padahal speednya sama.
+68	Bisa kalian notice juga dari suara decitan ban yang lebih kalem padahal speednya sama.
+69	Bisa kalian notice juga dari suara decitan ban yang lebih kalem padahal speednya sama.
+70	Bisa kalian notice juga dari suara decitan ban yang lebih kalem padahal speednya sama.
+71	Bisa kalian notice juga dari suara decitan ban yang lebih kalem padahal speednya sama. Well, soal handling di aspal nggak perlu diraguin lagi.
+72	Well, soal handling di aspal nggak perlu diraguin lagi.
+73	Well, soal handling di aspal nggak perlu diraguin lagi.
+74	Well, soal handling di aspal nggak perlu diraguin lagi.
+75	Well, soal handling di aspal nggak perlu diraguin lagi.
+76	Well, soal handling di aspal nggak perlu diraguin lagi. Kalau SUV monokok bisa kasih kenyamanan plus karakter handling yang lebih presisi ketika leather frame relatif lebih longgar.
+77	Kalau SUV monokok bisa kasih kenyamanan plus karakter handling yang lebih presisi ketika leather frame relatif lebih longgar.
+78	Kalau SUV monokok bisa kasih kenyamanan plus karakter handling yang lebih presisi ketika leather frame relatif lebih longgar.
+79	Kalau SUV monokok bisa kasih kenyamanan plus karakter handling yang lebih presisi ketika leather frame relatif lebih longgar.
+80	Kalau SUV monokok bisa kasih kenyamanan plus karakter handling yang lebih presisi ketika leather frame relatif lebih longgar.
+81	Kalau SUV monokok bisa kasih kenyamanan plus karakter handling yang lebih presisi ketika leather frame relatif lebih longgar.
+82	Kalau SUV monokok bisa kasih kenyamanan plus karakter handling yang lebih presisi ketika leather frame relatif lebih longgar.
+83	Kalau SUV monokok bisa kasih kenyamanan plus karakter handling yang lebih presisi ketika leather frame relatif lebih longgar.
+84	Kalau SUV monokok bisa kasih kenyamanan plus karakter handling yang lebih presisi ketika leather frame relatif lebih longgar.
+85	Kalau SUV monokok bisa kasih kenyamanan plus karakter handling yang lebih presisi ketika leather frame relatif lebih longgar.
+86	Kalau SUV monokok bisa kasih kenyamanan plus karakter handling yang lebih presisi ketika leather frame relatif lebih longgar.
+87	Kalau SUV monokok bisa kasih kenyamanan plus karakter handling yang lebih presisi ketika leather frame relatif lebih longgar. Tapi untuk urusan kemampuan jelajah, pilihan SUV leather frame mesti diakui lebih mumpuni.
+88	Kalau SUV monokok bisa kasih kenyamanan plus karakter handling yang lebih presisi ketika leather frame relatif lebih longgar. Tapi untuk urusan kemampuan jelajah, pilihan SUV leather frame mesti diakui lebih mumpuni.
+89	Tapi untuk urusan kemampuan jelajah, pilihan SUV leather frame mesti diakui lebih mumpuni.
+90	Tapi untuk urusan kemampuan jelajah, pilihan SUV leather frame mesti diakui lebih mumpuni.
+91	Tapi untuk urusan kemampuan jelajah, pilihan SUV leather frame mesti diakui lebih mumpuni.
+92	Tapi untuk urusan kemampuan jelajah, pilihan SUV leather frame mesti diakui lebih mumpuni.
+93	Tapi untuk urusan kemampuan jelajah, pilihan SUV leather frame mesti diakui lebih mumpuni.
+94	Tapi untuk urusan kemampuan jelajah, pilihan SUV leather frame mesti diakui lebih mumpuni.
+95	Tapi untuk urusan kemampuan jelajah, pilihan SUV leather frame mesti diakui lebih mumpuni.
+96	Tapi untuk urusan kemampuan jelajah, pilihan SUV leather frame mesti diakui lebih mumpuni. Balik lagi sama preferensi dan kebutuhan.
+97	Tapi untuk urusan kemampuan jelajah, pilihan SUV leather frame mesti diakui lebih mumpuni. Balik lagi sama preferensi dan kebutuhan.
+98	Balik lagi sama preferensi dan kebutuhan.
+99	Balik lagi sama preferensi dan kebutuhan.
+100	Balik lagi sama preferensi dan kebutuhan.
+101	Balik lagi sama preferensi dan kebutuhan. Untuk sebuah SUV besar, kalian prefer leather frame atau monokok nih?
+102	Balik lagi sama preferensi dan kebutuhan. Untuk sebuah SUV besar, kalian prefer leather frame atau monokok nih?
+103	Untuk sebuah SUV besar, kalian prefer leather frame atau monokok nih?
+104	Untuk sebuah SUV besar, kalian prefer leather frame atau monokok nih?
+105	Untuk sebuah SUV besar, kalian prefer leather frame atau monokok nih?
+106	Untuk sebuah SUV besar, kalian prefer leather frame atau monokok nih?
+107	Untuk sebuah SUV besar, kalian prefer leather frame atau monokok nih?
+108	Untuk sebuah SUV besar, kalian prefer leather frame atau monokok nih?
+109	Untuk sebuah SUV besar, kalian prefer leather frame atau monokok nih?

@@ -1,0 +1,43 @@
+0	Bikin lawan kalian kaget? Pake cara terima servis, kayak gini.
+1	Bikin lawan kalian kaget? Pake cara terima servis, kayak gini.
+2	Bikin lawan kalian kaget? Pake cara terima servis, kayak gini.
+3	Bikin lawan kalian kaget? Pake cara terima servis, kayak gini.
+4	Bikin lawan kalian kaget? Pake cara terima servis, kayak gini.
+5	Bikin lawan kalian kaget? Pake cara terima servis, kayak gini. Pertama, seolah-olah kita mau menerima servis dan akan memukul dengan kencang.
+6	Bikin lawan kalian kaget? Pake cara terima servis, kayak gini. Pertama, seolah-olah kita mau menerima servis dan akan memukul dengan kencang.
+7	Pertama, seolah-olah kita mau menerima servis dan akan memukul dengan kencang.
+8	Pertama, seolah-olah kita mau menerima servis dan akan memukul dengan kencang.
+9	Pertama, seolah-olah kita mau menerima servis dan akan memukul dengan kencang.
+10	Pertama, seolah-olah kita mau menerima servis dan akan memukul dengan kencang.
+11	Pertama, seolah-olah kita mau menerima servis dan akan memukul dengan kencang.
+12	Pertama, seolah-olah kita mau menerima servis dan akan memukul dengan kencang. Tetapi di detik-detik akhir, kita pukul kok secara perlahan ya.
+13	Pertama, seolah-olah kita mau menerima servis dan akan memukul dengan kencang. Tetapi di detik-detik akhir, kita pukul kok secara perlahan ya.
+14	Tetapi di detik-detik akhir, kita pukul kok secara perlahan ya.
+15	Tetapi di detik-detik akhir, kita pukul kok secara perlahan ya.
+16	Tetapi di detik-detik akhir, kita pukul kok secara perlahan ya.
+17	Tetapi di detik-detik akhir, kita pukul kok secara perlahan ya.
+18	Tetapi di detik-detik akhir, kita pukul kok secara perlahan ya. Atau kalian bisa juga seperti ini.
+19	Tetapi di detik-detik akhir, kita pukul kok secara perlahan ya. Atau kalian bisa juga seperti ini.
+20	Atau kalian bisa juga seperti ini.
+21	Atau kalian bisa juga seperti ini.
+22	Atau kalian bisa juga seperti ini. Seolah-olah kita mau memukul ke arah yang lurus.
+23	Atau kalian bisa juga seperti ini. Seolah-olah kita mau memukul ke arah yang lurus.
+24	Seolah-olah kita mau memukul ke arah yang lurus.
+25	Seolah-olah kita mau memukul ke arah yang lurus.
+26	Seolah-olah kita mau memukul ke arah yang lurus.
+27	Seolah-olah kita mau memukul ke arah yang lurus. Tetapi di detik-detik akhir, kita belokin arah raket dan koknya ya.
+28	Seolah-olah kita mau memukul ke arah yang lurus. Tetapi di detik-detik akhir, kita belokin arah raket dan koknya ya.
+29	Tetapi di detik-detik akhir, kita belokin arah raket dan koknya ya.
+30	Tetapi di detik-detik akhir, kita belokin arah raket dan koknya ya.
+31	Tetapi di detik-detik akhir, kita belokin arah raket dan koknya ya.
+32	Tetapi di detik-detik akhir, kita belokin arah raket dan koknya ya.
+33	Tetapi di detik-detik akhir, kita belokin arah raket dan koknya ya.
+34	Tetapi di detik-detik akhir, kita belokin arah raket dan koknya ya. Gimana? Udah siap cobain ke lapangan?
+35	Gimana? Udah siap cobain ke lapangan?
+36	Gimana? Udah siap cobain ke lapangan?
+37	Gimana? Udah siap cobain ke lapangan? Jangan lupa follow ya.
+38	Gimana? Udah siap cobain ke lapangan? Jangan lupa follow ya.
+39	Jangan lupa follow ya.
+40	Jangan lupa follow ya.
+41	[NO_SPEECH]
+42	[NO_SPEECH]

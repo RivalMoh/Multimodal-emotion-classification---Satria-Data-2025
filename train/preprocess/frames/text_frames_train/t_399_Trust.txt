@@ -1,0 +1,182 @@
+0	Halo Sobat CR, siapa nih yang suka main futsal?
+1	Halo Sobat CR, siapa nih yang suka main futsal?
+2	Halo Sobat CR, siapa nih yang suka main futsal?
+3	Halo Sobat CR, siapa nih yang suka main futsal?
+4	Halo Sobat CR, siapa nih yang suka main futsal? Futsal itu seru banget ya, apalagi kalau mainnya bareng teman-teman.
+5	Futsal itu seru banget ya, apalagi kalau mainnya bareng teman-teman.
+6	Futsal itu seru banget ya, apalagi kalau mainnya bareng teman-teman.
+7	Futsal itu seru banget ya, apalagi kalau mainnya bareng teman-teman.
+8	Futsal itu seru banget ya, apalagi kalau mainnya bareng teman-teman.
+9	Futsal itu seru banget ya, apalagi kalau mainnya bareng teman-teman.
+10	Futsal itu seru banget ya, apalagi kalau mainnya bareng teman-teman.
+11	Futsal itu seru banget ya, apalagi kalau mainnya bareng teman-teman.
+12	Futsal itu seru banget ya, apalagi kalau mainnya bareng teman-teman. Tapi, kalau kalian mau jago, pastinya ada beberapa teknik dasar di futsal.
+13	Tapi, kalau kalian mau jago, pastinya ada beberapa teknik dasar di futsal.
+14	Tapi, kalau kalian mau jago, pastinya ada beberapa teknik dasar di futsal.
+15	Tapi, kalau kalian mau jago, pastinya ada beberapa teknik dasar di futsal.
+16	Tapi, kalau kalian mau jago, pastinya ada beberapa teknik dasar di futsal.
+17	Tapi, kalau kalian mau jago, pastinya ada beberapa teknik dasar di futsal.
+18	Tapi, kalau kalian mau jago, pastinya ada beberapa teknik dasar di futsal.
+19	Tapi, kalau kalian mau jago, pastinya ada beberapa teknik dasar di futsal.
+20	Tapi, kalau kalian mau jago, pastinya ada beberapa teknik dasar di futsal.
+21	Tapi, kalau kalian mau jago, pastinya ada beberapa teknik dasar di futsal. Mau tau? Yuk kita bahas!
+22	Tapi, kalau kalian mau jago, pastinya ada beberapa teknik dasar di futsal. Mau tau? Yuk kita bahas!
+23	Mau tau? Yuk kita bahas!
+24	Mau tau? Yuk kita bahas! Pertama, teknik mengontrol bola.
+25	Mau tau? Yuk kita bahas! Pertama, teknik mengontrol bola.
+26	Pertama, teknik mengontrol bola.
+27	Pertama, teknik mengontrol bola.
+28	Pertama, teknik mengontrol bola.
+29	Pertama, teknik mengontrol bola. Caranya, gunakan bagian telapak kaki atau sisi dalam kaki untuk menghentikan bola.
+30	Caranya, gunakan bagian telapak kaki atau sisi dalam kaki untuk menghentikan bola.
+31	Caranya, gunakan bagian telapak kaki atau sisi dalam kaki untuk menghentikan bola.
+32	Caranya, gunakan bagian telapak kaki atau sisi dalam kaki untuk menghentikan bola.
+33	Caranya, gunakan bagian telapak kaki atau sisi dalam kaki untuk menghentikan bola.
+34	Caranya, gunakan bagian telapak kaki atau sisi dalam kaki untuk menghentikan bola.
+35	Caranya, gunakan bagian telapak kaki atau sisi dalam kaki untuk menghentikan bola.
+36	Caranya, gunakan bagian telapak kaki atau sisi dalam kaki untuk menghentikan bola.
+37	Caranya, gunakan bagian telapak kaki atau sisi dalam kaki untuk menghentikan bola.
+38	Caranya, gunakan bagian telapak kaki atau sisi dalam kaki untuk menghentikan bola.
+39	Caranya, gunakan bagian telapak kaki atau sisi dalam kaki untuk menghentikan bola.
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	Kedua, teknik dribbling cepat.
+43	Kedua, teknik dribbling cepat.
+44	Kedua, teknik dribbling cepat.
+45	Kedua, teknik dribbling cepat.
+46	Kedua, teknik dribbling cepat. Caranya, gunakan ujung kaki untuk menorong bola ke depan secara pelan.
+47	Kedua, teknik dribbling cepat. Caranya, gunakan ujung kaki untuk menorong bola ke depan secara pelan.
+48	Caranya, gunakan ujung kaki untuk menorong bola ke depan secara pelan.
+49	Caranya, gunakan ujung kaki untuk menorong bola ke depan secara pelan.
+50	Caranya, gunakan ujung kaki untuk menorong bola ke depan secara pelan.
+51	Caranya, gunakan ujung kaki untuk menorong bola ke depan secara pelan.
+52	Caranya, gunakan ujung kaki untuk menorong bola ke depan secara pelan.
+53	Caranya, gunakan ujung kaki untuk menorong bola ke depan secara pelan.
+54	Caranya, gunakan ujung kaki untuk menorong bola ke depan secara pelan.
+55	Caranya, gunakan ujung kaki untuk menorong bola ke depan secara pelan.
+56	Caranya, gunakan ujung kaki untuk menorong bola ke depan secara pelan. Kedua, teknik menipu lawan.
+57	Kedua, teknik menipu lawan.
+58	Kedua, teknik menipu lawan. Jaga bola tetap dekat dengan kaki agar lawan sulit merebutnya.
+59	Kedua, teknik menipu lawan. Jaga bola tetap dekat dengan kaki agar lawan sulit merebutnya.
+60	Jaga bola tetap dekat dengan kaki agar lawan sulit merebutnya.
+61	Jaga bola tetap dekat dengan kaki agar lawan sulit merebutnya.
+62	Jaga bola tetap dekat dengan kaki agar lawan sulit merebutnya.
+63	Jaga bola tetap dekat dengan kaki agar lawan sulit merebutnya.
+64	Jaga bola tetap dekat dengan kaki agar lawan sulit merebutnya.
+65	Jaga bola tetap dekat dengan kaki agar lawan sulit merebutnya.
+66	Ketiga, teknik passing akurat.
+67	Ketiga, teknik passing akurat.
+68	Ketiga, teknik passing akurat.
+69	Ketiga, teknik passing akurat.
+70	Ketiga, teknik passing akurat.
+71	Ketiga, teknik passing akurat. Gunakan sisi dalam kaki untuk mengoper bola.
+72	Gunakan sisi dalam kaki untuk mengoper bola.
+73	Gunakan sisi dalam kaki untuk mengoper bola.
+74	Gunakan sisi dalam kaki untuk mengoper bola.
+75	Gunakan sisi dalam kaki untuk mengoper bola.
+76	Gunakan sisi dalam kaki untuk mengoper bola.
+77	Gunakan sisi dalam kaki untuk mengoper bola. Pastikan posisi tubuh mengarah ke target yang ingin dituju.
+78	Pastikan posisi tubuh mengarah ke target yang ingin dituju.
+79	Pastikan posisi tubuh mengarah ke target yang ingin dituju.
+80	Pastikan posisi tubuh mengarah ke target yang ingin dituju.
+81	Pastikan posisi tubuh mengarah ke target yang ingin dituju.
+82	Pastikan posisi tubuh mengarah ke target yang ingin dituju.
+83	Pastikan posisi tubuh mengarah ke target yang ingin dituju.
+84	Pastikan posisi tubuh mengarah ke target yang ingin dituju.
+85	[NO_SPEECH]
+86	[NO_SPEECH]
+87	[NO_SPEECH]
+88	[NO_SPEECH]
+89	[NO_SPEECH]
+90	Keempat, teknik menipu lawan.
+91	Keempat, teknik menipu lawan.
+92	Keempat, teknik menipu lawan.
+93	Keempat, teknik menipu lawan.
+94	Keempat, teknik menipu lawan. Feint move.
+95	Keempat, teknik menipu lawan. Feint move.
+96	Feint move. Caranya, gerakan badan ke satu arah seolah-olah mau ke sana.
+97	Feint move. Caranya, gerakan badan ke satu arah seolah-olah mau ke sana.
+98	Caranya, gerakan badan ke satu arah seolah-olah mau ke sana.
+99	Caranya, gerakan badan ke satu arah seolah-olah mau ke sana.
+100	Caranya, gerakan badan ke satu arah seolah-olah mau ke sana.
+101	Caranya, gerakan badan ke satu arah seolah-olah mau ke sana.
+102	Caranya, gerakan badan ke satu arah seolah-olah mau ke sana.
+103	Caranya, gerakan badan ke satu arah seolah-olah mau ke sana.
+104	Caranya, gerakan badan ke satu arah seolah-olah mau ke sana.
+105	Caranya, gerakan badan ke satu arah seolah-olah mau ke sana. Lalu, arahkan bola ke arah berlawanan.
+106	Lalu, arahkan bola ke arah berlawanan.
+107	Lalu, arahkan bola ke arah berlawanan.
+108	Lalu, arahkan bola ke arah berlawanan.
+109	Lalu, arahkan bola ke arah berlawanan.
+110	Lalu, arahkan bola ke arah berlawanan.
+111	[NO_SPEECH]
+112	[NO_SPEECH]
+113	[NO_SPEECH]
+114	[NO_SPEECH]
+115	Ketiga, teknik shooting tendangan.
+116	Ketiga, teknik shooting tendangan.
+117	Ketiga, teknik shooting tendangan.
+118	Ketiga, teknik shooting tendangan.
+119	Ketiga, teknik shooting tendangan.
+120	Gunakan punggung kaki untuk menendang bola.
+121	Gunakan punggung kaki untuk menendang bola.
+122	Gunakan punggung kaki untuk menendang bola.
+123	Gunakan punggung kaki untuk menendang bola.
+124	Gunakan punggung kaki untuk menendang bola.
+125	Gunakan punggung kaki untuk menendang bola.
+126	Gunakan punggung kaki untuk menendang bola.
+127	Fokuskan pandangan ke bola dan arahkan tendangan ke sudut gawang yang sulit dijangkau.
+128	Fokuskan pandangan ke bola dan arahkan tendangan ke sudut gawang yang sulit dijangkau.
+129	Fokuskan pandangan ke bola dan arahkan tendangan ke sudut gawang yang sulit dijangkau.
+130	Fokuskan pandangan ke bola dan arahkan tendangan ke sudut gawang yang sulit dijangkau.
+131	Fokuskan pandangan ke bola dan arahkan tendangan ke sudut gawang yang sulit dijangkau.
+132	Fokuskan pandangan ke bola dan arahkan tendangan ke sudut gawang yang sulit dijangkau.
+133	Fokuskan pandangan ke bola dan arahkan tendangan ke sudut gawang yang sulit dijangkau.
+134	Fokuskan pandangan ke bola dan arahkan tendangan ke sudut gawang yang sulit dijangkau.
+135	Fokuskan pandangan ke bola dan arahkan tendangan ke sudut gawang yang sulit dijangkau.
+136	Fokuskan pandangan ke bola dan arahkan tendangan ke sudut gawang yang sulit dijangkau.
+137	Fokuskan pandangan ke bola dan arahkan tendangan ke sudut gawang yang sulit dijangkau.
+138	Ketiga, kerja sama tim.
+139	Ketiga, kerja sama tim.
+140	Ketiga, kerja sama tim.
+141	Ketiga, kerja sama tim.
+142	Ketiga, kerja sama tim.
+143	Berkomunikasi dengan teman saat bermain.
+144	Berkomunikasi dengan teman saat bermain.
+145	Berkomunikasi dengan teman saat bermain.
+146	Berkomunikasi dengan teman saat bermain.
+147	Berkomunikasi dengan teman saat bermain. Jangan egois!
+148	Berkomunikasi dengan teman saat bermain. Jangan egois!
+149	Jangan egois!
+150	Jangan egois! Kalau teman punya posisi lebih baik, oper bola ke dia.
+151	Jangan egois! Kalau teman punya posisi lebih baik, oper bola ke dia.
+152	Kalau teman punya posisi lebih baik, oper bola ke dia.
+153	Kalau teman punya posisi lebih baik, oper bola ke dia.
+154	Kalau teman punya posisi lebih baik, oper bola ke dia.
+155	Kalau teman punya posisi lebih baik, oper bola ke dia.
+156	Kalau teman punya posisi lebih baik, oper bola ke dia.
+157	Jangan lupa, putsal itu nggak cuma soal skill.
+158	Jangan lupa, putsal itu nggak cuma soal skill.
+159	Jangan lupa, putsal itu nggak cuma soal skill.
+160	Jangan lupa, putsal itu nggak cuma soal skill.
+161	Jangan lupa, putsal itu nggak cuma soal skill.
+162	Jangan lupa, putsal itu nggak cuma soal skill. Tapi juga soal semangat dan keseruan.
+163	Jangan lupa, putsal itu nggak cuma soal skill. Tapi juga soal semangat dan keseruan.
+164	Tapi juga soal semangat dan keseruan.
+165	Tapi juga soal semangat dan keseruan.
+166	Tapi juga soal semangat dan keseruan.
+167	Tapi juga soal semangat dan keseruan. Kalau kalian punya teknik shooting, jangan lupa untuk meng-shoot bola!
+168	Kalau kalian punya teknik shooting, jangan lupa untuk meng-shoot bola!
+169	Kalau kalian punya teknik shooting, jangan lupa untuk meng-shoot bola! teknik pucal kakorit seri kolom komentar dan jangan lupa share ke teman-teman kalian see you
+170	Kalau kalian punya teknik shooting, jangan lupa untuk meng-shoot bola! teknik pucal kakorit seri kolom komentar dan jangan lupa share ke teman-teman kalian see you
+171	teknik pucal kakorit seri kolom komentar dan jangan lupa share ke teman-teman kalian see you
+172	teknik pucal kakorit seri kolom komentar dan jangan lupa share ke teman-teman kalian see you
+173	teknik pucal kakorit seri kolom komentar dan jangan lupa share ke teman-teman kalian see you
+174	teknik pucal kakorit seri kolom komentar dan jangan lupa share ke teman-teman kalian see you
+175	teknik pucal kakorit seri kolom komentar dan jangan lupa share ke teman-teman kalian see you
+176	teknik pucal kakorit seri kolom komentar dan jangan lupa share ke teman-teman kalian see you
+177	teknik pucal kakorit seri kolom komentar dan jangan lupa share ke teman-teman kalian see you
+178	teknik pucal kakorit seri kolom komentar dan jangan lupa share ke teman-teman kalian see you
+179	teknik pucal kakorit seri kolom komentar dan jangan lupa share ke teman-teman kalian see you
+180	teknik pucal kakorit seri kolom komentar dan jangan lupa share ke teman-teman kalian see you
+181	[NO_SPEECH]

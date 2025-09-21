@@ -1,0 +1,119 @@
+0	Hai, di video kali ini aku mau jawab pertanyaan yang paling sering ditanyain ke aku
+1	Hai, di video kali ini aku mau jawab pertanyaan yang paling sering ditanyain ke aku
+2	Hai, di video kali ini aku mau jawab pertanyaan yang paling sering ditanyain ke aku
+3	Hai, di video kali ini aku mau jawab pertanyaan yang paling sering ditanyain ke aku
+4	Hai, di video kali ini aku mau jawab pertanyaan yang paling sering ditanyain ke aku
+5	Hai, di video kali ini aku mau jawab pertanyaan yang paling sering ditanyain ke aku
+6	Hai, di video kali ini aku mau jawab pertanyaan yang paling sering ditanyain ke aku Aku pernah gak sih dapet pasien ikan konsumsi kayak ikan emas atau ikan nila?
+7	Hai, di video kali ini aku mau jawab pertanyaan yang paling sering ditanyain ke aku Aku pernah gak sih dapet pasien ikan konsumsi kayak ikan emas atau ikan nila?
+8	Aku pernah gak sih dapet pasien ikan konsumsi kayak ikan emas atau ikan nila?
+9	Aku pernah gak sih dapet pasien ikan konsumsi kayak ikan emas atau ikan nila?
+10	Aku pernah gak sih dapet pasien ikan konsumsi kayak ikan emas atau ikan nila?
+11	Aku pernah gak sih dapet pasien ikan konsumsi kayak ikan emas atau ikan nila?
+12	Aku pernah gak sih dapet pasien ikan konsumsi kayak ikan emas atau ikan nila?
+13	Aku pernah gak sih dapet pasien ikan konsumsi kayak ikan emas atau ikan nila? Jawabannya belum pernah ya
+14	Aku pernah gak sih dapet pasien ikan konsumsi kayak ikan emas atau ikan nila? Jawabannya belum pernah ya
+15	Jawabannya belum pernah ya
+16	Jawabannya belum pernah ya Sebenernya secara anatomi akan sama
+17	Jawabannya belum pernah ya Sebenernya secara anatomi akan sama
+18	Sebenernya secara anatomi akan sama
+19	Sebenernya secara anatomi akan sama Yang berbeda adalah cara pemberian obat karena gak mungkin disuntik satu persatu
+20	Sebenernya secara anatomi akan sama Yang berbeda adalah cara pemberian obat karena gak mungkin disuntik satu persatu
+21	Yang berbeda adalah cara pemberian obat karena gak mungkin disuntik satu persatu
+22	Yang berbeda adalah cara pemberian obat karena gak mungkin disuntik satu persatu
+23	Yang berbeda adalah cara pemberian obat karena gak mungkin disuntik satu persatu
+24	Yang berbeda adalah cara pemberian obat karena gak mungkin disuntik satu persatu
+25	Yang berbeda adalah cara pemberian obat karena gak mungkin disuntik satu persatu
+26	Yang berbeda adalah cara pemberian obat karena gak mungkin disuntik satu persatu Untuk ikan budidaya, aku biasanya banyak sharing sama temen-temen komunitas di event Indo Fisheries
+27	Yang berbeda adalah cara pemberian obat karena gak mungkin disuntik satu persatu Untuk ikan budidaya, aku biasanya banyak sharing sama temen-temen komunitas di event Indo Fisheries
+28	Untuk ikan budidaya, aku biasanya banyak sharing sama temen-temen komunitas di event Indo Fisheries
+29	Untuk ikan budidaya, aku biasanya banyak sharing sama temen-temen komunitas di event Indo Fisheries
+30	Untuk ikan budidaya, aku biasanya banyak sharing sama temen-temen komunitas di event Indo Fisheries
+31	Untuk ikan budidaya, aku biasanya banyak sharing sama temen-temen komunitas di event Indo Fisheries
+32	Untuk ikan budidaya, aku biasanya banyak sharing sama temen-temen komunitas di event Indo Fisheries
+33	Untuk ikan budidaya, aku biasanya banyak sharing sama temen-temen komunitas di event Indo Fisheries
+34	Untuk ikan budidaya, aku biasanya banyak sharing sama temen-temen komunitas di event Indo Fisheries
+35	Untuk ikan budidaya, aku biasanya banyak sharing sama temen-temen komunitas di event Indo Fisheries Eventnya selalu rame setiap tahun karena memang disini ajang bagi para pemberidaya untuk sharing knowledge mereka
+36	Untuk ikan budidaya, aku biasanya banyak sharing sama temen-temen komunitas di event Indo Fisheries Eventnya selalu rame setiap tahun karena memang disini ajang bagi para pemberidaya untuk sharing knowledge mereka
+37	Eventnya selalu rame setiap tahun karena memang disini ajang bagi para pemberidaya untuk sharing knowledge mereka
+38	Eventnya selalu rame setiap tahun karena memang disini ajang bagi para pemberidaya untuk sharing knowledge mereka
+39	Eventnya selalu rame setiap tahun karena memang disini ajang bagi para pemberidaya untuk sharing knowledge mereka
+40	Eventnya selalu rame setiap tahun karena memang disini ajang bagi para pemberidaya untuk sharing knowledge mereka
+41	Eventnya selalu rame setiap tahun karena memang disini ajang bagi para pemberidaya untuk sharing knowledge mereka
+42	Eventnya selalu rame setiap tahun karena memang disini ajang bagi para pemberidaya untuk sharing knowledge mereka
+43	Eventnya selalu rame setiap tahun karena memang disini ajang bagi para pemberidaya untuk sharing knowledge mereka
+44	Eventnya selalu rame setiap tahun karena memang disini ajang bagi para pemberidaya untuk sharing knowledge mereka
+45	Eventnya selalu rame setiap tahun karena memang disini ajang bagi para pemberidaya untuk sharing knowledge mereka
+46	Eventnya selalu rame setiap tahun karena memang disini ajang bagi para pemberidaya untuk sharing knowledge mereka Dan tahun ini eventnya agak sedikit berbeda karena diadakan langsung oleh Kementerian Kelautan dan Perikanan
+47	Eventnya selalu rame setiap tahun karena memang disini ajang bagi para pemberidaya untuk sharing knowledge mereka Dan tahun ini eventnya agak sedikit berbeda karena diadakan langsung oleh Kementerian Kelautan dan Perikanan
+48	Dan tahun ini eventnya agak sedikit berbeda karena diadakan langsung oleh Kementerian Kelautan dan Perikanan
+49	Dan tahun ini eventnya agak sedikit berbeda karena diadakan langsung oleh Kementerian Kelautan dan Perikanan
+50	Dan tahun ini eventnya agak sedikit berbeda karena diadakan langsung oleh Kementerian Kelautan dan Perikanan
+51	Dan tahun ini eventnya agak sedikit berbeda karena diadakan langsung oleh Kementerian Kelautan dan Perikanan
+52	Dan tahun ini eventnya agak sedikit berbeda karena diadakan langsung oleh Kementerian Kelautan dan Perikanan
+53	Dan tahun ini eventnya agak sedikit berbeda karena diadakan langsung oleh Kementerian Kelautan dan Perikanan
+54	Dan tahun ini eventnya agak sedikit berbeda karena diadakan langsung oleh Kementerian Kelautan dan Perikanan
+55	Dan tahun ini eventnya agak sedikit berbeda karena diadakan langsung oleh Kementerian Kelautan dan Perikanan
+56	Dan tahun ini eventnya agak sedikit berbeda karena diadakan langsung oleh Kementerian Kelautan dan Perikanan
+57	Dan tahun ini eventnya agak sedikit berbeda karena diadakan langsung oleh Kementerian Kelautan dan Perikanan Gak hanya ketemu dengan komunitas para pemberidaya
+58	Dan tahun ini eventnya agak sedikit berbeda karena diadakan langsung oleh Kementerian Kelautan dan Perikanan Gak hanya ketemu dengan komunitas para pemberidaya
+59	Gak hanya ketemu dengan komunitas para pemberidaya
+60	Gak hanya ketemu dengan komunitas para pemberidaya
+61	Gak hanya ketemu dengan komunitas para pemberidaya
+62	Gak hanya ketemu dengan komunitas para pemberidaya Disana akan banyak sekali vendor yang menyajikan produk dan jasa yang cukup reliable yang bisa kamu pakai untuk usaha budidaya kamu
+63	Gak hanya ketemu dengan komunitas para pemberidaya Disana akan banyak sekali vendor yang menyajikan produk dan jasa yang cukup reliable yang bisa kamu pakai untuk usaha budidaya kamu
+64	Disana akan banyak sekali vendor yang menyajikan produk dan jasa yang cukup reliable yang bisa kamu pakai untuk usaha budidaya kamu
+65	Disana akan banyak sekali vendor yang menyajikan produk dan jasa yang cukup reliable yang bisa kamu pakai untuk usaha budidaya kamu
+66	Disana akan banyak sekali vendor yang menyajikan produk dan jasa yang cukup reliable yang bisa kamu pakai untuk usaha budidaya kamu
+67	Disana akan banyak sekali vendor yang menyajikan produk dan jasa yang cukup reliable yang bisa kamu pakai untuk usaha budidaya kamu
+68	Disana akan banyak sekali vendor yang menyajikan produk dan jasa yang cukup reliable yang bisa kamu pakai untuk usaha budidaya kamu
+69	Disana akan banyak sekali vendor yang menyajikan produk dan jasa yang cukup reliable yang bisa kamu pakai untuk usaha budidaya kamu
+70	Disana akan banyak sekali vendor yang menyajikan produk dan jasa yang cukup reliable yang bisa kamu pakai untuk usaha budidaya kamu
+71	Disana akan banyak sekali vendor yang menyajikan produk dan jasa yang cukup reliable yang bisa kamu pakai untuk usaha budidaya kamu
+72	Disana akan banyak sekali vendor yang menyajikan produk dan jasa yang cukup reliable yang bisa kamu pakai untuk usaha budidaya kamu
+73	Disana akan banyak sekali vendor yang menyajikan produk dan jasa yang cukup reliable yang bisa kamu pakai untuk usaha budidaya kamu
+74	Disana akan banyak sekali vendor yang menyajikan produk dan jasa yang cukup reliable yang bisa kamu pakai untuk usaha budidaya kamu
+75	Disana akan banyak sekali vendor yang menyajikan produk dan jasa yang cukup reliable yang bisa kamu pakai untuk usaha budidaya kamu
+76	Disana akan banyak sekali vendor yang menyajikan produk dan jasa yang cukup reliable yang bisa kamu pakai untuk usaha budidaya kamu Dimulai dari pakan budidaya, obat-obatan, dan banyak sekali teknologi-teknologi baru lainnya
+77	Disana akan banyak sekali vendor yang menyajikan produk dan jasa yang cukup reliable yang bisa kamu pakai untuk usaha budidaya kamu Dimulai dari pakan budidaya, obat-obatan, dan banyak sekali teknologi-teknologi baru lainnya
+78	Dimulai dari pakan budidaya, obat-obatan, dan banyak sekali teknologi-teknologi baru lainnya
+79	Dimulai dari pakan budidaya, obat-obatan, dan banyak sekali teknologi-teknologi baru lainnya
+80	Dimulai dari pakan budidaya, obat-obatan, dan banyak sekali teknologi-teknologi baru lainnya
+81	Dimulai dari pakan budidaya, obat-obatan, dan banyak sekali teknologi-teknologi baru lainnya
+82	Dimulai dari pakan budidaya, obat-obatan, dan banyak sekali teknologi-teknologi baru lainnya
+83	Dimulai dari pakan budidaya, obat-obatan, dan banyak sekali teknologi-teknologi baru lainnya
+84	Dimulai dari pakan budidaya, obat-obatan, dan banyak sekali teknologi-teknologi baru lainnya
+85	Dimulai dari pakan budidaya, obat-obatan, dan banyak sekali teknologi-teknologi baru lainnya
+86	Dimulai dari pakan budidaya, obat-obatan, dan banyak sekali teknologi-teknologi baru lainnya Kebetulan acara Indo Fisheries ini selalu bertepatan dengan acara Indo Livestock setiap tahunnya
+87	Dimulai dari pakan budidaya, obat-obatan, dan banyak sekali teknologi-teknologi baru lainnya Kebetulan acara Indo Fisheries ini selalu bertepatan dengan acara Indo Livestock setiap tahunnya
+88	Kebetulan acara Indo Fisheries ini selalu bertepatan dengan acara Indo Livestock setiap tahunnya
+89	Kebetulan acara Indo Fisheries ini selalu bertepatan dengan acara Indo Livestock setiap tahunnya
+90	Kebetulan acara Indo Fisheries ini selalu bertepatan dengan acara Indo Livestock setiap tahunnya
+91	Kebetulan acara Indo Fisheries ini selalu bertepatan dengan acara Indo Livestock setiap tahunnya
+92	Kebetulan acara Indo Fisheries ini selalu bertepatan dengan acara Indo Livestock setiap tahunnya
+93	Kebetulan acara Indo Fisheries ini selalu bertepatan dengan acara Indo Livestock setiap tahunnya
+94	Kebetulan acara Indo Fisheries ini selalu bertepatan dengan acara Indo Livestock setiap tahunnya
+95	Kebetulan acara Indo Fisheries ini selalu bertepatan dengan acara Indo Livestock setiap tahunnya Dan tahun ini acaranya diadakan dari tanggal 17 sampai tanggal 19 Juli di JCC Senayan
+96	Kebetulan acara Indo Fisheries ini selalu bertepatan dengan acara Indo Livestock setiap tahunnya Dan tahun ini acaranya diadakan dari tanggal 17 sampai tanggal 19 Juli di JCC Senayan
+97	Dan tahun ini acaranya diadakan dari tanggal 17 sampai tanggal 19 Juli di JCC Senayan
+98	Dan tahun ini acaranya diadakan dari tanggal 17 sampai tanggal 19 Juli di JCC Senayan
+99	Dan tahun ini acaranya diadakan dari tanggal 17 sampai tanggal 19 Juli di JCC Senayan
+100	Dan tahun ini acaranya diadakan dari tanggal 17 sampai tanggal 19 Juli di JCC Senayan
+101	Dan tahun ini acaranya diadakan dari tanggal 17 sampai tanggal 19 Juli di JCC Senayan
+102	Dan tahun ini acaranya diadakan dari tanggal 17 sampai tanggal 19 Juli di JCC Senayan
+103	Dan tahun ini acaranya diadakan dari tanggal 17 sampai tanggal 19 Juli di JCC Senayan
+104	Dan tahun ini acaranya diadakan dari tanggal 17 sampai tanggal 19 Juli di JCC Senayan
+105	Dan tahun ini acaranya diadakan dari tanggal 17 sampai tanggal 19 Juli di JCC Senayan Kalo mau datang jangan lupa daftar dulu dan pake baju resmi ya
+106	Dan tahun ini acaranya diadakan dari tanggal 17 sampai tanggal 19 Juli di JCC Senayan Kalo mau datang jangan lupa daftar dulu dan pake baju resmi ya
+107	Kalo mau datang jangan lupa daftar dulu dan pake baju resmi ya
+108	Kalo mau datang jangan lupa daftar dulu dan pake baju resmi ya
+109	Kalo mau datang jangan lupa daftar dulu dan pake baju resmi ya
+110	Kalo mau datang jangan lupa daftar dulu dan pake baju resmi ya Aku bakal ada disana tanggal 17, ada yang mau barengan?
+111	Kalo mau datang jangan lupa daftar dulu dan pake baju resmi ya Aku bakal ada disana tanggal 17, ada yang mau barengan?
+112	Aku bakal ada disana tanggal 17, ada yang mau barengan?
+113	Aku bakal ada disana tanggal 17, ada yang mau barengan?
+114	Aku bakal ada disana tanggal 17, ada yang mau barengan?
+115	Aku bakal ada disana tanggal 17, ada yang mau barengan?
+116	Aku bakal ada disana tanggal 17, ada yang mau barengan?
+117	Aku bakal ada disana tanggal 17, ada yang mau barengan? An-
+118	An-

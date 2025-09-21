@@ -1,0 +1,138 @@
+0	Unboxing HP dengan baterai paling gede saat ini.
+1	Unboxing HP dengan baterai paling gede saat ini.
+2	Unboxing HP dengan baterai paling gede saat ini.
+3	Unboxing HP dengan baterai paling gede saat ini.
+4	Unboxing HP dengan baterai paling gede saat ini.
+5	Unboxing HP dengan baterai paling gede saat ini. 7.300 mAh.
+6	Unboxing HP dengan baterai paling gede saat ini. 7.300 mAh.
+7	7.300 mAh.
+8	7.300 mAh.
+9	7.300 mAh.
+10	7.300 mAh.
+11	7.300 mAh. IQU Z10.
+12	7.300 mAh. IQU Z10.
+13	IQU Z10.
+14	IQU Z10. Coba tebak, tebalnya berapa, beratnya berapa?
+15	IQU Z10. Coba tebak, tebalnya berapa, beratnya berapa?
+16	Coba tebak, tebalnya berapa, beratnya berapa?
+17	Coba tebak, tebalnya berapa, beratnya berapa?
+18	Coba tebak, tebalnya berapa, beratnya berapa?
+19	Coba tebak, tebalnya berapa, beratnya berapa? Kita lihat dulu isi kotaknya.
+20	Coba tebak, tebalnya berapa, beratnya berapa? Kita lihat dulu isi kotaknya.
+21	Kita lihat dulu isi kotaknya.
+22	Kita lihat dulu isi kotaknya.
+23	Kita lihat dulu isi kotaknya. Ada si HP, kita parkir bentar.
+24	Ada si HP, kita parkir bentar.
+25	Ada si HP, kita parkir bentar.
+26	Ada si HP, kita parkir bentar.
+27	Ada si HP, kita parkir bentar. Ada casing, buku petunjuk, kabel data, dan charger 90W.
+28	Ada si HP, kita parkir bentar. Ada casing, buku petunjuk, kabel data, dan charger 90W.
+29	Ada casing, buku petunjuk, kabel data, dan charger 90W.
+30	Ada casing, buku petunjuk, kabel data, dan charger 90W.
+31	Ada casing, buku petunjuk, kabel data, dan charger 90W.
+32	Ada casing, buku petunjuk, kabel data, dan charger 90W.
+33	Ada casing, buku petunjuk, kabel data, dan charger 90W.
+34	Ada casing, buku petunjuk, kabel data, dan charger 90W.
+35	Ada casing, buku petunjuk, kabel data, dan charger 90W.
+36	Ada casing, buku petunjuk, kabel data, dan charger 90W.
+37	Ada casing, buku petunjuk, kabel data, dan charger 90W. Sesuai sama baterai HP-nya.
+38	Sesuai sama baterai HP-nya.
+39	Sesuai sama baterai HP-nya.
+40	Sesuai sama baterai HP-nya. Nah, IQU Z10.
+41	Sesuai sama baterai HP-nya. Nah, IQU Z10.
+42	Nah, IQU Z10.
+43	Nah, IQU Z10. HP dengan baterai 7.300 mAh nih.
+44	Nah, IQU Z10. HP dengan baterai 7.300 mAh nih.
+45	HP dengan baterai 7.300 mAh nih.
+46	HP dengan baterai 7.300 mAh nih.
+47	HP dengan baterai 7.300 mAh nih.
+48	HP dengan baterai 7.300 mAh nih.
+49	HP dengan baterai 7.300 mAh nih.
+50	HP dengan baterai 7.300 mAh nih. Hebatnya, tebalnya cuma 7,9 mm doang.
+51	HP dengan baterai 7.300 mAh nih. Hebatnya, tebalnya cuma 7,9 mm doang.
+52	Hebatnya, tebalnya cuma 7,9 mm doang.
+53	Hebatnya, tebalnya cuma 7,9 mm doang.
+54	Hebatnya, tebalnya cuma 7,9 mm doang.
+55	Hebatnya, tebalnya cuma 7,9 mm doang.
+56	Hebatnya, tebalnya cuma 7,9 mm doang.
+57	Hebatnya, tebalnya cuma 7,9 mm doang. Kayak HP biasa.
+58	Hebatnya, tebalnya cuma 7,9 mm doang. Kayak HP biasa.
+59	Kayak HP biasa.
+60	Kayak HP biasa. Bobotnya di bawah 200 gram.
+61	Kayak HP biasa. Bobotnya di bawah 200 gram.
+62	Bobotnya di bawah 200 gram.
+63	Bobotnya di bawah 200 gram.
+64	Bobotnya di bawah 200 gram. Kayak HP biasa juga.
+65	Bobotnya di bawah 200 gram. Kayak HP biasa juga.
+66	Kayak HP biasa juga.
+67	Kayak HP biasa juga. Mantepnya teknologi baterai sekarang.
+68	Kayak HP biasa juga. Mantepnya teknologi baterai sekarang.
+69	Mantepnya teknologi baterai sekarang.
+70	Mantepnya teknologi baterai sekarang.
+71	Mantepnya teknologi baterai sekarang.
+72	Mantepnya teknologi baterai sekarang. Tungguin aja review IQU Z10 ini.
+73	Tungguin aja review IQU Z10 ini.
+74	Tungguin aja review IQU Z10 ini.
+75	Tungguin aja review IQU Z10 ini.
+76	Tungguin aja review IQU Z10 ini.
+77	Tungguin aja review IQU Z10 ini. Yang harusnya punya harga asik.
+78	Tungguin aja review IQU Z10 ini. Yang harusnya punya harga asik.
+79	Yang harusnya punya harga asik.
+80	Yang harusnya punya harga asik.
+81	Yang harusnya punya harga asik. Karena kelasnya mid-range.
+82	Yang harusnya punya harga asik. Karena kelasnya mid-range.
+83	Karena kelasnya mid-range.
+84	Karena kelasnya mid-range. Dan ini HP dari IQU coy.
+85	Dan ini HP dari IQU coy.
+86	Dan ini HP dari IQU coy.
+87	Dan ini HP dari IQU coy. Selalu ngasih value yang tinggi buat harganya.
+88	Dan ini HP dari IQU coy. Selalu ngasih value yang tinggi buat harganya.
+89	Selalu ngasih value yang tinggi buat harganya.
+90	Selalu ngasih value yang tinggi buat harganya.
+91	Selalu ngasih value yang tinggi buat harganya.
+92	Selalu ngasih value yang tinggi buat harganya. Ternyata ada satu lagi HP kejutan dari IQU.
+93	Selalu ngasih value yang tinggi buat harganya. Ternyata ada satu lagi HP kejutan dari IQU.
+94	Ternyata ada satu lagi HP kejutan dari IQU.
+95	Ternyata ada satu lagi HP kejutan dari IQU.
+96	Ternyata ada satu lagi HP kejutan dari IQU.
+97	Ternyata ada satu lagi HP kejutan dari IQU.
+98	Ternyata ada satu lagi HP kejutan dari IQU. Saya kirain cuma Z10 doang.
+99	Ternyata ada satu lagi HP kejutan dari IQU. Saya kirain cuma Z10 doang.
+100	Saya kirain cuma Z10 doang.
+101	Saya kirain cuma Z10 doang.
+102	Saya kirain cuma Z10 doang.
+103	Saya kirain cuma Z10 doang.
+104	[NO_SPEECH]
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	[NO_SPEECH]
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	HP misteri yang bakal bikin gamer happy.
+112	HP misteri yang bakal bikin gamer happy.
+113	HP misteri yang bakal bikin gamer happy.
+114	HP misteri yang bakal bikin gamer happy.
+115	HP misteri yang bakal bikin gamer happy.
+116	HP misteri yang bakal bikin gamer happy.
+117	HP misteri yang bakal bikin gamer happy. Ada yang bisa tebak nggak HP-nya apaan?
+118	HP misteri yang bakal bikin gamer happy. Ada yang bisa tebak nggak HP-nya apaan?
+119	Ada yang bisa tebak nggak HP-nya apaan?
+120	Ada yang bisa tebak nggak HP-nya apaan?
+121	Ada yang bisa tebak nggak HP-nya apaan? Coba komen di bawah.
+122	Ada yang bisa tebak nggak HP-nya apaan? Coba komen di bawah.
+123	Coba komen di bawah.
+124	Coba komen di bawah.
+125	[NO_SPEECH]
+126	Sub indo by broth3rmax
+127	Sub indo by broth3rmax
+128	Sub indo by broth3rmax
+129	Sub indo by broth3rmax
+130	Sub indo by broth3rmax
+131	Sub indo by broth3rmax
+132	Sub indo by broth3rmax
+133	[NO_SPEECH]
+134	[NO_SPEECH]
+135	[NO_SPEECH]
+136	[NO_SPEECH]
+137	[NO_SPEECH]

@@ -1,0 +1,189 @@
+0	GV bilang sih, ijin deh, boleh kok kita kasih masukkan.
+1	GV bilang sih, ijin deh, boleh kok kita kasih masukkan.
+2	GV bilang sih, ijin deh, boleh kok kita kasih masukkan.
+3	GV bilang sih, ijin deh, boleh kok kita kasih masukkan.
+4	GV bilang sih, ijin deh, boleh kok kita kasih masukkan.
+5	GV bilang sih, ijin deh, boleh kok kita kasih masukkan.
+6	GV bilang sih, ijin deh, boleh kok kita kasih masukkan.
+7	GV bilang sih, ijin deh, boleh kok kita kasih masukkan.
+8	GV bilang sih, ijin deh, boleh kok kita kasih masukkan.
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	Jadi sekarang gue mau lihat video di Instagram at Mario Ruben.
+12	Jadi sekarang gue mau lihat video di Instagram at Mario Ruben.
+13	Jadi sekarang gue mau lihat video di Instagram at Mario Ruben.
+14	Jadi sekarang gue mau lihat video di Instagram at Mario Ruben.
+15	Jadi sekarang gue mau lihat video di Instagram at Mario Ruben.
+16	Jadi sekarang gue mau lihat video di Instagram at Mario Ruben.
+17	Jadi sekarang gue mau lihat video di Instagram at Mario Ruben.
+18	Jadi sekarang gue mau lihat video di Instagram at Mario Ruben.
+19	Jadi sekarang gue mau lihat video di Instagram at Mario Ruben.
+20	Jadi sekarang gue mau lihat video di Instagram at Mario Ruben.
+21	Jadi sekarang gue mau lihat video di Instagram at Mario Ruben.
+22	Jadi sekarang gue mau lihat video di Instagram at Mario Ruben.
+23	Jadi sekarang gue mau lihat video di Instagram at Mario Ruben.
+24	Jadi sekarang gue mau lihat video di Instagram at Mario Ruben.
+25	Jadi sekarang gue mau lihat video di Instagram at Mario Ruben. Coba kita lihat.
+26	Jadi sekarang gue mau lihat video di Instagram at Mario Ruben. Coba kita lihat.
+27	Coba kita lihat.
+28	Coba kita lihat.
+29	Wih, main single. Mantap.
+30	Wih, main single. Mantap.
+31	Wih, main single. Mantap.
+32	Wih, main single. Mantap.
+33	Wih, main single. Mantap.
+34	Wih, main single. Mantap. Secara teknik, secara skill penembatan atau arah bola itu udah ngerti banget lah main bulu tangkis.
+35	Secara teknik, secara skill penembatan atau arah bola itu udah ngerti banget lah main bulu tangkis.
+36	Secara teknik, secara skill penembatan atau arah bola itu udah ngerti banget lah main bulu tangkis.
+37	Secara teknik, secara skill penembatan atau arah bola itu udah ngerti banget lah main bulu tangkis.
+38	Secara teknik, secara skill penembatan atau arah bola itu udah ngerti banget lah main bulu tangkis.
+39	Secara teknik, secara skill penembatan atau arah bola itu udah ngerti banget lah main bulu tangkis.
+40	Secara teknik, secara skill penembatan atau arah bola itu udah ngerti banget lah main bulu tangkis.
+41	Secara teknik, secara skill penembatan atau arah bola itu udah ngerti banget lah main bulu tangkis.
+42	Secara teknik, secara skill penembatan atau arah bola itu udah ngerti banget lah main bulu tangkis.
+43	Secara teknik, secara skill penembatan atau arah bola itu udah ngerti banget lah main bulu tangkis.
+44	Secara teknik, secara skill penembatan atau arah bola itu udah ngerti banget lah main bulu tangkis.
+45	Secara teknik, secara skill penembatan atau arah bola itu udah ngerti banget lah main bulu tangkis.
+46	Secara teknik, secara skill penembatan atau arah bola itu udah ngerti banget lah main bulu tangkis.
+47	Secara teknik, secara skill penembatan atau arah bola itu udah ngerti banget lah main bulu tangkis. Nah, satu hal yang temen-temen harus tahu kalau main single itu memang melalahkan.
+48	Secara teknik, secara skill penembatan atau arah bola itu udah ngerti banget lah main bulu tangkis. Nah, satu hal yang temen-temen harus tahu kalau main single itu memang melalahkan.
+49	Secara teknik, secara skill penembatan atau arah bola itu udah ngerti banget lah main bulu tangkis. Nah, satu hal yang temen-temen harus tahu kalau main single itu memang melalahkan.
+50	Nah, satu hal yang temen-temen harus tahu kalau main single itu memang melalahkan.
+51	Nah, satu hal yang temen-temen harus tahu kalau main single itu memang melalahkan.
+52	Nah, satu hal yang temen-temen harus tahu kalau main single itu memang melalahkan.
+53	Nah, satu hal yang temen-temen harus tahu kalau main single itu memang melalahkan.
+54	Nah, satu hal yang temen-temen harus tahu kalau main single itu memang melalahkan.
+55	Nah, satu hal yang temen-temen harus tahu kalau main single itu memang melalahkan.
+56	Nah, satu hal yang temen-temen harus tahu kalau main single itu memang melalahkan.
+57	Nah, satu hal yang temen-temen harus tahu kalau main single itu memang melalahkan.
+58	Nah, satu hal yang temen-temen harus tahu kalau main single itu memang melalahkan.
+59	Nah, satu hal yang temen-temen harus tahu kalau main single itu memang melalahkan. Karena cuma satu orang untuk cover satu lapangan.
+60	Nah, satu hal yang temen-temen harus tahu kalau main single itu memang melalahkan. Karena cuma satu orang untuk cover satu lapangan.
+61	Karena cuma satu orang untuk cover satu lapangan.
+62	Karena cuma satu orang untuk cover satu lapangan.
+63	Karena cuma satu orang untuk cover satu lapangan.
+64	Karena cuma satu orang untuk cover satu lapangan.
+65	Karena cuma satu orang untuk cover satu lapangan. Yang jadi catatan yaitu itu kakinya harus dibiasakan anten.
+66	Yang jadi catatan yaitu itu kakinya harus dibiasakan anten.
+67	Yang jadi catatan yaitu itu kakinya harus dibiasakan anten.
+68	Yang jadi catatan yaitu itu kakinya harus dibiasakan anten.
+69	Yang jadi catatan yaitu itu kakinya harus dibiasakan anten.
+70	Yang jadi catatan yaitu itu kakinya harus dibiasakan anten.
+71	Yang jadi catatan yaitu itu kakinya harus dibiasakan anten.
+72	Yang jadi catatan yaitu itu kakinya harus dibiasakan anten.
+73	Yang jadi catatan yaitu itu kakinya harus dibiasakan anten.
+74	Yang jadi catatan yaitu itu kakinya harus dibiasakan anten. Punya footwork yang tepat, yang bagus.
+75	Yang jadi catatan yaitu itu kakinya harus dibiasakan anten. Punya footwork yang tepat, yang bagus.
+76	Punya footwork yang tepat, yang bagus.
+77	Punya footwork yang tepat, yang bagus.
+78	Punya footwork yang tepat, yang bagus.
+79	Punya footwork yang tepat, yang bagus.
+80	Punya footwork yang tepat, yang bagus.
+81	Punya footwork yang tepat, yang bagus. Kalau enggak, kita keteteran dalam ngejar bola.
+82	Kalau enggak, kita keteteran dalam ngejar bola.
+83	Kalau enggak, kita keteteran dalam ngejar bola.
+84	Kalau enggak, kita keteteran dalam ngejar bola.
+85	Kalau enggak, kita keteteran dalam ngejar bola.
+86	Kalau enggak, kita keteteran dalam ngejar bola.
+87	Kalau enggak, kita keteteran dalam ngejar bola.
+88	Kalau enggak, kita keteteran dalam ngejar bola. Mungkin bisa lihat nih videonya Antoni Ginting dalam posisi ready.
+89	Kalau enggak, kita keteteran dalam ngejar bola. Mungkin bisa lihat nih videonya Antoni Ginting dalam posisi ready.
+90	Mungkin bisa lihat nih videonya Antoni Ginting dalam posisi ready.
+91	Mungkin bisa lihat nih videonya Antoni Ginting dalam posisi ready.
+92	Mungkin bisa lihat nih videonya Antoni Ginting dalam posisi ready.
+93	Mungkin bisa lihat nih videonya Antoni Ginting dalam posisi ready.
+94	Mungkin bisa lihat nih videonya Antoni Ginting dalam posisi ready.
+95	Mungkin bisa lihat nih videonya Antoni Ginting dalam posisi ready.
+96	Mungkin bisa lihat nih videonya Antoni Ginting dalam posisi ready.
+97	Mungkin bisa lihat nih videonya Antoni Ginting dalam posisi ready.
+98	Mungkin bisa lihat nih videonya Antoni Ginting dalam posisi ready. Selalu harus jinjit.
+99	Selalu harus jinjit.
+100	Selalu harus jinjit.
+101	Selalu harus jinjit. Kalau udah napak, kaki semua napak tuh.
+102	Selalu harus jinjit. Kalau udah napak, kaki semua napak tuh.
+103	Kalau udah napak, kaki semua napak tuh.
+104	Kalau udah napak, kaki semua napak tuh.
+105	Kalau udah napak, kaki semua napak tuh.
+106	Kalau udah napak, kaki semua napak tuh. Itu catatan.
+107	Kalau udah napak, kaki semua napak tuh. Itu catatan. Cenderung berat agility-nya atau kecepatannya akan berkurang.
+108	Itu catatan. Cenderung berat agility-nya atau kecepatannya akan berkurang.
+109	Cenderung berat agility-nya atau kecepatannya akan berkurang.
+110	Cenderung berat agility-nya atau kecepatannya akan berkurang.
+111	Cenderung berat agility-nya atau kecepatannya akan berkurang.
+112	Cenderung berat agility-nya atau kecepatannya akan berkurang.
+113	Cenderung berat agility-nya atau kecepatannya akan berkurang.
+114	Cenderung berat agility-nya atau kecepatannya akan berkurang.
+115	Cenderung berat agility-nya atau kecepatannya akan berkurang.
+116	Cenderung berat agility-nya atau kecepatannya akan berkurang.
+117	Cenderung berat agility-nya atau kecepatannya akan berkurang. Dan terlalu menggunakan banyak energi atau tenaga.
+118	Cenderung berat agility-nya atau kecepatannya akan berkurang. Dan terlalu menggunakan banyak energi atau tenaga.
+119	Dan terlalu menggunakan banyak energi atau tenaga.
+120	Dan terlalu menggunakan banyak energi atau tenaga.
+121	Dan terlalu menggunakan banyak energi atau tenaga.
+122	Dan terlalu menggunakan banyak energi atau tenaga.
+123	Dan terlalu menggunakan banyak energi atau tenaga.
+124	Dan terlalu menggunakan banyak energi atau tenaga. Yang pada akhirnya bikin cepat kelelahan.
+125	Dan terlalu menggunakan banyak energi atau tenaga. Yang pada akhirnya bikin cepat kelelahan.
+126	Yang pada akhirnya bikin cepat kelelahan.
+127	Yang pada akhirnya bikin cepat kelelahan.
+128	Yang pada akhirnya bikin cepat kelelahan.
+129	Yang pada akhirnya bikin cepat kelelahan.
+130	Yang pada akhirnya bikin cepat kelelahan.
+131	Yang pada akhirnya bikin cepat kelelahan.
+132	Yang pada akhirnya bikin cepat kelelahan. Buat Mas Mario, GP bilang sih, bisa lah bisa.
+133	Buat Mas Mario, GP bilang sih, bisa lah bisa.
+134	Buat Mas Mario, GP bilang sih, bisa lah bisa.
+135	Buat Mas Mario, GP bilang sih, bisa lah bisa.
+136	Buat Mas Mario, GP bilang sih, bisa lah bisa.
+137	Buat Mas Mario, GP bilang sih, bisa lah bisa.
+138	Buat Mas Mario, GP bilang sih, bisa lah bisa.
+139	Buat Mas Mario, GP bilang sih, bisa lah bisa.
+140	Buat Mas Mario, GP bilang sih, bisa lah bisa.
+141	Buat Mas Mario, GP bilang sih, bisa lah bisa.
+142	Buat Mas Mario, GP bilang sih, bisa lah bisa.
+143	Buat Mas Mario, GP bilang sih, bisa lah bisa.
+144	Buat Mas Mario, GP bilang sih, bisa lah bisa.
+145	Buat Mas Mario, GP bilang sih, bisa lah bisa.
+146	Ya!
+147	Ya!
+148	[NO_SPEECH]
+149	[NO_SPEECH]
+150	[NO_SPEECH]
+151	[NO_SPEECH]
+152	Buat kamu yang main badmintonnya, mau aku kasih masukkan, silahkan upload video.
+153	Buat kamu yang main badmintonnya, mau aku kasih masukkan, silahkan upload video.
+154	Buat kamu yang main badmintonnya, mau aku kasih masukkan, silahkan upload video.
+155	Buat kamu yang main badmintonnya, mau aku kasih masukkan, silahkan upload video.
+156	Buat kamu yang main badmintonnya, mau aku kasih masukkan, silahkan upload video.
+157	Buat kamu yang main badmintonnya, mau aku kasih masukkan, silahkan upload video.
+158	Buat kamu yang main badmintonnya, mau aku kasih masukkan, silahkan upload video.
+159	Buat kamu yang main badmintonnya, mau aku kasih masukkan, silahkan upload video.
+160	Buat kamu yang main badmintonnya, mau aku kasih masukkan, silahkan upload video.
+161	Buat kamu yang main badmintonnya, mau aku kasih masukkan, silahkan upload video.
+162	Buat kamu yang main badmintonnya, mau aku kasih masukkan, silahkan upload video.
+163	Buat kamu yang main badmintonnya, mau aku kasih masukkan, silahkan upload video.
+164	Buat kamu yang main badmintonnya, mau aku kasih masukkan, silahkan upload video.
+165	Buat kamu yang main badmintonnya, mau aku kasih masukkan, silahkan upload video.
+166	Buat kamu yang main badmintonnya, mau aku kasih masukkan, silahkan upload video.
+167	Buat kamu yang main badmintonnya, mau aku kasih masukkan, silahkan upload video. Tramerez pikir bisa.
+168	Buat kamu yang main badmintonnya, mau aku kasih masukkan, silahkan upload video. Tramerez pikir bisa.
+169	Tramerez pikir bisa.
+170	Tramerez pikir bisa.
+171	Tramerez pikir bisa.
+172	[NO_SPEECH]
+173	Cuvk masuk juga.
+174	Cuvk masuk juga.
+175	Cuvk masuk juga.
+176	Cuvk masuk juga. Bisa.
+177	Bisa.
+178	Bisa. Bisa.  Kita masihécuden juga ya.
+179	Bisa. Bisa.  Kita masihécuden juga ya.
+180	Kita masihécuden juga ya. N서 k calves ini enak ya. Gabs poiom nsus Recruiter Sweden.
+181	Kita masihécuden juga ya. N서 k calves ini enak ya. Gabs poiom nsus Recruiter Sweden.
+182	Gabs poiom nsus Recruiter Sweden.
+183	Gabs poiom nsus Recruiter Sweden.
+184	Gabs poiom nsus Recruiter Sweden.
+185	Gabs poiom nsus Recruiter Sweden.
+186	Gabs poiom nsus Recruiter Sweden.
+187	Gabs poiom nsus Recruiter Sweden.
+188	Gabs poiom nsus Recruiter Sweden.

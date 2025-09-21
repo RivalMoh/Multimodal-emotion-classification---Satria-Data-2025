@@ -1,0 +1,95 @@
+0	Ini cara latihan otot kaki di rumah tanpa alat.
+1	Ini cara latihan otot kaki di rumah tanpa alat.
+2	Ini cara latihan otot kaki di rumah tanpa alat.
+3	Ini cara latihan otot kaki di rumah tanpa alat. You need to risk.
+4	Ini cara latihan otot kaki di rumah tanpa alat. You need to risk.
+5	You need to risk. Untuk workout ini kita hanya butuh 1 kuasi dan 1 ransel.
+6	You need to risk. Untuk workout ini kita hanya butuh 1 kuasi dan 1 ransel.
+7	Untuk workout ini kita hanya butuh 1 kuasi dan 1 ransel.
+8	Untuk workout ini kita hanya butuh 1 kuasi dan 1 ransel.
+9	Untuk workout ini kita hanya butuh 1 kuasi dan 1 ransel.
+10	Untuk workout ini kita hanya butuh 1 kuasi dan 1 ransel.
+11	Untuk workout ini kita hanya butuh 1 kuasi dan 1 ransel. Masukkan sesuatu yang berat ke dalam ransel seperti botol air sebagai beban ekstra.
+12	Untuk workout ini kita hanya butuh 1 kuasi dan 1 ransel. Masukkan sesuatu yang berat ke dalam ransel seperti botol air sebagai beban ekstra.
+13	Masukkan sesuatu yang berat ke dalam ransel seperti botol air sebagai beban ekstra.
+14	Masukkan sesuatu yang berat ke dalam ransel seperti botol air sebagai beban ekstra.
+15	Masukkan sesuatu yang berat ke dalam ransel seperti botol air sebagai beban ekstra.
+16	Masukkan sesuatu yang berat ke dalam ransel seperti botol air sebagai beban ekstra.
+17	Masukkan sesuatu yang berat ke dalam ransel seperti botol air sebagai beban ekstra.
+18	Masukkan sesuatu yang berat ke dalam ransel seperti botol air sebagai beban ekstra.
+19	Masukkan sesuatu yang berat ke dalam ransel seperti botol air sebagai beban ekstra.
+20	Masukkan sesuatu yang berat ke dalam ransel seperti botol air sebagai beban ekstra. Gerakan bernama Bulgarian Split Squat.
+21	Gerakan bernama Bulgarian Split Squat.
+22	Gerakan bernama Bulgarian Split Squat.
+23	Gerakan bernama Bulgarian Split Squat. Posisikan 1 kaki di atas kuasi seperti ini, lalu lakukan gerakan ini dengan teknik seperti ini.
+24	Gerakan bernama Bulgarian Split Squat. Posisikan 1 kaki di atas kuasi seperti ini, lalu lakukan gerakan ini dengan teknik seperti ini.
+25	Posisikan 1 kaki di atas kuasi seperti ini, lalu lakukan gerakan ini dengan teknik seperti ini.
+26	Posisikan 1 kaki di atas kuasi seperti ini, lalu lakukan gerakan ini dengan teknik seperti ini.
+27	Posisikan 1 kaki di atas kuasi seperti ini, lalu lakukan gerakan ini dengan teknik seperti ini.
+28	Posisikan 1 kaki di atas kuasi seperti ini, lalu lakukan gerakan ini dengan teknik seperti ini.
+29	Posisikan 1 kaki di atas kuasi seperti ini, lalu lakukan gerakan ini dengan teknik seperti ini.
+30	Posisikan 1 kaki di atas kuasi seperti ini, lalu lakukan gerakan ini dengan teknik seperti ini.
+31	Posisikan 1 kaki di atas kuasi seperti ini, lalu lakukan gerakan ini dengan teknik seperti ini.
+32	Posisikan 1 kaki di atas kuasi seperti ini, lalu lakukan gerakan ini dengan teknik seperti ini.
+33	Posisikan 1 kaki di atas kuasi seperti ini, lalu lakukan gerakan ini dengan teknik seperti ini. Next Side Lunges.
+34	Next Side Lunges.
+35	Next Side Lunges. Ini variasi lunges, bukan ke depan tapi ke samping.
+36	Next Side Lunges. Ini variasi lunges, bukan ke depan tapi ke samping.
+37	Ini variasi lunges, bukan ke depan tapi ke samping.
+38	Ini variasi lunges, bukan ke depan tapi ke samping.
+39	Ini variasi lunges, bukan ke depan tapi ke samping.
+40	Ini variasi lunges, bukan ke depan tapi ke samping. Fokus ke 1 kaki dulu, baru ganti.
+41	Ini variasi lunges, bukan ke depan tapi ke samping. Fokus ke 1 kaki dulu, baru ganti.
+42	Fokus ke 1 kaki dulu, baru ganti.
+43	Fokus ke 1 kaki dulu, baru ganti.
+44	Fokus ke 1 kaki dulu, baru ganti.
+45	Fokus ke 1 kaki dulu, baru ganti. Lalu Step Ups.
+46	Fokus ke 1 kaki dulu, baru ganti. Lalu Step Ups. Gerakannya kelihatan seperti ini.
+47	Lalu Step Ups. Gerakannya kelihatan seperti ini.
+48	Gerakannya kelihatan seperti ini.
+49	Gerakannya kelihatan seperti ini. Kalau kuasimu kurang kuat, lakukan lunges biasa.
+50	Gerakannya kelihatan seperti ini. Kalau kuasimu kurang kuat, lakukan lunges biasa.
+51	Kalau kuasimu kurang kuat, lakukan lunges biasa.
+52	Kalau kuasimu kurang kuat, lakukan lunges biasa.
+53	Kalau kuasimu kurang kuat, lakukan lunges biasa.
+54	Kalau kuasimu kurang kuat, lakukan lunges biasa. Lalu Squats turun minimal sampai paralel atau sesuai range of motion yang kamu bisa lakukan tanpa ada rasa tidak nyaman.
+55	Kalau kuasimu kurang kuat, lakukan lunges biasa. Lalu Squats turun minimal sampai paralel atau sesuai range of motion yang kamu bisa lakukan tanpa ada rasa tidak nyaman.
+56	Kalau kuasimu kurang kuat, lakukan lunges biasa. Lalu Squats turun minimal sampai paralel atau sesuai range of motion yang kamu bisa lakukan tanpa ada rasa tidak nyaman.
+57	Lalu Squats turun minimal sampai paralel atau sesuai range of motion yang kamu bisa lakukan tanpa ada rasa tidak nyaman.
+58	Lalu Squats turun minimal sampai paralel atau sesuai range of motion yang kamu bisa lakukan tanpa ada rasa tidak nyaman.
+59	Lalu Squats turun minimal sampai paralel atau sesuai range of motion yang kamu bisa lakukan tanpa ada rasa tidak nyaman.
+60	Lalu Squats turun minimal sampai paralel atau sesuai range of motion yang kamu bisa lakukan tanpa ada rasa tidak nyaman.
+61	Lalu Squats turun minimal sampai paralel atau sesuai range of motion yang kamu bisa lakukan tanpa ada rasa tidak nyaman.
+62	Lalu Squats turun minimal sampai paralel atau sesuai range of motion yang kamu bisa lakukan tanpa ada rasa tidak nyaman.
+63	Lalu Squats turun minimal sampai paralel atau sesuai range of motion yang kamu bisa lakukan tanpa ada rasa tidak nyaman.
+64	Lalu Squats turun minimal sampai paralel atau sesuai range of motion yang kamu bisa lakukan tanpa ada rasa tidak nyaman.
+65	Lalu Squats turun minimal sampai paralel atau sesuai range of motion yang kamu bisa lakukan tanpa ada rasa tidak nyaman.
+66	Lalu Squats turun minimal sampai paralel atau sesuai range of motion yang kamu bisa lakukan tanpa ada rasa tidak nyaman.
+67	Lalu Squats turun minimal sampai paralel atau sesuai range of motion yang kamu bisa lakukan tanpa ada rasa tidak nyaman. Sebagai finisher, Carve Races saya rekomen lakukan gerakan ini di tangga atau pakai kuasi kecil seperti ini.
+68	Lalu Squats turun minimal sampai paralel atau sesuai range of motion yang kamu bisa lakukan tanpa ada rasa tidak nyaman. Sebagai finisher, Carve Races saya rekomen lakukan gerakan ini di tangga atau pakai kuasi kecil seperti ini.
+69	Sebagai finisher, Carve Races saya rekomen lakukan gerakan ini di tangga atau pakai kuasi kecil seperti ini.
+70	Sebagai finisher, Carve Races saya rekomen lakukan gerakan ini di tangga atau pakai kuasi kecil seperti ini.
+71	Sebagai finisher, Carve Races saya rekomen lakukan gerakan ini di tangga atau pakai kuasi kecil seperti ini.
+72	Sebagai finisher, Carve Races saya rekomen lakukan gerakan ini di tangga atau pakai kuasi kecil seperti ini.
+73	Sebagai finisher, Carve Races saya rekomen lakukan gerakan ini di tangga atau pakai kuasi kecil seperti ini.
+74	Sebagai finisher, Carve Races saya rekomen lakukan gerakan ini di tangga atau pakai kuasi kecil seperti ini.
+75	Sebagai finisher, Carve Races saya rekomen lakukan gerakan ini di tangga atau pakai kuasi kecil seperti ini.
+76	Sebagai finisher, Carve Races saya rekomen lakukan gerakan ini di tangga atau pakai kuasi kecil seperti ini.
+77	Sebagai finisher, Carve Races saya rekomen lakukan gerakan ini di tangga atau pakai kuasi kecil seperti ini.
+78	Sebagai finisher, Carve Races saya rekomen lakukan gerakan ini di tangga atau pakai kuasi kecil seperti ini.
+79	Sebagai finisher, Carve Races saya rekomen lakukan gerakan ini di tangga atau pakai kuasi kecil seperti ini. Jadwal latihan untuk workout ini ada di caption, so check it out.
+80	Sebagai finisher, Carve Races saya rekomen lakukan gerakan ini di tangga atau pakai kuasi kecil seperti ini. Jadwal latihan untuk workout ini ada di caption, so check it out.
+81	Jadwal latihan untuk workout ini ada di caption, so check it out.
+82	Jadwal latihan untuk workout ini ada di caption, so check it out.
+83	Jadwal latihan untuk workout ini ada di caption, so check it out.
+84	Jadwal latihan untuk workout ini ada di caption, so check it out.
+85	Jadwal latihan untuk workout ini ada di caption, so check it out. Walaupun kamu tidak bisa ke gym, tidak ada alasan untuk tidak olahraga.
+86	Jadwal latihan untuk workout ini ada di caption, so check it out. Walaupun kamu tidak bisa ke gym, tidak ada alasan untuk tidak olahraga.
+87	Walaupun kamu tidak bisa ke gym, tidak ada alasan untuk tidak olahraga.
+88	Walaupun kamu tidak bisa ke gym, tidak ada alasan untuk tidak olahraga.
+89	Walaupun kamu tidak bisa ke gym, tidak ada alasan untuk tidak olahraga.
+90	Walaupun kamu tidak bisa ke gym, tidak ada alasan untuk tidak olahraga.
+91	Walaupun kamu tidak bisa ke gym, tidak ada alasan untuk tidak olahraga.
+92	Walaupun kamu tidak bisa ke gym, tidak ada alasan untuk tidak olahraga.
+93	Walaupun kamu tidak bisa ke gym, tidak ada alasan untuk tidak olahraga.
+94	[NO_SPEECH]

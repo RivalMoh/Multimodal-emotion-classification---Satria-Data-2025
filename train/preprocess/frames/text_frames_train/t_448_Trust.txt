@@ -1,0 +1,72 @@
+0	Kalau bau kalian suka sakit atau nyeri, coba satu gerakan simple ini nih.
+1	Kalau bau kalian suka sakit atau nyeri, coba satu gerakan simple ini nih.
+2	Kalau bau kalian suka sakit atau nyeri, coba satu gerakan simple ini nih.
+3	Kalau bau kalian suka sakit atau nyeri, coba satu gerakan simple ini nih.
+4	Kalau bau kalian suka sakit atau nyeri, coba satu gerakan simple ini nih.
+5	Kalau bau kalian suka sakit atau nyeri, coba satu gerakan simple ini nih. Jadi kalian pegang sesuatu yang bisa di-hold gini nih.
+6	Kalau bau kalian suka sakit atau nyeri, coba satu gerakan simple ini nih. Jadi kalian pegang sesuatu yang bisa di-hold gini nih.
+7	Jadi kalian pegang sesuatu yang bisa di-hold gini nih.
+8	Jadi kalian pegang sesuatu yang bisa di-hold gini nih.
+9	Jadi kalian pegang sesuatu yang bisa di-hold gini nih. Ini aku pake botol parfum bekas ya.
+10	Jadi kalian pegang sesuatu yang bisa di-hold gini nih. Ini aku pake botol parfum bekas ya.
+11	Ini aku pake botol parfum bekas ya.
+12	Ini aku pake botol parfum bekas ya. Abis itu tangannya lurus gini, matanya berdiri ke botolnya.
+13	Ini aku pake botol parfum bekas ya. Abis itu tangannya lurus gini, matanya berdiri ke botolnya.
+14	Abis itu tangannya lurus gini, matanya berdiri ke botolnya.
+15	Abis itu tangannya lurus gini, matanya berdiri ke botolnya.
+16	Abis itu tangannya lurus gini, matanya berdiri ke botolnya.
+17	Abis itu tangannya lurus gini, matanya berdiri ke botolnya.
+18	Abis itu tangannya lurus gini, matanya berdiri ke botolnya.
+19	Abis itu tangannya lurus gini, matanya berdiri ke botolnya. Abis itu tangan satunya gerakin gini nih.
+20	Abis itu tangannya lurus gini, matanya berdiri ke botolnya. Abis itu tangan satunya gerakin gini nih.
+21	Abis itu tangan satunya gerakin gini nih.
+22	Abis itu tangan satunya gerakin gini nih.
+23	Abis itu tangan satunya gerakin gini nih. Set, set, set, set, set, set.
+24	Abis itu tangan satunya gerakin gini nih. Set, set, set, set, set, set.
+25	Set, set, set, set, set, set.
+26	Set, set, set, set, set, set.
+27	Set, set, set, set, set, set.
+28	Set, set, set, set, set, set.
+29	Set, set, set, set, set, set.
+30	Set, set, set, set, set, set. Terus kayak gini nih.
+31	Terus kayak gini nih.
+32	Terus kayak gini nih.
+33	Terus kayak gini nih. Kalau yang sakit bau kiri ya dibalik aja.
+34	Kalau yang sakit bau kiri ya dibalik aja.
+35	Kalau yang sakit bau kiri ya dibalik aja.
+36	Kalau yang sakit bau kiri ya dibalik aja. Gini, terus gini nih.
+37	Kalau yang sakit bau kiri ya dibalik aja. Gini, terus gini nih.
+38	Gini, terus gini nih.
+39	Gini, terus gini nih. Set, set, set, set, set.
+40	Gini, terus gini nih. Set, set, set, set, set.
+41	Set, set, set, set, set.
+42	Set, set, set, set, set.
+43	Set, set, set, set, set.
+44	Set, set, set, set, set. Ah udah nyoba beberapa kali dan nyeri di pundakku tuh berkurang.
+45	Set, set, set, set, set. Ah udah nyoba beberapa kali dan nyeri di pundakku tuh berkurang.
+46	Ah udah nyoba beberapa kali dan nyeri di pundakku tuh berkurang.
+47	Ah udah nyoba beberapa kali dan nyeri di pundakku tuh berkurang.
+48	Ah udah nyoba beberapa kali dan nyeri di pundakku tuh berkurang.
+49	Ah udah nyoba beberapa kali dan nyeri di pundakku tuh berkurang.
+50	Ah udah nyoba beberapa kali dan nyeri di pundakku tuh berkurang. Coba, kalau kalian punya nyeri pundak juga,
+51	Ah udah nyoba beberapa kali dan nyeri di pundakku tuh berkurang. Coba, kalau kalian punya nyeri pundak juga,
+52	Coba, kalau kalian punya nyeri pundak juga,
+53	Coba, kalau kalian punya nyeri pundak juga,
+54	Coba, kalau kalian punya nyeri pundak juga, coba gerakan ini beberapa kali atau beberapa hari ke depan.
+55	Coba, kalau kalian punya nyeri pundak juga, coba gerakan ini beberapa kali atau beberapa hari ke depan.
+56	coba gerakan ini beberapa kali atau beberapa hari ke depan.
+57	coba gerakan ini beberapa kali atau beberapa hari ke depan.
+58	coba gerakan ini beberapa kali atau beberapa hari ke depan.
+59	coba gerakan ini beberapa kali atau beberapa hari ke depan.
+60	coba gerakan ini beberapa kali atau beberapa hari ke depan. Dan komen di bawah, kira-kira ini ngesek atau nggak di kalian.
+61	coba gerakan ini beberapa kali atau beberapa hari ke depan. Dan komen di bawah, kira-kira ini ngesek atau nggak di kalian.
+62	Dan komen di bawah, kira-kira ini ngesek atau nggak di kalian.
+63	Dan komen di bawah, kira-kira ini ngesek atau nggak di kalian.
+64	Dan komen di bawah, kira-kira ini ngesek atau nggak di kalian.
+65	Dan komen di bawah, kira-kira ini ngesek atau nggak di kalian.
+66	Dan komen di bawah, kira-kira ini ngesek atau nggak di kalian.
+67	Dan komen di bawah, kira-kira ini ngesek atau nggak di kalian.
+68	[NO_SPEECH]
+69	[NO_SPEECH]
+70	[NO_SPEECH]
+71	[NO_SPEECH]

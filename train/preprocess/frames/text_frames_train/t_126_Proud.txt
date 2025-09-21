@@ -1,0 +1,128 @@
+0	Abis latihan strength, kita saatnya...
+1	Abis latihan strength, kita saatnya...
+2	Abis latihan strength, kita saatnya...
+3	Abis latihan strength, kita saatnya...
+4	Abis latihan strength, kita saatnya...
+5	Abis latihan strength, kita saatnya...
+6	Visio, visio, perawatan otot-otot.
+7	Visio, visio, perawatan otot-otot.
+8	Visio, visio, perawatan otot-otot.
+9	Visio, visio, perawatan otot-otot.
+10	Visio, visio, perawatan otot-otot.
+11	Visio, visio, perawatan otot-otot. Ini gue kasih tau deh ya, tempat perawatan gue.
+12	Visio, visio, perawatan otot-otot. Ini gue kasih tau deh ya, tempat perawatan gue.
+13	Ini gue kasih tau deh ya, tempat perawatan gue.
+14	Ini gue kasih tau deh ya, tempat perawatan gue.
+15	Ini gue kasih tau deh ya, tempat perawatan gue. Wah, keren.
+16	Ini gue kasih tau deh ya, tempat perawatan gue. Wah, keren.
+17	Wah, keren.
+18	Wah, keren.
+19	Lengkap, Jun. Bersih, tempatnya juga keren.
+20	Lengkap, Jun. Bersih, tempatnya juga keren.
+21	Lengkap, Jun. Bersih, tempatnya juga keren.
+22	Lengkap, Jun. Bersih, tempatnya juga keren.
+23	Lengkap, Jun. Bersih, tempatnya juga keren. Tuh, Fajri. Thank you banget.
+24	Lengkap, Jun. Bersih, tempatnya juga keren. Tuh, Fajri. Thank you banget.
+25	Tuh, Fajri. Thank you banget.
+26	Tuh, Fajri. Thank you banget.
+27	Tuh, Fajri. Thank you banget.
+28	Tuh, Fajri. Thank you banget. Tempatnya keren banget.
+29	Tempatnya keren banget.
+30	Tempatnya keren banget. Jadi buat temen-temen, tuh, ya.
+31	Tempatnya keren banget. Jadi buat temen-temen, tuh, ya.
+32	Jadi buat temen-temen, tuh, ya.
+33	Jadi buat temen-temen, tuh, ya.
+34	Jadi buat temen-temen, tuh, ya. Yang mau visio, mau sport massage, ada di Elton Teng.
+35	Jadi buat temen-temen, tuh, ya. Yang mau visio, mau sport massage, ada di Elton Teng.
+36	Yang mau visio, mau sport massage, ada di Elton Teng.
+37	Yang mau visio, mau sport massage, ada di Elton Teng.
+38	Yang mau visio, mau sport massage, ada di Elton Teng.
+39	Yang mau visio, mau sport massage, ada di Elton Teng.
+40	Yang mau visio, mau sport massage, ada di Elton Teng.
+41	Yang mau visio, mau sport massage, ada di Elton Teng.
+42	Yang mau visio, mau sport massage, ada di Elton Teng. Gue tadi abis dari, apa, sport massage.
+43	Gue tadi abis dari, apa, sport massage.
+44	Gue tadi abis dari, apa, sport massage.
+45	Gue tadi abis dari, apa, sport massage.
+46	Gue tadi abis dari, apa, sport massage.
+47	Gue tadi abis dari, apa, sport massage.
+48	Gue tadi abis dari, apa, sport massage.
+49	Gue tadi abis dari, apa, sport massage.
+50	Gue tadi abis dari, apa, sport massage. Jadi ada apa aja di sini, Jun? Fajri, kasih tau.
+51	Jadi ada apa aja di sini, Jun? Fajri, kasih tau.
+52	Jadi ada apa aja di sini, Jun? Fajri, kasih tau.
+53	Jadi ada apa aja di sini, Jun? Fajri, kasih tau. Nah, di sini memang spesialisnya...
+54	Jadi ada apa aja di sini, Jun? Fajri, kasih tau. Nah, di sini memang spesialisnya...
+55	Nah, di sini memang spesialisnya...
+56	Nah, di sini memang spesialisnya...
+57	Nah, di sini memang spesialisnya...
+58	Nah, di sini memang spesialisnya...
+59	Fisioterapi sama sport massage aja.
+60	Fisioterapi sama sport massage aja.
+61	Fisioterapi sama sport massage aja.
+62	Fisioterapi sama sport massage aja. Tapi spesialisnya ada yang manual visio.
+63	Tapi spesialisnya ada yang manual visio.
+64	Tapi spesialisnya ada yang manual visio.
+65	Tapi spesialisnya ada yang manual visio.
+66	Tapi spesialisnya ada yang manual visio.
+67	Tapi spesialisnya ada yang manual visio.
+68	Tapi spesialisnya ada yang manual visio. Dan juga, ada juga dry middling.
+69	Tapi spesialisnya ada yang manual visio. Dan juga, ada juga dry middling.
+70	Dan juga, ada juga dry middling.
+71	Dan juga, ada juga dry middling.
+72	Dan juga, ada juga dry middling.
+73	Dan juga, ada juga dry middling. Jadi ada yang dipakai jarum.
+74	Jadi ada yang dipakai jarum.
+75	Jadi ada yang dipakai jarum.
+76	Jadi ada yang dipakai jarum.
+77	Jadi ada yang dipakai jarum.
+78	Jadi ada yang dipakai jarum. Eh, enak banget. Jadi kalian pelari, jangan cuma lari doang.
+79	Jadi ada yang dipakai jarum. Eh, enak banget. Jadi kalian pelari, jangan cuma lari doang.
+80	Eh, enak banget. Jadi kalian pelari, jangan cuma lari doang.
+81	Eh, enak banget. Jadi kalian pelari, jangan cuma lari doang.
+82	Eh, enak banget. Jadi kalian pelari, jangan cuma lari doang.
+83	Eh, enak banget. Jadi kalian pelari, jangan cuma lari doang.
+84	Eh, enak banget. Jadi kalian pelari, jangan cuma lari doang. Ayo dirawat otot-ototnya.
+85	Eh, enak banget. Jadi kalian pelari, jangan cuma lari doang. Ayo dirawat otot-ototnya.
+86	Ayo dirawat otot-ototnya.
+87	Ayo dirawat otot-ototnya.
+88	Ayo dirawat otot-ototnya. Biar seger.
+89	Biar seger.
+90	Biar seger.
+91	Biar seger. Ole-ole. Eh, ole-ole.
+92	Ole-ole. Eh, ole-ole.
+93	Ole-ole. Eh, ole-ole.
+94	Ole-ole. Eh, ole-ole.
+95	Ole-ole. Eh, ole-ole.
+96	Selesai kita perawatan di Elon Technic.
+97	Selesai kita perawatan di Elon Technic.
+98	Selesai kita perawatan di Elon Technic.
+99	Selesai kita perawatan di Elon Technic.
+100	Selesai kita perawatan di Elon Technic.
+101	Selesai kita perawatan di Elon Technic.
+102	Selesai kita perawatan di Elon Technic. Di kawasan Melawai. Enak, Jun, tempatnya.
+103	Selesai kita perawatan di Elon Technic. Di kawasan Melawai. Enak, Jun, tempatnya.
+104	Di kawasan Melawai. Enak, Jun, tempatnya.
+105	Di kawasan Melawai. Enak, Jun, tempatnya.
+106	Di kawasan Melawai. Enak, Jun, tempatnya.
+107	Di kawasan Melawai. Enak, Jun, tempatnya.
+108	Di kawasan Melawai. Enak, Jun, tempatnya. Jadi di belakangnya Inul.
+109	Jadi di belakangnya Inul.
+110	Jadi di belakangnya Inul.
+111	Jadi di belakangnya Inul.
+112	Jadi di belakangnya Inul.
+113	Jadi di belakangnya Inul. Bantu Inul, Inul Pista.
+114	Bantu Inul, Inul Pista.
+115	Bantu Inul, Inul Pista. Nah, di belakangnya, nih.
+116	Bantu Inul, Inul Pista. Nah, di belakangnya, nih.
+117	Nah, di belakangnya, nih.
+118	Nah, di belakangnya, nih.
+119	[NO_SPEECH]
+120	Thank you, Elon Technic. Mantap.
+121	Thank you, Elon Technic. Mantap.
+122	Thank you, Elon Technic. Mantap.
+123	Thank you, Elon Technic. Mantap.
+124	Thank you, Elon Technic. Mantap.
+125	Thank you, Elon Technic. Mantap.
+126	Thank you, Elon Technic. Mantap.
+127	[NO_SPEECH]

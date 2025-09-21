@@ -1,0 +1,236 @@
+0	Gak ada aturan pastinya mesti kemana.
+1	Gak ada aturan pastinya mesti kemana.
+2	Gak ada aturan pastinya mesti kemana.
+3	Gak ada aturan pastinya mesti kemana. Mau ke dokter umum, dokter olahraga, dokter saraf,
+4	Gak ada aturan pastinya mesti kemana. Mau ke dokter umum, dokter olahraga, dokter saraf,
+5	Mau ke dokter umum, dokter olahraga, dokter saraf,
+6	Mau ke dokter umum, dokter olahraga, dokter saraf,
+7	Mau ke dokter umum, dokter olahraga, dokter saraf,
+8	Mau ke dokter umum, dokter olahraga, dokter saraf,
+9	Mau ke dokter umum, dokter olahraga, dokter saraf,
+10	Mau ke dokter umum, dokter olahraga, dokter saraf,
+11	Mau ke dokter umum, dokter olahraga, dokter saraf, fisioterapi, personal trainer, semuanya boleh.
+12	fisioterapi, personal trainer, semuanya boleh.
+13	fisioterapi, personal trainer, semuanya boleh.
+14	fisioterapi, personal trainer, semuanya boleh.
+15	fisioterapi, personal trainer, semuanya boleh.
+16	fisioterapi, personal trainer, semuanya boleh.
+17	fisioterapi, personal trainer, semuanya boleh. Oke guys, sekarang gue lagi bersama dokter Andi Wijaya, DPT,
+18	Oke guys, sekarang gue lagi bersama dokter Andi Wijaya, DPT,
+19	Oke guys, sekarang gue lagi bersama dokter Andi Wijaya, DPT,
+20	Oke guys, sekarang gue lagi bersama dokter Andi Wijaya, DPT,
+21	Oke guys, sekarang gue lagi bersama dokter Andi Wijaya, DPT,
+22	Oke guys, sekarang gue lagi bersama dokter Andi Wijaya, DPT,
+23	Oke guys, sekarang gue lagi bersama dokter Andi Wijaya, DPT,
+24	Oke guys, sekarang gue lagi bersama dokter Andi Wijaya, DPT,
+25	Oke guys, sekarang gue lagi bersama dokter Andi Wijaya, DPT,
+26	Oke guys, sekarang gue lagi bersama dokter Andi Wijaya, DPT,
+27	buat menjawab pertanyaan-pertanyaan netizen yang kebingungan
+28	buat menjawab pertanyaan-pertanyaan netizen yang kebingungan
+29	buat menjawab pertanyaan-pertanyaan netizen yang kebingungan
+30	buat menjawab pertanyaan-pertanyaan netizen yang kebingungan
+31	buat menjawab pertanyaan-pertanyaan netizen yang kebingungan
+32	buat menjawab pertanyaan-pertanyaan netizen yang kebingungan tentang dunia fitness.
+33	buat menjawab pertanyaan-pertanyaan netizen yang kebingungan tentang dunia fitness.
+34	tentang dunia fitness.
+35	tentang dunia fitness.
+36	tentang dunia fitness.
+37	tentang dunia fitness. Nah, kita tanya langsung aja guys sama ahlinya nih.
+38	Nah, kita tanya langsung aja guys sama ahlinya nih.
+39	Nah, kita tanya langsung aja guys sama ahlinya nih.
+40	Nah, kita tanya langsung aja guys sama ahlinya nih.
+41	Nah, kita tanya langsung aja guys sama ahlinya nih.
+42	Nah, kita tanya langsung aja guys sama ahlinya nih.
+43	Nah, kita tanya langsung aja guys sama ahlinya nih.
+44	Nah, kita tanya langsung aja guys sama ahlinya nih. Pertanyaan pertama dok,
+45	Pertanyaan pertama dok,
+46	Pertanyaan pertama dok,
+47	Pertanyaan pertama dok,
+48	Pertanyaan pertama dok,
+49	banyak banget nih netizen yang bingung
+50	banyak banget nih netizen yang bingung
+51	banyak banget nih netizen yang bingung
+52	banyak banget nih netizen yang bingung kalau pas dia lagi cedera, lagi ada sakit,
+53	banyak banget nih netizen yang bingung kalau pas dia lagi cedera, lagi ada sakit,
+54	kalau pas dia lagi cedera, lagi ada sakit,
+55	kalau pas dia lagi cedera, lagi ada sakit,
+56	kalau pas dia lagi cedera, lagi ada sakit,
+57	kalau pas dia lagi cedera, lagi ada sakit, dia tuh harusnya pergi ke dokter fisioterapi,
+58	kalau pas dia lagi cedera, lagi ada sakit, dia tuh harusnya pergi ke dokter fisioterapi,
+59	dia tuh harusnya pergi ke dokter fisioterapi,
+60	dia tuh harusnya pergi ke dokter fisioterapi,
+61	dia tuh harusnya pergi ke dokter fisioterapi,
+62	dia tuh harusnya pergi ke dokter fisioterapi,
+63	dia tuh harusnya pergi ke dokter fisioterapi, ke dokteran olahraga,
+64	dia tuh harusnya pergi ke dokter fisioterapi, ke dokteran olahraga,
+65	ke dokteran olahraga,
+66	ke dokteran olahraga,
+67	ke dokteran olahraga,
+68	atau harus ke personal trainer.
+69	atau harus ke personal trainer.
+70	atau harus ke personal trainer.
+71	atau harus ke personal trainer.
+72	atau harus ke personal trainer.
+73	atau harus ke personal trainer.
+74	Harusnya kemana dok?
+75	Harusnya kemana dok?
+76	Harusnya kemana dok? Yes, ini pertanyaan yang memang sering malu ditanyakan ya.
+77	Harusnya kemana dok? Yes, ini pertanyaan yang memang sering malu ditanyakan ya.
+78	Yes, ini pertanyaan yang memang sering malu ditanyakan ya.
+79	Yes, ini pertanyaan yang memang sering malu ditanyakan ya.
+80	Yes, ini pertanyaan yang memang sering malu ditanyakan ya.
+81	Yes, ini pertanyaan yang memang sering malu ditanyakan ya.
+82	Yes, ini pertanyaan yang memang sering malu ditanyakan ya. Bingung nih kalau cedera mesti kemana.
+83	Yes, ini pertanyaan yang memang sering malu ditanyakan ya. Bingung nih kalau cedera mesti kemana.
+84	Bingung nih kalau cedera mesti kemana.
+85	Bingung nih kalau cedera mesti kemana. Mungkin jawaban singkatnya seperti ini.
+86	Bingung nih kalau cedera mesti kemana. Mungkin jawaban singkatnya seperti ini.
+87	Mungkin jawaban singkatnya seperti ini.
+88	Mungkin jawaban singkatnya seperti ini.
+89	Mungkin jawaban singkatnya seperti ini.
+90	Mungkin jawaban singkatnya seperti ini. Kalau cedera Anda disebabkan karena adanya kecelakaan,
+91	Mungkin jawaban singkatnya seperti ini. Kalau cedera Anda disebabkan karena adanya kecelakaan,
+92	Kalau cedera Anda disebabkan karena adanya kecelakaan,
+93	Kalau cedera Anda disebabkan karena adanya kecelakaan,
+94	Kalau cedera Anda disebabkan karena adanya kecelakaan,
+95	Kalau cedera Anda disebabkan karena adanya kecelakaan,
+96	Kalau cedera Anda disebabkan karena adanya kecelakaan,
+97	Kalau cedera Anda disebabkan karena adanya kecelakaan, salah gerakan, trauma, misal,
+98	Kalau cedera Anda disebabkan karena adanya kecelakaan, salah gerakan, trauma, misal,
+99	salah gerakan, trauma, misal,
+100	salah gerakan, trauma, misal,
+101	salah gerakan, trauma, misal, lagi squat, lagi deadlift,
+102	salah gerakan, trauma, misal, lagi squat, lagi deadlift,
+103	lagi squat, lagi deadlift,
+104	lagi squat, lagi deadlift, tiba-tiba berasa krek, ada bunyi,
+105	lagi squat, lagi deadlift, tiba-tiba berasa krek, ada bunyi,
+106	tiba-tiba berasa krek, ada bunyi,
+107	tiba-tiba berasa krek, ada bunyi, terus sampai gak bisa bangun, gak bisa jalan,
+108	tiba-tiba berasa krek, ada bunyi, terus sampai gak bisa bangun, gak bisa jalan,
+109	terus sampai gak bisa bangun, gak bisa jalan,
+110	terus sampai gak bisa bangun, gak bisa jalan,
+111	terus sampai gak bisa bangun, gak bisa jalan, itu langsung ke dokter ortopedi.
+112	terus sampai gak bisa bangun, gak bisa jalan, itu langsung ke dokter ortopedi.
+113	itu langsung ke dokter ortopedi.
+114	itu langsung ke dokter ortopedi.
+115	itu langsung ke dokter ortopedi. Ya?
+116	itu langsung ke dokter ortopedi. Ya? Itu udah mutlak lah.
+117	Ya? Itu udah mutlak lah.
+118	Itu udah mutlak lah.
+119	Itu udah mutlak lah. Kalau ada yang robek, denger bunyi aneh,
+120	Itu udah mutlak lah. Kalau ada yang robek, denger bunyi aneh,
+121	Kalau ada yang robek, denger bunyi aneh,
+122	Kalau ada yang robek, denger bunyi aneh,
+123	Kalau ada yang robek, denger bunyi aneh,
+124	Kalau ada yang robek, denger bunyi aneh,
+125	Kalau ada yang robek, denger bunyi aneh, sampai gak bisa gerak,
+126	Kalau ada yang robek, denger bunyi aneh, sampai gak bisa gerak,
+127	sampai gak bisa gerak, dokter ortopedi ya.
+128	sampai gak bisa gerak, dokter ortopedi ya.
+129	dokter ortopedi ya.
+130	dokter ortopedi ya. Namun, kalau cedera Anda itu gak ada trauma,
+131	Namun, kalau cedera Anda itu gak ada trauma,
+132	Namun, kalau cedera Anda itu gak ada trauma,
+133	Namun, kalau cedera Anda itu gak ada trauma,
+134	Namun, kalau cedera Anda itu gak ada trauma,
+135	Namun, kalau cedera Anda itu gak ada trauma,
+136	Namun, kalau cedera Anda itu gak ada trauma, perlahan demi perlahan makin sakit,
+137	Namun, kalau cedera Anda itu gak ada trauma, perlahan demi perlahan makin sakit,
+138	perlahan demi perlahan makin sakit,
+139	perlahan demi perlahan makin sakit,
+140	perlahan demi perlahan makin sakit,
+141	perlahan demi perlahan makin sakit, contoh,
+142	perlahan demi perlahan makin sakit, contoh, oh saya lanjes, awalnya sakit dikit doang.
+143	contoh, oh saya lanjes, awalnya sakit dikit doang.
+144	oh saya lanjes, awalnya sakit dikit doang.
+145	oh saya lanjes, awalnya sakit dikit doang.
+146	oh saya lanjes, awalnya sakit dikit doang.
+147	oh saya lanjes, awalnya sakit dikit doang.
+148	oh saya lanjes, awalnya sakit dikit doang. Makin lama, makin dilakuin,
+149	Makin lama, makin dilakuin,
+150	Makin lama, makin dilakuin,
+151	Makin lama, makin dilakuin, berbulan-bulan kok makin sakit.
+152	Makin lama, makin dilakuin, berbulan-bulan kok makin sakit.
+153	berbulan-bulan kok makin sakit.
+154	berbulan-bulan kok makin sakit. Nah, kalau seperti ini,
+155	berbulan-bulan kok makin sakit. Nah, kalau seperti ini,
+156	Nah, kalau seperti ini,
+157	Nah, kalau seperti ini, itu sebenarnya gak ada aturan pastinya mesti kemana.
+158	Nah, kalau seperti ini, itu sebenarnya gak ada aturan pastinya mesti kemana.
+159	itu sebenarnya gak ada aturan pastinya mesti kemana.
+160	itu sebenarnya gak ada aturan pastinya mesti kemana.
+161	itu sebenarnya gak ada aturan pastinya mesti kemana.
+162	itu sebenarnya gak ada aturan pastinya mesti kemana.
+163	itu sebenarnya gak ada aturan pastinya mesti kemana.
+164	itu sebenarnya gak ada aturan pastinya mesti kemana. Mau ke dokter umum, dokter olahraga,
+165	itu sebenarnya gak ada aturan pastinya mesti kemana. Mau ke dokter umum, dokter olahraga,
+166	Mau ke dokter umum, dokter olahraga,
+167	Mau ke dokter umum, dokter olahraga,
+168	Mau ke dokter umum, dokter olahraga,
+169	Mau ke dokter umum, dokter olahraga, dokter saraf, fisioterapi, personal trainer,
+170	Mau ke dokter umum, dokter olahraga, dokter saraf, fisioterapi, personal trainer,
+171	dokter saraf, fisioterapi, personal trainer,
+172	dokter saraf, fisioterapi, personal trainer,
+173	dokter saraf, fisioterapi, personal trainer,
+174	dokter saraf, fisioterapi, personal trainer,
+175	dokter saraf, fisioterapi, personal trainer, semuanya boleh.
+176	semuanya boleh.
+177	semuanya boleh. Kenapa?
+178	semuanya boleh. Kenapa? Karena ketika gak ada kecelakaan, gak ada trauma,
+179	Kenapa? Karena ketika gak ada kecelakaan, gak ada trauma,
+180	Karena ketika gak ada kecelakaan, gak ada trauma,
+181	Karena ketika gak ada kecelakaan, gak ada trauma,
+182	Karena ketika gak ada kecelakaan, gak ada trauma,
+183	Karena ketika gak ada kecelakaan, gak ada trauma,
+184	Karena ketika gak ada kecelakaan, gak ada trauma,
+185	Karena ketika gak ada kecelakaan, gak ada trauma, ya, itu kan aman, gak ada yang putus, gak ada yang kenapa-napa.
+186	Karena ketika gak ada kecelakaan, gak ada trauma, ya, itu kan aman, gak ada yang putus, gak ada yang kenapa-napa.
+187	ya, itu kan aman, gak ada yang putus, gak ada yang kenapa-napa.
+188	ya, itu kan aman, gak ada yang putus, gak ada yang kenapa-napa.
+189	ya, itu kan aman, gak ada yang putus, gak ada yang kenapa-napa.
+190	ya, itu kan aman, gak ada yang putus, gak ada yang kenapa-napa. Jadi solusi penyembuhannya adalah dengan
+191	ya, itu kan aman, gak ada yang putus, gak ada yang kenapa-napa. Jadi solusi penyembuhannya adalah dengan
+192	Jadi solusi penyembuhannya adalah dengan
+193	Jadi solusi penyembuhannya adalah dengan
+194	Jadi solusi penyembuhannya adalah dengan rehabilitation exercise.
+195	Jadi solusi penyembuhannya adalah dengan rehabilitation exercise.
+196	rehabilitation exercise.
+197	rehabilitation exercise.
+198	rehabilitation exercise. Ya?
+199	Ya? Dan rehabilitation exercise bisa di-prescribe oleh PT,
+200	Ya? Dan rehabilitation exercise bisa di-prescribe oleh PT,
+201	Dan rehabilitation exercise bisa di-prescribe oleh PT,
+202	Dan rehabilitation exercise bisa di-prescribe oleh PT,
+203	Dan rehabilitation exercise bisa di-prescribe oleh PT,
+204	Dan rehabilitation exercise bisa di-prescribe oleh PT,
+205	Dan rehabilitation exercise bisa di-prescribe oleh PT,
+206	Dan rehabilitation exercise bisa di-prescribe oleh PT, oleh fisio, dan oleh dokter olahraga.
+207	oleh fisio, dan oleh dokter olahraga.
+208	oleh fisio, dan oleh dokter olahraga.
+209	oleh fisio, dan oleh dokter olahraga.
+210	oleh fisio, dan oleh dokter olahraga.
+211	oleh fisio, dan oleh dokter olahraga.
+212	oleh fisio, dan oleh dokter olahraga. Jadi bisa semua ya.
+213	oleh fisio, dan oleh dokter olahraga. Jadi bisa semua ya.
+214	Jadi bisa semua ya.
+215	Jadi bisa semua ya. Kurang lebih seperti itu.
+216	Kurang lebih seperti itu.
+217	Kurang lebih seperti itu.
+218	Kurang lebih seperti itu. Oke.
+219	Oke.
+220	Oke. Berarti udah gak bingung lagi ya guys.
+221	Berarti udah gak bingung lagi ya guys.
+222	Berarti udah gak bingung lagi ya guys.
+223	Berarti udah gak bingung lagi ya guys. Kalian kalau mau,
+224	Berarti udah gak bingung lagi ya guys. Kalian kalau mau,
+225	Kalian kalau mau, kalau ada yang cedera tuh harus pergi kemana lagi?
+226	Kalian kalau mau, kalau ada yang cedera tuh harus pergi kemana lagi?
+227	kalau ada yang cedera tuh harus pergi kemana lagi?
+228	kalau ada yang cedera tuh harus pergi kemana lagi?
+229	kalau ada yang cedera tuh harus pergi kemana lagi?
+230	kalau ada yang cedera tuh harus pergi kemana lagi? Udah tau guys sekarang.
+231	kalau ada yang cedera tuh harus pergi kemana lagi? Udah tau guys sekarang.
+232	Udah tau guys sekarang.
+233	Udah tau guys sekarang. Yes. Oke.
+234	Yes. Oke. Hop.
+235	Hop.

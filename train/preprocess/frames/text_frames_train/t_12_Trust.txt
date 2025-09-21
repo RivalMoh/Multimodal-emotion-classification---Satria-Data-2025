@@ -1,0 +1,314 @@
+0	Pengen punya mobil listrik tapi nggak mau ngecas-ngecas pas lagi keluar kota?
+1	Pengen punya mobil listrik tapi nggak mau ngecas-ngecas pas lagi keluar kota?
+2	Pengen punya mobil listrik tapi nggak mau ngecas-ngecas pas lagi keluar kota?
+3	Pengen punya mobil listrik tapi nggak mau ngecas-ngecas pas lagi keluar kota?
+4	Pengen punya mobil listrik tapi nggak mau ngecas-ngecas pas lagi keluar kota?
+5	Pengen punya mobil listrik tapi nggak mau ngecas-ngecas pas lagi keluar kota?
+6	Pengen punya mobil listrik tapi nggak mau ngecas-ngecas pas lagi keluar kota? Nah, ini dia jawabannya.
+7	Nah, ini dia jawabannya.
+8	Nah, ini dia jawabannya.
+9	Nah, ini dia jawabannya. JQ J8 Ardis Super Hybrid System.
+10	Nah, ini dia jawabannya. JQ J8 Ardis Super Hybrid System.
+11	JQ J8 Ardis Super Hybrid System.
+12	JQ J8 Ardis Super Hybrid System.
+13	JQ J8 Ardis Super Hybrid System.
+14	JQ J8 Ardis Super Hybrid System.
+15	JQ J8 Ardis Super Hybrid System.
+16	Dia adalah SUV yang besar, mewah, nyaman.
+17	Dia adalah SUV yang besar, mewah, nyaman.
+18	Dia adalah SUV yang besar, mewah, nyaman.
+19	Dia adalah SUV yang besar, mewah, nyaman.
+20	Dia adalah SUV yang besar, mewah, nyaman.
+21	Dia adalah SUV yang besar, mewah, nyaman.
+22	Dia adalah SUV yang besar, mewah, nyaman.
+23	Dia adalah SUV yang besar, mewah, nyaman. Plot bodinya, wah tebel.
+24	Dia adalah SUV yang besar, mewah, nyaman. Plot bodinya, wah tebel.
+25	Plot bodinya, wah tebel.
+26	Plot bodinya, wah tebel.
+27	Plot bodinya, wah tebel. Perendaman kabinnya juga numero uno.
+28	Plot bodinya, wah tebel. Perendaman kabinnya juga numero uno.
+29	Perendaman kabinnya juga numero uno.
+30	Perendaman kabinnya juga numero uno.
+31	Perendaman kabinnya juga numero uno. Nah, jadi pertanyaannya mobil segini pasti lemot dong?
+32	Perendaman kabinnya juga numero uno. Nah, jadi pertanyaannya mobil segini pasti lemot dong?
+33	Nah, jadi pertanyaannya mobil segini pasti lemot dong?
+34	Nah, jadi pertanyaannya mobil segini pasti lemot dong?
+35	Nah, jadi pertanyaannya mobil segini pasti lemot dong?
+36	Nah, jadi pertanyaannya mobil segini pasti lemot dong?
+37	Nah, jadi pertanyaannya mobil segini pasti lemot dong? Nggak.
+38	Nah, jadi pertanyaannya mobil segini pasti lemot dong? Nggak. 0 ke 100 ya, tuntas dalam waktu 5,4 detik saja.
+39	Nggak. 0 ke 100 ya, tuntas dalam waktu 5,4 detik saja.
+40	0 ke 100 ya, tuntas dalam waktu 5,4 detik saja.
+41	0 ke 100 ya, tuntas dalam waktu 5,4 detik saja.
+42	0 ke 100 ya, tuntas dalam waktu 5,4 detik saja.
+43	0 ke 100 ya, tuntas dalam waktu 5,4 detik saja.
+44	0 ke 100 ya, tuntas dalam waktu 5,4 detik saja.
+45	0 ke 100 ya, tuntas dalam waktu 5,4 detik saja.
+46	0 ke 100 ya, tuntas dalam waktu 5,4 detik saja. Wow, kenceng banget.
+47	0 ke 100 ya, tuntas dalam waktu 5,4 detik saja. Wow, kenceng banget.
+48	Wow, kenceng banget.
+49	Wow, kenceng banget.
+50	Wow, kenceng banget. Kalau misalkan kita cas, dia bisa jalan 200 km tanpa menggunakan bensin sama sekali.
+51	Wow, kenceng banget. Kalau misalkan kita cas, dia bisa jalan 200 km tanpa menggunakan bensin sama sekali.
+52	Kalau misalkan kita cas, dia bisa jalan 200 km tanpa menggunakan bensin sama sekali.
+53	Kalau misalkan kita cas, dia bisa jalan 200 km tanpa menggunakan bensin sama sekali.
+54	Kalau misalkan kita cas, dia bisa jalan 200 km tanpa menggunakan bensin sama sekali.
+55	Kalau misalkan kita cas, dia bisa jalan 200 km tanpa menggunakan bensin sama sekali.
+56	Kalau misalkan kita cas, dia bisa jalan 200 km tanpa menggunakan bensin sama sekali.
+57	Kalau misalkan kita cas, dia bisa jalan 200 km tanpa menggunakan bensin sama sekali.
+58	Kalau misalkan kita cas, dia bisa jalan 200 km tanpa menggunakan bensin sama sekali.
+59	Kalau misalkan kita cas, dia bisa jalan 200 km tanpa menggunakan bensin sama sekali.
+60	Kalau misalkan kita cas, dia bisa jalan 200 km tanpa menggunakan bensin sama sekali.
+61	Kalau misalkan kita cas, dia bisa jalan 200 km tanpa menggunakan bensin sama sekali. Hanya baterai aja.
+62	Kalau misalkan kita cas, dia bisa jalan 200 km tanpa menggunakan bensin sama sekali. Hanya baterai aja.
+63	Hanya baterai aja. Jadi buat dalam kota, dia kayak mobil listrik.
+64	Hanya baterai aja. Jadi buat dalam kota, dia kayak mobil listrik.
+65	Jadi buat dalam kota, dia kayak mobil listrik.
+66	Jadi buat dalam kota, dia kayak mobil listrik.
+67	Jadi buat dalam kota, dia kayak mobil listrik.
+68	Jadi buat dalam kota, dia kayak mobil listrik. Tapi kalau misalkan kita tiba-tiba mendadak, ada urusan keluar kota.
+69	Jadi buat dalam kota, dia kayak mobil listrik. Tapi kalau misalkan kita tiba-tiba mendadak, ada urusan keluar kota.
+70	Tapi kalau misalkan kita tiba-tiba mendadak, ada urusan keluar kota.
+71	Tapi kalau misalkan kita tiba-tiba mendadak, ada urusan keluar kota.
+72	Tapi kalau misalkan kita tiba-tiba mendadak, ada urusan keluar kota.
+73	Tapi kalau misalkan kita tiba-tiba mendadak, ada urusan keluar kota.
+74	Tapi kalau misalkan kita tiba-tiba mendadak, ada urusan keluar kota. Atau kita misalkan, aduh lupa semalam nggak ngecas.
+75	Tapi kalau misalkan kita tiba-tiba mendadak, ada urusan keluar kota. Atau kita misalkan, aduh lupa semalam nggak ngecas.
+76	Atau kita misalkan, aduh lupa semalam nggak ngecas.
+77	Atau kita misalkan, aduh lupa semalam nggak ngecas.
+78	Atau kita misalkan, aduh lupa semalam nggak ngecas.
+79	Atau kita misalkan, aduh lupa semalam nggak ngecas.
+80	Atau kita misalkan, aduh lupa semalam nggak ngecas. Nggak bisa jalan dong.
+81	Atau kita misalkan, aduh lupa semalam nggak ngecas. Nggak bisa jalan dong.
+82	Nggak bisa jalan dong. Tenang. Dia bisa diisi bensin.
+83	Nggak bisa jalan dong. Tenang. Dia bisa diisi bensin.
+84	Tenang. Dia bisa diisi bensin.
+85	Dia bisa diisi bensin. Dan kalau misalkan bensinnya full dan baterainya full, itu bisa sampai 1300 kg sekali penuh.
+86	Dia bisa diisi bensin. Dan kalau misalkan bensinnya full dan baterainya full, itu bisa sampai 1300 kg sekali penuh.
+87	Dan kalau misalkan bensinnya full dan baterainya full, itu bisa sampai 1300 kg sekali penuh.
+88	Dan kalau misalkan bensinnya full dan baterainya full, itu bisa sampai 1300 kg sekali penuh.
+89	Dan kalau misalkan bensinnya full dan baterainya full, itu bisa sampai 1300 kg sekali penuh.
+90	Dan kalau misalkan bensinnya full dan baterainya full, itu bisa sampai 1300 kg sekali penuh.
+91	Dan kalau misalkan bensinnya full dan baterainya full, itu bisa sampai 1300 kg sekali penuh.
+92	Dan kalau misalkan bensinnya full dan baterainya full, itu bisa sampai 1300 kg sekali penuh.
+93	Dan kalau misalkan bensinnya full dan baterainya full, itu bisa sampai 1300 kg sekali penuh.
+94	Dan kalau misalkan bensinnya full dan baterainya full, itu bisa sampai 1300 kg sekali penuh.
+95	Dan kalau misalkan bensinnya full dan baterainya full, itu bisa sampai 1300 kg sekali penuh.
+96	Dan kalau misalkan bensinnya full dan baterainya full, itu bisa sampai 1300 kg sekali penuh.
+97	Dan kalau misalkan bensinnya full dan baterainya full, itu bisa sampai 1300 kg sekali penuh. Nah, kenapa bisa gitu?
+98	Dan kalau misalkan bensinnya full dan baterainya full, itu bisa sampai 1300 kg sekali penuh. Nah, kenapa bisa gitu?
+99	Nah, kenapa bisa gitu?
+100	Nah, kenapa bisa gitu? Karena dia punya mesin hybrid yang irit.
+101	Nah, kenapa bisa gitu? Karena dia punya mesin hybrid yang irit.
+102	Karena dia punya mesin hybrid yang irit.
+103	Karena dia punya mesin hybrid yang irit.
+104	Karena dia punya mesin hybrid yang irit.
+105	Karena dia punya mesin hybrid yang irit. Dia ada satu mesin bensin.
+106	Karena dia punya mesin hybrid yang irit. Dia ada satu mesin bensin.
+107	Dia ada satu mesin bensin.
+108	Dia ada satu mesin bensin. Dan ada tiga motor listriknya.
+109	Dia ada satu mesin bensin. Dan ada tiga motor listriknya.
+110	Dan ada tiga motor listriknya.
+111	Dan ada tiga motor listriknya.
+112	Dan ada tiga motor listriknya.
+113	Dan ada tiga motor listriknya.
+114	Di Gias ini juga ditampilin model yang udah dimodifikasi.
+115	Di Gias ini juga ditampilin model yang udah dimodifikasi.
+116	Di Gias ini juga ditampilin model yang udah dimodifikasi.
+117	Di Gias ini juga ditampilin model yang udah dimodifikasi.
+118	Di Gias ini juga ditampilin model yang udah dimodifikasi.
+119	Di Gias ini juga ditampilin model yang udah dimodifikasi.
+120	Di Gias ini juga ditampilin model yang udah dimodifikasi.
+121	Di Gias ini juga ditampilin model yang udah dimodifikasi. Tuh lihat, dia pakai ban ekstrim.
+122	Di Gias ini juga ditampilin model yang udah dimodifikasi. Tuh lihat, dia pakai ban ekstrim.
+123	Tuh lihat, dia pakai ban ekstrim.
+124	Tuh lihat, dia pakai ban ekstrim. Depannya dikasih besi lagi sama lampu.
+125	Tuh lihat, dia pakai ban ekstrim. Depannya dikasih besi lagi sama lampu.
+126	Depannya dikasih besi lagi sama lampu.
+127	Depannya dikasih besi lagi sama lampu.
+128	Depannya dikasih besi lagi sama lampu.
+129	Depannya dikasih besi lagi sama lampu. Terus diatasnya dikasih roof rack sama ada roof boxnya.
+130	Depannya dikasih besi lagi sama lampu. Terus diatasnya dikasih roof rack sama ada roof boxnya.
+131	Terus diatasnya dikasih roof rack sama ada roof boxnya.
+132	Terus diatasnya dikasih roof rack sama ada roof boxnya.
+133	Terus diatasnya dikasih roof rack sama ada roof boxnya.
+134	Terus diatasnya dikasih roof rack sama ada roof boxnya.
+135	Terus diatasnya dikasih roof rack sama ada roof boxnya. Keren banget kan?
+136	Keren banget kan?
+137	Keren banget kan? Tapi ini nggak cuma sekedar cosplay.
+138	Keren banget kan? Tapi ini nggak cuma sekedar cosplay.
+139	Tapi ini nggak cuma sekedar cosplay.
+140	Tapi ini nggak cuma sekedar cosplay. Karena dia bisa off-road beneran.
+141	Tapi ini nggak cuma sekedar cosplay. Karena dia bisa off-road beneran.
+142	Karena dia bisa off-road beneran.
+143	Karena dia bisa off-road beneran. Dia punya penggerak all-wheel drive dengan sistem Ardis yang didesain sama Jaguar Land Rover.
+144	Karena dia bisa off-road beneran. Dia punya penggerak all-wheel drive dengan sistem Ardis yang didesain sama Jaguar Land Rover.
+145	Dia punya penggerak all-wheel drive dengan sistem Ardis yang didesain sama Jaguar Land Rover.
+146	Dia punya penggerak all-wheel drive dengan sistem Ardis yang didesain sama Jaguar Land Rover.
+147	Dia punya penggerak all-wheel drive dengan sistem Ardis yang didesain sama Jaguar Land Rover.
+148	Dia punya penggerak all-wheel drive dengan sistem Ardis yang didesain sama Jaguar Land Rover.
+149	Dia punya penggerak all-wheel drive dengan sistem Ardis yang didesain sama Jaguar Land Rover.
+150	Dia punya penggerak all-wheel drive dengan sistem Ardis yang didesain sama Jaguar Land Rover.
+151	Dia punya penggerak all-wheel drive dengan sistem Ardis yang didesain sama Jaguar Land Rover.
+152	Dia punya penggerak all-wheel drive dengan sistem Ardis yang didesain sama Jaguar Land Rover.
+153	Dia punya penggerak all-wheel drive dengan sistem Ardis yang didesain sama Jaguar Land Rover. Terus, nggak cuma itu doang.
+154	Terus, nggak cuma itu doang.
+155	Terus, nggak cuma itu doang.
+156	Terus, nggak cuma itu doang.
+157	Terus, nggak cuma itu doang. Dia juga punya drive mode yang banyak.
+158	Terus, nggak cuma itu doang. Dia juga punya drive mode yang banyak.
+159	Dia juga punya drive mode yang banyak.
+160	Dia juga punya drive mode yang banyak. Plus suspensinya nyaman sekali.
+161	Dia juga punya drive mode yang banyak. Plus suspensinya nyaman sekali.
+162	Plus suspensinya nyaman sekali.
+163	Plus suspensinya nyaman sekali. Karena dia pakai suspensi CDC Makassar.
+164	Plus suspensinya nyaman sekali. Karena dia pakai suspensi CDC Makassar.
+165	Karena dia pakai suspensi CDC Makassar.
+166	Karena dia pakai suspensi CDC Makassar.
+167	Karena dia pakai suspensi CDC Makassar.
+168	Karena dia pakai suspensi CDC Makassar. Magnetic suspension.
+169	Karena dia pakai suspensi CDC Makassar. Magnetic suspension.
+170	Magnetic suspension. Top kan?
+171	Top kan?
+172	Top kan?
+173	Top kan? Dan kalau misalkan kalian pakai yang full listrik,
+174	Dan kalau misalkan kalian pakai yang full listrik,
+175	Dan kalau misalkan kalian pakai yang full listrik,
+176	Dan kalau misalkan kalian pakai yang full listrik, dia juga punya JECO J5 dan bisa dipesan dari sekarang.
+177	Dan kalau misalkan kalian pakai yang full listrik, dia juga punya JECO J5 dan bisa dipesan dari sekarang.
+178	dia juga punya JECO J5 dan bisa dipesan dari sekarang.
+179	dia juga punya JECO J5 dan bisa dipesan dari sekarang.
+180	dia juga punya JECO J5 dan bisa dipesan dari sekarang.
+181	dia juga punya JECO J5 dan bisa dipesan dari sekarang.
+182	dia juga punya JECO J5 dan bisa dipesan dari sekarang.
+183	dia juga punya JECO J5 dan bisa dipesan dari sekarang.
+184	Dia nggak cuma ganteng, tapi tenaganya besar.
+185	Dia nggak cuma ganteng, tapi tenaganya besar.
+186	Dia nggak cuma ganteng, tapi tenaganya besar.
+187	Dia nggak cuma ganteng, tapi tenaganya besar.
+188	Dia nggak cuma ganteng, tapi tenaganya besar.
+189	Dia nggak cuma ganteng, tapi tenaganya besar. Kayak J8.
+190	Dia nggak cuma ganteng, tapi tenaganya besar. Kayak J8.
+191	Kayak J8.
+192	Kayak J8. Engine powernya 142 PS.
+193	Engine powernya 142 PS.
+194	Engine powernya 142 PS.
+195	Engine powernya 142 PS.
+196	Engine powernya 142 PS. Motor powernya 203 PS.
+197	Engine powernya 142 PS. Motor powernya 203 PS.
+198	Motor powernya 203 PS.
+199	Motor powernya 203 PS.
+200	Motor powernya 203 PS. Dan torsi engine-nya itu 215 Nm karena pakai turbo.
+201	Motor powernya 203 PS. Dan torsi engine-nya itu 215 Nm karena pakai turbo.
+202	Dan torsi engine-nya itu 215 Nm karena pakai turbo.
+203	Dan torsi engine-nya itu 215 Nm karena pakai turbo.
+204	Dan torsi engine-nya itu 215 Nm karena pakai turbo.
+205	Dan torsi engine-nya itu 215 Nm karena pakai turbo.
+206	Dan torsi engine-nya itu 215 Nm karena pakai turbo.
+207	Dan torsi engine-nya itu 215 Nm karena pakai turbo.
+208	Dan torsi engine-nya itu 215 Nm karena pakai turbo.
+209	Dan torsi engine-nya itu 215 Nm karena pakai turbo. Dan motor listriknya punya torsi 310 Nm.
+210	Dan torsi engine-nya itu 215 Nm karena pakai turbo. Dan motor listriknya punya torsi 310 Nm.
+211	Dan motor listriknya punya torsi 310 Nm.
+212	Dan motor listriknya punya torsi 310 Nm.
+213	Dan motor listriknya punya torsi 310 Nm.
+214	Dan motor listriknya punya torsi 310 Nm.
+215	Dan motor listriknya punya torsi 310 Nm.
+216	Dan motor listriknya punya torsi 310 Nm.
+217	Dan motor listriknya punya torsi 310 Nm.
+218	Dan motor listriknya punya torsi 310 Nm. Nggak cuma itu, harganya juga lebih terjangkau.
+219	Nggak cuma itu, harganya juga lebih terjangkau.
+220	Nggak cuma itu, harganya juga lebih terjangkau.
+221	Nggak cuma itu, harganya juga lebih terjangkau.
+222	Nggak cuma itu, harganya juga lebih terjangkau.
+223	Nggak cuma itu, harganya juga lebih terjangkau. J8 harganya 850 Nm.
+224	Nggak cuma itu, harganya juga lebih terjangkau. J8 harganya 850 Nm.
+225	J8 harganya 850 Nm.
+226	J8 harganya 850 Nm.
+227	J8 harganya 850 Nm.
+228	J8 harganya 850 Nm. Kalau yang ini harganya 499,9 juta rupiah saja.
+229	J8 harganya 850 Nm. Kalau yang ini harganya 499,9 juta rupiah saja.
+230	Kalau yang ini harganya 499,9 juta rupiah saja.
+231	Kalau yang ini harganya 499,9 juta rupiah saja.
+232	Kalau yang ini harganya 499,9 juta rupiah saja.
+233	Kalau yang ini harganya 499,9 juta rupiah saja.
+234	Kalau yang ini harganya 499,9 juta rupiah saja.
+235	Kalau yang ini harganya 499,9 juta rupiah saja.
+236	Kalau yang ini harganya 499,9 juta rupiah saja.
+237	Kalau yang ini harganya 499,9 juta rupiah saja.
+238	Kalau yang ini harganya 499,9 juta rupiah saja.
+239	Kalau yang ini harganya 499,9 juta rupiah saja.
+240	Kalau yang ini harganya 499,9 juta rupiah saja. Dan di Giaz ini kita nggak cuma bisa liat-liat mobilnya aja.
+241	Dan di Giaz ini kita nggak cuma bisa liat-liat mobilnya aja.
+242	Dan di Giaz ini kita nggak cuma bisa liat-liat mobilnya aja.
+243	Dan di Giaz ini kita nggak cuma bisa liat-liat mobilnya aja.
+244	Dan di Giaz ini kita nggak cuma bisa liat-liat mobilnya aja.
+245	Dan di Giaz ini kita nggak cuma bisa liat-liat mobilnya aja.
+246	Dan di Giaz ini kita nggak cuma bisa liat-liat mobilnya aja.
+247	Dan di Giaz ini kita nggak cuma bisa liat-liat mobilnya aja. Tapi bisa test drive juga.
+248	Dan di Giaz ini kita nggak cuma bisa liat-liat mobilnya aja. Tapi bisa test drive juga.
+249	Tapi bisa test drive juga.
+250	Tapi bisa test drive juga. Yuk, kita langsung ke tempat test drive.
+251	Tapi bisa test drive juga. Yuk, kita langsung ke tempat test drive.
+252	Yuk, kita langsung ke tempat test drive.
+253	Yuk, kita langsung ke tempat test drive.
+254	Yuk, kita langsung ke tempat test drive.
+255	Yuk, kita langsung ke tempat test drive.
+256	[NO_SPEECH]
+257	[NO_SPEECH]
+258	[NO_SPEECH]
+259	[NO_SPEECH]
+260	[NO_SPEECH]
+261	[NO_SPEECH]
+262	[NO_SPEECH]
+263	[NO_SPEECH]
+264	Gede banget.
+265	Gede banget.
+266	Gede banget. Udah hampir 80.
+267	Gede banget. Udah hampir 80.
+268	Udah hampir 80.
+269	Udah hampir 80.
+270	Ini kayaknya bisa 100 kalau kita lanjutin.
+271	Ini kayaknya bisa 100 kalau kita lanjutin.
+272	Ini kayaknya bisa 100 kalau kita lanjutin.
+273	Ini kayaknya bisa 100 kalau kita lanjutin.
+274	Ini kayaknya bisa 100 kalau kita lanjutin. Aman nggak ya kalau kita ke banjir-banjiran, kena air, ada EV water obstacle.
+275	Ini kayaknya bisa 100 kalau kita lanjutin. Aman nggak ya kalau kita ke banjir-banjiran, kena air, ada EV water obstacle.
+276	Aman nggak ya kalau kita ke banjir-banjiran, kena air, ada EV water obstacle.
+277	Aman nggak ya kalau kita ke banjir-banjiran, kena air, ada EV water obstacle.
+278	Aman nggak ya kalau kita ke banjir-banjiran, kena air, ada EV water obstacle.
+279	Aman nggak ya kalau kita ke banjir-banjiran, kena air, ada EV water obstacle.
+280	Aman nggak ya kalau kita ke banjir-banjiran, kena air, ada EV water obstacle.
+281	Aman nggak ya kalau kita ke banjir-banjiran, kena air, ada EV water obstacle.
+282	Aman nggak ya kalau kita ke banjir-banjiran, kena air, ada EV water obstacle.
+283	Aman nggak ya kalau kita ke banjir-banjiran, kena air, ada EV water obstacle.
+284	[NO_SPEECH]
+285	[NO_SPEECH]
+286	[NO_SPEECH]
+287	[NO_SPEECH]
+288	[NO_SPEECH]
+289	[NO_SPEECH]
+290	[NO_SPEECH]
+291	[NO_SPEECH]
+292	Tapi kita bisa lihat.
+293	Tapi kita bisa lihat.
+294	Tapi kita bisa lihat.  Aman dong.
+295	Tapi kita bisa lihat.  Aman dong.
+296	Tentu saja.
+297	Tentu saja.
+298	Tentu saja. Jadi buat teman-teman bisa langsung aja ke hall 9 S BSD selama Giaz berlangsung.
+299	Jadi buat teman-teman bisa langsung aja ke hall 9 S BSD selama Giaz berlangsung.
+300	Jadi buat teman-teman bisa langsung aja ke hall 9 S BSD selama Giaz berlangsung.
+301	Jadi buat teman-teman bisa langsung aja ke hall 9 S BSD selama Giaz berlangsung.
+302	Jadi buat teman-teman bisa langsung aja ke hall 9 S BSD selama Giaz berlangsung.
+303	Jadi buat teman-teman bisa langsung aja ke hall 9 S BSD selama Giaz berlangsung.
+304	Jadi buat teman-teman bisa langsung aja ke hall 9 S BSD selama Giaz berlangsung.
+305	Jadi buat teman-teman bisa langsung aja ke hall 9 S BSD selama Giaz berlangsung.
+306	Jadi buat teman-teman bisa langsung aja ke hall 9 S BSD selama Giaz berlangsung. Dan datengin booth-nya Jeko di sini.
+307	Jadi buat teman-teman bisa langsung aja ke hall 9 S BSD selama Giaz berlangsung. Dan datengin booth-nya Jeko di sini.
+308	Dan datengin booth-nya Jeko di sini.
+309	Dan datengin booth-nya Jeko di sini.
+310	Dan datengin booth-nya Jeko di sini.
+311	Sampai jumpa di video selanjutnya.
+312	Sampai jumpa di video selanjutnya.
+313	Sampai jumpa di video selanjutnya.

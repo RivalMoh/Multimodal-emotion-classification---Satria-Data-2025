@@ -1,0 +1,177 @@
+0	Halo, saya Dr. Tiaz, dermatologist.
+1	Halo, saya Dr. Tiaz, dermatologist.
+2	Halo, saya Dr. Tiaz, dermatologist.
+3	Halo, saya Dr. Tiaz, dermatologist. Jadi di sini kita akan melakukan sesi konsultasi dan akhirnya akan mendapatkan yang namanya My Skin ID Blueprint.
+4	Halo, saya Dr. Tiaz, dermatologist. Jadi di sini kita akan melakukan sesi konsultasi dan akhirnya akan mendapatkan yang namanya My Skin ID Blueprint.
+5	Jadi di sini kita akan melakukan sesi konsultasi dan akhirnya akan mendapatkan yang namanya My Skin ID Blueprint.
+6	Jadi di sini kita akan melakukan sesi konsultasi dan akhirnya akan mendapatkan yang namanya My Skin ID Blueprint.
+7	Jadi di sini kita akan melakukan sesi konsultasi dan akhirnya akan mendapatkan yang namanya My Skin ID Blueprint.
+8	Jadi di sini kita akan melakukan sesi konsultasi dan akhirnya akan mendapatkan yang namanya My Skin ID Blueprint.
+9	Jadi di sini kita akan melakukan sesi konsultasi dan akhirnya akan mendapatkan yang namanya My Skin ID Blueprint.
+10	Jadi di sini kita akan melakukan sesi konsultasi dan akhirnya akan mendapatkan yang namanya My Skin ID Blueprint.
+11	Jadi di sini kita akan melakukan sesi konsultasi dan akhirnya akan mendapatkan yang namanya My Skin ID Blueprint.
+12	Jadi di sini kita akan melakukan sesi konsultasi dan akhirnya akan mendapatkan yang namanya My Skin ID Blueprint.
+13	Jadi di sini kita akan melakukan sesi konsultasi dan akhirnya akan mendapatkan yang namanya My Skin ID Blueprint.
+14	Jadi di sini kita akan melakukan sesi konsultasi dan akhirnya akan mendapatkan yang namanya My Skin ID Blueprint.
+15	Jadi di sini kita akan melakukan sesi konsultasi dan akhirnya akan mendapatkan yang namanya My Skin ID Blueprint.
+16	Jadi di sini kita akan melakukan sesi konsultasi dan akhirnya akan mendapatkan yang namanya My Skin ID Blueprint.
+17	Jadi di sini kita akan melakukan sesi konsultasi dan akhirnya akan mendapatkan yang namanya My Skin ID Blueprint.
+18	Jadi di sini kita akan melakukan sesi konsultasi dan akhirnya akan mendapatkan yang namanya My Skin ID Blueprint. Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+19	Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+20	Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+21	Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+22	Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+23	Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+24	Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+25	Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+26	Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+27	Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+28	Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+29	Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+30	Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+31	Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+32	Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+33	Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+34	Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+35	Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+36	Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+37	Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+38	Jadi Skin ID Blueprint ini adalah hasil dari skin report yang didapatkan sesuai dengan konsultasi dan juga analisa kulit dari AI Deep Analyzer.
+39	[NO_SPEECH]
+40	Jadi hasil dari Skin ID Blueprint ini ada sesuai dengan analisa kulitnya.
+41	Jadi hasil dari Skin ID Blueprint ini ada sesuai dengan analisa kulitnya.
+42	Jadi hasil dari Skin ID Blueprint ini ada sesuai dengan analisa kulitnya.
+43	Jadi hasil dari Skin ID Blueprint ini ada sesuai dengan analisa kulitnya.
+44	Jadi hasil dari Skin ID Blueprint ini ada sesuai dengan analisa kulitnya.
+45	Jadi hasil dari Skin ID Blueprint ini ada sesuai dengan analisa kulitnya.
+46	Jadi hasil dari Skin ID Blueprint ini ada sesuai dengan analisa kulitnya.
+47	Jadi hasil dari Skin ID Blueprint ini ada sesuai dengan analisa kulitnya.
+48	Jadi hasil dari Skin ID Blueprint ini ada sesuai dengan analisa kulitnya.
+49	Jadi hasil dari Skin ID Blueprint ini ada sesuai dengan analisa kulitnya.
+50	Jadi hasil dari Skin ID Blueprint ini ada sesuai dengan analisa kulitnya.
+51	Jadi hasil dari Skin ID Blueprint ini ada sesuai dengan analisa kulitnya. Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya.
+52	Jadi hasil dari Skin ID Blueprint ini ada sesuai dengan analisa kulitnya. Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya.
+53	Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya.
+54	Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya.
+55	Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya.
+56	Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya.
+57	Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya.
+58	Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya.
+59	Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya.
+60	Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya.
+61	Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya.
+62	Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya.
+63	Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya.
+64	Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya.
+65	Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya.
+66	Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya.
+67	Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya.
+68	Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya.
+69	Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya.
+70	Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya.
+71	Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya. Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+72	Kita bisa lihat tipe kulitnya itu apa, kemudian concernnya itu apa, lalu ada rekomendasi ingredients yang cocok sesuai dengan concern kulitnya. Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+73	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+74	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+75	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+76	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+77	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+78	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+79	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+80	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+81	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+82	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+83	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+84	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+85	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+86	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+87	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+88	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+89	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+90	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+91	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+92	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+93	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya.
+94	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya. Mulai dari makanan yang disarankan ataupun makanan yang harus di skip berikut dengan tips-tips sesuai dengan lifestyle-nya.
+95	Ada juga rekomendasi produk yang sesuai dengan concern kulitnya, lalu ada rekomendasi edukasi sesuai dengan tipe kulitnya ataupun kebutuhannya. Mulai dari makanan yang disarankan ataupun makanan yang harus di skip berikut dengan tips-tips sesuai dengan lifestyle-nya.
+96	Mulai dari makanan yang disarankan ataupun makanan yang harus di skip berikut dengan tips-tips sesuai dengan lifestyle-nya.
+97	Mulai dari makanan yang disarankan ataupun makanan yang harus di skip berikut dengan tips-tips sesuai dengan lifestyle-nya.
+98	Mulai dari makanan yang disarankan ataupun makanan yang harus di skip berikut dengan tips-tips sesuai dengan lifestyle-nya.
+99	Mulai dari makanan yang disarankan ataupun makanan yang harus di skip berikut dengan tips-tips sesuai dengan lifestyle-nya.
+100	Mulai dari makanan yang disarankan ataupun makanan yang harus di skip berikut dengan tips-tips sesuai dengan lifestyle-nya.
+101	Mulai dari makanan yang disarankan ataupun makanan yang harus di skip berikut dengan tips-tips sesuai dengan lifestyle-nya.
+102	Mulai dari makanan yang disarankan ataupun makanan yang harus di skip berikut dengan tips-tips sesuai dengan lifestyle-nya.
+103	Mulai dari makanan yang disarankan ataupun makanan yang harus di skip berikut dengan tips-tips sesuai dengan lifestyle-nya.
+104	Mulai dari makanan yang disarankan ataupun makanan yang harus di skip berikut dengan tips-tips sesuai dengan lifestyle-nya.
+105	Mulai dari makanan yang disarankan ataupun makanan yang harus di skip berikut dengan tips-tips sesuai dengan lifestyle-nya.
+106	Mulai dari makanan yang disarankan ataupun makanan yang harus di skip berikut dengan tips-tips sesuai dengan lifestyle-nya.
+107	Mulai dari makanan yang disarankan ataupun makanan yang harus di skip berikut dengan tips-tips sesuai dengan lifestyle-nya.
+108	Mulai dari makanan yang disarankan ataupun makanan yang harus di skip berikut dengan tips-tips sesuai dengan lifestyle-nya. Jadi Skin ID Blueprint ini adalah skin report yang didapatkan customer sesuai dengan hasil analisa dari AI Deep Skin Provider.
+109	Mulai dari makanan yang disarankan ataupun makanan yang harus di skip berikut dengan tips-tips sesuai dengan lifestyle-nya. Jadi Skin ID Blueprint ini adalah skin report yang didapatkan customer sesuai dengan hasil analisa dari AI Deep Skin Provider.
+110	Jadi Skin ID Blueprint ini adalah skin report yang didapatkan customer sesuai dengan hasil analisa dari AI Deep Skin Provider.
+111	Jadi Skin ID Blueprint ini adalah skin report yang didapatkan customer sesuai dengan hasil analisa dari AI Deep Skin Provider.
+112	Jadi Skin ID Blueprint ini adalah skin report yang didapatkan customer sesuai dengan hasil analisa dari AI Deep Skin Provider.
+113	Jadi Skin ID Blueprint ini adalah skin report yang didapatkan customer sesuai dengan hasil analisa dari AI Deep Skin Provider.
+114	Jadi Skin ID Blueprint ini adalah skin report yang didapatkan customer sesuai dengan hasil analisa dari AI Deep Skin Provider.
+115	Jadi Skin ID Blueprint ini adalah skin report yang didapatkan customer sesuai dengan hasil analisa dari AI Deep Skin Provider.
+116	Jadi Skin ID Blueprint ini adalah skin report yang didapatkan customer sesuai dengan hasil analisa dari AI Deep Skin Provider.
+117	Jadi Skin ID Blueprint ini adalah skin report yang didapatkan customer sesuai dengan hasil analisa dari AI Deep Skin Provider.
+118	Jadi Skin ID Blueprint ini adalah skin report yang didapatkan customer sesuai dengan hasil analisa dari AI Deep Skin Provider.
+119	Jadi Skin ID Blueprint ini adalah skin report yang didapatkan customer sesuai dengan hasil analisa dari AI Deep Skin Provider.
+120	Jadi Skin ID Blueprint ini adalah skin report yang didapatkan customer sesuai dengan hasil analisa dari AI Deep Skin Provider.
+121	Jadi Skin ID Blueprint ini adalah skin report yang didapatkan customer sesuai dengan hasil analisa dari AI Deep Skin Provider.
+122	Jadi Skin ID Blueprint ini adalah skin report yang didapatkan customer sesuai dengan hasil analisa dari AI Deep Skin Provider.
+123	Jadi Skin ID Blueprint ini adalah skin report yang didapatkan customer sesuai dengan hasil analisa dari AI Deep Skin Provider.
+124	Jadi Skin ID Blueprint ini adalah skin report yang didapatkan customer sesuai dengan hasil analisa dari AI Deep Skin Provider.
+125	Jadi Skin ID Blueprint ini adalah skin report yang didapatkan customer sesuai dengan hasil analisa dari AI Deep Skin Provider.
+126	Jadi Skin ID Blueprint ini adalah skin report yang didapatkan customer sesuai dengan hasil analisa dari AI Deep Skin Provider.
+127	Jadi Skin ID Blueprint ini adalah skin report yang didapatkan customer sesuai dengan hasil analisa dari AI Deep Skin Provider. Setelah kulitnya dianalisis, customer akan disarankan untuk treatment sesuai dengan jenis kulitnya maupun skin concernnya.
+128	Setelah kulitnya dianalisis, customer akan disarankan untuk treatment sesuai dengan jenis kulitnya maupun skin concernnya.
+129	Setelah kulitnya dianalisis, customer akan disarankan untuk treatment sesuai dengan jenis kulitnya maupun skin concernnya.
+130	Setelah kulitnya dianalisis, customer akan disarankan untuk treatment sesuai dengan jenis kulitnya maupun skin concernnya.
+131	Setelah kulitnya dianalisis, customer akan disarankan untuk treatment sesuai dengan jenis kulitnya maupun skin concernnya.
+132	Setelah kulitnya dianalisis, customer akan disarankan untuk treatment sesuai dengan jenis kulitnya maupun skin concernnya.
+133	Setelah kulitnya dianalisis, customer akan disarankan untuk treatment sesuai dengan jenis kulitnya maupun skin concernnya.
+134	Setelah kulitnya dianalisis, customer akan disarankan untuk treatment sesuai dengan jenis kulitnya maupun skin concernnya.
+135	Setelah kulitnya dianalisis, customer akan disarankan untuk treatment sesuai dengan jenis kulitnya maupun skin concernnya.
+136	Setelah kulitnya dianalisis, customer akan disarankan untuk treatment sesuai dengan jenis kulitnya maupun skin concernnya.
+137	Setelah kulitnya dianalisis, customer akan disarankan untuk treatment sesuai dengan jenis kulitnya maupun skin concernnya.
+138	Setelah kulitnya dianalisis, customer akan disarankan untuk treatment sesuai dengan jenis kulitnya maupun skin concernnya.
+139	Setelah kulitnya dianalisis, customer akan disarankan untuk treatment sesuai dengan jenis kulitnya maupun skin concernnya.
+140	Setelah kulitnya dianalisis, customer akan disarankan untuk treatment sesuai dengan jenis kulitnya maupun skin concernnya.
+141	Setelah kulitnya dianalisis, customer akan disarankan untuk treatment sesuai dengan jenis kulitnya maupun skin concernnya.
+142	Setelah kulitnya dianalisis, customer akan disarankan untuk treatment sesuai dengan jenis kulitnya maupun skin concernnya. Seperti kulit yang kusam atau hiperpigmentasi, acne atau breakout, kemudian kulit sensitif, kulit yang kering, maupun skin aging.
+143	Setelah kulitnya dianalisis, customer akan disarankan untuk treatment sesuai dengan jenis kulitnya maupun skin concernnya. Seperti kulit yang kusam atau hiperpigmentasi, acne atau breakout, kemudian kulit sensitif, kulit yang kering, maupun skin aging.
+144	Seperti kulit yang kusam atau hiperpigmentasi, acne atau breakout, kemudian kulit sensitif, kulit yang kering, maupun skin aging.
+145	Seperti kulit yang kusam atau hiperpigmentasi, acne atau breakout, kemudian kulit sensitif, kulit yang kering, maupun skin aging.
+146	Seperti kulit yang kusam atau hiperpigmentasi, acne atau breakout, kemudian kulit sensitif, kulit yang kering, maupun skin aging.
+147	Seperti kulit yang kusam atau hiperpigmentasi, acne atau breakout, kemudian kulit sensitif, kulit yang kering, maupun skin aging.
+148	Seperti kulit yang kusam atau hiperpigmentasi, acne atau breakout, kemudian kulit sensitif, kulit yang kering, maupun skin aging.
+149	Seperti kulit yang kusam atau hiperpigmentasi, acne atau breakout, kemudian kulit sensitif, kulit yang kering, maupun skin aging.
+150	Seperti kulit yang kusam atau hiperpigmentasi, acne atau breakout, kemudian kulit sensitif, kulit yang kering, maupun skin aging.
+151	Seperti kulit yang kusam atau hiperpigmentasi, acne atau breakout, kemudian kulit sensitif, kulit yang kering, maupun skin aging.
+152	Seperti kulit yang kusam atau hiperpigmentasi, acne atau breakout, kemudian kulit sensitif, kulit yang kering, maupun skin aging.
+153	Seperti kulit yang kusam atau hiperpigmentasi, acne atau breakout, kemudian kulit sensitif, kulit yang kering, maupun skin aging.
+154	Seperti kulit yang kusam atau hiperpigmentasi, acne atau breakout, kemudian kulit sensitif, kulit yang kering, maupun skin aging.
+155	Seperti kulit yang kusam atau hiperpigmentasi, acne atau breakout, kemudian kulit sensitif, kulit yang kering, maupun skin aging.
+156	Seperti kulit yang kusam atau hiperpigmentasi, acne atau breakout, kemudian kulit sensitif, kulit yang kering, maupun skin aging.
+157	Seperti kulit yang kusam atau hiperpigmentasi, acne atau breakout, kemudian kulit sensitif, kulit yang kering, maupun skin aging.
+158	Seperti kulit yang kusam atau hiperpigmentasi, acne atau breakout, kemudian kulit sensitif, kulit yang kering, maupun skin aging.
+159	Seperti kulit yang kusam atau hiperpigmentasi, acne atau breakout, kemudian kulit sensitif, kulit yang kering, maupun skin aging.
+160	Seperti kulit yang kusam atau hiperpigmentasi, acne atau breakout, kemudian kulit sensitif, kulit yang kering, maupun skin aging.
+161	[NO_SPEECH]
+162	[NO_SPEECH]
+163	[NO_SPEECH]
+164	[NO_SPEECH]
+165	[NO_SPEECH]
+166	[NO_SPEECH]
+167	[NO_SPEECH]
+168	Terima kasih telah menonton!
+169	Terima kasih telah menonton!
+170	Terima kasih telah menonton!
+171	Terima kasih telah menonton!
+172	Terima kasih telah menonton!
+173	Terima kasih telah menonton!
+174	Terima kasih telah menonton!
+175	[NO_SPEECH]
+176	[NO_SPEECH]

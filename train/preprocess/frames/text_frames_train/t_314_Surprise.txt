@@ -1,0 +1,156 @@
+0	Bang, apa bener PS5 lebih awet daripada PC?
+1	Bang, apa bener PS5 lebih awet daripada PC?
+2	Bang, apa bener PS5 lebih awet daripada PC?
+3	Bang, apa bener PS5 lebih awet daripada PC? Kata temen gue begitu soalnya.
+4	Bang, apa bener PS5 lebih awet daripada PC? Kata temen gue begitu soalnya.
+5	Kata temen gue begitu soalnya.
+6	Kata temen gue begitu soalnya.
+7	Kata temen gue begitu soalnya. Hmm, yang namanya elektronik, keawetannya itu sebagian besar tergantung kestabilan listrik
+8	Hmm, yang namanya elektronik, keawetannya itu sebagian besar tergantung kestabilan listrik
+9	Hmm, yang namanya elektronik, keawetannya itu sebagian besar tergantung kestabilan listrik
+10	Hmm, yang namanya elektronik, keawetannya itu sebagian besar tergantung kestabilan listrik
+11	Hmm, yang namanya elektronik, keawetannya itu sebagian besar tergantung kestabilan listrik
+12	Hmm, yang namanya elektronik, keawetannya itu sebagian besar tergantung kestabilan listrik
+13	Hmm, yang namanya elektronik, keawetannya itu sebagian besar tergantung kestabilan listrik
+14	Hmm, yang namanya elektronik, keawetannya itu sebagian besar tergantung kestabilan listrik
+15	Hmm, yang namanya elektronik, keawetannya itu sebagian besar tergantung kestabilan listrik
+16	Hmm, yang namanya elektronik, keawetannya itu sebagian besar tergantung kestabilan listrik
+17	Hmm, yang namanya elektronik, keawetannya itu sebagian besar tergantung kestabilan listrik
+18	Hmm, yang namanya elektronik, keawetannya itu sebagian besar tergantung kestabilan listrik
+19	Hmm, yang namanya elektronik, keawetannya itu sebagian besar tergantung kestabilan listrik
+20	Hmm, yang namanya elektronik, keawetannya itu sebagian besar tergantung kestabilan listrik dan instalasi listrik di rumah lo sendiri.
+21	Hmm, yang namanya elektronik, keawetannya itu sebagian besar tergantung kestabilan listrik dan instalasi listrik di rumah lo sendiri.
+22	dan instalasi listrik di rumah lo sendiri.
+23	dan instalasi listrik di rumah lo sendiri.
+24	dan instalasi listrik di rumah lo sendiri.
+25	dan instalasi listrik di rumah lo sendiri. Sebagian kecilnya tergantung hoki.
+26	Sebagian kecilnya tergantung hoki.
+27	Sebagian kecilnya tergantung hoki.
+28	Sebagian kecilnya tergantung hoki.
+29	Sebagian kecilnya tergantung hoki. Makanya ada garansi.
+30	Sebagian kecilnya tergantung hoki. Makanya ada garansi.
+31	Makanya ada garansi.
+32	Makanya ada garansi.
+33	Makanya ada garansi. Lagian pake logika aja, PS5 aja sering overheat di banyak game-game yang mereka ngomongnya optimize.
+34	Makanya ada garansi. Lagian pake logika aja, PS5 aja sering overheat di banyak game-game yang mereka ngomongnya optimize.
+35	Lagian pake logika aja, PS5 aja sering overheat di banyak game-game yang mereka ngomongnya optimize.
+36	Lagian pake logika aja, PS5 aja sering overheat di banyak game-game yang mereka ngomongnya optimize.
+37	Lagian pake logika aja, PS5 aja sering overheat di banyak game-game yang mereka ngomongnya optimize.
+38	Lagian pake logika aja, PS5 aja sering overheat di banyak game-game yang mereka ngomongnya optimize.
+39	Lagian pake logika aja, PS5 aja sering overheat di banyak game-game yang mereka ngomongnya optimize.
+40	Lagian pake logika aja, PS5 aja sering overheat di banyak game-game yang mereka ngomongnya optimize.
+41	Lagian pake logika aja, PS5 aja sering overheat di banyak game-game yang mereka ngomongnya optimize.
+42	Lagian pake logika aja, PS5 aja sering overheat di banyak game-game yang mereka ngomongnya optimize.
+43	Lagian pake logika aja, PS5 aja sering overheat di banyak game-game yang mereka ngomongnya optimize.
+44	Lagian pake logika aja, PS5 aja sering overheat di banyak game-game yang mereka ngomongnya optimize.
+45	Di PC, kalo lo raciknya bener, overheat sih hampir nggak akan terjadi.
+46	Di PC, kalo lo raciknya bener, overheat sih hampir nggak akan terjadi.
+47	Di PC, kalo lo raciknya bener, overheat sih hampir nggak akan terjadi.
+48	Di PC, kalo lo raciknya bener, overheat sih hampir nggak akan terjadi.
+49	Di PC, kalo lo raciknya bener, overheat sih hampir nggak akan terjadi.
+50	Di PC, kalo lo raciknya bener, overheat sih hampir nggak akan terjadi.
+51	Di PC, kalo lo raciknya bener, overheat sih hampir nggak akan terjadi.
+52	Di PC, kalo lo raciknya bener, overheat sih hampir nggak akan terjadi.
+53	Di PC, kalo lo raciknya bener, overheat sih hampir nggak akan terjadi. Lagian aneh di 2004, ada aja yang kepikiran mau beli limbah Jepang PS5.
+54	Di PC, kalo lo raciknya bener, overheat sih hampir nggak akan terjadi. Lagian aneh di 2004, ada aja yang kepikiran mau beli limbah Jepang PS5.
+55	Lagian aneh di 2004, ada aja yang kepikiran mau beli limbah Jepang PS5.
+56	Lagian aneh di 2004, ada aja yang kepikiran mau beli limbah Jepang PS5.
+57	Lagian aneh di 2004, ada aja yang kepikiran mau beli limbah Jepang PS5.
+58	Lagian aneh di 2004, ada aja yang kepikiran mau beli limbah Jepang PS5.
+59	Lagian aneh di 2004, ada aja yang kepikiran mau beli limbah Jepang PS5.
+60	Lagian aneh di 2004, ada aja yang kepikiran mau beli limbah Jepang PS5.
+61	Lagian aneh di 2004, ada aja yang kepikiran mau beli limbah Jepang PS5.
+62	Lagian aneh di 2004, ada aja yang kepikiran mau beli limbah Jepang PS5. Lo liat game-game PS5 sebagian besar udah di Steam.
+63	Lo liat game-game PS5 sebagian besar udah di Steam.
+64	Lo liat game-game PS5 sebagian besar udah di Steam.
+65	Lo liat game-game PS5 sebagian besar udah di Steam.
+66	Lo liat game-game PS5 sebagian besar udah di Steam.
+67	Lo liat game-game PS5 sebagian besar udah di Steam. Handheld gaming juga kayak ROG, Eli, Legend Go, Steam itu udah announced mau support mereka.
+68	Handheld gaming juga kayak ROG, Eli, Legend Go, Steam itu udah announced mau support mereka.
+69	Handheld gaming juga kayak ROG, Eli, Legend Go, Steam itu udah announced mau support mereka.
+70	Handheld gaming juga kayak ROG, Eli, Legend Go, Steam itu udah announced mau support mereka.
+71	Handheld gaming juga kayak ROG, Eli, Legend Go, Steam itu udah announced mau support mereka.
+72	Handheld gaming juga kayak ROG, Eli, Legend Go, Steam itu udah announced mau support mereka.
+73	Handheld gaming juga kayak ROG, Eli, Legend Go, Steam itu udah announced mau support mereka.
+74	Handheld gaming juga kayak ROG, Eli, Legend Go, Steam itu udah announced mau support mereka.
+75	Handheld gaming juga kayak ROG, Eli, Legend Go, Steam itu udah announced mau support mereka.
+76	Handheld gaming juga kayak ROG, Eli, Legend Go, Steam itu udah announced mau support mereka.
+77	Handheld gaming juga kayak ROG, Eli, Legend Go, Steam itu udah announced mau support mereka.
+78	Handheld gaming juga kayak ROG, Eli, Legend Go, Steam itu udah announced mau support mereka. Berarti lo bisa mainin game di mana aja game-game Steam itu.
+79	Berarti lo bisa mainin game di mana aja game-game Steam itu.
+80	Berarti lo bisa mainin game di mana aja game-game Steam itu.
+81	Berarti lo bisa mainin game di mana aja game-game Steam itu.
+82	Berarti lo bisa mainin game di mana aja game-game Steam itu.
+83	Berarti lo bisa mainin game di mana aja game-game Steam itu.
+84	Berarti lo bisa mainin game di mana aja game-game Steam itu.
+85	Berarti lo bisa mainin game di mana aja game-game Steam itu.
+86	Berarti lo bisa mainin game di mana aja game-game Steam itu. PS5 langsung dilepehin sama handheld gaming.
+87	PS5 langsung dilepehin sama handheld gaming.
+88	PS5 langsung dilepehin sama handheld gaming.
+89	PS5 langsung dilepehin sama handheld gaming.
+90	PS5 langsung dilepehin sama handheld gaming. Di ginian, kalo lo beli, udah langsung dapet display, bro.
+91	PS5 langsung dilepehin sama handheld gaming. Di ginian, kalo lo beli, udah langsung dapet display, bro.
+92	Di ginian, kalo lo beli, udah langsung dapet display, bro.
+93	Di ginian, kalo lo beli, udah langsung dapet display, bro.
+94	Di ginian, kalo lo beli, udah langsung dapet display, bro.
+95	Di ginian, kalo lo beli, udah langsung dapet display, bro.
+96	Di ginian, kalo lo beli, udah langsung dapet display, bro.
+97	Di ginian, kalo lo beli, udah langsung dapet display, bro. Touchscreen pula, lo liat.
+98	Touchscreen pula, lo liat.
+99	Touchscreen pula, lo liat.
+100	Touchscreen pula, lo liat.
+101	Touchscreen pula, lo liat. Bisa Windows pula, bisa dipake buat kerja berarti.
+102	Bisa Windows pula, bisa dipake buat kerja berarti.
+103	Bisa Windows pula, bisa dipake buat kerja berarti.
+104	Bisa Windows pula, bisa dipake buat kerja berarti.
+105	Bisa Windows pula, bisa dipake buat kerja berarti.
+106	Bisa Windows pula, bisa dipake buat kerja berarti.
+107	Bisa Windows pula, bisa dipake buat kerja berarti.
+108	Bisa Windows pula, bisa dipake buat kerja berarti.
+109	Bisa Windows pula, bisa dipake buat kerja berarti. Lo beli PS5, mesti beli TV.
+110	Bisa Windows pula, bisa dipake buat kerja berarti. Lo beli PS5, mesti beli TV.
+111	Lo beli PS5, mesti beli TV.
+112	Lo beli PS5, mesti beli TV.
+113	Lo beli PS5, mesti beli TV. TV lagi, goblok nggak?
+114	Lo beli PS5, mesti beli TV. TV lagi, goblok nggak?
+115	TV lagi, goblok nggak?
+116	TV lagi, goblok nggak? Udah jelas limbah Jepang itu tugas ya tanggung kerugian controt.
+117	Udah jelas limbah Jepang itu tugas ya tanggung kerugian controt.
+118	Udah jelas limbah Jepang itu tugas ya tanggung kerugian controt.
+119	Udah jelas limbah Jepang itu tugas ya tanggung kerugian controt.
+120	Udah jelas limbah Jepang itu tugas ya tanggung kerugian controt.
+121	Udah jelas limbah Jepang itu tugas ya tanggung kerugian controt.
+122	Udah jelas limbah Jepang itu tugas ya tanggung kerugian controt.
+123	Udah jelas limbah Jepang itu tugas ya tanggung kerugian controt.
+124	Udah jelas limbah Jepang itu tugas ya tanggung kerugian controt. Lagian kalo emang bener-bener terpaksa, lo butuh banget konsol, ya beli aja Xbox Series S.
+125	Udah jelas limbah Jepang itu tugas ya tanggung kerugian controt. Lagian kalo emang bener-bener terpaksa, lo butuh banget konsol, ya beli aja Xbox Series S.
+126	Lagian kalo emang bener-bener terpaksa, lo butuh banget konsol, ya beli aja Xbox Series S.
+127	Lagian kalo emang bener-bener terpaksa, lo butuh banget konsol, ya beli aja Xbox Series S.
+128	Lagian kalo emang bener-bener terpaksa, lo butuh banget konsol, ya beli aja Xbox Series S.
+129	Lagian kalo emang bener-bener terpaksa, lo butuh banget konsol, ya beli aja Xbox Series S.
+130	Lagian kalo emang bener-bener terpaksa, lo butuh banget konsol, ya beli aja Xbox Series S.
+131	Lagian kalo emang bener-bener terpaksa, lo butuh banget konsol, ya beli aja Xbox Series S.
+132	Lagian kalo emang bener-bener terpaksa, lo butuh banget konsol, ya beli aja Xbox Series S.
+133	Lagian kalo emang bener-bener terpaksa, lo butuh banget konsol, ya beli aja Xbox Series S.
+134	Lagian kalo emang bener-bener terpaksa, lo butuh banget konsol, ya beli aja Xbox Series S. Harga lebih murah, duit sisanya bisa lo tabu.
+135	Lagian kalo emang bener-bener terpaksa, lo butuh banget konsol, ya beli aja Xbox Series S. Harga lebih murah, duit sisanya bisa lo tabu.
+136	Harga lebih murah, duit sisanya bisa lo tabu.
+137	Harga lebih murah, duit sisanya bisa lo tabu.
+138	Harga lebih murah, duit sisanya bisa lo tabu.
+139	Harga lebih murah, duit sisanya bisa lo tabu. Buat keperluan lebih penting, cari duit susah, bos.
+140	Harga lebih murah, duit sisanya bisa lo tabu. Buat keperluan lebih penting, cari duit susah, bos.
+141	Buat keperluan lebih penting, cari duit susah, bos.
+142	Buat keperluan lebih penting, cari duit susah, bos.
+143	Buat keperluan lebih penting, cari duit susah, bos.
+144	Buat keperluan lebih penting, cari duit susah, bos. Ingat, Top Up Game, ingat di Daryl Top Up.
+145	Buat keperluan lebih penting, cari duit susah, bos. Ingat, Top Up Game, ingat di Daryl Top Up.
+146	Ingat, Top Up Game, ingat di Daryl Top Up.
+147	Ingat, Top Up Game, ingat di Daryl Top Up.
+148	Ingat, Top Up Game, ingat di Daryl Top Up.
+149	Ingat, Top Up Game, ingat di Daryl Top Up.
+150	Ingat, Top Up Game, ingat di Daryl Top Up.
+151	[NO_SPEECH]
+152	[NO_SPEECH]
+153	[NO_SPEECH]
+154	[NO_SPEECH]
+155	[NO_SPEECH]

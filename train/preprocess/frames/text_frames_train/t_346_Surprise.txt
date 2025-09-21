@@ -1,0 +1,58 @@
+0	Smash lo udah kenceng, tapi lawan tetep bisa di-defense.
+1	Smash lo udah kenceng, tapi lawan tetep bisa di-defense.
+2	Smash lo udah kenceng, tapi lawan tetep bisa di-defense.
+3	Smash lo udah kenceng, tapi lawan tetep bisa di-defense.
+4	Smash lo udah kenceng, tapi lawan tetep bisa di-defense. Kok bisa?
+5	Kok bisa?
+6	Kok bisa? Banyak yang mikir main smash terus itu efektif buat matiin lawan.
+7	Banyak yang mikir main smash terus itu efektif buat matiin lawan.
+8	Banyak yang mikir main smash terus itu efektif buat matiin lawan.
+9	Banyak yang mikir main smash terus itu efektif buat matiin lawan.
+10	Banyak yang mikir main smash terus itu efektif buat matiin lawan.
+11	Banyak yang mikir main smash terus itu efektif buat matiin lawan.
+12	Banyak yang mikir main smash terus itu efektif buat matiin lawan. Padahal smash keras tanpa arah itu kayak nembak pistol ke udara,
+13	Banyak yang mikir main smash terus itu efektif buat matiin lawan. Padahal smash keras tanpa arah itu kayak nembak pistol ke udara,
+14	Padahal smash keras tanpa arah itu kayak nembak pistol ke udara,
+15	Padahal smash keras tanpa arah itu kayak nembak pistol ke udara,
+16	Padahal smash keras tanpa arah itu kayak nembak pistol ke udara,
+17	Padahal smash keras tanpa arah itu kayak nembak pistol ke udara,
+18	Padahal smash keras tanpa arah itu kayak nembak pistol ke udara,
+19	Padahal smash keras tanpa arah itu kayak nembak pistol ke udara, ngabisin peluru doang.
+20	ngabisin peluru doang.
+21	ngabisin peluru doang. Pemain top dunia kayak Victor Axelson aja mainnya cerdas.
+22	ngabisin peluru doang. Pemain top dunia kayak Victor Axelson aja mainnya cerdas.
+23	Pemain top dunia kayak Victor Axelson aja mainnya cerdas.
+24	Pemain top dunia kayak Victor Axelson aja mainnya cerdas.
+25	Pemain top dunia kayak Victor Axelson aja mainnya cerdas.
+26	Pemain top dunia kayak Victor Axelson aja mainnya cerdas. Smash cuma dipake saat posisi lawan gak siap.
+27	Pemain top dunia kayak Victor Axelson aja mainnya cerdas. Smash cuma dipake saat posisi lawan gak siap.
+28	Smash cuma dipake saat posisi lawan gak siap.
+29	Smash cuma dipake saat posisi lawan gak siap.
+30	Smash cuma dipake saat posisi lawan gak siap. Kadang smash ke badan, kadang smash ke samping,
+31	Smash cuma dipake saat posisi lawan gak siap. Kadang smash ke badan, kadang smash ke samping,
+32	Kadang smash ke badan, kadang smash ke samping,
+33	Kadang smash ke badan, kadang smash ke samping,
+34	Kadang smash ke badan, kadang smash ke samping,
+35	Kadang smash ke badan, kadang smash ke samping, yang penting bukan kerasnya, tapi timingnya.
+36	Kadang smash ke badan, kadang smash ke samping, yang penting bukan kerasnya, tapi timingnya.
+37	yang penting bukan kerasnya, tapi timingnya.
+38	yang penting bukan kerasnya, tapi timingnya.
+39	yang penting bukan kerasnya, tapi timingnya. Bahkan dropshot dan pressing bisa lebih mematikan kalo lo ngerti timingnya.
+40	yang penting bukan kerasnya, tapi timingnya. Bahkan dropshot dan pressing bisa lebih mematikan kalo lo ngerti timingnya.
+41	Bahkan dropshot dan pressing bisa lebih mematikan kalo lo ngerti timingnya.
+42	Bahkan dropshot dan pressing bisa lebih mematikan kalo lo ngerti timingnya.
+43	Bahkan dropshot dan pressing bisa lebih mematikan kalo lo ngerti timingnya.
+44	Bahkan dropshot dan pressing bisa lebih mematikan kalo lo ngerti timingnya.
+45	Bahkan dropshot dan pressing bisa lebih mematikan kalo lo ngerti timingnya.
+46	Bahkan dropshot dan pressing bisa lebih mematikan kalo lo ngerti timingnya. Masih mikir smash keras itu segalanya?
+47	Bahkan dropshot dan pressing bisa lebih mematikan kalo lo ngerti timingnya. Masih mikir smash keras itu segalanya?
+48	Masih mikir smash keras itu segalanya?
+49	Masih mikir smash keras itu segalanya? Yuk upgrade mindset lo, click follow biar smash lo bener-bener ngeri.
+50	Masih mikir smash keras itu segalanya? Yuk upgrade mindset lo, click follow biar smash lo bener-bener ngeri.
+51	Yuk upgrade mindset lo, click follow biar smash lo bener-bener ngeri.
+52	Yuk upgrade mindset lo, click follow biar smash lo bener-bener ngeri.
+53	Yuk upgrade mindset lo, click follow biar smash lo bener-bener ngeri.
+54	Yuk upgrade mindset lo, click follow biar smash lo bener-bener ngeri.
+55	Yuk upgrade mindset lo, click follow biar smash lo bener-bener ngeri.
+56	Yuk upgrade mindset lo, click follow biar smash lo bener-bener ngeri.
+57	[NO_SPEECH]

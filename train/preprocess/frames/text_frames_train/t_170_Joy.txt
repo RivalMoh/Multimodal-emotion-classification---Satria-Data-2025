@@ -1,0 +1,155 @@
+0	Hanya dengan Rp70.000, Anda bisa berjalan 400 km lebih dengan mobil ini.
+1	Hanya dengan Rp70.000, Anda bisa berjalan 400 km lebih dengan mobil ini.
+2	Hanya dengan Rp70.000, Anda bisa berjalan 400 km lebih dengan mobil ini.
+3	Hanya dengan Rp70.000, Anda bisa berjalan 400 km lebih dengan mobil ini.
+4	Hanya dengan Rp70.000, Anda bisa berjalan 400 km lebih dengan mobil ini.
+5	Hanya dengan Rp70.000, Anda bisa berjalan 400 km lebih dengan mobil ini.
+6	Hanya dengan Rp70.000, Anda bisa berjalan 400 km lebih dengan mobil ini.
+7	Hanya dengan Rp70.000, Anda bisa berjalan 400 km lebih dengan mobil ini.
+8	Hanya dengan Rp70.000, Anda bisa berjalan 400 km lebih dengan mobil ini.
+9	Hanya dengan Rp70.000, Anda bisa berjalan 400 km lebih dengan mobil ini.
+10	Hanya dengan Rp70.000, Anda bisa berjalan 400 km lebih dengan mobil ini.
+11	Hanya dengan Rp70.000, Anda bisa berjalan 400 km lebih dengan mobil ini. Ini adalah J-Tour X20i.
+12	Ini adalah J-Tour X20i.
+13	Ini adalah J-Tour X20i.
+14	Ini adalah J-Tour X20i.
+15	Ini adalah J-Tour X20i.
+16	Ini adalah J-Tour X20i.
+17	Ini adalah J-Tour X20i.
+18	Ini adalah J-Tour X20i. Jadi, J-Tour X20i ini adalah elektrik vehicle terbaru dari J-Tour.
+19	Ini adalah J-Tour X20i. Jadi, J-Tour X20i ini adalah elektrik vehicle terbaru dari J-Tour.
+20	Jadi, J-Tour X20i ini adalah elektrik vehicle terbaru dari J-Tour.
+21	Jadi, J-Tour X20i ini adalah elektrik vehicle terbaru dari J-Tour.
+22	Jadi, J-Tour X20i ini adalah elektrik vehicle terbaru dari J-Tour.
+23	Jadi, J-Tour X20i ini adalah elektrik vehicle terbaru dari J-Tour.
+24	Jadi, J-Tour X20i ini adalah elektrik vehicle terbaru dari J-Tour.
+25	Jadi, J-Tour X20i ini adalah elektrik vehicle terbaru dari J-Tour.
+26	Jadi, J-Tour X20i ini adalah elektrik vehicle terbaru dari J-Tour.
+27	Jadi, J-Tour X20i ini adalah elektrik vehicle terbaru dari J-Tour.
+28	Jadi, J-Tour X20i ini adalah elektrik vehicle terbaru dari J-Tour.
+29	Jadi, J-Tour X20i ini adalah elektrik vehicle terbaru dari J-Tour. Dia memiliki baterai 39,33 kWh,
+30	Jadi, J-Tour X20i ini adalah elektrik vehicle terbaru dari J-Tour. Dia memiliki baterai 39,33 kWh,
+31	Dia memiliki baterai 39,33 kWh,
+32	Dia memiliki baterai 39,33 kWh,
+33	Dia memiliki baterai 39,33 kWh,
+34	Dia memiliki baterai 39,33 kWh,
+35	Dia memiliki baterai 39,33 kWh,
+36	Dia memiliki baterai 39,33 kWh,
+37	Dia memiliki baterai 39,33 kWh, yang artinya kalau di rumah, dengan asumsi 1 kWh itu Rp1.800,
+38	yang artinya kalau di rumah, dengan asumsi 1 kWh itu Rp1.800,
+39	yang artinya kalau di rumah, dengan asumsi 1 kWh itu Rp1.800,
+40	yang artinya kalau di rumah, dengan asumsi 1 kWh itu Rp1.800,
+41	yang artinya kalau di rumah, dengan asumsi 1 kWh itu Rp1.800,
+42	yang artinya kalau di rumah, dengan asumsi 1 kWh itu Rp1.800,
+43	yang artinya kalau di rumah, dengan asumsi 1 kWh itu Rp1.800,
+44	yang artinya kalau di rumah, dengan asumsi 1 kWh itu Rp1.800,
+45	yang artinya kalau di rumah, dengan asumsi 1 kWh itu Rp1.800,
+46	yang artinya kalau di rumah, dengan asumsi 1 kWh itu Rp1.800,
+47	yang artinya kalau di rumah, dengan asumsi 1 kWh itu Rp1.800, hanya butuh Rp70.000 lebih sedikit.
+48	hanya butuh Rp70.000 lebih sedikit.
+49	hanya butuh Rp70.000 lebih sedikit.
+50	hanya butuh Rp70.000 lebih sedikit.
+51	hanya butuh Rp70.000 lebih sedikit.
+52	hanya butuh Rp70.000 lebih sedikit. Range-nya sangat jauh, mencapai 405 km.
+53	hanya butuh Rp70.000 lebih sedikit. Range-nya sangat jauh, mencapai 405 km.
+54	Range-nya sangat jauh, mencapai 405 km.
+55	Range-nya sangat jauh, mencapai 405 km.
+56	Range-nya sangat jauh, mencapai 405 km.
+57	Range-nya sangat jauh, mencapai 405 km.
+58	Range-nya sangat jauh, mencapai 405 km.
+59	Range-nya sangat jauh, mencapai 405 km.
+60	Range-nya sangat jauh, mencapai 405 km.
+61	Range-nya sangat jauh, mencapai 405 km. Mobil ini ukurannya kompak, tapi dia punya 5 pintu,
+62	Mobil ini ukurannya kompak, tapi dia punya 5 pintu,
+63	Mobil ini ukurannya kompak, tapi dia punya 5 pintu,
+64	Mobil ini ukurannya kompak, tapi dia punya 5 pintu,
+65	Mobil ini ukurannya kompak, tapi dia punya 5 pintu,
+66	Mobil ini ukurannya kompak, tapi dia punya 5 pintu,
+67	Mobil ini ukurannya kompak, tapi dia punya 5 pintu, dan kita akses ke belakangnya gampang.
+68	Mobil ini ukurannya kompak, tapi dia punya 5 pintu, dan kita akses ke belakangnya gampang.
+69	dan kita akses ke belakangnya gampang.
+70	dan kita akses ke belakangnya gampang. Dalemnya lega.
+71	dan kita akses ke belakangnya gampang. Dalemnya lega.
+72	Dalemnya lega.
+73	Dalemnya lega.
+74	Dalemnya lega. Lihat ini, legroom-nya dan headroom-nya.
+75	Lihat ini, legroom-nya dan headroom-nya.
+76	Lihat ini, legroom-nya dan headroom-nya.
+77	Lihat ini, legroom-nya dan headroom-nya.
+78	Lihat ini, legroom-nya dan headroom-nya.
+79	Lihat ini, legroom-nya dan headroom-nya. Mobil ini juga bisa di-charge DC sampai 67 kW,
+80	Lihat ini, legroom-nya dan headroom-nya. Mobil ini juga bisa di-charge DC sampai 67 kW,
+81	Mobil ini juga bisa di-charge DC sampai 67 kW,
+82	Mobil ini juga bisa di-charge DC sampai 67 kW,
+83	Mobil ini juga bisa di-charge DC sampai 67 kW,
+84	Mobil ini juga bisa di-charge DC sampai 67 kW,
+85	Mobil ini juga bisa di-charge DC sampai 67 kW,
+86	Mobil ini juga bisa di-charge DC sampai 67 kW, yang membuat pengisian 30-80% selesai dalam 30 menit saja.
+87	Mobil ini juga bisa di-charge DC sampai 67 kW, yang membuat pengisian 30-80% selesai dalam 30 menit saja.
+88	yang membuat pengisian 30-80% selesai dalam 30 menit saja.
+89	yang membuat pengisian 30-80% selesai dalam 30 menit saja.
+90	yang membuat pengisian 30-80% selesai dalam 30 menit saja.
+91	yang membuat pengisian 30-80% selesai dalam 30 menit saja.
+92	yang membuat pengisian 30-80% selesai dalam 30 menit saja.
+93	yang membuat pengisian 30-80% selesai dalam 30 menit saja.
+94	yang membuat pengisian 30-80% selesai dalam 30 menit saja.
+95	yang membuat pengisian 30-80% selesai dalam 30 menit saja. Karena ini digias, jadi ada unit test drive-nya.
+96	yang membuat pengisian 30-80% selesai dalam 30 menit saja. Karena ini digias, jadi ada unit test drive-nya.
+97	Karena ini digias, jadi ada unit test drive-nya.
+98	Karena ini digias, jadi ada unit test drive-nya.
+99	Karena ini digias, jadi ada unit test drive-nya.
+100	Karena ini digias, jadi ada unit test drive-nya. Tadi saya sudah sempat test drive dengan mobil ini.
+101	Tadi saya sudah sempat test drive dengan mobil ini.
+102	Tadi saya sudah sempat test drive dengan mobil ini.
+103	Tadi saya sudah sempat test drive dengan mobil ini. Tenaganya 40 kW, cukup memadai untuk mobil ini.
+104	Tadi saya sudah sempat test drive dengan mobil ini. Tenaganya 40 kW, cukup memadai untuk mobil ini.
+105	Tenaganya 40 kW, cukup memadai untuk mobil ini.
+106	Tenaganya 40 kW, cukup memadai untuk mobil ini.
+107	Tenaganya 40 kW, cukup memadai untuk mobil ini.
+108	Tenaganya 40 kW, cukup memadai untuk mobil ini.
+109	Tenaganya 40 kW, cukup memadai untuk mobil ini. Radius putarnya kecil.
+110	Radius putarnya kecil.
+111	Radius putarnya kecil.
+112	Radius putarnya kecil. Setirnya ringan.
+113	Radius putarnya kecil. Setirnya ringan.
+114	Setirnya ringan.
+115	Setirnya ringan. Bantingannya lumayan halus untuk kelasnya.
+116	Bantingannya lumayan halus untuk kelasnya.
+117	Bantingannya lumayan halus untuk kelasnya.
+118	Bantingannya lumayan halus untuk kelasnya.
+119	Bantingannya lumayan halus untuk kelasnya. Dan penyaluran dayanya juga khas mobil listrik.
+120	Bantingannya lumayan halus untuk kelasnya. Dan penyaluran dayanya juga khas mobil listrik.
+121	Dan penyaluran dayanya juga khas mobil listrik.
+122	Dan penyaluran dayanya juga khas mobil listrik.
+123	Dan penyaluran dayanya juga khas mobil listrik.
+124	Dan penyaluran dayanya juga khas mobil listrik. Tenaga kuat, tapi tanpa getaran.
+125	Dan penyaluran dayanya juga khas mobil listrik. Tenaga kuat, tapi tanpa getaran.
+126	Tenaga kuat, tapi tanpa getaran.
+127	Tenaga kuat, tapi tanpa getaran.
+128	Tenaga kuat, tapi tanpa getaran.
+129	Tenaga kuat, tapi tanpa getaran.
+130	Tenaga kuat, tapi tanpa getaran. Oh iya, dan tadi saya seru-seruan di Good J-Tour ini bersama tim saya,
+131	Tenaga kuat, tapi tanpa getaran. Oh iya, dan tadi saya seru-seruan di Good J-Tour ini bersama tim saya,
+132	Oh iya, dan tadi saya seru-seruan di Good J-Tour ini bersama tim saya,
+133	Oh iya, dan tadi saya seru-seruan di Good J-Tour ini bersama tim saya,
+134	Oh iya, dan tadi saya seru-seruan di Good J-Tour ini bersama tim saya,
+135	Oh iya, dan tadi saya seru-seruan di Good J-Tour ini bersama tim saya,
+136	Oh iya, dan tadi saya seru-seruan di Good J-Tour ini bersama tim saya,
+137	Oh iya, dan tadi saya seru-seruan di Good J-Tour ini bersama tim saya,
+138	Oh iya, dan tadi saya seru-seruan di Good J-Tour ini bersama tim saya,
+139	Oh iya, dan tadi saya seru-seruan di Good J-Tour ini bersama tim saya, menghadapi sejumlah challenge.
+140	menghadapi sejumlah challenge.
+141	menghadapi sejumlah challenge.
+142	menghadapi sejumlah challenge. Seru banget deh.
+143	menghadapi sejumlah challenge. Seru banget deh.
+144	Seru banget deh. Nah itu bisa Anda tonton di YouTube channel J-Tour Motor Indonesia.
+145	Seru banget deh. Nah itu bisa Anda tonton di YouTube channel J-Tour Motor Indonesia.
+146	Nah itu bisa Anda tonton di YouTube channel J-Tour Motor Indonesia.
+147	Nah itu bisa Anda tonton di YouTube channel J-Tour Motor Indonesia.
+148	Nah itu bisa Anda tonton di YouTube channel J-Tour Motor Indonesia.
+149	Nah itu bisa Anda tonton di YouTube channel J-Tour Motor Indonesia.
+150	Nah itu bisa Anda tonton di YouTube channel J-Tour Motor Indonesia.
+151	Nah itu bisa Anda tonton di YouTube channel J-Tour Motor Indonesia.
+152	Nah itu bisa Anda tonton di YouTube channel J-Tour Motor Indonesia.
+153	Nah itu bisa Anda tonton di YouTube channel J-Tour Motor Indonesia.
+154	Nah itu bisa Anda tonton di YouTube channel J-Tour Motor Indonesia.

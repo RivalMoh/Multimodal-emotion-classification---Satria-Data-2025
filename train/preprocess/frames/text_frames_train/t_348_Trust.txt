@@ -1,0 +1,148 @@
+0	Oke aku bakalan kasih tips running biar gak ngos-ngosan untuk pemula
+1	Oke aku bakalan kasih tips running biar gak ngos-ngosan untuk pemula
+2	Oke aku bakalan kasih tips running biar gak ngos-ngosan untuk pemula
+3	Oke aku bakalan kasih tips running biar gak ngos-ngosan untuk pemula
+4	Oke aku bakalan kasih tips running biar gak ngos-ngosan untuk pemula
+5	Oke aku bakalan kasih tips running biar gak ngos-ngosan untuk pemula
+6	Oke aku bakalan kasih tips running biar gak ngos-ngosan untuk pemula
+7	Oke aku bakalan kasih tips running biar gak ngos-ngosan untuk pemula
+8	Oke aku bakalan kasih tips running biar gak ngos-ngosan untuk pemula
+9	Oke aku bakalan kasih tips running biar gak ngos-ngosan untuk pemula Jadi lari biar gak ngos-ngosan itu yang pertama harus pemanasan
+10	Oke aku bakalan kasih tips running biar gak ngos-ngosan untuk pemula Jadi lari biar gak ngos-ngosan itu yang pertama harus pemanasan
+11	Jadi lari biar gak ngos-ngosan itu yang pertama harus pemanasan
+12	Jadi lari biar gak ngos-ngosan itu yang pertama harus pemanasan
+13	Jadi lari biar gak ngos-ngosan itu yang pertama harus pemanasan
+14	Jadi lari biar gak ngos-ngosan itu yang pertama harus pemanasan
+15	Jadi lari biar gak ngos-ngosan itu yang pertama harus pemanasan
+16	Jadi lari biar gak ngos-ngosan itu yang pertama harus pemanasan
+17	Jadi lari biar gak ngos-ngosan itu yang pertama harus pemanasan Pemanasan dengan serius
+18	Jadi lari biar gak ngos-ngosan itu yang pertama harus pemanasan Pemanasan dengan serius
+19	Pemanasan dengan serius
+20	Pemanasan dengan serius
+21	Pemanasan dengan serius Selain biar gak ngos-ngosan
+22	Pemanasan dengan serius Selain biar gak ngos-ngosan
+23	Selain biar gak ngos-ngosan
+24	Selain biar gak ngos-ngosan
+25	Selain biar gak ngos-ngosan Juga menjaga kita agar tidak mudah cedera
+26	Selain biar gak ngos-ngosan Juga menjaga kita agar tidak mudah cedera
+27	Juga menjaga kita agar tidak mudah cedera
+28	Juga menjaga kita agar tidak mudah cedera
+29	Juga menjaga kita agar tidak mudah cedera
+30	Juga menjaga kita agar tidak mudah cedera
+31	Juga menjaga kita agar tidak mudah cedera Lanjut yang kedua
+32	Juga menjaga kita agar tidak mudah cedera Lanjut yang kedua
+33	Lanjut yang kedua
+34	Lanjut yang kedua
+35	Lanjut yang kedua Mulailah lari dengan kecepatan stabil
+36	Mulailah lari dengan kecepatan stabil
+37	Mulailah lari dengan kecepatan stabil
+38	Mulailah lari dengan kecepatan stabil
+39	Mulailah lari dengan kecepatan stabil Jadi jangan langsung
+40	Mulailah lari dengan kecepatan stabil Jadi jangan langsung
+41	Jadi jangan langsung
+42	Jadi jangan langsung Habis itu pelan, kenceng pelan
+43	Jadi jangan langsung Habis itu pelan, kenceng pelan
+44	Habis itu pelan, kenceng pelan
+45	Habis itu pelan, kenceng pelan
+46	Habis itu pelan, kenceng pelan
+47	Habis itu pelan, kenceng pelan Jadi kecepatan stabil
+48	Habis itu pelan, kenceng pelan Jadi kecepatan stabil
+49	Jadi kecepatan stabil
+50	Jadi kecepatan stabil
+51	Jadi kecepatan stabil Yang ketiga
+52	Jadi kecepatan stabil Yang ketiga
+53	Yang ketiga
+54	Yang ketiga Usahakan teknik lari yang benar ya
+55	Yang ketiga Usahakan teknik lari yang benar ya
+56	Usahakan teknik lari yang benar ya
+57	Usahakan teknik lari yang benar ya
+58	Usahakan teknik lari yang benar ya
+59	Usahakan teknik lari yang benar ya
+60	Usahakan teknik lari yang benar ya
+61	Usahakan teknik lari yang benar ya Tumpuan kaki itu juga harus benar
+62	Usahakan teknik lari yang benar ya Tumpuan kaki itu juga harus benar
+63	Tumpuan kaki itu juga harus benar
+64	Tumpuan kaki itu juga harus benar
+65	Tumpuan kaki itu juga harus benar
+66	Tumpuan kaki itu juga harus benar Tengah ke depan agak jinjit
+67	Tumpuan kaki itu juga harus benar Tengah ke depan agak jinjit
+68	Tengah ke depan agak jinjit
+69	Tengah ke depan agak jinjit
+70	Tengah ke depan agak jinjit
+71	Tengah ke depan agak jinjit Terus yang keempat
+72	Tengah ke depan agak jinjit Terus yang keempat
+73	Terus yang keempat Pakailah outfit pelaraga yang nyaman
+74	Terus yang keempat Pakailah outfit pelaraga yang nyaman
+75	Pakailah outfit pelaraga yang nyaman
+76	Pakailah outfit pelaraga yang nyaman
+77	Pakailah outfit pelaraga yang nyaman
+78	Pakailah outfit pelaraga yang nyaman
+79	Pakailah outfit pelaraga yang nyaman Yang kelima
+80	Pakailah outfit pelaraga yang nyaman Yang kelima
+81	Yang kelima Sepatu jangan mepet-mepet ya
+82	Yang kelima Sepatu jangan mepet-mepet ya
+83	Yang kelima Sepatu jangan mepet-mepet ya
+84	Sepatu jangan mepet-mepet ya
+85	Sepatu jangan mepet-mepet ya
+86	Sepatu jangan mepet-mepet ya Kalau sepatu kalian mepet
+87	Sepatu jangan mepet-mepet ya Kalau sepatu kalian mepet
+88	Kalau sepatu kalian mepet
+89	Kalau sepatu kalian mepet
+90	Kalau sepatu kalian mepet Terus sakit di kaki
+91	Kalau sepatu kalian mepet Terus sakit di kaki
+92	Terus sakit di kaki Pengaruhi ketahanan lari karyan
+93	Terus sakit di kaki Pengaruhi ketahanan lari karyan
+94	Pengaruhi ketahanan lari karyan
+95	Pengaruhi ketahanan lari karyan
+96	Pengaruhi ketahanan lari karyan
+97	Pengaruhi ketahanan lari karyan
+98	Pengaruhi ketahanan lari karyan
+99	Pengaruhi ketahanan lari karyan Selanjutnya
+100	Pengaruhi ketahanan lari karyan Selanjutnya
+101	Selanjutnya
+102	Selanjutnya
+103	Selanjutnya Pernafasan saat lari itu harus diperhatikan
+104	Selanjutnya Pernafasan saat lari itu harus diperhatikan
+105	Pernafasan saat lari itu harus diperhatikan
+106	Pernafasan saat lari itu harus diperhatikan
+107	Pernafasan saat lari itu harus diperhatikan
+108	Pernafasan saat lari itu harus diperhatikan
+109	Pernafasan saat lari itu harus diperhatikan Kalau aku biasanya
+110	Pernafasan saat lari itu harus diperhatikan Kalau aku biasanya
+111	Kalau aku biasanya
+112	Kalau aku biasanya Lari
+113	Kalau aku biasanya Lari
+114	Lari Dua langkah ambil nafas
+115	Lari Dua langkah ambil nafas
+116	Dua langkah ambil nafas
+117	Dua langkah ambil nafas Dua langkah buska nafas
+118	Dua langkah ambil nafas Dua langkah buska nafas
+119	Dua langkah buska nafas
+120	Dua langkah buska nafas Gini nih
+121	Dua langkah buska nafas Gini nih
+122	Gini nih
+123	Gini nih
+124	[NO_SPEECH]
+125	[NO_SPEECH]
+126	[NO_SPEECH]
+127	[NO_SPEECH]
+128	[NO_SPEECH]
+129	[NO_SPEECH]
+130	[NO_SPEECH]
+131	Jadi ada iramanya
+132	Jadi ada iramanya
+133	Jadi ada iramanya
+134	Jadi ada iramanya
+135	Jadi ada iramanya Ketika lari itu biar gak capek
+136	Jadi ada iramanya Ketika lari itu biar gak capek
+137	Ketika lari itu biar gak capek
+138	Ketika lari itu biar gak capek
+139	Ketika lari itu biar gak capek
+140	Ketika lari itu biar gak capek Kayak gitu
+141	Ketika lari itu biar gak capek Kayak gitu Yuk selamat mencoba
+142	Kayak gitu Yuk selamat mencoba
+143	Yuk selamat mencoba
+144	Yuk selamat mencoba
+145	Yuk selamat mencoba
+146	Yuk selamat mencoba
+147	[NO_SPEECH]

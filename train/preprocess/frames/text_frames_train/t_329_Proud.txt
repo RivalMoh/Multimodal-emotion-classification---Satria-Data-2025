@@ -1,0 +1,62 @@
+0	Boleh yang mau lap keringet dulu, dilap dulu.
+1	Boleh yang mau lap keringet dulu, dilap dulu.
+2	Boleh yang mau lap keringet dulu, dilap dulu.
+3	Boleh yang mau lap keringet dulu, dilap dulu.
+4	Boleh yang mau lap keringet dulu, dilap dulu.
+5	[NO_SPEECH]
+6	Karena lumayan gobios banget ini gerakannya.
+7	Karena lumayan gobios banget ini gerakannya.
+8	Karena lumayan gobios banget ini gerakannya.
+9	Karena lumayan gobios banget ini gerakannya.
+10	Karena lumayan gobios banget ini gerakannya.
+11	Karena lumayan gobios banget ini gerakannya. Karena abis ini kita bakalan lebih gobios lagi, yaitu bakalan melakuin mountain climber.
+12	Karena abis ini kita bakalan lebih gobios lagi, yaitu bakalan melakuin mountain climber.
+13	Karena abis ini kita bakalan lebih gobios lagi, yaitu bakalan melakuin mountain climber.
+14	Karena abis ini kita bakalan lebih gobios lagi, yaitu bakalan melakuin mountain climber.
+15	Karena abis ini kita bakalan lebih gobios lagi, yaitu bakalan melakuin mountain climber.
+16	Karena abis ini kita bakalan lebih gobios lagi, yaitu bakalan melakuin mountain climber.
+17	Karena abis ini kita bakalan lebih gobios lagi, yaitu bakalan melakuin mountain climber.
+18	Karena abis ini kita bakalan lebih gobios lagi, yaitu bakalan melakuin mountain climber.
+19	Karena abis ini kita bakalan lebih gobios lagi, yaitu bakalan melakuin mountain climber.
+20	Karena abis ini kita bakalan lebih gobios lagi, yaitu bakalan melakuin mountain climber.
+21	Karena abis ini kita bakalan lebih gobios lagi, yaitu bakalan melakuin mountain climber.
+22	Karena abis ini kita bakalan lebih gobios lagi, yaitu bakalan melakuin mountain climber. Tapi kalian udah gak asing kan denger nama mountain climber?
+23	Karena abis ini kita bakalan lebih gobios lagi, yaitu bakalan melakuin mountain climber. Tapi kalian udah gak asing kan denger nama mountain climber?
+24	Tapi kalian udah gak asing kan denger nama mountain climber?
+25	Tapi kalian udah gak asing kan denger nama mountain climber?
+26	Tapi kalian udah gak asing kan denger nama mountain climber?
+27	Tapi kalian udah gak asing kan denger nama mountain climber?
+28	Tapi kalian udah gak asing kan denger nama mountain climber?
+29	Tapi kalian udah gak asing kan denger nama mountain climber?
+30	Tapi kalian udah gak asing kan denger nama mountain climber?
+31	Tapi kalian udah gak asing kan denger nama mountain climber? Let's go ya.
+32	Let's go ya.
+33	Let's go ya.
+34	Let's go ya. Tidak sudah cukup.
+35	Tidak sudah cukup.
+36	Tidak sudah cukup.
+37	Tidak sudah cukup. Kita mulai ke posisi seperti orang ingin plank.
+38	Kita mulai ke posisi seperti orang ingin plank.
+39	Kita mulai ke posisi seperti orang ingin plank.
+40	Kita mulai ke posisi seperti orang ingin plank.
+41	Kita mulai ke posisi seperti orang ingin plank.
+42	Kita mulai ke posisi seperti orang ingin plank.
+43	Kita mulai ke posisi seperti orang ingin plank.
+44	[NO_SPEECH]
+45	Nah, seperti ini. Habis itu bawa kaki ke depan.
+46	Nah, seperti ini. Habis itu bawa kaki ke depan.
+47	Nah, seperti ini. Habis itu bawa kaki ke depan.
+48	Nah, seperti ini. Habis itu bawa kaki ke depan.
+49	Nah, seperti ini. Habis itu bawa kaki ke depan.
+50	Nah, seperti ini. Habis itu bawa kaki ke depan.
+51	Nah, seperti ini. Habis itu bawa kaki ke depan.
+52	Nah, seperti ini. Habis itu bawa kaki ke depan.
+53	Nah, seperti ini. Habis itu bawa kaki ke depan. Oke, let's go. Kita mulai.
+54	Oke, let's go. Kita mulai.
+55	Oke, let's go. Kita mulai.
+56	Oke, let's go. Kita mulai.
+57	Oke, let's go. Kita mulai.
+58	Oke, let's go. Kita mulai. Wuh.
+59	Wuh.
+60	Wuh.
+61	Wuh.

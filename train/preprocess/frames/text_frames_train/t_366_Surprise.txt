@@ -1,0 +1,75 @@
+0	Ada fitur tersembunyi di setangnya QJMotor Ford 250.
+1	Ada fitur tersembunyi di setangnya QJMotor Ford 250.
+2	Ada fitur tersembunyi di setangnya QJMotor Ford 250.
+3	Ada fitur tersembunyi di setangnya QJMotor Ford 250.
+4	Ada fitur tersembunyi di setangnya QJMotor Ford 250.
+5	Ada fitur tersembunyi di setangnya QJMotor Ford 250.
+6	Ada fitur tersembunyi di setangnya QJMotor Ford 250.
+7	Ada fitur tersembunyi di setangnya QJMotor Ford 250. Di daerah sini nih.
+8	Di daerah sini nih.
+9	Di daerah sini nih. Ini sekilas kayak nggak ada apa-apa ya.
+10	Di daerah sini nih. Ini sekilas kayak nggak ada apa-apa ya.
+11	Ini sekilas kayak nggak ada apa-apa ya.
+12	Ini sekilas kayak nggak ada apa-apa ya.
+13	Ini sekilas kayak nggak ada apa-apa ya. Tapi di baliknya sebenarnya ada fitur.
+14	Ini sekilas kayak nggak ada apa-apa ya. Tapi di baliknya sebenarnya ada fitur.
+15	Tapi di baliknya sebenarnya ada fitur.
+16	Tapi di baliknya sebenarnya ada fitur.
+17	Tapi di baliknya sebenarnya ada fitur.
+18	Tapi di baliknya sebenarnya ada fitur. Ini bisa diangkat.
+19	Tapi di baliknya sebenarnya ada fitur. Ini bisa diangkat.
+20	Ini bisa diangkat.
+21	Ini bisa diangkat.
+22	Ini bisa diangkat. Nah, di baliknya ada port USB.
+23	Ini bisa diangkat. Nah, di baliknya ada port USB.
+24	Nah, di baliknya ada port USB.
+25	Nah, di baliknya ada port USB. Jadi bisa ngecas smartphone atau GPS gitu.
+26	Nah, di baliknya ada port USB. Jadi bisa ngecas smartphone atau GPS gitu.
+27	Jadi bisa ngecas smartphone atau GPS gitu.
+28	Jadi bisa ngecas smartphone atau GPS gitu.
+29	Jadi bisa ngecas smartphone atau GPS gitu.
+30	Jadi bisa ngecas smartphone atau GPS gitu.
+31	Jadi bisa ngecas smartphone atau GPS gitu.
+32	Jadi bisa ngecas smartphone atau GPS gitu. Unik ya.
+33	Unik ya.
+34	Unik ya. Kalau di sekilas kayak gini.
+35	Kalau di sekilas kayak gini.
+36	Kalau di sekilas kayak gini.
+37	Kalau di sekilas kayak gini.
+38	Kalau di sekilas kayak gini. Kayak nggak ada apa-apa gitu.
+39	Kayak nggak ada apa-apa gitu.
+40	Kayak nggak ada apa-apa gitu.
+41	Kayak nggak ada apa-apa gitu.
+42	Kayak nggak ada apa-apa gitu. Tapi ternyata ada USB.
+43	Tapi ternyata ada USB.
+44	Tapi ternyata ada USB.
+45	Tapi ternyata ada USB.
+46	Tapi ternyata ada USB.
+47	Tapi ternyata ada USB.
+48	Tapi ternyata ada USB. Pinter ya manfaatin ruang di sini.
+49	Tapi ternyata ada USB. Pinter ya manfaatin ruang di sini.
+50	Pinter ya manfaatin ruang di sini.
+51	Pinter ya manfaatin ruang di sini.
+52	Pinter ya manfaatin ruang di sini. Jarang-jarang loh.
+53	Pinter ya manfaatin ruang di sini. Jarang-jarang loh.
+54	Jarang-jarang loh. Biasanya kan di pinggir, dalam laci gitu kan.
+55	Jarang-jarang loh. Biasanya kan di pinggir, dalam laci gitu kan.
+56	Biasanya kan di pinggir, dalam laci gitu kan.
+57	Biasanya kan di pinggir, dalam laci gitu kan.
+58	Biasanya kan di pinggir, dalam laci gitu kan.
+59	Biasanya kan di pinggir, dalam laci gitu kan.
+60	Biasanya kan di pinggir, dalam laci gitu kan.
+61	Biasanya kan di pinggir, dalam laci gitu kan. Kalau ini malah di tengah-tengah setang.
+62	Kalau ini malah di tengah-tengah setang.
+63	Kalau ini malah di tengah-tengah setang.
+64	Kalau ini malah di tengah-tengah setang. Kayaknya di Maticline saya belum menemukan dia.
+65	Kalau ini malah di tengah-tengah setang. Kayaknya di Maticline saya belum menemukan dia.
+66	Kayaknya di Maticline saya belum menemukan dia.
+67	Kayaknya di Maticline saya belum menemukan dia.
+68	Kayaknya di Maticline saya belum menemukan dia. Fitur kayak gini nih.
+69	Fitur kayak gini nih.
+70	Fitur kayak gini nih.
+71	Fitur kayak gini nih.
+72	[NO_SPEECH]
+73	[NO_SPEECH]
+74	[NO_SPEECH]

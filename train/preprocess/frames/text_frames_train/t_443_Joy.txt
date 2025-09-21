@@ -1,0 +1,150 @@
+0	2025 udah jalan hampir setengahnya
+1	2025 udah jalan hampir setengahnya
+2	2025 udah jalan hampir setengahnya dan kalian masih bingung kalo di gym itu harus latihan apa buat level pemula
+3	2025 udah jalan hampir setengahnya dan kalian masih bingung kalo di gym itu harus latihan apa buat level pemula
+4	dan kalian masih bingung kalo di gym itu harus latihan apa buat level pemula
+5	dan kalian masih bingung kalo di gym itu harus latihan apa buat level pemula
+6	dan kalian masih bingung kalo di gym itu harus latihan apa buat level pemula
+7	dan kalian masih bingung kalo di gym itu harus latihan apa buat level pemula
+8	dan kalian masih bingung kalo di gym itu harus latihan apa buat level pemula
+9	dan kalian masih bingung kalo di gym itu harus latihan apa buat level pemula gapapa, tenang aja
+10	dan kalian masih bingung kalo di gym itu harus latihan apa buat level pemula gapapa, tenang aja
+11	gapapa, tenang aja sini aku kasih tau alat mana yang gampang dipake dan cocok banget buat pemula
+12	gapapa, tenang aja sini aku kasih tau alat mana yang gampang dipake dan cocok banget buat pemula
+13	sini aku kasih tau alat mana yang gampang dipake dan cocok banget buat pemula
+14	sini aku kasih tau alat mana yang gampang dipake dan cocok banget buat pemula
+15	sini aku kasih tau alat mana yang gampang dipake dan cocok banget buat pemula
+16	sini aku kasih tau alat mana yang gampang dipake dan cocok banget buat pemula
+17	sini aku kasih tau alat mana yang gampang dipake dan cocok banget buat pemula
+18	sini aku kasih tau alat mana yang gampang dipake dan cocok banget buat pemula jangan lupa disini, abis itu nanti dipraktekin ya pas lagi di gym
+19	sini aku kasih tau alat mana yang gampang dipake dan cocok banget buat pemula jangan lupa disini, abis itu nanti dipraktekin ya pas lagi di gym
+20	jangan lupa disini, abis itu nanti dipraktekin ya pas lagi di gym
+21	jangan lupa disini, abis itu nanti dipraktekin ya pas lagi di gym
+22	jangan lupa disini, abis itu nanti dipraktekin ya pas lagi di gym
+23	jangan lupa disini, abis itu nanti dipraktekin ya pas lagi di gym oke, 2 alat pertama yang aku rekomendin banget itu adalah
+24	jangan lupa disini, abis itu nanti dipraktekin ya pas lagi di gym oke, 2 alat pertama yang aku rekomendin banget itu adalah
+25	oke, 2 alat pertama yang aku rekomendin banget itu adalah
+26	oke, 2 alat pertama yang aku rekomendin banget itu adalah
+27	oke, 2 alat pertama yang aku rekomendin banget itu adalah
+28	oke, 2 alat pertama yang aku rekomendin banget itu adalah cable rose dan lat pull down
+29	oke, 2 alat pertama yang aku rekomendin banget itu adalah cable rose dan lat pull down
+30	cable rose dan lat pull down
+31	cable rose dan lat pull down
+32	cable rose dan lat pull down
+33	cable rose dan lat pull down buat ngelatih otot punggung, otot bicep, sama ngelatih postur badan kalian
+34	cable rose dan lat pull down buat ngelatih otot punggung, otot bicep, sama ngelatih postur badan kalian
+35	buat ngelatih otot punggung, otot bicep, sama ngelatih postur badan kalian
+36	buat ngelatih otot punggung, otot bicep, sama ngelatih postur badan kalian
+37	buat ngelatih otot punggung, otot bicep, sama ngelatih postur badan kalian
+38	buat ngelatih otot punggung, otot bicep, sama ngelatih postur badan kalian
+39	buat ngelatih otot punggung, otot bicep, sama ngelatih postur badan kalian
+40	buat ngelatih otot punggung, otot bicep, sama ngelatih postur badan kalian biar lebih tegap
+41	buat ngelatih otot punggung, otot bicep, sama ngelatih postur badan kalian biar lebih tegap
+42	biar lebih tegap selain gampang, enaknya alat ini tuh adalah gampang banget buat ngatur bebannya
+43	biar lebih tegap selain gampang, enaknya alat ini tuh adalah gampang banget buat ngatur bebannya
+44	selain gampang, enaknya alat ini tuh adalah gampang banget buat ngatur bebannya
+45	selain gampang, enaknya alat ini tuh adalah gampang banget buat ngatur bebannya
+46	selain gampang, enaknya alat ini tuh adalah gampang banget buat ngatur bebannya
+47	selain gampang, enaknya alat ini tuh adalah gampang banget buat ngatur bebannya
+48	selain gampang, enaknya alat ini tuh adalah gampang banget buat ngatur bebannya
+49	selain gampang, enaknya alat ini tuh adalah gampang banget buat ngatur bebannya tinggal pindahin pin-pin bebannya aja kayak gini nih
+50	selain gampang, enaknya alat ini tuh adalah gampang banget buat ngatur bebannya tinggal pindahin pin-pin bebannya aja kayak gini nih
+51	tinggal pindahin pin-pin bebannya aja kayak gini nih
+52	tinggal pindahin pin-pin bebannya aja kayak gini nih
+53	tinggal pindahin pin-pin bebannya aja kayak gini nih
+54	tinggal pindahin pin-pin bebannya aja kayak gini nih lanjut, buat latihan kaki atau fondasi badan kita itu ada
+55	tinggal pindahin pin-pin bebannya aja kayak gini nih lanjut, buat latihan kaki atau fondasi badan kita itu ada
+56	lanjut, buat latihan kaki atau fondasi badan kita itu ada
+57	lanjut, buat latihan kaki atau fondasi badan kita itu ada
+58	lanjut, buat latihan kaki atau fondasi badan kita itu ada
+59	lanjut, buat latihan kaki atau fondasi badan kita itu ada
+60	lanjut, buat latihan kaki atau fondasi badan kita itu ada seated leg press
+61	lanjut, buat latihan kaki atau fondasi badan kita itu ada seated leg press
+62	seated leg press
+63	seated leg press kalo di gym kalian ga ada, leg press biasanya juga oke banget kok
+64	seated leg press kalo di gym kalian ga ada, leg press biasanya juga oke banget kok
+65	kalo di gym kalian ga ada, leg press biasanya juga oke banget kok
+66	kalo di gym kalian ga ada, leg press biasanya juga oke banget kok
+67	kalo di gym kalian ga ada, leg press biasanya juga oke banget kok
+68	kalo di gym kalian ga ada, leg press biasanya juga oke banget kok alat ini tuh aku rekomendin banget karena gampang banget pakenya
+69	kalo di gym kalian ga ada, leg press biasanya juga oke banget kok alat ini tuh aku rekomendin banget karena gampang banget pakenya
+70	alat ini tuh aku rekomendin banget karena gampang banget pakenya
+71	alat ini tuh aku rekomendin banget karena gampang banget pakenya
+72	alat ini tuh aku rekomendin banget karena gampang banget pakenya
+73	alat ini tuh aku rekomendin banget karena gampang banget pakenya
+74	alat ini tuh aku rekomendin banget karena gampang banget pakenya dan mindahin bebannya juga gampang
+75	alat ini tuh aku rekomendin banget karena gampang banget pakenya dan mindahin bebannya juga gampang
+76	dan mindahin bebannya juga gampang
+77	dan mindahin bebannya juga gampang
+78	dan mindahin bebannya juga gampang tinggal mindah-mindahin pinnya aja tuh
+79	dan mindahin bebannya juga gampang tinggal mindah-mindahin pinnya aja tuh
+80	tinggal mindah-mindahin pinnya aja tuh
+81	tinggal mindah-mindahin pinnya aja tuh
+82	tinggal mindah-mindahin pinnya aja tuh terus buat otot chest, kalian bisa latihan bench press
+83	tinggal mindah-mindahin pinnya aja tuh terus buat otot chest, kalian bisa latihan bench press
+84	terus buat otot chest, kalian bisa latihan bench press
+85	terus buat otot chest, kalian bisa latihan bench press
+86	terus buat otot chest, kalian bisa latihan bench press atau incline bench press di smith machine kayak gini nih
+87	terus buat otot chest, kalian bisa latihan bench press atau incline bench press di smith machine kayak gini nih
+88	atau incline bench press di smith machine kayak gini nih
+89	atau incline bench press di smith machine kayak gini nih
+90	atau incline bench press di smith machine kayak gini nih
+91	atau incline bench press di smith machine kayak gini nih
+92	atau incline bench press di smith machine kayak gini nih ini ga terlalu gampang sih, tapi alat ini tuh aman buat dipake
+93	atau incline bench press di smith machine kayak gini nih ini ga terlalu gampang sih, tapi alat ini tuh aman buat dipake
+94	ini ga terlalu gampang sih, tapi alat ini tuh aman buat dipake
+95	ini ga terlalu gampang sih, tapi alat ini tuh aman buat dipake
+96	ini ga terlalu gampang sih, tapi alat ini tuh aman buat dipake
+97	ini ga terlalu gampang sih, tapi alat ini tuh aman buat dipake
+98	ini ga terlalu gampang sih, tapi alat ini tuh aman buat dipake karena ada pengamannya di sebelah sini dan sini nih
+99	ini ga terlalu gampang sih, tapi alat ini tuh aman buat dipake karena ada pengamannya di sebelah sini dan sini nih
+100	karena ada pengamannya di sebelah sini dan sini nih
+101	karena ada pengamannya di sebelah sini dan sini nih
+102	karena ada pengamannya di sebelah sini dan sini nih
+103	karena ada pengamannya di sebelah sini dan sini nih jadi kalo misalnya kalian ga kuat, tinggal dicepitin aja ke bagian pengamannya
+104	karena ada pengamannya di sebelah sini dan sini nih jadi kalo misalnya kalian ga kuat, tinggal dicepitin aja ke bagian pengamannya
+105	jadi kalo misalnya kalian ga kuat, tinggal dicepitin aja ke bagian pengamannya
+106	jadi kalo misalnya kalian ga kuat, tinggal dicepitin aja ke bagian pengamannya
+107	jadi kalo misalnya kalian ga kuat, tinggal dicepitin aja ke bagian pengamannya
+108	jadi kalo misalnya kalian ga kuat, tinggal dicepitin aja ke bagian pengamannya
+109	jadi kalo misalnya kalian ga kuat, tinggal dicepitin aja ke bagian pengamannya
+110	jadi kalo misalnya kalian ga kuat, tinggal dicepitin aja ke bagian pengamannya kalo ada chest press, kalian pake chest press
+111	jadi kalo misalnya kalian ga kuat, tinggal dicepitin aja ke bagian pengamannya kalo ada chest press, kalian pake chest press
+112	kalo ada chest press, kalian pake chest press
+113	kalo ada chest press, kalian pake chest press
+114	kalo ada chest press, kalian pake chest press chest press dulu aja, karena ini lebih gampang pakenya daripada alat yang tadi tuh
+115	kalo ada chest press, kalian pake chest press chest press dulu aja, karena ini lebih gampang pakenya daripada alat yang tadi tuh
+116	chest press dulu aja, karena ini lebih gampang pakenya daripada alat yang tadi tuh
+117	chest press dulu aja, karena ini lebih gampang pakenya daripada alat yang tadi tuh
+118	chest press dulu aja, karena ini lebih gampang pakenya daripada alat yang tadi tuh
+119	chest press dulu aja, karena ini lebih gampang pakenya daripada alat yang tadi tuh
+120	chest press dulu aja, karena ini lebih gampang pakenya daripada alat yang tadi tuh
+121	chest press dulu aja, karena ini lebih gampang pakenya daripada alat yang tadi tuh udah, coba dulu aja pake alat-alat yang aku sebut tadi
+122	chest press dulu aja, karena ini lebih gampang pakenya daripada alat yang tadi tuh udah, coba dulu aja pake alat-alat yang aku sebut tadi
+123	udah, coba dulu aja pake alat-alat yang aku sebut tadi
+124	udah, coba dulu aja pake alat-alat yang aku sebut tadi
+125	udah, coba dulu aja pake alat-alat yang aku sebut tadi 1-3 kali seminggu kalo kalian baru mulai nge-gym
+126	udah, coba dulu aja pake alat-alat yang aku sebut tadi 1-3 kali seminggu kalo kalian baru mulai nge-gym
+127	1-3 kali seminggu kalo kalian baru mulai nge-gym
+128	1-3 kali seminggu kalo kalian baru mulai nge-gym
+129	1-3 kali seminggu kalo kalian baru mulai nge-gym
+130	1-3 kali seminggu kalo kalian baru mulai nge-gym
+131	1-3 kali seminggu kalo kalian baru mulai nge-gym atau kalo misalnya kalian ada rekomendasi alat lain yang gampang tapi aku belum sebut
+132	1-3 kali seminggu kalo kalian baru mulai nge-gym atau kalo misalnya kalian ada rekomendasi alat lain yang gampang tapi aku belum sebut
+133	atau kalo misalnya kalian ada rekomendasi alat lain yang gampang tapi aku belum sebut
+134	atau kalo misalnya kalian ada rekomendasi alat lain yang gampang tapi aku belum sebut
+135	atau kalo misalnya kalian ada rekomendasi alat lain yang gampang tapi aku belum sebut
+136	atau kalo misalnya kalian ada rekomendasi alat lain yang gampang tapi aku belum sebut
+137	atau kalo misalnya kalian ada rekomendasi alat lain yang gampang tapi aku belum sebut
+138	atau kalo misalnya kalian ada rekomendasi alat lain yang gampang tapi aku belum sebut coba komen di bawah ya
+139	atau kalo misalnya kalian ada rekomendasi alat lain yang gampang tapi aku belum sebut coba komen di bawah ya
+140	coba komen di bawah ya share video ini kalo bermanfaat
+141	coba komen di bawah ya share video ini kalo bermanfaat
+142	coba komen di bawah ya share video ini kalo bermanfaat
+143	share video ini kalo bermanfaat tetap semangat nge-gymnya dan stay hard
+144	share video ini kalo bermanfaat tetap semangat nge-gymnya dan stay hard
+145	tetap semangat nge-gymnya dan stay hard
+146	tetap semangat nge-gymnya dan stay hard
+147	tetap semangat nge-gymnya dan stay hard
+148	tetap semangat nge-gymnya dan stay hard
+149	[NO_SPEECH]

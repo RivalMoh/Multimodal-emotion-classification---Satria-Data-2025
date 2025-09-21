@@ -1,0 +1,114 @@
+0	Teman-teman coba cek deh kekuatan otot kaki kalian dengan cara duduk berdiri di kursi,
+1	Teman-teman coba cek deh kekuatan otot kaki kalian dengan cara duduk berdiri di kursi,
+2	Teman-teman coba cek deh kekuatan otot kaki kalian dengan cara duduk berdiri di kursi,
+3	Teman-teman coba cek deh kekuatan otot kaki kalian dengan cara duduk berdiri di kursi,
+4	Teman-teman coba cek deh kekuatan otot kaki kalian dengan cara duduk berdiri di kursi,
+5	Teman-teman coba cek deh kekuatan otot kaki kalian dengan cara duduk berdiri di kursi,
+6	Teman-teman coba cek deh kekuatan otot kaki kalian dengan cara duduk berdiri di kursi,
+7	Teman-teman coba cek deh kekuatan otot kaki kalian dengan cara duduk berdiri di kursi,
+8	Teman-teman coba cek deh kekuatan otot kaki kalian dengan cara duduk berdiri di kursi,
+9	Teman-teman coba cek deh kekuatan otot kaki kalian dengan cara duduk berdiri di kursi, tangan di bahu, kemudian lakukan 1 menit sebanyak-banyaknya.
+10	Teman-teman coba cek deh kekuatan otot kaki kalian dengan cara duduk berdiri di kursi, tangan di bahu, kemudian lakukan 1 menit sebanyak-banyaknya.
+11	tangan di bahu, kemudian lakukan 1 menit sebanyak-banyaknya.
+12	tangan di bahu, kemudian lakukan 1 menit sebanyak-banyaknya.
+13	tangan di bahu, kemudian lakukan 1 menit sebanyak-banyaknya.
+14	tangan di bahu, kemudian lakukan 1 menit sebanyak-banyaknya.
+15	tangan di bahu, kemudian lakukan 1 menit sebanyak-banyaknya.
+16	tangan di bahu, kemudian lakukan 1 menit sebanyak-banyaknya.
+17	tangan di bahu, kemudian lakukan 1 menit sebanyak-banyaknya.
+18	tangan di bahu, kemudian lakukan 1 menit sebanyak-banyaknya. Jadi harus cepat seperti ini.
+19	Jadi harus cepat seperti ini.
+20	Jadi harus cepat seperti ini.
+21	Jadi harus cepat seperti ini.
+22	[NO_SPEECH]
+23	1 menit.
+24	1 menit.
+25	1 menit.
+26	1 menit.
+27	1 menit.
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	[NO_SPEECH]
+59	[NO_SPEECH]
+60	[NO_SPEECH]
+61	[NO_SPEECH]
+62	[NO_SPEECH]
+63	[NO_SPEECH]
+64	[NO_SPEECH]
+65	[NO_SPEECH]
+66	[NO_SPEECH]
+67	[NO_SPEECH]
+68	[NO_SPEECH]
+69	Nah, hasilnya 71.
+70	Nah, hasilnya 71.
+71	Nah, hasilnya 71.
+72	Nah, hasilnya 71.
+73	Nah, hasilnya 71.
+74	Nah, hasilnya 71.
+75	Dari jurnal Systematic Review ini memperlihatkan bahwa jumlah 20 sampai 50 itu sudah rata-rata dan bagus banget.
+76	Dari jurnal Systematic Review ini memperlihatkan bahwa jumlah 20 sampai 50 itu sudah rata-rata dan bagus banget.
+77	Dari jurnal Systematic Review ini memperlihatkan bahwa jumlah 20 sampai 50 itu sudah rata-rata dan bagus banget.
+78	Dari jurnal Systematic Review ini memperlihatkan bahwa jumlah 20 sampai 50 itu sudah rata-rata dan bagus banget.
+79	Dari jurnal Systematic Review ini memperlihatkan bahwa jumlah 20 sampai 50 itu sudah rata-rata dan bagus banget.
+80	Dari jurnal Systematic Review ini memperlihatkan bahwa jumlah 20 sampai 50 itu sudah rata-rata dan bagus banget.
+81	Dari jurnal Systematic Review ini memperlihatkan bahwa jumlah 20 sampai 50 itu sudah rata-rata dan bagus banget.
+82	Dari jurnal Systematic Review ini memperlihatkan bahwa jumlah 20 sampai 50 itu sudah rata-rata dan bagus banget.
+83	Dari jurnal Systematic Review ini memperlihatkan bahwa jumlah 20 sampai 50 itu sudah rata-rata dan bagus banget.
+84	Dari jurnal Systematic Review ini memperlihatkan bahwa jumlah 20 sampai 50 itu sudah rata-rata dan bagus banget.
+85	Dari jurnal Systematic Review ini memperlihatkan bahwa jumlah 20 sampai 50 itu sudah rata-rata dan bagus banget.
+86	Dari jurnal Systematic Review ini memperlihatkan bahwa jumlah 20 sampai 50 itu sudah rata-rata dan bagus banget.
+87	Dari jurnal Systematic Review ini memperlihatkan bahwa jumlah 20 sampai 50 itu sudah rata-rata dan bagus banget.
+88	Dari jurnal Systematic Review ini memperlihatkan bahwa jumlah 20 sampai 50 itu sudah rata-rata dan bagus banget.
+89	Dari jurnal Systematic Review ini memperlihatkan bahwa jumlah 20 sampai 50 itu sudah rata-rata dan bagus banget.
+90	Dari jurnal Systematic Review ini memperlihatkan bahwa jumlah 20 sampai 50 itu sudah rata-rata dan bagus banget.
+91	Dari jurnal Systematic Review ini memperlihatkan bahwa jumlah 20 sampai 50 itu sudah rata-rata dan bagus banget.
+92	Dari jurnal Systematic Review ini memperlihatkan bahwa jumlah 20 sampai 50 itu sudah rata-rata dan bagus banget. Jadi kalau teman-teman berada di angkasa begitu, udah oke.
+93	Jadi kalau teman-teman berada di angkasa begitu, udah oke.
+94	Jadi kalau teman-teman berada di angkasa begitu, udah oke.
+95	Jadi kalau teman-teman berada di angkasa begitu, udah oke.
+96	Jadi kalau teman-teman berada di angkasa begitu, udah oke.
+97	Jadi kalau teman-teman berada di angkasa begitu, udah oke.
+98	Jadi kalau teman-teman berada di angkasa begitu, udah oke.
+99	Jadi kalau teman-teman berada di angkasa begitu, udah oke. Namun kalau bisa lebih, di atas 50, itu bagus banget.
+100	Namun kalau bisa lebih, di atas 50, itu bagus banget.
+101	Namun kalau bisa lebih, di atas 50, itu bagus banget.
+102	Namun kalau bisa lebih, di atas 50, itu bagus banget.
+103	Namun kalau bisa lebih, di atas 50, itu bagus banget.
+104	Namun kalau bisa lebih, di atas 50, itu bagus banget.
+105	Namun kalau bisa lebih, di atas 50, itu bagus banget.
+106	Namun kalau bisa lebih, di atas 50, itu bagus banget.
+107	Namun kalau bisa lebih, di atas 50, itu bagus banget. Berapa nilainya?
+108	Berapa nilainya?
+109	Berapa nilainya?
+110	Berapa nilainya?
+111	[NO_SPEECH]
+112	[NO_SPEECH]
+113	[NO_SPEECH]

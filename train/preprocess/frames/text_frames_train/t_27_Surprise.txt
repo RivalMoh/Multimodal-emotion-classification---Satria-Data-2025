@@ -1,0 +1,64 @@
+0	Mobil ini sudah jadi
+1	Mobil ini sudah jadi
+2	Mobil ini sudah jadi Barangnya sudah jadi
+3	Mobil ini sudah jadi Barangnya sudah jadi
+4	Barangnya sudah jadi
+5	Barangnya sudah jadi Yang kita indahin itu sudah nyampe di
+6	Barangnya sudah jadi Yang kita indahin itu sudah nyampe di
+7	Yang kita indahin itu sudah nyampe di
+8	Yang kita indahin itu sudah nyampe di
+9	Yang kita indahin itu sudah nyampe di
+10	Yang kita indahin itu sudah nyampe di Wuling Solo
+11	Yang kita indahin itu sudah nyampe di Wuling Solo Bamper, lampu, sama
+12	Wuling Solo Bamper, lampu, sama
+13	Bamper, lampu, sama
+14	Bamper, lampu, sama
+15	Bamper, lampu, sama
+16	Bamper, lampu, sama
+17	Bamper, lampu, sama Ini plastiknya ini, fender
+18	Bamper, lampu, sama Ini plastiknya ini, fender
+19	Ini plastiknya ini, fender
+20	Ini plastiknya ini, fender
+21	Ini plastiknya ini, fender
+22	Sama kancingannya
+23	Sama kancingannya
+24	Sama kancingannya
+25	Sama kancingannya Nah sekarang kita mau ngambil spare partnya ke Solo
+26	Sama kancingannya Nah sekarang kita mau ngambil spare partnya ke Solo
+27	Nah sekarang kita mau ngambil spare partnya ke Solo
+28	Nah sekarang kita mau ngambil spare partnya ke Solo
+29	Nah sekarang kita mau ngambil spare partnya ke Solo
+30	Nah sekarang kita mau ngambil spare partnya ke Solo Dan kita nge-cetnya pake cet
+31	Nah sekarang kita mau ngambil spare partnya ke Solo Dan kita nge-cetnya pake cet
+32	Dan kita nge-cetnya pake cet
+33	Dan kita nge-cetnya pake cet
+34	Dan kita nge-cetnya pake cet Dan furnace dari Autoglow
+35	Dan kita nge-cetnya pake cet Dan furnace dari Autoglow
+36	Dan furnace dari Autoglow
+37	Dan furnace dari Autoglow
+38	Dan furnace dari Autoglow Let's go, kita jalan yuk
+39	Dan furnace dari Autoglow Let's go, kita jalan yuk
+40	Let's go, kita jalan yuk
+41	Let's go, kita jalan yuk
+42	Let's go, kita jalan yuk
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	Sub indo by broth3rmax
+59	Sub indo by broth3rmax
+60	Sub indo by broth3rmax
+61	Sub indo by broth3rmax
+62	Sub indo by broth3rmax
+63	Sub indo by broth3rmax

@@ -1,0 +1,103 @@
+0	Benda strategi main badminton gua, part 2.
+1	Benda strategi main badminton gua, part 2.
+2	Benda strategi main badminton gua, part 2.
+3	Benda strategi main badminton gua, part 2.
+4	Benda strategi main badminton gua, part 2.
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	Di match ini kita bisa perhatiin cara rotasi gua sama partner gua.
+9	Di match ini kita bisa perhatiin cara rotasi gua sama partner gua.
+10	Di match ini kita bisa perhatiin cara rotasi gua sama partner gua.
+11	Di match ini kita bisa perhatiin cara rotasi gua sama partner gua.
+12	Di match ini kita bisa perhatiin cara rotasi gua sama partner gua.
+13	Di match ini kita bisa perhatiin cara rotasi gua sama partner gua.
+14	Di match ini kita bisa perhatiin cara rotasi gua sama partner gua.
+15	Di match ini kita bisa perhatiin cara rotasi gua sama partner gua. Ketika dapet potensi untuk bisa smash, partner gua langsung ambil posisi backup di depan.
+16	Di match ini kita bisa perhatiin cara rotasi gua sama partner gua. Ketika dapet potensi untuk bisa smash, partner gua langsung ambil posisi backup di depan.
+17	Ketika dapet potensi untuk bisa smash, partner gua langsung ambil posisi backup di depan.
+18	Ketika dapet potensi untuk bisa smash, partner gua langsung ambil posisi backup di depan.
+19	Ketika dapet potensi untuk bisa smash, partner gua langsung ambil posisi backup di depan.
+20	Ketika dapet potensi untuk bisa smash, partner gua langsung ambil posisi backup di depan.
+21	Ketika dapet potensi untuk bisa smash, partner gua langsung ambil posisi backup di depan.
+22	Ketika dapet potensi untuk bisa smash, partner gua langsung ambil posisi backup di depan.
+23	Ketika dapet potensi untuk bisa smash, partner gua langsung ambil posisi backup di depan. Tapi karena power smash gua kurang, jadi lawan gua gampang buat balikin ke arah yang kosong.
+24	Ketika dapet potensi untuk bisa smash, partner gua langsung ambil posisi backup di depan. Tapi karena power smash gua kurang, jadi lawan gua gampang buat balikin ke arah yang kosong.
+25	Tapi karena power smash gua kurang, jadi lawan gua gampang buat balikin ke arah yang kosong.
+26	Tapi karena power smash gua kurang, jadi lawan gua gampang buat balikin ke arah yang kosong.
+27	Tapi karena power smash gua kurang, jadi lawan gua gampang buat balikin ke arah yang kosong.
+28	Tapi karena power smash gua kurang, jadi lawan gua gampang buat balikin ke arah yang kosong.
+29	Tapi karena power smash gua kurang, jadi lawan gua gampang buat balikin ke arah yang kosong.
+30	Tapi karena power smash gua kurang, jadi lawan gua gampang buat balikin ke arah yang kosong.
+31	Tapi karena power smash gua kurang, jadi lawan gua gampang buat balikin ke arah yang kosong. Akhirnya gua ketinggalan untuk kejar bola.
+32	Tapi karena power smash gua kurang, jadi lawan gua gampang buat balikin ke arah yang kosong. Akhirnya gua ketinggalan untuk kejar bola.
+33	Akhirnya gua ketinggalan untuk kejar bola.
+34	Akhirnya gua ketinggalan untuk kejar bola. Dan gua memutuskan untuk backhand tipis ke depannya, beruntungnya lawan error.
+35	Akhirnya gua ketinggalan untuk kejar bola. Dan gua memutuskan untuk backhand tipis ke depannya, beruntungnya lawan error.
+36	Dan gua memutuskan untuk backhand tipis ke depannya, beruntungnya lawan error.
+37	Dan gua memutuskan untuk backhand tipis ke depannya, beruntungnya lawan error.
+38	Dan gua memutuskan untuk backhand tipis ke depannya, beruntungnya lawan error.
+39	Dan gua memutuskan untuk backhand tipis ke depannya, beruntungnya lawan error.
+40	Dan gua memutuskan untuk backhand tipis ke depannya, beruntungnya lawan error.
+41	Dan gua memutuskan untuk backhand tipis ke depannya, beruntungnya lawan error.
+42	Dan gua memutuskan untuk backhand tipis ke depannya, beruntungnya lawan error.
+43	[NO_SPEECH]
+44	Akhirnya gua main sabar dulu, lebih tenang,
+45	Akhirnya gua main sabar dulu, lebih tenang,
+46	Akhirnya gua main sabar dulu, lebih tenang,
+47	Akhirnya gua main sabar dulu, lebih tenang,
+48	Akhirnya gua main sabar dulu, lebih tenang,
+49	Akhirnya gua main sabar dulu, lebih tenang,
+50	kasih dropshot silang, dan smash ke arah lawan yang abis ambil dropshot.
+51	kasih dropshot silang, dan smash ke arah lawan yang abis ambil dropshot.
+52	kasih dropshot silang, dan smash ke arah lawan yang abis ambil dropshot.
+53	kasih dropshot silang, dan smash ke arah lawan yang abis ambil dropshot.
+54	kasih dropshot silang, dan smash ke arah lawan yang abis ambil dropshot.
+55	kasih dropshot silang, dan smash ke arah lawan yang abis ambil dropshot.
+56	kasih dropshot silang, dan smash ke arah lawan yang abis ambil dropshot.
+57	kasih dropshot silang, dan smash ke arah lawan yang abis ambil dropshot. Karena posisi lawan belum 100% siap.
+58	kasih dropshot silang, dan smash ke arah lawan yang abis ambil dropshot. Karena posisi lawan belum 100% siap.
+59	Karena posisi lawan belum 100% siap.
+60	Karena posisi lawan belum 100% siap.
+61	Karena posisi lawan belum 100% siap.
+62	Karena posisi lawan belum 100% siap.
+63	Karena posisi lawan belum 100% siap.
+64	Tapi kali ini partner gua error dikit.
+65	Tapi kali ini partner gua error dikit.
+66	Tapi kali ini partner gua error dikit.
+67	Tapi kali ini partner gua error dikit.
+68	Tapi kali ini partner gua error dikit.
+69	Tapi kali ini partner gua error dikit. Tapi akhirnya game ini gua berhasil menang bareng partner gua.
+70	Tapi akhirnya game ini gua berhasil menang bareng partner gua.
+71	Tapi akhirnya game ini gua berhasil menang bareng partner gua.
+72	Tapi akhirnya game ini gua berhasil menang bareng partner gua.
+73	Tapi akhirnya game ini gua berhasil menang bareng partner gua.
+74	Tapi akhirnya game ini gua berhasil menang bareng partner gua.
+75	Tapi akhirnya game ini gua berhasil menang bareng partner gua. Gimana? Lanjut part 3 gak nih?
+76	Gimana? Lanjut part 3 gak nih?
+77	Gimana? Lanjut part 3 gak nih?
+78	Gimana? Lanjut part 3 gak nih? Semoga kalian bisa belajar dari strategi dan kesalahan yang gua lakuin ya.
+79	Gimana? Lanjut part 3 gak nih? Semoga kalian bisa belajar dari strategi dan kesalahan yang gua lakuin ya.
+80	Semoga kalian bisa belajar dari strategi dan kesalahan yang gua lakuin ya.
+81	Semoga kalian bisa belajar dari strategi dan kesalahan yang gua lakuin ya.
+82	Semoga kalian bisa belajar dari strategi dan kesalahan yang gua lakuin ya.
+83	Semoga kalian bisa belajar dari strategi dan kesalahan yang gua lakuin ya.
+84	Semoga kalian bisa belajar dari strategi dan kesalahan yang gua lakuin ya.
+85	Semoga kalian bisa belajar dari strategi dan kesalahan yang gua lakuin ya. Jangan lupa follow.
+86	Semoga kalian bisa belajar dari strategi dan kesalahan yang gua lakuin ya. Jangan lupa follow.
+87	Jangan lupa follow.
+88	[NO_SPEECH]
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	[NO_SPEECH]
+95	[NO_SPEECH]
+96	[NO_SPEECH]
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]

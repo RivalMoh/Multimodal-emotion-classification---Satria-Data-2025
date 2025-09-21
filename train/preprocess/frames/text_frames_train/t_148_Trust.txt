@@ -1,0 +1,109 @@
+0	Keberadaannya suka kurang dianggap padahal penting di saat genting
+1	Keberadaannya suka kurang dianggap padahal penting di saat genting
+2	Keberadaannya suka kurang dianggap padahal penting di saat genting
+3	Keberadaannya suka kurang dianggap padahal penting di saat genting
+4	Keberadaannya suka kurang dianggap padahal penting di saat genting
+5	Keberadaannya suka kurang dianggap padahal penting di saat genting Apalagi di momen mudik gini cing
+6	Keberadaannya suka kurang dianggap padahal penting di saat genting Apalagi di momen mudik gini cing
+7	Apalagi di momen mudik gini cing
+8	Apalagi di momen mudik gini cing
+9	Apalagi di momen mudik gini cing Salah satunya adalah ban serep
+10	Apalagi di momen mudik gini cing Salah satunya adalah ban serep
+11	Salah satunya adalah ban serep
+12	Salah satunya adalah ban serep
+13	Salah satunya adalah ban serep Minimal tau lokasi dan cara aksesnya
+14	Salah satunya adalah ban serep Minimal tau lokasi dan cara aksesnya
+15	Minimal tau lokasi dan cara aksesnya
+16	Minimal tau lokasi dan cara aksesnya
+17	Minimal tau lokasi dan cara aksesnya Kayak Mitsubishi Pajero Sport gini yang ada persis di kolong belakang
+18	Minimal tau lokasi dan cara aksesnya Kayak Mitsubishi Pajero Sport gini yang ada persis di kolong belakang
+19	Kayak Mitsubishi Pajero Sport gini yang ada persis di kolong belakang
+20	Kayak Mitsubishi Pajero Sport gini yang ada persis di kolong belakang
+21	Kayak Mitsubishi Pajero Sport gini yang ada persis di kolong belakang
+22	Kayak Mitsubishi Pajero Sport gini yang ada persis di kolong belakang
+23	Kayak Mitsubishi Pajero Sport gini yang ada persis di kolong belakang
+24	Kayak Mitsubishi Pajero Sport gini yang ada persis di kolong belakang Cara ngeluarinnya siapin dulu kunci roda yang ada di kompartemen bagasi sebelah kiri
+25	Kayak Mitsubishi Pajero Sport gini yang ada persis di kolong belakang Cara ngeluarinnya siapin dulu kunci roda yang ada di kompartemen bagasi sebelah kiri
+26	Cara ngeluarinnya siapin dulu kunci roda yang ada di kompartemen bagasi sebelah kiri
+27	Cara ngeluarinnya siapin dulu kunci roda yang ada di kompartemen bagasi sebelah kiri
+28	Cara ngeluarinnya siapin dulu kunci roda yang ada di kompartemen bagasi sebelah kiri
+29	Cara ngeluarinnya siapin dulu kunci roda yang ada di kompartemen bagasi sebelah kiri
+30	Cara ngeluarinnya siapin dulu kunci roda yang ada di kompartemen bagasi sebelah kiri
+31	Cara ngeluarinnya siapin dulu kunci roda yang ada di kompartemen bagasi sebelah kiri
+32	Cara ngeluarinnya siapin dulu kunci roda yang ada di kompartemen bagasi sebelah kiri
+33	Cara ngeluarinnya siapin dulu kunci roda yang ada di kompartemen bagasi sebelah kiri Lanjut buka kompartemen lantai
+34	Cara ngeluarinnya siapin dulu kunci roda yang ada di kompartemen bagasi sebelah kiri Lanjut buka kompartemen lantai
+35	Lanjut buka kompartemen lantai
+36	Lanjut buka kompartemen lantai Disini ada dua lapis kap lingkaran yang bisa kita buka satu persatu untuk akses ke hanger serep
+37	Lanjut buka kompartemen lantai Disini ada dua lapis kap lingkaran yang bisa kita buka satu persatu untuk akses ke hanger serep
+38	Disini ada dua lapis kap lingkaran yang bisa kita buka satu persatu untuk akses ke hanger serep
+39	Disini ada dua lapis kap lingkaran yang bisa kita buka satu persatu untuk akses ke hanger serep
+40	Disini ada dua lapis kap lingkaran yang bisa kita buka satu persatu untuk akses ke hanger serep
+41	Disini ada dua lapis kap lingkaran yang bisa kita buka satu persatu untuk akses ke hanger serep
+42	Disini ada dua lapis kap lingkaran yang bisa kita buka satu persatu untuk akses ke hanger serep
+43	Disini ada dua lapis kap lingkaran yang bisa kita buka satu persatu untuk akses ke hanger serep
+44	Disini ada dua lapis kap lingkaran yang bisa kita buka satu persatu untuk akses ke hanger serep
+45	Disini ada dua lapis kap lingkaran yang bisa kita buka satu persatu untuk akses ke hanger serep Putar ke kiri sampai turun semua
+46	Disini ada dua lapis kap lingkaran yang bisa kita buka satu persatu untuk akses ke hanger serep Putar ke kiri sampai turun semua
+47	Putar ke kiri sampai turun semua
+48	Putar ke kiri sampai turun semua Udah gitu lepas cantolannya dari pelet
+49	Putar ke kiri sampai turun semua Udah gitu lepas cantolannya dari pelet
+50	Udah gitu lepas cantolannya dari pelet
+51	Udah gitu lepas cantolannya dari pelet
+52	Udah gitu lepas cantolannya dari pelet
+53	Udah gitu lepas cantolannya dari pelet Udah deh
+54	Udah gitu lepas cantolannya dari pelet Udah deh Dari sini bisa dipantau tekanan anginnya secara berkala biar gak bingung begitu butuh
+55	Udah deh Dari sini bisa dipantau tekanan anginnya secara berkala biar gak bingung begitu butuh
+56	Dari sini bisa dipantau tekanan anginnya secara berkala biar gak bingung begitu butuh
+57	Dari sini bisa dipantau tekanan anginnya secara berkala biar gak bingung begitu butuh
+58	Dari sini bisa dipantau tekanan anginnya secara berkala biar gak bingung begitu butuh
+59	Dari sini bisa dipantau tekanan anginnya secara berkala biar gak bingung begitu butuh
+60	Dari sini bisa dipantau tekanan anginnya secara berkala biar gak bingung begitu butuh
+61	Dari sini bisa dipantau tekanan anginnya secara berkala biar gak bingung begitu butuh
+62	Dari sini bisa dipantau tekanan anginnya secara berkala biar gak bingung begitu butuh Ikutin rekomendasi pabrikan kalau ada
+63	Dari sini bisa dipantau tekanan anginnya secara berkala biar gak bingung begitu butuh Ikutin rekomendasi pabrikan kalau ada
+64	Ikutin rekomendasi pabrikan kalau ada
+65	Ikutin rekomendasi pabrikan kalau ada
+66	Ikutin rekomendasi pabrikan kalau ada Atau umumnya bisa lebihin sedikit dari tekanan normal
+67	Ikutin rekomendasi pabrikan kalau ada Atau umumnya bisa lebihin sedikit dari tekanan normal
+68	Atau umumnya bisa lebihin sedikit dari tekanan normal
+69	Atau umumnya bisa lebihin sedikit dari tekanan normal
+70	Atau umumnya bisa lebihin sedikit dari tekanan normal
+71	Atau umumnya bisa lebihin sedikit dari tekanan normal
+72	Atau umumnya bisa lebihin sedikit dari tekanan normal Kalau bannya full size boleh dirotasi juga sekali-sekali
+73	Atau umumnya bisa lebihin sedikit dari tekanan normal Kalau bannya full size boleh dirotasi juga sekali-sekali
+74	Kalau bannya full size boleh dirotasi juga sekali-sekali
+75	Kalau bannya full size boleh dirotasi juga sekali-sekali
+76	Kalau bannya full size boleh dirotasi juga sekali-sekali
+77	Kalau bannya full size boleh dirotasi juga sekali-sekali
+78	Kalau bannya full size boleh dirotasi juga sekali-sekali Misal disamain dengan jadwal service
+79	Kalau bannya full size boleh dirotasi juga sekali-sekali Misal disamain dengan jadwal service
+80	Misal disamain dengan jadwal service
+81	Misal disamain dengan jadwal service Lokasi dan cara akses di tiap mobil bisa beda-beda
+82	Misal disamain dengan jadwal service Lokasi dan cara akses di tiap mobil bisa beda-beda
+83	Lokasi dan cara akses di tiap mobil bisa beda-beda
+84	Lokasi dan cara akses di tiap mobil bisa beda-beda
+85	Lokasi dan cara akses di tiap mobil bisa beda-beda
+86	Lokasi dan cara akses di tiap mobil bisa beda-beda
+87	Lokasi dan cara akses di tiap mobil bisa beda-beda Terus jangan kaget juga kalau ternyata gak ada
+88	Lokasi dan cara akses di tiap mobil bisa beda-beda Terus jangan kaget juga kalau ternyata gak ada
+89	Terus jangan kaget juga kalau ternyata gak ada
+90	Terus jangan kaget juga kalau ternyata gak ada Baca lagi ke manual bu
+91	Terus jangan kaget juga kalau ternyata gak ada Baca lagi ke manual bu
+92	Baca lagi ke manual bu
+93	Baca lagi ke manual bu Karena beberapa mobil cuma dikasih repair kit alias alat tambal ban
+94	Baca lagi ke manual bu Karena beberapa mobil cuma dikasih repair kit alias alat tambal ban
+95	Karena beberapa mobil cuma dikasih repair kit alias alat tambal ban
+96	Karena beberapa mobil cuma dikasih repair kit alias alat tambal ban
+97	Karena beberapa mobil cuma dikasih repair kit alias alat tambal ban
+98	Karena beberapa mobil cuma dikasih repair kit alias alat tambal ban
+99	Karena beberapa mobil cuma dikasih repair kit alias alat tambal ban So buat yang lagi siap-siap mau pergi jauh
+100	Karena beberapa mobil cuma dikasih repair kit alias alat tambal ban So buat yang lagi siap-siap mau pergi jauh
+101	So buat yang lagi siap-siap mau pergi jauh
+102	So buat yang lagi siap-siap mau pergi jauh
+103	So buat yang lagi siap-siap mau pergi jauh Udah dicek ban serepnya
+104	So buat yang lagi siap-siap mau pergi jauh Udah dicek ban serepnya
+105	Udah dicek ban serepnya
+106	Udah dicek ban serepnya
+107	Udah dicek ban serepnya
+108	[NO_SPEECH]

@@ -1,0 +1,120 @@
+0	Hah udah tau abis kalah final kok gue tiba-tiba nyasar disini
+1	Hah udah tau abis kalah final kok gue tiba-tiba nyasar disini
+2	Hah udah tau abis kalah final kok gue tiba-tiba nyasar disini
+3	Hah udah tau abis kalah final kok gue tiba-tiba nyasar disini
+4	Hah udah tau abis kalah final kok gue tiba-tiba nyasar disini
+5	Hah udah tau abis kalah final kok gue tiba-tiba nyasar disini
+6	Hah udah tau abis kalah final kok gue tiba-tiba nyasar disini
+7	Hah udah tau abis kalah final kok gue tiba-tiba nyasar disini
+8	Hah udah tau abis kalah final kok gue tiba-tiba nyasar disini
+9	Hah udah tau abis kalah final kok gue tiba-tiba nyasar disini
+10	Hah udah tau abis kalah final kok gue tiba-tiba nyasar disini
+11	Hah udah tau abis kalah final kok gue tiba-tiba nyasar disini
+12	Hah udah tau abis kalah final kok gue tiba-tiba nyasar disini
+13	[NO_SPEECH]
+14	Ngapain coba nih?
+15	Ngapain coba nih?
+16	Ngapain coba nih? Ini kayak kemarin abis nobar juga udah disini
+17	Ngapain coba nih? Ini kayak kemarin abis nobar juga udah disini
+18	Ini kayak kemarin abis nobar juga udah disini
+19	Ini kayak kemarin abis nobar juga udah disini
+20	Ini kayak kemarin abis nobar juga udah disini
+21	Ini kayak kemarin abis nobar juga udah disini
+22	Ini kayak kemarin abis nobar juga udah disini
+23	Ini kayak kemarin abis nobar juga udah disini Saya juga gak tau ini pakaiannya juga masih pakaian nobar
+24	Ini kayak kemarin abis nobar juga udah disini Saya juga gak tau ini pakaiannya juga masih pakaian nobar
+25	Saya juga gak tau ini pakaiannya juga masih pakaian nobar
+26	Saya juga gak tau ini pakaiannya juga masih pakaian nobar
+27	Saya juga gak tau ini pakaiannya juga masih pakaian nobar
+28	Saya juga gak tau ini pakaiannya juga masih pakaian nobar
+29	Saya juga gak tau ini pakaiannya juga masih pakaian nobar
+30	Saya juga gak tau ini pakaiannya juga masih pakaian nobar Saya curiga saya memang dikirim langsung dari Old Trafford
+31	Saya juga gak tau ini pakaiannya juga masih pakaian nobar Saya curiga saya memang dikirim langsung dari Old Trafford
+32	Saya curiga saya memang dikirim langsung dari Old Trafford
+33	Saya curiga saya memang dikirim langsung dari Old Trafford
+34	Saya curiga saya memang dikirim langsung dari Old Trafford
+35	Saya curiga saya memang dikirim langsung dari Old Trafford
+36	Saya curiga saya memang dikirim langsung dari Old Trafford
+37	Saya curiga saya memang dikirim langsung dari Old Trafford
+38	Saya curiga saya memang dikirim langsung dari Old Trafford
+39	Saya curiga saya memang dikirim langsung dari Old Trafford Untuk menjadi perwakilan
+40	Saya curiga saya memang dikirim langsung dari Old Trafford Untuk menjadi perwakilan
+41	Untuk menjadi perwakilan
+42	Untuk menjadi perwakilan
+43	Untuk menjadi perwakilan Ada disini aduh aku lupa ingatan
+44	Untuk menjadi perwakilan Ada disini aduh aku lupa ingatan
+45	Ada disini aduh aku lupa ingatan
+46	Ada disini aduh aku lupa ingatan
+47	Ada disini aduh aku lupa ingatan
+48	Ada disini aduh aku lupa ingatan
+49	Ada disini aduh aku lupa ingatan
+50	Ada disini aduh aku lupa ingatan
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	Aduh
+57	Aduh
+58	Aduh Ngapain sih?
+59	Aduh Ngapain sih?
+60	Ngapain sih? Ngapain sih disini?
+61	Ngapain sih? Ngapain sih disini?
+62	Ngapain sih disini?
+63	Udah mana dicekin mulu sama Bang Valen
+64	Udah mana dicekin mulu sama Bang Valen
+65	Udah mana dicekin mulu sama Bang Valen
+66	Udah mana dicekin mulu sama Bang Valen
+67	Udah mana dicekin mulu sama Bang Valen
+68	Udah mana dicekin mulu sama Bang Valen
+69	[NO_SPEECH]
+70	Ini emang nih gue curiga nih ada magisnya nih
+71	Ini emang nih gue curiga nih ada magisnya nih
+72	Ini emang nih gue curiga nih ada magisnya nih
+73	Ini emang nih gue curiga nih ada magisnya nih
+74	Ini emang nih gue curiga nih ada magisnya nih
+75	Ini emang nih gue curiga nih ada magisnya nih
+76	Ini emang nih gue curiga nih ada magisnya nih
+77	Ini emang nih gue curiga nih ada magisnya nih Luar biasa emang
+78	Ini emang nih gue curiga nih ada magisnya nih Luar biasa emang
+79	Luar biasa emang Old Trafford lu ngapain?
+80	Luar biasa emang Old Trafford lu ngapain?
+81	Old Trafford lu ngapain?
+82	Old Trafford lu ngapain?
+83	Old Trafford lu ngapain? Lu tau gak lu udah bikin gue sakit hati
+84	Old Trafford lu ngapain? Lu tau gak lu udah bikin gue sakit hati
+85	Lu tau gak lu udah bikin gue sakit hati
+86	Lu tau gak lu udah bikin gue sakit hati
+87	Lu tau gak lu udah bikin gue sakit hati Bikin gue dicacimaki
+88	Lu tau gak lu udah bikin gue sakit hati Bikin gue dicacimaki
+89	Bikin gue dicacimaki
+90	Bikin gue dicacimaki
+91	Bikin gue dicacimaki Bikin gue di ngekinjer
+92	Bikin gue dicacimaki Bikin gue di ngekinjer
+93	Bikin gue di ngekinjer
+94	Bikin gue di ngekinjer
+95	Bikin gue di ngekinjer
+96	Satu musim ini cukup ya
+97	Satu musim ini cukup ya
+98	Satu musim ini cukup ya
+99	Satu musim ini cukup ya
+100	Satu musim ini cukup ya Awas sampe musim depan
+101	Satu musim ini cukup ya Awas sampe musim depan
+102	Awas sampe musim depan
+103	Awas sampe musim depan
+104	Awas sampe musim depan
+105	Kalo kejadian lagi
+106	Kalo kejadian lagi
+107	Kalo kejadian lagi
+108	Kalo kejadian lagi Ya tetep lah kita akan glory glory
+109	Kalo kejadian lagi Ya tetep lah kita akan glory glory
+110	Ya tetep lah kita akan glory glory
+111	Ya tetep lah kita akan glory glory
+112	Ya tetep lah kita akan glory glory
+113	Ya tetep lah kita akan glory glory Betul guys
+114	Ya tetep lah kita akan glory glory Betul guys
+115	Betul guys
+116	Betul guys
+117	[NO_SPEECH]
+118	[NO_SPEECH]
+119	[NO_SPEECH]

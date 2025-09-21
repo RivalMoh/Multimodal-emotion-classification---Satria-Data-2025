@@ -1,0 +1,144 @@
+0	Intro
+1	Intro
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	Bismillahirrahmanirrahim, Assalamualaikum
+6	Bismillahirrahmanirrahim, Assalamualaikum
+7	Bismillahirrahmanirrahim, Assalamualaikum
+8	Bismillahirrahmanirrahim, Assalamualaikum
+9	Bismillahirrahmanirrahim, Assalamualaikum Warahmatullahi Wabarakatuh, saya Fahira Idris
+10	Bismillahirrahmanirrahim, Assalamualaikum Warahmatullahi Wabarakatuh, saya Fahira Idris
+11	Warahmatullahi Wabarakatuh, saya Fahira Idris
+12	Warahmatullahi Wabarakatuh, saya Fahira Idris
+13	Warahmatullahi Wabarakatuh, saya Fahira Idris
+14	Warahmatullahi Wabarakatuh, saya Fahira Idris Amruta DPDNI Dampil, Kepala Kesehatan Jakarta
+15	Warahmatullahi Wabarakatuh, saya Fahira Idris Amruta DPDNI Dampil, Kepala Kesehatan Jakarta
+16	Amruta DPDNI Dampil, Kepala Kesehatan Jakarta
+17	Amruta DPDNI Dampil, Kepala Kesehatan Jakarta
+18	Amruta DPDNI Dampil, Kepala Kesehatan Jakarta
+19	Amruta DPDNI Dampil, Kepala Kesehatan Jakarta Hari ini ingin mengucapkan selamat
+20	Amruta DPDNI Dampil, Kepala Kesehatan Jakarta Hari ini ingin mengucapkan selamat
+21	Hari ini ingin mengucapkan selamat
+22	Hari ini ingin mengucapkan selamat
+23	Hari ini ingin mengucapkan selamat Untuk kontingen DKI
+24	Hari ini ingin mengucapkan selamat Untuk kontingen DKI
+25	Untuk kontingen DKI
+26	Untuk kontingen DKI
+27	Untuk kontingen DKI Dipon ke-21
+28	Untuk kontingen DKI Dipon ke-21
+29	Dipon ke-21
+30	Dipon ke-21 Sumut dan Aceh
+31	Dipon ke-21 Sumut dan Aceh
+32	Sumut dan Aceh
+33	Sumut dan Aceh
+34	Sumut dan Aceh Yang hari ini menurut cakatan
+35	Sumut dan Aceh Yang hari ini menurut cakatan
+36	Yang hari ini menurut cakatan
+37	Yang hari ini menurut cakatan Sudah meraih 6 emas
+38	Yang hari ini menurut cakatan Sudah meraih 6 emas
+39	Sudah meraih 6 emas
+40	Sudah meraih 6 emas
+41	Sudah meraih 6 emas
+42	Sudah meraih 6 emas 6 perak dan 4 perunggu
+43	Sudah meraih 6 emas 6 perak dan 4 perunggu
+44	6 perak dan 4 perunggu
+45	6 perak dan 4 perunggu
+46	6 perak dan 4 perunggu
+47	6 perak dan 4 perunggu
+48	6 perak dan 4 perunggu Totalnya 16 medali
+49	6 perak dan 4 perunggu Totalnya 16 medali
+50	Totalnya 16 medali
+51	Totalnya 16 medali
+52	Totalnya 16 medali Masih di peringkat pertama
+53	Totalnya 16 medali Masih di peringkat pertama
+54	Masih di peringkat pertama
+55	Masih di peringkat pertama
+56	Masih di peringkat pertama Semoga 6 emas
+57	Masih di peringkat pertama Semoga 6 emas
+58	Semoga 6 emas
+59	Semoga 6 emas
+60	Semoga 6 emas 6 perak dan 4 perunggu ini
+61	Semoga 6 emas 6 perak dan 4 perunggu ini
+62	6 perak dan 4 perunggu ini
+63	6 perak dan 4 perunggu ini
+64	6 perak dan 4 perunggu ini Menjadi pembuka
+65	6 perak dan 4 perunggu ini Menjadi pembuka
+66	Menjadi pembuka
+67	Menjadi pembuka Untuk meraih kemenangan
+68	Menjadi pembuka Untuk meraih kemenangan
+69	Untuk meraih kemenangan
+70	Untuk meraih kemenangan Dipon ke-21 di Sumut dan Aceh
+71	Untuk meraih kemenangan Dipon ke-21 di Sumut dan Aceh
+72	Dipon ke-21 di Sumut dan Aceh
+73	Dipon ke-21 di Sumut dan Aceh
+74	Dipon ke-21 di Sumut dan Aceh
+75	Dipon ke-21 di Sumut dan Aceh Untuk seluruh atlet BKI
+76	Dipon ke-21 di Sumut dan Aceh Untuk seluruh atlet BKI
+77	Untuk seluruh atlet BKI
+78	Untuk seluruh atlet BKI
+79	Untuk seluruh atlet BKI
+80	Untuk seluruh atlet BKI Selamat berjuang
+81	Untuk seluruh atlet BKI Selamat berjuang
+82	Selamat berjuang
+83	Selamat berjuang Semoga bisa menjadi juara umum
+84	Selamat berjuang Semoga bisa menjadi juara umum
+85	Semoga bisa menjadi juara umum
+86	Semoga bisa menjadi juara umum
+87	Semoga bisa menjadi juara umum
+88	Semoga bisa menjadi juara umum
+89	Semoga bisa menjadi juara umum Doa dari saya dan kita semuanya
+90	Semoga bisa menjadi juara umum Doa dari saya dan kita semuanya
+91	Doa dari saya dan kita semuanya
+92	Doa dari saya dan kita semuanya
+93	Doa dari saya dan kita semuanya
+94	Doa dari saya dan kita semuanya Warga DKI Jakarta
+95	Doa dari saya dan kita semuanya Warga DKI Jakarta
+96	Warga DKI Jakarta
+97	Warga DKI Jakarta Dan untuk rekan-rekan poni
+98	Warga DKI Jakarta Dan untuk rekan-rekan poni
+99	Dan untuk rekan-rekan poni
+100	Dan untuk rekan-rekan poni
+101	Dan untuk rekan-rekan poni
+102	Dan untuk rekan-rekan poni
+103	Dan untuk rekan-rekan poni
+104	Dan untuk rekan-rekan poni DKI Jakarta
+105	Dan untuk rekan-rekan poni DKI Jakarta Selamat bertugas untuk mengawal
+106	DKI Jakarta Selamat bertugas untuk mengawal
+107	Selamat bertugas untuk mengawal
+108	Selamat bertugas untuk mengawal
+109	Selamat bertugas untuk mengawal
+110	Selamat bertugas untuk mengawal
+111	Selamat bertugas untuk mengawal Dan melayani atlet-atlet
+112	Selamat bertugas untuk mengawal Dan melayani atlet-atlet
+113	Dan melayani atlet-atlet
+114	Dan melayani atlet-atlet
+115	Dan melayani atlet-atlet
+116	Dan melayani atlet-atlet Kontingen DKI Jakarta
+117	Dan melayani atlet-atlet Kontingen DKI Jakarta
+118	Kontingen DKI Jakarta
+119	Kontingen DKI Jakarta
+120	Kontingen DKI Jakarta Jakarta datang
+121	Kontingen DKI Jakarta Jakarta datang
+122	Jakarta datang
+123	Jakarta datang
+124	Jakarta datang Jakarta menang
+125	Jakarta datang Jakarta menang Sukses Jakarta untuk Indonesia
+126	Jakarta menang Sukses Jakarta untuk Indonesia
+127	Jakarta menang Sukses Jakarta untuk Indonesia
+128	Sukses Jakarta untuk Indonesia
+129	Sukses Jakarta untuk Indonesia
+130	Sukses Jakarta untuk Indonesia
+131	Sukses Jakarta untuk Indonesia
+132	[NO_SPEECH]
+133	[NO_SPEECH]
+134	[NO_SPEECH]
+135	[NO_SPEECH]
+136	[NO_SPEECH]
+137	[NO_SPEECH]
+138	[NO_SPEECH]
+139	[NO_SPEECH]
+140	[NO_SPEECH]
+141	[NO_SPEECH]
+142	[NO_SPEECH]
+143	[NO_SPEECH]

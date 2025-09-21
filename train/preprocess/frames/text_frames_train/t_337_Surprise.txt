@@ -1,0 +1,55 @@
+0	Tarikan senar raket yang kenceng bikin smash makin kenceng?
+1	Tarikan senar raket yang kenceng bikin smash makin kenceng?
+2	Tarikan senar raket yang kenceng bikin smash makin kenceng?
+3	Tarikan senar raket yang kenceng bikin smash makin kenceng?
+4	Tarikan senar raket yang kenceng bikin smash makin kenceng? Emang iya?
+5	Tarikan senar raket yang kenceng bikin smash makin kenceng? Emang iya? Sini-sini gue kasih tau.
+6	Emang iya? Sini-sini gue kasih tau.
+7	Sini-sini gue kasih tau.
+8	Sini-sini gue kasih tau. Semakin kenceng tarikan senar kita, maka dibutuhkan tenaga yang lebih besar untuk menghasilkan pukulan yang keras.
+9	Sini-sini gue kasih tau. Semakin kenceng tarikan senar kita, maka dibutuhkan tenaga yang lebih besar untuk menghasilkan pukulan yang keras.
+10	Semakin kenceng tarikan senar kita, maka dibutuhkan tenaga yang lebih besar untuk menghasilkan pukulan yang keras.
+11	Semakin kenceng tarikan senar kita, maka dibutuhkan tenaga yang lebih besar untuk menghasilkan pukulan yang keras.
+12	Semakin kenceng tarikan senar kita, maka dibutuhkan tenaga yang lebih besar untuk menghasilkan pukulan yang keras.
+13	Semakin kenceng tarikan senar kita, maka dibutuhkan tenaga yang lebih besar untuk menghasilkan pukulan yang keras.
+14	Semakin kenceng tarikan senar kita, maka dibutuhkan tenaga yang lebih besar untuk menghasilkan pukulan yang keras.
+15	Semakin kenceng tarikan senar kita, maka dibutuhkan tenaga yang lebih besar untuk menghasilkan pukulan yang keras.
+16	Semakin kenceng tarikan senar kita, maka dibutuhkan tenaga yang lebih besar untuk menghasilkan pukulan yang keras.
+17	Semakin kenceng tarikan senar kita, maka dibutuhkan tenaga yang lebih besar untuk menghasilkan pukulan yang keras.
+18	Semakin kenceng tarikan senar kita, maka dibutuhkan tenaga yang lebih besar untuk menghasilkan pukulan yang keras. Dan semakin rendah tarikan senar kita, maka tenaga yang dibutuhkan untuk menghasilkan pukulan yang keras akan jauh lebih kecil.
+19	Semakin kenceng tarikan senar kita, maka dibutuhkan tenaga yang lebih besar untuk menghasilkan pukulan yang keras. Dan semakin rendah tarikan senar kita, maka tenaga yang dibutuhkan untuk menghasilkan pukulan yang keras akan jauh lebih kecil.
+20	Dan semakin rendah tarikan senar kita, maka tenaga yang dibutuhkan untuk menghasilkan pukulan yang keras akan jauh lebih kecil.
+21	Dan semakin rendah tarikan senar kita, maka tenaga yang dibutuhkan untuk menghasilkan pukulan yang keras akan jauh lebih kecil.
+22	Dan semakin rendah tarikan senar kita, maka tenaga yang dibutuhkan untuk menghasilkan pukulan yang keras akan jauh lebih kecil.
+23	Dan semakin rendah tarikan senar kita, maka tenaga yang dibutuhkan untuk menghasilkan pukulan yang keras akan jauh lebih kecil.
+24	Dan semakin rendah tarikan senar kita, maka tenaga yang dibutuhkan untuk menghasilkan pukulan yang keras akan jauh lebih kecil.
+25	Dan semakin rendah tarikan senar kita, maka tenaga yang dibutuhkan untuk menghasilkan pukulan yang keras akan jauh lebih kecil.
+26	Dan semakin rendah tarikan senar kita, maka tenaga yang dibutuhkan untuk menghasilkan pukulan yang keras akan jauh lebih kecil.
+27	Dan semakin rendah tarikan senar kita, maka tenaga yang dibutuhkan untuk menghasilkan pukulan yang keras akan jauh lebih kecil.
+28	Dan semakin rendah tarikan senar kita, maka tenaga yang dibutuhkan untuk menghasilkan pukulan yang keras akan jauh lebih kecil.
+29	Dan semakin rendah tarikan senar kita, maka tenaga yang dibutuhkan untuk menghasilkan pukulan yang keras akan jauh lebih kecil. Tapi, ada kelebihan dan kekurangannya juga.
+30	Dan semakin rendah tarikan senar kita, maka tenaga yang dibutuhkan untuk menghasilkan pukulan yang keras akan jauh lebih kecil. Tapi, ada kelebihan dan kekurangannya juga.
+31	Tapi, ada kelebihan dan kekurangannya juga.
+32	Tapi, ada kelebihan dan kekurangannya juga.
+33	Tapi, ada kelebihan dan kekurangannya juga.
+34	Tapi, ada kelebihan dan kekurangannya juga. Tarikan tinggi akan meningkatkan akurasi pukulan dibanding dengan tarikan senar yang rendah.
+35	Tapi, ada kelebihan dan kekurangannya juga. Tarikan tinggi akan meningkatkan akurasi pukulan dibanding dengan tarikan senar yang rendah.
+36	Tarikan tinggi akan meningkatkan akurasi pukulan dibanding dengan tarikan senar yang rendah.
+37	Tarikan tinggi akan meningkatkan akurasi pukulan dibanding dengan tarikan senar yang rendah.
+38	Tarikan tinggi akan meningkatkan akurasi pukulan dibanding dengan tarikan senar yang rendah.
+39	Tarikan tinggi akan meningkatkan akurasi pukulan dibanding dengan tarikan senar yang rendah.
+40	Tarikan tinggi akan meningkatkan akurasi pukulan dibanding dengan tarikan senar yang rendah.
+41	Tarikan tinggi akan meningkatkan akurasi pukulan dibanding dengan tarikan senar yang rendah.
+42	Tarikan tinggi akan meningkatkan akurasi pukulan dibanding dengan tarikan senar yang rendah.
+43	Tarikan tinggi akan meningkatkan akurasi pukulan dibanding dengan tarikan senar yang rendah. Jadi gimana?
+44	Tarikan tinggi akan meningkatkan akurasi pukulan dibanding dengan tarikan senar yang rendah. Jadi gimana? Menurut kalian lebih enak tarikan rendah atau tarikan tinggi?
+45	Jadi gimana? Menurut kalian lebih enak tarikan rendah atau tarikan tinggi?
+46	Menurut kalian lebih enak tarikan rendah atau tarikan tinggi?
+47	Menurut kalian lebih enak tarikan rendah atau tarikan tinggi?
+48	Menurut kalian lebih enak tarikan rendah atau tarikan tinggi?
+49	Menurut kalian lebih enak tarikan rendah atau tarikan tinggi? Coba komen di bawah.
+50	Menurut kalian lebih enak tarikan rendah atau tarikan tinggi? Coba komen di bawah.
+51	Coba komen di bawah.
+52	Coba komen di bawah.
+53	[NO_SPEECH]
+54	[NO_SPEECH]

@@ -1,0 +1,166 @@
+0	Tablet 2 juta sekarang udah bisa gini.
+1	Tablet 2 juta sekarang udah bisa gini.
+2	Tablet 2 juta sekarang udah bisa gini. Namanya Redmi Pad 2 ya.
+3	Tablet 2 juta sekarang udah bisa gini. Namanya Redmi Pad 2 ya.
+4	Namanya Redmi Pad 2 ya.
+5	Namanya Redmi Pad 2 ya.
+6	Namanya Redmi Pad 2 ya. Tablet entry level Xiaomi.
+7	Namanya Redmi Pad 2 ya. Tablet entry level Xiaomi.
+8	Tablet entry level Xiaomi.
+9	Tablet entry level Xiaomi. Tapi punya layar 11 inci.
+10	Tablet entry level Xiaomi. Tapi punya layar 11 inci.
+11	Tapi punya layar 11 inci.
+12	Tapi punya layar 11 inci.
+13	Tapi punya layar 11 inci.
+14	Tapi punya layar 11 inci. Resolusinya 2560 x 1600 piksel.
+15	Tapi punya layar 11 inci. Resolusinya 2560 x 1600 piksel.
+16	Resolusinya 2560 x 1600 piksel.
+17	Resolusinya 2560 x 1600 piksel.
+18	Resolusinya 2560 x 1600 piksel.
+19	Resolusinya 2560 x 1600 piksel.
+20	Resolusinya 2560 x 1600 piksel.
+21	Resolusinya 2560 x 1600 piksel. Alias 2,5K.
+22	Resolusinya 2560 x 1600 piksel. Alias 2,5K.
+23	Alias 2,5K.
+24	Alias 2,5K.
+25	Alias 2,5K. Wow.
+26	Alias 2,5K. Wow. Mau baca tulisan kecil di dokumen pun masih jelas.
+27	Wow. Mau baca tulisan kecil di dokumen pun masih jelas.
+28	Mau baca tulisan kecil di dokumen pun masih jelas.
+29	Mau baca tulisan kecil di dokumen pun masih jelas.
+30	Mau baca tulisan kecil di dokumen pun masih jelas.
+31	Mau baca tulisan kecil di dokumen pun masih jelas.
+32	Mau baca tulisan kecil di dokumen pun masih jelas.
+33	Mau baca tulisan kecil di dokumen pun masih jelas. Pikselnya padet.
+34	Mau baca tulisan kecil di dokumen pun masih jelas. Pikselnya padet.
+35	Pikselnya padet. Nonton video 1440p di Youtube.
+36	Pikselnya padet. Nonton video 1440p di Youtube.
+37	Nonton video 1440p di Youtube.
+38	Nonton video 1440p di Youtube.
+39	Nonton video 1440p di Youtube.
+40	Nonton video 1440p di Youtube. Nonton film di Netflix Hi-Res.
+41	Nonton video 1440p di Youtube. Nonton film di Netflix Hi-Res.
+42	Nonton film di Netflix Hi-Res.
+43	Nonton film di Netflix Hi-Res.
+44	Nonton film di Netflix Hi-Res. Sedap.
+45	Nonton film di Netflix Hi-Res. Sedap. Apalagi speakernya juga nampol ya.
+46	Sedap. Apalagi speakernya juga nampol ya.
+47	Apalagi speakernya juga nampol ya.
+48	Apalagi speakernya juga nampol ya.
+49	Apalagi speakernya juga nampol ya. Pake sistem quad speaker dengan Dolby Atmos.
+50	Apalagi speakernya juga nampol ya. Pake sistem quad speaker dengan Dolby Atmos.
+51	Pake sistem quad speaker dengan Dolby Atmos.
+52	Pake sistem quad speaker dengan Dolby Atmos.
+53	Pake sistem quad speaker dengan Dolby Atmos.
+54	Pake sistem quad speaker dengan Dolby Atmos. Atmos. Staging.
+55	Pake sistem quad speaker dengan Dolby Atmos. Atmos. Staging.
+56	Staging. Bass.
+57	Bass. Detail.
+58	Detail. Sedap.
+59	Detail. Sedap. Kayak bukan tablet kelas entry level ini.
+60	Sedap. Kayak bukan tablet kelas entry level ini.
+61	Kayak bukan tablet kelas entry level ini.
+62	Kayak bukan tablet kelas entry level ini.
+63	Kayak bukan tablet kelas entry level ini. Mau dijadiin teman kerja?
+64	Kayak bukan tablet kelas entry level ini. Mau dijadiin teman kerja?
+65	Mau dijadiin teman kerja?
+66	Mau dijadiin teman kerja? X10 monitor di desktop?
+67	Mau dijadiin teman kerja? X10 monitor di desktop?
+68	X10 monitor di desktop?
+69	X10 monitor di desktop? Laptop?
+70	X10 monitor di desktop? Laptop? Bisa juga.
+71	Laptop? Bisa juga.
+72	Bisa juga. Sistem Windows, Mac nyambung semua.
+73	Sistem Windows, Mac nyambung semua.
+74	Sistem Windows, Mac nyambung semua.
+75	Sistem Windows, Mac nyambung semua.
+76	Sistem Windows, Mac nyambung semua. Berasa ada ekstra monitor tambahan loh.
+77	Sistem Windows, Mac nyambung semua. Berasa ada ekstra monitor tambahan loh.
+78	Berasa ada ekstra monitor tambahan loh.
+79	Berasa ada ekstra monitor tambahan loh.
+80	Berasa ada ekstra monitor tambahan loh.
+81	Berasa ada ekstra monitor tambahan loh. Di Windows, Redmi Pad 2 malah bisa dipake buat input ya.
+82	Di Windows, Redmi Pad 2 malah bisa dipake buat input ya.
+83	Di Windows, Redmi Pad 2 malah bisa dipake buat input ya.
+84	Di Windows, Redmi Pad 2 malah bisa dipake buat input ya.
+85	Di Windows, Redmi Pad 2 malah bisa dipake buat input ya.
+86	Di Windows, Redmi Pad 2 malah bisa dipake buat input ya.
+87	Di Windows, Redmi Pad 2 malah bisa dipake buat input ya. Jadi kita bisa gambar di tabletnya pake stylus.
+88	Di Windows, Redmi Pad 2 malah bisa dipake buat input ya. Jadi kita bisa gambar di tabletnya pake stylus.
+89	Jadi kita bisa gambar di tabletnya pake stylus.
+90	Jadi kita bisa gambar di tabletnya pake stylus.
+91	Jadi kita bisa gambar di tabletnya pake stylus.
+92	Jadi kita bisa gambar di tabletnya pake stylus. Terus save filenya di komputer.
+93	Jadi kita bisa gambar di tabletnya pake stylus. Terus save filenya di komputer.
+94	Terus save filenya di komputer.
+95	Terus save filenya di komputer.
+96	Terus save filenya di komputer. Mantep.
+97	Terus save filenya di komputer. Mantep.
+98	Mantep. Baterenya gede di 9000mAh.
+99	Baterenya gede di 9000mAh.
+100	Baterenya gede di 9000mAh.
+101	Baterenya gede di 9000mAh.
+102	Baterenya gede di 9000mAh. Ngecas bisa up to 18W.
+103	Baterenya gede di 9000mAh. Ngecas bisa up to 18W.
+104	Ngecas bisa up to 18W.
+105	Ngecas bisa up to 18W.
+106	Ngecas bisa up to 18W. Dan buat mesin, Redmi Pad 2 ini pake Helio G100 Ultra.
+107	Ngecas bisa up to 18W. Dan buat mesin, Redmi Pad 2 ini pake Helio G100 Ultra.
+108	Dan buat mesin, Redmi Pad 2 ini pake Helio G100 Ultra.
+109	Dan buat mesin, Redmi Pad 2 ini pake Helio G100 Ultra.
+110	Dan buat mesin, Redmi Pad 2 ini pake Helio G100 Ultra.
+111	Dan buat mesin, Redmi Pad 2 ini pake Helio G100 Ultra.
+112	Dan buat mesin, Redmi Pad 2 ini pake Helio G100 Ultra.
+113	Dan buat mesin, Redmi Pad 2 ini pake Helio G100 Ultra.
+114	Dan buat mesin, Redmi Pad 2 ini pake Helio G100 Ultra. Plus storage 128GB UFS 2.2.
+115	Plus storage 128GB UFS 2.2.
+116	Plus storage 128GB UFS 2.2.
+117	Plus storage 128GB UFS 2.2.
+118	Plus storage 128GB UFS 2.2.
+119	Plus storage 128GB UFS 2.2. Kalo main game enteng, masih bisa.
+120	Plus storage 128GB UFS 2.2. Kalo main game enteng, masih bisa.
+121	Kalo main game enteng, masih bisa.
+122	Kalo main game enteng, masih bisa.
+123	Kalo main game enteng, masih bisa. Aman, lancar.
+124	Kalo main game enteng, masih bisa. Aman, lancar.
+125	Aman, lancar. Kalo main game berat, baru kurang cocok.
+126	Aman, lancar. Kalo main game berat, baru kurang cocok.
+127	Kalo main game berat, baru kurang cocok.
+128	Kalo main game berat, baru kurang cocok.
+129	Kalo main game berat, baru kurang cocok.
+130	Kalo main game berat, baru kurang cocok. Karena RAMnya cuma 4GB ya.
+131	Kalo main game berat, baru kurang cocok. Karena RAMnya cuma 4GB ya.
+132	Karena RAMnya cuma 4GB ya.
+133	Karena RAMnya cuma 4GB ya. Kayak tablet 2 juta lain.
+134	Karena RAMnya cuma 4GB ya. Kayak tablet 2 juta lain.
+135	Kayak tablet 2 juta lain.
+136	Kayak tablet 2 juta lain.
+137	Kayak tablet 2 juta lain. Redmi Pad 2 ini paling cocok buat orang yang cari tablet demi dapetin layar bagus.
+138	Redmi Pad 2 ini paling cocok buat orang yang cari tablet demi dapetin layar bagus.
+139	Redmi Pad 2 ini paling cocok buat orang yang cari tablet demi dapetin layar bagus.
+140	Redmi Pad 2 ini paling cocok buat orang yang cari tablet demi dapetin layar bagus.
+141	Redmi Pad 2 ini paling cocok buat orang yang cari tablet demi dapetin layar bagus.
+142	Redmi Pad 2 ini paling cocok buat orang yang cari tablet demi dapetin layar bagus.
+143	Redmi Pad 2 ini paling cocok buat orang yang cari tablet demi dapetin layar bagus.
+144	Redmi Pad 2 ini paling cocok buat orang yang cari tablet demi dapetin layar bagus.
+145	Redmi Pad 2 ini paling cocok buat orang yang cari tablet demi dapetin layar bagus.
+146	Redmi Pad 2 ini paling cocok buat orang yang cari tablet demi dapetin layar bagus. Ukurannya lega tanpa kompromi di resolusi.
+147	Ukurannya lega tanpa kompromi di resolusi.
+148	Ukurannya lega tanpa kompromi di resolusi.
+149	Ukurannya lega tanpa kompromi di resolusi.
+150	Ukurannya lega tanpa kompromi di resolusi.
+151	Ukurannya lega tanpa kompromi di resolusi.
+152	Ukurannya lega tanpa kompromi di resolusi. Biar pengalaman nonton, baca, main, kerja, belajar jadi lebih mantap tanpa bikin kantong ngap.
+153	Ukurannya lega tanpa kompromi di resolusi. Biar pengalaman nonton, baca, main, kerja, belajar jadi lebih mantap tanpa bikin kantong ngap.
+154	Biar pengalaman nonton, baca, main, kerja, belajar jadi lebih mantap tanpa bikin kantong ngap.
+155	Biar pengalaman nonton, baca, main, kerja, belajar jadi lebih mantap tanpa bikin kantong ngap.
+156	Biar pengalaman nonton, baca, main, kerja, belajar jadi lebih mantap tanpa bikin kantong ngap.
+157	Biar pengalaman nonton, baca, main, kerja, belajar jadi lebih mantap tanpa bikin kantong ngap.
+158	Biar pengalaman nonton, baca, main, kerja, belajar jadi lebih mantap tanpa bikin kantong ngap.
+159	Biar pengalaman nonton, baca, main, kerja, belajar jadi lebih mantap tanpa bikin kantong ngap.
+160	Biar pengalaman nonton, baca, main, kerja, belajar jadi lebih mantap tanpa bikin kantong ngap.
+161	Biar pengalaman nonton, baca, main, kerja, belajar jadi lebih mantap tanpa bikin kantong ngap.
+162	Biar pengalaman nonton, baca, main, kerja, belajar jadi lebih mantap tanpa bikin kantong ngap.
+163	Biar pengalaman nonton, baca, main, kerja, belajar jadi lebih mantap tanpa bikin kantong ngap.
+164	Biar pengalaman nonton, baca, main, kerja, belajar jadi lebih mantap tanpa bikin kantong ngap.
+165	Biar pengalaman nonton, baca, main, kerja, belajar jadi lebih mantap tanpa bikin kantong ngap.

@@ -1,0 +1,95 @@
+0	I'm out of this head
+1	I'm out of this head
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	[NO_SPEECH]
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	So come on with me, I'll take you high
+29	So come on with me, I'll take you high
+30	So come on with me, I'll take you high
+31	So come on with me, I'll take you high
+32	So come on with me, I'll take you high
+33	So come on with me, I'll take you high
+34	So come on with me, I'll take you high
+35	So come on with me, I'll take you high That prima donna spice up your life
+36	That prima donna spice up your life
+37	That prima donna spice up your life
+38	That prima donna spice up your life
+39	That prima donna spice up your life
+40	That prima donna spice up your life
+41	That prima donna spice up your life
+42	You know I got that shit that you like
+43	You know I got that shit that you like
+44	You know I got that shit that you like
+45	You know I got that shit that you like
+46	You know I got that shit that you like
+47	You know I got that shit that you like
+48	You know I got that shit that you like So come on with me, run up, uh, jump
+49	So come on with me, run up, uh, jump
+50	So come on with me, run up, uh, jump
+51	So come on with me, run up, uh, jump
+52	So come on with me, run up, uh, jump
+53	So come on with me, run up, uh, jump Watch me running up the place
+54	So come on with me, run up, uh, jump Watch me running up the place
+55	Watch me running up the place
+56	Watch me running up the place
+57	Watch me running up the place
+58	Watch me running up the place I'm already starting and my girls are on the way
+59	Watch me running up the place I'm already starting and my girls are on the way
+60	I'm already starting and my girls are on the way
+61	I'm already starting and my girls are on the way
+62	I'm already starting and my girls are on the way
+63	I'm already starting and my girls are on the way
+64	I'm already starting and my girls are on the way
+65	I'm already starting and my girls are on the way
+66	I'm already starting and my girls are on the way Watch me open up the place
+67	Watch me open up the place
+68	Watch me open up the place
+69	Watch me open up the place
+70	Watch me open up the place
+71	Watch me open up the place
+72	Watch me open up the place Wanna see you bumpin', baby, bounce into the bass
+73	Watch me open up the place Wanna see you bumpin', baby, bounce into the bass
+74	Wanna see you bumpin', baby, bounce into the bass
+75	Wanna see you bumpin', baby, bounce into the bass
+76	Wanna see you bumpin', baby, bounce into the bass
+77	Wanna see you bumpin', baby, bounce into the bass
+78	Wanna see you bumpin', baby, bounce into the bass
+79	Wanna see you bumpin', baby, bounce into the bass
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	[NO_SPEECH]
+83	[NO_SPEECH]
+84	[NO_SPEECH]
+85	[NO_SPEECH]
+86	[NO_SPEECH]
+87	[NO_SPEECH]
+88	[NO_SPEECH]
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	[NO_SPEECH]

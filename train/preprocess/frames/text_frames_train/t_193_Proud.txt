@@ -1,0 +1,115 @@
+0	Memasang kaca film untuk buling bingo EV tidak boleh sembarangan
+1	Memasang kaca film untuk buling bingo EV tidak boleh sembarangan
+2	Memasang kaca film untuk buling bingo EV tidak boleh sembarangan
+3	Memasang kaca film untuk buling bingo EV tidak boleh sembarangan
+4	Memasang kaca film untuk buling bingo EV tidak boleh sembarangan Pernah ada kejadian, customer pasang kaca film depan
+5	Memasang kaca film untuk buling bingo EV tidak boleh sembarangan Pernah ada kejadian, customer pasang kaca film depan
+6	Pernah ada kejadian, customer pasang kaca film depan
+7	Pernah ada kejadian, customer pasang kaca film depan
+8	Pernah ada kejadian, customer pasang kaca film depan
+9	Pernah ada kejadian, customer pasang kaca film depan Kemudian air menetes lewat celah dashboard
+10	Pernah ada kejadian, customer pasang kaca film depan Kemudian air menetes lewat celah dashboard
+11	Kemudian air menetes lewat celah dashboard
+12	Kemudian air menetes lewat celah dashboard
+13	Kemudian air menetes lewat celah dashboard Masuk ke komponen elektroniknya dan mobilnya jadi error
+14	Kemudian air menetes lewat celah dashboard Masuk ke komponen elektroniknya dan mobilnya jadi error
+15	Masuk ke komponen elektroniknya dan mobilnya jadi error
+16	Masuk ke komponen elektroniknya dan mobilnya jadi error
+17	Masuk ke komponen elektroniknya dan mobilnya jadi error
+18	Masuk ke komponen elektroniknya dan mobilnya jadi error
+19	Masuk ke komponen elektroniknya dan mobilnya jadi error Untungnya saya pasang kaca film bingo EV saya ini di Solar Guard
+20	Masuk ke komponen elektroniknya dan mobilnya jadi error Untungnya saya pasang kaca film bingo EV saya ini di Solar Guard
+21	Untungnya saya pasang kaca film bingo EV saya ini di Solar Guard
+22	Untungnya saya pasang kaca film bingo EV saya ini di Solar Guard
+23	Untungnya saya pasang kaca film bingo EV saya ini di Solar Guard
+24	Untungnya saya pasang kaca film bingo EV saya ini di Solar Guard
+25	Untungnya saya pasang kaca film bingo EV saya ini di Solar Guard
+26	Untungnya saya pasang kaca film bingo EV saya ini di Solar Guard Dimana mekaniknya sudah terlatih semua dan aware mengenai masalah ini
+27	Untungnya saya pasang kaca film bingo EV saya ini di Solar Guard Dimana mekaniknya sudah terlatih semua dan aware mengenai masalah ini
+28	Dimana mekaniknya sudah terlatih semua dan aware mengenai masalah ini
+29	Dimana mekaniknya sudah terlatih semua dan aware mengenai masalah ini
+30	Dimana mekaniknya sudah terlatih semua dan aware mengenai masalah ini
+31	Dimana mekaniknya sudah terlatih semua dan aware mengenai masalah ini
+32	Dimana mekaniknya sudah terlatih semua dan aware mengenai masalah ini
+33	Dimana mekaniknya sudah terlatih semua dan aware mengenai masalah ini Jadi alhamdulillah semuanya lancar, pemasangannya rapi dan mobil tidak ada masalah
+34	Dimana mekaniknya sudah terlatih semua dan aware mengenai masalah ini Jadi alhamdulillah semuanya lancar, pemasangannya rapi dan mobil tidak ada masalah
+35	Jadi alhamdulillah semuanya lancar, pemasangannya rapi dan mobil tidak ada masalah
+36	Jadi alhamdulillah semuanya lancar, pemasangannya rapi dan mobil tidak ada masalah
+37	Jadi alhamdulillah semuanya lancar, pemasangannya rapi dan mobil tidak ada masalah
+38	Jadi alhamdulillah semuanya lancar, pemasangannya rapi dan mobil tidak ada masalah
+39	Jadi alhamdulillah semuanya lancar, pemasangannya rapi dan mobil tidak ada masalah
+40	Jadi alhamdulillah semuanya lancar, pemasangannya rapi dan mobil tidak ada masalah
+41	Jadi alhamdulillah semuanya lancar, pemasangannya rapi dan mobil tidak ada masalah Untuk kaca filmnya sendiri, saya pasang Solar Guard Black Phantom
+42	Jadi alhamdulillah semuanya lancar, pemasangannya rapi dan mobil tidak ada masalah Untuk kaca filmnya sendiri, saya pasang Solar Guard Black Phantom
+43	Untuk kaca filmnya sendiri, saya pasang Solar Guard Black Phantom
+44	Untuk kaca filmnya sendiri, saya pasang Solar Guard Black Phantom
+45	Untuk kaca filmnya sendiri, saya pasang Solar Guard Black Phantom
+46	Untuk kaca filmnya sendiri, saya pasang Solar Guard Black Phantom
+47	Untuk kaca filmnya sendiri, saya pasang Solar Guard Black Phantom
+48	Untuk kaca filmnya sendiri, saya pasang Solar Guard Black Phantom
+49	Untuk kaca filmnya sendiri, saya pasang Solar Guard Black Phantom Dengan kegelapan 40% untuk bagian samping dan belakang
+50	Untuk kaca filmnya sendiri, saya pasang Solar Guard Black Phantom Dengan kegelapan 40% untuk bagian samping dan belakang
+51	Dengan kegelapan 40% untuk bagian samping dan belakang
+52	Dengan kegelapan 40% untuk bagian samping dan belakang
+53	Dengan kegelapan 40% untuk bagian samping dan belakang
+54	Dengan kegelapan 40% untuk bagian samping dan belakang
+55	Dengan kegelapan 40% untuk bagian samping dan belakang Yang bikin tampilan mobil jadi keren
+56	Dengan kegelapan 40% untuk bagian samping dan belakang Yang bikin tampilan mobil jadi keren
+57	Yang bikin tampilan mobil jadi keren
+58	Yang bikin tampilan mobil jadi keren Untuk bagian depan, saya pasangkan Solar Guard Premium LX70
+59	Yang bikin tampilan mobil jadi keren Untuk bagian depan, saya pasangkan Solar Guard Premium LX70
+60	Untuk bagian depan, saya pasangkan Solar Guard Premium LX70
+61	Untuk bagian depan, saya pasangkan Solar Guard Premium LX70
+62	Untuk bagian depan, saya pasangkan Solar Guard Premium LX70
+63	Untuk bagian depan, saya pasangkan Solar Guard Premium LX70
+64	Untuk bagian depan, saya pasangkan Solar Guard Premium LX70
+65	Untuk bagian depan, saya pasangkan Solar Guard Premium LX70
+66	Untuk bagian depan, saya pasangkan Solar Guard Premium LX70 Dengan kegelapan hanya 20% yang tidak mengganggu visibilitas
+67	Untuk bagian depan, saya pasangkan Solar Guard Premium LX70 Dengan kegelapan hanya 20% yang tidak mengganggu visibilitas
+68	Dengan kegelapan hanya 20% yang tidak mengganggu visibilitas
+69	Dengan kegelapan hanya 20% yang tidak mengganggu visibilitas
+70	Dengan kegelapan hanya 20% yang tidak mengganggu visibilitas
+71	Dengan kegelapan hanya 20% yang tidak mengganggu visibilitas
+72	Dengan kegelapan hanya 20% yang tidak mengganggu visibilitas
+73	Dengan kegelapan hanya 20% yang tidak mengganggu visibilitas Dan penolakan panas kedua kaca film ini luar biasa
+74	Dengan kegelapan hanya 20% yang tidak mengganggu visibilitas Dan penolakan panas kedua kaca film ini luar biasa
+75	Dan penolakan panas kedua kaca film ini luar biasa
+76	Dan penolakan panas kedua kaca film ini luar biasa
+77	Dan penolakan panas kedua kaca film ini luar biasa
+78	Dan penolakan panas kedua kaca film ini luar biasa
+79	Dan penolakan panas kedua kaca film ini luar biasa
+80	Dan penolakan panas kedua kaca film ini luar biasa Bikin kabin sekarang jadi adem
+81	Dan penolakan panas kedua kaca film ini luar biasa Bikin kabin sekarang jadi adem
+82	Bikin kabin sekarang jadi adem
+83	Bikin kabin sekarang jadi adem
+84	Bikin kabin sekarang jadi adem Kemudian kalau kabin adem itu kinerja AC menjadi lebih ringan
+85	Bikin kabin sekarang jadi adem Kemudian kalau kabin adem itu kinerja AC menjadi lebih ringan
+86	Kemudian kalau kabin adem itu kinerja AC menjadi lebih ringan
+87	Kemudian kalau kabin adem itu kinerja AC menjadi lebih ringan
+88	Kemudian kalau kabin adem itu kinerja AC menjadi lebih ringan
+89	Kemudian kalau kabin adem itu kinerja AC menjadi lebih ringan
+90	Kemudian kalau kabin adem itu kinerja AC menjadi lebih ringan
+91	Kemudian kalau kabin adem itu kinerja AC menjadi lebih ringan Dan ujung-ujungnya pemakaian energi menjadi lebih hemat
+92	Kemudian kalau kabin adem itu kinerja AC menjadi lebih ringan Dan ujung-ujungnya pemakaian energi menjadi lebih hemat
+93	Dan ujung-ujungnya pemakaian energi menjadi lebih hemat
+94	Dan ujung-ujungnya pemakaian energi menjadi lebih hemat
+95	Dan ujung-ujungnya pemakaian energi menjadi lebih hemat
+96	Dan ujung-ujungnya pemakaian energi menjadi lebih hemat
+97	Dan ujung-ujungnya pemakaian energi menjadi lebih hemat Anda pengen adem? Pasang Solar Guard
+98	Dan ujung-ujungnya pemakaian energi menjadi lebih hemat Anda pengen adem? Pasang Solar Guard
+99	Anda pengen adem? Pasang Solar Guard
+100	Anda pengen adem? Pasang Solar Guard
+101	Anda pengen adem? Pasang Solar Guard
+102	Anda pengen adem? Pasang Solar Guard
+103	Anda pengen adem? Pasang Solar Guard Dan untuk keterangan lebih lanjut, silakan Anda ke Instagram Solar Guard ID
+104	Anda pengen adem? Pasang Solar Guard Dan untuk keterangan lebih lanjut, silakan Anda ke Instagram Solar Guard ID
+105	Dan untuk keterangan lebih lanjut, silakan Anda ke Instagram Solar Guard ID
+106	Dan untuk keterangan lebih lanjut, silakan Anda ke Instagram Solar Guard ID
+107	Dan untuk keterangan lebih lanjut, silakan Anda ke Instagram Solar Guard ID
+108	Dan untuk keterangan lebih lanjut, silakan Anda ke Instagram Solar Guard ID
+109	Dan untuk keterangan lebih lanjut, silakan Anda ke Instagram Solar Guard ID
+110	Dan untuk keterangan lebih lanjut, silakan Anda ke Instagram Solar Guard ID
+111	Dan untuk keterangan lebih lanjut, silakan Anda ke Instagram Solar Guard ID
+112	Dan untuk keterangan lebih lanjut, silakan Anda ke Instagram Solar Guard ID
+113	[NO_SPEECH]
+114	[NO_SPEECH]

@@ -1,0 +1,102 @@
+0	Kepala gatal terus? Kirain ketombe? Eh pas disisir ternyata ada kutu.
+1	Kepala gatal terus? Kirain ketombe? Eh pas disisir ternyata ada kutu.
+2	Kepala gatal terus? Kirain ketombe? Eh pas disisir ternyata ada kutu.
+3	Kepala gatal terus? Kirain ketombe? Eh pas disisir ternyata ada kutu.
+4	Kepala gatal terus? Kirain ketombe? Eh pas disisir ternyata ada kutu.
+5	Kepala gatal terus? Kirain ketombe? Eh pas disisir ternyata ada kutu.
+6	Kepala gatal terus? Kirain ketombe? Eh pas disisir ternyata ada kutu.
+7	Kepala gatal terus? Kirain ketombe? Eh pas disisir ternyata ada kutu.
+8	Kepala gatal terus? Kirain ketombe? Eh pas disisir ternyata ada kutu. Kutu di rambut emang suka bikin gak sadar nih, karena ukurannya yang kecil sekitar 3 mm.
+9	Kepala gatal terus? Kirain ketombe? Eh pas disisir ternyata ada kutu. Kutu di rambut emang suka bikin gak sadar nih, karena ukurannya yang kecil sekitar 3 mm.
+10	Kutu di rambut emang suka bikin gak sadar nih, karena ukurannya yang kecil sekitar 3 mm.
+11	Kutu di rambut emang suka bikin gak sadar nih, karena ukurannya yang kecil sekitar 3 mm.
+12	Kutu di rambut emang suka bikin gak sadar nih, karena ukurannya yang kecil sekitar 3 mm.
+13	Kutu di rambut emang suka bikin gak sadar nih, karena ukurannya yang kecil sekitar 3 mm.
+14	Kutu di rambut emang suka bikin gak sadar nih, karena ukurannya yang kecil sekitar 3 mm.
+15	Kutu di rambut emang suka bikin gak sadar nih, karena ukurannya yang kecil sekitar 3 mm.
+16	Kutu di rambut emang suka bikin gak sadar nih, karena ukurannya yang kecil sekitar 3 mm.
+17	Kutu di rambut emang suka bikin gak sadar nih, karena ukurannya yang kecil sekitar 3 mm.
+18	Kutu di rambut emang suka bikin gak sadar nih, karena ukurannya yang kecil sekitar 3 mm.
+19	Kutu di rambut emang suka bikin gak sadar nih, karena ukurannya yang kecil sekitar 3 mm. Eits, tapi jangan salah kutu bisa menempel di rambut dekat kulit kepala dan menghisap darah kamu setiap hari loh.
+20	Eits, tapi jangan salah kutu bisa menempel di rambut dekat kulit kepala dan menghisap darah kamu setiap hari loh.
+21	Eits, tapi jangan salah kutu bisa menempel di rambut dekat kulit kepala dan menghisap darah kamu setiap hari loh.
+22	Eits, tapi jangan salah kutu bisa menempel di rambut dekat kulit kepala dan menghisap darah kamu setiap hari loh.
+23	Eits, tapi jangan salah kutu bisa menempel di rambut dekat kulit kepala dan menghisap darah kamu setiap hari loh.
+24	Eits, tapi jangan salah kutu bisa menempel di rambut dekat kulit kepala dan menghisap darah kamu setiap hari loh.
+25	Eits, tapi jangan salah kutu bisa menempel di rambut dekat kulit kepala dan menghisap darah kamu setiap hari loh.
+26	Eits, tapi jangan salah kutu bisa menempel di rambut dekat kulit kepala dan menghisap darah kamu setiap hari loh.
+27	Eits, tapi jangan salah kutu bisa menempel di rambut dekat kulit kepala dan menghisap darah kamu setiap hari loh.
+28	Eits, tapi jangan salah kutu bisa menempel di rambut dekat kulit kepala dan menghisap darah kamu setiap hari loh.
+29	Eits, tapi jangan salah kutu bisa menempel di rambut dekat kulit kepala dan menghisap darah kamu setiap hari loh.
+30	Eits, tapi jangan salah kutu bisa menempel di rambut dekat kulit kepala dan menghisap darah kamu setiap hari loh.
+31	Eits, tapi jangan salah kutu bisa menempel di rambut dekat kulit kepala dan menghisap darah kamu setiap hari loh.
+32	Eits, tapi jangan salah kutu bisa menempel di rambut dekat kulit kepala dan menghisap darah kamu setiap hari loh. Apalagi kutu itu sifatnya menular.
+33	Apalagi kutu itu sifatnya menular.
+34	Apalagi kutu itu sifatnya menular.
+35	Apalagi kutu itu sifatnya menular.
+36	Apalagi kutu itu sifatnya menular. Jadi hati-hati banget nih, buat kamu yang sering minjemin sisir atau barang pribadi lainnya di satu tempat ya.
+37	Apalagi kutu itu sifatnya menular. Jadi hati-hati banget nih, buat kamu yang sering minjemin sisir atau barang pribadi lainnya di satu tempat ya.
+38	Jadi hati-hati banget nih, buat kamu yang sering minjemin sisir atau barang pribadi lainnya di satu tempat ya.
+39	Jadi hati-hati banget nih, buat kamu yang sering minjemin sisir atau barang pribadi lainnya di satu tempat ya.
+40	Jadi hati-hati banget nih, buat kamu yang sering minjemin sisir atau barang pribadi lainnya di satu tempat ya.
+41	Jadi hati-hati banget nih, buat kamu yang sering minjemin sisir atau barang pribadi lainnya di satu tempat ya.
+42	Jadi hati-hati banget nih, buat kamu yang sering minjemin sisir atau barang pribadi lainnya di satu tempat ya.
+43	Jadi hati-hati banget nih, buat kamu yang sering minjemin sisir atau barang pribadi lainnya di satu tempat ya.
+44	Jadi hati-hati banget nih, buat kamu yang sering minjemin sisir atau barang pribadi lainnya di satu tempat ya.
+45	Jadi hati-hati banget nih, buat kamu yang sering minjemin sisir atau barang pribadi lainnya di satu tempat ya.
+46	Jadi hati-hati banget nih, buat kamu yang sering minjemin sisir atau barang pribadi lainnya di satu tempat ya.
+47	Jadi hati-hati banget nih, buat kamu yang sering minjemin sisir atau barang pribadi lainnya di satu tempat ya. Ya, biasanya telur kutu akan menetas setelah 6 hingga 9 hari dan akan bertahan hidup selama 3 sampai 4 minggu.
+48	Jadi hati-hati banget nih, buat kamu yang sering minjemin sisir atau barang pribadi lainnya di satu tempat ya. Ya, biasanya telur kutu akan menetas setelah 6 hingga 9 hari dan akan bertahan hidup selama 3 sampai 4 minggu.
+49	Ya, biasanya telur kutu akan menetas setelah 6 hingga 9 hari dan akan bertahan hidup selama 3 sampai 4 minggu.
+50	Ya, biasanya telur kutu akan menetas setelah 6 hingga 9 hari dan akan bertahan hidup selama 3 sampai 4 minggu.
+51	Ya, biasanya telur kutu akan menetas setelah 6 hingga 9 hari dan akan bertahan hidup selama 3 sampai 4 minggu.
+52	Ya, biasanya telur kutu akan menetas setelah 6 hingga 9 hari dan akan bertahan hidup selama 3 sampai 4 minggu.
+53	Ya, biasanya telur kutu akan menetas setelah 6 hingga 9 hari dan akan bertahan hidup selama 3 sampai 4 minggu.
+54	Ya, biasanya telur kutu akan menetas setelah 6 hingga 9 hari dan akan bertahan hidup selama 3 sampai 4 minggu.
+55	Ya, biasanya telur kutu akan menetas setelah 6 hingga 9 hari dan akan bertahan hidup selama 3 sampai 4 minggu.
+56	Ya, biasanya telur kutu akan menetas setelah 6 hingga 9 hari dan akan bertahan hidup selama 3 sampai 4 minggu.
+57	Ya, biasanya telur kutu akan menetas setelah 6 hingga 9 hari dan akan bertahan hidup selama 3 sampai 4 minggu.
+58	Ya, biasanya telur kutu akan menetas setelah 6 hingga 9 hari dan akan bertahan hidup selama 3 sampai 4 minggu.
+59	Ya, biasanya telur kutu akan menetas setelah 6 hingga 9 hari dan akan bertahan hidup selama 3 sampai 4 minggu.
+60	Ya, biasanya telur kutu akan menetas setelah 6 hingga 9 hari dan akan bertahan hidup selama 3 sampai 4 minggu.
+61	Ya, biasanya telur kutu akan menetas setelah 6 hingga 9 hari dan akan bertahan hidup selama 3 sampai 4 minggu.
+62	Ya, biasanya telur kutu akan menetas setelah 6 hingga 9 hari dan akan bertahan hidup selama 3 sampai 4 minggu.
+63	Ya, biasanya telur kutu akan menetas setelah 6 hingga 9 hari dan akan bertahan hidup selama 3 sampai 4 minggu. Nah makanya, biar gak cepat menyebar kutunya, kamu segera basmi ya.
+64	Nah makanya, biar gak cepat menyebar kutunya, kamu segera basmi ya.
+65	Nah makanya, biar gak cepat menyebar kutunya, kamu segera basmi ya.
+66	Nah makanya, biar gak cepat menyebar kutunya, kamu segera basmi ya.
+67	Nah makanya, biar gak cepat menyebar kutunya, kamu segera basmi ya.
+68	Nah makanya, biar gak cepat menyebar kutunya, kamu segera basmi ya.
+69	Nah makanya, biar gak cepat menyebar kutunya, kamu segera basmi ya.
+70	Nah makanya, biar gak cepat menyebar kutunya, kamu segera basmi ya.
+71	Nah makanya, biar gak cepat menyebar kutunya, kamu segera basmi ya. Dengan cara pakai shampoo khusus kutu terus, rutin sisi rambut pakai serit.
+72	Nah makanya, biar gak cepat menyebar kutunya, kamu segera basmi ya. Dengan cara pakai shampoo khusus kutu terus, rutin sisi rambut pakai serit.
+73	Dengan cara pakai shampoo khusus kutu terus, rutin sisi rambut pakai serit.
+74	Dengan cara pakai shampoo khusus kutu terus, rutin sisi rambut pakai serit.
+75	Dengan cara pakai shampoo khusus kutu terus, rutin sisi rambut pakai serit.
+76	Dengan cara pakai shampoo khusus kutu terus, rutin sisi rambut pakai serit.
+77	Dengan cara pakai shampoo khusus kutu terus, rutin sisi rambut pakai serit.
+78	Dengan cara pakai shampoo khusus kutu terus, rutin sisi rambut pakai serit.
+79	Dengan cara pakai shampoo khusus kutu terus, rutin sisi rambut pakai serit. Tapi kamu harus sabar, karena gak bisa hilang dalam semalaman.
+80	Dengan cara pakai shampoo khusus kutu terus, rutin sisi rambut pakai serit. Tapi kamu harus sabar, karena gak bisa hilang dalam semalaman.
+81	Tapi kamu harus sabar, karena gak bisa hilang dalam semalaman.
+82	Tapi kamu harus sabar, karena gak bisa hilang dalam semalaman.
+83	Tapi kamu harus sabar, karena gak bisa hilang dalam semalaman.
+84	Tapi kamu harus sabar, karena gak bisa hilang dalam semalaman.
+85	Tapi kamu harus sabar, karena gak bisa hilang dalam semalaman.
+86	Tapi kamu harus sabar, karena gak bisa hilang dalam semalaman.
+87	Tapi kamu harus sabar, karena gak bisa hilang dalam semalaman. Kalau sobat sehat ada yang pernah kutuan juga, yuk share cara kamu ngilanginnya ya.
+88	Kalau sobat sehat ada yang pernah kutuan juga, yuk share cara kamu ngilanginnya ya.
+89	Kalau sobat sehat ada yang pernah kutuan juga, yuk share cara kamu ngilanginnya ya.
+90	Kalau sobat sehat ada yang pernah kutuan juga, yuk share cara kamu ngilanginnya ya.
+91	Kalau sobat sehat ada yang pernah kutuan juga, yuk share cara kamu ngilanginnya ya.
+92	Kalau sobat sehat ada yang pernah kutuan juga, yuk share cara kamu ngilanginnya ya.
+93	Kalau sobat sehat ada yang pernah kutuan juga, yuk share cara kamu ngilanginnya ya.
+94	Kalau sobat sehat ada yang pernah kutuan juga, yuk share cara kamu ngilanginnya ya.
+95	Kalau sobat sehat ada yang pernah kutuan juga, yuk share cara kamu ngilanginnya ya.
+96	[NO_SPEECH]
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]

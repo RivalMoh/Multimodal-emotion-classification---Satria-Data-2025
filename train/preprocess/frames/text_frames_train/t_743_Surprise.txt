@@ -1,0 +1,308 @@
+0	ada mitos atau enggak kalau dulu kelamaan si Johnny jadi susah jadi susah berdiri
+1	ada mitos atau enggak kalau dulu kelamaan si Johnny jadi susah jadi susah berdiri
+2	ada mitos atau enggak kalau dulu kelamaan si Johnny jadi susah jadi susah berdiri
+3	ada mitos atau enggak kalau dulu kelamaan si Johnny jadi susah jadi susah berdiri
+4	ada mitos atau enggak kalau dulu kelamaan si Johnny jadi susah jadi susah berdiri
+5	ada mitos atau enggak kalau dulu kelamaan si Johnny jadi susah jadi susah berdiri
+6	ada mitos atau enggak kalau dulu kelamaan si Johnny jadi susah jadi susah berdiri
+7	ada mitos atau enggak kalau dulu kelamaan si Johnny jadi susah jadi susah berdiri
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	tegang tapi tegangnya enggak tegang maksimal gitu loh jadi kebanyakan seperti kita profesional
+16	tegang tapi tegangnya enggak tegang maksimal gitu loh jadi kebanyakan seperti kita profesional
+17	tegang tapi tegangnya enggak tegang maksimal gitu loh jadi kebanyakan seperti kita profesional
+18	tegang tapi tegangnya enggak tegang maksimal gitu loh jadi kebanyakan seperti kita profesional
+19	tegang tapi tegangnya enggak tegang maksimal gitu loh jadi kebanyakan seperti kita profesional
+20	tegang tapi tegangnya enggak tegang maksimal gitu loh jadi kebanyakan seperti kita profesional
+21	tegang tapi tegangnya enggak tegang maksimal gitu loh jadi kebanyakan seperti kita profesional
+22	tegang tapi tegangnya enggak tegang maksimal gitu loh jadi kebanyakan seperti kita profesional
+23	tegang tapi tegangnya enggak tegang maksimal gitu loh jadi kebanyakan seperti kita profesional
+24	tegang tapi tegangnya enggak tegang maksimal gitu loh jadi kebanyakan seperti kita profesional
+25	tegang tapi tegangnya enggak tegang maksimal gitu loh jadi kebanyakan seperti kita profesional
+26	tegang tapi tegangnya enggak tegang maksimal gitu loh jadi kebanyakan seperti kita profesional
+27	[NO_SPEECH]
+28	wispen mau sobat Mino office sitting 8 jam sampai 9 jam per hari itu dampak negatifnya ada
+29	wispen mau sobat Mino office sitting 8 jam sampai 9 jam per hari itu dampak negatifnya ada
+30	wispen mau sobat Mino office sitting 8 jam sampai 9 jam per hari itu dampak negatifnya ada
+31	wispen mau sobat Mino office sitting 8 jam sampai 9 jam per hari itu dampak negatifnya ada
+32	wispen mau sobat Mino office sitting 8 jam sampai 9 jam per hari itu dampak negatifnya ada
+33	wispen mau sobat Mino office sitting 8 jam sampai 9 jam per hari itu dampak negatifnya ada
+34	wispen mau sobat Mino office sitting 8 jam sampai 9 jam per hari itu dampak negatifnya ada
+35	wispen mau sobat Mino office sitting 8 jam sampai 9 jam per hari itu dampak negatifnya ada
+36	wispen mau sobat Mino office sitting 8 jam sampai 9 jam per hari itu dampak negatifnya ada
+37	wispen mau sobat Mino office sitting 8 jam sampai 9 jam per hari itu dampak negatifnya ada
+38	wispen mau sobat Mino office sitting 8 jam sampai 9 jam per hari itu dampak negatifnya ada
+39	wispen mau sobat Mino office sitting 8 jam sampai 9 jam per hari itu dampak negatifnya ada
+40	wispen mau sobat Mino office sitting 8 jam sampai 9 jam per hari itu dampak negatifnya ada
+41	wispen mau sobat Mino office sitting 8 jam sampai 9 jam per hari itu dampak negatifnya ada
+42	wispen mau sobat Mino office sitting 8 jam sampai 9 jam per hari itu dampak negatifnya ada enggak sih adalah udah pasti karena kan kalau kita duduk terus ya besok setan metabolik sudah
+43	wispen mau sobat Mino office sitting 8 jam sampai 9 jam per hari itu dampak negatifnya ada enggak sih adalah udah pasti karena kan kalau kita duduk terus ya besok setan metabolik sudah
+44	enggak sih adalah udah pasti karena kan kalau kita duduk terus ya besok setan metabolik sudah
+45	enggak sih adalah udah pasti karena kan kalau kita duduk terus ya besok setan metabolik sudah
+46	enggak sih adalah udah pasti karena kan kalau kita duduk terus ya besok setan metabolik sudah
+47	enggak sih adalah udah pasti karena kan kalau kita duduk terus ya besok setan metabolik sudah
+48	enggak sih adalah udah pasti karena kan kalau kita duduk terus ya besok setan metabolik sudah
+49	enggak sih adalah udah pasti karena kan kalau kita duduk terus ya besok setan metabolik sudah
+50	enggak sih adalah udah pasti karena kan kalau kita duduk terus ya besok setan metabolik sudah
+51	enggak sih adalah udah pasti karena kan kalau kita duduk terus ya besok setan metabolik sudah
+52	enggak sih adalah udah pasti karena kan kalau kita duduk terus ya besok setan metabolik sudah
+53	enggak sih adalah udah pasti karena kan kalau kita duduk terus ya besok setan metabolik sudah pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa
+54	enggak sih adalah udah pasti karena kan kalau kita duduk terus ya besok setan metabolik sudah pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa
+55	pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa
+56	pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa
+57	pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa
+58	pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa
+59	pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa
+60	pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa
+61	pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa
+62	pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa
+63	pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa
+64	pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa
+65	pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa
+66	pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa
+67	pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa
+68	pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa
+69	pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa
+70	pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa
+71	pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa
+72	pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa mungkin lah kita ada jalan kakinya ada swattingnya spot aja kayak di meja gitu spot oke itu kan
+73	pasti ancur ya jadi rekomen sih 89 jam itu dibagi aja jadi setiap setiap jam itu ya sebisa mungkin lah kita ada jalan kakinya ada swattingnya spot aja kayak di meja gitu spot oke itu kan
+74	mungkin lah kita ada jalan kakinya ada swattingnya spot aja kayak di meja gitu spot oke itu kan
+75	mungkin lah kita ada jalan kakinya ada swattingnya spot aja kayak di meja gitu spot oke itu kan
+76	mungkin lah kita ada jalan kakinya ada swattingnya spot aja kayak di meja gitu spot oke itu kan
+77	mungkin lah kita ada jalan kakinya ada swattingnya spot aja kayak di meja gitu spot oke itu kan
+78	mungkin lah kita ada jalan kakinya ada swattingnya spot aja kayak di meja gitu spot oke itu kan
+79	mungkin lah kita ada jalan kakinya ada swattingnya spot aja kayak di meja gitu spot oke itu kan
+80	mungkin lah kita ada jalan kakinya ada swattingnya spot aja kayak di meja gitu spot oke itu kan
+81	mungkin lah kita ada jalan kakinya ada swattingnya spot aja kayak di meja gitu spot oke itu kan
+82	mungkin lah kita ada jalan kakinya ada swattingnya spot aja kayak di meja gitu spot oke itu kan
+83	mungkin lah kita ada jalan kakinya ada swattingnya spot aja kayak di meja gitu spot oke itu kan
+84	mungkin lah kita ada jalan kakinya ada swattingnya spot aja kayak di meja gitu spot oke itu kan
+85	mungkin lah kita ada jalan kakinya ada swattingnya spot aja kayak di meja gitu spot oke itu kan sedang ada break itu membantu kalau enggak kalau dulu kelamaan si Johnny jadi susah jadi susah
+86	mungkin lah kita ada jalan kakinya ada swattingnya spot aja kayak di meja gitu spot oke itu kan sedang ada break itu membantu kalau enggak kalau dulu kelamaan si Johnny jadi susah jadi susah
+87	sedang ada break itu membantu kalau enggak kalau dulu kelamaan si Johnny jadi susah jadi susah
+88	sedang ada break itu membantu kalau enggak kalau dulu kelamaan si Johnny jadi susah jadi susah
+89	sedang ada break itu membantu kalau enggak kalau dulu kelamaan si Johnny jadi susah jadi susah
+90	sedang ada break itu membantu kalau enggak kalau dulu kelamaan si Johnny jadi susah jadi susah
+91	sedang ada break itu membantu kalau enggak kalau dulu kelamaan si Johnny jadi susah jadi susah
+92	sedang ada break itu membantu kalau enggak kalau dulu kelamaan si Johnny jadi susah jadi susah
+93	sedang ada break itu membantu kalau enggak kalau dulu kelamaan si Johnny jadi susah jadi susah
+94	sedang ada break itu membantu kalau enggak kalau dulu kelamaan si Johnny jadi susah jadi susah
+95	sedang ada break itu membantu kalau enggak kalau dulu kelamaan si Johnny jadi susah jadi susah berdiri ya ada kan ada kan gue pernah dengar sih kalau duduk kelamaan jadi punya permasalahan
+96	sedang ada break itu membantu kalau enggak kalau dulu kelamaan si Johnny jadi susah jadi susah berdiri ya ada kan ada kan gue pernah dengar sih kalau duduk kelamaan jadi punya permasalahan
+97	berdiri ya ada kan ada kan gue pernah dengar sih kalau duduk kelamaan jadi punya permasalahan
+98	berdiri ya ada kan ada kan gue pernah dengar sih kalau duduk kelamaan jadi punya permasalahan
+99	berdiri ya ada kan ada kan gue pernah dengar sih kalau duduk kelamaan jadi punya permasalahan
+100	berdiri ya ada kan ada kan gue pernah dengar sih kalau duduk kelamaan jadi punya permasalahan
+101	berdiri ya ada kan ada kan gue pernah dengar sih kalau duduk kelamaan jadi punya permasalahan
+102	berdiri ya ada kan ada kan gue pernah dengar sih kalau duduk kelamaan jadi punya permasalahan
+103	berdiri ya ada kan ada kan gue pernah dengar sih kalau duduk kelamaan jadi punya permasalahan
+104	berdiri ya ada kan ada kan gue pernah dengar sih kalau duduk kelamaan jadi punya permasalahan
+105	berdiri ya ada kan ada kan gue pernah dengar sih kalau duduk kelamaan jadi punya permasalahan
+106	berdiri ya ada kan ada kan gue pernah dengar sih kalau duduk kelamaan jadi punya permasalahan
+107	berdiri ya ada kan ada kan gue pernah dengar sih kalau duduk kelamaan jadi punya permasalahan
+108	berdiri ya ada kan ada kan gue pernah dengar sih kalau duduk kelamaan jadi punya permasalahan
+109	berdiri ya ada kan ada kan gue pernah dengar sih kalau duduk kelamaan jadi punya permasalahan
+110	berdiri ya ada kan ada kan gue pernah dengar sih kalau duduk kelamaan jadi punya permasalahan
+111	berdiri ya ada kan ada kan gue pernah dengar sih kalau duduk kelamaan jadi punya permasalahan
+112	berdiri ya ada kan ada kan gue pernah dengar sih kalau duduk kelamaan jadi punya permasalahan karena erektil dysfunction Oh ada ada ada ada ini kita posisi reaksi kan ternyata bukan bukan cuma
+113	berdiri ya ada kan ada kan gue pernah dengar sih kalau duduk kelamaan jadi punya permasalahan karena erektil dysfunction Oh ada ada ada ada ini kita posisi reaksi kan ternyata bukan bukan cuma
+114	karena erektil dysfunction Oh ada ada ada ada ini kita posisi reaksi kan ternyata bukan bukan cuma
+115	karena erektil dysfunction Oh ada ada ada ada ini kita posisi reaksi kan ternyata bukan bukan cuma
+116	karena erektil dysfunction Oh ada ada ada ada ini kita posisi reaksi kan ternyata bukan bukan cuma
+117	karena erektil dysfunction Oh ada ada ada ada ini kita posisi reaksi kan ternyata bukan bukan cuma
+118	karena erektil dysfunction Oh ada ada ada ada ini kita posisi reaksi kan ternyata bukan bukan cuma
+119	karena erektil dysfunction Oh ada ada ada ada ini kita posisi reaksi kan ternyata bukan bukan cuma
+120	karena erektil dysfunction Oh ada ada ada ada ini kita posisi reaksi kan ternyata bukan bukan cuma
+121	karena erektil dysfunction Oh ada ada ada ada ini kita posisi reaksi kan ternyata bukan bukan cuma
+122	karena erektil dysfunction Oh ada ada ada ada ini kita posisi reaksi kan ternyata bukan bukan cuma
+123	karena erektil dysfunction Oh ada ada ada ada ini kita posisi reaksi kan ternyata bukan bukan cuma
+124	karena erektil dysfunction Oh ada ada ada ada ini kita posisi reaksi kan ternyata bukan bukan cuma
+125	karena erektil dysfunction Oh ada ada ada ada ini kita posisi reaksi kan ternyata bukan bukan cuma
+126	karena erektil dysfunction Oh ada ada ada ada ini kita posisi reaksi kan ternyata bukan bukan cuma
+127	karena erektil dysfunction Oh ada ada ada ada ini kita posisi reaksi kan ternyata bukan bukan cuma
+128	karena erektil dysfunction Oh ada ada ada ada ini kita posisi reaksi kan ternyata bukan bukan cuma
+129	karena erektil dysfunction Oh ada ada ada ada ini kita posisi reaksi kan ternyata bukan bukan cuma
+130	karena erektil dysfunction Oh ada ada ada ada ini kita posisi reaksi kan ternyata bukan bukan cuma karena duduk kelamaan itu bikin lu jadi metabolik disorder kan kayaknya punya diabetes obesitas itu
+131	karena erektil dysfunction Oh ada ada ada ada ini kita posisi reaksi kan ternyata bukan bukan cuma karena duduk kelamaan itu bikin lu jadi metabolik disorder kan kayaknya punya diabetes obesitas itu
+132	karena duduk kelamaan itu bikin lu jadi metabolik disorder kan kayaknya punya diabetes obesitas itu
+133	karena duduk kelamaan itu bikin lu jadi metabolik disorder kan kayaknya punya diabetes obesitas itu
+134	karena duduk kelamaan itu bikin lu jadi metabolik disorder kan kayaknya punya diabetes obesitas itu
+135	karena duduk kelamaan itu bikin lu jadi metabolik disorder kan kayaknya punya diabetes obesitas itu
+136	karena duduk kelamaan itu bikin lu jadi metabolik disorder kan kayaknya punya diabetes obesitas itu
+137	karena duduk kelamaan itu bikin lu jadi metabolik disorder kan kayaknya punya diabetes obesitas itu
+138	karena duduk kelamaan itu bikin lu jadi metabolik disorder kan kayaknya punya diabetes obesitas itu
+139	karena duduk kelamaan itu bikin lu jadi metabolik disorder kan kayaknya punya diabetes obesitas itu
+140	karena duduk kelamaan itu bikin lu jadi metabolik disorder kan kayaknya punya diabetes obesitas itu
+141	karena duduk kelamaan itu bikin lu jadi metabolik disorder kan kayaknya punya diabetes obesitas itu
+142	karena duduk kelamaan itu bikin lu jadi metabolik disorder kan kayaknya punya diabetes obesitas itu
+143	karena duduk kelamaan itu bikin lu jadi metabolik disorder kan kayaknya punya diabetes obesitas itu
+144	karena duduk kelamaan itu bikin lu jadi metabolik disorder kan kayaknya punya diabetes obesitas itu
+145	karena duduk kelamaan itu bikin lu jadi metabolik disorder kan kayaknya punya diabetes obesitas itu maru Oke cuma ini ada ada satu studi yang tunjukkan bahwa itu independent factor artinya kalau dulu
+146	karena duduk kelamaan itu bikin lu jadi metabolik disorder kan kayaknya punya diabetes obesitas itu maru Oke cuma ini ada ada satu studi yang tunjukkan bahwa itu independent factor artinya kalau dulu
+147	karena duduk kelamaan itu bikin lu jadi metabolik disorder kan kayaknya punya diabetes obesitas itu maru Oke cuma ini ada ada satu studi yang tunjukkan bahwa itu independent factor artinya kalau dulu
+148	maru Oke cuma ini ada ada satu studi yang tunjukkan bahwa itu independent factor artinya kalau dulu
+149	maru Oke cuma ini ada ada satu studi yang tunjukkan bahwa itu independent factor artinya kalau dulu
+150	maru Oke cuma ini ada ada satu studi yang tunjukkan bahwa itu independent factor artinya kalau dulu
+151	maru Oke cuma ini ada ada satu studi yang tunjukkan bahwa itu independent factor artinya kalau dulu
+152	maru Oke cuma ini ada ada satu studi yang tunjukkan bahwa itu independent factor artinya kalau dulu
+153	maru Oke cuma ini ada ada satu studi yang tunjukkan bahwa itu independent factor artinya kalau dulu
+154	maru Oke cuma ini ada ada satu studi yang tunjukkan bahwa itu independent factor artinya kalau dulu
+155	maru Oke cuma ini ada ada satu studi yang tunjukkan bahwa itu independent factor artinya kalau dulu
+156	maru Oke cuma ini ada ada satu studi yang tunjukkan bahwa itu independent factor artinya kalau dulu
+157	maru Oke cuma ini ada ada satu studi yang tunjukkan bahwa itu independent factor artinya kalau dulu
+158	maru Oke cuma ini ada ada satu studi yang tunjukkan bahwa itu independent factor artinya kalau dulu kelamaan itu bisa jadi independent factor lu punya permasalahan sama Sony Wow jadi makanya kalau yang
+159	maru Oke cuma ini ada ada satu studi yang tunjukkan bahwa itu independent factor artinya kalau dulu kelamaan itu bisa jadi independent factor lu punya permasalahan sama Sony Wow jadi makanya kalau yang
+160	kelamaan itu bisa jadi independent factor lu punya permasalahan sama Sony Wow jadi makanya kalau yang
+161	kelamaan itu bisa jadi independent factor lu punya permasalahan sama Sony Wow jadi makanya kalau yang
+162	kelamaan itu bisa jadi independent factor lu punya permasalahan sama Sony Wow jadi makanya kalau yang
+163	kelamaan itu bisa jadi independent factor lu punya permasalahan sama Sony Wow jadi makanya kalau yang
+164	kelamaan itu bisa jadi independent factor lu punya permasalahan sama Sony Wow jadi makanya kalau yang
+165	kelamaan itu bisa jadi independent factor lu punya permasalahan sama Sony Wow jadi makanya kalau yang
+166	kelamaan itu bisa jadi independent factor lu punya permasalahan sama Sony Wow jadi makanya kalau yang
+167	kelamaan itu bisa jadi independent factor lu punya permasalahan sama Sony Wow jadi makanya kalau yang
+168	kelamaan itu bisa jadi independent factor lu punya permasalahan sama Sony Wow jadi makanya kalau yang
+169	kelamaan itu bisa jadi independent factor lu punya permasalahan sama Sony Wow jadi makanya kalau yang
+170	kelamaan itu bisa jadi independent factor lu punya permasalahan sama Sony Wow jadi makanya kalau yang
+171	kelamaan itu bisa jadi independent factor lu punya permasalahan sama Sony Wow jadi makanya kalau yang
+172	yang duduk di kantoran kelamaan masih duduk emang kerja di kantoran harus masukin olahraga ya
+173	yang duduk di kantoran kelamaan masih duduk emang kerja di kantoran harus masukin olahraga ya
+174	yang duduk di kantoran kelamaan masih duduk emang kerja di kantoran harus masukin olahraga ya
+175	yang duduk di kantoran kelamaan masih duduk emang kerja di kantoran harus masukin olahraga ya
+176	yang duduk di kantoran kelamaan masih duduk emang kerja di kantoran harus masukin olahraga ya
+177	yang duduk di kantoran kelamaan masih duduk emang kerja di kantoran harus masukin olahraga ya
+178	yang duduk di kantoran kelamaan masih duduk emang kerja di kantoran harus masukin olahraga ya
+179	yang duduk di kantoran kelamaan masih duduk emang kerja di kantoran harus masukin olahraga ya
+180	yang duduk di kantoran kelamaan masih duduk emang kerja di kantoran harus masukin olahraga ya
+181	yang duduk di kantoran kelamaan masih duduk emang kerja di kantoran harus masukin olahraga ya
+182	yang duduk di kantoran kelamaan masih duduk emang kerja di kantoran harus masukin olahraga ya
+183	yang duduk di kantoran kelamaan masih duduk emang kerja di kantoran harus masukin olahraga ya
+184	yang duduk di kantoran kelamaan masih duduk emang kerja di kantoran harus masukin olahraga ya
+185	yang duduk di kantoran kelamaan masih duduk emang kerja di kantoran harus masukin olahraga ya resistance training ujim lah whatever semasukin di saat salah hari-hari itulah Oke kesin tanya denger
+186	yang duduk di kantoran kelamaan masih duduk emang kerja di kantoran harus masukin olahraga ya resistance training ujim lah whatever semasukin di saat salah hari-hari itulah Oke kesin tanya denger
+187	resistance training ujim lah whatever semasukin di saat salah hari-hari itulah Oke kesin tanya denger
+188	resistance training ujim lah whatever semasukin di saat salah hari-hari itulah Oke kesin tanya denger
+189	resistance training ujim lah whatever semasukin di saat salah hari-hari itulah Oke kesin tanya denger
+190	resistance training ujim lah whatever semasukin di saat salah hari-hari itulah Oke kesin tanya denger
+191	resistance training ujim lah whatever semasukin di saat salah hari-hari itulah Oke kesin tanya denger
+192	resistance training ujim lah whatever semasukin di saat salah hari-hari itulah Oke kesin tanya denger
+193	resistance training ujim lah whatever semasukin di saat salah hari-hari itulah Oke kesin tanya denger
+194	resistance training ujim lah whatever semasukin di saat salah hari-hari itulah Oke kesin tanya denger
+195	resistance training ujim lah whatever semasukin di saat salah hari-hari itulah Oke kesin tanya denger
+196	resistance training ujim lah whatever semasukin di saat salah hari-hari itulah Oke kesin tanya denger
+197	resistance training ujim lah whatever semasukin di saat salah hari-hari itulah Oke kesin tanya denger
+198	resistance training ujim lah whatever semasukin di saat salah hari-hari itulah Oke kesin tanya denger
+199	resistance training ujim lah whatever semasukin di saat salah hari-hari itulah Oke kesin tanya denger
+200	resistance training ujim lah whatever semasukin di saat salah hari-hari itulah Oke kesin tanya denger katar nih jadi temen-temen seangkatan itu yang umur 30 40-an pada kenastro ada juga yang meninggal
+201	resistance training ujim lah whatever semasukin di saat salah hari-hari itulah Oke kesin tanya denger katar nih jadi temen-temen seangkatan itu yang umur 30 40-an pada kenastro ada juga yang meninggal
+202	katar nih jadi temen-temen seangkatan itu yang umur 30 40-an pada kenastro ada juga yang meninggal
+203	katar nih jadi temen-temen seangkatan itu yang umur 30 40-an pada kenastro ada juga yang meninggal
+204	katar nih jadi temen-temen seangkatan itu yang umur 30 40-an pada kenastro ada juga yang meninggal
+205	katar nih jadi temen-temen seangkatan itu yang umur 30 40-an pada kenastro ada juga yang meninggal
+206	katar nih jadi temen-temen seangkatan itu yang umur 30 40-an pada kenastro ada juga yang meninggal
+207	katar nih jadi temen-temen seangkatan itu yang umur 30 40-an pada kenastro ada juga yang meninggal
+208	katar nih jadi temen-temen seangkatan itu yang umur 30 40-an pada kenastro ada juga yang meninggal
+209	katar nih jadi temen-temen seangkatan itu yang umur 30 40-an pada kenastro ada juga yang meninggal
+210	katar nih jadi temen-temen seangkatan itu yang umur 30 40-an pada kenastro ada juga yang meninggal
+211	katar nih jadi temen-temen seangkatan itu yang umur 30 40-an pada kenastro ada juga yang meninggal
+212	katar nih jadi temen-temen seangkatan itu yang umur 30 40-an pada kenastro ada juga yang meninggal
+213	katar nih jadi temen-temen seangkatan itu yang umur 30 40-an pada kenastro ada juga yang meninggal
+214	katar nih jadi temen-temen seangkatan itu yang umur 30 40-an pada kenastro ada juga yang meninggal Oh ya ya ya ya jadi kan ini gue ini juga gue perhatiin ya di apa teman-teman profesional
+215	katar nih jadi temen-temen seangkatan itu yang umur 30 40-an pada kenastro ada juga yang meninggal Oh ya ya ya ya jadi kan ini gue ini juga gue perhatiin ya di apa teman-teman profesional
+216	Oh ya ya ya ya jadi kan ini gue ini juga gue perhatiin ya di apa teman-teman profesional
+217	Oh ya ya ya ya jadi kan ini gue ini juga gue perhatiin ya di apa teman-teman profesional
+218	Oh ya ya ya ya jadi kan ini gue ini juga gue perhatiin ya di apa teman-teman profesional
+219	Oh ya ya ya ya jadi kan ini gue ini juga gue perhatiin ya di apa teman-teman profesional
+220	Oh ya ya ya ya jadi kan ini gue ini juga gue perhatiin ya di apa teman-teman profesional
+221	Oh ya ya ya ya jadi kan ini gue ini juga gue perhatiin ya di apa teman-teman profesional
+222	Oh ya ya ya ya jadi kan ini gue ini juga gue perhatiin ya di apa teman-teman profesional
+223	Oh ya ya ya ya jadi kan ini gue ini juga gue perhatiin ya di apa teman-teman profesional
+224	Oh ya ya ya ya jadi kan ini gue ini juga gue perhatiin ya di apa teman-teman profesional
+225	Oh ya ya ya ya jadi kan ini gue ini juga gue perhatiin ya di apa teman-teman profesional
+226	Oh ya ya ya ya jadi kan ini gue ini juga gue perhatiin ya di apa teman-teman profesional
+227	Oh ya ya ya ya jadi kan ini gue ini juga gue perhatiin ya di apa teman-teman profesional
+228	Oh ya ya ya ya jadi kan ini gue ini juga gue perhatiin ya di apa teman-teman profesional
+229	Oh ya ya ya ya jadi kan ini gue ini juga gue perhatiin ya di apa teman-teman profesional
+230	Oh ya ya ya ya jadi kan ini gue ini juga gue perhatiin ya di apa teman-teman profesional
+231	Oh ya ya ya ya jadi kan ini gue ini juga gue perhatiin ya di apa teman-teman profesional
+232	Oh ya ya ya ya jadi kan ini gue ini juga gue perhatiin ya di apa teman-teman profesional lu duduk udah kelamaan enggak gerak pulang ke rumah enggak pernah olahraga dan pada selalu duduk
+233	lu duduk udah kelamaan enggak gerak pulang ke rumah enggak pernah olahraga dan pada selalu duduk
+234	lu duduk udah kelamaan enggak gerak pulang ke rumah enggak pernah olahraga dan pada selalu duduk
+235	lu duduk udah kelamaan enggak gerak pulang ke rumah enggak pernah olahraga dan pada selalu duduk
+236	lu duduk udah kelamaan enggak gerak pulang ke rumah enggak pernah olahraga dan pada selalu duduk
+237	lu duduk udah kelamaan enggak gerak pulang ke rumah enggak pernah olahraga dan pada selalu duduk
+238	lu duduk udah kelamaan enggak gerak pulang ke rumah enggak pernah olahraga dan pada selalu duduk
+239	lu duduk udah kelamaan enggak gerak pulang ke rumah enggak pernah olahraga dan pada selalu duduk
+240	lu duduk udah kelamaan enggak gerak pulang ke rumah enggak pernah olahraga dan pada selalu duduk
+241	lu duduk udah kelamaan enggak gerak pulang ke rumah enggak pernah olahraga dan pada selalu duduk
+242	lu duduk udah kelamaan enggak gerak pulang ke rumah enggak pernah olahraga dan pada selalu duduk
+243	lu duduk udah kelamaan enggak gerak pulang ke rumah enggak pernah olahraga dan pada selalu duduk
+244	lu duduk udah kelamaan enggak gerak pulang ke rumah enggak pernah olahraga dan pada selalu duduk
+245	lu duduk udah kelamaan enggak gerak pulang ke rumah enggak pernah olahraga dan pada selalu duduk
+246	lu duduk udah kelamaan enggak gerak pulang ke rumah enggak pernah olahraga dan pada selalu duduk kerja 8 9 jam itu apa yang terjadi lu nyemil men oh iya kan di meja itu kerja tapi lu kayak ya
+247	lu duduk udah kelamaan enggak gerak pulang ke rumah enggak pernah olahraga dan pada selalu duduk kerja 8 9 jam itu apa yang terjadi lu nyemil men oh iya kan di meja itu kerja tapi lu kayak ya
+248	kerja 8 9 jam itu apa yang terjadi lu nyemil men oh iya kan di meja itu kerja tapi lu kayak ya
+249	kerja 8 9 jam itu apa yang terjadi lu nyemil men oh iya kan di meja itu kerja tapi lu kayak ya
+250	kerja 8 9 jam itu apa yang terjadi lu nyemil men oh iya kan di meja itu kerja tapi lu kayak ya
+251	kerja 8 9 jam itu apa yang terjadi lu nyemil men oh iya kan di meja itu kerja tapi lu kayak ya
+252	kerja 8 9 jam itu apa yang terjadi lu nyemil men oh iya kan di meja itu kerja tapi lu kayak ya
+253	kerja 8 9 jam itu apa yang terjadi lu nyemil men oh iya kan di meja itu kerja tapi lu kayak ya
+254	kerja 8 9 jam itu apa yang terjadi lu nyemil men oh iya kan di meja itu kerja tapi lu kayak ya
+255	kerja 8 9 jam itu apa yang terjadi lu nyemil men oh iya kan di meja itu kerja tapi lu kayak ya
+256	kerja 8 9 jam itu apa yang terjadi lu nyemil men oh iya kan di meja itu kerja tapi lu kayak ya
+257	kerja 8 9 jam itu apa yang terjadi lu nyemil men oh iya kan di meja itu kerja tapi lu kayak ya
+258	kerja 8 9 jam itu apa yang terjadi lu nyemil men oh iya kan di meja itu kerja tapi lu kayak ya
+259	kerja 8 9 jam itu apa yang terjadi lu nyemil men oh iya kan di meja itu kerja tapi lu kayak ya
+260	kerja 8 9 jam itu apa yang terjadi lu nyemil men oh iya kan di meja itu kerja tapi lu kayak ya
+261	kerja 8 9 jam itu apa yang terjadi lu nyemil men oh iya kan di meja itu kerja tapi lu kayak ya
+262	kerja 8 9 jam itu apa yang terjadi lu nyemil men oh iya kan di meja itu kerja tapi lu kayak ya kayak punya ngomong dan mungkin makanan-makanan sampah Iya saya saya sampai udah kerjanya lu
+263	kerja 8 9 jam itu apa yang terjadi lu nyemil men oh iya kan di meja itu kerja tapi lu kayak ya kayak punya ngomong dan mungkin makanan-makanan sampah Iya saya saya sampai udah kerjanya lu
+264	kayak punya ngomong dan mungkin makanan-makanan sampah Iya saya saya sampai udah kerjanya lu
+265	kayak punya ngomong dan mungkin makanan-makanan sampah Iya saya saya sampai udah kerjanya lu
+266	kayak punya ngomong dan mungkin makanan-makanan sampah Iya saya saya sampai udah kerjanya lu
+267	kayak punya ngomong dan mungkin makanan-makanan sampah Iya saya saya sampai udah kerjanya lu
+268	kayak punya ngomong dan mungkin makanan-makanan sampah Iya saya saya sampai udah kerjanya lu
+269	kayak punya ngomong dan mungkin makanan-makanan sampah Iya saya saya sampai udah kerjanya lu
+270	kayak punya ngomong dan mungkin makanan-makanan sampah Iya saya saya sampai udah kerjanya lu
+271	kayak punya ngomong dan mungkin makanan-makanan sampah Iya saya saya sampai udah kerjanya lu
+272	kayak punya ngomong dan mungkin makanan-makanan sampah Iya saya saya sampai udah kerjanya lu
+273	kayak punya ngomong dan mungkin makanan-makanan sampah Iya saya saya sampai udah kerjanya lu
+274	kayak punya ngomong dan mungkin makanan-makanan sampah Iya saya saya sampai udah kerjanya lu
+275	kayak punya ngomong dan mungkin makanan-makanan sampah Iya saya saya sampai udah kerjanya lu
+276	kayak punya ngomong dan mungkin makanan-makanan sampah Iya saya saya sampai udah kerjanya lu
+277	kayak punya ngomong dan mungkin makanan-makanan sampah Iya saya saya sampai udah kerjanya lu
+278	kayak punya ngomong dan mungkin makanan-makanan sampah Iya saya saya sampai udah kerjanya lu ketemu klien ketemu orang ketemu itu meeting punya lagi jadi is just itu
+279	kayak punya ngomong dan mungkin makanan-makanan sampah Iya saya saya sampai udah kerjanya lu ketemu klien ketemu orang ketemu itu meeting punya lagi jadi is just itu
+280	ketemu klien ketemu orang ketemu itu meeting punya lagi jadi is just itu
+281	ketemu klien ketemu orang ketemu itu meeting punya lagi jadi is just itu
+282	ketemu klien ketemu orang ketemu itu meeting punya lagi jadi is just itu
+283	ketemu klien ketemu orang ketemu itu meeting punya lagi jadi is just itu
+284	ketemu klien ketemu orang ketemu itu meeting punya lagi jadi is just itu
+285	ketemu klien ketemu orang ketemu itu meeting punya lagi jadi is just itu
+286	ketemu klien ketemu orang ketemu itu meeting punya lagi jadi is just itu
+287	ketemu klien ketemu orang ketemu itu meeting punya lagi jadi is just itu
+288	ketemu klien ketemu orang ketemu itu meeting punya lagi jadi is just itu
+289	ketemu klien ketemu orang ketemu itu meeting punya lagi jadi is just itu
+290	ketemu klien ketemu orang ketemu itu meeting punya lagi jadi is just itu
+291	ketemu klien ketemu orang ketemu itu meeting punya lagi jadi is just itu
+292	ketemu klien ketemu orang ketemu itu meeting punya lagi jadi is just itu Jika kamu berdiri atau tidak bergerak, maka kamu akan menyampaikan.
+293	Jika kamu berdiri atau tidak bergerak, maka kamu akan menyampaikan.
+294	Jika kamu berdiri atau tidak bergerak, maka kamu akan menyampaikan.
+295	Jika kamu berdiri atau tidak bergerak, maka kamu akan menyampaikan.
+296	Jika kamu berdiri atau tidak bergerak, maka kamu akan menyampaikan.
+297	Jika kamu berdiri atau tidak bergerak, maka kamu akan menyampaikan.
+298	Jika kamu berdiri atau tidak bergerak, maka kamu akan menyampaikan.
+299	Jika kamu berdiri atau tidak bergerak, maka kamu akan menyampaikan.
+300	Tidak ada alasan kamu akan mati.
+301	Tidak ada alasan kamu akan mati.
+302	Tidak ada alasan kamu akan mati.
+303	Tidak ada alasan kamu akan mati.
+304	Tidak ada alasan kamu akan mati.
+305	[NO_SPEECH]
+306	[NO_SPEECH]
+307	[NO_SPEECH]

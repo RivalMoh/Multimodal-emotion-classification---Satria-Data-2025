@@ -1,0 +1,77 @@
+0	Kalian ada yang pernah ngalamin gak sih?
+1	Kalian ada yang pernah ngalamin gak sih?
+2	Kalian ada yang pernah ngalamin gak sih? Kulitnya tuh muncul jerawat, terus jerawatnya kempes
+3	Kalian ada yang pernah ngalamin gak sih? Kulitnya tuh muncul jerawat, terus jerawatnya kempes
+4	Kulitnya tuh muncul jerawat, terus jerawatnya kempes
+5	Kulitnya tuh muncul jerawat, terus jerawatnya kempes
+6	Kulitnya tuh muncul jerawat, terus jerawatnya kempes Tapi gak lama kemudian jerawatnya muncul lagi di tempat yang sama
+7	Kulitnya tuh muncul jerawat, terus jerawatnya kempes Tapi gak lama kemudian jerawatnya muncul lagi di tempat yang sama
+8	Tapi gak lama kemudian jerawatnya muncul lagi di tempat yang sama
+9	Tapi gak lama kemudian jerawatnya muncul lagi di tempat yang sama
+10	Tapi gak lama kemudian jerawatnya muncul lagi di tempat yang sama
+11	Tapi gak lama kemudian jerawatnya muncul lagi di tempat yang sama
+12	Tapi gak lama kemudian jerawatnya muncul lagi di tempat yang sama Kalau ada, cobain pake acne patch deh
+13	Tapi gak lama kemudian jerawatnya muncul lagi di tempat yang sama Kalau ada, cobain pake acne patch deh
+14	Kalau ada, cobain pake acne patch deh
+15	Kalau ada, cobain pake acne patch deh
+16	Kalau ada, cobain pake acne patch deh Dijamin jerawatnya gak bakal muncul lagi
+17	Kalau ada, cobain pake acne patch deh Dijamin jerawatnya gak bakal muncul lagi
+18	Dijamin jerawatnya gak bakal muncul lagi
+19	Dijamin jerawatnya gak bakal muncul lagi Nah kebetulan baru-baru ini, Everpure ngeluarin acne patch baru
+20	Dijamin jerawatnya gak bakal muncul lagi Nah kebetulan baru-baru ini, Everpure ngeluarin acne patch baru
+21	Nah kebetulan baru-baru ini, Everpure ngeluarin acne patch baru
+22	Nah kebetulan baru-baru ini, Everpure ngeluarin acne patch baru
+23	Nah kebetulan baru-baru ini, Everpure ngeluarin acne patch baru
+24	Nah kebetulan baru-baru ini, Everpure ngeluarin acne patch baru
+25	Nah kebetulan baru-baru ini, Everpure ngeluarin acne patch baru Harganya cuma 18 ribuan aja dan isinya ada 22 patches
+26	Nah kebetulan baru-baru ini, Everpure ngeluarin acne patch baru Harganya cuma 18 ribuan aja dan isinya ada 22 patches
+27	Harganya cuma 18 ribuan aja dan isinya ada 22 patches
+28	Harganya cuma 18 ribuan aja dan isinya ada 22 patches
+29	Harganya cuma 18 ribuan aja dan isinya ada 22 patches
+30	Harganya cuma 18 ribuan aja dan isinya ada 22 patches
+31	Harganya cuma 18 ribuan aja dan isinya ada 22 patches
+32	Harganya cuma 18 ribuan aja dan isinya ada 22 patches Untuk patchnya ada yang ukuran gede dan ada yang ukuran kecil
+33	Harganya cuma 18 ribuan aja dan isinya ada 22 patches Untuk patchnya ada yang ukuran gede dan ada yang ukuran kecil
+34	Untuk patchnya ada yang ukuran gede dan ada yang ukuran kecil
+35	Untuk patchnya ada yang ukuran gede dan ada yang ukuran kecil
+36	Untuk patchnya ada yang ukuran gede dan ada yang ukuran kecil
+37	Untuk patchnya ada yang ukuran gede dan ada yang ukuran kecil Dan ini acne patchnya bener-bener tipis banget, gak keliatan kan?
+38	Untuk patchnya ada yang ukuran gede dan ada yang ukuran kecil Dan ini acne patchnya bener-bener tipis banget, gak keliatan kan?
+39	Dan ini acne patchnya bener-bener tipis banget, gak keliatan kan?
+40	Dan ini acne patchnya bener-bener tipis banget, gak keliatan kan?
+41	Dan ini acne patchnya bener-bener tipis banget, gak keliatan kan?
+42	Dan ini acne patchnya bener-bener tipis banget, gak keliatan kan?
+43	Dan ini acne patchnya bener-bener tipis banget, gak keliatan kan? Dan untuk cara pakenya, gampang
+44	Dan ini acne patchnya bener-bener tipis banget, gak keliatan kan? Dan untuk cara pakenya, gampang
+45	Dan untuk cara pakenya, gampang
+46	Dan untuk cara pakenya, gampang Tinggal ditempelin aja di jerawatnya yang kamu rasa masih ada isinya
+47	Dan untuk cara pakenya, gampang Tinggal ditempelin aja di jerawatnya yang kamu rasa masih ada isinya
+48	Tinggal ditempelin aja di jerawatnya yang kamu rasa masih ada isinya
+49	Tinggal ditempelin aja di jerawatnya yang kamu rasa masih ada isinya
+50	Tinggal ditempelin aja di jerawatnya yang kamu rasa masih ada isinya
+51	Tinggal ditempelin aja di jerawatnya yang kamu rasa masih ada isinya Terus tunggu selama beberapa jam dan baru deh dicabut
+52	Tinggal ditempelin aja di jerawatnya yang kamu rasa masih ada isinya Terus tunggu selama beberapa jam dan baru deh dicabut
+53	Tinggal ditempelin aja di jerawatnya yang kamu rasa masih ada isinya Terus tunggu selama beberapa jam dan baru deh dicabut
+54	Terus tunggu selama beberapa jam dan baru deh dicabut
+55	Terus tunggu selama beberapa jam dan baru deh dicabut
+56	Terus tunggu selama beberapa jam dan baru deh dicabut
+57	Terus tunggu selama beberapa jam dan baru deh dicabut Ah lega!
+58	Terus tunggu selama beberapa jam dan baru deh dicabut Ah lega!
+59	Ah lega! Dan setelah beberapa jam, keliatan ya?
+60	Ah lega! Dan setelah beberapa jam, keliatan ya?
+61	Dan setelah beberapa jam, keliatan ya?
+62	Dan setelah beberapa jam, keliatan ya? Ini isi jerawatnya keserp semua
+63	Dan setelah beberapa jam, keliatan ya? Ini isi jerawatnya keserp semua
+64	Ini isi jerawatnya keserp semua Dan jerawatnya hilang total, gak balik lagi
+65	Ini isi jerawatnya keserp semua Dan jerawatnya hilang total, gak balik lagi
+66	Ini isi jerawatnya keserp semua Dan jerawatnya hilang total, gak balik lagi
+67	Dan jerawatnya hilang total, gak balik lagi
+68	Dan jerawatnya hilang total, gak balik lagi
+69	Dan jerawatnya hilang total, gak balik lagi Intinya acne patch ini tuh highly highly recommended
+70	Dan jerawatnya hilang total, gak balik lagi Intinya acne patch ini tuh highly highly recommended
+71	Intinya acne patch ini tuh highly highly recommended
+72	Intinya acne patch ini tuh highly highly recommended
+73	Intinya acne patch ini tuh highly highly recommended
+74	Intinya acne patch ini tuh highly highly recommended Recommended
+75	Intinya acne patch ini tuh highly highly recommended Recommended
+76	Recommended

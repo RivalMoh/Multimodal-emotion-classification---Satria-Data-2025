@@ -1,0 +1,88 @@
+0	Biar monitor gua nggak goyang gimana ya bang?
+1	Biar monitor gua nggak goyang gimana ya bang?
+2	Biar monitor gua nggak goyang gimana ya bang?
+3	Biar monitor gua nggak goyang gimana ya bang?
+4	Biar monitor gua nggak goyang gimana ya bang? Soal meja gua nggak solid.
+5	Biar monitor gua nggak goyang gimana ya bang? Soal meja gua nggak solid.
+6	Soal meja gua nggak solid.
+7	Soal meja gua nggak solid.
+8	Dari pertanyaannya sebenarnya lu udah tau jawaban paling gampangnya ya beli meja baru yang bagusan.
+9	Dari pertanyaannya sebenarnya lu udah tau jawaban paling gampangnya ya beli meja baru yang bagusan.
+10	Dari pertanyaannya sebenarnya lu udah tau jawaban paling gampangnya ya beli meja baru yang bagusan.
+11	Dari pertanyaannya sebenarnya lu udah tau jawaban paling gampangnya ya beli meja baru yang bagusan.
+12	Dari pertanyaannya sebenarnya lu udah tau jawaban paling gampangnya ya beli meja baru yang bagusan.
+13	Dari pertanyaannya sebenarnya lu udah tau jawaban paling gampangnya ya beli meja baru yang bagusan.
+14	Dari pertanyaannya sebenarnya lu udah tau jawaban paling gampangnya ya beli meja baru yang bagusan.
+15	Dari pertanyaannya sebenarnya lu udah tau jawaban paling gampangnya ya beli meja baru yang bagusan.
+16	Dari pertanyaannya sebenarnya lu udah tau jawaban paling gampangnya ya beli meja baru yang bagusan.
+17	Dari pertanyaannya sebenarnya lu udah tau jawaban paling gampangnya ya beli meja baru yang bagusan.
+18	Dari pertanyaannya sebenarnya lu udah tau jawaban paling gampangnya ya beli meja baru yang bagusan.
+19	Dari pertanyaannya sebenarnya lu udah tau jawaban paling gampangnya ya beli meja baru yang bagusan.
+20	Dari pertanyaannya sebenarnya lu udah tau jawaban paling gampangnya ya beli meja baru yang bagusan. Di sisi lainnya, gua yakin ada cara buat ngakalin meja goyang lu itu jadi lebih kokoh.
+21	Di sisi lainnya, gua yakin ada cara buat ngakalin meja goyang lu itu jadi lebih kokoh.
+22	Di sisi lainnya, gua yakin ada cara buat ngakalin meja goyang lu itu jadi lebih kokoh.
+23	Di sisi lainnya, gua yakin ada cara buat ngakalin meja goyang lu itu jadi lebih kokoh.
+24	Di sisi lainnya, gua yakin ada cara buat ngakalin meja goyang lu itu jadi lebih kokoh.
+25	Di sisi lainnya, gua yakin ada cara buat ngakalin meja goyang lu itu jadi lebih kokoh.
+26	Di sisi lainnya, gua yakin ada cara buat ngakalin meja goyang lu itu jadi lebih kokoh.
+27	Di sisi lainnya, gua yakin ada cara buat ngakalin meja goyang lu itu jadi lebih kokoh.
+28	Di sisi lainnya, gua yakin ada cara buat ngakalin meja goyang lu itu jadi lebih kokoh.
+29	Di sisi lainnya, gua yakin ada cara buat ngakalin meja goyang lu itu jadi lebih kokoh.
+30	Di sisi lainnya, gua yakin ada cara buat ngakalin meja goyang lu itu jadi lebih kokoh.
+31	Di sisi lainnya, gua yakin ada cara buat ngakalin meja goyang lu itu jadi lebih kokoh. Tapi apapun pilihan lu sebenarnya, lu harus sadar kalau lu tetep korbanin sesuatu.
+32	Di sisi lainnya, gua yakin ada cara buat ngakalin meja goyang lu itu jadi lebih kokoh. Tapi apapun pilihan lu sebenarnya, lu harus sadar kalau lu tetep korbanin sesuatu.
+33	Tapi apapun pilihan lu sebenarnya, lu harus sadar kalau lu tetep korbanin sesuatu.
+34	Tapi apapun pilihan lu sebenarnya, lu harus sadar kalau lu tetep korbanin sesuatu.
+35	Tapi apapun pilihan lu sebenarnya, lu harus sadar kalau lu tetep korbanin sesuatu.
+36	Tapi apapun pilihan lu sebenarnya, lu harus sadar kalau lu tetep korbanin sesuatu.
+37	Tapi apapun pilihan lu sebenarnya, lu harus sadar kalau lu tetep korbanin sesuatu.
+38	Tapi apapun pilihan lu sebenarnya, lu harus sadar kalau lu tetep korbanin sesuatu.
+39	Tapi apapun pilihan lu sebenarnya, lu harus sadar kalau lu tetep korbanin sesuatu.
+40	Tapi apapun pilihan lu sebenarnya, lu harus sadar kalau lu tetep korbanin sesuatu.
+41	Tapi apapun pilihan lu sebenarnya, lu harus sadar kalau lu tetep korbanin sesuatu.
+42	Tapi apapun pilihan lu sebenarnya, lu harus sadar kalau lu tetep korbanin sesuatu. Lu beli meja baru, lu korbanin duit yang lu punya demi kenyamanan dan hemat waktu.
+43	Tapi apapun pilihan lu sebenarnya, lu harus sadar kalau lu tetep korbanin sesuatu. Lu beli meja baru, lu korbanin duit yang lu punya demi kenyamanan dan hemat waktu.
+44	Lu beli meja baru, lu korbanin duit yang lu punya demi kenyamanan dan hemat waktu.
+45	Lu beli meja baru, lu korbanin duit yang lu punya demi kenyamanan dan hemat waktu.
+46	Lu beli meja baru, lu korbanin duit yang lu punya demi kenyamanan dan hemat waktu.
+47	Lu beli meja baru, lu korbanin duit yang lu punya demi kenyamanan dan hemat waktu.
+48	Lu beli meja baru, lu korbanin duit yang lu punya demi kenyamanan dan hemat waktu.
+49	Lu beli meja baru, lu korbanin duit yang lu punya demi kenyamanan dan hemat waktu.
+50	Lu beli meja baru, lu korbanin duit yang lu punya demi kenyamanan dan hemat waktu. Tapi kalau lu cari cara ngakalin meja lu yang sekarang, lu juga korbanin sesuatu.
+51	Lu beli meja baru, lu korbanin duit yang lu punya demi kenyamanan dan hemat waktu. Tapi kalau lu cari cara ngakalin meja lu yang sekarang, lu juga korbanin sesuatu.
+52	Tapi kalau lu cari cara ngakalin meja lu yang sekarang, lu juga korbanin sesuatu.
+53	Tapi kalau lu cari cara ngakalin meja lu yang sekarang, lu juga korbanin sesuatu.
+54	Tapi kalau lu cari cara ngakalin meja lu yang sekarang, lu juga korbanin sesuatu.
+55	Tapi kalau lu cari cara ngakalin meja lu yang sekarang, lu juga korbanin sesuatu.
+56	Tapi kalau lu cari cara ngakalin meja lu yang sekarang, lu juga korbanin sesuatu.
+57	Tapi kalau lu cari cara ngakalin meja lu yang sekarang, lu juga korbanin sesuatu.
+58	Tapi kalau lu cari cara ngakalin meja lu yang sekarang, lu juga korbanin sesuatu.
+59	Tapi kalau lu cari cara ngakalin meja lu yang sekarang, lu juga korbanin sesuatu.
+60	Tapi kalau lu cari cara ngakalin meja lu yang sekarang, lu juga korbanin sesuatu.
+61	Tapi kalau lu cari cara ngakalin meja lu yang sekarang, lu juga korbanin sesuatu. Yaitu waktu lu yang mungkin bisa lu pake buat cari duit juga.
+62	Tapi kalau lu cari cara ngakalin meja lu yang sekarang, lu juga korbanin sesuatu. Yaitu waktu lu yang mungkin bisa lu pake buat cari duit juga.
+63	Yaitu waktu lu yang mungkin bisa lu pake buat cari duit juga.
+64	Yaitu waktu lu yang mungkin bisa lu pake buat cari duit juga.
+65	Yaitu waktu lu yang mungkin bisa lu pake buat cari duit juga.
+66	Yaitu waktu lu yang mungkin bisa lu pake buat cari duit juga.
+67	Yaitu waktu lu yang mungkin bisa lu pake buat cari duit juga.
+68	Yaitu waktu lu yang mungkin bisa lu pake buat cari duit juga.
+69	Yaitu waktu lu yang mungkin bisa lu pake buat cari duit juga.
+70	Yaitu waktu lu yang mungkin bisa lu pake buat cari duit juga.
+71	Yaitu waktu lu yang mungkin bisa lu pake buat cari duit juga. Sisanya tergantung lu.
+72	Sisanya tergantung lu.
+73	Sisanya tergantung lu. Tinggal lu lebih rewel korbanin yang mana.
+74	Sisanya tergantung lu. Tinggal lu lebih rewel korbanin yang mana.
+75	Tinggal lu lebih rewel korbanin yang mana.
+76	Tinggal lu lebih rewel korbanin yang mana.
+77	Tinggal lu lebih rewel korbanin yang mana.
+78	Tinggal lu lebih rewel korbanin yang mana. Dan lu bisa top up game kesukaan lu di GTD Top Up.
+79	Dan lu bisa top up game kesukaan lu di GTD Top Up.
+80	Dan lu bisa top up game kesukaan lu di GTD Top Up.
+81	Dan lu bisa top up game kesukaan lu di GTD Top Up.
+82	Dan lu bisa top up game kesukaan lu di GTD Top Up.
+83	Dan lu bisa top up game kesukaan lu di GTD Top Up.
+84	Dan lu bisa top up game kesukaan lu di GTD Top Up.
+85	Dan lu bisa top up game kesukaan lu di GTD Top Up.
+86	[NO_SPEECH]
+87	[NO_SPEECH]

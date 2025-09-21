@@ -1,0 +1,180 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	[NO_SPEECH]
+5	[NO_SPEECH]
+6	Hai aku Hasna, aku Rara, kita dari WA Semarang
+7	Hai aku Hasna, aku Rara, kita dari WA Semarang
+8	Hai aku Hasna, aku Rara, kita dari WA Semarang
+9	Hai aku Hasna, aku Rara, kita dari WA Semarang
+10	Hai aku Hasna, aku Rara, kita dari WA Semarang
+11	Hai aku Hasna, aku Rara, kita dari WA Semarang
+12	Hai aku Hasna, aku Rara, kita dari WA Semarang
+13	Hai aku Hasna, aku Rara, kita dari WA Semarang
+14	Hai aku Hasna, aku Rara, kita dari WA Semarang
+15	Hai aku Hasna, aku Rara, kita dari WA Semarang
+16	Hai aku Hasna, aku Rara, kita dari WA Semarang Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+17	Hai aku Hasna, aku Rara, kita dari WA Semarang Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+18	Hai aku Hasna, aku Rara, kita dari WA Semarang Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+19	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+20	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+21	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+22	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+23	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+24	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+25	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+26	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+27	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+28	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+29	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+30	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+31	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+32	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya Terus habis itu juga ke teman-teman baru
+33	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya Terus habis itu juga ke teman-teman baru
+34	Terus habis itu juga ke teman-teman baru
+35	Terus habis itu juga ke teman-teman baru
+36	Terus habis itu juga ke teman-teman baru Kalau aku sama ya kayak Kak Hasna, terus tambahnya mungkin ya teman-temannya semuanya tuh aktif semua
+37	Terus habis itu juga ke teman-teman baru Kalau aku sama ya kayak Kak Hasna, terus tambahnya mungkin ya teman-temannya semuanya tuh aktif semua
+38	Kalau aku sama ya kayak Kak Hasna, terus tambahnya mungkin ya teman-temannya semuanya tuh aktif semua
+39	Kalau aku sama ya kayak Kak Hasna, terus tambahnya mungkin ya teman-temannya semuanya tuh aktif semua
+40	Kalau aku sama ya kayak Kak Hasna, terus tambahnya mungkin ya teman-temannya semuanya tuh aktif semua
+41	Kalau aku sama ya kayak Kak Hasna, terus tambahnya mungkin ya teman-temannya semuanya tuh aktif semua
+42	Kalau aku sama ya kayak Kak Hasna, terus tambahnya mungkin ya teman-temannya semuanya tuh aktif semua
+43	Kalau aku sama ya kayak Kak Hasna, terus tambahnya mungkin ya teman-temannya semuanya tuh aktif semua
+44	Kalau aku sama ya kayak Kak Hasna, terus tambahnya mungkin ya teman-temannya semuanya tuh aktif semua
+45	Kalau aku sama ya kayak Kak Hasna, terus tambahnya mungkin ya teman-temannya semuanya tuh aktif semua
+46	Kalau aku sama ya kayak Kak Hasna, terus tambahnya mungkin ya teman-temannya semuanya tuh aktif semua
+47	Kalau aku sama ya kayak Kak Hasna, terus tambahnya mungkin ya teman-temannya semuanya tuh aktif semua
+48	Kalau aku sama ya kayak Kak Hasna, terus tambahnya mungkin ya teman-temannya semuanya tuh aktif semua Jadi kita tuh kayak terbangun untuk bisa bersaing lagi lebih baik, seperti itu
+49	Kalau aku sama ya kayak Kak Hasna, terus tambahnya mungkin ya teman-temannya semuanya tuh aktif semua Jadi kita tuh kayak terbangun untuk bisa bersaing lagi lebih baik, seperti itu
+50	Jadi kita tuh kayak terbangun untuk bisa bersaing lagi lebih baik, seperti itu
+51	Jadi kita tuh kayak terbangun untuk bisa bersaing lagi lebih baik, seperti itu
+52	Jadi kita tuh kayak terbangun untuk bisa bersaing lagi lebih baik, seperti itu
+53	Jadi kita tuh kayak terbangun untuk bisa bersaing lagi lebih baik, seperti itu
+54	Jadi kita tuh kayak terbangun untuk bisa bersaing lagi lebih baik, seperti itu
+55	Jadi kita tuh kayak terbangun untuk bisa bersaing lagi lebih baik, seperti itu
+56	Jadi kita tuh kayak terbangun untuk bisa bersaing lagi lebih baik, seperti itu
+57	Jadi kita tuh kayak terbangun untuk bisa bersaing lagi lebih baik, seperti itu
+58	Jadi kita tuh kayak terbangun untuk bisa bersaing lagi lebih baik, seperti itu Halo, aku Nanat, aku Ami, aku Yunita, aku Nadia, kita dari WA Semarang
+59	Jadi kita tuh kayak terbangun untuk bisa bersaing lagi lebih baik, seperti itu Halo, aku Nanat, aku Ami, aku Yunita, aku Nadia, kita dari WA Semarang
+60	Halo, aku Nanat, aku Ami, aku Yunita, aku Nadia, kita dari WA Semarang
+61	Halo, aku Nanat, aku Ami, aku Yunita, aku Nadia, kita dari WA Semarang
+62	Halo, aku Nanat, aku Ami, aku Yunita, aku Nadia, kita dari WA Semarang
+63	Halo, aku Nanat, aku Ami, aku Yunita, aku Nadia, kita dari WA Semarang
+64	Halo, aku Nanat, aku Ami, aku Yunita, aku Nadia, kita dari WA Semarang
+65	Halo, aku Nanat, aku Ami, aku Yunita, aku Nadia, kita dari WA Semarang
+66	Halo, aku Nanat, aku Ami, aku Yunita, aku Nadia, kita dari WA Semarang
+67	Halo, aku Nanat, aku Ami, aku Yunita, aku Nadia, kita dari WA Semarang
+68	Halo, aku Nanat, aku Ami, aku Yunita, aku Nadia, kita dari WA Semarang
+69	Halo, aku Nanat, aku Ami, aku Yunita, aku Nadia, kita dari WA Semarang
+70	Halo, aku Nanat, aku Ami, aku Yunita, aku Nadia, kita dari WA Semarang
+71	Halo, aku Nanat, aku Ami, aku Yunita, aku Nadia, kita dari WA Semarang
+72	Halo, aku Nanat, aku Ami, aku Yunita, aku Nadia, kita dari WA Semarang
+73	Halo, aku Nanat, aku Ami, aku Yunita, aku Nadia, kita dari WA Semarang
+74	Halo, aku Nanat, aku Ami, aku Yunita, aku Nadia, kita dari WA Semarang
+75	Halo, aku Nanat, aku Ami, aku Yunita, aku Nadia, kita dari WA Semarang
+76	Halo, aku Nanat, aku Ami, aku Yunita, aku Nadia, kita dari WA Semarang
+77	Halo, aku Nanat, aku Ami, aku Yunita, aku Nadia, kita dari WA Semarang
+78	[NO_SPEECH]
+79	Kesan-pesan untuk WA tahun ini seru banget, aku melalui banyak kegiatan dan juga banyak produk-produk Wardah
+80	Kesan-pesan untuk WA tahun ini seru banget, aku melalui banyak kegiatan dan juga banyak produk-produk Wardah
+81	Kesan-pesan untuk WA tahun ini seru banget, aku melalui banyak kegiatan dan juga banyak produk-produk Wardah
+82	Kesan-pesan untuk WA tahun ini seru banget, aku melalui banyak kegiatan dan juga banyak produk-produk Wardah
+83	Kesan-pesan untuk WA tahun ini seru banget, aku melalui banyak kegiatan dan juga banyak produk-produk Wardah
+84	Kesan-pesan untuk WA tahun ini seru banget, aku melalui banyak kegiatan dan juga banyak produk-produk Wardah
+85	Kesan-pesan untuk WA tahun ini seru banget, aku melalui banyak kegiatan dan juga banyak produk-produk Wardah
+86	Kesan-pesan untuk WA tahun ini seru banget, aku melalui banyak kegiatan dan juga banyak produk-produk Wardah
+87	Kesan-pesan untuk WA tahun ini seru banget, aku melalui banyak kegiatan dan juga banyak produk-produk Wardah
+88	Kesan-pesan untuk WA tahun ini seru banget, aku melalui banyak kegiatan dan juga banyak produk-produk Wardah
+89	Kesan-pesan untuk WA tahun ini seru banget, aku melalui banyak kegiatan dan juga banyak produk-produk Wardah
+90	Kesan-pesan untuk WA tahun ini seru banget, aku melalui banyak kegiatan dan juga banyak produk-produk Wardah
+91	Kesan-pesan untuk WA tahun ini seru banget, aku melalui banyak kegiatan dan juga banyak produk-produk Wardah
+92	Kesan-pesan untuk WA tahun ini seru banget, aku melalui banyak kegiatan dan juga banyak produk-produk Wardah
+93	Kesan-pesan untuk WA tahun ini seru banget, aku melalui banyak kegiatan dan juga banyak produk-produk Wardah Pengalaman dari aku, aku senang banget waktu itu bisa ketemu influencer terkenal di kota Semarang, itu gak terlupakan banget
+94	Kesan-pesan untuk WA tahun ini seru banget, aku melalui banyak kegiatan dan juga banyak produk-produk Wardah Pengalaman dari aku, aku senang banget waktu itu bisa ketemu influencer terkenal di kota Semarang, itu gak terlupakan banget
+95	Pengalaman dari aku, aku senang banget waktu itu bisa ketemu influencer terkenal di kota Semarang, itu gak terlupakan banget
+96	Pengalaman dari aku, aku senang banget waktu itu bisa ketemu influencer terkenal di kota Semarang, itu gak terlupakan banget
+97	Pengalaman dari aku, aku senang banget waktu itu bisa ketemu influencer terkenal di kota Semarang, itu gak terlupakan banget
+98	Pengalaman dari aku, aku senang banget waktu itu bisa ketemu influencer terkenal di kota Semarang, itu gak terlupakan banget
+99	Pengalaman dari aku, aku senang banget waktu itu bisa ketemu influencer terkenal di kota Semarang, itu gak terlupakan banget
+100	Pengalaman dari aku, aku senang banget waktu itu bisa ketemu influencer terkenal di kota Semarang, itu gak terlupakan banget
+101	Pengalaman dari aku, aku senang banget waktu itu bisa ketemu influencer terkenal di kota Semarang, itu gak terlupakan banget
+102	Pengalaman dari aku, aku senang banget waktu itu bisa ketemu influencer terkenal di kota Semarang, itu gak terlupakan banget
+103	Pengalaman dari aku, aku senang banget waktu itu bisa ketemu influencer terkenal di kota Semarang, itu gak terlupakan banget
+104	Pengalaman dari aku, aku senang banget waktu itu bisa ketemu influencer terkenal di kota Semarang, itu gak terlupakan banget
+105	Pengalaman dari aku, aku senang banget waktu itu bisa ketemu influencer terkenal di kota Semarang, itu gak terlupakan banget
+106	Pengalaman dari aku, aku senang banget waktu itu bisa ketemu influencer terkenal di kota Semarang, itu gak terlupakan banget
+107	Pengalaman dari aku, aku senang banget waktu itu bisa ketemu influencer terkenal di kota Semarang, itu gak terlupakan banget
+108	Kesan aku semoga Wardah semakin maju dan jangan lupa ada WA tahun 2024 ya
+109	Kesan aku semoga Wardah semakin maju dan jangan lupa ada WA tahun 2024 ya
+110	Kesan aku semoga Wardah semakin maju dan jangan lupa ada WA tahun 2024 ya
+111	Kesan aku semoga Wardah semakin maju dan jangan lupa ada WA tahun 2024 ya
+112	Kesan aku semoga Wardah semakin maju dan jangan lupa ada WA tahun 2024 ya
+113	Kesan aku semoga Wardah semakin maju dan jangan lupa ada WA tahun 2024 ya
+114	Kesan aku semoga Wardah semakin maju dan jangan lupa ada WA tahun 2024 ya
+115	Kesan aku semoga Wardah semakin maju dan jangan lupa ada WA tahun 2024 ya
+116	Kesan aku semoga Wardah semakin maju dan jangan lupa ada WA tahun 2024 ya
+117	Kesan aku semoga Wardah semakin maju dan jangan lupa ada WA tahun 2024 ya
+118	Kesan aku semoga Wardah semakin maju dan jangan lupa ada WA tahun 2024 ya Itu kata untuk Wardah, selalu di hati, sarang eyo
+119	Kesan aku semoga Wardah semakin maju dan jangan lupa ada WA tahun 2024 ya Itu kata untuk Wardah, selalu di hati, sarang eyo
+120	Itu kata untuk Wardah, selalu di hati, sarang eyo
+121	Itu kata untuk Wardah, selalu di hati, sarang eyo
+122	Itu kata untuk Wardah, selalu di hati, sarang eyo
+123	Itu kata untuk Wardah, selalu di hati, sarang eyo
+124	Itu kata untuk Wardah, selalu di hati, sarang eyo
+125	Itu kata untuk Wardah, selalu di hati, sarang eyo Wardah yang tak bisa dorong, selalu di hati, 23
+126	Itu kata untuk Wardah, selalu di hati, sarang eyo Wardah yang tak bisa dorong, selalu di hati, 23
+127	Wardah yang tak bisa dorong, selalu di hati, 23
+128	Wardah yang tak bisa dorong, selalu di hati, 23
+129	Wardah yang tak bisa dorong, selalu di hati, 23
+130	Wardah yang tak bisa dorong, selalu di hati, 23
+131	Wardah yang tak bisa dorong, selalu di hati, 23 LONO
+132	Wardah yang tak bisa dorong, selalu di hati, 23 LONO
+133	LONO
+134	LONO
+135	LONO
+136	Hai, aku Hasna
+137	Hai, aku Hasna
+138	Hai, aku Hasna
+139	Hai, aku Hasna
+140	Hai, aku Hasna
+141	Hai, aku Hasna
+142	Hai, aku Hasna
+143	Hai, aku Hasna
+144	Hai, aku Hasna
+145	Hai, aku Hasna
+146	Hai, aku Hasna
+147	Hai, aku Hasna
+148	Hai, aku Hasna
+149	Hai, aku Hasna
+150	Hai, aku Hasna
+151	Hai, aku Hasna
+152	Hai, aku Hasna Aku Rara
+153	Hai, aku Hasna Aku Rara
+154	Aku Rara Kita dari WA Semarang
+155	Aku Rara Kita dari WA Semarang
+156	Kita dari WA Semarang
+157	Kita dari WA Semarang
+158	Kita dari WA Semarang
+159	Kita dari WA Semarang
+160	Kita dari WA Semarang Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+161	Kita dari WA Semarang Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+162	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+163	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+164	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+165	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+166	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+167	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+168	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+169	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+170	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+171	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+172	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+173	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+174	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya
+175	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya Terus habis itu juga ke teman-teman baru
+176	Pengalaman aku selama jadi WA, aku senang banget karena punya banyak kesempatan untuk eksplor diri sebanyak-banyaknya Terus habis itu juga ke teman-teman baru
+177	Terus habis itu juga ke teman-teman baru
+178	Terus habis itu juga ke teman-teman baru Ketemuan-temuan
+179	Terus habis itu juga ke teman-teman baru Ketemuan-temuan

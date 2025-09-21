@@ -1,0 +1,112 @@
+0	Bang, dus monitor atau TV gue butuh disimpen nggak ya buat klaim garansi?
+1	Bang, dus monitor atau TV gue butuh disimpen nggak ya buat klaim garansi?
+2	Bang, dus monitor atau TV gue butuh disimpen nggak ya buat klaim garansi?
+3	Bang, dus monitor atau TV gue butuh disimpen nggak ya buat klaim garansi?
+4	Bang, dus monitor atau TV gue butuh disimpen nggak ya buat klaim garansi?
+5	Bang, dus monitor atau TV gue butuh disimpen nggak ya buat klaim garansi?
+6	Bang, dus monitor atau TV gue butuh disimpen nggak ya buat klaim garansi? Dibuang boleh nggak ya? Gue udah enak banget simpennya.
+7	Bang, dus monitor atau TV gue butuh disimpen nggak ya buat klaim garansi? Dibuang boleh nggak ya? Gue udah enak banget simpennya.
+8	Dibuang boleh nggak ya? Gue udah enak banget simpennya.
+9	Dibuang boleh nggak ya? Gue udah enak banget simpennya.
+10	Dibuang boleh nggak ya? Gue udah enak banget simpennya.
+11	Dibuang boleh nggak ya? Gue udah enak banget simpennya. Hmm, pas lu klaim garansi ke brand sih, nggak ada yang dilihat selain invoice pembelian.
+12	Dibuang boleh nggak ya? Gue udah enak banget simpennya. Hmm, pas lu klaim garansi ke brand sih, nggak ada yang dilihat selain invoice pembelian.
+13	Hmm, pas lu klaim garansi ke brand sih, nggak ada yang dilihat selain invoice pembelian.
+14	Hmm, pas lu klaim garansi ke brand sih, nggak ada yang dilihat selain invoice pembelian.
+15	Hmm, pas lu klaim garansi ke brand sih, nggak ada yang dilihat selain invoice pembelian.
+16	Hmm, pas lu klaim garansi ke brand sih, nggak ada yang dilihat selain invoice pembelian.
+17	Hmm, pas lu klaim garansi ke brand sih, nggak ada yang dilihat selain invoice pembelian.
+18	Hmm, pas lu klaim garansi ke brand sih, nggak ada yang dilihat selain invoice pembelian.
+19	Hmm, pas lu klaim garansi ke brand sih, nggak ada yang dilihat selain invoice pembelian.
+20	Hmm, pas lu klaim garansi ke brand sih, nggak ada yang dilihat selain invoice pembelian.
+21	Hmm, pas lu klaim garansi ke brand sih, nggak ada yang dilihat selain invoice pembelian.
+22	Hmm, pas lu klaim garansi ke brand sih, nggak ada yang dilihat selain invoice pembelian.
+23	Hmm, pas lu klaim garansi ke brand sih, nggak ada yang dilihat selain invoice pembelian. Ya, dilihat juga lah barang bodinya gitu ya, rusak karena lu banting apa bukan.
+24	Hmm, pas lu klaim garansi ke brand sih, nggak ada yang dilihat selain invoice pembelian. Ya, dilihat juga lah barang bodinya gitu ya, rusak karena lu banting apa bukan.
+25	Ya, dilihat juga lah barang bodinya gitu ya, rusak karena lu banting apa bukan.
+26	Ya, dilihat juga lah barang bodinya gitu ya, rusak karena lu banting apa bukan.
+27	Ya, dilihat juga lah barang bodinya gitu ya, rusak karena lu banting apa bukan.
+28	Ya, dilihat juga lah barang bodinya gitu ya, rusak karena lu banting apa bukan.
+29	Ya, dilihat juga lah barang bodinya gitu ya, rusak karena lu banting apa bukan.
+30	Ya, dilihat juga lah barang bodinya gitu ya, rusak karena lu banting apa bukan.
+31	Ya, dilihat juga lah barang bodinya gitu ya, rusak karena lu banting apa bukan. Dus plus gabusnya sendiri, mau lu buang kek, mau lu cair jadi bungur terus lu minum kek,
+32	Ya, dilihat juga lah barang bodinya gitu ya, rusak karena lu banting apa bukan. Dus plus gabusnya sendiri, mau lu buang kek, mau lu cair jadi bungur terus lu minum kek,
+33	Dus plus gabusnya sendiri, mau lu buang kek, mau lu cair jadi bungur terus lu minum kek,
+34	Dus plus gabusnya sendiri, mau lu buang kek, mau lu cair jadi bungur terus lu minum kek,
+35	Dus plus gabusnya sendiri, mau lu buang kek, mau lu cair jadi bungur terus lu minum kek,
+36	Dus plus gabusnya sendiri, mau lu buang kek, mau lu cair jadi bungur terus lu minum kek,
+37	Dus plus gabusnya sendiri, mau lu buang kek, mau lu cair jadi bungur terus lu minum kek,
+38	Dus plus gabusnya sendiri, mau lu buang kek, mau lu cair jadi bungur terus lu minum kek,
+39	Dus plus gabusnya sendiri, mau lu buang kek, mau lu cair jadi bungur terus lu minum kek,
+40	Dus plus gabusnya sendiri, mau lu buang kek, mau lu cair jadi bungur terus lu minum kek,
+41	Dus plus gabusnya sendiri, mau lu buang kek, mau lu cair jadi bungur terus lu minum kek, nggak ada efek sama sekali sama garansi produk lu sendiri.
+42	Dus plus gabusnya sendiri, mau lu buang kek, mau lu cair jadi bungur terus lu minum kek, nggak ada efek sama sekali sama garansi produk lu sendiri.
+43	nggak ada efek sama sekali sama garansi produk lu sendiri.
+44	nggak ada efek sama sekali sama garansi produk lu sendiri.
+45	nggak ada efek sama sekali sama garansi produk lu sendiri.
+46	nggak ada efek sama sekali sama garansi produk lu sendiri. Masalahnya, dus plus gabusnya itu cocok itu perfect buat bungkus produk yang lu punya seaman mungkin.
+47	nggak ada efek sama sekali sama garansi produk lu sendiri. Masalahnya, dus plus gabusnya itu cocok itu perfect buat bungkus produk yang lu punya seaman mungkin.
+48	Masalahnya, dus plus gabusnya itu cocok itu perfect buat bungkus produk yang lu punya seaman mungkin.
+49	Masalahnya, dus plus gabusnya itu cocok itu perfect buat bungkus produk yang lu punya seaman mungkin.
+50	Masalahnya, dus plus gabusnya itu cocok itu perfect buat bungkus produk yang lu punya seaman mungkin.
+51	Masalahnya, dus plus gabusnya itu cocok itu perfect buat bungkus produk yang lu punya seaman mungkin.
+52	Masalahnya, dus plus gabusnya itu cocok itu perfect buat bungkus produk yang lu punya seaman mungkin.
+53	Masalahnya, dus plus gabusnya itu cocok itu perfect buat bungkus produk yang lu punya seaman mungkin.
+54	Masalahnya, dus plus gabusnya itu cocok itu perfect buat bungkus produk yang lu punya seaman mungkin.
+55	Masalahnya, dus plus gabusnya itu cocok itu perfect buat bungkus produk yang lu punya seaman mungkin.
+56	Masalahnya, dus plus gabusnya itu cocok itu perfect buat bungkus produk yang lu punya seaman mungkin.
+57	Masalahnya, dus plus gabusnya itu cocok itu perfect buat bungkus produk yang lu punya seaman mungkin.
+58	Masalahnya, dus plus gabusnya itu cocok itu perfect buat bungkus produk yang lu punya seaman mungkin.
+59	Masalahnya, dus plus gabusnya itu cocok itu perfect buat bungkus produk yang lu punya seaman mungkin.
+60	Masalahnya, dus plus gabusnya itu cocok itu perfect buat bungkus produk yang lu punya seaman mungkin. Semisal lu mau klaim garansi, Fiat kirim-kirim.
+61	Semisal lu mau klaim garansi, Fiat kirim-kirim.
+62	Semisal lu mau klaim garansi, Fiat kirim-kirim.
+63	Semisal lu mau klaim garansi, Fiat kirim-kirim.
+64	Semisal lu mau klaim garansi, Fiat kirim-kirim. Semisal service centernya jauh dari rumah lu sendiri.
+65	Semisal lu mau klaim garansi, Fiat kirim-kirim. Semisal service centernya jauh dari rumah lu sendiri.
+66	Semisal service centernya jauh dari rumah lu sendiri.
+67	Semisal service centernya jauh dari rumah lu sendiri.
+68	Semisal service centernya jauh dari rumah lu sendiri.
+69	Semisal service centernya jauh dari rumah lu sendiri.
+70	Semisal service centernya jauh dari rumah lu sendiri. Apa? Lu udah buang dusnya? Terus sekarang lu mau klaim garansi, bingung bungkusnya pake apa?
+71	Apa? Lu udah buang dusnya? Terus sekarang lu mau klaim garansi, bingung bungkusnya pake apa?
+72	Apa? Lu udah buang dusnya? Terus sekarang lu mau klaim garansi, bingung bungkusnya pake apa?
+73	Apa? Lu udah buang dusnya? Terus sekarang lu mau klaim garansi, bingung bungkusnya pake apa?
+74	Apa? Lu udah buang dusnya? Terus sekarang lu mau klaim garansi, bingung bungkusnya pake apa?
+75	Apa? Lu udah buang dusnya? Terus sekarang lu mau klaim garansi, bingung bungkusnya pake apa?
+76	Apa? Lu udah buang dusnya? Terus sekarang lu mau klaim garansi, bingung bungkusnya pake apa?
+77	Apa? Lu udah buang dusnya? Terus sekarang lu mau klaim garansi, bingung bungkusnya pake apa?
+78	Apa? Lu udah buang dusnya? Terus sekarang lu mau klaim garansi, bingung bungkusnya pake apa? Satu kata, mampus!
+79	Satu kata, mampus!
+80	Satu kata, mampus!
+81	Satu kata, mampus! Kepaksa lu masih beli bubble, kardus, lakban.
+82	Kepaksa lu masih beli bubble, kardus, lakban.
+83	Kepaksa lu masih beli bubble, kardus, lakban.
+84	Kepaksa lu masih beli bubble, kardus, lakban.
+85	Kepaksa lu masih beli bubble, kardus, lakban.
+86	Kepaksa lu masih beli bubble, kardus, lakban. Lu packing dah berlapis-lapis biar panel di monitor atau TV lu kagak pecah pas pengiriman.
+87	Kepaksa lu masih beli bubble, kardus, lakban. Lu packing dah berlapis-lapis biar panel di monitor atau TV lu kagak pecah pas pengiriman.
+88	Lu packing dah berlapis-lapis biar panel di monitor atau TV lu kagak pecah pas pengiriman.
+89	Lu packing dah berlapis-lapis biar panel di monitor atau TV lu kagak pecah pas pengiriman.
+90	Lu packing dah berlapis-lapis biar panel di monitor atau TV lu kagak pecah pas pengiriman.
+91	Lu packing dah berlapis-lapis biar panel di monitor atau TV lu kagak pecah pas pengiriman.
+92	Lu packing dah berlapis-lapis biar panel di monitor atau TV lu kagak pecah pas pengiriman.
+93	Lu packing dah berlapis-lapis biar panel di monitor atau TV lu kagak pecah pas pengiriman.
+94	Lu packing dah berlapis-lapis biar panel di monitor atau TV lu kagak pecah pas pengiriman.
+95	Lu packing dah berlapis-lapis biar panel di monitor atau TV lu kagak pecah pas pengiriman.
+96	Lu packing dah berlapis-lapis biar panel di monitor atau TV lu kagak pecah pas pengiriman. Komennya mampus, gue kirimin linknya.
+97	Komennya mampus, gue kirimin linknya.
+98	Komennya mampus, gue kirimin linknya.
+99	Komennya mampus, gue kirimin linknya.
+100	Komennya mampus, gue kirimin linknya. Ingat top up game, ingat di Deni Top Up.
+101	Ingat top up game, ingat di Deni Top Up.
+102	Ingat top up game, ingat di Deni Top Up.
+103	Ingat top up game, ingat di Deni Top Up.
+104	Ingat top up game, ingat di Deni Top Up.
+105	Ingat top up game, ingat di Deni Top Up.
+106	[NO_SPEECH]
+107	Terima kasih.
+108	Terima kasih.
+109	Terima kasih.
+110	Terima kasih.
+111	Terima kasih.

@@ -1,0 +1,59 @@
+0	Nah, kalau orang lain itu biasanya cita-cita ya beli rumah, punya pekerjaan yang tetap gitu kan.
+1	Nah, kalau orang lain itu biasanya cita-cita ya beli rumah, punya pekerjaan yang tetap gitu kan.
+2	Nah, kalau orang lain itu biasanya cita-cita ya beli rumah, punya pekerjaan yang tetap gitu kan.
+3	Nah, kalau orang lain itu biasanya cita-cita ya beli rumah, punya pekerjaan yang tetap gitu kan.
+4	Nah, kalau orang lain itu biasanya cita-cita ya beli rumah, punya pekerjaan yang tetap gitu kan.
+5	Nah, kalau orang lain itu biasanya cita-cita ya beli rumah, punya pekerjaan yang tetap gitu kan.
+6	Nah, kalau orang lain itu biasanya cita-cita ya beli rumah, punya pekerjaan yang tetap gitu kan.
+7	Nah, kalau orang lain itu biasanya cita-cita ya beli rumah, punya pekerjaan yang tetap gitu kan.
+8	Nah, kalau orang lain itu biasanya cita-cita ya beli rumah, punya pekerjaan yang tetap gitu kan.
+9	Nah, kalau orang lain itu biasanya cita-cita ya beli rumah, punya pekerjaan yang tetap gitu kan.
+10	Nah, kalau orang lain itu biasanya cita-cita ya beli rumah, punya pekerjaan yang tetap gitu kan.
+11	Nah, kalau orang lain itu biasanya cita-cita ya beli rumah, punya pekerjaan yang tetap gitu kan.
+12	Nah, kalau orang lain itu biasanya cita-cita ya beli rumah, punya pekerjaan yang tetap gitu kan.
+13	Nah, kalau orang lain itu biasanya cita-cita ya beli rumah, punya pekerjaan yang tetap gitu kan.
+14	Nah, kalau orang lain itu biasanya cita-cita ya beli rumah, punya pekerjaan yang tetap gitu kan.
+15	Nah, kalau orang lain itu biasanya cita-cita ya beli rumah, punya pekerjaan yang tetap gitu kan. Dia rumahnya tidak tetap.
+16	Nah, kalau orang lain itu biasanya cita-cita ya beli rumah, punya pekerjaan yang tetap gitu kan. Dia rumahnya tidak tetap.
+17	Dia rumahnya tidak tetap.
+18	Dia rumahnya tidak tetap.
+19	Dia rumahnya tidak tetap.
+20	Dia rumahnya tidak tetap. Betul.
+21	Dia rumahnya tidak tetap. Betul.
+22	Betul.
+23	Awalnya gimana tiba-tiba jadi beli camper van?
+24	Awalnya gimana tiba-tiba jadi beli camper van?
+25	Awalnya gimana tiba-tiba jadi beli camper van?
+26	Awalnya gimana tiba-tiba jadi beli camper van?
+27	Awalnya gimana tiba-tiba jadi beli camper van?
+28	Awalnya gimana tiba-tiba jadi beli camper van?
+29	Awalnya gimana tiba-tiba jadi beli camper van? Akhirnya aku pindah tuh pernah tidur di SWBU, pernah tidur juga di kayak tempat ibadah, pernah tidur di tempat umum.
+30	Awalnya gimana tiba-tiba jadi beli camper van? Akhirnya aku pindah tuh pernah tidur di SWBU, pernah tidur juga di kayak tempat ibadah, pernah tidur di tempat umum.
+31	Akhirnya aku pindah tuh pernah tidur di SWBU, pernah tidur juga di kayak tempat ibadah, pernah tidur di tempat umum.
+32	Akhirnya aku pindah tuh pernah tidur di SWBU, pernah tidur juga di kayak tempat ibadah, pernah tidur di tempat umum.
+33	Akhirnya aku pindah tuh pernah tidur di SWBU, pernah tidur juga di kayak tempat ibadah, pernah tidur di tempat umum.
+34	Akhirnya aku pindah tuh pernah tidur di SWBU, pernah tidur juga di kayak tempat ibadah, pernah tidur di tempat umum.
+35	Akhirnya aku pindah tuh pernah tidur di SWBU, pernah tidur juga di kayak tempat ibadah, pernah tidur di tempat umum.
+36	Akhirnya aku pindah tuh pernah tidur di SWBU, pernah tidur juga di kayak tempat ibadah, pernah tidur di tempat umum.
+37	Akhirnya aku pindah tuh pernah tidur di SWBU, pernah tidur juga di kayak tempat ibadah, pernah tidur di tempat umum.
+38	Akhirnya aku pindah tuh pernah tidur di SWBU, pernah tidur juga di kayak tempat ibadah, pernah tidur di tempat umum.
+39	Akhirnya aku pindah tuh pernah tidur di SWBU, pernah tidur juga di kayak tempat ibadah, pernah tidur di tempat umum.
+40	Akhirnya aku pindah tuh pernah tidur di SWBU, pernah tidur juga di kayak tempat ibadah, pernah tidur di tempat umum.
+41	Akhirnya aku pindah tuh pernah tidur di SWBU, pernah tidur juga di kayak tempat ibadah, pernah tidur di tempat umum. Malam-malam digangguin.
+42	Malam-malam digangguin.
+43	Malam-malam digangguin. Karena aku ada barang yang ada isinya, dikasih aku udah tau.
+44	Malam-malam digangguin. Karena aku ada barang yang ada isinya, dikasih aku udah tau.
+45	Karena aku ada barang yang ada isinya, dikasih aku udah tau.
+46	Karena aku ada barang yang ada isinya, dikasih aku udah tau.
+47	Karena aku ada barang yang ada isinya, dikasih aku udah tau.
+48	Karena aku ada barang yang ada isinya, dikasih aku udah tau.
+49	Karena aku ada barang yang ada isinya, dikasih aku udah tau. Apa isinya? Solar?
+50	Karena aku ada barang yang ada isinya, dikasih aku udah tau. Apa isinya? Solar?
+51	Apa isinya? Solar? Ah, BBM yang lain.
+52	Apa isinya? Solar? Ah, BBM yang lain.
+53	Ah, BBM yang lain.
+54	Ah, BBM yang lain. Pertalatnya.
+55	Ah, BBM yang lain. Pertalatnya.
+56	Pertalatnya.
+57	[NO_SPEECH]
+58	[NO_SPEECH]

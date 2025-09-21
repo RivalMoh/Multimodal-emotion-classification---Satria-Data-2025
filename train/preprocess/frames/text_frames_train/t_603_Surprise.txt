@@ -1,0 +1,51 @@
+0	Kalau aku dikasih uang 100 ribu buat beli skincare mencerahkan, ini yang bakal aku beli
+1	Kalau aku dikasih uang 100 ribu buat beli skincare mencerahkan, ini yang bakal aku beli
+2	Kalau aku dikasih uang 100 ribu buat beli skincare mencerahkan, ini yang bakal aku beli
+3	Kalau aku dikasih uang 100 ribu buat beli skincare mencerahkan, ini yang bakal aku beli
+4	Kalau aku dikasih uang 100 ribu buat beli skincare mencerahkan, ini yang bakal aku beli
+5	Kalau aku dikasih uang 100 ribu buat beli skincare mencerahkan, ini yang bakal aku beli
+6	Kalau aku dikasih uang 100 ribu buat beli skincare mencerahkan, ini yang bakal aku beli
+7	Kalau aku dikasih uang 100 ribu buat beli skincare mencerahkan, ini yang bakal aku beli Double Brightening Facial Wash Shinsui 20ml, dia cuma 6 ribu
+8	Kalau aku dikasih uang 100 ribu buat beli skincare mencerahkan, ini yang bakal aku beli Double Brightening Facial Wash Shinsui 20ml, dia cuma 6 ribu
+9	Double Brightening Facial Wash Shinsui 20ml, dia cuma 6 ribu
+10	Double Brightening Facial Wash Shinsui 20ml, dia cuma 6 ribu
+11	Double Brightening Facial Wash Shinsui 20ml, dia cuma 6 ribu
+12	Double Brightening Facial Wash Shinsui 20ml, dia cuma 6 ribu
+13	Double Brightening Facial Wash Shinsui 20ml, dia cuma 6 ribu
+14	Double Brightening Facial Wash Shinsui 20ml, dia cuma 6 ribu
+15	Double Brightening Facial Wash Shinsui 20ml, dia cuma 6 ribu Dilaian sama Brightening Shampoo dari Hanasui yang udah 10%-nya yang Cinemite, dia cuma 30 ribu
+16	Double Brightening Facial Wash Shinsui 20ml, dia cuma 6 ribu Dilaian sama Brightening Shampoo dari Hanasui yang udah 10%-nya yang Cinemite, dia cuma 30 ribu
+17	Dilaian sama Brightening Shampoo dari Hanasui yang udah 10%-nya yang Cinemite, dia cuma 30 ribu
+18	Dilaian sama Brightening Shampoo dari Hanasui yang udah 10%-nya yang Cinemite, dia cuma 30 ribu
+19	Dilaian sama Brightening Shampoo dari Hanasui yang udah 10%-nya yang Cinemite, dia cuma 30 ribu
+20	Dilaian sama Brightening Shampoo dari Hanasui yang udah 10%-nya yang Cinemite, dia cuma 30 ribu
+21	Dilaian sama Brightening Shampoo dari Hanasui yang udah 10%-nya yang Cinemite, dia cuma 30 ribu
+22	Dilaian sama Brightening Shampoo dari Hanasui yang udah 10%-nya yang Cinemite, dia cuma 30 ribu
+23	Dilaian sama Brightening Shampoo dari Hanasui yang udah 10%-nya yang Cinemite, dia cuma 30 ribu
+24	Dilaian sama Brightening Shampoo dari Hanasui yang udah 10%-nya yang Cinemite, dia cuma 30 ribu
+25	Dilaian sama Brightening Shampoo dari Hanasui yang udah 10%-nya yang Cinemite, dia cuma 30 ribu Lanjut pake Moist dari Glow Sopi yang Watermelon Brightening Moisturizer karena dia cuma 40 ribuan aja
+26	Dilaian sama Brightening Shampoo dari Hanasui yang udah 10%-nya yang Cinemite, dia cuma 30 ribu Lanjut pake Moist dari Glow Sopi yang Watermelon Brightening Moisturizer karena dia cuma 40 ribuan aja
+27	Lanjut pake Moist dari Glow Sopi yang Watermelon Brightening Moisturizer karena dia cuma 40 ribuan aja
+28	Lanjut pake Moist dari Glow Sopi yang Watermelon Brightening Moisturizer karena dia cuma 40 ribuan aja
+29	Lanjut pake Moist dari Glow Sopi yang Watermelon Brightening Moisturizer karena dia cuma 40 ribuan aja
+30	Lanjut pake Moist dari Glow Sopi yang Watermelon Brightening Moisturizer karena dia cuma 40 ribuan aja
+31	Lanjut pake Moist dari Glow Sopi yang Watermelon Brightening Moisturizer karena dia cuma 40 ribuan aja
+32	Lanjut pake Moist dari Glow Sopi yang Watermelon Brightening Moisturizer karena dia cuma 40 ribuan aja
+33	Lanjut pake Moist dari Glow Sopi yang Watermelon Brightening Moisturizer karena dia cuma 40 ribuan aja
+34	Lanjut pake Moist dari Glow Sopi yang Watermelon Brightening Moisturizer karena dia cuma 40 ribuan aja
+35	Lanjut pake Moist dari Glow Sopi yang Watermelon Brightening Moisturizer karena dia cuma 40 ribuan aja
+36	Lanjut pake Moist dari Glow Sopi yang Watermelon Brightening Moisturizer karena dia cuma 40 ribuan aja Ditutup pake Sunbatter dari Emina SPF 35 PA+++, so budget kalian sisa 7 ribu
+37	Lanjut pake Moist dari Glow Sopi yang Watermelon Brightening Moisturizer karena dia cuma 40 ribuan aja Ditutup pake Sunbatter dari Emina SPF 35 PA+++, so budget kalian sisa 7 ribu
+38	Ditutup pake Sunbatter dari Emina SPF 35 PA+++, so budget kalian sisa 7 ribu
+39	Ditutup pake Sunbatter dari Emina SPF 35 PA+++, so budget kalian sisa 7 ribu
+40	Ditutup pake Sunbatter dari Emina SPF 35 PA+++, so budget kalian sisa 7 ribu
+41	Ditutup pake Sunbatter dari Emina SPF 35 PA+++, so budget kalian sisa 7 ribu
+42	Ditutup pake Sunbatter dari Emina SPF 35 PA+++, so budget kalian sisa 7 ribu
+43	Ditutup pake Sunbatter dari Emina SPF 35 PA+++, so budget kalian sisa 7 ribu
+44	Ditutup pake Sunbatter dari Emina SPF 35 PA+++, so budget kalian sisa 7 ribu
+45	Ditutup pake Sunbatter dari Emina SPF 35 PA+++, so budget kalian sisa 7 ribu
+46	Ditutup pake Sunbatter dari Emina SPF 35 PA+++, so budget kalian sisa 7 ribu
+47	Ditutup pake Sunbatter dari Emina SPF 35 PA+++, so budget kalian sisa 7 ribu
+48	Ditutup pake Sunbatter dari Emina SPF 35 PA+++, so budget kalian sisa 7 ribu
+49	Ditutup pake Sunbatter dari Emina SPF 35 PA+++, so budget kalian sisa 7 ribu
+50	Ditutup pake Sunbatter dari Emina SPF 35 PA+++, so budget kalian sisa 7 ribu

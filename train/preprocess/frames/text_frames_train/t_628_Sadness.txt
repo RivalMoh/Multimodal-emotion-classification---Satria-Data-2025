@@ -1,0 +1,113 @@
+0	Hai guys, kali ini pasien gawat darurat aku lokasinya di Bandung
+1	Hai guys, kali ini pasien gawat darurat aku lokasinya di Bandung
+2	Hai guys, kali ini pasien gawat darurat aku lokasinya di Bandung
+3	Hai guys, kali ini pasien gawat darurat aku lokasinya di Bandung
+4	Hai guys, kali ini pasien gawat darurat aku lokasinya di Bandung
+5	Hai guys, kali ini pasien gawat darurat aku lokasinya di Bandung
+6	Hai guys, kali ini pasien gawat darurat aku lokasinya di Bandung Sampai lokasi ternyata udah ada yang tidak bernyawa
+7	Hai guys, kali ini pasien gawat darurat aku lokasinya di Bandung Sampai lokasi ternyata udah ada yang tidak bernyawa
+8	Sampai lokasi ternyata udah ada yang tidak bernyawa
+9	Sampai lokasi ternyata udah ada yang tidak bernyawa
+10	Sampai lokasi ternyata udah ada yang tidak bernyawa
+11	Sampai lokasi ternyata udah ada yang tidak bernyawa
+12	Sampai lokasi ternyata udah ada yang tidak bernyawa
+13	Sampai lokasi ternyata udah ada yang tidak bernyawa Ikan yang lain keliatan luka-luka parah pada bagian kulitnya
+14	Sampai lokasi ternyata udah ada yang tidak bernyawa Ikan yang lain keliatan luka-luka parah pada bagian kulitnya
+15	Ikan yang lain keliatan luka-luka parah pada bagian kulitnya
+16	Ikan yang lain keliatan luka-luka parah pada bagian kulitnya
+17	Ikan yang lain keliatan luka-luka parah pada bagian kulitnya
+18	Ikan yang lain keliatan luka-luka parah pada bagian kulitnya
+19	Ikan yang lain keliatan luka-luka parah pada bagian kulitnya
+20	Ikan yang lain keliatan luka-luka parah pada bagian kulitnya Total ada 3 ekor yang menunjukkan gejala klinis yang sama
+21	Ikan yang lain keliatan luka-luka parah pada bagian kulitnya Total ada 3 ekor yang menunjukkan gejala klinis yang sama
+22	Total ada 3 ekor yang menunjukkan gejala klinis yang sama
+23	Total ada 3 ekor yang menunjukkan gejala klinis yang sama
+24	Total ada 3 ekor yang menunjukkan gejala klinis yang sama
+25	Total ada 3 ekor yang menunjukkan gejala klinis yang sama
+26	Total ada 3 ekor yang menunjukkan gejala klinis yang sama
+27	Total ada 3 ekor yang menunjukkan gejala klinis yang sama Setelah aku cek, ternyata cacingnya banyak banget
+28	Total ada 3 ekor yang menunjukkan gejala klinis yang sama Setelah aku cek, ternyata cacingnya banyak banget
+29	Setelah aku cek, ternyata cacingnya banyak banget
+30	Setelah aku cek, ternyata cacingnya banyak banget
+31	Setelah aku cek, ternyata cacingnya banyak banget
+32	Setelah aku cek, ternyata cacingnya banyak banget Tapi selain cacing, aku ada suspek ke virus juga namanya KHV
+33	Setelah aku cek, ternyata cacingnya banyak banget Tapi selain cacing, aku ada suspek ke virus juga namanya KHV
+34	Tapi selain cacing, aku ada suspek ke virus juga namanya KHV
+35	Tapi selain cacing, aku ada suspek ke virus juga namanya KHV
+36	Tapi selain cacing, aku ada suspek ke virus juga namanya KHV
+37	Tapi selain cacing, aku ada suspek ke virus juga namanya KHV
+38	Tapi selain cacing, aku ada suspek ke virus juga namanya KHV
+39	Tapi selain cacing, aku ada suspek ke virus juga namanya KHV
+40	Tapi selain cacing, aku ada suspek ke virus juga namanya KHV
+41	Tapi selain cacing, aku ada suspek ke virus juga namanya KHV Jadi aku sarankan untuk PCR
+42	Tapi selain cacing, aku ada suspek ke virus juga namanya KHV Jadi aku sarankan untuk PCR
+43	Jadi aku sarankan untuk PCR
+44	Jadi aku sarankan untuk PCR Melihat kondisi pasien yang lumayan memprihatinkan, pasien aku bawa ke ICU
+45	Jadi aku sarankan untuk PCR Melihat kondisi pasien yang lumayan memprihatinkan, pasien aku bawa ke ICU
+46	Melihat kondisi pasien yang lumayan memprihatinkan, pasien aku bawa ke ICU
+47	Melihat kondisi pasien yang lumayan memprihatinkan, pasien aku bawa ke ICU
+48	Melihat kondisi pasien yang lumayan memprihatinkan, pasien aku bawa ke ICU
+49	Melihat kondisi pasien yang lumayan memprihatinkan, pasien aku bawa ke ICU
+50	Melihat kondisi pasien yang lumayan memprihatinkan, pasien aku bawa ke ICU
+51	Melihat kondisi pasien yang lumayan memprihatinkan, pasien aku bawa ke ICU
+52	Melihat kondisi pasien yang lumayan memprihatinkan, pasien aku bawa ke ICU
+53	Melihat kondisi pasien yang lumayan memprihatinkan, pasien aku bawa ke ICU Total ada 3 ekor yang aku bawa
+54	Melihat kondisi pasien yang lumayan memprihatinkan, pasien aku bawa ke ICU Total ada 3 ekor yang aku bawa
+55	Total ada 3 ekor yang aku bawa
+56	Total ada 3 ekor yang aku bawa
+57	Total ada 3 ekor yang aku bawa Sekitar jam setengah 3 sore, kita otw banget deh
+58	Total ada 3 ekor yang aku bawa Sekitar jam setengah 3 sore, kita otw banget deh
+59	Sekitar jam setengah 3 sore, kita otw banget deh
+60	Sekitar jam setengah 3 sore, kita otw banget deh
+61	Sekitar jam setengah 3 sore, kita otw banget deh
+62	Sekitar jam setengah 3 sore, kita otw banget deh
+63	Sekitar jam setengah 3 sore, kita otw banget deh Eh sebentar, ya kirim mau pulang
+64	Sekitar jam setengah 3 sore, kita otw banget deh Eh sebentar, ya kirim mau pulang
+65	Eh sebentar, ya kirim mau pulang
+66	Eh sebentar, ya kirim mau pulang
+67	Eh sebentar, ya kirim mau pulang
+68	Eh sebentar, ya kirim mau pulang Kita jalan-jalan sebentar ke Surabaya yuk
+69	Eh sebentar, ya kirim mau pulang Kita jalan-jalan sebentar ke Surabaya yuk
+70	Kita jalan-jalan sebentar ke Surabaya yuk
+71	Kita jalan-jalan sebentar ke Surabaya yuk
+72	Kita jalan-jalan sebentar ke Surabaya yuk Tanggal 2-4 Juli tahun 2025 di Grand City Convex Surabaya ada event Indovisual
+73	Kita jalan-jalan sebentar ke Surabaya yuk Tanggal 2-4 Juli tahun 2025 di Grand City Convex Surabaya ada event Indovisual
+74	Tanggal 2-4 Juli tahun 2025 di Grand City Convex Surabaya ada event Indovisual
+75	Tanggal 2-4 Juli tahun 2025 di Grand City Convex Surabaya ada event Indovisual
+76	Tanggal 2-4 Juli tahun 2025 di Grand City Convex Surabaya ada event Indovisual
+77	Tanggal 2-4 Juli tahun 2025 di Grand City Convex Surabaya ada event Indovisual
+78	Tanggal 2-4 Juli tahun 2025 di Grand City Convex Surabaya ada event Indovisual
+79	Tanggal 2-4 Juli tahun 2025 di Grand City Convex Surabaya ada event Indovisual
+80	Tanggal 2-4 Juli tahun 2025 di Grand City Convex Surabaya ada event Indovisual
+81	Tanggal 2-4 Juli tahun 2025 di Grand City Convex Surabaya ada event Indovisual
+82	Tanggal 2-4 Juli tahun 2025 di Grand City Convex Surabaya ada event Indovisual
+83	Tanggal 2-4 Juli tahun 2025 di Grand City Convex Surabaya ada event Indovisual Di sini akan ada banyak perusahaan-perusahaan yang menunjukkan teknologi terbaru di bidang perikanan
+84	Tanggal 2-4 Juli tahun 2025 di Grand City Convex Surabaya ada event Indovisual Di sini akan ada banyak perusahaan-perusahaan yang menunjukkan teknologi terbaru di bidang perikanan
+85	Di sini akan ada banyak perusahaan-perusahaan yang menunjukkan teknologi terbaru di bidang perikanan
+86	Di sini akan ada banyak perusahaan-perusahaan yang menunjukkan teknologi terbaru di bidang perikanan
+87	Di sini akan ada banyak perusahaan-perusahaan yang menunjukkan teknologi terbaru di bidang perikanan
+88	Di sini akan ada banyak perusahaan-perusahaan yang menunjukkan teknologi terbaru di bidang perikanan
+89	Di sini akan ada banyak perusahaan-perusahaan yang menunjukkan teknologi terbaru di bidang perikanan
+90	Di sini akan ada banyak perusahaan-perusahaan yang menunjukkan teknologi terbaru di bidang perikanan
+91	Di sini akan ada banyak perusahaan-perusahaan yang menunjukkan teknologi terbaru di bidang perikanan
+92	Di sini akan ada banyak perusahaan-perusahaan yang menunjukkan teknologi terbaru di bidang perikanan Jadi emang cocok banget buat kamu yang mau upgrade ilmu
+93	Di sini akan ada banyak perusahaan-perusahaan yang menunjukkan teknologi terbaru di bidang perikanan Jadi emang cocok banget buat kamu yang mau upgrade ilmu
+94	Jadi emang cocok banget buat kamu yang mau upgrade ilmu
+95	Jadi emang cocok banget buat kamu yang mau upgrade ilmu
+96	Jadi emang cocok banget buat kamu yang mau upgrade ilmu
+97	Jadi emang cocok banget buat kamu yang mau upgrade ilmu
+98	Jadi emang cocok banget buat kamu yang mau upgrade ilmu Bakal ngebuka banyak peluang untuk industri aquaculture
+99	Jadi emang cocok banget buat kamu yang mau upgrade ilmu Bakal ngebuka banyak peluang untuk industri aquaculture
+100	Bakal ngebuka banyak peluang untuk industri aquaculture
+101	Bakal ngebuka banyak peluang untuk industri aquaculture
+102	Bakal ngebuka banyak peluang untuk industri aquaculture
+103	Bakal ngebuka banyak peluang untuk industri aquaculture
+104	Bakal ngebuka banyak peluang untuk industri aquaculture
+105	Bakal ngebuka banyak peluang untuk industri aquaculture Yang mau datang, lajib pake baju formal
+106	Bakal ngebuka banyak peluang untuk industri aquaculture Yang mau datang, lajib pake baju formal
+107	Yang mau datang, lajib pake baju formal
+108	Yang mau datang, lajib pake baju formal
+109	Yang mau datang, lajib pake baju formal
+110	Yang mau datang, lajib pake baju formal Formal
+111	Yang mau datang, lajib pake baju formal Formal
+112	Formal

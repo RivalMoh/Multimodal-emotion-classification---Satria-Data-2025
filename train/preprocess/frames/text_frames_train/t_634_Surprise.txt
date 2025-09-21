@@ -1,0 +1,174 @@
+0	Ibu-ibu yang punya anak di luar sana dan anaknya kejang, jangan panik, tenang.
+1	Ibu-ibu yang punya anak di luar sana dan anaknya kejang, jangan panik, tenang.
+2	Ibu-ibu yang punya anak di luar sana dan anaknya kejang, jangan panik, tenang.
+3	Ibu-ibu yang punya anak di luar sana dan anaknya kejang, jangan panik, tenang.
+4	Ibu-ibu yang punya anak di luar sana dan anaknya kejang, jangan panik, tenang.
+5	Ibu-ibu yang punya anak di luar sana dan anaknya kejang, jangan panik, tenang.
+6	Ibu-ibu yang punya anak di luar sana dan anaknya kejang, jangan panik, tenang.
+7	Ibu-ibu yang punya anak di luar sana dan anaknya kejang, jangan panik, tenang. Kalau bisa, videoin anaknya.
+8	Ibu-ibu yang punya anak di luar sana dan anaknya kejang, jangan panik, tenang. Kalau bisa, videoin anaknya.
+9	Kalau bisa, videoin anaknya.
+10	Kalau bisa, videoin anaknya.
+11	Kalau bisa, videoin anaknya.
+12	Kalau bisa, videoin anaknya. Videoin beneran, cuma buka kamera, terus kayak cek, like, buka video.
+13	Kalau bisa, videoin anaknya. Videoin beneran, cuma buka kamera, terus kayak cek, like, buka video.
+14	Videoin beneran, cuma buka kamera, terus kayak cek, like, buka video.
+15	Videoin beneran, cuma buka kamera, terus kayak cek, like, buka video.
+16	Videoin beneran, cuma buka kamera, terus kayak cek, like, buka video.
+17	Videoin beneran, cuma buka kamera, terus kayak cek, like, buka video.
+18	Videoin beneran, cuma buka kamera, terus kayak cek, like, buka video.
+19	Videoin beneran, cuma buka kamera, terus kayak cek, like, buka video.
+20	Videoin beneran, cuma buka kamera, terus kayak cek, like, buka video. Sambil anaknya diapain? Anaknya dimiringin kanan atau miring kiri.
+21	Sambil anaknya diapain? Anaknya dimiringin kanan atau miring kiri.
+22	Sambil anaknya diapain? Anaknya dimiringin kanan atau miring kiri.
+23	Sambil anaknya diapain? Anaknya dimiringin kanan atau miring kiri.
+24	Sambil anaknya diapain? Anaknya dimiringin kanan atau miring kiri.
+25	Sambil anaknya diapain? Anaknya dimiringin kanan atau miring kiri.
+26	Sambil anaknya diapain? Anaknya dimiringin kanan atau miring kiri.
+27	Sambil anaknya diapain? Anaknya dimiringin kanan atau miring kiri. Sambil dilonggarin bajunya, pakaiannya, celananya, supaya tuh dadanya tidak keempat.
+28	Sambil dilonggarin bajunya, pakaiannya, celananya, supaya tuh dadanya tidak keempat.
+29	Sambil dilonggarin bajunya, pakaiannya, celananya, supaya tuh dadanya tidak keempat.
+30	Sambil dilonggarin bajunya, pakaiannya, celananya, supaya tuh dadanya tidak keempat.
+31	Sambil dilonggarin bajunya, pakaiannya, celananya, supaya tuh dadanya tidak keempat.
+32	Sambil dilonggarin bajunya, pakaiannya, celananya, supaya tuh dadanya tidak keempat.
+33	Sambil dilonggarin bajunya, pakaiannya, celananya, supaya tuh dadanya tidak keempat.
+34	Sambil dilonggarin bajunya, pakaiannya, celananya, supaya tuh dadanya tidak keempat.
+35	Sambil dilonggarin bajunya, pakaiannya, celananya, supaya tuh dadanya tidak keempat.
+36	Sambil dilonggarin bajunya, pakaiannya, celananya, supaya tuh dadanya tidak keempat.
+37	Sambil dilonggarin bajunya, pakaiannya, celananya, supaya tuh dadanya tidak keempat.
+38	Sambil dilonggarin bajunya, pakaiannya, celananya, supaya tuh dadanya tidak keempat.
+39	Sambil dilonggarin bajunya, pakaiannya, celananya, supaya tuh dadanya tidak keempat. Sambil kita tujuan memiringkan itu supaya tidak ada makanan yang masuk ke dalam mulutnya
+40	Sambil kita tujuan memiringkan itu supaya tidak ada makanan yang masuk ke dalam mulutnya
+41	Sambil kita tujuan memiringkan itu supaya tidak ada makanan yang masuk ke dalam mulutnya
+42	Sambil kita tujuan memiringkan itu supaya tidak ada makanan yang masuk ke dalam mulutnya
+43	Sambil kita tujuan memiringkan itu supaya tidak ada makanan yang masuk ke dalam mulutnya
+44	Sambil kita tujuan memiringkan itu supaya tidak ada makanan yang masuk ke dalam mulutnya
+45	Sambil kita tujuan memiringkan itu supaya tidak ada makanan yang masuk ke dalam mulutnya
+46	Sambil kita tujuan memiringkan itu supaya tidak ada makanan yang masuk ke dalam mulutnya atau air apa segala macam yang bisa menyumbat saluran alfasnya.
+47	Sambil kita tujuan memiringkan itu supaya tidak ada makanan yang masuk ke dalam mulutnya atau air apa segala macam yang bisa menyumbat saluran alfasnya.
+48	atau air apa segala macam yang bisa menyumbat saluran alfasnya.
+49	atau air apa segala macam yang bisa menyumbat saluran alfasnya.
+50	atau air apa segala macam yang bisa menyumbat saluran alfasnya.
+51	atau air apa segala macam yang bisa menyumbat saluran alfasnya.
+52	atau air apa segala macam yang bisa menyumbat saluran alfasnya.
+53	atau air apa segala macam yang bisa menyumbat saluran alfasnya. Jangan ente masukin pakai sendok atau taburin bubuk pakai kopi.
+54	atau air apa segala macam yang bisa menyumbat saluran alfasnya. Jangan ente masukin pakai sendok atau taburin bubuk pakai kopi.
+55	Jangan ente masukin pakai sendok atau taburin bubuk pakai kopi.
+56	Jangan ente masukin pakai sendok atau taburin bubuk pakai kopi.
+57	Jangan ente masukin pakai sendok atau taburin bubuk pakai kopi.
+58	Jangan ente masukin pakai sendok atau taburin bubuk pakai kopi.
+59	Jangan ente masukin pakai sendok atau taburin bubuk pakai kopi.
+60	Jangan ente masukin pakai sendok atau taburin bubuk pakai kopi.
+61	Jangan ente masukin pakai sendok atau taburin bubuk pakai kopi.
+62	Jangan ente masukin pakai sendok atau taburin bubuk pakai kopi. Jangan, jangan begitu.
+63	Jangan ente masukin pakai sendok atau taburin bubuk pakai kopi. Jangan, jangan begitu.
+64	Jangan, jangan begitu.
+65	Jangan, jangan begitu. Jadi ketimbang kita panik, mendingan tarik nafas, buang nafas.
+66	Jadi ketimbang kita panik, mendingan tarik nafas, buang nafas.
+67	Jadi ketimbang kita panik, mendingan tarik nafas, buang nafas.
+68	Jadi ketimbang kita panik, mendingan tarik nafas, buang nafas.
+69	Jadi ketimbang kita panik, mendingan tarik nafas, buang nafas.
+70	Jadi ketimbang kita panik, mendingan tarik nafas, buang nafas.
+71	Jadi ketimbang kita panik, mendingan tarik nafas, buang nafas.
+72	Jadi ketimbang kita panik, mendingan tarik nafas, buang nafas. Oke, kita pelan-pelan cari solusinya sambil divideoin.
+73	Jadi ketimbang kita panik, mendingan tarik nafas, buang nafas. Oke, kita pelan-pelan cari solusinya sambil divideoin.
+74	Oke, kita pelan-pelan cari solusinya sambil divideoin.
+75	Oke, kita pelan-pelan cari solusinya sambil divideoin.
+76	Oke, kita pelan-pelan cari solusinya sambil divideoin.
+77	Oke, kita pelan-pelan cari solusinya sambil divideoin. Kenapa perlu divideoin?
+78	Oke, kita pelan-pelan cari solusinya sambil divideoin. Kenapa perlu divideoin?
+79	Kenapa perlu divideoin?
+80	Kenapa perlu divideoin? Supaya nanti ketika berobat ke rumah sakit, dokternya tahu tipe kejangnya kayak gimana.
+81	Supaya nanti ketika berobat ke rumah sakit, dokternya tahu tipe kejangnya kayak gimana.
+82	Supaya nanti ketika berobat ke rumah sakit, dokternya tahu tipe kejangnya kayak gimana.
+83	Supaya nanti ketika berobat ke rumah sakit, dokternya tahu tipe kejangnya kayak gimana.
+84	Supaya nanti ketika berobat ke rumah sakit, dokternya tahu tipe kejangnya kayak gimana.
+85	Supaya nanti ketika berobat ke rumah sakit, dokternya tahu tipe kejangnya kayak gimana.
+86	Supaya nanti ketika berobat ke rumah sakit, dokternya tahu tipe kejangnya kayak gimana.
+87	Supaya nanti ketika berobat ke rumah sakit, dokternya tahu tipe kejangnya kayak gimana.
+88	Supaya nanti ketika berobat ke rumah sakit, dokternya tahu tipe kejangnya kayak gimana.
+89	Supaya nanti ketika berobat ke rumah sakit, dokternya tahu tipe kejangnya kayak gimana.
+90	Supaya nanti ketika berobat ke rumah sakit, dokternya tahu tipe kejangnya kayak gimana. Kemudian durasinya gimana, kesadaran pasca kejangnya itu gimana.
+91	Kemudian durasinya gimana, kesadaran pasca kejangnya itu gimana.
+92	Kemudian durasinya gimana, kesadaran pasca kejangnya itu gimana.
+93	Kemudian durasinya gimana, kesadaran pasca kejangnya itu gimana.
+94	Kemudian durasinya gimana, kesadaran pasca kejangnya itu gimana.
+95	Kemudian durasinya gimana, kesadaran pasca kejangnya itu gimana.
+96	Kemudian durasinya gimana, kesadaran pasca kejangnya itu gimana. Jadi biar jelas, jadi biar tahu beneran ini kejang atau bukan.
+97	Kemudian durasinya gimana, kesadaran pasca kejangnya itu gimana. Jadi biar jelas, jadi biar tahu beneran ini kejang atau bukan.
+98	Jadi biar jelas, jadi biar tahu beneran ini kejang atau bukan.
+99	Jadi biar jelas, jadi biar tahu beneran ini kejang atau bukan.
+100	Jadi biar jelas, jadi biar tahu beneran ini kejang atau bukan.
+101	Jadi biar jelas, jadi biar tahu beneran ini kejang atau bukan.
+102	Jadi biar jelas, jadi biar tahu beneran ini kejang atau bukan.
+103	Jadi biar jelas, jadi biar tahu beneran ini kejang atau bukan. Nah, terus habis itu kunci daripada semuanya sebenarnya adalah tenang.
+104	Nah, terus habis itu kunci daripada semuanya sebenarnya adalah tenang.
+105	Nah, terus habis itu kunci daripada semuanya sebenarnya adalah tenang.
+106	Nah, terus habis itu kunci daripada semuanya sebenarnya adalah tenang.
+107	Nah, terus habis itu kunci daripada semuanya sebenarnya adalah tenang.
+108	Nah, terus habis itu kunci daripada semuanya sebenarnya adalah tenang.
+109	Nah, terus habis itu kunci daripada semuanya sebenarnya adalah tenang.
+110	Nah, terus habis itu kunci daripada semuanya sebenarnya adalah tenang. Iya kan?
+111	Nah, terus habis itu kunci daripada semuanya sebenarnya adalah tenang. Iya kan? Tenang dan tenang.
+112	Iya kan? Tenang dan tenang.
+113	Tenang dan tenang. Tenang itu didapatkan dari apa?
+114	Tenang dan tenang. Tenang itu didapatkan dari apa?
+115	Tenang itu didapatkan dari apa? Dari pengetahuan.
+116	Tenang itu didapatkan dari apa? Dari pengetahuan. Pengetahuan didapatkan dari apa?
+117	Dari pengetahuan. Pengetahuan didapatkan dari apa?
+118	Pengetahuan didapatkan dari apa? Dari belajar.
+119	Pengetahuan didapatkan dari apa? Dari belajar.
+120	Dari belajar. Dan kalau misalkan memang punya obat-obatan anti kejang atau anti panas di rumah,
+121	Dari belajar. Dan kalau misalkan memang punya obat-obatan anti kejang atau anti panas di rumah,
+122	Dan kalau misalkan memang punya obat-obatan anti kejang atau anti panas di rumah,
+123	Dan kalau misalkan memang punya obat-obatan anti kejang atau anti panas di rumah,
+124	Dan kalau misalkan memang punya obat-obatan anti kejang atau anti panas di rumah,
+125	Dan kalau misalkan memang punya obat-obatan anti kejang atau anti panas di rumah,
+126	Dan kalau misalkan memang punya obat-obatan anti kejang atau anti panas di rumah, boleh diberikan.
+127	Dan kalau misalkan memang punya obat-obatan anti kejang atau anti panas di rumah, boleh diberikan.
+128	boleh diberikan. Contohnya misalkan yang dari pantat itu obat anti kejangnya.
+129	boleh diberikan. Contohnya misalkan yang dari pantat itu obat anti kejangnya.
+130	Contohnya misalkan yang dari pantat itu obat anti kejangnya.
+131	Contohnya misalkan yang dari pantat itu obat anti kejangnya.
+132	Contohnya misalkan yang dari pantat itu obat anti kejangnya.
+133	Contohnya misalkan yang dari pantat itu obat anti kejangnya. Jangan teriak-teriak, panik, api segala macam, ngejar.
+134	Contohnya misalkan yang dari pantat itu obat anti kejangnya. Jangan teriak-teriak, panik, api segala macam, ngejar.
+135	Jangan teriak-teriak, panik, api segala macam, ngejar.
+136	Jangan teriak-teriak, panik, api segala macam, ngejar.
+137	Jangan teriak-teriak, panik, api segala macam, ngejar.
+138	Jangan teriak-teriak, panik, api segala macam, ngejar. Iya, pasti panik. Kita paham pasti akan panik.
+139	Jangan teriak-teriak, panik, api segala macam, ngejar. Iya, pasti panik. Kita paham pasti akan panik.
+140	Iya, pasti panik. Kita paham pasti akan panik.
+141	Iya, pasti panik. Kita paham pasti akan panik.
+142	Iya, pasti panik. Kita paham pasti akan panik. Cuman maksudnya kalau kita panik, kalau kita teriak-teriak,
+143	Iya, pasti panik. Kita paham pasti akan panik. Cuman maksudnya kalau kita panik, kalau kita teriak-teriak,
+144	Cuman maksudnya kalau kita panik, kalau kita teriak-teriak,
+145	Cuman maksudnya kalau kita panik, kalau kita teriak-teriak,
+146	Cuman maksudnya kalau kita panik, kalau kita teriak-teriak,
+147	Cuman maksudnya kalau kita panik, kalau kita teriak-teriak, tidak akan menyelesaikan sebuah masalah.
+148	Cuman maksudnya kalau kita panik, kalau kita teriak-teriak, tidak akan menyelesaikan sebuah masalah.
+149	tidak akan menyelesaikan sebuah masalah.
+150	tidak akan menyelesaikan sebuah masalah.
+151	tidak akan menyelesaikan sebuah masalah.
+152	tidak akan menyelesaikan sebuah masalah. Makanya kita harus tetap tenang, ambil nafas, buang nafas,
+153	tidak akan menyelesaikan sebuah masalah. Makanya kita harus tetap tenang, ambil nafas, buang nafas,
+154	Makanya kita harus tetap tenang, ambil nafas, buang nafas,
+155	Makanya kita harus tetap tenang, ambil nafas, buang nafas,
+156	Makanya kita harus tetap tenang, ambil nafas, buang nafas,
+157	Makanya kita harus tetap tenang, ambil nafas, buang nafas,
+158	Makanya kita harus tetap tenang, ambil nafas, buang nafas, dan kita cari solusinya.
+159	Makanya kita harus tetap tenang, ambil nafas, buang nafas, dan kita cari solusinya.
+160	dan kita cari solusinya. Itu tadi.
+161	dan kita cari solusinya. Itu tadi. Jangan lupa untuk tetap belajar.
+162	Itu tadi. Jangan lupa untuk tetap belajar.
+163	Jangan lupa untuk tetap belajar.
+164	Jangan lupa untuk tetap belajar.
+165	Jangan lupa untuk tetap belajar. Menjadi orang tua kuncinya adalah belajar.
+166	Jangan lupa untuk tetap belajar. Menjadi orang tua kuncinya adalah belajar.
+167	Menjadi orang tua kuncinya adalah belajar.
+168	Menjadi orang tua kuncinya adalah belajar.
+169	Menjadi orang tua kuncinya adalah belajar.
+170	Menjadi orang tua kuncinya adalah belajar.
+171	Menjadi orang tua kuncinya adalah belajar. Oke?
+172	Menjadi orang tua kuncinya adalah belajar. Oke?
+173	[NO_SPEECH]

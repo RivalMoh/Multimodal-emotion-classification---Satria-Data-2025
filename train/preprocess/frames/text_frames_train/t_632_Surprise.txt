@@ -1,0 +1,181 @@
+0	Kalian tau gak, gue tuh bingung banget
+1	Kalian tau gak, gue tuh bingung banget Kenapa ya sekarang-sekarang ini penyakit yang seharusnya dialami di usia 60-70 tahun
+2	Kalian tau gak, gue tuh bingung banget Kenapa ya sekarang-sekarang ini penyakit yang seharusnya dialami di usia 60-70 tahun
+3	Kenapa ya sekarang-sekarang ini penyakit yang seharusnya dialami di usia 60-70 tahun
+4	Kenapa ya sekarang-sekarang ini penyakit yang seharusnya dialami di usia 60-70 tahun
+5	Kenapa ya sekarang-sekarang ini penyakit yang seharusnya dialami di usia 60-70 tahun
+6	Kenapa ya sekarang-sekarang ini penyakit yang seharusnya dialami di usia 60-70 tahun
+7	Kenapa ya sekarang-sekarang ini penyakit yang seharusnya dialami di usia 60-70 tahun
+8	Kenapa ya sekarang-sekarang ini penyakit yang seharusnya dialami di usia 60-70 tahun
+9	Kenapa ya sekarang-sekarang ini penyakit yang seharusnya dialami di usia 60-70 tahun
+10	Kenapa ya sekarang-sekarang ini penyakit yang seharusnya dialami di usia 60-70 tahun
+11	Kenapa ya sekarang-sekarang ini penyakit yang seharusnya dialami di usia 60-70 tahun Malah dialami oleh usia-usia muda kayak 40-50 tahun
+12	Kenapa ya sekarang-sekarang ini penyakit yang seharusnya dialami di usia 60-70 tahun Malah dialami oleh usia-usia muda kayak 40-50 tahun
+13	Malah dialami oleh usia-usia muda kayak 40-50 tahun
+14	Malah dialami oleh usia-usia muda kayak 40-50 tahun
+15	Malah dialami oleh usia-usia muda kayak 40-50 tahun
+16	Malah dialami oleh usia-usia muda kayak 40-50 tahun
+17	Malah dialami oleh usia-usia muda kayak 40-50 tahun
+18	Malah dialami oleh usia-usia muda kayak 40-50 tahun Jadi gue sering banget ngeliat bapak-bapak ibu-ibu yang seharusnya masih di usia produktif
+19	Malah dialami oleh usia-usia muda kayak 40-50 tahun Jadi gue sering banget ngeliat bapak-bapak ibu-ibu yang seharusnya masih di usia produktif
+20	Jadi gue sering banget ngeliat bapak-bapak ibu-ibu yang seharusnya masih di usia produktif
+21	Jadi gue sering banget ngeliat bapak-bapak ibu-ibu yang seharusnya masih di usia produktif
+22	Jadi gue sering banget ngeliat bapak-bapak ibu-ibu yang seharusnya masih di usia produktif
+23	Jadi gue sering banget ngeliat bapak-bapak ibu-ibu yang seharusnya masih di usia produktif
+24	Jadi gue sering banget ngeliat bapak-bapak ibu-ibu yang seharusnya masih di usia produktif
+25	Jadi gue sering banget ngeliat bapak-bapak ibu-ibu yang seharusnya masih di usia produktif
+26	Jadi gue sering banget ngeliat bapak-bapak ibu-ibu yang seharusnya masih di usia produktif Yang seharusnya masih di usia emas mereka
+27	Jadi gue sering banget ngeliat bapak-bapak ibu-ibu yang seharusnya masih di usia produktif Yang seharusnya masih di usia emas mereka
+28	Yang seharusnya masih di usia emas mereka
+29	Yang seharusnya masih di usia emas mereka
+30	Yang seharusnya masih di usia emas mereka Di usia 40-50 tahun udah banyak banget kena penyakit
+31	Yang seharusnya masih di usia emas mereka Di usia 40-50 tahun udah banyak banget kena penyakit
+32	Di usia 40-50 tahun udah banyak banget kena penyakit
+33	Di usia 40-50 tahun udah banyak banget kena penyakit
+34	Di usia 40-50 tahun udah banyak banget kena penyakit
+35	Di usia 40-50 tahun udah banyak banget kena penyakit
+36	Di usia 40-50 tahun udah banyak banget kena penyakit
+37	Di usia 40-50 tahun udah banyak banget kena penyakit Contohnya ada penyakit metabolik atau penyakit permasalahan tulang dan sedih
+38	Di usia 40-50 tahun udah banyak banget kena penyakit Contohnya ada penyakit metabolik atau penyakit permasalahan tulang dan sedih
+39	Contohnya ada penyakit metabolik atau penyakit permasalahan tulang dan sedih
+40	Contohnya ada penyakit metabolik atau penyakit permasalahan tulang dan sedih
+41	Contohnya ada penyakit metabolik atau penyakit permasalahan tulang dan sedih
+42	Contohnya ada penyakit metabolik atau penyakit permasalahan tulang dan sedih
+43	Contohnya ada penyakit metabolik atau penyakit permasalahan tulang dan sedih Ini sangat disayangkan gitu loh
+44	Contohnya ada penyakit metabolik atau penyakit permasalahan tulang dan sedih Ini sangat disayangkan gitu loh
+45	Ini sangat disayangkan gitu loh
+46	Ini sangat disayangkan gitu loh Dan gue selalu bilang bahwasannya apa yang terjadi di usia tua
+47	Ini sangat disayangkan gitu loh Dan gue selalu bilang bahwasannya apa yang terjadi di usia tua
+48	Dan gue selalu bilang bahwasannya apa yang terjadi di usia tua
+49	Dan gue selalu bilang bahwasannya apa yang terjadi di usia tua
+50	Dan gue selalu bilang bahwasannya apa yang terjadi di usia tua
+51	Dan gue selalu bilang bahwasannya apa yang terjadi di usia tua Adalah manifestasi dari apa yang kalian lakukan di usia muda
+52	Dan gue selalu bilang bahwasannya apa yang terjadi di usia tua Adalah manifestasi dari apa yang kalian lakukan di usia muda
+53	Adalah manifestasi dari apa yang kalian lakukan di usia muda
+54	Adalah manifestasi dari apa yang kalian lakukan di usia muda
+55	Adalah manifestasi dari apa yang kalian lakukan di usia muda
+56	Adalah manifestasi dari apa yang kalian lakukan di usia muda
+57	Adalah manifestasi dari apa yang kalian lakukan di usia muda Jadi apakah permasalahan seperti ini banyak ditemukan di lapangan?
+58	Adalah manifestasi dari apa yang kalian lakukan di usia muda Jadi apakah permasalahan seperti ini banyak ditemukan di lapangan?
+59	Jadi apakah permasalahan seperti ini banyak ditemukan di lapangan?
+60	Jadi apakah permasalahan seperti ini banyak ditemukan di lapangan?
+61	Jadi apakah permasalahan seperti ini banyak ditemukan di lapangan?
+62	Jadi apakah permasalahan seperti ini banyak ditemukan di lapangan?
+63	Jadi apakah permasalahan seperti ini banyak ditemukan di lapangan? Iya, banyak banget dan sering terjadi
+64	Jadi apakah permasalahan seperti ini banyak ditemukan di lapangan? Iya, banyak banget dan sering terjadi
+65	Iya, banyak banget dan sering terjadi
+66	Iya, banyak banget dan sering terjadi
+67	Iya, banyak banget dan sering terjadi
+68	Iya, banyak banget dan sering terjadi Sedang itu, gue selalu bilang mulailah semua ini dari saat kita muda
+69	Iya, banyak banget dan sering terjadi Sedang itu, gue selalu bilang mulailah semua ini dari saat kita muda
+70	Sedang itu, gue selalu bilang mulailah semua ini dari saat kita muda
+71	Sedang itu, gue selalu bilang mulailah semua ini dari saat kita muda
+72	Sedang itu, gue selalu bilang mulailah semua ini dari saat kita muda
+73	Sedang itu, gue selalu bilang mulailah semua ini dari saat kita muda
+74	Sedang itu, gue selalu bilang mulailah semua ini dari saat kita muda
+75	Sedang itu, gue selalu bilang mulailah semua ini dari saat kita muda Tabung deh kalsium di dalam tubuh kita ketika kita masih muda
+76	Sedang itu, gue selalu bilang mulailah semua ini dari saat kita muda Tabung deh kalsium di dalam tubuh kita ketika kita masih muda
+77	Tabung deh kalsium di dalam tubuh kita ketika kita masih muda
+78	Tabung deh kalsium di dalam tubuh kita ketika kita masih muda
+79	Tabung deh kalsium di dalam tubuh kita ketika kita masih muda
+80	Tabung deh kalsium di dalam tubuh kita ketika kita masih muda
+81	Tabung deh kalsium di dalam tubuh kita ketika kita masih muda
+82	Tabung deh kalsium di dalam tubuh kita ketika kita masih muda Mulai deh olahraga, luangin waktu 30 menit sehari aja untuk kita berolahraga
+83	Tabung deh kalsium di dalam tubuh kita ketika kita masih muda Mulai deh olahraga, luangin waktu 30 menit sehari aja untuk kita berolahraga
+84	Mulai deh olahraga, luangin waktu 30 menit sehari aja untuk kita berolahraga
+85	Mulai deh olahraga, luangin waktu 30 menit sehari aja untuk kita berolahraga
+86	Mulai deh olahraga, luangin waktu 30 menit sehari aja untuk kita berolahraga
+87	Mulai deh olahraga, luangin waktu 30 menit sehari aja untuk kita berolahraga
+88	Mulai deh olahraga, luangin waktu 30 menit sehari aja untuk kita berolahraga
+89	Mulai deh olahraga, luangin waktu 30 menit sehari aja untuk kita berolahraga
+90	Mulai deh olahraga, luangin waktu 30 menit sehari aja untuk kita berolahraga
+91	Mulai deh olahraga, luangin waktu 30 menit sehari aja untuk kita berolahraga Karena semua itu gak ada ruginya
+92	Mulai deh olahraga, luangin waktu 30 menit sehari aja untuk kita berolahraga Karena semua itu gak ada ruginya
+93	Karena semua itu gak ada ruginya
+94	Karena semua itu gak ada ruginya Dan salah satu bentuk kalsium yang bisa kalian dapatkan adalah dari susu
+95	Karena semua itu gak ada ruginya Dan salah satu bentuk kalsium yang bisa kalian dapatkan adalah dari susu
+96	Dan salah satu bentuk kalsium yang bisa kalian dapatkan adalah dari susu
+97	Dan salah satu bentuk kalsium yang bisa kalian dapatkan adalah dari susu
+98	Dan salah satu bentuk kalsium yang bisa kalian dapatkan adalah dari susu
+99	Dan salah satu bentuk kalsium yang bisa kalian dapatkan adalah dari susu
+100	Dan salah satu bentuk kalsium yang bisa kalian dapatkan adalah dari susu Salah satunya adalah dari susu kami etawa, etawanesia ini
+101	Dan salah satu bentuk kalsium yang bisa kalian dapatkan adalah dari susu Salah satunya adalah dari susu kami etawa, etawanesia ini
+102	Salah satunya adalah dari susu kami etawa, etawanesia ini
+103	Salah satunya adalah dari susu kami etawa, etawanesia ini
+104	Salah satunya adalah dari susu kami etawa, etawanesia ini
+105	Salah satunya adalah dari susu kami etawa, etawanesia ini
+106	Salah satunya adalah dari susu kami etawa, etawanesia ini Apalagi etawanesia merupakan formulasi susu kambing dengan es daun kelor yang pertama kali di Indonesia
+107	Salah satunya adalah dari susu kami etawa, etawanesia ini Apalagi etawanesia merupakan formulasi susu kambing dengan es daun kelor yang pertama kali di Indonesia
+108	Apalagi etawanesia merupakan formulasi susu kambing dengan es daun kelor yang pertama kali di Indonesia
+109	Apalagi etawanesia merupakan formulasi susu kambing dengan es daun kelor yang pertama kali di Indonesia
+110	Apalagi etawanesia merupakan formulasi susu kambing dengan es daun kelor yang pertama kali di Indonesia
+111	Apalagi etawanesia merupakan formulasi susu kambing dengan es daun kelor yang pertama kali di Indonesia
+112	Apalagi etawanesia merupakan formulasi susu kambing dengan es daun kelor yang pertama kali di Indonesia
+113	Apalagi etawanesia merupakan formulasi susu kambing dengan es daun kelor yang pertama kali di Indonesia
+114	Apalagi etawanesia merupakan formulasi susu kambing dengan es daun kelor yang pertama kali di Indonesia
+115	Apalagi etawanesia merupakan formulasi susu kambing dengan es daun kelor yang pertama kali di Indonesia
+116	Apalagi etawanesia merupakan formulasi susu kambing dengan es daun kelor yang pertama kali di Indonesia Dan kalian tau gak?
+117	Apalagi etawanesia merupakan formulasi susu kambing dengan es daun kelor yang pertama kali di Indonesia Dan kalian tau gak? Banyak banget penelitian yang sudah menyebutkan bahwasannya daun kelor punya efek antioksidan dan antiinflamasi
+118	Dan kalian tau gak? Banyak banget penelitian yang sudah menyebutkan bahwasannya daun kelor punya efek antioksidan dan antiinflamasi
+119	Banyak banget penelitian yang sudah menyebutkan bahwasannya daun kelor punya efek antioksidan dan antiinflamasi
+120	Banyak banget penelitian yang sudah menyebutkan bahwasannya daun kelor punya efek antioksidan dan antiinflamasi
+121	Banyak banget penelitian yang sudah menyebutkan bahwasannya daun kelor punya efek antioksidan dan antiinflamasi
+122	Banyak banget penelitian yang sudah menyebutkan bahwasannya daun kelor punya efek antioksidan dan antiinflamasi
+123	Banyak banget penelitian yang sudah menyebutkan bahwasannya daun kelor punya efek antioksidan dan antiinflamasi
+124	Banyak banget penelitian yang sudah menyebutkan bahwasannya daun kelor punya efek antioksidan dan antiinflamasi
+125	Banyak banget penelitian yang sudah menyebutkan bahwasannya daun kelor punya efek antioksidan dan antiinflamasi
+126	Banyak banget penelitian yang sudah menyebutkan bahwasannya daun kelor punya efek antioksidan dan antiinflamasi
+127	Banyak banget penelitian yang sudah menyebutkan bahwasannya daun kelor punya efek antioksidan dan antiinflamasi
+128	Banyak banget penelitian yang sudah menyebutkan bahwasannya daun kelor punya efek antioksidan dan antiinflamasi Yang baik untuk tubuh kita
+129	Banyak banget penelitian yang sudah menyebutkan bahwasannya daun kelor punya efek antioksidan dan antiinflamasi Yang baik untuk tubuh kita
+130	Yang baik untuk tubuh kita
+131	Yang baik untuk tubuh kita Dan dia juga punya manfaat untuk penyembuhan pada pasien-pasien dengan gout
+132	Yang baik untuk tubuh kita Dan dia juga punya manfaat untuk penyembuhan pada pasien-pasien dengan gout
+133	Dan dia juga punya manfaat untuk penyembuhan pada pasien-pasien dengan gout
+134	Dan dia juga punya manfaat untuk penyembuhan pada pasien-pasien dengan gout
+135	Dan dia juga punya manfaat untuk penyembuhan pada pasien-pasien dengan gout
+136	Dan dia juga punya manfaat untuk penyembuhan pada pasien-pasien dengan gout
+137	Dan dia juga punya manfaat untuk penyembuhan pada pasien-pasien dengan gout Apalagi susu etawa juga memiliki keadaan lemak jenuh yang jauh lebih rendah dibandingkan susu yang lain
+138	Dan dia juga punya manfaat untuk penyembuhan pada pasien-pasien dengan gout Apalagi susu etawa juga memiliki keadaan lemak jenuh yang jauh lebih rendah dibandingkan susu yang lain
+139	Apalagi susu etawa juga memiliki keadaan lemak jenuh yang jauh lebih rendah dibandingkan susu yang lain
+140	Apalagi susu etawa juga memiliki keadaan lemak jenuh yang jauh lebih rendah dibandingkan susu yang lain
+141	Apalagi susu etawa juga memiliki keadaan lemak jenuh yang jauh lebih rendah dibandingkan susu yang lain
+142	Apalagi susu etawa juga memiliki keadaan lemak jenuh yang jauh lebih rendah dibandingkan susu yang lain
+143	Apalagi susu etawa juga memiliki keadaan lemak jenuh yang jauh lebih rendah dibandingkan susu yang lain
+144	Apalagi susu etawa juga memiliki keadaan lemak jenuh yang jauh lebih rendah dibandingkan susu yang lain
+145	Apalagi susu etawa juga memiliki keadaan lemak jenuh yang jauh lebih rendah dibandingkan susu yang lain
+146	Apalagi susu etawa juga memiliki keadaan lemak jenuh yang jauh lebih rendah dibandingkan susu yang lain Yang apabila dicampur dengan daun kelor yang memiliki kandungan antioksidan
+147	Apalagi susu etawa juga memiliki keadaan lemak jenuh yang jauh lebih rendah dibandingkan susu yang lain Yang apabila dicampur dengan daun kelor yang memiliki kandungan antioksidan
+148	Yang apabila dicampur dengan daun kelor yang memiliki kandungan antioksidan
+149	Yang apabila dicampur dengan daun kelor yang memiliki kandungan antioksidan
+150	Yang apabila dicampur dengan daun kelor yang memiliki kandungan antioksidan
+151	Yang apabila dicampur dengan daun kelor yang memiliki kandungan antioksidan
+152	Yang apabila dicampur dengan daun kelor yang memiliki kandungan antioksidan
+153	Yang apabila dicampur dengan daun kelor yang memiliki kandungan antioksidan
+154	Yang apabila dicampur dengan daun kelor yang memiliki kandungan antioksidan Maka akan memiliki manfaat yang lebih baik untuk tulang dan sendi
+155	Yang apabila dicampur dengan daun kelor yang memiliki kandungan antioksidan Maka akan memiliki manfaat yang lebih baik untuk tulang dan sendi
+156	Maka akan memiliki manfaat yang lebih baik untuk tulang dan sendi
+157	Maka akan memiliki manfaat yang lebih baik untuk tulang dan sendi
+158	Maka akan memiliki manfaat yang lebih baik untuk tulang dan sendi
+159	Maka akan memiliki manfaat yang lebih baik untuk tulang dan sendi
+160	Maka akan memiliki manfaat yang lebih baik untuk tulang dan sendi Jadi buat kalian semua udah mulai peduli dengan kesehatan diri kalian sendiri
+161	Maka akan memiliki manfaat yang lebih baik untuk tulang dan sendi Jadi buat kalian semua udah mulai peduli dengan kesehatan diri kalian sendiri
+162	Jadi buat kalian semua udah mulai peduli dengan kesehatan diri kalian sendiri
+163	Jadi buat kalian semua udah mulai peduli dengan kesehatan diri kalian sendiri
+164	Jadi buat kalian semua udah mulai peduli dengan kesehatan diri kalian sendiri
+165	Jadi buat kalian semua udah mulai peduli dengan kesehatan diri kalian sendiri
+166	Jadi buat kalian semua udah mulai peduli dengan kesehatan diri kalian sendiri Terutama kesehatan tulang dan sendi
+167	Jadi buat kalian semua udah mulai peduli dengan kesehatan diri kalian sendiri Terutama kesehatan tulang dan sendi
+168	Terutama kesehatan tulang dan sendi
+169	Terutama kesehatan tulang dan sendi Mulai deh konsumsi makanan dan minuman yang mengandung tinggi kalsium
+170	Terutama kesehatan tulang dan sendi Mulai deh konsumsi makanan dan minuman yang mengandung tinggi kalsium
+171	Mulai deh konsumsi makanan dan minuman yang mengandung tinggi kalsium
+172	Mulai deh konsumsi makanan dan minuman yang mengandung tinggi kalsium
+173	Mulai deh konsumsi makanan dan minuman yang mengandung tinggi kalsium
+174	Mulai deh konsumsi makanan dan minuman yang mengandung tinggi kalsium
+175	Mulai deh konsumsi makanan dan minuman yang mengandung tinggi kalsium
+176	Mulai deh konsumsi makanan dan minuman yang mengandung tinggi kalsium Contohnya yang ada dalam kata-kata
+177	Contohnya yang ada dalam kata-kata
+178	Contohnya yang ada dalam kata-kata
+179	Contohnya yang ada dalam kata-kata
+180	Contohnya yang ada dalam kata-kata

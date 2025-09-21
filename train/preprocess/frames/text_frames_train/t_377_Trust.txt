@@ -1,0 +1,130 @@
+0	Butuh PC desktop super kencang tapi nggak mau repot meracik dan merakit
+1	Butuh PC desktop super kencang tapi nggak mau repot meracik dan merakit
+2	Butuh PC desktop super kencang tapi nggak mau repot meracik dan merakit
+3	Butuh PC desktop super kencang tapi nggak mau repot meracik dan merakit
+4	Butuh PC desktop super kencang tapi nggak mau repot meracik dan merakit
+5	Butuh PC desktop super kencang tapi nggak mau repot meracik dan merakit Nah ada nih ya Lenovo Legion Tower 7i Gen 10
+6	Butuh PC desktop super kencang tapi nggak mau repot meracik dan merakit Nah ada nih ya Lenovo Legion Tower 7i Gen 10
+7	Nah ada nih ya Lenovo Legion Tower 7i Gen 10
+8	Nah ada nih ya Lenovo Legion Tower 7i Gen 10
+9	Nah ada nih ya Lenovo Legion Tower 7i Gen 10
+10	Nah ada nih ya Lenovo Legion Tower 7i Gen 10
+11	Nah ada nih ya Lenovo Legion Tower 7i Gen 10
+12	Nah ada nih ya Lenovo Legion Tower 7i Gen 10
+13	Nah ada nih ya Lenovo Legion Tower 7i Gen 10 PC gaming ini performanya nyaris bentuk kanan
+14	Nah ada nih ya Lenovo Legion Tower 7i Gen 10 PC gaming ini performanya nyaris bentuk kanan
+15	PC gaming ini performanya nyaris bentuk kanan
+16	PC gaming ini performanya nyaris bentuk kanan
+17	PC gaming ini performanya nyaris bentuk kanan
+18	PC gaming ini performanya nyaris bentuk kanan Gimana nggak dia langsung pake processor 24 core Intel Core Ultra 9
+19	PC gaming ini performanya nyaris bentuk kanan Gimana nggak dia langsung pake processor 24 core Intel Core Ultra 9
+20	Gimana nggak dia langsung pake processor 24 core Intel Core Ultra 9
+21	Gimana nggak dia langsung pake processor 24 core Intel Core Ultra 9
+22	Gimana nggak dia langsung pake processor 24 core Intel Core Ultra 9
+23	Gimana nggak dia langsung pake processor 24 core Intel Core Ultra 9
+24	Gimana nggak dia langsung pake processor 24 core Intel Core Ultra 9
+25	Gimana nggak dia langsung pake processor 24 core Intel Core Ultra 9
+26	Gimana nggak dia langsung pake processor 24 core Intel Core Ultra 9 Jadi enteng buat jalanin aplikasi berat
+27	Gimana nggak dia langsung pake processor 24 core Intel Core Ultra 9 Jadi enteng buat jalanin aplikasi berat
+28	Jadi enteng buat jalanin aplikasi berat
+29	Jadi enteng buat jalanin aplikasi berat
+30	Jadi enteng buat jalanin aplikasi berat
+31	Jadi enteng buat jalanin aplikasi berat Mau game AAA, ngerender, tenang
+32	Jadi enteng buat jalanin aplikasi berat Mau game AAA, ngerender, tenang
+33	Mau game AAA, ngerender, tenang
+34	Mau game AAA, ngerender, tenang
+35	Mau game AAA, ngerender, tenang Ada RTX 5080 yang juga kuat buat kerjaan grafis yang berat-berat
+36	Mau game AAA, ngerender, tenang Ada RTX 5080 yang juga kuat buat kerjaan grafis yang berat-berat
+37	Ada RTX 5080 yang juga kuat buat kerjaan grafis yang berat-berat
+38	Ada RTX 5080 yang juga kuat buat kerjaan grafis yang berat-berat
+39	Ada RTX 5080 yang juga kuat buat kerjaan grafis yang berat-berat
+40	Ada RTX 5080 yang juga kuat buat kerjaan grafis yang berat-berat
+41	Ada RTX 5080 yang juga kuat buat kerjaan grafis yang berat-berat
+42	Ada RTX 5080 yang juga kuat buat kerjaan grafis yang berat-berat
+43	Ada RTX 5080 yang juga kuat buat kerjaan grafis yang berat-berat RAMnya langsung 32GB dengan SSD 2TB
+44	Ada RTX 5080 yang juga kuat buat kerjaan grafis yang berat-berat RAMnya langsung 32GB dengan SSD 2TB
+45	RAMnya langsung 32GB dengan SSD 2TB
+46	RAMnya langsung 32GB dengan SSD 2TB
+47	RAMnya langsung 32GB dengan SSD 2TB
+48	RAMnya langsung 32GB dengan SSD 2TB
+49	RAMnya langsung 32GB dengan SSD 2TB Jadi lega nih kapasitasnya
+50	RAMnya langsung 32GB dengan SSD 2TB Jadi lega nih kapasitasnya
+51	Jadi lega nih kapasitasnya
+52	Jadi lega nih kapasitasnya Mau di upgrade? Bisa dong
+53	Jadi lega nih kapasitasnya Mau di upgrade? Bisa dong
+54	Mau di upgrade? Bisa dong
+55	Mau di upgrade? Bisa dong Bahkan kita bisa pasang RAM sampai 128GB dan 6 buah SSD
+56	Mau di upgrade? Bisa dong Bahkan kita bisa pasang RAM sampai 128GB dan 6 buah SSD
+57	Bahkan kita bisa pasang RAM sampai 128GB dan 6 buah SSD
+58	Bahkan kita bisa pasang RAM sampai 128GB dan 6 buah SSD
+59	Bahkan kita bisa pasang RAM sampai 128GB dan 6 buah SSD
+60	Bahkan kita bisa pasang RAM sampai 128GB dan 6 buah SSD
+61	Bahkan kita bisa pasang RAM sampai 128GB dan 6 buah SSD
+62	Bahkan kita bisa pasang RAM sampai 128GB dan 6 buah SSD
+63	Bahkan kita bisa pasang RAM sampai 128GB dan 6 buah SSD
+64	Bahkan kita bisa pasang RAM sampai 128GB dan 6 buah SSD Mau pasang SSD PCIe Gen 5 yang super kencang itu? Bisa juga
+65	Bahkan kita bisa pasang RAM sampai 128GB dan 6 buah SSD Mau pasang SSD PCIe Gen 5 yang super kencang itu? Bisa juga
+66	Mau pasang SSD PCIe Gen 5 yang super kencang itu? Bisa juga
+67	Mau pasang SSD PCIe Gen 5 yang super kencang itu? Bisa juga
+68	Mau pasang SSD PCIe Gen 5 yang super kencang itu? Bisa juga
+69	Mau pasang SSD PCIe Gen 5 yang super kencang itu? Bisa juga
+70	Mau pasang SSD PCIe Gen 5 yang super kencang itu? Bisa juga
+71	Mau pasang SSD PCIe Gen 5 yang super kencang itu? Bisa juga Suhunya gimana? Tenang
+72	Mau pasang SSD PCIe Gen 5 yang super kencang itu? Bisa juga Suhunya gimana? Tenang
+73	Mau pasang SSD PCIe Gen 5 yang super kencang itu? Bisa juga Suhunya gimana? Tenang
+74	Suhunya gimana? Tenang Dia pake Liquid Cooler Legion Cold Front Hyper
+75	Suhunya gimana? Tenang Dia pake Liquid Cooler Legion Cold Front Hyper
+76	Dia pake Liquid Cooler Legion Cold Front Hyper
+77	Dia pake Liquid Cooler Legion Cold Front Hyper
+78	Dia pake Liquid Cooler Legion Cold Front Hyper
+79	Dia pake Liquid Cooler Legion Cold Front Hyper
+80	Dia pake Liquid Cooler Legion Cold Front Hyper Yang bisa handle TDP processor hingga 250W
+81	Dia pake Liquid Cooler Legion Cold Front Hyper Yang bisa handle TDP processor hingga 250W
+82	Yang bisa handle TDP processor hingga 250W
+83	Yang bisa handle TDP processor hingga 250W
+84	Yang bisa handle TDP processor hingga 250W
+85	Yang bisa handle TDP processor hingga 250W
+86	Yang bisa handle TDP processor hingga 250W RTX 5080-nya pun pake peningin yang besar dengan 3 kipas
+87	Yang bisa handle TDP processor hingga 250W RTX 5080-nya pun pake peningin yang besar dengan 3 kipas
+88	RTX 5080-nya pun pake peningin yang besar dengan 3 kipas
+89	RTX 5080-nya pun pake peningin yang besar dengan 3 kipas
+90	RTX 5080-nya pun pake peningin yang besar dengan 3 kipas
+91	RTX 5080-nya pun pake peningin yang besar dengan 3 kipas
+92	RTX 5080-nya pun pake peningin yang besar dengan 3 kipas
+93	RTX 5080-nya pun pake peningin yang besar dengan 3 kipas
+94	RTX 5080-nya pun pake peningin yang besar dengan 3 kipas Jadi aman suhunya
+95	RTX 5080-nya pun pake peningin yang besar dengan 3 kipas Jadi aman suhunya
+96	Jadi aman suhunya Garansinya gimana?
+97	Jadi aman suhunya Garansinya gimana?
+98	Garansinya gimana? Dia ada Legion Ultimate Support selama 3 tahun penuh
+99	Garansinya gimana? Dia ada Legion Ultimate Support selama 3 tahun penuh
+100	Dia ada Legion Ultimate Support selama 3 tahun penuh
+101	Dia ada Legion Ultimate Support selama 3 tahun penuh
+102	Dia ada Legion Ultimate Support selama 3 tahun penuh
+103	Dia ada Legion Ultimate Support selama 3 tahun penuh
+104	Dia ada Legion Ultimate Support selama 3 tahun penuh
+105	Dia ada Legion Ultimate Support selama 3 tahun penuh Tentunya kalau beli PC seperti ini
+106	Dia ada Legion Ultimate Support selama 3 tahun penuh Tentunya kalau beli PC seperti ini
+107	Tentunya kalau beli PC seperti ini
+108	Tentunya kalau beli PC seperti ini Kita bisa claim semua komponen yang ada di PC gaming ini
+109	Tentunya kalau beli PC seperti ini Kita bisa claim semua komponen yang ada di PC gaming ini
+110	Kita bisa claim semua komponen yang ada di PC gaming ini
+111	Kita bisa claim semua komponen yang ada di PC gaming ini
+112	Kita bisa claim semua komponen yang ada di PC gaming ini
+113	Kita bisa claim semua komponen yang ada di PC gaming ini
+114	Kita bisa claim semua komponen yang ada di PC gaming ini Langsung ke Lenovo
+115	Kita bisa claim semua komponen yang ada di PC gaming ini Langsung ke Lenovo Dan Lenovo Indonesia
+116	Langsung ke Lenovo Dan Lenovo Indonesia Nggak perlu tuh claim ke distributor yang beda-beda
+117	Dan Lenovo Indonesia Nggak perlu tuh claim ke distributor yang beda-beda
+118	Nggak perlu tuh claim ke distributor yang beda-beda
+119	Nggak perlu tuh claim ke distributor yang beda-beda
+120	Nggak perlu tuh claim ke distributor yang beda-beda
+121	Nggak perlu tuh claim ke distributor yang beda-beda
+122	Nggak perlu tuh claim ke distributor yang beda-beda
+123	Nggak perlu tuh claim ke distributor yang beda-beda
+124	[NO_SPEECH]
+125	[NO_SPEECH]
+126	[NO_SPEECH]
+127	[NO_SPEECH]
+128	[NO_SPEECH]
+129	[NO_SPEECH]

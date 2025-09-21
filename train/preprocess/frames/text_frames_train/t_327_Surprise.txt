@@ -1,0 +1,55 @@
+0	Kamu masih belum bisa push up kayak gini juga?
+1	Kamu masih belum bisa push up kayak gini juga?
+2	Kamu masih belum bisa push up kayak gini juga?
+3	Kamu masih belum bisa push up kayak gini juga? Jangan-jangan karena kamu belum tau ini nih.
+4	Jangan-jangan karena kamu belum tau ini nih.
+5	Jangan-jangan karena kamu belum tau ini nih.
+6	Jangan-jangan karena kamu belum tau ini nih.
+7	Jangan-jangan karena kamu belum tau ini nih. Nah, kalau kamu ngelakuin push up-nya,
+8	Jangan-jangan karena kamu belum tau ini nih. Nah, kalau kamu ngelakuin push up-nya,
+9	Nah, kalau kamu ngelakuin push up-nya,
+10	Nah, kalau kamu ngelakuin push up-nya, pake satu hex ini, masukin resisten hip bend ke dua tangan kamu,
+11	Nah, kalau kamu ngelakuin push up-nya, pake satu hex ini, masukin resisten hip bend ke dua tangan kamu,
+12	pake satu hex ini, masukin resisten hip bend ke dua tangan kamu,
+13	pake satu hex ini, masukin resisten hip bend ke dua tangan kamu,
+14	pake satu hex ini, masukin resisten hip bend ke dua tangan kamu,
+15	pake satu hex ini, masukin resisten hip bend ke dua tangan kamu,
+16	pake satu hex ini, masukin resisten hip bend ke dua tangan kamu,
+17	pake satu hex ini, masukin resisten hip bend ke dua tangan kamu,
+18	pake satu hex ini, masukin resisten hip bend ke dua tangan kamu,
+19	pake satu hex ini, masukin resisten hip bend ke dua tangan kamu, terus posisiin resisten hip bend-nya di bagian lengan kamu
+20	terus posisiin resisten hip bend-nya di bagian lengan kamu
+21	terus posisiin resisten hip bend-nya di bagian lengan kamu
+22	terus posisiin resisten hip bend-nya di bagian lengan kamu
+23	terus posisiin resisten hip bend-nya di bagian lengan kamu
+24	terus posisiin resisten hip bend-nya di bagian lengan kamu
+25	terus posisiin resisten hip bend-nya di bagian lengan kamu atau di atas iku kamu kayak gini nih.
+26	terus posisiin resisten hip bend-nya di bagian lengan kamu atau di atas iku kamu kayak gini nih.
+27	atau di atas iku kamu kayak gini nih.
+28	atau di atas iku kamu kayak gini nih.
+29	atau di atas iku kamu kayak gini nih. Dan tinggal lakuin deh push up-nya.
+30	atau di atas iku kamu kayak gini nih. Dan tinggal lakuin deh push up-nya.
+31	Dan tinggal lakuin deh push up-nya.
+32	Dan tinggal lakuin deh push up-nya.
+33	Dan tinggal lakuin deh push up-nya. Nah, ini kamu udah bisa ngelakuin push up jadi gampang banget.
+34	Nah, ini kamu udah bisa ngelakuin push up jadi gampang banget.
+35	Nah, ini kamu udah bisa ngelakuin push up jadi gampang banget.
+36	Nah, ini kamu udah bisa ngelakuin push up jadi gampang banget.
+37	Nah, ini kamu udah bisa ngelakuin push up jadi gampang banget.
+38	Nah, ini kamu udah bisa ngelakuin push up jadi gampang banget.
+39	Nah, ini kamu udah bisa ngelakuin push up jadi gampang banget. Auto bisa push up 100 kali, guys.
+40	Nah, ini kamu udah bisa ngelakuin push up jadi gampang banget. Auto bisa push up 100 kali, guys.
+41	Auto bisa push up 100 kali, guys.
+42	Auto bisa push up 100 kali, guys. Oh iya, latihan push up ini buat melatih otot dada kita.
+43	Auto bisa push up 100 kali, guys. Oh iya, latihan push up ini buat melatih otot dada kita.
+44	Oh iya, latihan push up ini buat melatih otot dada kita.
+45	Oh iya, latihan push up ini buat melatih otot dada kita.
+46	Oh iya, latihan push up ini buat melatih otot dada kita.
+47	Oh iya, latihan push up ini buat melatih otot dada kita. Next ya, kalian mau gue bikin gerakan apa lagi nih?
+48	Oh iya, latihan push up ini buat melatih otot dada kita. Next ya, kalian mau gue bikin gerakan apa lagi nih?
+49	Next ya, kalian mau gue bikin gerakan apa lagi nih?
+50	Next ya, kalian mau gue bikin gerakan apa lagi nih?
+51	Next ya, kalian mau gue bikin gerakan apa lagi nih? Comment ya!
+52	Next ya, kalian mau gue bikin gerakan apa lagi nih? Comment ya!
+53	Comment ya!
+54	[NO_SPEECH]

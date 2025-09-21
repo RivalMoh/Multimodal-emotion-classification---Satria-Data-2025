@@ -1,0 +1,228 @@
+0	Oke teman-teman, kita lagi bersama motor listrik murahnya Honda
+1	Oke teman-teman, kita lagi bersama motor listrik murahnya Honda
+2	Oke teman-teman, kita lagi bersama motor listrik murahnya Honda
+3	Oke teman-teman, kita lagi bersama motor listrik murahnya Honda Namanya Honda Econ E, di belakang kita ini
+4	Oke teman-teman, kita lagi bersama motor listrik murahnya Honda Namanya Honda Econ E, di belakang kita ini
+5	Namanya Honda Econ E, di belakang kita ini
+6	Namanya Honda Econ E, di belakang kita ini
+7	Namanya Honda Econ E, di belakang kita ini Gedenya ukurannya mirip kayak Honda Beat ya
+8	Gedenya ukurannya mirip kayak Honda Beat ya
+9	Gedenya ukurannya mirip kayak Honda Beat ya
+10	Gedenya ukurannya mirip kayak Honda Beat ya
+11	Gedenya ukurannya mirip kayak Honda Beat ya Tapi, nggak semurah Honda Beat
+12	Gedenya ukurannya mirip kayak Honda Beat ya Tapi, nggak semurah Honda Beat
+13	Tapi, nggak semurah Honda Beat
+14	Tapi, nggak semurah Honda Beat
+15	Tapi, nggak semurah Honda Beat Ini dijual Rp 28.000.000
+16	Tapi, nggak semurah Honda Beat Ini dijual Rp 28.000.000
+17	Ini dijual Rp 28.000.000
+18	Ini dijual Rp 28.000.000 Dapet apa aja? Sama-sama ke kalian
+19	Ini dijual Rp 28.000.000 Dapet apa aja? Sama-sama ke kalian
+20	Dapet apa aja? Sama-sama ke kalian
+21	Dapet apa aja? Sama-sama ke kalian Motor listriknya ada di hub, di terminal belakang
+22	Dapet apa aja? Sama-sama ke kalian Motor listriknya ada di hub, di terminal belakang
+23	Motor listriknya ada di hub, di terminal belakang
+24	Motor listriknya ada di hub, di terminal belakang
+25	Motor listriknya ada di hub, di terminal belakang
+26	Motor listriknya ada di hub, di terminal belakang Dan ini cuma 1.5 kW doang
+27	Motor listriknya ada di hub, di terminal belakang Dan ini cuma 1.5 kW doang
+28	Dan ini cuma 1.5 kW doang
+29	Dan ini cuma 1.5 kW doang
+30	Dan ini cuma 1.5 kW doang Speednya 1.8 kW, kecil ya
+31	Dan ini cuma 1.5 kW doang Speednya 1.8 kW, kecil ya
+32	Speednya 1.8 kW, kecil ya
+33	Speednya 1.8 kW, kecil ya
+34	Speednya 1.8 kW, kecil ya
+35	Speednya 1.8 kW, kecil ya Speednya, kalau yang standar sudah sampai
+36	Speednya, kalau yang standar sudah sampai
+37	Speednya, kalau yang standar sudah sampai
+38	Speednya, kalau yang standar sudah sampai
+39	Speednya, kalau yang standar sudah sampai
+40	[NO_SPEECH]
+41	Ya, rilai sampai
+42	Ya, rilai sampai
+43	Ya, rilai sampai 59-60 km per jam lah
+44	Ya, rilai sampai 59-60 km per jam lah
+45	59-60 km per jam lah
+46	59-60 km per jam lah Tapi kalau pakai mode yang Econ
+47	59-60 km per jam lah Tapi kalau pakai mode yang Econ
+48	Tapi kalau pakai mode yang Econ
+49	Tapi kalau pakai mode yang Econ Lebih pelan lagi teman-teman, cuma sampai 50 km per jam
+50	Lebih pelan lagi teman-teman, cuma sampai 50 km per jam
+51	Lebih pelan lagi teman-teman, cuma sampai 50 km per jam
+52	Lebih pelan lagi teman-teman, cuma sampai 50 km per jam
+53	Lebih pelan lagi teman-teman, cuma sampai 50 km per jam
+54	Lebih pelan lagi teman-teman, cuma sampai 50 km per jam
+55	Lebih pelan lagi teman-teman, cuma sampai 50 km per jam Ini dalam mode statis ya
+56	Lebih pelan lagi teman-teman, cuma sampai 50 km per jam Ini dalam mode statis ya
+57	Ini dalam mode statis ya Dan yang unik teman-teman, di motor ini sebenarnya ada cut-off di remnya ya
+58	Ini dalam mode statis ya Dan yang unik teman-teman, di motor ini sebenarnya ada cut-off di remnya ya
+59	Dan yang unik teman-teman, di motor ini sebenarnya ada cut-off di remnya ya
+60	Dan yang unik teman-teman, di motor ini sebenarnya ada cut-off di remnya ya
+61	Dan yang unik teman-teman, di motor ini sebenarnya ada cut-off di remnya ya
+62	Dan yang unik teman-teman, di motor ini sebenarnya ada cut-off di remnya ya Jadi kalau kita nge-rem depan atau rem belakang
+63	Dan yang unik teman-teman, di motor ini sebenarnya ada cut-off di remnya ya Jadi kalau kita nge-rem depan atau rem belakang
+64	Jadi kalau kita nge-rem depan atau rem belakang
+65	Jadi kalau kita nge-rem depan atau rem belakang Maka secara otomatis rekennya akan sempat potong
+66	Jadi kalau kita nge-rem depan atau rem belakang Maka secara otomatis rekennya akan sempat potong
+67	Maka secara otomatis rekennya akan sempat potong
+68	Maka secara otomatis rekennya akan sempat potong
+69	Maka secara otomatis rekennya akan sempat potong Cuma ini nggak bikin kagok
+70	Maka secara otomatis rekennya akan sempat potong Cuma ini nggak bikin kagok
+71	Cuma ini nggak bikin kagok Cut-offnya nggak kayak motor listrik yang murah-murah gitu teman-teman
+72	Cuma ini nggak bikin kagok Cut-offnya nggak kayak motor listrik yang murah-murah gitu teman-teman
+73	Cut-offnya nggak kayak motor listrik yang murah-murah gitu teman-teman
+74	Cut-offnya nggak kayak motor listrik yang murah-murah gitu teman-teman
+75	Cut-offnya nggak kayak motor listrik yang murah-murah gitu teman-teman
+76	Cut-offnya nggak kayak motor listrik yang murah-murah gitu teman-teman Baterainya ada di deck pejakan kaki, kayak gini nih
+77	Cut-offnya nggak kayak motor listrik yang murah-murah gitu teman-teman Baterainya ada di deck pejakan kaki, kayak gini nih
+78	Baterainya ada di deck pejakan kaki, kayak gini nih
+79	Baterainya ada di deck pejakan kaki, kayak gini nih
+80	Baterainya ada di deck pejakan kaki, kayak gini nih
+81	Baterainya ada di deck pejakan kaki, kayak gini nih
+82	[NO_SPEECH]
+83	Nah, segede gini
+84	Nah, segede gini Ini lama nge-charge-nya 7 jam
+85	Nah, segede gini Ini lama nge-charge-nya 7 jam
+86	Ini lama nge-charge-nya 7 jam
+87	Ini lama nge-charge-nya 7 jam
+88	Ini lama nge-charge-nya 7 jam
+89	Ini lama nge-charge-nya 7 jam Gokil ya, lama
+90	Gokil ya, lama
+91	Gokil ya, lama Karena emang sasarnya nggak terlalu gede teman-teman, cuma 350 Watt
+92	Gokil ya, lama Karena emang sasarnya nggak terlalu gede teman-teman, cuma 350 Watt
+93	Karena emang sasarnya nggak terlalu gede teman-teman, cuma 350 Watt
+94	Karena emang sasarnya nggak terlalu gede teman-teman, cuma 350 Watt
+95	Karena emang sasarnya nggak terlalu gede teman-teman, cuma 350 Watt
+96	Karena emang sasarnya nggak terlalu gede teman-teman, cuma 350 Watt Artinya kalian bisa nge-charge di rumah manapun lah ya
+97	Karena emang sasarnya nggak terlalu gede teman-teman, cuma 350 Watt Artinya kalian bisa nge-charge di rumah manapun lah ya
+98	Artinya kalian bisa nge-charge di rumah manapun lah ya
+99	Artinya kalian bisa nge-charge di rumah manapun lah ya
+100	Artinya kalian bisa nge-charge di rumah manapun lah ya
+101	Artinya kalian bisa nge-charge di rumah manapun lah ya
+102	Artinya kalian bisa nge-charge di rumah manapun lah ya Tinggal colok, aman aja pakai baterai ini
+103	Artinya kalian bisa nge-charge di rumah manapun lah ya Tinggal colok, aman aja pakai baterai ini
+104	Tinggal colok, aman aja pakai baterai ini
+105	Tinggal colok, aman aja pakai baterai ini
+106	Tinggal colok, aman aja pakai baterai ini Udah lama-lama nge-charge 7 jam
+107	Tinggal colok, aman aja pakai baterai ini Udah lama-lama nge-charge 7 jam
+108	Udah lama-lama nge-charge 7 jam
+109	Udah lama-lama nge-charge 7 jam Jalur tempatnya cuma bisa 53 km aja teman-teman
+110	Udah lama-lama nge-charge 7 jam Jalur tempatnya cuma bisa 53 km aja teman-teman
+111	Jalur tempatnya cuma bisa 53 km aja teman-teman
+112	Jalur tempatnya cuma bisa 53 km aja teman-teman
+113	Jalur tempatnya cuma bisa 53 km aja teman-teman
+114	Jalur tempatnya cuma bisa 53 km aja teman-teman
+115	Jalur tempatnya cuma bisa 53 km aja teman-teman Gimana menurut kalian?
+116	Jalur tempatnya cuma bisa 53 km aja teman-teman Gimana menurut kalian?
+117	Gimana menurut kalian? Udah cukup belum buat harian
+118	Udah cukup belum buat harian
+119	Udah cukup belum buat harian
+120	Udah cukup belum buat harian Lampu-lampu udah full LED
+121	Udah cukup belum buat harian Lampu-lampu udah full LED
+122	Lampu-lampu udah full LED
+123	Lampu-lampu udah full LED Lampu setannya juga udah LED juga teman-teman
+124	Lampu-lampu udah full LED Lampu setannya juga udah LED juga teman-teman
+125	Lampu setannya juga udah LED juga teman-teman
+126	Lampu setannya juga udah LED juga teman-teman
+127	Lampu setannya juga udah LED juga teman-teman Rem depan dapet cakram, pakai kaliper 1 pistol
+128	Lampu setannya juga udah LED juga teman-teman Rem depan dapet cakram, pakai kaliper 1 pistol
+129	Rem depan dapet cakram, pakai kaliper 1 pistol
+130	Rem depan dapet cakram, pakai kaliper 1 pistol
+131	Rem depan dapet cakram, pakai kaliper 1 pistol
+132	Rem depan dapet cakram, pakai kaliper 1 pistol
+133	Rem depan dapet cakram, pakai kaliper 1 pistol
+134	Rem depan dapet cakram, pakai kaliper 1 pistol Pakai rem tromol di belakang kayak gini
+135	Rem depan dapet cakram, pakai kaliper 1 pistol Pakai rem tromol di belakang kayak gini
+136	Pakai rem tromol di belakang kayak gini
+137	Pakai rem tromol di belakang kayak gini
+138	Pakai rem tromol di belakang kayak gini Tapi udah dual shock ya
+139	Pakai rem tromol di belakang kayak gini Tapi udah dual shock ya
+140	Tapi udah dual shock ya
+141	Tapi udah dual shock ya Gue pakai dual shock packer di belakang
+142	Tapi udah dual shock ya Gue pakai dual shock packer di belakang
+143	Gue pakai dual shock packer di belakang
+144	Gue pakai dual shock packer di belakang
+145	Gue pakai dual shock packer di belakang Kuncinya masih pakai kris teman-teman
+146	Gue pakai dual shock packer di belakang Kuncinya masih pakai kris teman-teman
+147	Kuncinya masih pakai kris teman-teman
+148	Kuncinya masih pakai kris teman-teman Masih tolok kayak gini
+149	Kuncinya masih pakai kris teman-teman Masih tolok kayak gini
+150	Masih tolok kayak gini Dan speedometernya juga sederhana banget
+151	Masih tolok kayak gini Dan speedometernya juga sederhana banget
+152	Dan speedometernya juga sederhana banget
+153	Dan speedometernya juga sederhana banget
+154	Dan speedometernya juga sederhana banget
+155	Dan speedometernya juga sederhana banget Cuma ada speedometer, ada tengangan baterai, odometer
+156	Dan speedometernya juga sederhana banget Cuma ada speedometer, ada tengangan baterai, odometer
+157	Cuma ada speedometer, ada tengangan baterai, odometer
+158	Cuma ada speedometer, ada tengangan baterai, odometer
+159	Cuma ada speedometer, ada tengangan baterai, odometer
+160	Cuma ada speedometer, ada tengangan baterai, odometer
+161	Cuma ada speedometer, ada tengangan baterai, odometer Dan ada 2 modenya ya
+162	Cuma ada speedometer, ada tengangan baterai, odometer Dan ada 2 modenya ya
+163	Dan ada 2 modenya ya
+164	Dan ada 2 modenya ya
+165	Dan ada 2 modenya ya Jadi motor ini ada mode eco
+166	Dan ada 2 modenya ya Jadi motor ini ada mode eco
+167	Jadi motor ini ada mode eco
+168	Jadi motor ini ada mode eco Dan mode auto
+169	Jadi motor ini ada mode eco Dan mode auto Udah standarnya
+170	Dan mode auto Udah standarnya
+171	Udah standarnya Bagasnya gede teman-teman
+172	Bagasnya gede teman-teman
+173	Bagasnya gede teman-teman
+174	Bagasnya gede teman-teman 28 liter
+175	28 liter
+176	28 liter
+177	28 liter Helm open face bisa masuk teman-teman
+178	Helm open face bisa masuk teman-teman
+179	Helm open face bisa masuk teman-teman
+180	Helm open face bisa masuk teman-teman
+181	Helm open face bisa masuk teman-teman Full face pun bisa masuk
+182	Helm open face bisa masuk teman-teman Full face pun bisa masuk Ini hampir segede PCX ya
+183	Full face pun bisa masuk Ini hampir segede PCX ya
+184	Ini hampir segede PCX ya
+185	Ini hampir segede PCX ya
+186	Ini hampir segede PCX ya
+187	Ini hampir segede PCX ya
+188	Ini hampir segede PCX ya PCX 30 liter, disini 28 liter
+189	Ini hampir segede PCX ya PCX 30 liter, disini 28 liter
+190	PCX 30 liter, disini 28 liter
+191	PCX 30 liter, disini 28 liter
+192	PCX 30 liter, disini 28 liter Tapi yang menurut saya enak dari motor ini adalah
+193	PCX 30 liter, disini 28 liter Tapi yang menurut saya enak dari motor ini adalah
+194	Tapi yang menurut saya enak dari motor ini adalah
+195	Tapi yang menurut saya enak dari motor ini adalah Riding impressionnya ya
+196	Tapi yang menurut saya enak dari motor ini adalah Riding impressionnya ya
+197	Riding impressionnya ya Bukan throttle-nya tuh halus
+198	Riding impressionnya ya Bukan throttle-nya tuh halus
+199	Bukan throttle-nya tuh halus
+200	Bukan throttle-nya tuh halus Feelingnya juga mirip kayak naik motor bakal konvensional
+201	Bukan throttle-nya tuh halus Feelingnya juga mirip kayak naik motor bakal konvensional
+202	Feelingnya juga mirip kayak naik motor bakal konvensional
+203	Feelingnya juga mirip kayak naik motor bakal konvensional
+204	Feelingnya juga mirip kayak naik motor bakal konvensional
+205	Feelingnya juga mirip kayak naik motor bakal konvensional
+206	Feelingnya juga mirip kayak naik motor bakal konvensional Kemudian space-nya juga enak
+207	Feelingnya juga mirip kayak naik motor bakal konvensional Kemudian space-nya juga enak
+208	Kemudian space-nya juga enak
+209	Kemudian space-nya juga enak
+210	Kemudian space-nya juga enak Boot quality-nya juga bagus teman-teman
+211	Kemudian space-nya juga enak Boot quality-nya juga bagus teman-teman
+212	Kemudian space-nya juga enak Boot quality-nya juga bagus teman-teman
+213	Boot quality-nya juga bagus teman-teman Yang lumayan oke untuk ukuran sebuah motor listrik kecil kayak gini teman-teman
+214	Boot quality-nya juga bagus teman-teman Yang lumayan oke untuk ukuran sebuah motor listrik kecil kayak gini teman-teman
+215	Yang lumayan oke untuk ukuran sebuah motor listrik kecil kayak gini teman-teman
+216	Yang lumayan oke untuk ukuran sebuah motor listrik kecil kayak gini teman-teman
+217	Yang lumayan oke untuk ukuran sebuah motor listrik kecil kayak gini teman-teman
+218	Yang lumayan oke untuk ukuran sebuah motor listrik kecil kayak gini teman-teman
+219	Yang lumayan oke untuk ukuran sebuah motor listrik kecil kayak gini teman-teman
+220	Yang lumayan oke untuk ukuran sebuah motor listrik kecil kayak gini teman-teman
+221	Yang lumayan oke untuk ukuran sebuah motor listrik kecil kayak gini teman-teman Gimana menurut kalian?
+222	Yang lumayan oke untuk ukuran sebuah motor listrik kecil kayak gini teman-teman Gimana menurut kalian?
+223	Gimana menurut kalian? Tulis di kolom komentar ya
+224	Gimana menurut kalian? Tulis di kolom komentar ya
+225	Tulis di kolom komentar ya Tar ya
+226	Tulis di kolom komentar ya Tar ya
+227	Tar ya

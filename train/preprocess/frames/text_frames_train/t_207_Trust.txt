@@ -1,0 +1,155 @@
+0	Lapor-lapor!
+1	Lapor-lapor! Aku ada uji tes produk terbaru MS Glow.
+2	Aku ada uji tes produk terbaru MS Glow.
+3	Aku ada uji tes produk terbaru MS Glow.
+4	Aku ada uji tes produk terbaru MS Glow.
+5	Aku ada uji tes produk terbaru MS Glow.
+6	Aku ada uji tes produk terbaru MS Glow.
+7	Aku ada uji tes produk terbaru MS Glow.
+8	Aku ada uji tes produk terbaru MS Glow.
+9	Aku ada uji tes produk terbaru MS Glow. Tapi bukan di kulit aku.
+10	Tapi bukan di kulit aku.
+11	Tapi bukan di kulit aku. Karena kulit aku tidak ada permasalahan kekusaman.
+12	Tapi bukan di kulit aku. Karena kulit aku tidak ada permasalahan kekusaman.
+13	Karena kulit aku tidak ada permasalahan kekusaman.
+14	Karena kulit aku tidak ada permasalahan kekusaman.
+15	Karena kulit aku tidak ada permasalahan kekusaman.
+16	Karena kulit aku tidak ada permasalahan kekusaman.
+17	Karena kulit aku tidak ada permasalahan kekusaman. Aku minta Ken pake produk MS Glow yang terbaru ini.
+18	Karena kulit aku tidak ada permasalahan kekusaman. Aku minta Ken pake produk MS Glow yang terbaru ini.
+19	Aku minta Ken pake produk MS Glow yang terbaru ini.
+20	Aku minta Ken pake produk MS Glow yang terbaru ini.
+21	Aku minta Ken pake produk MS Glow yang terbaru ini.
+22	Aku minta Ken pake produk MS Glow yang terbaru ini.
+23	Aku minta Ken pake produk MS Glow yang terbaru ini.
+24	Aku minta Ken pake produk MS Glow yang terbaru ini. Simway 377 Moisturizer.
+25	Simway 377 Moisturizer.
+26	Simway 377 Moisturizer.
+27	Simway 377 Moisturizer.
+28	Simway 377 Moisturizer. Selama 1 bulan.
+29	Selama 1 bulan.
+30	Selama 1 bulan.
+31	Selama 1 bulan. Dan kalian harus liat progresnya.
+32	Selama 1 bulan. Dan kalian harus liat progresnya.
+33	Dan kalian harus liat progresnya.
+34	Dan kalian harus liat progresnya.
+35	Dan kalian harus liat progresnya. Ini di minggu pertama.
+36	Dan kalian harus liat progresnya. Ini di minggu pertama.
+37	Ini di minggu pertama. Ini di minggu kedua.
+38	Ini di minggu pertama. Ini di minggu kedua.
+39	Ini di minggu kedua.
+40	Ini di minggu kedua. Dan ini after 1 bulan.
+41	Ini di minggu kedua. Dan ini after 1 bulan.
+42	Dan ini after 1 bulan.
+43	Dan ini after 1 bulan.
+44	Dan ini after 1 bulan. Keliatan progresnya.
+45	Dan ini after 1 bulan. Keliatan progresnya.
+46	Keliatan progresnya.
+47	Keliatan progresnya. Tapi kalo dipake lebih lama lagi bakalan lebih oke lagi.
+48	Keliatan progresnya. Tapi kalo dipake lebih lama lagi bakalan lebih oke lagi.
+49	Tapi kalo dipake lebih lama lagi bakalan lebih oke lagi.
+50	Tapi kalo dipake lebih lama lagi bakalan lebih oke lagi.
+51	Tapi kalo dipake lebih lama lagi bakalan lebih oke lagi.
+52	Tapi kalo dipake lebih lama lagi bakalan lebih oke lagi.
+53	Tapi kalo dipake lebih lama lagi bakalan lebih oke lagi. Disini tuh juga ada niacinamide dan tranexamic acid.
+54	Disini tuh juga ada niacinamide dan tranexamic acid.
+55	Disini tuh juga ada niacinamide dan tranexamic acid.
+56	Disini tuh juga ada niacinamide dan tranexamic acid.
+57	Disini tuh juga ada niacinamide dan tranexamic acid.
+58	Disini tuh juga ada niacinamide dan tranexamic acid. Dan MS Glow sudah melakukan clinical test juga.
+59	Disini tuh juga ada niacinamide dan tranexamic acid. Dan MS Glow sudah melakukan clinical test juga.
+60	Dan MS Glow sudah melakukan clinical test juga.
+61	Dan MS Glow sudah melakukan clinical test juga.
+62	Dan MS Glow sudah melakukan clinical test juga.
+63	Dan MS Glow sudah melakukan clinical test juga.
+64	Dan MS Glow sudah melakukan clinical test juga. Si wajah itu tuh jadi warnanya lebih rata.
+65	Si wajah itu tuh jadi warnanya lebih rata.
+66	Si wajah itu tuh jadi warnanya lebih rata.
+67	Si wajah itu tuh jadi warnanya lebih rata.
+68	Si wajah itu tuh jadi warnanya lebih rata. Rek hitamnya berkurang.
+69	Si wajah itu tuh jadi warnanya lebih rata. Rek hitamnya berkurang.
+70	Rek hitamnya berkurang.
+71	Rek hitamnya berkurang. Ratakan warna kulit.
+72	Rek hitamnya berkurang. Ratakan warna kulit.
+73	Ratakan warna kulit. Kalo ada bekas jerawat tuh juga dia bisa membantu menyamarkan.
+74	Ratakan warna kulit. Kalo ada bekas jerawat tuh juga dia bisa membantu menyamarkan.
+75	Kalo ada bekas jerawat tuh juga dia bisa membantu menyamarkan.
+76	Kalo ada bekas jerawat tuh juga dia bisa membantu menyamarkan.
+77	Kalo ada bekas jerawat tuh juga dia bisa membantu menyamarkan.
+78	Kalo ada bekas jerawat tuh juga dia bisa membantu menyamarkan.
+79	Kalo ada bekas jerawat tuh juga dia bisa membantu menyamarkan. Packagingnya tuh sekarang upgrade banget MS Glow.
+80	Kalo ada bekas jerawat tuh juga dia bisa membantu menyamarkan. Packagingnya tuh sekarang upgrade banget MS Glow.
+81	Packagingnya tuh sekarang upgrade banget MS Glow.
+82	Packagingnya tuh sekarang upgrade banget MS Glow.
+83	Packagingnya tuh sekarang upgrade banget MS Glow.
+84	Packagingnya tuh sekarang upgrade banget MS Glow. Dan tekstur dari Moisturizer-nya.
+85	Packagingnya tuh sekarang upgrade banget MS Glow. Dan tekstur dari Moisturizer-nya.
+86	Dan tekstur dari Moisturizer-nya.
+87	Dan tekstur dari Moisturizer-nya.
+88	Dan tekstur dari Moisturizer-nya. Gak terlalu tipis gitu.
+89	Gak terlalu tipis gitu.
+90	Gak terlalu tipis gitu.
+91	Gak terlalu tipis gitu. Jadi kayak akan ada efek kelembapan di kulit kita.
+92	Jadi kayak akan ada efek kelembapan di kulit kita.
+93	Jadi kayak akan ada efek kelembapan di kulit kita.
+94	Jadi kayak akan ada efek kelembapan di kulit kita.
+95	Jadi kayak akan ada efek kelembapan di kulit kita.
+96	Jadi kayak akan ada efek kelembapan di kulit kita. Ini bisa dipake pagi dan malam hari.
+97	Jadi kayak akan ada efek kelembapan di kulit kita. Ini bisa dipake pagi dan malam hari.
+98	Ini bisa dipake pagi dan malam hari.
+99	Ini bisa dipake pagi dan malam hari.
+100	Ini bisa dipake pagi dan malam hari.
+101	Ini bisa dipake pagi dan malam hari. Ingrediensnya gak ada yang kayak bikin sensitif sama cahaya matahari.
+102	Ingrediensnya gak ada yang kayak bikin sensitif sama cahaya matahari.
+103	Ingrediensnya gak ada yang kayak bikin sensitif sama cahaya matahari.
+104	Ingrediensnya gak ada yang kayak bikin sensitif sama cahaya matahari.
+105	Ingrediensnya gak ada yang kayak bikin sensitif sama cahaya matahari.
+106	Ingrediensnya gak ada yang kayak bikin sensitif sama cahaya matahari.
+107	Ingrediensnya gak ada yang kayak bikin sensitif sama cahaya matahari.
+108	Ingrediensnya gak ada yang kayak bikin sensitif sama cahaya matahari. Kalian bisa pake ini di pagi hari sebelum kalian pake sunscreen.
+109	Ingrediensnya gak ada yang kayak bikin sensitif sama cahaya matahari. Kalian bisa pake ini di pagi hari sebelum kalian pake sunscreen.
+110	Kalian bisa pake ini di pagi hari sebelum kalian pake sunscreen.
+111	Kalian bisa pake ini di pagi hari sebelum kalian pake sunscreen.
+112	Kalian bisa pake ini di pagi hari sebelum kalian pake sunscreen.
+113	Kalian bisa pake ini di pagi hari sebelum kalian pake sunscreen.
+114	Kalian bisa pake ini di pagi hari sebelum kalian pake sunscreen.
+115	Kalian bisa pake ini di pagi hari sebelum kalian pake sunscreen. Nah ini teksturnya seperti ini.
+116	Nah ini teksturnya seperti ini.
+117	Nah ini teksturnya seperti ini.
+118	Nah ini teksturnya seperti ini. Dan kalian masih lanjut terus pake ini.
+119	Nah ini teksturnya seperti ini. Dan kalian masih lanjut terus pake ini.
+120	Dan kalian masih lanjut terus pake ini.
+121	Dan kalian masih lanjut terus pake ini.
+122	Dan kalian masih lanjut terus pake ini. Karena dia suka gak ada efek-efek yang membuat dia kayak perjing.
+123	Dan kalian masih lanjut terus pake ini. Karena dia suka gak ada efek-efek yang membuat dia kayak perjing.
+124	Karena dia suka gak ada efek-efek yang membuat dia kayak perjing.
+125	Karena dia suka gak ada efek-efek yang membuat dia kayak perjing.
+126	Karena dia suka gak ada efek-efek yang membuat dia kayak perjing.
+127	Karena dia suka gak ada efek-efek yang membuat dia kayak perjing.
+128	Karena dia suka gak ada efek-efek yang membuat dia kayak perjing.
+129	Karena dia suka gak ada efek-efek yang membuat dia kayak perjing. Atau iritasi.
+130	Karena dia suka gak ada efek-efek yang membuat dia kayak perjing. Atau iritasi.
+131	Atau iritasi. Atau kayak menggelitik gitu.
+132	Atau iritasi. Atau kayak menggelitik gitu.
+133	Atau kayak menggelitik gitu.
+134	Atau kayak menggelitik gitu. Overall itu good product.
+135	Overall itu good product.
+136	Overall itu good product.
+137	Overall itu good product. Yang ada masalah kekusaman.
+138	Yang ada masalah kekusaman.
+139	Yang ada masalah kekusaman. Rek hitam.
+140	Yang ada masalah kekusaman. Rek hitam.
+141	Rek hitam. Atau bekas-bekas jerawat.
+142	Rek hitam. Atau bekas-bekas jerawat.
+143	Atau bekas-bekas jerawat. Misalnya lo coba produk terbaru dari MS Glow ini.
+144	Atau bekas-bekas jerawat. Misalnya lo coba produk terbaru dari MS Glow ini.
+145	Misalnya lo coba produk terbaru dari MS Glow ini.
+146	Misalnya lo coba produk terbaru dari MS Glow ini.
+147	Misalnya lo coba produk terbaru dari MS Glow ini.
+148	Misalnya lo coba produk terbaru dari MS Glow ini. Sekian.
+149	Sekian. Terima kasih banyak.
+150	Sekian. Terima kasih banyak.
+151	Terima kasih banyak. Untuk menonton.
+152	Terima kasih banyak. Untuk menonton.
+153	Untuk menonton.
+154	[NO_SPEECH]

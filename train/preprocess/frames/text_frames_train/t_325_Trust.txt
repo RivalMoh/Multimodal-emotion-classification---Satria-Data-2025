@@ -1,0 +1,108 @@
+0	Pengen workout di rumah, tapi kamu tidak punya cukup space?
+1	Pengen workout di rumah, tapi kamu tidak punya cukup space?
+2	Pengen workout di rumah, tapi kamu tidak punya cukup space?
+3	Pengen workout di rumah, tapi kamu tidak punya cukup space?
+4	Pengen workout di rumah, tapi kamu tidak punya cukup space? You need to notice.
+5	Pengen workout di rumah, tapi kamu tidak punya cukup space? You need to notice.
+6	You need to notice. Satu alat ini bisa menggantikan semua alat fitness gym,
+7	You need to notice. Satu alat ini bisa menggantikan semua alat fitness gym,
+8	Satu alat ini bisa menggantikan semua alat fitness gym,
+9	Satu alat ini bisa menggantikan semua alat fitness gym,
+10	Satu alat ini bisa menggantikan semua alat fitness gym,
+11	Satu alat ini bisa menggantikan semua alat fitness gym,
+12	Satu alat ini bisa menggantikan semua alat fitness gym,
+13	Satu alat ini bisa menggantikan semua alat fitness gym, dan tidak perlu banyak space.
+14	Satu alat ini bisa menggantikan semua alat fitness gym, dan tidak perlu banyak space.
+15	dan tidak perlu banyak space.
+16	dan tidak perlu banyak space. Karena Speedience dari Velfon pakai magnetic system,
+17	dan tidak perlu banyak space. Karena Speedience dari Velfon pakai magnetic system,
+18	Karena Speedience dari Velfon pakai magnetic system,
+19	Karena Speedience dari Velfon pakai magnetic system,
+20	Karena Speedience dari Velfon pakai magnetic system,
+21	Karena Speedience dari Velfon pakai magnetic system,
+22	Karena Speedience dari Velfon pakai magnetic system,
+23	Karena Speedience dari Velfon pakai magnetic system, di mana beban atau babel sudah tidak dibutuhkan lagi.
+24	Karena Speedience dari Velfon pakai magnetic system, di mana beban atau babel sudah tidak dibutuhkan lagi.
+25	di mana beban atau babel sudah tidak dibutuhkan lagi.
+26	di mana beban atau babel sudah tidak dibutuhkan lagi.
+27	di mana beban atau babel sudah tidak dibutuhkan lagi.
+28	di mana beban atau babel sudah tidak dibutuhkan lagi.
+29	di mana beban atau babel sudah tidak dibutuhkan lagi.
+30	di mana beban atau babel sudah tidak dibutuhkan lagi. Dengan Speedience, kamu bisa melatih semua otot seperti ini.
+31	Dengan Speedience, kamu bisa melatih semua otot seperti ini.
+32	Dengan Speedience, kamu bisa melatih semua otot seperti ini.
+33	Dengan Speedience, kamu bisa melatih semua otot seperti ini.
+34	Dengan Speedience, kamu bisa melatih semua otot seperti ini.
+35	Dengan Speedience, kamu bisa melatih semua otot seperti ini.
+36	Dengan Speedience, kamu bisa melatih semua otot seperti ini.
+37	Dengan Speedience, kamu bisa melatih semua otot seperti ini. Untuk kamu yang masih pemula,
+38	Dengan Speedience, kamu bisa melatih semua otot seperti ini. Untuk kamu yang masih pemula,
+39	Untuk kamu yang masih pemula,
+40	Untuk kamu yang masih pemula,
+41	Untuk kamu yang masih pemula, bisa akses video-video coach profesional,
+42	Untuk kamu yang masih pemula, bisa akses video-video coach profesional,
+43	bisa akses video-video coach profesional,
+44	bisa akses video-video coach profesional,
+45	bisa akses video-video coach profesional,
+46	bisa akses video-video coach profesional, supaya workoutmu jadi efektif dan aman.
+47	supaya workoutmu jadi efektif dan aman.
+48	supaya workoutmu jadi efektif dan aman.
+49	supaya workoutmu jadi efektif dan aman.
+50	supaya workoutmu jadi efektif dan aman.
+51	supaya workoutmu jadi efektif dan aman.
+52	Beban tarik kiri dan kanan up to 100 kg.
+53	Beban tarik kiri dan kanan up to 100 kg.
+54	Beban tarik kiri dan kanan up to 100 kg.
+55	Beban tarik kiri dan kanan up to 100 kg.
+56	Beban tarik kiri dan kanan up to 100 kg.
+57	Beban tarik kiri dan kanan up to 100 kg. Yang bisa diatur di layar atau dengan bluetooth ring,
+58	Beban tarik kiri dan kanan up to 100 kg. Yang bisa diatur di layar atau dengan bluetooth ring,
+59	Yang bisa diatur di layar atau dengan bluetooth ring,
+60	Yang bisa diatur di layar atau dengan bluetooth ring,
+61	Yang bisa diatur di layar atau dengan bluetooth ring,
+62	Yang bisa diatur di layar atau dengan bluetooth ring,
+63	Yang bisa diatur di layar atau dengan bluetooth ring,
+64	Yang bisa diatur di layar atau dengan bluetooth ring, sehingga tidak harus memindahkan beban saat olahraga.
+65	Yang bisa diatur di layar atau dengan bluetooth ring, sehingga tidak harus memindahkan beban saat olahraga.
+66	sehingga tidak harus memindahkan beban saat olahraga.
+67	sehingga tidak harus memindahkan beban saat olahraga.
+68	sehingga tidak harus memindahkan beban saat olahraga.
+69	sehingga tidak harus memindahkan beban saat olahraga.
+70	sehingga tidak harus memindahkan beban saat olahraga. Selain latihan beban, Speedience juga ada model ski dan rowing.
+71	sehingga tidak harus memindahkan beban saat olahraga. Selain latihan beban, Speedience juga ada model ski dan rowing.
+72	Selain latihan beban, Speedience juga ada model ski dan rowing.
+73	Selain latihan beban, Speedience juga ada model ski dan rowing.
+74	Selain latihan beban, Speedience juga ada model ski dan rowing.
+75	Selain latihan beban, Speedience juga ada model ski dan rowing.
+76	Selain latihan beban, Speedience juga ada model ski dan rowing.
+77	Selain latihan beban, Speedience juga ada model ski dan rowing.
+78	Selain latihan beban, Speedience juga ada model ski dan rowing.
+79	Selain latihan beban, Speedience juga ada model ski dan rowing. Intinya, Speedience bisa jadi option untuk kamu yang pengen workout di rumah,
+80	Intinya, Speedience bisa jadi option untuk kamu yang pengen workout di rumah,
+81	Intinya, Speedience bisa jadi option untuk kamu yang pengen workout di rumah,
+82	Intinya, Speedience bisa jadi option untuk kamu yang pengen workout di rumah,
+83	Intinya, Speedience bisa jadi option untuk kamu yang pengen workout di rumah,
+84	Intinya, Speedience bisa jadi option untuk kamu yang pengen workout di rumah,
+85	Intinya, Speedience bisa jadi option untuk kamu yang pengen workout di rumah,
+86	Intinya, Speedience bisa jadi option untuk kamu yang pengen workout di rumah,
+87	Intinya, Speedience bisa jadi option untuk kamu yang pengen workout di rumah, tapi tidak punya banyak space untuk simpan babel, alat, dan beban.
+88	Intinya, Speedience bisa jadi option untuk kamu yang pengen workout di rumah, tapi tidak punya banyak space untuk simpan babel, alat, dan beban.
+89	tapi tidak punya banyak space untuk simpan babel, alat, dan beban.
+90	tapi tidak punya banyak space untuk simpan babel, alat, dan beban.
+91	tapi tidak punya banyak space untuk simpan babel, alat, dan beban.
+92	tapi tidak punya banyak space untuk simpan babel, alat, dan beban.
+93	tapi tidak punya banyak space untuk simpan babel, alat, dan beban.
+94	tapi tidak punya banyak space untuk simpan babel, alat, dan beban.
+95	tapi tidak punya banyak space untuk simpan babel, alat, dan beban.
+96	tapi tidak punya banyak space untuk simpan babel, alat, dan beban.
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	[NO_SPEECH]
+101	[NO_SPEECH]
+102	[NO_SPEECH]
+103	[NO_SPEECH]
+104	[NO_SPEECH]
+105	[NO_SPEECH]
+106	[NO_SPEECH]
+107	[NO_SPEECH]

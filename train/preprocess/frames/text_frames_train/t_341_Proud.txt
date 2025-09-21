@@ -1,0 +1,98 @@
+0	Tip servis setipis tisu
+1	Tip servis setipis tisu
+2	Tip servis setipis tisu Kemarin gue udah kasih tau cara pegang raketnya
+3	Tip servis setipis tisu Kemarin gue udah kasih tau cara pegang raketnya
+4	Kemarin gue udah kasih tau cara pegang raketnya
+5	Kemarin gue udah kasih tau cara pegang raketnya
+6	Kemarin gue udah kasih tau cara pegang raketnya Sekarang gue mau kasih tau rahasia
+7	Kemarin gue udah kasih tau cara pegang raketnya Sekarang gue mau kasih tau rahasia
+8	Sekarang gue mau kasih tau rahasia
+9	Sekarang gue mau kasih tau rahasia
+10	Sekarang gue mau kasih tau rahasia Biar servis kalian setipis tisu
+11	Sekarang gue mau kasih tau rahasia Biar servis kalian setipis tisu
+12	Biar servis kalian setipis tisu
+13	Biar servis kalian setipis tisu Kalian harus fokuskan pukulan pada area pinggir raket
+14	Biar servis kalian setipis tisu Kalian harus fokuskan pukulan pada area pinggir raket
+15	Kalian harus fokuskan pukulan pada area pinggir raket
+16	Kalian harus fokuskan pukulan pada area pinggir raket
+17	Kalian harus fokuskan pukulan pada area pinggir raket
+18	Kalian harus fokuskan pukulan pada area pinggir raket Jadi jangan di tengah-tengah bagian raket kalian ya
+19	Kalian harus fokuskan pukulan pada area pinggir raket Jadi jangan di tengah-tengah bagian raket kalian ya
+20	Jadi jangan di tengah-tengah bagian raket kalian ya
+21	Jadi jangan di tengah-tengah bagian raket kalian ya
+22	Jadi jangan di tengah-tengah bagian raket kalian ya
+23	Jadi jangan di tengah-tengah bagian raket kalian ya Harus di area pinggir
+24	Jadi jangan di tengah-tengah bagian raket kalian ya Harus di area pinggir
+25	Harus di area pinggir
+26	Harus di area pinggir Kenapa? Karena kalau di tengah-tengah
+27	Harus di area pinggir Kenapa? Karena kalau di tengah-tengah
+28	Kenapa? Karena kalau di tengah-tengah
+29	Kenapa? Karena kalau di tengah-tengah
+30	Kenapa? Karena kalau di tengah-tengah Atau sweet spot pada raket kalian
+31	Kenapa? Karena kalau di tengah-tengah Atau sweet spot pada raket kalian
+32	Atau sweet spot pada raket kalian
+33	Atau sweet spot pada raket kalian Power kalian akan bertambah dan bola akan melaju
+34	Atau sweet spot pada raket kalian Power kalian akan bertambah dan bola akan melaju
+35	Power kalian akan bertambah dan bola akan melaju
+36	Power kalian akan bertambah dan bola akan melaju
+37	Power kalian akan bertambah dan bola akan melaju
+38	Power kalian akan bertambah dan bola akan melaju Lebih kencang atau tinggi. Jadi jauh di atas net
+39	Power kalian akan bertambah dan bola akan melaju Lebih kencang atau tinggi. Jadi jauh di atas net
+40	Lebih kencang atau tinggi. Jadi jauh di atas net
+41	Lebih kencang atau tinggi. Jadi jauh di atas net
+42	Lebih kencang atau tinggi. Jadi jauh di atas net
+43	Lebih kencang atau tinggi. Jadi jauh di atas net Dan pastinya akan mudah dikembalikan oleh lawan
+44	Lebih kencang atau tinggi. Jadi jauh di atas net Dan pastinya akan mudah dikembalikan oleh lawan
+45	Dan pastinya akan mudah dikembalikan oleh lawan
+46	Dan pastinya akan mudah dikembalikan oleh lawan
+47	Dan pastinya akan mudah dikembalikan oleh lawan Kalau kalian gunakan area pinggir
+48	Dan pastinya akan mudah dikembalikan oleh lawan Kalau kalian gunakan area pinggir
+49	Kalau kalian gunakan area pinggir
+50	Kalau kalian gunakan area pinggir
+51	Kalau kalian gunakan area pinggir Atau non sweet spot pada raket kalian
+52	Kalau kalian gunakan area pinggir Atau non sweet spot pada raket kalian
+53	Atau non sweet spot pada raket kalian
+54	Atau non sweet spot pada raket kalian
+55	Atau non sweet spot pada raket kalian Power kalian akan berkurang
+56	Atau non sweet spot pada raket kalian Power kalian akan berkurang
+57	Power kalian akan berkurang
+58	Power kalian akan berkurang Sehingga akan menghasilkan bola yang lebih lemah
+59	Power kalian akan berkurang Sehingga akan menghasilkan bola yang lebih lemah
+60	Sehingga akan menghasilkan bola yang lebih lemah
+61	Sehingga akan menghasilkan bola yang lebih lemah
+62	Sehingga akan menghasilkan bola yang lebih lemah Dibanding kalian pukul di area tengah
+63	Sehingga akan menghasilkan bola yang lebih lemah Dibanding kalian pukul di area tengah
+64	Dibanding kalian pukul di area tengah
+65	Dibanding kalian pukul di area tengah Jadi kok akan melaju dengan kecepatan rendah
+66	Dibanding kalian pukul di area tengah Jadi kok akan melaju dengan kecepatan rendah
+67	Jadi kok akan melaju dengan kecepatan rendah
+68	Jadi kok akan melaju dengan kecepatan rendah
+69	Jadi kok akan melaju dengan kecepatan rendah Dan tidak terlalu tinggi dari net
+70	Jadi kok akan melaju dengan kecepatan rendah Dan tidak terlalu tinggi dari net
+71	Dan tidak terlalu tinggi dari net
+72	Dan tidak terlalu tinggi dari net Oh iya, satu lagi. Ayunan raket kalian jangan terlalu banyak
+73	Dan tidak terlalu tinggi dari net Oh iya, satu lagi. Ayunan raket kalian jangan terlalu banyak
+74	Oh iya, satu lagi. Ayunan raket kalian jangan terlalu banyak
+75	Oh iya, satu lagi. Ayunan raket kalian jangan terlalu banyak
+76	Oh iya, satu lagi. Ayunan raket kalian jangan terlalu banyak
+77	Oh iya, satu lagi. Ayunan raket kalian jangan terlalu banyak
+78	Oh iya, satu lagi. Ayunan raket kalian jangan terlalu banyak Kayak gini ya. Udah pasti nambah power juga
+79	Oh iya, satu lagi. Ayunan raket kalian jangan terlalu banyak Kayak gini ya. Udah pasti nambah power juga
+80	Kayak gini ya. Udah pasti nambah power juga
+81	Kayak gini ya. Udah pasti nambah power juga
+82	Kayak gini ya. Udah pasti nambah power juga Jadi cukup sedikit aja gunakan
+83	Kayak gini ya. Udah pasti nambah power juga Jadi cukup sedikit aja gunakan
+84	Jadi cukup sedikit aja gunakan
+85	Jadi cukup sedikit aja gunakan
+86	Jadi cukup sedikit aja gunakan Ayunan raket dan power kalian
+87	Jadi cukup sedikit aja gunakan Ayunan raket dan power kalian
+88	Ayunan raket dan power kalian
+89	Ayunan raket dan power kalian Gimana? Udah siap cobain di lapangan?
+90	Ayunan raket dan power kalian Gimana? Udah siap cobain di lapangan?
+91	Gimana? Udah siap cobain di lapangan?
+92	Gimana? Udah siap cobain di lapangan?
+93	Gimana? Udah siap cobain di lapangan? Jangan lupa follow ya
+94	Jangan lupa follow ya
+95	Jangan lupa follow ya
+96	Jangan lupa follow ya
+97	[NO_SPEECH]

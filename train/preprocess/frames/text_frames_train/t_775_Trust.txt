@@ -1,0 +1,84 @@
+0	Bonsan melakukan double handed backhand?
+1	Bonsan melakukan double handed backhand?
+2	Bonsan melakukan double handed backhand? Inilah tutorial one handed backhand bagi pemula.
+3	Bonsan melakukan double handed backhand? Inilah tutorial one handed backhand bagi pemula.
+4	Inilah tutorial one handed backhand bagi pemula.
+5	Inilah tutorial one handed backhand bagi pemula.
+6	Inilah tutorial one handed backhand bagi pemula.
+7	Inilah tutorial one handed backhand bagi pemula.
+8	Inilah tutorial one handed backhand bagi pemula. Pertama, gunakan eastern back grip.
+9	Inilah tutorial one handed backhand bagi pemula. Pertama, gunakan eastern back grip.
+10	Pertama, gunakan eastern back grip.
+11	Pertama, gunakan eastern back grip. Ini adalah pegangan ideal untuk backhand satu tangan yang kuat dan presisi.
+12	Pertama, gunakan eastern back grip. Ini adalah pegangan ideal untuk backhand satu tangan yang kuat dan presisi.
+13	Ini adalah pegangan ideal untuk backhand satu tangan yang kuat dan presisi.
+14	Ini adalah pegangan ideal untuk backhand satu tangan yang kuat dan presisi.
+15	Ini adalah pegangan ideal untuk backhand satu tangan yang kuat dan presisi.
+16	Ini adalah pegangan ideal untuk backhand satu tangan yang kuat dan presisi.
+17	Ini adalah pegangan ideal untuk backhand satu tangan yang kuat dan presisi.
+18	Ini adalah pegangan ideal untuk backhand satu tangan yang kuat dan presisi.
+19	Ini adalah pegangan ideal untuk backhand satu tangan yang kuat dan presisi. Dua, posisi kaki.
+20	Dua, posisi kaki.
+21	Dua, posisi kaki. Mulailah dengan posisi kaki yang benar.
+22	Dua, posisi kaki. Mulailah dengan posisi kaki yang benar.
+23	Mulailah dengan posisi kaki yang benar.
+24	Mulailah dengan posisi kaki yang benar. Kaki depan sedikit lurus ke samping, kaki belakang menyamping dan badan menghadap ke samping.
+25	Mulailah dengan posisi kaki yang benar. Kaki depan sedikit lurus ke samping, kaki belakang menyamping dan badan menghadap ke samping.
+26	Kaki depan sedikit lurus ke samping, kaki belakang menyamping dan badan menghadap ke samping.
+27	Kaki depan sedikit lurus ke samping, kaki belakang menyamping dan badan menghadap ke samping.
+28	Kaki depan sedikit lurus ke samping, kaki belakang menyamping dan badan menghadap ke samping.
+29	Kaki depan sedikit lurus ke samping, kaki belakang menyamping dan badan menghadap ke samping.
+30	Kaki depan sedikit lurus ke samping, kaki belakang menyamping dan badan menghadap ke samping.
+31	Kaki depan sedikit lurus ke samping, kaki belakang menyamping dan badan menghadap ke samping.
+32	Kaki depan sedikit lurus ke samping, kaki belakang menyamping dan badan menghadap ke samping.
+33	Kaki depan sedikit lurus ke samping, kaki belakang menyamping dan badan menghadap ke samping. Tiga, persiapan ayunan.
+34	Kaki depan sedikit lurus ke samping, kaki belakang menyamping dan badan menghadap ke samping. Tiga, persiapan ayunan.
+35	Tiga, persiapan ayunan.
+36	Tiga, persiapan ayunan. Tarik raket ke belakang sambil putar bahu ke arah bola.
+37	Tiga, persiapan ayunan. Tarik raket ke belakang sambil putar bahu ke arah bola.
+38	Tarik raket ke belakang sambil putar bahu ke arah bola.
+39	Tarik raket ke belakang sambil putar bahu ke arah bola.
+40	Tarik raket ke belakang sambil putar bahu ke arah bola.
+41	Tarik raket ke belakang sambil putar bahu ke arah bola. Empat, kontak poin.
+42	Tarik raket ke belakang sambil putar bahu ke arah bola. Empat, kontak poin.
+43	Empat, kontak poin. Pukul bola dengan raket saat berada di depan tubuh, tepat di puncak pantulan bola.
+44	Empat, kontak poin. Pukul bola dengan raket saat berada di depan tubuh, tepat di puncak pantulan bola.
+45	Pukul bola dengan raket saat berada di depan tubuh, tepat di puncak pantulan bola.
+46	Pukul bola dengan raket saat berada di depan tubuh, tepat di puncak pantulan bola.
+47	Pukul bola dengan raket saat berada di depan tubuh, tepat di puncak pantulan bola.
+48	Pukul bola dengan raket saat berada di depan tubuh, tepat di puncak pantulan bola.
+49	Pukul bola dengan raket saat berada di depan tubuh, tepat di puncak pantulan bola.
+50	Pukul bola dengan raket saat berada di depan tubuh, tepat di puncak pantulan bola.
+51	Pukul bola dengan raket saat berada di depan tubuh, tepat di puncak pantulan bola. Lima, follow through.
+52	Pukul bola dengan raket saat berada di depan tubuh, tepat di puncak pantulan bola. Lima, follow through.
+53	Lima, follow through. Setelah memukul, lanjutkan ayunan raket ke atas dan seberangi tubuhmu untuk menjaga keseimbangan dan kontrol yang baik.
+54	Lima, follow through. Setelah memukul, lanjutkan ayunan raket ke atas dan seberangi tubuhmu untuk menjaga keseimbangan dan kontrol yang baik.
+55	Setelah memukul, lanjutkan ayunan raket ke atas dan seberangi tubuhmu untuk menjaga keseimbangan dan kontrol yang baik.
+56	Setelah memukul, lanjutkan ayunan raket ke atas dan seberangi tubuhmu untuk menjaga keseimbangan dan kontrol yang baik.
+57	Setelah memukul, lanjutkan ayunan raket ke atas dan seberangi tubuhmu untuk menjaga keseimbangan dan kontrol yang baik.
+58	Setelah memukul, lanjutkan ayunan raket ke atas dan seberangi tubuhmu untuk menjaga keseimbangan dan kontrol yang baik.
+59	Setelah memukul, lanjutkan ayunan raket ke atas dan seberangi tubuhmu untuk menjaga keseimbangan dan kontrol yang baik.
+60	Setelah memukul, lanjutkan ayunan raket ke atas dan seberangi tubuhmu untuk menjaga keseimbangan dan kontrol yang baik.
+61	Setelah memukul, lanjutkan ayunan raket ke atas dan seberangi tubuhmu untuk menjaga keseimbangan dan kontrol yang baik.
+62	Setelah memukul, lanjutkan ayunan raket ke atas dan seberangi tubuhmu untuk menjaga keseimbangan dan kontrol yang baik.
+63	Setelah memukul, lanjutkan ayunan raket ke atas dan seberangi tubuhmu untuk menjaga keseimbangan dan kontrol yang baik.
+64	Setelah memukul, lanjutkan ayunan raket ke atas dan seberangi tubuhmu untuk menjaga keseimbangan dan kontrol yang baik.
+65	Setelah memukul, lanjutkan ayunan raket ke atas dan seberangi tubuhmu untuk menjaga keseimbangan dan kontrol yang baik. Itulah dasar-dasar one handed backhand.
+66	Setelah memukul, lanjutkan ayunan raket ke atas dan seberangi tubuhmu untuk menjaga keseimbangan dan kontrol yang baik. Itulah dasar-dasar one handed backhand.
+67	Itulah dasar-dasar one handed backhand.
+68	Itulah dasar-dasar one handed backhand. Follow for more tips and comment teknik apa lagi yang harus kita peragakan.
+69	Itulah dasar-dasar one handed backhand. Follow for more tips and comment teknik apa lagi yang harus kita peragakan.
+70	Follow for more tips and comment teknik apa lagi yang harus kita peragakan.
+71	Follow for more tips and comment teknik apa lagi yang harus kita peragakan.
+72	Follow for more tips and comment teknik apa lagi yang harus kita peragakan.
+73	Follow for more tips and comment teknik apa lagi yang harus kita peragakan.
+74	Follow for more tips and comment teknik apa lagi yang harus kita peragakan.
+75	Follow for more tips and comment teknik apa lagi yang harus kita peragakan.
+76	Follow for more tips and comment teknik apa lagi yang harus kita peragakan.
+77	[NO_SPEECH]
+78	[NO_SPEECH]
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	[NO_SPEECH]
+83	[NO_SPEECH]

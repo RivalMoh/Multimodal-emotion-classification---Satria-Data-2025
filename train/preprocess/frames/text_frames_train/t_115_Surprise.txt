@@ -1,0 +1,188 @@
+0	Pertandingan Hang Tuang VS Bali United
+1	Pertandingan Hang Tuang VS Bali United
+2	Pertandingan Hang Tuang VS Bali United
+3	Pertandingan Hang Tuang VS Bali United
+4	Pertandingan Hang Tuang VS Bali United
+5	Pertandingan Hang Tuang VS Bali United
+6	Pertandingan Hang Tuang VS Bali United Karena yang United itu cuma boleh ada di MU
+7	Pertandingan Hang Tuang VS Bali United Karena yang United itu cuma boleh ada di MU
+8	Karena yang United itu cuma boleh ada di MU
+9	Karena yang United itu cuma boleh ada di MU
+10	Karena yang United itu cuma boleh ada di MU
+11	Karena yang United itu cuma boleh ada di MU
+12	Karena yang United itu cuma boleh ada di MU Kita akan milih
+13	Karena yang United itu cuma boleh ada di MU Kita akan milih
+14	Kita akan milih Sama Rakim
+15	Kita akan milih Sama Rakim
+16	Sama Rakim Sama Rakim
+17	Sama Rakim Sama Rakim Sama Rakim
+18	Sama Rakim Sama Rakim
+19	Sama Rakim
+20	Sama Rakim
+21	Sama Rakim
+22	[NO_SPEECH]
+23	[NO_SPEECH]
+24	[NO_SPEECH]
+25	[NO_SPEECH]
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	[NO_SPEECH]
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	[NO_SPEECH]
+36	[NO_SPEECH]
+37	[NO_SPEECH]
+38	[NO_SPEECH]
+39	[NO_SPEECH]
+40	[NO_SPEECH]
+41	[NO_SPEECH]
+42	[NO_SPEECH]
+43	[NO_SPEECH]
+44	[NO_SPEECH]
+45	[NO_SPEECH]
+46	[NO_SPEECH]
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	Sama Rakim
+56	Sama Rakim
+57	Sama Rakim
+58	Sama Rakim
+59	Sama Rakim
+60	[NO_SPEECH]
+61	[NO_SPEECH]
+62	[NO_SPEECH]
+63	[NO_SPEECH]
+64	Sama Rakim
+65	Sama Rakim
+66	Sama Rakim
+67	Sama Rakim
+68	Sama Rakim
+69	Sama Rakim Sama Rakim
+70	Sama Rakim Sama Rakim
+71	Sama Rakim
+72	Sama Rakim
+73	Sama Rakim
+74	Sama Rakim
+75	Sama Rakim Forsen
+76	Sama Rakim Forsen
+77	Forsen
+78	Forsen
+79	Forsen
+80	Forsen Sama Rakim
+81	Forsen Sama Rakim
+82	Sama Rakim
+83	Sama Rakim
+84	Sama Rakim
+85	Sama Rakim
+86	Sama Rakim
+87	Sama Rakim
+88	Sama Rakim
+89	Sama Rakim
+90	Sama Rakim
+91	[NO_SPEECH]
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	[NO_SPEECH]
+95	[NO_SPEECH]
+96	[NO_SPEECH]
+97	[NO_SPEECH]
+98	[NO_SPEECH]
+99	[NO_SPEECH]
+100	Tsundere
+101	Tsundere
+102	Tsundere
+103	Tsundere Sama Rakim
+104	Tsundere Sama Rakim
+105	Sama Rakim Sama Rakim
+106	Sama Rakim Sama Rakim
+107	Sama Rakim
+108	Sama Rakim Samauesto
+109	Sama Rakim Samauesto SamaLAUGHS Sama Rakim
+110	Samauesto SamaLAUGHS Sama Rakim
+111	Sama Rakim   Sama Rekat
+112	Sama Rakim   Sama Rekat Sama Takah
+113	Sama Rekat Sama Takah  Sama Rakim
+114	Sama Takah  Sama Rakim
+115	Sama Rakim
+116	Sama Rakim  
+117	Sama Rakim  
+118	[NO_SPEECH]
+119	[NO_SPEECH]
+120	[NO_SPEECH]
+121	[NO_SPEECH]
+122	[NO_SPEECH]
+123	[NO_SPEECH]
+124	[NO_SPEECH]
+125	[NO_SPEECH]
+126	[NO_SPEECH]
+127	[NO_SPEECH]
+128	[NO_SPEECH]
+129	[NO_SPEECH]
+130	[NO_SPEECH]
+131	[NO_SPEECH]
+132	[NO_SPEECH]
+133	[NO_SPEECH]
+134	[NO_SPEECH]
+135	[NO_SPEECH]
+136	[NO_SPEECH]
+137	[NO_SPEECH]
+138	[NO_SPEECH]
+139	[NO_SPEECH]
+140	[NO_SPEECH]
+141	[NO_SPEECH]
+142	[NO_SPEECH]
+143	[NO_SPEECH]
+144	[NO_SPEECH]
+145	[NO_SPEECH]
+146	[NO_SPEECH]
+147	[NO_SPEECH]
+148	[NO_SPEECH]
+149	[NO_SPEECH]
+150	[NO_SPEECH]
+151	[NO_SPEECH]
+152	[NO_SPEECH]
+153	Terima kasih telah menonton
+154	Terima kasih telah menonton
+155	Terima kasih telah menonton
+156	Terima kasih telah menonton
+157	Terima kasih telah menonton
+158	Terima kasih telah menonton
+159	Terima kasih telah menonton
+160	Terima kasih telah menonton
+161	Terima kasih telah menonton
+162	Terima kasih telah menonton
+163	Terima kasih telah menonton
+164	[NO_SPEECH]
+165	[NO_SPEECH]
+166	[NO_SPEECH]
+167	[NO_SPEECH]
+168	[NO_SPEECH]
+169	[NO_SPEECH]
+170	[NO_SPEECH]
+171	[NO_SPEECH]
+172	[NO_SPEECH]
+173	[NO_SPEECH]
+174	[NO_SPEECH]
+175	[NO_SPEECH]
+176	[NO_SPEECH]
+177	[NO_SPEECH]
+178	[NO_SPEECH]
+179	Terima kasih telah menonton
+180	Terima kasih telah menonton
+181	Terima kasih telah menonton
+182	Terima kasih telah menonton
+183	Terima kasih telah menonton
+184	Terima kasih telah menonton
+185	[NO_SPEECH]
+186	[NO_SPEECH]
+187	[NO_SPEECH]

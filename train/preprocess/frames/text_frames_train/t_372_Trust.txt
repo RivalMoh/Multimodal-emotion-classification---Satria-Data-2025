@@ -1,0 +1,141 @@
+0	bawa apa lagi Jan?
+1	bawa apa lagi Jan? perlengkapan startur ini, pasti jasujan, sarung, sepatu
+2	perlengkapan startur ini, pasti jasujan, sarung, sepatu
+3	perlengkapan startur ini, pasti jasujan, sarung, sepatu
+4	perlengkapan startur ini, pasti jasujan, sarung, sepatu
+5	perlengkapan startur ini, pasti jasujan, sarung, sepatu
+6	perlengkapan startur ini, pasti jasujan, sarung, sepatu
+7	perlengkapan startur ini, pasti jasujan, sarung, sepatu
+8	perlengkapan startur ini, pasti jasujan, sarung, sepatu masuk semua bagasi ya?
+9	perlengkapan startur ini, pasti jasujan, sarung, sepatu masuk semua bagasi ya?
+10	masuk semua bagasi ya? masuk banget, bagasinya gede
+11	masuk semua bagasi ya? masuk banget, bagasinya gede
+12	masuk banget, bagasinya gede ini lumayan gede, 18,6 liter
+13	masuk banget, bagasinya gede ini lumayan gede, 18,6 liter
+14	ini lumayan gede, 18,6 liter
+15	ini lumayan gede, 18,6 liter
+16	ini lumayan gede, 18,6 liter
+17	ini lumayan gede, 18,6 liter kalau itu keramatik kecil, ini gede loh
+18	ini lumayan gede, 18,6 liter kalau itu keramatik kecil, ini gede loh
+19	kalau itu keramatik kecil, ini gede loh
+20	kalau itu keramatik kecil, ini gede loh
+21	kalau itu keramatik kecil, ini gede loh
+22	kalau itu keramatik kecil, ini gede loh betul, mantap ini kapasitasnya bisa masuk semua
+23	kalau itu keramatik kecil, ini gede loh betul, mantap ini kapasitasnya bisa masuk semua
+24	betul, mantap ini kapasitasnya bisa masuk semua
+25	betul, mantap ini kapasitasnya bisa masuk semua
+26	betul, mantap ini kapasitasnya bisa masuk semua
+27	betul, mantap ini kapasitasnya bisa masuk semua
+28	betul, mantap ini kapasitasnya bisa masuk semua asiknya lagi di belakang sini ada behel yang panjang dan flat
+29	betul, mantap ini kapasitasnya bisa masuk semua asiknya lagi di belakang sini ada behel yang panjang dan flat
+30	asiknya lagi di belakang sini ada behel yang panjang dan flat
+31	asiknya lagi di belakang sini ada behel yang panjang dan flat
+32	asiknya lagi di belakang sini ada behel yang panjang dan flat
+33	asiknya lagi di belakang sini ada behel yang panjang dan flat
+34	asiknya lagi di belakang sini ada behel yang panjang dan flat
+35	asiknya lagi di belakang sini ada behel yang panjang dan flat akhirnya bisa dipakai untuk menaruh barang lagi
+36	asiknya lagi di belakang sini ada behel yang panjang dan flat akhirnya bisa dipakai untuk menaruh barang lagi
+37	akhirnya bisa dipakai untuk menaruh barang lagi
+38	akhirnya bisa dipakai untuk menaruh barang lagi
+39	akhirnya bisa dipakai untuk menaruh barang lagi
+40	akhirnya bisa dipakai untuk menaruh barang lagi
+41	akhirnya bisa dipakai untuk menaruh barang lagi dan bisa dipakai untuk menaruh tas di belakang
+42	akhirnya bisa dipakai untuk menaruh barang lagi dan bisa dipakai untuk menaruh tas di belakang
+43	dan bisa dipakai untuk menaruh tas di belakang
+44	dan bisa dipakai untuk menaruh tas di belakang
+45	dan bisa dipakai untuk menaruh tas di belakang
+46	dan bisa dipakai untuk menaruh tas di belakang
+47	dan bisa dipakai untuk menaruh tas di belakang bisa buat menaruh barang tambahan juga
+48	dan bisa dipakai untuk menaruh tas di belakang bisa buat menaruh barang tambahan juga
+49	bisa buat menaruh barang tambahan juga
+50	bisa buat menaruh barang tambahan juga
+51	bisa buat menaruh barang tambahan juga nanti saya mau menaruh jasujan disini
+52	bisa buat menaruh barang tambahan juga nanti saya mau menaruh jasujan disini
+53	nanti saya mau menaruh jasujan disini
+54	nanti saya mau menaruh jasujan disini
+55	nanti saya mau menaruh jasujan disini
+56	nanti saya mau menaruh jasujan disini kalau A-an kecil kan?
+57	nanti saya mau menaruh jasujan disini kalau A-an kecil kan?
+58	kalau A-an kecil kan? kalau ini lebih gede
+59	kalau A-an kecil kan? kalau ini lebih gede
+60	kalau ini lebih gede
+61	[NO_SPEECH]
+62	dan asiknya tinggal diikat ke behel nya, aman gitu
+63	dan asiknya tinggal diikat ke behel nya, aman gitu
+64	dan asiknya tinggal diikat ke behel nya, aman gitu
+65	dan asiknya tinggal diikat ke behel nya, aman gitu
+66	dan asiknya tinggal diikat ke behel nya, aman gitu
+67	dan asiknya tinggal diikat ke behel nya, aman gitu
+68	dan asiknya tinggal diikat ke behel nya, aman gitu terus saya juga nambah ini, asik tengah
+69	dan asiknya tinggal diikat ke behel nya, aman gitu terus saya juga nambah ini, asik tengah
+70	terus saya juga nambah ini, asik tengah
+71	terus saya juga nambah ini, asik tengah
+72	terus saya juga nambah ini, asik tengah
+73	terus saya juga nambah ini, asik tengah
+74	terus saya juga nambah ini, asik tengah
+75	terus saya juga nambah ini, asik tengah jadi baju-baju ada beberapa yang di taruh disini
+76	terus saya juga nambah ini, asik tengah jadi baju-baju ada beberapa yang di taruh disini
+77	terus saya juga nambah ini, asik tengah jadi baju-baju ada beberapa yang di taruh disini
+78	jadi baju-baju ada beberapa yang di taruh disini
+79	jadi baju-baju ada beberapa yang di taruh disini beberapa perintah juga di taruh disini juga
+80	jadi baju-baju ada beberapa yang di taruh disini beberapa perintah juga di taruh disini juga
+81	beberapa perintah juga di taruh disini juga
+82	beberapa perintah juga di taruh disini juga
+83	beberapa perintah juga di taruh disini juga dan asiknya ini karena ada pengaitnya, pengaitnya ada dua
+84	beberapa perintah juga di taruh disini juga dan asiknya ini karena ada pengaitnya, pengaitnya ada dua
+85	dan asiknya ini karena ada pengaitnya, pengaitnya ada dua
+86	dan asiknya ini karena ada pengaitnya, pengaitnya ada dua
+87	dan asiknya ini karena ada pengaitnya, pengaitnya ada dua
+88	dan asiknya ini karena ada pengaitnya, pengaitnya ada dua di depan sama di belakang, jadi dia tidak gampang kabur-kabur
+89	dan asiknya ini karena ada pengaitnya, pengaitnya ada dua di depan sama di belakang, jadi dia tidak gampang kabur-kabur
+90	di depan sama di belakang, jadi dia tidak gampang kabur-kabur
+91	di depan sama di belakang, jadi dia tidak gampang kabur-kabur
+92	di depan sama di belakang, jadi dia tidak gampang kabur-kabur
+93	di depan sama di belakang, jadi dia tidak gampang kabur-kabur
+94	di depan sama di belakang, jadi dia tidak gampang kabur-kabur
+95	di depan sama di belakang, jadi dia tidak gampang kabur-kabur tujukan juga lebar, kaki tidak terlalu terganggu
+96	di depan sama di belakang, jadi dia tidak gampang kabur-kabur tujukan juga lebar, kaki tidak terlalu terganggu
+97	tujukan juga lebar, kaki tidak terlalu terganggu
+98	tujukan juga lebar, kaki tidak terlalu terganggu
+99	tujukan juga lebar, kaki tidak terlalu terganggu
+100	tujukan juga lebar, kaki tidak terlalu terganggu
+101	tujukan juga lebar, kaki tidak terlalu terganggu masih asik saja
+102	tujukan juga lebar, kaki tidak terlalu terganggu masih asik saja masih juga ya, enak ya
+103	masih asik saja masih juga ya, enak ya
+104	masih juga ya, enak ya
+105	masih juga ya, enak ya mantap
+106	masih juga ya, enak ya mantap terus jangan lupa Bu, ada tempat untuk menaruh botol minum di bawah setang
+107	mantap terus jangan lupa Bu, ada tempat untuk menaruh botol minum di bawah setang
+108	terus jangan lupa Bu, ada tempat untuk menaruh botol minum di bawah setang
+109	terus jangan lupa Bu, ada tempat untuk menaruh botol minum di bawah setang
+110	terus jangan lupa Bu, ada tempat untuk menaruh botol minum di bawah setang
+111	terus jangan lupa Bu, ada tempat untuk menaruh botol minum di bawah setang
+112	terus jangan lupa Bu, ada tempat untuk menaruh botol minum di bawah setang
+113	terus jangan lupa Bu, ada tempat untuk menaruh botol minum di bawah setang jadi minuman bisa terbuka
+114	terus jangan lupa Bu, ada tempat untuk menaruh botol minum di bawah setang jadi minuman bisa terbuka
+115	jadi minuman bisa terbuka
+116	jadi minuman bisa terbuka kita taruh disini
+117	jadi minuman bisa terbuka kita taruh disini
+118	kita taruh disini bahkan yang kecil juga bisa diselipkan di sebelah kontak
+119	bahkan yang kecil juga bisa diselipkan di sebelah kontak
+120	bahkan yang kecil juga bisa diselipkan di sebelah kontak
+121	bahkan yang kecil juga bisa diselipkan di sebelah kontak
+122	bahkan yang kecil juga bisa diselipkan di sebelah kontak
+123	bahkan yang kecil juga bisa diselipkan di sebelah kontak
+124	bahkan yang kecil juga bisa diselipkan di sebelah kontak oh iya kanan ya?
+125	bahkan yang kecil juga bisa diselipkan di sebelah kontak oh iya kanan ya? kepingin sedikit
+126	oh iya kanan ya? kepingin sedikit
+127	kepingin sedikit keren, cuma bisa untuk menaruh ini saja
+128	kepingin sedikit keren, cuma bisa untuk menaruh ini saja
+129	keren, cuma bisa untuk menaruh ini saja
+130	keren, cuma bisa untuk menaruh ini saja
+131	keren, cuma bisa untuk menaruh ini saja apa namanya?
+132	keren, cuma bisa untuk menaruh ini saja apa namanya? sarung tangan atau apa?
+133	apa namanya? sarung tangan atau apa?
+134	sarung tangan atau apa?
+135	sarung tangan atau apa? oh bisa, yang kecil bisa
+136	oh bisa, yang kecil bisa
+137	oh bisa, yang kecil bisa
+138	oh bisa, yang kecil bisa
+139	[NO_SPEECH]
+140	[NO_SPEECH]

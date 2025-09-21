@@ -1,0 +1,160 @@
+0	Semua perempuan yang suka pake jilbab dan jarum pentul
+1	Semua perempuan yang suka pake jilbab dan jarum pentul
+2	Semua perempuan yang suka pake jilbab dan jarum pentul
+3	Semua perempuan yang suka pake jilbab dan jarum pentul
+4	Semua perempuan yang suka pake jilbab dan jarum pentul Kalo lagi pake jilbab gak usah banyak ngomong
+5	Semua perempuan yang suka pake jilbab dan jarum pentul Kalo lagi pake jilbab gak usah banyak ngomong
+6	Kalo lagi pake jilbab gak usah banyak ngomong
+7	Kalo lagi pake jilbab gak usah banyak ngomong
+8	Kalo lagi pake jilbab gak usah banyak ngomong
+9	Kalo lagi pake jilbab gak usah banyak ngomong
+10	Kalo lagi pake jilbab gak usah banyak ngomong Nanti ketelan jarum pentulnya
+11	Kalo lagi pake jilbab gak usah banyak ngomong Nanti ketelan jarum pentulnya
+12	Nanti ketelan jarum pentulnya
+13	Nanti ketelan jarum pentulnya
+14	Nanti ketelan jarum pentulnya
+15	Nanti ketelan jarum pentulnya Hari ini gua kedatengan pasien
+16	Nanti ketelan jarum pentulnya Hari ini gua kedatengan pasien
+17	Hari ini gua kedatengan pasien
+18	Hari ini gua kedatengan pasien
+19	Hari ini gua kedatengan pasien
+20	Hari ini gua kedatengan pasien Cie lo pasien kata gua dokter gua
+21	Hari ini gua kedatengan pasien Cie lo pasien kata gua dokter gua
+22	Cie lo pasien kata gua dokter gua
+23	Cie lo pasien kata gua dokter gua
+24	Cie lo pasien kata gua dokter gua
+25	Cie lo pasien kata gua dokter gua
+26	Cie lo pasien kata gua dokter gua Maksudnya hari ini gua kedatengan pasien
+27	Cie lo pasien kata gua dokter gua Maksudnya hari ini gua kedatengan pasien
+28	Maksudnya hari ini gua kedatengan pasien
+29	Maksudnya hari ini gua kedatengan pasien
+30	Maksudnya hari ini gua kedatengan pasien
+31	Maksudnya hari ini gua kedatengan pasien Yang dia lagi pake jilbab
+32	Maksudnya hari ini gua kedatengan pasien Yang dia lagi pake jilbab
+33	Yang dia lagi pake jilbab
+34	Yang dia lagi pake jilbab Terus tuh pentul dikaitin di mulutnya
+35	Yang dia lagi pake jilbab Terus tuh pentul dikaitin di mulutnya
+36	Terus tuh pentul dikaitin di mulutnya
+37	Terus tuh pentul dikaitin di mulutnya
+38	Terus tuh pentul dikaitin di mulutnya
+39	Terus tuh pentul dikaitin di mulutnya Diempetin gitu
+40	Terus tuh pentul dikaitin di mulutnya Diempetin gitu
+41	Diempetin gitu Terus dia ngobrol sama temennya
+42	Diempetin gitu Terus dia ngobrol sama temennya
+43	Terus dia ngobrol sama temennya
+44	Terus dia ngobrol sama temennya
+45	Terus dia ngobrol sama temennya
+46	Terus dia ngobrol sama temennya Akhirnya pentulnya ketelan
+47	Terus dia ngobrol sama temennya Akhirnya pentulnya ketelan
+48	Akhirnya pentulnya ketelan
+49	Akhirnya pentulnya ketelan Lagian pertanyaan gua cuman satu
+50	Akhirnya pentulnya ketelan Lagian pertanyaan gua cuman satu
+51	Lagian pertanyaan gua cuman satu
+52	Lagian pertanyaan gua cuman satu Kenapa sih demen banget ngegit jarum pentul?
+53	Lagian pertanyaan gua cuman satu Kenapa sih demen banget ngegit jarum pentul?
+54	Kenapa sih demen banget ngegit jarum pentul?
+55	Kenapa sih demen banget ngegit jarum pentul?
+56	Kenapa sih demen banget ngegit jarum pentul?
+57	Kenapa sih demen banget ngegit jarum pentul? Hah?
+58	Kenapa sih demen banget ngegit jarum pentul? Hah? Ngedebus loh
+59	Ngedebus loh
+60	Ngedebus loh Limbat kata gua
+61	Ngedebus loh Limbat kata gua
+62	Limbat kata gua
+63	Limbat kata gua Nah permasalahannya pas jadat RGD
+64	Limbat kata gua Nah permasalahannya pas jadat RGD
+65	Nah permasalahannya pas jadat RGD
+66	Nah permasalahannya pas jadat RGD
+67	Nah permasalahannya pas jadat RGD Gua sudah memeriksa dan tidak keliatan sama sekali
+68	Nah permasalahannya pas jadat RGD Gua sudah memeriksa dan tidak keliatan sama sekali
+69	Gua sudah memeriksa dan tidak keliatan sama sekali
+70	Gua sudah memeriksa dan tidak keliatan sama sekali
+71	Gua sudah memeriksa dan tidak keliatan sama sekali
+72	Gua sudah memeriksa dan tidak keliatan sama sekali Curiganya itu udah sampai masuk ke tenggorokan
+73	Gua sudah memeriksa dan tidak keliatan sama sekali Curiganya itu udah sampai masuk ke tenggorokan
+74	Curiganya itu udah sampai masuk ke tenggorokan
+75	Curiganya itu udah sampai masuk ke tenggorokan
+76	Curiganya itu udah sampai masuk ke tenggorokan
+77	Curiganya itu udah sampai masuk ke tenggorokan
+78	Curiganya itu udah sampai masuk ke tenggorokan
+79	Curiganya itu udah sampai masuk ke tenggorokan Kongkongan
+80	Curiganya itu udah sampai masuk ke tenggorokan Kongkongan
+81	Kongkongan Atau mungkin udah sampe paru-paru
+82	Kongkongan Atau mungkin udah sampe paru-paru
+83	Atau mungkin udah sampe paru-paru
+84	Atau mungkin udah sampe paru-paru Permasalahannya kasus kayak gitu tuh bahaya banget
+85	Atau mungkin udah sampe paru-paru Permasalahannya kasus kayak gitu tuh bahaya banget
+86	Permasalahannya kasus kayak gitu tuh bahaya banget
+87	Permasalahannya kasus kayak gitu tuh bahaya banget
+88	Permasalahannya kasus kayak gitu tuh bahaya banget
+89	Permasalahannya kasus kayak gitu tuh bahaya banget
+90	Permasalahannya kasus kayak gitu tuh bahaya banget Apalagi kalo masuknya udah sampe paru-paru
+91	Permasalahannya kasus kayak gitu tuh bahaya banget Apalagi kalo masuknya udah sampe paru-paru
+92	Apalagi kalo masuknya udah sampe paru-paru
+93	Apalagi kalo masuknya udah sampe paru-paru
+94	Apalagi kalo masuknya udah sampe paru-paru
+95	Apalagi kalo masuknya udah sampe paru-paru
+96	Apalagi kalo masuknya udah sampe paru-paru Yang bagian bawah sini
+97	Apalagi kalo masuknya udah sampe paru-paru Yang bagian bawah sini
+98	Yang bagian bawah sini Itu dia bisa masuk ke ruang operasi
+99	Yang bagian bawah sini Itu dia bisa masuk ke ruang operasi
+100	Itu dia bisa masuk ke ruang operasi
+101	Itu dia bisa masuk ke ruang operasi
+102	Itu dia bisa masuk ke ruang operasi
+103	Itu dia bisa masuk ke ruang operasi Buat diambil di ruang operasi
+104	Itu dia bisa masuk ke ruang operasi Buat diambil di ruang operasi
+105	Buat diambil di ruang operasi
+106	Buat diambil di ruang operasi
+107	Buat diambil di ruang operasi Nah bentukannya itu nanti bakal kayak gini
+108	Buat diambil di ruang operasi Nah bentukannya itu nanti bakal kayak gini
+109	Nah bentukannya itu nanti bakal kayak gini
+110	Nah bentukannya itu nanti bakal kayak gini Kalo di Ronsen
+111	Nah bentukannya itu nanti bakal kayak gini Kalo di Ronsen
+112	Kalo di Ronsen Nah permasalahannya adalah
+113	Kalo di Ronsen Nah permasalahannya adalah
+114	Nah permasalahannya adalah
+115	Nah permasalahannya adalah
+116	Nah permasalahannya adalah Kalo kayak gini
+117	Nah permasalahannya adalah Kalo kayak gini
+118	Kalo kayak gini Gak semua rumah sakit punya fasilitasnya buat ngambil
+119	Kalo kayak gini Gak semua rumah sakit punya fasilitasnya buat ngambil
+120	Gak semua rumah sakit punya fasilitasnya buat ngambil
+121	Gak semua rumah sakit punya fasilitasnya buat ngambil
+122	Gak semua rumah sakit punya fasilitasnya buat ngambil
+123	Gak semua rumah sakit punya fasilitasnya buat ngambil
+124	Gak semua rumah sakit punya fasilitasnya buat ngambil
+125	Gak semua rumah sakit punya fasilitasnya buat ngambil
+126	Gak semua rumah sakit punya fasilitasnya buat ngambil Jadi dibandingkan lo masuk rumah sakit
+127	Gak semua rumah sakit punya fasilitasnya buat ngambil Jadi dibandingkan lo masuk rumah sakit
+128	Jadi dibandingkan lo masuk rumah sakit
+129	Jadi dibandingkan lo masuk rumah sakit
+130	Jadi dibandingkan lo masuk rumah sakit
+131	Jadi dibandingkan lo masuk rumah sakit
+132	Jadi dibandingkan lo masuk rumah sakit Mendingan lo kalo lagi pake jilbab
+133	Jadi dibandingkan lo masuk rumah sakit Mendingan lo kalo lagi pake jilbab
+134	Mendingan lo kalo lagi pake jilbab
+135	Mendingan lo kalo lagi pake jilbab Diem
+136	Mendingan lo kalo lagi pake jilbab Diem
+137	Mendingan lo kalo lagi pake jilbab Diem Gak usah banyak ngomong
+138	Diem Gak usah banyak ngomong
+139	Gak usah banyak ngomong
+140	Gak usah banyak ngomong
+141	Gak usah banyak ngomong Apalagi pentul tuh kenapa sih harus digigit?
+142	Gak usah banyak ngomong Apalagi pentul tuh kenapa sih harus digigit?
+143	Apalagi pentul tuh kenapa sih harus digigit?
+144	Apalagi pentul tuh kenapa sih harus digigit?
+145	Apalagi pentul tuh kenapa sih harus digigit?
+146	Apalagi pentul tuh kenapa sih harus digigit? Bisa gak sih ditunclepin dimana gitu kan?
+147	Apalagi pentul tuh kenapa sih harus digigit? Bisa gak sih ditunclepin dimana gitu kan?
+148	Bisa gak sih ditunclepin dimana gitu kan?
+149	Bisa gak sih ditunclepin dimana gitu kan?
+150	Bisa gak sih ditunclepin dimana gitu kan? Gak susah ya?
+151	Bisa gak sih ditunclepin dimana gitu kan? Gak susah ya? Oke?
+152	Gak susah ya? Oke? Terima kasih
+153	Oke? Terima kasih
+154	Terima kasih Tolong disebar kepada temen-temen kalian semua
+155	Terima kasih Tolong disebar kepada temen-temen kalian semua
+156	Tolong disebar kepada temen-temen kalian semua
+157	Tolong disebar kepada temen-temen kalian semua
+158	Tolong disebar kepada temen-temen kalian semua
+159	[NO_SPEECH]

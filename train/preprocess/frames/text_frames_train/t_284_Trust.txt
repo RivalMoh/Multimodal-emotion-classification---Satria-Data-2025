@@ -1,0 +1,95 @@
+0	Hai everyone, aku mau ngasih rekomendasi buat kalian yang lagi nyari moisturizer
+1	Hai everyone, aku mau ngasih rekomendasi buat kalian yang lagi nyari moisturizer
+2	Hai everyone, aku mau ngasih rekomendasi buat kalian yang lagi nyari moisturizer
+3	Hai everyone, aku mau ngasih rekomendasi buat kalian yang lagi nyari moisturizer
+4	Hai everyone, aku mau ngasih rekomendasi buat kalian yang lagi nyari moisturizer
+5	Hai everyone, aku mau ngasih rekomendasi buat kalian yang lagi nyari moisturizer
+6	Hai everyone, aku mau ngasih rekomendasi buat kalian yang lagi nyari moisturizer
+7	Hai everyone, aku mau ngasih rekomendasi buat kalian yang lagi nyari moisturizer
+8	Hai everyone, aku mau ngasih rekomendasi buat kalian yang lagi nyari moisturizer Sebagai remaja, otomatis aku masih takut buat nyoba treatment-treatment di luar sana
+9	Hai everyone, aku mau ngasih rekomendasi buat kalian yang lagi nyari moisturizer Sebagai remaja, otomatis aku masih takut buat nyoba treatment-treatment di luar sana
+10	Sebagai remaja, otomatis aku masih takut buat nyoba treatment-treatment di luar sana
+11	Sebagai remaja, otomatis aku masih takut buat nyoba treatment-treatment di luar sana
+12	Sebagai remaja, otomatis aku masih takut buat nyoba treatment-treatment di luar sana
+13	Sebagai remaja, otomatis aku masih takut buat nyoba treatment-treatment di luar sana
+14	Sebagai remaja, otomatis aku masih takut buat nyoba treatment-treatment di luar sana
+15	Sebagai remaja, otomatis aku masih takut buat nyoba treatment-treatment di luar sana
+16	Sebagai remaja, otomatis aku masih takut buat nyoba treatment-treatment di luar sana
+17	Sebagai remaja, otomatis aku masih takut buat nyoba treatment-treatment di luar sana
+18	Sebagai remaja, otomatis aku masih takut buat nyoba treatment-treatment di luar sana
+19	Sebagai remaja, otomatis aku masih takut buat nyoba treatment-treatment di luar sana
+20	Sebagai remaja, otomatis aku masih takut buat nyoba treatment-treatment di luar sana Aku juga punya tipe kulit yang kering banget, jadi aku gak bisa asal soal milih moisturizer
+21	Sebagai remaja, otomatis aku masih takut buat nyoba treatment-treatment di luar sana Aku juga punya tipe kulit yang kering banget, jadi aku gak bisa asal soal milih moisturizer
+22	Aku juga punya tipe kulit yang kering banget, jadi aku gak bisa asal soal milih moisturizer
+23	Aku juga punya tipe kulit yang kering banget, jadi aku gak bisa asal soal milih moisturizer
+24	Aku juga punya tipe kulit yang kering banget, jadi aku gak bisa asal soal milih moisturizer
+25	Aku juga punya tipe kulit yang kering banget, jadi aku gak bisa asal soal milih moisturizer
+26	Aku juga punya tipe kulit yang kering banget, jadi aku gak bisa asal soal milih moisturizer
+27	Aku juga punya tipe kulit yang kering banget, jadi aku gak bisa asal soal milih moisturizer
+28	Aku juga punya tipe kulit yang kering banget, jadi aku gak bisa asal soal milih moisturizer
+29	Aku juga punya tipe kulit yang kering banget, jadi aku gak bisa asal soal milih moisturizer
+30	Aku juga punya tipe kulit yang kering banget, jadi aku gak bisa asal soal milih moisturizer
+31	Aku juga punya tipe kulit yang kering banget, jadi aku gak bisa asal soal milih moisturizer Aku udah menemukan moisturizer yang cocok di kulit aku
+32	Aku juga punya tipe kulit yang kering banget, jadi aku gak bisa asal soal milih moisturizer Aku udah menemukan moisturizer yang cocok di kulit aku
+33	Aku udah menemukan moisturizer yang cocok di kulit aku
+34	Aku udah menemukan moisturizer yang cocok di kulit aku
+35	Aku udah menemukan moisturizer yang cocok di kulit aku
+36	Aku udah menemukan moisturizer yang cocok di kulit aku
+37	Aku udah menemukan moisturizer yang cocok di kulit aku
+38	Aku udah menemukan moisturizer yang cocok di kulit aku
+39	Aku udah menemukan moisturizer yang cocok di kulit aku Wadah moisturizer ini mengandung recombinant collagen and ceramide complex yang memperkuat skin barrier
+40	Aku udah menemukan moisturizer yang cocok di kulit aku Wadah moisturizer ini mengandung recombinant collagen and ceramide complex yang memperkuat skin barrier
+41	Wadah moisturizer ini mengandung recombinant collagen and ceramide complex yang memperkuat skin barrier
+42	Wadah moisturizer ini mengandung recombinant collagen and ceramide complex yang memperkuat skin barrier
+43	Wadah moisturizer ini mengandung recombinant collagen and ceramide complex yang memperkuat skin barrier
+44	Wadah moisturizer ini mengandung recombinant collagen and ceramide complex yang memperkuat skin barrier
+45	Wadah moisturizer ini mengandung recombinant collagen and ceramide complex yang memperkuat skin barrier
+46	Wadah moisturizer ini mengandung recombinant collagen and ceramide complex yang memperkuat skin barrier
+47	Wadah moisturizer ini mengandung recombinant collagen and ceramide complex yang memperkuat skin barrier
+48	Wadah moisturizer ini mengandung recombinant collagen and ceramide complex yang memperkuat skin barrier
+49	Wadah moisturizer ini mengandung recombinant collagen and ceramide complex yang memperkuat skin barrier
+50	Wadah moisturizer ini mengandung recombinant collagen and ceramide complex yang memperkuat skin barrier
+51	Wadah moisturizer ini mengandung recombinant collagen and ceramide complex yang memperkuat skin barrier
+52	Wadah moisturizer ini mengandung recombinant collagen and ceramide complex yang memperkuat skin barrier
+53	Wadah moisturizer ini mengandung recombinant collagen and ceramide complex yang memperkuat skin barrier
+54	Wadah moisturizer ini mengandung recombinant collagen and ceramide complex yang memperkuat skin barrier
+55	Wadah moisturizer ini mengandung recombinant collagen and ceramide complex yang memperkuat skin barrier Moisturizer ini diperuntukkan untuk semua tipe kulit dan sudah dipercaya oleh dermatologi
+56	Wadah moisturizer ini mengandung recombinant collagen and ceramide complex yang memperkuat skin barrier Moisturizer ini diperuntukkan untuk semua tipe kulit dan sudah dipercaya oleh dermatologi
+57	Moisturizer ini diperuntukkan untuk semua tipe kulit dan sudah dipercaya oleh dermatologi
+58	Moisturizer ini diperuntukkan untuk semua tipe kulit dan sudah dipercaya oleh dermatologi
+59	Moisturizer ini diperuntukkan untuk semua tipe kulit dan sudah dipercaya oleh dermatologi
+60	Moisturizer ini diperuntukkan untuk semua tipe kulit dan sudah dipercaya oleh dermatologi
+61	Moisturizer ini diperuntukkan untuk semua tipe kulit dan sudah dipercaya oleh dermatologi
+62	Moisturizer ini diperuntukkan untuk semua tipe kulit dan sudah dipercaya oleh dermatologi
+63	Moisturizer ini diperuntukkan untuk semua tipe kulit dan sudah dipercaya oleh dermatologi
+64	Moisturizer ini diperuntukkan untuk semua tipe kulit dan sudah dipercaya oleh dermatologi
+65	Moisturizer ini diperuntukkan untuk semua tipe kulit dan sudah dipercaya oleh dermatologi
+66	Moisturizer ini diperuntukkan untuk semua tipe kulit dan sudah dipercaya oleh dermatologi Jadi kalian gak perlu khawatir ya
+67	Moisturizer ini diperuntukkan untuk semua tipe kulit dan sudah dipercaya oleh dermatologi Jadi kalian gak perlu khawatir ya
+68	Jadi kalian gak perlu khawatir ya
+69	Jadi kalian gak perlu khawatir ya
+70	Jadi kalian gak perlu khawatir ya Dan yang paling aku suka adalah teksturnya ini ringan dan cepat meresap
+71	Jadi kalian gak perlu khawatir ya Dan yang paling aku suka adalah teksturnya ini ringan dan cepat meresap
+72	Dan yang paling aku suka adalah teksturnya ini ringan dan cepat meresap
+73	Dan yang paling aku suka adalah teksturnya ini ringan dan cepat meresap
+74	Dan yang paling aku suka adalah teksturnya ini ringan dan cepat meresap
+75	Dan yang paling aku suka adalah teksturnya ini ringan dan cepat meresap
+76	Dan yang paling aku suka adalah teksturnya ini ringan dan cepat meresap
+77	Dan yang paling aku suka adalah teksturnya ini ringan dan cepat meresap
+78	Dan yang paling aku suka adalah teksturnya ini ringan dan cepat meresap Menjaga elastisitas, kekencangan, dan menghaluskan kulit secara intensif
+79	Dan yang paling aku suka adalah teksturnya ini ringan dan cepat meresap Menjaga elastisitas, kekencangan, dan menghaluskan kulit secara intensif
+80	Menjaga elastisitas, kekencangan, dan menghaluskan kulit secara intensif
+81	Menjaga elastisitas, kekencangan, dan menghaluskan kulit secara intensif
+82	Menjaga elastisitas, kekencangan, dan menghaluskan kulit secara intensif
+83	Menjaga elastisitas, kekencangan, dan menghaluskan kulit secara intensif
+84	Menjaga elastisitas, kekencangan, dan menghaluskan kulit secara intensif
+85	Menjaga elastisitas, kekencangan, dan menghaluskan kulit secara intensif
+86	Menjaga elastisitas, kekencangan, dan menghaluskan kulit secara intensif
+87	Menjaga elastisitas, kekencangan, dan menghaluskan kulit secara intensif
+88	Menjaga elastisitas, kekencangan, dan menghaluskan kulit secara intensif
+89	[NO_SPEECH]
+90	[NO_SPEECH]
+91	[NO_SPEECH]
+92	[NO_SPEECH]
+93	[NO_SPEECH]
+94	[NO_SPEECH]

@@ -1,0 +1,101 @@
+0	Jujur kaget banget loh di stopin sama bea Wardah kayak gini
+1	Jujur kaget banget loh di stopin sama bea Wardah kayak gini
+2	Jujur kaget banget loh di stopin sama bea Wardah kayak gini
+3	Jujur kaget banget loh di stopin sama bea Wardah kayak gini
+4	Jujur kaget banget loh di stopin sama bea Wardah kayak gini Jadi aku lagi main ke mall 23 Pascal Bandung
+5	Jujur kaget banget loh di stopin sama bea Wardah kayak gini Jadi aku lagi main ke mall 23 Pascal Bandung
+6	Jadi aku lagi main ke mall 23 Pascal Bandung
+7	Jadi aku lagi main ke mall 23 Pascal Bandung
+8	Jadi aku lagi main ke mall 23 Pascal Bandung
+9	Jadi aku lagi main ke mall 23 Pascal Bandung Terus lewatin booth Wardah
+10	Jadi aku lagi main ke mall 23 Pascal Bandung Terus lewatin booth Wardah
+11	Terus lewatin booth Wardah
+12	Terus lewatin booth Wardah Ternyata aku ditilang sama PatroLips
+13	Terus lewatin booth Wardah Ternyata aku ditilang sama PatroLips
+14	Ternyata aku ditilang sama PatroLips
+15	Ternyata aku ditilang sama PatroLips Untung aja di tas aku sedia lip creamnya Wardah
+16	Ternyata aku ditilang sama PatroLips Untung aja di tas aku sedia lip creamnya Wardah
+17	Untung aja di tas aku sedia lip creamnya Wardah
+18	Untung aja di tas aku sedia lip creamnya Wardah
+19	Untung aja di tas aku sedia lip creamnya Wardah
+20	Untung aja di tas aku sedia lip creamnya Wardah Jadi aku langsung dapet hadiah lipstick secara cuma-cuma loh
+21	Untung aja di tas aku sedia lip creamnya Wardah Jadi aku langsung dapet hadiah lipstick secara cuma-cuma loh
+22	Jadi aku langsung dapet hadiah lipstick secara cuma-cuma loh
+23	Jadi aku langsung dapet hadiah lipstick secara cuma-cuma loh
+24	Jadi aku langsung dapet hadiah lipstick secara cuma-cuma loh
+25	Jadi aku langsung dapet hadiah lipstick secara cuma-cuma loh
+26	Jadi aku langsung dapet hadiah lipstick secara cuma-cuma loh Nah ini dia nih lipsticknya
+27	Jadi aku langsung dapet hadiah lipstick secara cuma-cuma loh Nah ini dia nih lipsticknya
+28	Nah ini dia nih lipsticknya
+29	Nah ini dia nih lipsticknya Tapi buat kamu yang gak bawa lipsticknya Wardah
+30	Nah ini dia nih lipsticknya Tapi buat kamu yang gak bawa lipsticknya Wardah
+31	Tapi buat kamu yang gak bawa lipsticknya Wardah
+32	Tapi buat kamu yang gak bawa lipsticknya Wardah
+33	Tapi buat kamu yang gak bawa lipsticknya Wardah Terang aja tetep dapet voucher langsung 25 ribu
+34	Tapi buat kamu yang gak bawa lipsticknya Wardah Terang aja tetep dapet voucher langsung 25 ribu
+35	Terang aja tetep dapet voucher langsung 25 ribu
+36	Terang aja tetep dapet voucher langsung 25 ribu
+37	Terang aja tetep dapet voucher langsung 25 ribu
+38	Terang aja tetep dapet voucher langsung 25 ribu Eits gak cuma disitu
+39	Terang aja tetep dapet voucher langsung 25 ribu Eits gak cuma disitu
+40	Eits gak cuma disitu Ternyata ada activity yang bisa kalian lakuin di boothnya Wardah nih
+41	Eits gak cuma disitu Ternyata ada activity yang bisa kalian lakuin di boothnya Wardah nih
+42	Ternyata ada activity yang bisa kalian lakuin di boothnya Wardah nih
+43	Ternyata ada activity yang bisa kalian lakuin di boothnya Wardah nih
+44	Ternyata ada activity yang bisa kalian lakuin di boothnya Wardah nih
+45	Ternyata ada activity yang bisa kalian lakuin di boothnya Wardah nih
+46	Ternyata ada activity yang bisa kalian lakuin di boothnya Wardah nih
+47	Ternyata ada activity yang bisa kalian lakuin di boothnya Wardah nih
+48	Ternyata ada activity yang bisa kalian lakuin di boothnya Wardah nih Kayak aku lagi cobain personal color analysis
+49	Ternyata ada activity yang bisa kalian lakuin di boothnya Wardah nih Kayak aku lagi cobain personal color analysis
+50	Kayak aku lagi cobain personal color analysis
+51	Kayak aku lagi cobain personal color analysis
+52	Kayak aku lagi cobain personal color analysis Ternyata aku masuknya ke Cool Summer
+53	Kayak aku lagi cobain personal color analysis Ternyata aku masuknya ke Cool Summer
+54	Ternyata aku masuknya ke Cool Summer
+55	Ternyata aku masuknya ke Cool Summer
+56	Ternyata aku masuknya ke Cool Summer Nah terus abis itu kita juga dapet reportnya
+57	Ternyata aku masuknya ke Cool Summer Nah terus abis itu kita juga dapet reportnya
+58	Nah terus abis itu kita juga dapet reportnya
+59	Nah terus abis itu kita juga dapet reportnya
+60	Nah terus abis itu kita juga dapet reportnya
+61	Nah terus abis itu kita juga dapet reportnya
+62	Nah terus abis itu kita juga dapet reportnya Namanya Lipbrary
+63	Nah terus abis itu kita juga dapet reportnya Namanya Lipbrary
+64	Namanya Lipbrary Jadi kita gak bingung lagi dia pake shade yang mana
+65	Namanya Lipbrary Jadi kita gak bingung lagi dia pake shade yang mana
+66	Jadi kita gak bingung lagi dia pake shade yang mana
+67	Jadi kita gak bingung lagi dia pake shade yang mana
+68	Jadi kita gak bingung lagi dia pake shade yang mana By the way di bulan Agustus ini
+69	Jadi kita gak bingung lagi dia pake shade yang mana By the way di bulan Agustus ini
+70	By the way di bulan Agustus ini
+71	By the way di bulan Agustus ini
+72	By the way di bulan Agustus ini Wardah lagi banyak banget ngadain activity about lips
+73	By the way di bulan Agustus ini Wardah lagi banyak banget ngadain activity about lips
+74	Wardah lagi banyak banget ngadain activity about lips
+75	Wardah lagi banyak banget ngadain activity about lips
+76	Wardah lagi banyak banget ngadain activity about lips
+77	Wardah lagi banyak banget ngadain activity about lips Jadi kalo kalian mau tau harus follow Wardah Beauty Bandung
+78	Wardah lagi banyak banget ngadain activity about lips Jadi kalo kalian mau tau harus follow Wardah Beauty Bandung
+79	Jadi kalo kalian mau tau harus follow Wardah Beauty Bandung
+80	Jadi kalo kalian mau tau harus follow Wardah Beauty Bandung
+81	Jadi kalo kalian mau tau harus follow Wardah Beauty Bandung
+82	Jadi kalo kalian mau tau harus follow Wardah Beauty Bandung
+83	Jadi kalo kalian mau tau harus follow Wardah Beauty Bandung
+84	Jadi kalo kalian mau tau harus follow Wardah Beauty Bandung
+85	Jadi kalo kalian mau tau harus follow Wardah Beauty Bandung Yuk langsung aja dateng ke event Wetsons Beauty My Way
+86	Jadi kalo kalian mau tau harus follow Wardah Beauty Bandung Yuk langsung aja dateng ke event Wetsons Beauty My Way
+87	Yuk langsung aja dateng ke event Wetsons Beauty My Way
+88	Yuk langsung aja dateng ke event Wetsons Beauty My Way
+89	Yuk langsung aja dateng ke event Wetsons Beauty My Way
+90	Yuk langsung aja dateng ke event Wetsons Beauty My Way
+91	Yuk langsung aja dateng ke event Wetsons Beauty My Way Yang ada di Pascal sampe tanggal 3 Agustus nanti
+92	Yuk langsung aja dateng ke event Wetsons Beauty My Way Yang ada di Pascal sampe tanggal 3 Agustus nanti
+93	Yang ada di Pascal sampe tanggal 3 Agustus nanti
+94	Yang ada di Pascal sampe tanggal 3 Agustus nanti
+95	Yang ada di Pascal sampe tanggal 3 Agustus nanti
+96	Yang ada di Pascal sampe tanggal 3 Agustus nanti Bye bye
+97	Yang ada di Pascal sampe tanggal 3 Agustus nanti Bye bye
+98	Bye bye
+99	Bye bye
+100	[NO_SPEECH]

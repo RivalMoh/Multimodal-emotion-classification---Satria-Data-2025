@@ -1,0 +1,113 @@
+0	Katanya ibu hamil nggak boleh olahraga.
+1	Katanya ibu hamil nggak boleh olahraga.
+2	Katanya ibu hamil nggak boleh olahraga.
+3	Katanya ibu hamil nggak boleh olahraga. Eh, jangan langsung percaya ya!
+4	Eh, jangan langsung percaya ya!
+5	Eh, jangan langsung percaya ya!
+6	Eh, jangan langsung percaya ya!
+7	Eh, jangan langsung percaya ya!
+8	Eh, jangan langsung percaya ya!
+9	Justru, olahraga itu punya banyak manfaat untuk mama dan janin.
+10	Justru, olahraga itu punya banyak manfaat untuk mama dan janin.
+11	Justru, olahraga itu punya banyak manfaat untuk mama dan janin.
+12	Justru, olahraga itu punya banyak manfaat untuk mama dan janin.
+13	Justru, olahraga itu punya banyak manfaat untuk mama dan janin.
+14	Justru, olahraga itu punya banyak manfaat untuk mama dan janin.
+15	Justru, olahraga itu punya banyak manfaat untuk mama dan janin.
+16	Justru, olahraga itu punya banyak manfaat untuk mama dan janin.
+17	Justru, olahraga itu punya banyak manfaat untuk mama dan janin. Bukan dilarang, tapi malah dianjurkan.
+18	Bukan dilarang, tapi malah dianjurkan.
+19	Bukan dilarang, tapi malah dianjurkan.
+20	Bukan dilarang, tapi malah dianjurkan.
+21	Bukan dilarang, tapi malah dianjurkan.
+22	Bukan dilarang, tapi malah dianjurkan. Asalkan pilih jenis olahraga yang aman dan nyaman ya.
+23	Bukan dilarang, tapi malah dianjurkan. Asalkan pilih jenis olahraga yang aman dan nyaman ya.
+24	Asalkan pilih jenis olahraga yang aman dan nyaman ya.
+25	Asalkan pilih jenis olahraga yang aman dan nyaman ya.
+26	Asalkan pilih jenis olahraga yang aman dan nyaman ya.
+27	Asalkan pilih jenis olahraga yang aman dan nyaman ya.
+28	Asalkan pilih jenis olahraga yang aman dan nyaman ya. Yang paling simpel, moms bisa jalan santai atau jogging.
+29	Yang paling simpel, moms bisa jalan santai atau jogging.
+30	Yang paling simpel, moms bisa jalan santai atau jogging.
+31	Yang paling simpel, moms bisa jalan santai atau jogging.
+32	Yang paling simpel, moms bisa jalan santai atau jogging.
+33	Yang paling simpel, moms bisa jalan santai atau jogging.
+34	Yang paling simpel, moms bisa jalan santai atau jogging.
+35	Yang paling simpel, moms bisa jalan santai atau jogging.
+36	Yang paling simpel, moms bisa jalan santai atau jogging. Enaknya sih, pagi atau sore hari, biar nggak kepanasan.
+37	Enaknya sih, pagi atau sore hari, biar nggak kepanasan.
+38	Enaknya sih, pagi atau sore hari, biar nggak kepanasan.
+39	Enaknya sih, pagi atau sore hari, biar nggak kepanasan.
+40	Enaknya sih, pagi atau sore hari, biar nggak kepanasan.
+41	Enaknya sih, pagi atau sore hari, biar nggak kepanasan.
+42	Enaknya sih, pagi atau sore hari, biar nggak kepanasan.
+43	Enaknya sih, pagi atau sore hari, biar nggak kepanasan.
+44	Enaknya sih, pagi atau sore hari, biar nggak kepanasan. Zumba, yoga, atau pilates bareng sesama ibu hamil juga bisa lho.
+45	Zumba, yoga, atau pilates bareng sesama ibu hamil juga bisa lho.
+46	Zumba, yoga, atau pilates bareng sesama ibu hamil juga bisa lho.
+47	Zumba, yoga, atau pilates bareng sesama ibu hamil juga bisa lho.
+48	Zumba, yoga, atau pilates bareng sesama ibu hamil juga bisa lho.
+49	Zumba, yoga, atau pilates bareng sesama ibu hamil juga bisa lho.
+50	Zumba, yoga, atau pilates bareng sesama ibu hamil juga bisa lho.
+51	Zumba, yoga, atau pilates bareng sesama ibu hamil juga bisa lho.
+52	Zumba, yoga, atau pilates bareng sesama ibu hamil juga bisa lho.
+53	Zumba, yoga, atau pilates bareng sesama ibu hamil juga bisa lho. Apalagi bonusnya bisa ketemu support sistem baru.
+54	Zumba, yoga, atau pilates bareng sesama ibu hamil juga bisa lho. Apalagi bonusnya bisa ketemu support sistem baru.
+55	Zumba, yoga, atau pilates bareng sesama ibu hamil juga bisa lho. Apalagi bonusnya bisa ketemu support sistem baru.
+56	Apalagi bonusnya bisa ketemu support sistem baru.
+57	Apalagi bonusnya bisa ketemu support sistem baru.
+58	Apalagi bonusnya bisa ketemu support sistem baru.
+59	Apalagi bonusnya bisa ketemu support sistem baru.
+60	Apalagi bonusnya bisa ketemu support sistem baru. Mual dan kaki bengkak?
+61	Mual dan kaki bengkak?
+62	Mual dan kaki bengkak?
+63	Mual dan kaki bengkak?
+64	Mual dan kaki bengkak? Coba berenang deh, moms.
+65	Mual dan kaki bengkak? Coba berenang deh, moms.
+66	Coba berenang deh, moms.
+67	Coba berenang deh, moms.
+68	Coba berenang deh, moms. Tapi tetap hati-hati ya, terutama di area licin.
+69	Tapi tetap hati-hati ya, terutama di area licin.
+70	Tapi tetap hati-hati ya, terutama di area licin.
+71	Tapi tetap hati-hati ya, terutama di area licin.
+72	Tapi tetap hati-hati ya, terutama di area licin.
+73	Tapi tetap hati-hati ya, terutama di area licin.
+74	Tapi tetap hati-hati ya, terutama di area licin.
+75	Tapi tetap hati-hati ya, terutama di area licin. Menjelang lahiran, biasanya dokter sarankan latihan jongkok.
+76	Menjelang lahiran, biasanya dokter sarankan latihan jongkok.
+77	Menjelang lahiran, biasanya dokter sarankan latihan jongkok.
+78	Menjelang lahiran, biasanya dokter sarankan latihan jongkok.
+79	Menjelang lahiran, biasanya dokter sarankan latihan jongkok.
+80	Menjelang lahiran, biasanya dokter sarankan latihan jongkok.
+81	Menjelang lahiran, biasanya dokter sarankan latihan jongkok.
+82	Menjelang lahiran, biasanya dokter sarankan latihan jongkok.
+83	Menjelang lahiran, biasanya dokter sarankan latihan jongkok. Tapi jangan gerakan mendadak ya, pelan-pelan aja.
+84	Tapi jangan gerakan mendadak ya, pelan-pelan aja.
+85	Tapi jangan gerakan mendadak ya, pelan-pelan aja.
+86	Tapi jangan gerakan mendadak ya, pelan-pelan aja.
+87	Tapi jangan gerakan mendadak ya, pelan-pelan aja.
+88	Tapi jangan gerakan mendadak ya, pelan-pelan aja.
+89	Tapi jangan gerakan mendadak ya, pelan-pelan aja.
+90	Nah, kalau moms paling suka olahraga yang mana nih selama hamil?
+91	Nah, kalau moms paling suka olahraga yang mana nih selama hamil?
+92	Nah, kalau moms paling suka olahraga yang mana nih selama hamil?
+93	Nah, kalau moms paling suka olahraga yang mana nih selama hamil?
+94	Nah, kalau moms paling suka olahraga yang mana nih selama hamil?
+95	Nah, kalau moms paling suka olahraga yang mana nih selama hamil?
+96	Nah, kalau moms paling suka olahraga yang mana nih selama hamil? Share di kolom komentar ya!
+97	Nah, kalau moms paling suka olahraga yang mana nih selama hamil? Share di kolom komentar ya!
+98	Share di kolom komentar ya!
+99	Share di kolom komentar ya!
+100	Share di kolom komentar ya! Yuk, follow dan save video ini buat info kehamilan lainnya.
+101	Yuk, follow dan save video ini buat info kehamilan lainnya.
+102	Yuk, follow dan save video ini buat info kehamilan lainnya.
+103	Yuk, follow dan save video ini buat info kehamilan lainnya.
+104	Yuk, follow dan save video ini buat info kehamilan lainnya.
+105	Yuk, follow dan save video ini buat info kehamilan lainnya.
+106	Yuk, follow dan save video ini buat info kehamilan lainnya.
+107	Yuk, follow dan save video ini buat info kehamilan lainnya.
+108	[NO_SPEECH]
+109	[NO_SPEECH]
+110	[NO_SPEECH]
+111	[NO_SPEECH]
+112	[NO_SPEECH]

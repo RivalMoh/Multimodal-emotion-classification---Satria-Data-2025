@@ -1,0 +1,32 @@
+0	Mentalitas ketika bertahan, meskipun kemungkinan 0,1%, tetap kejar lawan.
+1	Mentalitas ketika bertahan, meskipun kemungkinan 0,1%, tetap kejar lawan.
+2	Mentalitas ketika bertahan, meskipun kemungkinan 0,1%, tetap kejar lawan.
+3	Mentalitas ketika bertahan, meskipun kemungkinan 0,1%, tetap kejar lawan.
+4	Mentalitas ketika bertahan, meskipun kemungkinan 0,1%, tetap kejar lawan.
+5	Mentalitas ketika bertahan, meskipun kemungkinan 0,1%, tetap kejar lawan.
+6	Mentalitas ketika bertahan, meskipun kemungkinan 0,1%, tetap kejar lawan.
+7	Mentalitas ketika bertahan, meskipun kemungkinan 0,1%, tetap kejar lawan.
+8	Mentalitas ketika bertahan, meskipun kemungkinan 0,1%, tetap kejar lawan.
+9	Mentalitas ketika bertahan, meskipun kemungkinan 0,1%, tetap kejar lawan.
+10	Mentalitas ketika bertahan, meskipun kemungkinan 0,1%, tetap kejar lawan. Setidaknya kita menekan secara pesikis, sehingga lawan tidak bisa mengeksekusi bola dengan tenang.
+11	Mentalitas ketika bertahan, meskipun kemungkinan 0,1%, tetap kejar lawan. Setidaknya kita menekan secara pesikis, sehingga lawan tidak bisa mengeksekusi bola dengan tenang.
+12	Setidaknya kita menekan secara pesikis, sehingga lawan tidak bisa mengeksekusi bola dengan tenang.
+13	Setidaknya kita menekan secara pesikis, sehingga lawan tidak bisa mengeksekusi bola dengan tenang.
+14	Setidaknya kita menekan secara pesikis, sehingga lawan tidak bisa mengeksekusi bola dengan tenang.
+15	Setidaknya kita menekan secara pesikis, sehingga lawan tidak bisa mengeksekusi bola dengan tenang.
+16	Setidaknya kita menekan secara pesikis, sehingga lawan tidak bisa mengeksekusi bola dengan tenang.
+17	Setidaknya kita menekan secara pesikis, sehingga lawan tidak bisa mengeksekusi bola dengan tenang.
+18	Setidaknya kita menekan secara pesikis, sehingga lawan tidak bisa mengeksekusi bola dengan tenang.
+19	Setidaknya kita menekan secara pesikis, sehingga lawan tidak bisa mengeksekusi bola dengan tenang.
+20	Setidaknya kita menekan secara pesikis, sehingga lawan tidak bisa mengeksekusi bola dengan tenang.
+21	Setidaknya kita menekan secara pesikis, sehingga lawan tidak bisa mengeksekusi bola dengan tenang.
+22	Setidaknya kita menekan secara pesikis, sehingga lawan tidak bisa mengeksekusi bola dengan tenang. Demikian, Futsal Tip, Salam Futsal Upgrade.
+23	Demikian, Futsal Tip, Salam Futsal Upgrade.
+24	Demikian, Futsal Tip, Salam Futsal Upgrade.
+25	Demikian, Futsal Tip, Salam Futsal Upgrade.
+26	Demikian, Futsal Tip, Salam Futsal Upgrade.
+27	Demikian, Futsal Tip, Salam Futsal Upgrade.
+28	Demikian, Futsal Tip, Salam Futsal Upgrade.
+29	Demikian, Futsal Tip, Salam Futsal Upgrade.
+30	[NO_SPEECH]
+31	[NO_SPEECH]

@@ -1,0 +1,59 @@
+0	Malam-malam lagi ngasih makan ikan, tiba-tiba ngeliat ada putih-putih di dasar kolam.
+1	Malam-malam lagi ngasih makan ikan, tiba-tiba ngeliat ada putih-putih di dasar kolam.
+2	Malam-malam lagi ngasih makan ikan, tiba-tiba ngeliat ada putih-putih di dasar kolam.
+3	Malam-malam lagi ngasih makan ikan, tiba-tiba ngeliat ada putih-putih di dasar kolam.
+4	Malam-malam lagi ngasih makan ikan, tiba-tiba ngeliat ada putih-putih di dasar kolam.
+5	Malam-malam lagi ngasih makan ikan, tiba-tiba ngeliat ada putih-putih di dasar kolam.
+6	Malam-malam lagi ngasih makan ikan, tiba-tiba ngeliat ada putih-putih di dasar kolam.
+7	Malam-malam lagi ngasih makan ikan, tiba-tiba ngeliat ada putih-putih di dasar kolam.
+8	Malam-malam lagi ngasih makan ikan, tiba-tiba ngeliat ada putih-putih di dasar kolam.
+9	Malam-malam lagi ngasih makan ikan, tiba-tiba ngeliat ada putih-putih di dasar kolam.
+10	Malam-malam lagi ngasih makan ikan, tiba-tiba ngeliat ada putih-putih di dasar kolam. Ada yang tau gak itu apa?
+11	Malam-malam lagi ngasih makan ikan, tiba-tiba ngeliat ada putih-putih di dasar kolam. Ada yang tau gak itu apa?
+12	Ada yang tau gak itu apa?
+13	Ada yang tau gak itu apa?
+14	Ada yang tau gak itu apa? Buat kalian yang nebak gigi, ya bener banget ini adalah gigi ikan koi.
+15	Ada yang tau gak itu apa? Buat kalian yang nebak gigi, ya bener banget ini adalah gigi ikan koi.
+16	Buat kalian yang nebak gigi, ya bener banget ini adalah gigi ikan koi.
+17	Buat kalian yang nebak gigi, ya bener banget ini adalah gigi ikan koi.
+18	Buat kalian yang nebak gigi, ya bener banget ini adalah gigi ikan koi.
+19	Buat kalian yang nebak gigi, ya bener banget ini adalah gigi ikan koi.
+20	Buat kalian yang nebak gigi, ya bener banget ini adalah gigi ikan koi.
+21	Buat kalian yang nebak gigi, ya bener banget ini adalah gigi ikan koi.
+22	Buat kalian yang nebak gigi, ya bener banget ini adalah gigi ikan koi.
+23	Buat kalian yang nebak gigi, ya bener banget ini adalah gigi ikan koi.
+24	Buat kalian yang nebak gigi, ya bener banget ini adalah gigi ikan koi. Jadi ikan koi punya gigi yang bentuknya kayak gigi geraham manusia.
+25	Buat kalian yang nebak gigi, ya bener banget ini adalah gigi ikan koi. Jadi ikan koi punya gigi yang bentuknya kayak gigi geraham manusia.
+26	Jadi ikan koi punya gigi yang bentuknya kayak gigi geraham manusia.
+27	Jadi ikan koi punya gigi yang bentuknya kayak gigi geraham manusia.
+28	Jadi ikan koi punya gigi yang bentuknya kayak gigi geraham manusia.
+29	Jadi ikan koi punya gigi yang bentuknya kayak gigi geraham manusia.
+30	Jadi ikan koi punya gigi yang bentuknya kayak gigi geraham manusia.
+31	Jadi ikan koi punya gigi yang bentuknya kayak gigi geraham manusia.
+32	Jadi ikan koi punya gigi yang bentuknya kayak gigi geraham manusia.
+33	Jadi ikan koi punya gigi yang bentuknya kayak gigi geraham manusia. Karena memang bentuknya seperti gigi geraham disebutnya dengan molariform.
+34	Karena memang bentuknya seperti gigi geraham disebutnya dengan molariform.
+35	Karena memang bentuknya seperti gigi geraham disebutnya dengan molariform.
+36	Karena memang bentuknya seperti gigi geraham disebutnya dengan molariform.
+37	Karena memang bentuknya seperti gigi geraham disebutnya dengan molariform.
+38	Karena memang bentuknya seperti gigi geraham disebutnya dengan molariform.
+39	Karena memang bentuknya seperti gigi geraham disebutnya dengan molariform.
+40	Karena memang bentuknya seperti gigi geraham disebutnya dengan molariform.
+41	Karena memang bentuknya seperti gigi geraham disebutnya dengan molariform. Varingal tooth ini tumbuh pada varingal bone dan bisa tanggal juga loh.
+42	Karena memang bentuknya seperti gigi geraham disebutnya dengan molariform. Varingal tooth ini tumbuh pada varingal bone dan bisa tanggal juga loh.
+43	Varingal tooth ini tumbuh pada varingal bone dan bisa tanggal juga loh.
+44	Varingal tooth ini tumbuh pada varingal bone dan bisa tanggal juga loh.
+45	Varingal tooth ini tumbuh pada varingal bone dan bisa tanggal juga loh.
+46	Varingal tooth ini tumbuh pada varingal bone dan bisa tanggal juga loh.
+47	Varingal tooth ini tumbuh pada varingal bone dan bisa tanggal juga loh.
+48	Varingal tooth ini tumbuh pada varingal bone dan bisa tanggal juga loh.
+49	Varingal tooth ini tumbuh pada varingal bone dan bisa tanggal juga loh.
+50	Varingal tooth ini tumbuh pada varingal bone dan bisa tanggal juga loh. Kalau udah tanggal bisa tumbuh lagi gak ya? Ada yang tau?
+51	Varingal tooth ini tumbuh pada varingal bone dan bisa tanggal juga loh. Kalau udah tanggal bisa tumbuh lagi gak ya? Ada yang tau?
+52	Kalau udah tanggal bisa tumbuh lagi gak ya? Ada yang tau?
+53	Kalau udah tanggal bisa tumbuh lagi gak ya? Ada yang tau?
+54	Kalau udah tanggal bisa tumbuh lagi gak ya? Ada yang tau?
+55	Kalau udah tanggal bisa tumbuh lagi gak ya? Ada yang tau?
+56	Kalau udah tanggal bisa tumbuh lagi gak ya? Ada yang tau? Tau? Tau.
+57	Kalau udah tanggal bisa tumbuh lagi gak ya? Ada yang tau? Tau? Tau.
+58	Tau? Tau.

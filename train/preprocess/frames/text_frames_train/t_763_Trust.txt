@@ -1,0 +1,189 @@
+0	Apakah olahraga bisa membantu kita itu dalam mengambil keputusan yang lebih baik dalam hidup?
+1	Apakah olahraga bisa membantu kita itu dalam mengambil keputusan yang lebih baik dalam hidup?
+2	Apakah olahraga bisa membantu kita itu dalam mengambil keputusan yang lebih baik dalam hidup?
+3	Apakah olahraga bisa membantu kita itu dalam mengambil keputusan yang lebih baik dalam hidup?
+4	Apakah olahraga bisa membantu kita itu dalam mengambil keputusan yang lebih baik dalam hidup?
+5	Apakah olahraga bisa membantu kita itu dalam mengambil keputusan yang lebih baik dalam hidup?
+6	Apakah olahraga bisa membantu kita itu dalam mengambil keputusan yang lebih baik dalam hidup?
+7	Apakah olahraga bisa membantu kita itu dalam mengambil keputusan yang lebih baik dalam hidup?
+8	Apakah olahraga bisa membantu kita itu dalam mengambil keputusan yang lebih baik dalam hidup?
+9	Apakah olahraga bisa membantu kita itu dalam mengambil keputusan yang lebih baik dalam hidup?
+10	Apakah olahraga bisa membantu kita itu dalam mengambil keputusan yang lebih baik dalam hidup?
+11	Apakah olahraga bisa membantu kita itu dalam mengambil keputusan yang lebih baik dalam hidup?
+12	Apakah olahraga bisa membantu kita itu dalam mengambil keputusan yang lebih baik dalam hidup?
+13	Sebenarnya udah banyak studi yang tunjukin, kalau di orang-orang yang obesitas, yang bleber, itu mereka itu nggak bisa mengontrol impulsif behavior.
+14	Sebenarnya udah banyak studi yang tunjukin, kalau di orang-orang yang obesitas, yang bleber, itu mereka itu nggak bisa mengontrol impulsif behavior.
+15	Sebenarnya udah banyak studi yang tunjukin, kalau di orang-orang yang obesitas, yang bleber, itu mereka itu nggak bisa mengontrol impulsif behavior.
+16	Sebenarnya udah banyak studi yang tunjukin, kalau di orang-orang yang obesitas, yang bleber, itu mereka itu nggak bisa mengontrol impulsif behavior.
+17	Sebenarnya udah banyak studi yang tunjukin, kalau di orang-orang yang obesitas, yang bleber, itu mereka itu nggak bisa mengontrol impulsif behavior.
+18	Sebenarnya udah banyak studi yang tunjukin, kalau di orang-orang yang obesitas, yang bleber, itu mereka itu nggak bisa mengontrol impulsif behavior.
+19	Sebenarnya udah banyak studi yang tunjukin, kalau di orang-orang yang obesitas, yang bleber, itu mereka itu nggak bisa mengontrol impulsif behavior.
+20	Sebenarnya udah banyak studi yang tunjukin, kalau di orang-orang yang obesitas, yang bleber, itu mereka itu nggak bisa mengontrol impulsif behavior.
+21	Sebenarnya udah banyak studi yang tunjukin, kalau di orang-orang yang obesitas, yang bleber, itu mereka itu nggak bisa mengontrol impulsif behavior.
+22	Sebenarnya udah banyak studi yang tunjukin, kalau di orang-orang yang obesitas, yang bleber, itu mereka itu nggak bisa mengontrol impulsif behavior.
+23	Sebenarnya udah banyak studi yang tunjukin, kalau di orang-orang yang obesitas, yang bleber, itu mereka itu nggak bisa mengontrol impulsif behavior.
+24	Sebenarnya udah banyak studi yang tunjukin, kalau di orang-orang yang obesitas, yang bleber, itu mereka itu nggak bisa mengontrol impulsif behavior.
+25	Sebenarnya udah banyak studi yang tunjukin, kalau di orang-orang yang obesitas, yang bleber, itu mereka itu nggak bisa mengontrol impulsif behavior.
+26	Sebenarnya udah banyak studi yang tunjukin, kalau di orang-orang yang obesitas, yang bleber, itu mereka itu nggak bisa mengontrol impulsif behavior.
+27	Sebenarnya udah banyak studi yang tunjukin, kalau di orang-orang yang obesitas, yang bleber, itu mereka itu nggak bisa mengontrol impulsif behavior.
+28	Sebenarnya udah banyak studi yang tunjukin, kalau di orang-orang yang obesitas, yang bleber, itu mereka itu nggak bisa mengontrol impulsif behavior.
+29	Sebenarnya udah banyak studi yang tunjukin, kalau di orang-orang yang obesitas, yang bleber, itu mereka itu nggak bisa mengontrol impulsif behavior.
+30	Yaitu kelakunya impulsif, contohnya gimana?
+31	Yaitu kelakunya impulsif, contohnya gimana?
+32	Yaitu kelakunya impulsif, contohnya gimana?
+33	Yaitu kelakunya impulsif, contohnya gimana?
+34	Yaitu kelakunya impulsif, contohnya gimana?
+35	Yaitu kelakunya impulsif, contohnya gimana? Lu udah tau lu obesitas, prediabetes, dan diabetes, hipertensi, dan segala macem lah.
+36	Lu udah tau lu obesitas, prediabetes, dan diabetes, hipertensi, dan segala macem lah.
+37	Lu udah tau lu obesitas, prediabetes, dan diabetes, hipertensi, dan segala macem lah.
+38	Lu udah tau lu obesitas, prediabetes, dan diabetes, hipertensi, dan segala macem lah.
+39	Lu udah tau lu obesitas, prediabetes, dan diabetes, hipertensi, dan segala macem lah.
+40	Lu udah tau lu obesitas, prediabetes, dan diabetes, hipertensi, dan segala macem lah.
+41	Lu udah tau lu obesitas, prediabetes, dan diabetes, hipertensi, dan segala macem lah.
+42	Lu udah tau lu obesitas, prediabetes, dan diabetes, hipertensi, dan segala macem lah. Tiba-tiba di depan lu ada kek.
+43	Lu udah tau lu obesitas, prediabetes, dan diabetes, hipertensi, dan segala macem lah. Tiba-tiba di depan lu ada kek.
+44	Tiba-tiba di depan lu ada kek.
+45	Tiba-tiba di depan lu ada kek.
+46	Tiba-tiba di depan lu ada kek. Lu nggak mikir lagi, lu makan aja langsung, shove into your mouth.
+47	Lu nggak mikir lagi, lu makan aja langsung, shove into your mouth.
+48	Lu nggak mikir lagi, lu makan aja langsung, shove into your mouth.
+49	Lu nggak mikir lagi, lu makan aja langsung, shove into your mouth.
+50	Lu nggak mikir lagi, lu makan aja langsung, shove into your mouth.
+51	Lu nggak mikir lagi, lu makan aja langsung, shove into your mouth.
+52	Lu nggak mikir lagi, lu makan aja langsung, shove into your mouth. Itulah contoh impulsif behavior.
+53	Lu nggak mikir lagi, lu makan aja langsung, shove into your mouth. Itulah contoh impulsif behavior.
+54	Itulah contoh impulsif behavior.
+55	Itulah contoh impulsif behavior. Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+56	Itulah contoh impulsif behavior. Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+57	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+58	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+59	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+60	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+61	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+62	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+63	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+64	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+65	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+66	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+67	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+68	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+69	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+70	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+71	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+72	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+73	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+74	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+75	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+76	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+77	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+78	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga.
+79	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga. Jadi otak mereka itu di-scan, dan mereka itu juga di-test impulsif behaviornya mereka, yaitu delay discounting, nama studinya ini.
+80	Nah, jadi di studi ini, mereka itu ngeliat di orang-orang yang obesitas, mereka itu disuruh turunin berat badan melalui perubahan pola makan dan perubahan gaya hidup melalui olahraga. Jadi otak mereka itu di-scan, dan mereka itu juga di-test impulsif behaviornya mereka, yaitu delay discounting, nama studinya ini.
+81	Jadi otak mereka itu di-scan, dan mereka itu juga di-test impulsif behaviornya mereka, yaitu delay discounting, nama studinya ini.
+82	Jadi otak mereka itu di-scan, dan mereka itu juga di-test impulsif behaviornya mereka, yaitu delay discounting, nama studinya ini.
+83	Jadi otak mereka itu di-scan, dan mereka itu juga di-test impulsif behaviornya mereka, yaitu delay discounting, nama studinya ini.
+84	Jadi otak mereka itu di-scan, dan mereka itu juga di-test impulsif behaviornya mereka, yaitu delay discounting, nama studinya ini.
+85	Jadi otak mereka itu di-scan, dan mereka itu juga di-test impulsif behaviornya mereka, yaitu delay discounting, nama studinya ini.
+86	Jadi otak mereka itu di-scan, dan mereka itu juga di-test impulsif behaviornya mereka, yaitu delay discounting, nama studinya ini.
+87	Jadi otak mereka itu di-scan, dan mereka itu juga di-test impulsif behaviornya mereka, yaitu delay discounting, nama studinya ini.
+88	Jadi otak mereka itu di-scan, dan mereka itu juga di-test impulsif behaviornya mereka, yaitu delay discounting, nama studinya ini.
+89	Jadi otak mereka itu di-scan, dan mereka itu juga di-test impulsif behaviornya mereka, yaitu delay discounting, nama studinya ini.
+90	Jadi otak mereka itu di-scan, dan mereka itu juga di-test impulsif behaviornya mereka, yaitu delay discounting, nama studinya ini.
+91	Jadi otak mereka itu di-scan, dan mereka itu juga di-test impulsif behaviornya mereka, yaitu delay discounting, nama studinya ini.
+92	Jadi otak mereka itu di-scan, dan mereka itu juga di-test impulsif behaviornya mereka, yaitu delay discounting, nama studinya ini.
+93	Jadi otak mereka itu di-scan, dan mereka itu juga di-test impulsif behaviornya mereka, yaitu delay discounting, nama studinya ini.
+94	Jadi otak mereka itu di-scan, dan mereka itu juga di-test impulsif behaviornya mereka, yaitu delay discounting, nama studinya ini.
+95	Jadi otak mereka itu di-scan, dan mereka itu juga di-test impulsif behaviornya mereka, yaitu delay discounting, nama studinya ini.
+96	Jadi otak mereka itu di-scan, dan mereka itu juga di-test impulsif behaviornya mereka, yaitu delay discounting, nama studinya ini. Jadi apa yang mereka temuin?
+97	Jadi apa yang mereka temuin?
+98	Jadi apa yang mereka temuin? Di orang-orang yang obesitas ini, dengan terjadinya penurunan berat badan, baik itu dari pola makan ataupun olahraga,
+99	Jadi apa yang mereka temuin? Di orang-orang yang obesitas ini, dengan terjadinya penurunan berat badan, baik itu dari pola makan ataupun olahraga,
+100	Di orang-orang yang obesitas ini, dengan terjadinya penurunan berat badan, baik itu dari pola makan ataupun olahraga,
+101	Di orang-orang yang obesitas ini, dengan terjadinya penurunan berat badan, baik itu dari pola makan ataupun olahraga,
+102	Di orang-orang yang obesitas ini, dengan terjadinya penurunan berat badan, baik itu dari pola makan ataupun olahraga,
+103	Di orang-orang yang obesitas ini, dengan terjadinya penurunan berat badan, baik itu dari pola makan ataupun olahraga,
+104	Di orang-orang yang obesitas ini, dengan terjadinya penurunan berat badan, baik itu dari pola makan ataupun olahraga,
+105	Di orang-orang yang obesitas ini, dengan terjadinya penurunan berat badan, baik itu dari pola makan ataupun olahraga,
+106	Di orang-orang yang obesitas ini, dengan terjadinya penurunan berat badan, baik itu dari pola makan ataupun olahraga,
+107	Di orang-orang yang obesitas ini, dengan terjadinya penurunan berat badan, baik itu dari pola makan ataupun olahraga,
+108	Di orang-orang yang obesitas ini, dengan terjadinya penurunan berat badan, baik itu dari pola makan ataupun olahraga,
+109	Di orang-orang yang obesitas ini, dengan terjadinya penurunan berat badan, baik itu dari pola makan ataupun olahraga,
+110	Di orang-orang yang obesitas ini, dengan terjadinya penurunan berat badan, baik itu dari pola makan ataupun olahraga,
+111	Di orang-orang yang obesitas ini, dengan terjadinya penurunan berat badan, baik itu dari pola makan ataupun olahraga,
+112	Di orang-orang yang obesitas ini, dengan terjadinya penurunan berat badan, baik itu dari pola makan ataupun olahraga, mereka itu lebih bisa mengontrol impulsif behaviornya mereka.
+113	Di orang-orang yang obesitas ini, dengan terjadinya penurunan berat badan, baik itu dari pola makan ataupun olahraga, mereka itu lebih bisa mengontrol impulsif behaviornya mereka.
+114	mereka itu lebih bisa mengontrol impulsif behaviornya mereka.
+115	mereka itu lebih bisa mengontrol impulsif behaviornya mereka.
+116	mereka itu lebih bisa mengontrol impulsif behaviornya mereka.
+117	mereka itu lebih bisa mengontrol impulsif behaviornya mereka.
+118	mereka itu lebih bisa mengontrol impulsif behaviornya mereka.
+119	mereka itu lebih bisa mengontrol impulsif behaviornya mereka.
+120	mereka itu lebih bisa mengontrol impulsif behaviornya mereka.
+121	mereka itu lebih bisa mengontrol impulsif behaviornya mereka. Tapi, dikhusus di bagian-bagian orang-orang yang olahraga,
+122	Tapi, dikhusus di bagian-bagian orang-orang yang olahraga,
+123	Tapi, dikhusus di bagian-bagian orang-orang yang olahraga,
+124	Tapi, dikhusus di bagian-bagian orang-orang yang olahraga,
+125	Tapi, dikhusus di bagian-bagian orang-orang yang olahraga,
+126	Tapi, dikhusus di bagian-bagian orang-orang yang olahraga,
+127	Tapi, dikhusus di bagian-bagian orang-orang yang olahraga,
+128	Tapi, dikhusus di bagian-bagian orang-orang yang olahraga,
+129	Tapi, dikhusus di bagian-bagian orang-orang yang olahraga, terjadi perubahan yang lebih unik dan lebih efektif dibandingkan dengan orang-orang yang cuma dikasih perubahan pola makan.
+130	Tapi, dikhusus di bagian-bagian orang-orang yang olahraga, terjadi perubahan yang lebih unik dan lebih efektif dibandingkan dengan orang-orang yang cuma dikasih perubahan pola makan.
+131	terjadi perubahan yang lebih unik dan lebih efektif dibandingkan dengan orang-orang yang cuma dikasih perubahan pola makan.
+132	terjadi perubahan yang lebih unik dan lebih efektif dibandingkan dengan orang-orang yang cuma dikasih perubahan pola makan.
+133	terjadi perubahan yang lebih unik dan lebih efektif dibandingkan dengan orang-orang yang cuma dikasih perubahan pola makan.
+134	terjadi perubahan yang lebih unik dan lebih efektif dibandingkan dengan orang-orang yang cuma dikasih perubahan pola makan.
+135	terjadi perubahan yang lebih unik dan lebih efektif dibandingkan dengan orang-orang yang cuma dikasih perubahan pola makan.
+136	terjadi perubahan yang lebih unik dan lebih efektif dibandingkan dengan orang-orang yang cuma dikasih perubahan pola makan.
+137	terjadi perubahan yang lebih unik dan lebih efektif dibandingkan dengan orang-orang yang cuma dikasih perubahan pola makan.
+138	terjadi perubahan yang lebih unik dan lebih efektif dibandingkan dengan orang-orang yang cuma dikasih perubahan pola makan.
+139	terjadi perubahan yang lebih unik dan lebih efektif dibandingkan dengan orang-orang yang cuma dikasih perubahan pola makan.
+140	terjadi perubahan yang lebih unik dan lebih efektif dibandingkan dengan orang-orang yang cuma dikasih perubahan pola makan.
+141	terjadi perubahan yang lebih unik dan lebih efektif dibandingkan dengan orang-orang yang cuma dikasih perubahan pola makan.
+142	terjadi perubahan yang lebih unik dan lebih efektif dibandingkan dengan orang-orang yang cuma dikasih perubahan pola makan.
+143	terjadi perubahan yang lebih unik dan lebih efektif dibandingkan dengan orang-orang yang cuma dikasih perubahan pola makan.
+144	terjadi perubahan yang lebih unik dan lebih efektif dibandingkan dengan orang-orang yang cuma dikasih perubahan pola makan.
+145	terjadi perubahan yang lebih unik dan lebih efektif dibandingkan dengan orang-orang yang cuma dikasih perubahan pola makan. Jadi bagi temen-temen yang susah mengontrol impulsif behaviornya temen-temen,
+146	Jadi bagi temen-temen yang susah mengontrol impulsif behaviornya temen-temen,
+147	Jadi bagi temen-temen yang susah mengontrol impulsif behaviornya temen-temen,
+148	Jadi bagi temen-temen yang susah mengontrol impulsif behaviornya temen-temen,
+149	Jadi bagi temen-temen yang susah mengontrol impulsif behaviornya temen-temen,
+150	Jadi bagi temen-temen yang susah mengontrol impulsif behaviornya temen-temen,
+151	Jadi bagi temen-temen yang susah mengontrol impulsif behaviornya temen-temen,
+152	Jadi bagi temen-temen yang susah mengontrol impulsif behaviornya temen-temen,
+153	Jadi bagi temen-temen yang susah mengontrol impulsif behaviornya temen-temen, yang temen-temen udah tau bahwa ini sesuatu nggak boleh gua lakuin karena kondisi badan gua yang seperti ini,
+154	Jadi bagi temen-temen yang susah mengontrol impulsif behaviornya temen-temen, yang temen-temen udah tau bahwa ini sesuatu nggak boleh gua lakuin karena kondisi badan gua yang seperti ini,
+155	yang temen-temen udah tau bahwa ini sesuatu nggak boleh gua lakuin karena kondisi badan gua yang seperti ini,
+156	yang temen-temen udah tau bahwa ini sesuatu nggak boleh gua lakuin karena kondisi badan gua yang seperti ini,
+157	yang temen-temen udah tau bahwa ini sesuatu nggak boleh gua lakuin karena kondisi badan gua yang seperti ini,
+158	yang temen-temen udah tau bahwa ini sesuatu nggak boleh gua lakuin karena kondisi badan gua yang seperti ini,
+159	yang temen-temen udah tau bahwa ini sesuatu nggak boleh gua lakuin karena kondisi badan gua yang seperti ini,
+160	yang temen-temen udah tau bahwa ini sesuatu nggak boleh gua lakuin karena kondisi badan gua yang seperti ini,
+161	yang temen-temen udah tau bahwa ini sesuatu nggak boleh gua lakuin karena kondisi badan gua yang seperti ini,
+162	yang temen-temen udah tau bahwa ini sesuatu nggak boleh gua lakuin karena kondisi badan gua yang seperti ini,
+163	yang temen-temen udah tau bahwa ini sesuatu nggak boleh gua lakuin karena kondisi badan gua yang seperti ini,
+164	yang temen-temen udah tau bahwa ini sesuatu nggak boleh gua lakuin karena kondisi badan gua yang seperti ini, saatnya temen-temen fokus ke penurunan berat badan menjadi berat badan yang ini.
+165	saatnya temen-temen fokus ke penurunan berat badan menjadi berat badan yang ini.
+166	saatnya temen-temen fokus ke penurunan berat badan menjadi berat badan yang ini.
+167	saatnya temen-temen fokus ke penurunan berat badan menjadi berat badan yang ini.
+168	saatnya temen-temen fokus ke penurunan berat badan menjadi berat badan yang ini.
+169	saatnya temen-temen fokus ke penurunan berat badan menjadi berat badan yang ini.
+170	saatnya temen-temen fokus ke penurunan berat badan menjadi berat badan yang ini.
+171	saatnya temen-temen fokus ke penurunan berat badan menjadi berat badan yang ini.
+172	saatnya temen-temen fokus ke penurunan berat badan menjadi berat badan yang ini. Jadi, ini adalah hal yang paling ideal dengan perubahan pola makan dan yang terpenting salah satunya adalah olahraga.
+173	saatnya temen-temen fokus ke penurunan berat badan menjadi berat badan yang ini. Jadi, ini adalah hal yang paling ideal dengan perubahan pola makan dan yang terpenting salah satunya adalah olahraga.
+174	Jadi, ini adalah hal yang paling ideal dengan perubahan pola makan dan yang terpenting salah satunya adalah olahraga.
+175	Jadi, ini adalah hal yang paling ideal dengan perubahan pola makan dan yang terpenting salah satunya adalah olahraga.
+176	Jadi, ini adalah hal yang paling ideal dengan perubahan pola makan dan yang terpenting salah satunya adalah olahraga.
+177	Jadi, ini adalah hal yang paling ideal dengan perubahan pola makan dan yang terpenting salah satunya adalah olahraga.
+178	Jadi, ini adalah hal yang paling ideal dengan perubahan pola makan dan yang terpenting salah satunya adalah olahraga.
+179	Jadi, ini adalah hal yang paling ideal dengan perubahan pola makan dan yang terpenting salah satunya adalah olahraga.
+180	Jadi, ini adalah hal yang paling ideal dengan perubahan pola makan dan yang terpenting salah satunya adalah olahraga.
+181	Jadi, ini adalah hal yang paling ideal dengan perubahan pola makan dan yang terpenting salah satunya adalah olahraga.
+182	Jadi, ini adalah hal yang paling ideal dengan perubahan pola makan dan yang terpenting salah satunya adalah olahraga.
+183	Jadi, ini adalah hal yang paling ideal dengan perubahan pola makan dan yang terpenting salah satunya adalah olahraga.
+184	Semoga bermanfaat.
+185	Semoga bermanfaat.
+186	Semoga bermanfaat.
+187	Semoga bermanfaat.
+188	[NO_SPEECH]

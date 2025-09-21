@@ -1,0 +1,90 @@
+0	[NO_SPEECH]
+1	[NO_SPEECH]
+2	[NO_SPEECH]
+3	[NO_SPEECH]
+4	Bagaimana cara mengurangi konsumsi garam?
+5	Bagaimana cara mengurangi konsumsi garam? Konsumsi garam berlebihan bisa meningkatkan resiko berbagai penyakit serius
+6	Bagaimana cara mengurangi konsumsi garam? Konsumsi garam berlebihan bisa meningkatkan resiko berbagai penyakit serius
+7	Konsumsi garam berlebihan bisa meningkatkan resiko berbagai penyakit serius
+8	Konsumsi garam berlebihan bisa meningkatkan resiko berbagai penyakit serius
+9	Konsumsi garam berlebihan bisa meningkatkan resiko berbagai penyakit serius
+10	Konsumsi garam berlebihan bisa meningkatkan resiko berbagai penyakit serius
+11	Konsumsi garam berlebihan bisa meningkatkan resiko berbagai penyakit serius
+12	Konsumsi garam berlebihan bisa meningkatkan resiko berbagai penyakit serius
+13	Konsumsi garam berlebihan bisa meningkatkan resiko berbagai penyakit serius seperti tekanan darah tinggi, jantung, obesitas, bahkan masalah ginjal.
+14	Konsumsi garam berlebihan bisa meningkatkan resiko berbagai penyakit serius seperti tekanan darah tinggi, jantung, obesitas, bahkan masalah ginjal.
+15	seperti tekanan darah tinggi, jantung, obesitas, bahkan masalah ginjal.
+16	seperti tekanan darah tinggi, jantung, obesitas, bahkan masalah ginjal.
+17	seperti tekanan darah tinggi, jantung, obesitas, bahkan masalah ginjal.
+18	seperti tekanan darah tinggi, jantung, obesitas, bahkan masalah ginjal.
+19	seperti tekanan darah tinggi, jantung, obesitas, bahkan masalah ginjal.
+20	seperti tekanan darah tinggi, jantung, obesitas, bahkan masalah ginjal.
+21	seperti tekanan darah tinggi, jantung, obesitas, bahkan masalah ginjal.
+22	seperti tekanan darah tinggi, jantung, obesitas, bahkan masalah ginjal.
+23	seperti tekanan darah tinggi, jantung, obesitas, bahkan masalah ginjal. Karena itu, kita perlu mulai menerapkan pola hidup sehat
+24	seperti tekanan darah tinggi, jantung, obesitas, bahkan masalah ginjal. Karena itu, kita perlu mulai menerapkan pola hidup sehat
+25	Karena itu, kita perlu mulai menerapkan pola hidup sehat
+26	Karena itu, kita perlu mulai menerapkan pola hidup sehat
+27	Karena itu, kita perlu mulai menerapkan pola hidup sehat
+28	Karena itu, kita perlu mulai menerapkan pola hidup sehat
+29	Karena itu, kita perlu mulai menerapkan pola hidup sehat dengan mengurangi konsumsi makanan tinggi garam setiap hari.
+30	Karena itu, kita perlu mulai menerapkan pola hidup sehat dengan mengurangi konsumsi makanan tinggi garam setiap hari.
+31	dengan mengurangi konsumsi makanan tinggi garam setiap hari.
+32	dengan mengurangi konsumsi makanan tinggi garam setiap hari.
+33	dengan mengurangi konsumsi makanan tinggi garam setiap hari.
+34	dengan mengurangi konsumsi makanan tinggi garam setiap hari.
+35	dengan mengurangi konsumsi makanan tinggi garam setiap hari. Cara untuk mengontrol asupan garam tanpa membuat rasa masakan atau makanan menjadi hambar
+36	dengan mengurangi konsumsi makanan tinggi garam setiap hari. Cara untuk mengontrol asupan garam tanpa membuat rasa masakan atau makanan menjadi hambar
+37	Cara untuk mengontrol asupan garam tanpa membuat rasa masakan atau makanan menjadi hambar
+38	Cara untuk mengontrol asupan garam tanpa membuat rasa masakan atau makanan menjadi hambar
+39	Cara untuk mengontrol asupan garam tanpa membuat rasa masakan atau makanan menjadi hambar
+40	Cara untuk mengontrol asupan garam tanpa membuat rasa masakan atau makanan menjadi hambar
+41	Cara untuk mengontrol asupan garam tanpa membuat rasa masakan atau makanan menjadi hambar
+42	Cara untuk mengontrol asupan garam tanpa membuat rasa masakan atau makanan menjadi hambar
+43	Cara untuk mengontrol asupan garam tanpa membuat rasa masakan atau makanan menjadi hambar
+44	Cara untuk mengontrol asupan garam tanpa membuat rasa masakan atau makanan menjadi hambar
+45	Cara untuk mengontrol asupan garam tanpa membuat rasa masakan atau makanan menjadi hambar yaitu dengan menggunakan bumbu masakan yang rendah garam.
+46	Cara untuk mengontrol asupan garam tanpa membuat rasa masakan atau makanan menjadi hambar yaitu dengan menggunakan bumbu masakan yang rendah garam.
+47	yaitu dengan menggunakan bumbu masakan yang rendah garam.
+48	yaitu dengan menggunakan bumbu masakan yang rendah garam.
+49	yaitu dengan menggunakan bumbu masakan yang rendah garam.
+50	yaitu dengan menggunakan bumbu masakan yang rendah garam.
+51	yaitu dengan menggunakan bumbu masakan yang rendah garam.
+52	yaitu dengan menggunakan bumbu masakan yang rendah garam. Pilih bumbu masakan yang 25% lebih rendah garam atau natrium
+53	yaitu dengan menggunakan bumbu masakan yang rendah garam. Pilih bumbu masakan yang 25% lebih rendah garam atau natrium
+54	Pilih bumbu masakan yang 25% lebih rendah garam atau natrium
+55	Pilih bumbu masakan yang 25% lebih rendah garam atau natrium
+56	Pilih bumbu masakan yang 25% lebih rendah garam atau natrium
+57	Pilih bumbu masakan yang 25% lebih rendah garam atau natrium
+58	Pilih bumbu masakan yang 25% lebih rendah garam atau natrium
+59	Pilih bumbu masakan yang 25% lebih rendah garam atau natrium
+60	Pilih bumbu masakan yang 25% lebih rendah garam atau natrium
+61	Pilih bumbu masakan yang 25% lebih rendah garam atau natrium serta dibuat dari daging asli pilihan, bumbu dan rempah-rempah
+62	Pilih bumbu masakan yang 25% lebih rendah garam atau natrium serta dibuat dari daging asli pilihan, bumbu dan rempah-rempah
+63	serta dibuat dari daging asli pilihan, bumbu dan rempah-rempah
+64	serta dibuat dari daging asli pilihan, bumbu dan rempah-rempah
+65	serta dibuat dari daging asli pilihan, bumbu dan rempah-rempah
+66	serta dibuat dari daging asli pilihan, bumbu dan rempah-rempah
+67	serta dibuat dari daging asli pilihan, bumbu dan rempah-rempah
+68	serta dibuat dari daging asli pilihan, bumbu dan rempah-rempah
+69	serta dibuat dari daging asli pilihan, bumbu dan rempah-rempah menghasilkan kaldu yang lezat dengan rasa asin yang lebih ringan dan rasa gurih yang pas.
+70	serta dibuat dari daging asli pilihan, bumbu dan rempah-rempah menghasilkan kaldu yang lezat dengan rasa asin yang lebih ringan dan rasa gurih yang pas.
+71	menghasilkan kaldu yang lezat dengan rasa asin yang lebih ringan dan rasa gurih yang pas.
+72	menghasilkan kaldu yang lezat dengan rasa asin yang lebih ringan dan rasa gurih yang pas.
+73	menghasilkan kaldu yang lezat dengan rasa asin yang lebih ringan dan rasa gurih yang pas.
+74	menghasilkan kaldu yang lezat dengan rasa asin yang lebih ringan dan rasa gurih yang pas.
+75	menghasilkan kaldu yang lezat dengan rasa asin yang lebih ringan dan rasa gurih yang pas.
+76	menghasilkan kaldu yang lezat dengan rasa asin yang lebih ringan dan rasa gurih yang pas.
+77	menghasilkan kaldu yang lezat dengan rasa asin yang lebih ringan dan rasa gurih yang pas.
+78	menghasilkan kaldu yang lezat dengan rasa asin yang lebih ringan dan rasa gurih yang pas.
+79	menghasilkan kaldu yang lezat dengan rasa asin yang lebih ringan dan rasa gurih yang pas.
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	[NO_SPEECH]
+83	[NO_SPEECH]
+84	[NO_SPEECH]
+85	[NO_SPEECH]
+86	[NO_SPEECH]
+87	[NO_SPEECH]
+88	[NO_SPEECH]
+89	[NO_SPEECH]

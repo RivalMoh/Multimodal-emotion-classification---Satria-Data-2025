@@ -1,0 +1,166 @@
+0	Oke, anyway, kalau misalnya kita tadi mundur habis,
+1	Oke, anyway, kalau misalnya kita tadi mundur habis,
+2	Oke, anyway, kalau misalnya kita tadi mundur habis,
+3	Oke, anyway, kalau misalnya kita tadi mundur habis,
+4	Oke, anyway, kalau misalnya kita tadi mundur habis, row ketiganya sama sekali tidak dapat space.
+5	Oke, anyway, kalau misalnya kita tadi mundur habis, row ketiganya sama sekali tidak dapat space.
+6	row ketiganya sama sekali tidak dapat space.
+7	row ketiganya sama sekali tidak dapat space.
+8	row ketiganya sama sekali tidak dapat space.
+9	row ketiganya sama sekali tidak dapat space.
+10	row ketiganya sama sekali tidak dapat space.
+11	row ketiganya sama sekali tidak dapat space.
+12	row ketiganya sama sekali tidak dapat space.
+13	row ketiganya sama sekali tidak dapat space. Lihat ya.
+14	Lihat ya. Kita ke belakang, sama sekali nggak ada space.
+15	Lihat ya. Kita ke belakang, sama sekali nggak ada space.
+16	Kita ke belakang, sama sekali nggak ada space.
+17	Kita ke belakang, sama sekali nggak ada space.
+18	Kita ke belakang, sama sekali nggak ada space.
+19	Kita ke belakang, sama sekali nggak ada space.
+20	Kita ke belakang, sama sekali nggak ada space.
+21	Kita ke belakang, sama sekali nggak ada space. Tuh, nggak mungkin bisa masuk.
+22	Tuh, nggak mungkin bisa masuk.
+23	Tuh, nggak mungkin bisa masuk. Kita harus majuin jog ini.
+24	Tuh, nggak mungkin bisa masuk. Kita harus majuin jog ini.
+25	Kita harus majuin jog ini.
+26	Kita harus majuin jog ini. Tetap sempit.
+27	Kita harus majuin jog ini. Tetap sempit.
+28	Tetap sempit.
+29	Tetap sempit.
+30	[NO_SPEECH]
+31	[NO_SPEECH]
+32	Ini kalau kita majuin sesuai ini,
+33	Ini kalau kita majuin sesuai ini,
+34	Ini kalau kita majuin sesuai ini,
+35	Ini kalau kita majuin sesuai ini,
+36	Ini kalau kita majuin sesuai ini,
+37	Ini kalau kita majuin sesuai ini,
+38	leg rest-nya juga nggak bisa dimajuin jadinya.
+39	leg rest-nya juga nggak bisa dimajuin jadinya.
+40	leg rest-nya juga nggak bisa dimajuin jadinya.
+41	leg rest-nya juga nggak bisa dimajuin jadinya.
+42	leg rest-nya juga nggak bisa dimajuin jadinya. Jog belakangnya ini harusnya bisa lebih mundur lagi.
+43	Jog belakangnya ini harusnya bisa lebih mundur lagi.
+44	Jog belakangnya ini harusnya bisa lebih mundur lagi.
+45	Jog belakangnya ini harusnya bisa lebih mundur lagi.
+46	Jog belakangnya ini harusnya bisa lebih mundur lagi.
+47	Jog belakangnya ini harusnya bisa lebih mundur lagi.
+48	Jog belakangnya ini harusnya bisa lebih mundur lagi.
+49	Jog belakangnya ini harusnya bisa lebih mundur lagi.
+50	Jog belakangnya ini harusnya bisa lebih mundur lagi. Namun, kami barusan di WA Om Giant, di Emtek,
+51	Namun, kami barusan di WA Om Giant, di Emtek,
+52	Namun, kami barusan di WA Om Giant, di Emtek,
+53	Namun, kami barusan di WA Om Giant, di Emtek,
+54	Namun, kami barusan di WA Om Giant, di Emtek,
+55	Namun, kami barusan di WA Om Giant, di Emtek,
+56	Namun, kami barusan di WA Om Giant, di Emtek,
+57	Namun, kami barusan di WA Om Giant, di Emtek,
+58	Namun, kami barusan di WA Om Giant, di Emtek, bisa modifikasi jog paling belakang ini
+59	Namun, kami barusan di WA Om Giant, di Emtek, bisa modifikasi jog paling belakang ini
+60	bisa modifikasi jog paling belakang ini
+61	bisa modifikasi jog paling belakang ini
+62	bisa modifikasi jog paling belakang ini untuk bisa lebih mundur lagi secara elektrik.
+63	bisa modifikasi jog paling belakang ini untuk bisa lebih mundur lagi secara elektrik.
+64	untuk bisa lebih mundur lagi secara elektrik.
+65	untuk bisa lebih mundur lagi secara elektrik.
+66	untuk bisa lebih mundur lagi secara elektrik.
+67	untuk bisa lebih mundur lagi secara elektrik. Ini.
+68	untuk bisa lebih mundur lagi secara elektrik. Ini. Oh, ini repot sekali.
+69	Ini. Oh, ini repot sekali.
+70	Oh, ini repot sekali.
+71	Oh, ini repot sekali.
+72	Oh, ini repot sekali. Untuk melipat kursi row ketiga masih manual maju-mundur pula.
+73	Untuk melipat kursi row ketiga masih manual maju-mundur pula.
+74	Untuk melipat kursi row ketiga masih manual maju-mundur pula.
+75	Untuk melipat kursi row ketiga masih manual maju-mundur pula.
+76	Untuk melipat kursi row ketiga masih manual maju-mundur pula.
+77	Untuk melipat kursi row ketiga masih manual maju-mundur pula.
+78	Untuk melipat kursi row ketiga masih manual maju-mundur pula.
+79	Untuk melipat kursi row ketiga masih manual maju-mundur pula.
+80	Untuk melipat kursi row ketiga masih manual maju-mundur pula.
+81	Untuk melipat kursi row ketiga masih manual maju-mundur pula. Dan luasan bagasi ini mengorbankan luasan penumpang.
+82	Untuk melipat kursi row ketiga masih manual maju-mundur pula. Dan luasan bagasi ini mengorbankan luasan penumpang.
+83	Dan luasan bagasi ini mengorbankan luasan penumpang.
+84	Dan luasan bagasi ini mengorbankan luasan penumpang.
+85	Dan luasan bagasi ini mengorbankan luasan penumpang.
+86	Dan luasan bagasi ini mengorbankan luasan penumpang.
+87	Dan luasan bagasi ini mengorbankan luasan penumpang.
+88	Dan luasan bagasi ini mengorbankan luasan penumpang.
+89	Dan luasan bagasi ini mengorbankan luasan penumpang. Ah, ternyata sekarang ada solusinya
+90	Dan luasan bagasi ini mengorbankan luasan penumpang. Ah, ternyata sekarang ada solusinya
+91	Ah, ternyata sekarang ada solusinya
+92	Ah, ternyata sekarang ada solusinya untuk membuat kabin penumpang lebih luas.
+93	Ah, ternyata sekarang ada solusinya untuk membuat kabin penumpang lebih luas.
+94	untuk membuat kabin penumpang lebih luas.
+95	untuk membuat kabin penumpang lebih luas.
+96	untuk membuat kabin penumpang lebih luas.
+97	untuk membuat kabin penumpang lebih luas. Karena Mobile Tech bisa mengubah kerepotan ini
+98	untuk membuat kabin penumpang lebih luas. Karena Mobile Tech bisa mengubah kerepotan ini
+99	Karena Mobile Tech bisa mengubah kerepotan ini
+100	Karena Mobile Tech bisa mengubah kerepotan ini
+101	Karena Mobile Tech bisa mengubah kerepotan ini
+102	Karena Mobile Tech bisa mengubah kerepotan ini
+103	Karena Mobile Tech bisa mengubah kerepotan ini
+104	Karena Mobile Tech bisa mengubah kerepotan ini dengan yang praktis-praktis saja.
+105	Karena Mobile Tech bisa mengubah kerepotan ini dengan yang praktis-praktis saja.
+106	dengan yang praktis-praktis saja.
+107	dengan yang praktis-praktis saja.
+108	dengan yang praktis-praktis saja.
+109	dengan yang praktis-praktis saja. Tinggal pencet tombol.
+110	Tinggal pencet tombol.
+111	Tinggal pencet tombol.
+112	Tinggal pencet tombol. Dan secara elektris,
+113	Tinggal pencet tombol. Dan secara elektris,
+114	Dan secara elektris,
+115	Dan secara elektris, kursi row ketiga bisa,
+116	Dan secara elektris, kursi row ketiga bisa,
+117	kursi row ketiga bisa,
+118	kursi row ketiga bisa, maju-mundur dengan mudahnya.
+119	kursi row ketiga bisa, maju-mundur dengan mudahnya.
+120	maju-mundur dengan mudahnya.
+121	maju-mundur dengan mudahnya.
+122	maju-mundur dengan mudahnya. Namun, tidak hanya maju-mundur saja.
+123	maju-mundur dengan mudahnya. Namun, tidak hanya maju-mundur saja.
+124	Namun, tidak hanya maju-mundur saja.
+125	Namun, tidak hanya maju-mundur saja.
+126	Namun, tidak hanya maju-mundur saja. Solusi Mobile Tech ini menambah rel yang di-extend ke belakang.
+127	Namun, tidak hanya maju-mundur saja. Solusi Mobile Tech ini menambah rel yang di-extend ke belakang.
+128	Solusi Mobile Tech ini menambah rel yang di-extend ke belakang.
+129	Solusi Mobile Tech ini menambah rel yang di-extend ke belakang.
+130	Solusi Mobile Tech ini menambah rel yang di-extend ke belakang.
+131	Solusi Mobile Tech ini menambah rel yang di-extend ke belakang.
+132	Solusi Mobile Tech ini menambah rel yang di-extend ke belakang.
+133	Solusi Mobile Tech ini menambah rel yang di-extend ke belakang.
+134	Solusi Mobile Tech ini menambah rel yang di-extend ke belakang.
+135	Solusi Mobile Tech ini menambah rel yang di-extend ke belakang. Jadi, kursi row ketiga ini bisa lebih mundur lagi.
+136	Solusi Mobile Tech ini menambah rel yang di-extend ke belakang. Jadi, kursi row ketiga ini bisa lebih mundur lagi.
+137	Jadi, kursi row ketiga ini bisa lebih mundur lagi.
+138	Jadi, kursi row ketiga ini bisa lebih mundur lagi.
+139	Jadi, kursi row ketiga ini bisa lebih mundur lagi.
+140	Jadi, kursi row ketiga ini bisa lebih mundur lagi.
+141	Jadi, kursi row ketiga ini bisa lebih mundur lagi.
+142	Jadi, kursi row ketiga ini bisa lebih mundur lagi.
+143	Jadi, kursi row ketiga ini bisa lebih mundur lagi. Sehingga ruang kaki lebih luas.
+144	Sehingga ruang kaki lebih luas.
+145	Sehingga ruang kaki lebih luas.
+146	Sehingga ruang kaki lebih luas.
+147	Sehingga ruang kaki lebih luas.
+148	Sehingga ruang kaki lebih luas. Merupakan solusi yang praktis, mudah,
+149	Sehingga ruang kaki lebih luas. Merupakan solusi yang praktis, mudah,
+150	Merupakan solusi yang praktis, mudah,
+151	Merupakan solusi yang praktis, mudah,
+152	Merupakan solusi yang praktis, mudah,
+153	Merupakan solusi yang praktis, mudah,
+154	Merupakan solusi yang praktis, mudah, dan tidak mengubah bentuk pabrikan.
+155	Merupakan solusi yang praktis, mudah, dan tidak mengubah bentuk pabrikan.
+156	dan tidak mengubah bentuk pabrikan.
+157	dan tidak mengubah bentuk pabrikan.
+158	dan tidak mengubah bentuk pabrikan.
+159	dan tidak mengubah bentuk pabrikan. Ayo, main ke Instagramnya Mobile Tech.
+160	dan tidak mengubah bentuk pabrikan. Ayo, main ke Instagramnya Mobile Tech.
+161	Ayo, main ke Instagramnya Mobile Tech.
+162	Ayo, main ke Instagramnya Mobile Tech.
+163	Ayo, main ke Instagramnya Mobile Tech.
+164	Ayo, main ke Instagramnya Mobile Tech.
+165	Ayo, main ke Instagramnya Mobile Tech.

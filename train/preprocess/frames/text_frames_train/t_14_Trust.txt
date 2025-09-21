@@ -1,0 +1,225 @@
+0	Lo tau BYD Ato One ini harganya berapa gak?
+1	Lo tau BYD Ato One ini harganya berapa gak?
+2	Lo tau BYD Ato One ini harganya berapa gak?
+3	Lo tau BYD Ato One ini harganya berapa gak?
+4	Lo tau BYD Ato One ini harganya berapa gak? Tau lah.
+5	Lo tau BYD Ato One ini harganya berapa gak? Tau lah. Berapa ya pak?
+6	Tau lah. Berapa ya pak?
+7	Berapa ya pak? Murah ini.
+8	Berapa ya pak? Murah ini.
+9	Start dari Rp195 juta.
+10	Start dari Rp195 juta.
+11	Start dari Rp195 juta.
+12	Start dari Rp195 juta.
+13	Start dari Rp195 juta.
+14	Start dari Rp195 juta. Sampai?
+15	Sampai?
+16	Sampai?
+17	[NO_SPEECH]
+18	Rp235 juta.
+19	Rp235 juta.
+20	Rp235 juta. Wih, luar biasa.
+21	Wih, luar biasa. Udah belajar ya?
+22	Wih, luar biasa. Udah belajar ya?
+23	Udah belajar ya?
+24	[NO_SPEECH]
+25	Murah katanya, parah.
+26	Murah katanya, parah.
+27	Murah katanya, parah. Dan ini mobil listrik yang kecil tapi pintunya lengkap pak.
+28	Murah katanya, parah. Dan ini mobil listrik yang kecil tapi pintunya lengkap pak.
+29	Dan ini mobil listrik yang kecil tapi pintunya lengkap pak.
+30	Dan ini mobil listrik yang kecil tapi pintunya lengkap pak.
+31	Dan ini mobil listrik yang kecil tapi pintunya lengkap pak.
+32	Dan ini mobil listrik yang kecil tapi pintunya lengkap pak.
+33	Dan ini mobil listrik yang kecil tapi pintunya lengkap pak. Iya.
+34	Dan ini mobil listrik yang kecil tapi pintunya lengkap pak. Iya.
+35	Iya. Di bawah Rp200 juta udah dapet Rp300 kilo.
+36	Di bawah Rp200 juta udah dapet Rp300 kilo.
+37	Di bawah Rp200 juta udah dapet Rp300 kilo.
+38	Di bawah Rp200 juta udah dapet Rp300 kilo.
+39	Di bawah Rp200 juta udah dapet Rp300 kilo. Ah, betul.
+40	Ah, betul. Tapi ada yang lebih keren lagi tau gak?
+41	Ah, betul. Tapi ada yang lebih keren lagi tau gak?
+42	Tapi ada yang lebih keren lagi tau gak?
+43	Tapi ada yang lebih keren lagi tau gak? Apa tuh?
+44	Tapi ada yang lebih keren lagi tau gak? Apa tuh? Harganya udah murah ya.
+45	Apa tuh? Harganya udah murah ya.
+46	Harganya udah murah ya. Hah.
+47	Harganya udah murah ya. Hah. Iya kan?
+48	Iya kan?
+49	Kalau kita beli, langsung dapet kaca film Solar Guard.
+50	Kalau kita beli, langsung dapet kaca film Solar Guard.
+51	Kalau kita beli, langsung dapet kaca film Solar Guard.
+52	Kalau kita beli, langsung dapet kaca film Solar Guard.
+53	Kalau kita beli, langsung dapet kaca film Solar Guard.
+54	Kalau kita beli, langsung dapet kaca film Solar Guard.
+55	Kalau kita beli, langsung dapet kaca film Solar Guard.
+56	Kalau kita beli, langsung dapet kaca film Solar Guard. Hah? Masa langsung gak?
+57	Kalau kita beli, langsung dapet kaca film Solar Guard. Hah? Masa langsung gak?
+58	Hah? Masa langsung gak? Dapet?
+59	Hah? Masa langsung gak? Dapet? Iya.
+60	Iya. Enak banget.
+61	Enak banget.
+62	Enak banget. Solar Guard udah dipercaya jadi OEMnya BYD.
+63	Solar Guard udah dipercaya jadi OEMnya BYD.
+64	Solar Guard udah dipercaya jadi OEMnya BYD.
+65	Solar Guard udah dipercaya jadi OEMnya BYD.
+66	Solar Guard udah dipercaya jadi OEMnya BYD.
+67	Solar Guard udah dipercaya jadi OEMnya BYD.
+68	Solar Guard udah dipercaya jadi OEMnya BYD.
+69	Solar Guard udah dipercaya jadi OEMnya BYD. Wuh, enak banget.
+70	Solar Guard udah dipercaya jadi OEMnya BYD. Wuh, enak banget.
+71	Wuh, enak banget.
+72	Wuh, enak banget. Tapi ya, gak cuma BYD.
+73	Tapi ya, gak cuma BYD.
+74	Tapi ya, gak cuma BYD.
+75	Tapi ya, gak cuma BYD.
+76	Tapi ya, gak cuma BYD.
+77	Tapi ya, gak cuma BYD. Apa dong? Masih ada lagi?
+78	Apa dong? Masih ada lagi?
+79	Apa dong? Masih ada lagi?
+80	Apa dong? Masih ada lagi? Masih banyak lagi.
+81	Masih banyak lagi. Oh gitu?
+82	Masih banyak lagi. Oh gitu? Mitsubishi, Finpass, Nissan juga.
+83	Oh gitu? Mitsubishi, Finpass, Nissan juga.
+84	Mitsubishi, Finpass, Nissan juga.
+85	Mitsubishi, Finpass, Nissan juga.
+86	Mitsubishi, Finpass, Nissan juga.
+87	Mitsubishi, Finpass, Nissan juga.
+88	Mitsubishi, Finpass, Nissan juga. Udah adem, keren.
+89	Mitsubishi, Finpass, Nissan juga. Udah adem, keren.
+90	Udah adem, keren.
+91	Udah adem, keren.
+92	Udah adem, keren. Yang adem pake Solar Guard pak.
+93	Yang adem pake Solar Guard pak.
+94	Yang adem pake Solar Guard pak.
+95	Yang adem pake Solar Guard pak.
+96	Yang adem pake Solar Guard pak. Tapi kalau misalkan nih, kaca film kalian belum pake Solar Guard,
+97	Tapi kalau misalkan nih, kaca film kalian belum pake Solar Guard,
+98	Tapi kalau misalkan nih, kaca film kalian belum pake Solar Guard,
+99	Tapi kalau misalkan nih, kaca film kalian belum pake Solar Guard,
+100	Tapi kalau misalkan nih, kaca film kalian belum pake Solar Guard,
+101	Tapi kalau misalkan nih, kaca film kalian belum pake Solar Guard,
+102	Tapi kalau misalkan nih, kaca film kalian belum pake Solar Guard,
+103	Tapi kalau misalkan nih, kaca film kalian belum pake Solar Guard, dihias ada promo menarik.
+104	Tapi kalau misalkan nih, kaca film kalian belum pake Solar Guard, dihias ada promo menarik.
+105	dihias ada promo menarik.
+106	dihias ada promo menarik.
+107	dihias ada promo menarik.
+108	dihias ada promo menarik. Nah, udah sampe kita di butnya Solar Guard yang ada di Pre-Function Hall 9B.
+109	Nah, udah sampe kita di butnya Solar Guard yang ada di Pre-Function Hall 9B.
+110	Nah, udah sampe kita di butnya Solar Guard yang ada di Pre-Function Hall 9B.
+111	Nah, udah sampe kita di butnya Solar Guard yang ada di Pre-Function Hall 9B.
+112	Nah, udah sampe kita di butnya Solar Guard yang ada di Pre-Function Hall 9B.
+113	Nah, udah sampe kita di butnya Solar Guard yang ada di Pre-Function Hall 9B.
+114	Nah, udah sampe kita di butnya Solar Guard yang ada di Pre-Function Hall 9B.
+115	Nah, udah sampe kita di butnya Solar Guard yang ada di Pre-Function Hall 9B.
+116	Nah, udah sampe kita di butnya Solar Guard yang ada di Pre-Function Hall 9B.
+117	Nah, udah sampe kita di butnya Solar Guard yang ada di Pre-Function Hall 9B.
+118	Nah, udah sampe kita di butnya Solar Guard yang ada di Pre-Function Hall 9B. Di sini, kita bisa langsung ngetes seberapa adem kaca film Solar Guard.
+119	Di sini, kita bisa langsung ngetes seberapa adem kaca film Solar Guard.
+120	Di sini, kita bisa langsung ngetes seberapa adem kaca film Solar Guard.
+121	Di sini, kita bisa langsung ngetes seberapa adem kaca film Solar Guard.
+122	Di sini, kita bisa langsung ngetes seberapa adem kaca film Solar Guard.
+123	Di sini, kita bisa langsung ngetes seberapa adem kaca film Solar Guard.
+124	Di sini, kita bisa langsung ngetes seberapa adem kaca film Solar Guard.
+125	Di sini, kita bisa langsung ngetes seberapa adem kaca film Solar Guard.
+126	Di sini, kita bisa langsung ngetes seberapa adem kaca film Solar Guard. Kalian juga bisa lihat langsung kaca filmnya seperti apa.
+127	Di sini, kita bisa langsung ngetes seberapa adem kaca film Solar Guard. Kalian juga bisa lihat langsung kaca filmnya seperti apa.
+128	Kalian juga bisa lihat langsung kaca filmnya seperti apa.
+129	Kalian juga bisa lihat langsung kaca filmnya seperti apa.
+130	Kalian juga bisa lihat langsung kaca filmnya seperti apa.
+131	Kalian juga bisa lihat langsung kaca filmnya seperti apa.
+132	Kalian juga bisa lihat langsung kaca filmnya seperti apa.
+133	Kalian juga bisa lihat langsung kaca filmnya seperti apa. Dan di sini, ada tumbler dari Clock Seekle.
+134	Kalian juga bisa lihat langsung kaca filmnya seperti apa. Dan di sini, ada tumbler dari Clock Seekle.
+135	Dan di sini, ada tumbler dari Clock Seekle.
+136	Dan di sini, ada tumbler dari Clock Seekle.
+137	Dan di sini, ada tumbler dari Clock Seekle.
+138	Dan di sini, ada tumbler dari Clock Seekle.
+139	Dan di sini, ada tumbler dari Clock Seekle.
+140	Dan di sini, ada tumbler dari Clock Seekle.
+141	Dan di sini, ada tumbler dari Clock Seekle. Jadi kalau kalian beli PPF Solar Guard, langsung dapet ini gratis.
+142	Dan di sini, ada tumbler dari Clock Seekle. Jadi kalau kalian beli PPF Solar Guard, langsung dapet ini gratis.
+143	Jadi kalau kalian beli PPF Solar Guard, langsung dapet ini gratis.
+144	Jadi kalau kalian beli PPF Solar Guard, langsung dapet ini gratis.
+145	Jadi kalau kalian beli PPF Solar Guard, langsung dapet ini gratis.
+146	Jadi kalau kalian beli PPF Solar Guard, langsung dapet ini gratis.
+147	Jadi kalau kalian beli PPF Solar Guard, langsung dapet ini gratis.
+148	Jadi kalau kalian beli PPF Solar Guard, langsung dapet ini gratis. Dan Solar Guard juga sudah tersebar di 76 kota di seluruh Indonesia.
+149	Jadi kalau kalian beli PPF Solar Guard, langsung dapet ini gratis. Dan Solar Guard juga sudah tersebar di 76 kota di seluruh Indonesia.
+150	Dan Solar Guard juga sudah tersebar di 76 kota di seluruh Indonesia.
+151	Dan Solar Guard juga sudah tersebar di 76 kota di seluruh Indonesia.
+152	Dan Solar Guard juga sudah tersebar di 76 kota di seluruh Indonesia.
+153	Dan Solar Guard juga sudah tersebar di 76 kota di seluruh Indonesia.
+154	Dan Solar Guard juga sudah tersebar di 76 kota di seluruh Indonesia.
+155	Dan Solar Guard juga sudah tersebar di 76 kota di seluruh Indonesia.
+156	Dan Solar Guard juga sudah tersebar di 76 kota di seluruh Indonesia.
+157	Dan Solar Guard juga sudah tersebar di 76 kota di seluruh Indonesia. Dan kita juga bisa tes seberapa kuat PPF Solar Guard dan kemampuan self-fillingnya.
+158	Dan kita juga bisa tes seberapa kuat PPF Solar Guard dan kemampuan self-fillingnya.
+159	Dan kita juga bisa tes seberapa kuat PPF Solar Guard dan kemampuan self-fillingnya.
+160	Dan kita juga bisa tes seberapa kuat PPF Solar Guard dan kemampuan self-fillingnya.
+161	Dan kita juga bisa tes seberapa kuat PPF Solar Guard dan kemampuan self-fillingnya.
+162	Dan kita juga bisa tes seberapa kuat PPF Solar Guard dan kemampuan self-fillingnya.
+163	Dan kita juga bisa tes seberapa kuat PPF Solar Guard dan kemampuan self-fillingnya.
+164	Dan kita juga bisa tes seberapa kuat PPF Solar Guard dan kemampuan self-fillingnya.
+165	Dan kita juga bisa tes seberapa kuat PPF Solar Guard dan kemampuan self-fillingnya.
+166	Dan kita juga bisa tes seberapa kuat PPF Solar Guard dan kemampuan self-fillingnya. Nah, Solar Guard berani bikin pengetesan live seperti ini karena,
+167	Dan kita juga bisa tes seberapa kuat PPF Solar Guard dan kemampuan self-fillingnya. Nah, Solar Guard berani bikin pengetesan live seperti ini karena,
+168	Nah, Solar Guard berani bikin pengetesan live seperti ini karena,
+169	Nah, Solar Guard berani bikin pengetesan live seperti ini karena,
+170	Nah, Solar Guard berani bikin pengetesan live seperti ini karena,
+171	Nah, Solar Guard berani bikin pengetesan live seperti ini karena,
+172	Nah, Solar Guard berani bikin pengetesan live seperti ini karena,
+173	Nah, Solar Guard berani bikin pengetesan live seperti ini karena, Saint Gobain sudah berusia lebih dari 3 tahun.
+174	Nah, Solar Guard berani bikin pengetesan live seperti ini karena, Saint Gobain sudah berusia lebih dari 3 tahun.
+175	Saint Gobain sudah berusia lebih dari 3 tahun.
+176	Saint Gobain sudah berusia lebih dari 3 tahun.
+177	Saint Gobain sudah berusia lebih dari 3 tahun.
+178	Saint Gobain sudah berusia lebih dari 3 tahun. 360 tahun.
+179	Saint Gobain sudah berusia lebih dari 3 tahun. 360 tahun. Dan Solar Guard sendiri di Indonesia sudah 30 tahun lebih.
+180	360 tahun. Dan Solar Guard sendiri di Indonesia sudah 30 tahun lebih.
+181	Dan Solar Guard sendiri di Indonesia sudah 30 tahun lebih.
+182	Dan Solar Guard sendiri di Indonesia sudah 30 tahun lebih.
+183	Dan Solar Guard sendiri di Indonesia sudah 30 tahun lebih.
+184	Dan Solar Guard sendiri di Indonesia sudah 30 tahun lebih.
+185	Dan Solar Guard sendiri di Indonesia sudah 30 tahun lebih.
+186	Dan Solar Guard sendiri di Indonesia sudah 30 tahun lebih. Nah, buat temen-temen yang mau pasang kaca film Solar Guard dan PPF Solar Guard,
+187	Nah, buat temen-temen yang mau pasang kaca film Solar Guard dan PPF Solar Guard,
+188	Nah, buat temen-temen yang mau pasang kaca film Solar Guard dan PPF Solar Guard,
+189	Nah, buat temen-temen yang mau pasang kaca film Solar Guard dan PPF Solar Guard,
+190	Nah, buat temen-temen yang mau pasang kaca film Solar Guard dan PPF Solar Guard,
+191	Nah, buat temen-temen yang mau pasang kaca film Solar Guard dan PPF Solar Guard,
+192	Nah, buat temen-temen yang mau pasang kaca film Solar Guard dan PPF Solar Guard,
+193	Nah, buat temen-temen yang mau pasang kaca film Solar Guard dan PPF Solar Guard, kalau kalian transaksi selama Gias 2025 ini,
+194	Nah, buat temen-temen yang mau pasang kaca film Solar Guard dan PPF Solar Guard, kalau kalian transaksi selama Gias 2025 ini,
+195	kalau kalian transaksi selama Gias 2025 ini,
+196	kalau kalian transaksi selama Gias 2025 ini,
+197	kalau kalian transaksi selama Gias 2025 ini,
+198	kalau kalian transaksi selama Gias 2025 ini,
+199	kalau kalian transaksi selama Gias 2025 ini,
+200	kalau kalian transaksi selama Gias 2025 ini, kalian bisa dapetin diskon PPF sampai dengan 10 juta rupiah.
+201	kalau kalian transaksi selama Gias 2025 ini, kalian bisa dapetin diskon PPF sampai dengan 10 juta rupiah.
+202	kalian bisa dapetin diskon PPF sampai dengan 10 juta rupiah.
+203	kalian bisa dapetin diskon PPF sampai dengan 10 juta rupiah.
+204	kalian bisa dapetin diskon PPF sampai dengan 10 juta rupiah.
+205	kalian bisa dapetin diskon PPF sampai dengan 10 juta rupiah.
+206	kalian bisa dapetin diskon PPF sampai dengan 10 juta rupiah.
+207	kalian bisa dapetin diskon PPF sampai dengan 10 juta rupiah. Dan untuk kaca film sampai dengan 50% diskonnya.
+208	kalian bisa dapetin diskon PPF sampai dengan 10 juta rupiah. Dan untuk kaca film sampai dengan 50% diskonnya.
+209	Dan untuk kaca film sampai dengan 50% diskonnya.
+210	Dan untuk kaca film sampai dengan 50% diskonnya.
+211	Dan untuk kaca film sampai dengan 50% diskonnya.
+212	Dan untuk kaca film sampai dengan 50% diskonnya.
+213	Dan untuk kaca film sampai dengan 50% diskonnya.
+214	Dan untuk kaca film sampai dengan 50% diskonnya. Gas langsung ke Gias, ke butnya Solar Guard.
+215	Dan untuk kaca film sampai dengan 50% diskonnya. Gas langsung ke Gias, ke butnya Solar Guard.
+216	Gas langsung ke Gias, ke butnya Solar Guard.
+217	Gas langsung ke Gias, ke butnya Solar Guard.
+218	Gas langsung ke Gias, ke butnya Solar Guard.
+219	Gas langsung ke Gias, ke butnya Solar Guard.
+220	Gas langsung ke Gias, ke butnya Solar Guard.
+221	Gas langsung ke Gias, ke butnya Solar Guard.
+222	[NO_SPEECH]
+223	[NO_SPEECH]
+224	[NO_SPEECH]

@@ -1,0 +1,91 @@
+0	Bang, kalau buat pemula mau mulai workout pake dumbbell tuh bagusnya pake berapa kilo dulu ya?
+1	Bang, kalau buat pemula mau mulai workout pake dumbbell tuh bagusnya pake berapa kilo dulu ya?
+2	Bang, kalau buat pemula mau mulai workout pake dumbbell tuh bagusnya pake berapa kilo dulu ya?
+3	Bang, kalau buat pemula mau mulai workout pake dumbbell tuh bagusnya pake berapa kilo dulu ya?
+4	Bang, kalau buat pemula mau mulai workout pake dumbbell tuh bagusnya pake berapa kilo dulu ya?
+5	Bang, kalau buat pemula mau mulai workout pake dumbbell tuh bagusnya pake berapa kilo dulu ya?
+6	Bang, kalau buat pemula mau mulai workout pake dumbbell tuh bagusnya pake berapa kilo dulu ya?
+7	Bang, kalau buat pemula mau mulai workout pake dumbbell tuh bagusnya pake berapa kilo dulu ya? Ah, tanya yang menarik nih.
+8	Ah, tanya yang menarik nih.
+9	Ah, tanya yang menarik nih. Sini aku jelasin.
+10	Ah, tanya yang menarik nih. Sini aku jelasin.
+11	Sini aku jelasin. Sebenernya mulai dari berapa kilo tuh tergantung kekuatan kalian masing-masing ya guys.
+12	Sini aku jelasin. Sebenernya mulai dari berapa kilo tuh tergantung kekuatan kalian masing-masing ya guys.
+13	Sebenernya mulai dari berapa kilo tuh tergantung kekuatan kalian masing-masing ya guys.
+14	Sebenernya mulai dari berapa kilo tuh tergantung kekuatan kalian masing-masing ya guys.
+15	Sebenernya mulai dari berapa kilo tuh tergantung kekuatan kalian masing-masing ya guys.
+16	Sebenernya mulai dari berapa kilo tuh tergantung kekuatan kalian masing-masing ya guys.
+17	Sebenernya mulai dari berapa kilo tuh tergantung kekuatan kalian masing-masing ya guys.
+18	Sebenernya mulai dari berapa kilo tuh tergantung kekuatan kalian masing-masing ya guys. Tapi simpelnya gini aja nih.
+19	Sebenernya mulai dari berapa kilo tuh tergantung kekuatan kalian masing-masing ya guys. Tapi simpelnya gini aja nih.
+20	Tapi simpelnya gini aja nih.
+21	Tapi simpelnya gini aja nih. Kalau misalnya kalian cowok, kalian bisa mulai pake 3-5 kilo dulu.
+22	Kalau misalnya kalian cowok, kalian bisa mulai pake 3-5 kilo dulu.
+23	Kalau misalnya kalian cowok, kalian bisa mulai pake 3-5 kilo dulu.
+24	Kalau misalnya kalian cowok, kalian bisa mulai pake 3-5 kilo dulu.
+25	Kalau misalnya kalian cowok, kalian bisa mulai pake 3-5 kilo dulu.
+26	Kalau misalnya kalian cowok, kalian bisa mulai pake 3-5 kilo dulu.
+27	Kalau misalnya kalian cowok, kalian bisa mulai pake 3-5 kilo dulu. Ini dumbbell 5 kilo.
+28	Kalau misalnya kalian cowok, kalian bisa mulai pake 3-5 kilo dulu. Ini dumbbell 5 kilo.
+29	Ini dumbbell 5 kilo. Kalau misalnya kalian cewek, kalian bisa mulai pake 1-3 kilo dulu.
+30	Ini dumbbell 5 kilo. Kalau misalnya kalian cewek, kalian bisa mulai pake 1-3 kilo dulu.
+31	Kalau misalnya kalian cewek, kalian bisa mulai pake 1-3 kilo dulu.
+32	Kalau misalnya kalian cewek, kalian bisa mulai pake 1-3 kilo dulu.
+33	Kalau misalnya kalian cewek, kalian bisa mulai pake 1-3 kilo dulu.
+34	Kalau misalnya kalian cewek, kalian bisa mulai pake 1-3 kilo dulu.
+35	Kalau misalnya kalian cewek, kalian bisa mulai pake 1-3 kilo dulu. Ini dumbbell 1 kilo, segini nih.
+36	Kalau misalnya kalian cewek, kalian bisa mulai pake 1-3 kilo dulu. Ini dumbbell 1 kilo, segini nih.
+37	Ini dumbbell 1 kilo, segini nih.
+38	Ini dumbbell 1 kilo, segini nih. Nah nanti kalian tes tuh, kalau misalnya terlalu ringan, ya kalian bisa naikin bebannya.
+39	Nah nanti kalian tes tuh, kalau misalnya terlalu ringan, ya kalian bisa naikin bebannya.
+40	Nah nanti kalian tes tuh, kalau misalnya terlalu ringan, ya kalian bisa naikin bebannya.
+41	Nah nanti kalian tes tuh, kalau misalnya terlalu ringan, ya kalian bisa naikin bebannya.
+42	Nah nanti kalian tes tuh, kalau misalnya terlalu ringan, ya kalian bisa naikin bebannya.
+43	Nah nanti kalian tes tuh, kalau misalnya terlalu ringan, ya kalian bisa naikin bebannya.
+44	Nah nanti kalian tes tuh, kalau misalnya terlalu ringan, ya kalian bisa naikin bebannya. Kalau terlalu berat, tinggal turunin.
+45	Nah nanti kalian tes tuh, kalau misalnya terlalu ringan, ya kalian bisa naikin bebannya. Kalau terlalu berat, tinggal turunin.
+46	Kalau terlalu berat, tinggal turunin.
+47	Kalau terlalu berat, tinggal turunin. Atau kalian bisa pake dumbbell yang bisa diatur bebannya kayak gini nih.
+48	Kalau terlalu berat, tinggal turunin. Atau kalian bisa pake dumbbell yang bisa diatur bebannya kayak gini nih.
+49	Atau kalian bisa pake dumbbell yang bisa diatur bebannya kayak gini nih.
+50	Atau kalian bisa pake dumbbell yang bisa diatur bebannya kayak gini nih.
+51	Atau kalian bisa pake dumbbell yang bisa diatur bebannya kayak gini nih.
+52	Atau kalian bisa pake dumbbell yang bisa diatur bebannya kayak gini nih. Karena ini bisa mulai dari 2,5 kilo sampai ke 20 kilo.
+53	Atau kalian bisa pake dumbbell yang bisa diatur bebannya kayak gini nih. Karena ini bisa mulai dari 2,5 kilo sampai ke 20 kilo.
+54	Karena ini bisa mulai dari 2,5 kilo sampai ke 20 kilo.
+55	Karena ini bisa mulai dari 2,5 kilo sampai ke 20 kilo.
+56	Karena ini bisa mulai dari 2,5 kilo sampai ke 20 kilo.
+57	Karena ini bisa mulai dari 2,5 kilo sampai ke 20 kilo.
+58	Karena ini bisa mulai dari 2,5 kilo sampai ke 20 kilo.
+59	Karena ini bisa mulai dari 2,5 kilo sampai ke 20 kilo. Ya ini mah nggak mahal sih.
+60	Karena ini bisa mulai dari 2,5 kilo sampai ke 20 kilo. Ya ini mah nggak mahal sih.
+61	Ya ini mah nggak mahal sih. Dan ongkirnya juga lumayan.
+62	Ya ini mah nggak mahal sih. Dan ongkirnya juga lumayan.
+63	Dan ongkirnya juga lumayan.
+64	Dan ongkirnya juga lumayan. Tapi ini worth it buat dipunyain buat jangka panjang.
+65	Dan ongkirnya juga lumayan. Tapi ini worth it buat dipunyain buat jangka panjang.
+66	Tapi ini worth it buat dipunyain buat jangka panjang.
+67	Tapi ini worth it buat dipunyain buat jangka panjang.
+68	Tapi ini worth it buat dipunyain buat jangka panjang.
+69	Tapi ini worth it buat dipunyain buat jangka panjang. Jadi gimana?
+70	Tapi ini worth it buat dipunyain buat jangka panjang. Jadi gimana? Kalian bisa pake dumbbell berapa kilo nih buat latihan workout di rumah?
+71	Jadi gimana? Kalian bisa pake dumbbell berapa kilo nih buat latihan workout di rumah?
+72	Kalian bisa pake dumbbell berapa kilo nih buat latihan workout di rumah?
+73	Kalian bisa pake dumbbell berapa kilo nih buat latihan workout di rumah?
+74	Kalian bisa pake dumbbell berapa kilo nih buat latihan workout di rumah?
+75	Kalian bisa pake dumbbell berapa kilo nih buat latihan workout di rumah? Coba komen di bawah ya.
+76	Kalian bisa pake dumbbell berapa kilo nih buat latihan workout di rumah? Coba komen di bawah ya.
+77	Coba komen di bawah ya.
+78	Coba komen di bawah ya. Semoga video ini bermanfaat buat kalian.
+79	Semoga video ini bermanfaat buat kalian.
+80	Semoga video ini bermanfaat buat kalian.
+81	Semoga video ini bermanfaat buat kalian. Kalau iya, bisa share ke teman-teman kalian.
+82	Semoga video ini bermanfaat buat kalian. Kalau iya, bisa share ke teman-teman kalian.
+83	Kalau iya, bisa share ke teman-teman kalian.
+84	Kalau iya, bisa share ke teman-teman kalian.
+85	Kalau iya, bisa share ke teman-teman kalian. Tetap semangat workoutnya dan stay hard.
+86	Tetap semangat workoutnya dan stay hard.
+87	Tetap semangat workoutnya dan stay hard.
+88	Tetap semangat workoutnya dan stay hard.
+89	Tetap semangat workoutnya dan stay hard.
+90	Tetap semangat workoutnya dan stay hard.

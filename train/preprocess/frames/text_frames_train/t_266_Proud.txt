@@ -1,0 +1,288 @@
+0	Kapan lagi cuma keliling-keliling doang terus dapet free product?
+1	Kapan lagi cuma keliling-keliling doang terus dapet free product?
+2	Kapan lagi cuma keliling-keliling doang terus dapet free product?
+3	Kapan lagi cuma keliling-keliling doang terus dapet free product?
+4	Kapan lagi cuma keliling-keliling doang terus dapet free product?
+5	Kapan lagi cuma keliling-keliling doang terus dapet free product? No clickbait, no gimmick, tonton video ini sampai abis biar tau caranya
+6	Kapan lagi cuma keliling-keliling doang terus dapet free product? No clickbait, no gimmick, tonton video ini sampai abis biar tau caranya
+7	No clickbait, no gimmick, tonton video ini sampai abis biar tau caranya
+8	No clickbait, no gimmick, tonton video ini sampai abis biar tau caranya
+9	No clickbait, no gimmick, tonton video ini sampai abis biar tau caranya
+10	No clickbait, no gimmick, tonton video ini sampai abis biar tau caranya
+11	No clickbait, no gimmick, tonton video ini sampai abis biar tau caranya
+12	No clickbait, no gimmick, tonton video ini sampai abis biar tau caranya
+13	No clickbait, no gimmick, tonton video ini sampai abis biar tau caranya Hai hai, ini aku lagi di acara Wardah Color First
+14	No clickbait, no gimmick, tonton video ini sampai abis biar tau caranya Hai hai, ini aku lagi di acara Wardah Color First
+15	Hai hai, ini aku lagi di acara Wardah Color First
+16	Hai hai, ini aku lagi di acara Wardah Color First
+17	Hai hai, ini aku lagi di acara Wardah Color First
+18	Hai hai, ini aku lagi di acara Wardah Color First
+19	Hai hai, ini aku lagi di acara Wardah Color First
+20	Hai hai, ini aku lagi di acara Wardah Color First Di sini kita diberi knowledge tentang personal color kita
+21	Hai hai, ini aku lagi di acara Wardah Color First Di sini kita diberi knowledge tentang personal color kita
+22	Di sini kita diberi knowledge tentang personal color kita
+23	Di sini kita diberi knowledge tentang personal color kita
+24	Di sini kita diberi knowledge tentang personal color kita
+25	Di sini kita diberi knowledge tentang personal color kita
+26	Di sini kita diberi knowledge tentang personal color kita Dengan experience yang seru di setiap zonanya
+27	Di sini kita diberi knowledge tentang personal color kita Dengan experience yang seru di setiap zonanya
+28	Dengan experience yang seru di setiap zonanya
+29	Dengan experience yang seru di setiap zonanya
+30	Dengan experience yang seru di setiap zonanya
+31	Dengan experience yang seru di setiap zonanya Nah, cara biar kita dapet free product itu
+32	Dengan experience yang seru di setiap zonanya Nah, cara biar kita dapet free product itu
+33	Nah, cara biar kita dapet free product itu
+34	Nah, cara biar kita dapet free product itu
+35	Nah, cara biar kita dapet free product itu
+36	Nah, cara biar kita dapet free product itu Kita download dulu aplikasi Beauty Scientist
+37	Nah, cara biar kita dapet free product itu Kita download dulu aplikasi Beauty Scientist
+38	Kita download dulu aplikasi Beauty Scientist
+39	Kita download dulu aplikasi Beauty Scientist
+40	Kita download dulu aplikasi Beauty Scientist
+41	Kita download dulu aplikasi Beauty Scientist
+42	Kita download dulu aplikasi Beauty Scientist Terus, scan barcode-nya di setiap zonanya
+43	Kita download dulu aplikasi Beauty Scientist Terus, scan barcode-nya di setiap zonanya
+44	Terus, scan barcode-nya di setiap zonanya
+45	Terus, scan barcode-nya di setiap zonanya
+46	Terus, scan barcode-nya di setiap zonanya
+47	Terus, scan barcode-nya di setiap zonanya Zona pertama disambut dengan nentuin season kita tuh apa sih?
+48	Terus, scan barcode-nya di setiap zonanya Zona pertama disambut dengan nentuin season kita tuh apa sih?
+49	Zona pertama disambut dengan nentuin season kita tuh apa sih?
+50	Zona pertama disambut dengan nentuin season kita tuh apa sih?
+51	Zona pertama disambut dengan nentuin season kita tuh apa sih?
+52	Zona pertama disambut dengan nentuin season kita tuh apa sih?
+53	Zona pertama disambut dengan nentuin season kita tuh apa sih?
+54	Zona pertama disambut dengan nentuin season kita tuh apa sih?
+55	Zona pertama disambut dengan nentuin season kita tuh apa sih? Nanti tinggal di foto aja kita lalu ketemu hasilnya
+56	Zona pertama disambut dengan nentuin season kita tuh apa sih? Nanti tinggal di foto aja kita lalu ketemu hasilnya
+57	Nanti tinggal di foto aja kita lalu ketemu hasilnya
+58	Nanti tinggal di foto aja kita lalu ketemu hasilnya
+59	Nanti tinggal di foto aja kita lalu ketemu hasilnya
+60	Nanti tinggal di foto aja kita lalu ketemu hasilnya
+61	Nanti tinggal di foto aja kita lalu ketemu hasilnya Zona dua diisi dengan outfit-outfit yang sesuai dengan warna yang kita banget nih
+62	Nanti tinggal di foto aja kita lalu ketemu hasilnya Zona dua diisi dengan outfit-outfit yang sesuai dengan warna yang kita banget nih
+63	Nanti tinggal di foto aja kita lalu ketemu hasilnya Zona dua diisi dengan outfit-outfit yang sesuai dengan warna yang kita banget nih
+64	Zona dua diisi dengan outfit-outfit yang sesuai dengan warna yang kita banget nih
+65	Zona dua diisi dengan outfit-outfit yang sesuai dengan warna yang kita banget nih
+66	Zona dua diisi dengan outfit-outfit yang sesuai dengan warna yang kita banget nih
+67	Zona dua diisi dengan outfit-outfit yang sesuai dengan warna yang kita banget nih
+68	Zona dua diisi dengan outfit-outfit yang sesuai dengan warna yang kita banget nih
+69	Zona dua diisi dengan outfit-outfit yang sesuai dengan warna yang kita banget nih
+70	Zona dua diisi dengan outfit-outfit yang sesuai dengan warna yang kita banget nih
+71	Zona dua diisi dengan outfit-outfit yang sesuai dengan warna yang kita banget nih
+72	Zona dua diisi dengan outfit-outfit yang sesuai dengan warna yang kita banget nih Biar makin pede buat pergi-pergi keluar
+73	Zona dua diisi dengan outfit-outfit yang sesuai dengan warna yang kita banget nih Biar makin pede buat pergi-pergi keluar
+74	Biar makin pede buat pergi-pergi keluar
+75	Biar makin pede buat pergi-pergi keluar
+76	Biar makin pede buat pergi-pergi keluar Dan juga biar kita tuh gak ngerasa kecerahan ataupun kegelapan gitu
+77	Biar makin pede buat pergi-pergi keluar Dan juga biar kita tuh gak ngerasa kecerahan ataupun kegelapan gitu
+78	Dan juga biar kita tuh gak ngerasa kecerahan ataupun kegelapan gitu
+79	Dan juga biar kita tuh gak ngerasa kecerahan ataupun kegelapan gitu
+80	Dan juga biar kita tuh gak ngerasa kecerahan ataupun kegelapan gitu
+81	Dan juga biar kita tuh gak ngerasa kecerahan ataupun kegelapan gitu
+82	Dan juga biar kita tuh gak ngerasa kecerahan ataupun kegelapan gitu
+83	Dan juga biar kita tuh gak ngerasa kecerahan ataupun kegelapan gitu
+84	Dan juga biar kita tuh gak ngerasa kecerahan ataupun kegelapan gitu
+85	Dan juga biar kita tuh gak ngerasa kecerahan ataupun kegelapan gitu Zona tiga itu buat nentuin shade cushion yang sesuai dengan tipe dan warna kulit kita
+86	Dan juga biar kita tuh gak ngerasa kecerahan ataupun kegelapan gitu Zona tiga itu buat nentuin shade cushion yang sesuai dengan tipe dan warna kulit kita
+87	Zona tiga itu buat nentuin shade cushion yang sesuai dengan tipe dan warna kulit kita
+88	Zona tiga itu buat nentuin shade cushion yang sesuai dengan tipe dan warna kulit kita
+89	Zona tiga itu buat nentuin shade cushion yang sesuai dengan tipe dan warna kulit kita
+90	Zona tiga itu buat nentuin shade cushion yang sesuai dengan tipe dan warna kulit kita
+91	Zona tiga itu buat nentuin shade cushion yang sesuai dengan tipe dan warna kulit kita
+92	Zona tiga itu buat nentuin shade cushion yang sesuai dengan tipe dan warna kulit kita
+93	Zona tiga itu buat nentuin shade cushion yang sesuai dengan tipe dan warna kulit kita
+94	Zona tiga itu buat nentuin shade cushion yang sesuai dengan tipe dan warna kulit kita
+95	Zona tiga itu buat nentuin shade cushion yang sesuai dengan tipe dan warna kulit kita Sama shade per lip-lipan
+96	Zona tiga itu buat nentuin shade cushion yang sesuai dengan tipe dan warna kulit kita Sama shade per lip-lipan
+97	Sama shade per lip-lipan
+98	Sama shade per lip-lipan
+99	Sama shade per lip-lipan Caranya juga simple banget nih, tinggal foto aja muka kita
+100	Sama shade per lip-lipan Caranya juga simple banget nih, tinggal foto aja muka kita
+101	Caranya juga simple banget nih, tinggal foto aja muka kita
+102	Caranya juga simple banget nih, tinggal foto aja muka kita
+103	Caranya juga simple banget nih, tinggal foto aja muka kita
+104	Caranya juga simple banget nih, tinggal foto aja muka kita
+105	Caranya juga simple banget nih, tinggal foto aja muka kita Terus nanti keluar deh hasilnya
+106	Caranya juga simple banget nih, tinggal foto aja muka kita Terus nanti keluar deh hasilnya
+107	Terus nanti keluar deh hasilnya
+108	Terus nanti keluar deh hasilnya
+109	Terus nanti keluar deh hasilnya Nah, zona empat ini ada area untuk personal color unhide
+110	Terus nanti keluar deh hasilnya Nah, zona empat ini ada area untuk personal color unhide
+111	Nah, zona empat ini ada area untuk personal color unhide
+112	Nah, zona empat ini ada area untuk personal color unhide
+113	Nah, zona empat ini ada area untuk personal color unhide
+114	Nah, zona empat ini ada area untuk personal color unhide
+115	Nah, zona empat ini ada area untuk personal color unhide Yang ini kita coba coba disesuaikan
+116	Nah, zona empat ini ada area untuk personal color unhide Yang ini kita coba coba disesuaikan Jadi disini ada color analysis buat yang udah beli tiketnya
+117	Yang ini kita coba coba disesuaikan Jadi disini ada color analysis buat yang udah beli tiketnya
+118	Jadi disini ada color analysis buat yang udah beli tiketnya
+119	Jadi disini ada color analysis buat yang udah beli tiketnya Yang harganya tuh cuma Rp100.000
+120	Jadi disini ada color analysis buat yang udah beli tiketnya Yang harganya tuh cuma Rp100.000
+121	Yang harganya tuh cuma Rp100.000
+122	Yang harganya tuh cuma Rp100.000
+123	Yang harganya tuh cuma Rp100.000
+124	Yang harganya tuh cuma Rp100.000 Tapi udah sold out guys katanya sampai hari terakhir
+125	Yang harganya tuh cuma Rp100.000 Tapi udah sold out guys katanya sampai hari terakhir
+126	Tapi udah sold out guys katanya sampai hari terakhir
+127	Tapi udah sold out guys katanya sampai hari terakhir
+128	Tapi udah sold out guys katanya sampai hari terakhir
+129	Tapi udah sold out guys katanya sampai hari terakhir
+130	Tapi udah sold out guys katanya sampai hari terakhir Ini aku gak bisa rekam karena emang gak punya tiketnya sih
+131	Tapi udah sold out guys katanya sampai hari terakhir Ini aku gak bisa rekam karena emang gak punya tiketnya sih
+132	Ini aku gak bisa rekam karena emang gak punya tiketnya sih
+133	Ini aku gak bisa rekam karena emang gak punya tiketnya sih
+134	Ini aku gak bisa rekam karena emang gak punya tiketnya sih
+135	Ini aku gak bisa rekam karena emang gak punya tiketnya sih
+136	Ini aku gak bisa rekam karena emang gak punya tiketnya sih Lanjut ke zona lima, itu kita disediain tester dan shade yang udah disesuaikan dengan color analysis kita
+137	Ini aku gak bisa rekam karena emang gak punya tiketnya sih Lanjut ke zona lima, itu kita disediain tester dan shade yang udah disesuaikan dengan color analysis kita
+138	Lanjut ke zona lima, itu kita disediain tester dan shade yang udah disesuaikan dengan color analysis kita
+139	Lanjut ke zona lima, itu kita disediain tester dan shade yang udah disesuaikan dengan color analysis kita
+140	Lanjut ke zona lima, itu kita disediain tester dan shade yang udah disesuaikan dengan color analysis kita
+141	Lanjut ke zona lima, itu kita disediain tester dan shade yang udah disesuaikan dengan color analysis kita
+142	Lanjut ke zona lima, itu kita disediain tester dan shade yang udah disesuaikan dengan color analysis kita
+143	Lanjut ke zona lima, itu kita disediain tester dan shade yang udah disesuaikan dengan color analysis kita
+144	Lanjut ke zona lima, itu kita disediain tester dan shade yang udah disesuaikan dengan color analysis kita
+145	Lanjut ke zona lima, itu kita disediain tester dan shade yang udah disesuaikan dengan color analysis kita
+146	Lanjut ke zona lima, itu kita disediain tester dan shade yang udah disesuaikan dengan color analysis kita
+147	Lanjut ke zona lima, itu kita disediain tester dan shade yang udah disesuaikan dengan color analysis kita
+148	Lanjut ke zona lima, itu kita disediain tester dan shade yang udah disesuaikan dengan color analysis kita
+149	Lanjut ke zona lima, itu kita disediain tester dan shade yang udah disesuaikan dengan color analysis kita Karena punya aku ini warmspring
+150	Lanjut ke zona lima, itu kita disediain tester dan shade yang udah disesuaikan dengan color analysis kita Karena punya aku ini warmspring
+151	Karena punya aku ini warmspring
+152	Karena punya aku ini warmspring
+153	Karena punya aku ini warmspring Jadinya aku coba-cobain deh per lip-lipan, blush, cushion yang udah disediain disana
+154	Karena punya aku ini warmspring Jadinya aku coba-cobain deh per lip-lipan, blush, cushion yang udah disediain disana
+155	Jadinya aku coba-cobain deh per lip-lipan, blush, cushion yang udah disediain disana
+156	Jadinya aku coba-cobain deh per lip-lipan, blush, cushion yang udah disediain disana
+157	Jadinya aku coba-cobain deh per lip-lipan, blush, cushion yang udah disediain disana
+158	Jadinya aku coba-cobain deh per lip-lipan, blush, cushion yang udah disediain disana
+159	Jadinya aku coba-cobain deh per lip-lipan, blush, cushion yang udah disediain disana
+160	Jadinya aku coba-cobain deh per lip-lipan, blush, cushion yang udah disediain disana
+161	Jadinya aku coba-cobain deh per lip-lipan, blush, cushion yang udah disediain disana
+162	Jadinya aku coba-cobain deh per lip-lipan, blush, cushion yang udah disediain disana
+163	Jadinya aku coba-cobain deh per lip-lipan, blush, cushion yang udah disediain disana Nah, di zona terakhir itu kita ditutup dengan cafe dengan dessert yang unik dan pastinya enak nih temen-temen
+164	Jadinya aku coba-cobain deh per lip-lipan, blush, cushion yang udah disediain disana Nah, di zona terakhir itu kita ditutup dengan cafe dengan dessert yang unik dan pastinya enak nih temen-temen
+165	Nah, di zona terakhir itu kita ditutup dengan cafe dengan dessert yang unik dan pastinya enak nih temen-temen
+166	Nah, di zona terakhir itu kita ditutup dengan cafe dengan dessert yang unik dan pastinya enak nih temen-temen
+167	Nah, di zona terakhir itu kita ditutup dengan cafe dengan dessert yang unik dan pastinya enak nih temen-temen
+168	Nah, di zona terakhir itu kita ditutup dengan cafe dengan dessert yang unik dan pastinya enak nih temen-temen
+169	Nah, di zona terakhir itu kita ditutup dengan cafe dengan dessert yang unik dan pastinya enak nih temen-temen
+170	Nah, di zona terakhir itu kita ditutup dengan cafe dengan dessert yang unik dan pastinya enak nih temen-temen
+171	Nah, di zona terakhir itu kita ditutup dengan cafe dengan dessert yang unik dan pastinya enak nih temen-temen
+172	Nah, di zona terakhir itu kita ditutup dengan cafe dengan dessert yang unik dan pastinya enak nih temen-temen
+173	Nah, di zona terakhir itu kita ditutup dengan cafe dengan dessert yang unik dan pastinya enak nih temen-temen
+174	Nah, di zona terakhir itu kita ditutup dengan cafe dengan dessert yang unik dan pastinya enak nih temen-temen
+175	Nah, di zona terakhir itu kita ditutup dengan cafe dengan dessert yang unik dan pastinya enak nih temen-temen Dan minumannya pun juga seger-seger
+176	Nah, di zona terakhir itu kita ditutup dengan cafe dengan dessert yang unik dan pastinya enak nih temen-temen Dan minumannya pun juga seger-seger
+177	Dan minumannya pun juga seger-seger
+178	Dan minumannya pun juga seger-seger
+179	Dan minumannya pun juga seger-seger
+180	Dan minumannya pun juga seger-seger Anyways acara ini juga dimeriahkan oleh gue star-gue star yang inspiratif
+181	Dan minumannya pun juga seger-seger Anyways acara ini juga dimeriahkan oleh gue star-gue star yang inspiratif
+182	Anyways acara ini juga dimeriahkan oleh gue star-gue star yang inspiratif
+183	Anyways acara ini juga dimeriahkan oleh gue star-gue star yang inspiratif
+184	Anyways acara ini juga dimeriahkan oleh gue star-gue star yang inspiratif
+185	Anyways acara ini juga dimeriahkan oleh gue star-gue star yang inspiratif
+186	Anyways acara ini juga dimeriahkan oleh gue star-gue star yang inspiratif
+187	Anyways acara ini juga dimeriahkan oleh gue star-gue star yang inspiratif
+188	Anyways acara ini juga dimeriahkan oleh gue star-gue star yang inspiratif Yang bikin acaranya tuh makin seru
+189	Anyways acara ini juga dimeriahkan oleh gue star-gue star yang inspiratif Yang bikin acaranya tuh makin seru
+190	Yang bikin acaranya tuh makin seru
+191	Yang bikin acaranya tuh makin seru
+192	Yang bikin acaranya tuh makin seru Kayak kemarin aku kebetulan ada Halda Arafah sama Rapod nih
+193	Yang bikin acaranya tuh makin seru Kayak kemarin aku kebetulan ada Halda Arafah sama Rapod nih
+194	Kayak kemarin aku kebetulan ada Halda Arafah sama Rapod nih
+195	Kayak kemarin aku kebetulan ada Halda Arafah sama Rapod nih
+196	Kayak kemarin aku kebetulan ada Halda Arafah sama Rapod nih
+197	Kayak kemarin aku kebetulan ada Halda Arafah sama Rapod nih
+198	Kayak kemarin aku kebetulan ada Halda Arafah sama Rapod nih
+199	Kayak kemarin aku kebetulan ada Halda Arafah sama Rapod nih Yang lagi podcast bareng-bareng di stage yang heboh banget
+200	Kayak kemarin aku kebetulan ada Halda Arafah sama Rapod nih Yang lagi podcast bareng-bareng di stage yang heboh banget
+201	Yang lagi podcast bareng-bareng di stage yang heboh banget
+202	Yang lagi podcast bareng-bareng di stage yang heboh banget
+203	Yang lagi podcast bareng-bareng di stage yang heboh banget
+204	Yang lagi podcast bareng-bareng di stage yang heboh banget
+205	Yang lagi podcast bareng-bareng di stage yang heboh banget
+206	Yang lagi podcast bareng-bareng di stage yang heboh banget Dan tiap harinya tuh bakal ada gue star yang beda-beda
+207	Yang lagi podcast bareng-bareng di stage yang heboh banget Dan tiap harinya tuh bakal ada gue star yang beda-beda
+208	Dan tiap harinya tuh bakal ada gue star yang beda-beda
+209	Dan tiap harinya tuh bakal ada gue star yang beda-beda
+210	Dan tiap harinya tuh bakal ada gue star yang beda-beda
+211	Dan tiap harinya tuh bakal ada gue star yang beda-beda
+212	Dan tiap harinya tuh bakal ada gue star yang beda-beda Anyways disini juga banyak banget promonya
+213	Dan tiap harinya tuh bakal ada gue star yang beda-beda Anyways disini juga banyak banget promonya
+214	Anyways disini juga banyak banget promonya
+215	Anyways disini juga banyak banget promonya
+216	Anyways disini juga banyak banget promonya
+217	Anyways disini juga banyak banget promonya Dari diskon 25% all items dan diskon 30% khusus rush hour
+218	Anyways disini juga banyak banget promonya Dari diskon 25% all items dan diskon 30% khusus rush hour
+219	Dari diskon 25% all items dan diskon 30% khusus rush hour
+220	Dari diskon 25% all items dan diskon 30% khusus rush hour
+221	Dari diskon 25% all items dan diskon 30% khusus rush hour
+222	Dari diskon 25% all items dan diskon 30% khusus rush hour
+223	Dari diskon 25% all items dan diskon 30% khusus rush hour
+224	Dari diskon 25% all items dan diskon 30% khusus rush hour
+225	Dari diskon 25% all items dan diskon 30% khusus rush hour
+226	Dari diskon 25% all items dan diskon 30% khusus rush hour
+227	Dari diskon 25% all items dan diskon 30% khusus rush hour
+228	Dari diskon 25% all items dan diskon 30% khusus rush hour Ada juga nih untuk free product khusus pembelian beberapa item tertentu
+229	Dari diskon 25% all items dan diskon 30% khusus rush hour Ada juga nih untuk free product khusus pembelian beberapa item tertentu
+230	Ada juga nih untuk free product khusus pembelian beberapa item tertentu
+231	Ada juga nih untuk free product khusus pembelian beberapa item tertentu
+232	Ada juga nih untuk free product khusus pembelian beberapa item tertentu
+233	Ada juga nih untuk free product khusus pembelian beberapa item tertentu
+234	Ada juga nih untuk free product khusus pembelian beberapa item tertentu
+235	Ada juga nih untuk free product khusus pembelian beberapa item tertentu
+236	Ada juga nih untuk free product khusus pembelian beberapa item tertentu
+237	Ada juga nih untuk free product khusus pembelian beberapa item tertentu
+238	Ada juga nih untuk free product khusus pembelian beberapa item tertentu Nah setelah udah nyamperin semua zona
+239	Ada juga nih untuk free product khusus pembelian beberapa item tertentu Nah setelah udah nyamperin semua zona
+240	Nah setelah udah nyamperin semua zona
+241	Nah setelah udah nyamperin semua zona
+242	Nah setelah udah nyamperin semua zona Nanti tinggal di Rhythm deh di sebelah kasir
+243	Nah setelah udah nyamperin semua zona Nanti tinggal di Rhythm deh di sebelah kasir
+244	Nanti tinggal di Rhythm deh di sebelah kasir
+245	Nanti tinggal di Rhythm deh di sebelah kasir
+246	Nanti tinggal di Rhythm deh di sebelah kasir
+247	Nanti tinggal di Rhythm deh di sebelah kasir Dan yeay aku dapet free productnya
+248	Nanti tinggal di Rhythm deh di sebelah kasir Dan yeay aku dapet free productnya
+249	Dan yeay aku dapet free productnya
+250	Dan yeay aku dapet free productnya
+251	Dan yeay aku dapet free productnya Dan ada macem-macem free product lainnya nih
+252	Dan yeay aku dapet free productnya Dan ada macem-macem free product lainnya nih
+253	Dan ada macem-macem free product lainnya nih
+254	Dan ada macem-macem free product lainnya nih
+255	Dan ada macem-macem free product lainnya nih Oh iya kalian kalo misalnya kesini jangan takut nyasar
+256	Dan ada macem-macem free product lainnya nih Oh iya kalian kalo misalnya kesini jangan takut nyasar
+257	Oh iya kalian kalo misalnya kesini jangan takut nyasar
+258	Oh iya kalian kalo misalnya kesini jangan takut nyasar
+259	Oh iya kalian kalo misalnya kesini jangan takut nyasar
+260	Oh iya kalian kalo misalnya kesini jangan takut nyasar
+261	Oh iya kalian kalo misalnya kesini jangan takut nyasar
+262	Oh iya kalian kalo misalnya kesini jangan takut nyasar Karena udah disediain nih peta-petanya
+263	Oh iya kalian kalo misalnya kesini jangan takut nyasar Karena udah disediain nih peta-petanya
+264	Karena udah disediain nih peta-petanya
+265	Karena udah disediain nih peta-petanya
+266	Karena udah disediain nih peta-petanya Ada juga di aplikasinya loh
+267	Karena udah disediain nih peta-petanya Ada juga di aplikasinya loh
+268	Ada juga di aplikasinya loh
+269	Ada juga di aplikasinya loh Event ini ada di Main Atrium Senayan City
+270	Ada juga di aplikasinya loh Event ini ada di Main Atrium Senayan City
+271	Event ini ada di Main Atrium Senayan City
+272	Event ini ada di Main Atrium Senayan City
+273	Event ini ada di Main Atrium Senayan City
+274	Event ini ada di Main Atrium Senayan City Dari tanggal 8 sampai 16 Februari 2025
+275	Event ini ada di Main Atrium Senayan City Dari tanggal 8 sampai 16 Februari 2025
+276	Dari tanggal 8 sampai 16 Februari 2025
+277	Dari tanggal 8 sampai 16 Februari 2025
+278	Dari tanggal 8 sampai 16 Februari 2025
+279	Dari tanggal 8 sampai 16 Februari 2025
+280	Dari tanggal 8 sampai 16 Februari 2025
+281	Dari tanggal 8 sampai 16 Februari 2025
+282	Dari tanggal 8 sampai 16 Februari 2025 Jangan sampai ketinggalan
+283	Jangan sampai ketinggalan
+284	Jangan sampai ketinggalan
+285	Jangan sampai ketinggalan
+286	Jangan sampai ketinggalan
+287	[NO_SPEECH]

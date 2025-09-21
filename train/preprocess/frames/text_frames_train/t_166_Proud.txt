@@ -1,0 +1,221 @@
+0	Chery sekarang punya SUV yang superior hampir di semua aspeknya.
+1	Chery sekarang punya SUV yang superior hampir di semua aspeknya.
+2	Chery sekarang punya SUV yang superior hampir di semua aspeknya.
+3	Chery sekarang punya SUV yang superior hampir di semua aspeknya.
+4	Chery sekarang punya SUV yang superior hampir di semua aspeknya.
+5	Chery sekarang punya SUV yang superior hampir di semua aspeknya. Ini dia nih, Chery Tiggo 9 CSH.
+6	Chery sekarang punya SUV yang superior hampir di semua aspeknya. Ini dia nih, Chery Tiggo 9 CSH.
+7	Ini dia nih, Chery Tiggo 9 CSH.
+8	Ini dia nih, Chery Tiggo 9 CSH.
+9	Ini dia nih, Chery Tiggo 9 CSH.
+10	Ini dia nih, Chery Tiggo 9 CSH. Mana SUV-mu? Yang ini gawat nih.
+11	Ini dia nih, Chery Tiggo 9 CSH. Mana SUV-mu? Yang ini gawat nih.
+12	Mana SUV-mu? Yang ini gawat nih.
+13	Mana SUV-mu? Yang ini gawat nih.
+14	Mana SUV-mu? Yang ini gawat nih.
+15	Mana SUV-mu? Yang ini gawat nih.
+16	Mana SUV-mu? Yang ini gawat nih.
+17	Mana SUV-mu? Yang ini gawat nih. Mobil ini pake teknologi Chery Super Hybrid.
+18	Mobil ini pake teknologi Chery Super Hybrid.
+19	Mobil ini pake teknologi Chery Super Hybrid.
+20	Mobil ini pake teknologi Chery Super Hybrid.
+21	Mobil ini pake teknologi Chery Super Hybrid. Tenaganya gak main-main, sampai dengan 619 PS dan torsinya 920 Nm.
+22	Tenaganya gak main-main, sampai dengan 619 PS dan torsinya 920 Nm.
+23	Tenaganya gak main-main, sampai dengan 619 PS dan torsinya 920 Nm.
+24	Tenaganya gak main-main, sampai dengan 619 PS dan torsinya 920 Nm.
+25	Tenaganya gak main-main, sampai dengan 619 PS dan torsinya 920 Nm.
+26	Tenaganya gak main-main, sampai dengan 619 PS dan torsinya 920 Nm.
+27	Tenaganya gak main-main, sampai dengan 619 PS dan torsinya 920 Nm.
+28	Tenaganya gak main-main, sampai dengan 619 PS dan torsinya 920 Nm.
+29	Tenaganya gak main-main, sampai dengan 619 PS dan torsinya 920 Nm.
+30	Tenaganya gak main-main, sampai dengan 619 PS dan torsinya 920 Nm. Ngeri banget.
+31	Ngeri banget.
+32	Ngeri banget.
+33	Ngeri banget. Penggeraknya all-wheel drive dan dia pake transmisi dedicated hybrid transmission.
+34	Penggeraknya all-wheel drive dan dia pake transmisi dedicated hybrid transmission.
+35	Penggeraknya all-wheel drive dan dia pake transmisi dedicated hybrid transmission.
+36	Penggeraknya all-wheel drive dan dia pake transmisi dedicated hybrid transmission.
+37	Penggeraknya all-wheel drive dan dia pake transmisi dedicated hybrid transmission.
+38	Penggeraknya all-wheel drive dan dia pake transmisi dedicated hybrid transmission.
+39	Penggeraknya all-wheel drive dan dia pake transmisi dedicated hybrid transmission.
+40	Penggeraknya all-wheel drive dan dia pake transmisi dedicated hybrid transmission. Jadi pasti gak ada lag-nya dan minim power loss.
+41	Jadi pasti gak ada lag-nya dan minim power loss.
+42	Jadi pasti gak ada lag-nya dan minim power loss.
+43	Jadi pasti gak ada lag-nya dan minim power loss.
+44	Jadi pasti gak ada lag-nya dan minim power loss.
+45	Jadi pasti gak ada lag-nya dan minim power loss.
+46	Jadi pasti gak ada lag-nya dan minim power loss. Udah gitu, 0-100 km per jam cuma butuh waktu 5,4 detik aja.
+47	Jadi pasti gak ada lag-nya dan minim power loss. Udah gitu, 0-100 km per jam cuma butuh waktu 5,4 detik aja.
+48	Udah gitu, 0-100 km per jam cuma butuh waktu 5,4 detik aja.
+49	Udah gitu, 0-100 km per jam cuma butuh waktu 5,4 detik aja.
+50	Udah gitu, 0-100 km per jam cuma butuh waktu 5,4 detik aja.
+51	Udah gitu, 0-100 km per jam cuma butuh waktu 5,4 detik aja.
+52	Udah gitu, 0-100 km per jam cuma butuh waktu 5,4 detik aja.
+53	Udah gitu, 0-100 km per jam cuma butuh waktu 5,4 detik aja. Yang bikin makin menarik lagi, dia punya kapasitas baterai yang hampir kayak mobil listrik.
+54	Udah gitu, 0-100 km per jam cuma butuh waktu 5,4 detik aja. Yang bikin makin menarik lagi, dia punya kapasitas baterai yang hampir kayak mobil listrik.
+55	Yang bikin makin menarik lagi, dia punya kapasitas baterai yang hampir kayak mobil listrik.
+56	Yang bikin makin menarik lagi, dia punya kapasitas baterai yang hampir kayak mobil listrik.
+57	Yang bikin makin menarik lagi, dia punya kapasitas baterai yang hampir kayak mobil listrik.
+58	Yang bikin makin menarik lagi, dia punya kapasitas baterai yang hampir kayak mobil listrik.
+59	Yang bikin makin menarik lagi, dia punya kapasitas baterai yang hampir kayak mobil listrik.
+60	Yang bikin makin menarik lagi, dia punya kapasitas baterai yang hampir kayak mobil listrik.
+61	Yang bikin makin menarik lagi, dia punya kapasitas baterai yang hampir kayak mobil listrik.
+62	Yang bikin makin menarik lagi, dia punya kapasitas baterai yang hampir kayak mobil listrik. 34,46 kWh.
+63	Yang bikin makin menarik lagi, dia punya kapasitas baterai yang hampir kayak mobil listrik. 34,46 kWh.
+64	34,46 kWh.
+65	34,46 kWh.
+66	34,46 kWh.
+67	34,46 kWh. Dan dengan kapasitas kayak gini, dia bisa jalan sampai dengan 180 km cuma pake EV mode aja.
+68	Dan dengan kapasitas kayak gini, dia bisa jalan sampai dengan 180 km cuma pake EV mode aja.
+69	Dan dengan kapasitas kayak gini, dia bisa jalan sampai dengan 180 km cuma pake EV mode aja.
+70	Dan dengan kapasitas kayak gini, dia bisa jalan sampai dengan 180 km cuma pake EV mode aja.
+71	Dan dengan kapasitas kayak gini, dia bisa jalan sampai dengan 180 km cuma pake EV mode aja.
+72	Dan dengan kapasitas kayak gini, dia bisa jalan sampai dengan 180 km cuma pake EV mode aja.
+73	Dan dengan kapasitas kayak gini, dia bisa jalan sampai dengan 180 km cuma pake EV mode aja.
+74	Dan dengan kapasitas kayak gini, dia bisa jalan sampai dengan 180 km cuma pake EV mode aja.
+75	Dan dengan kapasitas kayak gini, dia bisa jalan sampai dengan 180 km cuma pake EV mode aja.
+76	Dan dengan kapasitas kayak gini, dia bisa jalan sampai dengan 180 km cuma pake EV mode aja.
+77	Dan dengan kapasitas kayak gini, dia bisa jalan sampai dengan 180 km cuma pake EV mode aja. Ini lebih kayak RSN Sender ya, dia kayak mobil listrik tapi bawa generatornya sendiri.
+78	Dan dengan kapasitas kayak gini, dia bisa jalan sampai dengan 180 km cuma pake EV mode aja. Ini lebih kayak RSN Sender ya, dia kayak mobil listrik tapi bawa generatornya sendiri.
+79	Ini lebih kayak RSN Sender ya, dia kayak mobil listrik tapi bawa generatornya sendiri.
+80	Ini lebih kayak RSN Sender ya, dia kayak mobil listrik tapi bawa generatornya sendiri.
+81	Ini lebih kayak RSN Sender ya, dia kayak mobil listrik tapi bawa generatornya sendiri.
+82	Ini lebih kayak RSN Sender ya, dia kayak mobil listrik tapi bawa generatornya sendiri.
+83	Ini lebih kayak RSN Sender ya, dia kayak mobil listrik tapi bawa generatornya sendiri.
+84	Ini lebih kayak RSN Sender ya, dia kayak mobil listrik tapi bawa generatornya sendiri. Dan asiknya lagi, kapasitas baterai ini bisa dipake untuk V2L atau suplai listrik untuk kalau anda lagi camping.
+85	Ini lebih kayak RSN Sender ya, dia kayak mobil listrik tapi bawa generatornya sendiri. Dan asiknya lagi, kapasitas baterai ini bisa dipake untuk V2L atau suplai listrik untuk kalau anda lagi camping.
+86	Dan asiknya lagi, kapasitas baterai ini bisa dipake untuk V2L atau suplai listrik untuk kalau anda lagi camping.
+87	Dan asiknya lagi, kapasitas baterai ini bisa dipake untuk V2L atau suplai listrik untuk kalau anda lagi camping.
+88	Dan asiknya lagi, kapasitas baterai ini bisa dipake untuk V2L atau suplai listrik untuk kalau anda lagi camping.
+89	Dan asiknya lagi, kapasitas baterai ini bisa dipake untuk V2L atau suplai listrik untuk kalau anda lagi camping.
+90	Dan asiknya lagi, kapasitas baterai ini bisa dipake untuk V2L atau suplai listrik untuk kalau anda lagi camping.
+91	Dan asiknya lagi, kapasitas baterai ini bisa dipake untuk V2L atau suplai listrik untuk kalau anda lagi camping.
+92	Dan asiknya lagi, kapasitas baterai ini bisa dipake untuk V2L atau suplai listrik untuk kalau anda lagi camping.
+93	Dan asiknya lagi, kapasitas baterai ini bisa dipake untuk V2L atau suplai listrik untuk kalau anda lagi camping.
+94	Dan asiknya lagi, kapasitas baterai ini bisa dipake untuk V2L atau suplai listrik untuk kalau anda lagi camping.
+95	Dan asiknya lagi, kapasitas baterai ini bisa dipake untuk V2L atau suplai listrik untuk kalau anda lagi camping. Ih, mantep.
+96	Dan asiknya lagi, kapasitas baterai ini bisa dipake untuk V2L atau suplai listrik untuk kalau anda lagi camping. Ih, mantep.
+97	Ih, mantep.
+98	Ih, mantep.
+99	Ih, mantep.
+100	Hampir semua fasilitas mewah yang ada di mobil meyaran ada di mobil 700 jutaan ini.
+101	Hampir semua fasilitas mewah yang ada di mobil meyaran ada di mobil 700 jutaan ini.
+102	Hampir semua fasilitas mewah yang ada di mobil meyaran ada di mobil 700 jutaan ini.
+103	Hampir semua fasilitas mewah yang ada di mobil meyaran ada di mobil 700 jutaan ini.
+104	Hampir semua fasilitas mewah yang ada di mobil meyaran ada di mobil 700 jutaan ini.
+105	Hampir semua fasilitas mewah yang ada di mobil meyaran ada di mobil 700 jutaan ini.
+106	Hampir semua fasilitas mewah yang ada di mobil meyaran ada di mobil 700 jutaan ini.
+107	Hampir semua fasilitas mewah yang ada di mobil meyaran ada di mobil 700 jutaan ini.
+108	Hampir semua fasilitas mewah yang ada di mobil meyaran ada di mobil 700 jutaan ini. Pertama, mulai dari kursi elektrik.
+109	Hampir semua fasilitas mewah yang ada di mobil meyaran ada di mobil 700 jutaan ini. Pertama, mulai dari kursi elektrik.
+110	Pertama, mulai dari kursi elektrik.
+111	Pertama, mulai dari kursi elektrik.
+112	Pertama, mulai dari kursi elektrik. Ada panoramic sunroof yang gede banget.
+113	Pertama, mulai dari kursi elektrik. Ada panoramic sunroof yang gede banget.
+114	Ada panoramic sunroof yang gede banget.
+115	Ada panoramic sunroof yang gede banget.
+116	Ada panoramic sunroof yang gede banget. Udah gitu punya 17 sistem ADAS.
+117	Ada panoramic sunroof yang gede banget. Udah gitu punya 17 sistem ADAS.
+118	Udah gitu punya 17 sistem ADAS.
+119	Udah gitu punya 17 sistem ADAS.
+120	Udah gitu punya 17 sistem ADAS. Ditambah lagi, mobil ini bisa parkir sendiri.
+121	Udah gitu punya 17 sistem ADAS. Ditambah lagi, mobil ini bisa parkir sendiri.
+122	Ditambah lagi, mobil ini bisa parkir sendiri.
+123	Ditambah lagi, mobil ini bisa parkir sendiri.
+124	Ditambah lagi, mobil ini bisa parkir sendiri.
+125	Ditambah lagi, mobil ini bisa parkir sendiri. Dan gak kalah penting lagi,
+126	Dan gak kalah penting lagi,
+127	Dan gak kalah penting lagi,
+128	Dan gak kalah penting lagi,
+129	Dan gak kalah penting lagi, speakernya ada 14 biji dari Sony dan ada 3 buah speaker individual untuk pengemudinya aja.
+130	speakernya ada 14 biji dari Sony dan ada 3 buah speaker individual untuk pengemudinya aja.
+131	speakernya ada 14 biji dari Sony dan ada 3 buah speaker individual untuk pengemudinya aja.
+132	speakernya ada 14 biji dari Sony dan ada 3 buah speaker individual untuk pengemudinya aja.
+133	speakernya ada 14 biji dari Sony dan ada 3 buah speaker individual untuk pengemudinya aja.
+134	speakernya ada 14 biji dari Sony dan ada 3 buah speaker individual untuk pengemudinya aja.
+135	speakernya ada 14 biji dari Sony dan ada 3 buah speaker individual untuk pengemudinya aja.
+136	speakernya ada 14 biji dari Sony dan ada 3 buah speaker individual untuk pengemudinya aja.
+137	speakernya ada 14 biji dari Sony dan ada 3 buah speaker individual untuk pengemudinya aja.
+138	speakernya ada 14 biji dari Sony dan ada 3 buah speaker individual untuk pengemudinya aja.
+139	speakernya ada 14 biji dari Sony dan ada 3 buah speaker individual untuk pengemudinya aja.
+140	speakernya ada 14 biji dari Sony dan ada 3 buah speaker individual untuk pengemudinya aja.
+141	speakernya ada 14 biji dari Sony dan ada 3 buah speaker individual untuk pengemudinya aja. Udah gitu ke depan kabinnya juga luar biasa karena kaca depannya ini ternyata pake double glass.
+142	Udah gitu ke depan kabinnya juga luar biasa karena kaca depannya ini ternyata pake double glass.
+143	Udah gitu ke depan kabinnya juga luar biasa karena kaca depannya ini ternyata pake double glass.
+144	Udah gitu ke depan kabinnya juga luar biasa karena kaca depannya ini ternyata pake double glass.
+145	Udah gitu ke depan kabinnya juga luar biasa karena kaca depannya ini ternyata pake double glass.
+146	Udah gitu ke depan kabinnya juga luar biasa karena kaca depannya ini ternyata pake double glass.
+147	Udah gitu ke depan kabinnya juga luar biasa karena kaca depannya ini ternyata pake double glass.
+148	Udah gitu ke depan kabinnya juga luar biasa karena kaca depannya ini ternyata pake double glass.
+149	Udah gitu ke depan kabinnya juga luar biasa karena kaca depannya ini ternyata pake double glass. Jadi kabinnya luar biasa nyaman.
+150	Udah gitu ke depan kabinnya juga luar biasa karena kaca depannya ini ternyata pake double glass. Jadi kabinnya luar biasa nyaman.
+151	Jadi kabinnya luar biasa nyaman.
+152	Jadi kabinnya luar biasa nyaman.
+153	Jadi kabinnya luar biasa nyaman.
+154	Jadi kabinnya luar biasa nyaman. Kalau pengen privasi lebih, tinggal naikin tirai aja.
+155	Kalau pengen privasi lebih, tinggal naikin tirai aja.
+156	Kalau pengen privasi lebih, tinggal naikin tirai aja.
+157	Kalau pengen privasi lebih, tinggal naikin tirai aja.
+158	Kalau pengen privasi lebih, tinggal naikin tirai aja.
+159	Kalau pengen privasi lebih, tinggal naikin tirai aja. Ditambah lagi, keselamatan juga main-main karena dia pake standar hampir di semua negara dan secara global.
+160	Ditambah lagi, keselamatan juga main-main karena dia pake standar hampir di semua negara dan secara global.
+161	Ditambah lagi, keselamatan juga main-main karena dia pake standar hampir di semua negara dan secara global.
+162	Ditambah lagi, keselamatan juga main-main karena dia pake standar hampir di semua negara dan secara global.
+163	Ditambah lagi, keselamatan juga main-main karena dia pake standar hampir di semua negara dan secara global.
+164	Ditambah lagi, keselamatan juga main-main karena dia pake standar hampir di semua negara dan secara global.
+165	Ditambah lagi, keselamatan juga main-main karena dia pake standar hampir di semua negara dan secara global.
+166	Ditambah lagi, keselamatan juga main-main karena dia pake standar hampir di semua negara dan secara global.
+167	Ditambah lagi, keselamatan juga main-main karena dia pake standar hampir di semua negara dan secara global.
+168	Ditambah lagi, keselamatan juga main-main karena dia pake standar hampir di semua negara dan secara global.
+169	Ditambah lagi, keselamatan juga main-main karena dia pake standar hampir di semua negara dan secara global.
+170	Ditambah lagi, keselamatan juga main-main karena dia pake standar hampir di semua negara dan secara global.
+171	Ditambah lagi, keselamatan juga main-main karena dia pake standar hampir di semua negara dan secara global. Jadi, kalau mau pake standar, pake standar hampir di semua negara dan secara global.
+172	Ditambah lagi, keselamatan juga main-main karena dia pake standar hampir di semua negara dan secara global. Jadi, kalau mau pake standar, pake standar hampir di semua negara dan secara global. Dia adalah mobil yang melakukan crash test paling banyak untuk memastikan keselamatannya.
+173	Jadi, kalau mau pake standar, pake standar hampir di semua negara dan secara global. Dia adalah mobil yang melakukan crash test paling banyak untuk memastikan keselamatannya.
+174	Dia adalah mobil yang melakukan crash test paling banyak untuk memastikan keselamatannya.
+175	Dia adalah mobil yang melakukan crash test paling banyak untuk memastikan keselamatannya.
+176	Dia adalah mobil yang melakukan crash test paling banyak untuk memastikan keselamatannya.
+177	Dia adalah mobil yang melakukan crash test paling banyak untuk memastikan keselamatannya.
+178	Dia adalah mobil yang melakukan crash test paling banyak untuk memastikan keselamatannya.
+179	Dia adalah mobil yang melakukan crash test paling banyak untuk memastikan keselamatannya.
+180	Dia adalah mobil yang melakukan crash test paling banyak untuk memastikan keselamatannya.
+181	Dia adalah mobil yang melakukan crash test paling banyak untuk memastikan keselamatannya. Karena dia mobil pelagin hybrid, dia gak cuma bisa isi bensin aja tapi juga bisa di charge dengan DC charging yang chargingnya bisa secepat mobil listrik lainnya.
+182	Dia adalah mobil yang melakukan crash test paling banyak untuk memastikan keselamatannya. Karena dia mobil pelagin hybrid, dia gak cuma bisa isi bensin aja tapi juga bisa di charge dengan DC charging yang chargingnya bisa secepat mobil listrik lainnya.
+183	Karena dia mobil pelagin hybrid, dia gak cuma bisa isi bensin aja tapi juga bisa di charge dengan DC charging yang chargingnya bisa secepat mobil listrik lainnya.
+184	Karena dia mobil pelagin hybrid, dia gak cuma bisa isi bensin aja tapi juga bisa di charge dengan DC charging yang chargingnya bisa secepat mobil listrik lainnya.
+185	Karena dia mobil pelagin hybrid, dia gak cuma bisa isi bensin aja tapi juga bisa di charge dengan DC charging yang chargingnya bisa secepat mobil listrik lainnya.
+186	Karena dia mobil pelagin hybrid, dia gak cuma bisa isi bensin aja tapi juga bisa di charge dengan DC charging yang chargingnya bisa secepat mobil listrik lainnya.
+187	Karena dia mobil pelagin hybrid, dia gak cuma bisa isi bensin aja tapi juga bisa di charge dengan DC charging yang chargingnya bisa secepat mobil listrik lainnya.
+188	Karena dia mobil pelagin hybrid, dia gak cuma bisa isi bensin aja tapi juga bisa di charge dengan DC charging yang chargingnya bisa secepat mobil listrik lainnya.
+189	Karena dia mobil pelagin hybrid, dia gak cuma bisa isi bensin aja tapi juga bisa di charge dengan DC charging yang chargingnya bisa secepat mobil listrik lainnya.
+190	Karena dia mobil pelagin hybrid, dia gak cuma bisa isi bensin aja tapi juga bisa di charge dengan DC charging yang chargingnya bisa secepat mobil listrik lainnya.
+191	Karena dia mobil pelagin hybrid, dia gak cuma bisa isi bensin aja tapi juga bisa di charge dengan DC charging yang chargingnya bisa secepat mobil listrik lainnya.
+192	Karena dia mobil pelagin hybrid, dia gak cuma bisa isi bensin aja tapi juga bisa di charge dengan DC charging yang chargingnya bisa secepat mobil listrik lainnya.
+193	Karena dia mobil pelagin hybrid, dia gak cuma bisa isi bensin aja tapi juga bisa di charge dengan DC charging yang chargingnya bisa secepat mobil listrik lainnya.
+194	Karena dia mobil pelagin hybrid, dia gak cuma bisa isi bensin aja tapi juga bisa di charge dengan DC charging yang chargingnya bisa secepat mobil listrik lainnya.
+195	Karena dia mobil pelagin hybrid, dia gak cuma bisa isi bensin aja tapi juga bisa di charge dengan DC charging yang chargingnya bisa secepat mobil listrik lainnya.
+196	Karena dia mobil pelagin hybrid, dia gak cuma bisa isi bensin aja tapi juga bisa di charge dengan DC charging yang chargingnya bisa secepat mobil listrik lainnya. Karena mobil ini dimensinya hampir 4,8 meter, bukan cuma muat 7 penumpang, tapi bagasi juga muat di belakang.
+197	Karena mobil ini dimensinya hampir 4,8 meter, bukan cuma muat 7 penumpang, tapi bagasi juga muat di belakang.
+198	Karena mobil ini dimensinya hampir 4,8 meter, bukan cuma muat 7 penumpang, tapi bagasi juga muat di belakang.
+199	Karena mobil ini dimensinya hampir 4,8 meter, bukan cuma muat 7 penumpang, tapi bagasi juga muat di belakang.
+200	Karena mobil ini dimensinya hampir 4,8 meter, bukan cuma muat 7 penumpang, tapi bagasi juga muat di belakang.
+201	Karena mobil ini dimensinya hampir 4,8 meter, bukan cuma muat 7 penumpang, tapi bagasi juga muat di belakang.
+202	Karena mobil ini dimensinya hampir 4,8 meter, bukan cuma muat 7 penumpang, tapi bagasi juga muat di belakang.
+203	Karena mobil ini dimensinya hampir 4,8 meter, bukan cuma muat 7 penumpang, tapi bagasi juga muat di belakang.
+204	Karena mobil ini dimensinya hampir 4,8 meter, bukan cuma muat 7 penumpang, tapi bagasi juga muat di belakang.
+205	Karena mobil ini dimensinya hampir 4,8 meter, bukan cuma muat 7 penumpang, tapi bagasi juga muat di belakang.
+206	Karena mobil ini dimensinya hampir 4,8 meter, bukan cuma muat 7 penumpang, tapi bagasi juga muat di belakang.
+207	Karena mobil ini dimensinya hampir 4,8 meter, bukan cuma muat 7 penumpang, tapi bagasi juga muat di belakang.
+208	Karena mobil ini dimensinya hampir 4,8 meter, bukan cuma muat 7 penumpang, tapi bagasi juga muat di belakang.
+209	[NO_SPEECH]
+210	[NO_SPEECH]
+211	[NO_SPEECH]
+212	[NO_SPEECH]
+213	[NO_SPEECH]
+214	[NO_SPEECH]
+215	[NO_SPEECH]
+216	[NO_SPEECH]
+217	[NO_SPEECH]
+218	[NO_SPEECH]
+219	[NO_SPEECH]
+220	[NO_SPEECH]

@@ -1,0 +1,65 @@
+0	Coba kamu bisa gak kukuruyuknya yang merdu gitu?
+1	Coba kamu bisa gak kukuruyuknya yang merdu gitu?
+2	Coba kamu bisa gak kukuruyuknya yang merdu gitu?
+3	Coba kamu bisa gak kukuruyuknya yang merdu gitu?
+4	Coba kamu bisa gak kukuruyuknya yang merdu gitu?
+5	Coba kamu bisa gak kukuruyuknya yang merdu gitu?
+6	Coba kamu bisa gak kukuruyuknya yang merdu gitu?
+7	[NO_SPEECH]
+8	[NO_SPEECH]
+9	[NO_SPEECH]
+10	[NO_SPEECH]
+11	[NO_SPEECH]
+12	[NO_SPEECH]
+13	[NO_SPEECH]
+14	[NO_SPEECH]
+15	[NO_SPEECH]
+16	[NO_SPEECH]
+17	[NO_SPEECH]
+18	[NO_SPEECH]
+19	[NO_SPEECH]
+20	[NO_SPEECH]
+21	[NO_SPEECH]
+22	Coba lagi.
+23	Coba lagi.
+24	Coba lagi.
+25	Coba lagi.
+26	[NO_SPEECH]
+27	[NO_SPEECH]
+28	[NO_SPEECH]
+29	Lagi.
+30	Lagi.
+31	Lagi.
+32	[NO_SPEECH]
+33	[NO_SPEECH]
+34	[NO_SPEECH]
+35	Asik!
+36	Asik!
+37	Asik! Sekali lagi.
+38	Asik! Sekali lagi.
+39	Sekali lagi.
+40	Sekali lagi.
+41	[NO_SPEECH]
+42	Asik!
+43	Asik!
+44	Asik! Sekali lagi.
+45	Asik! Sekali lagi.
+46	Sekali lagi.
+47	[NO_SPEECH]
+48	[NO_SPEECH]
+49	[NO_SPEECH]
+50	[NO_SPEECH]
+51	[NO_SPEECH]
+52	[NO_SPEECH]
+53	[NO_SPEECH]
+54	[NO_SPEECH]
+55	[NO_SPEECH]
+56	[NO_SPEECH]
+57	[NO_SPEECH]
+58	[NO_SPEECH]
+59	Mampus!
+60	Mampus!
+61	Mampus!
+62	Mampus!
+63	Mampus!
+64	[NO_SPEECH]

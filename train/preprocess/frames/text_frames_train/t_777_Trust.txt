@@ -1,0 +1,110 @@
+0	Boom! Vamos a know that you want it
+1	Boom! Vamos a know that you want it
+2	Boom! Vamos a know that you want it
+3	Boom! Vamos a know that you want it Boom! Love us we cannot stop
+4	Boom! Vamos a know that you want it Boom! Love us we cannot stop
+5	Boom! Love us we cannot stop
+6	Boom! Love us we cannot stop
+7	Boom! Love us we cannot stop On ten boom!
+8	Boom! Love us we cannot stop On ten boom!
+9	On ten boom! 라타타타 아마 메이킷
+10	라타타타 아마 메이킷
+11	라타타타 아마 메이킷
+12	라타타타 아마 메이킷 Boom! Boom!
+13	라타타타 아마 메이킷 Boom! Boom!
+14	Boom! Boom!
+15	Boom! Boom! Boom! Boom!
+16	Boom! Boom!
+17	Boom! Boom!
+18	Boom! Boom! Vamos a know that you want it
+19	Boom! Boom! Vamos a know that you want it
+20	Vamos a know that you want it
+21	Vamos a know that you want it
+22	Vamos a know that you want it Boom! Chaos we so catastrophic
+23	Vamos a know that you want it Boom! Chaos we so catastrophic
+24	Boom! Chaos we so catastrophic
+25	Boom! Chaos we so catastrophic Boom! 라타타타 아마 메이킷
+26	Boom! Chaos we so catastrophic Boom! 라타타타 아마 메이킷
+27	Boom! 라타타타 아마 메이킷
+28	Boom! 라타타타 아마 메이킷
+29	Boom! 라타타타 아마 메이킷
+30	Boom! 라타타타 아마 메이킷
+31	Boom! 라타타타 아마 메이킷 Boom! Boom!
+32	Boom! 라타타타 아마 메이킷 Boom! Boom!
+33	Boom! Boom!
+34	Boom! Boom! Boom! Boom!
+35	Boom! Boom!
+36	Boom! Boom!
+37	Boom! Boom! 클리셰팍의 자체가 더 클리셰
+38	클리셰팍의 자체가 더 클리셰
+39	클리셰팍의 자체가 더 클리셰
+40	클리셰팍의 자체가 더 클리셰 나의 단견은 전부 유지
+41	클리셰팍의 자체가 더 클리셰 나의 단견은 전부 유지
+42	나의 단견은 전부 유지
+43	나의 단견은 전부 유지
+44	나의 단견은 전부 유지
+45	나의 단견은 전부 유지 Rocking out on some not a change man
+46	나의 단견은 전부 유지 Rocking out on some not a change man
+47	Rocking out on some not a change man
+48	Rocking out on some not a change man
+49	Rocking out on some not a change man
+50	Rocking out on some not a change man 행보는 여전히 개다운 레벨
+51	Rocking out on some not a change man 행보는 여전히 개다운 레벨
+52	행보는 여전히 개다운 레벨
+53	행보는 여전히 개다운 레벨
+54	행보는 여전히 개다운 레벨 Let my day play
+55	행보는 여전히 개다운 레벨 Let my day play 옥표치한 바라식한 바라치
+56	Let my day play 옥표치한 바라식한 바라치
+57	옥표치한 바라식한 바라치
+58	옥표치한 바라식한 바라치
+59	옥표치한 바라식한 바라치
+60	옥표치한 바라식한 바라치
+61	옥표치한 바라식한 바라치 더 다다라치 I'm the owner of my girl
+62	옥표치한 바라식한 바라치 더 다다라치 I'm the owner of my girl
+63	더 다다라치 I'm the owner of my girl
+64	더 다다라치 I'm the owner of my girl
+65	더 다다라치 I'm the owner of my girl
+66	더 다다라치 I'm the owner of my girl
+67	더 다다라치 I'm the owner of my girl 진짜 만남 봉한 make it right
+68	더 다다라치 I'm the owner of my girl 진짜 만남 봉한 make it right
+69	진짜 만남 봉한 make it right
+70	진짜 만남 봉한 make it right
+71	진짜 만남 봉한 make it right 점점 쫓아 clear
+72	진짜 만남 봉한 make it right 점점 쫓아 clear
+73	점점 쫓아 clear
+74	점점 쫓아 clear
+75	정적을 깨버리치는 나의 trigger fire
+76	정적을 깨버리치는 나의 trigger fire
+77	정적을 깨버리치는 나의 trigger fire
+78	정적을 깨버리치는 나의 trigger fire
+79	정적을 깨버리치는 나의 trigger fire
+80	정적을 깨버리치는 나의 trigger fire
+81	정적을 깨버리치는 나의 trigger fire 첫 끝까지 관욕을 더 위로 올려
+82	정적을 깨버리치는 나의 trigger fire 첫 끝까지 관욕을 더 위로 올려
+83	첫 끝까지 관욕을 더 위로 올려
+84	첫 끝까지 관욕을 더 위로 올려
+85	첫 끝까지 관욕을 더 위로 올려
+86	첫 끝까지 관욕을 더 위로 올려
+87	첫 끝까지 관욕을 더 위로 올려
+88	첫 끝까지 관욕을 더 위로 올려
+89	첫 끝까지 관욕을 더 위로 올려
+90	첫 끝까지 관욕을 더 위로 올려 My amigo!
+91	첫 끝까지 관욕을 더 위로 올려 My amigo!
+92	My amigo!
+93	My amigo!
+94	Feeling on my truck can you want that ride?
+95	Feeling on my truck can you want that ride?
+96	Feeling on my truck can you want that ride?
+97	Feeling on my truck can you want that ride?
+98	Feeling on my truck can you want that ride?
+99	Feeling on my truck can you want that ride?
+100	Boom!
+101	Boom!
+102	Boom! Hit you like a truck come on make you fly
+103	Hit you like a truck come on make you fly
+104	Hit you like a truck come on make you fly
+105	Hit you like a truck come on make you fly
+106	Hit you like a truck come on make you fly
+107	Hit you like a truck come on make you fly
+108	Hit you like a truck come on make you fly
+109	[NO_SPEECH]

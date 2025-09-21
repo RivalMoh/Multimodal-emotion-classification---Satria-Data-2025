@@ -1,0 +1,192 @@
+0	Windows 10 ada di dalam MacBook gimana ceritanya tuh Bang selancar itu jadi Windows ini gua running
+1	Windows 10 ada di dalam MacBook gimana ceritanya tuh Bang selancar itu jadi Windows ini gua running
+2	Windows 10 ada di dalam MacBook gimana ceritanya tuh Bang selancar itu jadi Windows ini gua running
+3	Windows 10 ada di dalam MacBook gimana ceritanya tuh Bang selancar itu jadi Windows ini gua running
+4	Windows 10 ada di dalam MacBook gimana ceritanya tuh Bang selancar itu jadi Windows ini gua running
+5	Windows 10 ada di dalam MacBook gimana ceritanya tuh Bang selancar itu jadi Windows ini gua running
+6	Windows 10 ada di dalam MacBook gimana ceritanya tuh Bang selancar itu jadi Windows ini gua running
+7	Windows 10 ada di dalam MacBook gimana ceritanya tuh Bang selancar itu jadi Windows ini gua running
+8	Windows 10 ada di dalam MacBook gimana ceritanya tuh Bang selancar itu jadi Windows ini gua running
+9	Windows 10 ada di dalam MacBook gimana ceritanya tuh Bang selancar itu jadi Windows ini gua running
+10	Windows 10 ada di dalam MacBook gimana ceritanya tuh Bang selancar itu jadi Windows ini gua running di virtual machine yang gua jalankan di sebuah home server yang gue punya dengan spesifikasi
+11	Windows 10 ada di dalam MacBook gimana ceritanya tuh Bang selancar itu jadi Windows ini gua running di virtual machine yang gua jalankan di sebuah home server yang gue punya dengan spesifikasi
+12	di virtual machine yang gua jalankan di sebuah home server yang gue punya dengan spesifikasi
+13	di virtual machine yang gua jalankan di sebuah home server yang gue punya dengan spesifikasi
+14	di virtual machine yang gua jalankan di sebuah home server yang gue punya dengan spesifikasi
+15	di virtual machine yang gua jalankan di sebuah home server yang gue punya dengan spesifikasi
+16	di virtual machine yang gua jalankan di sebuah home server yang gue punya dengan spesifikasi
+17	di virtual machine yang gua jalankan di sebuah home server yang gue punya dengan spesifikasi
+18	di virtual machine yang gua jalankan di sebuah home server yang gue punya dengan spesifikasi
+19	di virtual machine yang gua jalankan di sebuah home server yang gue punya dengan spesifikasi kurang lebih CPU nya 16 core memorinya 32 GB storage nya 1 TB nah salah satu keuntungannya
+20	di virtual machine yang gua jalankan di sebuah home server yang gue punya dengan spesifikasi kurang lebih CPU nya 16 core memorinya 32 GB storage nya 1 TB nah salah satu keuntungannya
+21	kurang lebih CPU nya 16 core memorinya 32 GB storage nya 1 TB nah salah satu keuntungannya
+22	kurang lebih CPU nya 16 core memorinya 32 GB storage nya 1 TB nah salah satu keuntungannya
+23	kurang lebih CPU nya 16 core memorinya 32 GB storage nya 1 TB nah salah satu keuntungannya
+24	kurang lebih CPU nya 16 core memorinya 32 GB storage nya 1 TB nah salah satu keuntungannya
+25	kurang lebih CPU nya 16 core memorinya 32 GB storage nya 1 TB nah salah satu keuntungannya
+26	kurang lebih CPU nya 16 core memorinya 32 GB storage nya 1 TB nah salah satu keuntungannya
+27	kurang lebih CPU nya 16 core memorinya 32 GB storage nya 1 TB nah salah satu keuntungannya
+28	kurang lebih CPU nya 16 core memorinya 32 GB storage nya 1 TB nah salah satu keuntungannya
+29	kurang lebih CPU nya 16 core memorinya 32 GB storage nya 1 TB nah salah satu keuntungannya
+30	kurang lebih CPU nya 16 core memorinya 32 GB storage nya 1 TB nah salah satu keuntungannya
+31	kurang lebih CPU nya 16 core memorinya 32 GB storage nya 1 TB nah salah satu keuntungannya
+32	kurang lebih CPU nya 16 core memorinya 32 GB storage nya 1 TB nah salah satu keuntungannya adalah gua bisa ngasih spesifikasi ke Windows 10 nya terserah gua contoh disini CPU nya gua
+33	kurang lebih CPU nya 16 core memorinya 32 GB storage nya 1 TB nah salah satu keuntungannya adalah gua bisa ngasih spesifikasi ke Windows 10 nya terserah gua contoh disini CPU nya gua
+34	adalah gua bisa ngasih spesifikasi ke Windows 10 nya terserah gua contoh disini CPU nya gua
+35	adalah gua bisa ngasih spesifikasi ke Windows 10 nya terserah gua contoh disini CPU nya gua
+36	adalah gua bisa ngasih spesifikasi ke Windows 10 nya terserah gua contoh disini CPU nya gua
+37	adalah gua bisa ngasih spesifikasi ke Windows 10 nya terserah gua contoh disini CPU nya gua
+38	adalah gua bisa ngasih spesifikasi ke Windows 10 nya terserah gua contoh disini CPU nya gua
+39	adalah gua bisa ngasih spesifikasi ke Windows 10 nya terserah gua contoh disini CPU nya gua
+40	adalah gua bisa ngasih spesifikasi ke Windows 10 nya terserah gua contoh disini CPU nya gua
+41	adalah gua bisa ngasih spesifikasi ke Windows 10 nya terserah gua contoh disini CPU nya gua
+42	adalah gua bisa ngasih spesifikasi ke Windows 10 nya terserah gua contoh disini CPU nya gua
+43	adalah gua bisa ngasih spesifikasi ke Windows 10 nya terserah gua contoh disini CPU nya gua taruh di empat core aja virtual processor empat core terus GPU nya udah cloud juga RX 6700 XT
+44	adalah gua bisa ngasih spesifikasi ke Windows 10 nya terserah gua contoh disini CPU nya gua taruh di empat core aja virtual processor empat core terus GPU nya udah cloud juga RX 6700 XT
+45	taruh di empat core aja virtual processor empat core terus GPU nya udah cloud juga RX 6700 XT
+46	taruh di empat core aja virtual processor empat core terus GPU nya udah cloud juga RX 6700 XT
+47	taruh di empat core aja virtual processor empat core terus GPU nya udah cloud juga RX 6700 XT
+48	taruh di empat core aja virtual processor empat core terus GPU nya udah cloud juga RX 6700 XT
+49	taruh di empat core aja virtual processor empat core terus GPU nya udah cloud juga RX 6700 XT
+50	taruh di empat core aja virtual processor empat core terus GPU nya udah cloud juga RX 6700 XT
+51	taruh di empat core aja virtual processor empat core terus GPU nya udah cloud juga RX 6700 XT
+52	taruh di empat core aja virtual processor empat core terus GPU nya udah cloud juga RX 6700 XT
+53	taruh di empat core aja virtual processor empat core terus GPU nya udah cloud juga RX 6700 XT
+54	taruh di empat core aja virtual processor empat core terus GPU nya udah cloud juga RX 6700 XT
+55	taruh di empat core aja virtual processor empat core terus GPU nya udah cloud juga RX 6700 XT
+56	taruh di empat core aja virtual processor empat core terus GPU nya udah cloud juga RX 6700 XT
+57	taruh di empat core aja virtual processor empat core terus GPU nya udah cloud juga RX 6700 XT memorinya gua taruh 16 GB itu dibebankan dari sini ya jadi dari sini dilempar ke virtual machine
+58	taruh di empat core aja virtual processor empat core terus GPU nya udah cloud juga RX 6700 XT memorinya gua taruh 16 GB itu dibebankan dari sini ya jadi dari sini dilempar ke virtual machine
+59	memorinya gua taruh 16 GB itu dibebankan dari sini ya jadi dari sini dilempar ke virtual machine
+60	memorinya gua taruh 16 GB itu dibebankan dari sini ya jadi dari sini dilempar ke virtual machine
+61	memorinya gua taruh 16 GB itu dibebankan dari sini ya jadi dari sini dilempar ke virtual machine
+62	memorinya gua taruh 16 GB itu dibebankan dari sini ya jadi dari sini dilempar ke virtual machine
+63	memorinya gua taruh 16 GB itu dibebankan dari sini ya jadi dari sini dilempar ke virtual machine
+64	memorinya gua taruh 16 GB itu dibebankan dari sini ya jadi dari sini dilempar ke virtual machine
+65	memorinya gua taruh 16 GB itu dibebankan dari sini ya jadi dari sini dilempar ke virtual machine
+66	memorinya gua taruh 16 GB itu dibebankan dari sini ya jadi dari sini dilempar ke virtual machine
+67	memorinya gua taruh 16 GB itu dibebankan dari sini ya jadi dari sini dilempar ke virtual machine Windows 10 nya Oke sekarang kita bakal coba export aja videonya kita lihat performanya dan ya estimasi
+68	memorinya gua taruh 16 GB itu dibebankan dari sini ya jadi dari sini dilempar ke virtual machine Windows 10 nya Oke sekarang kita bakal coba export aja videonya kita lihat performanya dan ya estimasi
+69	Windows 10 nya Oke sekarang kita bakal coba export aja videonya kita lihat performanya dan ya estimasi
+70	Windows 10 nya Oke sekarang kita bakal coba export aja videonya kita lihat performanya dan ya estimasi
+71	Windows 10 nya Oke sekarang kita bakal coba export aja videonya kita lihat performanya dan ya estimasi
+72	Windows 10 nya Oke sekarang kita bakal coba export aja videonya kita lihat performanya dan ya estimasi
+73	Windows 10 nya Oke sekarang kita bakal coba export aja videonya kita lihat performanya dan ya estimasi
+74	Windows 10 nya Oke sekarang kita bakal coba export aja videonya kita lihat performanya dan ya estimasi
+75	Windows 10 nya Oke sekarang kita bakal coba export aja videonya kita lihat performanya dan ya estimasi
+76	Windows 10 nya Oke sekarang kita bakal coba export aja videonya kita lihat performanya dan ya estimasi
+77	Windows 10 nya Oke sekarang kita bakal coba export aja videonya kita lihat performanya dan ya estimasi
+78	Windows 10 nya Oke sekarang kita bakal coba export aja videonya kita lihat performanya dan ya estimasi
+79	Windows 10 nya Oke sekarang kita bakal coba export aja videonya kita lihat performanya dan ya estimasi
+80	Windows 10 nya Oke sekarang kita bakal coba export aja videonya kita lihat performanya dan ya estimasi
+81	Windows 10 nya Oke sekarang kita bakal coba export aja videonya kita lihat performanya dan ya estimasi
+82	Windows 10 nya Oke sekarang kita bakal coba export aja videonya kita lihat performanya dan ya estimasi
+83	Windows 10 nya Oke sekarang kita bakal coba export aja videonya kita lihat performanya dan ya estimasi
+84	Windows 10 nya Oke sekarang kita bakal coba export aja videonya kita lihat performanya dan ya estimasi
+85	Windows 10 nya Oke sekarang kita bakal coba export aja videonya kita lihat performanya dan ya estimasi berjalan dua menit akan kelar ini videonya di running di rdp MacBook dari MacBook maksud gua
+86	Windows 10 nya Oke sekarang kita bakal coba export aja videonya kita lihat performanya dan ya estimasi berjalan dua menit akan kelar ini videonya di running di rdp MacBook dari MacBook maksud gua
+87	berjalan dua menit akan kelar ini videonya di running di rdp MacBook dari MacBook maksud gua
+88	berjalan dua menit akan kelar ini videonya di running di rdp MacBook dari MacBook maksud gua
+89	berjalan dua menit akan kelar ini videonya di running di rdp MacBook dari MacBook maksud gua
+90	berjalan dua menit akan kelar ini videonya di running di rdp MacBook dari MacBook maksud gua
+91	berjalan dua menit akan kelar ini videonya di running di rdp MacBook dari MacBook maksud gua
+92	berjalan dua menit akan kelar ini videonya di running di rdp MacBook dari MacBook maksud gua
+93	berjalan dua menit akan kelar ini videonya di running di rdp MacBook dari MacBook maksud gua
+94	berjalan dua menit akan kelar ini videonya di running di rdp MacBook dari MacBook maksud gua
+95	berjalan dua menit akan kelar ini videonya di running di rdp MacBook dari MacBook maksud gua
+96	berjalan dua menit akan kelar ini videonya di running di rdp MacBook dari MacBook maksud gua
+97	berjalan dua menit akan kelar ini videonya di running di rdp MacBook dari MacBook maksud gua
+98	berjalan dua menit akan kelar ini videonya di running di rdp MacBook dari MacBook maksud gua CPU load di Windows nya 91% GPU load nya 10% an kurang lebih dan di home server yang utamanya itu
+99	berjalan dua menit akan kelar ini videonya di running di rdp MacBook dari MacBook maksud gua CPU load di Windows nya 91% GPU load nya 10% an kurang lebih dan di home server yang utamanya itu
+100	CPU load di Windows nya 91% GPU load nya 10% an kurang lebih dan di home server yang utamanya itu
+101	CPU load di Windows nya 91% GPU load nya 10% an kurang lebih dan di home server yang utamanya itu
+102	CPU load di Windows nya 91% GPU load nya 10% an kurang lebih dan di home server yang utamanya itu
+103	CPU load di Windows nya 91% GPU load nya 10% an kurang lebih dan di home server yang utamanya itu
+104	CPU load di Windows nya 91% GPU load nya 10% an kurang lebih dan di home server yang utamanya itu
+105	CPU load di Windows nya 91% GPU load nya 10% an kurang lebih dan di home server yang utamanya itu
+106	CPU load di Windows nya 91% GPU load nya 10% an kurang lebih dan di home server yang utamanya itu
+107	CPU load di Windows nya 91% GPU load nya 10% an kurang lebih dan di home server yang utamanya itu
+108	CPU load di Windows nya 91% GPU load nya 10% an kurang lebih dan di home server yang utamanya itu
+109	CPU load di Windows nya 91% GPU load nya 10% an kurang lebih dan di home server yang utamanya itu
+110	CPU load di Windows nya 91% GPU load nya 10% an kurang lebih dan di home server yang utamanya itu
+111	CPU load di Windows nya 91% GPU load nya 10% an kurang lebih dan di home server yang utamanya itu
+112	CPU load di Windows nya 91% GPU load nya 10% an kurang lebih dan di home server yang utamanya itu
+113	CPU load di Windows nya 91% GPU load nya 10% an kurang lebih dan di home server yang utamanya itu
+114	CPU load di Windows nya 91% GPU load nya 10% an kurang lebih dan di home server yang utamanya itu CPU cloud 24%
+115	CPU load di Windows nya 91% GPU load nya 10% an kurang lebih dan di home server yang utamanya itu CPU cloud 24%
+116	CPU cloud 24%
+117	CPU cloud 24% dan lain-lain kenapa 24% di home server Kenapa di Windows nya 90% karena seperti yang tadi di awal
+118	CPU cloud 24% dan lain-lain kenapa 24% di home server Kenapa di Windows nya 90% karena seperti yang tadi di awal
+119	dan lain-lain kenapa 24% di home server Kenapa di Windows nya 90% karena seperti yang tadi di awal
+120	dan lain-lain kenapa 24% di home server Kenapa di Windows nya 90% karena seperti yang tadi di awal
+121	dan lain-lain kenapa 24% di home server Kenapa di Windows nya 90% karena seperti yang tadi di awal
+122	dan lain-lain kenapa 24% di home server Kenapa di Windows nya 90% karena seperti yang tadi di awal
+123	dan lain-lain kenapa 24% di home server Kenapa di Windows nya 90% karena seperti yang tadi di awal
+124	dan lain-lain kenapa 24% di home server Kenapa di Windows nya 90% karena seperti yang tadi di awal
+125	dan lain-lain kenapa 24% di home server Kenapa di Windows nya 90% karena seperti yang tadi di awal
+126	dan lain-lain kenapa 24% di home server Kenapa di Windows nya 90% karena seperti yang tadi di awal
+127	dan lain-lain kenapa 24% di home server Kenapa di Windows nya 90% karena seperti yang tadi di awal
+128	dan lain-lain kenapa 24% di home server Kenapa di Windows nya 90% karena seperti yang tadi di awal
+129	dan lain-lain kenapa 24% di home server Kenapa di Windows nya 90% karena seperti yang tadi di awal gua bilang dari sini gua pecah lagi ke masing-masing virtual machine yang gua punya spesifikasinya jadi
+130	dan lain-lain kenapa 24% di home server Kenapa di Windows nya 90% karena seperti yang tadi di awal gua bilang dari sini gua pecah lagi ke masing-masing virtual machine yang gua punya spesifikasinya jadi
+131	gua bilang dari sini gua pecah lagi ke masing-masing virtual machine yang gua punya spesifikasinya jadi
+132	gua bilang dari sini gua pecah lagi ke masing-masing virtual machine yang gua punya spesifikasinya jadi
+133	gua bilang dari sini gua pecah lagi ke masing-masing virtual machine yang gua punya spesifikasinya jadi
+134	gua bilang dari sini gua pecah lagi ke masing-masing virtual machine yang gua punya spesifikasinya jadi
+135	gua bilang dari sini gua pecah lagi ke masing-masing virtual machine yang gua punya spesifikasinya jadi
+136	gua bilang dari sini gua pecah lagi ke masing-masing virtual machine yang gua punya spesifikasinya jadi
+137	gua bilang dari sini gua pecah lagi ke masing-masing virtual machine yang gua punya spesifikasinya jadi
+138	gua bilang dari sini gua pecah lagi ke masing-masing virtual machine yang gua punya spesifikasinya jadi
+139	gua bilang dari sini gua pecah lagi ke masing-masing virtual machine yang gua punya spesifikasinya jadi
+140	gua bilang dari sini gua pecah lagi ke masing-masing virtual machine yang gua punya spesifikasinya jadi dia running segitu dan semua sudah turun Oke beres kita bakal coba cek langsung hasilnya di sini nggak
+141	gua bilang dari sini gua pecah lagi ke masing-masing virtual machine yang gua punya spesifikasinya jadi dia running segitu dan semua sudah turun Oke beres kita bakal coba cek langsung hasilnya di sini nggak
+142	dia running segitu dan semua sudah turun Oke beres kita bakal coba cek langsung hasilnya di sini nggak
+143	dia running segitu dan semua sudah turun Oke beres kita bakal coba cek langsung hasilnya di sini nggak
+144	dia running segitu dan semua sudah turun Oke beres kita bakal coba cek langsung hasilnya di sini nggak
+145	dia running segitu dan semua sudah turun Oke beres kita bakal coba cek langsung hasilnya di sini nggak
+146	dia running segitu dan semua sudah turun Oke beres kita bakal coba cek langsung hasilnya di sini nggak
+147	dia running segitu dan semua sudah turun Oke beres kita bakal coba cek langsung hasilnya di sini nggak
+148	dia running segitu dan semua sudah turun Oke beres kita bakal coba cek langsung hasilnya di sini nggak
+149	dia running segitu dan semua sudah turun Oke beres kita bakal coba cek langsung hasilnya di sini nggak
+150	dia running segitu dan semua sudah turun Oke beres kita bakal coba cek langsung hasilnya di sini nggak
+151	dia running segitu dan semua sudah turun Oke beres kita bakal coba cek langsung hasilnya di sini nggak
+152	dia running segitu dan semua sudah turun Oke beres kita bakal coba cek langsung hasilnya di sini nggak
+153	dia running segitu dan semua sudah turun Oke beres kita bakal coba cek langsung hasilnya di sini nggak
+154	dia running segitu dan semua sudah turun Oke beres kita bakal coba cek langsung hasilnya di sini nggak ngelag ya guys ini gua udah coba berkali-kali render dan harusnya sih aman-aman Wow soundnya
+155	dia running segitu dan semua sudah turun Oke beres kita bakal coba cek langsung hasilnya di sini nggak ngelag ya guys ini gua udah coba berkali-kali render dan harusnya sih aman-aman Wow soundnya
+156	ngelag ya guys ini gua udah coba berkali-kali render dan harusnya sih aman-aman Wow soundnya
+157	ngelag ya guys ini gua udah coba berkali-kali render dan harusnya sih aman-aman Wow soundnya
+158	ngelag ya guys ini gua udah coba berkali-kali render dan harusnya sih aman-aman Wow soundnya
+159	ngelag ya guys ini gua udah coba berkali-kali render dan harusnya sih aman-aman Wow soundnya
+160	ngelag ya guys ini gua udah coba berkali-kali render dan harusnya sih aman-aman Wow soundnya
+161	ngelag ya guys ini gua udah coba berkali-kali render dan harusnya sih aman-aman Wow soundnya
+162	ngelag ya guys ini gua udah coba berkali-kali render dan harusnya sih aman-aman Wow soundnya
+163	ngelag ya guys ini gua udah coba berkali-kali render dan harusnya sih aman-aman Wow soundnya
+164	ngelag ya guys ini gua udah coba berkali-kali render dan harusnya sih aman-aman Wow soundnya
+165	ngelag ya guys ini gua udah coba berkali-kali render dan harusnya sih aman-aman Wow soundnya
+166	ngelag ya guys ini gua udah coba berkali-kali render dan harusnya sih aman-aman Wow soundnya
+167	ngelag ya guys ini gua udah coba berkali-kali render dan harusnya sih aman-aman Wow soundnya aman juga ke detect semuanya aman bahkan lancar kayak nggak ada masalah aja gitu ya jadi kita bisa
+168	ngelag ya guys ini gua udah coba berkali-kali render dan harusnya sih aman-aman Wow soundnya aman juga ke detect semuanya aman bahkan lancar kayak nggak ada masalah aja gitu ya jadi kita bisa
+169	aman juga ke detect semuanya aman bahkan lancar kayak nggak ada masalah aja gitu ya jadi kita bisa
+170	aman juga ke detect semuanya aman bahkan lancar kayak nggak ada masalah aja gitu ya jadi kita bisa
+171	aman juga ke detect semuanya aman bahkan lancar kayak nggak ada masalah aja gitu ya jadi kita bisa
+172	aman juga ke detect semuanya aman bahkan lancar kayak nggak ada masalah aja gitu ya jadi kita bisa
+173	aman juga ke detect semuanya aman bahkan lancar kayak nggak ada masalah aja gitu ya jadi kita bisa
+174	aman juga ke detect semuanya aman bahkan lancar kayak nggak ada masalah aja gitu ya jadi kita bisa
+175	aman juga ke detect semuanya aman bahkan lancar kayak nggak ada masalah aja gitu ya jadi kita bisa
+176	aman juga ke detect semuanya aman bahkan lancar kayak nggak ada masalah aja gitu ya jadi kita bisa
+177	aman juga ke detect semuanya aman bahkan lancar kayak nggak ada masalah aja gitu ya jadi kita bisa  begitu normal ya that's good lah seperti biasa harus refresh-refresh kalau di Windows biar lebih
+178	aman juga ke detect semuanya aman bahkan lancar kayak nggak ada masalah aja gitu ya jadi kita bisa  begitu normal ya that's good lah seperti biasa harus refresh-refresh kalau di Windows biar lebih
+179	begitu normal ya that's good lah seperti biasa harus refresh-refresh kalau di Windows biar lebih
+180	begitu normal ya that's good lah seperti biasa harus refresh-refresh kalau di Windows biar lebih
+181	begitu normal ya that's good lah seperti biasa harus refresh-refresh kalau di Windows biar lebih
+182	begitu normal ya that's good lah seperti biasa harus refresh-refresh kalau di Windows biar lebih
+183	begitu normal ya that's good lah seperti biasa harus refresh-refresh kalau di Windows biar lebih
+184	begitu normal ya that's good lah seperti biasa harus refresh-refresh kalau di Windows biar lebih
+185	begitu normal ya that's good lah seperti biasa harus refresh-refresh kalau di Windows biar lebih
+186	begitu normal ya that's good lah seperti biasa harus refresh-refresh kalau di Windows biar lebih
+187	begitu normal ya that's good lah seperti biasa harus refresh-refresh kalau di Windows biar lebih sahdu ah
+188	begitu normal ya that's good lah seperti biasa harus refresh-refresh kalau di Windows biar lebih sahdu ah
+189	begitu normal ya that's good lah seperti biasa harus refresh-refresh kalau di Windows biar lebih sahdu ah
+190	sahdu ah
+191	[NO_SPEECH]

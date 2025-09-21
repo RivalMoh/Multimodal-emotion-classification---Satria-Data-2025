@@ -1,0 +1,153 @@
+0	Aku ada anak cowok, 2,5 tahun, dan pengen ajak dia eksperimen sains yang visualnya keren.
+1	Aku ada anak cowok, 2,5 tahun, dan pengen ajak dia eksperimen sains yang visualnya keren.
+2	Aku ada anak cowok, 2,5 tahun, dan pengen ajak dia eksperimen sains yang visualnya keren.
+3	Aku ada anak cowok, 2,5 tahun, dan pengen ajak dia eksperimen sains yang visualnya keren.
+4	Aku ada anak cowok, 2,5 tahun, dan pengen ajak dia eksperimen sains yang visualnya keren.
+5	Aku ada anak cowok, 2,5 tahun, dan pengen ajak dia eksperimen sains yang visualnya keren.
+6	Aku ada anak cowok, 2,5 tahun, dan pengen ajak dia eksperimen sains yang visualnya keren.
+7	Aku ada anak cowok, 2,5 tahun, dan pengen ajak dia eksperimen sains yang visualnya keren.
+8	Aku ada anak cowok, 2,5 tahun, dan pengen ajak dia eksperimen sains yang visualnya keren.
+9	Aku ada anak cowok, 2,5 tahun, dan pengen ajak dia eksperimen sains yang visualnya keren.
+10	Aku ada anak cowok, 2,5 tahun, dan pengen ajak dia eksperimen sains yang visualnya keren.
+11	Aku ada anak cowok, 2,5 tahun, dan pengen ajak dia eksperimen sains yang visualnya keren.
+12	Aku ada anak cowok, 2,5 tahun, dan pengen ajak dia eksperimen sains yang visualnya keren. Ada saran nggak?
+13	Aku ada anak cowok, 2,5 tahun, dan pengen ajak dia eksperimen sains yang visualnya keren. Ada saran nggak?
+14	Ada saran nggak?
+15	Ada saran nggak?
+16	Kamu bisa ajak dia bikin letusan gunung berapi dari campuran baking soda dan cuka.
+17	Kamu bisa ajak dia bikin letusan gunung berapi dari campuran baking soda dan cuka.
+18	Kamu bisa ajak dia bikin letusan gunung berapi dari campuran baking soda dan cuka.
+19	Kamu bisa ajak dia bikin letusan gunung berapi dari campuran baking soda dan cuka.
+20	Kamu bisa ajak dia bikin letusan gunung berapi dari campuran baking soda dan cuka.
+21	Kamu bisa ajak dia bikin letusan gunung berapi dari campuran baking soda dan cuka.
+22	Kamu bisa ajak dia bikin letusan gunung berapi dari campuran baking soda dan cuka.
+23	Kamu bisa ajak dia bikin letusan gunung berapi dari campuran baking soda dan cuka.
+24	Kamu bisa ajak dia bikin letusan gunung berapi dari campuran baking soda dan cuka.
+25	Kamu bisa ajak dia bikin letusan gunung berapi dari campuran baking soda dan cuka. Letusan gunung berapi kayaknya asik tuh.
+26	Kamu bisa ajak dia bikin letusan gunung berapi dari campuran baking soda dan cuka. Letusan gunung berapi kayaknya asik tuh.
+27	Letusan gunung berapi kayaknya asik tuh.
+28	Letusan gunung berapi kayaknya asik tuh.
+29	Letusan gunung berapi kayaknya asik tuh. Bahannya apa aja dan cara bikinnya gimana?
+30	Letusan gunung berapi kayaknya asik tuh. Bahannya apa aja dan cara bikinnya gimana?
+31	Bahannya apa aja dan cara bikinnya gimana?
+32	Bahannya apa aja dan cara bikinnya gimana?
+33	Bahannya apa aja dan cara bikinnya gimana?
+34	Bahannya apa aja dan cara bikinnya gimana?
+35	Bahannya apa aja dan cara bikinnya gimana? Ini bahan dan cara membuatnya.
+36	Bahannya apa aja dan cara bikinnya gimana? Ini bahan dan cara membuatnya.
+37	Ini bahan dan cara membuatnya.
+38	Ini bahan dan cara membuatnya.
+39	Ini bahan dan cara membuatnya. Bahan.
+40	Ini bahan dan cara membuatnya. Bahan. Baking soda.
+41	Bahan. Baking soda.
+42	Baking soda.
+43	Baking soda. Cuka.
+44	Cuka.
+45	Cuka. Pewarna makanan merah atau oranye.
+46	Pewarna makanan merah atau oranye.
+47	Pewarna makanan merah atau oranye.
+48	Pewarna makanan merah atau oranye.
+49	Pewarna makanan merah atau oranye. Botol plastik kecil.
+50	Pewarna makanan merah atau oranye. Botol plastik kecil.
+51	Botol plastik kecil.
+52	Botol plastik kecil.
+53	Botol plastik kecil.
+54	Pakah!
+55	Pakah! Pakah! Main yuk!
+56	Pakah! Pakah! Main yuk!
+57	Main yuk! Main, main!
+58	Main yuk! Main, main! Pasir!
+59	Main, main! Pasir! Kita tuang pasir mau.
+60	Pasir! Kita tuang pasir mau.
+61	Kita tuang pasir mau.
+62	Kita tuang pasir mau.
+63	Kita tuang pasir mau. Oh!
+64	Oh!
+65	Oh!
+66	Tuang, tuang.
+67	Tuang, tuang.
+68	Tuang, tuang. Wah, miring.
+69	Tuang, tuang. Wah, miring. Ini aja miring.
+70	Wah, miring. Ini aja miring.
+71	Ini aja miring.
+72	Ini aja miring. Wah!
+73	Wah!
+74	Wah!
+75	Yang terakhir.
+76	Yang terakhir.
+77	Yang terakhir.
+78	Yang terakhir.
+79	[NO_SPEECH]
+80	[NO_SPEECH]
+81	[NO_SPEECH]
+82	Ini botol kita masukin cuka.
+83	Ini botol kita masukin cuka.
+84	Ini botol kita masukin cuka.
+85	Ini botol kita masukin cuka.
+86	Ini botol kita masukin cuka.
+87	Ini botol kita masukin cuka.
+88	Ini botol kita masukin cuka. Pakah mau merah atau ungu?
+89	Ini botol kita masukin cuka. Pakah mau merah atau ungu?
+90	Pakah mau merah atau ungu?
+91	Pakah mau merah atau ungu? Merah. Merah, oke.
+92	Merah. Merah, oke.
+93	Merah, oke.
+94	Merah, oke. Pencet.
+95	Pencet. Nah!
+96	Pencet. Nah!
+97	Nah! Kita tuang berdua ya.
+98	Kita tuang berdua ya.
+99	Kita tuang berdua ya.
+100	Kita tuang berdua ya.
+101	Kita tuang berdua ya. Pakah pegang ya.
+102	Kita tuang berdua ya. Pakah pegang ya.
+103	Pakah pegang ya. Wah!
+104	Pakah pegang ya. Wah!
+105	Wah!
+106	Wah!
+107	Huh!
+108	Huh! Luh!
+109	Luh!
+110	Luh!
+111	Luh!
+112	Gunungnya.
+113	Gunungnya. Keluar apa?
+114	Gunungnya. Keluar apa?
+115	Keluar apa? Luh.
+116	Keluar apa? Luh.
+117	Tunggu.
+118	Tunggu.
+119	Tunggu. Tunggu, Efna lihat.
+120	Tunggu, Efna lihat.
+121	Tunggu, Efna lihat.
+122	[NO_SPEECH]
+123	Efna mau coba.
+124	Efna mau coba.
+125	Efna mau coba.
+126	Efna mau coba.
+127	[NO_SPEECH]
+128	[NO_SPEECH]
+129	Wow!
+130	Wow!
+131	Wow!
+132	[NO_SPEECH]
+133	[NO_SPEECH]
+134	[NO_SPEECH]
+135	[NO_SPEECH]
+136	Habis!
+137	Habis!
+138	Habis! He commit!
+139	Habis! He commit!
+140	He commit!
+141	He commit! Wow, ternyata bisa gitu ya.
+142	Wow, ternyata bisa gitu ya.
+143	Wow, ternyata bisa gitu ya.
+144	Wow, ternyata bisa gitu ya. Thanks, Gemini.
+145	Wow, ternyata bisa gitu ya. Thanks, Gemini.
+146	Thanks, Gemini. Sama-sama.
+147	Thanks, Gemini. Sama-sama. Senang bisa membantu.
+148	Sama-sama. Senang bisa membantu.
+149	Senang bisa membantu.
+150	Senang bisa membantu.
+151	Senang bisa membantu.
+152	[NO_SPEECH]
